@@ -1,5 +1,3 @@
-###DEC-055350-0-000-31-12-1964@@@
-
 decreto nº 55.350, de 31 de dezembro de 1964.
 
 Autoriza a Companhia de Mineração São Mateus a pesquisar calcário e quartzito no município de Itapeva, Estado de São Paulo.

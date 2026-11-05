@@ -1,5 +1,3 @@
-###DEC-054402-0-000-10-10-1964@@@
-
 DECRETO Nº 54.402, DE 10 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Garibaldi de Oliveira Lopes a lavrar mármore, no município de Bonsucesso, Estado de Minas Gerais.

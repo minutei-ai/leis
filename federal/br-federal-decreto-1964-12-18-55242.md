@@ -1,5 +1,3 @@
-###DEC-055242-0-000-18-12-1964@@@
-
 DECRETO Nº 55.242, DE 18 DE DEZEMBRO DE 1964.
 
 Reestrutura o Conselho Nacional de Saúde.
@@ -93,8 +91,6 @@ Brasília, 18 de dezembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Raymundo de Brito
-
-###DEC-055242-0-000-18-12-1964@@@RET01+++
 
 DECRETO Nº 55.242, DE 18 DE DEzEMBRO DE 1964.
 

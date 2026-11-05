@@ -1,6 +1,10 @@
 > **LEI Nº 4.054, DE 07 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública a Associação Centro de Treinamento Valter Combate.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública a Associação Centro de Treinamento Valter Combate.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

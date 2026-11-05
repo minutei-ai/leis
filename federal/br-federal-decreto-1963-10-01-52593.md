@@ -1,5 +1,3 @@
-###DEC-052593-0-000-01-10-1963@@@
-
 DECRETO Nº 52.593, DE 1 DE OUTUBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Alto-Longá, Estado do Piauí, concessão para distribuir energia elétrica no município.

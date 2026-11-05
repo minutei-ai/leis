@@ -1,5 +1,3 @@
-###DEC-046438-0-000-16-07-1959@@@
-
 DECRETO Nº 46.438, DE 16 DE JULHO DE 1959.
 
 Cria o Conselho Nacional do Cooperativismo.

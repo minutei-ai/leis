@@ -1,5 +1,3 @@
-###DEC-094383-0-000-28-05-1987@@@
-
 DECRETO Nº 94.383, DE 28 DE MAIO DE 1987.
 
 Altera dispositivo do Decreto nº 70.951, de 9 de agosto de 1972.

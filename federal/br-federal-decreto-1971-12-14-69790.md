@@ -1,5 +1,3 @@
-###DEC-069790-0-000-14-12-1971@@@
-
 DECRETO Nº 69.790 - DE 14 DE DEZEMBRO DE 1971.
 
 Retifica o Decreto nº 68.749, de 15 de junho de 1971, que redistribuiu cargo do Ministério da Agricultura para a Universidade Federal do Rio de Janeiro.

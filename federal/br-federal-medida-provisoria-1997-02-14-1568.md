@@ -1,5 +1,3 @@
-###MPV-001568-0-000-14-02-1997@@@
-
 # MEDIDA PROVISóRIA Nº 1.568 DE 14 DE FEVEREIRO DE 1997
 
 Transforma o Instituto Nacional de Estudos e Pesquisas Educacionais - INEP em Autarquia Federal, e dá outras providências.

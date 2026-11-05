@@ -1,5 +1,3 @@
-###DEC-051958-0-000-26-04-1963@@@
-
 Decreto nº 51.958, de 26 de abril de 1963.
 
 Retifica e altera o Decreto nº38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

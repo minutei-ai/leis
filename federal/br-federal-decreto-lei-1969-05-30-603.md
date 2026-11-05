@@ -1,5 +1,3 @@
-###DEL-000603-0-000-30-05-1969@@@
-
 DEcreto-lei 603, de 30 maio de 1969
 
 Altera dispositivos do decreto-lei nº 43, de 18 de novembro de 1966, e dá outras providências.

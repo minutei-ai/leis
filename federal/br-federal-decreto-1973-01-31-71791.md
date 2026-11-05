@@ -1,5 +1,3 @@
-###DEC-071791-0-000-31-01-1973@@@
-
 DECRETO Nº 71.791, de 31 de janeiro de 1973.
 
 Dispõe sobre zonas prioritárias para o desenvolvimento do turismo e dá outras providências.

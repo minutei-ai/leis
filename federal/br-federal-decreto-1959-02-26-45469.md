@@ -1,5 +1,3 @@
-###DEC-045469-0-000-26-02-1959@@@
-
 DECRETO Nº 45.469, DE 26 DE FEVEREIRO DE 1959.
 
 Transfere sem aumento de despesa função de Tabela Numérica Especial de Extranumerário-Mensalista do Ministério da Agricultura.

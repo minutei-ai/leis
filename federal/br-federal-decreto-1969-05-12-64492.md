@@ -1,5 +1,3 @@
-###DEC-064492-0-000-12-05-1969@@@
-
 DECRETO Nº 64.492, DE 12 DE MAIO DE 1969.
 
 Cria o Instituto de Pesquisas e Experimentação Agropecuárias da Amazônia Ocidental, e dá outras providências.

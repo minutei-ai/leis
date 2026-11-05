@@ -1,5 +1,3 @@
-###DEC-006040-0-000-07-02-2007@@@
-
 DECRETO Nº 6.040, DE 7 DE FEVEREIRO DE 2007.
 
 Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais.
@@ -28,11 +26,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Patrus Ananias
 
-Marina Silva
-
-Este texto não substitui o publicado no DOU de 8.2.2007.
-
-ANEXO
+Marina SilvaANEXO
 
 POLÍTICA NACIONAL DE DESENVOLVIMENTO
 

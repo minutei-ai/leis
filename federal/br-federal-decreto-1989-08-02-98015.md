@@ -1,7 +1,3 @@
-1
-
-###DEC-098015-0-000-02-08-1989@@@
-
 DECRETO Nº 98.015, DE 2 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA TROPICÁLIA”, situado no Município de Tomé‑Açu, Estado do Pará, e dá outras providências.

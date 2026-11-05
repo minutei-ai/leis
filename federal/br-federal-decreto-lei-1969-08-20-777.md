@@ -1,7 +1,3 @@
-1
-
-###DEL-000777-0-000-20-08-1969@@@
-
 DECRETO-LEI Nº 777, DE 20 DE AGÔSTO DE 1969
 
 Dispõe sôbre a instituição da Fundação Museu do Café e dá outras providências.
@@ -49,8 +45,6 @@ A. CosTA E SiLvA
 Edmundo de Macedo Soares
 
 Hélio Beltrão
-
-###DEL-000777-0-000-20-08-1969@@@RET01+++
 
 Decreto-lEi nº 777, de 20 dE Agôsto De 1969
 

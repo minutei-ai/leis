@@ -1,5 +1,3 @@
-###DEC-087149-0-000-04-05-1982@@@
-
 decreto nº 87.149, de 04 de maio de 1982.
 
 Altera dispositivos do Decreto nº 80.965, de 07 de dezembro de 1977, que extingue, no Ministério da Aeronáutica, a Diretoria de Documentação e Histórico, cria o Centro de Documentação e Histórico da Aeronáutica e dá outras providências.

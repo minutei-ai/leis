@@ -1,5 +1,3 @@
-###DEL-009209-0-000-29-04-1946@@@
-
 DECRETO-LEI N. 9.209 – DE 29 DE ABRIL DE 1946
 
 Dispõe sôbre a filiação do pessoal assalariado, diarista e mensalista dos serviços Estaduais e Prefeituras Municipais, pelas Caixas de Aposentadoria e Pensões.

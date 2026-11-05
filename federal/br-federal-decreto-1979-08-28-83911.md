@@ -1,5 +1,3 @@
-###DEC-083911-0-000-28-08-1979@@@
-
 Decreto nº 83.911, de 28 de agosto de 1979.
 
 Autoriza o funcionamento da habilitação em Português e Literaturas da Língua Portuguesa do curso de Letras da Faculdade de Ciências Humanas de Olinda, com sede na cidade de Olinda, Estado de Pernambuco.

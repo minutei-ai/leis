@@ -1,4 +1,5 @@
-DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
+DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021
+
 \- [Revogado tacitamente pelo Decreto nº 9.960, de 30-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960).
 
 ~~Dispõe sobre as medidas a serem adotadas no Estado de Goiás em razão da disseminação do novo coronavírus (COVID-19).~~
@@ -7,19 +8,22 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~**DECRETA:**~~
 
-~~Art. 1º Fica reiterada a situação de emergência na saúde pública no Estado de Goiás até 30 de setembro de 2021, tendo em vista a declaração de Emergência em Saúde Pública de Importância Nacional – ESPIN, decorrente da COVID-19, nos termos da Portaria nº 188, de 3 de fevereiro de 2020, do Ministro de Estado da Saúde.~~<br>
+~~Art. 1º Fica reiterada a situação de emergência na saúde pública no Estado de Goiás até 30 de setembro de 2021, tendo em vista a declaração de Emergência em Saúde Pública de Importância Nacional – ESPIN, decorrente da COVID-19, nos termos da Portaria nº 188, de 3 de fevereiro de 2020, do Ministro de Estado da Saúde.~~
+
 \- [Vide Decreto nº 9.960, de 30-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960).
 
 ~~Parágrafo único. O prazo estabelecido no _caput_ deste artigo poderá ser prorrogado em caso de comprovada necessidade, com a adoção de medidas de maior flexibilização ou restrição, conforme a avaliação de risco baseada nas ameaças (fatores externos) e vulnerabilidades (fatores internos) de cada local.~~
 
-~~Art. 2º Para o enfrentamento da emergência em saúde pública decorrente do novo coronavírus, as atividades econômicas observarão o disposto neste Decreto.~~<br>
- [- Redação dada pelo Decreto nº 9.854, de 29-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)<br>
+~~Art. 2º Para o enfrentamento da emergência em saúde pública decorrente do novo coronavírus, as atividades econômicas observarão o disposto neste Decreto.~~
+
+ [- Redação dada pelo Decreto nº 9.854, de 29-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~Art. 2º Para o enfrentamento da emergência em saúde pública decorrente do novo coronavírus, as atividades econômicas observarão as restrições estabelecidas por este decreto pelo prazo de 14 (catorze) dias, prorrogáveis ou não conforme parâmetros de análise epidemiológica e capacidade operacional de assistência.~~
 
 ~~Art. 3º Ficam suspensos:~~
 
-~~I – todos os eventos públicos e privados presenciais de qualquer natureza, inclusive reuniões, exceto eventos corporativos e desde que seja observada a determinação do § 15 do art. 5º deste Decreto;~~<br>
+~~I – todos os eventos públicos e privados presenciais de qualquer natureza, inclusive reuniões, exceto eventos corporativos e desde que seja observada a determinação do § 15 do art. 5º deste Decreto;~~
+
  [- Redação dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~I – todos os eventos públicos e privados de quaisquer natureza, desde que sejam presenciais, inclusive reuniões;~~
@@ -114,7 +118,8 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~XIX – implementar medidas para impedir a aglomeração desordenada de consumidores, usuários, funcionários e terceirizados, inclusive no ambiente externo próximo ao estabelecimento.~~
 
-~~§ 1º Os bares e os restaurantes, além dos protocolos específicos de biossegurança estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br/coronavirus](https://www.saude.go.gov.br/coronavirus) (protocolos de funcionamento de atividades), terão horário de funcionamento das 11 às 23 horas e a lotação máxima de 50% (cinquenta por cento) de sua capacidade de acomodação.~~<br>
+~~§ 1º Os bares e os restaurantes, além dos protocolos específicos de biossegurança estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br/coronavirus](https://www.saude.go.gov.br/coronavirus) (protocolos de funcionamento de atividades), terão horário de funcionamento das 11 às 23 horas e a lotação máxima de 50% (cinquenta por cento) de sua capacidade de acomodação.~~
+
  [- Redação dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~§ 1º Os bares e os restaurantes, além dos protocolos específicos de biossegurança estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br/coronavirus](https://www.saude.go.gov.br/coronavirus) (protocolos de funcionamento de atividades), deverão observar a lotação máxima de 50% (cinquenta por cento) de sua capacidade de acomodação.~~
@@ -137,12 +142,14 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~§ 10. Salões de beleza, barbearias, centros de estética, shoppings, galerias, centros comerciais, camelódromos e congêneres funcionarão com até 30% (trinta por cento) de sua capacidade total, além de observarem os protocolos de biossegurança estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br/coronavirus](https://www.saude.go.gov.br/coronavirus) (protocolos de funcionamento de atividades).~~
 
-~~§ 11. Os empregadores das obras da construção civil deverão fornecer transporte para os seus empregados que utilizam o sistema de transporte coletivo, excetuadas as obras relacionadas a energia elétrica, saneamento básico, hospitais, penitenciárias, sistema socioeducativo, infraestrutura do poder público e aquelas de interesse social.~~<br>
+~~§ 11. Os empregadores das obras da construção civil deverão fornecer transporte para os seus empregados que utilizam o sistema de transporte coletivo, excetuadas as obras relacionadas a energia elétrica, saneamento básico, hospitais, penitenciárias, sistema socioeducativo, infraestrutura do poder público e aquelas de interesse social.~~
+
  [- Redação dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~§ 11. As obras da construção civil, exceto aquelas relacionadas a energia elétrica, saneamento básico, hospitais, penitenciárias, sistema socioeducativo, infraestrutura do poder público e aquelas de interesse social, funcionarão pelo período máximo de um turno, com duração de até 8 (oito) horas, e os empregadores deverão fornecer transporte para aqueles trabalhadores que utilizam o sistema de transporte coletivo.~~
 
-~~§12. Os empregadores de estabelecimentos industriais deverão fornecer transporte para os seus empregados que utilizam o sistema de transporte coletivo.<br>
+~~§12. Os empregadores de estabelecimentos industriais deverão fornecer transporte para os seus empregados que utilizam o sistema de transporte coletivo.
+
 ~~ [- Redação dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~§ 12\. Os estabelecimentos industriais funcionarão pelo período máximo de 1 (um) turno, com duração de até 8 (oito) horas, e os empregadores deverão fornecer transporte para aqueles trabalhadores que utilizam o sistema de transporte coletivo.~~
@@ -151,88 +158,116 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~§ 14. As atividades presenciais de organizações religiosas observarão a lotação máxima de 30% (trinta por cento) das pessoas sentadas, além dos protocolos de biossegurança estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br/coronavirus](https://www.saude.go.gov.br/coronavirus) (protocolos de funcionamento de atividades).~~
 
-~~§ 15. Os eventos corporativos poderão ser realizados somente após deliberação da Secretaria de Estado da Saúde.~~<br>
+~~§ 15. Os eventos corporativos poderão ser realizados somente após deliberação da Secretaria de Estado da Saúde.~~
+
  [- Redação dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~Art. 6º As atividades comerciais funcionarão em turnos diários de até 6 (seis) horas.~~<br>
+~~Art. 6º As atividades comerciais funcionarão em turnos diários de até 6 (seis) horas.~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~Art. 7º Os horários de funcionamento das atividades econômicas, observados os turnos previstos por este Decreto, obedecerão às normas municipais.~~<br>
+~~Art. 7º Os horários de funcionamento das atividades econômicas, observados os turnos previstos por este Decreto, obedecerão às normas municipais.~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~Art. 8º As atividades econômicas, exceto as consideradas essenciais conforme o parágrafo único deste artigo, não funcionarão aos finais de semana.~~<br>
+~~Art. 8º As atividades econômicas, exceto as consideradas essenciais conforme o parágrafo único deste artigo, não funcionarão aos finais de semana.~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~Parágrafo único. Para este Decreto, são considerados essenciais:~~<br>
+~~Parágrafo único. Para este Decreto, são considerados essenciais:~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~I – farmácias, clínicas de vacinação, laboratórios de análises clínicas e estabelecimentos de saúde;~~<br>
+~~I – farmácias, clínicas de vacinação, laboratórios de análises clínicas e estabelecimentos de saúde;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~II – cemitérios e serviços funerários;~~<br>
+~~II – cemitérios e serviços funerários;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~III – distribuidores e revendedores de gás e postos de combustíveis;~~<br>
+~~III – distribuidores e revendedores de gás e postos de combustíveis;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~IV – supermercados e congêneres, sem a inclusão das lojas de conveniência, e somente podem ser comercializados bens essenciais, assim considerados os relacionados a alimentação e bebidas, saúde, limpeza e higiene da população, hipótese em que os produtos não– essenciais não poderão permanecer expostos à venda ou deverão ser identificados como vedados à venda presencial;~~<br>
+~~IV – supermercados e congêneres, sem a inclusão das lojas de conveniência, e somente podem ser comercializados bens essenciais, assim considerados os relacionados a alimentação e bebidas, saúde, limpeza e higiene da população, hipótese em que os produtos não– essenciais não poderão permanecer expostos à venda ou deverão ser identificados como vedados à venda presencial;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~V – hospitais veterinários e clínicas veterinárias;~~<br>
+~~V – hospitais veterinários e clínicas veterinárias;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~VI – produtores e/ou fornecedores de bens ou de serviços essenciais à saúde, à higiene e à alimentação;~~<br>
+~~VI – produtores e/ou fornecedores de bens ou de serviços essenciais à saúde, à higiene e à alimentação;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~VII – estabelecimentos industriais de fornecimento de insumos/produtos e prestação de serviços essenciais à manutenção da saúde ou da vida humana e animal;~~<br>
+~~VII – estabelecimentos industriais de fornecimento de insumos/produtos e prestação de serviços essenciais à manutenção da saúde ou da vida humana e animal;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~VIII – serviços de _call center_ restritos às áreas de segurança, alimentação, saúde e de utilidade pública;~~<br>
+~~VIII – serviços de _call center_ restritos às áreas de segurança, alimentação, saúde e de utilidade pública;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~IX – atividades econômicas de informação e comunicação;~~<br>
+~~IX – atividades econômicas de informação e comunicação;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~X – segurança privada;~~<br>
+~~X – segurança privada;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XI – empresas do sistema de transporte coletivo e privado, inclusive as empresas de aplicativos e as transportadoras;~~<br>
+~~XI – empresas do sistema de transporte coletivo e privado, inclusive as empresas de aplicativos e as transportadoras;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XII – empresas de saneamento, energia elétrica e telecomunicações;~~<br>
+~~XII – empresas de saneamento, energia elétrica e telecomunicações;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XIII – hotéis e correlatos, para abrigar aqueles que atuam na prestação de serviços públicos ou privados considerados essenciais ou para tratamento de saúde, e fica autorizado o uso dos restaurantes desses estabelecimentos exclusivamente pelos hóspedes referenciados;~~<br>
+~~XIII – hotéis e correlatos, para abrigar aqueles que atuam na prestação de serviços públicos ou privados considerados essenciais ou para tratamento de saúde, e fica autorizado o uso dos restaurantes desses estabelecimentos exclusivamente pelos hóspedes referenciados;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XIV – estabelecimentos que estejam produzindo, exclusivamente, equipamentos e insumos para o auxílio no combate à pandemia de COVID– 19;~~<br>
+~~XIV – estabelecimentos que estejam produzindo, exclusivamente, equipamentos e insumos para o auxílio no combate à pandemia de COVID– 19;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XV – assistência social e atendimento à população em estado de vulnerabilidade;~~<br>
+~~XV – assistência social e atendimento à população em estado de vulnerabilidade;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XVI – obras da construção civil de infraestrutura do poder público, de interesse social, penitenciárias e unidades do sistema socioeducativo, bem assim as relacionadas a energia elétrica e saneamento básico e as hospitalares;~~<br>
+~~XVI – obras da construção civil de infraestrutura do poder público, de interesse social, penitenciárias e unidades do sistema socioeducativo, bem assim as relacionadas a energia elétrica e saneamento básico e as hospitalares;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XVII – prestação de serviços emergenciais destinados à conservação do patrimônio;~~<br>
+~~XVII – prestação de serviços emergenciais destinados à conservação do patrimônio;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XVIII – desde que situados às margens de rodovias:~~<br>
+~~XVIII – desde que situados às margens de rodovias:~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~a) borracharias e oficinas mecânicas; e~~<br>
+~~a) borracharias e oficinas mecânicas; e~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~b) restaurantes e lanchonetes instalados em postos de combustíveis;~~<br>
+~~b) restaurantes e lanchonetes instalados em postos de combustíveis;~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XIX – transporte aéreo e rodoviário de cargas e passageiros, observados os protocolos estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br](https://www.saude.go.gov.br/);~~<br>
+~~XIX – transporte aéreo e rodoviário de cargas e passageiros, observados os protocolos estabelecidos pela Secretaria de Estado da Saúde e disponibilizados na página eletrônica [www.saude.go.gov.br](https://www.saude.go.gov.br/);~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XX – estágios, internatos e atividades laboratoriais da área da saúde; e~~<br>
+~~XX – estágios, internatos e atividades laboratoriais da área da saúde; e~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
-~~XXI – comercialização de gêneros alimentícios mediante entrega ( _delivery_) e _drive thru_.~~<br>
+~~XXI – comercialização de gêneros alimentícios mediante entrega ( _delivery_) e _drive thru_.~~
+
  [- Revogado pelo Decreto nº 9.854, de 28-04-2021, art 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~Art. 9º As empresas, bem como os concessionários e os permissionários do sistema de transporte coletivo, além dos operadores do sistema de mobilidade, devem realizar em todo o território do Estado de Goiás:~~
@@ -241,43 +276,56 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~II – o transporte coletivo intermunicipal de passageiros, público ou privado, sem exceder a capacidade de passageiros sentados.~~
 
-~~§ 1º No transporte coletivo urbano haverá prioridade para o embarque, nos horários de pico, dos trabalhadores empregados nas seguintes atividades:<br>
+~~§ 1º No transporte coletivo urbano haverá prioridade para o embarque, nos horários de pico, dos trabalhadores empregados nas seguintes atividades:
+
 ~~[\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908) [1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~I – farmácias, clínicas de vacinação, laboratórios de análises clínicas e estabelecimentos de saúde;~~<br>
+~~I – farmácias, clínicas de vacinação, laboratórios de análises clínicas e estabelecimentos de saúde;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~II – cemitérios e serviços funerários;~~<br>
+~~II – cemitérios e serviços funerários;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~III – supermercados e congêneres, sem a inclusão das lojas de conveniência;~~<br>
+~~III – supermercados e congêneres, sem a inclusão das lojas de conveniência;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~IV – hospitais veterinários e clínicas veterinárias;~~<br>
+~~IV – hospitais veterinários e clínicas veterinárias;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~V – produtores e/ou fornecedores de bens ou de serviços essenciais à saúde, à higiene e à alimentação;~~<br>
+~~V – produtores e/ou fornecedores de bens ou de serviços essenciais à saúde, à higiene e à alimentação;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~VI – estabelecimentos industriais de fornecimento de insumos/produtos e prestação de serviços essenciais à manutenção da saúde ou da vida humana e animal;~~<br>
+~~VI – estabelecimentos industriais de fornecimento de insumos/produtos e prestação de serviços essenciais à manutenção da saúde ou da vida humana e animal;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~VII – serviços de _call_ center restritos às áreas de segurança, alimentação, saúde e de utilidade pública;~~<br>
+~~VII – serviços de _call_ center restritos às áreas de segurança, alimentação, saúde e de utilidade pública;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~VIII – segurança pública e privada;~~<br>
+~~VIII – segurança pública e privada;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~IX – empresas de saneamento, energia elétrica e telecomunicações;~~<br>
+~~IX – empresas de saneamento, energia elétrica e telecomunicações;~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~X – estabelecimentos que estejam produzindo, exclusivamente, equipamentos e insumos para auxílio no combate à pandemia da COVID– 19; e~~<br>
+~~X – estabelecimentos que estejam produzindo, exclusivamente, equipamentos e insumos para auxílio no combate à pandemia da COVID– 19; e~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~XI – assistência social e atendimento à população em estado de vulnerabilidade.~~<br>
+~~XI – assistência social e atendimento à população em estado de vulnerabilidade.~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
-~~§ 2º As concessionárias do serviço público de transporte coletivo urbano adotarão as medidas necessárias para garantir o cumprimento do § 1º deste artigo, de acordo com atos normativos da CMTC, que estabelecerá o horário de pico conforme monitoramento do fluxo de passageiros.~~<br>
+~~§ 2º As concessionárias do serviço público de transporte coletivo urbano adotarão as medidas necessárias para garantir o cumprimento do § 1º deste artigo, de acordo com atos normativos da CMTC, que estabelecerá o horário de pico conforme monitoramento do fluxo de passageiros.~~
+
 [\- Revogado pelo Decreto nº 9.908, de 16-07-2021, art. 1º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104212/decreto-9908)
 
 ~~Art. 10. Sem prejuízo de todas as recomendações profiláticas e de isolamento social das autoridades públicas, fica determinado a toda a população, quando houver necessidade de sair de casa, a utilização de máscaras de proteção facial, confeccionadas de acordo com as orientações do Ministério da Saúde.~~
@@ -296,7 +344,8 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 
 ~~§ 2º O descumprimento das regras estabelecidas neste Decreto e nos protocolos específicos da Secretaria de Estado da Saúde poderá ensejar a aplicação das penalidades previstas no art. 161 da Lei nº [16.140](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86552/lei-16140), de 2 de outubro de 2007, e demais normas de regência, em especial multa, interdição do estabelecimento e cancelamento do alvará sanitário, além da aplicação das penas previstas no art. 268 do Decreto-Lei nº 2.848 (Código Penal), de 7 de dezembro de 1940.~~
 
-~~Art. 15. As condições previstas neste Decreto poderão ser revistas a qualquer momento, conforme parâmetros de análise epidemiológica, capacidade operacional de assistência ou risco da terceira onda da COVID-19.~~<br>
+~~Art. 15. As condições previstas neste Decreto poderão ser revistas a qualquer momento, conforme parâmetros de análise epidemiológica, capacidade operacional de assistência ou risco da terceira onda da COVID-19.~~
+
  [- Redação  dada pelo Decreto nº 9.854, de 28-04-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103947/decreto-9854)
 
 ~~Art. 15. As restrições de atividades previstas neste Decreto poderão ser revistas a qualquer momento, conforme a análise da evolução da situação epidemiológica.~~
@@ -308,8 +357,6 @@ DECRETO Nº 9.848, DE 13 DE ABRIL DE 2021<br>
 ~~Art. 17. Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 13 de abril de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

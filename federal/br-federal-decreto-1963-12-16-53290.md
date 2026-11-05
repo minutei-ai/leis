@@ -1,5 +1,3 @@
-###DEC-053290-0-000-16-12-1963@@@
-
 DECRETO Nº 53.290, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Leopoldo Gonçalves Guimarães Junior a pesquisar areia quartzosa no município de Queluz, Estado de São Paulo.

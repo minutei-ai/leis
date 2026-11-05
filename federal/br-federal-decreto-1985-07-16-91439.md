@@ -1,5 +1,3 @@
-###DEC-091439-0-000-16-07-1985@@@
-
 Decreto nº 91.439, de 16 de Julho de 1985
 
 Dispõe sobre a transferência da Central de Medicamentos (CEME), do Ministério da Previdência Assistência Social para o Ministério da Saúde, e dá outras providências.

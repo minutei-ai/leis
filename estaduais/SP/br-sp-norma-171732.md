@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/171732)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2013/compilacao-lei-15213-19.11.2013.html)
 
 # LEI N° 15.213, DE 19 DE NOVEMBRO DE 2013
@@ -7,10 +6,14 @@
 
 ### _Autoriza o Poder Executivo a contratar operações de crédito com instituições financeiras controladas pela União, instituições financeiras internacionais, organismos multilaterais de crédito, agências de fomento, bancos privados internacionais, dá providências correlatas e altera a Lei n° 14.790, de 25 de maio de 2012._
 
-O Governador do Estado de São Paulo:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1° -** Fica o Poder Executivo autorizado a contratar operações de crédito em moeda nacional e estrangeira, com instituições financeiras controladas pela União, instituições financeiras internacionais, organismos multilaterais e bilaterais de crédito, agências de fomento e bancos privados internacionais, cujos recursos serão aplicados, obrigatoriamente, na execução total ou parcial de qualquer dos seguintes projetos, vedada a sua utilização para custeio de despesas correntes, em consonância com o § 1° do artigo 35, da Lei Complementar Federal n° 101, de 4 de maio de 2000:<br>
-**I -** "Complexo Viário Polo Itaquera", a ser executado pela DERSA - Desenvolvimento Rodoviário S/A, até o valor de R$ 360.000.000,00 (trezentos e sessenta milhões de reais);<br>
+O Governador do Estado de São Paulo:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1° -** Fica o Poder Executivo autorizado a contratar operações de crédito em moeda nacional e estrangeira, com instituições financeiras controladas pela União, instituições financeiras internacionais, organismos multilaterais e bilaterais de crédito, agências de fomento e bancos privados internacionais, cujos recursos serão aplicados, obrigatoriamente, na execução total ou parcial de qualquer dos seguintes projetos, vedada a sua utilização para custeio de despesas correntes, em consonância com o § 1° do artigo 35, da Lei Complementar Federal n° 101, de 4 de maio de 2000:
+
+**I -** "Complexo Viário Polo Itaquera", a ser executado pela DERSA - Desenvolvimento Rodoviário S/A, até o valor de R$ 360.000.000,00 (trezentos e sessenta milhões de reais);
+
 **II -** "Programa de Transportes do Estado de São Paulo", a ser executado pelo DER - Departamento de Estradas de Rodagem, até o valor de R$ 800.000.000,00 (oitocentos milhões de reais);
 
 ~~**III -** "Implantação do Trecho Grajaú - Varginha da Linha 9 - Esmeralda", a ser executado pela Companhia Paulista de Trens Metropolitanos - CPTM, até o valor de R$ 550.000.000,00 (quinhentos e cinquenta milhões de reais);~~
@@ -19,9 +22,12 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<
 
 _\- Inciso III com redação dada pela [Lei n° 18.067, de 18/12/2024](https://www.al.sp.gov.br/norma/210397)._
 
-**IV -** "Aquisição de Trens para a Companhia Paulista de Trens Metropolitanos", até o valor equivalente a € 200.000.000,00 (duzentos milhões de euros), a ser executado pela mesma.<br>
-**§ 1° -** Os recursos provenientes das operações de crédito em moeda nacional, autorizadas no "caput" deste artigo, serão consignados, anualmente, como receita e despesa na Lei do Orçamento Anual - LOA, ou através de abertura de créditos suplementares ou especiais, abertos por decreto do Poder Executivo, consoante a presente autorização legislativa, na forma dos artigos 42 e 43, § 1°, inciso IV, da Lei federal n° 4.320, de 17 de março de 1964.<br>
-**§ 2° -** As operações de crédito com as instituições financeiras controladas pela União, autorizadas por esta lei, deverão ser contratadas para pagamento em moeda nacional, embora sujeitando-se à variação cambial, conforme previsto na Resolução CMN n° 3.844, de 24 de março de 2010.<br>
+**IV -** "Aquisição de Trens para a Companhia Paulista de Trens Metropolitanos", até o valor equivalente a € 200.000.000,00 (duzentos milhões de euros), a ser executado pela mesma.
+
+**§ 1° -** Os recursos provenientes das operações de crédito em moeda nacional, autorizadas no "caput" deste artigo, serão consignados, anualmente, como receita e despesa na Lei do Orçamento Anual - LOA, ou através de abertura de créditos suplementares ou especiais, abertos por decreto do Poder Executivo, consoante a presente autorização legislativa, na forma dos artigos 42 e 43, § 1°, inciso IV, da Lei federal n° 4.320, de 17 de março de 1964.
+
+**§ 2° -** As operações de crédito com as instituições financeiras controladas pela União, autorizadas por esta lei, deverão ser contratadas para pagamento em moeda nacional, embora sujeitando-se à variação cambial, conforme previsto na Resolução CMN n° 3.844, de 24 de março de 2010.
+
 **§ 3° -** As taxas de câmbio, os juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas.
 
 **Artigo 2° -** As operações de crédito autorizadas por esta lei poderão ser garantidas diretamente pelo Estado, ou pela União, com contragarantia do Estado.
@@ -30,8 +36,10 @@ _\- Inciso III com redação dada pela [Lei n° 18.067, de 18/12/2024](https://w
 
 _\- Parágrafo único transformado em § 1° pela [Lei n° 18.067, de 18/12/2024](https://www.al.sp.gov.br/norma/210397)._
 
-**1 -** receitas próprias do Estado oriundas da arrecadação dos impostos a que se referem os artigos 155 e 157, combinado com o § 4° do artigo 167, da Constituição Federal, quando o beneficiário da garantia ou contragarantia for a União;<br>
-**2 -** os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Estado na arrecadação da União, na forma do disposto no artigo 159, inciso I, alínea "a", e nos incisos II e III, da Constituição Federal;<br>
+**1 -** receitas próprias do Estado oriundas da arrecadação dos impostos a que se referem os artigos 155 e 157, combinado com o § 4° do artigo 167, da Constituição Federal, quando o beneficiário da garantia ou contragarantia for a União;
+
+**2 -** os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Estado na arrecadação da União, na forma do disposto no artigo 159, inciso I, alínea "a", e nos incisos II e III, da Constituição Federal;
+
 ~~**3 -** a compensação da União ao Estado, pelos incentivos à exportação na forma do artigo 155, § 2°, inciso X, alínea "a", da Constituição Federal;~~
 
 **3 -** Revogado.
@@ -88,17 +96,30 @@ _\- Inciso IV com redação dada pela [Lei n° 18.418, de 13/03/2026](https://ww
 
 _\- Inciso V revogado pela [Lei n° 18.418, de 13/03/2026](https://www.al.sp.gov.br/norma/212344)._
 
-**Artigo 4° -** Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Estado, ficando a Secretaria de Planejamento e Desenvolvimento Regional autorizada a adotar as providências que se façam necessárias.<br>
-**Artigo 5° -** Os orçamentos do Estado consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas a amortização, juros e demais encargos decorrentes das operações de crédito autorizadas por esta lei.<br>
-**Artigo 6° -** A ementa e o "caput" do artigo 1° da [Lei n° 14.790, de 25 de maio de 2012](https://www.al.sp.gov.br/norma/167104), passam a vigorar com a seguinte redação:<br>
-"Autoriza o Poder Executivo a realizar operação de crédito com a CAF - Corporação Andina de Fomento, e dá outras providências correlatas<br>
-...................................................................................<br>
-Artigo 1° - Fica o Poder Executivo autorizado a realizar operação de crédito com a CAF - Corporação Andina de Fomento, até o valor equivalente a US$ 204.000.000,00 (duzentos e quatro milhões de dólares dos Estados Unidos da América) a ser aplicado obrigatoriamente na execução do Projeto "Sistema de Macrodrenagem do Rio Baquirivu-Guaçu", a cargo do Departamento de Águas e Energia Elétrica do Estado de São Paulo - DAEE." (NR).<br>
-**Artigo 7° -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 19 de novembro de 2013.<br>
-GERALDO ALCKMIN<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 4° -** Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Estado, ficando a Secretaria de Planejamento e Desenvolvimento Regional autorizada a adotar as providências que se façam necessárias.
+
+**Artigo 5° -** Os orçamentos do Estado consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas a amortização, juros e demais encargos decorrentes das operações de crédito autorizadas por esta lei.
+
+**Artigo 6° -** A ementa e o "caput" do artigo 1° da [Lei n° 14.790, de 25 de maio de 2012](https://www.al.sp.gov.br/norma/167104), passam a vigorar com a seguinte redação:
+
+"Autoriza o Poder Executivo a realizar operação de crédito com a CAF - Corporação Andina de Fomento, e dá outras providências correlatas
+
+...................................................................................
+
+Artigo 1° - Fica o Poder Executivo autorizado a realizar operação de crédito com a CAF - Corporação Andina de Fomento, até o valor equivalente a US$ 204.000.000,00 (duzentos e quatro milhões de dólares dos Estados Unidos da América) a ser aplicado obrigatoriamente na execução do Projeto "Sistema de Macrodrenagem do Rio Baquirivu-Guaçu", a cargo do Departamento de Águas e Energia Elétrica do Estado de São Paulo - DAEE." (NR).
+
+**Artigo 7° -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 19 de novembro de 2013.
+
+GERALDO ALCKMIN
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 19 de novembro de 2013.

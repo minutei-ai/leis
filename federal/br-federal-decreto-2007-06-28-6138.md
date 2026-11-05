@@ -1,5 +1,3 @@
-###DEC-006138-0-000-28-06-2007@@@
-
 DECRETO Nº 6.138, DE 28 DE JUNHO DE 2007.
 
 Institui, no âmbito do Ministério da Justiça, a Rede de Integração Nacional de Informações de Segurança Pública, Justiça e Fiscalização - Rede Infoseg, e dá outras providências.
@@ -45,5 +43,3 @@ Brasília, 28 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 29.6.2007

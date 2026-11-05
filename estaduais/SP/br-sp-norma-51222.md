@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/51222)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2004/compilacao-lei-11757-01.07.2004.html)
 
 # LEI N° 11.757, DE 01 DE JULHO DE 2004

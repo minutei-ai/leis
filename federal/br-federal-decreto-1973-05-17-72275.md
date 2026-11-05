@@ -1,5 +1,3 @@
-###DEC-072275-0-000-17-05-1973@@@
-
 DECRETO Nº 72.275, DE 17 DE MAIO DE 1973.
 
 Redistribui cargos os respectivos ocupantes, e dá outras providências.

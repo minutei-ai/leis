@@ -1,5 +1,3 @@
-###DEC-078811-0-000-24-11-1976@@@
-
 DECRETO Nº 78.811, DE 24 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Física e de Engenharia Mecânica, da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

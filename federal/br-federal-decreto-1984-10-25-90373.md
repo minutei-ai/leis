@@ -1,5 +1,3 @@
-###DEC-090373-0-000-25-10-1984@@@
-
 Decreto nº 90.373, de 25 de outubro de 1984.
 
 Inclui na Junta Consultiva do IBC representante do comércio do café de Varginha (MG).

@@ -1,5 +1,3 @@
-###DEC-056748-0-000-17-08-1965@@@
-
 DECRETO Nº 56.748, DE 17 DE AGÔSTO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da A Universal Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

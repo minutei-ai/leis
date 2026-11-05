@@ -1,5 +1,3 @@
-###DEL-002234-0-000-23-01-1985@@@
-
 # Decreto-lei nº 2.234, de 23 de janeiro de 1985
 
 Limita a remuneração e demais vantagens devidas a Diplomatas casados, servindo juntos no exterior.

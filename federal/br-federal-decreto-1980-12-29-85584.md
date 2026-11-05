@@ -1,5 +1,3 @@
-###DEC-085584-0-000-29-12-1980@@@
-
 DECRETO Nº 85.584, DE 29 DE DEZEMBRO DE 1980.
 
 Eleva o capital do Serviço Federal de Processamento de Dados - SERPRO.

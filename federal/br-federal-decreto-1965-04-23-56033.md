@@ -1,5 +1,3 @@
-###DEC-056033-0-000-23-04-1965@@@
-
 DECRETO Nº 56.033, DE 23 DE ABRIL DE 1965.
 
 Autoriza a cidadã brasileira Francisca Silveira da Cunha a pesquisar minérios de ferro e manganês, no município de Imaruí, Estado de Santa Catarina.

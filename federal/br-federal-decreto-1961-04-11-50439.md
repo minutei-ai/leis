@@ -1,5 +1,3 @@
-###DEC-050439-0-000-11-04-1961@@@
-
 DECRETO Nº 50.439, DE 11 DE ABRIL DE 1961.
 
 Estabelece normas para a fiscalização aduaneira de remessas postais internacionais.

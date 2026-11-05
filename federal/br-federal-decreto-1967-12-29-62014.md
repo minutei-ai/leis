@@ -1,5 +1,3 @@
-###DEC-062014-0-000-29-12-1967@@@
-
 DECRETO Nº 62.014, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia Elétrica Caiuá a construir linha de transmissão.

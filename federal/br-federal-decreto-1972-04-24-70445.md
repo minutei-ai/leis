@@ -1,5 +1,3 @@
-###DEC-070445-0-000-24-04-1972@@@
-
 DECRETO Nº 70.445, DE 24 DE ABRIL DE 1972.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados na Ilha da Conceição, Município de Niterói, Estado do Rio de Janeiro.

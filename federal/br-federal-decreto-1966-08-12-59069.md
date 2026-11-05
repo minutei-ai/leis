@@ -1,5 +1,3 @@
-###DEC-059069-0-000-12-08-1966@@@
-
 DECRETO Nº 59.069, DE 12 DE AGÔSTO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Joaçaba, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-079313-0-000-28-02-1977@@@
-
 DECRETO Nº 79.313, DE 28 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S. A. - CEMIG, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068660-0-000-24-05-1971@@@
-
 DECRETO Nº 68.660 - de 24 de maio de 1971.
 
 Dá nova redação ao Artigo 2º do Decreto n° 59.419, de 26 de outubro de 1966.

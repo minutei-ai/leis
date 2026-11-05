@@ -1,5 +1,3 @@
-###DEC-002419-0-000-15-12-1997@@@
-
 DECRETO Nº 2.419, DE 15 DE DEZEMBRO DE 1997
 
 Remaneja os cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

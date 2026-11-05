@@ -1,5 +1,3 @@
-###DEC-079788-0-000-07-06-1977@@@
-
 Decreto nº 79.788, de 7 de junho de 1977
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

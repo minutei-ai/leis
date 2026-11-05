@@ -1,5 +1,3 @@
-###DEL-006822-0-000-24-08-1944@@@
-
 DECRETO-LEI N. 6.822 – DE 24 DE AGÔSTO DE 1944
 
 Altera a carreira de Desenhista do Quadro Único do Ministério do Trabalho, Indústria e Comércio

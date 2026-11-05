@@ -1,5 +1,3 @@
-###MPV-001614-0-025-19-11-1998@@@
-
 MEDIDA PROVISóRIA Nº 1.614-25, DE 19 DE NOVEMBRO DE 1998.
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

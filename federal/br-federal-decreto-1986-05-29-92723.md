@@ -1,5 +1,3 @@
-###DEC-092723-0-000-29-05-1986@@@
-
 DECRETO Nº 92.723, DE 29 DE MAIO DE 1986
 
 Cria o Serviço de Mala Oficial para Circulação de documentos entre os órgãos de Administração Federal direta e autárquica, em Brasília, e dá outras providências.

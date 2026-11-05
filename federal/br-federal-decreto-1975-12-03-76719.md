@@ -1,5 +1,3 @@
-###DEC-076719-0-000-03-12-1975@@@
-
 DECRETO nº 76.719, de 3 de Dezembro de 1975.
 
 Dispõe sobre a Estrutura Básica do Ministério da Previdência e Assistência Social e dá outras providências.

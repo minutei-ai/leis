@@ -1,5 +1,3 @@
-###DEC-083501-0-000-28-05-1979@@@
-
 Decreto Nº 83.501, DE 28 maio de 1979.
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação dos canteiros de obras correspondentes às Usinas Hidrelétricas Porto Primavera, Rosana e de Taquaruçu, nos Estados de Mato Grosso do Sul, São Paulo e Paraná, da CESP - Companhia Energética de São Paulo.

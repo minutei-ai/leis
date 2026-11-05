@@ -1,7 +1,3 @@
-1
-
-###DEC-099158-0-000-12-03-1990@@@
-
 DECRETO Nº 99.158, DE 12 DE MARÇO DE 1990
 
 Torna sem efeito, o Decreto nº 99.114, de 9 de março de 1990.

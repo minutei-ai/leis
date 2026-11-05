@@ -1,5 +1,3 @@
-###DEC-049949-0-000-16-01-1961@@@
-
 DECreTO Nº 49.949, DE 16 DE JANEIRO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, situado no Município de Palmares, Estado de Pernambuco.

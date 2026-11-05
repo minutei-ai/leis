@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - São fixados em Cr$4.600,00 (quatro mil e seiscentos cruzeiros) mensais os vencimentos dos Secretários de Estado, dos Chefes das Casas Civil e Militar, do Secretário Particular, do Procurador Geral do Estado e do Procurador Geral da Justiça, os quais receberão, ainda, gratificação de representação, até o limite de 100% (cem por cento), fixada pelo Governador.
 
-Redação de acordo com a Lei nº 3.074, de 07 de dezembro de 1972.<br>
+Redação de acordo com a Lei nº 3.074, de 07 de dezembro de 1972.
+
 Redação original: "Art. 1º - São fixados em Cr$4.600,00 (quatro mil e seiscentos cruzeiros) mensais os vencimentos dos Secretários de Estado, do Chefe da Casa Civil, Chefe da Casa Militar, do Secretário Particular e do Procurador Geral do Estado, os quais receberão, ainda, para despesa de representação, 30% (trinta por cento) do referido valor."
 
 Art. 2º - O Procurador Geral do Estado, demissível ad nutum, será nomeado pelo Governador do Estado dentre bacharéis em direito, de notório saber jurídico.

@@ -1,5 +1,3 @@
-###DEC-083348-0-000-17-04-1979@@@
-
 Decreto nº 83.348, de 17 de abril de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Bom Jesus da Lapa , Estado da Bahia.

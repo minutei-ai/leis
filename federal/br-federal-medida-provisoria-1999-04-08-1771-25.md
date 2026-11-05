@@ -1,5 +1,3 @@
-###MPV-001771-0-025-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-25, DE 8 DE ABRIL DE 1999.
 
 Dispõe sobre a concessão de Financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

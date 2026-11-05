@@ -1,5 +1,3 @@
-###DEC-097521-0-000-16-02-1989@@@
-
 DECRETO Nº 97.521, DE 16 DE FEVEREIRO DE 1989
 
 Homologo a demarcação administrativa da Terra Indígena YANOMAMI, que menciona, no Estado de Roraima.

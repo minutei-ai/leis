@@ -1,5 +1,3 @@
-###DEC-074348-0-000-01-08-1974@@@
-
 DECRETO Nº 74.348 - DE 1 de AGOSTO DE 1974.
 
 Autoriza o funcionamento do Curso de Ciências Biológicas da Faculdade Estadual de Filosofia, Ciências e Letras de Jacarezinho, Estado do Paraná.

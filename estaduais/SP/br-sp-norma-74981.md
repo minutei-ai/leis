@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74981)
-
 # LEI Nº 12.791, DE 28 DE DEZEMBRO DE 2007
 
 ### _Prorroga, para o exercício de 2008, os efeitos da Lei n. 12.472, de 26 de dezembro de 2006, que dispõe sobre o subsídio dos Deputados Estaduais._

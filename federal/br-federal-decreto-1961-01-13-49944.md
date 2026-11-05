@@ -1,5 +1,3 @@
-###DEC-049944-0-000-13-01-1961@@@
-
 DECRETO Nº 49.944, DE 13 DE JANEIRO DE 1961.
 
 Estabelece a obrigatoriedade dos testes para tratores, máquinas e ferramentas agrícolas importadas ou fabricadas no País e dá outras providências.

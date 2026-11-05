@@ -1,5 +1,3 @@
-###DEC-001869-0-000-17-04-1996@@@
-
 DECRETO Nº 1.869, DE 17 DE ABRIL DE 1996.
 
 Reconhece como de interesse do Governo brasileiro a transferência de ações da ICATU, SEGUROS S.A. e da COMPANHIA BRASILEIRA DE CAPITALIZAÇÃO - COBRAC para a ITT HARTFORD LIFE INTERNATIONAL LT., bem como a outorga de opção de compra de ações da ICATU SEGUROS S.A. à mesma empresa ITT HARTFORD LIFE INTERNATIONA LT.

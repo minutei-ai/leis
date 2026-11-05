@@ -1,5 +1,3 @@
-###DEC-005826-0-000-29-06-2006@@@
-
 DECRETO Nº 5.826, DE 29 DE JUNHO DE 2006.
 
 Dispõe sobre o processo de Inventariança da Comercializadora Brasileira de Energia Emergencial - CBEE, na forma do art. 3º da Medida Provisória nº 2.209, de 29 de agosto de 2001, e dá outras providências.
@@ -91,5 +89,3 @@ LUIZ INÁCIO LULA DA SILVA
           Silas Rondeau Cavalcante Silva
 
          Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

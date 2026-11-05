@@ -1,5 +1,3 @@
-###DEC-073817-0-000-12-03-1974@@@
-
 DECRETO nº 73.817, de 12 de março de 1974.
 
 Concede reconhecimento à Faculdade de Direito de Osasco, mantida pela Fundação Instituto de Ensino para Osasco, com sede na cidade de Osasco, Estado de São Paulo.

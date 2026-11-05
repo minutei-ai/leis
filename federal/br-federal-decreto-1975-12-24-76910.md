@@ -1,5 +1,3 @@
-###DEC-076910-0-000-24-12-1975@@@
-
 DECRETO Nº 76.910, DE 24 DE DEZEMBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município e Estado de São Paulo.

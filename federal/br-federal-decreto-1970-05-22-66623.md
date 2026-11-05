@@ -1,5 +1,3 @@
-###DEC-066623-0-000-22-05-1970@@@
-
 DECRETO Nº 66.623, DE 22 DE MAIO DE 1970.
 
 Dispõe sobre a organização administrativa do Ministério da Saúde, e dá outras providências.

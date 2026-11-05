@@ -1,5 +1,3 @@
-###MPV-002136-0-035-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.136-35, DE 23 DE FEVEREIRO DE 2001
 
 Dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

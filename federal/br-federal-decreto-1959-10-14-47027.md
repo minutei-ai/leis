@@ -1,5 +1,3 @@
-###DEC-047027-0-000-14-10-1959@@@
-
 DECRETO Nº 47.027, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Felipe Moisés Betti Filho a lavrar feldspato no município de Sorocaba, Estado de São Paulo.

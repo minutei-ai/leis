@@ -1,5 +1,3 @@
-###DEC-056233-0-000-03-05-1965@@@
-
 DECRETO Nº 56.233, DE 3 DE MAIO DE 1965.
 
 Dá nova redação a dispositivos do Regulamento de Uniformes do Pessoal do Exército - 2ª parte.

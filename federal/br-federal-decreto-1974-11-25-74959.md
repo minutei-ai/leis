@@ -1,5 +1,3 @@
-###DEC-074959-0-000-25-11-1974@@@
-
 DECRETO Nº 74.959, DE 25 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Comunicação Social da Pontifícia Universidade Católica de Campinas, Estado de São Paulo.

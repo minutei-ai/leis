@@ -1,7 +1,3 @@
-1
-
-###DEC-000630-0-000-12-08-1992@@@
-
 DECRETO N° 630, DE 12 DE AGOSTO DE 1992
 
 Altera alíquota do Imposto sobre Produtos Industrializados.

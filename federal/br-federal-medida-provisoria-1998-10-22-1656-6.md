@@ -1,5 +1,3 @@
-###MPV-001656-0-006-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.656-6, DE 22 DE OUTUBRO DE 1998
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

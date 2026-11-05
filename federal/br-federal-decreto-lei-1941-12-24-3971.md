@@ -1,5 +1,3 @@
-###DEL-003971-0-000-24-12-1941@@@
-
 DECRETO-LEI N. 3.971 – DE 24 DE DEZEMBRO DE 1941
 
 Dispõe sobre o cumprimento de penas no Distrito Federal

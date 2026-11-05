@@ -1,5 +1,3 @@
-###DEC-046784-0-000-03-09-1959@@@
-
 Decreto nº 46.784, de 3 de setembro de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital de responsabilidade da Firemen’s Insurance Company of Newark.

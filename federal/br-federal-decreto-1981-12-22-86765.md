@@ -1,5 +1,3 @@
-###DEC-086765-0-000-22-12-1981@@@
-
 Decreto Nº 86.765, de 22 de dezembro de 1981
 
 Regulamenta o Decreto-Lei nº 917, de 07 de outubro de 1969, que dispõe sobre o emprego da aviação agrícola no País e dá outras providências.

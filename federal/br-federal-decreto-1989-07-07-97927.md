@@ -1,7 +1,3 @@
-1
-
-###DEC-097927-0-000-07-07-1989@@@
-
 DECRETO N° 97.927, DE 7 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Letras, da Faculdade Renato Cozzolino, em Magé, Rio de Janeiro.

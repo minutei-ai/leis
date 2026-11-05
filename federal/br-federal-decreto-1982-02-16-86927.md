@@ -1,5 +1,3 @@
-###DEC-086927-0-000-16-02-1982@@@
-
 Decreto nº 86.927, de 16 de fevereiro de 1982
 
 Autoriza a PETROBRÁS COMÉRCIO INTERNACIONAL S.A. - INTERBRÁS a proceder ao aumento do limite de seu Capital Social.

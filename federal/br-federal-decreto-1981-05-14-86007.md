@@ -1,5 +1,3 @@
-###DEC-086007-0-000-14-05-1981@@@
-
 Decreto nº 86.007, de 14 de maio de 1981.
 
 Dispõe sobre a ascensão funcional para a categoria funcional de Agente Administrativo do Grupo Serviços Auxiliares.

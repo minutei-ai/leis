@@ -1,5 +1,3 @@
-###DEC-081184-0-000-03-01-1978@@@
-
 DECRETO Nº 81.184, DE 3 DE JANEIRO DE 1978.
 
 Revoga Decretos que aprova e alteram o Regulamento para as Bandas de Música e Bandas Marciais da Aeronáutica e dá outras provid6encias.

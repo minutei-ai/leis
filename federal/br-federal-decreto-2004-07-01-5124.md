@@ -1,5 +1,3 @@
-###DEC-005124-0-000-01-07-2004@@@
-
 DECRETO Nº 5.124, DE 1º DE JULHO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Turquia sobre Isenção de Visto para Titulares de Passaportes Comuns, celebrado em Ancara, em 20 de agosto de 2001.

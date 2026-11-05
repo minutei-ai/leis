@@ -1,5 +1,3 @@
-###DEC-088662-0-000-31-08-1983@@@
-
 DECRETO Nº 88.662, DE 31 DE AGOSTO DE 1983
 
 Concede à SIDERURGIA BRASILEIRA S.A. SIDERBRÁS (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

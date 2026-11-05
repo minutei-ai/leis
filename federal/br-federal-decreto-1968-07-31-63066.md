@@ -1,14 +1,12 @@
-###DEC-063066-0-000-31-07-1968@@@
+**DECRETO Nº 63.066, DE 31 DE JULHO DE 1968.**
 
-<strong>DECRETO Nº 63.066, DE 31 DE JULHO DE 1968.</strong>
+***Altera a redação do artigo 2º do Decreto nº 58.932, de 29 de julho de 1966.***
 
-<em><strong>Altera a redação do artigo 2º do Decreto nº 58.932, de 29 de julho de 1966.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 2º do Decreto nº 58.932, de 29 de julho de 1966, passa a vigorar com a seguinte redação:
+**Art**. 1º O artigo 2º do Decreto nº 58.932, de 29 de julho de 1966, passa a vigorar com a seguinte redação:
 
 “Art. 2º A licença de importação poderá ser concedida pela Carteira de Comércio Exterior do Banco do Brasil S.A., desde que satisfeitas pelos beneficiários, cumulativamente, as condições abaixo enumeradas:
 
@@ -24,12 +22,12 @@ e) apresentação de declaração dos fabricantes de carros nacionais de que nã
 
 § 1º A licença deverá abranger exclusivamente o automóvel pretendido com as adaptações essenciais ao seu uso pelo interessado, excluídos quaisquer outros acessórios ou melhoramentos.
 
-§ 2º Para os efeitos da letra “<em>a</em>” dêste artigo a licença não será autorizada pela Carteira de Comércio Exterior a solicitantes que não sejam contribuintes do impôsto de renda, devendo, ainda, a declaração de rendimentos e de bens comprovar de maneira inequívoca possuir o beneficiário condições necessárias e compatíveis à aquisição e manutenção do veículo importado.”
+§ 2º Para os efeitos da letra “*a*” dêste artigo a licença não será autorizada pela Carteira de Comércio Exterior a solicitantes que não sejam contribuintes do impôsto de renda, devendo, ainda, a declaração de rendimentos e de bens comprovar de maneira inequívoca possuir o beneficiário condições necessárias e compatíveis à aquisição e manutenção do veículo importado.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, 31 de julho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Antônio Delfim Netto

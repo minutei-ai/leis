@@ -1,5 +1,3 @@
-###DEC-002537-0-000-07-04-1998@@@
-
 DECRETO Nº 2.537, DE 7 DE ABRIL DE 1998
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

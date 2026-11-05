@@ -1,5 +1,3 @@
-###DEC-047326-0-000-02-12-1959@@@
-
 DECRETO Nº 47.326, DE 2 DE DEZEMBRO DE 1959.
 
 Autoriza Irmãos Darin a lavrar calcário no município de Ibaiti, Estado do Paraná.

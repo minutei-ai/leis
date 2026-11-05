@@ -1,5 +1,3 @@
-###DEC-047716-0-000-29-01-1960@@@
-
 Decreto nº 47.716, de 29 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Coriolano Martins dos Santos a pesquisar minério de manganês no município de Senhor do Bonfim, Estado da Bahia.

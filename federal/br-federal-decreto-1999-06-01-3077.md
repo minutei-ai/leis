@@ -1,5 +1,3 @@
-###DEC-003077-0-000-01-06-1999@@@
-
 DECRETO Nº 3.077, DE 1º DE JUNHO DE 1999.
 
 Dá nova redação aos arts. 11 e 21 do Estatuto do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

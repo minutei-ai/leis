@@ -1,5 +1,3 @@
-###DEC-090897-0-000-05-02-1985@@@
-
 Decreto nº 90.897, de 05 de fevereiro de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Lagoa Seca ou Cavernoso, Invernada ou Invernadinha da Lage e Caracu", situado no Município de Guarapuava, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 90.896, de 05 de fevereiro de 1985.

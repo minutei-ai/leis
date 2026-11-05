@@ -1,5 +1,3 @@
-###DEC-072096-0-000-18-04-1973@@@
-
 DECRETO Nº 72.096, DE 18 DE ABRIL DE 1973.
 
 Declara de utilidade pública para fins de desapropriação áreas de terras situadas no Estado do Espírito Santo.

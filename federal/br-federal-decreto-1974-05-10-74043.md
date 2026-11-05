@@ -1,5 +1,3 @@
-###DEC-074043-0-000-10-05-1974@@@
-
 DECRETO Nº 74.043, DE 10 DE MAIO DE 1974.
 
 Dispõe sobre enquadramento de servidor do Ministério da Marinha e dá outras providências.

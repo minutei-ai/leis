@@ -1,5 +1,3 @@
-###DEL-005227-0-000-04-02-1943@@@
-
 DECRETO‑LEI N. 5.227 – DE 4 DE FEVEREIRO DE 1943
 
 Transfere a Mesa de Rendas Alfandegada, com sede em Porto Xavier, no Estado do Rio Grande do Sul, para Porto Lucena, no mesmo Estado

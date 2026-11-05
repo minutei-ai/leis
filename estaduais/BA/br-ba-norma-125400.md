@@ -18,7 +18,8 @@ COM O MUNICÍPIO DE LAGEDÃO:
 
 Começa no marco do divisor de águas entre as bacias, do Peruípe e Mucuri fronteiro a nascente do Braço Sul do Peruípe, daí alcança a nascente do córrego de Jequitibá, desce por este até sua foz no Rio do Meio ou do Pato.
 
-Redação de acordo com a Lei nº 2.113, de 04 de janeiro de 1965.<br>
+Redação de acordo com a Lei nº 2.113, de 04 de janeiro de 1965.
+
 Redação original: "Art. 1º - Art. 1º - Fica criado o Município de Ibirapoã, desmembrado do de Caravelas, com os seguintes limites:COM O MUNICÍPIO DE CARAVELAS:Começa na foz do rio Jequitibá no rio do Meio, ou do Pato desce por este até sua foz no Braço do Sul do rio Peruípe.COM O ESTADO DE MUCURÍ:Começa na foz do rio do Meio no Braço do Sul no rio Peruípe, sobe por este até sua nascente, de onde alcança o marco fronteiro no divisor de águas entre as bacias de Peruípe e Mucurí.COM O MUNICÍPIO DE LAGEDÃO:Começa no marco do divisor de águas entre as bacias dos rios Peruípe e Mucurí, fronteiro a nascente do Braço Sul do rio Peruípe daí alcança a nascente do córrego do Jequitibá, desce por este até sua foz no rio do Meio ou do Pato."
 
 Art. 2º - O município de Ibirapoã, terá um distrito único: Ibirapoã.

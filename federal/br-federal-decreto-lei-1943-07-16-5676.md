@@ -1,5 +1,3 @@
-###DEL-005676-0-000-16-07-1943@@@
-
 DECRETO‑LEI N.  5.676 – DE 16 DE JULHO DE 1943
 
 Cria um cargo, em comissão, no Quadro Permanente do Ministério da  Agri­cultura, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-065057-0-000-26-08-1969@@@
-
 DECRETO Nº 65.057 - DE 26 DE AGôSTO DE 1969.
 
 Dispõe sôbre a concessão de licença para a realização de Expedições Cientificas no Brasil e dá outras providências.

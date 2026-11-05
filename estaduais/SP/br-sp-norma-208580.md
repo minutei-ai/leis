@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208580)<br>
-
 # LEI N° 17.772, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 451/2022, do Deputado Emidio de Souza – PT e do Deputado Marcio Nakashima - PDT)

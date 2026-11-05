@@ -1,5 +1,3 @@
-###MPV-001941-0-015-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-15, DE 3 DE fevereiro DE 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

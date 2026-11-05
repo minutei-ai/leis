@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210914)<br>
-
 # DECRETO N° 69.522, DE 06 DE MAIO DE 2025
 
 ### _Altera o Decreto n° 62.492, de 23 de fevereiro de 2017, que instituiu, junto à Secretaria de Desenvolvimento Social, o Comitê Gestor Estadual do Programa Criança Feliz e dá providências correlatas._

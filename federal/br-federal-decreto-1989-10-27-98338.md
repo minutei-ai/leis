@@ -1,7 +1,3 @@
-1
-
-###DEC-098338-0-000-27-10-1989@@@
-
 DECRETO Nº 98.338, DE 27 DE OUTUBRO DE 1989
 
 Regula o recrutamento de Médicos, Farmacêuticos e Dentistas para o Ingresso no Corpo de Oficiais da Ativa da Aeronáutica.

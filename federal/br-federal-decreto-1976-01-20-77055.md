@@ -1,5 +1,3 @@
-###DEC-077055-0-000-20-01-1976@@@
-
 decreto nº 77.055, de 20 de janeiro de 1976.
 
 Declara a caducidade da concessão outorgada a Moacir Pinheiro Ferreira, para lavrar ouro no Município de Carutapera, Estado do Maranhão.

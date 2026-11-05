@@ -1,5 +1,3 @@
-###DEC-057240-0-000-11-11-1965@@@
-
 DECRETO Nº 57.240, DE 11 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Peter Gert Adler a pesquisar ganela e baritina no município de Alenquer, Estado de Minas.

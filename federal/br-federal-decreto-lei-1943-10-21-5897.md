@@ -1,5 +1,3 @@
-###DEL-005897-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.897 – De 21 DE OUTUBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei nº 4.818, de 8 de outubro de 1942

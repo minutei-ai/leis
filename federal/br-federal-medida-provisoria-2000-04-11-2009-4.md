@@ -1,5 +1,3 @@
-###MPV-002009-0-004-11-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.009-4, DE 11 de ABRIL de 2000.
 
 Assegura percepção de gratificação por servidores da Carreira Policial Federal, e dá outras providências.

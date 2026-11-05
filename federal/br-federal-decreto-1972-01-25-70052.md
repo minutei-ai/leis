@@ -1,5 +1,3 @@
-###DEC-070052-0-000-25-01-1972@@@
-
 DECRETO Nº 70.052, DE 25 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Cafelândia, com sede em Cafelândia, Estado de São Paulo.

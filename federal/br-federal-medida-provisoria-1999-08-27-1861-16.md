@@ -1,5 +1,3 @@
-###MPV-001861-0-016-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.861-16, DE 27 DE agosto DE 1999.
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

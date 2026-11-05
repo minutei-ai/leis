@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209534)<br>
-
 # DECRETO N° 68.586, DE 07 DE JUNHO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Viarondon Concessionária de Rodovia S/A, as áreas necessárias à duplicação da Rodovia SPA 486/300, no Município de Penápolis, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-059850-0-000-23-12-1966@@@
-
 DECRETO Nº 59.850, DE 23 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Flodoaldo Pontes Pinto a lavrar cassiterita no município de Pôrto Velho, no Território Federal de Rondônia.

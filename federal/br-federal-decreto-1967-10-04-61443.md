@@ -1,5 +1,3 @@
-###DEC-061443-0-000-04-10-1967@@@
-
 decreto nº 61.443, de 4 de outubro de 1967.
 
 Autoriza o cidadão brasileiro Dimitri Athié a lavrar água mineral do município de Piracicaba, Estado de São Paulo.

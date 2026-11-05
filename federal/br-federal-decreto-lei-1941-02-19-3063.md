@@ -1,5 +1,3 @@
-###DEL-003063-0-000-19-02-1941@@@
-
 DECRETO-LEI N. 3.063 – DE 19 DE FEVEREIRO DE 1941
 
 Altera a redação do n. IV do art. 11, do decreto n. 2.478, de 20 de fevereiro de 1933

@@ -1,5 +1,3 @@
-###DEC-056849-0-000-10-09-1965@@@
-
 DECRETO Nº 56.849, DE 10 DE SETEMBRO DE 1965.
 
 Inclui localidade na alínea “c”, do inciso II do art. 1º do Decreto número 54.466, de 14 de outubro de 1964.

@@ -1,5 +1,3 @@
-###DEL-009852-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.852 – DE 13 DE SETEMBRO DE 1946
 
 Altera disposição da Consolidação das Leis do Trabalho relativa ao direito a férias:

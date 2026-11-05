@@ -1,5 +1,3 @@
-###MPV-002133-0-029-28-12-2000@@@
-
 medida provisória nº 2.133-29, de 28 de dezembro de 2000.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamentos do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 setembro de 1989, e dá outras providências.

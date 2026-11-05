@@ -1,6 +1,7 @@
 LEI Nº 1.756 DE 27 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº  [12.608](https://www.legislabahia.ba.gov.br/documentos/lei-no-12608-de-27-de-dezembro-de-2012#LO%2012.608) , de 27 de dezembro de 2012 - Atualiza os limites dos Municípios que integram o Território de Identidade do Sertão Produtivo, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Brumado, Caetité, Caculé, Candiba, Contendas do Sincorá, Dom Basílio, Guanambi, Ibiassucê, Ituaçu, Iuiu, Lagoa Real, Livramento de Nossa Senhora, Malhada de Pedras, Palmas de Monte Alto, Pindaí, Rio do Antônio, Sebastião Laranjeiras, Tanhaçu e Urandi.p
 
 Cria o Município de CANDIBA, desmembrado do de GUANAMBI.
@@ -57,4 +58,4 @@ LEIA-SE da seguinte maneira, o artigo 7º:
 
 Os funcionários municipais com mais de dois anos de exercício no território de que foi constituído o novo município, terão neste, assegurados os seus direitos.
 
-* * *
+ *

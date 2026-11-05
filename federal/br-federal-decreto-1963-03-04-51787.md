@@ -1,5 +1,3 @@
-###DEC-051787-0-000-04-03-1963@@@
-
 DECRETO Nº 51.787, DE 4 DE MARÇO DE 1963.
 
 Transfere da Prefeitura Municipal de Patrocínio, para a Centrais Elétricas de Minas Gerais S. A., a concessão para produzir, transmitir, transformar e distribuir energia elétrica no Distrito sede do Município de Patrocínio, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081553-0-000-10-04-1978@@@
-
 Decreto nº 81.553, de 10 de abril de 1978.
 
 Concede reconhecimento ao curso de Ciências Biológicas do Centro de Educação da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

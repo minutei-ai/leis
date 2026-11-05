@@ -1,5 +1,3 @@
-###MPV-001740-0-027-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.740-27, DE 13 DE JANEIRO DE 1999
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

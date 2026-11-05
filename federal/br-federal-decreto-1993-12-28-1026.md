@@ -1,5 +1,3 @@
-###DEC-001026-0-000-28-12-1993@@@
-
 DECRET0 Nº 1.026, DE 28 DE DEZEMBR0 DE 1993
 
 Dispõe sobre o Programa Nacional de Treinamento do Servidor Público - PNTS e regulamenta o Fundo Especial de Formação, Qualificação, Treinamento e Desenvolvimento do Servidor Público - FUNDASE, instituído pela Lei nº 8.627, de 19 de fevereiro de 1993, e dá outras providências.

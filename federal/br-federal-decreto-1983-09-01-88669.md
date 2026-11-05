@@ -1,5 +1,3 @@
-###DEC-088669-0-000-01-09-1983@@@
-
 Decreto nº 88.669, 01 de setembro de 1983
 
 Outorga concessão à RÁDIO JÓIA DE ADAMANTINA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Adamantina, Estado de São Paulo.

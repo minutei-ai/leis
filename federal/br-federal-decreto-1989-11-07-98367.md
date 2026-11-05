@@ -1,7 +1,3 @@
-1
-
-###DEC-098367-0-000-07-11-1989@@@
-
 DECRETO N° 98.367, DE 07 DE NOVEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia do Centro Técnico-Educacional Superior do Oeste Paranaense.

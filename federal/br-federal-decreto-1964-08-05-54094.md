@@ -1,5 +1,3 @@
-###DEC-054094-0-000-05-08-1964@@@
-
 decRETO Nº 54.094, DE 5 DE AGôSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A.- PETROBRÁS - terras e benfeitorias situadas nos municípios de Ibirité e Betim, Estado de Minas Gerais.

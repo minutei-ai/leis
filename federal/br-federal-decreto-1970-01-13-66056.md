@@ -1,5 +1,3 @@
-###DEC-066056-0-000-13-01-1970@@@
-
 DECRETO Nº 66.056 - DE 13 DE JANEIRO DE 1970
 
 Declara caduco o Decreto número 15.287 de 6 de abril de 1944.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211456)<br>
-
 # ATO DA MESA N° 28/2025, DE 17 DE SETEMBRO DE 2025
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, RESOLVE:

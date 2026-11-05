@@ -1,5 +1,3 @@
-###DEC-054904-0-000-04-11-1964@@@
-
 decreto nº 54.904, de 4 de novembro de 1964.
 
 Outorga à Cooperativa de Energia Elétrica Santa Maria concessão para o aproveitamento de energia hidráulica de um desnível, situado no Município de Benedito Nôvo, Estado de Santa Catarina.

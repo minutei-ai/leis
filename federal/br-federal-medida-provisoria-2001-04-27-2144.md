@@ -1,5 +1,3 @@
-###MPV-002144-0-000-27-04-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.144, DE 27 DE ABRIL DE 2001
 
 Abre crédito extraordinário ao Orçamento da Seguridade Social da União, em favor do Ministério da Integração Nacional e do Ministério da Agricultura e do Abastecimento, no valor global de R$ 96.000.000,00, para os Fins que específica.

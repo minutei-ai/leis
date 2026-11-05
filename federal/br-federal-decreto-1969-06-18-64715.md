@@ -1,5 +1,3 @@
-###DEC-064715-0-000-18-06-1969@@@
-
 decreto nº 64.715, de 18 de junho de 1969.
 
 Dispõe sôbre o ingresso de pessoal na Administração Pública Federal e dá outras providências.

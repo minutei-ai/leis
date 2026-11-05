@@ -1,5 +1,3 @@
-###DEC-071346-0-000-09-11-1972@@@
-
 DECRETO Nº 71.346 - DE 9 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento aos Cursos de Ciências Sociais, História e Filosofia, da Universidade de Brasília.

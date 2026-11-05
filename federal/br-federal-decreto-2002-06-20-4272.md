@@ -1,5 +1,3 @@
-###DEC-004272-0-000-20-06-2002@@@
-
 DECRETO Nº 4.272, DE 20 DE JUNHO DE 2002
 
 Dispõe sobre a execução do Qüinquagésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (prorrogação do ACE-2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 8 de abril de 2002.

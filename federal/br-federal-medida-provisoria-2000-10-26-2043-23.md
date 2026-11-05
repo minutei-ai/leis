@@ -1,5 +1,3 @@
-###MPV-002043-0-023-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.043-23, DE 26 DE outubro DE 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

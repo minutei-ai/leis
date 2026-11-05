@@ -1,5 +1,3 @@
-###DEL-001628-0-000-15-06-1978@@@
-
 # Decreto-lei nº 1.628, de 15 de junho de 1978
 
 Altera a redação do artigo 18 da Lei nº 4.452, de 5 de novembro de 1964.

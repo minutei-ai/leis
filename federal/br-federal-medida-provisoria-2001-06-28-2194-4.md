@@ -1,5 +1,3 @@
-###MPV-002194-0-004-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.194‑4, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre o salário mínimo a partir de 1° de abril de 2001, e dá outras providências.

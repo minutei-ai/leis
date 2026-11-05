@@ -1,5 +1,3 @@
-###DEC-069308-0-000-05-10-1971@@@
-
 decreto nº 69.308, de 5 de outubro de 1971.
 
 Declara de utilidade pública a Cruzada de São Sebastião, com sede em Ponta Grossa, Estado do Paraná.

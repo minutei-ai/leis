@@ -1,5 +1,3 @@
-###DEC-081464-0-000-21-03-1978@@@
-
 Decreto nº 81.464, de 21 de março de 1978.
 
 Concede reconhecimento aos cursos de Desenho Industrial e de Comunicação Visual, da Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-091261-0-000-22-05-1985@@@
-
 Decreto nº 91.261, de 22 de maio de 1985
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Econômicas de Anápolis.

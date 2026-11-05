@@ -1,5 +1,3 @@
-###DEL-005377-0-000-05-04-1943@@@
-
 DECRETO-LEI N. 5.377 – DE 5 DE ABRIL DE 1943
 
 Eleva padrão de vencimento de cargo extinto no Ministério da Educação da Educação e Saude e dá outras providências

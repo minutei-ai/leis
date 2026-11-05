@@ -1,6 +1,10 @@
 > **LEI Nº 3.759, DE 16 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Novo Auxílio Temporário de Emergência em Saúde – ATS, destinado a suprir os gastos excepcionais e emergenciais decorrentes da exposição excessiva de agentes públicos aos efeitos da pandemia causada pelo novo coronavírus - Covid-19; revoga a Lei nº 3.631, de 26 de maio de 2020.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Novo Auxílio Temporário de Emergência em Saúde – ATS, destinado a suprir os gastos excepcionais e emergenciais decorrentes da exposição excessiva de agentes públicos aos efeitos da pandemia causada pelo novo coronavírus - Covid-19; revoga a Lei nº 3.631, de 26 de maio de 2020.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

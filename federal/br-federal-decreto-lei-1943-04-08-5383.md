@@ -1,5 +1,3 @@
-###DEL-005383-0-000-08-04-1943@@@
-
 DECRETO‑LEI N. 5. 383 – DE 8 DE ABRIL 1943
 
 Modifica o decreto‑lei n, 4.529, de 30 de julho de 1942

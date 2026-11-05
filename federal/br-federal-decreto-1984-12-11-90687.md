@@ -1,5 +1,3 @@
-###DEC-090687-0-000-11-12-1984@@@
-
 Decreto nº 90.687, de 11 de dezembro de 1984
 
 Aprova o Regulamento de Administração da Aeronáutica e dá outras providências.

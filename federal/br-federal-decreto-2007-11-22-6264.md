@@ -1,5 +1,3 @@
-###DEC-006264-0-000-22-11-2007@@@
-
 DECRETO Nº 6.264, DE 22 DE NOVEMBRO DE 2007.
 
 Altera e acresce dispositivos ao do Decreto no 1.916, de 23 de maio de 1996, que regulamenta o processo de escolha dos dirigentes de instituições federais de ensino superior, nos termos da Lei no 9.192, de 21 de dezembro de 1995, e dá outras providências.
@@ -33,5 +31,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 23.11.2007

@@ -1,5 +1,3 @@
-###DEC-046816-0-000-15-09-1959@@@
-
 DECRETO Nº 46.816, de 15 de setembro de 1959.
 
 Altera a lotação de repartições do Ministério do Trabalho, Indústria e Comércio.

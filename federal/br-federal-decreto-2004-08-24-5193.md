@@ -1,5 +1,3 @@
-###DEC-005193-0-000-24-08-2004@@@
-
 DECRETO Nº 5.193 DE 24 DE AGOSTO DE 2004
 
 Dá nova redação aos arts. 3º, 4º, 5º, 8º e 9º do Decreto nº 4.876, de 12 de novembro de 2003, que dispõe sobre a análise, seleção e aprovação dos Projetos Inovadores de Cursos, financiamento e transferência de recursos, e concessão de bolsas de manutenção e de prêmios de que trata a Lei nº 10.558, de 13 de novembro de 2002, que instituiu o Programa Diversidade na Universidade.

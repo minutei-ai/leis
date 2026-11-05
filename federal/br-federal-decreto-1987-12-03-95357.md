@@ -1,5 +1,3 @@
-###DEC-095357-0-000-03-12-1987@@@
-
 DECRETO Nº 95.357, DE 03 DE DEZEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "BOM JESUS", classificado como “latifúndio por exploração”, situado no Município de União, no Estado do Piauí, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.680, de 19 de maio de 1986, e dá outras providências.

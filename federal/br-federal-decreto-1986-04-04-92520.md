@@ -1,5 +1,3 @@
-###DEC-092520-0-000-04-04-1986@@@
-
 DECRETO Nº 92.520, DE 4 DE ABRIL DE 1986
 
 Declara 1987 Ano Villa-Lobos, e dá outras providências.

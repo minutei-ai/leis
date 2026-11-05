@@ -1,5 +1,3 @@
-###DEC-050691-0-000-31-05-1961@@@
-
 decreto nº 50.691, de 31 de maio de 1961.
 
 Revoga o Decreto nº 45.481, de 16 de março de 1959, que cria a comissão de Povoamento dos Eixos Rodoviários.

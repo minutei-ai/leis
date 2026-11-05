@@ -1,7 +1,3 @@
-1
-
-###DEC-001073-0-000-04-03-1994@@@
-
 DECRETO N° 1.073, DE 4 DE MARÇO DE 1994
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, da Nuclebrás Equipamentos Pesados S.A.-NUCLEP.

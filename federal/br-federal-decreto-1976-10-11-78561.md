@@ -1,5 +1,3 @@
-###DEC-078561-0-000-11-10-1976@@@
-
 DECRETO Nº 78.561, DE 11 DE OUTUBRO DE 1976.
 
 Altera dispositivo do Decreto número 71.928-73 de 19 de março de 1973, que autorizou o funcionamento do curso de Ciências Contábeis da Faculdade de Adminsitração, Economia e Ciências Contábeis do Instituto Educacional Seminário Paulopolitano, com sede na cidade de São Paulo, Estado de São Paulo.

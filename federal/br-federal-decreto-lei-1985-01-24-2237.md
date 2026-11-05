@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/af1ac9a0-e595-4c9b-9ecd-a147ff76f00d/texto#nowhere)
 
-###DEL-002237-0-000-24-01-1985@@@
-
 # Decreto-lei nº 2.237, de 24 de janeiro de 1985
 
 Altera o artigo 2º do Decreto-lei nº 1305, de 08 de janeiro de 1974, que dispõe sobre as contribuições destinadas à aplicação nas atividades ligadas ao ensino profissional aeronáutico, e dá outras providências.

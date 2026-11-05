@@ -1,5 +1,3 @@
-###DEC-005919-0-000-03-10-2006@@@
-
 DECRETO Nº 5.919, DE 3 DE OUTUBRO DE 2006.
 
 Promulga a Convenção Interamericana sobre o Cumprimento de Sentenças Penais no Exterior, concluída em Manágua, em 9 de junho de 1993, com reserva à primeira parte do parágrafo 2o do Artigo VII, relativa à redução dos períodos de prisão ou de cumprimento alternativo da pena.
@@ -24,11 +22,7 @@ Brasília, 3 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 4.10.2006.
-
-CONVENÇÃO INTERAMERICANA SOBRE O CUMPRIMENTO DE SENTENÇAS
+       Celso Luiz Nunes AmorimCONVENÇÃO INTERAMERICANA SOBRE O CUMPRIMENTO DE SENTENÇAS
 
 PENAIS NO EXTERIOR 
 

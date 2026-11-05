@@ -1,5 +1,3 @@
-###DEL-009129-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.129 – DE 4 DE ABRIL DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 300.000,00, para aquisição de automóveis destinados aos serviços do Senado Federal.

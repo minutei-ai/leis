@@ -1,5 +1,3 @@
-###DEC-072494-0-000-19-07-1973@@@
-
 DECRETO Nº 72.494, DE 19 DE JULHO DE 1973.
 
 Dispõe sobre a Embaixada do Brasil no Reino da Arábia Saudita.

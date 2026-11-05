@@ -1,5 +1,3 @@
-###DEC-060932-0-000-04-07-1967@@@
-
 DECRETO Nº 60.932, DE 4 DE JULHO DE 1967.
 
 Inclui representantes em Grupos-Executivos, da Comissão de Desenvolvimento Industrial, do Ministério da Indústria e do Comércio.

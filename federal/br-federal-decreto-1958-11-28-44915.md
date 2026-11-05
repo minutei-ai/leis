@@ -1,5 +1,3 @@
-###DEC-044915-0-000-28-11-1958@@@
-
 DECRETO Nº 44.915, DE 28 DE NOVEMBRO DE 1958.
 
 Concede autorização para funcionamento dos cursos de Filosofia, História e Pedagogia da Faculdade de Filosofia, Ciências e Letras de Uruguaiana.

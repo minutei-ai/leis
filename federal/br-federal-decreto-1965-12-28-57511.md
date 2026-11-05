@@ -1,5 +1,3 @@
-###DEC-057511-0-000-28-12-1965@@@
-
 DECRETO Nº 57.511, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Carlos Rizzo Mirisola a pesquisar caulim e argila no município de Cotia, Estado de São Paulo.

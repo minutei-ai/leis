@@ -1,5 +1,3 @@
-###DEC-006268-0-000-22-11-2007@@@
-
 DECRETO Nº 6.268, DE 22 DE NOVEMBRO DE 2007.
 
 Regulamenta a Lei no 9.972, de 25 de maio de 2000, que institui a classificação de produtos vegetais, seus subprodutos e resíduos de valor econômico, e dá outras providências.
@@ -933,5 +931,3 @@ Brasília, 22 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Reinhold Stephanes
-
-Este texto não substitui o publicado no DOU de 23.11.2007

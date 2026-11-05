@@ -1,5 +1,3 @@
-###DEC-073378-0-000-27-12-1973@@@
-
 DECRETO Nº 73.378 - DE 27 DE DEZEMBRO DE 1973
 
 Torna sem efeito aproveitamento de disponíveis no Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045161-0-000-31-12-1958@@@
-
 decreto nº 45.161, de 31 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro José Ferreira da Costa a pesquisa quartzo e pedras coradas no município de Caraí, Estado de Minas Gerais.

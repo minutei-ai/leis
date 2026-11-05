@@ -1,5 +1,3 @@
-###DEC-082964-0-000-29-12-1978@@@
-
 Decreto nº 82 964,de 29 de dezembro de 1978
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Município do Rio Negro, Estado do Paraná.

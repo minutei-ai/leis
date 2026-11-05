@@ -1,7 +1,3 @@
-1
-
-###DEC-099007-0-000-02-03-1990@@@
-
 DECRETO Nº 99.007, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do Curso de Administração, a ser ministrado pelas Faculdades Integradas de Uberlândia.

@@ -1,5 +1,3 @@
-###DEC-062542-0-000-16-04-1968@@@
-
 Decreto nº 62.542, de 16 de abril de 1968.
 
 Autoriza a Companhia Paulista de Mineração a lavrar leucofilito, no município de Itapeva, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051091-0-000-01-08-1961@@@
-
 DECRETO Nº 51.091, DE 1 DE AGôSTO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Goiás, as águas do rio Ponte Alta-Bois, Bois-Peixe e Peixe, respectivamente nos seus trechos superior, médio e inferior.

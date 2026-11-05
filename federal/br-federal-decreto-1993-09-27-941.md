@@ -1,7 +1,3 @@
-1
-
-###DEC-000941-0-000-27-09-1993@@@
-
 DECRETO N° 941, DE 27 DE SETEMBRO DE 1993
 
 Dispõe sobre a realização de despesas com os deslocamentos do Presidente da República, do Vice-Presidente da República e dos Ministros de Estado, no território nacional, e dá outras providências.

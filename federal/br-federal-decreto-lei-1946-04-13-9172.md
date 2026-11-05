@@ -1,5 +1,3 @@
-###DEL-009172-0-000-13-04-1946@@@
-
 DECRETO-LEI N. 9.172 – DE 13 DE ABRIL DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar do pagamento do laudêmio os militares que tomaram parte nas operações de guerra.

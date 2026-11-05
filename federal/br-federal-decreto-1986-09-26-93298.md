@@ -1,5 +1,3 @@
-###DEC-093298-0-000-26-09-1986@@@
-
 DECRETO Nº 93.298, DE 26 DE SETEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Ilha do Côco", situado no Município de Nova Xavantina, no Estado de Mato Grosso, compreendido na zona Prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986, e dá outras providências.

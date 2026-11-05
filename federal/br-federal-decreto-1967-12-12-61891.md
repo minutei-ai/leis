@@ -1,5 +1,3 @@
-###DEC-061891-0-000-12-12-1967@@@
-
 decreto Nº 61.891, de 12 de dezembro de 1967.
 
 Declara de utilidade pública o “Colégio Dom Bosco”, com sede em Brasília, Distrito Federal.

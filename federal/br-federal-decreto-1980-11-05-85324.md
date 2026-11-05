@@ -1,5 +1,3 @@
-###DEC-085324-0-000-05-11-1980@@@
-
 Decreto nº 85.324, de 05 de novembro de 1980
 
 Dispõe sobre os Quadros de Oficiais do Corpo de Oficiais da Ativa da Aeronáutica, a que se refere a Lei nº 6.837, de 29 de outubro de 1980, e dá outras providências.

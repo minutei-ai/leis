@@ -1,7 +1,3 @@
-1
-
-###DEC-000333-0-000-04-11-1991@@@
-
 DECRETO N° 333, DE 4 DE NOVEMBRO DE 1991
 
 Institui a Comissão Técnica do Salário Mínimo, de que trata o art. 9° da Lei n° 8.222, de 5 de setembro de 1991.

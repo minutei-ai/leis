@@ -1,5 +1,3 @@
-###DEC-045130-0-000-29-12-1958@@@
-
 DECRETO Nº 45.130, DE 29 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Benevandro Moreira de Souza Lima a pesquisar minérios de ferro, de manganês e associados no município de Corumbá, Estado de Mato Grosso.

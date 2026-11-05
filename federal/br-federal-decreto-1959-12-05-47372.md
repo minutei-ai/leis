@@ -1,5 +1,3 @@
-###DEC-047372-0-000-05-12-1959@@@
-
 DECRETO Nº 47.372, DE 05 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre a designação e gratificação de professôres, assistentes e auxiliares de ensino da Escola Nacional de Saúde Pública, do Ministério da Saúde, e dá outras providências.

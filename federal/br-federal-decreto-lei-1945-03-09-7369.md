@@ -1,5 +1,3 @@
-###DEL-007369-0-000-09-03-1945@@@
-
 DECRETO-LEI N. 7.369 – DE 9 DE MARÇO DE 1945
 
 Autoriza a aquisição de terrenos em Natal, Estado do Rio Grande do Norte

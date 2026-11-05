@@ -50,7 +50,7 @@ Zona Verde de Preservação - Área "Non Aedificandi ”-com área de 175.690,36
 
 II – II-DISTRIBUIÇÃO DAS ÁREAS:
 
-| **DISCRIMINAÇÃO DAS ÁREAS** | **ÁREA** **(M²)** | **PORCENTAGEM (%)** |
+| **DISCRIMINAÇÃO DAS ÁREAS** | **ÁREA(M²)** | **PORCENTAGEM (%)** |
 | --- | --- | --- |
 | **TOTAL DA ÁREA DE REGULARIZAÇÃO FUNDIÁRIA** | **253.325,14** | **100,00** |
 | **VIAS E CANALIZACÃO DE TRÁFEGO** | **25.945,36** | **10,24** |
@@ -73,11 +73,14 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA, 03 de março de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEL-000100-0-000-10-01-1967@@@
-
 DECRETO-LEI Nº 100, DE 10 DE JANEIRO DE 1967
 
 Disciplina a aplicação do disposto no art. 53, da Lei nº 4.728, de 14 de julho de 1965.

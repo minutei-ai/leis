@@ -1,5 +1,3 @@
-###DEC-084330-0-000-20-12-1979@@@
-
 Decreto nº 84.330, de 20 de dezembro de 1979.
 
 Concede à COPESUL - Companhia Petroquímica do Sul, autorização para proceder ao aumento do limite de seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-046652-0-000-17-08-1959@@@
-
 DECRETO Nº 46.652, de 17 de agôsto de 1959.
 
 Autoriza H. Lodi & Cia. Ltda. a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-007146-0-000-30-03-2010@@@
-
 DECRETO Nº 7.146, DE 30 DE MARÇO DE 2010.
 
 Promulga o Acordo sobre Cooperação no Domínio da Defesa entre o Governo da República Federativa do Brasil e o Governo da República da Guatemala, firmado em Brasília, em 13 de março de 2006

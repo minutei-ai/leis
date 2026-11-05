@@ -1,5 +1,3 @@
-###DEC-057534-0-000-29-12-1965@@@
-
 Decreto nº 57.534, de 29 de dezembro de 1965.
 
 Autoriza a Companhia de Eletrificação Centro-Norte do Ceará a construir linhas de transmissão.

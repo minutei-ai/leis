@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208673)<br>
-
 # LEI N° 17.801, DE 17 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 835/2021, da Deputada Dra. Damaris Moura - PSDB)

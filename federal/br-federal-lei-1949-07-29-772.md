@@ -1,12 +1,10 @@
-###LEI-000772-0-000-29-07-1949@@@
+**LEI Nº 772, DE 29 DE JULHO DE 1949**
 
-<strong>LEI Nº 772, DE 29 DE JULHO DE 1949</strong>
+***Concede isenção de direitos de importação para máquinas e acessórios adquiridos pela firma Indústria Betonite de Artefatos de Construção Limitada.***
 
-<em><strong>Concede isenção de direitos de importação para máquinas e acessórios adquiridos pela firma Indústria Betonite de Artefatos de Construção Limitada.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
-
-<strong>Art</strong>. 1º - É concedida isenção do impôsto de consumo e de direitos de importação e taxas aduaneiras com exclusão da de previdência social, para as máquinas e acessórios importados pela firma Indústria Betonite de Artefatos de Construção Limitada destinados à montagem de uma fábrica de blocos furados para paredes e outros artefatos de emprêgo na construção de moradias assim discriminados:
+**Art**. 1º - É concedida isenção do impôsto de consumo e de direitos de importação e taxas aduaneiras com exclusão da de previdência social, para as máquinas e acessórios importados pela firma Indústria Betonite de Artefatos de Construção Limitada destinados à montagem de uma fábrica de blocos furados para paredes e outros artefatos de emprêgo na construção de moradias assim discriminados:
 
 Duas máquinas para fabricar blocos - Prensas desmoldadoras sôbre palhetas lisas, marca Besser Super Vibrapac, com alimentação de palhetas e entrega automática de blocos.
 
@@ -28,36 +26,36 @@ Duas baterias de palhetas, cada uma com 3.000 palhetas de 26 x 18 1/2 x 5/16”.
 
 Duas misturadoras de pás, com capacidade para 50 pés cúbicos de concreto.
 
-Dois carregadores “<em>Ski Loaders</em>” de 50 pés cúbicos de capacidade.
+Dois carregadores “*Ski Loaders*” de 50 pés cúbicos de capacidade.
 
-Dois dosadores de água modêlo automático “<em>Neptune 240</em>” de 1”, tipo W.
+Dois dosadores de água modêlo automático “*Neptune 240*” de 1”, tipo W.
 
 Dois compressores de 5 HP cada um, tipo horizontal, 3 fases, 50 ciclos 220/440 Volts.
 
-Seis carrinhos “<em>Hydraulic hand lift trucks</em>” tipo plataforma com capacidade para 5.000 libras, rodagem de borracha, tração manual.
+Seis carrinhos “*Hydraulic hand lift trucks*” tipo plataforma com capacidade para 5.000 libras, rodagem de borracha, tração manual.
 
-Um carrinho “<em>lift truck</em>” <em>Clark Stelwart</em> tipo “<em>Fork</em>” tração a gasolina.
+Um carrinho “*lift truck*” *Clark Stelwart* tipo “*Fork*” tração a gasolina.
 
-Um carrinho <em>Clarck “Utilitruck</em>” tipo “<em>Fork</em>” tração à gasolina.
+Um carrinho *Clarck “Utilitruck*” tipo “*Fork*” tração à gasolina.
 
-255 estantes Besser mod. 72 “<em>Super Strenght</em>” para carrinho “<em>Plataform</em>”.
+255 estantes Besser mod. 72 “*Super Strenght*” para carrinho “*Plataform*”.
 
-Dois acessórios para moldagem de blocos tipo “<em>Beam</em>” de 7 5/8 x 7 5/8 x 15 9/16”.
+Dois acessórios para moldagem de blocos tipo “*Beam*” de 7 5/8 x 7 5/8 x 15 9/16”.
 
-Dois acessórios para moldagem de blocos tipo “<em>Beam</em>”de 3 5/8 x 7 5/8 x 15 9/16”.
+Dois acessórios para moldagem de blocos tipo “*Beam*”de 3 5/8 x 7 5/8 x 15 9/16”.
 
 Um acessório para moldagem de bloco cantos arredondados de 5 5/8 x 7 5/8 x 15 9/16”.
 
 Um acessório para moldagem de bloco de cantos arredondados de 7 5/8 x 7 5/8 x 15 9/16”.
 
-Uma serra para cortar blocos de concreto mod. SS20 <em>Standard</em> com armação de 6 pés, pedras circulares e manícula para movimentação.
+Uma serra para cortar blocos de concreto mod. SS20 *Standard* com armação de 6 pés, pedras circulares e manícula para movimentação.
 
 Três conjuntos de peças sobressalentes mais sujeitas ao desgaste.
 
-<strong>Art</strong>. 2º - A presente Lei entrará em vigor na data de sua publicação; revogadas as disposições em contrário.
+**Art**. 2º - A presente Lei entrará em vigor na data de sua publicação; revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de julho de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

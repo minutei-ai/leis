@@ -1,6 +1,10 @@
 > **LEI Nº 4.431, DE 14 DE NOVEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título Honorífico de Cidadão Acreano ao Sr. Jair Gabriel da Costa.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título Honorífico de Cidadão Acreano ao Sr. Jair Gabriel da Costa.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

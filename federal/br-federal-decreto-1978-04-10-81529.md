@@ -1,5 +1,3 @@
-###DEC-081529-0-000-10-04-1978@@@
-
 Decreto nº 81 529, de 10 de abril de 1978
 
 Declara a caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEC-068931-0-000-16-07-1971@@@
-
 DECRETO Nº 68.931, DE 16 DE JULHO DE 1971.
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

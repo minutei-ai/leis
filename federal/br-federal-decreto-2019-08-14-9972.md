@@ -234,7 +234,23 @@ Art. 15. O Anexo ao Decreto nº 8.094, de 4 de setembro de 2013, passa a vigorar
 
 “
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:413.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">EF - Trecho</span></p></td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">..............................................................................................</span></p></td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">EF 116 - Campo Formoso - Parnamirim</span></p></td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">EF 170 - Sinop - </span><span style="font-size:10pt">Miritituba</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:413.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+EF - Trecho
+
+</td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+..............................................................................................
+
+</td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+EF 116 - Campo Formoso - Parnamirim
+
+</td></tr><tr><td style="width:413.9pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+EF 170 - Sinop - Miritituba
+
+</td></tr></tbody></table>
 
 " (NR)
 

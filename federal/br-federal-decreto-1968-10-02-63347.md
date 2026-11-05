@@ -1,18 +1,16 @@
-###DEC-063347-0-000-02-10-1968@@@
+**DECRETO Nº 63.347, DE 2 DE OUTUBRO DE 1968.**
 
-<strong>DECRETO Nº 63.347, DE 2 DE OUTUBRO DE 1968.</strong>
+***Regulamenta o sistema de produtividade instituto pela Lei nº 4.491, de 21 de novembro de 1964, para os serviços gráficos do Departamento de Imprensa Nacional.***
 
-<em><strong>Regulamenta o sistema de produtividade instituto pela Lei nº 4.491, de 21 de novembro de 1964, para os serviços gráficos do Departamento de Imprensa Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A produção diária dos servidores do Departamento de Imprensa Nacional, lotados nos setores de artes gráficas, será constituída de parte fixa, com tarefa mínima de 1.000 linhas de composição de linotipo, corpo 7x126, medida de 12 cíceros, ou do eqüivalente em unidades gráficas das demais oficinas, e da parte suplementar que será paga como serviço extraordinário pelo excesso da produção mínima.
+**Art**. 1º A produção diária dos servidores do Departamento de Imprensa Nacional, lotados nos setores de artes gráficas, será constituída de parte fixa, com tarefa mínima de 1.000 linhas de composição de linotipo, corpo 7x126, medida de 12 cíceros, ou do eqüivalente em unidades gráficas das demais oficinas, e da parte suplementar que será paga como serviço extraordinário pelo excesso da produção mínima.
 
 DA PRODUÇÃO OBRIGATÓRIA
 
-<strong>Art</strong>. 2º Para efeito do disposto no artigo 1º, constitui produção obrigatória diária individual o conjunto de tarefas especificado em cada um dos parágrafos seguintes:
+**Art**. 2º Para efeito do disposto no artigo 1º, constitui produção obrigatória diária individual o conjunto de tarefas especificado em cada um dos parágrafos seguintes:
 
 I - SEÇÃO DE REVISÃO
 
@@ -156,7 +154,7 @@ d) Impressão Rotativa (Obras):
 
 \- empacotar e totular 150 blocos ou talões;
 
-e) Produção em máquina “<em>Frankenthal</em>”:
+e) Produção em máquina “*Frankenthal*”:
 
 \- um preparo e acêrto; ou imprimir 7.500 fôlhas.
 
@@ -314,7 +312,7 @@ VIII - OFICINA DE ENVELOPES:
 
 \- dobrar e fechar 12.000 envelopes, padronizados, tipo 1/4; ou dobrar e fechar 7.000 envelopes padronizados, 1/3; ou dobrar e fechar 9.000 envelopes padronizados, tipo 1/2; ou dobrar e fechar 3.000 envelopes padronizados, tipo 1/1; ou fazer dois e meio preparos e acertos de máquina para dobrar e fechar envelopes;
 
-\- imprimir 3.500 envelopes ou fôlhas, quando em máquina plana, manual; ou imprimir 9.000 envelopes ou fôlhas, quando em máquina automática (tipo leque); ou imprimir 12.000 envelopes ou fôlhas, quando em máquina automática (tipo <em>Poly</em>); ou imprimir 3.000 envelopes ou fôlhas, quando em máquina vertical manual; ou fazer dois preparos e acertos em máquina impressora;
+\- imprimir 3.500 envelopes ou fôlhas, quando em máquina plana, manual; ou imprimir 9.000 envelopes ou fôlhas, quando em máquina automática (tipo leque); ou imprimir 12.000 envelopes ou fôlhas, quando em máquina automática (tipo *Poly*); ou imprimir 3.000 envelopes ou fôlhas, quando em máquina vertical manual; ou fazer dois preparos e acertos em máquina impressora;
 
 \- gomar 2.000 envelopes padronizados, tipos 1/4, 1/3 ou 1/2; ou gomar 1.000 cintas para dinheiro;
 
@@ -392,7 +390,7 @@ d) Serviço de Fotografia, comum às 3 Oficinas:
 
 \- retocar 6.020cm<sup>2</sup> de filmes;
 
-\- fazer 50 cópias fotostáticas comuns ou 100 pelo sistema “Foto <em>Rapid</em>”.
+\- fazer 50 cópias fotostáticas comuns ou 100 pelo sistema “Foto *Rapid*”.
 
 X - SEÇÃO DE EXPEDIÇÃO:
 
@@ -408,9 +406,9 @@ X - SEÇÃO DE EXPEDIÇÃO:
 
 DA PRODUÇÃO SUPLEMENTAR
 
-<strong>Art</strong>. 3º O excesso da obrigação diária, ainda que ocorrido dentro do horário normal de trabalho, constituirá produção suplementar, cujo valor de unidade gráfica será fixado de acôrdo com a média aritmética correspondente a 1/30 avos dos níveis dos vencimentos mensais de cada série de classes funcionais, dividido pelo total da produção obrigatória diária de cada setor.
+**Art**. 3º O excesso da obrigação diária, ainda que ocorrido dentro do horário normal de trabalho, constituirá produção suplementar, cujo valor de unidade gráfica será fixado de acôrdo com a média aritmética correspondente a 1/30 avos dos níveis dos vencimentos mensais de cada série de classes funcionais, dividido pelo total da produção obrigatória diária de cada setor.
 
-<strong>Art</strong>. 4º A produção, obtida nas antecipações ou prorrogações do expediente normal, será computada como produção suplementar, não podendo, porém, em qualquer hipótese, servir como complemento da produção obrigatória diária.
+**Art**. 4º A produção, obtida nas antecipações ou prorrogações do expediente normal, será computada como produção suplementar, não podendo, porém, em qualquer hipótese, servir como complemento da produção obrigatória diária.
 
 § 1º Quando o trabalho fôr realizado em dias em que não haja expediente nas repartições públicas, a produção será classificada como suplementar, considerando-se como produção mínima o eqüivalente à produção obrigatória diária.
 
@@ -418,73 +416,73 @@ DA PRODUÇÃO SUPLEMENTAR
 
 DO CONTROLE DA PRODUÇÃO
 
-<strong>Art</strong>. 5º A produção será apurada, diariamente, em cada setor de trabalho, em mapas de contrôle de produção de que constem a natureza do trabalho, a espécie do material empregado, a tiragem, a relação nominal dos executantes, as datas e horas da distribuição do serviço a ser executado e da restrição do mesmo após a execução.
+**Art**. 5º A produção será apurada, diariamente, em cada setor de trabalho, em mapas de contrôle de produção de que constem a natureza do trabalho, a espécie do material empregado, a tiragem, a relação nominal dos executantes, as datas e horas da distribuição do serviço a ser executado e da restrição do mesmo após a execução.
 
 § 1º Os dados que deverão figurar nos mapas de contrôle de produção serão reproduzidos nos originais, provas ou outros elementos distribuídos ao servidor incumbido da execução do trabalho.
 
 § 2º Os mapas a que se refere êste artigo serão encaminhados diariamente ao Setor de Contrôle Geral da Produção Industrial.
 
-<strong>Art</strong>. 6º Somente serão considerados para efeito, da produção, obrigatória ou suplementar, os trabalhos corretamente executados.
+**Art**. 6º Somente serão considerados para efeito, da produção, obrigatória ou suplementar, os trabalhos corretamente executados.
 
 Parágrafo único. As correções deverão ser efetuadas pelo mesmo servidor que executou o trabalho e somente serão remuneradas se, por impedimento de horário ou necessidade urgente de serviço, fôr atribuída a execução delas a outro servidor.
 
-<strong>Art</strong>. 7º Nos casos de substituição, em que o servidor terá que executar trabalho pertinente a outrem, ficará obrigado a sua produção normal, atribuindo-se-lhe, como produção suplementar, o trabalho substituído, se cumprida a sua obrigação.
+**Art**. 7º Nos casos de substituição, em que o servidor terá que executar trabalho pertinente a outrem, ficará obrigado a sua produção normal, atribuindo-se-lhe, como produção suplementar, o trabalho substituído, se cumprida a sua obrigação.
 
 Parágrafo único. No caso de não ser cumprida a obrigação, o complemento da mesma será deduzido da produção suplementar.
 
 DAS GRATIFICAÇÕES DE DIREÇÃO E CHEFIA
 
-<strong>Art</strong>. 8º Os chefes imediatos de cada setor industrial perceberão, além do valor do símbolo da função gratificada, importância mensal correspondendo à média aritmética da produção suplementar do setor.
+**Art**. 8º Os chefes imediatos de cada setor industrial perceberão, além do valor do símbolo da função gratificada, importância mensal correspondendo à média aritmética da produção suplementar do setor.
 
 § 1º Os demais chefes e diretores, diretamente relacionados com o setor industrial do Departamento de Imprensa Nacional, além da importância a que se refere o artigo anterior, perceberão, tendo, em vista a situação hierárquica dos cargos e funções mais um percentual correspondente à diferença entre os valôres dos símbolos das chefias imediatas e os níveis dos seus cargos.
 
 § 2º Enquanto não totalmente transferida para a Capital Federal a sede do Departamento de Imprensa Nacional, os substitutos dos Diretor-Geral no Estado da Guanabara e em Brasília terão direito à mesma gratificação que couber ao substituído.
 
-<strong>Art</strong>. 9º Os chefes das oficinas auxiliares nas quais, pela natureza do serviço, não possa ser medida a tarefa, terão direito à percepção de gratificação de produtividade eqüivalente ao valor das horas de serviço que excederem às do expediente normal.
+**Art**. 9º Os chefes das oficinas auxiliares nas quais, pela natureza do serviço, não possa ser medida a tarefa, terão direito à percepção de gratificação de produtividade eqüivalente ao valor das horas de serviço que excederem às do expediente normal.
 
 Parágrafo único. Os servidores das oficinas auxiliares que exerçam atividades diretas e permanentes de conservação e consertos de máquina no setor industrial perceberão, como extraordinário, importância correspondente à média aritmética mensal da produção suplementar dos servidores do setor em que atuam, deduzidas as parcelas correspondentes às horas, em que, durante o expediente normal, estiverem paradas as máquinas por defeito de funcionamento.
 
 DOS ABONO POR DIFICULDADES TÉCNICAS
 
-<strong>Art</strong>. 10. A produção obrigatória será apurada diariamente e somente serão admitidos abonos quando decorrentes de dificuldades técnicas na execução dos trabalhos e quando a produção suplementar exceder à metade da produção obrigatória diária.
+**Art**. 10. A produção obrigatória será apurada diariamente e somente serão admitidos abonos quando decorrentes de dificuldades técnicas na execução dos trabalhos e quando a produção suplementar exceder à metade da produção obrigatória diária.
 
 Parágrafo único. Em qualquer dos casos previstos neste artigo, os critérios para o abono serão fixados, em portaria, pelo Diretor-Geral do Departamento de Imprensa Nacional.
 
-<strong>Art</strong>. 11. Cabe, também, ao Diretor-Geral do Departamento de Imprensa Nacional determinar as eqüivalências, para os efeitos dêste Decreto, dos trabalhos de natureza, medida ou dificuldade técnica não previstas neste Regulamento, bem como alterar, proporcionalmente, as unidades gráficas básica, quando do emprêgo de equipamento de maior produtividade que o atualmente existente.
+**Art**. 11. Cabe, também, ao Diretor-Geral do Departamento de Imprensa Nacional determinar as eqüivalências, para os efeitos dêste Decreto, dos trabalhos de natureza, medida ou dificuldade técnica não previstas neste Regulamento, bem como alterar, proporcionalmente, as unidades gráficas básica, quando do emprêgo de equipamento de maior produtividade que o atualmente existente.
 
 DOS ORIGINAIS PARA PUBLICAÇÃO
 
-<strong>Art</strong>. 12. A matéria destinada à publicação será datilografada, diretamente, em espaço dois, em papel acetinado ou apergaminhado, medindo 22x33cm; devendo ser perfeitamente legível, não se admitindo emendas ou rasuras que dificultem a sua compreensão, especialmente quando contiverem tabelas.
+**Art**. 12. A matéria destinada à publicação será datilografada, diretamente, em espaço dois, em papel acetinado ou apergaminhado, medindo 22x33cm; devendo ser perfeitamente legível, não se admitindo emendas ou rasuras que dificultem a sua compreensão, especialmente quando contiverem tabelas.
 
 Parágrafo único. Serão permitidas cópias extraídas por processo mecânico ou químico apropriado, com impressão nítida em côr preta e garantida sua indelebilidade, a critério do Departamento de Imprensa Nacional.
 
-<strong>Art</strong>. 13. Exceto as leis, decretos e outros atos normativos, ou pareceres que, aprovados, fixem norma de caráter geral, ou aquêles que, em decorrência de leis ou decretos, devam ser publicados na íntegra, todos os demais deverão ser resumidos aos elementos que caracterizem a sua validade e identidade.
+**Art**. 13. Exceto as leis, decretos e outros atos normativos, ou pareceres que, aprovados, fixem norma de caráter geral, ou aquêles que, em decorrência de leis ou decretos, devam ser publicados na íntegra, todos os demais deverão ser resumidos aos elementos que caracterizem a sua validade e identidade.
 
-<strong>Art</strong>. 14. Não serão publicados no <em>Diário</em> <em>Oficial</em>, exceto quando houver expressa determinação legal, atos concernentes à vida funcional do servidor, tais como apostilas, elogios e licenças, ou as ordens de serviço e outros atos de caráter estritamente interno das repartições.
+**Art**. 14. Não serão publicados no *DiárioOficial*, exceto quando houver expressa determinação legal, atos concernentes à vida funcional do servidor, tais como apostilas, elogios e licenças, ou as ordens de serviço e outros atos de caráter estritamente interno das repartições.
 
-<strong>Art</strong>. 15. A matéria paga por particulares, a ser divulgada em virtude de disposição legal, deverá ser resumida, restringindo-se, a publicação, apenas, aos seus elementos essenciais.
+**Art**. 15. A matéria paga por particulares, a ser divulgada em virtude de disposição legal, deverá ser resumida, restringindo-se, a publicação, apenas, aos seus elementos essenciais.
 
 Parágrafo único. No caso de balanços ou balancetes de sociedades anônimas, cujos originais não tenham de ser apresentados em linhas corridas, poderão os particulares fornecer os “clichês”, desde que obedecida a medida de 21,50x28cm; ou suas eqüivalentes.
 
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
-<strong>Art</strong>. 16. O Diretor-Geral do Departamento de Imprensa Nacional fica autorizado a baixar todos os atos necessários à execução dêste Decreto, inclusive a entrar em entendimento com as autoridades competentes dos Podêres Legislativo e Judiciário para simplificação das publicações dêsses Podêres, ou com as autoridades do Estado da Guanabara, enquanto forem impressos no referido Departamento os jornais estaduais.
+**Art**. 16. O Diretor-Geral do Departamento de Imprensa Nacional fica autorizado a baixar todos os atos necessários à execução dêste Decreto, inclusive a entrar em entendimento com as autoridades competentes dos Podêres Legislativo e Judiciário para simplificação das publicações dêsses Podêres, ou com as autoridades do Estado da Guanabara, enquanto forem impressos no referido Departamento os jornais estaduais.
 
-<strong>Art</strong>. 17. O Diretor-Geral do Departamento de Imprensa Nacional providenciará, junto a entidades especializadas, para que sejam ministrados, na Escola de Artes Gráficas da Imprensa Nacional, cursos especiais de administração industrial destinados à preparação de servidores para o exercício de cargos ou funções de direção e chefia.
+**Art**. 17. O Diretor-Geral do Departamento de Imprensa Nacional providenciará, junto a entidades especializadas, para que sejam ministrados, na Escola de Artes Gráficas da Imprensa Nacional, cursos especiais de administração industrial destinados à preparação de servidores para o exercício de cargos ou funções de direção e chefia.
 
-<strong>Art</strong>. 18. A Escola de Artes Gráficas da Imprensa Nacional organizará cursos regulares de especialização para os servidores do setor industrial.
+**Art**. 18. A Escola de Artes Gráficas da Imprensa Nacional organizará cursos regulares de especialização para os servidores do setor industrial.
 
-<strong>Art</strong>. 19. Os ocupantes dos cargos de direção ou chefia do Departamento de Imprensa Nacional poderão optar pelo regime instituído neste Decreto ou pelo da gratificação de tempo integral e dedicação exclusiva, de que tratam os artigos 11 e 12 da Lei nº 4.345, de 26 de janeiro de 1964, o artigo 7º da Lei nº 4.863, de 29 de novembro de 1965, e o artigo 5º do Decreto-lei nº 81, de 21 de dezembro de 1966.
+**Art**. 19. Os ocupantes dos cargos de direção ou chefia do Departamento de Imprensa Nacional poderão optar pelo regime instituído neste Decreto ou pelo da gratificação de tempo integral e dedicação exclusiva, de que tratam os artigos 11 e 12 da Lei nº 4.345, de 26 de janeiro de 1964, o artigo 7º da Lei nº 4.863, de 29 de novembro de 1965, e o artigo 5º do Decreto-lei nº 81, de 21 de dezembro de 1966.
 
-<strong>Art</strong>. 20. O regime de produtividade regulamentado por êste Decreto será implantado por setores, fixado o prazo final em 180 (cento e oitenta) dias.
+**Art**. 20. O regime de produtividade regulamentado por êste Decreto será implantado por setores, fixado o prazo final em 180 (cento e oitenta) dias.
 
-<strong>Art</strong>. 21. As despesas decorrentes da execução do presente Decreto correrão à conta dos recursos orçamentários do Departamento de Imprensa Nacional.
+**Art**. 21. As despesas decorrentes da execução do presente Decreto correrão à conta dos recursos orçamentários do Departamento de Imprensa Nacional.
 
-<strong>Art</strong>. 22. Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 22. Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, 2 de outubro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Luís Antônio da Gama e Silva
 

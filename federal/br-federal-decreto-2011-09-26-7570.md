@@ -1,5 +1,3 @@
-###DEC-007570-0-000-26-09-2011-PUB-01@@@
-
 DECRETO Nº 7.570, DE 26 DE SETEMBRO DE 2011
 
 Altera o Decreto nº 5.060, de 30 de abril de 2004, que reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível - CIDE.

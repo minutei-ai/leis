@@ -1,5 +1,3 @@
-###DEC-000000-0-001-23-04-1823@@@
-
 DECRETO - DE 23 DE ABRIL DE 1823
 
 Approva o figurino do uniforme do batalhão de caçadores da Provincia de Santa Catharina.

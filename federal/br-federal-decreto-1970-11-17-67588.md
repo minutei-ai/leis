@@ -1,5 +1,3 @@
-###DEC-067588-0-000-17-11-1970@@@
-
 decreto nº 67.588, de 17 de novembro de 1970.
 
 Altera o Regimento do Departamento Nacional de Águas e Energia Elétrica do Ministério das Minas e Energia.

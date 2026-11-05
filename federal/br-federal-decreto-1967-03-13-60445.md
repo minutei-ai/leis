@@ -1,5 +1,3 @@
-###DEC-060445-0-000-13-03-1967@@@
-
 decreto nº 60.445, de 13 de março de 1967.
 
 Concede à Rádio Ribeirão Prêto S.A. aumento de potência de seus transmissores de 250 watts para 5kw de dia e 1kw à noite.

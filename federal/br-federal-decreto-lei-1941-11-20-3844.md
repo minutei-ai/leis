@@ -1,5 +1,3 @@
-###DEL-003844-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.844 – DE 20 DE NOVEMBRO DE 1941
 
 Revê a legislação referente à remuneração, por unidade, da mão de obra do serviço de capatazias nos portos organizados e dá outras providências

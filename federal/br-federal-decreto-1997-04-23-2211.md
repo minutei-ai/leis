@@ -1,5 +1,3 @@
-###DEC-002211-0-000-23-04-1997@@@
-
 DECRETO Nº 2.211, DE 23 DE ABRIL DE 1997
 
 Dá nova redação ao art. 4º do Decreto nº 1.499 de 24 de maio de 1995, que constituiu a Comissão Especial de Revisão dos Processos de Anistia, de que trata a Lei nº 8.878, de 11 de maio de 1994.

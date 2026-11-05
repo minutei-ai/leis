@@ -1,5 +1,3 @@
-###DEL-000191-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 191, DE 24 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir o crédito especial de NCr$21.000.000,00 (vinte e um milhões de cruzeiros novos) como reforço ao Fundo de Marinha Mercante, e dá outras providências.

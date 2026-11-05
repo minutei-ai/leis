@@ -1,5 +1,3 @@
-###DEC-090281-0-000-03-10-1984@@@
-
 Decreto nº 90.281, de 03 de outubro de 1984
 
 Mantém prazo de concessão outorgada a Américo Renê Gianetti para os aproveitamentos da energia hidráulica, atualmente denominados do Salto, do Caboclo e Funil, localizados no rio Maynart, no Município de Ouro Preto, Estado de Minas Gerais, e dá outras providências.

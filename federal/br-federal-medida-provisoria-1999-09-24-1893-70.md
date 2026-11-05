@@ -1,5 +1,3 @@
-###MPV-001893-0-070-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.893-70, DE 24 DE SETEMBRO DE 1999.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.
@@ -408,10 +406,16 @@ CASA CIVIL
 
 SUBCHEFIA DE COORDENAÇÃO DA AÇÃO GOVERNAMENTAL
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:131.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>MP nº 1.893-69, de 27.08.99</span></p></td><td style="width:277.4pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Organiza e disciplina os Sistemas de Controle Interno e de Planejamento e de Orçamento do Poder Executivo.</span></p></td></tr></tbody></table>
+MP nº 1.893-69, de 27.08.99
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Origem:MF/MPOG</span></p></td></tr></tbody></table>
+Organiza e disciplina os Sistemas de Controle Interno e de Planejamento e de Orçamento do Poder Executivo.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Proposta</span></p></td><td style="width:207.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:133.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Prazo Final: 26.09.99</span></p></td></tr></tbody></table>
+Origem:MF/MPOG
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:415.65pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Ajusta as atribuições do Sistema de Planejamento e de Orçamento Federal;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Reestrutura o Sistema Federal de Controle com extinção das Unidades Setoriais e</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Regionais (CISET).</span></p></td></tr></tbody></table>
+Proposta
+
+Prazo Final: 26.09.99
+
+Ajusta as atribuições do Sistema de Planejamento e de Orçamento Federal;
+
+Reestrutura o Sistema Federal de Controle com extinção das Unidades Setoriais e     Regionais (CISET).

@@ -1,7 +1,3 @@
-1
-
-###DEC-098404-0-000-16-11-1989@@@
-
 DECRETO Nº 98.404 DE 16 DE NOVEMBRO DE 1989
 
 Dispõe sobre a criação de novos cursos na área de Ciências Exatas e Tecnologia.

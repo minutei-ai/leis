@@ -1,5 +1,3 @@
-###DEC-045937-0-000-29-04-1959@@@
-
 DECRETO Nº 45.937, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Rodolfho Porto D’Ave a pesquisar minério de ouro e diamante, no Município de Itupiranga, Estado do Pará.

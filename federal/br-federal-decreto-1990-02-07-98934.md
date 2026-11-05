@@ -1,7 +1,3 @@
-1
-
-###DEC-098934-0-000-07-02-1990@@@
-
 DECRETO N° 98.934, DE 7 DE FEVEREIRO DE 1990
 
 Outorga concessão ao SISTEMA POTIGUAR DE INFORMAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São Miguel, Estado do Rio Grande do Norte.

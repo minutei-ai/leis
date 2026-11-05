@@ -1,7 +1,3 @@
-1
-
-###DEC-097877-0-000-26-06-1989@@@
-
 DECRETO N° 97.877, DE 26 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Ciências da Saúde de Cuiabá, Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-068751-0-000-16-06-1971@@@
-
 DECRETO Nº 68.751 - DE 16 DE JUNHO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no município de Touros, Estado do Rio Grande do Norte.

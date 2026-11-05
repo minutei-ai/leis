@@ -1,5 +1,3 @@
-###DEL-008034-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.034 – DE 4 DE OUTUBRO DE 1945
 
 Aceita a doação, feita à União, de um imóvel de propriedade do Estado de São Paulo.

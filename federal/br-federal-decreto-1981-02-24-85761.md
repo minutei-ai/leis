@@ -1,5 +1,3 @@
-###DEC-085761-0-000-24-02-1981@@@
-
 Decreto nº 85.761, de 24 de fevereiro de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destina à passagem das linhas de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

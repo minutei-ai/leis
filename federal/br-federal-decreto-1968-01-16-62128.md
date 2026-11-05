@@ -1,5 +1,3 @@
-###DEC-062128-0-000-16-01-1968@@@
-
 DECRETO Nº 62.128, DE 16 DE JANEIRO DE 1968.
 
 Concede autorização para o funcionamento da Faculdade de Medicina de Mogi das Cruzes da Organização Mogiana de Educação e Cultura, no Estado de São Paulo.

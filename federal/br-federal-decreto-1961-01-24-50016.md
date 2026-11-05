@@ -1,5 +1,3 @@
-###DEC-050016-0-000-24-01-1961@@@
-
 DECRETO Nº 50.016, DE 24 DE JANEIRO DE 1961.
 
 Renova o decreto nº 44.476, de 6 de setembro de 1958.

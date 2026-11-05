@@ -1,5 +1,3 @@
-###DEC-058668-0-000-17-06-1966@@@
-
 decreto nº 58.668, de 17 de junho de 1966.
 
 Ratifica disposições legais sôbre o Serviço de Loteria do Estado do Ceará.

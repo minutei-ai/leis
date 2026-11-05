@@ -1,7 +1,3 @@
-1
-
-###MPV-000875-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 875, DE 27 DE JANEIRO DE 1995
 
 Autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos (CBTU), a transferir à Companhia Fluminense de Trens Urbanos (Flumitrens), recursos para o pagamento de pessoal.

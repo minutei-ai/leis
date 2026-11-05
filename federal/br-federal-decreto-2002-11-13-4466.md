@@ -1,5 +1,3 @@
-###DEC-004466-0-000-13-11-2002@@@
-
 DECRETO Nº 4.466, DE 13 DE NOVEMBRO DE 2002
 
 Dispõe sobre o empenho de dotações orçamentárias e procedimentos de contratação e licitação no exercício de 2002.

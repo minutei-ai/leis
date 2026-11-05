@@ -1,5 +1,3 @@
-###DEC-059133-0-000-25-08-1966@@@
-
 DECRETO Nº 59.133, DE 25 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Afrodizio Witzel a pesquisar argila e areia quartzosa, no município de Mogi das Cruzes, Estado de São Paulo.

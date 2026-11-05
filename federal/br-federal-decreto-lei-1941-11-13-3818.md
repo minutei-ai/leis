@@ -1,5 +1,3 @@
-###DEL-003818-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.818 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério  da Fazenda, o crédito suplementar de 20:000$0, à verba que especifica.

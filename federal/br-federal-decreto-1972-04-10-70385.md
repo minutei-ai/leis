@@ -1,5 +1,3 @@
-###DEC-070385-0-000-10-04-1972@@@
-
 DECRETO Nº 70.385, DE 10 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração de Pinhal, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-003784-0-000-06-04-2001@@@
-
 DECRETO Nº 3.784, DE 6 DE ABRIL DE 2001
 
 Promove a inclusão de itens de bens de consumo e de serviços comuns na classificação a que se refere o Anexo II do Decreto nº 3.555, de 8 de agosto de 2000.

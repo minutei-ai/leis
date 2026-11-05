@@ -1,6 +1,10 @@
 > **LEI Nº 4.320, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera o termo “Prontuário Médico” para “Prontuário de Saúde do Paciente” no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera o termo “Prontuário Médico” para “Prontuário de Saúde do Paciente” no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -9,8 +13,6 @@
 **Art. 1º** O termo “Prontuário Médico” deve ser alterado para “Prontuário de Saúde do Paciente”, em todas as instituições públicas e privadas, que tratam da guarda, acesso e uso das informações de saúde dos pacientes.
 
 **Parágrafo único.** As instituições independem de serem fixas ou temporárias, estaduais ou municipais de administração direta ou indireta.
-
-<br>
 
 **Art. 2°** O termo “Prontuário de Saúde do Paciente”, refere-se à documentação completa e atualizada que deve conter informações sobre a saúde, dados clínicos, diagnósticos, tratamentos, exames, histórico médico e quaisquer outros registros relacionados ao acompanhamento do paciente.
 

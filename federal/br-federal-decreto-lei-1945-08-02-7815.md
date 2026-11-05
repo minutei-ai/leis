@@ -1,5 +1,3 @@
-###DEL-007815-0-000-02-08-1945@@@
-
 DECRETO-LEI N. 7.815 – DE 2 DE AGôSTO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 5.000.000,00, para auxílio à Fundação Brasil Central.

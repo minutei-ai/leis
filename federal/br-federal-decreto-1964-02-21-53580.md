@@ -1,5 +1,3 @@
-###DEC-053580-0-000-21-02-1964@@@
-
 DECRETO Nº 53.580, DE 21 DE FEVEREIRO DE 1964.
 
 Institui Prêmios Nacionais de Cultura.

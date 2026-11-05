@@ -1,5 +1,3 @@
-###DEC-054362-0-000-01-10-1964@@@
-
 DECRETO Nº 54.362, de 1 de outubro de 1964.
 
 Autoriza a Companhia Nacional de Energia Elétrica a dar em garantia os bens constitutivos do seu patrimônio.

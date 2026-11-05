@@ -1,5 +1,3 @@
-###DEC-002418-0-000-15-12-1997@@@
-
 DECRETO Nº 2.418, DE 15 DE DEZEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 4º do Decreto nº 1.784, de 11 de janeiro de 1996.

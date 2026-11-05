@@ -1,5 +1,3 @@
-###MPV-000349-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 349, DE 22 DE JANEIRO DE 2007.
 
 Institui o Fundo de Investimento do FGTS - FI-FGTS, altera a Lei no 8.036, de 11 de maio de 1990, e dá outras providências.
@@ -87,5 +85,3 @@ LuizMarinh
 GuidoMantega
 
 Márcio Fortes
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

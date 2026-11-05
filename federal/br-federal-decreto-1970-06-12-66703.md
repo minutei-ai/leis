@@ -1,5 +1,3 @@
-###DEC-066703-0-000-12-06-1970@@@
-
 DECRETO Nº 66.703, DE 12 DE JUNHO DE 1970.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada a passagem da linha de transmissão que se estenderá deste a subestação de Goiânia, na cidade do mesmo nome, até a subestação da Fábrica de Cimento, no município de Palmeiras de Goiás, no Estado de Goiás.

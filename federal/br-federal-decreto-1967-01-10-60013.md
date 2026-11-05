@@ -1,5 +1,3 @@
-###DEC-060013-0-000-10-01-1967@@@
-
 DECRETO Nº 60.013, DE 10 DE JANEIRO DE 1967.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a lavrar minério de ferro, no município de Santa Barbara, no Estado de Minas Gerais

@@ -2,7 +2,11 @@ Revogada pela Lei nº [4.394 , de 13 de Agosto de 2024.](https://legis.ac.gov.br
 
 > **LEI Nº 4.180, DE 11 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria a Lei Fernando Júnior Moraes Roca – Fernandinho, que estabelece critérios para soltura de pipas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria a Lei Fernando Júnior Moraes Roca – Fernandinho, que estabelece critérios para soltura de pipas.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

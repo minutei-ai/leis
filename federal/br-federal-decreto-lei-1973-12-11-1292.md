@@ -1,5 +1,3 @@
-###DEL-001292-0-000-11-12-1973@@@
-
 # DECRETO-LEi Nº 1.292, DE 11 DE DEZEMbRO DE 1973
 
 Altera a legislação do Imposto sobre Produtos Industrializados quanto ao valor tributável das bebidas, e dá outras providências.

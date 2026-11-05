@@ -1,5 +1,3 @@
-###DEC-073234-0-000-30-11-1973@@@
-
 DECRETO nº 73.234 - de 30 de Novembro de 1973
 
 Declara de utilidade pública para fins desapropriação pela União, em favor da FUNAI, as áreas de terreno de domínio privado compreendidas na Reserva Indígena São Marcos, no Município de Barra do Garças, no Estado de Mato Grosso.

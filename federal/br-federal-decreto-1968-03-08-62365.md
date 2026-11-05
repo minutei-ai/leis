@@ -1,5 +1,3 @@
-###DEC-062365-0-000-08-03-1968@@@
-
 DECRETO Nº 62.365, DE 8 DE MARÇO DE 1968.
 
 Outorga à Companhia de Eletricidade de Pernambuco concessão para distribuir energia elétrica no município de Ingazeira, Estado de Pernambuco.

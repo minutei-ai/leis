@@ -1,5 +1,3 @@
-###DEC-063911-0-000-26-12-1968@@@
-
 Decreto nº 63.911, DE 26 DE DEZEMBRO DE 1968.
 
 Institui, na estrutura do Ministério da agricultura, a Coordenação de Relações Públicas.

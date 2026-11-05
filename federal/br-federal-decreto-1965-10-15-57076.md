@@ -1,5 +1,3 @@
-###DEC-057076-0-000-15-10-1965@@@
-
 Decreto nº 57.076, de 15 de outubro de 1965.
 
 Concede autorização a firma United Geophysical Company para operar em águas brasileiras com navio de nacionalidade americana, nos serviços que especifica.

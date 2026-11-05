@@ -1,7 +1,3 @@
-1
-
-###DEC-000922-0-000-10-09-1993@@@
-
 DECRETO N° 922, DE 10 DE SETEMBRO DE 1993
 
 Promulga o Protocolo para a Solução de Controvérsias, firmado em Brasília em 17 de dezembro de 1991, no âmbito do Mercado Comum do Sul (MERCOSUL).
@@ -218,7 +214,8 @@ ARTIGO 29
 
 2 – Se o Grupo Mercado Comum não denegar a reclamação, procederá de imediato à convocação de um grupo de peritos, que deverá emitir uma decisão acerca de sua procedência no prazo improrrogável de trinta (30) dias a partir de sua designação.
 
-3 – Dentro desse prazo, o grupo de peritos dará oportunidade para que sejam ouvidos e para que apresentem seus argumentos ao particular reclamante e ao<br>
+3 – Dentro desse prazo, o grupo de peritos dará oportunidade para que sejam ouvidos e para que apresentem seus argumentos ao particular reclamante e ao
+
 Estado contra o qual se efetuou  reclamação.
 
 ARTIGO 30

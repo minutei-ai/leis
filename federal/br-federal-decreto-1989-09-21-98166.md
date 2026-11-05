@@ -1,7 +1,3 @@
-1
-
-###DEC-098166-0-000-21-09-1989@@@
-
 DECRETO Nº 98.166, DE 21 DE SETEMBRO DE 1989
 
 Declara de utilidade pública o INSTITUTO DE FÍSICA TEÓRICA.

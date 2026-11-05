@@ -1,5 +1,3 @@
-###DEC-067192-0-000-14-09-1970@@@
-
 DECRETO Nº 67.192, DE 14 DE SETEMBRO DE 1970.
 
 Retifica o Decreto nº 66.670, de 8 de junho de 1970, que abre ao Ministério da Educação e Cultura o crédito suplementar de Cr$3.000.000,00.

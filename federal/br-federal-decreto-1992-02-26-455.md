@@ -1,7 +1,3 @@
-1
-
-###DEC-000455-0-000-26-02-1992@@@
-
 DECRETO N° 455, DE 26 DE FEVEREIRO DE 1992
 
 Regulamenta a Lei n° 8.313, de 23 de dezembro de 1991, estabelece a sistemática de execução do Programa Nacional de Apoio à Cultura PRONAC e dá outras providências.

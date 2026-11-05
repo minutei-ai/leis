@@ -1,5 +1,3 @@
-###DEL-003770-0-000-28-10-1941@@@
-
 DECRETO-LEI N. 3.770 – DE 28 DE OUTUBRO DE 1941
 
 Estatuto dos funcionários públicos civís da Prefeitura do Distrito Federal

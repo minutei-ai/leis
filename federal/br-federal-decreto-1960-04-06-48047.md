@@ -1,5 +1,3 @@
-###DEC-048047-0-000-06-04-1960@@@
-
 DECRETO Nº 48.047, de 6 de abril de 1960.
 
 Dispõe sôbre os convênios de cooperação interadministrativa assinados para execução de decretos resultantes dos encontros dos Bispos no Nordeste.

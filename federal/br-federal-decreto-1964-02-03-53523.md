@@ -1,5 +1,3 @@
-###DEC-053523-0-000-03-02-1964@@@
-
 DECRETO Nº 53.523, DE 3 DE FEVEREIRO DE 1964.
 
 Cria Comissão Especial.

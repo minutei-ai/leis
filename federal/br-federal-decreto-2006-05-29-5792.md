@@ -1,5 +1,3 @@
-###DEC-005792-0-000-29-05-2006@@@
-
 DECRETO Nº 5.792, DE 29 DE MAIO DE 2006.
 
 Acrescenta o inciso VIII ao art. 1º do Decreto no 3.629, de 11 de outubro de 2000, que dispõe sobre o exercício de função militar.

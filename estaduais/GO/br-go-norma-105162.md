@@ -6,7 +6,8 @@ A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Cons
 
 Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação, a partir de 1º de janeiro de 1998, o Colégio Estadual Complexo 10, situado no Município de Planaltina/GO.
 
-Parágrafo único. O estabelecimento de ensino a que se refere o _caput_ deste artigo, a partir de 1º de janeiro de 2022, passa a denominar-se Colégio Estadual da Polícia Militar de Goiás Professora Lourdete de Fátima de Paiva Sutir ~~Escola Estadual Cívico-Militar Professora Lourdete de Fátima de Paiva Sutir~~.<br>
+Parágrafo único. O estabelecimento de ensino a que se refere o _caput_ deste artigo, a partir de 1º de janeiro de 2022, passa a denominar-se Colégio Estadual da Polícia Militar de Goiás Professora Lourdete de Fátima de Paiva Sutir ~~Escola Estadual Cívico-Militar Professora Lourdete de Fátima de Paiva Sutir~~.
+
 \- [Redação dada pela Lei nº 22.033, de 16-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107248/lei-22033).
 
 Art. 2º Ficam alteradas as denominações das seguintes unidades de ensino, situadas no Município de Planaltina/GO:
@@ -22,8 +23,6 @@ IV – a Escola Estadual Complexo 07, criada pela [Lei nº 11.093](https://legis
 Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de março de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

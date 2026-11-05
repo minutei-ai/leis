@@ -1,5 +1,3 @@
-###DEC-093883-0-000-29-12-1986@@@
-
 DECRETO Nº 93.883, DE 29 DE DEZEMBRO DE 1986
 
 Transfere a localização do 1º/8º GAv e cria o 7º/8º GAv na Força Aérea Brasileira.

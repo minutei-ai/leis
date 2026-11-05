@@ -1,5 +1,3 @@
-###DEC-079158-0-000-24-01-1977@@@
-
 DECRETO Nº 79.158, DE 24 DE JANEIRO DE 1977.
 
 Concede reconhecimento ao curso da Formação de Professores de Disciplinas Especializadas do Ensino de 2º Grau, ministrado pela Faculdade de Medicina Veterinária e Agronomia de Jaboticabal "Prof. Antônio Ruete" e pela Faculdade de Filosofia, Ciências e Letras de Araraquara, no Estado de São Paulo.

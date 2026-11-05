@@ -1,5 +1,3 @@
-###DEL-007253-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.253 – DE 18 DE JANEIRO DE 1945
 
 Autoriza a realização de um empréstimo interno em apólices da Dívida Pública Fundada, denominado “Empréstimo de Conversão da Dívida Externa”, e dá outras providências

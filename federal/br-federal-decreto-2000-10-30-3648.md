@@ -1,5 +1,3 @@
-###DEC-003648-0-000-30-10-2000@@@
-
 DECRETO Nº 3.648, de 30 de outubro de 2000.
 
 Dispõe sobre os cargos privativos de Oficial-General. do Exército em tempo de paz e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050392-0-000-29-03-1961@@@
-
 DECRETO Nº 50.392, DE 29 DE MARÇO DE 1961.
 
 Altera o Decreto nº 50.354, de 17 de março de  1961, e dá outras providências.

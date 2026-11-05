@@ -1,5 +1,3 @@
-###DEC-055640-0-000-27-01-1965@@@
-
 DECRETO Nº 55.640, DE 27 DE JANEIRO DE 1965.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços,e dá outras providências.

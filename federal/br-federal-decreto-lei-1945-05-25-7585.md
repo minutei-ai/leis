@@ -1,5 +1,3 @@
-###DEL-007585-0-000-25-05-1945@@@
-
 DECRETO-LEI N. 7.585 – DE 25 DE MAIO DE 1945
 
 Modifica a redação do parágrafo único do art. 1º do Decreto-lei nº 5.739, de 11 de agôsto de 1943

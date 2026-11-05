@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212001)<br>
-
 # LEI N° 18.360, DE 15 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 601/2024, do Deputado Carlos Cezar - PL)

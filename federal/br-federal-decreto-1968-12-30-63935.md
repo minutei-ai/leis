@@ -1,5 +1,3 @@
-###DEC-063935-0-000-30-12-1968@@@
-
 DECRETO Nº 63.935, DE 30 DE DEZEMBRO DE 1968.
 
 Abre à Presidência da República em favor da Agência Nacional o crédito especial de NCr$ 350.000,00 (trezentos e cinqüenta mil cruzeiros novos), para o fim que especifica.

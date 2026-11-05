@@ -1,7 +1,3 @@
-1
-
-###DEC-098328-0-000-24-10-1989@@@
-
 DECRETO N° 98.328, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão à RÁDIO BELOS MONTES DE SEARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Seara, Estado de Santa Catarina.

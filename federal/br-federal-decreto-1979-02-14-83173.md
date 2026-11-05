@@ -1,5 +1,3 @@
-###DEC-083173-0-000-14-02-1979@@@
-
 Decreto nº 83.173, de 14 de fevereiro de 1979
 
 Fixa o fator de reajustamento salarial relativo a fevereiro de 1979.

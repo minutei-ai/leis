@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209610)<br>
-
 # DECRETO N° 68.640, DE 20 DE JUNHO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Almirante Maximiano", instituída pela Sociedade de Amigos da Marinha de São Paulo - SOAMAR - São Paulo, e dá providências correlatas._

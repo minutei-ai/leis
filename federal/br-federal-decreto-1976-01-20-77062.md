@@ -1,5 +1,3 @@
-###DEC-077062-0-000-20-01-1976@@@
-
 Decreto nº 77.062, de 20 de janeiro de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Maceió, Estado de Alagoas.

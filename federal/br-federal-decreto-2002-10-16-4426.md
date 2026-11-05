@@ -1,5 +1,3 @@
-###DEC-004426-0-000-16-10-2002@@@
-
 DECRETO Nº 4.426, DE 16 DE OUTUBRO DE 2002
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão da Rede Básica do Sistema Elétrico Interligado, e dá outras providências.

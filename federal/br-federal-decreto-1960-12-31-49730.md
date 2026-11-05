@@ -1,5 +1,3 @@
-###DEC-049730-0-000-31-12-1960@@@
-
 DECRETO Nº 49.730, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia Paranaense de Energia Elétrica a ampliar seu sistema de transmissão de energia elétrica no Estado do Paraná, mediante a construção de uma linha entre as cidades de Londrina e Maringá, passando pela de Apucarana.
@@ -41,8 +39,6 @@ Brasília, 31 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-049730-0-000-31-12-1960@@@RET01+++
 
 Decreto nº 49.730, de 31 de dezembro de 1960.
 

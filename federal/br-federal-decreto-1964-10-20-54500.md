@@ -1,5 +1,3 @@
-###DEC-054500-0-000-20-10-1964@@@
-
 DECRETO Nº 54.500, DE 20 DE OUTUBRO DE 1964.
 
 Suprime cargo extinto.

@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica criada, na forma indicada na presente lei, a Secretaria da Comunicação Social - SECOM.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º - A Secretaria da Comunicação Social tem por finalidade coordenar e executar as atividades de comunicação social do Governo do Estado da Bahia, competindo-lhe:
@@ -25,7 +26,8 @@ VI - orientar os assessores de comunicação social dos órgãos e entidades da 
 
 VII - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria da Comunicação Social tem a seguinte estrutura, composta de órgãos da administração centralizada:
@@ -50,7 +52,8 @@ VI - Coordenação de Programação Visual e Eventos.
 
 Art. 4º - O assessoramento jurídico dos órgãos da Secretaria da Comunicação Social cabe à Procuradoria Geral do Estado, na forma da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIA DOS ÓRGÃOS DA SECRETARIA
 
 Art. 5º - Ao Gabinete do Secretário, que presta assistência ao titular da Pasta no desempenho de suas atribuições, compete:
@@ -83,7 +86,8 @@ V - exercer outras atividades correlatas.
 
 Art. 10 - À Coordenação de Programação Visual e Eventos - CPVE cabe desempenhar as atividades de coordenação, organização e execução da programação, inclusive visual, de atos públicos que contem com a presença do Governador e de outras autoridades estaduais.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 11 - Fica criado o cargo de Secretário da Comunicação Social.

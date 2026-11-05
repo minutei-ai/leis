@@ -1,7 +1,3 @@
-1
-
-###DEC-098070-0-000-18-08-1989@@@
-
 DECRETO N° 98.070, DE 18 DE AGOSTO DE 1989
 
 Outorga concessão a SPC - SISTEMA PARANAÍBA DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão}, na cidade de Itumbiara, Estado de Goiás.

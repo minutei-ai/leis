@@ -1,7 +1,3 @@
-1
-
-###DEC-000738-0-000-28-01-1993@@@
-
 DECRETO Nº 738, DE 28 DE JANEIRO DE 1993
 
 Altera o Regimento da Organização e do Custeio da Seguridade Social, aprovado pelo Decreto nº 356, de 7 de dezembro de 1991, e alterado pelos Decretos nº 612, de 21 de julho de 1992, e nº 656, de 24 de setembro de 1992.

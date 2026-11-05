@@ -1,5 +1,3 @@
-###DEC-060590-0-000-13-04-1967@@@
-
 DECRETO Nº 60.590, DE 13 DE ABRIL DE 1967.
 
 Dispõe sôbre a orientação, coordenação e supervisão das atividades do Plano Nacional de Educação e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082677-0-000-21-11-1978@@@
-
 Decreto nº 82.677, de 21 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Siderúrgica Cruzeiro do Sul - CRUZUL pelo Decreto nº 50.042, de 24 de janeiro de 1961.

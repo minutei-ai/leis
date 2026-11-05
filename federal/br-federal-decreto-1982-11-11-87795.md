@@ -1,5 +1,3 @@
-###DEC-087795-0-000-11-11-1982@@@
-
 Decreto nº 87.795, de 11 de novembro de 1982
 
 Extingue o Programa Intensivo de Preparação de Mão-de-Obra-PIPMO, e dá outras providências.

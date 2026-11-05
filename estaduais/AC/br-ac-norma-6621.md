@@ -1,6 +1,10 @@
 > **LEI Nº 4.743, DE 18 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui Auxílio Extraordinário aos servidores ativos do quadro de pessoal da Assembleia Legislativa do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui Auxílio Extraordinário aos servidores ativos do quadro de pessoal da Assembleia Legislativa do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-081515-0-000-04-04-1978@@@
-
 Decreto nº 81.515, de 04 de abril de 1978.
 
 Concede à Mineração de Feldspato Andradense Ltda. O direito de lavrar feldspato e quartzo no Município de Ouro Fino, Estado de Minas Gerais.

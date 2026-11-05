@@ -1,5 +1,3 @@
-###DEC-092376-0-000-06-02-1986@@@
-
 DECRETO Nº 92.376, DE 06 DE FEVEREIRO DE 1986
 
 Concede à Companhia de Eletricidade de Pernambuco - CELPE, autorização para implantar a subestação de Águas Belas, na reserva indígena Fulni-ô, no Estado de Pernambuco.

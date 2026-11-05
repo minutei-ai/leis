@@ -1,5 +1,3 @@
-###DEC-073683-0-000-19-02-1974@@@
-
 DECRETO Nº 73.683, DE 19 DE FEVEREIRO DE 1974.
 
 Cria a Parque Nacional da Amazônia e da outras providências.

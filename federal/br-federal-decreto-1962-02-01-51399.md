@@ -1,5 +1,3 @@
-###DEC-051399-0-000-01-02-1962@@@
-
 DECRETO Nº 51.399, DE 1º de fevereiro DE 1962.
 
 Dá novas redações ao art. 2º e letra “a” do art. 18 do Regulamento dos Órgãos da Presidência da República aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947, modificado pelos Decretos 36.215, de 24 de setembro de 1954, 45.057, de 17 de dezembro de 1958 e 50.262, de 3 de fevereiro de 1961.

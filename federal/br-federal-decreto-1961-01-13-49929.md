@@ -1,5 +1,3 @@
-###DEC-049929-0-000-13-01-1961@@@
-
 DECRETO Nº 49.929, DE 13 DE JANEIRO DE 1961.
 
 Autoriza a cidadã brasileira Maria Cecília de Macedo Soares Ritscher a pesquisar calcário e mármore, no município de Iporanga, Estado de São Paulo.

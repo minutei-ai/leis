@@ -1,5 +1,3 @@
-###DEC-081293-0-000-01-02-1978@@@
-
 Decreto nº 81 293, de 01 de fevereiro de 1978.
 
 Altera o Decreto nº 79 362, de 09 de março de 1977.

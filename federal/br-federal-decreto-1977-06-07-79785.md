@@ -1,5 +1,3 @@
-###DEC-079785-0-000-07-06-1977@@@
-
 DECRETO Nº 79.785, DE 7 DE JUNHO DE 1977
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

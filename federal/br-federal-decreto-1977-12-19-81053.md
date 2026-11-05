@@ -1,5 +1,3 @@
-###DEC-081053-0-000-19-12-1977@@@
-
 DECRETO Nº 81.053, DE 19 DE DEZEMBRO DE 1977.
 
 Regulamenta a transferência e a movimentação dos servidores públicos civis da União e de suas autarquias.

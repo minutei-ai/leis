@@ -1,5 +1,3 @@
-###DEL-002004-0-000-06-01-1983@@@
-
 # DECRETO-LEI Nº 2.004, de 06 dE janeiro de 1983
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências.

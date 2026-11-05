@@ -1,5 +1,3 @@
-###DEC-005394-0-000-11-03-2005@@@
-
 DECRETO Nº 5.394 DE 11 DE MARÇO DE 2005
 
 Dispõe sobre a criação da Embaixada do Brasil na República Unida da Tanzânia.

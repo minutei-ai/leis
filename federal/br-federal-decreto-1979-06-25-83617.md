@@ -1,5 +1,3 @@
-###DEC-083617-0-000-25-06-1979@@@
-
 Decreto nº 83.617, de 25 de junho de 1979.
 
 Suprime a representação do Ministério da Indústria e do Comércio no Conselho de Previdência Complementar.

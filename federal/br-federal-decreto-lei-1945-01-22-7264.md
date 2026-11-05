@@ -1,5 +1,3 @@
-###DEL-007264-0-000-22-01-1945@@@
-
 DECRETO-LEI N. 7.264 – DE 22 DE JANEIRO DE 1945
 
 Dispõe sôbre as operações imobiliárias realizadas pelo Instituto de Previdência e Assistência dos Servidores do Estado

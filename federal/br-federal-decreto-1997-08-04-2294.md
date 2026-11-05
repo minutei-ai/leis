@@ -1,5 +1,3 @@
-###DEC-002294-0-000-04-08-1997@@@
-
 DECRETO Nº 2.294, DE 4 DE AGOSTO DE 1997
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

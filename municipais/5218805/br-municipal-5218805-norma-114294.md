@@ -1,9 +1,7 @@
 LEI COMPLEMENTAR Nº 5.458, DE 20 DE JULHO DE 2008.
 
-<br>
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Funcionários do Município.
 
-<br>
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

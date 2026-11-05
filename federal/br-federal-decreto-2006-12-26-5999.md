@@ -1,5 +1,3 @@
-###DEC-005999-0-000-26-12-2006@@@
-
 DECRETO No- 5.999, DE 26 DE DEZEMBRO DE 2006
 
 Dá nova redação ao art. 3º do Decreto nº 5.811, de 21 de junho de 2006, que dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Economia Solidária - CNES.

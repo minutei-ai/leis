@@ -1,5 +1,3 @@
-###DEC-082868-0-000-18-12-1978@@@
-
 decreto nº 82 868, de 18 de dezembro de 1978
 
 Concede à mineração Anasteve Ltda. o direito de lavrar caulim no Município de Cataguases, Estado de Minas Gerais.

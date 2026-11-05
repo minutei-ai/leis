@@ -1,5 +1,3 @@
-###DEC-079730-0-000-26-05-1977@@@
-
 DECRETO Nº 79.730, DE 26 DE MAIO DE 1977.
 
 Concede reconhecimento ao curso de Ciências Contábeis, das Faculdades Associadas do Ipiranga, com sede na cidade de São Paulo, Estado de São Paulo.

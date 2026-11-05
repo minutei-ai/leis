@@ -1,5 +1,3 @@
-###DEC-070313-0-000-22-03-1972@@@
-
 DECRETO Nº 70.313, DE 22 DE MARÇO DE 1972.
 
 Declara de utilidade pública o Educandário Nossa Senhora do Amparo, com sede em Jacarepaguá, Estado da Guanabara.

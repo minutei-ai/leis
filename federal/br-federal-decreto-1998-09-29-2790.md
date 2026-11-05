@@ -1,5 +1,3 @@
-###DEC-002790-0-000-29-09-1998@@@
-
 DECRETO Nº 2.790, DE 29 de SETEMBRO DE 1998
 
 Delega competência aos Ministros de Estado da Marinha, do Exército, da Aeronáutica e Chefe do Estado-Maior das Forças Armadas.

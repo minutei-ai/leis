@@ -1,5 +1,3 @@
-###DEC-073178-0-000-21-11-1973@@@
-
 DECRETO Nº 73.178 - 21 DE NOVEMBRO DE 1973
 
 Concede o reconhecimento aos Cursos de Educação Física e Técnicas Desportivas da Faculdade de Educação Física de Tatuí, mantida pela Associação Atlética XI de Agosto, com sede na cidade de Tatuí, Estado de São Paulo.

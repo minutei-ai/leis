@@ -1,5 +1,3 @@
-###DEL-004768-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.768 – DE 1 DE OUTUBRO DE 1942
 
 Altera o decreto-lei n. 2.035, de 27 de fevereiro de 1940, que dispôs sobre Justiça do Distrito Federal

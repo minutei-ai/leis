@@ -1,5 +1,3 @@
-###DEC-083304-0-000-28-03-1979@@@
-
 DECRETO Nº 83 304, de 28 de Março de 1979
 
 Institui a Câmara Superior de Recursos Fiscais e dá outras providências.

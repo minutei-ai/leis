@@ -1,5 +1,3 @@
-###DEC-051906-A-000-19-04-1963@@@
-
 DECRETO Nº 51.906-a, DE 19 DE ABRIL DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação, a fim de possibilitar a construção da Cidade Universitária, Restaurante Universidade e Casa do Estudante, propriedades situadas na cidade de Maceió, Estado de Alagoas.

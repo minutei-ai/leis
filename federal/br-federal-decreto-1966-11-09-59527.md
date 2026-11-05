@@ -1,5 +1,3 @@
-###DEC-059527-0-000-09-11-1966@@@
-
 DECRETO Nº 59.527, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Joaquim Martins Moreno a pesquisar minério de manganês no município de Alto Paraíso de Goiás, Estado de Goiás.

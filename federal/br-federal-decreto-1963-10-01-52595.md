@@ -1,5 +1,3 @@
-###DEC-052595-0-000-01-10-1963@@@
-
 Decreto Nº 52.595, DE 1 DE OUTUBRO DE 1963.
 
 Concede autorização para funcionar com emprêsa de energia elétrica à Sociedade de Economia Mista Eletro Cariri S.A..

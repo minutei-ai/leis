@@ -1,5 +1,3 @@
-###DEC-077786-0-000-08-06-1976@@@
-
 DECRETO Nº 77.786, DE 08 DE JUNHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Imbituba, Estado de Santa Catarina.

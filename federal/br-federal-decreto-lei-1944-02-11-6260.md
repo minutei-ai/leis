@@ -1,5 +1,3 @@
-###DEL-006260-0-000-11-02-1944@@@
-
 DECRETO-LEI N. 6.260 – DE 11 DE FEVEREIRO DE 1944
 
 Aprova o contrato relativo ao prosseguimento do programa de cooperação em matéria de saneamento e saúde pública, a cargo do Serviço Especial de Saúde Pública, e dá outras providências

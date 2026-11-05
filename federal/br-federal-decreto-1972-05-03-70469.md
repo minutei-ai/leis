@@ -1,5 +1,3 @@
-###DEC-070469-0-000-03-05-1972@@@
-
 DECRETO Nº 70.469, DE 3 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Nove de Julho" - São Paulo, SP.

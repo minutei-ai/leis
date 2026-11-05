@@ -1,5 +1,3 @@
-###DEC-049207-0-000-11-11-1960@@@
-
 DECRETO Nº 49.207, DE 11 DE NOVEMBRO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Diretoria de Rotas Aéreas para do Parque de Aeronáutica dos Afonsos.

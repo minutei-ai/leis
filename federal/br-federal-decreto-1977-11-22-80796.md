@@ -1,5 +1,3 @@
-###DEC-080796-0-000-22-11-1977@@@
-
 DECRETO Nº 80.796, de 22 de novembro de 1977.
 
 Concede reconhecimento aos cursos de Processamento de Dados, de Formação de Executivos e de Formação de Tecnólogos em Desenhista Projetista, em Manutenção de Máquinas e Equipamentos, e em Transmissão e Distribuição Elétrica, da Universidade Metodista de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

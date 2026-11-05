@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209852)<br>
-
 # DECRETO N° 68.779, DE 21 DE AGOSTO DE 2024
 
 ### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, referente ao exercício de 2023._

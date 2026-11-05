@@ -1,5 +1,3 @@
-###DEC-069965-0-000-19-01-1972@@@
-
 Decreto nº 69.965, de 19 de janeiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Rio Pardo, São Paulo.

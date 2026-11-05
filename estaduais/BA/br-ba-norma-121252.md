@@ -6,12 +6,14 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decret
 
 Art. 1º - Fica o Poder Executivo Estadual autorizado a proceder ao parcelamento dos débitos de qualquer natureza, do Estado da Bahia, apurados pela Procuradoria-Geral da Fazenda Nacional e pela Secretaria da Receita Federal do Brasil, até o montante de R$400.000.000,00 (quatrocentos milhões de reais).
 
-Redação de acordo com a Lei nº 13.353, de 22 de setembro de 2011.<br>
+Redação de acordo com a Lei nº 13.353, de 22 de setembro de 2011.
+
 Redação original: "Art. 1º - Fica o Poder Executivo Estadual autorizado a proceder ao parcelamento dos débitos de qualquer natureza, do Estado da Bahia, apurados junto à Procuradoria-Geral da Fazenda Nacional e à Secretaria da Receita Federal do Brasil, até o montante de R$220.000.000,00 (duzentos e vinte milhões de reais)."
 
 Parágrafo único - O valor disposto neste artigo refere-se à posição existente em 30 de abril de 2011, englobando os débitos do Estado da Bahia, inclusive suas Autarquias e Fundações, que serão reajustados, até a data efetiva do parcelamento, de acordo com as disposições contidas na Lei Federal nº 11.941, de 27 de maio de 2009, regulamentada pela Portaria Conjunta PGFN/RFB nº 6, de 22 de julho de 2009.
 
-Redação de acordo com a Lei nº 13.353, de 22 de setembro de 2011.<br>
+Redação de acordo com a Lei nº 13.353, de 22 de setembro de 2011.
+
 Redação original: "Parágrafo único - O valor disposto neste artigo refere-se à posição existente em 04 de novembro de 2009, englobando os débitos do Estado da Bahia, inclusive suas Autarquias e Fundações, que serão reajustados, até a data efetiva do parcelamento, de acordo com as disposições contidas na Lei Federal nº 11.941, de 27 de maio de 2009, regulamentada pela Portaria Conjunta PGFN/RFB nº 6, de 22 de julho de 2009."
 
 Art. 2º - Fica, ainda, o Poder Executivo autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

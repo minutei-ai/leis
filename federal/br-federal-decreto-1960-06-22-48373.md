@@ -1,5 +1,3 @@
-###DEC-048373-0-000-22-06-1960@@@
-
 DECRETO Nº 48.373, DE 22 DE JUNHO DE 1960.
 
 Autoriza S. Barreto & Filhos a pesquisar amianto no município de Traipú, Estado de Alagoas.

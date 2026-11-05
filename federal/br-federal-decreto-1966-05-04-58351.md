@@ -1,5 +1,3 @@
-###DEC-058351-0-000-04-05-1966@@@
-
 Decreto nº 58.351, de 4 de maio de 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no município de Campo Grande, Estado de Alagoas.

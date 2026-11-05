@@ -1,5 +1,3 @@
-###DEC-045552-0-000-05-03-1959@@@
-
 DECRETO Nº 45.552, DE 5 DE MARÇO DE 1959.
 
 Autoriza a cidadã brasileira Altair Paixão Carneiro a pesquisar vermiculite, no município de Ubá, Estado de Minas Gerais.

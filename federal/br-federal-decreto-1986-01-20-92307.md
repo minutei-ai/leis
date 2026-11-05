@@ -1,5 +1,3 @@
-###DEC-092307-0-000-20-01-1986@@@
-
 DECRETO Nº 92.307, DE 20 DE JANEIRO DE 1986
 
 Dispõe sobre a composição da Seção Brasileira da Comissão Geral de Coordenação Brasileiro-Uruguaia.

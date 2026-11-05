@@ -1,5 +1,3 @@
-###MPV-002091-0-015-27-12-2000@@@
-
 Medida provisória nº 2.091-15, de 27 de dezembro de 2000.
 
 Altera dispositivo da Lei nº 9.870, de 23 de novembro de 1999, que dispõe sobre o valor total das anuidades escolares.

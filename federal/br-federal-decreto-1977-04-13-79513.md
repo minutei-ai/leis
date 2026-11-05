@@ -1,5 +1,3 @@
-###DEC-079513-0-000-13-04-1977@@@
-
 decreto nº 79.513, de 13 de abril de 1977.
 
 Concede à S.A. Indústria Votorantin o direito de lavrar calcário e dolomito no Município de Iporanga, Estado de São Paulo.

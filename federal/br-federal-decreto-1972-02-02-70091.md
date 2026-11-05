@@ -1,5 +1,3 @@
-###DEC-070091-0-000-02-02-1972@@@
-
 DECRETO Nº 70.091, DE 2 DE FEVEREIRO DE 1972.
 
 Outorga à Companhia Telefônica do Rio Grande do Norte concessão para explorar o serviço de telefonia público urbano em todos os Municípios do Estado do Rio Grande do Norte e dá outras providências.

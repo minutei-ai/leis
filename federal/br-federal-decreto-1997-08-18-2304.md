@@ -1,5 +1,3 @@
-###DEC-002304-0-000-18-08-1997@@@
-
 DECRETO Nº 2.304, DE 18 DE AGOSTO DE 1997
 
 Dispõe sobre o regulamento da Seção Nacional do Brasil do Instituto Pan-Americano de Geografia e História.

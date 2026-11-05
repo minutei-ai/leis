@@ -1,5 +1,3 @@
-###DEC-076178-0-000-01-09-1975@@@
-
 DECRETO Nº 76.178 - DE 1º DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Biblioteconomia da Universidade Federal da Paraíba.

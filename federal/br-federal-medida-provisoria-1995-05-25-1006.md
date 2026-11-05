@@ -1,7 +1,3 @@
-1
-
-###MPV-001006-0-000-25-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.006, DE 25 DE MAIO DE 1995
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

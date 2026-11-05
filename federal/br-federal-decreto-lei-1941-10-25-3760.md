@@ -1,5 +1,3 @@
-###DEL-003760-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.760 – DE 25 DE OUTUBRO DE 1941
 
 Dispõe sobre o aproveitamento de capitães de longo curso e de cabotagem

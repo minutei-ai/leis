@@ -1,5 +1,3 @@
-###DEC-056185-0-000-29-04-1965@@@
-
 DECRETO Nº 56.185, DE 29 DE ABRIL DE 1965.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$24.200.000,00 (vinte e quatro bilhões duzentos milhões de cruzeiros), para atender as despesas que especifica.

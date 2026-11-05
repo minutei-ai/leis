@@ -1,5 +1,3 @@
-###DEC-088186-0-000-16-03-1983@@@
-
 Decreto nº 88.186, de 16 de março de 1983
 
 Outorga concessão à RÁDIO POUSADA DO RIO QUENTE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Caldas Novas, Estado de Goiás.

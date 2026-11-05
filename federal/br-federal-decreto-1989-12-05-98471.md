@@ -1,7 +1,3 @@
-1
-
-###DEC-098471-0-000-05-12-1989@@@
-
 DECRETO Nº 98.471, DE 05 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Administração das Faculdades Integradas de Maringá.

@@ -1,5 +1,3 @@
-###DEC-052099-0-000-10-06-1963@@@
-
 DECRETO Nº 52.099, de 10 de junho de 1963.
 
 Torna sem efeito o Decreto nº 52.015A, de 17 de maio de 1963.

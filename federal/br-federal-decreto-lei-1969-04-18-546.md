@@ -1,7 +1,3 @@
-1
-
-###DEL-000546-0-000-18-04-1969@@@
-
 DecretO-lei nº 546, de 18 de Abril de 1969
 
 Dispõe sôbre o trabalho noturno em estabelecimentos bancários, nas atividades que especifica.

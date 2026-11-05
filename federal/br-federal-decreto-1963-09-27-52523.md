@@ -1,5 +1,3 @@
-###DEC-052523-0-000-27-09-1963@@@
-
 DECRETO Nº 52.523, DE 27 DE SETEMBRO DE 1963.
 
 Autoriza a firma Valuestone Ltda. a comprar pedras preciosas.

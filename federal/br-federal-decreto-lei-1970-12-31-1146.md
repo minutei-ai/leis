@@ -1,5 +1,3 @@
-###DEL-001146-0-000-31-12-1970@@@
-
 # DEcRETO-LEI Nº 1.146, De 31 De dezembro de 1970
 
 Consolida os dispositivos sôbre as contribuições criadas pela Lei número 2.613, de 23 de setembro de 1955 e dá outras providências.

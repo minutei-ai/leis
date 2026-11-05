@@ -1,5 +1,3 @@
-###DEC-050394-0-000-29-03-1961@@@
-
 DECRETO Nº 50.394, DE 29 DE MARÇO DE 1961.
 
 Concede autorização para o funcionamento de curso.

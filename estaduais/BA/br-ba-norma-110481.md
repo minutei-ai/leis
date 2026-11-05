@@ -46,7 +46,8 @@ Parágrafo único - Os bens e equipamentos mencionados no inciso II deste artigo
 
 Art. 5º - Fica criado o Conselho Deliberativo do Programa Estadual de Incentivos à Inovação Tecnológica - INOVATEC, constituído pelo Secretário de Ciência, Tecnologia e Inovação, que o presidirá, pelo Secretário da Fazenda, pelo Secretário da Indústria, Comércio e Mineração, pelo Secretário da Casa Civil, pelo Diretor Geral da Fundação de Amparo à Pesquisa do Estado da Bahia e pelo Presidente da Agência de Fomento do Estado da Bahia.
 
-Redação do art. 5º de acordo com o art. [4](https://www.legislabahia.ba.gov.br/documentos/lei-no-10847-de-27-de-novembro-de-2007#art4)º da Lei nº 10.847, de 27 de novembro de 2007.<br>
+Redação do art. 5º de acordo com o art. [4](https://www.legislabahia.ba.gov.br/documentos/lei-no-10847-de-27-de-novembro-de-2007#art4)º da Lei nº 10.847, de 27 de novembro de 2007.
+
 Redação original: "Art. 5º - Fica criado o Conselho Deliberativo do Programa Estadual de Incentivos à Inovação tecnológica INOVATEC, constituído pelo Secretário de Ciência, Tecnologia e Inovação, que o presidirá, pelo Secretário da Fazenda, pelo Secretário da Indústria, Comércio e Mineração, pelo Diretor Geral da Fundação de Amparo à Pesquisa do Estado da Bahia e pelo Presidente da Agência de Fomento do Estado da Bahia."
 
 § 1º - O Conselho Deliberativo terá por finalidade formular as políticas operacionais através do estabelecimento de programas prioritários, deliberar sobre a aprovação dos projetos que lhe sejam encaminhados e orientar os mecanismos de gestão, conforme dispuser o respectivo regimento.
@@ -121,4 +122,4 @@ José Luiz Pérez Garrido
 
 Secretário da Indústria, Comércio e Mineração
 
-* * *
+ *

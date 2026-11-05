@@ -1,5 +1,3 @@
-###DEC-079057-0-000-30-12-1976@@@
-
 DECRETO Nº 79.057, DE 30 DEZEMBRO DE 1976.
 
 Autoriza a concessão de garantia da União à operação de crédito externo, para implantação de usina siderúrgica pela Aço Minas Gerais S.A. - AÇOMINAS.

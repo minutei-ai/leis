@@ -1,5 +1,3 @@
-###DEC-061377-0-000-18-09-1967@@@
-
 DECRETO Nº 61.377, DE 18 DE SETEMBRO DE 1967.
 
 Declara caduco o Decreto nº 14.121, de 1º de dezembro de 1943.

@@ -1,5 +1,3 @@
-###DEC-083074-0-000-23-01-1979@@@
-
 Decreto nº 83.074, 23 de janeiro de 1979
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Ivaiporã, da Centrais Elétricas do Sul do Brasil. S.A. - ELETROSUL, no Estado de Paraná.

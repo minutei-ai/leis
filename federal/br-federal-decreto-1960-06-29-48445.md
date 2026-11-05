@@ -1,5 +1,3 @@
-###DEC-048445-0-000-29-06-1960@@@
-
 DECRETO Nº 48.445, DE 29 DE JUNHO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

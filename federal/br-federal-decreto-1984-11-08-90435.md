@@ -1,5 +1,3 @@
-###DEC-090435-0-000-08-11-1984@@@
-
 Decreto nº 90.435, de 08 de novembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Distribuidora S.A. - BR.

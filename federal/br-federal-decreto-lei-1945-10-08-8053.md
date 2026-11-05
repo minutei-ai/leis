@@ -1,5 +1,3 @@
-###DEL-008053-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.053 – DE 8 DE OUTUBRO DE 1945
 
 Altera um dispositivo do Decreto-lei  n° 7.270, de 25 de janeiro de 1945

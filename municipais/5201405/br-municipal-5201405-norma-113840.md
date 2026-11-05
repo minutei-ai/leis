@@ -1,4 +1,5 @@
-DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
+DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.
+
 (Revogado pelo Decreto "N" nº 164, de 22 de março de 2024).
 
 ~~Dispõe sobre a nomeação dos membros do Conselho Municipal de Desenvolvimento Ambiental Sustentável – COMDAS e dá outras providências.~~
@@ -37,7 +38,8 @@ DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
 
 ~~Titular: Fábio Camargo~~ 
 
-~~Suplente: Rafael Amorin Martins de Sá~~ <br>
+~~Suplente: Rafael Amorin Martins de Sá~~ 
+
  
 
 ~~II – REPRESENTANTES DO PODER PÚBLICO~~
@@ -46,7 +48,8 @@ DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
 
 ~~Titular: Diony Nery da Silva~~
 
-~~Suplente: Marcos Antônio Andrade de Miranda~~<br>
+~~Suplente: Marcos Antônio Andrade de Miranda~~
+
  
 
 ~~a) Associação de Moradores:~~
@@ -77,7 +80,8 @@ DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
 
 ~~Titular: Will Robson Borges Sirino~~
 
-~~Suplente: João Pereira da Silva~~<br>
+~~Suplente: João Pereira da Silva~~
+
  
 
 ~~Art. 2º - O mandato dos conselheiros de que tratam os incisos do artigo 1º será de 2 (dois) anos, sendo reconduzidos automaticamente, por igual período, caso não seja publicada nenhuma disposição contrária.~~
@@ -94,11 +98,14 @@ DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 06 de fevereiro de 2024.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~VALÉRIA PETTERSEN<br>
+~~VALÉRIA PETTERSEN
+
 Secretária de Meio Ambiente e Sustentabilidade~~

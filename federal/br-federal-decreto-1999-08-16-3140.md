@@ -1,5 +1,3 @@
-###DEC-003140-0-000-16-08-1999@@@
-
 DECRETO Nº 3.140, DE 16 DE AGOSTO DE 1999.
 
 Dispõe sobre remanejamento, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

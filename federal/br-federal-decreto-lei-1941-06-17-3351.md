@@ -1,5 +1,3 @@
-###DEL-003351-0-000-17-06-1941@@@
-
 DECRETO-LEI N. 3.351 – DE 17 DE JUNHO DE 1941
 
 Retifica o Orçamento Geral da União para o exercício de 1941

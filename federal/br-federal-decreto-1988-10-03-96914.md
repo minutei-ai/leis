@@ -1,5 +1,3 @@
-###DEC-096914-0-000-03-10-1988@@@
-
 DECRETO Nº 96.914, DE 3 DE OUTUBRO DE 1988
 
 Transfere para a SEAIN - Secretaria de Assuntos Internacionais, da Secretaria de Planejamento e Coordenação da Presidência da República - SEPLAN/PR, as atribuições que enumera.

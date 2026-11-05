@@ -1,5 +1,3 @@
-###DEC-005856-0-000-19-07-2006@@@
-
 DECRETO Nº 5.856, DE 19 DE JULHO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para Restituição de Veículos Automotores Roubados ou Furtados, celebrado em Brasília, em 28 de abril de 2003.
@@ -24,11 +22,7 @@ Art. 3o  Este Decreto entra em vigor na data de sua publicação.
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no D.O.U. de 20.7.2006
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA PARA RESTITUIÇÃO DE VEÍCULOS AUTOMOTORES ROUBADOS OU FURTADOS
+          Samuel Pinheiro Guimarães NetoACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA PARA RESTITUIÇÃO DE VEÍCULOS AUTOMOTORES ROUBADOS OU FURTADOS
 
 O Governo da República Federativa do Brasil
 

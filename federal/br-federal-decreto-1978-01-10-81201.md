@@ -1,5 +1,3 @@
-###DEC-081201-0-000-10-01-1978@@@
-
 DECRETO Nº 81.201, de 10 de janeiro de 1978.
 
 Muda a denominação do Centro de Operações na Selva e Ações de Comandos (COSAC) para Centro de Instrução de Guerra na Selva (CIGS).

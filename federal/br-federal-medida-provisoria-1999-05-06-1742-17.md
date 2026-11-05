@@ -1,5 +1,3 @@
-###MPV-001742-0-017-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.742-17, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

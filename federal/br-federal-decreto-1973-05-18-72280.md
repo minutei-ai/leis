@@ -1,5 +1,3 @@
-###DEC-072280-0-000-18-05-1973@@@
-
 DECRETO Nº 72.280, DE 18 DE MAIO DE 1973.
 
 Eleva o capital da empresa pública Financiadora de Estudos e Projetos - FINEP.

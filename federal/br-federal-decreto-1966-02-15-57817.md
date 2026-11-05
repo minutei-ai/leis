@@ -1,5 +1,3 @@
-###DEC-057817-0-000-15-02-1966@@@
-
 decreto nº 57.817, de 15 de fevereiro de 1966.
 
 Concede reconhecimento à Escola de Estatística da Bahia.

@@ -4,14 +4,16 @@ ALTERA A LEI MUNICIPAL Nº 3.149, DE 20 DE DEZEMBRO DE 2013, QUE DISPOE SOBRE O 
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PLANEJAMENTO GOVERNAMENTAL E DO PLANO PLURIANUAL
 
 Art. 1º Esta Lei altera o Plano Plurianual – PPA do Município de Aparecida de Goiânia de 2017, em cumprimento ao estabelecido no art. 51, inciso II, alínea “e” da Lei Orgânica do Município de Aparecida de Goiânia.
 
 Art. 2º Esta Lei estabelece para o período 2016 e nova organização dos programas, o estabelecimento de indicadores, objetivos, ações, público-alvo, produtos, unidades de medida metas físicas e metas financeiras.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA E ORGANIZAÇÃO DO PLANO
 
 Art. 3º O PPA 2014/2017 reflete as políticas públicas e organiza a atuação governamental por meio de Programas Finalísticos e de Apoio à Gestão e Manutenção da Administração do Município, assim definidos:
@@ -42,13 +44,16 @@ Art. 6º Esta Lei entrará em vigor em 1º de janeiro de 2016, mantidas os dispo
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de novembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento
 
 [ANEXOS](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19119/anexo)

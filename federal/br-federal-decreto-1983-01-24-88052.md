@@ -1,5 +1,3 @@
-###DEC-088052-0-000-24-01-1983@@@
-
 Decreto nº 88.052, de 24 de Janeiro de 1983
 
 Declara perempta a concessão outorgada à RÁDIO VITÓRIA LTDA., para executar serviço de radiodifusão sonora em onda tropical na cidade de Vitória, Estado do Espírito Santo.

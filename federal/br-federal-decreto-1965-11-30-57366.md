@@ -1,5 +1,3 @@
-###DEC-057366-0-000-30-11-1965@@@
-
 Decreto nº 57.366, de 30 de novembro de 1965.
 
 Transforma em Estações Experimentais, diretamente subordinadas ao D.P.E.A., os Postos Agropecuários que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-097445-0-000-11-01-1989@@@
-
 DECRETO Nº 97.445, DE 11 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA CANTAGALO”, classificado como “latifúndio por exploração”, situado no Município de Santa Terezinha, no Estado de Mato Grosso, compreendido na zona prioritária, fixada pelo Decreto nº 92.620, de 2 de maio de 1986, e dá outras providências.

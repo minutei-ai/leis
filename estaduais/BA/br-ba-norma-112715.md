@@ -8,7 +8,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Tesouro do Estado da Bahia, através do Fundo de Desenvolvimento Social e Econômico - FUNDESE, autorizado a assumir o custo de até 20% (vinte por cento) do saldo devedor das operações de crédito rural contratadas no âmbito do PRONAF, classe B, junto ao Banco do Nordeste do Brasil S.A. no período de 02 de janeiro de 2005 a 31 de dezembro de 2006, pelos agricultores familiares residentes nos municípios baianos da região semi-árida com população inferior a 20 (vinte) mil habitantes, que optarem pela renegociação das suas dívidas nos termos do art. 72 da Lei Federal nº 12.249, de 11 de junho de 2010.
 
-Redação de acordo com o art. [2](https://www.legislabahia.ba.gov.br/documentos/lei-no-11611-de-01-de-outubro-de-2009#art2)º da Lei nº 12.362, de 21 de novembro de 2011.<br>
+Redação de acordo com o art. [2](https://www.legislabahia.ba.gov.br/documentos/lei-no-11611-de-01-de-outubro-de-2009#art2)º da Lei nº 12.362, de 21 de novembro de 2011.
+
 Redação original: "Art. 1º - Fica o Tesouro do Estado da Bahia, através do Fundo de Desenvolvimento Social e Econômico - FUNDESE, autorizado a assumir o custo de até 1% (um por cento) do saldo devedor das operações contratadas no âmbito do PRONAF, classes A e B, junto ao Banco do Brasil S.A. e ao Banco do Nordeste do Brasil S.A; nos termos estabelecidos na alínea "a" do inciso III do caput do art. 16; alíneas "d" do inciso I e "c" do inciso II, ambos do caput do art. 17; item 2.1 da alínea "a" do inciso I do caput do art. 18 e item 1 da alínea "b" do inciso II do caput do art. 18, todos da Lei Federal nº 11.775, de 17 de setembro de 2008."
 
 Art. 2º - A alínea "b" do inciso IV do § 1º do art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-7599-de-07-de-fevereiro-de-2000#art1)º da Lei nº 7.599, de 7 de fevereiro de 2000, passa a vigorar com a seguinte redação:

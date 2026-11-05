@@ -1,5 +1,3 @@
-###DEC-071465-0-000-01-12-1972@@@
-
 DECRETO Nº 71.465 - DE 1º DE DEZEMBRO DE 1972
 
 Confisca bem do cidadão Germano Brum Mugarte, domiciliado no Estado do Paraná, para a reparação de danos causados ao patrimônio público e dá outras providências.

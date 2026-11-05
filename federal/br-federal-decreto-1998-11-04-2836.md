@@ -1,5 +1,3 @@
-###DEC-002836-0-000-04-11-1998@@@
-
 DECRETO Nº 2.836, DE 4 DE NOVEMBRO DE 1998
 
 Promulga o Acordo de Cooperação Cultural e Educacional, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Namíbia, em Brasília, em 7 de março de 1995.
@@ -110,4 +108,14 @@ Em fé do que, os abaixo assinados, devidamente autorizados por seus respectivos
 
 Feito em Brasília, em 07 de março de 1995, em 4 (quatro) originais, 2 (dois) em português e 2 (dois) em inglês, sendo todos os textos autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa Do Brasil</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Da Namíbia</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Theo-Ben Gurirab, M.P</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa Do Brasil
+
+Pelo Governo da República Da Namíbia
+
+Luiz Felipe Lampreia
+
+Theo-Ben Gurirab, M.P
+
+Ministro de Estado das Relações Exteriores
+
+Ministro dos Negócios Estrangeiros

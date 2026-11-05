@@ -1,5 +1,3 @@
-###DEC-053279-0-000-16-12-1963@@@
-
 DECRETO Nº 53.279, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Sebastião Mathias de Souza a pesquisar quartzo e mica no município de Coroaci, Estado de Minas Gerais

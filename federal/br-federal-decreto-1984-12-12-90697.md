@@ -1,5 +1,3 @@
-###DEC-090697-0-000-12-12-1984@@@
-
 DECRETO Nº 90.697, DE 12 DE DEZEMBRO DE 1984
 
 Dispõe sobre a estrutura básica do Instituto Nacional de Colonização e Reforma Agrária - INCRA e dá outras providencias.

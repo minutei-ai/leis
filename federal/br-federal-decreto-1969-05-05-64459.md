@@ -1,5 +1,3 @@
-###DEC-064459-0-000-05-05-1969@@@
-
 DECRETO Nº 64.459, DE 5 DE MAIO DE 1969.
 
 Retifica o Decreto nº 9.812, de 1 de julho de 1942.

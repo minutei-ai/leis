@@ -1,5 +1,3 @@
-###DEC-092421-0-000-24-02-1986@@@
-
 DECRETO Nº 92.421, DE 24 DE FEVEREIRO DE 1986
 
 Concede a AÇOS FINOS PIRATINI S.A. (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

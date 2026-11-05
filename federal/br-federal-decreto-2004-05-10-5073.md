@@ -1,5 +1,3 @@
-###DEC-005073-0-000-10-05-2004@@@
-
 DECRETO Nº 5.073,  DE 10 DE MAIO DE 2004
 
 Dispõe sobre a consolidação da rede de Embaixadas cumulativas do Serviço Exterior Brasileiro.

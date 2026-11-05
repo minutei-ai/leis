@@ -1,5 +1,3 @@
-###DEC-058388-0-000-10-05-1966@@@
-
 DECRETO Nº 58.388, DE 10 DE MAIO DE 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$337.828.560, para o fim que específica.

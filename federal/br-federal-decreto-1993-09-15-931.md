@@ -1,7 +1,3 @@
-1
-
-###DEC-000931-0-000-15-09-1993@@@
-
 DECRETO N° 931, DE 15 DE SETEMBRO DE 1993
 
 Vincula o Conselho Diretor do Fundo de Participação PIS-PASEP à Secretaria de Política Econômica do Ministério da Fazenda.

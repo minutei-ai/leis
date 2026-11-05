@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210430)<br>
-
 # DECRETO N° 69.206, DE 23 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2024._

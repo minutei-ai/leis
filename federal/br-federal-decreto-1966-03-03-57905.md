@@ -1,5 +1,3 @@
-###DEC-057905-0-000-03-03-1966@@@
-
 DECRETO Nº 57.905, DE 3 DE MARÇO DE 1966.
 
 Declara de utilidade pública a Associação das Damas de Caridade, com sede em Passo Fundo, Estado do Rio Grande do Sul.

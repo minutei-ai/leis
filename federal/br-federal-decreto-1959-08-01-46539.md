@@ -1,5 +1,3 @@
-###DEC-046539-0-000-01-08-1959@@@
-
 DECRETO Nº 46.539, DE 1 DE AGÔSTO DE 1959.
 
 Abre ao Tribunal de Contas o crédito especial de Cr$25.078.320,00, para o fim que menciona.

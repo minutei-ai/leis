@@ -1,5 +1,3 @@
-###DEL-008712-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.712 – DE 17 DE JANEIRO DE 1946
 
 Dispõe sôbre o direito à nomeação de servidores para cargos da carreira de Inspetor de Indústria e Comércio.

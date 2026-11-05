@@ -1,5 +1,3 @@
-###DEC-086439-0-000-07-10-1981@@@
-
 DECRETO Nº 86.439, DE 07 DE OUTUBRO DE 1981.
 
 Declara de utilidade pública a instituição que menciona.

@@ -6,7 +6,17 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º. São desafetadas do uso comum do povo e transformadas em bens dominicais, parte das vias públicas situadas no Setor Serra Dourada – 3ª etapa, neste Município, a seguir descritos:
 
-<table><thead></thead><tbody><tr><td style="text-align:center">VIA</td><td style="text-align:center">m²</td></tr><tr><td style="text-align:center">Rua Circular</td><td style="text-align:center">2.552,25 m²</td></tr><tr><td style="text-align:center">Rua São Dimas</td><td style="text-align:center">1.873,76 m²</td></tr></tbody></table>
+VIA
+
+m²
+
+Rua Circular
+
+2.552,25 m²
+
+Rua São Dimas
+
+1.873,76 m²
 
 Art. 2º Fica o Poder Executivo Municipal, autorizado a permutar as áreas desafetadas descritas no artigo anterior, pelas áreas abaixo discriminadas, neste Município, de propriedade da empresa “APARECIDA SHOPPING S.A”, CNPJ/MF sob nº 97.525.711/0001-11, com sede na Rua Tanner de Melo, Quadra 17, Lote 01, Setor Serra Dourada – 3ª Etapa, Aparecida de Goiânia-GO:
 
@@ -25,8 +35,10 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida Goiânia, aos 04 dias do mês de Janeiro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional

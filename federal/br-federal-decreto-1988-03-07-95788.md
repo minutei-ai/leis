@@ -1,7 +1,3 @@
-1
-
-###DEC-095788-0-000-07-03-1988@@@
-
 DECRETO Nº 95.788, DE 7 DE MARÇO DE 1988
 
 Concede à COMPANHIA BRASILEIRA DE PROJETOS INDUSTRIAIS - COBRAPI (Grupo Siderbrás) autorização para proceder a aumento de seu capital social.

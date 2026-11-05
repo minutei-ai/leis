@@ -1,5 +1,3 @@
-###DEC-076397-0-000-07-10-1975@@@
-
 DECRETO Nº 76.397, de 7 de outubro de 1975.
 
 Declara de utilidade publica, para fins de desapropriação total ou parcial, ou de instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados nos Municípios de Curitiba, São José dos Pinhais, Morretes e Paranaguá, no Estado de Paraná.

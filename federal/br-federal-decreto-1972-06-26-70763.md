@@ -1,5 +1,3 @@
-###DEC-070763-0-000-26-06-1972@@@
-
 decreto Nº 70.763, de 26 de junho de 1972.
 
 Regulamento para programa de Bolsas de Estudo em Hospitais Militares.

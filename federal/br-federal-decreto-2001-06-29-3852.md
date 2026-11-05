@@ -1,5 +1,3 @@
-###DEC-003852-0-000-29-06-2001@@@
-
 DECRETO Nº 3.852, DE 29 DE JUNHO DE 2001
 
 Revoga o Decreto nº 3.658, de 13 de novembro de 2000, que dispõe sobre o Imposto de Exportação incidente sobre produtos classificados no capítulo 93 da Nomenclatura Comum do MERCOSUL ‑ NCM.

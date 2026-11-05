@@ -1,5 +1,3 @@
-###DEL-007517-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.517 – DE 3 DE MAIO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 385.341,40, para classificação da despesa que menciona

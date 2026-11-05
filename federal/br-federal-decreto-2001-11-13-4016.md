@@ -1,5 +1,3 @@
-###DEC-004016-0-000-13-11-2001@@@
-
 DECRETO Nº 4.016, DE 13 DE NOVEMBRO DE 2001
 
 Dispõe sobre a faculdade de não-inclusão no Programa Nacional de Desestatização das participações societárias minoritárias de titularidade do Banco Nacional de Desenvolvimento Econômico e Social - BNDES que menciona.

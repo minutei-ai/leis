@@ -1,5 +1,3 @@
-###DEC-064475-0-000-08-05-1969@@@
-
 DECRETO Nº 64.475, DE 8 DE MAIO DE 1969.
 
 Autoriza estrangeiros a adquirir domínio útil de fração ideal de terreno de acrescido de marinha, em transferência de aforamento, no Estado da Guanabara.

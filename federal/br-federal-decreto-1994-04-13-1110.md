@@ -1,7 +1,3 @@
-1
-
-###DEC-001110-0-000-13-04-1994@@@
-
 DECRETO N° 1.110, DE 13 DE ABRIL DE 1994
 
 Dispõe sobre a conversão para a Unidade Real de Valor dos contratos para aquisição de bens e serviços, em que forem contratantes órgãos e entidades da Administração Federal direta e indireta, e dá outras providências.

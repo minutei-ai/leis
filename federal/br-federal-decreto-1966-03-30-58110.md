@@ -1,5 +1,3 @@
-###DEC-058110-0-000-30-03-1966@@@
-
 DECRETO Nº 58.110, DE 30 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Eduardo Lins, a pesquisar calcário, no município de Monte Alegre, Estado do Pará.

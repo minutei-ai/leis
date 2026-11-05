@@ -1,5 +1,3 @@
-###DEC-067706-0-000-07-12-1970@@@
-
 Decreto nº 67.706, de 7 de dezembro de 1970.
 
 Reorganiza o Conselho de Desenvolvimento Industrial e dá outras providências.

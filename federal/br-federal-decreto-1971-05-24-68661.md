@@ -1,5 +1,3 @@
-###DEC-068661-0-000-24-05-1971@@@
-
 decreto nº 68.661 - de 24 de maio de 1971.
 
 Concede à Mineração Mascote Limitada o direito de lavrar baritina, no município de Ibitiara, Estado da Bahia.

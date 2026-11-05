@@ -1,5 +1,3 @@
-###DEC-050473-0-000-18-04-1961@@@
-
 DECRETO Nº 50.473, DE 18 DE ABRIL DE 1961.
 
 Outorga concessão à Rádio Difusora Pôrto-Alegrense Limitada para estabelecer uma estação de radiotelevisão na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.

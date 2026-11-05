@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210329)<br>
-
 # DECRETO LEGISLATIVO N° 2.556, DE 11 DE DEZEMBRO DE 2024
 
 ### _Aprova a indicação do Senhor Maxwell Borges de Moura Vieira para nomeação no cargo de Conselheiro do Tribunal de Contas do Estado._

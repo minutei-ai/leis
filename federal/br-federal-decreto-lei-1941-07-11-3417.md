@@ -1,5 +1,3 @@
-###DEL-003417-0-000-11-07-1941@@@
-
 DECRETO-LEI N. 3.417 – DE 11 DE JULHO DE 1941
 
 Dispõe sobre a Comissão Censitária Nacional

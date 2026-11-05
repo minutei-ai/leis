@@ -1,5 +1,3 @@
-###DEC-049205-0-000-11-11-1960@@@
-
 DECRETO Nº 49.205, DE 11 DE NOVEMBRO DE 1960.
 
 Transfere funções da Tabela Numérica Especial de Extranumerário-mensalista do Parque de Aeronáutica dos Afonsos para a da Diretoria do Material.

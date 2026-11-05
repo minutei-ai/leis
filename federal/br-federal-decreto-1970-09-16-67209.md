@@ -1,5 +1,3 @@
-###DEC-067209-0-000-16-09-1970@@@
-
 Decreto nº 67.209, de 16 de setembro de 1970.
 
 Altera o Decreto nº 63.378, de 8 de outubro de 1968, que regulamentou a Lei de Promoções dos Oficiais da Ativa da Aeronáutica.

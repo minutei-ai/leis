@@ -1,5 +1,3 @@
-###DEC-094363-0-000-22-05-1987@@@
-
 DECRETO Nº 94.363, DE 22 DE MAIO DE 1987.
 
 Autoriza o funcionamento do curso de Filosofia da Escola Superior de Estudos Sociais de Brusque, Santa Catarina.

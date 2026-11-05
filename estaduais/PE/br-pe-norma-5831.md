@@ -56,30 +56,54 @@ VALORES NOMINAIS DE VENCIMENTO BASE DOS CARGOS INDICADOS (em R$)
 
 (Denominações alteradas pelos §§ 1º e 2º do art. 1º da [Lei Complementar nº 197, de 21 de dezembro de 2011](https://legis.alepe.pe.gov.br/?lc1972011). Novas denominações: Fiscal Estadual Agropecuário, Analista de Defesa Agropecuária, Assistente de Defesa Agropecuária e Auxiliar de Defesa Agropecuária.)
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="96%" style="border:outset black 1.0pt"><tbody><tr style="height:8.25pt"><td width="17%" style="width:17.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  font-weight:normal">NÍVEIS</span></h1><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(com intervalos de 15%)</span></p></td><td width="20%" style="width:20.7%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AUXILIAR DE DEFESA AGROPECUÁRIA</span></p></td><td width="18%" style="width:18.26%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ASSISTENTE TÉCNICO DE DEFESA AGROPECUÁRIA</span></p></td><td width="21%" style="width:21.88%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ANALISTA TÉCNICO DE DEFESA AGROPECUÁRIA</span></p></td><td width="20%" style="width:20.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FISCAL DE DEFESA AGROPECUÁRIA</span></p></td></tr><tr style="height:8.25pt"><td width="17%" style="width:17.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">IV</span></p></td><td width="20%" style="width:20.7%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.254,72</span></p></td><td width="18%" style="width:18.26%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.486,63</span></p></td><td width="21%" style="width:21.9%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.942,84</span></p></td><td width="20%" style="width:20.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.942,84</span></p></td></tr><tr style="height:8.25pt"><td width="17%" style="width:17.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="20%" style="width:20.7%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.091,06</span></p></td><td width="18%" style="width:18.26%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.162,29</span></p></td><td width="21%" style="width:21.9%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.298,13</span></p></td><td width="20%" style="width:20.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.298,13</span></p></td></tr><tr style="height:8.25pt"><td width="17%" style="width:17.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="20%" style="width:20.7%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">948,75</span></p></td><td width="18%" style="width:18.26%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.880,25</span></p></td><td width="21%" style="width:21.9%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.737,50</span></p></td><td width="20%" style="width:20.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.737,50</span></p></td></tr><tr style="height:8.25pt"><td width="17%" style="width:17.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="20%" style="width:20.7%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">825,00</span></p></td><td width="18%" style="width:18.26%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.635,00</span></p></td><td width="21%" style="width:21.9%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.250,00</span></p></td><td width="20%" style="width:20.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.25pt"><p class="MsoNormal" align="right" style="margin-right:1.45pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.250,00</span></p></td></tr></tbody></table>
+# NÍVEIS
+
+(com intervalos de 15%)
+
+AUXILIAR DE DEFESA AGROPECUÁRIA
+
+ASSISTENTE TÉCNICO DE DEFESA AGROPECUÁRIA
+
+ANALISTA TÉCNICO DE DEFESA AGROPECUÁRIA
+
+FISCAL DE DEFESA AGROPECUÁRIA
+
+IV
+
+1.254,72
+
+2.486,63
+
+4.942,84
+
+4.942,84
+
+III
+
+1.091,06
+
+2.162,29
+
+4.298,13
+
+4.298,13
+
+II
+
+948,75
+
+1.880,25
+
+3.737,50
+
+3.737,50
+
+I
+
+825,00
+
+1.635,00
+
+3.250,00
+
+3.250,00

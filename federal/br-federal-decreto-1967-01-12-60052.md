@@ -1,5 +1,3 @@
-###DEC-060052-0-000-12-01-1967@@@
-
 DECRETO Nº 60.052, DE 12 DE JANEIRO DE 1967.
 
 Extingue o regime de Intervenção federal na Administração do Pôrto do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-070332-0-000-28-03-1972@@@
-
 DECRETO Nº 70.332, DE 28 DE MARÇO DE 1972.
 
 Dá nova redação ao artigo 3º do Decreto nº 58.358, de 5 de maio de 1966, alterado pelos Decretos números 59.871, de 26 de dezembro de 1966, e 60.894, de 23 de junho de 1967, que fixa a composição dos Membros da Delegação Brasileira na Comissão Militar Mista Brasil - Estados Unidos.

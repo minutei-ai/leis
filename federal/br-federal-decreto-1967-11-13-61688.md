@@ -1,5 +1,3 @@
-###DEC-061688-0-000-13-11-1967@@@
-
 DECRETO Nº 61.688, DE 13 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade de Educação Integral e Assistência Social - SEIAS - com sede em Belo Horizonte, Estado de Minas Gerais.

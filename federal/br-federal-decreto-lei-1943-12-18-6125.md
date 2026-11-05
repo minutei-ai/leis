@@ -1,5 +1,3 @@
-###DEL-006125-0-000-18-12-1943@@@
-
 DECRETO‑LEI N. 6.125 – DE 18 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Educação o Saúde o crédito especial de Cr$ 14.688.698,00, para prosseguimento e conclusão de obras

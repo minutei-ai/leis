@@ -1,5 +1,3 @@
-###DEC-051255-0-000-25-08-1961@@@
-
 Decreto nº 51.255, de 25 de agôsto de 1961.
 
 Vincula recursos do Fundo Federal de Eletrificação ao projeto hidrelétrico de Furnas a autoriza o Banco Nacional do Desenvolvimento Econômico a tomar as providências necessárias.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3a0a6b00-5aaa-4439-bbae-7110f62ee986/texto#nowhere)
 
-###DEL-001218-0-000-15-05-1972@@@
-
 # DECRETO-LEI Nº 1.218, dE 15 MAIO DE 1972
 
 Acrescenta parágrafo único ao artigo 1º do Decreto-lei nº 415, de 10 de janeiro de 1969.

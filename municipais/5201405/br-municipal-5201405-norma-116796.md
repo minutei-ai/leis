@@ -22,13 +22,16 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 2
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-JULIO CESAR RODRIGUES DE LEMOS<br>
+JULIO CESAR RODRIGUES DE LEMOS
+
 Secretário Municipal de Habitação de Regularização Fundiária
 
-[TERMO DE COMPROMISSO E COMPENSAÇÃO FINANCEIRA – TCCF N° 001/2016](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19051/anexo)<br>
+[TERMO DE COMPROMISSO E COMPENSAÇÃO FINANCEIRA – TCCF N° 001/2016](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19051/anexo)

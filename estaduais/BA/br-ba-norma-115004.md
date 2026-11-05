@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda à
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da verba 3.5.08 - codificação 3.1.4.0 - do orçamento vigente.
 
-Redação de acordo com a Lei nº 2.335, de 23 de maio de 1966.<br>
+Redação de acordo com a Lei nº 2.335, de 23 de maio de 1966.
+
 Redação original: "Art. 2º -  As despesas decorrentes da abertura do presente crédito correrão  à conta das seguintes rubricas do Orçamento para o corrente exercício:"
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ João Eurico Matta
 
 Boris Tabacof
 
-* * *
+ *

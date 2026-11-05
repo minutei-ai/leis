@@ -1,5 +1,3 @@
-###DEC-085575-0-000-22-12-1980@@@
-
 Decreto nº 85.575, de 22 de dezembro de 1980.
 
 Dispõe sobre a extinção dos cargos de Secretario-Geral e Inspetor-Geral de Finanças da antiga SECOM.

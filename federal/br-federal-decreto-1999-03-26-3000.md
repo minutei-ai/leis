@@ -1,5 +1,3 @@
-###DEC-003000-0-000-26-03-1999@@@
-
 DECRETO Nº 3.000, DE 26 DE MARÇO DE 1999 (\*)
 
 Regulamenta a tributação, fiscalização, arrecadação e administração do Imposto sobre a Renda e Proventos de Qualquer Natureza.
@@ -1344,21 +1342,55 @@ Art. 86. O imposto devido na declaração de rendimentos será calculado mediant
 
 I - relativamente aos fatos geradores ocorridos durante os anos-calendário de 1998 e 1999 (Lei nº 9.532, de 1997, art 21);
 
-<table>
-<tr><td>BASE DE CÁLCULO EM R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 10.800,00</td><td>----</td><td>----</td></tr>
-<tr><td>Acima de 10.800,00 até 21.600,00</td><td>15</td><td>1.620,00</td></tr>
-<tr><td>Acima de 21.600,00</td><td>27,5</td><td>4.320,00</td></tr>
-</table>
+BASE DE CÁLCULO EM R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 10.800,00
+
+----
+
+----
+
+Acima de 10.800,00 até 21.600,00
+
+15
+
+1.620,00
+
+Acima de 21.600,00
+
+27,5
+
+4.320,00
 
 II - relativamente aos fatos geradores que ocorrerem a partir de 1º de janeiro de 2000 (Lei nº 9.250, de 1995, art. 11, e Lei nº 9.532, de 1997, art. 21, parágrafo único).
 
-<table>
-<tr><td>BASE DE CÁLCULO EM R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 10.800,00</td><td>-----</td><td>----</td></tr>
-<tr><td>Acima de 10.800,00 até 21.600,00</td><td>15</td><td>1.620,00</td></tr>
-<tr><td>Acima de 21.600,00</td><td>25</td><td>3.780,00</td></tr>
-</table>
+BASE DE CÁLCULO EM R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 10.800,00
+
+-----
+
+----
+
+Acima de 10.800,00 até 21.600,00
+
+15
+
+1.620,00
+
+Acima de 21.600,00
+
+25
+
+3.780,00
 
 Art. 87. Do imposto apurado na forma do artigo anterior, poderão ser deduzidos (Lei nº 9.250, de 1995, art. 12):
 
@@ -1608,21 +1640,55 @@ Art. 111. O imposto de renda incidente sobre os rendimentos de que trata este T�
 
 I - relativamente aos fatos geradores que ocorrerem durante os anos-calendário de 1998 e 1999 (Lei nº 9.532, de 1997, art. 21);
 
-<table>
-<tr><td>BASE DE CÁLCULO EM R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 900,00</td><td>-----</td><td>----</td></tr>
-<tr><td>Acima de 900,00 até 1.800,00</td><td>15</td><td>135,00</td></tr>
-<tr><td>Acima de 1.800,00</td><td>27,5</td><td>360,00</td></tr>
-</table>
+BASE DE CÁLCULO EM R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 900,00
+
+-----
+
+----
+
+Acima de 900,00 até 1.800,00
+
+15
+
+135,00
+
+Acima de 1.800,00
+
+27,5
+
+360,00
 
 II - relativamente aos fatos geradores que ocorrerem a partir de 1º de janeiro de 2000 (Lei nº 9.250, de 1995, art. 3º, e Lei nº 9.532, de 1997, art. 21, parágrafo único).
 
-<table>
-<tr><td>BASE DE CÁLCULO EM R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 900,00</td><td>----</td><td>----</td></tr>
-<tr><td>Acima de 900,00 até 1.800,00</td><td>15</td><td>135,00</td></tr>
-<tr><td>Acima de 1.800,00</td><td>25</td><td>315,00</td></tr>
-</table>
+BASE DE CÁLCULO EM R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 900,00
+
+----
+
+----
+
+Acima de 900,00 até 1.800,00
+
+15
+
+135,00
+
+Acima de 1.800,00
+
+25
+
+315,00
 
 Parágrafo único. O imposto será calculado sobre os rendimentos recebidos em cada mês (Lei nº 9.250, de 1995, art. 3º, parágrafo único).
 
@@ -1954,19 +2020,93 @@ III - o ganho de capital será obtido aplicando-se o percentual encontrado, conf
 
 Art. 139. Na alienação de imóvel adquirido até 31 de dezembro de 1988, poderá ser aplicado um percentual fixo de redução sobre o ganho de capital apurado, segundo o ano de aquisição ou incorporação do bem, de acordo com a seguinte tabela (Lei nº 7.713, de 1988, art. 18):
 
-<table>
-<tr><td>Ano de Aquisição ou Incorporação</td><td>Percentual de Redução</td><td>Ano de Aquisição ou Incorporação</td><td>Percentual De Redução</td></tr>
-<tr><td>1969</td><td>100%</td><td>1979</td><td>50%</td></tr>
-<tr><td>1970</td><td>95%</td><td>1980</td><td>45%</td></tr>
-<tr><td>1971</td><td>90%</td><td>1981</td><td>40%</td></tr>
-<tr><td>1972</td><td>85%</td><td>1982</td><td>35%</td></tr>
-<tr><td>1973</td><td>80%</td><td>1983</td><td>30%</td></tr>
-<tr><td>1974</td><td>75%</td><td>1984</td><td>25%</td></tr>
-<tr><td>1975</td><td>70%</td><td>1985</td><td>20%</td></tr>
-<tr><td>1976</td><td>65%</td><td>1986</td><td>15%</td></tr>
-<tr><td>1977</td><td>60%</td><td>1987</td><td>10%</td></tr>
-<tr><td>1978</td><td>55%</td><td>1988</td><td>5%</td></tr>
-</table>
+Ano de Aquisição ou Incorporação
+
+Percentual de Redução
+
+Ano de Aquisição ou Incorporação
+
+Percentual De Redução
+
+1969
+
+100%
+
+1979
+
+50%
+
+1970
+
+95%
+
+1980
+
+45%
+
+1971
+
+90%
+
+1981
+
+40%
+
+1972
+
+85%
+
+1982
+
+35%
+
+1973
+
+80%
+
+1983
+
+30%
+
+1974
+
+75%
+
+1984
+
+25%
+
+1975
+
+70%
+
+1985
+
+20%
+
+1976
+
+65%
+
+1986
+
+15%
+
+1977
+
+60%
+
+1987
+
+10%
+
+1978
+
+55%
+
+1988
+
+5%
 
 § 1º Não haverá redução, relativamente aos imóveis adquiridos a partir de 1º de janeiro de 1989 (Lei nº 7.713, de 1988, art. 18, parágrafo único).
 
@@ -7418,21 +7558,55 @@ Art. 620. Os rendimentos de que trata este Capítulo estão sujeitos à incidên
 
 I - relativamente aos fatos geradores que ocorrerem durante os anos-calendário de 1998 e 1999 (Lei nº 9.532, de 1997, art. 21):
 
-<table>
-<tr><td>BASE DE CÁLCULO MENSAL R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 900,00</td><td>--</td><td>--</td></tr>
-<tr><td>Acima de 900,00 até 1.800,00</td><td>15</td><td>135,00</td></tr>
-<tr><td>Acima de 1.800,00</td><td>27,5</td><td>360,00</td></tr>
-</table>
+BASE DE CÁLCULO MENSAL R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 900,00
+
+--
+
+--
+
+Acima de 900,00 até 1.800,00
+
+15
+
+135,00
+
+Acima de 1.800,00
+
+27,5
+
+360,00
 
 II - relativamente aos fatos geradores que ocorrerem a partir de 1º de janeiro de 2000 (Lei Nº 9.250, de 1995, art 3º, e Lei nº 9.532, de 1997, art. 21, parágrafo único):
 
-<table>
-<tr><td>BASE DE CÁLCULO EM R$</td><td>ALÍQUOTA %</td><td>PARCELA A DEDUZIR DO IMPOSTO EM R$</td></tr>
-<tr><td>Até 10.800,00</td><td>----</td><td>----</td></tr>
-<tr><td>Acima de 10.800,00 até 21.600,00</td><td>15</td><td>135,00</td></tr>
-<tr><td>Acima de 21.600,00</td><td>25</td><td>315,00</td></tr>
-</table>
+BASE DE CÁLCULO EM R$
+
+ALÍQUOTA %
+
+PARCELA A DEDUZIR DO IMPOSTO EM R$
+
+Até 10.800,00
+
+----
+
+----
+
+Acima de 10.800,00 até 21.600,00
+
+15
+
+135,00
+
+Acima de 21.600,00
+
+25
+
+315,00
 
 § 1º O imposto de que trata este artigo será calculado sobre os rendimentos efetivamente recebidos em cada mês, observado o disposto no parágrafo único do art. 38 (Lei nº 9.250, de 1995, art. 3º, parágrafo único).
 

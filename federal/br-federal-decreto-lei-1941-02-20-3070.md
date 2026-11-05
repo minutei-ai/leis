@@ -1,5 +1,3 @@
-###DEL-003070-0-000-20-02-1941@@@
-
 DECRETO-LEI N. 3.070 – DE 20 DE FEVEREIRO DE 1941
 
 Dispõe sobre o pessoal a serviço dos Estados, Municípios, Distrito Federal e Territórios Federais, e dá outras providências.

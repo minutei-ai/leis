@@ -4,7 +4,8 @@ Dispõe sobre as competências, a composição e o funcionamento do Conselho Mun
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA NATUREZA E COMPETÊNCIA
 
 Art. 1° O Conselho Municipal de Segurança Alimentar e Nutricional (COMSAN/ Aparecida de Goiânia-GO), órgão de assessoramento imediato ao Prefeito de Aparecida de Goiânia, integra o Sistema Nacional de Segurança Alimentar e Nutricional – SISAN, instituído pela Lei Federal nº 11.346, de 15 de setembro de 2011.
@@ -33,7 +34,8 @@ IX- elaborar e aprovar o seu regimento interno.
 
 §2° Na ausência de convocação por parte do Chefe do Poder Executivo no prazo regulamentar, a Conferência Municipal de Segurança Alimentar e Nutricional será convocada pelo COMSAN.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPOSIÇÃO
 
 Art. 3º - O COMSAN será composto por 9 (nove) membros, titulares e suplentes, dos quais 2/3 (dois terços) de representantes da sociedade civil, sendo um destes o Presidente do conselho, e 1/3 (um terço) de representantes governamentais. 
@@ -44,7 +46,8 @@ I – Secretário(a) Municipal de Assistência Social;
 
 II – Secretário(a) Municipal de Saúde;
 
-III – Secretário(a) Municipal de Educação e Cultura.<br>
+III – Secretário(a) Municipal de Educação e Cultura.
+
 (Redação alterada pela Lei Ordinária nº 3.350, de 13 de março de 2017).
 
 ~~Art. 3° O COMSAN será composto por 18 membros, titulares e suplentes, dos quais dois terços de representantes da sociedade civil, cabendo a representante deste segmento exercer a presidência do conselho, e um terço de representantes governamentais.~~
@@ -87,7 +90,8 @@ III - Secretária-Executiva;
 
 IV - Comissões Temáticas.
 
-Seção I<br>
+Seção I
+
 Da Presidência e da Secretária-geral
 
 Art. 7° O COMSAN será presidido por um representante da sociedade civil, indicado pelo Conselho, entre seus membros, e designado pelo Prefeito.
@@ -128,7 +132,8 @@ VI - Substituir o Presidente em seus impedimentos;
 
 VII - presidir a CAISAN Municipal.
 
-Seção II<br>
+Seção II
+
 Da Secretaria-Executiva
 
 Art. 11 Para o cumprimento de suas funções, o COMSAN contará, em sua estrutura organizacional, com uma Secretaria-Executiva, que dará suporte técnico e administrativo ao seu funcionamento.
@@ -149,7 +154,8 @@ Art. 13 Incumbe ao Secretário-Executivo do COMSAN dirigir, coordenar e orientar
 
 Art. 14 Para o desempenho de suas atribuições, a Secretaria-Executiva contará com estrutura específica, nos termos estabelecidos em decreto, que disporá sobre os quantitativos de cargos em comissão e funções de confiança para essa finalidade.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO FUNCIONAMENTO
 
 Art. 15 Poderão participar das reuniões do COMSAN, a convite de seu presidente, representantes de outros órgãos ou entidades públicas, municipais, estaduais, nacionais e internacionais, bem como pessoas que representem a sociedade civil, cuja participação, de acordo com a pauta da reunião, seja justificável.
@@ -164,8 +170,10 @@ Art. 19 Esta Lei entra em vigor na data de sua publicação, ficando revogada a 
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 26 DIAS DO MÊS DE MAIO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

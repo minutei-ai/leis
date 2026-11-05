@@ -1,5 +1,3 @@
-###DEC-058247-0-000-22-04-1966@@@
-
 DECRETO Nº 58.247, DE 22 DE ABRIL DE 1966.
 
 Cria o “Fundo de Pesquisas Industriais e Técnicas”, diretamente subordinado a Comissão de Desenvolvimento Industrial, do Ministério da Indústria e do Comércio.

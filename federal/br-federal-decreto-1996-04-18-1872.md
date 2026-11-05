@@ -1,5 +1,3 @@
-###DEC-001872-0-000-18-04-1996@@@
-
 DECRETO Nº 1.872, DE 18 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Alcance Parcial de "Renegociação das concessões outorgadas no período 1962/1980" Nº 10 (Protocolo de Adequação), entre Brasil e Colômbia, de 23 de novembro de 1995.

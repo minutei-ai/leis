@@ -1,5 +1,3 @@
-###DEL-006548-0-000-31-05-1944@@@
-
 DECRETO-LEI N. 6.548 – DE 31 DE MAIO DE 1944
 
 Altera dispositivos da Lei de Promoções do Exército, e dá outras providências

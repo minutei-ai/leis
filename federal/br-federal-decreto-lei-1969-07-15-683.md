@@ -1,5 +1,3 @@
-###DEL-000683-0-000-15-07-1969@@@
-
 DECRETO-LEI Nº 683, DE 15 DE JULHO DE 1969
 
 Dispõe sôbre tarifas aeroportuárias e dá outras providências.

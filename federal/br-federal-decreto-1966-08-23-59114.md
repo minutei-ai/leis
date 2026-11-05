@@ -1,5 +1,3 @@
-###DEC-059114-0-000-23-08-1966@@@
-
 DECRETO Nº 59.114, DE 23 DE AGÔSTO DE 1966.
 
 Concede reconhecimento ao Curso de Biblioteconomia da Universidade Federal de Pernambuco.

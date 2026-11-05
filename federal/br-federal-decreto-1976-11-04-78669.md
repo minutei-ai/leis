@@ -1,5 +1,3 @@
-###DEC-078669-0-000-04-11-1976@@@
-
 DECRETO Nº 78.669, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Psicologia e de Letras da Faculdade de Ciências Humanas de Olinda, com sede na cidade de Olinda, Estado de Pernambuco.

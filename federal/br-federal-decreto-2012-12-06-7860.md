@@ -1,5 +1,3 @@
-###DEC-007860-0-000-06-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.860, DE 6 DE DEZEMBRO DE 2012
 
 Cria a Comissão Nacional para Assuntos de Praticagem, com o objetivo de elaborar propostas sobre regulação de preços, abrangência das zonas e medidas de aperfeiçoamento relativas ao serviço de praticagem; e altera o Decreto nº 2.596, de 18 de maio de 1998.

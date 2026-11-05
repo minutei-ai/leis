@@ -1,5 +1,3 @@
-###DEC-084408-0-000-21-01-1980@@@
-
 Decreto nº 84.408 de 21 de janeiro de 1980
 
 Autoriza o funcionamento do curso de Formação de Tecnólogos em Processamento de Dados, da Sociedade Civil Escola de Administração de Empresa da Bahia.

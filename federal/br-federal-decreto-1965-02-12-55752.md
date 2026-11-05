@@ -1,5 +1,3 @@
-###DEC-055752-0-000-12-02-1965@@@
-
 DECRETO Nº 55.752, DE 12 DE FEVEREIRO DE 1965.
 
 Institui comissão para as comemorações do centenário de “Iracema”, de José de Alencar

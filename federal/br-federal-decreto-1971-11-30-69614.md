@@ -1,5 +1,3 @@
-###DEC-069614-0-000-30-11-1971@@@
-
 DECRETO Nº 69.614 - DE 30 DE NOVEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo do Departamento Nacional de Obras Contra as Sêcas para o Departamento de Estradas de Rodagem, e dá outras providências.

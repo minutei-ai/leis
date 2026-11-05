@@ -1,5 +1,3 @@
-###DEC-085454-0-000-04-12-1980@@@
-
 Decreto nº 85.454, de 04 de dezembro de 1980.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Marinha.

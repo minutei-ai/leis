@@ -1,5 +1,3 @@
-###DEC-096913-0-000-03-10-1988@@@
-
 DECRETO Nº 96.913, DE 3 DE OUTUBRO DE 1988
 
 Outorga concessão à Estrada de Ferro Paraná Oeste S.A. - FERROESTE para construção, uso e gozo da estrada de ferro que menciona e dá outras providências.

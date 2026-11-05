@@ -1,5 +1,3 @@
-###DEC-003206-0-000-13-10-1999@@@
-
 DECRETO Nº 3.206, DE 13 DE OUTUBRO DE 1999.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia para Impedir o Uso Ilegal de Precursores e Substâncias Químicas Essenciais para o Processamento de Entorpecentes e Substâncias Psicotrópicas, celebrado em Cartagena de Índias, em 7 de novembro de 1997.
@@ -152,4 +150,24 @@ Disposições Finais
 
 Feito em Cartagena de Índias, em 07 de novembro de 1997, em dois exemplares, nos idiomas português e espanhol, sendo ambos os textos igualmente válidos e autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil:</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Da Colômbia:</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Sebastião do Rego Barros</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Maria Emma Mejía Vélez</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado, Interino,</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministra de Relações</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">do Ministério das Relações</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Exteriores</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Exteriores:</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil:
+
+Da Colômbia:
+
+Sebastião do Rego Barros
+
+Maria Emma Mejía Vélez
+
+Ministro de Estado, Interino,
+
+Ministra de Relações
+
+do Ministério das Relações
+
+Exteriores
+
+Exteriores:

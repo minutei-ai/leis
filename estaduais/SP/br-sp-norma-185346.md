@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185346)
-
 # DECRETO Nº 63.237, DE 01 DE MARÇO DE 2018
 
 ### _Transfere da administração da Secretaria da Educação para a da Secretaria da Segurança Pública, o imóvel que específica, situado na Estância Turística de Guaratinguetá_
@@ -18,12 +16,20 @@ Palácio dos Bandeirantes, 1º de março de 2018
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, a 1º de março de 2018.

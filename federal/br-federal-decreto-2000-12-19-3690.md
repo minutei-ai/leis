@@ -1,5 +1,3 @@
-###DEC-003690-0-000-19-12-2000@@@
-
 DECRETO Nº 3.690, DE 19 DE Dezembro DE 2000.
 
 Aprova o Regulamento do Corpo do Pessoal Graduado da Aeronáutica, e dá outras providências.

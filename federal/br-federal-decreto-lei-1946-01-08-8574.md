@@ -1,5 +1,3 @@
-###DEL-008574-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.574 – DE 8 DE JANEIRO DE 1946
 
 Altera o Decreto nº 21.336, de 29 de abril de 1932.

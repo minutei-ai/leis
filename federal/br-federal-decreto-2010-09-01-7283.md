@@ -1,5 +1,3 @@
-###DEC-007283-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.283, DE 1º DE SETEMBRO DE 2010.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Unida da Tanzânia, firmado em Brasília, em 15 de maio de 2006.
@@ -146,4 +144,12 @@ As controvérsias surgidas durante a implementação do presente Acordo serão d
 
 Feito em Brasília, em 15 de maio de 2006, em dois (2) exemplares, nas línguas portuguesa e inglesa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:282.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">__________________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL CELSO AMORIM Ministro de Estado das Relações Exteriores</span></p></td><td style="width:254.95pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">____________________________________ PELO GOVERNO DA REPÚBLICA UNIDA DA TANZÂNIA ASHA-ROSE MIGIRO Ministra dos Negócios Estrangei</span><span style="font-family:'Arial Unicode MS'">ros</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:282.8pt; vertical-align:top">
+
+__________________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL CELSO AMORIM Ministro de Estado das Relações Exteriores
+
+</td><td style="width:254.95pt; vertical-align:top">
+
+____________________________________ PELO GOVERNO DA REPÚBLICA UNIDA DA TANZÂNIA ASHA-ROSE MIGIRO Ministra dos Negócios Estrangeiros
+
+</td></tr></tbody></table>

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/193281)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2020/compilacao-lei.complementar-1354-06.03.2020.html)
 
 # LEI COMPLEMENTAR N° 1.354, DE 06 DE MARÇO DE 2020
@@ -9,18 +8,22 @@
 
 _\- Vide [Decreto n° 65.964, de 27/08/2021](https://www.al.sp.gov.br/norma/199720)._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** As aposentadorias e as pensões do Regime Próprio de Previdência Social - RPPS de que trata a [Lei Complementar n° 1.010, de 1° de junho de 2007](https://www.al.sp.gov.br/norma/71946), passam a ser regidas por esta lei.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Aposentadoria
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Aposentadorias Comuns
 
 **Artigo 2° -** O servidor público abrangido pelo regime próprio de previdência estadual será aposentado:
@@ -37,7 +40,8 @@ b) 25 (vinte e cinco) anos de contribuição, desde que cumprido o tempo mínimo
 
 _\- Expressão "nível ou classe" declarada inconstitucional pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 7676_](https://portal.stf.jus.br/)_._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Aposentadorias Especiais
 
 **Artigo 3° -** O servidor com deficiência será aposentado voluntariamente, desde que cumprido tempo mínimo de 10 (dez) anos de efetivo exercício de serviço público e 5 (cinco) anos no cargo efetivo~~, nível ou classe~~ em que for concedida a aposentadoria, observadas as seguintes condições: (NR)
@@ -102,7 +106,8 @@ _\- Expressão "nível ou classe" declarada inconstitucional pelo Supremo Tribun
 
 **§ 2°** - O período em readaptação, desde que exercido pelo professor na unidade básica de ensino, será computado para fins de concessão da aposentadoria de que trata este artigo.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Cálculo da Aposentadoria
 
 **Artigo 7° -** O cálculo dos proventos de aposentadoria do servidor público titular de cargo efetivo considerará a média aritmética simples das remunerações adotadas como base para as contribuições aos regimes de previdência a que o servidor esteve vinculado, atualizadas monetariamente, correspondentes a 100% (cem por cento) do período contributivo, desde a competência julho de 1994 ou desde a do início da contribuição, se posterior àquela competência.
@@ -135,7 +140,8 @@ II - superiores ao limite máximo estabelecido para o Regime Geral de Previdênc
 
 **Parágrafo único -** As aposentadorias decorrentes de incapacidade permanente ou de servidores com deficiência ou de servidores cujas atividades sejam exercidas com exposição a agentes nocivos, químicos, físicos e biológicos prejudiciais à saúde terão os proventos devidos a partir da publicação do ato concessório.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Regras de Transição
 
 **Artigo 10 -** O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, até a data de entrada em vigor desta lei complementar, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos:
@@ -274,10 +280,12 @@ IV - somatório da idade e do tempo de contribuição equivalente a 86 (oitenta 
 
 **§ 3°** \- Os proventos das aposentadorias concedidas com fundamento neste artigo não serão inferiores ao valor a que se refere o § 2° do artigo 201 da Constituição Federal e serão reajustados na mesma data utilizada para fins de reajuste dos benefícios do Regime Geral de Previdência Social, com base no Índice de Preços ao Consumidor - IPC, apurado pela Fundação Instituto de Pesquisas Econômicas - FIPE.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Pensão por Morte
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Dependentes e da Habilitação
 
 **Artigo 14 -** São dependentes do servidor, para fins de recebimento de pensão por morte:
@@ -308,7 +316,8 @@ VI - o ex-cônjuge, o ex-companheiro ou a ex-companheira, desde que o servidor l
 
 **§ 7°** - Na falta de decisão judicial com trânsito em julgado reconhecendo a união estável, o companheiro ou companheira deverá comprová-la conforme estabelecido em regulamento.
 
-**§ 8°** - Será excluído definitivamente da condição de dependente aquele que tiver sido condenado criminalmente por sentença com trânsito em julgado, como autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse crime, cometido contra a pessoa do servidor, ressalvados os inimputáveis.<br>
+**§ 8°** - Será excluído definitivamente da condição de dependente aquele que tiver sido condenado criminalmente por sentença com trânsito em julgado, como autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse crime, cometido contra a pessoa do servidor, ressalvados os inimputáveis.
+
 Artigo 15 - Se houver fundados indícios de autoria, coautoria ou participação de dependente, ressalvados os inimputáveis, em homicídio, ou em tentativa desse crime, cometido contra a pessoa do servidor, será possível a suspensão provisória de sua parte no benefício de pensão por morte, mediante processo administrativo próprio, respeitada a ampla defesa e o contraditório, e serão devidas, em caso de absolvição, todas as parcelas corrigidas desde a data da suspensão, bem como a reativação imediata do benefício.
 
 **Artigo 16 -** Por morte presumida do servidor, declarada pela autoridade judicial competente, depois de 6 (seis) meses de ausência, será concedida pensão provisória.
@@ -317,7 +326,8 @@ Artigo 15 - Se houver fundados indícios de autoria, coautoria ou participação
 
 **§ 2°** - Verificado o reaparecimento do servidor, o pagamento da pensão cessará imediatamente, desobrigados os dependentes da reposição dos valores recebidos, salvo comprovada má-fé.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Cálculo do Benefício da Pensão
 
 **Artigo 17 -** A pensão por morte concedida a dependente do servidor será equivalente a uma cota familiar de 50% (cinquenta por cento) do valor da aposentadoria recebida pelo servidor ou daquela a que teria direito se fosse aposentado por incapacidade permanente na data do óbito, acrescida de cotas de 10 (dez) pontos percentuais por dependente, até o máximo de 100% (cem por cento).
@@ -358,7 +368,8 @@ III - da decisão judicial, no caso de morte presumida ou ausência.
 
 **Artigo 21 -** Os benefícios de pensão serão reajustados na mesma data utilizada para fins de reajuste dos benefícios do Regime Geral de Previdência Social, com base no Índice de Preços ao Consumidor - IPC, apurado pela Fundação Instituto de Pesquisas Econômicas - FIPE.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Duração e da Extinção da Pensão
 
 **Artigo 22 -** O direito à percepção da cota individual cessará:
@@ -413,7 +424,8 @@ f) sem prazo determinado, com 44 (quarenta e quatro) ou mais anos de idade.
 
 **§ 5°** - O tempo de contribuição aos demais regimes de previdência será considerado na contagem das 18 (dezoito) contribuições mensais de que tratam os incisos I e II deste artigo.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Acumulação de Benefícios Previdenciários
 
 **Artigo 24 -** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma da Constituição Federal, é vedada a percepção de mais de uma aposentadoria à conta de regime próprio de previdência social, aplicando-se outras vedações, regras e condições para acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social.
@@ -442,7 +454,8 @@ Da Acumulação de Benefícios Previdenciários
 
 **§ 4°** \- As restrições previstas neste artigo não serão aplicadas se o direito aos benefícios houver sido adquirido antes da data de entrada em vigor desta lei complementar.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 26** \- A concessão de aposentadoria ao servidor público estadual titular de cargo efetivo e de pensão por morte aos respectivos dependentes será assegurada, a qualquer tempo, desde que tenham sido cumpridos os requisitos para obtenção desses benefícios até a data de entrada em vigor desta lei complementar, observados os critérios da legislação vigente na data em que foram atendidos os requisitos para a concessão da aposentadoria ou da pensão por morte.

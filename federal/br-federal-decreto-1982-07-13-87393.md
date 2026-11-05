@@ -1,5 +1,3 @@
-###DEC-087393-0-000-13-07-1982@@@
-
 DECRETO Nº 87.393, de 13 de julho de 1982
 
 Concede ao INSTITUTO DE RESSEGUROS DO BRASIL autorização para proceder a aumento do seu capital social.

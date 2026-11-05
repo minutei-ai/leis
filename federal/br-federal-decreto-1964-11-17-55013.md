@@ -1,5 +1,3 @@
-###DEC-055013-0-000-17-11-1964@@@
-
 DECRETO Nº 55.013, DE 17 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública a “Inspentoria Missionária Luara Vicunã das Irmãs Salesianas no Norte, do Brasil”, com sede em Manaus, Estado do Amazonas.

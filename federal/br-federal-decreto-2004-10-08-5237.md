@@ -1,5 +1,3 @@
-###DEC-005237-0-000-08-10-2004@@@
-
 DECRETO Nº 5.237 DE 8 DE OUTUBRO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia para Prevenção, Investigação e Combate a Infrações Aduaneiras, celebrado em Brasília, em 12 de dezembro de 2001.

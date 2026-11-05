@@ -1,5 +1,3 @@
-###DEL-007012-0-000-01-11-1944@@@
-
 DECRETO-LEI N. 7.012 – DE 1 DE NOVEMBRO DE 1944
 
 Dispõe sôbre o pessoal do Conselho Superior das Caixas Econômicas Federais

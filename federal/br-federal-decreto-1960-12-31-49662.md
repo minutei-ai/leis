@@ -1,5 +1,3 @@
-###DEC-049662-0-000-31-12-1960@@@
-
 DECRETO Nº 49.662, DE 31 DE DEZEMBRO DE1960.
 
 Altera o art. 1º do Decreto nº 41.328, de 10 de abril de 1957.

@@ -1,5 +1,3 @@
-###DEC-003534-0-000-03-07-2000@@@
-
 DECRETO Nº 3.534, DE 3 DE JULHO DE 2000.
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional (Regime de Solução de Controvérsias) ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, e da República Oriental do Uruguai, como Estados Partes do MERCOSUL, e o Governo da República da Bolívia, de 27 de abril de 2000.
@@ -38,4 +36,22 @@ A Secretaria Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos vinte dias do mês de abril de dois mil, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina:</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carlos Onis Vigil</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai:</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efrain Dario Centurión</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jorge Tálice</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Bolívia:</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Mario Lea Plaza Torri</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Carlos Onis Vigil
+
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Paraguai:
+
+Efrain Dario Centurión
+
+Pelo Governo da República Oriental do Uruguai:
+
+Jorge Tálice
+
+Pelo Governo da República da Bolívia:
+
+Mario Lea Plaza Torri

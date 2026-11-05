@@ -1,5 +1,3 @@
-###DEC-049031-0-000-05-10-1960@@@
-
 DECRETO Nº 49.031, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Claro Bueno de Camargo a pesquisar minérios de ferro e níquel no município de Itapeva, Estado de São Paulo.

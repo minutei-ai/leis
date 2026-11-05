@@ -1,5 +1,3 @@
-###DEC-047402-0-000-10-12-1959@@@
-
 DECRETO Nº 47.402, DE10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Gabriel Romano Munari a pesquisar argila no Município de Campo Largo, Estado do Paraná.

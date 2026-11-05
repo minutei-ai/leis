@@ -34,8 +34,10 @@ Goiânia, 28 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-VIRMONDES CRUVINEL<br>
+VIRMONDES CRUVINEL
+
 Deputado

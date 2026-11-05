@@ -1,5 +1,3 @@
-###DEC-004815-0-000-20-08-2003@@@
-
 DECRETO Nº 4.815, DE 20 DE AGOSTO DE 2003.
 
        Altera o art. 3º do Decreto no 3.939, de 26 de setembro de 2001, que dispõe sobre a Comissão Interministerial para os Recursos do Mar (CIRM).
@@ -48,5 +46,6 @@ XV \- Secretaria Especial de Aqüicultura e Pesca da Presidência da Repúblic
 
         Brasília, 20 de agosto de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

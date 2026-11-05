@@ -1,5 +1,3 @@
-###DEC-062403-0-000-14-03-1968@@@
-
 DECRETO Nº 62.403, DE 14 DE MARÇO DE 1968.
 
 Cria o Conselho Consultivo da Indústria Siderúrgica (CONSIDER).

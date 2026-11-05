@@ -1,5 +1,3 @@
-###DEC-088296-0-000-10-05-1983@@@
-
 Decreto nº 88.296 de 10 de maio de 1983
 
 Cria, no Ministério da Aeronáutica, o Instituto de Cartografia Aeronáutica e dá outras providências.

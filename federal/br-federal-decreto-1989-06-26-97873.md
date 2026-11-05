@@ -1,7 +1,3 @@
-1
-
-###DEC-097873-0-000-26-06-1989@@@
-
 DECRETO Nº 97.873, DE 26 DE JUNHO DE 1989
 
 Acrescenta parágrafo único ao art. 3º do Decreto nº 97.613, de 5 de abril de 1989.

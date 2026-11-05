@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a80ee2cb-76c2-4e51-8ce7-839a7dec8ebe/texto#nowhere)
 
-###DEL-000764-0-000-15-08-1969@@@
-
 DECRETO-LEI Nº 764, DE 15 DE AGÔSTO DE 1969
 
 Autoriza a constituição da sociedade por ações Companhia de Pesquisa de Recursos Minerais - C.P.R.M. dá outras providências

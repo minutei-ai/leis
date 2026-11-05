@@ -1,5 +1,3 @@
-###DEC-059088-0-000-18-08-1966@@@
-
 DECRETO Nº 59.088, DE 18 DE AGÔSTO DE 1966.
 
 Autoriza a Cia. Brasileira de Zinco a perquisar minério de cobre no município de Curaçá, Estado da Bahia.

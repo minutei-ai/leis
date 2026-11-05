@@ -1,5 +1,3 @@
-###DEC-094915-0-000-18-09-1987@@@
-
 DECRETO N° 94.915, DE 18 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Colônia Piquiri", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Cantagalo, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

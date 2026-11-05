@@ -1,5 +1,3 @@
-###DEL-006997-0-000-27-10-1944@@@
-
 DECRETO-LEI N. 6.997 – DE 27 OUTUBRO DE 1944
 
 Dá nova organização às Companhias Regionais do Corpo de Fuzileiros Navais

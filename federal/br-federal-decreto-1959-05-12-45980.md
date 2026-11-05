@@ -1,5 +1,3 @@
-###DEC-045980-0-000-12-05-1959@@@
-
 DECRETO Nº 45.980, DE 12 DE maio DE 1959.
 
 Abre pelo Ministério da Fazenda, o credito extraordinário de Cr$20.000.000,00, para assistência e amparo das populações vítimas das inundações ocorridas no Estado de Mato Grosso.

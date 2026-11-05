@@ -1,7 +1,3 @@
-1
-
-###DEC-097975-0-000-18-07-1989@@@
-
 DECRETO Nº 97.975, DE 18 DE JULHO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na Rua 19, Setor Central, na cidade de Goiânia, Estado de Goiás.

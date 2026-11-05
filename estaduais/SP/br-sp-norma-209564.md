@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209564)<br>
-
 # DECRETO N° 68.606, DE 15 DE JUNHO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, e por prazo determinado, do Município de Martinópolis, imóvel que especifica._

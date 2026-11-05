@@ -1,5 +1,3 @@
-###DEC-060589-0-000-12-04-1967@@@
-
 DECRETO Nº 60.589, DE 12 DE ABRIL DE 1967.
 
 Autoriza a cessão sob o regime de aforamento do terreno que menciona situado no Estado de Santa Catarina.

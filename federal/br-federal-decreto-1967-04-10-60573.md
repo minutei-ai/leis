@@ -1,5 +1,3 @@
-###DEC-060573-0-000-10-04-1967@@@
-
 DECRETO Nº 60.573, DE 10 DE ABRIL DE 1967.
 
 Declara de interêsse social, para fins de desapropriação, imóvel rural situado no Município de Cachoeiras de Macacu, no Estado do Rio de Janeiro.

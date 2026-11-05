@@ -1,5 +1,3 @@
-###DEC-085950-0-000-29-04-1981@@@
-
 Decreto nº 85.950, de 29 de abril de 1981
 
 Fixa novos níveis de salário-mínimo para todo o território nacional.

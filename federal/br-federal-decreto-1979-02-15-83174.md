@@ -1,5 +1,3 @@
-###DEC-083174-0-000-15-02-1979@@@
-
 DECRETO Nº 83.174, DE 15 DE FEVEREIRO DE 1979
 
 Torna sem efeito enquadramento efetuado pelo Decreto nº 72.918, de 15 de outubro de 1973, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bcd8f10e-7184-4909-bdd9-2ac16044c293/texto#nowhere)
 
-###DEL-002143-0-000-28-06-1984@@@
-
 # DECRETO-LEI nº 2.143, de 28 dE JUnho de 1984
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências.

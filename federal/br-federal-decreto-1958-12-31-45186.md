@@ -1,5 +1,3 @@
-###DEC-045186-0-000-31-12-1958@@@
-
 DECRETO Nº 45.186, DE 31 DE DEZEMBRO DE 1958.
 
 Outorga à Prefeitura Municipal de Goianésia, Estado de Goiás, concessão para distribuir energia elétrica mediante restrição da zona de concessão da Companhia Hidroelétrica São Patrício.

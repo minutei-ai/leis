@@ -1,5 +1,3 @@
-###DEL-005346-0-000-26-03-1943@@@
-
 DECRETO‑LEI N. 5.346 – DE 26 DE MARÇO DE 1943
 
 Dispõe sobre os prazos para  a apresentação e exame dos balanços gerais do exercicio de 1942

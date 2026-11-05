@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208088)<br>
-
 # DECRETO N° 67.700, DE 09 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, a área complementar necessária à implantação do Contorno de Caraguatatuba e São Sebastião, e dá providências correlatas._

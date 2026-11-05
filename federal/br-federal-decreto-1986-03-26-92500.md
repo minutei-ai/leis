@@ -1,5 +1,3 @@
-###DEC-092500-0-000-26-03-1986@@@
-
 DECRETO Nº 92.500, DE 26 DE MARÇO DE 1986
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazenda Aliança" e "Fazenda Lagoa", compreendidos nas referidas áreas, nos Municípios de André Fernandes e Pedra Azul, no Estado de Minas Gerais, e dá outras providências.

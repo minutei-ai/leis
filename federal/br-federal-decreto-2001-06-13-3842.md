@@ -1,5 +1,3 @@
-###DEC-003842-0-000-13-06-2001@@@
-
 DECRETO Nº 3.842, DE 13 DE JUNHO DE 2001.
 
 Promulga a Convenção Interamericana para a Proteção e a Conservação das Tartarugas Marinhas, concluída em Caracas, em 1º de dezembro de 1996.

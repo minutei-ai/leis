@@ -1,5 +1,3 @@
-###DEC-003972-0-000-16-10-2001@@@
-
 DECRETO Nº 3.972, DE 16 DE OUTUBRO DE 2001
 
 Aprova o Estatuto Social do Serviço Federal de Processamento de Dados - SERPRO.

@@ -1,5 +1,3 @@
-###DEC-089786-0-000-13-06-1984@@@
-
 Decreto nº 89.786 de 13 de junho de 1984.
 
 Autoriza o funcionamento do curso de Nutrição da Faculdade de Nutrição Dom Domênico

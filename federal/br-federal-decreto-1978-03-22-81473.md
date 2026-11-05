@@ -1,5 +1,3 @@
-###DEC-081473-0-000-22-03-1978@@@
-
 Decreto nº 81.473, de 22 de março de 1978.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir empréstimos a serem contraídos no exterior pela LIGHT - Serviços de Eletricidade S. A., nas condições que menciona.

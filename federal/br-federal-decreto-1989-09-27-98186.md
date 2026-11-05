@@ -1,7 +1,3 @@
-1
-
-###DEC-098186-0-000-27-09-1989@@@
-
 DECRETO Nº 98.186, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “CAMPO ALEGRE”, situado no Município de Quixadá, Estado do Ceará, e dá outras providências.

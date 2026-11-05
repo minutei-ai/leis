@@ -1,5 +1,3 @@
-###DEC-082024-0-000-24-07-1978@@@
-
 Decreto nº 82.024, de 24 de julho de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

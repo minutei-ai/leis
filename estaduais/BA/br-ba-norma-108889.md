@@ -40,120 +40,99 @@ POLÍCIA MILITAR
 
 TABELA DE SOLDOS vigência a partir de 01/08/2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto">POSTO/GRADUAÇÃO<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">SOLDO<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">CORONEL<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">346,50<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">TENENTE CORONEL<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">319,51<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">MAJOR<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">297,80<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">CAPITÃO<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">242,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">1º TENENTE<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">220,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">ASPIRANTE OFICIAL<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">214,50<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">ALUNO OFICIAL<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">ALUNO<span style="mso-spacerun: yes">&nbsp; </span>FORM. SARGENTOS<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">ALUNO FORM. SOLDADOS<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">SUBTENENTE<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">214,50<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">1º SARGENTO<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">209,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">CABO<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">203,50<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">SOLDADO<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr><tr style="height:18.0pt"><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">RECRUTA<quebra></quebra></p></td><td width="91" valign="top" style="width:68.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr></tbody></table>
+POSTO/GRADUAÇÃO<quebra></quebra>
+
+SOLDO<quebra></quebra>
+
+CORONEL<quebra></quebra>
+
+346,50<quebra></quebra>
+
+TENENTE CORONEL<quebra></quebra>
+
+319,51<quebra></quebra>
+
+MAJOR<quebra></quebra>
+
+297,80<quebra></quebra>
+
+CAPITÃO<quebra></quebra>
+
+242,00<quebra></quebra>
+
+1º TENENTE<quebra></quebra>
+
+220,00<quebra></quebra>
+
+ASPIRANTE OFICIAL<quebra></quebra>
+
+214,50<quebra></quebra>
+
+ALUNO OFICIAL<quebra></quebra>
+
+198,00<quebra></quebra>
+
+ALUNO  FORM. SARGENTOS<quebra></quebra>
+
+198,00<quebra></quebra>
+
+ALUNO FORM. SOLDADOS<quebra></quebra>
+
+198,00<quebra></quebra>
+
+SUBTENENTE<quebra></quebra>
+
+214,50<quebra></quebra>
+
+1º SARGENTO<quebra></quebra>
+
+209,00<quebra></quebra>
+
+CABO<quebra></quebra>
+
+203,50<quebra></quebra>
+
+SOLDADO<quebra></quebra>
+
+198,00<quebra></quebra>
+
+RECRUTA<quebra></quebra>
+
+198,00<quebra></quebra>
 
 DELEGADO DE POLÍCIA
 
 TABELA DE VENCIMENTOS BÁSICOS vigência a partir de 01/08/2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:18.0pt"><td width="113" valign="top" style="width:85.0pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="92" valign="top" style="width:69.0pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto"><span style="">CLASSES<quebra></quebra></span></p></td><td width="115" valign="top" style="width:86.05pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">VENCIMENTO<quebra></quebra></span></p></td></tr><tr style="height:18.0pt"><td width="113" valign="top" style="width:85.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">DELEGADO<quebra></quebra></span></p></td><td width="92" valign="top" style="width:69.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">3ª<quebra></quebra></span></p></td><td width="115" valign="top" style="width:86.05pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto"><span style="">630,30<quebra></quebra></span></p></td></tr><tr style="height:18.0pt"><td width="113" valign="top" style="width:85.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">DE POLÍCIA</span><span style=""><quebra></quebra></span></p></td><td width="92" valign="top" style="width:69.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">2ª<quebra></quebra></span></p></td><td width="115" valign="top" style="width:86.05pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto"><span style="">700,70<quebra></quebra></span></p></td></tr><tr style="height:18.0pt"><td width="113" valign="top" style="width:85.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style=""><quebra></quebra></span></p></td><td width="92" valign="top" style="width:69.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">1ª<quebra></quebra></span></p></td><td width="115" valign="top" style="width:86.05pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:18.0pt"><p class="Tabela-Texto"><span style="">778,80<quebra></quebra></span></p></td></tr><tr style="height:18.0pt"><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style=""><quebra></quebra></span></p></td><td width="92" valign="top" style="width:69.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">ESPECIAL<quebra></quebra></span></p></td><td width="115" valign="top" style="width:86.05pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:18.0pt"><p class="Tabela-Texto"><span style="">864,60<quebra></quebra></span></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+CLASSES<quebra></quebra>
+
+VENCIMENTO<quebra></quebra>
+
+DELEGADO<quebra></quebra>
+
+3ª<quebra></quebra>
+
+630,30<quebra></quebra>
+
+DE POLÍCIA<quebra></quebra>
+
+2ª<quebra></quebra>
+
+700,70<quebra></quebra>
+
+<quebra></quebra>
+
+1ª<quebra></quebra>
+
+778,80<quebra></quebra>
+
+<quebra></quebra>
+
+ESPECIAL<quebra></quebra>
+
+864,60<quebra></quebra>
 
 ANEXO I
 
@@ -161,237 +140,237 @@ POLÍCIA CIVIL
 
 TABELA DE VENCIMENTOS BÁSICOS vigência a partir de 01/08/2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">CARREIRA<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">CARGO/FUNÇÃO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:solid black .5pt;
-  border-left:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">NÍVEIS<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">VENC<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">1<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">198,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">DE POLÍCIA<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA/INVESTIGADOR<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">2<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">203,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA/DETETIVE<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">3<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">209,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA/INSPETOR<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">4<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">214,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA/COMISSÁRIO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">5<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">220,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">AGENTE DE POLÍCIA/OFICIAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">6<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">385,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">2<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">203,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">DE POLÍCIA<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">3<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">209,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">4<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">214,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">5<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">220,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA/OFICIAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">6<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">385,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">2<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">203,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">DE POLÍCIA<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">3<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">209,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">4<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">214,50<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">5<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">220,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA/OFICIAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">6<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">385,00<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO ODONTO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">7<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">630,30<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">ODONTO-LEGAL<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO ODONTO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">8<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">700,70<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO ODONTO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">9<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">778,80<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO ODONTO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">10<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">864,60<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO MÉDICO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">7<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">630,30<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">MÉDICO-LEGAL<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO MÉDICO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">8<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">700,70<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO MÉDICO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">9<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">778,80<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO MÉDICO-LEGAL<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">10<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">864,60<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO CRIMINALÍSTICO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">7<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">630,30<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">CRIMINALÍSTICO<quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO CRIMINALÍSTICO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">8<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">700,70<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO CRIMINALÍSTICO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">9<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:21.75pt"><p class="Tabela-Texto">778,80<quebra></quebra></p></td></tr><tr style="height:21.75pt"><td width="133" valign="top" style="width:100.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="292" valign="top" style="width:219.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">PERITO CRIMINALÍSTICO<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">10<quebra></quebra></p></td><td width="71" valign="top" style="width:53.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:21.75pt"><p class="Tabela-Texto">864,60<quebra></quebra></p></td></tr></tbody></table>
+CARREIRA<quebra></quebra>
+
+CARGO/FUNÇÃO<quebra></quebra>
+
+NÍVEIS<quebra></quebra>
+
+VENC<quebra></quebra>
+
+AGENTE<quebra></quebra>
+
+AGENTE DE POLÍCIA<quebra></quebra>
+
+1<quebra></quebra>
+
+198,00<quebra></quebra>
+
+DE POLÍCIA<quebra></quebra>
+
+AGENTE DE POLÍCIA/INVESTIGADOR<quebra></quebra>
+
+2<quebra></quebra>
+
+203,50<quebra></quebra>
+
+<quebra></quebra>
+
+AGENTE DE POLÍCIA/DETETIVE<quebra></quebra>
+
+3<quebra></quebra>
+
+209,00<quebra></quebra>
+
+<quebra></quebra>
+
+AGENTE DE POLÍCIA/INSPETOR<quebra></quebra>
+
+4<quebra></quebra>
+
+214,50<quebra></quebra>
+
+<quebra></quebra>
+
+AGENTE DE POLÍCIA/COMISSÁRIO<quebra></quebra>
+
+5<quebra></quebra>
+
+220,00<quebra></quebra>
+
+<quebra></quebra>
+
+AGENTE DE POLÍCIA/OFICIAL<quebra></quebra>
+
+6<quebra></quebra>
+
+385,00<quebra></quebra>
+
+ESCRIVÃO<quebra></quebra>
+
+ESCRIVÃO DE POLÍCIA<quebra></quebra>
+
+2<quebra></quebra>
+
+203,50<quebra></quebra>
+
+DE POLÍCIA<quebra></quebra>
+
+ESCRIVÃO DE POLÍCIA<quebra></quebra>
+
+3<quebra></quebra>
+
+209,00<quebra></quebra>
+
+<quebra></quebra>
+
+ESCRIVÃO DE POLÍCIA<quebra></quebra>
+
+4<quebra></quebra>
+
+214,50<quebra></quebra>
+
+<quebra></quebra>
+
+ESCRIVÃO DE POLÍCIA<quebra></quebra>
+
+5<quebra></quebra>
+
+220,00<quebra></quebra>
+
+<quebra></quebra>
+
+ESCRIVÃO DE POLÍCIA/OFICIAL<quebra></quebra>
+
+6<quebra></quebra>
+
+385,00<quebra></quebra>
+
+PERITO TÉCNICO<quebra></quebra>
+
+PERITO TÉCNICO DE POLÍCIA<quebra></quebra>
+
+2<quebra></quebra>
+
+203,50<quebra></quebra>
+
+DE POLÍCIA<quebra></quebra>
+
+PERITO TÉCNICO DE POLÍCIA<quebra></quebra>
+
+3<quebra></quebra>
+
+209,00<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO TÉCNICO DE POLÍCIA<quebra></quebra>
+
+4<quebra></quebra>
+
+214,50<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO TÉCNICO DE POLÍCIA<quebra></quebra>
+
+5<quebra></quebra>
+
+220,00<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO TÉCNICO DE POLÍCIA/OFICIAL<quebra></quebra>
+
+6<quebra></quebra>
+
+385,00<quebra></quebra>
+
+PERITO<quebra></quebra>
+
+PERITO ODONTO-LEGAL<quebra></quebra>
+
+7<quebra></quebra>
+
+630,30<quebra></quebra>
+
+ODONTO-LEGAL<quebra></quebra>
+
+PERITO ODONTO-LEGAL<quebra></quebra>
+
+8<quebra></quebra>
+
+700,70<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO ODONTO-LEGAL<quebra></quebra>
+
+9<quebra></quebra>
+
+778,80<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO ODONTO-LEGAL<quebra></quebra>
+
+10<quebra></quebra>
+
+864,60<quebra></quebra>
+
+PERITO<quebra></quebra>
+
+PERITO MÉDICO-LEGAL<quebra></quebra>
+
+7<quebra></quebra>
+
+630,30<quebra></quebra>
+
+MÉDICO-LEGAL<quebra></quebra>
+
+PERITO MÉDICO-LEGAL<quebra></quebra>
+
+8<quebra></quebra>
+
+700,70<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO MÉDICO-LEGAL<quebra></quebra>
+
+9<quebra></quebra>
+
+778,80<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO MÉDICO-LEGAL<quebra></quebra>
+
+10<quebra></quebra>
+
+864,60<quebra></quebra>
+
+PERITO<quebra></quebra>
+
+PERITO CRIMINALÍSTICO<quebra></quebra>
+
+7<quebra></quebra>
+
+630,30<quebra></quebra>
+
+CRIMINALÍSTICO<quebra></quebra>
+
+PERITO CRIMINALÍSTICO<quebra></quebra>
+
+8<quebra></quebra>
+
+700,70<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO CRIMINALÍSTICO<quebra></quebra>
+
+9<quebra></quebra>
+
+778,80<quebra></quebra>
+
+<quebra></quebra>
+
+PERITO CRIMINALÍSTICO<quebra></quebra>
+
+10<quebra></quebra>
+
+864,60<quebra></quebra>
 
 ANEXO II
 
@@ -401,199 +380,7 @@ GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR GAP
 
 Vigência a partir de 01.08.2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border:none;border-top:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">POSTO/<quebra></quebra></p></td><td width="358" colspan="5" valign="top" style="width:268.8pt;border:solid black .5pt;
-  border-right:none;background:white;mso-shading:windowtext;mso-pattern:solid white;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">REFERÊNCIAS<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">GRADUAÇÃO<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">I<quebra></quebra></span></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">II<quebra></quebra></span></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">III<quebra></quebra></span></p></td><td width="60" valign="top" style="width:45.35pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border-top:none;border-left:
-  solid black .5pt;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">V<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">CORONEL<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">1.611,50<quebra></quebra></span></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">1.933,80<quebra></quebra></span></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">2.319,90<quebra></quebra></span></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">2.784,10<quebra></quebra></span></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">3.340,70<quebra></quebra></span></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">TEN CORONEL<quebra></quebra></span></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">1.453,10<quebra></quebra></span></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">1.744,60<quebra></quebra></span></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">2.093,30<quebra></quebra></span></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">2.511,30<quebra></quebra></span></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">3.014,00<quebra></quebra></span></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><span style="mso-ansi-language:EN-US">MAJOR<quebra></quebra></span></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.355,20<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.625,80<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.950,30<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.340,80<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">2.809,40<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">CAPITÃO<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.219,90<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.384,90<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.582,90<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.820,50<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">2.105,40<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1º TENENTE<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">883,30<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.059,30<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.271,60<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.525,70<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">1.830,40<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">ASP OFICIAL<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">435,60<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">-<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">-<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">-<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">-<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">SUBTENENTE<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">435,60<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">522,50<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">627,00<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">752,40<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">903,10<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1º SARGENTO<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">412,50<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">493,90<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">592,90<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">711,70<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">854,70<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">CABO<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">365,20<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">437,80<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">525,80<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">630,30<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">756,80<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="153" valign="top" style="width:115.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">SOLDADO<quebra></quebra></p></td><td width="84" valign="top" style="width:62.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">353,10<quebra></quebra></p></td><td width="71" valign="top" style="width:53.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">423,50<quebra></quebra></p></td><td width="61" valign="top" style="width:46.1pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">508,20<quebra></quebra></p></td><td width="60" valign="top" style="width:45.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">610,50<quebra></quebra></p></td><td width="81" valign="top" style="width:61.05pt;border:none;border-bottom:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;background:white;mso-shading:windowtext;
-  mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">732,60<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> POSTO/<quebra></quebra> </td><td colspan="5" valign="top"> REFERÊNCIAS<quebra></quebra> </td></tr><tr><td valign="top"> GRADUAÇÃO<quebra></quebra> </td><td valign="top"> I<quebra></quebra> </td><td valign="top"> II<quebra></quebra> </td><td valign="top"> III<quebra></quebra> </td><td valign="top"> IV<quebra></quebra> </td><td valign="top"> V<quebra></quebra> </td></tr><tr><td valign="top"> CORONEL<quebra></quebra> </td><td valign="top"> 1.611,50<quebra></quebra> </td><td valign="top"> 1.933,80<quebra></quebra> </td><td valign="top"> 2.319,90<quebra></quebra> </td><td valign="top"> 2.784,10<quebra></quebra> </td><td valign="top"> 3.340,70<quebra></quebra> </td></tr><tr><td valign="top"> TEN CORONEL<quebra></quebra> </td><td valign="top"> 1.453,10<quebra></quebra> </td><td valign="top"> 1.744,60<quebra></quebra> </td><td valign="top"> 2.093,30<quebra></quebra> </td><td valign="top"> 2.511,30<quebra></quebra> </td><td valign="top"> 3.014,00<quebra></quebra> </td></tr><tr><td valign="top"> MAJOR<quebra></quebra> </td><td valign="top"> 1.355,20<quebra></quebra> </td><td valign="top"> 1.625,80<quebra></quebra> </td><td valign="top"> 1.950,30<quebra></quebra> </td><td valign="top"> 2.340,80<quebra></quebra> </td><td valign="top"> 2.809,40<quebra></quebra> </td></tr><tr><td valign="top"> CAPITÃO<quebra></quebra> </td><td valign="top"> 1.219,90<quebra></quebra> </td><td valign="top"> 1.384,90<quebra></quebra> </td><td valign="top"> 1.582,90<quebra></quebra> </td><td valign="top"> 1.820,50<quebra></quebra> </td><td valign="top"> 2.105,40<quebra></quebra> </td></tr><tr><td valign="top"> 1º TENENTE<quebra></quebra> </td><td valign="top"> 883,30<quebra></quebra> </td><td valign="top"> 1.059,30<quebra></quebra> </td><td valign="top"> 1.271,60<quebra></quebra> </td><td valign="top"> 1.525,70<quebra></quebra> </td><td valign="top"> 1.830,40<quebra></quebra> </td></tr><tr><td valign="top"> ASP OFICIAL<quebra></quebra> </td><td valign="top"> 435,60<quebra></quebra> </td><td valign="top"> -<quebra></quebra> </td><td valign="top"> -<quebra></quebra> </td><td valign="top"> -<quebra></quebra> </td><td valign="top"> -<quebra></quebra> </td></tr><tr><td valign="top"> SUBTENENTE<quebra></quebra> </td><td valign="top"> 435,60<quebra></quebra> </td><td valign="top"> 522,50<quebra></quebra> </td><td valign="top"> 627,00<quebra></quebra> </td><td valign="top"> 752,40<quebra></quebra> </td><td valign="top"> 903,10<quebra></quebra> </td></tr><tr><td valign="top"> 1º SARGENTO<quebra></quebra> </td><td valign="top"> 412,50<quebra></quebra> </td><td valign="top"> 493,90<quebra></quebra> </td><td valign="top"> 592,90<quebra></quebra> </td><td valign="top"> 711,70<quebra></quebra> </td><td valign="top"> 854,70<quebra></quebra> </td></tr><tr><td valign="top"> CABO<quebra></quebra> </td><td valign="top"> 365,20<quebra></quebra> </td><td valign="top"> 437,80<quebra></quebra> </td><td valign="top"> 525,80<quebra></quebra> </td><td valign="top"> 630,30<quebra></quebra> </td><td valign="top"> 756,80<quebra></quebra> </td></tr><tr><td valign="top"> SOLDADO<quebra></quebra> </td><td valign="top"> 353,10<quebra></quebra> </td><td valign="top"> 423,50<quebra></quebra> </td><td valign="top"> 508,20<quebra></quebra> </td><td valign="top"> 610,50<quebra></quebra> </td><td valign="top"> 732,60<quebra></quebra> </td></tr></tbody></table>
 
 POLÍCIA CIVIL
 
@@ -601,201 +388,7 @@ GRATIFICAÇÃO DE ATIVIDADE POLICIAL GAP
 
 Vigência a partir de 01.08.2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:3.5pt"><td width="75" valign="top" style="width:56.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:none;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:3.5pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="368" colspan="5" valign="top" style="width:276.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:3.5pt"><p class="Tabela-Texto">REFERÊNCIAS<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">NÍVEIS<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">I<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">II<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">III<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">V<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">363,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">435,60<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">522,50<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">627,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">752,40<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">385,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">462,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">554,40<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">665,50<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">798,60<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">3<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">407,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">488,40<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">586,30<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">702,90<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">843,70<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">4<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">451,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">541,20<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">649,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">779,90<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">935,00<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">5<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">539,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">646,80<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">776,60<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">931,70<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.117,60<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">6<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">561,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">673,20<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">807,40<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">969,10<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.163,80<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">7<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">825,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">990,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.188,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.425,60<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.710,50<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">8<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">951,50<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.223,20<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.547,70<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.938,20<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.406,80<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">9<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">994,40<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.284,80<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.633,50<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.052,60<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.555,30<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="75" valign="top" style="width:56.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">10<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.093,40<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.415,70<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.801,80<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.266,00<quebra></quebra></p></td><td width="74" valign="top" style="width:55.2pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.822,60<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> <quebra></quebra> </td><td colspan="5" valign="top"> REFERÊNCIAS<quebra></quebra> </td></tr><tr><td valign="top"> NÍVEIS<quebra></quebra> </td><td valign="top"> I<quebra></quebra> </td><td valign="top"> II<quebra></quebra> </td><td valign="top"> III<quebra></quebra> </td><td valign="top"> IV<quebra></quebra> </td><td valign="top"> V<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> 363,00<quebra></quebra> </td><td valign="top"> 435,60<quebra></quebra> </td><td valign="top"> 522,50<quebra></quebra> </td><td valign="top"> 627,00<quebra></quebra> </td><td valign="top"> 752,40<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> 385,00<quebra></quebra> </td><td valign="top"> 462,00<quebra></quebra> </td><td valign="top"> 554,40<quebra></quebra> </td><td valign="top"> 665,50<quebra></quebra> </td><td valign="top"> 798,60<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> 407,00<quebra></quebra> </td><td valign="top"> 488,40<quebra></quebra> </td><td valign="top"> 586,30<quebra></quebra> </td><td valign="top"> 702,90<quebra></quebra> </td><td valign="top"> 843,70<quebra></quebra> </td></tr><tr><td valign="top"> 4<quebra></quebra> </td><td valign="top"> 451,00<quebra></quebra> </td><td valign="top"> 541,20<quebra></quebra> </td><td valign="top"> 649,00<quebra></quebra> </td><td valign="top"> 779,90<quebra></quebra> </td><td valign="top"> 935,00<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> 539,00<quebra></quebra> </td><td valign="top"> 646,80<quebra></quebra> </td><td valign="top"> 776,60<quebra></quebra> </td><td valign="top"> 931,70<quebra></quebra> </td><td valign="top"> 1.117,60<quebra></quebra> </td></tr><tr><td valign="top"> 6<quebra></quebra> </td><td valign="top"> 561,00<quebra></quebra> </td><td valign="top"> 673,20<quebra></quebra> </td><td valign="top"> 807,40<quebra></quebra> </td><td valign="top"> 969,10<quebra></quebra> </td><td valign="top"> 1.163,80<quebra></quebra> </td></tr><tr><td valign="top"> 7<quebra></quebra> </td><td valign="top"> 825,00<quebra></quebra> </td><td valign="top"> 990,00<quebra></quebra> </td><td valign="top"> 1.188,00<quebra></quebra> </td><td valign="top"> 1.425,60<quebra></quebra> </td><td valign="top"> 1.710,50<quebra></quebra> </td></tr><tr><td valign="top"> 8<quebra></quebra> </td><td valign="top"> 951,50<quebra></quebra> </td><td valign="top"> 1.223,20<quebra></quebra> </td><td valign="top"> 1.547,70<quebra></quebra> </td><td valign="top"> 1.938,20<quebra></quebra> </td><td valign="top"> 2.406,80<quebra></quebra> </td></tr><tr><td valign="top"> 9<quebra></quebra> </td><td valign="top"> 994,40<quebra></quebra> </td><td valign="top"> 1.284,80<quebra></quebra> </td><td valign="top"> 1.633,50<quebra></quebra> </td><td valign="top"> 2.052,60<quebra></quebra> </td><td valign="top"> 2.555,30<quebra></quebra> </td></tr><tr><td valign="top"> 10<quebra></quebra> </td><td valign="top"> 1.093,40<quebra></quebra> </td><td valign="top"> 1.415,70<quebra></quebra> </td><td valign="top"> 1.801,80<quebra></quebra> </td><td valign="top"> 2.266,00<quebra></quebra> </td><td valign="top"> 2.822,60<quebra></quebra> </td></tr></tbody></table>
 
 ANEXO II
 
@@ -805,87 +398,4 @@ GRATIFICAÇÃO DE ATIVIDADE POLICIAL GAP
 
 Vigência a partir de 01.08.2001
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:none;border-right:solid black .5pt;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="144" colspan="2" valign="top" style="width:108.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">REFERÊNCIAS<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border-top:solid black .5pt;
-  border-left:none;border-bottom:solid black .5pt;border-right:none;background:
-  white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">CLASSES<quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">I<quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">II<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">III<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">V<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">3ª<quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">825,00<quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">990,00<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.188,00<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.425,60<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">1.710,50<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2ª<quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">951,50<quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.223,20<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.547,70<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.938,20<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">2.406,80<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1ª<quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">994,40<quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.284,80<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.633,50<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border:none;border-right:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.052,60<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;background:white;mso-shading:
-  windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="Tabela-Texto">2.555,30<quebra></quebra></p></td></tr><tr style="height:12.75pt"><td width="93" valign="top" style="width:70.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">ESPECIAL<quebra></quebra></p></td><td width="73" valign="top" style="width:55.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.093,40<quebra></quebra></p></td><td width="79" valign="top" style="width:59.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.415,70<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">1.801,80<quebra></quebra></p></td><td width="72" valign="top" style="width:54.0pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;background:white;
-  mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.266,00<quebra></quebra></p></td><td width="64" valign="top" style="width:48.0pt;border:none;border-bottom:solid black .5pt;
-  background:white;mso-shading:windowtext;mso-pattern:solid white;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="Tabela-Texto">2.822,60<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td colspan="2" valign="top"> REFERÊNCIAS<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> CLASSES<quebra></quebra> </td><td valign="top"> I<quebra></quebra> </td><td valign="top"> II<quebra></quebra> </td><td valign="top"> III<quebra></quebra> </td><td valign="top"> IV<quebra></quebra> </td><td valign="top"> V<quebra></quebra> </td></tr><tr><td valign="top"> 3ª<quebra></quebra> </td><td valign="top"> 825,00<quebra></quebra> </td><td valign="top"> 990,00<quebra></quebra> </td><td valign="top"> 1.188,00<quebra></quebra> </td><td valign="top"> 1.425,60<quebra></quebra> </td><td valign="top"> 1.710,50<quebra></quebra> </td></tr><tr><td valign="top"> 2ª<quebra></quebra> </td><td valign="top"> 951,50<quebra></quebra> </td><td valign="top"> 1.223,20<quebra></quebra> </td><td valign="top"> 1.547,70<quebra></quebra> </td><td valign="top"> 1.938,20<quebra></quebra> </td><td valign="top"> 2.406,80<quebra></quebra> </td></tr><tr><td valign="top"> 1ª<quebra></quebra> </td><td valign="top"> 994,40<quebra></quebra> </td><td valign="top"> 1.284,80<quebra></quebra> </td><td valign="top"> 1.633,50<quebra></quebra> </td><td valign="top"> 2.052,60<quebra></quebra> </td><td valign="top"> 2.555,30<quebra></quebra> </td></tr><tr><td valign="top"> ESPECIAL<quebra></quebra> </td><td valign="top"> 1.093,40<quebra></quebra> </td><td valign="top"> 1.415,70<quebra></quebra> </td><td valign="top"> 1.801,80<quebra></quebra> </td><td valign="top"> 2.266,00<quebra></quebra> </td><td valign="top"> 2.822,60<quebra></quebra> </td></tr></tbody></table>

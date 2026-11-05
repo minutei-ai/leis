@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/04b281e3-89cd-470b-8a76-001e3dcc8e99/texto#nowhere)
 
-###DEL-000527-0-000-11-04-1969@@@
-
 DECRETO-LEI Nº 527, DE 11 DE ABRIL DE 1969
 
 Dispõe sôbre remissão de créditos tributários relativos ao impôsto de renda.

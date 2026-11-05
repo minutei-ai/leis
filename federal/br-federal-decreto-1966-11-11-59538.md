@@ -1,5 +1,3 @@
-###DEC-059538-0-000-11-11-1966@@@
-
 DECRETO Nº 59.538, DE 11 DE NOvEMBRO DE 1966.
 
 Autoriza a mineração Pato do Brasil Ltda, a pesquisar diamantes no município de Gilbués Estado do Piauí.

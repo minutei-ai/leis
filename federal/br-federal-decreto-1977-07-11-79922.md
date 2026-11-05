@@ -1,5 +1,3 @@
-###DEC-079922-0-000-11-07-1977@@@
-
 decreto nº 79.922, de 11 de julho de 1977
 
 Concede à Mannesmann Mineração Ltda. o direito de lavrar argila no Município de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-003745-0-000-05-02-2001@@@
-
 DECRETO Nº 3.745, DE 5 DE FEVEREIRO DE 2001
 
 Institui o Programa de Interiorização do Trabalho em Saúde.

@@ -1,14 +1,12 @@
-###DEC-019848-0-000-22-10-1945@@@
+**DECRETO Nº 19.848, DE 22 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.848, DE 22 DE OUTUBRO DE 1945.</strong>
+***Concede a “Mercúrio”, Companhia Nacional de Seguros autorização para funcionar e aprovar seus estatutos.***
 
-<em><strong>Concede a “Mercúrio”, Companhia Nacional de Seguros autorização para funcionar e aprovar seus estatutos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica autorizada a funcionar em operações de seguros e resseguros dos ramos elementares, a que se refere o art. 40, nº 1, do Decreto-lei nº 2.063, de 7 de março de 1940, a “Mercúrio”, Companhia Nacional de Seguros, com sede nesta cidade do Rio de Janeiro, constituída em assembléia geral dos subscritores do seu capital, realizada a 26 de abril de 1945, bem como ficam aprovados os estatutos adotados pela referida assembléia, mediante as condições abaixo:
+**Art**. 1º Fica autorizada a funcionar em operações de seguros e resseguros dos ramos elementares, a que se refere o art. 40, nº 1, do Decreto-lei nº 2.063, de 7 de março de 1940, a “Mercúrio”, Companhia Nacional de Seguros, com sede nesta cidade do Rio de Janeiro, constituída em assembléia geral dos subscritores do seu capital, realizada a 26 de abril de 1945, bem como ficam aprovados os estatutos adotados pela referida assembléia, mediante as condições abaixo:
 
 I - Os estatutos são aprovados com as seguintes modificações:
 
@@ -22,12 +20,12 @@ d) acrescenta-se ao art. 23 o seguinte: “Parágrafo único: Os suplentes subst
 
 II - As alterações consignadas na cláusula precedente deverão ser aprovadas em assembléia geral extraordinária de acionistas, dentro do prazo de 60 (sessenta dias), contados da publicação dêste decreto.
 
-<strong>Art</strong>. 2º A Sociedade ficará integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sôbre o objeto da autorização de que trata o presente decreto.
+**Art**. 2º A Sociedade ficará integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sôbre o objeto da autorização de que trata o presente decreto.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de outubro de 1945; 124º da Independência e 57º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Alexandre Marcondes Filho

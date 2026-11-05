@@ -1,14 +1,12 @@
-###DEC-031452-0-000-13-09-1952@@@
+**DECRETO Nº 31.452, DE 13 DE SETEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.452, DE 13 DE SETEMBRO DE 1952.</strong>
+***Designa as sede dos Comados das Divisões de Infantarias e Artilharias Divisionárias em tempo de paz.***
 
-<em><strong>Designa as sede dos Comados das Divisões de Infantarias e Artilharias Divisionárias em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São fixadas nas seguintes cidades as sedes dos Comandos abaixos:
+**Art**. 1º São fixadas nas seguintes cidades as sedes dos Comandos abaixos:
 
 I - Divisões de Infantaria:
 
@@ -58,10 +56,10 @@ Artilharia Divisionária da 6ª Divisão de Infantaria - Cruz Alta;
 
 Artilharia Divisionária da 7ª Divisão de Infantaria - Olinda.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
 
 Rio de Janeiro, 13 de setembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro do Espírito Santo

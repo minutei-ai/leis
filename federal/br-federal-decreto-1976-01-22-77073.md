@@ -1,5 +1,3 @@
-###DEC-077073-0-000-22-01-1976@@@
-
 DECRETO Nº 77.073, DE 22 DE JANEIRO DE 1976.
 
 Dispõe sobre a criação de zona prioritária, para fins de reforma agrárias, no Estado do Maranhão, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074353-0-000-01-08-1974@@@
-
 DECRETO Nº 74.363 - DE 1 DE AGOSTO DE 1974.
 
 Concede permissão, em caráter permanente, à empresa Dow Química S.A., com sede na cidade de São Paulo, para funcionar, aos domingos e nos dias feriados civis e religiosos, o seu estabelecimento industrial localizado no município de Guarujá, Estado de São Paulo, nos setores que menciona.

@@ -1,5 +1,3 @@
-###DEC-076795-0-000-15-12-1975@@@
-
 DECRETO Nº 76.795, DE 15 DE DEZEMBRO DE 1975
 
 Concede reconhecimento ao curso de Serviço Social da Faculdade de Serviço Social de Campo Grande, com sede na cidade de Campo Grande, Estado de Mato Grosso.

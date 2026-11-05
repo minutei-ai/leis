@@ -1,7 +1,3 @@
-1
-
-###DEC-000020-0-000-01-02-1991@@@
-
 DECRETO Nº 20, DE 1º DE FEVEREIRO DE 1991
 
 Estabelece critérios e condições para transferências de recursos financeiros do Tesouro Nacional mediante a celebração de convênios, por parte de órgãos federais da Administração Pública Federal direta e indireta, inclusive fundações e dá outras providências.
@@ -61,8 +57,6 @@ Brasília, 1º de fevereiro de 1991; 170º da Independência e 103º da Repúbli
 FERNANDO COLLOR
 
 Zélia M. Cardoso de Mello
-
-###DEC-000020-0-000-01-02-1991@@@RET01+++
 
 DECRETO N° 20, DE 1° DE FEVEREIRO DE 1991
 

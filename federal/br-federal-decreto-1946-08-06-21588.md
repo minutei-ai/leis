@@ -1,14 +1,12 @@
-###DEC-021588-0-000-06-08-1946@@@
+**DECRETO Nº 21.588, DE 6 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.588, DE 6 DE AGÔSTO DE 1946.</strong>
+***Altera a escala – padrão de salários dos extranumerários-mensalistas da União.***
 
-<em><strong>Altera a escala – padrão de salários dos extranumerários-mensalistas da União.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista o disposto no Decreto-lei n.º 9.554, de 6 de agôsto de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista o disposto no Decreto-lei n.º 9.554, de 6 de agôsto de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A escala - padrão de salários dos extranumerários-mesalistas da União, a que se refere o Decreto-lei n.º 8.512, de 31 de Dezembro de 1945, fica substituída pela seguinte:
+**Art**. 1º A escala - padrão de salários dos extranumerários-mesalistas da União, a que se refere o Decreto-lei n.º 8.512, de 31 de Dezembro de 1945, fica substituída pela seguinte:
 
 Referência..................................Salário mensal (Cr$)..............................Salário anual (Cr$)
 
@@ -160,13 +158,13 @@ S/n                           XL
 
 S/n                          XLI
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de agôsto de 1946, 125º das Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos Coimbra da Luz
 

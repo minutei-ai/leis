@@ -1,5 +1,3 @@
-###DEC-083928-0-000-03-09-1979@@@
-
 decreto nº 83.928, de 03 de setembro de 1979.
 
 Inclui os nutricionistas entre os profissionais aptos a integrarem a Categoria Funcional de Sanitarista do Grupo-Saúde Pública.

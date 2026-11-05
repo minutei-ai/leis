@@ -1,7 +1,3 @@
-1
-
-###DEC-002044-0-000-24-10-1996@@@
-
 DECRETO Nº 2.044, DE 24 DE OUTUBRO DE 1996.
 
 Promulga o Acordo sobre a Isenção de Visto para Portadores de Passaportes Diplomáticos e de Serviço, celebrado entre o Governo da República Federativa do Brasil e o Governo da Ucrânia, em Brasília, em 25 de outubro de 1995.

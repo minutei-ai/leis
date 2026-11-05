@@ -1,5 +1,3 @@
-###DEC-061464-0-000-04-10-1967@@@
-
 DECRETO Nº 61.464, DE 4 DE OUTUBRO DE 1967.
 
 Delega competência aos Ministros de Estado da Marinha, do Exército e da Aeronáutica, para despachar, em caráter final, expedientes de interêsse dos militares da Marinha de Guerra, do Exército e da Aeronáutica Militar.

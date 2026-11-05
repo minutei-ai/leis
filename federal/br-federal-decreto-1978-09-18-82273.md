@@ -1,5 +1,3 @@
-###DEC-082273-0-000-18-09-1978@@@
-
 Decreto nº 82.273, de 18 de setembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à pesquisa e lavra de petróleo, situados nos municípios de Conceição da Barra e São Mateus, no Estado do Espírito Santo.

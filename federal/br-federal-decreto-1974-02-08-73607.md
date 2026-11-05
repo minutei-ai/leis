@@ -1,5 +1,3 @@
-###DEC-073607-0-000-08-02-1974@@@
-
 DECRETO Nº 73.607, DE 8 DE FEVEREIRO DE 1974.
 
 Atribui competência exclusiva ao Ministério da Fazenda para instituir modelos visando à padronização de documentos de arrecadação de receitas federais.

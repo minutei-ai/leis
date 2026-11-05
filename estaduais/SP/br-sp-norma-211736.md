@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211736)<br>
-
 # DECRETO N° 70.036, DE 30 DE OUTUBRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Desenvolvimento Urbano e Habitação nos Sistemas de Administração Financeira e Orçamentária do Estado._

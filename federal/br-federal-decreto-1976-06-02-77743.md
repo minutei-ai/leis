@@ -1,5 +1,3 @@
-###DEC-077743-0-000-02-06-1976@@@
-
 DECRETO N.º 77.743, DE 2 DE JUNHO DE 1976.
 
 Altera dispositivo do Decreto número 76.027, de 25 de julho de 1975, que reconheceu o curso de Letras da Faculdade de Filosofia, Ciências e Letras Tibiriçá, com sede na cidade de São Paulo, Estado de São Paulo.

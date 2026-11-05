@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/43adef04-6898-4162-b849-ba3e64a4abb4/texto#nowhere)
 
-###DEL-000547-0-000-18-04-1969@@@
-
 Decreto-lei nº 547, de 18 de Abril de 1969
 
 Autoriza a organização e o funcionamento de cursos profissionais superiores de curta duração.

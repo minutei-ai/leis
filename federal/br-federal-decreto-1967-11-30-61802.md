@@ -1,5 +1,3 @@
-###DEC-061802-0-000-30-11-1967@@@
-
 DECRETO Nº 61.802, DE 30 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério da Agricultura a crédito especial no valor de NCr$1.980,00, para o fim que menciona.

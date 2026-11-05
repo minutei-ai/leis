@@ -1,5 +1,3 @@
-###DEC-060148-0-000-27-01-1967@@@
-
 DECRETO Nº 60.148, DE 27 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Vinicius Valladares Vasconcellos a pesquisar dolomita, minérios de ferro e de manganês, no município de Nova Lima, Estado de Minas Gerais.

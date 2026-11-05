@@ -1,5 +1,3 @@
-###DEL-009821-0-000-10-09-1946@@@
-
 DECRETO-LEI N. 9.821 – DE 10 DE SETEMBRO DE 1946
 
 Dispõe sôbre cargos isolados e funções gratificadas do Quadro da Secretaria da Presidência da República

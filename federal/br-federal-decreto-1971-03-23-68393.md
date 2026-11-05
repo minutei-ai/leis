@@ -1,5 +1,3 @@
-###DEC-068393-0-000-23-03-1971@@@
-
 DECRETO Nº 68.393, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Obra de Assistência aos Mendigos e Menores Desamparados - Abrigo Cristo Redentor, com sede em Recife, Estado de Pernambuco.

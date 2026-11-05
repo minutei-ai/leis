@@ -1,5 +1,3 @@
-###DEC-073401-0-000-31-12-1973@@@
-
 DECRETO Nº 73.401 -DE 31 DE DEZEMBRO DE 1973
 
 Faz doação, à Fundação Instituto Brasileiro de Geografia e Estatística, dos bens imóveis pertencentes ao acervo da extinta autarquia Instituto Brasileiro de Geografia e Estatística.

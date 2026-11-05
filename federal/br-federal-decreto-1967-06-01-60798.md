@@ -1,5 +1,3 @@
-###DEC-060798-0-000-01-06-1967@@@
-
 decreto nº 60.798, de 1º de junho de 1967.
 
 Declara de utilidade pública o “Instituto Padre Machado”, com sede em Belo Horizonte Estado de Minas Gerais.

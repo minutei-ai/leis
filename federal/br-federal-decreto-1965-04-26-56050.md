@@ -1,5 +1,3 @@
-###DEC-056050-0-000-26-04-1965@@@
-
 decreto nº 56.050, de 26 de abril de 1965.
 
 Dispõe sôbre a administração do trecho ferroviário Mafra a Lajes, no Estado de Santa Catarina, construído pelo Ministério da Guerra.

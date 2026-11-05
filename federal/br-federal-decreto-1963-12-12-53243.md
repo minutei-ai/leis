@@ -1,5 +1,3 @@
-###DEC-053243-0-000-12-12-1963@@@
-
 Decreto nº 53.243, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Crispim Alves Magalhães a pesquisar minério de ferro e manganês, no município de Pequi, Estado de Minas Gerais.

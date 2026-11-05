@@ -1,6 +1,10 @@
 > **LEI Nº 3.677, DE 31 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado do Acre ceder ao Município de Cruzeiro do Sul, a título gratuito, imóveis urbanos com encargo de funcionamento do Parque Urbano de Cruzeiro do Sul - AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado do Acre ceder ao Município de Cruzeiro do Sul, a título gratuito, imóveis urbanos com encargo de funcionamento do Parque Urbano de Cruzeiro do Sul - AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

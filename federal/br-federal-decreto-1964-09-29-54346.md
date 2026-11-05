@@ -1,5 +1,3 @@
-###DEC-054346-0-000-29-09-1964@@@
-
 DECRETO Nº 54.346, DE 29 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Abel Alves Couto, a pesquisar argila no município de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050244-0-000-28-01-1961@@@
-
 DECRETO Nº 50.244, DE 28 DE JANEIRO DE 1961.
 
 Suprime o Vice-Consulado honorário do Brasil em Luanda, Angola

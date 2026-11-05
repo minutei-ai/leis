@@ -1,5 +1,3 @@
-###DEC-081612-0-000-27-04-1978@@@
-
 Decreto nº 81.612, de 27 de abril de 1978.
 
 Concede reconhecimento ao curso de Administração, ministrado pela Faculdade de Ciências Contábeis e Administração de Uruguaiana, na cidade de Uruguaiana, Estado do Rio Grande do Sul, da Universidade Católica do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

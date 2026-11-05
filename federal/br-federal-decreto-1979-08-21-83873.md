@@ -1,5 +1,3 @@
-###DEC-083873-0-000-21-08-1979@@@
-
 Decreto n 83.873, de 21 de agosto de 1979
 
 Autoriza a CAIXA GERAL DE DEPÓSITOS (Agência Financial de Portugal) a instalar filial em São Paulo (SP).

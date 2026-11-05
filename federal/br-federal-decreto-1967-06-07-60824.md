@@ -1,5 +1,3 @@
-###DEC-060824-0-000-07-06-1967@@@
-
 DECRETO Nº 60.824, DE 7 DE JUNHO DE 1967.
 
 Define o Sistema Nacional de Eletrificação e estabelece suas áreas de competência, cria as Comissões Regionais de Eletrificação e define suas atribuições, e dá outras providências.

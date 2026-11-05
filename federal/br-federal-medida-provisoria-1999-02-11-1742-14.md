@@ -1,5 +1,3 @@
-###MPV-001742-0-014-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.742-14, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

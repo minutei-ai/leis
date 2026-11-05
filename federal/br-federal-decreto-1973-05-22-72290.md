@@ -1,5 +1,3 @@
-###DEC-072290-0-000-22-05-1973@@@
-
 DECRETO Nº 72.290, de 22 de maio de 1973.
 
 Altera a estrutura básica do Instituto Joaquim Nabuco de Pesquisas Sociais, e dá outras providências.

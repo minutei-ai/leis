@@ -1,5 +1,3 @@
-###DEL-009863-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.863 – DE 13 DE SETEMBRO DE 1946
 
 Dispõe sôbre as operações de câmbio manual ligadas às atividades de viagens e turismo, e dá outras providências.

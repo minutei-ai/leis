@@ -1,5 +1,3 @@
-###DEC-069884-0-000-31-12-1971@@@
-
 DECRETO Nº 69.884 - DE 31 DE DEZEMBRO DE 1971
 
 Inclui cargo na Parte Especial do Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

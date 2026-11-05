@@ -1,5 +1,3 @@
-###DEC-098959-0-000-15-02-1990@@@
-
 DECRETO Nº 98.959, DE 15 DE FEVEREIRO DE 1990
 
 Dispõe sobre área de exercício de garimpagem, na Gleba Uraricoera, no Estado de Roraima.

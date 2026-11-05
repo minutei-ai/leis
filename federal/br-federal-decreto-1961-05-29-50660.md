@@ -1,5 +1,3 @@
-###DEC-050660-0-000-29-05-1961@@@
-
 DECRETO Nº 50.660, DE 29 DE MAIO DE 1961.
 
 Regulamenta o exercício da profissão de Aeronauta.

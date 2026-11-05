@@ -1,5 +1,3 @@
-###DEC-066609-0-000-20-05-1970@@@
-
 DECRETO Nº 66.609, DE 20 DE MAIO DE 1970.
 
 Dá nova redação ao artigo 1º do Decreto nº 64.056, de 3 de fevereiro de 1969, que criou, no Ministério da Aeronáutica, o Serviço de Informações de Segurança da Aeronáutica, e dá outras providências.

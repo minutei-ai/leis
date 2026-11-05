@@ -1,5 +1,3 @@
-###DEC-076161-0-000-26-08-1975@@@
-
 DECRETO Nº 76.161 - DE 26 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de História da Faculdade de Filosofia, Ciências e Letras de Moema, com sede na cidade de São Paulo, Estado de São Paulo.

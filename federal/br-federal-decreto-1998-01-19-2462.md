@@ -1,5 +1,3 @@
-###DEC-002462-0-000-19-01-1998@@@
-
 DECRETO Nº 2.462, DE 19 DE JANEIRO DE 1998
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, de 11 de setembro de 1997.

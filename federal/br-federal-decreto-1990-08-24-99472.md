@@ -1,7 +1,3 @@
-1
-
-###DEC-099472-0-000-24-08-1990@@@
-
 DECRETO N° 99.472, DE 24 DE AGOSTO DE 1990
 
 Institui o Documento Especial de Exportação DEE.

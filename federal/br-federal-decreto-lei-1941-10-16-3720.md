@@ -1,5 +1,3 @@
-###DEL-003720-0-000-16-10-1941@@@
-
 DECRETO-LEI N. 3.720 – DE 16 DE OUTUBRO DE 1941
 
 Cria o posto de 1º tenente músico do Corpo de Bombeiros do Distrito Federal e dá outras providências

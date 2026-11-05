@@ -1,5 +1,3 @@
-###DEC-057553-0-000-29-12-1965@@@
-
 decreto nº 57.553, de 29 de dezembro de 1965.
 
 Altera a redação do art. 80, III, do Regulamento Geral do Departamento Federal de Segurança Pública, baixado pelo Decreto número 59.510, de 28-6-65.

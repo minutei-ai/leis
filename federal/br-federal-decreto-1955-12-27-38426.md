@@ -1,16 +1,14 @@
-###DEC-038426-0-000-27-12-1955@@@
+**DECRETO Nº 38.426, DE 27 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.426, DE 27 DE DEZEMBRO DE 1955.</strong>
+***Autoriza a Companhia Paulista de Fôrça e Luz a executar diversas obras nos seus sistemas de transmissão e distribuição de energia elétrica.***
 
-<em><strong>Autoriza a Companhia Paulista de Fôrça e Luz a executar diversas obras nos seus sistemas de transmissão e distribuição de energia elétrica.</strong></em>
-
-<strong>O</strong> <strong>VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do que dispõe o Decreto-lei número 2 059, de 5 de março de 1940,
+**OVICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do que dispõe o Decreto-lei número 2 059, de 5 de março de 1940,
 
 CONSIDERANDO que pela Resolução nº 1.074, de 26 de julho de 1955, a medida foi julgada conveniente pelo Conselho Nacional de Águas e Energia Elétrica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica a Companhia Paulista de Fôrça e Luz autorizada a executar, nos seus sistemas de transmissão e distribuição de energia elétrica, as obras a seguir discriminadas:
+**Art**. 1º Fica a Companhia Paulista de Fôrça e Luz autorizada a executar, nos seus sistemas de transmissão e distribuição de energia elétrica, as obras a seguir discriminadas:
 
 1º - Construção de uma linha de transmissão com a potência de 100.000kVA, em 2 circuitos, com cabo ACSR de 477.000 C.M., tensão de 132kV, e extensão de 126km., entre a usina hidroelétrica de Peixoto ora em construção no Rio Grande, Estado de Minas Gerais, e a cidade de Ribeirão Preto, no Estado de São Paulo;
 
@@ -34,18 +32,18 @@ CONSIDERANDO que pela Resolução nº 1.074, de 26 de julho de 1955, a medida fo
 
 11º - Construção de uma subestação abaixadora de 132kV/66kV, no local da atual subestação transformadora de Taubaté;
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I - Submeter à aprovação do Ministério da Agricultura, em três (3) vias dentro do prazo de um (1) ano, a contar da data da publicação dêste Decreto, os prejuízos e orçamentos dessas obras.
 
 II - Iniciar e concluir as obras nos prazos que forem marcados pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Eduardo Catalão

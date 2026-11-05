@@ -1,5 +1,3 @@
-###DEC-054103-0-000-06-08-1964@@@
-
 DECRETO Nº 54.103, DE 6 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona.

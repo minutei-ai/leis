@@ -1,5 +1,3 @@
-###DEC-005497-0-000-21-07-2005@@@
-
 DECRETO Nº 5.497, DE 21 DE JULHO DE 2005.
 
        Dispõe sobre o provimento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, níveis 1 a 4, por servidores de carreira, no âmbito da administração pública federal.
@@ -41,5 +39,3 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 22.7.2005

@@ -1,5 +1,3 @@
-###DEC-000223-0-000-25-09-1991@@@
-
 DECRETO N° 223, DE 25 DE SETEMBRO DE 1991
 
 Institui, no âmbito da Secretaria da Administração Federal, a Inspetoria-Geral e dá outras providências.

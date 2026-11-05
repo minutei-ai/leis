@@ -1,5 +1,3 @@
-###DEC-002262-0-000-26-06-1997@@@
-
 DECRETO Nº 2.262, DE 26 DE JUNHO DE 1997
 
 Altera o Regulamento aprovado pelo Decreto nº 57. 690,de 1º de fevereiro de 1966, para a execução da Lei nº 4.680, de 18 de junho de 1965.

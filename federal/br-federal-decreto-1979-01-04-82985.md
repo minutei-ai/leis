@@ -1,5 +1,3 @@
-###DEC-082985-0-000-04-01-1979@@@
-
 decreto nº 82.985, de 04 de janeiro de 1979.
 
 Autoriza alienação de bens imóveis pertencentes ao patrimônio da Universidade Federal de Santa Catarina e dá outras providências.

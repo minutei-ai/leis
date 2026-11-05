@@ -1,5 +1,3 @@
-###DEC-078266-0-000-17-08-1976@@@
-
 DECRETO Nº 78.266, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Turismo, da Faculdade dos Meios de Comunicação, integrante da Pontifícia Universidade Católica do Rio Grande do Sul, com sede na cidade Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###MPV-000077-0-000-25-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº 77, DE 25 DE OUTUBRO DE 2002
 
 Altera as Leis n 10.464, de 24 de maio de 2002, 10.177, de 12 de janeiro de 2001, e 10.437, de 25 de abril de 2002; autoriza a concessão de crédito, com recursos dos Fundos Constitucionais de Financiamento do Norte, Nordeste e Centro-Oeste, para aquisição dos títulos do Tesouro Nacional necessários à contratação de operação na forma da Resolução nº 2.471, de 26 de fevereiro de 1998, do Conselho Monetário Nacional, relacionada com dívidas contraídas com recursos de outras fontes; dispõe sobre reconversão de atividades de mutuários com dívidas junto a bancos oficiais federais; e dá outras providências.

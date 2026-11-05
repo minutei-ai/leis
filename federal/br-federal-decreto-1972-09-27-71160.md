@@ -1,5 +1,3 @@
-###DEC-071160-0-000-27-09-1972@@@
-
 DECRETO Nº 71.160, DE 27 DE SETEMBRO DE 1972.
 
 Concede  reconhecimento à Escola de Biblioteconomia e Documentação de São Carlos - SP.

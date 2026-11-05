@@ -1,5 +1,3 @@
-###DEC-072098-0-000-18-04-1973@@@
-
 DECRETO N° 72.098, DE 18 DE ABRIL DE 1973.
 
 Concede a S.A. Mineração da Trindade o direito de lavrar minério de ferro no Município de Mariana, Estado de Minas Gerais.

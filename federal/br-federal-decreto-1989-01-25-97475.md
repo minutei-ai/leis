@@ -1,5 +1,3 @@
-###DEC-097475-0-000-25-01-1989@@@
-
 DECRETO N° 97.475, DE 5 DE JANEIRO DE 1989
 
 Dispõe sobre viagens ao exterior.

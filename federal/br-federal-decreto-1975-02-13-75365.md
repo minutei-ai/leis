@@ -1,5 +1,3 @@
-###DEC-075365-0-000-13-02-1975@@@
-
 DECRETO Nº 75.365, DE 13 DE FEVEREIRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, áreas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

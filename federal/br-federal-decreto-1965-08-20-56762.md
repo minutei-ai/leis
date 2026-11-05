@@ -1,5 +1,3 @@
-###DEC-056762-0-000-20-08-1965@@@
-
 Decreto nº 56.762, de 20 de agôsto de 1965.
 
 Autoriza o cidadão brasileiro Christovão Moreira da Silva a pesquisar dolomita no município de Barra do Piraí, Estado do Rio de Janeiro.

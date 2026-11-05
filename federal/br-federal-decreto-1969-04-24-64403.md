@@ -1,5 +1,3 @@
-###DEC-064403-0-000-24-04-1969@@@
-
 DECRETO Nº 64.403, DE 24 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Garça até a Fazenda Santa Maria do Rio Feio no Município de Garça, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081818-0-000-23-06-1978@@@
-
 DECRETO Nº 81.818, DE 23 DE JUNHO DE 1978.
 
 Concede à José da Silva Gomes - Firma Individual, o direito de lavrar mármore no Município de Rio Branco do Sul, Estado do Paraná.

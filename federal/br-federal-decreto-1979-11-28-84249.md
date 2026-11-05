@@ -1,5 +1,3 @@
-###DEC-084249-0-000-28-11-1979@@@
-
 Decreto nº 84.249, de 28 de novembro de 1979.
 
 Autoriza o Ministério da Fazenda a alienar bem incorporado ao patrimônio da União.

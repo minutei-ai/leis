@@ -1,5 +1,3 @@
-###DEC-088434-0-000-21-06-1983@@@
-
 Decreto nº 88.434, de 21 de junho de 1983
 
 Regulamenta, para os representantes judiciais da União, o disposto no artigo 5º da Lei nº 6.825, de 22 de setembro de 1980, que estabelece normas para maior celeridade dos feitos no Tribunal Federal de Recursos e na Justiça Federal de Primeira Instância.

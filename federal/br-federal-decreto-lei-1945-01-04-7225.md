@@ -1,5 +1,3 @@
-###DEL-007225-0-000-04-01-1945@@@
-
 DECRETO-LEI N. 7.225 – DE 4 DE JANEIRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 4.500. 000,00, à verba que especifica

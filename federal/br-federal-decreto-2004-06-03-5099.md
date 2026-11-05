@@ -1,5 +1,3 @@
-###DEC-005099-0-000-03-06-2004@@@
-
 DECRETO Nº 5.099, DE 3 DE JUNHO DE 2004
 
 Regulamenta a Lei nº 10.778, de 24 de novembro de 2003, e institui os serviços de referência sentinela.

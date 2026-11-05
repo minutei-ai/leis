@@ -1,5 +1,3 @@
-###DEL-005139-0-000-26-12-1942@@@
-
 DECRETO-LEI N. 5.139 – DE 26 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 16.237.073,10, para melhoramento e aparelhamento da Estrada de Ferro Dona Tereza Cristina.

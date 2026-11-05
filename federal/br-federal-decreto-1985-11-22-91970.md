@@ -1,5 +1,3 @@
-###DEC-091970-0-000-22-11-1985@@@
-
 Decreto nº 91.970, de 22 de novembro de 1985.
 
 Dispõe sobre a autonomia Administrativa e financeira limitada da Secretaria Especial da Ação Comunitária-SEAC, cria o Fundo Nacional de Ação Comunitária-FUNAC, e dá outras providências.

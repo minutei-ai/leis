@@ -1,5 +1,3 @@
-###DEC-086013-0-000-19-05-1981@@@
-
 Decreto nº 86.013, dE 19 dE maio dE 1981.
 
 Promulga o Convênio Ibero-Americano de Cooperação em Seguridade Social.

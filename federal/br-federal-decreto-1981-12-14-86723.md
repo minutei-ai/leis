@@ -1,5 +1,3 @@
-###DEC-086723-0-000-14-12-1981@@@
-
 Decreto nº 86.723, de 14 de dezembro de 1981
 
 Autoriza a transferência direta para a SOCIEDADE RÁDIO SINUELO LTDA., da concessão outorgada à EMISSORAS REUNIDAS RÁDIO CULTURA LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Erechim, Estado do Rio Grande do Sul.

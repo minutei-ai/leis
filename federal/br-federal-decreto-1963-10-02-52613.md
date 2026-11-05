@@ -1,5 +1,3 @@
-###DEC-052613-0-000-02-10-1963@@@
-
 DECRETO Nº 52.613, DE 2 DE OUTUBRO DE 1963.
 
 Aprova o Estatuto da Universidade do Ceará.

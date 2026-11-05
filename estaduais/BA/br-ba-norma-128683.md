@@ -4,12 +4,14 @@ Reorganiza a Polícia Militar da Bahia, dispõe sobre o seu efetivo e dá outras
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA FINALIDADE E COMPETÊNCIAS
 
 **Art. 1º** \- Á Polícia Militar da Bahia - PMBA, órgão em regime especial de Administração Direta, nos termos da Lei nº 2.428, de 17 de fevereiro de 1967, vinculado à Secretaria da Segurança Pública e integrante do Sistema Estadual de Segurança Pública, que tem por finalidade preservar a ordem pública, a vida, a liberdade, o patrimônio e o meio ambiente, de modo a assegurar, com equilíbrio e equidade, o bem-estar social, na forma da Constituição Federal e da Constituição do Estado da Bahia, compete:
 
-Redação de acordo com a Lei nº [14.567](https://www.legislabahia.ba.gov.br/documentos/lei-no-14567-de-16-de-maio-de-2023) de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº [14.567](https://www.legislabahia.ba.gov.br/documentos/lei-no-14567-de-16-de-maio-de-2023) de 16 de maio de 2023.
+
 Redação original: "Art. 1º - Á Polícia Militar da Bahia - PMBA, órgão em regime especial de Administração Direta, nos termos da Lei nº 2.428, de 17 de fevereiro de 1967, da estrutura da Secretaria da Segurança Pública, que tem por finalidade preservar a ordem pública, a vida, a liberdade, o patrimônio e o meio ambiente, de modo a assegurar, com equilíbrio e equidade, o bem-estar social, na forma da Constituição Federal e da Constituição do Estado da Bahia, compete:"
 
 **I** \-         executar, com exclusividade, ressalvadas as missões peculiares às Forças Armadas, o policiamento ostensivo fardado, planejado pelas autoridades policiais militares competentes, a fim de assegurar o cumprimento da lei, a preservação da ordem pública e o exercício dos poderes constituídos;
@@ -94,7 +96,8 @@ Redação original: "Art. 1º - Á Polícia Militar da Bahia - PMBA, órgão em 
 
 **Parágrafo único -**   O Subcomandante-Geral é o substituto imediato do Comandante-Geral nos seus impedimentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO
 
 **Art. 6º** - A Polícia Militar tem a seguinte estrutura básica:
@@ -125,7 +128,8 @@ DA ORGANIZAÇÃO
 
 **b)** Comando de Inteligência;
 
-Redação de acordo com a Lei [14.653](https://www.legislabahia.ba.gov.br/documentos/lei-no-14653-de-22-de-janeiro-de-2024) de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei [14.653](https://www.legislabahia.ba.gov.br/documentos/lei-no-14653-de-22-de-janeiro-de-2024) de 22 de janeiro de 2024
+
 Redação original: " b) Comando de Operações de Inteligência;"
 
 **IV -**     Corregedoria da Polícia Militar;
@@ -216,7 +220,8 @@ Item 3. acrescido pela Lei 14.962 de 05 de setembro de 2025.
 
 **IV -**      o Comandante de Inteligência;
 
-Redação de acordo com a Lei [14.653](https://www.legislabahia.ba.gov.br/documentos/lei-no-14653-de-22-de-janeiro-de-2024) de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei [14.653](https://www.legislabahia.ba.gov.br/documentos/lei-no-14653-de-22-de-janeiro-de-2024) de 22 de janeiro de 2024
+
 Redação original: " IV - o Comandante de Operações de Inteligência;"
 
 **V -**      o Corregedor-Chefe;
@@ -263,12 +268,14 @@ Redação original: " IV - o Comandante de Operações de Inteligência;"
 
 **b)** Batalhão de Policiamento Tático;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: b)- "Companhias Independentes de Polícia Militar;"
 
 **c)** Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **II -**      Comando de Policiamento Regional da Capital - Baía de Todos os Santos:
@@ -277,12 +284,14 @@ Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **b)** Batalhão de Policiamento Tático;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: b)- "Companhias Independentes de Polícia Militar;"
 
 **c)**   Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **III -**    Comando de Policiamento Regional da Capital - Central:
@@ -291,12 +300,14 @@ Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **b)** Batalhão de Policiamento Tático;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: b)- "Companhias Independentes de Polícia Militar;"
 
 **c)**   Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **IV -**     Comando de Policiamento da Região Metropolitana de Salvador - RMS:
@@ -305,12 +316,14 @@ Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **b)** Batalhão de Policiamento Tático;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: b)- "Companhias Independentes de Polícia Militar;"
 
 **c)**    Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **d)** Esquadrão de Motociclistas;
@@ -323,17 +336,20 @@ Alinea d) acrescida pela Lei 14.962 de 05 de setembro de 2025.
 
 **b)** Batalhão de Policiamento Tático;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: b)- "Companhias Independentes de Polícia Militar;"
 
 **c)**   Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: c)- "Companhia Independente de Policiamento Tático;"
 
 **d)** Companhia Independente de Polícia de Guarda;
 
-Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.962 de 05 de setembro de 2025.
+
 Redação original: d)- "Companhia Independente de Polícia de Guarda;"
 
 **e)** Esquadrão de Motociclistas;
@@ -416,20 +432,30 @@ Alinea d) acrescida pela Lei 14.962 de 05 de setembro de 2025.
 
 Alinea d) acrescida pela Lei 14.962 de 05 de setembro de 2025.
 
-Redação de acordo com a Lei nº [14.567](https://www.legislabahia.ba.gov.br/documentos/lei-no-14567-de-16-de-maio-de-2023) de 16 de maio de 2023.<br>
-Redação original: "XI - Comando de Policiamento Especializado:<br>
-a) Batalhões Especializados de Polícia Militar;<br>
-b) Esquadrões de Polícia Militar;<br>
-c) Companhias Independentes de Policiamento Especializado;<br>
-d) Companhias Independentes de Polícia de Guarda;<br>
-e) Companhias Independentes de Proteção de Polícia Ambiental;<br>
-f) Companhias Independentes de Policiamento Rodoviário;<br>
-g) Companhia Independente de Polícia Fazendária;<br>
+Redação de acordo com a Lei nº [14.567](https://www.legislabahia.ba.gov.br/documentos/lei-no-14567-de-16-de-maio-de-2023) de 16 de maio de 2023.
+
+Redação original: "XI - Comando de Policiamento Especializado:
+
+a) Batalhões Especializados de Polícia Militar;
+
+b) Esquadrões de Polícia Militar;
+
+c) Companhias Independentes de Policiamento Especializado;
+
+d) Companhias Independentes de Polícia de Guarda;
+
+e) Companhias Independentes de Proteção de Polícia Ambiental;
+
+f) Companhias Independentes de Policiamento Rodoviário;
+
+g) Companhia Independente de Polícia Fazendária;
+
 h) Grupamento Aéreo da Polícia Militar;"
 
 **XII -       -** Comando de Policiamento da Região do Extremo Sul:
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "XII - Batalhão de Polícia de Reforço Operacional."
 
 **a)** Batalhões de Polícia Militar;
@@ -472,27 +498,32 @@ Alinea d) acrescida pela Lei 14.962 de 05 de setembro de 2025.
 
 **XV** - Comando de Policiamento da Região Centro-Norte:
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "XV - Comando de Policiamento Especializado:"
 
 **a)** Batalhões de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "a) - Batalhão de Polícia de Guardas;"
 
 **b)** Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "b) - Batalhão Especializado de Policiamento de Eventos;"
 
 **c)** Companhia Independente de Policiamento Tático;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "c) - Esquadrões de Polícia Militar;"
 
 **d)** Esquadrão de Motociclistas;
 
-Redação de acordo com a Lei nº 14.9622 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.9622 de 05 de setembro de 2025
+
 Redação original: "d) - Companhias Independentes de Polícia de Guarda;"
 
 **e)** Companhias Independentes de Proteção de Polícia Ambiental;
@@ -501,27 +532,32 @@ Inciso XV acrescido ao art. 16 pela Lei nº 14.567 de 16 de maio de 2023.
 
 **XVI** \- Comando de Policiamento da Região do Litoral Norte:
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "XVI - Comando de Policiamento em Missões Especiais:"
 
 **a)** Batalhões de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "a) - Batalhão de Polícia de Choque;"
 
 **b)** Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "a) - Batalhão de Operações Policiais Especiais;"
 
 **c)** Companhia Independente de Policiamento Tático;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "c) - Batalhão de Patrulhamento Tático Móvel;"
 
 **d)** Esquadrão de Motociclistas;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "d) - Grupamento Aéreo da Polícia Militar;"
 
 **e)** Companhias Independentes de Policiamento Especializado;
@@ -530,18 +566,22 @@ Inciso XVI acrescido ao art. 16 pela Lei nº 14.567 de 16 de maio de 2023.
 
 **XVII** \- Comando de Policiamento da Região do Médio Rio de Contas:
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
-Redação original: "XVII - Comando Especializado de Policiamento Rodoviário:"<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
+Redação original: "XVII - Comando Especializado de Policiamento Rodoviário:"
+
 Inciso XVII acrescido ao art. 16 pela Lei nº 14.567 de 16 de maio de 2023.
 
 a) Batalhões de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "a) -  Batalhão de Polícia Rodoviária;
 
 b)  Companhias Independentes de Polícia Militar;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "b) -  Companhias Independentes de Policiamento Rodoviário;
 
 c) Companhia Independente de Policiamento Tático;
@@ -554,28 +594,34 @@ Alinea d) acrescida pela Lei 14.962 de 05 de setembro de 2025
 
 **XVIII** - Comando de Policiamento Especializado:
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
-Redação original: XVIII " Comando de Policiamento de Apoio Operacional:"<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
+Redação original: XVIII " Comando de Policiamento de Apoio Operacional:"
+
 Inciso XVIII acrescido ao art. 16 pela Lei nº 14.567 de 16 de maio de 2023.
 
 a) Batalhão Especializado de Policiamento de Eventos;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "a) -  Batalhão de Policiamento de Proteção à Mulher - Maria da Penha;"
 
 b) Esquadrões de Polícia Montada;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "b) -  Batalhão de Policiamento de Prevenção a Furtos e Roubos a Coletivo;"
 
 c) Companhias Independentes de Proteção de Polícia Ambiental;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "c) -  Batalhão de Policiamento de Prevenção a Furtos e Roubos de Veículos;"
 
 d) Companhia Independente de Policiamento Especializado;
 
-Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025<br>
+Redação de acordo com a Lei nº 14.962 de 05 de setembro de 2025
+
 Redação original: "d) -  Batalhão de Policiamento Escolar;"
 
 e) Batalhão de Polícia de Pronto Emprego Operacional;
@@ -666,7 +712,8 @@ Alinea j) acrescida ao art. 16 pela Lei nº 14.962 de 05 de setembro de 2025.
 
 **Art. 17** \- O Comando de Inteligência tem por finalidade planejar, coordenar, executar, fiscalizar, controlar, articular, supervisionar e gerenciar as atividades de inteligência policial, no âmbito do Sistema de Inteligência da Polícia Militar - SINPOM, dentro do território baiano, bem como assessorar o Alto Comando da Corporação nos assuntos de cunho estratégico, tático e operacional que lhes forem confiados, além de se inter-relacionar com os demais órgãos estaduais de inteligência e do Sistema Brasileiro de Inteligência - SISBIN.
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "Art. 17 - O Comando de Operações de Inteligência tem por finalidade planejar, coordenar, executar, fiscalizar, controlar, articular, supervisionar e gerenciar as atividades de inteligência policial, no âmbito do Sistema de Inteligência da Polícia Militar - SINPOM, dentro do território baiano, bem como assessorar o Alto Comando da Corporação nos assuntos de cunho estratégico, tático e operacional que lhes forem confiados, além de se inter-relacionar com os demais órgãos estaduais de inteligência e do Sistema Brasileiro de Inteligência - SISBIN. "
 
 **Art. 18** \- O Departamento de Planejamento, Orçamento e Gestão tem por finalidade elaborar o planejamento das políticas públicas e estratégias institucionais, planejar, orientar e executar a programação orçamentária e a consolidação dos planos, programas, projetos, acompanhamento, gestão e atividades governamentais, no âmbito da Polícia Militar da Bahia - PMBA.
@@ -685,7 +732,8 @@ Item 19-A Acrescido pelo Art. 1 da Lei de nº 14.962 de 08 de setembro de 2025.
 
 **Art. 23** - O Centro de Arquitetura e Engenharia tem por finalidade apoiar as unidades gestoras na construção, ampliação, reforma e recuperação das instalações físicas da PMBA, nos limites de valor a ser estabelecido em regulamento.
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "Art. 23 - O Centro de Arquitetura e Engenharia tem por finalidade apoiar as unidades gestoras na construção, ampliação, reforma e recuperação das instalações físicas da Polícia Militar, com custo estimado até o limite de valor para licitação na Modalidade Tomada de Preços."
 
 **Art. 23-A** - O Centro de Gestão Patrimonial tem por finalidade gerenciar, inventariar e controlar os recursos patrimoniais, garantindo a utilização eficiente dos bens móveis e imóveis da Polícia Militar da Bahia - PMBA.
@@ -704,7 +752,8 @@ Item 25-A Acrescido pelo Art. 1 da Lei de nº 14.962 de 08 de setembro de 2025.
 
 **Art. 27** \- Os Comandos de Policiamento Especializado têm por finalidade planejar, coordenar, executar, avaliar e controlar as atividades operacionais especializadas em todo o Estado, no âmbito de sua respectiva atuação.
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "Art. 27 - O Comando de Policiamento Especializado tem por finalidade planejar, coordenar, executar, avaliar e controlar as atividades operacionais especializadas em todo Estado da Bahia."
 
 **Art. 27-A -** Os Comandos de Policiamento Especializado têm por finalidade planejar, coordenar, executar, avaliar e controlar as atividades operacionais especializadas em todo o Estado, no âmbito de sua respectiva atuação.
@@ -749,8 +798,10 @@ Art. 27-A acrescido pela Lei nº 14.567 de 16 de maio de 2023.
 
 **a)** Batalhão de Patrulhamento Tático Móvel, responsável pelo apoio tático ao policiamento ostensivo, em atendimento a situações que requeiram atuação específica, especialmente na repressão qualificada contra o crime organizado;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024.<br>
-Redação anterior de acordo com a Lei nº 14.567 de 16 de maio de 2023: "a) -  Batalhão Especializado de Patrulhamento Tático Móvel, responsável pela execução de missões de policiamento ostensivo para atuação em situações de alto risco, utilizando táticas especiais;"<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024.
+
+Redação anterior de acordo com a Lei nº 14.567 de 16 de maio de 2023: "a) -  Batalhão Especializado de Patrulhamento Tático Móvel, responsável pela execução de missões de policiamento ostensivo para atuação em situações de alto risco, utilizando táticas especiais;"
+
 Redação original: "a) - Batalhão Especializado de Polícia Turística, responsável por planejar, coordenar e executar as atividades de policiamento turístico;"
 
 **b)** Batalhão Especializado de Policiamento de Eventos, responsável por planejar, coordenar e executar as missões específicas de policiamento em eventos;
@@ -765,7 +816,8 @@ Redação original: "a) - Batalhão Especializado de Polícia Turística, respon
 
 **III -**    Batalhão de Polícia de Pronto Emprego Operacional, responsável por planejar, coordenar e executar as atividades de preservação da ordem pública, especialmente instruída e treinada para as missões de apoio às outras Unidades Operacionais, podendo se utilizar do efetivo de unidades administrativas;
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "III - Batalhão de Polícia de Reforço Operacional, responsável por planejar, coordenar e dirigir o emprego do efetivo da atividade meio da PMBA em reforço às atividades de polícia ostensiva, em estreita ligação com os respectivos órgãos;"
 
 **III-A -** Batalhão de Policiamento Tático, responsável pela execução de missões de policiamento ostensivo tático nas respectivas áreas de responsabilidade, bem como em apoio às demais unidades operacionais;
@@ -788,17 +840,20 @@ Inciso III-A acrescido pela Lei 14.962 de 05 de setembro de 2025.
 
 **XI -**     Companhia Independente de Mediação de Conflitos Agrários e Urbanos, com a finalidade de planejar, coordenar e executar as ações de segurança pública quando do cumprimento de mandados judiciais de manutenção ou de reintegração de posse e em outras situações de conflitos pela posse de terras urbanas e rurais, bem como nas medidas de desforço imediato em bens públicos envolvendo povos originários, comunidades tradicionais, movimentos sociais ou grande coletividade de pessoas;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "XI - Esquadrões de Polícia Montada, responsáveis pela execução das atividades de policiamento ostensivo montado, missões especiais e apoio às demais Unidades Operacionais da PMBA; "
 
 **XII -**    Esquadrões de Polícia Montada, responsáveis pela execução das atividades de policiamento ostensivo montado, missões especiais e apoio às demais Unidades Operacionais da PMBA;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "XII - Esquadrões de Motociclistas, responsáveis pela execução das atividades de policiamento de trânsito, de escolta de dignitários e de apoio às demais Unidades Operacionais;"
 
 **XIII -** Esquadrões de Motociclistas, responsáveis pela execução das atividades de policiamento de trânsito, de escolta de dignitários e de apoio às demais Unidades Operacionais;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "XIII -  Grupamento Aéreo da Polícia Militar, responsável pela execução do apoio do vetor aéreo às atividades de preservação da ordem pública e de policiamento ostensivo."
 
 **XIV** - Grupamento Aéreo da Polícia Militar, responsável pela execução do apoio do vetor aéreo às atividades de preservação da ordem pública e de policiamento ostensivo.
@@ -813,7 +868,8 @@ Inciso XIV acrescido pela Lei  14.653 de 22 de janeiro de 2024
 
 **Art. 43** \- A Ouvidoria tem por finalidade receber denúncias, reclamações e representações de atos desabonadores, bem como proceder ao registro de atos abonadores referentes à conduta dos integrantes da Corporação e críticas ao seu regular desempenho na prestação de serviços, funcionando em estreita articulação, com as Ouvidorias Setoriais.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA REGIONALIZAÇÃO E DO DESDOBRAMENTO
 
 **Art. 44** - A ação policial militar dar-se-á em todo território do Estado, de forma regionalizada, por meio de planejamento e acompanhamento dos Comandos de Operações Policiais Militares e sob as diretrizes do Comando-Geral.
@@ -824,7 +880,8 @@ Art. 44-A acrescido pela Lei nº 14.567 de 16 de maio de 2023.
 
 **Art. 45** - O desdobramento das regiões em áreas, áreas especiais, subáreas e setores será estabelecido em conformidade com as necessidades e características fisiográficas, psicossociais, políticas e econômicas, ficando autorizado o Comandante-Geral da Polícia Militar a adotar as providências neste sentido.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PESSOAL
 
 **Art. 46** - O efetivo da Polícia Militar será distribuído nos seguintes Quadros:
@@ -845,7 +902,8 @@ Alínea "d" revogada pela Lei n° [13.588](https://www.legislabahia.ba.gov.br/do
 
 **<Revogada> f)** Quadro Especial de Tenentes Auxiliares Policiais Militares - QETAPM;
 
-Revogada pela Lei [15.172](https://www.legislabahia.ba.gov.br/documentos/lei-no-15172-de-17-de-junho-de-2026) de 17 de junho de 2026.<br>
+Revogada pela Lei [15.172](https://www.legislabahia.ba.gov.br/documentos/lei-no-15172-de-17-de-junho-de-2026) de 17 de junho de 2026.
+
 Alínea "f" acrescida pela Lei n° 14.186 de 15 de janeiro de 2020.
 
 **II -**      Praças:
@@ -866,14 +924,16 @@ Artigo 50  revogado pela Lei n° 13.588 de 10 de novembro de 2016.
 
 **Art. 51** \- O Quadro de Oficiais Auxiliares Policiais Militares - QOAPM é integrado pelos Oficiais existentes no seu Quadro e destina-se aos policiais militares oriundos da carreira de Praças, unicamente ocupantes da graduação de Subtenente PM, competindo-lhes o exercício de atividades operacionais e administrativas da Corporação.
 
-Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.<br>
+Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.
+
 Redação original: "Art 51 - O Quadro de Oficiais Auxiliares Policiais Militares - QOAPM é integrado pelos Oficiais existentes no seu Quadro e destina-se aos policiais militares oriundos do círculo de Praças, das graduações de Subtenente e 1º Sargento, que tenham concluído com aproveitamento o Curso de Aperfeiçoamento de Sargentos - CAS, competindo-lhes o exercício de atividades operacionais e administrativas da Corporação."
 
-**§ 1º** **\-** O ingresso no QOAPM se dará após a conclusão, com aproveitamento, do Curso de Formação de Oficiais específico, atendidos os requisitos estabelecidos na Lei nº 7.990, de 27 de dezembro de 2001, e na regulamentação relativa ao ingresso no referido Quadro.
+**§ 1º\-** O ingresso no QOAPM se dará após a conclusão, com aproveitamento, do Curso de Formação de Oficiais específico, atendidos os requisitos estabelecidos na Lei nº 7.990, de 27 de dezembro de 2001, e na regulamentação relativa ao ingresso no referido Quadro.
 
 **§ 2º** - Os ocupantes da graduação de Subtenente PM poderão participar do processo seletivo para ingresso no QOAPM, respeitada a proporção de 50% (cinquenta por cento) das vagas pelo critério de antiguidade e 50% (cinquenta por cento) mediante a realização de provas de desempenho profissional e intelectual.
 
-Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.<br>
+Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.
+
 Redação original: "§ 2º -Os ocupantes da graduação de Subtenente e 1º Sargento com CAS poderão participar do processo seletivo para ingresso no QOAPM, respeitada a proporção de 50% (cinquenta por cento) das vagas pelo critério de antiguidade e 50% (cinquenta por cento) mediante a realização de provas de desempenho profissional e intelectual. "
 
 **§ 3º** - O maior grau hierárquico do Quadro de Oficiais Auxiliares Policiais Militares é o Posto de Tenente Coronel.
@@ -884,13 +944,16 @@ Redação original: "§ 2º -Os ocupantes da graduação de Subtenente e 1º Sar
 
 **§ 6º** - As funções a serem exercidas pelos Oficiais Superiores do QOAPM serão preferencialmente desempenhadas em unidades administrativas da estrutura organizacional da Polícia Militar, nas áreas profissionais demandadas a serem definidas por ato do Comandante**\-**Geral.
 
-Redação de acordo com a Lei nº 13.588 de 10 novembro de 2016.<br>
-Redação original : "Art. 51 - O Quadro de Oficiais Auxiliares Policiais Militares - QOAPM é composto por Oficiais existentes no seu Quadro, competindo-lhe o exercício de atividades operacionais e administrativas da Corporação, incluindo o Comando e Chefia de subunidades.<br>
+Redação de acordo com a Lei nº 13.588 de 10 novembro de 2016.
+
+Redação original : "Art. 51 - O Quadro de Oficiais Auxiliares Policiais Militares - QOAPM é composto por Oficiais existentes no seu Quadro, competindo-lhe o exercício de atividades operacionais e administrativas da Corporação, incluindo o Comando e Chefia de subunidades.
+
 Parágrafo único -   O maior grau hierárquico do Quadro de Oficiais Auxiliares Policiais Militares é o Posto de Major."
 
 **<REVOGADO>Art. 51-A** - O Quadro Especial de Tenentes Auxiliares Policiais Militares - QETAPM é integrado pelos 1º Tenentes que ingressarem no Quadro e destina-se aos policiais militares oriundos da carreira de Praças, unicamente dos ocupantes da graduação de Subtenente PM, competindo-lhes preferencialmente o exercício de atividades operacionais da Corporação.
 
-Revogado pela Lei 15.172 de 17 de junho de 2026.<br>
+Revogado pela Lei 15.172 de 17 de junho de 2026.
+
 Acrescido o art. 51-A de acordo com a Lei nº 14.186 de 15 de janeiro de 2020.
 
 **§ 1º** \- O ingresso no QETAPM se dará após a conclusão, com aproveitamento, do Curso de Formação de Oficiais específico e do estágio supervisionado, atendidos os requisitos estabelecidos na Lei nº 7.990, de 27 de dezembro de 2001, e na regulamentação relativa ao ingresso no referido Quadro.
@@ -925,15 +988,18 @@ Acrescido o art. 51-B de acordo com a Lei nº 14.186 de 15 de janeiro de 2020.
 
 **Art. 55** \- O efetivo ativo da PMBA é fixado em 47.194 (quarenta e sete mil, cento e noventa e quatro) policiais militares estaduais, distribuídos em Postos e Graduações, conforme o Anexo IV desta Lei.
 
-Redação de acordo com a Lei 14.962 de 05 de setenbro de 2025.<br>
-Redação anterior de acordo com a Lei nº 14.567 de 16 de maio de 2023: "Art. 55 - O efetivo ativo da PMBA é fixado em 44.767 (quarenta e quatro mil setecentos e sessenta e sete) servidores policiais militares estaduais, distribuídos em Postos e Graduações, conforme o Anexo IV desta Lei."<br>
+Redação de acordo com a Lei 14.962 de 05 de setenbro de 2025.
+
+Redação anterior de acordo com a Lei nº 14.567 de 16 de maio de 2023: "Art. 55 - O efetivo ativo da PMBA é fixado em 44.767 (quarenta e quatro mil setecentos e sessenta e sete) servidores policiais militares estaduais, distribuídos em Postos e Graduações, conforme o Anexo IV desta Lei."
+
 Redação original: "Art. 55 - O efetivo ativo da Polícia Militar da Bahia é fixado em 44.392 (quarenta e quatro mil trezentos e noventa e dois) servidores policiais militares estaduais, distribuídos em Postos e Graduações, conforme o Anexo IV desta Lei."
 
 **Parágrafo único -**   As vagas previstas nesta Lei, decorrentes do aumento do efetivo, serão preenchidas em razão da oportunidade e conveniência da Administração.
 
 **Art. 56** \- A distribuição do quantitativo do efetivo da ativa da Polícia Militar da Bahia no Quadro Organizacional será definida por Portaria do Comandante-Geral da Polícia Militar.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS ATRIBUIÇÕES DOS TITULARES DE CARGOS EM COMISSÃO
 
 **Art. 57** \- Aos titulares dos cargos em comissão, além do desempenho das atividades concernentes aos Sistemas Estaduais, definidos em legislação própria, cabe o exercício das atribuições gerais e específicas a seguir enumeradas:
@@ -1026,7 +1092,8 @@ DAS ATRIBUIÇÕES DOS TITULARES DE CARGOS EM COMISSÃO
 
 **VI -**     Chefe de Gabinete do Comando-Geral:
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "VI - Assistente Militar do Comando-Geral:"
 
 **a)** chefiar o Gabinete do Comando-Geral;
@@ -1035,7 +1102,8 @@ Redação original: "VI - Assistente Militar do Comando-Geral:"
 
 **c)**   planejar a segurança pessoal do Comandante-Geral e de seus familiares;
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "c) - realizar a segurança pessoal do Comandante-Geral da Polícia Militar e de seus familiares;"
 
 **d)** instaurar sindicâncias, processos disciplinares sumários e processos administrativos disciplinares, decidindo conforme lei específica;
@@ -1058,7 +1126,8 @@ Redação original: "c) - realizar a segurança pessoal do Comandante-Geral da P
 
 **IX -**     ao Comandante de Inteligência cabe promover as atividades de inteligência no âmbito da Polícia Militar e instaurar sindicâncias, processos disciplinares sumários e processos administrativos disciplinares, decidindo conforme lei específica;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "IX - ao Comandante de Operações de Inteligência cabe promover as atividades de inteligência no âmbito da Polícia Militar e instaurar sindicâncias, processos disciplinares sumários e processos administrativos disciplinares, decidindo conforme lei específica;"
 
 **X -**      ao Diretor de Ensino cabe promover a formação, a capacitação e a especialização de militares estaduais da Bahia e de servidores de outras instituições da área de segurança pública e instaurar sindicâncias, processos disciplinares sumários e processos administrativos disciplinares, decidindo conforme lei específica;
@@ -1095,17 +1164,20 @@ Redação original: "IX - ao Comandante de Operações de Inteligência cabe pro
 
 **XIV -** Subcomandante de Inteligência:
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "XIV - Subcomandante de Operações de Inteligência:"
 
 **a)** substituir o Comandante de Inteligência em seus impedimentos eventuais;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "a) - substituir o Comandante de Operações de Inteligência em seus impedimentos eventuais;"
 
 **b)** fiscalizar o cumprimento de normas e diretrizes emanadas pelo Comandante de Inteligência;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "b) - fiscalizar o cumprimento de normas e diretrizes emanadas pelo Comandante de Operações de Inteligência;"
 
 **XV -**   Assessor Especial:
@@ -1152,7 +1224,8 @@ Redação original: "b) - fiscalizar o cumprimento de normas e diretrizes emanad
 
 **XX -**   Ouvidor-Chefe:
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "XX - Ouvidor:"
 
 **a)** receber denúncias, reclamações e representações de atos desabonadores de servidores da Polícia Militar;
@@ -1173,7 +1246,8 @@ Inciso XX-A acrescido pela Lei nº 14.567 de 16 de maio de 2023.
 
 **XXI -** Chefe de Gabinete do Subcomando-Geral:
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "XXI - Assistente Militar I:"
 
 **a)** assistir o Subcomandante-Geral em assuntos de natureza técnica e administrativa;
@@ -1182,7 +1256,8 @@ Redação original: "XXI - Assistente Militar I:"
 
 **c)**   planejar a segurança pessoal do Subcomandante-Geral e de seus familiares;
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
 Redação original: "c) - promover a segurança pessoal do Subcomandante-Geral e de seus familiares;"
 
 **XXII -**    ao Comandante de Grupamento Aéreo cabe coordenar, supervisionar, controlar e executar as atividades de polícia ostensiva nas suas áreas de abrangência territorial, bem como instaurar sindicâncias, processos disciplinares sumários e processos administrativos disciplinares, decidindo conforme lei específica;
@@ -1191,10 +1266,14 @@ Redação original: "c) - promover a segurança pessoal do Subcomandante-Geral e
 
 **XXIV -**   Coordenador I: programar, orientar, coordenar, executar, controlar e avaliar as atividades da respectiva Unidade;
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.<br>
-Redação original: "XXIV - Coordenador I e Coordenador Técnico:<br>
-a) programar, orientar, supervisionar e avaliar os trabalhos a cargo da respectiva Unidade;<br>
-b) cumprir e fazer cumprir as diretrizes, normas e procedimentos técnicos, administrativos e financeiros para maior eficiência e aperfeiçoamento dos programas, projetos e atividades sob sua responsabilidade;<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023.
+
+Redação original: "XXIV - Coordenador I e Coordenador Técnico:
+
+a) programar, orientar, supervisionar e avaliar os trabalhos a cargo da respectiva Unidade;
+
+b) cumprir e fazer cumprir as diretrizes, normas e procedimentos técnicos, administrativos e financeiros para maior eficiência e aperfeiçoamento dos programas, projetos e atividades sob sua responsabilidade;
+
 c) propor ao superior imediato as medidas que julgar convenientes, na promoção, integração e no desenvolvimento técnico e interpessoal da respectiva equipe de trabalho;"
 
 **XXIV-A** - Coordenador Técnico: coordenar as atividades de assessoramento, planejamento, execução, acompanhamento, supervisão e avaliação de programas, projetos e ações a cargo da respectiva Unidade;
@@ -1315,7 +1394,8 @@ XXIV-A acrescido pela Lei nº 14.567 de 16 de maio de 2023.
 
 **§ 4º** \- Os ocupantes de cargos em comissão da Polícia Militar da Bahia poderão exercer outras atribuições inerentes aos respectivos cargos, necessários ao cumprimento de suas competências.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 58** - Constituem Comissões Permanentes da Polícia Militar, que se regem por legislação específica:
@@ -1430,7 +1510,8 @@ DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **§ 2º** \- As Companhias Independentes de Policiamento Especializado ficam localizadas nas Regiões Nordeste, Central e Chapada.
 
-Redação de acordo com a Lei nº 14.171 de 04 de novembro de 2019.<br>
+Redação de acordo com a Lei nº 14.171 de 04 de novembro de 2019.
+
 Redação original: "§ 2º -  As Companhias Independentes de Policiamento Especializado ficam localizadas nas Regiões Noroeste, Central e Chapada."
 
 **Art. 64-A** - Ficam criadas, na estrutura da Polícia Militar da Bahia, as seguintes unidades:
@@ -1445,7 +1526,8 @@ Redação original: "§ 2º -  As Companhias Independentes de Policiamento Espe
 
 **V** -  Comando de Policiamento em Missões Especiais;
 
-Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024<br>
+Redação de acordo com a Lei 14.653 de 22 de janeiro de 2024
+
 Redação original: "V - Comando de Policiamento de Missões Especiais;"
 
 **VI** - Comando Especializado de Policiamento Rodoviário;
@@ -1708,7 +1790,8 @@ Inciso III acrescido pela Lei nº 14.962 de 05 de setembro de 2025
 
 **IV -**     o Batalhão de Polícia de Reforço Operacional passa a denominar-se Batalhão de Polícia de Pronto Emprego Operacional.
 
-Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023..<br>
+Redação de acordo com a Lei nº 14.567 de 16 de maio de 2023..
+
 Redação original: "IV -  o Batalhão de Apoio Operacional passa a denominar-se Batalhão de Polícia de Reforço Operacional."
 
 **Art. 67-A** - O Batalhão Especializado de Polícia Turística passa a denominar-se Batalhão de Policiamento Turístico.
@@ -1799,622 +1882,102 @@ Maurício Teles Barbosa
 
 Secretário da Segurança Pública
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:463.35pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="2" style="width:463.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="618"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">ANEXO I (Alterado pela Lei 14.962 de 05 de setembro de 2025.)</span></b></p></td></tr><tr><td colspan="2" style="width:463.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="618"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">QUANTITATIVO DAS UNIDADES DA ESTRUTURA ORGANIZACIONAL<br>DA POLÍCIA MILITAR DA BAHIA - PMBA</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">UNIDADES</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">QUANTIDADE</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comando-Geral</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Gabinete do Comando-Geral</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomando Geral</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Gabinete do Subcomando Geral</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comando de Operações Policiais Militares</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comando de Inteligência</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandos de Policiamento Regionais</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">17</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Comando de Policiamento Especializado</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comando de Policiamento em Missões Especiais</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comando de Policiamento de Apoio Operacional</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Corregedoria da Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Ouvidoria</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Instituto de Ensino e Pesquisa</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Departamentos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">09</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Academia de Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Formação e Aperfeiçoamento de Praças Policiais Militares</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Gestão Estratégica</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Arquitetura e Engenharia</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Material Bélico</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Gestão Patrimonial</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Educação Física e Desportos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro Corporativo de Projetos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Captação de Recursos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Centro de Polícia Judiciária Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Juntas Militares Estaduais de Saúde</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">03</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Hospital da Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Odontoclínica da Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhões de Ensino, Instrução e Capacitação</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">07</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhões de Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">25</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Polícia de Choque</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Polícia de Guarda</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Polícia Rodoviária</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Polícia de Pronto Emprego Operacional</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento Turístico</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão Especializado de Policiamento de Eventos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Operações Policiais Especiais</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento de Proteção à Mulher – Maria da Penha</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento de Prevenção a Furtos e Roubos a Coletivos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento de Prevenção a Furtos e Roubos de Veículos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Patrulhamento Tático Móvel</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento Escolar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Batalhão de Policiamento Tático</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">05</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Grupamento Aéreo da Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Esquadrões</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">07</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Colégios da Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">17</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Polícia Militar</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">93</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Policiamento Especializado</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">13</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Policiamento Tático</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">12</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Policiamento Rodoviário</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">04</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Polícia de Proteção Ambiental</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">03</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhia Independente de Polícia Fazendária</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhias Independentes de Polícia de Guarda</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhia Independente de Mediação de Conflitos Agrários e Urbanos</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:367.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="490"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Companhia Independente de Comando e Serviços</span></p></td><td style="width:95.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO I (Alterado pela Lei 14.962 de 05 de setembro de 2025.)** </td></tr><tr><td colspan="2" valign="top"> QUANTITATIVO DAS UNIDADES DA ESTRUTURA ORGANIZACIONAL DA POLÍCIA MILITAR DA BAHIA - PMBA </td></tr><tr><td valign="top"> UNIDADES </td><td> QUANTIDADE </td></tr><tr><td valign="top"> Comando-Geral </td><td> 01 </td></tr><tr><td valign="top"> Gabinete do Comando-Geral </td><td> 01 </td></tr><tr><td valign="top"> Subcomando Geral </td><td> 01 </td></tr><tr><td valign="top"> Gabinete do Subcomando Geral </td><td> 01 </td></tr><tr><td valign="top"> Comando de Operações Policiais Militares </td><td> 01 </td></tr><tr><td valign="top"> Comando de Inteligência </td><td> 01 </td></tr><tr><td valign="top"> Comandos de Policiamento Regionais </td><td> 17 </td></tr><tr><td valign="top"> Comando de Policiamento Especializado </td><td> 02 </td></tr><tr><td valign="top"> Comando de Policiamento em Missões Especiais </td><td> 01 </td></tr><tr><td valign="top"> Comando de Policiamento de Apoio Operacional </td><td> 01 </td></tr><tr><td valign="top"> Corregedoria da Polícia Militar </td><td> 01 </td></tr><tr><td valign="top"> Ouvidoria </td><td> 01 </td></tr><tr><td valign="top"> Instituto de Ensino e Pesquisa </td><td> 01 </td></tr><tr><td valign="top"> Departamentos </td><td> 09 </td></tr><tr><td valign="top"> Academia de Polícia Militar </td><td> 01 </td></tr><tr><td valign="top"> Centro de Formação e Aperfeiçoamento de Praças Policiais Militares </td><td> 01 </td></tr><tr><td valign="top"> Centro de Gestão Estratégica </td><td> 01 </td></tr><tr><td valign="top"> Centro de Arquitetura e Engenharia </td><td> 01 </td></tr><tr><td valign="top"> Centro de Material Bélico </td><td> 01 </td></tr><tr><td valign="top"> Centro de Gestão Patrimonial </td><td> 01 </td></tr><tr><td valign="top"> Centro de Educação Física e Desportos </td><td> 01 </td></tr><tr><td valign="top"> Centro Corporativo de Projetos </td><td> 01 </td></tr><tr><td valign="top"> Centro de Captação de Recursos </td><td> 01 </td></tr><tr><td valign="top"> Centro de Polícia Judiciária Militar </td><td> 01 </td></tr><tr><td valign="top"> Juntas Militares Estaduais de Saúde </td><td> 03 </td></tr><tr><td valign="top"> Hospital da Polícia Militar </td><td> 01 </td></tr><tr><td valign="top"> Odontoclínica da Polícia Militar </td><td> 01 </td></tr><tr><td valign="top"> Batalhões de Ensino, Instrução e Capacitação </td><td> 07 </td></tr><tr><td valign="top"> Batalhões de Polícia Militar </td><td> 25 </td></tr><tr><td valign="top"> Batalhão de Polícia de Choque </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Polícia de Guarda </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Polícia Rodoviária </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Polícia de Pronto Emprego Operacional </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento Turístico </td><td> 01 </td></tr><tr><td valign="top"> Batalhão Especializado de Policiamento de Eventos </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Operações Policiais Especiais </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento de Proteção à Mulher – Maria da Penha </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento de Prevenção a Furtos e Roubos a Coletivos </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento de Prevenção a Furtos e Roubos de Veículos </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Patrulhamento Tático Móvel </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento Escolar </td><td> 01 </td></tr><tr><td valign="top"> Batalhão de Policiamento Tático </td><td> 05 </td></tr><tr><td valign="top"> Grupamento Aéreo da Polícia Militar </td><td> 01 </td></tr><tr><td valign="top"> Esquadrões </td><td> 07 </td></tr><tr><td valign="top"> Colégios da Polícia Militar </td><td> 17 </td></tr><tr><td valign="top"> Companhias Independentes de Polícia Militar </td><td> 93 </td></tr><tr><td valign="top"> Companhias Independentes de Policiamento Especializado </td><td> 13 </td></tr><tr><td valign="top"> Companhias Independentes de Policiamento Tático </td><td> 12 </td></tr><tr><td valign="top"> Companhias Independentes de Policiamento Rodoviário </td><td> 04 </td></tr><tr><td valign="top"> Companhias Independentes de Polícia de Proteção Ambiental </td><td> 03 </td></tr><tr><td valign="top"> Companhia Independente de Polícia Fazendária </td><td> 01 </td></tr><tr><td valign="top"> Companhias Independentes de Polícia de Guarda </td><td> 02 </td></tr><tr><td valign="top"> Companhia Independente de Mediação de Conflitos Agrários e Urbanos </td><td> 01 </td></tr><tr><td valign="top"> Companhia Independente de Comando e Serviços </td><td> 01 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:444.95pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="3" style="width:444.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="593"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">ANEXO II(Alterado pela Lei 14.962 de 05 de setembro de 2025.)<br>QUADRO DE CARGOS EM COMISSÃO DA POLÍCIA MILITAR DA BAHIA PMBA</span></b></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGO</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">SÍMBOLO</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">QUANTIDADE</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante-Geral da Polícia Militar</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-1</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante-Geral da Polícia Militar</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2A</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Operações Policiais Militares</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Inteligência</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Chefe de Gabinete do Comando-Geral</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Corregedor-Chefe</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor do Instituto de Ensino e Pesquisa</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor de Departamento</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">09</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Policiamento</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">21</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor de Ensino</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Ouvidor-Chefe</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Ouvidor-Adjunto</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Assessor Especial</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">04</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Coordenador de Saúde</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Chefe de Gabinete do Subcomando-Geral</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Operações Policiais Militares</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Inteligência</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Policiamento</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">21</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor Adjunto de Departamento</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">08</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor Adjunto do Instituto de Ensino e Pesquisa</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor Adjunto</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Corregedor Adjunto</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Assessor de Comunicação Social</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Grupamento Aéreo</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Coordenador I</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">08</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor do Colégio da Polícia Militar</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">17</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Batalhão</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">49</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Grupamento Aéreo</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Aeronave</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">12</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Coordenador Técnico</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">72</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Chefe de Núcleo</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">24</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Batalhão</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">49</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Companhia Independente</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">130</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Esquadrão</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">07</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Diretor Adjunto do Colégio da Polícia Militar</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">17</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Coordenador II</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">222</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Assessor de Comunicação Social I</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Companhia Independente</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">130</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Subcomandante de Esquadrão</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">07</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Base Comunitária de Segurança</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">34</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Comandante de Companhia</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">276</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Tripulante Operacional</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">08</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Mecânico de Voo</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">05</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Coordenador III</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">298</span></p></td></tr><tr style="height:11.8pt"><td style="width:267.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="357"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Secretário Administrativo I</span></p></td><td style="width:81.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">DAI-5</span></p></td><td style="width:95.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt" valign="top" width="128"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">01</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO II(Alterado pela Lei 14.962 de 05 de setembro de 2025.) QUADRO DE CARGOS EM COMISSÃO DA POLÍCIA MILITAR DA BAHIA PMBA** </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> Comandante-Geral da Polícia Militar </td><td valign="top"> DAS-1 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante-Geral da Polícia Militar </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Operações Policiais Militares </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Inteligência </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Chefe de Gabinete do Comando-Geral </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor-Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor do Instituto de Ensino e Pesquisa </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor de Departamento </td><td valign="top"> DAS-2B </td><td valign="top"> 09 </td></tr><tr><td valign="top"> Comandante de Policiamento </td><td valign="top"> DAS-2B </td><td valign="top"> 21 </td></tr><tr><td valign="top"> Diretor de Ensino </td><td valign="top"> DAS-2B </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Ouvidor-Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Ouvidor-Adjunto </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Especial </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Coordenador de Saúde </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Chefe de Gabinete do Subcomando-Geral </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante de Operações Policiais Militares </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante de Inteligência </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante de Policiamento </td><td valign="top"> DAS-2C </td><td valign="top"> 21 </td></tr><tr><td valign="top"> Diretor Adjunto de Departamento </td><td valign="top"> DAS-2C </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Diretor Adjunto do Instituto de Ensino e Pesquisa </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor Adjunto </td><td valign="top"> DAS-2C </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Corregedor Adjunto </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor de Comunicação Social </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Grupamento Aéreo </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador I </td><td valign="top"> DAS-2C </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Diretor do Colégio da Polícia Militar </td><td valign="top"> DAS-2D </td><td valign="top"> 17 </td></tr><tr><td valign="top"> Comandante de Batalhão </td><td valign="top"> DAS-2D </td><td valign="top"> 49 </td></tr><tr><td valign="top"> Subcomandante de Grupamento Aéreo </td><td valign="top"> DAS-2D </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Aeronave </td><td valign="top"> DAS-2D </td><td valign="top"> 12 </td></tr><tr><td valign="top"> Coordenador Técnico </td><td valign="top"> DAS-2D </td><td valign="top"> 72 </td></tr><tr><td valign="top"> Chefe de Núcleo </td><td valign="top"> DAS-2D </td><td valign="top"> 24 </td></tr><tr><td valign="top"> Subcomandante de Batalhão </td><td valign="top"> DAS-3 </td><td valign="top"> 49 </td></tr><tr><td valign="top"> Comandante de Companhia Independente </td><td valign="top"> DAS-3 </td><td valign="top"> 130 </td></tr><tr><td valign="top"> Comandante de Esquadrão </td><td valign="top"> DAS-3 </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Diretor Adjunto do Colégio da Polícia Militar </td><td valign="top"> DAS-3 </td><td valign="top"> 17 </td></tr><tr><td valign="top"> Coordenador II </td><td valign="top"> DAS-3 </td><td valign="top"> 222 </td></tr><tr><td valign="top"> Assessor de Comunicação Social I </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante de Companhia Independente </td><td valign="top"> DAI-4 </td><td valign="top"> 130 </td></tr><tr><td valign="top"> Subcomandante de Esquadrão </td><td valign="top"> DAI-4 </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Comandante de Base Comunitária de Segurança </td><td valign="top"> DAI-4 </td><td valign="top"> 34 </td></tr><tr><td valign="top"> Comandante de Companhia </td><td valign="top"> DAI-4 </td><td valign="top"> 276 </td></tr><tr><td valign="top"> Tripulante Operacional </td><td valign="top"> DAI-4 </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Mecânico de Voo </td><td valign="top"> DAI-4 </td><td valign="top"> 05 </td></tr><tr><td valign="top"> Coordenador III </td><td valign="top"> DAI-4 </td><td valign="top"> 298 </td></tr><tr><td valign="top"> Secretário Administrativo I </td><td valign="top"> DAI-5 </td><td valign="top"> 01 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:407.25pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">ANEXO III<br>QUADRO DE FUNÇÕES PRIVATIVAS DO POSTO DE CORONEL DA POLÍCIA MILITAR DA BAHIA - PMBA(Alterado pela Lei <a href="https://www.legislabahia.ba.gov.br/documentos/lei-no-14962-de-05-de-setembro-de-2025">14.962</a> de 05 de setembro de 2025.)</span></b></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">I - CARGOS PRIVATIVOS DO POSTO DE CORONEL DO QOPM</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1. Comandante-Geral da Polícia Militar</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">2. Subcomandante-Geral da Polícia Militar</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">3. Corregedor-Chefe</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">4. Chefe de Gabinete do Comando-Geral</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">5. Ouvidor-Chefe</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">6. Diretor do Instituto de Ensino e Pesquisa</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">7. Diretor do Departamento de Auditoria e Finanças</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">8. Diretor do Departamento de Pessoal</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">9. Diretor do Departamento de Planejamento, Orçamento e Gestão</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">10. Diretor do Departamento de Promoção Social</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">11. Diretor do Departamento de Apoio Logístico</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">12. Diretor do Departamento de Comunicação Social</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">13. Diretor do Departamento de Modernização e Tecnologia</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">14. Diretor do Departamento de Polícia Comunitária e Direitos Humanos</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">15. Diretor de Ensino da Academia de Polícia Militar</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">16. Diretor de Ensino do Centro de Formação e Aperfeiçoamento de Praças</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">17. Comandante de Operações de Inteligência</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">18. Comandante de Operações Policiais Militares</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">19. Comandante de Policiamento Regional da Capital - Atlântico</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">20. Comandante de Policiamento Regional da Capital - Baía de Todos os Santos</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">21. Comandante de Policiamento Regional da Capital - Central</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">22. Comandante de Policiamento da Região Metropolitana de Salvador</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">23. Comandante de Policiamento da Região Leste</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">24. Comandante de Policiamento da Região Oeste</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">25. Comandante de Policiamento da Região Sul</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">26. Comandante de Policiamento da Região Norte</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">27. Comandante de Policiamento da Região Sudoeste</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">28. Comandante de Policiamento da Região da Chapada</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">29. Comandante de Policiamento da Região Centro-Norte</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">30. Comandante de Policiamento da Região do Litoral Norte</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">31. Comandante de Policiamento Especializado</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">32. Comandante de Policiamento da Região do Recôncavo</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">33. Comandante de Policiamento da Região do Extremo Sul</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">34. Comandante de Policiamento da Região Meio Oeste</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">35. Comandante de Policiamento da Região Nordeste</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">36. Comandante de Policiamento da Região do Médio Rio de Contas</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">37. Comandante de Policiamento em Missões Especiais</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">38. Comandante de Policiamento Rodoviário</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">39. Comandante de Policiamento de Apoio Operacional</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">II - CARGO PRIVATIVO DO POSTO DE CORONEL DO QOSPM</span></b></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1. Diretor do Departamento de Saúde</span></p></td></tr><tr><td style="width:407.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="543"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">2. Coordenador de Saúde</span></p></td></tr></tbody></table>
+**ANEXO III
+QUADRO DE FUNÇÕES PRIVATIVAS DO POSTO DE CORONEL DA POLÍCIA MILITAR DA BAHIA - PMBA(Alterado pela Lei [14.962](https://www.legislabahia.ba.gov.br/documentos/lei-no-14962-de-05-de-setembro-de-2025) de 05 de setembro de 2025.)**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:607.35pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:28.2pt"><td colspan="11" style="width:607.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.2pt" width="810"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">ANEXO IV(Alterado pela Lei <a href="https://www.legislabahia.ba.gov.br/documentos/lei-no-15172-de-17-de-junho-de-2026">15.172</a> de 17 de junho de 2026)<br>QUADRO DE EFETIVO DE OFICIAIS DA POLÍCIA MILITAR</span></p></td></tr><tr style="height:28.95pt"><td rowspan="2" style="width:93.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">POSTO</span></p></td><td colspan="2" style="width:91.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="125"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">QOPM</span></p></td><td colspan="2" style="width:94.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="126"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">QOSPM MÉDICO</span></p></td><td colspan="2" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="166"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">QOSPM ODONTÓLOGO</span></p></td><td colspan="2" style="width:96.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="129"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">QOAPM</span></p></td><td colspan="2" style="width:104.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="141"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">TOTAL</span></p></td></tr><tr style="height:28.95pt"><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.O.</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.C.E.</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.O.</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.C.E.</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.O.</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.C.E.</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.O.</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.C.E.</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.O.</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">*P.C.E.</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coronel</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">39</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">26</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">41</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">28</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Tenente Coronel</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">253</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">26</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">268</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">30</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Major</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">558</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">22</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">22</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">598</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">36</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Capitão</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.262</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">15</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">36</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">25</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">250</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">37</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.573</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">54</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1º Tenente</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.422</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">45</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">26</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.825</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">200</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.318</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">200</span></p></td></tr><tr style="height:28.95pt"><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:28.95pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Total</span></p></td><td style="width:44.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.534</span></p></td><td style="width:47.2pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">89</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">96</span></p></td><td style="width:50.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="67"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:46.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">65</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="104"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:44.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="59"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.103</span></p></td><td style="width:52.7pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="70"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">251</span></p></td><td style="width:57.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="75"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.798</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:28.95pt" width="66"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">348</span></p></td></tr></tbody></table>
+I - CARGOS PRIVATIVOS DO POSTO DE CORONEL DO QOPM
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:374.05pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="5" style="width:374.05pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="499"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">QUADRO DE EFETIVO DE PRAÇAS DA POLÍCIA MILITAR</span></p></td></tr><tr><td rowspan="2" style="width:86.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Graduação</span></p></td><td colspan="2" style="width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="198"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">QPPM</span></p></td><td colspan="2" style="width:139.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="186"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">TOTAL</span></p></td></tr><tr><td style="width:72.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td style="width:65.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Subtenente</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.587</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">134</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.587</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">134</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">1º Sargento</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.674</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">100</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.674</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">100</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Cabo</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9.315</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">228</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9.315</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">228</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Soldado</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">22.820</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">22.820</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Total</span></p></td><td style="width:72.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">41.396</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">462</span></p></td><td style="width:65.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">41.396</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">462</span></p></td></tr></tbody></table>
+1. Comandante-Geral da Polícia Militar
+
+2. Subcomandante-Geral da Polícia Militar
+
+3. Corregedor-Chefe
+
+4. Chefe de Gabinete do Comando-Geral
+
+5. Ouvidor-Chefe
+
+6. Diretor do Instituto de Ensino e Pesquisa
+
+7. Diretor do Departamento de Auditoria e Finanças
+
+8. Diretor do Departamento de Pessoal
+
+9. Diretor do Departamento de Planejamento, Orçamento e Gestão
+
+10. Diretor do Departamento de Promoção Social
+
+11. Diretor do Departamento de Apoio Logístico
+
+12. Diretor do Departamento de Comunicação Social
+
+13. Diretor do Departamento de Modernização e Tecnologia
+
+14. Diretor do Departamento de Polícia Comunitária e Direitos Humanos
+
+15. Diretor de Ensino da Academia de Polícia Militar
+
+16. Diretor de Ensino do Centro de Formação e Aperfeiçoamento de Praças
+
+17. Comandante de Operações de Inteligência
+
+18. Comandante de Operações Policiais Militares
+
+19. Comandante de Policiamento Regional da Capital - Atlântico
+
+20. Comandante de Policiamento Regional da Capital - Baía de Todos os Santos
+
+21. Comandante de Policiamento Regional da Capital - Central
+
+22. Comandante de Policiamento da Região Metropolitana de Salvador
+
+23. Comandante de Policiamento da Região Leste
+
+24. Comandante de Policiamento da Região Oeste
+
+25. Comandante de Policiamento da Região Sul
+
+26. Comandante de Policiamento da Região Norte
+
+27. Comandante de Policiamento da Região Sudoeste
+
+28. Comandante de Policiamento da Região da Chapada
+
+29. Comandante de Policiamento da Região Centro-Norte
+
+30. Comandante de Policiamento da Região do Litoral Norte
+
+31. Comandante de Policiamento Especializado
+
+32. Comandante de Policiamento da Região do Recôncavo
+
+33. Comandante de Policiamento da Região do Extremo Sul
+
+34. Comandante de Policiamento da Região Meio Oeste
+
+35. Comandante de Policiamento da Região Nordeste
+
+36. Comandante de Policiamento da Região do Médio Rio de Contas
+
+37. Comandante de Policiamento em Missões Especiais
+
+38. Comandante de Policiamento Rodoviário
+
+39. Comandante de Policiamento de Apoio Operacional
+
+**II - CARGO PRIVATIVO DO POSTO DE CORONEL DO QOSPM**
+
+1. Diretor do Departamento de Saúde
+
+2. Coordenador de Saúde
+
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="11"> ANEXO IV(Alterado pela Lei <a href="https://www.legislabahia.ba.gov.br/documentos/lei-no-15172-de-17-de-junho-de-2026">15.172</a> de 17 de junho de 2026) QUADRO DE EFETIVO DE OFICIAIS DA POLÍCIA MILITAR </td></tr><tr><td rowspan="2"> POSTO </td><td colspan="2"> QOPM </td><td colspan="2"> QOSPM MÉDICO </td><td colspan="2"> QOSPM ODONTÓLOGO </td><td colspan="2"> QOAPM </td><td colspan="2"> TOTAL </td></tr><tr><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td></tr><tr><td> Coronel </td><td> 39 </td><td> 26 </td><td> 1 </td><td> 1 </td><td> 1 </td><td> 1 </td><td> - </td><td> - </td><td> 41 </td><td> 28 </td></tr><tr><td> Tenente Coronel </td><td> 253 </td><td> 26 </td><td> 5 </td><td> 1 </td><td> 4 </td><td> 1 </td><td> 6 </td><td> 2 </td><td> 268 </td><td> 30 </td></tr><tr><td> Major </td><td> 558 </td><td> 22 </td><td> 9 </td><td> 1 </td><td> 9 </td><td> 1 </td><td> 22 </td><td> 12 </td><td> 598 </td><td> 36 </td></tr><tr><td> Capitão </td><td> 1.262 </td><td> 15 </td><td> 36 </td><td> 1 </td><td> 25 </td><td> 1 </td><td> 250 </td><td> 37 </td><td> 1.573 </td><td> 54 </td></tr><tr><td> 1º Tenente </td><td> 1.422 </td><td> - </td><td> 45 </td><td> - </td><td> 26 </td><td> - </td><td> 1.825 </td><td> 200 </td><td> 3.318 </td><td> 200 </td></tr><tr><td> Total </td><td> 3.534 </td><td> 89 </td><td> 96 </td><td> 4 </td><td> 65 </td><td> 4 </td><td> 2.103 </td><td> 251 </td><td> 5.798 </td><td> 348 </td></tr></tbody></table>
+
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5"> QUADRO DE EFETIVO DE PRAÇAS DA POLÍCIA MILITAR </td></tr><tr><td rowspan="2"> Graduação </td><td colspan="2"> QPPM </td><td colspan="2"> TOTAL </td></tr><tr><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td></tr><tr><td> Subtenente </td><td valign="bottom"> 2.587 </td><td valign="bottom"> 134 </td><td valign="bottom"> 2.587 </td><td valign="bottom"> 134 </td></tr><tr><td> 1º Sargento </td><td valign="bottom"> 6.674 </td><td valign="bottom"> 100 </td><td valign="bottom"> 6.674 </td><td valign="bottom"> 100 </td></tr><tr><td> Cabo </td><td valign="bottom"> 9.315 </td><td valign="bottom"> 228 </td><td valign="bottom"> 9.315 </td><td valign="bottom"> 228 </td></tr><tr><td> Soldado </td><td valign="bottom"> 22.820 </td><td> - </td><td valign="bottom"> 22.820 </td><td> - </td></tr><tr><td> Total </td><td> 41.396 </td><td> 462 </td><td> 41.396 </td><td> 462 </td></tr></tbody></table>
 
 \*P.O - Provimento Ordinário
 

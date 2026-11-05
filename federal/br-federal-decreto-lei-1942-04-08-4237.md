@@ -1,5 +1,3 @@
-###DEL-004237-0-000-08-04-1942@@@
-
 DECRETO-LEI N. 4.237 – DE 8 DE ABRIL DE 1942
 
 Autoriza a elevar o efetivo do Exército e a convocar as classes que as fizerem necessárias para o preenchimento de claros decorrentes da transformação

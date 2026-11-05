@@ -1,5 +1,3 @@
-###DEC-069977-0-000-20-01-1972@@@
-
 Decreto Nº 69.977, DE 20 DE JANEIRO DE 1972.
 
 Concede reconhecimento aos Cursos de Geografia e História Natural da Faculdade de Filosofia do Crato, CE.

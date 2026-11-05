@@ -1,5 +1,3 @@
-###DEC-089256-0-000-28-12-1983@@@
-
 Decreto nº 89.256, de 28 de dezembro de 1983
 
 Declara de ocupação dos silvícolas área de terras, nos Municípios de Baía da Traição e Rio Tinto, no Estado da Paraíba, e dá outras Providências.

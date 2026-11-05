@@ -1,5 +1,3 @@
-###DEC-002567-0-000-28-04-1998@@@
-
 DECRETO Nº 2.567, DE 28 DE ABRIL DE 1998
 
 Dispõe sobre a alocação, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras, providências.

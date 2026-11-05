@@ -1,5 +1,3 @@
-###DEC-050131-0-000-26-01-1961@@@
-
 DECRETO Nº 50.131, DE 26 DE JANIERO DE 1961.
 
 Autoriza o cidadão brasileiro Manoel Demosthenes Barbo de Siqueira a lavrar calcário no município de Planaltina, Estado de Goiás.

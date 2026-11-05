@@ -1,5 +1,3 @@
-###DEC-079511-0-000-13-04-1977@@@
-
 DECRETO Nº 79.511, DE 13 DE ABRIL DE 1977.
 
 Concede à Cecrisa - Cerâmica Criciúma S.A. o direito de lavrar caulim no Município de Rio Pardo, Estado do Rio Grande do Sul.

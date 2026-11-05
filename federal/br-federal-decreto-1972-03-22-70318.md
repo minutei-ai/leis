@@ -1,5 +1,3 @@
-###DEC-070318-0-000-22-03-1972@@@
-
 DECRETO Nº 70.318, DE 22 DE MARÇO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Indústria e do Comércio, e dá outras providências.

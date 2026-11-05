@@ -1,5 +1,3 @@
-###DEC-069987-0-000-20-01-1972@@@
-
 DECRETO Nº 69.987, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública Associação de Proteção à Maternidade e à Infância de Paraguaçu, com sede em Paraguaçu, Estado de Minas Gerais.

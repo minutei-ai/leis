@@ -1,5 +1,3 @@
-###DEC-045953-0-000-30-04-1959@@@
-
 DECRETO Nº 45.953, DE 30 DE abril DE 1959.
 
 Considera de Interêsse militar função exercida no Serviço Especial de Saúde Pública por Oficial do Exército, Engenheiro Sanitarista.

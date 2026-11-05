@@ -1,5 +1,3 @@
-###DEC-002938-0-000-13-01-1999@@@
-
 DECRETO Nº 2.938, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona, e dá outras providências.

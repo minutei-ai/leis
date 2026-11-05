@@ -1,5 +1,3 @@
-###DEC-064036-0-000-29-01-1969@@@
-
 DECRETO Nº 64.036, DE 29 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento de cinco cursos do Instituto de Ciências Sociais da Associação Pró-Universidade do Distrito Federal.

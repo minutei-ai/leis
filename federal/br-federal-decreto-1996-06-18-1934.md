@@ -1,5 +1,3 @@
-###DEC-001934-0-000-18-06-1996@@@
-
 DECRETO N° 1.934 DE 18 DE JUNHO DE 1996.
 
 Cria as Comissões Executiva Nacional e Consultiva de Avaliação e Acompanhamento do Plano Diretor de Erradicação do Aedes Aegypti do Brasil, e dá outras providências.

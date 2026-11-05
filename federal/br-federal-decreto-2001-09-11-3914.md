@@ -1,5 +1,3 @@
-###DEC-003914-0-000-11-09-2001@@@
-
 DECRETO Nº 3.914, DE 11 DE SETEMBRO DE 2001
 
 Dispõe sobre a regulamentação das contribuições sociais instituídas pela Lei Complementar nº 110, de 29 de junho de 2001.

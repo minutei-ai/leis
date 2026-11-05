@@ -1,5 +1,3 @@
-###DEC-077586-0-000-11-05-1976@@@
-
 DECRETO Nº 77.586 - DE 11 DE MAIO DE 1976
 
 Cassa a concessão outorgada à Rádio Cultura Angrense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Angra dos Reis, Estado do Rio de Janeiro.

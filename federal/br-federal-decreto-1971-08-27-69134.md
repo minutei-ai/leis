@@ -1,5 +1,3 @@
-###DEC-069134-0-000-27-08-1971@@@
-
 DECRETO Nº 69.134, DE 27 DE AGôSTO DE 1971.
 
 Dispõe sobre o registro das entidades que menciona no Conselho de Medicina Veterinária e dá outras providências.
@@ -54,7 +52,41 @@ Art. 4º A taxa de inscrição corresponderá a 50% (cinqüenta por cento) do ma
 
 Art. 5º O valor da anuidade a ser paga aos Conselhos de Medicina Veterinária pelas entidades indicadas no art. 1º será fixado em obediência ao critério de incidência a seguir apresentado, estabelecido com base no maior salário mínimo ou termo básico, correspondente à região abrangida pelo Conselho Regional e no capital social de entidade, registrado na respectiva Junta Comercial, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Faixas</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capital Social (CAP) Valor Cr$1,00</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Composição da Anuidade (NA)</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 20.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1/2 MSMR + 0,50% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 20.001 a 100.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 2/3 MSMR + 0,30% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 100.001 a 500.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1 MSMR + 0,25% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 500.001 a 2.000.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1 2/3 MSMR + 0,18% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 2.000.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 2 MSMR + 0,18% CAP</span></p></td></tr></tbody></table>
+Faixas
+
+Capital Social (CAP) Valor Cr$1,00
+
+Composição da Anuidade (NA)
+
+A
+
+Até 20.000
+
+AN = 1/2 MSMR + 0,50% CAP
+
+B
+
+De 20.001 a 100.000
+
+AN = 2/3 MSMR + 0,30% CAP
+
+C
+
+De 100.001 a 500.000
+
+AN = 1 MSMR + 0,25% CAP
+
+D
+
+De 500.001 a 2.000.000
+
+AN = 1 2/3 MSMR + 0,18% CAP
+
+E
+
+Acima de 2.000.000
+
+AN = 2 MSMR + 0,18% CAP
 
 Sendo:
 
@@ -148,7 +180,41 @@ Art. 4º A taxa de inscrição corresponderá a 50% (cinqüenta por cento) do ma
 
 Art. 5º O valor da anuidade a ser paga aos Conselhos de Medicina Veterinária pelas entidades indicadas no art. 1º será fixado em obediência ao critério de incidência a seguir apresentado, estabelecido com base no maior salário mínimo ou termo básico, correspondente à região abrangida pelo Conselho Regional e no capital social de entidade, registrado na respectiva Junta Comercial, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Faixas</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capital Social (CAP) Valor Cr$1,00</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Composição da Anuidade (AN)</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 20.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1/2 MSMR + 0,50% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 20.001 a 100.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 2/3 MSMR + 0,30% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 100.001 a 500.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1 MSMR + 0,25% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 500.001 a 2.000.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 1 2/3 MSMR + 0,18% CAP</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:235.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 2.000.000</span></p></td><td style="width:147.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AN = 2 MSMR + 0,18% CAP</span></p></td></tr></tbody></table>
+Faixas
+
+Capital Social (CAP) Valor Cr$1,00
+
+Composição da Anuidade (AN)
+
+A
+
+Até 20.000
+
+AN = 1/2 MSMR + 0,50% CAP
+
+B
+
+De 20.001 a 100.000
+
+AN = 2/3 MSMR + 0,30% CAP
+
+C
+
+De 100.001 a 500.000
+
+AN = 1 MSMR + 0,25% CAP
+
+D
+
+De 500.001 a 2.000.000
+
+AN = 1 2/3 MSMR + 0,18% CAP
+
+E
+
+Acima de 2.000.000
+
+AN = 2 MSMR + 0,18% CAP
 
 Sendo:
 

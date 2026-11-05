@@ -1,5 +1,3 @@
-###DEC-071045-0-000-30-08-1972@@@
-
 DECRETO Nº 71.045, DE 30 DE AGOSTO DE 1972.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura.

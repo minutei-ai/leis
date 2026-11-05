@@ -1,5 +1,3 @@
-###DEC-001572-0-000-28-07-1995@@@
-
 DECRETO Nº 1.572, DE 28 DE JULHO DE 1995.
 
 Regulamenta a mediação na negociação coletiva de natureza trabalhista e dá outras providências.

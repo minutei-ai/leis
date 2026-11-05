@@ -1,7 +1,3 @@
-1
-
-###MPV-000873-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 873, DE 27 DE JANEIRO DE 1995
 
 Institui a "Retribuição Variável da Comissão de Valores Mobiliários (RVCVM)" e a "Retribuição Variável da Superintendência de Seguros Privados (RVSUSEP)", atribuídas aos servidores titulares de cargos efetivos da CVM e da Susep, e dá outras providências.

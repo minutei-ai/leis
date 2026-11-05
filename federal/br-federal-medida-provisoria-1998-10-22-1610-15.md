@@ -1,5 +1,3 @@
-###MPV-001610-0-015-22-10-1998@@@
-
 MEDIDA pROVISóRiA Nº 1.610-15, de 22 DE OUTUbRO DE 1998
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

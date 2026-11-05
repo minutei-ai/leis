@@ -1,5 +1,3 @@
-###DEC-096624-0-000-31-08-1988@@@
-
 DECRETO N° 96.624, DE 31 DE AGOSTO DE 1988
 
 Altera o art. 8° do Decreto n° 75.569, de 7 de abril de 1975, que dispõe sobre a competência da Comissão Nacional de Energia Nuclear - CNEN, e dá outras providências.

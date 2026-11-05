@@ -1,5 +1,3 @@
-###DEC-090882-0-000-31-01-1985@@@
-
 DECRETO Nº 90.882, DE 31 de janeiro de 1985
 
 Torna sem efeito o Decreto nº 90.735, de 19 de dezembro de 1984, que outorgou concessão à TV TROPICAL DA BAHIA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Feira de Santana, Estado da Bahia.

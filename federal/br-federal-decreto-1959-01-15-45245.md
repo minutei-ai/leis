@@ -1,5 +1,3 @@
-###DEC-045245-0-000-15-01-1959@@@
-
 DECRETO Nº 45.245, DE 15 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Manoel Peixoto da Silva a lavrar água mineral no município de Teófilo Otoni, Estado de Minas Gerais

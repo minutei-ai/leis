@@ -1,5 +1,3 @@
-###DEC-088454-0-000-30-06-1983@@@
-
 # Decreto nº 88.454, de 30 de junho de 1983.
 
 Altera o Decreto nº 84.536, de 10 de março de 1980, que autoriza o funcionamento do Curso de Enfermagem e Obstetrícia da Fundação Regional de Ensino Superior de Araras.

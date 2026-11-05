@@ -1,5 +1,3 @@
-###DEL-006827-0-000-25-08-1944@@@
-
 DECRETO-LEI N. 6.827 – DE 25 DE AGÔSTO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar as entidades ou representações estrangeiras, do pagamento que menciona

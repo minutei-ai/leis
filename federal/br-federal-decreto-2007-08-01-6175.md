@@ -1,5 +1,3 @@
-###DEC-006175-0-000-01-08-2007@@@
-
 DECRETO Nº 6.175, DE 1º DE AGOSTO DE 2007.
 
 Acresce dispositivo ao art. 5o do Decreto no 5.490, de 14 de julho de 2005, que dispõe sobre a composição e funcionamento do Conselho Nacional de Juventude - CNJ, e dá outra providência.
@@ -21,5 +19,3 @@ Brasília, 1º de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Soares Dulci
-
-Este texto não substitui o publicado no DOU de 2.8.2007

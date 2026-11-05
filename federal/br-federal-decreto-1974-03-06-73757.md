@@ -1,5 +1,3 @@
-###DEC-073757-0-000-06-03-1974@@@
-
 DECRETO Nº 73.757, DE 6 DE MARÇO DE 1974.
 
 Autoriza cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Estado da Guanabara.

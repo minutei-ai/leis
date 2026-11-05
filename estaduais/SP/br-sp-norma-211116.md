@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211116)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2025/compilacao-lei-18161-27.06.2025.html)
 
 # LEI N° 18.161, DE 27 DE JUNHO DE 2025

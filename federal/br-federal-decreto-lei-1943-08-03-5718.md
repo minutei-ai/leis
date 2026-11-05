@@ -1,5 +1,3 @@
-###DEL-005718-0-000-03-08-1943@@@
-
 DECRETO‑LEI N.  5.718 – DE 3 DE 1 AGÔSTO DE 1943
 
 Dispõe sôbre a administração do Território de Fernando de Noronha e dá outras providências

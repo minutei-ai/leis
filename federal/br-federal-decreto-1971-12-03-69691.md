@@ -1,5 +1,3 @@
-###DEC-069691-0-000-03-12-1971@@@
-
 DECRETO Nº 69.691 - DE 3 DE DEZEMBRO DE 1971
 
 Torna sem efeito o aproveitamento, no Quadro de Pessoal do Ministério da Marinha, de servidora em disponibilidade.

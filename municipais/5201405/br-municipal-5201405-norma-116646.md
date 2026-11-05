@@ -1,4 +1,5 @@
-LEI Nº 3.441, DE 23 DE NOVEMBRO DE 2018<br>
+LEI Nº 3.441, DE 23 DE NOVEMBRO DE 2018
+
 (Revogado pela Lei Ordinária nº 3.575, de 18 de setembro de 2020).
 
 ~~Institui o Prêmio Merecimento Cultural, que será conferido a entidades ou pessoas físicas por êxito alcançado, relevantes serviços prestados, ou feitos extraordinários realizados pelo desenvolvimento do Município de Aparecida de Goiânia.~~
@@ -23,8 +24,10 @@ LEI Nº 3.441, DE 23 DE NOVEMBRO DE 2018<br>
 
  
 
-~~GUSTAVO MENDANHA~~<br>
+~~GUSTAVO MENDANHA~~
+
 ~~Prefeito~~
 
-~~EINSTEIN PANIAGO~~<br>
+~~EINSTEIN PANIAGO~~
+
 ~~Chefe da Casa Civil~~

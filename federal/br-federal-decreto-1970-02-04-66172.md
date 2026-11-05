@@ -1,5 +1,3 @@
-###DEC-066172-0-000-04-02-1970@@@
-
 DECRETO Nº 66.172 - DE 4 DE FEVEREIRO DE 1970
 
 Declara a cessação da exploração dos serviços de energia elétrica no município de Silvânia, Estado de Goiás e outorga concessão à Centrais Elétrica de Goiás S. A.

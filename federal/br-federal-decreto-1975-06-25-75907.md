@@ -1,5 +1,3 @@
-###DEC-075907-0-000-25-06-1975@@@
-
 DECRETO Nº 75.907, DE 25 DE JUNHO DE 1975.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas, mantida pela Autarquia Municipal de Ensino de Poços de Caldas, no Estado de Minas Gerais.

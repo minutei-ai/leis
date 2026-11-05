@@ -4,12 +4,14 @@ Revoga a Lei Nº 2.637/2007 que criou o Conselho Municipal de Acompanhamento e C
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Capítulo I<br>
+Capítulo I
+
 Das Disposições Preliminares
 
 Art. 1º. Fica modificado o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – CACS/FUNDEB, no âmbito do Município de Aparecida de Goiânia.
 
-Capítulo II<br>
+Capítulo II
+
 Da composição
 
 Art. 2º. O Conselho a que se refere o art. 1º é constituído por 15 (quinze) membros titulares, acompanhados de seus respectivos suplentes, conforme representação e indicação a seguir discriminadas:
@@ -88,7 +90,8 @@ Art. 4º. O mandato dos membros do Conselho será de 4 (quatro) anos, vedada a r
 
 §2° - A partir do dia 01/01/2023, o mandato será de 4 (quatro) anos, sendo vedada a reeleição.
 
-Capítulo III<br>
+Capítulo III
+
 Das Competências do Conselho do FUNDEB
 
 Art. 5º. Compete ao Conselho do FUNDEB:
@@ -109,7 +112,8 @@ VII – Membros do conselho podem ter acesso sempre que solicitado aos registros
 
 Parágrafo Único. O parecer de que trata o inciso IV deste artigo deverá ser apresentado ao Poder Executivo Municipal em até trinta dias antes do vencimento do prazo para a apresentação da prestação de contas junto ao Tribunal de Contas do Estado/Municípios.
 
-Capítulo IV<br>
+Capítulo IV
+
 Das Disposições Finais
 
 Art. 6º. O Conselho do Fundeb terá um Presidente e um Vice-Presidente, ambos eleitos por seus pares.
@@ -188,8 +192,10 @@ Art. 16º. Esta Lei entra em vigor na data de sua publicação, revogando-se as 
 
 MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, 09 DIAS DO MÊS DE ABRIL DO ANO DE 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

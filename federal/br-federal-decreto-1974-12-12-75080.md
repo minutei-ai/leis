@@ -1,5 +1,3 @@
-###DEC-075080-0-000-12-12-1974@@@
-
 DECRETO Nº 75.080, DE 12 DE DEZEMBRO DE 1974.
 
 Publica os coeficientes de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida na Lei nº 5.451, de 12 de junho de 1968, e dá outras providências.

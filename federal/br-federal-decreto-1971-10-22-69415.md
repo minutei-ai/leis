@@ -1,5 +1,3 @@
-###DEC-069415-0-000-22-10-1971@@@
-
 DECRETO Nº 69.415 - de 22 DE OUTUBRO DE 1971
 
 Confisca bens de José Braz de Sá Nunes Marinho, domiciliado em João Pessoa, Estado da Paraíba, e dá outras providências.

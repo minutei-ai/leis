@@ -1,5 +1,3 @@
-###DEC-071398-0-000-17-11-1972@@@
-
 DECRETO Nº 71.398, DE 17 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terrenos necessárias á expansão do Porto de Santos.

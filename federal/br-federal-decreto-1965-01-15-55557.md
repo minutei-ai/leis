@@ -1,5 +1,3 @@
-###DEC-055557-0-000-15-01-1965@@@
-
 DECRETO Nº 55.557, DE 15 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Olavo das Neves de Oliveira Melo a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEL-007932-0-000-04-09-1945@@@
-
 DECRETO-LEI N. 7.932 – DE 4 DE SETEMBRO DE 1945
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Guerra.

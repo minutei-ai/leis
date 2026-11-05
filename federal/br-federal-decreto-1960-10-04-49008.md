@@ -1,5 +1,3 @@
-###DEC-049008-0-000-04-10-1960@@@
-
 DECRETO Nº 49.008, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Aires Pereira Carolo a pesquisar ilmenita no município de Ilha Bela, Estado de São Paulo.

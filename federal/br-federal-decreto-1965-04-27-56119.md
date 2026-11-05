@@ -1,5 +1,3 @@
-###DEC-056119-0-000-27-04-1965@@@
-
 decreto nº 56.119, de 27 de abril de 1965.
 
 Regula o emprêgo da Segunda Esquadrilha de Ligação e Observação.

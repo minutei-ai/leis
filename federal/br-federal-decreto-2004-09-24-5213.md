@@ -1,5 +1,3 @@
-###DEC-005213-0-000-24-09-2004@@@
-
 DECRETO Nº 5.213 DE 24 DE SETEMBRO DE 2004.
 
        Altera a redação do art. 11 do Decreto nº 4.050, de 12 de dezembro de 2001, que regulamenta o art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública Federal, direta, autárquica e fundacional, e dá outras providências.
@@ -38,5 +36,6 @@ II - tenham respectivo processo de cessão em andamento.
 
         Brasília, 24 de setembro de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

@@ -1,5 +1,3 @@
-###DEC-084095-0-000-16-10-1979@@@
-
 Decreto nº 84.095, de 16 de outubro de 1979
 
 Cria o Centro Tecnológico do Exército e dá outras providências.

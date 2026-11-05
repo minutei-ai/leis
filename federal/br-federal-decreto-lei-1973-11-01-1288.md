@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e42fa458-68c0-41d8-9b0e-8d11a372fa99/texto#nowhere)
 
-###DEL-001288-0-000-01-11-1973@@@
-
 # DECRETO-LEI Nº 1.288, DE 1 DE NOVEMBRO DE 1973
 
 Altera o § 4º, do artigo 27, da Lei nº 2.004, de 3 de outubro de 1953, acrescentado pelo Decreto-lei nº 523, de 8 de abril de 1969.

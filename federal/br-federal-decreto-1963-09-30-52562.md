@@ -1,5 +1,3 @@
-###DEC-052562-0-000-30-09-1963@@@
-
 DECRETO Nº 52.562, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia Sul Mineira de Eletricidade a constituir garantia hipotecária em favor da Companhia de Seguros Minas Brasil.

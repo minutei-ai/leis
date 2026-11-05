@@ -1,5 +1,3 @@
-###DEC-092526-0-000-08-04-1986@@@
-
 DECRETO Nº 92.526, DE 8 DE ABRIL DE 1986
 
 Outorga concessão à Rádio Independência do São Francisco Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Juazeiro, Estado da Bahia.

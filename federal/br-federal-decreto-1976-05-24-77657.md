@@ -1,5 +1,3 @@
-###DEC-077657-0-000-24-05-1976@@@
-
 DECRETO Nº 77.657, DE 24 DE MAIO DE 1976
 
 Fixa, para o exercício de 1976, o limite global de importações através da Zona Franca de Manaus.

@@ -1,5 +1,3 @@
-###DEC-078637-0-000-27-10-1976@@@
-
 DECRETO Nº 78.637, de 27 de outubro de 1976
 
 Concede reconhecimento ao curso de Formação de Tecnólogo em Processamento de Dados da Universidade Federal do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

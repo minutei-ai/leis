@@ -1,5 +1,3 @@
-###DEC-078425-0-000-16-09-1976@@@
-
 DECRETO Nº 78.425, DE 16 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Matemática, das Faculdade Associadas do Ipiranga, com sede na cidade de São Paulo, Estado de São Paulo.

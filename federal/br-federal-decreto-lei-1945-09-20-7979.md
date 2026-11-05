@@ -1,5 +1,3 @@
-###DEL-007979-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.979 – DE 20 DE SETEMBRO DE 1945
 
 Dá nova redação ao art. 1º do Decreto-lei nº 2.1l5, de 5 de abril de 1940:

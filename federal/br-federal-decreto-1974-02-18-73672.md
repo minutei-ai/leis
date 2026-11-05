@@ -1,5 +1,3 @@
-###DEC-073672-0-000-18-02-1974@@@
-
 DECRETO Nº 73.672, DE 18 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Letra e de Ciências Sociais, da Faculdade de Filosofia, Ciências e Letras de Piracicaba, mantida pelo Instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004591-0-000-17-08-1942@@@
-
 DECRETO-LEI N. 4.591 – DE 17 DE AGOSTO DE 1942
 
 Cria a 4º Companhia Independente de Fronteira com sede em Amapá (Estado do Pará)

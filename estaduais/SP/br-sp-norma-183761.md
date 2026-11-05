@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183761)
-
 # DECRETO Nº 62.895, DE 24 DE OUTUBRO DE 2017
 
 ### _Revoga o Decreto nº 47.296, de 06 de novembro de 2002, que autorizou a Fazenda do Estado a permitir o uso, a título precário e por prazo indeterminado, em favor da Prefeitura Municipal de Olímpia, o imóvel que especifica e dá providências correlatas_
@@ -24,10 +22,16 @@ Palácio dos Bandeirantes, 24 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Cláudio Valverde Santos<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+Cláudio Valverde Santos
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 24 de outubro de 2017.

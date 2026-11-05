@@ -1,5 +1,3 @@
-###DEC-005956-0-000-07-11-2006@@@
-
 DECRETO Nº 5.956 DE 7 DE NOVEMBRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.701, de 11 de agosto de 2006, do Conselho de Segurança das Nações Unidas, que, entre outras providências, estabelece regime de sanções à República do Líbano.
@@ -18,11 +16,7 @@ Brasília, 7 de novembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 8.11.2006
-
-“O Conselho de Segurança,
+        Celso Luiz Nunes Amorim“O Conselho de Segurança,
 
 Recordando todas suas resoluções anteriores sobre o Líbano, sobretudo as Resoluções 425 (1978), 426 (1978), 520 (1982), 1559 (2004), 1655 (2006), 1680 (2006) e 1697 (2006), bem como as declarações de seu Presidente sobre a situação no Líbano, sobretudo as declarações de 18 de junho de 2000 (S/PRST/2000/21), de 19 de outubro de 2004 (S/PRST/2004/36), de 4 de maio de 2005 (S/PRST/2005/17), de 23 de janeiro de 2006 (S/PRST/2006/3) e de 30 de julho de 2006 (S/PRST/2006/35);
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-001895-0-000-06-05-1996@@@
-
 # DECRETO N° 1.895, DE 6 DE MAIO DE 1996.
 
 Cria a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.

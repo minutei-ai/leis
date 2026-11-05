@@ -1,5 +1,3 @@
-###DEC-081964-0-000-13-07-1978@@@
-
 Decreto nº 81.964, de 13 de julho de 1978.
 
 Concede reconhecimento à habilitação Formação de Psicólogo do curso de Psicologia da Universidade Federal da Bahia, com sede na cidade de Salvador, Estado da Bahia.

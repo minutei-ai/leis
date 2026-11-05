@@ -1,5 +1,3 @@
-###DEC-061284-0-000-05-09-1967@@@
-
 decreto nº 61.284, de 5 de setembro de 1967.
 
 Retifica o Decreto nº 58.698, de 22 de junho de 1966.

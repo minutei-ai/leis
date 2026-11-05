@@ -1,14 +1,12 @@
-###DEC-039067-0-000-23-04-1956@@@
+**DECRETO Nº 39.067, DE 23 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 39.067, DE 23 DE ABRIL DE 1956.</strong>
+***Altera os valores monetários fixados pelo Decreto nº28.959, de 11 de dezembro de 1950, e modificados pelo Decreto nº 34.784, de 15 de dezembro de 1953.***
 
-<em><strong>Altera os valores monetários fixados pelo Decreto nº28.959, de 11 de dezembro de 1950, e modificados pelo Decreto nº 34.784, de 15 de dezembro de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e tendo em vista o dispôsto no art. 1º do Decreto nº 38.933, de 26 de março de 1956, e no art. 118, itens I e II, da Lei número 1.711, de 28 de outubro de 1952,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e tendo em vista o dispôsto no art. 1º do Decreto nº 38.933, de 26 de março de 1956, e no art. 118, itens I e II, da Lei número 1.711, de 28 de outubro de 1952,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 2º, o art. 3º e o art. 7º do Decreto nº 28.959, de 11 de dezembro de 1950, passam a ter a seguinte redação:
+**Art**. 1º O art. 2º, o art. 3º e o art. 7º do Decreto nº 28.959, de 11 de dezembro de 1950, passam a ter a seguinte redação:
 
 “Art. 2º O auxílio para transporte será na razão da distância entre os diferentes postos, de acôrdo com a “Tabela de Milhas” elaborada pela Divisão do Pessoal e aprovada em Portaria do Ministro de Estado das Relações Exteriores e calculado, em todos os casos, na base Cr$7,40 por milha ou fração.
 
@@ -42,11 +40,11 @@ Classe L - Segundos Secretários e Cônsules de 2ª classe Cr$791,10.
 
 Classe K - Terceiros Secretários e Vice-Cônsules Cr$569,60.
 
-<strong>Art</strong>. 2º O presente decreto passa a vigorar a partir de 27 de março de 1956, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto passa a vigorar a partir de 27 de março de 1956, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 23 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Carlos de Macedo Soares
 

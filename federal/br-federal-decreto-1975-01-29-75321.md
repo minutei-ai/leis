@@ -1,5 +1,3 @@
-###DEC-075321-0-000-29-01-1975@@@
-
 DECRETO Nº 75.321, DE 29 DE JANEIRO DE 1975.
 
 Regulamenta o Decreto-lei nº 1.390, de 29 de janeiro de 1975, que dispõe sobre o Fundo Rotativo habitacional de Brasília, Taxas de Ocupação, Alienação e ocupação de imóveis residenciais da Administração Federal no Distrito Federal e dá outras providências.
@@ -56,7 +54,41 @@ Art. 8º O limite máximo de financiamento não ultrapassará 4.500 (quatro mil 
 
 Art. 9º As taxas de juros e poupança exigíveis nos financiamentos são as seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Limites</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Juros</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Poupança</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 1.500 UPC .........................................................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5% a.a.</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De mais de 1.500 até 2.000 UPC .............................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6% a.a.</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De mais de 2.000 até 2.500 UPC .............................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6% a.a.</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5%</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De mais de 2.500 até 3.500 UPC .............................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7% a.a.</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10%</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De mais de 3.500 até 4.500 UPC .............................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8% a.a.</span></p></td><td style="width:73.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10%</span></p></td></tr></tbody></table>
+Limites
+
+Juros
+
+Poupança
+
+Até 1.500 UPC .........................................................
+
+5% a.a.
+
+_
+
+De mais de 1.500 até 2.000 UPC .............................
+
+6% a.a.
+
+_
+
+De mais de 2.000 até 2.500 UPC .............................
+
+6% a.a.
+
+5%
+
+De mais de 2.500 até 3.500 UPC .............................
+
+7% a.a.
+
+10%
+
+De mais de 3.500 até 4.500 UPC .............................
+
+8% a.a.
+
+10%
 
 Art. 10. A correção monetária aplicar-se-á sobre os saldos devedores reajustadas as prestações mensais segundo as variações dos valores das Obrigações reajustáveis do Tesouro Nacional (ORTN) sempre que ocorrer reajustamento salarial processando-se a alteração sessenta dias após a entrada em vigor dos novos níveis de retribuição.
 

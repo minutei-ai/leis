@@ -1,22 +1,20 @@
-###DEC-025415-0-000-01-09-1948@@@
+**DECRETO Nº 25.415, DE 1 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.415, DE 1 DE SETEMBRO DE 1948.</strong>
+***Concede à “Compagnie d’Anvers, Societé Anonyme” autorização para funcionar na República.***
 
-<em><strong>Concede à “Compagnie d’Anvers, Societé Anonyme” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** atendendo ao que requereu a “*Compagnie d’Anvers, Societé Anonyme*”,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> atendendo ao que requereu a “<em>Compagnie d’Anvers, Societé Anonyme</em>”,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Art. único. É concedida à “<em>Compagnie d’Anvers, Societé Anonyme”</em> com sede em Antuerpia, Bélgica, autorização para funcionar na República, com os estatutos que apresentou, aprovados pela assembléia geral extraordinária de seus acionistas, realizada a 25 de novembro de 1942, com absorção, por via de fusão, da “<em>Compagnie des Magasins Géneraus et Entrepôts Libres d\`Anvers”</em>, autorizada a funcionar no Brasil, pelo Decreto n.º 11.206, de 14 de outubro de 1914, e com o capital destinado para suas operações no país, de um milhão de cruzeiros (Cr$1.000.000,00), mediante as cláusulas que êste acompanham assinadas pelo Ministro de Esatdo do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, sôbre o objeto da referida autorização.
+Art. único. É concedida à “*Compagnie d’Anvers, Societé Anonyme”* com sede em Antuerpia, Bélgica, autorização para funcionar na República, com os estatutos que apresentou, aprovados pela assembléia geral extraordinária de seus acionistas, realizada a 25 de novembro de 1942, com absorção, por via de fusão, da “*Compagnie des Magasins Géneraus et Entrepôts Libres d\`Anvers”*, autorizada a funcionar no Brasil, pelo Decreto n.º 11.206, de 14 de outubro de 1914, e com o capital destinado para suas operações no país, de um milhão de cruzeiros (Cr$1.000.000,00), mediante as cláusulas que êste acompanham assinadas pelo Ministro de Esatdo do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 1 de setembro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DCRETO N.º 25.415, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DCRETO N.º 25.415, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 1 de setembro de 1948, 127º da Independência e 60º da República.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

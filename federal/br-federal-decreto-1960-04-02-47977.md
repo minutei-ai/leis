@@ -1,5 +1,3 @@
-###DEC-047977-0-000-02-04-1960@@@
-
 DECRETO Nº 47.977, DE 2 DE ABRIL DE 1960.
 
 Concede reconhecimento aos cursos de ciências contábeis e atuariais, ciências contábeis e ciências atuariais da Faculdade de Ciências Econômicas da Universidade Mackenzie.

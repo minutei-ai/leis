@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211442)<br>
-
 # DECRETO N° 69.863, DE 15 DE SETEMBRO DE 2025
 
 ### _Altera o Decreto n° 69.234, de 28 de dezembro de 2024, que institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo_

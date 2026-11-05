@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212349)<br>
-
 # LEI N° 18.420, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 416/2020, dos Deputados Gil Diniz Bolsonaro - PSL, Marcio Nakashima - PDT e Carla Morando - PSDB)

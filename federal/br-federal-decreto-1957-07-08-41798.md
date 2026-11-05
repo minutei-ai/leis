@@ -1,22 +1,20 @@
-###DEC-041798-0-000-08-07-1957@@@
+**DECRETO Nº 41.798, DE 8 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.798, DE 8 DE JULHO DE 1957.</strong>
+***Outorga concessão à***  ***Rádio e Jornais do Ceará S. A. para instalar uma estação radiodifusora.***
 
-<em><strong>Outorga concessão à</strong></em>  <em><strong>Rádio e Jornais do Ceará S. A. para instalar uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio e Jornais do Ceará S.A. e tendo em vista o disposto no art. 5º nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio e Jornais do Ceará S.A. e tendo em vista o disposto no art. 5º nº XII, da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica outorgada concessão à Rádio e Jornais do Ceará S.A., nos têrmos do art. 11 do Decreto do nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Fortaleza, Estado do Ceará, sem direito de exclusividade, uma estação de ondas médias, destinada a executar serviço de radiodifusão.
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Rádio e Jornais do Ceará S.A., nos têrmos do art. 11 do Decreto do nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Fortaleza, Estado do Ceará, sem direito de exclusividade, uma estação de ondas médias, destinada a executar serviço de radiodifusão.
+Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta ) dias, a contar da data da publicação dêste decreto no *DiárioOficial*, sob pena de ficar sem efeito, deste logo, o mesmo decreto.
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta ) dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ficar sem efeito, deste logo, o mesmo decreto.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira
 

@@ -1,5 +1,3 @@
-###DEC-068511-0-000-15-04-1971@@@
-
 DECRETO Nº 68.511 - DE 15 DE ABRIL DE 1971.
 
 Outorga à Companhia Telefônica do Espírito Santo concessão para explorar o serviço de telefonia público urbano em todos os municípios do Estado do Espírito Santo.

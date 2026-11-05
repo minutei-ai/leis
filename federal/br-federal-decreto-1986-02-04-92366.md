@@ -1,5 +1,3 @@
-###DEC-092366-0-000-04-02-1986@@@
-
 DECRETO Nº 92.366, DE 04 DE FEVEREIRO DE 1986
 
 Altera o inciso III do art. 25 e o parágrafo único do art. 27, do Decreto nº 59.820, de 20 de dezembro de 1966, que regulamenta o Fundo de Garantia do Tempo de Serviço (FGTS).

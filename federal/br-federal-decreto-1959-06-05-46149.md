@@ -1,5 +1,3 @@
-###DEC-046149-0-000-05-06-1959@@@
-
 Decreto nº 46.149, de 5 de junho de 1959.
 
 Altera o art. 1º do Decreto nº 16.628, de 20 de setembro de 1944.

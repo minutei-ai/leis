@@ -1,5 +1,3 @@
-###DEL-006181-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.181 – DE 6 DE JANEIRO DE 1944
 
 Cria a 1ª Brigada de Infantaria da 7ª Divisão de Infantaria – tipo especial, com sede na 7ª Região Militar

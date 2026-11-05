@@ -1,5 +1,3 @@
-###DEC-058431-0-000-17-05-1966@@@
-
 decreto nº 58.431, de 17 de maio de 1966.
 
 Concede à “Mibal” - Minerais da Bahia Ltda., autorização para funcionar como emprêsa de mineração.

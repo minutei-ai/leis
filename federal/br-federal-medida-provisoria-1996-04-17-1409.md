@@ -1,7 +1,3 @@
-1
-
-###MPV-001409-0-000-17-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.409, de 17 de ABRIL DE 1996.
 
 Autoriza a redução do percentual de adição de álcool anidro combustível à gasolina, de que trata o art. 9º da Lei nº 8.723, de 28 de outubro de 1993, e dá outras providências.

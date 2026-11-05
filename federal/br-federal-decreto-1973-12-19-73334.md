@@ -1,5 +1,3 @@
-###DEC-073334-0-000-19-12-1973@@@
-
 DECRETO Nº 73.334 - DE 19 DE DEZEMBRO DE 1973
 
 Concede permissão, em caráter permanente. à agência do Banco do Brasil S.A., a ser instalada no Aeroporto Internacional do Galeão, na Ilha do Governador, Estado da Guanabara, para funcionar aos sábados, domingos e em dias feriados civis e religiosos.

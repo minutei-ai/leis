@@ -1,5 +1,3 @@
-###DEC-082875-0-000-18-12-1978@@@
-
 Decreto nº 82 875, de 18 de dezembro de 1978
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Educação Artística Tereza D'Avila, com sede na cidade de Lorena, Estado de São Paulo.

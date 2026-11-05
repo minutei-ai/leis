@@ -1,5 +1,3 @@
-###DEC-052929-0-000-26-11-1963@@@
-
 DECRETO Nº 52.929, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade e Carris a ampliar suas instalações.

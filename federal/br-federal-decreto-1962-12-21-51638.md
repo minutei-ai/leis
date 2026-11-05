@@ -1,5 +1,3 @@
-###DEC-051638-0-000-21-12-1962@@@
-
 Decreto Nº 51.638, DE 21 DE DEZEMBRO DE 1962.
 
 Dá nova redação ao artigo 154 do Regimento do DNER, aprovado pelo Decreto nº 44.656, de 17 de outubro de 1958.

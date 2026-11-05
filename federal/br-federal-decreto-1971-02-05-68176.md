@@ -1,5 +1,3 @@
-###DEC-068176-0-000-05-02-1971@@@
-
 DECRETO Nº 68.176, DE 5 DE FEVEREIRO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Instituto Nacional da Previdência Social, e dá outras providências.

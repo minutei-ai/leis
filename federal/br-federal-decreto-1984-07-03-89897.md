@@ -1,5 +1,3 @@
-###DEC-089897-0-000-03-07-1984@@@
-
 Decreto nº 89.897, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São Francisco de Sales", situado nos Municípios de Clevelândia e Mariópolis, no Estado do Paraná, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.896, de 03 de julho de 1984.

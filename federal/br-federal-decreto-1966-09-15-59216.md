@@ -1,5 +1,3 @@
-###DEC-059216-0-000-15-09-1966@@@
-
 Decreto nº 59.216, de 15 de Setembro de 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$14.400.000.000, para complementar a integralização do capital da Emprêsa Brasileira de Telecomunicações - EMBRATEL.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211082)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2025/compilacao-lei.complementar-1426-17.06.2025.html)
 
 # LEI COMPLEMENTAR N° 1.426, DE 17 DE JUNHO DE 2025
@@ -11,7 +10,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### SEÇÃOI<br>
+#### SEÇÃOI
+
 Disposições Gerais
 
 **Artigo 1°-** Esta lei complementar reestrutura:
@@ -22,7 +22,8 @@ II - a carreira de Especialista Ambiental, criada pela [Lei Complementar n° 996
 
 **Parágrafo único -** As carreiras de Especialista Agropecuário e de Especialista Ambiental integram o Subquadro de Cargos Públicos (SQC-III) do Quadro da Secretaria de Agricultura e Abastecimento e o Subquadro de Cargos Públicos (SQC-III) do Quadro da Secretaria de Meio Ambiente, Infraestrutura e Logística.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das atribuições do Especialista Agropecuário e do Especialista Ambiental
 
 **Artigo 2° -** São atribuições do cargo de Especialista Agropecuário o desempenho de atividades de planejamento, execução e acompanhamento:
@@ -61,26 +62,30 @@ IX - executar outras atividades afins.
 
 **Parágrafo Único -** As atribuições do cargo de Especialista Ambiental serão realizadas em alinhamento com o campo funcional do órgão em que o servidor estiver classificado.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Carreiras de Especialista Agropecuário e Especialista Ambiental
 
 **Artigo 4° -** As carreiras de Especialista Agropecuário e de Especialista Ambiental são constituídas por 6 (seis) Níveis, identificados por algarismos romanos de I a VI, cada um deles compostos por 3 (três) Categorias, identificadas pelas letras A a C, na forma dos Anexos I e II desta lei complementar.
 
 **Parágrafo único -** Os cargos das carreiras referidas no "caput" deste artigo situam-se, inicialmente, na Categoria A do Nível I da respectiva carreira, e a ela retornam quando vagos.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Regime Jurídico e da Jornada de Trabalho
 
 **Artigo 5° -** Os integrantes das carreiras instituídas por esta lei complementar ficam sujeitos ao regime da [Lei n.° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), e à Jornada Completa de Trabalho, caracterizada pela exigência da prestação de 40 (quarenta) horas semanais de trabalho.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Ingresso na Carreira
 
 **Artigo 6° -** O ingresso nas carreiras de Especialista Agropecuário e de Especialista Ambiental dar-se-á na Categoria A do Nível I, mediante concurso público de provas ou de provas e títulos, de acordo com os critérios estabelecidos no edital que rege o concurso, exigida a graduação de nível superior.
 
 **Parágrafo único -** O concurso público para provimento dos cargos de Especialista Agropecuário e de Especialista Ambiental poderá ser realizado por área de formação acadêmica ou em razão da natureza das atividades a serem desenvolvidas, na forma estabelecida no respectivo edital de concurso público, de acordo com as necessidades da Administração Pública estadual.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Estágio Probatório
 
 **Artigo 7° -** O estágio probatório corresponde ao período de 3 (três) anos de efetivo exercício que se segue ao início do exercício no cargo.
@@ -143,7 +148,8 @@ IV - na hipótese da licença de que trata a [Lei Complementar n.° 367, de 14 d
 
 **§ 2° -** O servidor que não for aprovado no estágio probatório será exonerado do cargo mediante processo, em que lhe sejam assegurados o contraditório e a ampla defesa.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Da Evolução na Carreira
 
 **Artigo 12 -** A evolução do servidor nas carreiras de Especialista Agropecuário e de Especialista Ambiental, dar-se-á por progressão funcional, nas Categorias, e por promoção nos Níveis, conforme regulamentação.
@@ -188,7 +194,8 @@ V - na hipótese da licença de que trata a [Lei Complementar n.° 367, de 14 de
 
 VI -designação como substituto ou para responder por cargo em comissão ou função de confiança vagos no órgão em que seu cargo efetivo de Especialista Agropecuário ou de Especialista Ambiental esteja classificado ou em órgão cuja carreira integre o Subquadro de Cargos Públicos (SQC-III).
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Do Regime de Remuneração por Subsídio
 
 **Artigo 17 -** O Especialista Agropecuário e o Especialista Ambiental serão remunerados por subsídio, nos termos dos §§ 4° e 8° do artigo 39 da Constituição Federal e do parágrafo único do artigo 129 da Constituição do Estado, fixado em parcela única, nos termos dos Anexos I e II desta lei complementar, vedado o acréscimo de qualquer vantagem pecuniária, exceto:
@@ -207,12 +214,14 @@ VI -retribuição pelo exercício de atribuições de direção, chefia e assess
 
 VII - verbas de caráter indenizatório.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 Das Funções de Confiança Privativas de Especialista Agropecuário
 
 **Artigo 18 -** As funções de direção, chefia e assessoramento de unidades ou órgãos que desempenhem atividades inseridas no âmbito das atribuições específicas de Especialista Agropecuário serão remuneradas pelo subsídio do servidor, acrescido da retribuição correspondente ao valor da respectiva Função de Confiança do Estado de São Paulo (FCESP), instituída pelo artigo 2° da [Lei Complementar n.° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), na conformidade do seu Anexo I, observada a limitação constitucional remuneratória aplicável.
 
-#### SEÇÃO X<br>
+#### SEÇÃO X
+
 Disposições Finais
 
 **Artigo 19 -**Fica acrescido ao Anexo IV a que se refere o § 2° do artigo 4° da [Lei Complementar n.° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), o quantitativo de Funções de Confiança do Estado de São Paulo (FCESP) constante no Anexo V desta lei complementar..
@@ -237,7 +246,8 @@ I - os artigos 2° a 4°, 6° a 19 e as Disposições Transitórias da [Lei Comp
 
 II - os artigos 2°, 3°, 5° a 19 da [Lei Complementar n.° 996, de 23 de maio de 2006](https://www.al.sp.gov.br/norma/62250).
 
-#### SEÇÃO XI<br>
+#### SEÇÃO XI
+
 Disposições Transitórias
 
 **Artigo 1° -** Os cargos da série de classes de Assistente Agropecuário, instituída pela [Lei Complementar n.° 383, de 28 de dezembro de 1984](https://www.al.sp.gov.br/norma/27722), e da carreira de Especialista Ambiental, instituída pela [Lei Complementar n.° 996, de 23 de maio de 2006](https://www.al.sp.gov.br/norma/62250), ficam enquadrados na forma do Anexo III e IV desta lei complementar, enquadrando-se os respectivos cargos no mesmo Nível em que se encontravam na data em que se encontravam na data de entrada em vigor desta lei complementar.
@@ -326,27 +336,98 @@ Secretário-Chefe da Casa Civil
 
 _\- Texto retificado no_ [_DOE-SP, Executivo, Suplemento, de 18/06/2025_](https://doe.sp.gov.br/executivo/leis-complementares/retificacao-da-lei-complementar-n-1426-de-17062025-202506181142231155514)_._
 
-#### ANEXOI<br>
+#### ANEXOI
+
 aqueserefereoartigo 4° desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">NÍVEIS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">A</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">B</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.469,40</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.787,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.116,52</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.028,17</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.404,22</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.794,38</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11.873,82</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.319,09</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.781,05</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.059,16</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.586,38</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15.133,37</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16.646,70</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.270,95</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.918,62</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.710,48</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">20.449,62</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.216,48</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">NÍVEIS</td><td colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Especialista Agropecuário I</td><td>8.469,40</td><td>8.787,00</td><td>9.116,52</td></tr><tr><td>Especialista Agropecuário II</td><td>10.028,17</td><td>10.404,22</td><td>10.794,38</td></tr><tr><td>Especialista Agropecuário III</td><td>11.873,82</td><td>12.319,09</td><td>12.781,05</td></tr><tr><td>Especialista Agropecuário IV</td><td>14.059,16</td><td>14.586,38</td><td>15.133,37</td></tr><tr><td>Especialista Agropecuário V</td><td>16.646,70</td><td>17.270,95</td><td>17.918,62</td></tr><tr><td>Especialista Agropecuário VI</td><td>19.710,48</td><td>20.449,62</td><td>21.216,48</td></tr></tbody></table>
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 4° desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">NÍVEIS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">A</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">B</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.469,40</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.787,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.116,52</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.028,17</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.404,22</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.794,38</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11.873,82</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.319,09</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.781,05</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.059,16</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.586,38</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15.133,37</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16.646,70</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.270,95</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.918,62</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.710,48</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">20.449,62</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.216,48</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">NÍVEIS</td><td colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Especialista Ambiental I</td><td>8.469,40</td><td>8.787,00</td><td>9.116,52</td></tr><tr><td>Especialista Ambiental II</td><td>10.028,17</td><td>10.404,22</td><td>10.794,38</td></tr><tr><td>Especialista Ambiental III</td><td>11.873,82</td><td>12.319,09</td><td>12.781,05</td></tr><tr><td>Especialista Ambiental IV</td><td>14.059,16</td><td>14.586,38</td><td>15.133,37</td></tr><tr><td>Especialista Ambiental V</td><td>16.646,70</td><td>17.270,95</td><td>17.918,62</td></tr><tr><td>Especialista Ambiental VI</td><td>19.710,48</td><td>20.449,62</td><td>21.216,48</td></tr></tbody></table>
 
-#### ANEXO III<br>
+#### ANEXO III
+
 a que se refere o artigo 1° das Disposições Transitórias desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SITUAÇÃO ATUAL</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SITUAÇÃO NOVA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CLASSE/ CARREIRA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARREIRA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Agropecuário</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Agropecuário</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Ambiental</td></tr></tbody></table>
+SITUAÇÃO ATUAL
 
-#### ANEXO IV<br>
+SITUAÇÃO NOVA
+
+CLASSE/ CARREIRA
+
+CARREIRA
+
+Assistente Agropecuário
+
+Especialista Agropecuário
+
+Especialista Ambiental
+
+Especialista Ambiental
+
+#### ANEXO IV
+
 a que se refere o artigo 1° das Disposições Transitórias desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="2">SITUAÇÃO ANTERIOR</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="2">SITUAÇÃO NOVA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO/FUNÇÃO-ATIVIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CLASSE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO/FUNÇÃO- ATIVIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">NÍVEL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="6">&nbsp; Assistente Agropecuário &nbsp; Especialista Ambiental</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="6">&nbsp; Especialista Agropecuário Especialista Ambiental</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">I</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">II</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">III</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">IV</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">V</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VI</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">SITUAÇÃO ANTERIOR</td><td colspan="2">SITUAÇÃO NOVA</td></tr><tr><td>CARGO/FUNÇÃO-ATIVIDADE</td><td>CLASSE</td><td>CARGO/FUNÇÃO- ATIVIDADE</td><td>NÍVEL</td></tr><tr><td rowspan="6">&nbsp; Assistente Agropecuário &nbsp; Especialista Ambiental</td><td>I</td><td rowspan="6">&nbsp; Especialista Agropecuário Especialista Ambiental</td><td>I</td></tr><tr><td>II</td><td>II</td></tr><tr><td>III</td><td>III</td></tr><tr><td>IV</td><td>IV</td></tr><tr><td>V</td><td>V</td></tr><tr><td>VI</td><td>VI</td></tr></tbody></table>
 
-#### ANEXO V<br>
+#### ANEXO V
+
 a que se refere o artigo 19 desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">FCESP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QUANTIDADE DE FUNÇÕES</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">TOTAL DE CCESP UNITÁRIO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10,80</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">22</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">52,80</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">82</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">147,60</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21,45</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">37</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">55,50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">214</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">288,90</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">240</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">288,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">TOTAL</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">612</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">865,05</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr></tbody></table>
+FCESP
+
+QUANTIDADE DE FUNÇÕES
+
+TOTAL DE CCESP UNITÁRIO
+
+13
+
+4
+
+10,80
+
+12
+
+22
+
+52,80
+
+9
+
+82
+
+147,60
+
+8
+
+13
+
+21,45
+
+7
+
+37
+
+55,50
+
+6
+
+214
+
+288,90
+
+5
+
+240
+
+288,00
+
+TOTAL
+
+612
+
+865,05

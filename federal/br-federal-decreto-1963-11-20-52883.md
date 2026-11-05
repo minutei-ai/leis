@@ -1,5 +1,3 @@
-###DEC-052883-0-000-20-11-1963@@@
-
 DECRETO Nº 52.883, DE 20 DE NOVEMBRO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Rio Grande do Sul.

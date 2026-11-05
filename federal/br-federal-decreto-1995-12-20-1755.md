@@ -1,7 +1,3 @@
-1
-
-###DEC-001755-0-000-20-12-1995@@@
-
 DECRETO Nº 1.755, DE 20 DE DEZEMBRO DE 1995.
 
 Altera os valores constantes do Anexo ao Decreto nº 1.664, de 9 de outubro de 1995 que dispõe sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1995, relativa aos Orçamentos Fiscal e da Seguridade Social da União.
@@ -23,8 +19,6 @@ Brasília, 20 de dezembro de 1995; 174º da Independência e 107º da República
 MARCO ANTONIO DE OLIVEIRA MACIEL
 
 José Serra
-
-###DEC-001755-0-000-20-12-1995@@@RET01+++
 
 DECRETO N° 1.755, DE 20 DEZEMBRO DE 1995.
 

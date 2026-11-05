@@ -1,5 +1,3 @@
-###DEC-067664-0-000-26-11-1970@@@
-
 DECRETO Nº 67.664, DE 26 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e à Infância de Resende, com sede em Resende, Estado do Rio de janeiro.

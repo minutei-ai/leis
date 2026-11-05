@@ -1,5 +1,3 @@
-###DEC-094499-0-000-19-06-1987@@@
-
 DECRETO N° 94.499, DE 19 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Itapecerica, da Eletropaulo  Eletricidade de São Paulo S.A., no Estado de São Paulo.

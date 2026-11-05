@@ -1,14 +1,12 @@
-###DEC-030929-0-000-02-06-1952@@@
+**DECRETO Nº 30.929, DE 2 DE JUNHO DE 1952.**
 
-<strong>DECRETO Nº 30.929, DE 2 DE JUNHO DE 1952.</strong>
+***Cria funções na Tabela Única de Extranumerário-Mensalista da Universidade da Bahia.***
 
-<em><strong>Cria funções na Tabela Única de Extranumerário-Mensalista da Universidade da Bahia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no artigo 5º, item II, da Lei nº 1.254, de 4 dezembro de 1950,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no artigo 5º, item II, da Lei nº 1.254, de 4 dezembro de 1950,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam criados, na Parte Permanente, da Tabela Única de Extranumerário-Mensalista da Universidade da Bahia, as seguintes funções:
+**Art**. 1º Ficam criados, na Parte Permanente, da Tabela Única de Extranumerário-Mensalista da Universidade da Bahia, as seguintes funções:
 
 1 - Artíficie - ref. 20.
 
@@ -70,18 +68,18 @@
 
 7 - Servente - ref. 16.
 
-<strong>Art</strong>. 2º O aproveitamento do pessoal docente e administrativo da Faculdade de Ciências Econômicas, da Faculdade de Filosofia e da Escola de Belas Artes, tôdas da Universidade da Bahia, de que trata o artigo 5º item II, da Lei nº 1.254, de 4 de dezembro de 1950 far-se-á em funções criadas por êste Decreto.
+**Art**. 2º O aproveitamento do pessoal docente e administrativo da Faculdade de Ciências Econômicas, da Faculdade de Filosofia e da Escola de Belas Artes, tôdas da Universidade da Bahia, de que trata o artigo 5º item II, da Lei nº 1.254, de 4 de dezembro de 1950 far-se-á em funções criadas por êste Decreto.
 
 Parágrafo Único - Os efeitos de aproveitamento a que se refere êste artigo vigorarão a partir de 8 de dezembro de 1950.
 
-<strong>Art</strong>. 3º O preenchimento das funções, a supressão das funções excedentes que vagarem e a dispensa do pessoal extranumerário serão feitos mediante portaria do Reitor da Universidade da Bahia.
+**Art**. 3º O preenchimento das funções, a supressão das funções excedentes que vagarem e a dispensa do pessoal extranumerário serão feitos mediante portaria do Reitor da Universidade da Bahia.
 
-<strong>Art</strong>. 4º O presente Decreto vigorará a partir da data de sua publicação.
+**Art**. 4º O presente Decreto vigorará a partir da data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 2 de junho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 E. Simões Filho

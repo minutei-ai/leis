@@ -1,5 +1,3 @@
-###DEC-064288-0-000-31-03-1969@@@
-
 DECRETO Nº 64.288, DE 31 DE MARÇO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação área de terra situada no Município de Foz do Iguaçu, Estado do Paraná, necessária à construção do Pôrto de Foz do Iguaçu.

@@ -1,5 +1,3 @@
-###DEC-080302-0-000-08-09-1977@@@
-
 DECRETO Nº 80.302, DE 8 de setembro DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

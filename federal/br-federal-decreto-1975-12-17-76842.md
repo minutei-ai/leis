@@ -1,5 +1,3 @@
-###DEC-076842-0-000-17-12-1975@@@
-
 DECRETO nº 76.842, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação de Monte Aprazível, com sede na cidade de Monte Aprazível, Estado de São Paulo.

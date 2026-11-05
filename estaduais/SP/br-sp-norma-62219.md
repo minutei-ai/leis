@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62219)
-
 # LEI Nº 12.388, DE 15 DE MAIO DE 2006
 
 ## (Projeto de lei nº 50/2005, do Deputado Edson Aparecido - PSDB)

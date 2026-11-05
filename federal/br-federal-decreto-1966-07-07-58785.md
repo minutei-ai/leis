@@ -1,5 +1,3 @@
-###DEC-058785-0-000-07-07-1966@@@
-
 DECRETO Nº 58.785, DE 7 DE JULHO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Borborema Companhia de Seguros Gerais, inclusive aumento do capital social.

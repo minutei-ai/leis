@@ -1,5 +1,3 @@
-###DEC-067424-0-000-20-10-1970@@@
-
 decreto nº 67.424, de 20 de outubro de 1970.
 
 Declara de utilidade pública, para fins de desapropriação, um área de terra destinada à instalação de uma tôrre de microondas, no município de Araraquara, Estado de São Paulo, necessária ao desenvolvimento do Plano Trienal das Rotas do Sistema de Microondas a cargo da Companhia Telefônica Brasileira.

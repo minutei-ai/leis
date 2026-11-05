@@ -1,5 +1,3 @@
-###DEC-003858-0-000-04-07-2001@@@
-
 DECRETO Nº 3.858 , DE 4 DE JULHO DE 2001
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
@@ -27,8 +25,6 @@ Brasília, 4 de julho de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Martus Tavares
-
-<br>
 
 ANEXO I
 

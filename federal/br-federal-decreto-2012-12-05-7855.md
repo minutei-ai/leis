@@ -1,5 +1,3 @@
-###DEC-007855-0-000-05-12-2012-PUB-01@@@
-
 DECRETO N°\- 7.855, DE 5 DE DEZEMBRO DE 2012
 
 Dispõe sobre as competências, a composição e o funcionamento do Conselho Deliberativo de Formação e Qualificação Profissional, criado pela Lei nº 12.513, de 26 de outubro de 2011.

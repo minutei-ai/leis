@@ -1,5 +1,3 @@
-###DEC-046848-0-000-15-09-1959@@@
-
 DECRETO Nº 46.848, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Rio Light S. A. Serviços de Eletricidade e Carris, antiga Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada a ampliar suas instalações.

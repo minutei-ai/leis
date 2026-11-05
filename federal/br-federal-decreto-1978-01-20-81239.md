@@ -1,5 +1,3 @@
-###DEC-081239-0-000-20-01-1978@@@
-
 DECRETO nº 81.239, de 20 de janeiro de 1978.
 
 Cria Organizações Militares no Ministério do Exército e dá outras providências.

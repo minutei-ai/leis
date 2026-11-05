@@ -1,5 +1,3 @@
-###DEC-092322-0-000-23-01-1986@@@
-
 DECRETO Nº 92.322, DE 23 DE JANEIRO DE 1986
 
 Trata da dispensa da assinatura do ponto aos servidores públicos civis federais que exerçam mandatos eletivos em entidades representativas de classes.

@@ -1,5 +1,3 @@
-###DEC-066891-0-000-17-07-1970@@@
-
 DECRETO Nº 66.891, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 16.058, de 12 de julho de 1944.

@@ -1,5 +1,3 @@
-###DEC-094307-0-000-05-05-1987@@@
-
 DECRETO Nº 94.307, DE 5 DE MAIO DE 1987.
 
 Revoga disposições do Decreto nº 86.010, de 15 de maio de 1981, que dispõe sobre a Comissão de Coordenação do Transporte Aéreo Civil - Cotac  do Ministério da Aeronáutica.

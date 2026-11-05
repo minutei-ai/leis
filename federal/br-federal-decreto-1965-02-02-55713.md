@@ -1,5 +1,3 @@
-###DEC-055713-0-000-02-02-1965@@@
-
 Decreto nº 55.713, de 2 de Fevereiro de 1965.
 
 Altera o Regulamento do Estado-Maior das Fôrças Armadas, aprovado pelo Decreto nº 26.607, de 27 de abril de 1949, e dá outras providências.

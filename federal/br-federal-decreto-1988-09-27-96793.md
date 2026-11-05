@@ -1,5 +1,3 @@
-###DEC-096793-0-000-27-09-1988@@@
-
 DECRETO N° 96.793, DE 27 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO MANGUABA DO PILAR LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Pilar, Estado de Alagoas.

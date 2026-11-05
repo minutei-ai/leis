@@ -1,5 +1,3 @@
-###DEC-006019-0-000-22-01-2007@@@
-
 DECRETO Nº 6.019, DE 22 DE JANEIRO DE 2007.
 
 Institui o Fórum Nacional da Previdência Social e dá outras providências.
@@ -95,5 +93,3 @@ Brasília, 22 de janeiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Nelson Machado
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

@@ -1,5 +1,3 @@
-###DEC-048805-0-000-12-08-1960@@@
-
 DECRETO N. 48.805 - DE 12 AGÔSTO DE 1960
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

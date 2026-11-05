@@ -1,7 +1,3 @@
-1
-
-###MPV-001266-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.266, DE 12 DE JANEIRO DE 1996.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

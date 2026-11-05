@@ -1,5 +1,3 @@
-###DEL-009196-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.196 – DE 23 DE ABRIL DE 1946
 
 Dispõe sôbre diferenças de caixas, de que trata o Decreto-lei nº 2.100, de 30 de Março de 1940.

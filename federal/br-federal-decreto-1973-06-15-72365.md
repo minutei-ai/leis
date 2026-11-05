@@ -1,5 +1,3 @@
-###DEC-072365-0-000-15-06-1973@@@
-
 Decreto Nº 72.365 - DE 15 DE JUNHO DE 1973.
 
 Outorga  concessão de aproveitamento de energia hidráulica, para uso exclusivo, e dá outras providências.

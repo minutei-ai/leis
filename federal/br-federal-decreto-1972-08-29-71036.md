@@ -1,5 +1,3 @@
-###DEC-071036-0-000-29-08-1972@@@
-
 DECRETO Nº 71.036, DE 29 DE AGOSTO DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

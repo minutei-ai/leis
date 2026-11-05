@@ -1,5 +1,3 @@
-###DEL-005514-0-000-24-05-1943@@@
-
 DECRETO‑LEI N. 5.514 – DE 24 DE MAIO DE 1943
 
 Aprova o "Acordo Financeiro" firmado com o Export‑Import Bank of Was­hington, de que trata o decreto‑lei n. 4.824, de 12 de outubro de 1942

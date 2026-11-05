@@ -1,5 +1,3 @@
-###DEC-081831-0-000-23-06-1978@@@
-
 Decreto nº 81.831, de 23 de junho de 1978.
 
 Concede à Cimentos do Brasil S. A. - CIBRASA o direito de lavrar calcário no Município de Bonito, Estado do Pará.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095644-0-000-14-01-1988@@@
-
 DECRETO N° 95.644, DE 14 DE JANEIRO DE 1988
 
 Fixa, no Ministério da Marinha, os mínimos de vagas para promoção obrigatória, referentes ao ano-base de 1987, nos diversos Corpos e Quadros de Oficiais da Marinha.

@@ -1,5 +1,3 @@
-###DEC-007370-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.370, DE 26 DE NOVEMBRO DE 2010.
 
 Dispõe sobre remanejamento de Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS, de Gratificações de Exercício em Cargo de Confiança e de Gratificações de Representação pelo Exercício de Função, criados pela Lei no 12.315, de 25 de agosto de 2010, para emprego nos V Jogos Mundiais Militares do Conselho Internacional do Esporte Militar - CISM Rio 2011.

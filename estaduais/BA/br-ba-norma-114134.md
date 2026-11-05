@@ -1,6 +1,7 @@
 LEI Nº 1.466 DE 31 DE AGOSTO DE 1961
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.630ï»¿](https://www.legislabahia.ba.gov.br/documentos/lei-no-12630-de-07-de-janeiro-de-2013#LO%2012.630) de 07 de janeiro de 2013- Atualiza os limites dos Municípios que integram o Território de Identidade Costa do Descobrimento, na forma da Lei nº 12.057/2011, a saber: Belmonte, Eunápolis, Guaratinga, Itabela, Itagimirim, Itapebi, Porto Seguro, Santa Cruz Cabrália.
 
 &nbs
@@ -63,4 +64,4 @@ ORLANDO MOSCOZO
 
 Manso Cabral
 
-* * *
+ *

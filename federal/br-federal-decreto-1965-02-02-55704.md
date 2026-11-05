@@ -1,5 +1,3 @@
-###DEC-055704-0-000-02-02-1965@@@
-
 DECRETO Nº 55.704, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza P. Franco & Cia, a pesquisar água mineral, no município de Santo Amaro das Brotas, estado de Sergipe.

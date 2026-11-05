@@ -1,7 +1,3 @@
-1
-
-###DEC-000528-0-000-20-05-1992@@@
-
 DECRETO N° 528, DE 20 DE MAIO DE 1992
 
 Declara como Área de Proteção Ambiental Anhatomirim, no Estado de Santa Catarina, a região que delimita e dá outras providências.

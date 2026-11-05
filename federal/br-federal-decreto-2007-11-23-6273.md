@@ -1,5 +1,3 @@
-###DEC-006273-0-000-23-11-2007@@@
-
 DECRETO Nº 6.273, DE 23 DE NOVEMBRO DE 2007.
 
 Cria, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, a Câmara Interministerial de Segurança Alimentar e Nutricional.
@@ -51,5 +49,3 @@ Brasília, 23 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 26.11.2007

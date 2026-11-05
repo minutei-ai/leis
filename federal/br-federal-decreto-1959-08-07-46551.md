@@ -1,5 +1,3 @@
-###DEC-046551-0-000-07-08-1959@@@
-
 DECRETO Nº 46.551, DE 7 DE AGÔSTO DE 1959.
 
 Inclui funções gratificadas no Ministério do Trabalho, Indústria e Comércio.

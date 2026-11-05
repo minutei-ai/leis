@@ -1,5 +1,3 @@
-###DEC-075361-0-000-13-02-1975@@@
-
 DECRETO Nº 75.361, DE 13 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Ciências, Letras e Educação de Presidente Prudente, mantida pela Associação Prudentina de Educação e Cultura, com sede na cidade Presidente Prudente, Estado de São Paulo.

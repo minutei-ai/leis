@@ -1,5 +1,3 @@
-###DEC-055160-0-000-07-12-1964@@@
-
 DECRETO Nº 55.160, DE 07 DE DEZEMBRO DE 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$60.000.000,00 para o fim que específica.

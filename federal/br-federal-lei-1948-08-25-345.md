@@ -1,14 +1,12 @@
-###LEI-000345-0-000-25-08-1948@@@
+**LEI N. 345 – DE 25 DE AGÔSTO DE 1948**
 
-<strong>LEI N. 345 – DE 25 DE AGÔSTO DE 1948</strong>
-
-<em><strong>Autoriza a abertura, pelo Ministério da Marinha, de crédito especial para pagamento de despesas de Pessoal e Material, relativas 1947.</strong></em>
+***Autoriza a abertura, pelo Ministério da Marinha, de crédito especial para pagamento de despesas de Pessoal e Material, relativas 1947.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art</strong>. 1º É o Poder Executivo autorizado a abrir, pelo Ministério da Marinha, um crédito especial de setenta e três milhões, dezoito mil, cento e trinta cruzeiros e sessenta centavos (Cr$ 73.018.130,60), para ocorrer ao pagamento das despesas de Pessoal e Material, relativas a 1947 e abaixo discriminadas:
+**Art**. 1º É o Poder Executivo autorizado a abrir, pelo Ministério da Marinha, um crédito especial de setenta e três milhões, dezoito mil, cento e trinta cruzeiros e sessenta centavos (Cr$ 73.018.130,60), para ocorrer ao pagamento das despesas de Pessoal e Material, relativas a 1947 e abaixo discriminadas:
 
                            Pessoal                                                                                                            Cr$
 
@@ -30,11 +28,11 @@ g) Passagens, transporte de pessoal e de suas bagagens – (Diretoria de Fazenda
 
 Total .............................................................................................................................................73.018.130,60
 
-<strong>Art</strong>. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de agôsto de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha
 

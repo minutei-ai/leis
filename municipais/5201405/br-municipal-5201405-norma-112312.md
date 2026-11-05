@@ -18,7 +18,8 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 19 de fevereiro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO ÚNICO

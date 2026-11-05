@@ -1,5 +1,3 @@
-###DEC-083284-0-000-13-03-1979@@@
-
 Decreto nº 83.284, de 13 de março de 1979.
 
 Dá nova regulamentação ao Decreto-Lei nº 972, de 17 de outubro de 1969, que dispõe sobre o exercício da profissão de jornalista, em decorrência das alterações introduzidas pela Lei nº 6.612, de 7 de dezembro de 1978.

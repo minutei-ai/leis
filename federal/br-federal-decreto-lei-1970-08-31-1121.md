@@ -1,5 +1,3 @@
-###DEL-001121-0-000-31-08-1970@@@
-
 # dECRETO-LEI Nº 1.121, DE 31 DE AGÔSTO DE 1970
 
 Dispõe sôbre os vencimentos básicos dos cargos de direção das Universidades Federais, das Unidades Universitárias e de Estabelecimentos Isolados de Ensino Superior, mantidos pela União.

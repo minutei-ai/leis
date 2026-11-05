@@ -1,5 +1,3 @@
-###DEL-002043-0-000-07-07-1983@@@
-
 # Decreto-Lei nº 2.043, de 07 de Julho de 1983.
 
 Aumenta as representações mensais dos membros do Tribunal de Contas do Distrito Federal.

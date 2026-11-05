@@ -1,5 +1,3 @@
-###DEC-045941-0-000-29-04-1959@@@
-
 DECRETO Nº 45.941, de 29 DE abril DE 1959.
 
 Abre, ao Ministério da Guerra, o crédito especial de Cr$65.000.000,00 para ocorrer à despesa que especifica.

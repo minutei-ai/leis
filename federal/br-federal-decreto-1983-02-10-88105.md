@@ -1,5 +1,3 @@
-###DEC-088105-0-000-10-02-1983@@@
-
 DECRETO Nº 88.105, DE 10 DE FEVEREIRO DE 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Laranjal', situado no Município de São Luiz Gonzaga, no Estado do Rio Grande do Sul, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 88.104, de 10 de fevereiro de 1983.

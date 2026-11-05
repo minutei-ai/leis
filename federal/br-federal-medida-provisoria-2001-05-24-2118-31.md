@@ -1,5 +1,3 @@
-###MPV-002118-0-031-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.118‑31, DE 24 DE MAIO DE 2001.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

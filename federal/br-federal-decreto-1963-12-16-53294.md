@@ -1,5 +1,3 @@
-###DEC-053294-0-000-16-12-1963@@@
-
 DECRETO Nº 53.294, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Antonio Augusto Faccio a pesquisar quartzo no município de Monte Sião, Estado de Minas Gerais.

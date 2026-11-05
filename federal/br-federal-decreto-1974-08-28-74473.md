@@ -1,5 +1,3 @@
-###DEC-074473-0-000-28-08-1974@@@
-
 DECRETO Nº 74.473, DE 28 DE AGOSTO DE 1974.
 
 Aprova o Regulamento da Diretoria de Especialização e Extensão (DEE), e dá outras providências.

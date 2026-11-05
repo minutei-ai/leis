@@ -1,5 +1,3 @@
-###DEC-090156-0-000-05-09-1984@@@
-
 Decreto nº 90.156, de 05 de Setembro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

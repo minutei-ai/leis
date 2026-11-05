@@ -1,5 +1,3 @@
-###MPV-000462-0-000-14-05-2009@@@
-
 MEDIDA PROVISÓRIA Nº 462, DE 14 DE MAIO DE 2009.
 
 Dispõe sobre a prestação de apoio financeiro pela União aos entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais, e dá outras providências.

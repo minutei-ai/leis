@@ -1,5 +1,3 @@
-###DEC-059143-0-000-25-08-1966@@@
-
 DECRETO Nº 59.143, DE 25 DE AGÔSTO DE 1966.
 
 Autoriza o funcionamento da Faculdade de Direito de São João da Boa Vista, no Estado de São Paulo.

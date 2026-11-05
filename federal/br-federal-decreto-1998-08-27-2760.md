@@ -1,5 +1,3 @@
-###DEC-002760-0-000-27-08-1998@@@
-
 DECRETO Nº 2.760, DE 27 DE AGOSTO DE 1998
 
 Promulga o Protocolo de Reforma da Carta da Organização dos Estados Americanos, "Protocolo de Washington", assinado em Washington, em 14 de dezembro de 1992.

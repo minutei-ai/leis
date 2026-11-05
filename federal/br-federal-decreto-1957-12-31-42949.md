@@ -1,14 +1,12 @@
-###DEC-042949-0-000-31-12-1957@@@
+**DECRETO Nº 42.949, DE 31 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.949, DE 31 DE DEZEMBRO DE 1957.</strong>
+***Altera a alínea “a” do artigo 1º do Decreto nº 42.668, de 19 de novembro de 1957.***
 
-<em><strong>Altera a alínea “a” do artigo 1º do Decreto nº 42.668, de 19 de novembro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. A alínea “<em>a</em>” do artigo 1º do Decreto nº 42.668, de 19 de novembro de 1957, passa a ter a seguinte redação:
+**Art**. 1º. A alínea “*a*” do artigo 1º do Decreto nº 42.668, de 19 de novembro de 1957, passa a ter a seguinte redação:
 
 a) aquisição de produtos de fibras sêcas, acondicionadas em fardos de, no mínimo, 400 kg por metro cúbico, na base do preço de Cr$21,00 (vinte e um cruzeiros) por quilo, do tipo 5 das especificações baixadas pelos Decretos ns. 6.825 e 6.826, de 7 de fevereiro de 1941, CIF portos do Rio de Janeiro ou Santos, livres e desembaraçados de quaisquer ônus.
 
@@ -16,13 +14,13 @@ Essa aquisição será feita ao produtor, ou a terceiros que provarem ter pago a
 
 Os lotes vendidos ao Govêrno não poderão contar mais de 20% e 10% de fardos dos tipos 7 e 9, respectivamente.
 
-<strong>Art</strong>. 2º. Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º. Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º. Revogam-se as disposições em contrário.
+**Art**. 3º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 31 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira
 

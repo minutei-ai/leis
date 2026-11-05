@@ -1,5 +1,3 @@
-###DEC-047329-0-000-02-12-1959@@@
-
 DECRETO Nº 47.329, DE 2 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Capistrano de Souza a pesquisar quartzito no município de Baependi, Estado de Minas Gerais.

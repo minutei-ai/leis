@@ -1,5 +1,3 @@
-###DEC-068498-0-000-12-04-1971@@@
-
 DECRETO Nº 68.498 - de 12 de abril de 1971.
 
 Declara de utilidade pública a Casa da Criança - Lar São José, com sede em São João de Meriti, Estado do Rio de Janeiro.

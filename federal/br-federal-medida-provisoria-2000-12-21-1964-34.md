@@ -1,5 +1,3 @@
-###MPV-001964-0-034-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.964-34, DE 21 de dezembro DE 2000.
 
 Altera as Leis nº 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e 9.525, de 3 de dezembro de 1997, e dá outras providências.

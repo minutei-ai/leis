@@ -1,5 +1,3 @@
-###DEC-067034-0-000-11-08-1970@@@
-
 decreto nº 67.034, de 11 de agôsto de 1970.
 
 Declara de utilidade pública a Sociedade Bemaventurada Imelda, com sede em Santa Cruz do Rio Pardo, Estado de São Paulo.

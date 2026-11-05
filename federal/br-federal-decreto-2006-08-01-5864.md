@@ -1,5 +1,3 @@
-###DEC-005864-0-000-01-08-2006@@@
-
 DECRETO Nº 5.864, DE 1º DE AGOSTO DE 2006.
 
 Promulga o Acordo de Cooperação no Campo do Turismo entre o Governo da República Federativa do Brasil e o Governo da Romênia, celebrado em Brasília, em 25 de junho de 2000.
@@ -24,11 +22,7 @@ Brasília, 1º de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 2.8.2006
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+         Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
 
 E O GOVERNO DA ROMÊNIA SOBRE COOPERAÇÃO NO CAMPO DO TURISMO
 

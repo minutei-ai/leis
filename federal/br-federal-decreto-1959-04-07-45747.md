@@ -1,5 +1,3 @@
-###DEC-045747-0-000-07-04-1959@@@
-
 DECRETO Nº 45.747, DE 7 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Clemente Paz Domingues a pesquisar quartzo e mica no município de Água Boa, Estado de Minas Gerais.

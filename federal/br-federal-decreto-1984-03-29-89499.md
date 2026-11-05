@@ -1,5 +1,3 @@
-###DEC-089499-0-000-29-03-1984@@@
-
 DECRETO Nº 89.499, de 29 de março De 1984
 
 Concede à Centrais Elétricas Brasileiras S.A. - ELETROBRÁS autorização para proceder ao aumento do seu capital social.

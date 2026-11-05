@@ -1,5 +1,3 @@
-###DEC-004560-0-000-30-12-2002@@@
-
 DECRETO N. 4.560 – DE 30 DE DEZEMBRO DE 2002
 
 Altera o Decreto nº 90.922, de 6 de fevereiro de 1985, que regulamenta a Lei nº 5.524, de 5 de novembro de 1968, que dispõe sobre o exercício da profissão de Técnico Industrial e Técnico Agrícola de nível médio ou de 2º grau.

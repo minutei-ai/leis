@@ -1,5 +1,3 @@
-###DEC-088250-0-000-25-04-1983@@@
-
 Decreto nº 88.250, de 25 de abril de 1983
 
 Encampa bens e instalação vinculados aos serviços públicos de energia elétrica no Município de Ijuí, Estado do Rio Grande do Sul.

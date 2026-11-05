@@ -1,5 +1,3 @@
-###DEC-001784-0-000-11-01-1996@@@
-
 DECRETO Nº 1.784, DE 11 DE JANEIRO DE 1996.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, e dá outras providências.

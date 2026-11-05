@@ -1,5 +1,3 @@
-###DEC-044983-0-000-02-12-1958@@@
-
 DECRETO Nº 44.983, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza a Inex - Companhia Industrial Exportadora a pesquisar mica e associados no município de Presidente Soares, Estado de Minas Gerais.

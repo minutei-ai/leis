@@ -1,7 +1,3 @@
-1
-
-###MPV-001024-0-000-13-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.024, DE 13 DE JUNHO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

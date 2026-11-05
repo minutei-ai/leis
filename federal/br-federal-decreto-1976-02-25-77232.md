@@ -1,5 +1,3 @@
-###DEC-077232-0-000-25-02-1976@@@
-
 Decreto nº 77.232, de 25 de fevereiro de 1976.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Estudos Sociais Aplicados, com sede na Cidade de Aracaju, Estado de Sergipe.

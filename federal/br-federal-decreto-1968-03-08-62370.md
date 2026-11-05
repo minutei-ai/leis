@@ -1,5 +1,3 @@
-###DEC-062370-0-000-08-03-1968@@@
-
 DECRETO Nº 62.370, DE 8 DE MARÇO DE 1968.
 
 Declara sem efeito o decreto número 23.425, de 29 de julho de 1947.

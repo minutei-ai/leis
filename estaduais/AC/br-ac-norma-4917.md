@@ -1,6 +1,10 @@
 > **LEI Nº 3.806, DE 12 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a inserção do nome do autor do projeto de lei na Lei ao ser publicada no Diário Oficial do Estado - DOE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a inserção do nome do autor do projeto de lei na Lei ao ser publicada no Diário Oficial do Estado - DOE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

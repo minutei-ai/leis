@@ -1,5 +1,3 @@
-###DEC-003754-0-000-19-02-2001@@@
-
 DECRETO Nº 3.754, DE 19 DE FEVEREIRO DE 2001
 
 Aprova o Plano de Metas para a Universalização de Serviços de Telecomunicações em Escolas Públicas de Ensino Médio.
@@ -17,8 +15,6 @@ Brasília, 19 de fevereiro de 2001; 180º da Independência e 113º da Repúblic
 FERNANDO HENRIQUE CARDOSO
 
 Pimenta da Veiga
-
-<br>
 
 ANEXO
 

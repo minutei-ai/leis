@@ -1,5 +1,3 @@
-###DEC-007538-0-000-01-08-2011-PUB-01@@@
-
 DECRETO Nº 7.538, DE 1º DE AGOSTO DE 2011
 
 Altera o Decreto nº 6.061, de 15 de março de 2007, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Justiça, remaneja cargos em comissão, e dá outras providências.

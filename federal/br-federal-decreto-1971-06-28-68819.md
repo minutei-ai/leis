@@ -1,5 +1,3 @@
-###DEC-068819-0-000-28-06-1971@@@
-
 DECRETO Nº 68.819 - DE 28 DE JUNHO DE 1971.
 
 Redistribui, com respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário do extinto Serviço de Navegação da Bacia do Prata, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060113-0-000-23-01-1967@@@
-
 DECRETO Nº 60.113, DE 23 DE JANEIRO DE 1967.
 
 Outorga à Companhia de Serviços Elétricos do Rio Grande do Norte concessão para distribuir energia elétrica.

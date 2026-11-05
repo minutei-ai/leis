@@ -1,5 +1,3 @@
-###DEL-009588-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.588 – DE 16 DE AGÔSTO DE 1946
 
 Dispõe sôbre a venda de semoventes em público leilão nas localidades em que não haja leiloeiro matriculado.

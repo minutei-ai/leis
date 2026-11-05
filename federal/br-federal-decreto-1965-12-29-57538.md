@@ -1,5 +1,3 @@
-###DEC-057538-0-000-29-12-1965@@@
-
 decreto nº 57.538, de 29 de dezembro de 1965.
 
 Autoriza o cidadão brasileiro Hermogênio Rodrigues Peixoto a pesquisar água mineral no Município de Cambuquira, Estado de Minas Gerais.

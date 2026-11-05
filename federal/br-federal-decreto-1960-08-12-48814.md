@@ -1,5 +1,3 @@
-###DEC-048814-0-000-12-08-1960@@@
-
 DECRETO Nº 48.814, DE 12 DE AGôSTO DE 1960.
 
 Outorga à Prefeitura Municipal de João Câmara, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

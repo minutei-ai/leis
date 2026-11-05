@@ -1,5 +1,3 @@
-###DEC-070363-0-000-04-04-1972@@@
-
 DECRETO Nº 70.363, DE 4 DE ABRIL DE 1972.
 
 Declara de utilidade pública o "Lar Escola da Criança de Maringá", com sede em Maringá, Estado do Paraná.

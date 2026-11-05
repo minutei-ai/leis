@@ -1,5 +1,3 @@
-###DEC-073494-0-000-17-01-1974@@@
-
 DECRETO Nº 73.494, DE 17 DE JANEIRO DE 1974.
 
 Concede reconhecimento aos cursos de Matemática, Geografia, História e Letras da Faculdade Estadual de Filosofia, Ciências e Letras de Guarapuava, mantida pela Fundação Faculdade Estadual de Filosofia, Ciências e Letras de Guarapuava, com sede na cidade de Guarapuava, Estado do Paraná.

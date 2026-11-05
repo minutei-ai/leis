@@ -1,5 +1,3 @@
-###DEC-005726-0-000-16-03-2006@@@
-
 DECRETO Nº 5.726, DE 16 DE MARÇO DE 2006.
 
 Aprova alterações ao Regulamento do Serviço Social da Indústria - SESI, de que trata o Decreto no 57.375, de 2 de dezembro de 1965.

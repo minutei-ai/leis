@@ -1,5 +1,3 @@
-###DEC-092836-0-000-27-06-1986@@@
-
 DECRETO Nº 92.836, DE 27 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Pintada", situado no Município de Nova Russas, no Estado do Ceará, compreendido no zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

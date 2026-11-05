@@ -1,5 +1,3 @@
-###DEC-070823-0-000-12-07-1972@@@
-
 DECRETO Nº 70.823, DE 12 DE JULHO DE 1972.
 
 Concede à Indústria Cerâmica da Amazônia S.A. - INCA o direito de lavrar argila caulinítica, no município de São Domingos do Capim, Estado do Pará.

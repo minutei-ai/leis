@@ -1,5 +1,3 @@
-###DEC-004897-0-000-25-11-2003@@@
-
 DECRETO Nº 4.897,  DE 25 DE NOVEMBRO DE 2003.
 
        Regulamenta o parágrafo único do art. 9º da Lei nº 10.559, de 13 de novembro de 2002.
@@ -24,5 +22,6 @@ DECRETO Nº 4.897,  DE 25 DE NOVEMBRO DE 2003.
 
 Brasília, 25 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Márcio Thomaz Bastos

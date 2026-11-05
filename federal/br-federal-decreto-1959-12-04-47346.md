@@ -1,5 +1,3 @@
-###DEC-047346-0-000-04-12-1959@@@
-
 DECRETO Nº 47.346, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza Mineração e Usina Wigg S.A. a lavrar dolomita no município de Ouro Prêto, Estado de Minas Gerais.

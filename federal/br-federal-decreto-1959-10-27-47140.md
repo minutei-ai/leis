@@ -1,5 +1,3 @@
-###DEC-047140-0-000-27-10-1959@@@
-
 decreto nº 47.140, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Joaquim Gonçalves de Oliveira a pesquisar quartzo no município de Ataléia, Estado de Minas Gerais.

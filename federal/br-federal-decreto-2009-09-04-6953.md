@@ -1,5 +1,3 @@
-###DEC-006953-0-000-04-09-2009@@@
-
 DECRETO Nº 6.953, DE 4 DE SETEMBRO DE 2009.
 
 Autoriza o Aumento de Capital Social da Empresa Binacional Alcântara Cyclone Space.

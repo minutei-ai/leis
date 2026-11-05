@@ -1,5 +1,3 @@
-###DEC-062073-0-000-05-01-1968@@@
-
 Decreto nº 62.073, de 5 de janeiro de 1968.
 
 Autoriza a Cia. Siderúrgica Cruzeiro do Sul - CRUZUL - a lavrar minério de ferro, minério de ferro-manganês e minério de manganês no município de Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050942-0-000-13-07-1961@@@
-
 Decreto nº 50.942, de 13 de julho de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cajobi, Estado de São Paulo

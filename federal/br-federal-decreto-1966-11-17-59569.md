@@ -1,5 +1,3 @@
-###DEC-059569-0-000-17-11-1966@@@
-
 DECRETO Nº 59.569, DE 17 DE NOVEMBRO DE 1966.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Saúde, e dá outras providências.

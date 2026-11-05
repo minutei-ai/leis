@@ -1,5 +1,3 @@
-###DEC-075852-0-000-11-06-1975@@@
-
 DECRETO Nº 75.852, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento aos cursos de História e de Formação de Psicólogos da Faculdade de Humanidades Pedro II, mantida pela autarquia "Colégio Pedro II", vinculada ao Ministério da Educação e Cultura com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-064929-0-000-05-08-1969@@@
-
 DECRETO Nº 64.929 - DE 5 DE AGÔSTO DE 1969.
 
 Retifica o Decreto nº 62.338, de 1º de março de 1968, que dispõe sôbre o Grupo Ocupacional, P. 1.700 - Medicina, Farmácia e Odontologia, do Quadro de Pessoal - Parte Permanente do Território Federal de Roraima.

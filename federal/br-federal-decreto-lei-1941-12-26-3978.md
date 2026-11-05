@@ -1,5 +1,3 @@
-###DEL-003978-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.978 – DE 26 DE DEZEMBRO DE 1941
 
 Cria uma coletoria federal no município de Dom Silvério, Estado de Minas Gerais, e dá outras providências

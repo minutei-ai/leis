@@ -1,5 +1,3 @@
-###DEC-084852-0-000-01-07-1980@@@
-
 Decreto nº 84.852, de 01 de julho de 1980.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais situados no Município de Esperantinópolis, Estado do Maranhão, compreendidos na área prioritária de reforma agrária, de que tratam os Decretos nºs 70.220, de 1º de março de 1972, e 79.288, de 16 de fevereiro de 1977.

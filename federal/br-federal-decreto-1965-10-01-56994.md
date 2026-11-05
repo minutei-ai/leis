@@ -1,5 +1,3 @@
-###DEC-056994-0-000-01-10-1965@@@
-
 DECRETO Nº 56.994, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza Eurípedes Ferreira, a comprar pedras preciosas.

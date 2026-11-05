@@ -1,7 +1,3 @@
-1
-
-###DEC-099030-0-000-05-03-1990@@@
-
 DECRETO N° 99.030, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Ambientais Bandeirantes.

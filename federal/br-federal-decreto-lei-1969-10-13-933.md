@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/dbd07115-1ddf-4608-a736-078974ee9673/texto#nowhere)
 
-###DEL-000933-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 933, DE 13 DE OUTUBRO DE 1969
 
 Da nova redação ao art. 2º, item I e II do Decreto-lei nº 732, de 5 de agôsto de 1969.

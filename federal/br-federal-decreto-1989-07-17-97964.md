@@ -1,7 +1,3 @@
-1
-
-###DEC-097964-0-000-17-07-1989@@@
-
 DECRETO Nº 97.964, DE 17 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Nutrição da Faculdade de Ciências Ambientais Bandeirante, em São Paulo.

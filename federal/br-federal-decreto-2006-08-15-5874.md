@@ -1,5 +1,3 @@
-###DEC-005874-0-000-15-08-2006@@@
-
 DECRETO Nº 5.874, DE 15 DE AGOSTO DE 2006.
 
 Aprova o Regulamento da Escola Superior de Guerra - ESG e dá outras providências.
@@ -20,11 +18,7 @@ Brasília, 15 de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Waldir Pires
-
-Este texto não substitui o publicado no D.O.U. de 16.8.2006.
-
-A N E X O
+       Waldir PiresA N E X O
 
 # REGULAMENTO DA ESCOLA SUPERIOR DE GUERRA
 

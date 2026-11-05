@@ -1,5 +1,3 @@
-###DEC-052028-0-000-20-05-1963@@@
-
 DECRETO Nº 52.028, DE 20 DE MAIO DE 1963.
 
 Inclui em caráter provisório, o Serviço de Assistência Médica da Marinha em Brasília na Divisão de Saúde do Comando Naval de Brasília.

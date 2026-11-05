@@ -1,5 +1,3 @@
-###DEC-055837-0-000-12-03-1965@@@
-
 decreto nº 55.837, de 12 de março de 1965.
 
 Aprova o Plano Mestre Decenal para avaliação do Recursos Minerais do Brasil e dá outras providências.
@@ -47,8 +45,6 @@ Brasília, 12 de março de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-055837-0-000-12-03-1965@@@RET01+++
 
 decreto nº 55.837, de 12 de março de 1965.
 

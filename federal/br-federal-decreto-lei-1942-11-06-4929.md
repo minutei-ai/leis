@@ -1,5 +1,3 @@
-###DEL-004929-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.929 – DE 6 DE NOVEMBRO DE 1942
 
 Altera datas de apresentação e incorporação de sorteados e dá outras providências

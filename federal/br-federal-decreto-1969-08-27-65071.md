@@ -1,5 +1,3 @@
-###DEC-065071-0-000-27-08-1969@@@
-
 decreto nº 65.071 - de 27 de agôsto de 1969.
 
 Cria a Comissão de Empréstimos Externos e dá outras providências.

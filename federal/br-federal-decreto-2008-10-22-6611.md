@@ -1,5 +1,3 @@
-###DEC-006611-0-000-22-10-2008@@@
-
 DECRETO Nº 6.611, DE 22 DE OUTUBRO DE 2008.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para a prática dos atos que especifica.

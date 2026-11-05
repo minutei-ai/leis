@@ -1,5 +1,3 @@
-###DEC-079861-0-000-27-06-1977@@@
-
 DECRETO Nº 79.861, DE 27 DE JUNHO DE 1977
 
 Autoriza o funcionamento dos cursos de Ciências, de Estudos Sociais e de Letras, da Faculdade de Educação de Imperatriz, com sede na Cidade de Imperatriz, Estado do Maranhão.

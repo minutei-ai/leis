@@ -1,5 +1,3 @@
-###DEC-052168-0-000-28-06-1963@@@
-
 DECRETO Nº 52.168, DE 28 DE JUNHO DE 1963.
 
 Autoriza o Estado da Guanabara a instalar grupos termelétricos.

@@ -1,5 +1,3 @@
-###DEC-083316-0-000-09-04-1979@@@
-
 Decreto nº 83.316, de 09 de abril de 1979.
 
 Fixa o valor da Bolsa Especial do aluno Monitor, instituída pelo Decreto nº 66.315, de 13 de março de 1970.

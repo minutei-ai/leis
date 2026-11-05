@@ -1,5 +1,3 @@
-###DEC-003429-0-000-20-04-2000@@@
-
 DECRETO Nº 3.429, DE 20 DE ABRIL DE 2000.
 
 Promulga as Emendas ao Acordo Operacional Relativo à Organização Internacional de Telecomunicações por Satélite (INTELSAT) para Implementar o Regime de Múltiplos Signatários, aprovadas pela XXVI Reunião dos Signatários, em Washington, em 16 de abril de 1996.

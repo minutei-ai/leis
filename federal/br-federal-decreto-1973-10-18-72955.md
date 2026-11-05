@@ -1,5 +1,3 @@
-###DEC-072955-0-000-18-10-1973@@@
-
 Decreto nº 72.955, de 18 de outubro de 1973.
 
 Declara sem efeito o Decreto número 55.234, de 16 de dezembro de 1964.

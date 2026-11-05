@@ -1,5 +1,3 @@
-###DEC-051775-0-000-04-03-1963@@@
-
 Decreto nº 51.775, de 04 de MARÇO de 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica - COPEL a construir linha de transmissão.

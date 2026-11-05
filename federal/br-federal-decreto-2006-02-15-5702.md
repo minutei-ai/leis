@@ -1,5 +1,3 @@
-###DEC-005702-0-000-15-02-2006@@@
-
 DECRETO Nº 5.702, DE 15 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.

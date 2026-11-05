@@ -1,5 +1,3 @@
-###DEC-046557-0-000-11-08-1959@@@
-
 DECRETO Nº 46.557, DE 11 DE AGÔSTO DE 1959.
 
 Extingue o Consulado honorário do Brasil, em Letícia, Colômbia.

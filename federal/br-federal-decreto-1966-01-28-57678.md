@@ -1,5 +1,3 @@
-###DEC-057678-0-000-28-01-1966@@@
-
 DECRETO Nº 57.678, DE 28 DE JANEIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

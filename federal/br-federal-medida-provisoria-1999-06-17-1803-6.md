@@ -1,5 +1,3 @@
-###MPV-001803-0-006-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.803-6, DE 17 DE JUNHO DE 1999.
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras providências.

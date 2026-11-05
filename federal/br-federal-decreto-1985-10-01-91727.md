@@ -1,5 +1,3 @@
-###DEC-091727-0-000-01-10-1985@@@
-
 Decreto nº 91.727, de 01 de outubro de 1985
 
 Declara de utilidade pública as instituições que menciona.

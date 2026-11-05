@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual a Associação de Amigos de Vila Presiden
 
 Publicada no Diário Oficial nº 10.337, de 1º de dezembro de 2020, página 3.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação de Amigos de Vila Presidente Castelo, com sede e foro no Município de Deodápolis-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação de Amigos de Vila Presidente Castelo, com sede e foro no Município de Deodápolis-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 30 de novembro de 2020.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-083344-0-000-17-04-1979@@@
-
 Decreto nº 83.344, de 17 de abril de 1979.
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Especializadas do Ensino de 2º Grau da Universidade Federal de Santa Catarina, com sede em Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-047602-0-000-07-01-1960@@@
-
 DECRETO Nº 47.602, DE 7 DE JANEIRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da Great American Insurance Company.

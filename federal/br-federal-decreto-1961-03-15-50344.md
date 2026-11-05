@@ -1,5 +1,3 @@
-###DEC-050344-0-000-15-03-1961@@@
-
 DECRETO Nº 50.344, DE 15 DE MARÇO DE 1961.
 
 Autoriza a cessão gratuita e temporária de terreno de marinha e acrescido de marinha que menciona, e respectiva benefícios, na cidade do Rio de Janeiro, Estado da Guanabara, e dá outras providências.

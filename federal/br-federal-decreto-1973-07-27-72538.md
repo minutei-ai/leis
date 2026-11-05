@@ -1,5 +1,3 @@
-###DEC-072538-0-000-27-07-1973@@@
-
 DECRETO Nº 72.538, de 27 de julho de 1973
 
 Altera a redação do Decreto número 65.070 de 27 de agosto de 1996, e da outras providências.

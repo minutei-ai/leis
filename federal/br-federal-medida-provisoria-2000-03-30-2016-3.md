@@ -1,5 +1,3 @@
-###MPV-002016-0-003-30-03-2000@@@
-
 medida provisória Nº 2.016-3, de 30 de Março de 2000.
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$182.200.000,00, para os fins que especifica.

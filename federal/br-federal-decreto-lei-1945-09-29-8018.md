@@ -1,5 +1,3 @@
-###DEL-008018-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.018 – DE 29 DE SETEMBRO DE 1945
 
 Revigora o Decreto-lei nº 6.679, de 13 de julho de 1944

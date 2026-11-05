@@ -1,5 +1,3 @@
-###DEC-067316-0-000-02-10-1970@@@
-
 DECRETO Nº 67.316, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 47.547 de 30 de dezembro de 1959.

@@ -1,5 +1,3 @@
-###DEC-007133-0-000-19-03-2010@@@
-
 DECRETO Nº 7.133, DE 19 DE MARÇO DE 2010.
 
 Regulamenta os critérios e procedimentos gerais a serem observados para a realização das avaliações de desempenho individual e institucional e o pagamento das gratificações de desempenho de que tratam as Leis nos 9.657, de 3 de junho de 1998, 10.484, de 3 de julho de 2002, 10.550, de 13 de novembro de 2002, 10.551, de 13 de novembro de 2002, 10.682, de 28 de maio de 2003, 10.768, de 19 de novembro de 2003, 10.871, de 20 de maio de 2004, 10.883, de 16 de junho de 2004, 11.046, de 27 de dezembro de 2004, 11.090, de 7 de janeiro de 2005, 11.095, de 13 de janeiro de 2005, 11.156, de 29 de julho de 2005, 11.171, de 2 de setembro de 2005, 11.233, de 22 de dezembro de 2005, 11.344, de 8 de setembro de 2006, 11.355, de 19 de outubro de 2006, 11.356, de 19 de outubro de 2006, 11.357, de 19 de outubro de 2006, 11.784, de 22 de setembro de 2008, 11.890, de 24 de dezembro de 2008, e 11.907, de 2 de fevereiro de 2009

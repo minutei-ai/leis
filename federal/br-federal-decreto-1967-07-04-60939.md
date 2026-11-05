@@ -1,5 +1,3 @@
-###DEC-060939-0-000-04-07-1967@@@
-
 DECRETO Nº 60.939, DE 4 DE julho DE 1967.
 
 Aprova nôvo modêlo de ficha de qualificação para a emissão de carteira profissional.

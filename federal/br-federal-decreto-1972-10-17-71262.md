@@ -1,5 +1,3 @@
-###DEC-071262-0-000-17-10-1972@@@
-
 DECRETO Nº 71.262 - DE 17 DE OUTUBRO DE 1972.
 
 Concede autorização às empresas Bauer Dredging International Corp. e Gregg, Gibson and Gregg, Inc. e à subempreiteira Constain Blankvoort (U.K.) Dreaging Company Limited, para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, com a draga "Delta Bay", de nacionalidade inglesa.

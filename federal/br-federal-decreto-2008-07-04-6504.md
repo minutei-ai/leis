@@ -1,5 +1,3 @@
-###DEC-006504-0-000-04-07-2008@@@
-
 DECRETO Nº 6.504, DE 4 DE JULHO DE 2008.
 
 Institui o Projeto Computador Portátil para Professores, no âmbito do Programa de Inclusão Digital, e dá outras providências.

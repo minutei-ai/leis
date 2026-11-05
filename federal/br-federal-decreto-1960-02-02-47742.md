@@ -1,5 +1,3 @@
-###DEC-047742-0-000-02-02-1960@@@
-
 DECRETO Nº 47.742, DE 2 DE FEVEREIRO DE 1960.
 
 Torna sem efeito o Decreto nº 22.5513, de 24 de janeiro de 1947,

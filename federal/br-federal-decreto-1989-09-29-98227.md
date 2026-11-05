@@ -1,7 +1,3 @@
-1
-
-###DEC-098227-0-000-29-09-1989@@@
-
 DECRETO Nº 98.227, DE 29 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA CARRAPATINHO”, situado no Município de Garuva, Estado de Santa Catarina, e dá outras providências.

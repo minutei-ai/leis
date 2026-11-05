@@ -1,5 +1,3 @@
-###DEC-060347-0-000-09-03-1967@@@
-
 DECRETO Nº 60.347, DE 9 DE MARÇO DE 1967.
 
 Altera a redação do Decreto nº 53.975, de 19-6-64 e dá outras providências.

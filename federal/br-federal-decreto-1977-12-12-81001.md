@@ -1,5 +1,3 @@
-###DEC-081001-0-000-12-12-1977@@@
-
 Decreto nº 81.001, de 12 de dezembro de 1977.
 
 Declara sem efeito o Decreto nº 40.654, de 25 de dezembro de 1956, que autorizou o cidadão brasileiro Ângelo Vago a lavrar grafita no Município de Linhares, Estado de Espirito Santo.

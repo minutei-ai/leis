@@ -1,5 +1,3 @@
-###DEC-052196-0-000-27-06-1963@@@
-
 DECRETO Nº 52.196, DE 27 DE JUNHO DE 1963.
 
 Concede à Companhia de Navegação da Amazônia, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

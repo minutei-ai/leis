@@ -1,5 +1,3 @@
-###DEC-050967-0-000-17-07-1961@@@
-
 DECRETO Nº 50.967, DE 17 DE JULHO DE 1961.
 
 Concede reconhecimento ao curso que indica.

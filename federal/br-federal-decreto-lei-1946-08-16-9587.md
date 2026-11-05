@@ -1,5 +1,3 @@
-###DEL-009587-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.587 – DE 16 DE AGÔSTO DE 1946
 
 Restabelece a vigência do Decreto-lei nº 5.429, de 27 de Abril de 1943

@@ -1,21 +1,19 @@
-###DEC-062874-0-000-20-06-1968@@@
+**DECRETO Nº 62.874, DE 20 DE JUNHO DE 1968.**
 
-<strong>DECRETO Nº 62.874, DE 20 DE JUNHO DE 1968.</strong>
+***Aprova o Calendário Plurienal de Exposições e Feiras Agropecuárias, elaborado pelo Ministério da Agricultura.***
 
-<em><strong>Aprova o Calendário Plurienal de Exposições e Feiras Agropecuárias, elaborado pelo Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, no uso de suas atribuições,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, no uso de suas atribuições,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Calendário Plurienal de Exposições e Feiras Agropecuárias, elaborado pelo Ministério da Agricultura, que êste acompanha.
 
-<strong>Art</strong>. 1º Fica aprovado o Calendário Plurienal de Exposições e Feiras Agropecuárias, elaborado pelo Ministério da Agricultura, que êste acompanha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de usa publicação, revogando-se as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de usa publicação, revogando-se as disposições em contrário.
 
 Brasília, 20 de junho de 1968; 147º de Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Ivo Arzua Pereira
 
-O Calendário a que se refere o presente Decreto foi publicado no <em>D.O</em>. de 10-07-68.
+O Calendário a que se refere o presente Decreto foi publicado no *D.O*. de 10-07-68.

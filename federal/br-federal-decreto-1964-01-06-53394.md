@@ -1,5 +1,3 @@
-###DEC-053394-0-000-06-01-1964@@@
-
 DECRETO Nº 53.394, DE 6 DE JANEIRO DE 1964.
 
 Dispõe sôbre as comissões que podem ser exercidas por Almirante-de-Esquadra.

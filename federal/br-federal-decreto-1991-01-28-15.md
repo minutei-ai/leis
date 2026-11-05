@@ -1,7 +1,3 @@
-1
-
-###DEC-000015-0-000-28-01-1991@@@
-
 DECRETO N° 15, DE 28 DE JANEIRO DE 1991
 
 Dispõe sobre a Secretaria de Inteligência da Aeronáutica.

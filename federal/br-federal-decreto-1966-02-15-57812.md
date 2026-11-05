@@ -1,5 +1,3 @@
-###DEC-057812-0-000-15-02-1966@@@
-
 DECRETO Nº 57.812, DE 15 DE FEVEREIRO DE 1966.
 
 Aprova o Regimento Interno da Comissão Nacional de Hemoterapia, criada pelo Art. 5º da Lei nº 4.701, de 28 de junho de 1965.

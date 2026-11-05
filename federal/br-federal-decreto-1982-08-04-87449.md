@@ -1,5 +1,3 @@
-###DEC-087449-0-000-04-08-1982@@@
-
 Decreto nº 87.449, de 04 de agosto de 1982.
 
 Autoriza o Governador do Território Federal de Amapá a incluir o Departamento de Navegação do Amapá, sob a denominação de Superintendência de Navegação do Amapá - SENAVA, no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981 e dá outras providências,

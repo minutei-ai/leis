@@ -1,5 +1,3 @@
-###DEC-084604-0-000-31-03-1980@@@
-
 Decreto nº 84.604, de 31 de março de 1980
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Guaraniaçu e Quedas do Iguaçu, no Estado do Paraná.

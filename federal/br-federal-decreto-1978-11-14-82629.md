@@ -1,5 +1,3 @@
-###DEC-082629-0-000-14-11-1978@@@
-
 Decreto nº 82.629, de 14 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Icominas S.A .- Empresa de Mineração pelo Decreto nº 59.513, de 09 de novembro de 1966.

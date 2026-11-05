@@ -1,7 +1,3 @@
-1
-
-###MPV-001215-0-000-12-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.215, DE 12 DE DEZEMBRO DE 1995.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

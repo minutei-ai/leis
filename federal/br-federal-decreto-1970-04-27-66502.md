@@ -1,5 +1,3 @@
-###DEC-066502-0-000-27-04-1970@@@
-
 DECRETO Nº 66.502, DE 27 DE ABRIL DE 1970.
 
 Altera o Decreto nº 52.711,de 21 de outubro de 1963 e dá outras providências.

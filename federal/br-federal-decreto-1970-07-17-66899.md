@@ -1,5 +1,3 @@
-###DEC-066899-0-000-17-07-1970@@@
-
 Decreto nº 66.899, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 22.718 de 5 de março de 1947.

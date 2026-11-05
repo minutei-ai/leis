@@ -1,5 +1,3 @@
-###DEC-003067-0-000-21-05-1999@@@
-
 DECRETO Nº 3.067, DE 21 DE MAIO DE 1999.
 
 Altera o Decreto nº 2.613, de 3 de junho de 1998, que regulamenta o art. 4º da Lei nº 9.602, de 21 de janeiro de 1998, que trata do Fundo Nacional de Segurança e Educação de Trânsito - FUNSET.

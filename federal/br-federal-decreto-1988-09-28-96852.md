@@ -1,5 +1,3 @@
-###DEC-096852-0-000-28-09-1988@@@
-
 DECRETO Nº 96.852, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão a TV DO POVO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Santos, Estado de São Paulo.

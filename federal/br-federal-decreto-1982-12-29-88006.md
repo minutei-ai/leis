@@ -1,5 +1,3 @@
-###DEC-088006-0-000-29-12-1982@@@
-
 Decreto 88.006, de 29 de dezembro de 1982
 
 Concede à Companhia Siderúrgica Nacional-CSN autorização para proceder a aumento do seu capital social.

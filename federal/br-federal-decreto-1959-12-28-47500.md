@@ -1,5 +1,3 @@
-###DEC-047500-0-000-28-12-1959@@@
-
 Decreto nº 47.500, de 28 de dezembro de 1959.
 
 Autoriza a Companhia Fôrça e Luz Cataguazes-Leopoldina a ampliar suas instalações de energia elétrica.

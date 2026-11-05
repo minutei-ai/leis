@@ -16,10 +16,48 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1881-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR - FFRPPM</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA</td><td style=" width:85px;    ">09 274 0200 7203</td><td style=" width:85px;    ">18030360</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 26.623.799,12</td><td style=" width:85px;    ">R$ 52.400.000,00</td><td style=" width:85px;    ">R$ 79.023.799,12</td></tr></tbody></table>
+**1881-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR - FFRPPM**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">18030360 - RECURSOS VINCULADOS AO SISTEMA DE PROTEÇÃO SOCIAL DOS MILITARES (SPSM)</td><td style=" width:340px;  height:19px;   ">R$ 52.400.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 52.400.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA
+
+09 274 0200 7203
+
+18030360
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 26.623.799,12
+
+R$ 52.400.000,00
+
+R$ 79.023.799,12
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+18030360 - RECURSOS VINCULADOS AO SISTEMA DE PROTEÇÃO SOCIAL DOS MILITARES (SPSM)
+
+R$ 52.400.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 52.400.000,00

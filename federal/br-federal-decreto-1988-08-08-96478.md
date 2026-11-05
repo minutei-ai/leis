@@ -1,5 +1,3 @@
-###DEC-096478-0-000-08-08-1988@@@
-
 DECRETO N.° 96.478, DE 8 DE AGOSTO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Valparaíso, da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

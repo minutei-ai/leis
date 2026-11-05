@@ -1,5 +1,3 @@
-###DEC-076989-0-000-07-01-1976@@@
-
 DECRETO Nº 76.989, DE 7 DE JANEIRO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a janeiro de 1976.

@@ -1,5 +1,3 @@
-###DEC-003481-0-000-23-05-2000@@@
-
 DECRETO Nº 3.481, DE 23 DE MAIO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.271, de 3 de dezembro de 1999.

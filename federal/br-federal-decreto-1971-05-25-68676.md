@@ -1,5 +1,3 @@
-###DEC-068676-0-000-25-05-1971@@@
-
 DECRETO Nº 68.676 - DE 25 DE MAIO DE 1971.
 
 Declara de interêsse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno da Bacia de Irrigação do Açude Público "Ema", no município de Iracema, Estado do Ceará.

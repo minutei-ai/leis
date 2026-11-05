@@ -1,5 +1,3 @@
-###DEC-086973-0-000-02-03-1982@@@
-
 decreto nº 86.973, de 02 de março de 1982
 
 Cassa a concessão outorgada à TELEVISÃO PALOMAS LTDA., para estabelecer, na cidade de Santana do Livramento, Estado do Rio Grande do Sul, uma estação de radiodifusão de sons e imagens (TV).

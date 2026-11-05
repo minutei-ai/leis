@@ -1,5 +1,3 @@
-###DEC-056003-0-000-23-04-1965@@@
-
 DECRETO Nº 56.003, DE 23 DE ABRIL DE 1965.
 
 Autoriza a SACOMEX - Companhia Extrativa de Calcários a pesquisar calcário, no município de Pedro Leopoldo, Estado de Minas Gerais.

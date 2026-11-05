@@ -1,5 +1,3 @@
-###DEC-069267-0-000-23-09-1971@@@
-
 Decreto Nº 69.267, DE 23 DE setembro DE 1971.
 
 Declara de utilidade pública o Serviço de Assistência São José Operário, com sede em Campos, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-058429-0-000-17-05-1966@@@
-
 decreto nº 58.429, de 17 de maio de 1966.
 
 Outorga à Companhia Hidrelétrica São Patrício autorização de estudos para o aproveitamento progressivo de energia hidráulica.

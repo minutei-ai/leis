@@ -1,5 +1,3 @@
-###DEC-085059-0-000-21-08-1980@@@
-
 DECRETO nº 85.059, de 21 de agosto de 1980.
 
 Cria Comissão Especial para propor a atualização da legislação sobre microfilmagem.

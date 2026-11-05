@@ -1,5 +1,3 @@
-###DEC-078565-0-000-11-10-1976@@@
-
 DECRETO Nº 78.565, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Estudos Sociais, de Letras e de Turismo, da Faculdade Ideal de Letras e Ciências Humanas, com sede na Cidade de São Paulo, Estado de São Paulo.

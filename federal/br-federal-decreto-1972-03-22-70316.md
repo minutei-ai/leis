@@ -1,5 +1,3 @@
-###DEC-070316-0-000-22-03-1972@@@
-
 DECRETO Nº 70.316, DE 22 DE MARÇO DE 1972.
 
 Altera a denominação de Faculdades de Ciências Administrativas Pais de Barros para a Faculdade de Administração e Estatística Pais de Barros.

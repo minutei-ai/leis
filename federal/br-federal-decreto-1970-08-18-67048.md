@@ -1,5 +1,3 @@
-###DEC-067048-0-000-13-08-1970@@@
-
 DECRETo Nº 67.048, DE 13 DE AGÔSTO DE 1970.
 
 Aprova o Estatuto da Universidade do Maranhão.

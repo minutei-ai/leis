@@ -1,5 +1,3 @@
-###DEC-088533-0-000-18-07-1983@@@
-
 Decreto nº 88.533, de 18 julho de 1983
 
 Declara de utilidade Pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

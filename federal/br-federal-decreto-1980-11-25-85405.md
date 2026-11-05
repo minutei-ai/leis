@@ -1,5 +1,3 @@
-###DEC-085405-0-000-25-11-1980@@@
-
 Decreto nº 85.405, de 25 de novembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Piratininga da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

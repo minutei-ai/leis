@@ -1,5 +1,3 @@
-###DEC-077460-0-000-19-04-1976@@@
-
 Decreto nº 77.460 - de 19 de abril de 1976
 
 Cria a Comissão para Estudos e Análise da Formação e Carreira dos Oficiais e Praças da Marinha, e dá outras providências.

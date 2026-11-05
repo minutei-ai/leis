@@ -1,5 +1,3 @@
-###DEC-090693-0-000-12-12-1984@@@
-
 Decreto nº 90.693, de 12 de dezembro de 1984
 
 Autoriza o funcionamento de habilitação do curso de Ciências da Fundação Educacional da Região dos Vinhedos.

@@ -1,5 +1,3 @@
-###DEC-048460-0-000-04-07-1960@@@
-
 DECRETO Nº 48.460, DE 4 DE JULHO DE 1960.
 
 Cria a Caravana Brasileira e dá outras providências.

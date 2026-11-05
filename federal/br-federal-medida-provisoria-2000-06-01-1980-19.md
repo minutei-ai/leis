@@ -1,5 +1,3 @@
-###MPV-001980-0-019\-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-19, DE 1 de junho DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

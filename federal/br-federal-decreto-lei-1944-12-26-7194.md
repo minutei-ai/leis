@@ -1,5 +1,3 @@
-###DEL-007194-0-000-26-12-1944@@@
-
 DECRETO-LEI N. 7.194 – DE 26 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal do Paraná

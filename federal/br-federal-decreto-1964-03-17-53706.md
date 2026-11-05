@@ -1,5 +1,3 @@
-###DEC-053706-0-000-17-03-1964@@@
-
 decreto nº 53.706, de 17 de março de 1964.
 
 Altera o Decreto nº 49.130, de 20 de outubro de 1960.

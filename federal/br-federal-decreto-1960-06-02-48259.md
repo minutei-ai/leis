@@ -1,5 +1,3 @@
-###DEC-048259-0-000-02-06-1960@@@
-
 DECRETO Nº 48.259, DE 2 DE JUNHO DE 1960.
 
 Transfere, sem aumento de despesa função de Tabela Numérica Especial de Extranumerário-Mensalista de repartições do Ministério da Agricultura, na forma que menciona.

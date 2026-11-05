@@ -1,5 +1,3 @@
-###DEC-061542-0-000-16-10-1967@@@
-
 DECRETO Nº 61.542, DE 16 DE OUTUBRO DE 1967.
 
 Dá a denominação de Campanhia Especial de Transporte à Companhia Mista de Transporte e a inclui entre as Tropas de Serviços constantes do art. 17 do Decreto nº 41.186, de 20 de março de 1957.

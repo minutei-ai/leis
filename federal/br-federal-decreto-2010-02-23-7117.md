@@ -1,5 +1,3 @@
-###DEC-007117-0-000-23-02-2010@@@
-
 DECRETO Nº 7.117, DE 23 DE FEVEREIRO DE 2010.  <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%207.117-2010?OpenDocument>
 
 Dá nova redação ao parágrafo único do art. 4o do Decreto no 7.092, de 2 de fevereiro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções Gratificadas e das Funções Comissionadas do Departamento Nacional de Produção Mineral -DNPM.

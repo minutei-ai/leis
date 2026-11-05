@@ -1,7 +1,3 @@
-1
-
-###DEL-002344-0-000-23-07-1987@@@
-
 # DECRETO-LEI Nº 2.344, DE 23 DE JULHO DE 1987
 
 Altera o Decreto-lei no 2.333, de 11 de junho de 1987.

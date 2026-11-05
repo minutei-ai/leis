@@ -1,5 +1,3 @@
-###DEC-004961-0-000-20-01-2004@@@
-
 DECRETO Nº 4.961,  DE 20 DE JANEIRO DE 2004.
 
 Regulamenta o art. 45 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre as consignações em folha de pagamento dos servidores públicos civis, dos aposentados e dos pensionistas da administração direta, autárquica e fundacional do Poder Executivo da União, e dá outras providências.

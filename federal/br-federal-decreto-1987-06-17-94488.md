@@ -1,5 +1,3 @@
-###DEC-094488-0-000-17-06-1987@@@
-
 DECRETO N° 94.488, DE 17 DE JUNHO DE 1987
 
 Renova a concessão outorgada à RÁDIO PEREIRA BARRETO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pereira Barreto, Estado de São Paulo.

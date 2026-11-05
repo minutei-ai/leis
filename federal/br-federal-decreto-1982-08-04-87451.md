@@ -1,5 +1,3 @@
-###DEC-087451-0-000-04-08-1982@@@
-
 Decreto nº 87.451, de 04 de agosto de 1982.
 
 Autoriza o aumento do Capital Social da VALENORTE ALUMÍNIO LTDA.

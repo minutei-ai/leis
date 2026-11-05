@@ -1,5 +1,3 @@
-###DEC-057424-0-000-14-12-1965@@@
-
 DECRETO Nº 57.424, de 14 de dezembro de 1965.
 
 Altera dispositivos do Decreto número 51.896, de 9 de abril de 1963, que aprovou o Regimento do Departamento Nacional de Portos e Vias Navegáveis.
@@ -25,8 +23,6 @@ Brasília, 14 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Newton Tornaghi
-
-###DEC-057424-0-000-14-12-1965@@@RET01+++
 
 DECRETO Nº 57.424, de 14 DE DEZEMBRO DE 1965.
 

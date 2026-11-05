@@ -1,5 +1,3 @@
-###DEC-006540-0-000-19-08-2008@@@
-
 DECRETO Nº 6.540, DE 19 DE AGOSTO DE 2008.
 
 Altera e acresce dispositivos ao Decreto n~~º~~ 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência, instituído pela Lei n~~º~~ 9.883, de 7 de dezembro de 1999.

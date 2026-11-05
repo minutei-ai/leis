@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208398)<br>
-
 # DECRETO N° 67.872, DE 13 DE AGOSTO DE 2023
 
 ### _Declara estado de emergência zoossanitária no Estado de São Paulo, por 180 (cento e oitenta) dias, em razão da detecção da infecção pelo vírus da influenza aviária H5N1 de alta patogenicidade (IAAP) em aves silvestres no Brasil._

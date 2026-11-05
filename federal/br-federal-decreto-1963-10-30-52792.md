@@ -1,5 +1,3 @@
-###DEC-052792-0-000-30-10-1963@@@
-
 decreto nº 52.792, de 30 de outubro de 1963.
 
 Concede à P. Franco & Cia autorização para funcionar como emprêsa de mineração.

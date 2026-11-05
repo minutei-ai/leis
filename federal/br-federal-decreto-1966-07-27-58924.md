@@ -1,5 +1,3 @@
-###DEC-058924-0-000-27-07-1966@@@
-
 DECRETO Nº 58.924, DE 27 DE JULHO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Regente Companhia Nacional de Seguros, inclusive aumento do capital social.

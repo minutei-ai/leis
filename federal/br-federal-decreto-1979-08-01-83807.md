@@ -1,5 +1,3 @@
-###DEC-083807-0-000-01-08-1979@@@
-
 DECRETO Nº 83.807, DE 01 DE AGOSTO DE 1979.
 
 Concede autorização a empresa INDÚSTRIAS MONSANTO LTDA., com sede no Estado de São Paulo, para o funcionamento aos domingos e feriados civis e religiosos nos setores que menciona, do seu estabelecimento fabril situado em São José dos Campos, naquele Estado.

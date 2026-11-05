@@ -1,5 +1,3 @@
-###DEC-071057-0-000-01-09-1972@@@
-
 DECRETO Nº 71.057, DE 1 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

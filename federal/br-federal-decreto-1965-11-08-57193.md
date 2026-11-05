@@ -1,5 +1,3 @@
-###DEC-057193-0-000-08-11-1965@@@
-
 DECRETO Nº 57.193, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza a Sociedade Carbonífera Próspera S/A a pesquisar minérios de ferro e de manganês, nos Municípios de Ouro Prêto e Itabirito, Estado de Minas Gerais.

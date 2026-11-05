@@ -1,5 +1,3 @@
-###DEC-053974-0-000-19-06-1964@@@
-
 DECRETO Nº 53.974, DE 19 DE JUNHO DE 1964.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$600.000.000,00, para os fins que especifica.

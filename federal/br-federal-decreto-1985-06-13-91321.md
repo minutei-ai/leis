@@ -1,5 +1,3 @@
-###DEC-091321-0-000-13-06-1985@@@
-
 Decreto nº 91.321, de 13 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Águas de Lindóia da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081773-0-000-07-06-1978@@@
-
 Decreto nº 81.773, de 07 de junho de 1978
 
 Autoriza o serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Prata, Estado da Paraíba.

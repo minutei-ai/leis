@@ -1,5 +1,3 @@
-###DEC-076843-0-000-17-12-1975@@@
-
 DECRETO Nº 76.843, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração de Empresas "Amador Aguiar", com sede na cidade de Osasco, Estado de São Paulo.

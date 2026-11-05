@@ -1,5 +1,3 @@
-###DEC-045048-0-000-12-12-1958@@@
-
 DECRETO Nº 45.048, DE 12 DE DEZEMBRO DE 1958.
 
 Altera o Decreto nº 35.956, de 2 de agôsto de 1954, que regulamenta os arts. 188 a 193 da Lei nº 1.711, de 28 de outubro de 1952, e dá outras providências.

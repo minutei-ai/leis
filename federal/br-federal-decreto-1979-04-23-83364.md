@@ -1,5 +1,3 @@
-###DEC-083364-0-000-23-04-1979@@@
-
 Decreto nº 83.364, de 23 de abril de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro e do Recife, Estado de Pernambuco.

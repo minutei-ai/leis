@@ -1,5 +1,3 @@
-###DEC-069958-0-000-19-01-1972@@@
-
 DECRETO Nº 69.958, DE 19 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Pitangui, com sede em Pitangui , Estado de Minas Gerais.

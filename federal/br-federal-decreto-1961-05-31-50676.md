@@ -1,5 +1,3 @@
-###DEC-050676-0-000-31-05-1961@@@
-
 DECRETO Nº 50.676, DE 31 DE MAIO DE 1961.
 
 Regulamento a cessão dos teatros administrados ou à disposição, sob qualquer forma, do Serviço Nacional de Teatro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003896-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.896 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 360$0, para pagamento de gratificação adicional

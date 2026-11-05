@@ -1,5 +1,3 @@
-###DEC-007554-0-000-15-08-2011-PUB-01@@@
-
 DECRETO Nº 7.554, DE 15 DE AGOSTO DE 2011.
 
 Dispõe sobre a coordenação das atividades públicas nos aeroportos, institui a Comissão Nacional de Autoridades Aeroportuárias - CONAERO e as Autoridades Aeroportuárias.

@@ -1,5 +1,3 @@
-###DEC-057418-0-000-13-12-1965@@@
-
 DECRETO Nº 57.418, DE 13 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública a Legião Brasileira de Assistência, com sede no Estado da Guanabara.

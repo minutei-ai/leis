@@ -1,5 +1,3 @@
-###DEC-077551-0-000-05-05-1976@@@
-
 DECRETO Nº 77.551, DE 5 DE MAIO DE 1976
 
 Concede reconhecimento à habilitação em Biologia da Faculdade de Ciências e Letras de Votuporanga, com sede na cidade de Votuporanga, Estado de São Paulo.

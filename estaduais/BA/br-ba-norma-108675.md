@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica instituído o crédito habitacional para os servidores ocupantes de cargos de provimento permanente, cujo valor da remuneração ou dos proventos mensais não exceda a 6 (seis) salários mínimos, com a finalidade de subsidiar o arrendamento de moradia, e a 10 (dez) salários mínimos, para a aquisição de moradia, visando à melhoria da qualidade de vida das famílias dos servidores públicos da administração direta, autarquias e fundações do Poder Executivo Estadual.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 8.259, de 27 de maio de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8259-de-27-de-maio-de-2002#LO_8_259_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 8.259, de 27 de maio de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8259-de-27-de-maio-de-2002#LO_8_259_Art__1) .
+
 Redação original: "Art. 1º - Fica instituído o crédito habitacional para os servidores ocupantes de cargos de provimento permanente, cujo valor da remuneração ou dos proventos mensais não exceda a R$ 816,00 (oitocentos e dezesseis reais), com a finalidade de subsidiar a aquisição ou o arrendamento de moradia, de forma a proporcionar a melhoria da qualidade de vida das famílias dos servidores públicos dos órgãos da administração direta, autarquias e fundações do Poder Executivo Estadual."
 
 Parágrafo único - O crédito de que trata este artigo não será concedido ao servidor que seja proprietário de imóvel habitacional no Estado da Bahia.
@@ -91,4 +92,4 @@ Paulo Renato Dantas Gaudenzi
 
 Secretário da Cultura e Turismo
 
-* * *
+ *

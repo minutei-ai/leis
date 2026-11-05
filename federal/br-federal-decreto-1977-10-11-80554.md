@@ -1,5 +1,3 @@
-###DEC-080554-0-000-11-10-1977@@@
-
 DECRETO Nº 80.554, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o funcionamento do curso de Administração, da Faculdade Cândido Mendes, com sede na cidade de Nova Friburgo, Estado do Rio de Janeiro.

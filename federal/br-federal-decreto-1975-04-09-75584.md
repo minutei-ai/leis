@@ -1,5 +1,3 @@
-###DEC-075584-0-000-09-04-1975@@@
-
 DECRETO Nº 75.584, DE 9 DE ABRIL DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a abril de 1975,

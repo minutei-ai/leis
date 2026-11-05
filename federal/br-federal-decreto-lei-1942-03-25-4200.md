@@ -1,5 +1,3 @@
-###DEL-004200-0-000-25-03-1942@@@
-
 DECRETO-LEI N. 4.200 – DE 25 DE MARÇO DE 1942
 
 Dispõe sobre as usinas de despolpamento, benefício e rebenefício de café o outras usinas, os moinhos de trigo e as instalações e maquinismos beneficiadores de produtos agrícolas, pertencentes ao Ministério da Agricultura.

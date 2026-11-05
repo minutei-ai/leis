@@ -1,5 +1,3 @@
-###DEC-046221-0-000-12-06-1959@@@
-
 DECRETO Nº 46.221, DE 12 DE JUNHO DE 1959.
 
 Declara de utilização pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno necessária à construção da Rodovia BR-312 - (Vitória-Belo Horizonte), no Estado do Espírito Santo.

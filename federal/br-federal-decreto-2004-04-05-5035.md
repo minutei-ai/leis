@@ -1,5 +1,3 @@
-###DEC-005035-0-000-05-04-2004@@@
-
 DECRETO Nº 5.035, DE 5 DE ABRIL DE 2004
 
 Regulamenta a Lei nº 10.744, de 9 de outubro de 2003, que dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas, atos de guerra ou eventos correlatos, contra aeronaves de matrícula brasileira e operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo.

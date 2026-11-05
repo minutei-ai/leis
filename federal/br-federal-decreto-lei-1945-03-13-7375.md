@@ -1,5 +1,3 @@
-###DEL-007375-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.375 – DE 13 DE MARÇO DE 1945
 
 Dá nova redação ao art. 105 do Decreto-lei nº 2.627, de 26 de setembro de 1940.

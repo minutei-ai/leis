@@ -1,5 +1,3 @@
-###DEC-054655-0-000-29-10-1964@@@
-
 DECRETO Nº 54.655, DE 29 DE OUTUBRO DE 1964.
 
 Renova a autorização contida no Decreto nº 45.887, de 28 de abril de 1959.

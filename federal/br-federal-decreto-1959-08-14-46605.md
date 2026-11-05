@@ -1,5 +1,3 @@
-###DEC-046605-0-000-14-08-1959@@@
-
 DECRETO Nº 46.605, de 14 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Waldemar Calil a pesquisar argila refratária no Município de Mogi das Cruzes, Estado de São Pulo.

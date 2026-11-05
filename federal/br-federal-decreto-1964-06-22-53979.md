@@ -1,5 +1,3 @@
-###DEC-053979-0-000-22-06-1964@@@
-
 Decreto nº 53.979, de 22 de junho de 1964.
 
 Altera o Regulamento da Diretoria do Serviço Geográfico.

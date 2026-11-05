@@ -1,5 +1,3 @@
-###DEC-051178-0-000-10-08-1961@@@
-
 Decreto nº 51.178, de 10 de agôsto de 1961.
 
 Outorga concessão à “Rádio Educadora do Maranhão Rural, Limitada” para estabelecer uma estação radiodifusora de onda média na cidade de São Luiz, Estado do Maranhão.

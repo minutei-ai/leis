@@ -1,5 +1,3 @@
-###DEC-066919-0-000-20-07-1970@@@
-
 DECRETO Nº 66.919, DE 20 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 22.867, de 7 de abril de 1947.

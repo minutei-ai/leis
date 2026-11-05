@@ -1,5 +1,3 @@
-###DEL-006564-0-000-07-06-1944@@@
-
 DECRETO-LEI N. 6.564 – DE 7 DE JUNHO DE 1944
 
 Dispõe sôbre reforma, por incapacidade física, de alunos da Escola Militar, da Escola de Intendência e das Escola Preparatórias

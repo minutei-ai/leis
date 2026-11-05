@@ -1,5 +1,3 @@
-###DEC-079239-0-000-10-02-1977@@@
-
 dECRETO N.º 79.239, DE 10 DE Fevereiro DE 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, do Instituto de Teologia, Filosofia e Ciências Humanas da Universidade Católica de Petrópolis.

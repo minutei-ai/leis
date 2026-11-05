@@ -1,5 +1,3 @@
-###DEL-005160-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.160 – DE 31 DE DEZEMBRO DE 1942
 
 Fixa as autoridades que dispõem de Ajudantes de Ordens e dá outras providências

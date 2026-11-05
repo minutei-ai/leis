@@ -1,5 +1,3 @@
-###DEL-005732-0-000-06-08-1943@@@
-
 DECRETO‑LEI N. 5.732 – DE 6 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 19.643,00 para pagamento da contribuïção devida em 1942 ao Instituto de Aposentadoria e Pensões dos Industriários, e dá outras providências

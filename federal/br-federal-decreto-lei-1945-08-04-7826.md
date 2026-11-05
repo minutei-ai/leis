@@ -1,5 +1,3 @@
-###DEL-007826-0-000-04-08-1945@@@
-
 DECRETO-LEI N. 7.826 – DE 4 DE AGÔSTO DE 1945
 
 Autoriza o Estado do Rio Grande do Sul a assegurar a liquidação das dividas de orizicultores sulriograndenses.

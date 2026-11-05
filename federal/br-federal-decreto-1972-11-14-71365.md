@@ -1,5 +1,3 @@
-###DEC-071365-0-000-14-11-1972@@@
-
 DECRETO Nº 71.365 - DE 14 DE NOVEMBRO DE 1972.
 
 Acrescenta parágrafo ao artigo 9º do Decreto nº 70.623, de 25 de maio de 1972.

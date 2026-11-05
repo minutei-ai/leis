@@ -1,5 +1,3 @@
-###DEC-049962-0-000-19-01-1961@@@
-
 DECRETO Nº 49.962, DE 19 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Sociedade Guairacá Limitada para instalar uma estação radiodifusora.

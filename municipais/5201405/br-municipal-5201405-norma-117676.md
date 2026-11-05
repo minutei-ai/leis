@@ -44,5 +44,6 @@ Art. 9º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 23 de setembro de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

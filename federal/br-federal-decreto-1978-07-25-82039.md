@@ -1,5 +1,3 @@
-###DEC-082039-0-000-25-07-1978@@@
-
 Decreto nº 82.039, de 25 de julho de 1978.
 
 Cria os Vice-Consulados do Brasil em Nassau e Willemstad, e dá outras proviências.

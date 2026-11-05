@@ -1,14 +1,12 @@
-###DEC-026532-0-000-30-03-1949@@@
+**DECRETO Nº 26.532, DE 30 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.532, DE 30 DE MARÇO DE 1949.</strong>
+***Declara de utilidade pública diversas áreas de terra, autorizando a “The São Paulo Tramway, Light and Power Co. Ltd.” a desapropriá-las.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra, autorizando a “The São Paulo Tramway, Light and Power Co. Ltd.” a desapropriá-las.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição, tendo em vista o requerido pela interessada e o disposto nos artigos 3º, 5º, alínea *f* e 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e Decreto-lei número 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição, tendo em vista o requerido pela interessada e o disposto nos artigos 3º, 5º, alínea <em>f</em> e 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e Decreto-lei número 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam consideradas de utilidade pública diversas áreas de terra abaixo discriminadas e indicadas na planta nº 326.084, escala 1:2000 apresentadas em quatro (4  vias, “<em>The São Paulo Tramway, Light and Power Co. Ltd.</em>“, áreas estas situadas na faixa percorrida pela linha de transmissão de energia elétrica derivada da linha Cubatão-São Caetano, nas imediações da tôrre nº 83, até a subestação a ser localizada na rua Bela Vista, em São Bernardo do Campo, cuja construção foi autorizada pelo Decreto nº 25.188, de 7 de julho de 1948, a “<em>The São Paulo Tramway Light and Power Co. Ltd</em>.“.
+**Art**. 1º Ficam consideradas de utilidade pública diversas áreas de terra abaixo discriminadas e indicadas na planta nº 326.084, escala 1:2000 apresentadas em quatro (4  vias, “*The São Paulo Tramway, Light and Power Co. Ltd.*“, áreas estas situadas na faixa percorrida pela linha de transmissão de energia elétrica derivada da linha Cubatão-São Caetano, nas imediações da tôrre nº 83, até a subestação a ser localizada na rua Bela Vista, em São Bernardo do Campo, cuja construção foi autorizada pelo Decreto nº 25.188, de 7 de julho de 1948, a “*The São Paulo Tramway Light and Power Co. Ltd*.“.
 
 1\. área de 4.716,78 (quatro mil setecentos e dezesseis vírgula setenta e oito) metros quadrados de propriedade atribuída a José Martineli;
 
@@ -38,14 +36,14 @@
 
 14\. área de 3.040,00 (três mil e quarenta) metros quadrados, de propriedade atribuída à Quirino B. de Oliveira Lima.
 
-<strong>Art</strong>. 2º A “<em>The São Paulo Tramway, Light and Power Co. Ltd</em>.“, fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento nos arts. 3º, 5º alínea <em>f</em> e 15 do Decreto-lei número 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º do Decreto-lei número 4.152, de 6 de março de 1942, já citados.
+**Art**. 2º A “*The São Paulo Tramway, Light and Power Co. Ltd*.“, fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento nos arts. 3º, 5º alínea *f* e 15 do Decreto-lei número 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º do Decreto-lei número 4.152, de 6 de março de 1942, já citados.
 
-<strong>Art</strong>. 3º O presente decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 30 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

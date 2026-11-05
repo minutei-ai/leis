@@ -1,5 +1,3 @@
-###DEC-003887-0-000-16-08-2001@@@
-
 DECRETO Nº 3.887, DE 16 DE AGOSTO DE 2001
 
 Regulamenta o art. 22 da Lei nº 8.460, de 17 de setembro de 1992, que dispõe sobre o auxílio-alimentação destinado aos servidores civis ativos da Administração Pública Federal direta, autárquica e fundacional.

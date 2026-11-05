@@ -1,5 +1,3 @@
-###DEC-000000-0-000-21-03-1823@@@
-
 DECRETO - DE 21 DE MARÇO DE 1823
 
 Commuta as penas de diversos presos para serem empregados como soldados ou marinheiros a bordo dos navios da Armada Nacional.

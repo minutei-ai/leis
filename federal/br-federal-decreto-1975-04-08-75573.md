@@ -1,5 +1,3 @@
-###DEC-075573-0-000-08-04-1975@@@
-
 DECRETO Nº 75.573, DE 8 DE ABRIL DE 1975.
 
 Concede reconhecimento aos cursos de Administração e de Comunicação Social da Faculdade de Ciências Jurídicas e Administrativas de Itapetininga, mantida pela Fundação Karnig Bazarian, com sede na Cidade de Itapetitinga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-092471-0-000-19-03-1986@@@
-
 DECRETO Nº 92.471, DE 19 DE MARÇO DE 1986
 
 Concede à FUNDAÇÃO ESCOLAR KOKUSHIKAN, autorização para funcionar com uma filial no Brasil.

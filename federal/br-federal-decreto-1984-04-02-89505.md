@@ -1,5 +1,3 @@
-###DEC-089505-0-000-02-04-1984@@@
-
 DECRETO Nº 89.505, DE 2 DE ABRIL DE 1984.
 
 Declara Luto Oficial.

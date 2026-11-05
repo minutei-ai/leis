@@ -1,7 +1,3 @@
-1
-
-###DEC-001598-0-000-21-08-1995@@@
-
 DECRETO Nº 1.598, DE 21 DE aGOSTO DE 1995.
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 26, entre Brasil e Bolívia, de 15 de novembro de 1994.

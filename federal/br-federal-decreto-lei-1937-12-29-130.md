@@ -1,5 +1,3 @@
-###DEL-000130-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 130 – DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 3:500$000 para refôrço de sub-consignação da verba 10 –  Diretoria de Segurança – do vigente orçamento da Prefeitura do Distrito Federal

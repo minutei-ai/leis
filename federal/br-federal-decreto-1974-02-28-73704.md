@@ -1,5 +1,3 @@
-###DEC-073704-0-000-28-02-1974@@@
-
 DECRETO Nº 73.704, DE 28 DE FEVEREIRO DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Sociedade de Guairacá Ltda., atualmente denominada Rádio Iguaçu de Curitiba Ltda., para executar serviço de radiodifusão sonora em onda curta, na Cidade de Curitiba, Estado do Paraná.

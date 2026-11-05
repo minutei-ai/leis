@@ -1,5 +1,3 @@
-###DEC-051286-0-000-25-08-1961@@@
-
 Decreto nº 51.286, de 25 de agôsto de 1961.
 
 Declara caduco o Decreto nº 22.067, de 18 de novembro de 1946.

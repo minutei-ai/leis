@@ -1,5 +1,3 @@
-###DEC-070404-0-000-13-04-1972@@@
-
 DECRETO Nº 70.404, DE 13 DE ABRIL DE 1972.
 
 Revoga os Decretos nºs 12.586, de 25 de julho de 1917, e 13.344, de 18 de dezembro de 1918, que concederam à empresa Vils, Johnson & Co. A/S autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

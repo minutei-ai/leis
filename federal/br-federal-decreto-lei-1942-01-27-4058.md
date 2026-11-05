@@ -1,5 +1,3 @@
-###DEL-004058-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.058 – DE 27 DE JANEIRO DE 1942
 
 Dispõe sobre adiantamentos entregues pela Delegacia do Tesouro em Nova York para despesas referentes à Defesa Nacional

@@ -1,5 +1,3 @@
-###DEL-005911-0-000-22-10-1943@@@
-
 DECRETO‑LEI N. 5.911 – DE 22 DE OUTUBRO DE 1943
 
 Cria uma coletoria federal no município de Cornélio Procópio, no Estado do Paraná e dá outras providências
@@ -18,7 +16,15 @@ VERBA 1 – PESSOAL
 
 Consignação I –  Pessoal Permanente
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:404.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>s/c. n. 01 – Pessoal</span><span style="-aw-import:spaces">&nbsp; </span><span>Permanente</span><span style="-aw-import:spaces">&nbsp; </span><span>..........................................................................................</span></p></td><td style="width:60.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 1.00000</span></p></td></tr><tr><td style="width:404.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S/c. n. 02 – Porcentagens .......................................................................................................</span></p></td><td style="width:60.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ </span><span style="text-decoration:underline">2.75000</span></p></td></tr><tr><td style="width:404.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>&nbsp;</span></p></td><td style="width:60.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ </span><span style="text-decoration:underline">3.75000</span></p></td></tr></tbody></table>
+s/c. n. 01 – Pessoal  Permanente  ..........................................................................................
+
+Cr$ 1.00000
+
+S/c. n. 02 – Porcentagens .......................................................................................................
+
+Cr$ 2.75000
+
+Cr$ 3.75000
 
 Art. 4º O presente decreto‑lei entra em vigor na data de sua publicação.
 

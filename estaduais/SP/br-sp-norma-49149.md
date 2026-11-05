@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/49149)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2003/compilacao-lei-11600-19.12.2003.html)
 
 # LEI N° 11.600, DE 19 DE DEZEMBRO DE 2003
@@ -7,10 +6,12 @@
 
 ### _Dispõe sobre a regularização de posse em terras devolutas da 10ª Região Administrativa do Estado e dá outras providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
-~~Artigo 1.° - Em áreas de terras devolutas estaduais não superiores a 500ha (quinhentos hectares), situadas nos Municípios da 10ª Região Administrativa do Estado, inaptas à implantação de projetos de assentamentos fundiários, cujas posses não sejam passíveis de legitimação ou outorga de permissão de uso, poder-se-á aplicar o instituto da regularização de posse, na forma e condições estabelecidas nesta lei.~~<br>
+~~Artigo 1.° - Em áreas de terras devolutas estaduais não superiores a 500ha (quinhentos hectares), situadas nos Municípios da 10ª Região Administrativa do Estado, inaptas à implantação de projetos de assentamentos fundiários, cujas posses não sejam passíveis de legitimação ou outorga de permissão de uso, poder-se-á aplicar o instituto da regularização de posse, na forma e condições estabelecidas nesta lei.~~
+
 ~~Parágrafo único - A Fazenda Estadual poderá desistir da discriminação das áreas não superiores a 500ha (quinhentos hectares) mediante transação judicial homologada nos autos das respectivas ações discriminatórias, observadas as condições de pagamento previstas no Artigo 2.° desta lei.~~
 
 **Artigo 1° -** Em áreas de terras devolutas estaduais não superiores a 15 (quinze) módulos fiscais, vigentes na data da publicação desta lei, situadas nos Municípios da 10ª Região Administrativa do Estado, cujas posses não sejam passíveis de legitimação ou outorga de permissão de uso, poder-se-á aplicar o instituto da regularização de posse, na forma e condições estabelecidas nesta lei. (NR)
@@ -73,10 +74,14 @@ _\- § 4° acrescentado pela [Lei n° 18.294, de 14/10/2025](https://www.al.sp.g
 
 _\- § 5° acrescentado pela [Lei n° 18.294, de 14/10/2025](https://www.al.sp.gov.br/norma/211665)._
 
-**Artigo 3.° -** A regularização de posse será processada perante a unidade competente da Procuradoria Geral do Estado, participando da instrução a Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva".<br>
-**§ 1.° -** Verificada a existência de gleba devoluta e respectivo ocupante, nas condições estabelecidas nos Artigos 1.° e 2.° desta lei, será ele intimado a manifestar, no prazo de 30 (trinta) dias, seu interesse na aquisição das terras.<br>
-**§ 2.° -** A intimação será promovida por meio de carta contra recibo ou, no caso de recusa de recebimento, mediante edital publicado uma vez no Diário Oficial do Estado e em jornal de grande circulação local.<br>
-**§ 3.° -** As terras devolutas encontradas vagas e as declaradas de interesse e não passíveis de regularização, desde que sejam objeto de decisão judicial transitada em julgado ou acordo extra-judicial, devidamente homologado, serão incorporadas ao patrimônio do Estado e destinadas, preferencialmente, para projetos de assentamento de trabalhadores rurais.<br>
+**Artigo 3.° -** A regularização de posse será processada perante a unidade competente da Procuradoria Geral do Estado, participando da instrução a Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva".
+
+**§ 1.° -** Verificada a existência de gleba devoluta e respectivo ocupante, nas condições estabelecidas nos Artigos 1.° e 2.° desta lei, será ele intimado a manifestar, no prazo de 30 (trinta) dias, seu interesse na aquisição das terras.
+
+**§ 2.° -** A intimação será promovida por meio de carta contra recibo ou, no caso de recusa de recebimento, mediante edital publicado uma vez no Diário Oficial do Estado e em jornal de grande circulação local.
+
+**§ 3.° -** As terras devolutas encontradas vagas e as declaradas de interesse e não passíveis de regularização, desde que sejam objeto de decisão judicial transitada em julgado ou acordo extra-judicial, devidamente homologado, serão incorporadas ao patrimônio do Estado e destinadas, preferencialmente, para projetos de assentamento de trabalhadores rurais.
+
 **Artigo 4.° -** As terras devolutas a que se refere esta lei são aquelas apuradas em discriminação judicial ou administrativa.
 
 ~~Artigo 5.° - Deverá constar do Título de Domínio, assim como do memorial descritivo e da planta, a descrição de reserva legal obrigatória de, no mínimo, 20% (vinte por cento) da área, para efeito de preservação ambiental.~~
@@ -125,12 +130,18 @@ _\- "Caput" acrescentado pela [Lei n° 18.294, de 14/10/2025](https://www.al.sp.
 
 _\- Parágrafo único acrescentado pela [Lei n° 18.294, de 14/10/2025](https://www.al.sp.gov.br/norma/211665)._
 
-**Artigo 6.° -** São terras devolutas reservadas:<br>
-**I -** as necessárias à implantação de estabelecimento público federal, estadual ou municipal;<br>
-**II -** as adjacentes às quedas d’água passíveis de aproveitamento industrial em instalações hidráulicas ou na produção de energia hidroelétrica;<br>
-**III -** as que contenham minas e fontes de águas minerais e termais passíveis de utilização industrial, terapêutica ou higiênica, bem como os terrenos adjacentes necessários à sua exploração;<br>
-**IV -** as que constituam margens de rios e de lagos navegáveis, compreendidas em uma faixa de 15m (quinze metros), contados a partir das enchentes ordinárias;<br>
-**V -** as necessárias à consecução de qualquer outro fim de interesse público, devidamente caracterizado em lei ou ato regulamentar.<br>
+**Artigo 6.° -** São terras devolutas reservadas:
+
+**I -** as necessárias à implantação de estabelecimento público federal, estadual ou municipal;
+
+**II -** as adjacentes às quedas d’água passíveis de aproveitamento industrial em instalações hidráulicas ou na produção de energia hidroelétrica;
+
+**III -** as que contenham minas e fontes de águas minerais e termais passíveis de utilização industrial, terapêutica ou higiênica, bem como os terrenos adjacentes necessários à sua exploração;
+
+**IV -** as que constituam margens de rios e de lagos navegáveis, compreendidas em uma faixa de 15m (quinze metros), contados a partir das enchentes ordinárias;
+
+**V -** as necessárias à consecução de qualquer outro fim de interesse público, devidamente caracterizado em lei ou ato regulamentar.
+
 ~~Artigo 7.° - Os serviços técnicos de medição e demarcação serão realizados pela Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva", arcando o ocupante com seus custos, que deverão ser pagos previamente, na forma a ser estabelecida em regulamento.~~
 
 **Artigo 7° -** A Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva" - ITESP poderá realizar os serviços técnicos de medição, demarcação e classificação do imóvel, mediante solicitação do interessado e prévia remuneração dos serviços a serem realizados, com base em tabela de preços dos serviços técnicos, fixada por meio de portaria publicada na imprensa oficial. (NR)
@@ -197,7 +208,8 @@ _\- Artigo 10 com redação dada pela [Lei n° 18.294, de 14/10/2025](https://ww
 
 _\- Artigo 11 com redação dada pela [Lei n° 14.750, de 27/04/2012](https://www.al.sp.gov.br/norma/166923)._
 
-**§ 1.° -** No caso de gleba com área superior a 100ha (cem hectares), o valor da parcela não poderá ser inferior a 20 (vinte) Unidades Fiscais do Estado de São Paulo - UFESPs.<br>
+**§ 1.° -** No caso de gleba com área superior a 100ha (cem hectares), o valor da parcela não poderá ser inferior a 20 (vinte) Unidades Fiscais do Estado de São Paulo - UFESPs.
+
 **§ 2.° -** Ocorrendo atraso no pagamento de parcela, serão cobrados juros de mora de 1% (um por cento) ao mês, calculados "pro rata die", e, em caso de atraso superior a 30 (trinta) dias, multa de 2% (dois por cento) sobre o valor da parcela cujo pagamento não foi efetuado.
 
 ~~**§ 3.° -** A falta de pagamento de 3 (três) parcelas implicará a rescisão do compromisso de venda e compra, perdendo o ocupante 30% (trinta por cento) sobre os valores já pagos.~~
@@ -226,35 +238,60 @@ _\- Parágrafo único com redação dada pela [Lei n° 18.294, de 14/10/2025](ht
 
 _\- Vide alínea "n" do inciso IX do artigo 2° do Anexo I do [Decreto n° 69.664, de 29/06/2025](https://www.al.sp.gov.br/norma/211123)._
 
-**Artigo 14 -** São objetivos do Fundo:<br>
-**I -** financiar e investir em programas e projetos de interesse da área;<br>
-**II -** apropriar tecnologia para a modernização das atividades produtivas da área;<br>
-**III -** contribuir com recursos técnicos e financeiros para a melhoria dos serviços públicos municipais;<br>
-**IV -** acompanhar e controlar a execução dos programas e projetos financiados pelo Fundo;<br>
-**V -** participar das atividades de planejamento regional do Pontal do Paranapanema;<br>
-**VI -** contribuir com recursos técnicos e financeiros para a regularização fundiária da região.<br>
-**Artigo 15 -** Constituirão receitas do Fundo:<br>
-**I -** dotação específica consignada anualmente no orçamento do Estado e os créditos suplementares que lhe forem destinados;<br>
-**II -** doações feitas por particulares ou por instituições de direito público ou privado;<br>
-**III -** o produto de suas operações de crédito, rendimentos e juros provenientes da aplicação de seus recursos;<br>
+**Artigo 14 -** São objetivos do Fundo:
+
+**I -** financiar e investir em programas e projetos de interesse da área;
+
+**II -** apropriar tecnologia para a modernização das atividades produtivas da área;
+
+**III -** contribuir com recursos técnicos e financeiros para a melhoria dos serviços públicos municipais;
+
+**IV -** acompanhar e controlar a execução dos programas e projetos financiados pelo Fundo;
+
+**V -** participar das atividades de planejamento regional do Pontal do Paranapanema;
+
+**VI -** contribuir com recursos técnicos e financeiros para a regularização fundiária da região.
+
+**Artigo 15 -** Constituirão receitas do Fundo:
+
+**I -** dotação específica consignada anualmente no orçamento do Estado e os créditos suplementares que lhe forem destinados;
+
+**II -** doações feitas por particulares ou por instituições de direito público ou privado;
+
+**III -** o produto de suas operações de crédito, rendimentos e juros provenientes da aplicação de seus recursos;
+
 ~~**IV -** os valores recebidos na regularização de posse disciplinada por esta lei;~~
 
 **IV -** revogado;
 
 _\- Inciso IV revogado pela [Lei n° 18.294, de 14/10/2025](https://www.al.sp.gov.br/norma/211665)._
 
-**V -** outras receitas.<br>
-**Artigo 16 -** A aplicação dos recursos do Fundo será feita com a observância dos seguintes critérios:<br>
-**I -** 50% (cinqüenta por cento) serão destinados à  Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva", para aplicação na infra-estrutura e no desenvolvimento dos projetos de assentamento situados na 10ª Região Administrativa do Estado;<br>
-**II -** 50% (cinqüenta por cento) serão destinados, para aplicação em infra-estrutura, aos Municípios situados na 10ª Região Administrativa do Estado que possuam em seus territórios projetos de assentamento.<br>
-**§ 1.° -** A aplicação dos recursos será supervisionada por um Conselho de Orientação, composto por 11 (onze) membros, nomeados pelo Governador.<br>
-**§ 2.° -** O Conselho referido no § 1.° será constituído em 60 (sessenta) dias e suas atribuições serão definidas em regulamento dentro de 30 (trinta) dias, contados da publicação desta lei.<br>
-**Artigo 17 -** O procedimento administrativo para a regularização de posse observará a disciplina formal estabelecida em decreto, a ser expedido no prazo de 90 (noventa) dias, contados da data da publicação desta lei.<br>
-**Artigo 18 -** Esta lei entra em vigor na data de sua publicação, ficando revogada a [Lei n. 7.523, de 10 de outubro de 1991](https://www.al.sp.gov.br/norma/19611).<br>
-Palácio dos Bandeirantes, 19 de dezembro de 2003.<br>
-GERALDO ALCKMIN<br>
-Alexandre de Moraes<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Arnaldo Madeira<br>
-Secretário-Chefe da Casa Civil<br>
+**V -** outras receitas.
+
+**Artigo 16 -** A aplicação dos recursos do Fundo será feita com a observância dos seguintes critérios:
+
+**I -** 50% (cinqüenta por cento) serão destinados à  Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva", para aplicação na infra-estrutura e no desenvolvimento dos projetos de assentamento situados na 10ª Região Administrativa do Estado;
+
+**II -** 50% (cinqüenta por cento) serão destinados, para aplicação em infra-estrutura, aos Municípios situados na 10ª Região Administrativa do Estado que possuam em seus territórios projetos de assentamento.
+
+**§ 1.° -** A aplicação dos recursos será supervisionada por um Conselho de Orientação, composto por 11 (onze) membros, nomeados pelo Governador.
+
+**§ 2.° -** O Conselho referido no § 1.° será constituído em 60 (sessenta) dias e suas atribuições serão definidas em regulamento dentro de 30 (trinta) dias, contados da publicação desta lei.
+
+**Artigo 17 -** O procedimento administrativo para a regularização de posse observará a disciplina formal estabelecida em decreto, a ser expedido no prazo de 90 (noventa) dias, contados da data da publicação desta lei.
+
+**Artigo 18 -** Esta lei entra em vigor na data de sua publicação, ficando revogada a [Lei n. 7.523, de 10 de outubro de 1991](https://www.al.sp.gov.br/norma/19611).
+
+Palácio dos Bandeirantes, 19 de dezembro de 2003.
+
+GERALDO ALCKMIN
+
+Alexandre de Moraes
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Arnaldo Madeira
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 19 de dezembro de 2003.

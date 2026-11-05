@@ -1,5 +1,3 @@
-###DEC-085586-0-000-29-12-1980@@@
-
 Decreto nº 85.586, de 29 de dezembro de 1980.
 
 Suspende, por inconstitucionalidade, a execução da Emenda Constitucional nº 10, promulgada pela Assembléia Legislativa do Estado de São Paulo.

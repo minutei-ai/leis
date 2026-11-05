@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209070)<br>
-
 # DECRETO N° 68.299, DE 03 DE JANEIRO DE 2024
 
 ### _Institui Grupo de Trabalho com o objetivo de orientar a elaboração de estudos, propostas de ações e demais providências destinadas à aplicação, no âmbito do Poder Executivo, dos §§ 2° e 3° do artigo 98 da Lei federal n° 8.112, de 11 de dezembro de 1990._

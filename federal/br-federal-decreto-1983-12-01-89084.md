@@ -1,5 +1,3 @@
-###DEC-089084-0-000-01-12-1983@@@
-
 Decreto nº 89.084, de 01 de dezembro de 1983
 
 Altera a sistemática de liberação dos recursos financeiros do Programa de Desenvolvimento de Áreas Integradas do Nordeste (POLONORDESTE) e do Programa Integrado de Desenvolvimento do Noroeste do Brasil (POLONOROESTE), e dá outras providências.

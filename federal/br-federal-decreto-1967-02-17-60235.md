@@ -1,5 +1,3 @@
-###DEC-060235-0-000-17-02-1967@@@
-
 DECRETO Nº 60.235, DE 17 DE FEVEREIRO DE 1967.
 
 Altera o Regimento da Contadoria Geral da República, aprovado pelo Decreto nº 1.508, de 12 de novembro de 1962.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001233-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.233, DE 14 DE DEZEMBRO DE 1995.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

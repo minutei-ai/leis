@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a04d0692-ce27-4d82-a003-832ce273ff41/texto#nowhere)
 
-###DEL-000868-0-000-12-09-1969@@@
-
 DECReto-LEI Nº 868, DE 12 DE dezEMBRO DE 1969
 
 Altera o artigo 4º do Decreto-lei número 690, de 18 de julho de 1969.

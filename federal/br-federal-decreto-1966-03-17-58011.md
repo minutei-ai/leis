@@ -1,5 +1,3 @@
-###DEC-058011-0-000-17-03-1966@@@
-
 DECRETO Nº 58.011, DE 17 DE MARÇO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Mauá Companhia de Seguros Gerais, inclusive mudança de denominação e aumento do capital social.

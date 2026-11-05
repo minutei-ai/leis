@@ -1,5 +1,3 @@
-###DEC-007475-0-000-10-05-2011-PUB-01@@@
-
 DECRETO Nº 7.475, DE 10 DE MAIO DE 2011
 
 Dispõe sobre a composição dos órgãos estatutários da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO.

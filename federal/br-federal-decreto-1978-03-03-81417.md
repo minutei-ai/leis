@@ -1,5 +1,3 @@
-###DEC-081417-0-000-03-03-1978@@@
-
 Decreto nº 81.417, de 03 de março de 1978.
 
 Fixa o Valor da Bolsa Especial do aluno Monitor, instituída pelo Decreto nº 66.315, de 13 de março de 1970.

@@ -1,5 +1,3 @@
-###DEC-081564-0-000-13-04-1978@@@
-
 Decreto nº 81.564, de 13 de abril de 1978.
 
 Fixa o fator de reajustamento salarial relativo a abril de 1978.

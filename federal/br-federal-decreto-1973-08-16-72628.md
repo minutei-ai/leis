@@ -1,5 +1,3 @@
-###DEC-072628-0-000-16-08-1973@@@
-
 DECRETO Nº 72.628, de 16 de agosto de 1973.
 
 Concede à Usina Queiroz Júnior S.A. - Indústria Siderúrgica o direito de lavrar minério de ferro no Município de Itabirito, Estado de Minas Gerais.

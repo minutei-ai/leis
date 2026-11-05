@@ -1,5 +1,3 @@
-###DEC-059187-0-000-08-09-1966@@@
-
 DECRETO Nº 59.187, DE 8 DE SETEMBRO DE 1966.
 
 Autorização o cidadão brasileiro Ubirajara Keutenedjiam a pesquisar mármore no município de Rio Branco do Sul, Estado do Paraná.

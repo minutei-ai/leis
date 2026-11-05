@@ -1,5 +1,3 @@
-###DEC-071841-0-000-15-02-1973@@@
-
 DECRETO Nº 71.841, DE 15 DE FEVEREIRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil e respectivas benfeitorias do imóvel que menciona, necessário ao Ministério do Exército.

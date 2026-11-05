@@ -1,5 +1,3 @@
-###DEC-091575-0-000-27-08-1985@@@
-
 DECRETO Nº 91.575, DE 27 DE AGOSTO DE 1985
 
 Aprova o Regulamento do Fundo do Exército (R-198).

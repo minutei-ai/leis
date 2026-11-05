@@ -1,5 +1,3 @@
-###DEC-081249-0-000-23-01-1978@@@
-
 Decreto nº 81.249, de 23 de janeiro de 1978.
 
 Acrescenta dispositivo ao Decreto nº 71.733, de 18 de janeiro de 1973, que regulamenta a Lei nº 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior.

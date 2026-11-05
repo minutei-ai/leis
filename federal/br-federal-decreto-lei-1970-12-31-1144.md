@@ -1,5 +1,3 @@
-###DEL-001144-0-000-31-12-1970@@@
-
 # DECRETO-lei Nº 1.144, DE 31 DEZeMbRO DE 1970
 
 Dispõe sôbre a convocação de Substitutos de Auditor na Justiça Militar.

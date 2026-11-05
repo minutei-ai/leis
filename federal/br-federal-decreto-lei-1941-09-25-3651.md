@@ -1,5 +1,3 @@
-###DEL-003651-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.651 – DE 25 DE SETEMBRO DE 1941
 
 Dá nora redação ao Código Nacional de Trânsito

@@ -1,16 +1,14 @@
-###DEC-042886-0-000-26-12-1957@@@
+**DECRETO Nº 42.886, DE 26 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.886, DE 26 DE DEZEMBRO DE 1957.</strong>
+***Declara de utilidade pública diversas áreas de terra compreendidas na faixa de linha de transmissão a ser construída entre a Usina da cachoeira do França e a fábrica de alumínio da Companhia Brasileira de Alumínio, situada no município de São Roque, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover as providências necessárias à sua utilização.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra compreendidas na faixa de linha de transmissão a ser construída entre a Usina da cachoeira do França e a fábrica de alumínio da Companhia Brasileira de Alumínio, situada no município de São Roque, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover as providências necessárias à sua utilização.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e no Decreto nº 41.815, de 10 de julho de 1957;
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e no Decreto nº 41.815, de 10 de julho de 1957;
 
 CONSIDERANDO ainda o requerido pela Companhia Brasileira de Alumínio,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra, situadas nos municípios de Ibiúna e São Roque do Estado de São Paulo, constantes da planta nº 3.474 aprovada pelo Diretor do Departamento Nacional da Produção Mineral do Ministério da Agricultura, compreendidas na faixa de linha de transmissão a ser construída pela Companhia Brasileira de Alumínio entre a usina da cachoeira do França, e a fábrica de Alumínio da Companhia Brasileira de Alumínio, objeto da concessão outorgada pelo Decreto nº 30.617, de 10 de março de 1952, complementado pelo de nº 31.877, de 3 de dezembro de 1952:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra, situadas nos municípios de Ibiúna e São Roque do Estado de São Paulo, constantes da planta nº 3.474 aprovada pelo Diretor do Departamento Nacional da Produção Mineral do Ministério da Agricultura, compreendidas na faixa de linha de transmissão a ser construída pela Companhia Brasileira de Alumínio entre a usina da cachoeira do França, e a fábrica de Alumínio da Companhia Brasileira de Alumínio, objeto da concessão outorgada pelo Decreto nº 30.617, de 10 de março de 1952, complementado pelo de nº 31.877, de 3 de dezembro de 1952:
 
 1 - Área de 250.650m² (duzentos e cinqüenta mil seiscentos e cinqüenta metros quadrados), de propriedade atribuída a Noda de tal e Laurindo Nunes;
 
@@ -94,9 +92,9 @@ CONSIDERANDO ainda o requerido pela Companhia Brasileira de Alumínio,
 
 41 - Área de 7.260m² (sete mil duzentos e sessenta metros quadrados) de propriedade atribuída a Alcides de tal;
 
-42 - Área de 44.550m² (quarenta e quatro mil quinhentos e cinqüenta metros quadrados) de propriedade atribuída a <em>The</em> São Paulo <em>Light</em> <em>and</em> <em>Power</em> <em>Company</em> <em>Limited</em>.
+42 - Área de 44.550m² (quarenta e quatro mil quinhentos e cinqüenta metros quadrados) de propriedade atribuída a *The* São Paulo *LightandPowerCompanyLimited*.
 
-<strong>MUNICÍPIO DE SÃO ROQUE</strong>
+**MUNICÍPIO DE SÃO ROQUE**
 
 43 - Área de 57.090m² (cinqüenta e sete mil e noventa metros quadrados) de propriedade atribuída a Dr. José Cabral;
 
@@ -106,34 +104,32 @@ CONSIDERANDO ainda o requerido pela Companhia Brasileira de Alumínio,
 
 46 - Área de 37.200m² (trinta e sete mil e duzentos metros quadrados) de propriedade atribuída a Dario Ceriani.
 
-<strong>Art</strong>. 2º A Companhia Brasileira de Alumínio fica autorizada a promover a desapropriação do domínio pleno das glebas, onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 2º A Companhia Brasileira de Alumínio fica autorizada a promover a desapropriação do domínio pleno das glebas, onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 3º Quando não for necessário proceder-se à desapropriação do domínio pleno, fica constituída em favor da Companhia e para o fim indicado, a servidão necessária, compreendendo o direito atribuído a mesma de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
+**Art**. 3º Quando não for necessário proceder-se à desapropriação do domínio pleno, fica constituída em favor da Companhia e para o fim indicado, a servidão necessária, compreendendo o direito atribuído a mesma de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
 
 Parágrafo único. A Companhia Brasileira de Alumínio fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, nos têrmos do artigo 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-###DEC-042886-0-000-26-12-1957@@@RET01+++
+**DECRETO Nº 42.886, DE 26 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.886, DE 26 DE DEZEMBRO DE 1957.</strong>
+***Declara de utilidade pública diversas áreas de terra compreendidas na faixa de linha de tranmissão a ser construida entre a Usina da cachoeira do França e a fábrica de alumínio, da Companhia Brasileira de Alumínio, situada no município de São Roque, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover as providências necessárias à sua utilização.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra compreendidas na faixa de linha de tranmissão a ser construida entre a Usina da cachoeira do França e a fábrica de alumínio, da Companhia Brasileira de Alumínio, situada no município de São Roque, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover as providências necessárias à sua utilização.</strong></em>
+(Publicado no *Diário Oficial* – Seção I – 28 de dezembro de 1957)
 
-(Publicado no <em>Diário Oficial</em> – Seção I – 28 de dezembro de 1957)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No parágrafo único do art. 3º
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>: ... seu reconhecimento nos têrmos...
+**ONDESELÊ**: ... seu reconhecimento nos têrmos...
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>: ...seu reconhecimento, podendo utilizar-se, inclusive, do disposto de desapropriação, nos têrmos...
+**LEIA**\-**SE**: ...seu reconhecimento, podendo utilizar-se, inclusive, do disposto de desapropriação, nos têrmos...

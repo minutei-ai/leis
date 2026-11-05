@@ -1,5 +1,3 @@
-###DEC-056585-0-000-20-07-1965@@@
-
 DECRETO Nº 56.585, DE 20 DE JULHO DE 1965.
 
 Aprova as novas especificações para a classificação e fiscalização do ôvo.

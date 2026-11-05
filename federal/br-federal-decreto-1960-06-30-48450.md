@@ -1,5 +1,3 @@
-###DEC-048450-0-000-30-06-1960@@@
-
 decreto nº 48.450, de 30 de junho de 1960.
 
 Inclui a Prefeitura de Aeronáutica do Galeão na relação constante do art. 1º do Decreto nº 35.516, de 18 de maio de 1954.

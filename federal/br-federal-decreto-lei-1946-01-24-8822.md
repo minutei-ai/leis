@@ -1,5 +1,3 @@
-###DEL-008822-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.822 – DE 24 DE JANEIRO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095120-0-000-04-11-1987@@@
-
 DECRETO Nº 95.120, DE 4 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Naviraí.

@@ -1,5 +1,3 @@
-###DEC-048661-0-000-04-08-1960@@@
-
 DECRETO Nº 48.3661, DE 4 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública o Hospital Espírita “André Luiz”, com sede em, Belo Horizonte, Estado de Minas Gerais.

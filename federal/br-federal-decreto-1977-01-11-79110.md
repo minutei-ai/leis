@@ -1,5 +1,3 @@
-###DEC-079110-0-000-11-01-1977@@@
-
 DECRETO Nº 79.110, DE 11 DE JANEIRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Belo Horizonte, Estado de Minas Gerais.

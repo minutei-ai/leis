@@ -1,5 +1,3 @@
-###DEC-067793-0-000-10-12-1970@@@
-
 DECRETO Nº 67.793, De 10 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S. A. - Petrobrás, terras, imóveis e benfeitorias situadas em Municípios do Estado de São Paulo.

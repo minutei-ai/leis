@@ -1,5 +1,3 @@
-###DEC-067321-0-000-02-10-1970@@@
-
 DECRETO Nº 67.321, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 20.367, de 9 de janeiro de 1946.

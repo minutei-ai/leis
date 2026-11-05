@@ -1,5 +1,3 @@
-###DEC-077546-0-000-04-05-1976@@@
-
 DECRETO Nº 77.546, DE 4 DE MAIO DE 1976
 
 Concede reconhecimento aos cursos de Psicologia, de Pedagogia, de Comunicação Social e de Letras, do Instituto Unificado Paulista, com sede na cidade de São Paulo, Estado de São Paulo.

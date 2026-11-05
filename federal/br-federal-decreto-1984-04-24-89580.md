@@ -1,5 +1,3 @@
-###DEC-089580-0-000-24-04-1984@@@
-
 Decreto nº 89.580, de 24 de abril de 1984
 
 Homologa a demarcação da área indígena que menciona, no Estado de Mato Grosso do Sul.

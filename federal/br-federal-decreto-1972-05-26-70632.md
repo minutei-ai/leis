@@ -1,5 +1,3 @@
-###DEC-070632-0-000-26-05-1972@@@
-
 DECRETO Nº 70.632, de 26 de maio de 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério do Trabalho e Previdência Social, cargo do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

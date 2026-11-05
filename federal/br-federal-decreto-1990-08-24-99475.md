@@ -1,7 +1,3 @@
-1
-
-###DEC-099475-0-000-24-08-1990@@@
-
 DECRETO N° 99.475, DE 24 DE AGOSTO DE 1990
 
 Dispõe sobre a descentralização da administração dos portos, hidrovias e eclusas que menciona e dá outras providências.

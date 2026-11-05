@@ -1,5 +1,3 @@
-###DEC-084578-0-000-19-03-1980@@@
-
 DECRETO Nº 84.578, DE 19 DE MARÇO DE 1980.
 
 Autoriza a alienação de domínio útil sobre terrenos foreiros e respectivas benfeitorias pertencentes à Universidade do Pará e dá outras providências.

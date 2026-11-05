@@ -1,5 +1,3 @@
-###DEC-083482-0-000-22-05-1979@@@
-
 Decreto nº 83.482, de 22 de maio de 1979.
 
 Altera o artigo 2º, do Decreto nº 81.403,de 27 de fevereiro de 1978.

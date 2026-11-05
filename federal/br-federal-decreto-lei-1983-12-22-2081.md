@@ -1,5 +1,3 @@
-###DEL-002081-0-000-22-12-1983@@@
-
 # Decreto-Lei nº 2.081, de 22 de dezembro de 1983
 
 Dispõe sobre a adoção de medidas de incentivo à arrecadação do Instituto do Açúcar e do Álcool, e dá outras providências.

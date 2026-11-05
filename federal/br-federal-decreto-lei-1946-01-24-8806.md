@@ -1,5 +1,3 @@
-###DEL-008806-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.806 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a Delegacia Geral de Portos e Litoral (D.G.P.L.)

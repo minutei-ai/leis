@@ -1,5 +1,3 @@
-###DEC-059593-0-000-25-11-1966@@@
-
 decreto nº 59.593, de 25 de novembro de 1966.
 
 Declara de utilidade pública o Instituto de Pesquisas e Estudos Sociais - IPES - Guanabara, com sede no Estado da Guanabara.

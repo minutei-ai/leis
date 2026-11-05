@@ -1,5 +1,3 @@
-###DEC-053014-0-000-27-11-1963@@@
-
 DECRETO Nº 53.014, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Danto Marchione a lavrar argila e caulim, no município de Cotia, Estado de São Paulo.

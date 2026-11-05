@@ -1,5 +1,3 @@
-###DEC-007446-0-000-01-03-2011-PUB-01@@@
-
 DECRETO Nº 7.446, DE 1º DE MARÇO DE 2011.
 
 Estabelece, no âmbito do Poder Executivo, limites e procedimentos para empenho de despesas com diárias, passagens e locomoção no exercício de 2011.

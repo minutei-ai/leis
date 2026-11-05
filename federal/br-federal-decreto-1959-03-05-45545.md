@@ -1,5 +1,3 @@
-###DEC-045545-0-000-05-03-1959@@@
-
 DECRETO Nº 45.545, DE 5 DE MARÇO DE 1959.
 
 Concede à Gil de Brito & Cia. Ltda. autorização para funcionar como empresa de mineração.

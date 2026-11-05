@@ -1,5 +1,3 @@
-###DEC-061743-0-000-23-11-1967@@@
-
 DECRETO Nº 61.743, DE 23 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de NCr$1.000.000,00 (um milhão de cruzeiros novos), para o fim que menciona.

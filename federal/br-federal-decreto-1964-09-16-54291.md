@@ -1,5 +1,3 @@
-###DEC-054291-0-000-16-09-1964@@@
-
 DECRETO Nº 54.291, DE 16 DE SETEMBRO DE 1964.
 
 Promulga a Convenção Relativa à Troca Internacional de Publicações.
@@ -194,4 +192,20 @@ O texto anterior é o texto autêntico da Convenção aprovada em boa e devida f
 
 Em fé do que, apõem suas assinaturas, nêsse quinto dia de dezembro de 1958.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Presidente da Conferência Geral</span></p></td><td style="width:202.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Jean Berthoin</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Diretor-Geral</span></p></td><td style="width:202.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Luther H. Evans</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Presidente da Conferência Geral
+
+</td><td style="width:202.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Jean Berthoin
+
+</td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Diretor-Geral
+
+</td><td style="width:202.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Luther H. Evans
+
+</td></tr></tbody></table>

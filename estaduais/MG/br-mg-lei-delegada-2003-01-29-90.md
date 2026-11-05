@@ -165,7 +165,3 @@ Universidade Estadual de Montes Claros – UNIMONTES
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Reitoria Reitor 1 - Reitoria Vice-Reitor 1 - Gabinete Chefe de Gabinete 1 0,90000 Pró-Reitoria de Pesquisa Pró-Reitor 1 1,57298 Pró-Reitoria de Extensão Pró-Reitor 1 1,57298 Pró-Reitoria de Ensino Pró-Reitor 1 1,57298 Pró-Reitoria de Planejamento, Gestão e Finanças Pró-Reitor 1 1,57298 Diretoria de Documentação e Informações Diretor 1 1,57298 Diretoria de Desenvolvimento de Recursos Humanos Diretor 1 1,57298 Hospital Universitário Diretor-Geral de Hospital 1 1,43418 Hospital Universitário Diretor Adm. de Hospital 1 1,43418 Centro de Ciências Humanas Diretor de Centro 1 1,43418 Centro de Ciências Sociais Aplicadas Diretor de Centro 1 1,43418 Centro de Ciências Biológicas e da Saúde Diretor de Centro 1 1,43418 Centro de Ensino Médio e Fundamental Diretor de Centro 1 1,43418 Centro de Ciências Exatas e Tecnológicas Diretor de Centro 1 1,43418 Procuradoria Procurador-Chefe 1 0,90000 Imprensa Universitária Coordenador de Imprensa 1 1,00000 Auditoria Seccional Auditor Seccional 1 0,90000 Secretaria Geral Secretário Geral 1 0,90000 Gabinete Assessor de Comunicação Social 1 0,90000 Escritório de Representação em Belo Horizonte Chefe de Escritório 1 0,90000
-
-\=============================
-
-Data da última atualização: 25/1/2011.

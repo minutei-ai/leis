@@ -1,5 +1,3 @@
-###DEL-009843-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.843 – DE 12 DE SETEMBRO DE 1946
 
 Dá nova redação ao art. 234, do Decreto-lei nº 8.527, de 31 de dezembro de 1945.

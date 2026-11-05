@@ -1,5 +1,3 @@
-###DEC-081043-0-000-15-12-1977@@@
-
 Decreto nº 81.043, de 15 de dezembro de 1977.
 
 Declara sem efeito o Decreto nº 26 582, de 12 de abril de 1949, que autorizou o cidadão brasileiro José Lombardi a lavrar cassiterita e associados no Município de Ritápolis, Estado de Minas Gerais.

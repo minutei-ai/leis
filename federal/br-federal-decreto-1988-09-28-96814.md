@@ -1,5 +1,3 @@
-###DEC-096814-0-000-28-09-1988@@@
-
 DECRETO N° 96.814, DE 28 DE SETEMBRO DE 1988
 
 Transforma a Secretaria-Geral do Conselho de Segurança Nacional em Secretaria de Assessoramento da Defesa Nacional - SADEN/PR, e dá outras providências.

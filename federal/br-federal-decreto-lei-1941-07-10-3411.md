@@ -1,5 +1,3 @@
-###DEL-003411-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.411 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 14.000:000$0, para a Fábrica Nacional de Motores

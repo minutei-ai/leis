@@ -1,5 +1,3 @@
-###DEC-082463-0-000-23-10-1978@@@
-
 Decreto nº 82.463, de 23 de outubro de 1978
 
 Outorga à Indústria e Comércio Luiz Olsen S.A. concessão para o aproveitamento da energia hidráulica de um trecho do rio Preto, no Estado de Santa Catarina, para uso exclusivo.

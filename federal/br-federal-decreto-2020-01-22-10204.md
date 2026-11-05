@@ -30,4 +30,4 @@ JAIR MESSIAS BOLSONARO
 
 Marcelo Pacheco dos Guaranys
 
-Ricardo de Aquino Salles<br>
+Ricardo de Aquino Salles

@@ -1,5 +1,3 @@
-###DEL-001515-0-000-30-12-1976@@@
-
 # DECRETO-LEI Nº 1.515, DE 30 DE DEZEMBRO DE 1976
 
 Altera a redação da alínea “b” do artigo 74, da Lei número 3.807, de 26 de agosto de 1960, e dá outras providências.

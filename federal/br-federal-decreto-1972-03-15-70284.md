@@ -1,5 +1,3 @@
-###DEC-070284-0-000-15-03-1972@@@
-
 DECRETO Nº 70.284, DE 15 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério dos Transportes para o Departamento de Policia Federal, e dá outras providências.

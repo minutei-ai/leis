@@ -1,5 +1,3 @@
-###DEC-051968-A-000-26-04-1963@@@
-
 Decreto nº 51.968-A, de 26 de abril de 1963.
 
 Autoriza a Companhia Cimento Portland de Sergipe a pesquisar anidrita, gipsita e calcário nos municípios de Nossa Senhora do Socorro e Laranjeiras, Estado de Sergipe.

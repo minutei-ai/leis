@@ -1,5 +1,3 @@
-###DEL-005434-0-000-29-04-1943@@@
-
 DECRETO‑LEI N. 5.434 – DE 29 DE ABRIL DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 5.000.000,00 para prosseguimento de obras a cargo da Inspetoria  Federal de Obras contra as Secas

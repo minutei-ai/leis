@@ -1,5 +1,3 @@
-###DEC-057739-0-000-03-02-1966@@@
-
 DECRETO Nº 57.739, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza George Wylie Reed, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-045184-0-000-31-12-1958@@@
-
 DECRETO Nº 45.184, DE 31 DE DEZEMBRO DE 1958.
 
 Outorga à Hidroelétrica de Juçari S.A. concessão para o aproveitamento progressivo de energia hidráulica da cachoeira do Rio Branco, existente no rio Aliança, distrito de Arataca, município de Una, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047299-0-000-30-11-1959@@@
-
 decreto nº 47.299, de 30 de novembro de 1959.
 
 Renova o Decreto nº 40.198, de 30 de outubro de 1956.

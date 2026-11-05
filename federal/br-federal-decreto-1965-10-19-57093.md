@@ -1,5 +1,3 @@
-###DEC-057093-0-000-19-10-1965@@@
-
 decreto nº 57.093, de 19 de outubro de 1965.
 
 Autoriza o cidadão brasileiro Antônio Roberto Tosato a pesquisar caulim, no município de Curitiba, Estado do Paraná.

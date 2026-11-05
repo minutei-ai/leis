@@ -1,5 +1,3 @@
-###DEC-074737-0-000-22-10-1974@@@
-
 decreto nº 74.737, de 22 de outubro de 1974.
 
 Autoriza a empresa canadense GEOTERREX LTD. a participar de atividades de aerolevantamento,

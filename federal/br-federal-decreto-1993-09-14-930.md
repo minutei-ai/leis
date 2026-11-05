@@ -1,7 +1,3 @@
-1
-
-###DEC-000930-0-000-14-09-1993@@@
-
 DECRETO N° 930, DE 14 DE SETEMBRO DE 1993
 
 Promulga o Protocolo que Mantém em Vigor o Acordo Relativo ao Comércio Internacional de Têxteis (Acordo Multifibras).

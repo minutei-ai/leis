@@ -1,5 +1,3 @@
-###DEC-078102-0-000-20-07-1976@@@
-
 DECRETO Nº 78.102, DE 20 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "Pau dos Ferros", no Estado do Rio Grande do Norte.

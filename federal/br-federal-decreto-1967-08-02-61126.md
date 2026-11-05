@@ -1,5 +1,3 @@
-###DEC-061126-0-000-02-08-1967@@@
-
 DECRETO Nº 61.126, DE 2 DE AGÔSTO DE 1967.
 
 Aprova o Estatuto da Fundação Instituto Brasileiro de Geografia e Estatística (Fundação IBGE) e dá outras providências.

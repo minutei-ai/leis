@@ -1,5 +1,3 @@
-###DEL-003827-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.827 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de 17:000$0, a verba que especifica

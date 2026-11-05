@@ -1,5 +1,3 @@
-###DEC-090086-0-000-20-08-1984@@@
-
 Decreto nº 90.086, de 20 de agosto de 1984
 
 Institui o "Ano Bach".

@@ -1,5 +1,3 @@
-###DEC-077604-0-000-12-05-1976@@@
-
 decreto nº 77.604, de 12 maio de 1976
 
 Cassa a concessão outorgada à Rádio Juventude Auriverde Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Frutal, Estado de Minas Gerais.

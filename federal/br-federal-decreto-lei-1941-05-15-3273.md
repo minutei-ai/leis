@@ -1,5 +1,3 @@
-###DEL-003273-0-000-15-05-1941@@@
-
 DECRETO-LEI N. 3.273 – DE 15 DE MAIO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 4:478$8, para pagamento de diferença de vencimentos.

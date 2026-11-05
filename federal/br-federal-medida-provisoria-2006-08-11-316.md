@@ -1,5 +1,3 @@
-###MPV-000316-0-000-11-08-2006@@@
-
 MEDIDA PROVISÓRIA Nº 316, DE 11 DE AGOSTO DE 2006.
 
 Altera as Leis nos 8.212 e 8.213, ambas de 24 de julho de 1991, e 9.796, de 5 de maio de 1999, e aumenta o valor dos benefícios da previdência social.
@@ -63,5 +61,3 @@ Brasília, 11 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
      Carlos Eduardo Gabas
-
-Este texto não substitui o publicado no D.O.U. de 11.8.2006

@@ -1,5 +1,3 @@
-###DEL-001363-0-000-28-11-1974@@@
-
 # DECRETO-LEI Nº 1.363, DE 28 DE NOVEMBRO DE 1974
 
 Revoga Nota Complementar da Tarifa Aduaneira do Brasil e dá outras providências.

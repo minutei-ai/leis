@@ -1,5 +1,3 @@
-###DEC-091166-0-000-20-03-1985@@@
-
 Decreto nº 91.166, de 20 de março de 1985.
 
 Autoriza o funcionamento dos cursos de Fisioterapia e Terapia Ocupacional da Fundação Educacional do Estado do Pará.

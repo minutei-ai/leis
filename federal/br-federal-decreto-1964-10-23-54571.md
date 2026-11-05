@@ -1,5 +1,3 @@
-###DEC-054571-0-000-23-10-1964@@@
-
 DECRETO Nº 54.571, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Manoel Forte Maia a lavrar scheelita, no município de Brejo do Cruz, Estado da Paraíba.

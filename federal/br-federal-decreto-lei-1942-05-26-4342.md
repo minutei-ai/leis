@@ -1,5 +1,3 @@
-###DEL-004342-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.342 – DE 26 MAIO DE 1942
 
 Cria o 7º Grupo de Artilharia de Dorso na 7ª Região Militar

@@ -1,5 +1,3 @@
-###DEC-096850-0-000-28-09-1988@@@
-
 DECRETO Nº 96.850, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO PITANGUEIRA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Itaqui, Estado do Rio Grande do Sul.

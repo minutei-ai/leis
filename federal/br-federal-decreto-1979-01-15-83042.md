@@ -1,5 +1,3 @@
-###DEC-083042-0-000-15-01-1979@@@
-
 DECRETO Nº 83.042, DE 15 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Odontologia, ministrado pela Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

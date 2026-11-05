@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211816)<br>
-
 # DECRETO N° 70.083, DE 12 DE NOVEMBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Assis, que declarou Situação de Emergência em áreas do Município._

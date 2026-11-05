@@ -1,5 +1,3 @@
-###DEC-054873-0-000-04-11-1964@@@
-
 DECRETO Nº 54.873, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Américo Sammarone Junior a pesquisar argila, quartzito e caolim, no município de Jundiaí, Estado de São Paulo.

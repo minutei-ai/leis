@@ -1,5 +1,3 @@
-###DEC-088004-0-000-28-12-1982@@@
-
 Decreto nº 88.004, de 28 de dezembro de 1982
 
 Dispõe sobre dispêndios de pessoal e encargos sociais por empresas estatais, no exercício de 1983.

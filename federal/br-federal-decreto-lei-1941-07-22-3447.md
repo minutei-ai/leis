@@ -1,5 +1,3 @@
-###DEL-003447-0-000-22-07-1941@@@
-
 DECRETO-LEI N. 3.447 – DE 22 DE JULHO DE 1941
 
  Dispõe sobre os balanços do exercício de 1940

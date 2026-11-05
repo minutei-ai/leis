@@ -22,8 +22,6 @@ Art. 6º Este Decreto entra em vigor na data de sua publicação, e produzirá s
 
 Goiânia, 13 de março de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -409,19 +407,19 @@ R$ 1.876,41
  | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC. |
 |
 
-Apoio Administrativo de Nível Superior<br>
+Apoio Administrativo de Nível Superior
 
  |
 
-1.253<br>
+1.253
 
  |
 
-40 horas<br>
+40 horas
 
  |
 
-R$ 2.501,89<br>
+R$ 2.501,89
 
  |
 
@@ -439,23 +437,24 @@ R$ 2.501,89<br>
 
 7 – realizar atividades correlatas.
 
- | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC.<br>
+ | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC.
+
  |
 |
 
-Arquiteto<br>
+Arquiteto
 
  |
 
-29<br>
+29
 
  |
 
-40 horas<br>
+40 horas
 
  |
 
-R$ 8.000,00<br>
+R$ 8.000,00
 
  |
 

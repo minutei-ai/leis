@@ -1,5 +1,3 @@
-###DEC-069997-0-000-20-01-1972@@@
-
 DECRETO Nº 69.997, de 20 de Janeiro de 1972.
 
 Declara de utilidade pública a Congregação das Irmazinhas da Imaculada Conceição, com sede em São Paulo, Estado de São Paulo.

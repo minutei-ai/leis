@@ -8,8 +8,10 @@ Art. 1º - Fica denominada de “ANTÔNIO SANTOS MACHADO”, a Academia no Centr
 
 Art. 2º - Esta Lei entrará em vigor na data de sua publicação. Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 16 de agosto de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

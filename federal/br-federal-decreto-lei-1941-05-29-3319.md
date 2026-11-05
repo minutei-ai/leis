@@ -1,5 +1,3 @@
-###DEL-003319-0-000-29-05-1941@@@
-
 DECRETO-LEI N. 3.319 – DE 29 DE MAIO DE 1941
 
 Cria uma coletoria federal no município de Canoas, Estado do Rio Grande do Sul, e dá outras providências

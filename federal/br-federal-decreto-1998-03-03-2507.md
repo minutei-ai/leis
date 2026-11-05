@@ -1,5 +1,3 @@
-###DEC-002507-0-000-03-03-1998@@@
-
 DECRETO Nº 2.507, DE 3 DE MARÇO DE 1998
 
 Transfere ao Ministério da Administração Federal e Reforma do Estado competência para análise e aprovação das prestações de contas das transferências de recursos efetivadas pela extinta Fundação Legião Brasileira de Assistência, e dá outras providências.
@@ -31,8 +29,6 @@ FERNANDO HENRIQUE CARDOSO
 Reinhold Stephanes
 
 Luiz Carlos Bresser Pereira
-
-###DEC-002507-0-000-03-03-1998@@@RET01+++
 
 RETIFICAÇÃO
 

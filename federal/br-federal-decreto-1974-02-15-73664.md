@@ -1,5 +1,3 @@
-###DEC-073664-0-000-15-02-1974@@@
-
 DECRETO nº 73.664, de 15 de Fevereiro de 1974.
 
 Torna-se efeito aproveitamento de disponível da Universidade Federal do Ceará no Quadro de Pessoal do IPASE, e dá outras providências.

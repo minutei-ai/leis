@@ -10,15 +10,41 @@ Art. 1º Ficam remembrados e desmembrados os Lotes Industrias 19 e 20 do Loteame
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td>LOTE INDUSTRIAL 19</td><td style="text-align:center">7.740,00</td></tr><tr><td>LOTE INDUSTRIAL 20</td><td style="text-align:center">8.175,00</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE INDUSTRIAL 19
+
+7.740,00
+
+LOTE INDUSTRIAL 20
+
+8.175,00
 
 SITUAÇÃO INTERMEDIÁRIA/REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td>LOTE INDUSTRIAL 19/20</td><td style="text-align:center">15.915,00</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE INDUSTRIAL 19/20
+
+15.915,00
 
 SITUAÇÃO PROPOSTA/DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 19/20</td><td style="text-align:center">14.604,00</td></tr><tr><td style="text-align:center">APM-01A</td><td style="text-align:center">1.311,00</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 19/20
+
+14.604,00
+
+APM-01A
+
+1.311,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2021.430.705, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -26,8 +52,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 15 de fevereiro de 2022.
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-VETER MARTINS<br>
-Secretário de Planejamento e Regulação Urbana<br>
+VETER MARTINS
+
+Secretário de Planejamento e Regulação Urbana

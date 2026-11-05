@@ -1,5 +1,3 @@
-###DEC-003942-0-000-27-09-2001@@@
-
 DECRETO Nº 3.942, DE 27 DE SETEMBRO DE 2001
 
 Dá nova redação aos arts. 4o, 5o, 6o, 7o, 10 e 11 do Decreto no 99.274, de 6 de junho de 1990.

@@ -1,5 +1,3 @@
-###DEC-006928-0-000-06-08-2009@@@
-
 DECRETO Nº 6.928, DE 6 DE AGOSTO DE 2009.
 
 Determina a publicação de relação dos cargos de Oficial-General.

@@ -1,18 +1,16 @@
-###DEC-030422-0-000-21-01-1952@@@
+**DECRETO Nº 30.422, DE 21 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.422, DE 21 DE JANEIRO DE 1952.</strong>
+***Outorga a Zortéia & Cia. Ltda., concessão para o aproveitamento de energia hidráulica no Rio do Peixe, distrito e município de Capinzal, Estado de Santa Catarina.***
 
-<em><strong>Outorga a Zortéia & Cia. Ltda., concessão para o aproveitamento de energia hidráulica no Rio do Peixe, distrito e município de Capinzal, Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada a Zortéia & Companhia Limitada, concessão para o aproveitamento de energia hidráulica no Rio do Peixe, distrito e Município de Capinzal, Estado de Santa Catarina.
+**Art**. 1º É outorgada a Zortéia & Companhia Limitada, concessão para o aproveitamento de energia hidráulica no Rio do Peixe, distrito e Município de Capinzal, Estado de Santa Catarina.
 
 Parágrafo único. O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade pública, e para comércio de energia na cidade de Capinzal, Estado de Santa Catarina.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de águas do Ministério da Agricultura dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -96,30 +94,30 @@ IV) Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir a manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observação fluviométrica e medições de descarga do curso d'água que vai utilizar de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir a manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observação fluviométrica e medições de descarga do curso d'água que vai utilizar de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministerio da Agricultura.
+**Art**. 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministerio da Agricultura.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará de reserva de renovação, será realizada por cota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta cota será determinada tendo-se em vista a duração média do material e cuja renovação a dita reserva terá que atender podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existem em funçaão exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido reverterão ao Estado de Santa Catarina, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existem em funçaão exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido reverterão ao Estado de Santa Catarina, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de Santa Catarina não se opõe à utilização dos bens objeto da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
+**Art**. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10. Revogam-se as disposições em contrário.
+**Art**. 10. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 21 de janeiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

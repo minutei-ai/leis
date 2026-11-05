@@ -1,7 +1,3 @@
-1
-
-###DEC-097758-0-000-18-05-1989@@@
-
 DECRETO Nº 97.758, DE 18 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “FAZENDA ITASUL”, classificado como “latifúndio por exploração”, situado no Município de Itaquiraí, Estado de Mato Grosso do Sul, compreendido na zona prioritária fixada pelo Decreto nº 92.621, de 02 de maio de 1986, e dá outras providências.

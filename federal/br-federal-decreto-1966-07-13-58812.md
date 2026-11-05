@@ -1,5 +1,3 @@
-###DEC-058812-0-000-13-07-1966@@@
-
 decreto nº 58.812, de 13 de julho de 1966.
 
 Ministério Extraordinário para a Coordenação dos Organismos Regionais. Abre crédito extraordinário de Cr$2.200.000.000, para atender aos prejuízos causados pelas chuvas torrenciais ocorridas nos Estados de Pernambuco e Bahia.

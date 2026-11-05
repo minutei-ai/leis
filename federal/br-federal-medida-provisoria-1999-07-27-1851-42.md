@@ -1,5 +1,3 @@
-###MPV-001851-0-042-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.851-42, DE 27 DE JULHO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

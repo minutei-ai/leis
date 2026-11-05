@@ -1,5 +1,3 @@
-###DEC-045437-0-000-13-02-1959@@@
-
 DECRETO Nº 45.437, DE 13 DE FEVEREIRO DE 1959.
 
 Fixa o número de vagas para a cota compulsória no Ministério da Guerra.

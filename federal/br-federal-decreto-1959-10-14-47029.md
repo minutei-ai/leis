@@ -1,5 +1,3 @@
-###DEC-047029-0-000-14-10-1959@@@
-
 Decreto nº 47.029, de 14 de outubro de 1959.
 
 Autoriza a Luz e Fôrça Santo Amaro Ltda. a ampliar suas instalações no município de Palhoça, Estado de Santa Catarina.

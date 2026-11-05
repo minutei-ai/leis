@@ -1,5 +1,3 @@
-###DEC-055365-0-000-31-12-1964@@@
-
 DECRETO Nº 55.365, DE 31 DE DEZEMBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da Seguradora Industrial e Mercantil S.A., relativa ao aumento do capital social.

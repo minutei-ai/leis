@@ -1,5 +1,3 @@
-###DEC-006144-0-000-03-07-2007@@@
-
 DECRETO Nº 6.144, DE 3 DE JULHO DE 2007.
 
 Regulamenta a forma de habilitação e co-habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, instituído pelos arts. 1o a 5o da Lei no 11.488, de 15 de junho de 2007.
@@ -149,5 +147,3 @@ Brasília, 3 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Machado
-
-Este texto não substitui o publicado no DOU de 4.7.2007

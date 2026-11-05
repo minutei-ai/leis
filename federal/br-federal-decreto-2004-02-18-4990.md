@@ -1,5 +1,3 @@
-###DEC-004990-0-000-18-02-2004@@@
-
 DECRETO Nº 4.990,  DE 18 DE FEVEREIRO DE 2004.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Argentina para a Viabilização da Construção e Operação de Novas Travessias Rodoviárias sobre o Rio Uruguai, de 15 de dezembro de 2000.
@@ -36,8 +34,10 @@ Celso Luiz Nunes Amorim
 
 # SOBRE O RIO URUGUAI
 
-        O Governo da República Federativa do Brasil<br>
-        e<br>
+        O Governo da República Federativa do Brasil
+
+        e
+
         O Governo da República Argentina
 
         (doravante denominados "Partes"),

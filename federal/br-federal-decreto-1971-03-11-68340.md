@@ -1,5 +1,3 @@
-###DEC-068340-0-000-11-03-1971@@@
-
 DECRETO Nº 68.340, DE 11 DE MARÇO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma estação repetidora de microondas, e duas faixas de terra para o acesso ao terreno, sitas no município de Cordisburgo, Estado de Minas Gerais, a cargo da Companhia Telefônica de Minas Gerais.

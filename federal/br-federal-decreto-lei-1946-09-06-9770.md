@@ -1,5 +1,3 @@
-###DEL-009770-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.770 – DE 6 SETEMBRO DE 1946
 
 Altera, com redução de despesas, o quadro do Pessoal do Território Federal do Rio Branco e dá outras providências.

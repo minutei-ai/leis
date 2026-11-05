@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1b46108c-f27a-45ef-a925-29b96deda6f5/texto#nowhere)
 
-###DEL-001794-0-000-23-06-1980@@@
-
 # Decreto-lei nº 1.794, de 23 de junho de 1980
 
 Dispõe sobre os encargos financeiros da União, previstos no artigo 9º e §§ 1º, 2º e 5º da Lei nº 4.070, de 15 de junho de 1962.

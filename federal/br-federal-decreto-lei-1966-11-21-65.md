@@ -1,5 +1,3 @@
-###DEL-000065-0-000-21-11-1966@@@
-
 DECRetO-LEI Nº 65, de 21 De NOVemBRO DE 1966
 
 Concede incentivos para o desenvolvimento da indústria de motores Diesel.

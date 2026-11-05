@@ -1,5 +1,3 @@
-###DEC-088123-0-000-28-02-1983@@@
-
 Decreto nº 88.123, de 28 de fevereiro de 1983
 
 Autoriza o aumento do capital social da Petróleo Brasileiro S.A. - PETROBRÁS.

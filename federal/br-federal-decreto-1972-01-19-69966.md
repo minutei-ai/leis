@@ -1,5 +1,3 @@
-###DEC-069966-0-000-19-01-1972@@@
-
 Decreto nº 69.966, de 19 de janeiro de 1972.
 
 Autoriza o funcionamento do Curso de Turismo da Faculdade Ibero-Americana de Letras e Ciências Humanas, em São Paulo.

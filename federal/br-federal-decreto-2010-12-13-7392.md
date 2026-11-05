@@ -1,5 +1,3 @@
-###DEC-007392-0-000-13-12-2010-PUB-01@@@
-
 DECRETO Nº 7.392, DE 13 DE DEZEMBRO DE 2010.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Advocacia-Geral da União, aprova o Quadro Demonstrativo dos Cargos em Comissão da Procuradoria-Geral Federal e remaneja cargos em comissão para a Advocacia-Geral da União e para a Procuradoria-Geral Federal.

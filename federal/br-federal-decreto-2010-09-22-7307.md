@@ -1,5 +1,3 @@
-###DEC-007307-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.307, DE 22 DE SETEMBRO DE 2010.
 
 Autoriza a Secretaria de Direitos Humanos da Presidência da República a dar cumprimento à sentença exarada pela Corte Interamericana de Direitos Humanos.

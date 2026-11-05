@@ -1,5 +1,3 @@
-###MPV-001787-0-004-22-04-1999@@@
-
 MEDIDA PROVISÓRia Nº 1 787-4, DE 22 DE ABRIL DE 1999.
 
 Altera dispositivos das Leis nºs 5.972, de 11 de dezembro de 1973, e 9.636, de 15 de maio de 1998, e dá outras providências.

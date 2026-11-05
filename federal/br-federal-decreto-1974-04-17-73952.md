@@ -1,5 +1,3 @@
-###DEC-073952-0-000-17-04-1974@@@
-
 DECRETO Nº 73.952, DE 17 DE ABRIL DE 1974
 
 Concede reconhecimento ao curso de Odontologia da Escola de Odontologia de Volta Redonda, mantida pela Fundação Oswaldo Aranha, com sede na cidade de Volta Redonda, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-090151-0-000-05-09-1984@@@
-
 DECRETO Nº 90.151, de 05 de setembro de 1984.
 
 Altera a denominação da Comissão Militar Brasileira em Washington, no Ministério do Exército e dá outras providencias

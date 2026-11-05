@@ -1,5 +1,3 @@
-###DEC-045998-0-000-15-05-1959@@@
-
 Decreto nº 45.998, de 15 de maio de 1959.
 
 Retifica o art. 1º do Decerto número 40.761, de 15 de janeiro de 1957.

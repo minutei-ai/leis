@@ -1,5 +1,3 @@
-###DEC-005640-0-000-26-12-2005@@@
-
 DECRETO Nº 5.640, DE 26 DE DEZEMBRO DE 2005.
 
        Promulga a Convenção Internacional para Supressão do Financiamento do Terrorismo, adotada pela Assembléia-Geral das Nações Unidas em 9 de dezembro de 1999 e assinada pelo Brasil em 10 de novembro de 2001.
@@ -28,11 +26,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.12.2005
-
-CONVENÇÃO INTERNACIONAL PARA A SUPRESSÃO
+        Celso Luiz Nunes AmorimCONVENÇÃO INTERNACIONAL PARA A SUPRESSÃO
 
 DO FINANCIAMENTO DO TERRORISMO
 

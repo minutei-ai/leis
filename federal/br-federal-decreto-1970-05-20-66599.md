@@ -1,5 +1,3 @@
-###DEC-066599-0-000-20-05-1970@@@
-
 decreto nº 66.599, de 20 de maio de 1970.
 
 Declara de utilidade pública o Instituto Theodoro Ratisbonne, com sede em São Paulo, Estado de São Paulo.

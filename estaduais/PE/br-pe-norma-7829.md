@@ -960,181 +960,250 @@ SÍLVIO PESSOA DE CARVALHO
 
 RAFAEL GOMES DE SOUZA BARBOSA
 
-<br>
-<br>
-
-<br>
-
 **ANEXO I**
 
 **DESCRIÇÃO DOS CARGOS COMISSIONADOS E FUNÇÕES GRATIFICADAS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="609" style="width:456.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  font-weight:normal">SÍMBOLO</span></h1></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DESCRIÇÃO DAS FUNÇÕES/ATIVIDADES</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-1</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e assessoramento superior na administração direta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção, representação institucional e assessoramento superior de órgãos e entidades do Grupo I da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-2</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência e assessoramento superior na administração direta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e assessoramento superior de órgãos e entidades dos Grupos I e II da administração indireta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Representação institucional de órgãos e entidades do Grupo II da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-3</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência de atividades-meio e correlatas, internas às Secretarias de Estado na administração direta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento superior na Governadoria e Vice-Governadoria</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência e assessoramento superior de órgãos e entidades do Grupo I da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-4</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência e assessoramento intermediário na administração direta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência e assessoramento superior de órgãos e entidades do Grupo II da administração indireta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência de atividades-meio e correlatas, internas aos órgãos e entidades do Grupo I da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-5</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência de projetos e unidades gerenciais na administração direta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência de atividades meio e correlatas, internas aos órgãos e entidades do Grupo II da administração indireta</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerência e assessoramento de unidades gerenciais aos órgãos e entidades da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-1</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento superior ao Secretário de Estado na administração direta em assuntos de natureza técnica na área de comunicação social</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-2</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento superior ao Secretário de Estado na administração direta em assuntos de natureza técnica</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento superior aos órgãos e entidades da administração indireta em assuntos de natureza técnica</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-3</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta e aos órgãos e entidades da administração indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-4</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-5</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-6</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-7</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-1</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Supervisão de atividades técnico-administrativas na administração direta e indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-2</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Supervisão de atividades técnico-administrativas na administração direta e indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-3</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Supervisão de atividades técnico-administrativas na administração direta e indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-1</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio operacional, de natureza diversa na administração direta e indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-2</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio operacional, de natureza diversa na administração direta e indireta</span></p></td></tr><tr><td width="13%" style="width:13.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-3</span></p></td><td width="86%" style="width:86.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio operacional, de natureza diversa na administração direta e indireta</span></p></td></tr></tbody></table>
+# SÍMBOLO
+
+DESCRIÇÃO DAS FUNÇÕES/ATIVIDADES
+
+CDA-1
+
+Direção e assessoramento superior na administração direta
+
+Direção, representação institucional e assessoramento superior de órgãos e entidades do Grupo I da administração indireta
+
+CDA-2
+
+Gerência e assessoramento superior na administração direta
+
+Direção e assessoramento superior de órgãos e entidades dos Grupos I e II da administração indireta
+
+Representação institucional de órgãos e entidades do Grupo II da administração indireta
+
+CDA-3
+
+Gerência de atividades-meio e correlatas, internas às Secretarias de Estado na administração direta
+
+Assessoramento superior na Governadoria e Vice-Governadoria
+
+Gerência e assessoramento superior de órgãos e entidades do Grupo I da administração indireta
+
+CDA-4
+
+Gerência e assessoramento intermediário na administração direta
+
+Gerência e assessoramento superior de órgãos e entidades do Grupo II da administração indireta
+
+Gerência de atividades-meio e correlatas, internas aos órgãos e entidades do Grupo I da administração indireta
+
+CDA-5
+
+Gerência de projetos e unidades gerenciais na administração direta
+
+Gerência de atividades meio e correlatas, internas aos órgãos e entidades do Grupo II da administração indireta
+
+Gerência e assessoramento de unidades gerenciais aos órgãos e entidades da administração indireta
+
+CAA-1
+
+Assessoramento superior ao Secretário de Estado na administração direta em assuntos de natureza técnica na área de comunicação social
+
+CAA-2
+
+Assessoramento superior ao Secretário de Estado na administração direta em assuntos de natureza técnica
+
+Assessoramento superior aos órgãos e entidades da administração indireta em assuntos de natureza técnica
+
+CAA-3
+
+Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta e aos órgãos e entidades da administração indireta
+
+CAA-4
+
+Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta
+
+CAA-5
+
+Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta
+
+CAA-6
+
+Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta
+
+CAA-7
+
+Apoio administrativo, organizacional e logístico ao Gabinete do Secretário de Estado na administração direta
+
+FGS-1
+
+Supervisão de atividades técnico-administrativas na administração direta e indireta
+
+FGS-2
+
+Supervisão de atividades técnico-administrativas na administração direta e indireta
+
+FGS-3
+
+Supervisão de atividades técnico-administrativas na administração direta e indireta
+
+FGA-1
+
+Apoio operacional, de natureza diversa na administração direta e indireta
+
+FGA-2
+
+Apoio operacional, de natureza diversa na administração direta e indireta
+
+FGA-3
+
+Apoio operacional, de natureza diversa na administração direta e indireta
 
 **ANEXO II**
 
-**QUADRO DE QUANTIDADES E VALORES DOS CARGOS COMISSIONADOS E FUNÇÕES GRATIFICADAS DA ADMINISTRAÇÃO DIRETA, AUTÁRQUICA E FUNDACIONAL** **CARGOS COMISSIONADOS**
+**QUADRO DE QUANTIDADES E VALORES DOS CARGOS COMISSIONADOS E FUNÇÕES GRATIFICADAS DA ADMINISTRAÇÃO DIRETA, AUTÁRQUICA E FUNDACIONALCARGOS COMISSIONADOS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="603" style="width:451.95pt;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SÍMBOLO</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DENOMINAÇÃO</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANT.</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VENC.</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">REPRES.</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-1</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e Assessoramento-1</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">45</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.000,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.000,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-2</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e Assessoramento-2</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">87</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.466,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.934,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-3</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e Assessoramento-3</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">74</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.233,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.467,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-4</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e Assessoramento-4</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">169</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.133,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.267,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-5</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção e Assessoramento-5</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">240</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">900,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.800,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-1</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-1</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">933,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.867,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-2</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-2</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">268</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">666,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.334,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-3</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-3</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">129</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">433,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">867,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-4</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-4</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">34</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">266,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">534,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-5</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-5</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">153</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">233,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">467,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-6</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-6</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">49</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">183,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">367,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-7</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio e Assessoramento-7</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">57</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">150,00</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">300,00</span></p></td></tr><tr><td width="14%" style="width:14.1%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SUBTOTAL</span></p></td><td width="49%" style="width:49.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="10%" style="width:10.48%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.318</span></p></td><td width="11%" style="width:11.64%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="14%" style="width:14.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+SÍMBOLO
+
+DENOMINAÇÃO
+
+QUANT.
+
+VENC.
+
+REPRES.
+
+CDA-1
+
+Direção e Assessoramento-1
+
+45
+
+2.000,00
+
+4.000,00
+
+CDA-2
+
+Direção e Assessoramento-2
+
+87
+
+1.466,00
+
+2.934,00
+
+CDA-3
+
+Direção e Assessoramento-3
+
+74
+
+1.233,00
+
+2.467,00
+
+CDA-4
+
+Direção e Assessoramento-4
+
+169
+
+1.133,00
+
+2.267,00
+
+CDA-5
+
+Direção e Assessoramento-5
+
+240
+
+900,00
+
+1.800,00
+
+CAA-1
+
+Apoio e Assessoramento-1
+
+13
+
+933,00
+
+1.867,00
+
+CAA-2
+
+Apoio e Assessoramento-2
+
+268
+
+666,00
+
+1.334,00
+
+CAA-3
+
+Apoio e Assessoramento-3
+
+129
+
+433,00
+
+867,00
+
+CAA-4
+
+Apoio e Assessoramento-4
+
+34
+
+266,00
+
+534,00
+
+CAA-5
+
+Apoio e Assessoramento-5
+
+153
+
+233,00
+
+467,00
+
+CAA-6
+
+Apoio e Assessoramento-6
+
+49
+
+183,00
+
+367,00
+
+CAA-7
+
+Apoio e Assessoramento-7
+
+57
+
+150,00
+
+300,00
+
+SUBTOTAL
+
+1.318
 
 **FUNÇÕES GRATIFICADAS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="width:16.0cm;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  font-weight:normal">SÍMBOLO</span></h1></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DENOMINAÇÃO</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANT.</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VENC</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">REPRES</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-1</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Supervisão-1</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">912</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">630,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-2</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Supervisão-2</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.341</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">420,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGS-3</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Supervisão-3</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.257</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">280,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-1</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Apoio-1</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">429</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">250,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-2</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Apoio-2</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">953</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">230,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FGA-3</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada de Apoio-3</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">908</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">180,00</span></p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SUBTOTAL</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.800</span></p></td><td width="11%" style="width:11.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="14%" style="width:14.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="page-break-inside:avoid"><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="49%" style="width:49.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="36%" colspan="3" style="width:36.38%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7.118&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td><h1>SÍMBOLO</h1></td><td> DENOMINAÇÃO </td><td> QUANT. </td><td> VENC </td><td> REPRES </td></tr><tr><td> FGS-1 </td><td> Função Gratificada de Supervisão-1 </td><td> 912 </td><td> - </td><td> 630,00 </td></tr><tr><td> FGS-2 </td><td> Função Gratificada de Supervisão-2 </td><td> 1.341 </td><td> - </td><td> 420,00 </td></tr><tr><td> FGS-3 </td><td> Função Gratificada de Supervisão-3 </td><td> 1.257 </td><td> - </td><td> 280,00 </td></tr><tr><td> FGA-1 </td><td> Função Gratificada de Apoio-1 </td><td> 429 </td><td> - </td><td> 250,00 </td></tr><tr><td> FGA-2 </td><td> Função Gratificada de Apoio-2 </td><td> 953 </td><td> - </td><td> 230,00 </td></tr><tr><td> FGA-3 </td><td> Função Gratificada de Apoio-3 </td><td> 908 </td><td> - </td><td> 180,00 </td></tr><tr><td> SUBTOTAL </td><td> &nbsp; </td><td> 5.800 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> TOTAL </td><td> &nbsp; </td><td colspan="3"> 7.118&nbsp; </td></tr></tbody></table>
 
-**<br>
+**
+
 **
 
 **ANEXO III**
@@ -1145,43 +1214,32 @@ RAFAEL GOMES DE SOUZA BARBOSA
 
 **DO PODER EXECUTIVO CARREIRAS NÃO EXCLUSIVAS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="593" style="width:444.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="21%" style="width:21.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GRUPO OCUPACIONAL</span></p></td><td width="17%" style="width:17.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CARREIRA</span></p></td><td width="32%" style="width:32.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CARGO</span></p></td><td width="12%" style="width:12.16%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">NÍVEL</span></p></td><td width="16%" style="width:16.2%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANTIT.</span></p></td></tr><tr><td width="21%" style="width:21.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestão dos Serviços Públicos</span></p></td><td width="17%" style="width:17.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestor Público</span></p></td><td width="32%" style="width:32.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestor Governamental - GP</span></p></td><td width="12%" style="width:12.16%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">I</span></p></td><td width="16%" style="width:16.2%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">50</span></p></td></tr><tr><td width="21%" style="width:21.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="17%" style="width:17.58%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="32%" style="width:32.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestor Governamental - GP</span></p></td><td width="12%" style="width:12.16%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">II</span></p></td><td width="16%" style="width:16.2%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">20</span></p></td></tr><tr style="page-break-inside:avoid"><td width="21%" style="width:21.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="49%" colspan="2" style="width:49.94%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestor Governamental - GP</span></p></td><td width="12%" style="width:12.16%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">III</span></p></td><td width="16%" style="width:16.2%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="page-break-inside:avoid"><td width="21%" style="width:21.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="49%" colspan="2" style="width:49.94%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gestor Governamental - GP</span></p></td><td width="12%" style="width:12.16%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">IV</span></p></td><td width="16%" style="width:16.2%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> GRUPO OCUPACIONAL </td><td> CARREIRA </td><td> CARGO </td><td> NÍVEL </td><td> QUANTIT. </td></tr><tr><td> Gestão dos Serviços Públicos </td><td> Gestor Público </td><td> Gestor Governamental - GP </td><td> I </td><td> 50 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> Gestor Governamental - GP </td><td> II </td><td> 20 </td></tr><tr><td> &nbsp; </td><td colspan="2"> &nbsp; Gestor Governamental - GP </td><td> III </td><td> 10 &nbsp; </td></tr><tr><td> &nbsp; </td><td colspan="2"> &nbsp; Gestor Governamental - GP </td><td> IV </td><td> 10 &nbsp; </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="width:450.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SÍNTESE DE ATRIBUIÇÕES</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">REQUISITOS PARA PROVIMENTO</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Formular, avaliar e implementar políticas públicas, compreendendo direção, assessoramento, planejamento, coordenação e execução de atividades relacionadas à gestão pública estadual</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Curso de graduação em nível Superior, e aprovação em concurso público de provas e títulos</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GESTOR PÚBLICO</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PARCELA FIXA</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">I</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.870,00</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">II</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.567,00</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">III</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.468,10</span></p></td></tr><tr><td width="58%" style="width:58.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">IV</span></p></td><td width="41%" style="width:41.28%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 4.571,60</span></p></td></tr></tbody></table>
+SÍNTESE DE ATRIBUIÇÕES
+
+REQUISITOS PARA PROVIMENTO
+
+Formular, avaliar e implementar políticas públicas, compreendendo direção, assessoramento, planejamento, coordenação e execução de atividades relacionadas à gestão pública estadual
+
+Curso de graduação em nível Superior, e aprovação em concurso público de provas e títulos
+
+GESTOR PÚBLICO
+
+PARCELA FIXA
+
+I
+
+R$ 1.870,00
+
+II
+
+R$ 2.567,00
+
+III
+
+R$ 3.468,10
+
+IV
+
+R$ 4.571,60

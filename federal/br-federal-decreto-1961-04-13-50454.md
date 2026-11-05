@@ -1,5 +1,3 @@
-###DEC-050454-0-000-13-04-1961@@@
-
 DECRETO Nº 50.454, DE 13 DE ABRIL DE 1961.
 
 Torna sem efeito o Decreto nº 50.224, de 28 de Janeiro de 1961.

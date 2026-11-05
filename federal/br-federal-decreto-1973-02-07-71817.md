@@ -1,5 +1,3 @@
-###DEC-071817-0-000-07-02-1973@@@
-
 DECRETO Nº 71.817, DE 7 DE FEVEREIRO DE 1973.
 
 Concede reconhecimento ao curso de Geografia da Faculdade de Filosofia, Ciências e Letras, mantida pela Fundação Educacional Rosemar Pimentel, Barra do Piraí, Estado do Rio de Janeiro.

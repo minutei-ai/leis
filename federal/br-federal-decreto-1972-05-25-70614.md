@@ -1,5 +1,3 @@
-###DEC-070614-0-000-25-05-1972@@@
-
 DECRETO Nº 70.614, DE 25 DE MAIO DE 1972.
 
 Concede a Águas Minerais de Minas Gerais S.A., Hidrominas o direito de lavrar água mineral, no município de Tiradentes, Estado de Minas Gerais.

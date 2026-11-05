@@ -1,5 +1,3 @@
-###DEC-054311-0-000-28-09-1964@@@
-
 DECRETO Nº 54.311, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Baltazar Rocha de Medeiros a pesquisar fosfato na Ilha do Farol, Atol das Rocas, Estado do Rio Grande do Norte.

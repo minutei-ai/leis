@@ -1,5 +1,3 @@
-###DEC-083018-0-000-11-01-1979@@@
-
 decreto nº 83.018, de 11 de janeiro de 1979
 
 Declara sem efeito o Decreto nº 35.878, de 21 de julho de 1954, que autorizou a Orquima, Indústrias Químicas Reunidas S.A. a lavrar ilmenita e associados no Município de Serra, Estado do Espírito Santo.

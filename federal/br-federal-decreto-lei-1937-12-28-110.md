@@ -1,5 +1,3 @@
-###DEL-000110-0-000-28-12-1937@@@
-
 DECRETO-LEI N. 110 – DE 28 DE DEZEMBRO DE 1937
 
 Dispõe sobre o recurso de decisões do Tribunal de Segurança, Nacional

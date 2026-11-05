@@ -1,5 +1,3 @@
-###DEC-004200-0-000-17-04-2002@@@
-
 DECRETO Nº 4.200, DE 17 DE ABRIL DE 2002
 
 Transfere do Ministério da Defesa para a Casa Civil da Presidência da República a Secretaria-Executiva do Conselho Deliberativo do Sistema de Proteção da Amazônia - SECONSIPAM, altera sua denominação e dá outras providências.

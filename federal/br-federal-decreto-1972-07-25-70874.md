@@ -1,5 +1,3 @@
-###DEC-070874-0-000-25-07-1972@@@
-
 DECRETO Nº 70.874, DE 25 DE JULHO DE 1972.
 
 Declara de utilidade pública o Comitê Nacional de Clubes 4-S, com sede no Rio de Janeiro, Estado de Guanabara.

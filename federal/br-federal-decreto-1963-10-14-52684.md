@@ -1,5 +1,3 @@
-###DEC-052684-0-000-14-10-1963@@@
-
 DECRETO Nº 52.684, DE 14 DE OUTUBRO DE 1963.
 
 Manda aplicar as normas do Decreto nº 50.354, de 17 de março de 1961, modificado pelo Decreto nº 50.392, de 29 de março de 1961, aos estoques e quantidades em trânsito de petróleo e seus derivados, adquiridos antes da vigência dos novos preços daqueles produtos, fixados pelo Conselho Nacional do Petróleo, em consequência da revisão da taxa de câmbio, decorrente das diretrizes da política cambial, consubstanciada nas Instruções ns. 204 e 208, da Superintendência da Moeda e do Crédito.

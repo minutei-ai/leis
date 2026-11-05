@@ -1,7 +1,3 @@
-1
-
-###DEC-098972-0-000-21-02-1990@@@
-
 DECRETO Nº 98.972, DE 21 DE FEVEREIRO DE 1990
 
 Altera e acrescenta o § 3º ao art. 33 do Decreto nº 92.512, de 2 de abril de 1986, que estabelece normas, condições de atendimento e indenizações para assistência médico-hospitalar ao militar e seus dependentes, e dá outras providências.

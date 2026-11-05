@@ -1,5 +1,3 @@
-###DEC-086740-0-000-15-12-1981@@@
-
 Decreto nº 86.740, de 15 de dezembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Rio Branco do Sul II, da Companhia Paranaense de Energia - COPEL, no Estado do Paraná.

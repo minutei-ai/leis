@@ -1,5 +1,3 @@
-###DEC-069151-0-000-31-08-1971@@@
-
 DECRETO Nº 69.151, DE 31 DE AGÔSTO DE 1971.
 
 Dispõe sôbre o enquadramento de servidores do Ministério da Aeronáutica e dá outras providências.

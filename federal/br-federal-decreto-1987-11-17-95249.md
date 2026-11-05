@@ -1,5 +1,3 @@
-###DEC-095249-0-000-17-11-1987@@@
-
 DECRETO N° 95.249, DE 17 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação o imóvel rural denominado "PEDRA PRETA", classificado como latifúndio por exploração, situado nos Municípios de Lago da Pedra e Paulo Ramos, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 2 de maio de 1986, e dá outras providências.

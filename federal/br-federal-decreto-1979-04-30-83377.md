@@ -1,5 +1,3 @@
-###DEC-083377-0-000-30-04-1979@@@
-
 Decreto nº 83.377, de 30 de abril de 1979.
 
 Concede reconhecimento à habilitação em Educação de Deficientes Mentais do curso de Pedagogia, da Universidade Metodista de Piracicaba, Estado de São Paulo.

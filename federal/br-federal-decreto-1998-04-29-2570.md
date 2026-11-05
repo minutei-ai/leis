@@ -1,5 +1,3 @@
-###DEC-002570-0-000-29-04-1998@@@
-
 DECRETO Nº 2.570, DE 29 DE ABRIL DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.359, de 30 de outubro de 1997.

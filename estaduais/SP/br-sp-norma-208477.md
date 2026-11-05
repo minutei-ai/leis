@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208477)<br>
-
 # LEI N° 17.742, DE 12 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 66/2022, do Deputado André do Prado - PL)

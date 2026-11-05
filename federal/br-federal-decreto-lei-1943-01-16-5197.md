@@ -1,5 +1,3 @@
-###DEL-005197-0-000-16-01-1943@@@
-
 DECRETO‑LEI N. 5.197 – DE 16 DE JANEIRO DE 1943
 
 Reconhece sob a denominação de "Serviços Aéreos Cruzeiro do Sul Ltda." a sociedade mercantil a que se referem os decretos ns. 18.075 de 20 de novembro de 1928 e 19.331, de 28 de agosto de 1930, e decreto‑lei número 3.523, de 19 de agosto de 1941.

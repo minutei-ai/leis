@@ -1,5 +1,3 @@
-###DEC-057368-0-000-01-12-1965@@@
-
 DECRETO Nº 57.368, DE 1º DE DEZEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Argos Fluminense, relativa ao aumento do capital social.

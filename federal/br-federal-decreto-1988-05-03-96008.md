@@ -1,5 +1,3 @@
-###DEC-096008-0-000-03-05-1988@@@
-
 DECRETO Nº 96.008, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO UNIVERSITÁRIA METROPOLITANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Brasília - Distrito Federal.

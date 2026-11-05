@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/098e65e8-414b-4cf6-8730-6dd4218464ea/texto#nowhere)
 
-###DEL-000477-0-000-26-02-1969@@@
-
 DECRETO-LEI Nº 477, DE 26 DE Fevereiro DE 1969
 
 Define infrações disciplinares praticadas por professôres, alunos, funcionários ou empregados de estabelecimentos de ensino público ou particulares, e dá outras providências.

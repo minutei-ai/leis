@@ -1,5 +1,3 @@
-###DEC-048697-0-000-04-08-1960@@@
-
 DECRETO Nº 48.697, DE 4 DE AGÔSTO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 34.777 de 12 de dezembro de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, de área de terreno situada no Município de Patos, Estado da Paraíba.

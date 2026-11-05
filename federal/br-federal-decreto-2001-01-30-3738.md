@@ -1,5 +1,3 @@
-###DEC-003738-0-000-30-01-2001@@@
-
 DECRETO Nº 3.738, DE 30 DE JANEIRO DE 2001
 
 Dá nova redação ao inciso I do art. 11 do Estatuto do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

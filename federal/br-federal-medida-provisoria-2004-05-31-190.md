@@ -1,5 +1,3 @@
-###MPV-000190-0-000-31-05-2004@@@
-
 MEDIDA PROVISÓRIA Nº 190, DE 31 DE MAIO 2004
 
 Institui, no âmbito do Programa de Resposta aos Desastres, o Auxílio Emergencial Financeiro para atendimento à população atingida por desastres, incluída nos Municípios em estado de calamidade pública ou situação de emergência, dá nova redação ao § 2º do art. 26 da Lei nº 10.522, de 19 de julho de 2002, ao art. 2º-A da Lei nº 9.604, de 5 de fevereiro de 1998, e dá outras providências.

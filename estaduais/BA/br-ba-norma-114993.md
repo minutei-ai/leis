@@ -6,10 +6,12 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - A Procuradoria Geral do Estado, órgão diretamente subordinado ao Governador, tem a finalidade, competência e estrutura definidas na lei básica da Administração Estadual.
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DOS ÓRGÃOS E DA COMPETÊNCIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO PROCURADOR GERAL DO ESTADO
 
 Art. 2º - A Procuradoria Geral do Estado é dirigida por um Procurador Geral de livre nomeação do Governador, dentre bacharéis em direito com mais de trinta e cinco anos de idade, de notório saber jurídico e reputação ilibada.
@@ -36,7 +38,8 @@ IX - apresentar anualmente ao Governador do Estado, relatório das atividades de
 
 X - exercer outras atribuições ainda que não expressamente definidas nesta lei, mas que sejam inerentes às finalidades da Procuradoria Geral do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO GABINETE
 
 Art. 4º - O Gabinete do Procurador Geral do Estado tem a competência que lhe for atribuída na lei básica da Administração Estadual e será dirigido por um Chefe de Gabinete com as atribuições previstas em lei, para os dirigentes de órgãos de administração geral das Secretarias de Estado.
@@ -45,7 +48,8 @@ Art. 5º - Servirá junto ao Gabinete, com funções de auxiliar, um Procurador 
 
 Art. 6º - Para atender aos seus serviços, o Gabinete da Procuradoria Geral contará com o pessoal discriminado em quadro a ser organizado pelo Poder Executivo, e aprovado pela Assembléia Legislativa.
 
-CAPÍTULOS III -<br>
+CAPÍTULOS III -
+
 DO CONSELHO DE PROCURADORES
 
 Art. 7º - O Conselho de Procuradores tem a competência que lhe for deferida na lei básica da Administração Estadual.
@@ -62,7 +66,8 @@ Art. 11 - Às reuniões do Conselho de Procuradores poderá comparecer qualquer 
 
 Parágrafo único - Essa faculdade não se estende às reuniões de caráter reservado, assim consideradas sempre, sem prejuízo de outras, as que tiverem por finalidade a escolha de nomes para promoção e apreciação de falta funcional.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS PROCURADORIAS DO ESTADO
 
 Art. 12 - As Procuradorias especializadas têm a competência que lhes for deferida na lei básica da Administração Estadual.
@@ -75,7 +80,8 @@ Art. 15 - Servirão nas Procuradorias especializadas tantos Procuradores quantos
 
 Art. 16 - Haverá junto a cada Procurador chefe um Procurador assistente, de sua livre escolha entre os integrantes da carreira, e que o auxiliará em suas tarefas.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DOS PROCURADORES DO ESTADO
 
 Art. 17 - Os cargos técnico-jurídicos de Procurador do Estado constituirão carreira profissional, assim estruturada:
@@ -108,14 +114,25 @@ Art. 22 - Na designação prevista nos artigos anteriores, o Procurador Geral do
 
 Art. 23 - Dos pronunciamentos formulados pelos Procuradores do Estado no exercício de suas funções, excetuados os casos de rotina, deverão ser encaminhadas cópias ao Procurador Geral do Estado, para ciência e controle.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 24 - Ao Procurador Geral do Estado ficam assegurados vencimentos equivalentes ao subsídio de Secretário de Estado.
 
 Art. 25 - Os Procuradores têm vencimentos fixados nos valores abaixo discriminados:
 
-<table style="width: 248.05pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="331" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 5.0cm; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189"><p class="Tabela-Texto"><span>Procuradores de 1ª classe</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>Cr$550.000</span></p></td></tr><tr><td style="width: 5.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189"><p class="Tabela-Texto"><span>Procuradores de 2ª classe</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>Cr$460.000</span></p></td></tr><tr><td style="width: 5.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189"><p class="Tabela-Texto"><span>Procuradores de 3ª classe</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>Cr$360.000</span></p></td></tr></tbody></table>
+Procuradores de 1ª classe
+
+Cr$550.000
+
+Procuradores de 2ª classe
+
+Cr$460.000
+
+Procuradores de 3ª classe
+
+Cr$360.000
 
 Art. 26 - Os vencimentos dos integrantes da carreira de Procurador do Estado serão fixados com observância da proporcionalidade estabelecida nesta lei, com vistas aos de Procurador Geral do Estado.
 
@@ -127,12 +144,14 @@ b) Os cargos de Procurador de 2ª e 3ª classe serão preenchidos pelos restante
 
 § 1º - Os ocupantes dos cargos extintos de Consultor Jurídico, Assistente Jurídico e Auxiliar do 2º Sub-Procurador da Justiça, junto ao Tribunal de Contas enquadrados na 2ª classe da carreira de Procurador, serão enquadrados, a título provisório, na 1ª classe.
 
-Redação de acordo com o art. 4º da Lei nº 2.422, de 15 de dezembro de 1966.<br>
+Redação de acordo com o art. 4º da Lei nº 2.422, de 15 de dezembro de 1966.
+
 Redação original: "§ 1º - Se da aplicação do critério de enquadramento previsto neste artigo resultar a inclusão de algum Consultor Jurídico, Assistente Jurídico, Procurador, Sub-Procurador, e Auxiliar da 2ª Sub- Procuradoria Geral da Justiça, junto ao Tribunal de Contas na 3ª classe da nova carreira, será o mesmo enquadrado na classe imediatamente superior a título provisório."
 
 § 2º - Afastado o servidor mencionado no § 1º do serviço ativo, em caráter definitivo, considerar-se-á o seu cargo extinto, que não se integrará na estrutura da carreira, não ensejando sua vacância, promoção de integrante da 2ª classe.
 
-Redação de acordo com o art. 4º da Lei nº 2.422, de 15 de dezembro de 1966.<br>
+Redação de acordo com o art. 4º da Lei nº 2.422, de 15 de dezembro de 1966.
+
 Redação original: "§ 2º - Promovido o servidor mencionado no parágrafo anterior ou afastado do serviço ativo em caráter definitivo, considerar-se-á extinto o seu cargo, que não se integrará na estrutura da carreira, não ensejando sua vacância promoção de integrante da 3ª classe."
 
 &nbs
@@ -185,4 +204,4 @@ Ivo Braga
 
 João Eurico Matta
 
-* * *
+ *

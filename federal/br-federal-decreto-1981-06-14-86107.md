@@ -1,5 +1,3 @@
-###DEC-086107-0-000-14-06-1981@@@
-
 Decreto nº 86.107, de 14 de junho de 1981.
 
 Declara luto oficial.

@@ -1,5 +1,3 @@
-###DEC-059255-0-000-20-09-1966@@@
-
 DECRETO Nº 59.255, DE 20 DE SETEMBRO DE 1966.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Fazenda, e dá outras providências.

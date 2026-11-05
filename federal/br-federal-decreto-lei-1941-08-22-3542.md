@@ -1,5 +1,3 @@
-###DEL-003542-0-000-22-08-1941@@@
-
 DECRETO-LEI N. 3.542 – DE 22 DE AGOSTO DE 1941
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de quinhentos e dezenove contos de réis (519:000$0) às verbas que especifica

@@ -1,5 +1,3 @@
-###DEC-045505-0-000-27-02-1959@@@
-
 DECRETO Nº 45.505, DE 27 DE Fevereiro DE 1959.
 
 Concede à sociedade Italcable Servizi Cablografici Radiotelegrafici e Radioelettrici - Società Per Azioni, autorização para continuar a funcionar na República.

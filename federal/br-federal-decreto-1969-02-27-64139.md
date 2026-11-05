@@ -1,5 +1,3 @@
-###DEC-064139-0-000-27-02-1969@@@
-
 DECRETO Nº 64.139, DE 27 DE FEVEREIRO DE 1969.
 
 Concede reconhecimento à Escola Superior de Educação Física de Goiás

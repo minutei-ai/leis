@@ -1,5 +1,3 @@
-###DEC-078078-0-000-16-07-1976@@@
-
 DECRETO Nº 78.078 DE 16 DE JULHO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a julho de 1976.

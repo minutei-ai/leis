@@ -1,5 +1,3 @@
-###DEC-075392-0-000-18-02-1975@@@
-
 Decreto nº 75.392, de 18 de fevereiro de 1975.
 
 Declara de utilidade pública, par fins de desapropriação terrenos abrangidos pelos lotes 2 e 3 da Quadra XXVII, do Loteamento denominado "Jardim Caxangá" situado no Bairro da Várzea, em Recife, Estado de Pernambuco, necessários ao Ministério da Aeronáutica.

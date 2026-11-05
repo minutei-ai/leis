@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0f1ce90d-0f81-4f74-a396-baceb216a067/texto#nowhere)
 
-###DEL-000782-0-000-22-08-1969@@@
-
 DECRETO-LEI Nº 782, DE 22 DE AGÔSTO DE 1969
 
 Fixa os vencimentos do Subprocurador-Geral da Justiça Militar.

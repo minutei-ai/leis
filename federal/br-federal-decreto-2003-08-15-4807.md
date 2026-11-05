@@ -1,5 +1,3 @@
-###DEC-004807-0-000-15-08-2003@@@
-
 DECRETO Nº 4.807,  DE 15 DE AGOSTO DE 2003.
 
         Dispõe sobre o remanejamento, até 31 de dezembro de 2003, em caráter excepcional, dos cargos que menciona, e dá outras providências.
@@ -18,6 +16,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 15 de agosto de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Guido Mantega<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Guido Mantega
+
 Ciro Ferreira Gomes

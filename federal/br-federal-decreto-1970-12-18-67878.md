@@ -1,5 +1,3 @@
-###DEC-067878-0-000-18-12-1970@@@
-
 DECRETO Nº 67.878, DE 18 DE DEZEMBRO DE 1970.
 
 Extingue cargos no Quadro de Pessoal do Ministério da Aeronáutica.

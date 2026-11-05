@@ -1,5 +1,3 @@
-###DEC-064922-0-000-04-08-1969@@@
-
 DECRETO Nº 64.922 - DE 04 DE AGôSTO DE 1969.
 
 Dá nova redação ao artigo 9º do Regulamento da Ordem do Mérito Militar, aprovado pelo Decreto número 48.461, de 5 de julho de 1960.

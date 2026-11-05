@@ -1,5 +1,3 @@
-###DEC-069996-0-000-20-01-1972@@@
-
 Decreto Nº 69.996, De 20 de Janeiro de 1972.
 
 Declara de utilidade pública a Sociedade Beneficente Obreiros do Bem, com sede em Araraquara, Estado de São Paulo.

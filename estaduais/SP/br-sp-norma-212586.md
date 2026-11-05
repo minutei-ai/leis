@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212586)<br>
-
 # DECRETO N° 70.592, DE 13 DE MAIO DE 2026
 
 ### _Cria e organiza, no Gabinete do Governador, a Gerência de Apoio do Jaguaré, com vistas ao acompanhamento das medidas e providências necessárias ao atendimento das vítimas e restauração da área atingida pelo acidente ocorrido em 11 de maio de 2026._

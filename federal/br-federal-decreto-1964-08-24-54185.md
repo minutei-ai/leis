@@ -1,5 +1,3 @@
-###DEC-054185-0-000-24-08-1964@@@
-
 DECRETO Nº 54.185, DE 24 DE AGôSTO DE 1964.
 
 Autoriza a Emprêsa Brasileira de Engenharia S.A. a pesquisar ouro, no município de São Felix do Xingu, Estado do Pará.

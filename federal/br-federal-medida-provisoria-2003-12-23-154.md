@@ -1,5 +1,3 @@
-###MPV-000154-0-000-23-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 154, DE 23 DE DEZEMBRO 2003.
 
 Autoriza a Fundação Oswaldo Cruz \- FIOCRUZ a disponibilizar medicamentos, mediante ressarcimento, e dá outras providências.

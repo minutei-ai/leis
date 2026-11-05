@@ -1,5 +1,3 @@
-###DEC-074583-0-000-20-09-1974@@@
-
 DECRETO Nº 74.583, DE 20 DE SETEMBRO DE 1974.
 
 Dá nova redação ao artigo 1º do Decreto-lei nº 74, de 21 de novembro de 1966, que cria o Conselho Federal de Cultura.

@@ -1,5 +1,3 @@
-###MPV-001708-0-005-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.708-5, DE 27 DE NOVEMBRO DE 1998.
 
 Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências.

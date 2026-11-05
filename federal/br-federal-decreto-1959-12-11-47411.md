@@ -1,5 +1,3 @@
-###DEC-047411-0-000-11-12-1959@@@
-
 DECRETO Nº 47.411, DE 11 DE DEZEMBRO DE 1959.
 
 Autoriza Leon Grunberg Monte a comprar pedras preciosas.

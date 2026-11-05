@@ -1,5 +1,3 @@
-###DEC-053001-0-000-27-11-1963@@@
-
 DECRETO Nº 53.001, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Leão Benedito de Araújo Novais a lavrar areia quartzosa no município de Itanhaem, Estado de São Paulo.

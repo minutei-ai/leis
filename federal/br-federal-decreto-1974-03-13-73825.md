@@ -1,5 +1,3 @@
-###DEC-073825-0-000-13-03-1974@@@
-
 DECRETO Nº 73.825, DE 13 DE MARÇO  DE 1974.
 
 Torna sem efeito aproveitamento de disponível do IPASE no Quadro de Pessoal do Ministério da Marinha e cassa a sua disponibilidade.

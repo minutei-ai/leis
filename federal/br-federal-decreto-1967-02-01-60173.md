@@ -1,5 +1,3 @@
-###DEC-060173-0-000-01-02-1967@@@
-
 DECRETO Nº 60.173, DE 1 DE FEVEREIRO DE 1967.
 
 Suprime cargos vagos no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado - Hospital dos Servidores do Estado.

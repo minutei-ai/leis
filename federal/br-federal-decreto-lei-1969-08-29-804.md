@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ffe7fa2e-b7ac-4a59-9ad5-4f4ae4fdcda0/texto#nowhere)
 
-###DEL-000804-0-000-29-08-1969@@@
-
 DECRETO-LEI Nº 804, DE 29 DE AGôSTO DE 1969
 
 Declara de utilidade pública para fins de desapropriação, os imóveis necessários à construção de uma estação receptora de energia elétrica, na cidade do Rio de Janeiro, Estado da Guanabara.

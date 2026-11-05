@@ -1,5 +1,3 @@
-###DEL-002201-0-000-27-12-1984@@@
-
 # Decreto-lei nº 2.201, de 27 de dezembro de 1984.
 
 Reajusta o valor do soldo base do cálculo da remuneração dos militares.

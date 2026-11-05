@@ -1,14 +1,12 @@
-###DEC-034380-0-000-27-10-1953@@@
+**DECRETO Nº 34.380, DE 27 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.380, DE 27 DE OUTUBRO DE 1953.</strong>
+***Dispõe sobre os documentos comprobatórios de estar o cidadão em dia com suas obrigações militares.***
 
-<em><strong>Dispõe sobre os documentos comprobatórios de estar o cidadão em dia com suas obrigações militares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São considerados como prova de estar o cidadão em dia com suas obrigações militares:
+**Art**. 1º São considerados como prova de estar o cidadão em dia com suas obrigações militares:
 
 a) certificado de reservista;
 
@@ -38,11 +36,11 @@ n) atestado passado pelo Serviço Militar de Recrutamento para os matriculados n
 
 o) provisão de reforma para as praças reformadas.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de outubro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Tancredo de Almeida Neves
 

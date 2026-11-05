@@ -1,5 +1,3 @@
-###DEL-006694-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.694 – DE 14 DE JULHO DE 1944
 
 Eleva a Taxa de Educação e Saúde de Cr$ 0,20 para Cr$ 0,40, e dá outras providências

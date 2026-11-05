@@ -1,5 +1,3 @@
-###MPV-001943-0-056-23-08-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-56, DE 23 de agosto DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048801-0-000-12-08-1960@@@
-
 DECRETO Nº 48.801, DE 12 DE AGÔSTO DE 1960.
 
 Concede à Usina Mateus Leme S.A (Usina) autorização para funcionar como emprêsa de mineração.

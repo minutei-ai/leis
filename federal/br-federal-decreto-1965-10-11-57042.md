@@ -1,5 +1,3 @@
-###DEC-057042-0-000-11-10-1965@@@
-
 Decreto nº 57.042, de 11 de outubro de 1965.
 
 Retifica o art. 22 do Decreto número 55.279, de 22 de dezembro de 1964.

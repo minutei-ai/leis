@@ -24,20 +24,68 @@ Programa: 0303 Apoio à Ação Judiciária e Segurança Pública
 
 Atividade: 2007 Apoio a manutenção do corpo de bombeiros
 
-<table><thead></thead><tbody><tr><td style="text-align:justify">Cod. Da despesa</td><td style="text-align:justify">Descrição</td><td style="text-align:justify">R$ Orçamento Inicial</td></tr><tr><td style="text-align:center">3.1.90.11</td><td style="text-align:justify">Vencimentos Vantag. Fixas – pessoal</td><td style="text-align:right">2.601,00</td></tr><tr><td style="text-align:center">3.3.90.30</td><td style="text-align:justify">Material de consumo</td><td style="text-align:right">100,00</td></tr><tr><td style="text-align:center">3.3.90.36</td><td style="text-align:justify">Outros servi. Terceiros – pessoa física</td><td style="text-align:right">9.000,00</td></tr><tr><td style="text-align:center">3.3.90.39</td><td style="text-align:justify">Outros serv. Terceiros – pessoa jurídica</td><td style="text-align:right">8.325,00</td></tr><tr><td style="text-align:center">4.4.90.51</td><td style="text-align:justify">Obras e instalações</td><td style="text-align:right">130.625,00</td></tr><tr><td style="text-align:center">4.4.90.52</td><td style="text-align:justify">Equipamentos e Material Permanente</td><td style="text-align:right">100,00</td></tr><tr><td style="text-align:justify">&nbsp;</td><td style="text-align:justify">TOTAL</td><td style="text-align:right">150.751,00</td></tr></tbody></table>
+Cod. Da despesa
+
+Descrição
+
+R$ Orçamento Inicial
+
+3.1.90.11
+
+Vencimentos Vantag. Fixas – pessoal
+
+2.601,00
+
+3.3.90.30
+
+Material de consumo
+
+100,00
+
+3.3.90.36
+
+Outros servi. Terceiros – pessoa física
+
+9.000,00
+
+3.3.90.39
+
+Outros serv. Terceiros – pessoa jurídica
+
+8.325,00
+
+4.4.90.51
+
+Obras e instalações
+
+130.625,00
+
+4.4.90.52
+
+Equipamentos e Material Permanente
+
+100,00
+
+TOTAL
+
+150.751,00
 
 Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de julho do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento
 
-CARLOS EDUARDO DE PAULA RODRIGUES<br>
+CARLOS EDUARDO DE PAULA RODRIGUES
+
 Secretário Municipal da Fazenda

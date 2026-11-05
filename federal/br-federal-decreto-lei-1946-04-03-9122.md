@@ -1,5 +1,3 @@
-###DEL-009122-0-000-03-04-1946@@@
-
 DECRETO-LEI N. 9.122 – DE 3 ABRIL DE 1946
 
 Cria a Comissão Nacional do Trigo e dá outras providências

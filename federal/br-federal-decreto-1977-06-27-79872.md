@@ -1,5 +1,3 @@
-###DEC-079872-0-000-27-06-1977@@@
-
 DECRETO Nº 79.872, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Faculdade de Ciências Contábeis e Administrativas de Votuporanga, com sede na Cidade de Votuporanga, Estado de São Paulo.

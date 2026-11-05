@@ -1,5 +1,3 @@
-###DEL-005733-0-000-06-08-1943@@@
-
 DECRETO‑LEI N. 5.733 – DE 6 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Agricultura o crédito Suplementar de Cr$ 31.200,00 à verba que especifica

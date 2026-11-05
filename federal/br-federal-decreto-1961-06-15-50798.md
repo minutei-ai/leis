@@ -1,5 +1,3 @@
-###DEC-050798-0-000-15-06-1961@@@
-
 Decreto Nº 50.798, DE 15 DE JUNHO DE 1961.
 
 Outorga à Companhia Hidrelétrica do Vale do Paraíba - CHEVAP. concessão para o aproveitamento de energia hidráulica existente em um trecho do rio Paraíba, compreendido entre a região do Salto, nos limites dos Estados do Rio de Janeiro e São Paulo, e as corredeiras do Funil, situadas no Distrito de Itatiaia, Município de Resende, Estado do Rio de Janeiro.

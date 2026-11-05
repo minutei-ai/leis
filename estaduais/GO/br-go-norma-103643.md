@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020~~ .
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.913 / 2020
 
 LEI Nº 20.92 7 , DE 21 DE DEZEMBRO DE 2020.
@@ -12,8 +18,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS , em Goiânia, 21 de dezembro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -21,5 +25,3 @@ Governador do Estado
 ÁLVARO GUIMARÃES
 
 Deputado Estadual
-
-~~~~Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020~~ .~~

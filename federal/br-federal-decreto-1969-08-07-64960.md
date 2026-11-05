@@ -1,5 +1,3 @@
-###DEC-064960-0-000-07-08-1969@@@
-
 DECRETO Nº 64.960 - DE 7 DE AGÔSTO DE 1969.
 
 Dá nova redação ao caput do artigo 1º do Decreto nº 63.940, de 30 de dezembro de 1968, que dispõe sôbre a aquisição de aeronaves para emprêsas de transporte aéreo regular.

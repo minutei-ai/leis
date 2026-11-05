@@ -1,5 +1,3 @@
-###DEC-076082-0-000-05-08-1975@@@
-
 DECRETO Nº 76.082 - DE 5 DE Agosto DE 1975
 
 Autoriza o registro, em nome da União Federal, do Terreno que menciona, situado em Curitiba, Estado do Paraná.

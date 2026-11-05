@@ -1,5 +1,3 @@
-###DEC-061986-0-000-28-12-1967@@@
-
 DECRETO Nº 61.986, DE 28 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério dos Transportes, crédito especial de NCr$391.000,00, para o fim que especifica.

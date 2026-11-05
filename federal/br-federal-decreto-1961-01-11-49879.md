@@ -1,5 +1,3 @@
-###DEC-049879-0-000-11-01-1961@@@
-
 DECRETO Nº 49.879, DE 11 DE JANEIRO 1961.
 
 Altera a lotação numérica de repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

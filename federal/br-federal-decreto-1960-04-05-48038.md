@@ -1,5 +1,3 @@
-###DEC-048038-0-000-05-04-1960@@@
-
 DECRETO Nº 48.038, de 5 de abril de 1960.
 
 Autoriza a Companhia Viçosense Fôrça e Luz S.A. a alienar e a Usina Bananal, instalada no Ribeirão Teixeiras, assim como a linha de transmissão entre a dita Usina e a cidade de Viçosa, passando por Teixeiras, no Estado de Minas Gerais.

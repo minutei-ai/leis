@@ -1,5 +1,3 @@
-###DEC-007368-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.368, DE 26 DE NOVEMBRO DE 2010.
 
 Altera o art. 8~~º~~ e os Anexos VII, VIII, IX e X do Decreto n~~º~~ 7.094, de 3 de fevereiro de 2010, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2010, e dá outras providências.

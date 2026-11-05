@@ -1,5 +1,3 @@
-###DEC-055171-0-000-10-12-1964@@@
-
 DECRETO Nº 55.171, DE 10 DE DEZEMBRO DE 1964.
 
 Cria a 11ª Companhia Depósito de Subsistência.

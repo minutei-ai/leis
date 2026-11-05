@@ -1,5 +1,3 @@
-###DEL-007829-0-000-04-08-1945@@@
-
 DECRETO-LEI N. 7.829 – DE 4 DE AGÔSTO DE 1945
 
 Suprime cargo em comissão no Quadro Permanente do Ministério da Justiça e Negócios Interiores

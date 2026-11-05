@@ -1,7 +1,3 @@
-1
-
-###DEC-001157-0-000-21-06-1994@@@
-
 DECRETO N° 1.157, DE 21 DE JUNHO DE 1994
 
 Reduz alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF), nas operações que menciona.

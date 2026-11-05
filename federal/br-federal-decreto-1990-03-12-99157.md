@@ -1,7 +1,3 @@
-1
-
-###DEC-099157-0-000-12-03-1990@@@
-
 DECRETO Nº 99.157, DE 12 DE MARÇO DE 1990
 
 Outorga concessão à Rádio Vale do Iguaçu do Verê Ltda., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Verê, Estado do Paraná.

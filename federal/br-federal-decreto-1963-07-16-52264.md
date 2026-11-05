@@ -1,5 +1,3 @@
-###DEC-052264-0-000-16-07-1963@@@
-
 DECRETO Nº 52.264, DE 16 DE JULHO DE 1963.
 
 Altera a redação do art. 2º e seu parágrafo do Decreto nº 50.685, de 31 de maio de 1961.

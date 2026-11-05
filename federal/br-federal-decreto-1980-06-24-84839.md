@@ -1,5 +1,3 @@
-###DEC-084839-0-000-24-06-1980@@@
-
 Decreto nº 84.839, de 24 de junho de 1980.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia - COELBA concessão para o aproveitamento da energia hidráulica de um trecho do rio Sincorá, no Município de Barra da Estiva, Estado da Bahia.

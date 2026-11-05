@@ -1,5 +1,3 @@
-###DEC-076549-0-000-04-11-1975@@@
-
 DECRETO Nº 76.549, 4 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciência e Letras, com sede na cidade de Ituverava, Estado de São Paulo.

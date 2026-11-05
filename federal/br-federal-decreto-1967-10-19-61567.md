@@ -1,5 +1,3 @@
-###DEC-061567-0-000-19-10-1967@@@
-
 Decreto nº 61.567, de 19 de outubro de 1967.
 
 Declara caduco o Decreto nº 23.290, de 8 de julho de 1947.

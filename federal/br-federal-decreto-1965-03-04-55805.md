@@ -1,5 +1,3 @@
-###DEC-055805-0-000-04-03-1965@@@
-
 DECRETO Nº 55.805, DE 4 DE MARÇO DE 1965.
 
 Altera o Regulamento de Promoções para Oficiais da Marinha.

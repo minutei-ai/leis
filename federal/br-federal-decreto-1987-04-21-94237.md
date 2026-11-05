@@ -1,5 +1,3 @@
-###DEC-094237-0-000-21-04-1987@@@
-
 DECRETO Nº 94.237, DE 21 DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Macaco", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Itapipoca, no Estado do Ceará e, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

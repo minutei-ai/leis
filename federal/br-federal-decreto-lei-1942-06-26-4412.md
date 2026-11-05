@@ -1,5 +1,3 @@
-###DEL-004412-0-000-26-06-1942@@@
-
 DECRETO-LEI N. 4.412 – DE 26 DE JUNHO DE 1942
 
 Organiza o Estabelecimento de Material de Intendência da 7ª Região Militar

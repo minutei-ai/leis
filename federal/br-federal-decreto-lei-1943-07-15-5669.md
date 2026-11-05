@@ -1,5 +1,3 @@
-###DEL-005669-0-000-15-07-1943@@@
-
 DECRETO‑LEI N. 5.669 – DE 15 DE JULHO DE 1943
 
 Isenta o imóvel sito à rua Real Grandeza nº 99, antigo 71, dos impostos e Taxas que menciona.

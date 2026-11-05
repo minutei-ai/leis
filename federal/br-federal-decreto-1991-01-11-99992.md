@@ -1,7 +1,3 @@
-1
-
-###DEC-099992-0-000-11-01-1991@@@
-
 DECRETO Nº 99.992, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, a área de terra que menciona.

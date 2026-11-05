@@ -1,5 +1,3 @@
-###DEC-062346-0-000-04-03-1968@@@
-
 decreto nº 62.346, de 4 de março de 1968.
 
 Declara de utilidade pública a “Casa Providência”, com sede em Petrópolis, Estado do Rio de Janeiro.

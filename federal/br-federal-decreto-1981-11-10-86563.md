@@ -1,5 +1,3 @@
-###DEC-086563-0-000-10-11-1981@@@
-
 Decreto nº 86.563, de 10 de novembro de 1981.
 
 Declara de utilidade pública a instituição que menciona.

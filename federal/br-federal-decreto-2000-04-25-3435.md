@@ -1,5 +1,3 @@
-###DEC-003435-0-000-25-04-2000@@@
-
 DECRETO Nº 3.435, DE 25 DE ABRIL DE 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Argentina sobre Isenção de Vistos, celebrado em São Borja, em 9 de dezembro de 1997.
@@ -84,4 +82,22 @@ Artigo 8º
 
 Feito na cidade de são Borja, Rio Grande do Sul, República Federativa do Brasil, em 09 de dezembro de 1997, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:223.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td></tr><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil</span></p></td><td style="width:223.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Argentina</span></p></td></tr><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Luiz Felipe Lampreia</span></p></td><td style="width:223.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Guido di Tella</span></p></td></tr><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministro de Estado das</span></p></td><td style="width:223.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministro de Relações</span></p></td></tr><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Relações Exteriores</span></p></td><td style="width:223.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Argentina
+
+Luiz Felipe Lampreia
+
+Guido di Tella
+
+Ministro de Estado das
+
+Ministro de Relações
+
+Relações Exteriores
+
+Exteriores

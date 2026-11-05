@@ -1,5 +1,3 @@
-###DEL-009265-0-000-17-05-1946@@@
-
 DECRETO-LEI N. 9.265 – DE 17 MAIO DE 1946
 
 Cria no Ministério da Marinha, o Departamento de Esportes da Marinha e dá outras providências.

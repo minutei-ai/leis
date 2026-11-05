@@ -1,5 +1,3 @@
-###DEC-075179-0-000-31-12-1974@@@
-
 DECRETO nº 75.179, de 31 de Dezembro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A., Estado de Goiás.

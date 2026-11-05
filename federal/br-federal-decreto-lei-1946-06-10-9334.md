@@ -1,5 +1,3 @@
-###DEL-009334-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.334 – DE 10 DE JUNHO DE 1946
 
 Extingue os Comandos das 1ª e 2ª Brigadas de Infantaria.

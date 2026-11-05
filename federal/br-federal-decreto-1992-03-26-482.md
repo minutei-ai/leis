@@ -1,7 +1,3 @@
-1
-
-###DEC-000482-0-000-26-03-1992@@@
-
 DECRETO N° 482, DE 26 DE MARÇO DE 1992
 
 Dispõe sobre o cadastramento de terras públicas de que trata o Sistema Nacional de Cadastro Rural.

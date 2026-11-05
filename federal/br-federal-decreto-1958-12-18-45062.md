@@ -1,5 +1,3 @@
-###DEC-045062-0-000-18-12-1958@@@
-
 DECRETO Nº 45.062, DE 18 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública e autoriza a sua desapropriação imóveis que menciona, situados na cidade de Recife, no Estado de Pernambuco, necessários ao Serviço do Exército.

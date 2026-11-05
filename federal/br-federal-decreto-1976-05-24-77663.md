@@ -1,5 +1,3 @@
-###DEC-077663-0-000-24-05-1976@@@
-
 DECRETO Nº 77.663, DE 24 DE MAIO DE 1976
 
 Concede a Josué Xavier Gil - firma individual, o direito de lavrar calcário dolomítico no Município de Itararé, Estado de São Paulo.

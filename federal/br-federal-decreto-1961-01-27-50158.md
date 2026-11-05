@@ -1,5 +1,3 @@
-###DEC-050158-0-000-27-01-1961@@@
-
 DECRETO Nº 50.158, DE 27 DE JANEIRO DE 1961.
 
 Estende aos servidores do Departamento Nacional de Seguros Privados e Capitalização do Ministério do Trabalho, Indústria e Comércio, as vantagens previstas no Art. 8º da Lei nº 3.756, de 20 de abril de 1960.

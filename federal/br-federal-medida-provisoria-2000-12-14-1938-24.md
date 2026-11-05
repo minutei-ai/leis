@@ -1,5 +1,3 @@
-###MPV-001938-0-024-14-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.398-24, DE 14 de dezembro DE 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

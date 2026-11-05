@@ -112,8 +112,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 20 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -203,7 +201,8 @@ ANEXO II
 
 "ANEXO III
 
-TABELA DE CARGOS DE PROVIMENTO EM COMISSÃO<br>
+TABELA DE CARGOS DE PROVIMENTO EM COMISSÃO
+
 QUE NÃO INTEGRAM A ESTRUTURA BÁSICA OU COMPLEMENTAR
 
 | NÍVEL | DENOMINAÇÃO DO CARGO | SÍMBOLO | QUANTIDADE | SUBSÍDIO |

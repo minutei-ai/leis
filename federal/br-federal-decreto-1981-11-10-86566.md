@@ -1,5 +1,3 @@
-###DEC-086566-0-000-10-11-1981@@@
-
 Decreto Nº 86.566, DE 10 de NOVEMBRO DE 1981.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972.

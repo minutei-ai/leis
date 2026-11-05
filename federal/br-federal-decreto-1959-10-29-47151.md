@@ -1,5 +1,3 @@
-###DEC-047151-0-000-29-10-1959@@@
-
 decreto nº 47.151, de 29 de outubro de 1959.
 
 Concede à Mármores e Pedras do Brasil S.A. autorização para continuar a funcionar como emprêsa de mineração.

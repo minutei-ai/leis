@@ -1,5 +1,3 @@
-###DEC-068472-0-000-06-04-1971@@@
-
 DECRETO Nº 68.472 - DE 6 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Sociedade Notre Dame, com sede em Brasília, Distrito Federal.

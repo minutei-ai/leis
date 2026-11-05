@@ -1,5 +1,3 @@
-###DEC-004914-0-000-11-12-2003@@@
-
 DECRETO Nº 4.914 DE 11 DE DEZEMBRO DE 2003.
 
        Dispõe sobre os centros universitários de que trata o art. 11 do Decreto nº 3.860, de 9 de julho de 2001, e dá outras providências.

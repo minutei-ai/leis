@@ -1,5 +1,3 @@
-###DEC-004494-0-000-03-12-2002@@@
-
 DECRETO Nº 4.494, DE 3 DE DEZEMBRO DE 2002
 
 Regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

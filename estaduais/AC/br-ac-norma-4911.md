@@ -1,6 +1,10 @@
 > **LEI Nº 3.800, DE 12 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o atendimento prioritário ao diabético em toda rede pública e privada de saúde do Estado, durante a realização de exames que necessitem de jejum.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o atendimento prioritário ao diabético em toda rede pública e privada de saúde do Estado, durante a realização de exames que necessitem de jejum.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

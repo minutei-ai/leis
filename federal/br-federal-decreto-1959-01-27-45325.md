@@ -1,5 +1,3 @@
-###DEC-045325-0-000-27-01-1959@@@
-
 DECRETO Nº 45.325, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Roberto Westphal a pesquisar calcário no município de Rio do Sul, Estado de Santa Catarina.

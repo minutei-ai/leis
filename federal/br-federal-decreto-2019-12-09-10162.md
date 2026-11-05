@@ -30,4 +30,4 @@ Brasília, 9 de dezembro de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Abraham Bragança de Vasconcellos Weintraub<br>
+Abraham Bragança de Vasconcellos Weintraub

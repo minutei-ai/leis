@@ -1,5 +1,3 @@
-###DEC-061480-0-000-05-10-1967@@@
-
 DECRETO Nº 61.480, DE 5 DE OUTUBRO DE 1967.
 
 Altera o Decreto número 61.330, de 11 de setembro de 1967.

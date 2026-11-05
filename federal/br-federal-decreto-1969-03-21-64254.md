@@ -1,5 +1,3 @@
-###DEC-064254-0-000-21-03-1969@@@
-
 DECRETO Nº 64.254, DE 21 DE MARÇO DE 1969.
 
 Torna sem efeito a autorização conferida pelo Decreto 11.539, de 8 de fevereiro de 1943.

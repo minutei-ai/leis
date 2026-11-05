@@ -1,5 +1,3 @@
-###MPV-001936-0-043-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.936-43, DE 3 DE Fevereiro DE 2000.
 
 Altera a redação dos arts. 14, 18, 34, 44 e 49 da Lei nº 9.082, de 25 de julho de 1995, dos arts. 18, 19, 34, 35 e do § 4º do art. 53 da Lei nº 9.293, de 15 de julho de 1996, que dispõem, respectivamente, sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996 e 1997.

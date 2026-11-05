@@ -1,5 +1,3 @@
-###DEC-079716-0-000-23-05-1977@@@
-
 decreto nº 79.716, de 23 de maio de 1977.
 
 Altera dispositivo do Regulamento para a Diretoria do Pessoal Civil da Marinha, aprovado pelo Decreto nº 66.251, de 23 de fevereiro de 1970, alterado pelo Decreto nº 66.873, de 15 de julho de 1970.

@@ -1,5 +1,3 @@
-###DEC-069173-0-000-09-09-1971@@@
-
 Decreto Nº 69.173, de 9 de setembro de 1971.
 
 Retifica o artigo 1º do Decreto número 15.918, de 28 de julho de 1944.

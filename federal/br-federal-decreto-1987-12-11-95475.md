@@ -1,5 +1,3 @@
-###DEC-095475-0-000-11-12-1987@@@
-
 DECRETO Nº 95.475, DE 11 DE DEZEMBRO DE 1987
 
 Dá nova redação ao art. 1º do Decreto nº 91.796, de 17 de outubro de 1985.

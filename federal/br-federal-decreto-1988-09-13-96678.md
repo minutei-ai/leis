@@ -1,5 +1,3 @@
-###DEC-096678-0-000-13-09-1988@@@
-
 DECRETO N° 96.678, DE 13 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO OESTE DA PARAÍBA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Cajazeiras, Estado da Paraíba.

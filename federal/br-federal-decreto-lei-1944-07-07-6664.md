@@ -1,5 +1,3 @@
-###DEL-006664-0-000-07-07-1944@@@
-
 DECRETO-LEI N. 6.664 – DE 7 DE JULHO DE 1944
 
 Altera a redação do art. 1º do Decreto-lei nº 6.587, de 14 de junho de 1944

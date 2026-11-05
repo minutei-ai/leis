@@ -1,5 +1,3 @@
-###DEC-096677-0-000-12-09-1988@@@
-
 DECRETO Nº 96.677 DE 12 DE SETEMBRO DE 1988
 
 Fixa o limite a que  se refere o § 1º do art. 6º do Decreto-Lei nº 2.425, de 7 de abril de 1988.

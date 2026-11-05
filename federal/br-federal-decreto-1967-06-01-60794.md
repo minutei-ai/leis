@@ -1,5 +1,3 @@
-###DEC-060794-0-000-01-06-1967@@@
-
 DECRETO Nº 60.794, DE 1 DE JUNHO DE 1967.
 
 Retifica o primeiro considerando e o parágrafo 2º do artigo 2º do Decreto número 60.610, de 24 de abril de 1967.

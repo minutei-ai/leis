@@ -1,5 +1,3 @@
-###DEC-077993-0-000-08-07-1976@@@
-
 DECRETO Nº 77.993, DE 8 DE JULHO DE 1976.
 
 Cassa a concessão outorgada à Rádio Educadora Vera Cruz Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Passo Fundo, Estado do Rio Grande do Sul.

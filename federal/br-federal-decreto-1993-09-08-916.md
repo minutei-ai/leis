@@ -1,7 +1,3 @@
-1
-
-###DEC-000916-0-000-08-09-1993@@@
-
 # DECRET0 Nº 916, DE 8 DE SETEMBR0 DE 1993
 
 Consolida o regulamento da Lei n º 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional - NTN e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001968-0-003-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.968-3, de 3 de fevereiro DE 2000.
 
 Altera dispositivos da Lei nº 9.870, de 23 de novembro de 1999, que dispõe sobre o valor total das anuidades escolares.

@@ -1,5 +1,3 @@
-###DEC-057144-0-000-01-11-1965@@@
-
 DECRETO Nº 57.144, de 1º de novembros de 1965.
 
 Abre crédito especial, pelo Ministério da Fazenda, autorizado pela Lei nº 4.271, de 24.10.1963 e revigorado pela Lei nº 4.699, de 28 de junho de 1965.

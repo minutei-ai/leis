@@ -1,5 +1,3 @@
-###DEC-049092-0-000-08-10-1960@@@
-
 DECRETO Nº 49.092, DE 8 DE OUTUBRO DE 1960.
 
 Emprêsa civil considerada de interêsse militar.

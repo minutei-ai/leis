@@ -1,5 +1,3 @@
-###DEC-079592-0-000-26-04-1977@@@
-
 DECRETO Nº 79.592, DE 26 DE ABRIL DE 1977.
 
 Concede à S.A. Mineração da Trindade o direito de lavrar minério de ferro nos Municípios de Mariana e Ouro Preto, Estado de Minas Gerais.

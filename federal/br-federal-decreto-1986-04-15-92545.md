@@ -1,5 +1,3 @@
-###DEC-092545-0-000-15-04-1986@@@
-
 DECRETO Nº 92.545, DE 15 DE ABRIL DE 1986
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-068139-0-000-29-01-1971@@@
-
 DECRETO Nº 68 139, DE 29 DE JANEIRO DE 1971.
 
 Concede nacionalização à sociedade Metro Goldwyn-Mayer do Brasil, sob a denominação de metro-goldwyn-mayer Filmes do Brasil S.A.

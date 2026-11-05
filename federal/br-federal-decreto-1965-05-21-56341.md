@@ -1,5 +1,3 @@
-###DEC-056341-0-000-21-05-1965@@@
-
 Decreto nº 56.341, de 21 de maio de 1965.
 
 Outorga ao Município de Cururupu, Estado do Maranhão, concessão para distribuir energia elétrica.

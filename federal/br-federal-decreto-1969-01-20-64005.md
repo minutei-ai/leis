@@ -1,5 +1,3 @@
-###DEC-064005-0-000-20-01-1969@@@
-
 DECRETO Nº 64.005, DE 20 DE JANEIRO DE 1969.
 
 Cria o Hospital do Comando Naval de Brasília e dá outras providências.

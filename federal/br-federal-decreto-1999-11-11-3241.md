@@ -1,5 +1,3 @@
-###DEC-003241-0-000-11-11-1999@@@
-
 DECRETO Nº 3.241, DE 11 DE NOVEMBRO DE 1999.
 
 Promulga a Convenção Interamericana sobre a Permissão Internacional de Radioamador, concluída em Montrouis, Haiti, em 8 de junho de 1995.
@@ -156,7 +154,7 @@ Convenção Interamericana sobre a Permissão Internacional de Radioamador
 
 Anexo
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:290.7pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Permissão Internacional de Radiamador</span></p></td></tr></tbody></table>
+Permissão Internacional de Radiamador
 
 Nome da Convenção e data
 
@@ -168,7 +166,7 @@ Selo ou logotipo com o endereço
 
 Da autoridade emissora
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:290.7pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Selo da Autoridade Emissora *******************</span></p></td></tr></tbody></table>
+Selo da Autoridade Emissora ***
 
 Assinatura da autoridade Emissora
 
@@ -181,8 +179,6 @@ Esta permissão é válida nos territórios de todos os Estados Partes na Conven
 Relação de Estados Partes na Convenção
 
 (em: \[dia, mês, ano\])
-
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:441.9pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
 
 Fica entendido que esta permissão não afeta de nenhuma maneira a obrigação do portador a observar estritamente as leis e regulamentações relativas à operação de estações de radioamador e radioamador por satélite no país no qual se opera a estação.
 
@@ -228,7 +224,9 @@ Página 4:
 
 8\. .......................................................................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:139.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Classe 1</span></p></td><td style="width:169.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:109.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:169.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:109.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Classe 2</span></p></td><td style="width:169.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:109.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Classe 1
+
+Classe 2
 
 ......................................................................................................................................................
 

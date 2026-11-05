@@ -1,5 +1,3 @@
-###DEC-072694-0-000-24-08-1973@@@
-
 DECRETO Nº 72.694, DE 24 DE AGOSTO DE 1973.
 
 Prorroga o disposto no artigo 1º do Decreto nº 70.957, de 9 de agosto de 1972.

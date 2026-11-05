@@ -181,7 +181,3 @@ O Presidente, ........ (Assinatura do Presidente)
 (2) Se o município tiver de ficar com um único distrito, suprima-se esta última parte da frase: "bem assim os demais, etc.".
 
 (\*) O anexo nº 2, que é parte integrante deste decreto-lei, será publicado oportunamente.
-
-\================================================================
-
-Data da última atualização: 06/09/2006.

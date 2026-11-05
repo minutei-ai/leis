@@ -1,7 +1,3 @@
-1
-
-###DEC-095882-0-000-29-03-1988@@@
-
 # DECRETO N° 95.882, DE 29 DE MARÇO DE 1988
 
 Outorga concessão à Rádio Iracema de Ipu Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ipu, Estado do Ceará.

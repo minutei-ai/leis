@@ -6,11 +6,10 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso das atribuições constitucionais e
 
 **DECRETA:**
 
-Art. 1º O Anexo XIII do Decreto nº [4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com a seguinte redação:<br>
-<br>
+Art. 1º O Anexo XIII do Decreto nº [4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com a seguinte redação:
 
-“**CAPÍTULO XV**<br>
-<br>
+“**CAPÍTULO XV**
+
 DO REGIME ESPECIAL DE SIMPLIFICAÇÃO DO PROCESSO DE EMISSÃO DE DOCUMENTOS FISCAIS ELETRÔNICOS
 
 Art. 80. Fica instituído o Regime Especial da Nota Fiscal Fácil – NFF, para a simplificação do processo de emissão, pelos contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, dos seguintes documentos fiscais eletrônicos (Ajuste SINIEF 37/19, cláusula primeira):
@@ -186,8 +185,6 @@ Art. 91. O Secretário de Estado da Economia poderá expedir atos complementares
 Art. 2º Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir do primeiro dia do mês subsequente ao de sua publicação.
 
 Goiânia, 22 de dezembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

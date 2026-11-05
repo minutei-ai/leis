@@ -1,5 +1,3 @@
-###DEL-003861-0-000-22-11-1941@@@
-
 DECRETO-LEI N. 3.861 – DE 22 DE NOVEMBRO DE 1941
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 48:000$0, para aquisição de becas

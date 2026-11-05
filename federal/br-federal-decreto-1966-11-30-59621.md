@@ -1,5 +1,3 @@
-###DEC-059621-0-000-30-11-1966@@@
-
 DECRETO Nº 59.621, DE 30 DE NOVEMBRO DE 1966.
 
 Ministério da Fazenda. Abertura de crédito especial de Cr$62.704.650, para atender ao cumprimento de decisão unânime do Supremo Tribunal Federal.

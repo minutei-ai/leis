@@ -1,5 +1,3 @@
-###DEC-091981-0-000-25-11-1985@@@
-
 Decreto nº 91.981, de 25 de novembro de 1985.
 
 Estabelece critérios para absorção de custos relativos à Unidade I da Central Nuclear Almirante Álvaro Alberto - Angra I, excedentes a opção hidroelétrica.

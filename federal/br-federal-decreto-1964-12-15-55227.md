@@ -1,5 +1,3 @@
-###DEC-055227-0-000-15-12-1964@@@
-
 decreto nº 55.227, de 15 de dezembro de 1964.
 
 Renova a concessão outorgada á Rádio Cultura da Bahia S.A., pelo Decreto nº 26.470-49.

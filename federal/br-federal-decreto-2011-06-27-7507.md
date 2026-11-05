@@ -1,5 +1,3 @@
-###DEC-007507-0-000-27-06-2011-PUB-01@@@
-
 DECRETO Nº 7.507, DE 27 DE JUNHO DE 2011
 
 Dispõe sobre a movimentação de recursos federais transferidos a Estados, Distrito Federal e Municípios, em decorrência das leis citadas.

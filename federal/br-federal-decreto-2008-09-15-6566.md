@@ -1,5 +1,3 @@
-###DEC-006566-0-000-15-09-2008@@@
-
 DECRETO Nº 6.566, DE 15 DE SETEMBRO DE 2008.
 
 Dá nova redação ao § 1o do art. 15 do Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.      

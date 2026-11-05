@@ -1,7 +1,3 @@
-1
-
-###DEC-097613-0-000-05-04-1989@@@
-
 DECRETO N° 97.613, DE 05 DE ABRIL DE 1989
 
 Autoriza a transferência de imóveis necessários à implantação do Pólo Petroquímico do Rio de Janeiro e dá outras providências.

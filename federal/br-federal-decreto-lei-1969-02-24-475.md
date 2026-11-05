@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/77d3af75-7181-4d9d-ac9d-2a4262840d42/texto#nowhere)
 
-###DEL-000475-0-000-24-02-1969@@@
-
 DECRETO-LEI Nº 475, DE 24 DE FEVEREIRO DE 1969
 
 Acrescenta parágrafo único ao artigo 26 da Lei nº 4.878, de 3 de dezembro de 1965.

@@ -1,5 +1,3 @@
-###DEC-053924-0-000-20-05-1964@@@
-
 Decreto nº 53.924, de 20 de maio de 1964.
 
 Altera a denominação de estabelecimento de ensino.

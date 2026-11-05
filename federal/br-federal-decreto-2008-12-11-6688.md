@@ -1,5 +1,3 @@
-###DEC-006688-0-000-11-12-2008@@@
-
 DECRETO Nº 6.688, DE 11 DE DEZEMBRO DE 2008.
 
 Excepciona a aplicação do intervalo de movimentação e aumenta o valor de saque de conta vinculada do Fundo de Garantia do Tempo de Serviço - FGTS, estabelecidos no art. 4o do Decreto no 5.113, de 22 de junho de 2004, para os atingidos pela enchente em Santa Catarina.

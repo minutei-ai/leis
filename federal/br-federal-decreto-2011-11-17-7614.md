@@ -1,5 +1,3 @@
-###DEC-007614-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.614, DE 17 DE NOVEMBRO DE 2011
 
 Reduz a zero as alíquotas do Imposto sobre Produtos Industrializados - IPI incidente sobre produtos utilizados por pessoas com deficiência.

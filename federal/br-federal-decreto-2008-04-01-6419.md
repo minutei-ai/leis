@@ -1,5 +1,3 @@
-###DEC-006419-0-000-01-04-2008@@@
-
 DECRETO Nº 6.419, DE 1º DE ABRIL DE 2008.
 
 Acresce dispositivo ao inciso I do art. 328 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Edison Lobão
-
-Este texto não substitui o publicado no DOU de 2.4.2008

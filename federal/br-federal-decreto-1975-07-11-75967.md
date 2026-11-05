@@ -1,5 +1,3 @@
-###DEC-075967-0-000-11-07-1975@@@
-
 Decreto nº 75.967 - de 11 de julho de 1975
 
 Reintegra o Instituto Evandro Chagas na estrutura da Fundação Serviços de Saúde Pública.

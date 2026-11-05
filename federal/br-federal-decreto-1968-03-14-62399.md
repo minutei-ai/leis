@@ -1,5 +1,3 @@
-###DEC-062399-0-000-14-03-1968@@@
-
 DECRETO Nº 62.399, DE 14 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de Maringá” com sede em Maringá – Estado do Paraná.

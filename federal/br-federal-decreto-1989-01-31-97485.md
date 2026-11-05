@@ -1,5 +1,3 @@
-###DEC-097485-0-000-31-01-1989@@@
-
 DECRETO N° 97.485, DE 31 DE JANEIRO DE 1989
 
 Transfere dotações orçamentárias de Ministérios extintos, e dá outras providências.

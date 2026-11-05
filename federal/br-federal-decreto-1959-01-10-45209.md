@@ -1,5 +1,3 @@
-###DEC-045209-0-000-10-01-1959@@@
-
 Decreto nº 45.209, de 10 de Janeiro de 1959.
 
 Abre crédito extraordinário.

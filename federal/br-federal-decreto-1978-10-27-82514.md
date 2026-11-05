@@ -1,5 +1,3 @@
-###DEC-082514-0-000-27-10-1978@@@
-
 Decreto nº 82.514, de 27 de outubro de 1978.
 
 Concede à EQUIPAV S.A. - Pavimentação, Engenharia e Comércio o direito de lavrar diabásio no Município de Campinas, Estado de São Paulo.

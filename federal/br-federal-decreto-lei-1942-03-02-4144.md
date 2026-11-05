@@ -1,5 +1,3 @@
-###DEL-004144-0-000-02-03-1942@@@
-
 DECRETO-LEI N. 4.144 – DE 2 DE MARÇO DE 1942
 
 Concede abatimento nos preços das passagens nos navios nacionais, em favor dos jornalistas

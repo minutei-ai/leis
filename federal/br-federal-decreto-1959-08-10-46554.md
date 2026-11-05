@@ -1,5 +1,3 @@
-###DEC-046554-0-000-10-08-1959@@@
-
 DECRETO Nº 46.554, DE 10 DE AGÔSTO DE 1959.
 
 Abre ao Poder Judiciário, Superior Tribunal Militar, o crédito especial de Cr$9.314.856,00 (nove milhões trezentos e quatorze mil oitocentos e cinqüenta e seis cruzeiros), para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-067397-0-000-16-10-1970@@@
-
 DECRETO Nº 67.397, DE 16 DE OUTUBRO DE 1970.
 
 Reestrutura a Comissão de Assuntos Internacionais.

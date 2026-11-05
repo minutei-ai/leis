@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74422)
-
 # LEI Nº 12.738, DE 24 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 60, de 2006 das Deputadas Célia Leão e Rosmary Corrêa - PSDB)

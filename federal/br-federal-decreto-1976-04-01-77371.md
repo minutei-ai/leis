@@ -1,5 +1,3 @@
-###DEC-077371-0-000-01-04-1976@@@
-
 DECRETO Nº 77.371 - DE 1º DE ABRIL DE 1976
 
 Autoriza o funcionamento do curso de Pedagogia, do Centro Educacional "La Salle" de Ensino Superior, de Canoas, Estado do Rio Grande do Sul.

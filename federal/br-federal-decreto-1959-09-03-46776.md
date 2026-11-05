@@ -1,5 +1,3 @@
-###DEC-046776-0-000-03-09-1959@@@
-
 Decreto nº 46.776, de 3 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Domício Gondim Barreto a pesquisar minérios de zinco, chumbo e cobre no Município de Januária, Estado de Minas Gerais.

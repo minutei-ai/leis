@@ -1,5 +1,3 @@
-###DEC-073422-0-000-07-01-1974@@@
-
 DECRETO Nº 73.422, DE 7 DE JANEIRO DE 1974.
 
 Torna sem efeito o aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

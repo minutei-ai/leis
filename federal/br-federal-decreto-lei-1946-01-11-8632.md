@@ -1,5 +1,3 @@
-###DEL-008632-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.632 – DE 11 DE JANEIRO DE 1946
 
 Dispõe sôbre a reorganização dos serviços do Supremo Tribunal Federal.

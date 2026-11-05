@@ -1,5 +1,3 @@
-###DEC-053888-0-000-14-04-1964@@@
-
 DECRETO Nº 53.888, DE 14 DE ABRIL DE 1964.
 
 Declara existente a Confederação Brasileira de Bridge.

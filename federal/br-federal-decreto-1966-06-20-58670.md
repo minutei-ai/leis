@@ -1,5 +1,3 @@
-###DEC-058670-0-000-20-06-1966@@@
-
 DECRETO nº 58.670, de 20 de junho de 1966.
 
 Constitui Junta Executiva para promoção das medidas preparatórias à execução da Lei n° 4.769, de 9 de setembro de 1965, que dispõe sôbre o exercício da profissão de Técnico de Administração e dá outras providências.

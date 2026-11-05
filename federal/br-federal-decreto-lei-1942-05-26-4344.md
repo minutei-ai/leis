@@ -1,5 +1,3 @@
-###DEL-004344-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.344 – DE 26 DE MAIO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 4:000$0, à verba que específica

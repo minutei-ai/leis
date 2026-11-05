@@ -1,5 +1,3 @@
-###DEC-001782-0-000-10-01-1996@@@
-
 DECRETO N° 1.782, DE 10 DE JANEIRO DE 1996.
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de "Renegociação das concessões outorgadas no período 1962/1980", Nº 9 (Protocolo de Adequação), entre Brasil e México, de 22 de junho de 1995.

@@ -1,5 +1,3 @@
-###DEC-046342-0-000-01-07-1959@@@
-
 DECRETO Nº 46.342, DE 1º DE JULHO DE 1959.
 
 Declara de utilidade pública “Colégio Brasileiro de Genealogia”, com sede no Distrito Federal.

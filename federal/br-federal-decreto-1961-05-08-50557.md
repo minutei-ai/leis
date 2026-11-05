@@ -1,5 +1,3 @@
-###DEC-050557-0-000-08-05-1961@@@
-
 DECRETO Nº 50.557, DE 8 DE MAIO DE 1961.
 
 Transforma o 1º Grupo do 3º Regimento de Obuses 105 em 3º Grupo de Obuses 155.

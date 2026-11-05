@@ -1,5 +1,3 @@
-###DEC-073785-0-000-11-03-1974@@@
-
 DECRETO Nº 75.785, DE 11 DE MARÇO DE 1974.
 
 Torna sem efeito a inclusão, no Quadro de Pessoal do Ministério da Fazenda, de cargos com os respectivos ocupantes, oriundos da extinta COFAP.

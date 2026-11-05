@@ -1,5 +1,3 @@
-###DEC-056267-0-000-06-05-1965@@@
-
 DECRETO Nº 56.267, DE 6 DE MAIO DE 1965.
 
 Altera o Regulamento para o Colégio Naval, aprovado pelo Decreto número 50.056, de 25-1-1961.

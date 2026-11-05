@@ -1,5 +1,3 @@
-###DEC-061055-0-000-24-07-1967@@@
-
 DECRETO Nº 61.055, DE 24 DE JULHO DE 1967.
 
 Abre ao Ministério do Planejamento e Coordenação-Geral o crédito especial de NCr$1.000.000.00 (um milhão de cruzeiros novos), para o fim que especifica.

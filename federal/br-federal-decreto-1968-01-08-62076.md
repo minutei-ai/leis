@@ -1,5 +1,3 @@
-###DEC-062076-0-000-08-01-1968@@@
-
 DECRETO Nº 62.076, DE 8 DE JANEIRO DE 1968.
 
 Dispõe sobre a indústria do café solúvel e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002490-0-000-04-02-1998@@@
-
 DECRETO Nº 2.490, DE 4 DE FEVEREIRO DE 1998
 
 Regulamenta a Lei nº 9.601, de 21 de janeiro de 1998, que dispõe sobre o contrato de trabalho por prazo determinado e dá outras providências.

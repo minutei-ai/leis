@@ -1,5 +1,3 @@
-###DEC-082482-0-000-24-10-1978@@@
-
 Decreto nº 82.482, de 24 de outubro de 1978.
 
 Altera disposições do Decreto nº 57.651, de 19 de janeiro de 1966, e dá outras providências.

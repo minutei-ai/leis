@@ -1,5 +1,3 @@
-###DEC-053810-0-000-23-03-1964@@@
-
 DECRETO Nº 53.810, DE 23 DE MARÇO DE 1964
 
 Concede à Indústria Mineração Alvo Mármore Ltda. autorização para funcionar como emprêsa de mineração.

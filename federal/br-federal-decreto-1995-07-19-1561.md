@@ -1,7 +1,3 @@
-1
-
-###DEC-001561-0-000-19-07-1995@@@
-
 DECRETO Nº 1.561, DE 19 DE JULHO DE 1995.
 
 Delega competência ao Ministro de Estado da Marinha para aprovar o Regimento Interno do Tribunal Marítimo.

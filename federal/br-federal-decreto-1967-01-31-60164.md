@@ -1,5 +1,3 @@
-###DEC-060164-0-000-31-01-1967@@@
-
 decreto nº 60.164, de 31 de janeiro de 1967.
 
 Abre, pelo Ministério da Viação e Obras Públicas, em favor do Departamento dos Correios e Telégrafos, o crédito especial de Cr$400,000.000 (quatrocentos milhões de cruzeiros), para o fim que especifica.

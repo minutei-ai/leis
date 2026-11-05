@@ -1,5 +1,3 @@
-###DEC-005708-0-000-23-02-2006@@@
-
 DECRETO Nº 5.708, DE 23 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 22 de novembro de 2005.

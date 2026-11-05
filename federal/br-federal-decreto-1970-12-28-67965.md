@@ -1,5 +1,3 @@
-###DEC-067965-0-000-28-12-1970@@@
-
 DECRETO Nº 67.965, DE 28 DE DEZEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargos originários dos extintos Serviços de Navegação da Amazônia e de Administração do Porto do Pará e dá outras providências.

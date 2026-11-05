@@ -1,5 +1,3 @@
-###DEC-052814-0-000-11-11-1963@@@
-
 DECRETO Nº 52.814, DE 11 DE NOVEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Irará, Estado da Bahia, concessão para distribuir energia elétrica.

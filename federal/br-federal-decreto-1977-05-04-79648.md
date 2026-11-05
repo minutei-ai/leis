@@ -1,5 +1,3 @@
-###DEC-079648-0-000-04-05-1977@@@
-
 DECRETO Nº 79.648, DE 4 DE MAIO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

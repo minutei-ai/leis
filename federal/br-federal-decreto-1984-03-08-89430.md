@@ -1,5 +1,3 @@
-###DEC-089430-0-000-08-03-1984@@@
-
 Decreto nº 89.430, de 08 de março de 1984
 
 Declara de interesse social, para fins de desapropriação o imóvel rural constituído de parte da "Fazenda Saco Grande", situado no Município de Unaí, no Estado de Minas Gerais, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.429, de 08 de março de 1984.

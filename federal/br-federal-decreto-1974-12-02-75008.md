@@ -1,5 +1,3 @@
-###DEC-075008-0-000-02-12-1974@@@
-
 DECRETO Nº 75.008, DE 2 DE DEZEMBRO DE 1974
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Camaquense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Camaquã, Estado do Rio Grande do sul.

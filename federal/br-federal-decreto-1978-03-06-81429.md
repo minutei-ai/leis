@@ -1,5 +1,3 @@
-###DEC-081429-0-000-06-03-1978@@@
-
 Decreto nº 81.429, de 6 de março de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos imóveis que menciona, situados na Cidade e Estado do Rio de Janeiro.

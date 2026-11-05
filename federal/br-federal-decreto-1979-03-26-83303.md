@@ -1,5 +1,3 @@
-###DEC-083303-0-000-26-03-1979@@@
-
 DECRETO Nº 83.303, DE 26 DE MARÇO DE 1979
 
 Altera o Regulamento do Centro Técnico Aeroespacial (CTA), aprovado pelo Decreto nº 68.874, de 5 de julho de 1971, e alterado pelo Decreto nº 78.293, de 18 de agosto de 1976.

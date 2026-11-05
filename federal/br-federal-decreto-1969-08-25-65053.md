@@ -1,5 +1,3 @@
-###DEC-065053-0-000-25-08-1969@@@
-
 Decreto Nº 65.053 - DE 25 DE AGôSTO DE 1969.
 
 Regulariza a situação escolar.

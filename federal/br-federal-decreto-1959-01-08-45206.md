@@ -1,5 +1,3 @@
-###DEC-045206-0-000-08-01-1959@@@
-
 Decreto nº 45.206, de 8 de janeiro de 1959.
 
 Dá nova redação ao art. 2º do Decreto nº 43.511, de 9 de abril de 1958.

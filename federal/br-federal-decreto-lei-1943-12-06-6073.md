@@ -1,5 +1,3 @@
-###DEL-006073-0-000-06-12-1943@@@
-
 DECRETO LEI N. 6.073 - DE 6 DE DEZEMBRO DE 1943
 
 Altera o artigo 1º do decreto-lei n. 5.058, de 8 de dezembro de 1942

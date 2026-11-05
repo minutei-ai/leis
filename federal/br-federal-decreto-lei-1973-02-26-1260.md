@@ -1,5 +1,3 @@
-###DEL-001260-0-000-26-02-1973@@@
-
 DECRETO-LEI N. 1.260 – DE 26 DE FEVEREIRO  DE 1973
 
 Concede isenção do imposto de renda sobre lucros decorrentes da alienação de imóveis por pessoas jurídicas.

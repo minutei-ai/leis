@@ -1,5 +1,3 @@
-###DEC-061851-0-000-06-12-1967@@@
-
 DECRETO Nº 61.851, DE 6 DE DEZEMBRO De 1967.
 
 Regulamenta a concessão de férias anuais remuneradas aos trabalhadores avulsos.

@@ -1,5 +1,3 @@
-###DEC-053574-0-000-21-02-1964@@@
-
 decreto nº 53.574, de 21 de fevereiro de 1964.
 
 Altera o § 2º do artigo 13 do Regulamento, aprovado pelo decreto número 47.973, de 2 de abril de 1960.

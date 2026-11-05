@@ -1,5 +1,3 @@
-###DEC-077789-0-000-09-06-1976@@@
-
 DECRETO Nº 77.789, DE 9 DE JUNHO DE 1976.
 
 Regulamenta o Decreto-lei número 1.438, de 26 de dezembro de 1975, que estende a incidência do imposto sobre os serviços de transporte rodoviário de passageiros ao transporte rodoviário de cargas sob a denominação de Imposto sobre os Serviços de Transporte Rodoviário Intermunicipal e Interestadual de Passageiros e Cargas (ISTR).

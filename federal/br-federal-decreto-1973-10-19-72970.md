@@ -1,5 +1,3 @@
-###DEC-072970-0-000-19-10-1973@@@
-
 DECRETo nº 72.970, DE 19 de Outubro de1973.
 
 Retifica o Decreto nº 60.986, de 11 de julho de 1967, que aprovou o Quadro Único de Pessoal da Universidade Federal de Juiz de Fora e dá outras providências.

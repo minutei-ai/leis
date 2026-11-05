@@ -1,5 +1,3 @@
-###DEC-072490-0-000-18-07-1973@@@
-
 DECRETO Nº 72.490, DE 18 DE JULHO DE 1973.
 
 Autoriza o funcionamento do curso de Psicologia (licenciatura e formação de Psicólogos) da Faculdade de Filosofia, Ciências e Letras de São Caetano do Sul, mantido pela Fundação de Educação e Cultura do ABC, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

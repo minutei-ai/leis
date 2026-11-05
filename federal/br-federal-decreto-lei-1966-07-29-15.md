@@ -1,5 +1,3 @@
-###DEL-000015-0-000-29-07-1966@@@
-
 DECRETO-LEI Nº 15, De 29 DE JULHO DE 1966
 
 Estabelece normas e critérios para uniformização dos reajustes salariais e dá outras providências.

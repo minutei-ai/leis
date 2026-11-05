@@ -1,5 +1,3 @@
-###DEL-009643-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.643 – DE 22 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 51.296,80, para pagamento de gratificação de magistério.

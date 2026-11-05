@@ -1,5 +1,3 @@
-###DEC-093184-0-000-28-08-1986@@@
-
 DECRETO Nº 93.184, DE 28 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Guarani da Companha Paulista de Força e Luz - CPFL, no Estado de São Paulo.

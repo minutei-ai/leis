@@ -1,5 +1,3 @@
-###DEC-091078-0-000-12-03-1985@@@
-
 DECRETO Nº 91.078, dE 12 dE março de 1985
 
 Concede à Companhia Vale do Rio Doce, concessionário de serviço público, autorizado para construir um trecho de linha férrea numa faixa de terra situada em área indígena, e dá outras providências.

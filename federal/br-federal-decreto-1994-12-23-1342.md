@@ -1,7 +1,3 @@
-1
-
-###DEC-001342-0-000-23-12-1994@@@
-
 # DECRETO Nº 1.342, DE 23 DE DEZEMBRO DE 1994
 
 Altera o art. 1º das Instruções Gerais para a Representação do Brasil na Junta Interamericana de Defesa, aprovadas pelo Decreto nº 76.062, de 31 de julho de 1975.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001602-0-000-23-08-1995@@@
-
 DECRETO Nº 1.602, DE 23 DE AGOSTO DE 1995.
 
 Regulamenta as normas que disciplinam os procedimentos administrativos, relativos à aplicação de mediadas antidumping.

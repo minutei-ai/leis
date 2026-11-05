@@ -1,5 +1,3 @@
-###DEL-006691-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.691 – DE 14 DE JULHO DE 1944
 
 Cria uma coletoria federal no município de Arcos, no Estado de Minas Gerais, e dá outras providências

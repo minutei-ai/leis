@@ -1,5 +1,3 @@
-###DEL-005522-0-000-27-05-1943@@@
-
 DECRETO‑LEI N. 5.522 – DE 27 DE MAIO DE 1943
 
 Concede vantagem de quota adicional aos militares da Polícia Militar do Distrito Federal

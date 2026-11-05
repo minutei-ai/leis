@@ -10,8 +10,6 @@ Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, poré
 
 Goiânia, 9 de setembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,6 +1,10 @@
 > **LEI Nº 3.494, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Revoga, integralmente, a Lei nº 3.465, de 26 de dezembro de 2018, que dispõe sobre a extinção de créditos tributários do ICMS e do IPVA nos casos que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Revoga, integralmente, a Lei nº 3.465, de 26 de dezembro de 2018, que dispõe sobre a extinção de créditos tributários do ICMS e do IPVA nos casos que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

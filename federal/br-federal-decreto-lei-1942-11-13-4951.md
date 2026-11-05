@@ -1,5 +1,3 @@
-###DEL-004951-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.951 – DE 13 DE NOVEMBRO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saude, e dá outras providências

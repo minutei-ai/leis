@@ -1,5 +1,3 @@
-###MPV-002065-0-016-27-12-2000@@@
-
 MEDIDA PROVISÓRIA nº 2065-16, de 27 de Dezembro de 2000.
 
 Dispõe sobre a Cédula de Crédito Bancário.

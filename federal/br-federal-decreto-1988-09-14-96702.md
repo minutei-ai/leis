@@ -1,5 +1,3 @@
-###DEC-096702-0-000-14-09-1988@@@
-
 DECRETO N° 96.702, DE 14 DE SETEMBRO DE 1988
 
 Altera a redação do artigo 5° do Decreto n° 96.056, de 19 de maio de 1988, que reor­ganiza o Conselho de Desenvolvimento In­dustrial  CDI.

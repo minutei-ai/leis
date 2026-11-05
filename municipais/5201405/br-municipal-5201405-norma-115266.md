@@ -18,8 +18,10 @@ Art. 5º – Esta lei entrará em vigor na data sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO, 03 DE JANEIRO DE 2022.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

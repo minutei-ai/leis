@@ -1,5 +1,3 @@
-###DEC-002615-0-000-03-06-1998@@@
-
 DECRETO Nº 2.615, DE 3 DE JUNHO DE 1998
 
 Aprova o Regulamento do Serviço de Radiodifusão Comunitária.

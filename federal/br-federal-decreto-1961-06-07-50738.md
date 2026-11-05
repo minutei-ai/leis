@@ -1,5 +1,3 @@
-###DEC-050738-0-000-07-06-1961@@@
-
 DECRETO Nº 50.738, DE 7 DE JUNHO DE 1961.
 
 Prorroga prazo previsto do Decreto nº 50.284, de 21 de fevereiro de 1961, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-097004-0-000-25-10-1988@@@
-
 DECRETO Nº 97.004, DE 25 DE OUTUBRO DE 1988
 
 Altera denominação de Organização Militar da Marinha, conforme especificado.

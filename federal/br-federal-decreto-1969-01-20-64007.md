@@ -1,5 +1,3 @@
-###DEC-064007-0-000-20-01-1969@@@
-
 DECRETO Nº 64.007, DE 20 DE JANEIRO DE 1969.
 
 Declara de utilidade pública o "Lar Santo Antônio", com sede em Tupã, Estado de São Paulo.

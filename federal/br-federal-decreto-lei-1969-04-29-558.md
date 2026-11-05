@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a52b8e1f-128d-4dfa-ba15-b327d258a69a/texto#nowhere)
 
-###DEL-000558-0-000-29-04-1969@@@
-
 Decreto-lei nº 558, de 29 de Abril de 1969
 
 Dispõe sôbre a cessão a Universidades e estabelecimentos isolados de ensino superior de equipamentos adquiridos pela União, e dá outras providências.

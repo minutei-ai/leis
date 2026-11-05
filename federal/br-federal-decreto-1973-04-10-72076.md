@@ -1,5 +1,3 @@
-###DEC-072076-0-000-10-04-1973@@@
-
 Decreto Nº 72.076, DE 10 DE ABRIL DE 1973.
 
 Concede reconhecimento à Faculdade de Engenharia de Barra do Piraí, mantida pela Fundação Educacional Rosemar Pimentel, com sede na cidade de Barra do Piraí, Estado do Rio de Janeiro.

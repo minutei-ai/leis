@@ -1,5 +1,3 @@
-###DEC-002728-0-000-10-08-1998@@@
-
 DECRETO Nº 2.728, DE 10 DE AGOSTO DE 1998
 
 Dá nova redação ao art. 1º do Decreto nº 2.609, de 2 de junho de 1998, e acrescenta parágrafo ao seu art. 5º.

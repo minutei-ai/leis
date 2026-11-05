@@ -1,5 +1,3 @@
-###DEL-007234-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.234 – DE 8 DE JANEIRO DE 1945
 
 Renova a prorrogação do Mandato da Comissão Censitária Nacional

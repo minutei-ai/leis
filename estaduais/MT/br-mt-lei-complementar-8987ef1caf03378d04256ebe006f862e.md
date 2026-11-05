@@ -1,11 +1,10 @@
-**LEI COMPLEMENTAR Nº 175, DE 24 DE JUNHO DE 2004**<br>
-<br>
-. Autor: Poder Executivo<br>
+**LEI COMPLEMENTAR Nº 175, DE 24 DE JUNHO DE 2004**
+
+. Autor: Poder Executivo
+
 . Alterou as LC [66/99](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/2915d8931161b728032568720041ef50?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2066%2F99) e [149/03](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/22c292fe2696500604256e15004d575b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20149%2C%20DE%2030%20DE)
 
 **Altera a redação de dispositivos da** [**Lei Complementar nº 66**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/2915d8931161b728032568720041ef50?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2066%2F99)**, de 22 de dezembro de 1999, e dá outras providências.**
-
-<br>
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO,** tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
@@ -61,40 +60,165 @@ V - 05 (cinco) cargos de Coordenador Regulador, privativos de Analistas Regulado
 
 Palácio Paiaguás, em Cuiabá, 24 de junho de 2004, 183º da Independência e116º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-JOAQUIM SUCENA RASGA<br>
-WALTER DE FÁTIMA PEREIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-YÊDA MARLY DEOLIVEIRA ASSIS<br>
-LUIZ ANTONIO PAGOT<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-MARCOS HENRIQUE MACHADO<br>
-GERALDO LUIZ GONÇALVES FILHO<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-FÁBIO CÉSAR GUIMARÃES NETO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-CLOVES FELÍCIO VETTORATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+JOAQUIM SUCENA RASGA
+
+WALTER DE FÁTIMA PEREIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+YÊDA MARLY DEOLIVEIRA ASSIS
+
+LUIZ ANTONIO PAGOT
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+MARCOS HENRIQUE MACHADO
+
+GERALDO LUIZ GONÇALVES FILHO
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+FÁBIO CÉSAR GUIMARÃES NETO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+CLOVES FELÍCIO VETTORATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
 FLÁVIA MARIA DE BARROS NOGUEIRA
 
-<br>
-
-<br>
 **ANEXO I**
 
-<table border="1"><tbody><tr valign="top"><td width="119"><div align="center"><b><font size="4" face="Arial">CLASSE</font></b></div><b><font size="4" face="Arial">NÍVEL</font></b></td><td width="126"><div align="center"><b><font size="4" face="Arial">A</font></b></div></td><td width="123"><div align="center"><b><font size="4" face="Arial">B</font></b></div></td><td width="108"><div align="center"><b><font size="4" face="Arial">C</font></b></div></td><td width="109"><div align="center"><b><font size="4" face="Arial">D</font></b></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.446,03</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.057,54</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">3.821,93</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">4.777,40</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">2</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.508,75</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.135,94</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">3.919,92</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">4.899,90</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">3</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.573,08</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.216,35</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.020,43</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.025,54</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">4</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.639,05</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.298,82</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.123,52</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.154,40</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">5</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.706,72</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.383,40</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.229,25</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.286,57</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">6</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.776,12</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.470,16</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.337,70</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.422,12</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">7</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.847,31</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.559,14</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.448,92</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.561,15</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">8</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.920,32</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.650,40</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.563,00</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.703,75</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">9</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">2.995,20</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.744,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.680,00</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">5.850,00</font></div></td></tr><tr valign="top"><td width="119"><div align="center"><font size="4" face="Arial">10</font></div></td><td width="126"><div align="center"><font size="4" face="Arial">3.072,00</font></div></td><td width="123"><div align="center"><font size="4" face="Arial">3.840,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">4.800,00</font></div></td><td width="109"><div align="center"><font size="4" face="Arial">6.000,00</font></div></td></tr></tbody></table>
+**CLASSE**
+**NÍVEL**
+
+**A**
+
+**B**
+
+**C**
+
+**D**
+
+1
+
+2.446,03
+
+3.057,54
+
+3.821,93
+
+4.777,40
+
+2
+
+2.508,75
+
+3.135,94
+
+3.919,92
+
+4.899,90
+
+3
+
+2.573,08
+
+3.216,35
+
+4.020,43
+
+5.025,54
+
+4
+
+2.639,05
+
+3.298,82
+
+4.123,52
+
+5.154,40
+
+5
+
+2.706,72
+
+3.383,40
+
+4.229,25
+
+5.286,57
+
+6
+
+2.776,12
+
+3.470,16
+
+4.337,70
+
+5.422,12
+
+7
+
+2.847,31
+
+3.559,14
+
+4.448,92
+
+5.561,15
+
+8
+
+2.920,32
+
+3.650,40
+
+4.563,00
+
+5.703,75
+
+9
+
+2.995,20
+
+3.744,00
+
+4.680,00
+
+5.850,00
+
+10
+
+3.072,00
+
+3.840,00
+
+4.800,00
+
+6.000,00
 
 **ANEXO II**
 
-<table border="1"><tbody><tr valign="top"><td width="594" colspan="5"><div align="center"><b><font size="4" face="Arial">TABELA DE CARGOS EMCOMISSÃO</font></b></div></td></tr><tr valign="top"><td width="232"><div align="center"><b><font face="Arial">CARGO</font></b></div></td><td width="42"><div align="center"><b><font face="Arial">Nº</font></b></div></td><td width="125"><div align="center"><b><font face="Arial">SÍMBOLO/NÍVEL</font></b></div></td><td width="87"><div align="center"><b><font face="Arial">SUBSÍDIO</font></b></div></td><td width="108"><div align="center"><b><font face="Arial">PERCENTUAL</font></b></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Presidente Regulador</font></td><td width="42"><div align="center"><font size="4" face="Arial">01</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DGA-02</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">6.000,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">60%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Diretor Regulador</font></td><td width="42"><div align="center"><font size="4" face="Arial">03</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-02</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">5.400,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">50%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Procurador Jurídico Regulador</font></td><td width="42"><div align="center"><font size="4" face="Arial">01</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-03</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">3.900,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">30%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Coordenador Regulador</font></td><td width="42"><div align="center"><font size="4" face="Arial">05</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-03</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">3.900,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">30%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Coordenador de Administração Sistêmica</font></td><td width="42"><div align="center"><font size="4" face="Arial">01</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-03</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">3.900,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">30%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Chefe de Gabinete Regulador</font></td><td width="42"><div align="center"><font size="4" face="Arial">01</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-04</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">2.500,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">30%</font></div></td></tr><tr valign="top"><td width="232"><font size="4" face="Arial">Assessor Regulador de Comunicação</font></td><td width="42"><div align="center"><font size="4" face="Arial">01</font></div></td><td width="125"><div align="center"><font size="4" face="Arial">DAR-04</font></div></td><td width="87"><div align="center"><font size="4" face="Arial">2.500,00</font></div></td><td width="108"><div align="center"><font size="4" face="Arial">-</font><br><font size="4" face="Arial"></font></div></td></tr></tbody></table>
-
-<br>
-<br>
+<table><tbody><tr valign="top"><td colspan="5">**TABELA DE CARGOS EMCOMISSÃO**</td></tr><tr valign="top"><td>**CARGO**</td><td>**Nº**</td><td>**SÍMBOLO/NÍVEL**</td><td>**SUBSÍDIO**</td><td>**PERCENTUAL**</td></tr><tr valign="top"><td>Presidente Regulador</td><td>01</td><td>DGA-02</td><td>6.000,00</td><td>60%</td></tr><tr valign="top"><td>Diretor Regulador</td><td>03</td><td>DAR-02</td><td>5.400,00</td><td>50%</td></tr><tr valign="top"><td>Procurador Jurídico Regulador</td><td>01</td><td>DAR-03</td><td>3.900,00</td><td>30%</td></tr><tr valign="top"><td>Coordenador Regulador</td><td>05</td><td>DAR-03</td><td>3.900,00</td><td>30%</td></tr><tr valign="top"><td>Coordenador de Administração Sistêmica</td><td>01</td><td>DAR-03</td><td>3.900,00</td><td>30%</td></tr><tr valign="top"><td>Chefe de Gabinete Regulador</td><td>01</td><td>DAR-04</td><td>2.500,00</td><td>30%</td></tr><tr valign="top"><td>Assessor Regulador de Comunicação</td><td>01</td><td>DAR-04</td><td>2.500,00</td><td>- </td></tr></tbody></table>

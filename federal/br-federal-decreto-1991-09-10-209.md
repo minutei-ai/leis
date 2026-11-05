@@ -1,5 +1,3 @@
-###DEC-000209-0-000-10-09-1991@@@
-
 DECRETO Nº 209, DE 10 DE SETEMBRO DE 1991
 
 Dá nova redação a dispositivos do Decreto nº 88.513, de 13 de julho de 1983, que dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forcas Armadas.

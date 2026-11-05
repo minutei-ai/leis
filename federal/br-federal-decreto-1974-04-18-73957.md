@@ -1,5 +1,3 @@
-###DEC-073957-0-000-18-04-1974@@@
-
 DECRETO Nº 73.957, DE 18 DE ABRIL DE 1974.
 
 Concede reconhecimento às Faculdades de Direito, e de Ciências Contábeis e Administração de Empresas de Marília, mantidas pela Fundação de Ensino "Eurípedes Soares da Rocha", com sede na Cidade de Marília, Estado de São Paulo.

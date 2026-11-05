@@ -1,5 +1,3 @@
-###DEC-077365-0-000-01-04-1976@@@
-
 DECRETO Nº 77.365 - DE 1º DE ABRIL DE 1976
 
 Autoriza o funcionamento do curso de Ciências Econômicas, do Centro Cibernético de Niterói, com sede na cidade de Niterói, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-052433-0-000-02-09-1963@@@
-
 DECRETO Nº 52.433, DE 2 DE SETEMBRO DE 1963.
 
 Acrescenta parágrafo único ao artigo 35 do Regulamento de Promoções dos Oficiais da Aeronáutica da Ativa (REPROMAER).

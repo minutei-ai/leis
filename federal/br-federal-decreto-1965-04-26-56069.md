@@ -1,5 +1,3 @@
-###DEC-056069-0-000-26-04-1965@@@
-
 DECRETO Nº 56.069, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Bandeirante de Eletricidade S. A. a vender grupo Diesel elétrico.

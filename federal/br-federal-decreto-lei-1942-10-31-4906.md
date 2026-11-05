@@ -1,5 +1,3 @@
-###DEL-004906-0-000-31-10-1942@@@
-
 decreto-lei n. 4.906 - de 31 de outubro de 1942
 
 Cria o 7º Batalhão de Engenharia, na 7ª Região Militar

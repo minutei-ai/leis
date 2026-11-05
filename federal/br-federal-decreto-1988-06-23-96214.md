@@ -1,5 +1,3 @@
-###DEC-096214-0-000-23-06-1988@@@
-
 DECRETO N° 96.214, DE 23 DE JUNHO DE 1988
 
 Outorga concessão à RÁDIO SERRANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Araruna, Estado do Paraíba.

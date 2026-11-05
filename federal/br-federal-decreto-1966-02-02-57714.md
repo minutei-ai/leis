@@ -1,5 +1,3 @@
-###DEC-057714-0-000-02-02-1966@@@
-
 Decreto nº 57.714, de 2 de fevereiro de 1966.
 
 Autoriza a Mineração Tejucana Sociedade Anônima a pesquisar diamante e ouro no Município de Diamantina, Estado de Minas Gerais.

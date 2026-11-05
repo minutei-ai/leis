@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210854)<br>
-
 # DECRETO N° 69.476, DE 10 DE ABRIL DE 2025
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008._

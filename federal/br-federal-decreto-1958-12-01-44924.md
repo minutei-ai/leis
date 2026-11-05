@@ -1,5 +1,3 @@
-###DEC-044924-0-000-01-12-1958@@@
-
 DECRETO Nº 44.924, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Carlos Jafet a lavar carvão mineral no município de Criciúma, Estado de Santa Catarina

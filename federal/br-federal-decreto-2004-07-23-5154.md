@@ -1,5 +1,3 @@
-###DEC-005154-0-000-23-07-2004@@@
-
 DECRETO Nº 5.154 DE 23 DE JULHO DE 2004
 
 Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências.

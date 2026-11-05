@@ -1,5 +1,3 @@
-###DEC-093114-0-000-14-08-1986@@@
-
 DECRETO Nº 93.114, DE 14 DE AGOSTO DE 1986
 
 Cria o Centro Nacional de Pesquisa de Agricultura Irrigada.

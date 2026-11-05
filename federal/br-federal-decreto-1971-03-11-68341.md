@@ -1,5 +1,3 @@
-###DEC-068341-0-000-11-03-1971@@@
-
 DECRETO Nº 68.341, DE 11 DE MARÇO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação, pela Companhia Telefônica Brasileira, de uma estação terminal repetidora de microondas e respectiva tôrre, no Município de Guapiaçu, Estado de São Paulo.

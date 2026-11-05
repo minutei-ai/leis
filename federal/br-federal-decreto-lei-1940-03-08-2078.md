@@ -1,5 +1,3 @@
-###DEL-002078-0-000-08-03-1940@@@
-
 DECRETO-LEI N. 2.078 – DE 8 DE MARÇO DE 1940
 
 Modifica disposições referentes ao Quadro de Oficiais Auxiliares da Marinha

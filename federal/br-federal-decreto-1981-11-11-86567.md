@@ -1,5 +1,3 @@
-###DEC-086567-0-000-11-11-1981@@@
-
 Decreto nº 86.567, de 11 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO MIRIAM LTDA., na cidade de Torres, Estado do Rio Grande do Sul.

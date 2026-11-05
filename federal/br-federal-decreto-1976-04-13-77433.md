@@ -1,5 +1,3 @@
-###DEC-077433-0-000-13-04-1976@@@
-
 DECRETO Nº 77.433 - DE 13 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL nos Estados do Paraná e Santa Catarina.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.168, DE 13 DE OUTUBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a alienar bens móveis inservíveis pertencentes ao patrimônio estadual.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a alienar bens móveis inservíveis pertencentes ao patrimônio estadual.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -156,10 +160,10 @@ LT            MARCA/MODELO               ANO    PLACA              CHASSI       
 47   FORD RANGER XL 13P                   2008   MZS 3196   8AFER13P68J172512                     BRANCA
                                                                                   C34256694                5.000,00
      COLHEITADEIRA DE GRÃOS – TIPO 350G
-48                                         *        *           SÉRIE 1901       XXXXXXXXXX
+48                                                    SÉRIE 1901       XXXXXXXXXX
      GRANELEIRA                                                                                             300,00
      PLANTADEIRA DE GRÃO, NA COR
-49                                         *        *               *            XXXXXXXXXX
+49                                                        *            XXXXXXXXXX
      VERMELHA                                                                                               300,00
      TRATOR AGRÍCOLA – MARCA AGRALE -
 50                                        2001      *           Z000226Y         XXXXXXXXXX

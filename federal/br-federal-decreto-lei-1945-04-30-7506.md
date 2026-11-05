@@ -1,5 +1,3 @@
-###DEL-007506-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.506 – DE 30 ABRIL DE 1945
 
 Dá nova redação a artigos do Decreto-lei nº 7.205, de 29-12-1944 e cria funções gratificadas no Quadro Permanente do Ministério da Fazenda

@@ -1,5 +1,3 @@
-###DEL-000077-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 77 – DE 16 DE DEZEMBRO DE 1937
 
 Dispõe sôbre a venda do imóvel em que funciona o Laboratório Químico Farmacêutico Militar

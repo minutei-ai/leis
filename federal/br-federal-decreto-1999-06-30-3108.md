@@ -1,5 +1,3 @@
-###DEC-003108-0-000-30-06-1999@@@
-
 DECRETO Nº 3.108, DE 30 DE JUNHO DE 1999.
 
 Promulga o Acordo Constitutivo do Fundo para o Desenvolvimento dos Povos Indígenas da América Latina e do Caribe, concluído em Madri, em 24 de julho de 1992.

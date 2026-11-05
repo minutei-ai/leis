@@ -1,7 +1,3 @@
-1
-
-###MPV-000940-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA N° 940, DE 16 DE MARÇO DE 1995
 
 Altera o art. 5° da Lei n° 7.862, de 30 de outubro de 1989, que dispõe sobre a remuneração das disponibilidades do Tesouro Nacional.

@@ -1,5 +1,3 @@
-###DEC-081124-0-000-26-12-1977@@@
-
 Decreto nº 81.124, de 26 de dezembro de 1977.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Cascavel e Assis Chateaubriand, no Estado do Paraná, compreendidos na área prioritária de reforma agrária, de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971, e 78.422, de 15 de setembro de 1976.

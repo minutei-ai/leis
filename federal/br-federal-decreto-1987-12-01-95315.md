@@ -1,5 +1,3 @@
-###DEC-095315-0-000-01-12-1987@@@
-
 DECRETO Nº 95.315, DE 1º DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Comunicação Social das Faculdades Pinheiro Guimarães, no Rio de Janeiro.

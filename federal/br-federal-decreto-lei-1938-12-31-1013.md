@@ -32,7 +32,91 @@ Total da Renda Extraordinária .................................................
 
 Art. 3º A Despesa, conforme Anexo n. 2, que contem sua discriminação por itens para cada orgão de acordo com os Anexos sob os ns. 3 a 9, distribuir-se-á da seguinte forma:
 
-<table><tbody><tr><td></td><td>Anexos</td><td>Fixa</td><td>Variável</td><td>Totais</td></tr><tr><td>3.</td><td>Administração do Distrito Federal......................</td><td>1.004:808$0</td><td>34.110:082$0</td><td>35.114:890$0</td></tr><tr><td>4.</td><td>Tribunal de Contas do Distrito Federal...............</td><td>1.270:840$0</td><td>151:502$0</td><td>1.422:342$0</td></tr><tr><td>5.</td><td>Secretaria Geral de Finanças.............................</td><td>65.812:122$0</td><td>61.442:097$2</td><td>127.254:219$2</td></tr><tr><td>6.</td><td>Secretaria Geral de Educação e Cultura............</td><td>47.552:980$0</td><td>38.633:418$9</td><td>86.186:398$9</td></tr><tr><td>7.</td><td>Secretaria Geral de Saúde e Assistência ..........</td><td>29.044:830$0</td><td>15.959:811$8</td><td>45.004:641$8</td></tr><tr><td>8.</td><td>Secretaria Geral de Viação, Trabalho e Obras Públicas..............................................................</td><td>61.948:151$0</td><td>45.950:668$1</td><td>107.898:819$1</td></tr><tr><td>9.</td><td>Orgãos diversos..................................................</td><td><u>15.086:506$0</u></td><td><u>5.397:860$0</u></td><td><u>20.484:366$0</u></td></tr><tr><td></td><td>Totais..................................................................</td><td><u>221.720:237$0</u></td><td><u>201.645:440$0</u></td><td><u>423.365:677$0</u></td></tr></tbody></table>
+Anexos
+
+Fixa
+
+Variável
+
+Totais
+
+3.
+
+Administração do Distrito Federal......................
+
+1.004:808$0
+
+34.110:082$0
+
+35.114:890$0
+
+4.
+
+Tribunal de Contas do Distrito Federal...............
+
+1.270:840$0
+
+151:502$0
+
+1.422:342$0
+
+5.
+
+Secretaria Geral de Finanças.............................
+
+65.812:122$0
+
+61.442:097$2
+
+127.254:219$2
+
+6.
+
+Secretaria Geral de Educação e Cultura............
+
+47.552:980$0
+
+38.633:418$9
+
+86.186:398$9
+
+7.
+
+Secretaria Geral de Saúde e Assistência ..........
+
+29.044:830$0
+
+15.959:811$8
+
+45.004:641$8
+
+8.
+
+Secretaria Geral de Viação, Trabalho e Obras Públicas..............................................................
+
+61.948:151$0
+
+45.950:668$1
+
+107.898:819$1
+
+9.
+
+Orgãos diversos..................................................
+
+15.086:506$0
+
+5.397:860$0
+
+20.484:366$0
+
+Totais..................................................................
+
+221.720:237$0
+
+201.645:440$0
+
+423.365:677$0
 
 Art. 4º Fazem parte do presente decreto-lei, ao qual ficam integrados, os Anexos que o acompanham de ns. 1 a 9, especificando a Receita e discriminando a Despesa, fixa e variável, na sua rigorosa especialização, com indicação da respectiva legislação.
 

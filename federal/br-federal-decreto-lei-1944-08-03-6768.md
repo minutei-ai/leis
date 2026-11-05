@@ -1,5 +1,3 @@
-###DEL-006768-0-000-03-08-1944@@@
-
 DECRETO-LEI N. 6.768 – DE 3 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 13.200,00 à verba que especifica

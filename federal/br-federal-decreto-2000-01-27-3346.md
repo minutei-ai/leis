@@ -1,5 +1,3 @@
-###DEC-003346-0-000-27-01-2000@@@
-
 DECRETO Nº 3.346, DE 27 DE JANEIRO DE 2000.
 
 Altera característica das Notas do Tesouro Nacional, Série I - NTN -I emitidas a partir de janeiro de 2000.

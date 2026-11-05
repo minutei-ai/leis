@@ -1,5 +1,3 @@
-###DEC-091178-0-000-01-04-1985@@@
-
 Decreto nº 91.178, de 1º de abril de 1985.
 
 Dispõe sobre a criação do Programa de Desenvolvimento da Região Nordeste - Projeto Nordeste.

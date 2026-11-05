@@ -1,5 +1,3 @@
-###DEL-008464-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.464 – DE 27 DE DEZEMBRO DE 1945
 
 Cria, no Quadro I – Parte Permanente, do Ministério da Viação e Obras Públicas três funções gratificadas de chefe de seção da Divisão do Orçamento do Departamento de Administração e dá outras providências.

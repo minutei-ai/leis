@@ -1,5 +1,3 @@
-###DEC-069835-0-000-25-12-1971@@@
-
 DECRETO Nº 69.835 - DE 25 DE DEZEMBRO DE 1971
 
 Fixa a distribuição em cada Arma e no Quadro de Material Bélico, em cada pôsto, das funções privativas e gerais dos Oficiais do Exército, a vigorar a partir de 25 de dezembro de 1971.
@@ -10,7 +8,71 @@ decreta:
 
 Art. 1º São os efetivos globais das Armas, atualmente em vigor distribuídos em cada Arma e no Quadro de Material Bélico, em cada pôsto pelas funções gerais (QEMG e QSG) e pelas funções privativas, da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">POSTOS</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ARMAS</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNÇÕES PRIVATIVAS</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNÇÕES GERAIS (QEMG e QSG)</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">EFETIVO PREVISTO POR POSTO</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Coronel .......................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Artilharia ............. Engenharia .........</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42 25</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">19 15</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">105 40</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">100 9</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">355</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Tenente-Coronel .........</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Artilharia ............. Engenharia .........</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84 42</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">51 54</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">253 104</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">112 5</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">705</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Major ...........................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Artilharia ............. Engenharia .........</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">220 90</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">148 113</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">268 94</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">434 71</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1.438</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">Capitão ...............</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............ Artilharia .............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Engenharia ......... Comunicações .... Material Bélico ....</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">590 230 336</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">276 115 165</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">344 206 232</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">16 2 0</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">2.512</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">1º Tenente ..................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............ Artilharia .............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Engenharia ......... Comunicações .... Material Bélico ....</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">605 208 297</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">135 79 113</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">( ( ( (</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">291 ( ( (</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">2º Tenente ..................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria ............. Cavalaria ............ Artilharia .............</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Engenharia ......... Comunicações .... Material Bélico ....</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- - -</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- - -</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- - -</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- - -</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+POSTOS
+
+ARMAS
+
+FUNÇÕES PRIVATIVAS
+
+FUNÇÕES GERAIS (QEMG e QSG)
+
+EFETIVO PREVISTO POR POSTO
+
+Coronel .......................
+
+Infantaria ............. Cavalaria ............  Artilharia ............. Engenharia .........
+
+42 25  19 15
+
+105 40  100 9
+
+355
+
+Tenente-Coronel .........
+
+Infantaria ............. Cavalaria ............  Artilharia ............. Engenharia .........
+
+84 42  51 54
+
+253 104  112 5
+
+705
+
+Major ...........................
+
+Infantaria ............. Cavalaria ............  Artilharia ............. Engenharia .........
+
+220 90  148 113
+
+268 94  434 71
+
+1.438
+
+Capitão ...............
+
+Infantaria ............. Cavalaria ............ Artilharia .............  Engenharia ......... Comunicações .... Material Bélico ....
+
+590 230 336  276 115 165
+
+344 206 232  16 2 0
+
+2.512
+
+1º Tenente ..................
+
+Infantaria ............. Cavalaria ............ Artilharia .............  Engenharia ......... Comunicações .... Material Bélico ....
+
+605 208 297  135 79 113
+
+( ( ( (              291 ( ( (
+
+2º Tenente ..................
+
+Infantaria ............. Cavalaria ............ Artilharia .............  Engenharia ......... Comunicações .... Material Bélico ....
+
+- - -  - - -
+
+- - -  - - -
 
 Art. 2º Êste Decreto entrará em vigor a partir de 25 de dezembro de1971.
 

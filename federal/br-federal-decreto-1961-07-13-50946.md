@@ -1,5 +1,3 @@
-###DEC-050946-0-000-13-07-1961@@@
-
 decreto nº 50.946, de 13 de julho de 1961.
 
 Altera o item 36 do Decreto número 48.638, de 29 de julho de 1960.

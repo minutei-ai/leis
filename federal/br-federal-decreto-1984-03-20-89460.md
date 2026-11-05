@@ -1,5 +1,3 @@
-###DEC-089460-0-000-20-03-1984@@@
-
 Decreto nº 89.460, dE 20 de março DE 1984.
 
 Promulga a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, 1979.

@@ -1,5 +1,3 @@
-###DEL-004052-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.052 – DE 27 DE JANEIRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Rs. 300:000$0, para despesas no exterior.

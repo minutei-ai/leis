@@ -1,5 +1,3 @@
-###DEC-069963-0-000-19-01-1972@@@
-
 Decreto nº 69.963, de 19 de janeiro de 1972.
 
 Declara de utilidade pública a Casa de Misericórdia de Cornélio Procópio, com sede em Cornélio Procópio, Estado do Paraná.

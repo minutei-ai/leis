@@ -1,5 +1,3 @@
-###DEC-096910-0-000-03-10-1988@@@
-
 DECRETO N° 96.910, DE 3 DE OUTUBRO DE 1988
 
  Dispõe sobre a prestação do serviço de estiva, de vigilância portuária, conferência e conserto na carga e descarga, nos portos organizados e dás outras providencias.

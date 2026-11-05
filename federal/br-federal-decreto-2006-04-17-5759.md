@@ -1,5 +1,3 @@
-###DEC-005759-0-000-17-04-2006@@@
-
 DECRETO Nº 5.759, DE 17 DE ABRIL DE 2006.
 
 Promulga o texto revisto da Convenção Internacional para a Proteção dos Vegetais (CIVP), aprovado na 29a Conferência da Organização das Nações Unidas para Agricultura e Alimentação - FAO, em 17 de novembro de 1997.

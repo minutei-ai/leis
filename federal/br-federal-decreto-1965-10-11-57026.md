@@ -1,5 +1,3 @@
-###DEC-057026-0-000-11-10-1965@@@
-
 Decreto nº 57.026, de 11 de outubro de 1965.
 
 Autoriza a Centrais Elétricas de Goiás S. A. a construir linha de transmissão.

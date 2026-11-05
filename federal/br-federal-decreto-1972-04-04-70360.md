@@ -1,5 +1,3 @@
-###DEC-070360-0-000-04-04-1972@@@
-
 DECRETO Nº 70.360, DE 4 DE ABRIL DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de São José dos Campos, Estado de São Paulo.

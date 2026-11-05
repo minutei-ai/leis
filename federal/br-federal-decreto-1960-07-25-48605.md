@@ -1,5 +1,3 @@
-###DEC-048605-0-000-25-07-1960@@@
-
 Decreto nº 48.605, de 25 de julho de 1960.
 
 Autoriza a Espírito Santo Centrais Elétricas S.A. a fazer suprimento de energia elétrica a grandes consumidores em sua zona de operação.

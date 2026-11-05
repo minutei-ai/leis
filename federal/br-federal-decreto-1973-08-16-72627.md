@@ -1,5 +1,3 @@
-###DEC-072627-0-000-16-08-1973@@@
-
 decreto nº 72.627, de 16 de agosto de 1973.
 
 Concede à Companhia Siderúrgica Paulista "COSIPA" o direito de lavrar calcário no Município de Guapíara, Estado de São Paulo.

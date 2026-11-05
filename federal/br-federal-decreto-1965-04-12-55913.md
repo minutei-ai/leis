@@ -1,5 +1,3 @@
-###DEC-055913-0-000-12-04-1965@@@
-
 DECRETO Nº 55.913, DE 12 DE ABRIL DE 1965.
 
 Concede reconhecimento a cursos do Conservatório de Música de Niterói, Estado do Rio de Janeiro.

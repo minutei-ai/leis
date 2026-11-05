@@ -1,5 +1,3 @@
-###DEC-076614-0-000-17-11-1975@@@
-
 DECRETO Nº 76.614, DE 17 DE NOVEMBRO DE 1975.
 
 Promulga o prazo da autorização concedida pelo Decreto nº 74.845, de 6 de novembro de 1974, às Companhias Arthur Levy Boat Service Inc. e Arthur Levy do Brasil, serviços Marítimos Ltda.

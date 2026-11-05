@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1a25202c-4cc8-4640-8282-a46971248e5d/texto#nowhere)
 
-###DEL-001605-0-000-27-02-1978@@@
-
 # Decreto-lei nº 1.605, de 27 de fevereiro de 1978.
 
 Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

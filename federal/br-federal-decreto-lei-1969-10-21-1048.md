@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1ed4cbfb-e68f-4ce3-8b84-2327c4427c5d/texto#nowhere)
 
-###DEL-001048-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.048, DE 21 DE OUTUBRO DE 1969
 
 Cria a Biblioteca Nacional para assuntos educacionais e científicos, e dá outras providências.

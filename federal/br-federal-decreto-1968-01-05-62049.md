@@ -1,5 +1,3 @@
-###DEC-062049-0-000-05-01-1968@@@
-
 DECRETO Nº 62.049, DE 5 DE JANEIRO DE 1968.
 
 Transfere da Emprêsa de Fôrça e Luz de Apiaí para a Prefeitura Municipal de Apiaí a concessão para produzir, transmitir e distribuir energia elétrica no distrito de Apiaí, município de Apiaí, Estado de São Paulo e dá outras providências.

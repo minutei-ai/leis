@@ -1,5 +1,3 @@
-###DEC-004180-0-000-02-04-2002@@@
-
 DECRETO Nº 4.180, DE 2 DE ABRIL DE 2002
 
 Atribui ao Centro Federal de Educação Tecnológica do Paraná a responsabilidade pela execução das atividades de administração de pessoal, material, patrimonial, de serviços gerais, orçamento e finanças e de controle interno da Escola Técnica Federal de Palmas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000275-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 275, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir pelo Ministério Extraordinário para a Coordenação dos Organismos Regionais, o crédito especial de NCr$570.000,00 (quinhentos e setenta mil cruzeiros novos), para atender a despesas com a Seção Brasileira da Comissão Mista da Lagoa Mirim.

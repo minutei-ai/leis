@@ -1,5 +1,3 @@
-###DEC-056198-0-000-30-04-1965@@@
-
 DECRETO Nº 56.198, DE 30 DE abril DE 1965.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil de terreno nacional interior que menciona, no Estado da Guanabara.

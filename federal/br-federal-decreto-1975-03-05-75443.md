@@ -1,5 +1,3 @@
-###DEC-075443-0-000-05-03-1975@@@
-
 Decreto nº 75.443, de 5 de março de 1975.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que mencionam.

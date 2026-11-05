@@ -1,5 +1,3 @@
-###DEC-079900-0-000-01-07-1977@@@
-
 DECRETO Nº 79.900, DE 1 DE JULHO DE 1977
 
 Aprova o Regulamento para os Adidos, Adjuntos e Auxiliares de Adidos Militares junto às Missões Diplomáticas Brasileiras.

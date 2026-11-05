@@ -1,5 +1,3 @@
-###DEC-072529-0-000-25-07-1973@@@
-
 DECRETO N° 72.529, DE 25 DE JULHO DE 1973.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

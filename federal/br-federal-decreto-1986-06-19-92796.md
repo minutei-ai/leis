@@ -1,5 +1,3 @@
-###DEC-092796-0-000-19-06-1986@@@
-
 DECRETO Nº 92.796, DE 19 DE JUNHO DE 1986
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de 1986, que estabelece a Estrutura Básica da Organização do Ministério da Marinha, e dá outras providências.

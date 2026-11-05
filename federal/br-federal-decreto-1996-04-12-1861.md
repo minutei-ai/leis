@@ -1,7 +1,3 @@
-1
-
-###DEC-001861-0-000-12-04-1996@@@
-
 DECRETO Nº 1.861, DE 12 DE ABRIL DE 1996.
 
 Regulamenta a exportação de bens sensíveis e serviços diretamente vinculados, de que trata a Lei nº 9.112, de 10 de outubro de 1995.

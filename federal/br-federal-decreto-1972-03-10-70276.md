@@ -1,5 +1,3 @@
-###DEC-070276-0-000-10-03-1972@@@
-
 DECRETO Nº 70.276, DE 10 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério do Trabalho e Previdência Social, cargo do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

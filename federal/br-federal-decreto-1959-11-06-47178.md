@@ -1,5 +1,3 @@
-###DEC-047178-0-000-06-11-1959@@@
-
 DECRETO Nº 47.178, DE 6 DE NOVEMBRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial da Divisão do Pessoal do Departamento de Administração para idêntica Tabela do Museu Nacional de Belas Artes.

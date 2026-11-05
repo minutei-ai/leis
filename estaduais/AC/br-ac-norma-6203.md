@@ -1,6 +1,10 @@
 > **LEI Nº 4.424, DE 24 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título Honorifico de Cidadã Acreana a Sra. Jaçamar Aldenora dos Santos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título Honorifico de Cidadã Acreana a Sra. Jaçamar Aldenora dos Santos.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-096225-0-000-27-06-1988@@@
-
 DECRETO N° 96.225, DE 27 DE JUNHO DE 1988
 
 Altera o Regulamento para o Corpo de Oficiais da Reserva do Exército (R-68-RCORE).

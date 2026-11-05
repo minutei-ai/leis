@@ -1,5 +1,3 @@
-###DEC-081336-0-000-14-02-1978@@@
-
 Decreto nº 81.336, de 14 fevereiro de 1978
 
 Autoriza a transformação dos cursos de Licenciatura em Ciências, de Matemática e de Ciências Biológicas em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Formiga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209138)<br>
-
 # DECRETO N° 68.345, DE 29 DE FEVEREIRO DE 2024
 
 ### _Altera o Decreto n° 47.907, de 24 de junho de 2003, que regulamenta a Lei n° 11.248, de 4 de novembro de 2002, que cria o Conselho Estadual de Política Energética - CEPE._

@@ -1,5 +1,3 @@
-###DEC-048638-0-000-29-07-1960@@@
-
 DECRETO Nº 48.638, DE 29 DE JULHO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos, ora descritos.

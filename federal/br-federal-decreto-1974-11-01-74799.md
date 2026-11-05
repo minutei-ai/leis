@@ -1,5 +1,3 @@
-###DEC-074799-0-000-01-11-1974@@@
-
 DECRETO Nº 74.799, DE 1 DE NOVEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Engenharia Mecânica da Faculdade de Engenharia de Joinville, com sede na cidade de Joinville, Estado de Santa Catarina.

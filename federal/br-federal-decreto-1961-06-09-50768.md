@@ -1,5 +1,3 @@
-###DEC-050768-0-000-09-06-1961@@@
-
 DECRETO Nº 50.768, DE 9 DE JUNHO DE 1961.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica do Salto Vagalume, situado no Rio Pirapó, no município de Nova Esperança, Estado do Paraná.

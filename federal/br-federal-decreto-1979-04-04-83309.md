@@ -1,5 +1,3 @@
-###DEC-083309-0-000-04-04-1979@@@
-
 Decreto nº 83.309, de 04 de abril de 1979.
 
 Promulga o Convênio de Sanidade Animal em Áreas de Fronteiras. Brasil-Bolívia.

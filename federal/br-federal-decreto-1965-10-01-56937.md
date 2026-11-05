@@ -1,5 +1,3 @@
-###DEC-056937-0-000-01-10-1965@@@
-
 DECRETO Nº 56.937, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Companhia de Pesquisa e Lavras Minerais - Compelmi a lavrar carvão mineral, no município de Guaíba, Estado do Rio Grande do Sul.

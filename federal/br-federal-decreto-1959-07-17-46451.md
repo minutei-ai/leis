@@ -1,5 +1,3 @@
-###DEC-046451-0-000-17-07-1959@@@
-
 decreto nº 46.451, de 17 dejulho de 1959.
 
 Altera, temporariamente, dispositivos do Regulamento de Promoções para Oficiais da Marinha.

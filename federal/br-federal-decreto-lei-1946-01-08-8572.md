@@ -1,5 +1,3 @@
-###DEL-008572-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.572 – DE 8 DE JANEIRO DE 1946
 
 Dá nova redação ao Decreto-lei número 7.779, de 25 de julho de 1945, que reorganizou o Departamento Nacional de Estradas de Ferro.

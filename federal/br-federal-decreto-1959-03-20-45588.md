@@ -1,5 +1,3 @@
-###DEC-045588-0-000-20-03-1959@@@
-
 Decreto nº 45.588, de 20 de março de 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Paraná.

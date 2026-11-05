@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d30dd126-8e27-437f-95b0-fbbfa0e67d25/texto#nowhere)
 
-###DEL-001053-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.053, de 21 de Outubro de 1969
 
 Provê sôbre o exercício de mandato em órgão colegiado.

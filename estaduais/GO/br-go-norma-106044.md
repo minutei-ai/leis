@@ -112,7 +112,8 @@ II – a que o estabelecimento beneficiário não possua crédito tributário in
 
 § 2º Na hipótese do inciso II do _caput_ deste artigo:
 
-I – a existência de crédito tributário inscrito em dívida ativa implica a perda do direito do estabelecimento de utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária; e<br>
+I – a existência de crédito tributário inscrito em dívida ativa implica a perda do direito do estabelecimento de utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária; e
+
  - [Redação dada pela Lei nº 23.245, de 24-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110410).
 
 ~~I – o estabelecimento fica impedido de utilizar, em caráter definitivo, os benefícios fiscais previstos nesta Lei, na apuração do ICMS correspondente ao mês da inscrição em dívida ativa até a apuração do ICMS correspondente ao mês anterior a sua regularização, nos termos da legislação tributária; e~~

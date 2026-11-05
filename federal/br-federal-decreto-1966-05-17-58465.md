@@ -1,5 +1,3 @@
-###DEC-058465-0-000-17-05-1966@@@
-
 DECRETO Nº 58.465, DE 17 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Teresopolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-080981-0-000-12-12-1977@@@
-
 Decreto nº 80.981, de 12 de dezembro de 1977.
 
 Concede à Indústria de Mármores Italva Ltda. o direito de lavrar mármore e calcário no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

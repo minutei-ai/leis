@@ -1,5 +1,3 @@
-###DEC-097471-0-000-23-01-1989@@@
-
 DECRETO N° 97.471, DE 23 DE JANEIRO DE 1989
 
 Dispõe sobre a coordenação dos assuntos de competência do Conselho Nacional de Informática e Automação - CONIN.

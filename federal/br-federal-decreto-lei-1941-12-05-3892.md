@@ -1,5 +1,3 @@
-###DEL-003892-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.892 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 10:000$0, à verba que especifica

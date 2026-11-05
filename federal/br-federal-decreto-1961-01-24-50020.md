@@ -1,5 +1,3 @@
-###DEC-050020-0-000-24-01-1961@@@
-
 DECRETO Nº 50.020, DE 24 DE JANEIRO DE 1961.
 
 Autoriza Cerâmica Rio Grande Limitada a pesquisar argila no município de Nepomuceno, Estado de Minas Gerais.

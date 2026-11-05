@@ -1,5 +1,3 @@
-###DEC-052317-0-000-02-08-1963@@@
-
 DECRETO Nº 52.317, DE 2 DE AGôSTO DE 1963.
 
 Concede à Mineração Brasileira de Fluorita Ltda. autorização para funcionar como emprêsa de mineração.

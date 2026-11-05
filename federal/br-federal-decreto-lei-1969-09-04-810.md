@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e6e824ad-e3c7-459f-92a1-a94709849730/texto#nowhere)
 
-###DEL-000810-0-000-04-09-1969@@@
-
 DECRETO-LEI nº 810, DE 4 DE SeTEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Educação e Cultura, em favor da Universidade Federal do Paraná o crédito especial de NCr$243.893,00 para o fim que especifica.
@@ -14,7 +12,35 @@ Art. 1º Fica o Poder Executivo autorizado a abrir ao Ministério da Educação 
 
 Art. 2º Os recursos necessários à execução dêste Decreto-lei decorrerão de anulação parcial de dotações orçamentárias consignadas, no vigente Orçamento, ao Subanexo 5.05.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.05.00 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Educação e Cultura</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.05.20 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretoria do Ensino Superior</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>08.06.07.1.097 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxílios a Estabelecimentos de Ensino Superior para atendimento de compromisso firmado com o BID</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1) Universidade de São Paulo</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.0.0.0 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesas de Capital</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.0.0 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferências de Capital</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.3.0 -</span></p></td><td style="width:238.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxílios para Obras Públicas</span></p></td><td style="width:68.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">243.893,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.05.00 -
+
+Ministério da Educação e Cultura
+
+5.05.20 -
+
+Diretoria do Ensino Superior
+
+08.06.07.1.097 -
+
+Auxílios a Estabelecimentos de Ensino Superior para atendimento de compromisso firmado com o BID
+
+1) Universidade de São Paulo
+
+4.0.0.0 -
+
+Despesas de Capital
+
+4.3.0.0 -
+
+Transferências de Capital
+
+4.3.3.0 -
+
+Auxílios para Obras Públicas
+
+243.893,00
 
 Art. 3º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

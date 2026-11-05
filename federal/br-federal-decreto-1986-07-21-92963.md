@@ -1,5 +1,3 @@
-###DEC-092963-0-000-21-07-1986@@@
-
 DECRETO Nº 92.963, DE 21 DE JULHO DE 1986
 
 Cria a Estação Ecológica do Taim, em áreas de terra que indica, e dá outras providências.

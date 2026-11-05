@@ -1,5 +1,3 @@
-###DEC-048781-0-000-12-08-1960@@@
-
 Decreto nº 48.781, de 12 de agôsto de 1960.
 
 Autoriza o cidadão brasileiro Elias Wonchinski a pesquisar ilmenita no município de Paranaguá, Estado do Paraná.

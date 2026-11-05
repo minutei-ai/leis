@@ -1,5 +1,3 @@
-###DEC-074256-0-000-08-07-1974@@@
-
 DECRETO Nº 74.256 - DE 8 DE JULHO DE 1974.
 
 Concede reconhecimento aos cursos de Letras e de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro - Estado de São Paulo.

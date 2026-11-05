@@ -1,5 +1,3 @@
-###DEC-088920-0-000-26-10-1983@@@
-
 Decreto nº 88.920, de 26 de outubro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Cardoso II, da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

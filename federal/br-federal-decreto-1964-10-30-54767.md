@@ -1,5 +1,3 @@
-###DEC-054767-0-000-30-10-1964@@@
-
 DECRETO Nº 54.767, DE 30 DE OUTUBRO DE 1964.
 
 Dispõe sôbre a organização e o funcionamento dos Conselhos de Contribuintes e do Conselho Superior de Tarifa, e dá outras providências.

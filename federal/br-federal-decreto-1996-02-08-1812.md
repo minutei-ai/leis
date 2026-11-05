@@ -1,5 +1,3 @@
-###DEC-001812-0-000-08-02-1996@@@
-
 DECRETO Nº 1.812, DE 8 DE FEVEREIRO DE 1996
 
 Altera dispositivos do Decreto n° 30.691, de 29 de março de 1952, que aprovou o Regulamento da Inspeção Industrial e Sanitária de Produtos de Origem Animal, alterado pelo Decreto n° 1.255, de 25 de junho de 1962.

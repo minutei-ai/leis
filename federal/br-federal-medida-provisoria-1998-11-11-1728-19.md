@@ -1,5 +1,3 @@
-###MPV-001728-0-019-11-11-1998@@@
-
 MEDIDA PROVISÓRIA nº 1.728-19, DE 11 DE NOVEMBRO DE 1998.
 
 Dispõe sobre normas e condições gerais de proteção ao trabalho portuário, institui multas pela inobservância de seus preceitos, e dá outras providências.

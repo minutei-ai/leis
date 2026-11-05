@@ -1,5 +1,3 @@
-###DEC-061586-0-000-20-10-1967@@@
-
 DEcreto nº 61.586, de 20 de outubro de 1967.
 
 Altera os arts 36, 37, 40 e 41 e seus respectivos parágrafos do Capítulo VII do Regulamento para as Escolas de Marinha Mercante, aprovado pelo Decreto nº 1.424 de 28 de setembro de 1962.

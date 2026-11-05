@@ -1,5 +1,3 @@
-###DEC-079079-0-000-30-12-1976@@@
-
 DECRETO Nº 79.079, de 30 DE DEZEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Fortaleza, Estado do Ceará.

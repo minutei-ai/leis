@@ -1,5 +1,3 @@
-###DEC-057207-0-000-09-11-1965@@@
-
 DECRETO Nº 57.207, DE 9 DE NOVEMBRO DE 1965.
 
 Autoriza alienação de área de terra.

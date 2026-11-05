@@ -1,5 +1,3 @@
-###DEC-070329-0-000-24-03-1972@@@
-
 DECRETO Nº 70.329, DE 24 DE MARÇO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Itapetininga - SP.

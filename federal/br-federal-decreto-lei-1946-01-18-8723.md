@@ -1,5 +1,3 @@
-###DEL-008723-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.723 – DE 18 DE JANEIRO DE 1946
 
 Altera o art. 53 do Decreto-lei número 3.770, de 28 de outubro de 1941.

@@ -1,5 +1,3 @@
-###DEC-006937-0-000-13-08-2009@@@
-
 DECRETO Nº 6.937, DE 13 DE AGOSTO DE 2009.
 
 Dispõe sobre a execução no Território Nacional da Resolução n~~º~~ 1.842, de 29 de outubro de 2008, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República da Costa do Marfim.

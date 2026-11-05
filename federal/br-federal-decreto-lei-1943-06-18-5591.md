@@ -1,5 +1,3 @@
-###DEL-005591-0-000-18-06-1943@@@
-
 DECRETO‑LEI N. 5.591 – DE 18 DE JUNHO DE 1943
 
 Transfere da Fernando de Noronha para Campina Grande ‑ Estado da Pa­raíba do Norte, a sede do 31º Batalhão de Caçadores

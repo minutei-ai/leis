@@ -1,5 +1,3 @@
-###DEC-079401-0-000-16-03-1977@@@
-
 DECRETO Nº 79.401, DE 16 DE MARÇO DE 1977.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais e de Ciências, ministrados pela Universidade Federal de Juiz de Fora, no "campus avançado" de Tefé, Estado do Amazonas.

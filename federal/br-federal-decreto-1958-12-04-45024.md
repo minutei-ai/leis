@@ -1,5 +1,3 @@
-###DEC-045024-0-000-04-12-1958@@@
-
 DECRETO Nº 45.024, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Prefeitura Municipal de Ponta Porã, no Estado de Mato Grosso, a ampliar e modificar suas instalações.

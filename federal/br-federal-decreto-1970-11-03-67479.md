@@ -1,5 +1,3 @@
-###DEC-067479-0-000-03-11-1970@@@
-
 DECRETO Nº 67.479, DE 3 DE NOvEMBRO DE 1970.
 
 Outorga a Telefones do Piauí S. A. - TELEPISA - concessão para explorar os serviços de telefonia pública urbano e interurbano do Estado do Piauí e dá outras providências

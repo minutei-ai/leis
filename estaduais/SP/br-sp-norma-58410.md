@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58410)
-
 # LEI Nº 12.124, DE 11 DE OUTUBRO DE 2005
 
 ## (PL 111/2005 - Analice Fernandes)

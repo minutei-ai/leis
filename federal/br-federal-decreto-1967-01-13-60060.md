@@ -1,5 +1,3 @@
-###DEC-060060-0-000-13-01-1967@@@
-
 DECRETO Nº 60.060, DE 13 DE JANEIRO DE 1967.
 
 Autoriza o funcionamento de cursos na Faculdade de Filosofia de Passo Fundo.

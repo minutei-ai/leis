@@ -1,5 +1,3 @@
-###DEC-073707-0-000-28-02-1974@@@
-
 DECRETO Nº 73.707, DE 28 DE FEVEREIRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à rádio Princesa do Jacuí Ltda., par executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Candelária, Estado do Rio Grande do Sul.

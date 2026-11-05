@@ -1,5 +1,3 @@
-###DEC-077919-0-000-25-06-1976@@@
-
 Decreto nº 77.919, de 25 de junho de 1976.
 
 Regulamenta a Lei nº 6.265, de 19 de novembro de 1975, que dispõe sobre o Ensino no Exército e dá outras providências.

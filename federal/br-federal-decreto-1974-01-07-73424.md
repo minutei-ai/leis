@@ -1,5 +1,3 @@
-###DEC-073424-0-000-07-01-1974@@@
-
 DECRETO Nº 73.424, DE 7 DE JANEIRO DE 1974.
 
 Cancela autorização para funcionamento no Brasil da Assicurazioni Generali di Trieste e Venezia.

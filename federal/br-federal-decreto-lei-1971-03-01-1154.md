@@ -1,5 +1,3 @@
-###DEL-001154-0-000-01-03-1971@@@
-
 # DECRETO-LEI Nº 1.154, DE 1 DE MARÇO DE 1971
 
 Estabelece a Nomenclatura Brasileira de Mercadorias (NBM) baseada na Nomenclatura Aduaneira de Bruxelas (NAB), adapta a Tarifa Aduaneira a referida Nomenclatura e dá outras providências.

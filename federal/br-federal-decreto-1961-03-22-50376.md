@@ -1,5 +1,3 @@
-###DEC-050376-0-000-22-03-1961@@@
-
 DECRETO Nº 50.376, DE 22 DE MARÇO DE 1961.
 
 Prorroga por mais 90 dias o prazo a que se refere o art. 2º do Decreto nº 50.270, de 9 de fevereiro de 1961.

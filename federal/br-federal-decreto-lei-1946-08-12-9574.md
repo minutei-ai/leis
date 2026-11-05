@@ -1,5 +1,3 @@
-###DEL-009574-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.574 – DE 12 DE AGÔSTO DE 1946    
 
 Dispõe sôbre o pessoal da extinta comissão Executiva de Frutas

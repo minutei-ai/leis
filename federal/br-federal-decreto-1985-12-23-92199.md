@@ -1,5 +1,3 @@
-###DEC-092199-0-000-23-12-1985@@@
-
 DECRETO Nº 92.199, de 23 de dezembro de 1985.
 
 Concede à Companhia Brasileira do COBRE-CBC, autorização para proceder o aumento do seu capital autorizado.

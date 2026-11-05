@@ -1,5 +1,3 @@
-###DEC-069429-0-000-27-10-1971@@@
-
 DECRETO Nº 69.429 - de 27 de outubro de 1971
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Educação e Cultura e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001675-0-000-13-10-1995@@@
-
 DECRETO Nº 1.675, DE 13 DE OUTUBRO DE 1995.
 
 Dispõe sobre o Programa de Ação Social em Saneamento - PROSEGE, e dá outras providências.

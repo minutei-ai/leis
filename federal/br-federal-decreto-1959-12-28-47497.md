@@ -1,5 +1,3 @@
-###DEC-047497-0-000-28-12-1959@@@.
-
 DECRETO Nº 47.497 DE 28 DE DEZEMBRO DE  1959.
 
 Dispõe sobre a função  de Comandante do Destacamento de Base Aérea de Florianópolis.

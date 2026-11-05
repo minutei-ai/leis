@@ -1,5 +1,3 @@
-###DEC-065004-0-000-18-08-1969@@@
-
 DECRETO Nº 65.004 - de 18 de AgÔsto de 1969.
 
 Declara de utilidade pública o Liceu Musical "Palestrina" com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

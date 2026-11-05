@@ -1,5 +1,3 @@
-###DEC-047677-0-000-20-01-1960@@@
-
 DECRETO Nº 47.677, DE 20 DE JANEIRO DE 1960.
 
 Autoriza a Prefeitura Municipal de Rosário do Sul, Estado do Rio Grande do Sul, a alienar os equipamentos que especifica.

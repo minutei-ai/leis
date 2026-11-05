@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59549)
-
 # LEI Nº 12.179, DE 21 DE DEZEMBRO DE 2005
 
 ## (Projeto de Lei nº 47, de 2004, do Deputado Ricardo Trípoli - PSDB)

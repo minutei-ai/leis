@@ -1,5 +1,3 @@
-###DEC-087951-0-000-20-12-1982@@@
-
 Decreto nº 87.951, de 20 de dezembro de 1982.
 
 Fixa o montante do Capital Social da Vale do Rio Doce Navegação S.A. - DOCENAVE.

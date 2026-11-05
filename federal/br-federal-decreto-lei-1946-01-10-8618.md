@@ -1,5 +1,3 @@
-###DEL-008618-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8. 618 – DE 10 DE JANEIRO DE 1946
 
 Dispõe sobre a alienação de imóveis financiados pelos Institutos e Caixas de Aposentadorias e Pensões.

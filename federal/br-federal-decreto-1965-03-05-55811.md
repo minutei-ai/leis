@@ -1,5 +1,3 @@
-###DEC-055811-0-000-05-03-1965@@@
-
 decreto nº 55.811, de 5 de março de 1965.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de Farinha de Mandioca da safra de 1965.

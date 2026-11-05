@@ -1,5 +1,3 @@
-###DEC-059276-0-000-23-09-1966@@@
-
 DECRETO Nº 59.276, DE 23 DE SETEMBRO DE 1966.
 
 Extingue o destacamento Brasileiro da Fôrça Armada Interamericana - “FAIBRÁS”.

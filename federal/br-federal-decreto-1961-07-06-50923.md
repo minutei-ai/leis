@@ -1,5 +1,3 @@
-###DEC-050923-0-000-06-07-1961@@@
-
 DECRETO Nº 50.923, DE 6 DE JULHO DE 1961.
 
 Cria o Parque Nacional do Rio de Janeiro, no Estado do Rio da Guanabara.

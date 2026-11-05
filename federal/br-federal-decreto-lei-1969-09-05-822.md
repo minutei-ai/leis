@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d6bf7ccc-9848-4727-93f5-b1d7bcb17d56/texto#nowhere)
 
-###DEL-000822-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 822, DE 5 DE SETEMBRO DE 1969
 
 Extingue a garantia de instância nos recursos de decisão administrativa fiscal e dá outras providências.

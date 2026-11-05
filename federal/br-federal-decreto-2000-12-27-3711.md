@@ -1,5 +1,3 @@
-###DEC-003711-0-000-27-12-2000@@@
-
 DECRETO Nº 3.711, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre o pessoal contratado pelo Serviço Federal de Processamento de Dados, que se encontra à disposição do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-055175-0-000-10-12-1964@@@
-
 DECRETO Nº 55.175, DE 10 DE DEZEMBRO DE 1964.
 
 Regulamento o registro dos diplomas que, nos têrmos do art. 68, parágrafo único, in fine, da Lei nº 4.024, de 20 de dezembro de 1961, “conferem privilégio  para admissão a cargos públicos” e dá outras providência.

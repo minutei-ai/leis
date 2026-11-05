@@ -1,5 +1,3 @@
-###DEL-008579-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.579 – DE 8 DE JANEIRO DE 1946
 
 Altera o artigo 154 do Código de Vencimentos e Vantagens dos Militares do Exército (Decreto-lei número 2.186, de 13 de maio de 1940).

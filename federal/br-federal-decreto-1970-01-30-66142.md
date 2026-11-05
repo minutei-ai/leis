@@ -1,5 +1,3 @@
-###DEC-066142-0-000-30-01-1970@@@
-
 decreto nº 66.142 - de 30 de janeiro de 1970
 
 Regulamenta a requisição de funcionários para a Comissão Geral de Investigações.

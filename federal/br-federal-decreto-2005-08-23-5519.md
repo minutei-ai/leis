@@ -1,5 +1,3 @@
-###DEC-005519-0-000-23-08-2005@@@
-
 DECRETO Nº 5.519, DE 23 DE AGOSTO DE 2005.       
 
 Promulga o Protocolo de Emenda ao artigo 56 da Convenção sobre a Aviação Civil Internacional, de 6 de outubro de 1989.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 24.8.2005
-
-PROTOCOLO RELATIVO A UMA EMENDA AO ARTIGO 56 DA CONVENÇÃO
+Celso Luiz Nunes AmorimPROTOCOLO RELATIVO A UMA EMENDA AO ARTIGO 56 DA CONVENÇÃO
 
 SOBRE A AVIAÇÃO CIVIL INTERNACIONAL
 

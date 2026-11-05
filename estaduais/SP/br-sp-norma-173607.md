@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/173607)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2014/compilacao-lei-15567-30.10.2014.html)
 
 # LEI N° 15.567, DE 30 DE OUTUBRO DE 2014
@@ -7,7 +6,8 @@
 
 ### _Autoriza o Poder Executivo a realizar operações de crédito com instituições financeiras nacionais ou internacionais, organismos multilaterais e bilaterais de crédito, agências de fomento, bancos privados nacionais ou internacionais, agência multilateral de garantia de financiamentos, altera as Leis n° 15.427, de 2014, e n° 14.987, de 2013, e dá providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~Artigo 1° - Fica o Poder Executivo autorizado a contratar operações de crédito em moeda nacional com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, a Caixa Econômica Federal - CEF, o Banco do Brasil - BB e bancos privados nacionais, cujos recursos serão aplicados, obrigatoriamente, na execução total ou parcial dos seguintes projetos, vedada a sua utilização para custeio de despesas correntes em consonância com § 1° do artigo 35 da Lei Complementar federal n° 101, de 4 de maio de 2000:~~
@@ -106,26 +106,48 @@ V - Revogado.
 
 _\- Inciso V revogado pela [Lei n° 18.418, de 13/03/2026](https://www.al.sp.gov.br/norma/212344)._
 
-**Artigo 5° -** Os recursos provenientes da operação de crédito serão consignados como receita no orçamento do Estado, ficando a Secretaria de Planejamento e Desenvolvimento Regional autorizada a adotar as providências que se façam necessárias.**<br>
-Parágrafo único -** Fica o Poder Executivo autorizado a, por meio de decreto, abrir créditos suplementares ou especiais, na forma dos artigos 42 e 43, § 1°, inciso IV, da Lei federal n° 4.320, de 17 de março de 1964.<br>
-**Artigo 6° -** Os orçamentos do Estado consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas à amortização, juros e demais encargos decorrentes das operações de crédito autorizadas por esta lei.<br>
-**Artigo 7° -** Fica o Poder Executivo autorizado, na forma prevista no § 2° do artigo 6° da Lei federal n° 11.079, de 30 de dezembro de 2004, a aportar recursos em favor do parceiro privado, com destinação específica à construção ou aquisição de bens reversíveis que comporão a infraestrutura vinculada ao "Projeto Tamoios" mencionado no artigo 1° desta lei, na forma do que dispuserem o Edital, a proposta vencedora, o contrato de concessão e a Lei Orçamentária Anual.<br>
-**Artigo 8° -** A remuneração global destinada ao parceiro privado responsável pela execução e operação do projeto mencionado no inciso II do artigo 1° desta lei, proveniente do Poder Público, a título de contraprestação pecuniária e/ou aporte, em decorrência de contratação sob a modalidade concessão patrocinada, poderá ultrapassar 70% (setenta por cento) da totalidade de remuneração por este auferida, conforme o disposto no § 3° do artigo 10 da Lei federal n° 11.079, de 30 de dezembro de 2004.<br>
-**Artigo 9° -** O inciso I do artigo 1° da [Lei n° 15.427, de 22 de maio de 2014](https://www.al.sp.gov.br/norma/172932), passa a vigorar com a seguinte redação:<br>
-"Artigo 1° - .......................................................<br>
-I - "Projeto Melhoria Logística e de Mobilidade Urbana entre Santos e Guarujá", a cargo da Secretaria de Logística e Transportes, órgão responsável pela execução do projeto, por meio da DERSA - Desenvolvimento Rodoviário S.A., até o valor de R$ 2.327.000.000,00 (dois bilhões, trezentos e vinte e sete milhões de reais);" (NR).<br>
-**Artigo 10 -** O § 1° do artigo 4° da [Lei n° 14.987, de 17 de abril de 2013](https://www.al.sp.gov.br/norma/169992), passa a vigorar com a seguinte redação:<br>
-"Artigo 4° - ......................................................<br>
-§ 1° - Para obter as garantias da União com vistas às contratações de operações de crédito de que trata esta lei, fica o Poder Executivo autorizado a prestar contragarantias ao Tesouro Nacional." (NR).<br>
-**Artigo 11 -** Fica acrescentado na [Lei n° 14.987, de 17 de abril de 2013](https://www.al.sp.gov.br/norma/169992), o § 3° ao artigo 1°, com a seguinte redação:<br>
-"Artigo 1° - ...................................................<br>
-................................................................<br>
-§ 3° - As operações de crédito autorizadas por esta lei poderão ser contratadas para pagamento em moeda nacional, embora sujeitando-se à variação cambial, conforme previsto na Resolução CMN n° 3.844, de 23 de março de 2010."<br>
-**Artigo 12 -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 30 de outubro de 2014.<br>
-GERALDO ALCKMIN<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Saulo de Castro Abreu Filho<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 5° -** Os recursos provenientes da operação de crédito serão consignados como receita no orçamento do Estado, ficando a Secretaria de Planejamento e Desenvolvimento Regional autorizada a adotar as providências que se façam necessárias.**
+
+Parágrafo único -** Fica o Poder Executivo autorizado a, por meio de decreto, abrir créditos suplementares ou especiais, na forma dos artigos 42 e 43, § 1°, inciso IV, da Lei federal n° 4.320, de 17 de março de 1964.
+
+**Artigo 6° -** Os orçamentos do Estado consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas à amortização, juros e demais encargos decorrentes das operações de crédito autorizadas por esta lei.
+
+**Artigo 7° -** Fica o Poder Executivo autorizado, na forma prevista no § 2° do artigo 6° da Lei federal n° 11.079, de 30 de dezembro de 2004, a aportar recursos em favor do parceiro privado, com destinação específica à construção ou aquisição de bens reversíveis que comporão a infraestrutura vinculada ao "Projeto Tamoios" mencionado no artigo 1° desta lei, na forma do que dispuserem o Edital, a proposta vencedora, o contrato de concessão e a Lei Orçamentária Anual.
+
+**Artigo 8° -** A remuneração global destinada ao parceiro privado responsável pela execução e operação do projeto mencionado no inciso II do artigo 1° desta lei, proveniente do Poder Público, a título de contraprestação pecuniária e/ou aporte, em decorrência de contratação sob a modalidade concessão patrocinada, poderá ultrapassar 70% (setenta por cento) da totalidade de remuneração por este auferida, conforme o disposto no § 3° do artigo 10 da Lei federal n° 11.079, de 30 de dezembro de 2004.
+
+**Artigo 9° -** O inciso I do artigo 1° da [Lei n° 15.427, de 22 de maio de 2014](https://www.al.sp.gov.br/norma/172932), passa a vigorar com a seguinte redação:
+
+"Artigo 1° - .......................................................
+
+I - "Projeto Melhoria Logística e de Mobilidade Urbana entre Santos e Guarujá", a cargo da Secretaria de Logística e Transportes, órgão responsável pela execução do projeto, por meio da DERSA - Desenvolvimento Rodoviário S.A., até o valor de R$ 2.327.000.000,00 (dois bilhões, trezentos e vinte e sete milhões de reais);" (NR).
+
+**Artigo 10 -** O § 1° do artigo 4° da [Lei n° 14.987, de 17 de abril de 2013](https://www.al.sp.gov.br/norma/169992), passa a vigorar com a seguinte redação:
+
+"Artigo 4° - ......................................................
+
+§ 1° - Para obter as garantias da União com vistas às contratações de operações de crédito de que trata esta lei, fica o Poder Executivo autorizado a prestar contragarantias ao Tesouro Nacional." (NR).
+
+**Artigo 11 -** Fica acrescentado na [Lei n° 14.987, de 17 de abril de 2013](https://www.al.sp.gov.br/norma/169992), o § 3° ao artigo 1°, com a seguinte redação:
+
+"Artigo 1° - ...................................................
+
+................................................................
+
+§ 3° - As operações de crédito autorizadas por esta lei poderão ser contratadas para pagamento em moeda nacional, embora sujeitando-se à variação cambial, conforme previsto na Resolução CMN n° 3.844, de 23 de março de 2010."
+
+**Artigo 12 -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 30 de outubro de 2014.
+
+GERALDO ALCKMIN
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Saulo de Castro Abreu Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 30 de outubro de 2014.

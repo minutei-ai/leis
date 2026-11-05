@@ -1,5 +1,3 @@
-###DEC-006008-0-000-29-12-2006@@@
-
 DECRETO Nº 6.008, DE 29 DE DEZEMBRO DE 2006.
 
 Regulamenta o § 6o do art. 7o do Decreto-Lei no 288, de 28 de fevereiro de 1967, o art. 2o da Lei no 8.387, de 30 de dezembro de 1991, e o art. 4o da Lei no 11.077, de 30 de dezembro de 2004, que tratam do benefício fiscal concedido às empresas que produzam bens de informática na Zona Franca de Manaus que investirem em atividades de pesquisa e desenvolvimento na Amazônia, e dá outras providências.
@@ -501,5 +499,3 @@ LUIZ INÁCIO LULA DA SILVA
         Luiz Fernando Furlan
 
         Sergio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 29.12.2006 - Edição extra

@@ -1,5 +1,3 @@
-###DEC-067503-0-000-06-11-1970@@@
-
 DECRETO Nº 67.503, DE 6 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 38.789 de 29 de fevereiro de 1956.

@@ -1,5 +1,3 @@
-###DEC-098497-0-000-11-12-1989@@@
-
 DECRETO N° 98.497, DE 11 DE DEZEMBRO DE 1989
 
 Altera o art. 1° do Decreto n° 97.477, de 26 de janeiro de 1989, que fixa, para o exercício de 1989, o limite global de importações realizadas através da Zona Franca de Manaus.

@@ -1,5 +1,3 @@
-###DEC-064947-0-000-06-08-1969@@@
-
 DECRETO Nº 64.947, DE 6 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública, para desapropriação, imóvel que menciona cidade de Barbacena, Estado de Minas Gerais.

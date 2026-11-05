@@ -1,5 +1,3 @@
-###DEC-046419-0-000-14-07-1959@@@
-
 decreto nº 46.419, de 14 de julho de 1959.
 
 Aprova o Regimento da Comissão Executiva de Armazéns e Silos.
@@ -483,8 +481,6 @@ V - sugerir à autoridade superior respectiva providências que se fizerem neces
 Art. 35. Os casos omissos neste Regimento serão resolvidos pelo Presidente da CEAS, desde que não ultrapassem os limites da sua competência.
 
 Cyrillo JÚnior
-
-###DEC-046419-0-000-14-07-1959@@@RET01+++
 
 decreto nº 46.419, de 14 de julho de 1959.
 

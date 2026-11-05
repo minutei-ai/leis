@@ -1,5 +1,3 @@
-###MPV-000536-0-000-24-06-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 536, DE 24 DE JUNHO DE 2011
 
 Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente.

@@ -1,5 +1,3 @@
-###DEC-002996-0-000-23-03-1999@@@
-
 DECRETO Nº 2.996, DE 23 DE MARÇO DE 1999
 
 Aprova o Regulamento do Quadro de Oficiais Especialistas da Aeronáutica (QOEA).

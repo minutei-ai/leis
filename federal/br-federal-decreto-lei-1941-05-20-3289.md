@@ -1,5 +1,3 @@
-###DEL-003289-0-000-20-05-1941@@@
-
 DECRETO-LEI N. 3.289 – DE 20 DE MAIO DE 1941
 
 Altera a redação do artigo 2º do decreto-lei n. 3.173, de 3 de abril de 1941.

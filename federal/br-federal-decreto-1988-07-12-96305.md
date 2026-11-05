@@ -1,5 +1,3 @@
-###DEC-096305-0-000-12-07-1988@@@
-
 DECRETO N° 96.305, DE 12 DE JULHO DE 1988
 
 Inclui localidades especiais na Categoria “A” de que trata a alínea “b” do Decreto n° 54.466, de 14 de outubro de 1964, alterado pelo Decreto n° 90.764, de 28 de dezembro de 1984.

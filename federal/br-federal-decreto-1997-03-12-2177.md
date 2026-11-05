@@ -1,5 +1,3 @@
-###DEC-002177-0-000-12-03-1997@@@
-
 DECRETO Nº 2.177, DE 12 DE MARÇO DE 1997
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

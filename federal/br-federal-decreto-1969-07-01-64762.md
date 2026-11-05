@@ -1,5 +1,3 @@
-###DEC-064762-0-000-01-07-1969@@@
-
 DECRETO Nº 64.762 - DE 1º DE JULHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas situadas no 12º Distrito do Município de Campos - Morro do Côco, Estado do Rio de Janeiro necessárias a construção da estrada de acesso e da Repetidora de Microondas de Morro do Côco, integrante do Sistema Nacional de Telecomunicações.

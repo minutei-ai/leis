@@ -1,5 +1,3 @@
-###DEC-049671-0-000-31-12-1960@@@
-
 DECRETO Nº 49.671, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a “Soemibra” Sociedade Extrativa de Minérios Brasileiros Limitada, a pesquisar dolomita no município de Miracatu, Estado de São Paulo.

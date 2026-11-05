@@ -14,7 +14,8 @@ Art. 3º - A Medalha do Mérito Legislativo será confeccionada em dourado, com
 
 Parágrafo único. A medalha terá como suporte uma fita de seda verde e amarela.
 
-Art. 4º. Juntamente com a Medalha do Mérito Legislativo será entregue um certificado, que conterá o brasão do Município de Aparecida de Goiânia, a identificação de quem está recebendo a honraria e, ao final, a data e assinaturas do Presidente da Câmara Municipal e do vereador autor do Decreto Legislativo indicante.<br>
+Art. 4º. Juntamente com a Medalha do Mérito Legislativo será entregue um certificado, que conterá o brasão do Município de Aparecida de Goiânia, a identificação de quem está recebendo a honraria e, ao final, a data e assinaturas do Presidente da Câmara Municipal e do vereador autor do Decreto Legislativo indicante.
+
 (Redação alterada pela Lei Ordinária nº 3.538, de 7 de janeiro de 2020).
 
 ~~Art. 4º - Juntamente com a Medalha do  Mérito Legislativo será  entregue  um certificado, que conterá o brasão do Município de Aparecida de Goiânia,  a identificação de quem está recebendo a honraria e, ao final, a data e assinatura do Presidente da Câmara Municipal.~~
@@ -23,12 +24,14 @@ Art. 5º - A honraria prevista nesta lei será concedida por iniciativa de qual
 
 § 1º. A concessão será efetuada através de Decreto Legislativo, cujo projeto deverá estar acompanhado da justificativa, a qual detalhará minuciosamente os serviços prestados pelo homenageado ao município, além do seu currículo, a fim de que fiquem gravadas nos anais da Câmara Municipal.
 
-§ 2º Cada vereador poderá propor a concessão de 01 (uma) medalha de que se trata esta lei semestralmente, ficando o protocolo dentro do semestre, independente de ser feito no início, meio e fim.<br>
+§ 2º Cada vereador poderá propor a concessão de 01 (uma) medalha de que se trata esta lei semestralmente, ficando o protocolo dentro do semestre, independente de ser feito no início, meio e fim.
+
 (Redação alterada pela Lei Ordinária nº 3.843, de 24 de julho de 2025).
 
 ~~§ 2º. Poderá ser concedida apenas 01 (uma) medalha de que trata esta lei a cada 06 (seis) meses.~~
 
-~~§ 2º. Cada vereador poderá propor a concessão de 01 (uma) medalha de que trata esta lei a cada 06 (seis) meses.~~<br>
+~~§ 2º. Cada vereador poderá propor a concessão de 01 (uma) medalha de que trata esta lei a cada 06 (seis) meses.~~
+
 **~~(REDAÇÃO ALTERADA PELA LEI ORDINÁRIA Nº 3.125, DE 7 DE NOVEMBRO DE 2013).~~** 
 
 Art. 6º - A pessoa homenageada será notificada pela Mesa Diretora da Câmara Municipal de Aparecida de Goiânia da data, horário e local da Sessão Solene em que receberá a honraria.
@@ -39,8 +42,10 @@ Art. 8º - Esta Lei entra em vigor na data de sua publicação, revogando as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 17 dias do mês de Junho de 2013.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-EULER MORAIS<br>
+EULER MORAIS
+
 SECRETÁRIO DE GOVERNO E INTEGRAÇÃO INSTITUCIONAL

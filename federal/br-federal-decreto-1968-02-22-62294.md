@@ -1,5 +1,3 @@
-###DEC-062294-0-000-22-02-1968@@@
-
 DECRETO Nº 62.294, DE 22 DE FEVEREIRO DE 1968.
 
 Concede reconhecimento à Faculdade de Medicina Veterinária do Ceará.

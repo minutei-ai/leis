@@ -1,5 +1,3 @@
-###DEC-001978-0-000-07-08-1996@@@
-
 DECRETO N° 1.978, DE 7 DE AGOSTO DE 1996.
 
 Suprime o inciso VI do art. 1° do Decreto n° 97.596, de 30 de março de 1989, que dispõe sobre terras públicas federais, afetas a uso especial do Exército.

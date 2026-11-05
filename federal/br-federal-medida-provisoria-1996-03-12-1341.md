@@ -1,7 +1,3 @@
-1
-
-###MPV-001341-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.341, DE 12 DE MARÇO DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

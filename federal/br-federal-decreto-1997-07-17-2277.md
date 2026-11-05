@@ -1,5 +1,3 @@
-###DEC-002277-0-000-17-07-1997@@@
-
 DECRETO Nº 2.277, DE 17 DE JULHO DE 1997
 
 Dá nova redação ao art. 12 do Regimento Interno do Conselho de Recursos do Sistema Financeiro Nacional, a que se refere o art. 6º do Decreto nº 1.935, de 20 de junho de 1996.

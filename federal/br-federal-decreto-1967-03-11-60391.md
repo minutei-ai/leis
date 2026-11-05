@@ -1,5 +1,3 @@
-###DEC-060391-0-000-11-03-1967@@@
-
 DECRETO Nº 60.391, DE 11 DE MARÇO DE 1967.
 
 Autoriza ao Rio Light S.A - serviços de eletricidade, a construir subestação receptora e declara de utilidade pública, para fins de desapropriação, área no estado a Guanabara.
@@ -33,8 +31,6 @@ Brasília, 11 de março de 1967; 146º da Independência e 79º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-060391-0-000-11-03-1967@@@RET01+++
 
 DECRETO Nº 60.391, DE 11 DE MARÇO DE 1967.
 

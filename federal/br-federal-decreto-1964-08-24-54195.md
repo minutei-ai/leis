@@ -1,5 +1,3 @@
-###DEC-054195-0-000-24-08-1964@@@
-
 DECRETO Nº 54.195, DE 24 DE AGôSTO DE 1964.
 
 Autoriza o cidadão brasileiro Mário Campos Ferreira a pesquisar minérios de ferro e de manganês no município de Santa Bárbara, Estado de Minas Gerais.

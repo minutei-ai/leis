@@ -1,5 +1,3 @@
-###DEC-057210-0-000-10-11-1965@@@
-
 DECRETO Nº 57.210, DE 10 DE NOVEMBRO DE 1965.
 
 Institui, no Ministério da Saúde, Grupo de Trabalho para o fim que menciona.

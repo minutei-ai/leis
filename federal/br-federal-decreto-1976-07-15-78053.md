@@ -1,5 +1,3 @@
-###DEC-078053-0-000-15-07-1976@@@
-
 dECRETO Nº 78.053, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito de Olinda, com sede na cidade de Olinda, Estado de Pernambuco.

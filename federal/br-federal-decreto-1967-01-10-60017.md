@@ -1,5 +1,3 @@
-###DEC-060017-0-000-10-01-1967@@@
-
 DECRETO Nº 60.017, DE 10 de JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro João Henrique Biamchini de Santo Amaro da Imperatriz, Estado de Santa Catarina.

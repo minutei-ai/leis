@@ -1,5 +1,3 @@
-###DEC-073301-0-000-12-12-1973@@@
-
 DECRETO Nº 73.301 - DE 12 DE DEZEMBRO DE 1973
 
 Altera o Decreto nº 65.518, de 21 de outubro de 1969, que autorizou a constituição de uma sociedade de economia mista para construção e exploração de terminal salineiro.

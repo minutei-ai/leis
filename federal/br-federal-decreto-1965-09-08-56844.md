@@ -1,5 +1,3 @@
-###DEC-056844-0-000-08-09-1965@@@
-
 DECRETO Nº 56.844, DE 8 DE SETEMBRO DE 1965.
 
 Suprime cargo extinto.

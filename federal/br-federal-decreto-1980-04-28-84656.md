@@ -1,5 +1,3 @@
-###DEC-084656-0-000-28-04-1980@@@
-
 Decreto nº 84.656, de 28 de abril de 1980
 
 Concede à Petrobrás Fertilizantes S.A. - PETROFÉRTIL autorização para proceder ao aumento do limite de seu Capital Social.

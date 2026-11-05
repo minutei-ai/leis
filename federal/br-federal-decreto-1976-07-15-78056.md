@@ -1,5 +1,3 @@
-###DEC-078056-0-000-15-07-1976@@@
-
 DECRETO Nº 78.056, DE 15 DE JULHO DE 1976.
 
 Autoriza o funcionamento do curso de Pedagogia do Instituto de Educação de Minas Gerais, com sede na Cidade de Belo Horizonte, Minas Gerais.

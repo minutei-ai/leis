@@ -1,7 +1,3 @@
-1
-
-###MPV-001445-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.445, DE 10 DE MAIO DE 1996
 
 Dispõe sobre os fundos que especifica e dá outras providências.

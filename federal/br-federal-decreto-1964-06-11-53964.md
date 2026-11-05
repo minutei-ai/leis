@@ -1,5 +1,3 @@
-###DEC-053964-0-000-11-06-1964@@@
-
 DECRETO Nº 53.964, DE 11 DE JUNHO DE 1964.
 
 Estabelece normas para a colaboração no exterior de seguros e resseguros.

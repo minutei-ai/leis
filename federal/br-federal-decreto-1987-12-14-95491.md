@@ -1,5 +1,3 @@
-###DEC-095491-0-000-14-12-1987@@@
-
 DECRETO Nº 95.491, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências e Informática, em Curitiba, Paraná.

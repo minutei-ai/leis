@@ -1,5 +1,3 @@
-###DEC-094786-0-000-19-08-1987@@@
-
 DECRETO N° 94.786, DE 19 DE AGOSTO DE 1987
 
 Autoriza o funcionamento do curso de Direito da Faculdade de Filosofia e Ciências Humanas de Gurupi.

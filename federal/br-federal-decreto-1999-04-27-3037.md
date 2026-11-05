@@ -1,5 +1,3 @@
-###DEC-003037-0-000-27-04-1999@@@
-
 DECRETO Nº 3.037, DE 27 DE ABRIL DE 1999.
 
 Dá nova redação aos §§ 1º e 2º do art. 34 do Regulamento do Corpo do Pessoal Graduado da Aeronáutica (RCPGAER), aprovado pelo Decreto nº 880, de 23 de julho de 1993.

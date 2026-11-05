@@ -1,5 +1,3 @@
-###DEL-007216-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.216 – DE 30 DE DEZEMBRO DE 1944
 
 Altera a carreira de Bibliotecário do Quadro Único do Ministério do Trabalho, Indústria e Comércio, cria a carreira de Bibliotecário-auxiliar e dá outras providências

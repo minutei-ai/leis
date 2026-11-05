@@ -52,14 +52,16 @@ d) as exigências de controle de fumaça e de compartimentação horizontal nas 
 
 **§ 4º** \- As edificações com área construída inferior a 200m² (duzentos metros quadrados), atendidos os requisitos estabelecidos em instrução técnica específica, ficam dispensadas de vistoria prévia por parte do Corpo de Bombeiros Militar da Bahia.
 
-Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025.<br>
+Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025.
+
 Redação original: § 4º - "As edificações com área construída inferior a 100m² (cem metros quadrados) ficam dispensadas de vistoria por parte do Corpo de Bombeiros Militar da Bahia."
 
 **Art. 4º** \- Compete ao Corpo de Bombeiros Militar da Bahia planejar, normatizar, analisar, aprovar e fiscalizar o cumprimento das disposições normativas sobre segurança contra incêndio e pânico nas edificações e áreas de risco no Estado.
 
 **§ 1º** \- A observância das exigências das medidas de segurança contra incêndio e pânico nas edificações, estruturas e áreas de risco será certificada por meio das seguintes licenças a serem expedidas pelo Corpo de Bombeiros Militar da Bahia:
 
-Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025.<br>
+Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025.
+
 Redação original: § 1º - "A observância das exigências das medidas de segurança contra incêndio e pânico nas edificações e áreas de risco será certificada por meio do Auto de Vistoria ou da Autorização para Adequação, a serem expedidos pelo Corpo de Bombeiros Militar da Bahia."
 
 **I -** Auto de Vistoria do Corpo de Bombeiros Militar da Bahia - AVCB;
@@ -158,7 +160,8 @@ V -       embargo, temporário ou definitivo, de obras e estruturas.
 
 **I** -         deixar de adotar as medidas de segurança contra incêndio previstas no art. 5º desta Lei, em seu Regulamento e nas Instruções Técnicas expedidas pelo Corpo de Bombeiros Militar da Bahia;
 
-Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025<br>
+Redação de acordo com a Lei 15.066 de 19 de dezembro de 2025
+
 Redação original: I - " deixar de adotar as medidas de segurança contra incêndio previstas no art. 3º desta Lei, em Regulamento e nas demais normas técnicas regulamentares;"
 
 **II** -       instalar os sistemas de proteção contra incêndio e pânico em desacordo com as especificações do projeto ou com as normas técnicas regulamentares;
@@ -239,12 +242,14 @@ Parágrafo único acrescido pela Lei 15.066 de 19 de dezembro de 2025
 
 **II** \- o Comandante-Geral do Corpo de Bombeiros Militar da Bahia, na qualidade de Vice-Presidente;
 
-Redação de acordo com a Lei nº 13.567, de 20 de junho de 2016.<br>
+Redação de acordo com a Lei nº 13.567, de 20 de junho de 2016.
+
 Redação original: "II - o Comandante Geral da Polícia Militar da Bahia, na qualidade de Vice-Presidente;"
 
 **III** \- o Subcomandante-Geral do Corpo de Bombeiros Militar da Bahia;
 
-Redação de acordo com a Lei nº 13.567, de 20 de junho de 2016.<br>
+Redação de acordo com a Lei nº 13.567, de 20 de junho de 2016.
+
 Redação original: "III - o Comandante do Corpo de Bombeiros Militar da Bahia;"
 
 **IV** \- 01 (um) representante da Secretaria da Fazenda;
@@ -315,70 +320,7 @@ II - 20% (vinte por cento), caso o contribuinte possua brigada de incêndio que 
 
 (previsto no art. 1º, II)
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:481.5pt;margin-left:98.6pt;border-collapse:collapse;border:none" width="642"><tbody><tr><td style="width:27.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="36"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1</span></p></td><td style="width:36.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="48"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">10</span></p></td><td style="width:27.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="36"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">7</span></p></td><td style="width:22.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="30"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:22.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="30"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="2" style="width:247.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Taxa anual pela utilização potencial do serviço de extinção de incêndios (valor determinado de acordo com o Coeficiente de Risco de Incêndio, expresso em megajoule - MJ por imóvel)</span></p></td><td style="width:99.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Ver notas 6, 7 e 8</span></p></td></tr><tr><td colspan="8" style="width:481.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="642"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Nota 6: O valor da taxa é determinado pelo coeficiente de risco de incêndio do imóvel de acordo com a seguinte tabela:</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coeficiente de risco de incêndio do imóvel em megajoule - MJ</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Valor da taxa em reais (R$)</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Até 10.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">21,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 10.000 até 20.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">46,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 20.000 até 30.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">87,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Acima de 30.000 até 50.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">99,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Acima de 50.000 até 70.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">176,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 70.000 até 100.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">293,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 100.000 até 150.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">389,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 150.000 até 200.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">492,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 200.000 até 400.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">738,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 400.000 até 600.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1.136,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 600.000 até 1.200.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1.794,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 1.200.000 até 2.000.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">2.372,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 2.000.000 até 4.000.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">2.863,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 4.000.000 até 8.000.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">3.127,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 8.000.000 até 12.000.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">3.320,00</span></p></td></tr><tr><td colspan="6" style="width:243.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="324"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acima de 12.000.000</span></p></td><td colspan="2" style="width:238.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="318"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">3.320,00 acrescido de R$ 166,00 a cada 1.000.000 MJ ou fração que exceder a 12.000.000 MJ; limitado a 60 (sessenta) vezes o valor&nbsp; da faixa anterior.</span></p></td></tr><tr><td colspan="8" style="width:481.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="642"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Nota 7: O Coeficiente de Risco de Incêndio - CRI corresponde à quantificação de risco de incêndio do imóvel, obtido pela seguinte fórmula:</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><i><span style="color:black;font-weight:normal">CRI = CIE x A x FGR</span></i></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Onde:</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><i><span style="color:black;font-weight:normal">CIE</span></i><span style="color:black;
-  font-weight:normal"> é a Carga de Incêndio Específica do imóvel, expressa em megajoule por metro quadrado (MJ/m²), em razão da natureza da ocupação ou do uso do imóvel, de acordo com a classificação constante do Anexo C da NBR 14432 da Associação Brasileira de Normas Técnicas - ABNT, ou em norma que vier a substituí-la;</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><i><span style="color:black;font-weight:normal">A </span></i><span style="color:black;
-  font-weight:normal">é a área total construída do imóvel, expressa em metros quadrados, incluída a fração ideal nos casos de estabelecimento localizado em condomínio;</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><i><span style="color:black;font-weight:normal">FGR</span></i><span style="color:black;
-  font-weight:normal"> é o Fator de Graduação de Risco, em razão do grau de Risco de Incêndio do imóvel, conforme a seguinte escala:</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">a) carga de incêndio específica até 300 MJ/m²: Fator de Graduação de Risco igual a 0,50 (cinquenta centésimos);</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">b) carga de incêndio específica acima de 300 MJ/m² até 2.000MJ/m²: Fator de Graduação de Risco igual a 1,00 (um inteiro);</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">c) carga de incêndio específica acima de 2.000 MJ/m²: Fator de Graduação de Risco igual a 1,50 (um inteiro e cinquenta centésimos).</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Nota 8: Para efeito de cálculo do valor da taxa, na hipótese de o contribuinte não efetuar o cadastramento do seu imóvel na SEFAZ e não havendo sido constatado o tamanho real mediante vistoria ou por outro meio, será considerado como área total construída do imóvel:</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">a) tratando-se de estabelecimento de microempresa: 150m²;</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">b) tratando-se de estabelecimento de empresa de pequeno porte: 1.200m²;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">c) demais estabelecimentos: 10.000m².</span></p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> 1 </td><td valign="top"> 10 </td><td valign="top"> 7 </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> Taxa anual pela utilização potencial do serviço de extinção de incêndios (valor determinado de acordo com o Coeficiente de Risco de Incêndio, expresso em megajoule - MJ por imóvel) </td><td valign="top"> Ver notas 6, 7 e 8 </td></tr><tr><td colspan="8" valign="top"> Nota 6: O valor da taxa é determinado pelo coeficiente de risco de incêndio do imóvel de acordo com a seguinte tabela: </td></tr><tr><td colspan="6" valign="top"> Coeficiente de risco de incêndio do imóvel em megajoule - MJ </td><td colspan="2" valign="top"> Valor da taxa em reais (R$) </td></tr><tr><td colspan="6" valign="top"> Até 10.000 </td><td colspan="2" valign="top"> 21,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 10.000 até 20.000 </td><td colspan="2" valign="top"> 46,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 20.000 até 30.000 </td><td colspan="2" valign="top"> 87,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 30.000 até 50.000 </td><td colspan="2" valign="top"> 99,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 50.000 até 70.000 </td><td colspan="2" valign="top"> 176,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 70.000 até 100.000 </td><td colspan="2" valign="top"> 293,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 100.000 até 150.000 </td><td colspan="2" valign="top"> 389,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 150.000 até 200.000 </td><td colspan="2" valign="top"> 492,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 200.000 até 400.000 </td><td colspan="2" valign="top"> 738,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 400.000 até 600.000 </td><td colspan="2" valign="top"> 1.136,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 600.000 até 1.200.000 </td><td colspan="2" valign="top"> 1.794,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 1.200.000 até 2.000.000 </td><td colspan="2" valign="top"> 2.372,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 2.000.000 até 4.000.000 </td><td colspan="2" valign="top"> 2.863,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 4.000.000 até 8.000.000 </td><td colspan="2" valign="top"> 3.127,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 8.000.000 até 12.000.000 </td><td colspan="2" valign="top"> 3.320,00 </td></tr><tr><td colspan="6" valign="top"> Acima de 12.000.000 </td><td colspan="2" valign="top"> 3.320,00 acrescido de R$ 166,00 a cada 1.000.000 MJ ou fração que exceder a 12.000.000 MJ; limitado a 60 (sessenta) vezes o valor&nbsp; da faixa anterior. </td></tr><tr><td colspan="8" valign="top"> Nota 7: O Coeficiente de Risco de Incêndio - CRI corresponde à quantificação de risco de incêndio do imóvel, obtido pela seguinte fórmula: *CRI = CIE x A x FGR* Onde: *CIE* é a Carga de Incêndio Específica do imóvel, expressa em megajoule por metro quadrado (MJ/m²), em razão da natureza da ocupação ou do uso do imóvel, de acordo com a classificação constante do Anexo C da NBR 14432 da Associação Brasileira de Normas Técnicas - ABNT, ou em norma que vier a substituí-la; *A *é a área total construída do imóvel, expressa em metros quadrados, incluída a fração ideal nos casos de estabelecimento localizado em condomínio; *FGR* é o Fator de Graduação de Risco, em razão do grau de Risco de Incêndio do imóvel, conforme a seguinte escala: a) carga de incêndio específica até 300 MJ/m²: Fator de Graduação de Risco igual a 0,50 (cinquenta centésimos); b) carga de incêndio específica acima de 300 MJ/m² até 2.000MJ/m²: Fator de Graduação de Risco igual a 1,00 (um inteiro); c) carga de incêndio específica acima de 2.000 MJ/m²: Fator de Graduação de Risco igual a 1,50 (um inteiro e cinquenta centésimos). Nota 8: Para efeito de cálculo do valor da taxa, na hipótese de o contribuinte não efetuar o cadastramento do seu imóvel na SEFAZ e não havendo sido constatado o tamanho real mediante vistoria ou por outro meio, será considerado como área total construída do imóvel: a) tratando-se de estabelecimento de microempresa: 150m²; b) tratando-se de estabelecimento de empresa de pequeno porte: 1.200m²; c) demais estabelecimentos: 10.000m². </td></tr><tr height="0"></tr></tbody></table>
 
 ...............................................................................................................”
 
@@ -424,22 +366,13 @@ i) no âmbito do Corpo de Bombeiros:
 
 (previsto no art. 1º, II)
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:486.0pt;border-collapse:collapse" width="648"><tbody><tr><td style="width:27.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="36"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1</span></p></td><td style="width:31.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="42"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">10</span></p></td><td style="width:27.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="36"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">5</span></p></td><td style="width:13.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="18"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:13.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="18"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:31.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="42"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:306.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="408"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Assistência preventiva do Corpo de Bombeiros em eventos por meio de veículos com guarnição incluída (por hora ou fração), a pedido do interessado.</span></p></td><td style="width:36.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="48"><p class="MsoNormal" style="margin-top:3.0pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr></tbody></table>
+1
+
+10
+
+5
+
+Assistência preventiva do Corpo de Bombeiros em eventos por meio de veículos com guarnição incluída (por hora ou fração), a pedido do interessado.
 
 ...............................................................................................................”
 
@@ -447,12 +380,14 @@ i) no âmbito do Corpo de Bombeiros:
 
 **Parágrafo único** - As isenções previstas na alínea “i” do inciso II do art. 5º da Lei nº 11.631, de 30 de dezembro de 2009, produzirão efeitos para o exercício de 2013.
 
-Redação de acordo com a Lei nº 13.151, de 11 de abril de 2014.<br>
+Redação de acordo com a Lei nº 13.151, de 11 de abril de 2014.
+
 Redação original: "Parágrafo único - As isenções previstas no inciso I do art. 2º desta Lei produzirão efeitos para o exercício de 2013."
 
 **Art. 26** \- Ficam revogados a alínea “f” do inciso I do art. 5º, o item 1.9.3 e a nota 4 do Anexo I, todos da Lei nº 11.631, de 30 de dezembro de 2009.
 
-Redação de acordo com a Lei nº 13.151, de 11 de abril de 2014.<br>
+Redação de acordo com a Lei nº 13.151, de 11 de abril de 2014.
+
 Redação original: "Art. 26 - Ficam revogados a alínea “f” do inciso I do art. 5º, o item 1.9.3 e a nota 4 do Anexo I, todos da Lei nº 11.931, de 30 de dezembro de 2009."
 
 **Art. 27** \- Esta Lei entra em vigor na data de sua publicação.

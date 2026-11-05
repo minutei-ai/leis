@@ -1,5 +1,3 @@
-###DEC-052027-0-000-20-05-1963@@@
-
 DECRETO Nº 52.027, DE 20 DE MAIO DE 1963.
 
 Cria um Grupo de Trabalho para os fins que especifica.

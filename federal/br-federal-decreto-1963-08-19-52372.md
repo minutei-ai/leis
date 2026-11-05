@@ -1,5 +1,3 @@
-###DEC-052372-0-000-19-08-1963@@@
-
 DECRETO Nº 52.372, DE 19 DE AGÔSTO DE 1963.
 
 Complementa o artigo 17 do Regulamento Orgânico do Ministério das Relações Exteriores, criando na Secretaria de estado das Relações Exteriores, a Divisão de Política Fiananceira.

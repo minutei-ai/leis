@@ -1,5 +1,3 @@
-###DEC-082241-0-000-11-09-1978@@@
-
 Decreto nº 82.241, de 11 de setembro de 1978
 
 Aprova alteração introduzida no Estado da COMPANHIA AUXILIAR DE EMPRESAS ELÉTRICAS - CAEEB.

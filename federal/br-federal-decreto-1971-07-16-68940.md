@@ -1,5 +1,3 @@
-###DEC-068940-0-000-16-07-1971@@@
-
 DECRETO nº 68.940, DE 16 DE JULHO DE 1971.
 
 Dá nova redação ao item VII da alínea b do artigo 1° do Decreto número 57.814, de 15 de fevereiro de 1966, que fixa a composição da Delegação Brasileira na Comissão Mista Executora do Acordo Brasil - Estados Unidos sobre Serviços Cartográficos.

@@ -1,5 +1,3 @@
-###DEC-067334-0-000-05-10-1970@@@
-
 DECRETO Nº 67.334, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 24.399, de 28 de janeiro de 1948.

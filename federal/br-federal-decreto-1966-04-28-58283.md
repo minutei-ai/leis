@@ -1,5 +1,3 @@
-###DEC-058283-0-000-28-04-1966@@@
-
 DECRETO Nº 58.283, DE 28 DE ABRIL DE 1966.
 
 Outorga à Serrarias Reunidas Irmãos Fernandes S. A. concessão para um aproveitamento de um desnível existente no município de General Carneiro, Estado do Paraná.

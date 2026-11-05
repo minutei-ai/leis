@@ -1,5 +1,3 @@
-###DEC-089396-0-000-22-02-1984@@@
-
 DECRETO Nº 89.396, DE 22 DE FEVEREIRO DE 1984
 
 Autoriza a Rede Ferroviária Federal S.A. - RFFSA a, mantida a condição de subsidiária, mudar a denominação e objeto social da Empresa de Engenharia Ferroviária S.A. - ENGEFER e dá outras providências.

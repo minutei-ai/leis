@@ -1,5 +1,3 @@
-###DEC-078264-0-000-17-08-1976@@@
-
 DECRETO Nº 78.264, DE 17 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Pedagogia, do Centro de Ensino Superior de Erexim, com sede na cidade de Erexim, Estado do Rio Grande do Sul.

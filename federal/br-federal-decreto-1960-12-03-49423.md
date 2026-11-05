@@ -1,5 +1,3 @@
-###DEC-049423-0-000-03-12-1960@@@
-
 DECRETO Nº 49.423, DE 3 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Armando Angelim a lavrar quartzo e argila no município de Piraporá do Bom Jesus , Estado de São Paulo.

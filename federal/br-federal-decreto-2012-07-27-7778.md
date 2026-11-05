@@ -1,5 +1,3 @@
-###DEC-007778-0-000-27-07-2012-PUB-01@@@
-
 DECRETO Nº 7.778, DE 27 DE JULHO DE 2012
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Nacional do Índio.

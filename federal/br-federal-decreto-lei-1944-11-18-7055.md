@@ -1,5 +1,3 @@
-###DEL-007055-0-000-18-11-1944@@@
-
 DECRETO-LEI N. 7.055 – DE 18 DE NOVEMBRO DE 1944
 
 Cria o Centro Psiquiátrico Nacional e extingue o Conselho de Proteção aos Psicopatas e a Comissão Inspetora, no Ministério da Educação e Saúde, e dá outras providências
@@ -52,7 +50,179 @@ Art. 4º Ficam extintos o Conselho de Proteção aos Psicopatas e a Comissão In
 
 Art. 5º Ficam criados, no Quadro Permanente do Ministério da Educação e Saúde, os cargos isolados, de provimento em comissão, de Diretor do Centro Psiquiátrico Nacional (C.P.N.–S.N.D.M.–D.N.S.), padrão O e Diretor do Instituto de Psiquiatria (I.P.–C.P.N.–S.N.D.M.– D.N.S.), padrão N, e as seguintes funções gratificadas :
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:3.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Seção de Cooperação (S.C.- S.D.N.M. -D.N.S.)...................................</span></p></td><td style="width:106.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 7.200,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Seção de Administração (S.A.-S.N.-D.M.-D.N.S. )................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 4.200,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Secretário do Diretor (S.N.D.N – D.N.S.) .............................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 4.200,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Bloco Médico-Cirúrgico ( B.M.C.– C.P.N. –S.N.D.M. –D.N.S.) .............</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Bloco Médico-Cirúrgico Álvaro Ramos( B.M.C.A.R. –C.J.M.– S.N.D.M. –D.N.S.)</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Seção de Fiosioterapia e Fisiodiagnóstico( S.F.F. –C.P.N. –S.N.D.M –D.N.S.)</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Laboratório (Lab –C.P.N. –S.N.D.M. –D.N.S.).......................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Farmácia (Farm.-C.P.N.-S.N.D.M.-D.N.S.)............................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 5.400,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Farmácia (Farm.-C.J.M.-S.N.D.M.-D.N.S.) ...........................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 5.400,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Administrador (Adm.-C.P.N.-S.N.D.M,-D.N.S.)......................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Administrador (Adm.-C.J.M.-S.N.D.M.-D.N.S.)......................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Secretaria (Sec.-C.P.N.-S.N.D.M.-D.N.S.).............................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 4.800,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Secretaria (Sec.-H.P.-C.P.N.-S.N.D.M.-D.N.S.).....................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 4.200,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Secretaria (Sec.-C.J.M.-S.N.D.M.-D.N.S.).............................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 4.800,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Núcleo Rodrigues Caldas (N.R.C. –C.J.M. –D.N.S.).............................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Núcleo Ulisses Viana ( N.U.V. –C.J.M. –S.N.D.M. –D.N.S.)..................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Núcleo Franco da Rocha (N.F.R.–C.J.M.-S.N.D.M.-D.N.S.).................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Núcleo Teixeira Brandão (N.T.B.C.J.M.-S.N.D.M.-D.N.S.)...................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Setor de Higiene Mental, Admissão e Triagem (St. H.M.A.T.-I.P.-C.P.N.-S.N.D.M.-D.N.S.), .....................................................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe do Setor da Pesquisas Neuro-Psiquiátricas (St. P.N.P.-I.P.-C. P. N-S. N. D. M.-D. N. S. ) .....................................................................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 6.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe da Seção de Praxiterapia (S.P.-C.J.M.-S.N.D.M.-D.N.S.)...........................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 5.400,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Zeladoria (I.P.-C.P.N.-S.N.D.M.-D.N.S.)................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3. 600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Zeladoria (H.P.-C.P.N.-S.N.D.M.-D.N.S.)...............................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$3.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Zeladoria (H.G.R.-C.P.N.-S.N.D.M.-D.N.S.)...........................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3.600,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Zeladoria (H.N.P.I.-C.P.N.-S.N.D.M.-D.N.S.).........................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Zeladoria (H.N.S.-C.P.N.-S.N.D.M.D.N.S).............................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3. 000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Portaria (C.P.N.-S.N.D.M.-D.N.S.).........................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Portaria (I.P.-C.P.N.–S.N.D.M.-D.N.S.)..................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3.000,00 anuais;</span></p></td></tr><tr><td style="width:3.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:354.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Chefe de Portaria (M.J.-S.N.D.M.-D.N.S.).............................................................</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cr$ 3.000,00 anuais;</span></p></td></tr></tbody></table>
+1
+
+Chefe da Seção de Cooperação (S.C.- S.D.N.M. -D.N.S.)...................................
+
+Cr$ 7.200,00 anuais;
+
+1
+
+Chefe da Seção de Administração (S.A.-S.N.-D.M.-D.N.S. )................................
+
+Cr$ 4.200,00 anuais;
+
+1
+
+Secretário do Diretor (S.N.D.N – D.N.S.) .............................................................
+
+Cr$ 4.200,00 anuais;
+
+1
+
+Chefe do Bloco Médico-Cirúrgico ( B.M.C.– C.P.N. –S.N.D.M. –D.N.S.) .............
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe do Bloco Médico-Cirúrgico Álvaro Ramos( B.M.C.A.R. –C.J.M.– S.N.D.M. –D.N.S.)
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe da Seção de Fiosioterapia e Fisiodiagnóstico( S.F.F. –C.P.N. –S.N.D.M –D.N.S.)
+
+Cr$ 6.000,00 anuais;
+
+1
+
+Chefe de Laboratório (Lab –C.P.N. –S.N.D.M. –D.N.S.).......................................
+
+Cr$ 6.000,00 anuais;
+
+1
+
+Chefe da Farmácia (Farm.-C.P.N.-S.N.D.M.-D.N.S.)............................................
+
+Cr$ 5.400,00 anuais;
+
+1
+
+Chefe da Farmácia (Farm.-C.J.M.-S.N.D.M.-D.N.S.) ...........................................
+
+Cr$ 5.400,00 anuais;
+
+1
+
+Administrador (Adm.-C.P.N.-S.N.D.M,-D.N.S.)......................................................
+
+Cr$ 6.000,00 anuais;
+
+1
+
+Administrador (Adm.-C.J.M.-S.N.D.M.-D.N.S.)......................................................
+
+Cr$ 6.000,00 anuais;
+
+1
+
+Chefe da Secretaria (Sec.-C.P.N.-S.N.D.M.-D.N.S.).............................................
+
+Cr$ 4.800,00 anuais;
+
+1
+
+Chefe da Secretaria (Sec.-H.P.-C.P.N.-S.N.D.M.-D.N.S.).....................................
+
+Cr$ 4.200,00 anuais;
+
+1
+
+Chefe da Secretaria (Sec.-C.J.M.-S.N.D.M.-D.N.S.).............................................
+
+Cr$ 4.800,00 anuais;
+
+1
+
+Chefe do Núcleo Rodrigues Caldas (N.R.C. –C.J.M. –D.N.S.).............................
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe do Núcleo Ulisses Viana ( N.U.V. –C.J.M. –S.N.D.M. –D.N.S.)..................
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe do Núcleo Franco da Rocha (N.F.R.–C.J.M.-S.N.D.M.-D.N.S.).................
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe do Núcleo Teixeira Brandão (N.T.B.C.J.M.-S.N.D.M.-D.N.S.)...................
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe do Setor de Higiene Mental, Admissão e Triagem (St. H.M.A.T.-I.P.-C.P.N.-S.N.D.M.-D.N.S.), .....................................................................................
+
+Cr$ 6.600,00 anuais
+
+1
+
+Chefe do Setor da Pesquisas Neuro-Psiquiátricas (St. P.N.P.-I.P.-C. P. N-S. N. D. M.-D. N. S. ) .....................................................................................................
+
+Cr$ 6.600,00 anuais;
+
+1
+
+Chefe da Seção de Praxiterapia (S.P.-C.J.M.-S.N.D.M.-D.N.S.)...........................
+
+Cr$ 5.400,00 anuais;
+
+1
+
+Chefe de Zeladoria (I.P.-C.P.N.-S.N.D.M.-D.N.S.)................................................
+
+Cr$ 3. 600,00 anuais;
+
+1
+
+Chefe de Zeladoria (H.P.-C.P.N.-S.N.D.M.-D.N.S.)...............................................
+
+Cr$3.600,00 anuais;
+
+1
+
+Chefe de Zeladoria (H.G.R.-C.P.N.-S.N.D.M.-D.N.S.)...........................................
+
+Cr$ 3.600,00 anuais;
+
+1
+
+Chefe de Zeladoria (H.N.P.I.-C.P.N.-S.N.D.M.-D.N.S.).........................................
+
+Cr$ 3.000,00 anuais;
+
+1
+
+Chefe de Zeladoria (H.N.S.-C.P.N.-S.N.D.M.D.N.S).............................................
+
+Cr$ 3. 000,00 anuais;
+
+1
+
+Chefe de Portaria (C.P.N.-S.N.D.M.-D.N.S.).........................................................
+
+Cr$ 3.000,00 anuais;
+
+1
+
+Chefe de Portaria (I.P.-C.P.N.–S.N.D.M.-D.N.S.)..................................................
+
+Cr$ 3.000,00 anuais;
+
+1
+
+Chefe de Portaria (M.J.-S.N.D.M.-D.N.S.).............................................................
+
+Cr$ 3.000,00 anuais;
 
 Art. 6º Fica transformada, no Quadro Permanente do Ministério da Educação e Saúde, na função gratificada de Chefe de Portaria (H.G.R.-C.P.N.-S.D.N.M.-D.N.S.), a de Chefe de Portaria (C.G.R.-S.N.D.M.-D.N.S.).
 

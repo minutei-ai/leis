@@ -1,5 +1,3 @@
-###DEL-003701-0-000-09-10-1941@@@
-
 DECRETO-LEI N. 3.701 – DE 9 DE OUTUBRO DE 1941
 
 Abre pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 2.000:000$0, à verba que especifica

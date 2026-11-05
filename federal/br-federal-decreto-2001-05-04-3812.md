@@ -1,5 +1,3 @@
-###DEC-003812-0-000-04-05-2001@@@
-
 DECRETO N° 3.812, DE 4 DE MAIO DE 2001
 
 Dispõe sobre a execução do Trigésimo No­no Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 1º de março de 2001.

@@ -1,5 +1,3 @@
-###DEC-048046-0-000-06-04-1960@@@
-
 DECRETO Nº 48.046, de 6 de abril de 1960.
 
 Dá nova redação aos arts.1º e 2º do Decreto nº47.964, de 30 de março de 1960, que criou a Comissão de tombamento dos danos causados à propriedade privada pelas inundações do vale do Jaguaribe.

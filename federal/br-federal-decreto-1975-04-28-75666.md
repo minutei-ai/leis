@@ -1,5 +1,3 @@
-###DEC-075666-0-000-28-04-1975@@@
-
 decreto nº 75.666, de 28 de abril de 1975.
 
 Torna sem efeito o Decreto nº 72.101, de 18 de abril de 1973 que autorizou a cessão gratuita de terreno do IBDF.

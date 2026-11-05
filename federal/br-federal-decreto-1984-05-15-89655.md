@@ -1,5 +1,3 @@
-###DEC-089655-0-000-15-05-1984@@@
-
 Decreto nº 89.655, de 15 de maio de 1984
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 85.208, de 29 de setembro de 1980, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão.

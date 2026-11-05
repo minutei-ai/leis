@@ -1,5 +1,3 @@
-###DEC-083622-0-000-26-06-1979@@@
-
 Decreto nº 83.622, de 26 de junho de 1979.
 
 Concede à Pedreiras Aratu S.A. o direito de lavrar gnaisse no Município de Lauro de Freitas, Estado da Bahia.

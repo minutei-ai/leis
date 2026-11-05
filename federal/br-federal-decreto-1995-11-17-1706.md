@@ -1,7 +1,3 @@
-1
-
-###DEC-001706-0-000-17-11-1995@@@
-
 DECRETO Nº 1.706, DE 17 DE NOVEMBRO DE 1995.
 
 Remaneja cargos em comissão entre o Ministério da Administração Federal e Reforma do Estado e a Fundação Alexandre de Gusmão e dá outras providências.

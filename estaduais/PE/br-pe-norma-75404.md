@@ -32,37 +32,29 @@ Art. 6°-B. Ao pregoeiro da Defensoria Pública de Pernambuco será concedida a 
 
 (Acrescido pelo art. 1° [da Lei Complementar n° 566, de 3 de novembro de 2025](https://legis.alepe.pe.gov.br/?lc5662025) – vigência a partir do dia 1º de janeiro de 2026, de acordo com o art. 5°.)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:47.95pt;border-collapse:collapse"><tbody><tr><td width="229" valign="top" style="width:171.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">CARGO</span></p></td><td width="142" valign="top" style="width:106.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">NÚMERO VAGA</span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">SÍMBOLO</span></p></td></tr><tr><td width="229" valign="top" style="width:171.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;punctuation-wrap:hanging;
-  text-autospace:ideograph-numeric ideograph-other"><span style="color:black">DIRETOR DE ENGENHARIA</span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">01</span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">DEF-2</span></p></td></tr></tbody></table>
+CARGO
+
+NÚMERO VAGA
+
+SÍMBOLO
+
+DIRETOR DE ENGENHARIA
+
+01
+
+DEF-2
 
 **ANEXO II-A**
 
 (Acrescido pelo art. 1° [da Lei Complementar n° 566, de 3 de novembro de 2025](https://legis.alepe.pe.gov.br/?lc5662025) – vigência a partir do dia 1º de janeiro de 2026, de acordo com o art. 5°.)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:47.95pt;border-collapse:collapse"><tbody><tr><td width="119" valign="top" style="width:89.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">CARGO</span></p></td><td width="372" valign="top" style="width:279.05pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;punctuation-wrap:
-  hanging;text-autospace:ideograph-numeric ideograph-other"><span style="color:black">ATRIBUIÇÕES</span></p></td></tr><tr><td width="119" valign="top" style="width:89.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;punctuation-wrap:hanging;
-  text-autospace:ideograph-numeric ideograph-other"><span style="color:black">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;punctuation-wrap:hanging;
-  text-autospace:ideograph-numeric ideograph-other"><span style="color:black">DIRETOR DE ENGENHARIA</span></p></td><td width="372" valign="top" style="width:279.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;punctuation-wrap:hanging;
-  text-autospace:ideograph-numeric ideograph-other"><span style="color:black">Execução dos Serviços de Elaboração de Laudos Técnicos e Projetos Básicos e Fiscalização de Serviços/Obras de Engenharia e as disciplinadas pelo Conselho Superior da Defensoria Pública de Pernambuco</span></p></td></tr></tbody></table>
+CARGO
+
+ATRIBUIÇÕES
+
+DIRETOR DE ENGENHARIA
+
+Execução dos Serviços de Elaboração de Laudos Técnicos e Projetos Básicos e Fiscalização de Serviços/Obras de Engenharia e as disciplinadas pelo Conselho Superior da Defensoria Pública de Pernambuco
 
 Art. 7° As despesas decorrentes desta Lei Complementar correrão à conta de dotações orçamentárias próprias da Defensoria Pública do Estado de Pernambuco.
 
@@ -78,111 +70,301 @@ Presidente
 
 (Redação alterada pelo art. 2° da [Lei Complementar n° 555, de 26 de dezembro de 2024](https://legis.alepe.pe.gov.br/?lc5552024).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="628" style="width:471.3pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:4.45pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">NÚMERO VAGAS</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">SÍMBOLO</p></td></tr><tr style="height:29.25pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal">ASSESSOR DE MEMBRO DA DEFENSORIA PÚBLICA</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">328</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">ASDEF</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">DIRETOR FINANCEIRO&nbsp;E CONTÁBIL</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">DIRETOR DE CONTRATOS E CONVÊNIOS</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td></tr><tr style="height:15.0pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal">DIRETOR DE COMPRAS</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">DIRETOR DE TRANSPORTE</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr><tr style="height:15.0pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal">DIRETOR DE ALMOXARIFADO E PATRIMÔNIO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr><tr style="height:28.45pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:28.45pt"><p class="MsoNormal">COORDENADOR DA UNIDADE DE RECURSOS HUMANOS</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:28.45pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:28.45pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-5</p></td></tr><tr style="height:15.0pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal">ASSESSOR DA CONTROLADORIA</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">CONSULTOR FINANCEIRO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-3</p></td></tr><tr style="height:29.25pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal">ASSESSOR ESPECIAL AO GABINETE DO DEFENSOR PÚBLICO-GERAL</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr><tr style="height:4.45pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal">CONSULTOR JURÍDICO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-3</p></td></tr><tr style="height:4.45pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal">FISCAL DE CONTRATOS</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">03</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">ASDEF</p></td></tr><tr style="height:4.45pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal">SUPERVISOR DE FISCAL DE CONTRATOS</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:4.45pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td></tr><tr style="height:15.0pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal">ASSESSOR DA COORDENADORIA DE GESTÃO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">ASSESSOR DA ESCOLA SUPERIOR</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF/CC-2</p></td></tr><tr style="height:14.2pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal">DIRETOR DA ASSESSORIA DE COMUNICAÇÃO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-3</p></td></tr><tr style="height:15.0pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal">DIRETOR DA TECNOLOGIA DE INFORMAÇÃO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-3</p></td></tr><tr style="height:29.25pt"><td width="441" style="width:330.95pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal">ASSESSOR DA TECNOLOGIA DE INFORMAÇÃO</p></td><td width="89" style="width:66.5pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="98" style="width:73.85pt;padding:0cm 0cm 0cm 0cm;height:29.25pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td></tr></tbody></table>
+CARGO
+
+NÚMERO VAGAS
+
+SÍMBOLO
+
+ASSESSOR DE MEMBRO DA DEFENSORIA PÚBLICA
+
+328
+
+ASDEF
+
+DIRETOR FINANCEIRO E CONTÁBIL
+
+01
+
+DEF-2
+
+DIRETOR DE CONTRATOS E CONVÊNIOS
+
+01
+
+DEF-2
+
+DIRETOR DE COMPRAS
+
+01
+
+DEF-4
+
+DIRETOR DE TRANSPORTE
+
+01
+
+DEF-4
+
+DIRETOR DE ALMOXARIFADO E PATRIMÔNIO
+
+01
+
+DEF-4
+
+COORDENADOR DA UNIDADE DE RECURSOS HUMANOS
+
+01
+
+DEF-5
+
+ASSESSOR DA CONTROLADORIA
+
+01
+
+DEF-4
+
+CONSULTOR FINANCEIRO
+
+01
+
+DEF-3
+
+ASSESSOR ESPECIAL AO GABINETE DO DEFENSOR PÚBLICO-GERAL
+
+02
+
+DEF-4
+
+CONSULTOR JURÍDICO
+
+01
+
+DEF-3
+
+FISCAL DE CONTRATOS
+
+03
+
+ASDEF
+
+SUPERVISOR DE FISCAL DE CONTRATOS
+
+01
+
+DEF-2
+
+ASSESSOR DA COORDENADORIA DE GESTÃO
+
+01
+
+DEF-2
+
+ASSESSOR DA ESCOLA SUPERIOR
+
+01
+
+DEF/CC-2
+
+DIRETOR DA ASSESSORIA DE COMUNICAÇÃO
+
+01
+
+DEF-3
+
+DIRETOR DA TECNOLOGIA DE INFORMAÇÃO
+
+01
+
+DEF-3
+
+ASSESSOR DA TECNOLOGIA DE INFORMAÇÃO
+
+01
+
+DEF-4
 
 **ANEXO II**
 
 (Redação alterada pelo art. 2° da [Lei Complementar n° 555, de 26 de dezembro de 2024](https://legis.alepe.pe.gov.br/?lc5552024).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="673" style="width:504.55pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:7.55pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:7.55pt"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:7.55pt"><p class="MsoNormal" align="center" style="text-align:center">ATRIBUIÇÕES</p></td></tr><tr style="height:10.95pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:10.95pt"></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:10.95pt"><p class="MsoNormal" style="text-align:justify">Sem prejuízo de outras atribuições definidas por resolução do Conselho Superior da Defensoria Pública.</p></td></tr><tr style="height:83.5pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:83.5pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR DE MEMBRO DA DEFENSORIA PÚBLICA</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:83.5pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares ao membro da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;</p><p class="MsoNormal" style="text-align:justify">Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.</p></td></tr><tr style="height:124.9pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:124.9pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR FINANCEIRO&nbsp;E CONTÁBIL</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:124.9pt"><p class="MsoNormal" style="text-align:justify">Coordenar as atividades de orçamento, finanças e contabilidade no âmbito da DPE;<br>Acompanhar e avaliar a programação orçamentária e financeira da Defensoria Pública;<br>Estabelecer diretrizes básicas com o intuito de padronizar e racionalizar os procedimentos orçamentários, financeiros e operacionais em todos os níveis da Defensoria Pública;</p><p class="MsoNormal" style="text-align:justify">Examinar, consolidar e assessor a Defensoria Pública-Geral&nbsp; na elaboração das propostas orçamentárias.</p></td></tr><tr style="height:165.55pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:165.55pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DE CONTRATOS E CONVÊNIOS</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:165.55pt"><p class="MsoNormal" style="text-align:justify">Acompanhar a celebração dos convênios, contratos e termos aditivos, com a coleta das assinaturas, providenciando, posteriormente, a juntada dos comprovantes de publicação do extrato e encaminhamento à unidade organizacional demandante com confirmação do lançamento dos<br>instrumentos nos sistemas do Tribunal de Contas do Estado, quando for o caso;</p><p class="MsoNormal" style="text-align:justify">Manter controle individualizado e atualizado de cada contrato;</p><p class="MsoNormal" style="text-align:justify">Instruir o processo com os documentos necessários às alterações contratuais e demais as providências necessárias para o aditamento contratual, apostilamento.</p></td></tr><tr style="height:83.5pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:83.5pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DE COMPRAS</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:83.5pt"><p class="MsoNormal" style="text-align:justify">Realizar atividades relacionadas à gerência de compras, contratos e licitações da Defensoria Pública;</p><p class="MsoNormal" style="text-align:justify">Formular políticas públicas administrativas e exercer a supervisão, a execução e o controle dos procedimentos técnicos e administrativos inerentes à administração de compras, contratos e licitações.</p></td></tr><tr style="height:69.2pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:69.2pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DE TRANSPORTE</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:69.2pt"><p class="MsoNormal" style="text-align:justify">&nbsp;Realizar atividades relacionadas com o transporte de funcionários e pessoas credenciadas, documentos e conservação de veículos e executar outras atividades afins à sua área de atuação,&nbsp;respeitados os regulamentos do serviço previstos na Defensoria Pública.</p></td></tr><tr style="height:97.05pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:97.05pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DE ALMOXARIFADO E PATRIMÔNIO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:97.05pt"><p class="MsoNormal" style="text-align:justify">&nbsp;Manter almoxarifado para guarda, controle e preservação de material, promover e coordenar a manutenção, aproveitamento e recuperação dos bens móveis e imóveis; confeccionar os inventários e demonstrativos periódicos dos bens em almoxarifado, respeitados os regulamentos do serviço previstos no Regimento Interno da Defensoria Pública.</p></td></tr><tr style="height:95.7pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:95.7pt"><p class="MsoNormal" align="center" style="text-align:center">COORDENADOR DA UNIDADE DE RECURSOS HUMANOS</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:95.7pt"><p class="MsoNormal">O Coordenador da Unidade de Recursos Humanos da Defensoria Pública é responsável por coordenar as atividades de gestão de pessoas, assegurando o cumprimento das normas legais e institucionais. Suas atribuições incluem monitorar provimentos e vacâncias, e subsidiar a elaboração lista de antiguidade, de editais e a execução de concursos públicos. É encarregado do processo de nomeação e posse de membros efetivos e comissionados, da atualização de dados no sistema de gestão e folha de pagamento, e da realização de pesquisas de desligamento para propor melhorias na gestão de pessoas.</p><p class="MsoNormal">Também promove a integração de novos membros, mantém atualizado o banco de dados e emite relatórios estratégicos. Proporciona ações de capacitação e desenvolvimento de membros, monitorando indicadores de desempenho e promovendo iniciativas de valorização. Além disso, assegura a conformidade de todas as ações com as normas vigentes e assessora a alta gestão em questões relacionadas à administração de recursos humanos.</p></td></tr><tr style="height:41.35pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:41.35pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR DA CONTROLADORIA</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:41.35pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares à Controladoria da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.</p></td></tr><tr style="height:13.5pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr style="height:42.1pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:42.1pt"><p class="MsoNormal" align="center" style="text-align:center">CONSULTOR FINANCEIRO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:42.1pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares ao Diretor Financeiro e Contábil, consistentes na consultoria financeira, com vista à realização de suas atribuições, previstas em lei.</p></td></tr><tr style="height:82.75pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:82.75pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR ESPECIAL AO GABINETE DO DEFENSOR PÚBLICO-GERAL</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:82.75pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares à Defensoria Pública-Geral, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;</p><p class="MsoNormal" style="text-align:justify">Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.</p></td></tr><tr style="height:16.7pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal" align="center" style="text-align:center">CONSULTOR JURÍDICO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares à Defensoria Pública-Geral e a 2ª Subdefensoria Pública-Geral Jurídica, consistentes na consultoria jurídica, com vista à realização de suas atribuições, previstas em lei.</p></td></tr><tr style="height:16.7pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal" align="center" style="text-align:center">FISCAL DE CONTRATOS</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades voltadas ao acompanhamento, fiscalização e controle da execução de contratos administrativos firmados pela Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.</p><p class="MsoNormal" style="text-align:justify">Monitorar a execução dos contratos sob os aspectos técnico, administrativo, operacional e financeiro, garantindo o cumprimento integral dos termos contratuais.</p><p class="MsoNormal" style="text-align:justify">Registrar ocorrências e elaborar relatórios periódicos sobre a execução contratual, apontando eventuais não conformidades.</p><p class="MsoNormal" style="text-align:justify">Dar conhecimento à Coordenação de Gestão, quando necessário, para regularização de obrigações contratuais.</p><p class="MsoNormal" style="text-align:justify">Auxiliar na análise de processos administrativos relativos à execução de contratos e seus aditamentos.</p></td></tr><tr style="height:16.7pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal" align="center" style="text-align:center">SUPERVISOR DE FISCAL DE CONTRATOS</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:16.7pt"><p class="MsoNormal">Coordenar e supervisionar as atividades dos Fiscais de Contratos, assegurando o acompanhamento efetivo e a fiscalização das contratações administrativas da Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.</p><p class="MsoNormal">Supervisionar os Fiscais de Contratos, orientando quanto às melhores práticas e procedimentos na fiscalização contratual, substituindo-os quando necessário.</p><p class="MsoNormal">Consolidar relatórios de fiscalização elaborados pelos Fiscais de Contratos, analisando os resultados e propondo melhorias ou ações corretivas. Coordenar a comunicação entre a administração e as empresas contratadas, garantindo o alinhamento das ações com os objetivos contratuais. Assessorar a alta gestão na tomada de decisões relacionadas à execução e fiscalização de contratos administrativos. Garantir o cumprimento das normas legais e regulamentares na execução contratual, promovendo treinamentos e capacitações para os Fiscais de Contratos. Intermediar a resolução de conflitos ou problemas de maior complexidade identificados durante a execução dos contratos.</p></td></tr><tr style="height:97.05pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:97.05pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR DA COORDENADORIA DE GESTÃO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:97.05pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares à Coordenadoria de Planejamento e Gestão da Defensoria Pública de Pernambuco, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;</p><p class="MsoNormal" style="text-align:justify">Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.</p></td></tr><tr style="height:82.75pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:82.75pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR DA ESCOLA SUPERIOR</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:82.75pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares à Escola Superior da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;</p><p class="MsoNormal" style="text-align:justify">Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.</p></td></tr><tr style="height:179.85pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:179.85pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DA ASSESSORIA DE COMUNICAÇÃO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:179.85pt"><p class="MsoNormal" style="text-align:justify">&nbsp;Prestar assessoramento nos assuntos relacionados à comunicação social aos órgãos da Administração Superior e aos demais órgãos da Defensoria Pública, promover a divulgação das atividades da Defensoria Pública, manter e atualizar o Portal da Defensoria Pública na internet e nas redes sociais, desenvolver e zelar pela aplicação do manual da identidade visual da Defensoria Pública, recepcionar as demandas da imprensa com relação às informações produzidas pela Defensoria Pública, elaborar produtos de comunicação interna que possuem publicidade e transparência às principais informações da Defensoria Pública, elaborar e executar o planejamento de comunicação interna e externa da Defensoria Pública.</p></td></tr><tr style="height:138.45pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:138.45pt"><p class="MsoNormal" align="center" style="text-align:center">DIRETOR DA TECNOLOGIA DE INFORMAÇÃO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:138.45pt"><p class="MsoNormal" style="text-align:justify">&nbsp;Dirigir&nbsp;os processos de informatização, gestão de recursos tecnológicos da Defensoria Pública, coordenar, planejar, executar e supervisionar as atividades da instituição na área de tecnologia da informação.</p><p class="MsoNormal" style="text-align:justify">Desenvolver atividades administrativas e técnicas relacionadas ao desenvolvimento, à implantação e à manutenção de sistemas, projetos e desenvolvimento de programas de computador, planejamento de hipertextos,&nbsp;respeitados os regulamentos do serviço previstos na Defensoria Pública.</p></td></tr><tr style="height:41.35pt"><td width="175" valign="top" style="width:131.35pt;padding:0cm 0cm 0cm 0cm;
-  height:41.35pt"><p class="MsoNormal" align="center" style="text-align:center">ASSESSOR DA TECNOLOGIA DE INFORMAÇÃO</p></td><td width="498" valign="top" style="width:373.2pt;padding:0cm 0cm 0cm 0cm;
-  height:41.35pt"><p class="MsoNormal" style="text-align:justify">Desempenhar atividades auxiliares ao Departamento de Tecnologia da Informação, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.</p></td></tr></tbody></table>
+CARGO
+
+ATRIBUIÇÕES
+
+Sem prejuízo de outras atribuições definidas por resolução do Conselho Superior da Defensoria Pública.
+
+ASSESSOR DE MEMBRO DA DEFENSORIA PÚBLICA
+
+Desempenhar atividades auxiliares ao membro da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+DIRETOR FINANCEIRO E CONTÁBIL
+
+Coordenar as atividades de orçamento, finanças e contabilidade no âmbito da DPE;
+Acompanhar e avaliar a programação orçamentária e financeira da Defensoria Pública;
+Estabelecer diretrizes básicas com o intuito de padronizar e racionalizar os procedimentos orçamentários, financeiros e operacionais em todos os níveis da Defensoria Pública;
+
+Examinar, consolidar e assessor a Defensoria Pública-Geral  na elaboração das propostas orçamentárias.
+
+DIRETOR DE CONTRATOS E CONVÊNIOS
+
+Acompanhar a celebração dos convênios, contratos e termos aditivos, com a coleta das assinaturas, providenciando, posteriormente, a juntada dos comprovantes de publicação do extrato e encaminhamento à unidade organizacional demandante com confirmação do lançamento dos
+instrumentos nos sistemas do Tribunal de Contas do Estado, quando for o caso;
+
+Manter controle individualizado e atualizado de cada contrato;
+
+Instruir o processo com os documentos necessários às alterações contratuais e demais as providências necessárias para o aditamento contratual, apostilamento.
+
+DIRETOR DE COMPRAS
+
+Realizar atividades relacionadas à gerência de compras, contratos e licitações da Defensoria Pública;
+
+Formular políticas públicas administrativas e exercer a supervisão, a execução e o controle dos procedimentos técnicos e administrativos inerentes à administração de compras, contratos e licitações.
+
+DIRETOR DE TRANSPORTE
+
+Realizar atividades relacionadas com o transporte de funcionários e pessoas credenciadas, documentos e conservação de veículos e executar outras atividades afins à sua área de atuação, respeitados os regulamentos do serviço previstos na Defensoria Pública.
+
+DIRETOR DE ALMOXARIFADO E PATRIMÔNIO
+
+Manter almoxarifado para guarda, controle e preservação de material, promover e coordenar a manutenção, aproveitamento e recuperação dos bens móveis e imóveis; confeccionar os inventários e demonstrativos periódicos dos bens em almoxarifado, respeitados os regulamentos do serviço previstos no Regimento Interno da Defensoria Pública.
+
+COORDENADOR DA UNIDADE DE RECURSOS HUMANOS
+
+O Coordenador da Unidade de Recursos Humanos da Defensoria Pública é responsável por coordenar as atividades de gestão de pessoas, assegurando o cumprimento das normas legais e institucionais. Suas atribuições incluem monitorar provimentos e vacâncias, e subsidiar a elaboração lista de antiguidade, de editais e a execução de concursos públicos. É encarregado do processo de nomeação e posse de membros efetivos e comissionados, da atualização de dados no sistema de gestão e folha de pagamento, e da realização de pesquisas de desligamento para propor melhorias na gestão de pessoas.
+
+Também promove a integração de novos membros, mantém atualizado o banco de dados e emite relatórios estratégicos. Proporciona ações de capacitação e desenvolvimento de membros, monitorando indicadores de desempenho e promovendo iniciativas de valorização. Além disso, assegura a conformidade de todas as ações com as normas vigentes e assessora a alta gestão em questões relacionadas à administração de recursos humanos.
+
+ASSESSOR DA CONTROLADORIA
+
+Desempenhar atividades auxiliares à Controladoria da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.
+
+CONSULTOR FINANCEIRO
+
+Desempenhar atividades auxiliares ao Diretor Financeiro e Contábil, consistentes na consultoria financeira, com vista à realização de suas atribuições, previstas em lei.
+
+ASSESSOR ESPECIAL AO GABINETE DO DEFENSOR PÚBLICO-GERAL
+
+Desempenhar atividades auxiliares à Defensoria Pública-Geral, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+CONSULTOR JURÍDICO
+
+Desempenhar atividades auxiliares à Defensoria Pública-Geral e a 2ª Subdefensoria Pública-Geral Jurídica, consistentes na consultoria jurídica, com vista à realização de suas atribuições, previstas em lei.
+
+FISCAL DE CONTRATOS
+
+Desempenhar atividades voltadas ao acompanhamento, fiscalização e controle da execução de contratos administrativos firmados pela Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.
+
+Monitorar a execução dos contratos sob os aspectos técnico, administrativo, operacional e financeiro, garantindo o cumprimento integral dos termos contratuais.
+
+Registrar ocorrências e elaborar relatórios periódicos sobre a execução contratual, apontando eventuais não conformidades.
+
+Dar conhecimento à Coordenação de Gestão, quando necessário, para regularização de obrigações contratuais.
+
+Auxiliar na análise de processos administrativos relativos à execução de contratos e seus aditamentos.
+
+SUPERVISOR DE FISCAL DE CONTRATOS
+
+Coordenar e supervisionar as atividades dos Fiscais de Contratos, assegurando o acompanhamento efetivo e a fiscalização das contratações administrativas da Defensoria Pública, com vista à realização de suas atribuições, previstas em lei.
+
+Supervisionar os Fiscais de Contratos, orientando quanto às melhores práticas e procedimentos na fiscalização contratual, substituindo-os quando necessário.
+
+Consolidar relatórios de fiscalização elaborados pelos Fiscais de Contratos, analisando os resultados e propondo melhorias ou ações corretivas. Coordenar a comunicação entre a administração e as empresas contratadas, garantindo o alinhamento das ações com os objetivos contratuais. Assessorar a alta gestão na tomada de decisões relacionadas à execução e fiscalização de contratos administrativos. Garantir o cumprimento das normas legais e regulamentares na execução contratual, promovendo treinamentos e capacitações para os Fiscais de Contratos. Intermediar a resolução de conflitos ou problemas de maior complexidade identificados durante a execução dos contratos.
+
+ASSESSOR DA COORDENADORIA DE GESTÃO
+
+Desempenhar atividades auxiliares à Coordenadoria de Planejamento e Gestão da Defensoria Pública de Pernambuco, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+ASSESSOR DA ESCOLA SUPERIOR
+
+Desempenhar atividades auxiliares à Escola Superior da Defensoria Pública, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei;
+
+Analisar processos ou procedimentos, sob os aspectos técnico, administrativo, operacional e jurídico, na condição de assessoria e demais atividades inerentes ao cargo.
+
+DIRETOR DA ASSESSORIA DE COMUNICAÇÃO
+
+Prestar assessoramento nos assuntos relacionados à comunicação social aos órgãos da Administração Superior e aos demais órgãos da Defensoria Pública, promover a divulgação das atividades da Defensoria Pública, manter e atualizar o Portal da Defensoria Pública na internet e nas redes sociais, desenvolver e zelar pela aplicação do manual da identidade visual da Defensoria Pública, recepcionar as demandas da imprensa com relação às informações produzidas pela Defensoria Pública, elaborar produtos de comunicação interna que possuem publicidade e transparência às principais informações da Defensoria Pública, elaborar e executar o planejamento de comunicação interna e externa da Defensoria Pública.
+
+DIRETOR DA TECNOLOGIA DE INFORMAÇÃO
+
+Dirigir os processos de informatização, gestão de recursos tecnológicos da Defensoria Pública, coordenar, planejar, executar e supervisionar as atividades da instituição na área de tecnologia da informação.
+
+Desenvolver atividades administrativas e técnicas relacionadas ao desenvolvimento, à implantação e à manutenção de sistemas, projetos e desenvolvimento de programas de computador, planejamento de hipertextos, respeitados os regulamentos do serviço previstos na Defensoria Pública.
+
+ASSESSOR DA TECNOLOGIA DE INFORMAÇÃO
+
+Desempenhar atividades auxiliares ao Departamento de Tecnologia da Informação, consistentes no assessoramento, com vista à realização de suas atribuições, previstas em lei.
 
 **ANEXO III**
 
 (Redação alterada pelo art. 2° da [Lei Complementar n° 555, de 26 de dezembro de 2024](https://legis.alepe.pe.gov.br/?lc5552024).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">SIMBOLOGIA</p></td><td width="118" style="width:88.5pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VENCIMENTO</p></td><td width="130" style="width:97.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">REPRESENTAÇÃO</p></td><td width="116" style="width:87.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VALOR</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">ASDEF</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 500,99</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 2.003,96</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 2.504,95</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF/CC-2</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 750,75</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 3.083,01</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 3.853,76</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF-1</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 2.312,25</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 9.249,03</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 11.561,28</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 1.695,65</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 6.782,61</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 8.478,26</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF-3</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 1.425,90</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 5.703,56</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 7.129,46</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF-4</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 1.310,28</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 5.241,11</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 6.551,39</p></td></tr><tr><td width="116" style="width:86.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">DEF-5</p></td><td width="118" style="width:88.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 1.079,06</p></td><td width="130" style="width:97.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 4.316,21</p></td><td width="116" style="width:87.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:1.8pt;text-align:right">R$ 5.395,27</p></td></tr></tbody></table>
+SIMBOLOGIA
+
+VENCIMENTO
+
+REPRESENTAÇÃO
+
+VALOR
+
+ASDEF
+
+R$ 500,99
+
+R$ 2.003,96
+
+R$ 2.504,95
+
+DEF/CC-2
+
+R$ 750,75
+
+R$ 3.083,01
+
+R$ 3.853,76
+
+DEF-1
+
+R$ 2.312,25
+
+R$ 9.249,03
+
+R$ 11.561,28
+
+DEF-2
+
+R$ 1.695,65
+
+R$ 6.782,61
+
+R$ 8.478,26
+
+DEF-3
+
+R$ 1.425,90
+
+R$ 5.703,56
+
+R$ 7.129,46
+
+DEF-4
+
+R$ 1.310,28
+
+R$ 5.241,11
+
+R$ 6.551,39
+
+DEF-5
+
+R$ 1.079,06
+
+R$ 4.316,21
+
+R$ 5.395,27

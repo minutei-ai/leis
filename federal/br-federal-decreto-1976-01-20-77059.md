@@ -1,5 +1,3 @@
-###DEC-077059-0-000-20-01-1976@@@
-
 DECRETO Nº 77.059, DE 20 DE JANEIRO DE 1976.
 
 Altera dispositivos do Regulamento do Regime da Previdência social.

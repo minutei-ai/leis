@@ -1,5 +1,3 @@
-###DEC-094919-0-000-21-09-1987@@@
-
 DECRETO N° 94.919, DE 21 DE SETEMBRO DE 1987
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

@@ -1,5 +1,3 @@
-###DEC-061531-0-000-13-10-1967@@@
-
 DECRETO Nº 61.531, DE 13 DE OUTUBRO DE 1967.
 
 Abre ao Ministério da Fazenda o crédito suplementar de NCr$255.000,00 (duzentos e cinqüenta e cinco mil cruzeiros novos), para reforço de dotações orçamentárias consignadas no vigente orçamento.
@@ -10,11 +8,39 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério da Fazenda, o crédito suplementar de NCr$255.000,00 (duzentos e cinqüenta e cinco mil cruzeiros novos), para refôrço de dotação orçamentária consignada ao Subanexo 4.07.26 - Diretoria da Despesa Pública (Encargos Gerais), a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:13.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:265.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesas Corrente</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.0.0</span></p></td><td style="width:13.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:265.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferências Correntes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.0</span></p></td><td style="width:13.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:265.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diversas Transferências Correntes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.4</span></p></td><td style="width:13.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:265.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Entidades Municipais</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>K-07</span></p></td><td style="width:13.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:265.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Distrito Federal</span></p></td></tr></tbody></table>
+3.0.0.0
+
+-
+
+Despesas Corrente
+
+3.2.0.0
+
+-
+
+Transferências Correntes
+
+3.2.9.0
+
+-
+
+Diversas Transferências Correntes
+
+3.2.9.4
+
+-
+
+Entidades Municipais
+
+K-07
+
+-
+
+Distrito Federal
 
 1\) - Prefeitura do Distrito Federal:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="2" style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>NCr$</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>a)</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para atender a encargos, inclusive de pessoal de Política do Distrito Federal, decorrente do Decreto-lei nº 9, de 25-6-1966.</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>b)</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Política Militar</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inativos Militares .........................................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>255.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> &nbsp; </td><td colspan="2"> NCr$ </td></tr><tr><td> a) </td><td> Para atender a encargos, inclusive de pessoal de Política do Distrito Federal, decorrente do Decreto-lei nº 9, de 25-6-1966. </td><td> &nbsp; </td></tr><tr><td> b) </td><td> Política Militar </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td><td> Inativos Militares ......................................................................................... </td><td> 255.000,00 </td></tr></tbody></table>
 
 Art. 2º A despesa decorrente do presente decreto será atendida mediante contenção de igual quantia atribuída à categoria econômica 3.2.9.4 Federal - e para atender a encargos - K.07 - 1) Prefeitura do Distrito inclusive de pessoal da Polícia do Distrito Federal - b) Política Militar - Pessoal Militar (Despesa Variável).
 

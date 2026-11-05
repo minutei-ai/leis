@@ -1,5 +1,3 @@
-###DEC-066800-0-000-30-06-1970@@@
-
 DECRETO Nº 66.800 - DE 30 DE JUNHO DE 1970
 
 Outorga à Prefeitura Municipal de Pôrto Amazonas, concessão para o aproveitamento hidráulico do Salto Caiacanga, no rio Iguaçu, município de Pôrto Amazonas, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-052335-0-000-08-08-1963@@@
-
 decreto nº 52.335, de 8 de agôsto de 1963.
 
 Dá nova redação aos artigos 12 e 45 do Regulamento para a Reserva a Aeronáutica.

@@ -1,5 +1,3 @@
-###DEL-007380-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.380 – DE 13 DE MARÇO DE 1945
 
 Estende aos aposentados e pensionistas das instituições de previdência social os benefícios da assistência médica, hospitalar e farmacêutica, e dá outras providências.

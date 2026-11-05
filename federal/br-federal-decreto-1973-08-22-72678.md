@@ -1,5 +1,3 @@
-###DEC-072678-0-000-22-08-1973@@@
-
 DECRETO Nº 72.678, DE 22 DE AGOSTO DE 1973.
 
 Concede à EMINAMAR - Empresa de Mineração Amadeu Martins Ltda. o direito de lavrar caulim no Município de Mar de Espanha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058837-0-000-15-07-1966@@@
-
 DECRETO Nº 58.837, DE 15 DE JULHO DE 1966.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento o domínio útil de fração ideal do terreno acrescido de marinha que menciona, no Estado da Guanabara.

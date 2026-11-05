@@ -1,5 +1,3 @@
-###DEC-049350-0-000-26-11-1960@@@
-
 DECRETO Nº 49.350, DE 26 DE NOVEMBRO DE 1960.
 
 Altera o Decreto nº 48.646, de 1º de agôsto de 1960.

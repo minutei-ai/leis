@@ -1,5 +1,3 @@
-###DEC-003461-0-000-15-05-2000@@@
-
 DECRETO Nº 3.461, DE 15 DE MAIO DE 2000.
 
 Promulga o Acordo de Cooperação Turística entre o Governo da República Federativa do Brasil e o Governo da República da Costa Rica, celebrado em Brasília, em 31 de maio de 1993.
@@ -132,4 +130,14 @@ Duração
 
 Feito em Brasília, aos 31 dias do mês de maio de 1993, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República da Costa Rica</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>José Eduardo de Andrade Vieira</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Luis Manuel Chacón Jiménez</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro da Indústria, Comércio e Turismo</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro do Instituto Costariquenho de Turismo</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República da Costa Rica
+
+José Eduardo de Andrade Vieira
+
+Luis Manuel Chacón Jiménez
+
+Ministro da Indústria, Comércio e Turismo
+
+Ministro do Instituto Costariquenho de Turismo

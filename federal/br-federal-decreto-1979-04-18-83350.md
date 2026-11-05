@@ -1,5 +1,3 @@
-###DEC-083350-0-000-18-04-1979@@@
-
 Decreto nº 83.350, de 18 de abril de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

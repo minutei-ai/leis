@@ -1,5 +1,3 @@
-###DEL-000633-0-000-17-06-1969@@@
-
 DECRETO-LEI Nº 633, DE 17 DE JUNHO DE 1969
 
 Revoga a Lei nº 4.238, de 26 de junho 1963, e revigora o Decreto-lei nº 7.732, de 1945

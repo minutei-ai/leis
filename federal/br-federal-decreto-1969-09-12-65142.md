@@ -1,5 +1,3 @@
-###DEC-065142-0-000-12-09-1969@@@
-
 DECRETO Nº 65.142 - DE 12 DE SETEMBRO DE 1969.
 
 Dá nova redação a dispositivos do Decreto n.º 64.089, de 11 de fevereiro de 1969, e dá outras providências.

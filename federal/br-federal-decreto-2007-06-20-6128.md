@@ -1,5 +1,3 @@
-###DEC-006128-0-000-20-06-2007@@@
-
 DECRETO Nº 6.128, DE 20 DE JUNHO DE 2007.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia sobre a Transferência de Nacionais Condenados, celebrado em La Paz, em 26 de julho de 1999.
@@ -24,11 +22,7 @@ Brasília, 20 de junho de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no DOU de 21.6.2007
-
-ACORDO ENTRE GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA SOBRE A TRANSFERÊNCIA DE NACIONAIS CONDENADOS
+Ruy Nunes Pinto NogueiraACORDO ENTRE GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA SOBRE A TRANSFERÊNCIA DE NACIONAIS CONDENADOS
 
 O Governo da República Federativa do Brasil
 

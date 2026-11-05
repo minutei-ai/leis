@@ -1,5 +1,3 @@
-###DEC-080641-0-000-27-10-1977@@@
-
 DECRETO Nº 80.641, DE 27 DE OUTUBRO DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

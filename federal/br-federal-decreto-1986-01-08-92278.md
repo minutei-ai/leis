@@ -1,5 +1,3 @@
-###DEC-092278-0-000-08-01-1986@@@
-
 DECRETO Nº 92.278, DE 08 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Conjunto Santa Maria" compreendido na referida área, no Município de Maraú, no Estado da Bahia, e dá outras providências.

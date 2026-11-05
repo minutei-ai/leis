@@ -1,5 +1,3 @@
-###DEC-048139-0-000-25-04-1960@@@
-
 DECRETO Nº 48.139, DE 25 DE ABRIL DE 1960.
 
 Cria o 10º Batalhão de Caçadores com sede em Goiânia.

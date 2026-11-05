@@ -1,5 +1,3 @@
-###DEL-004911-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.911 – DE 31 DE OUTUBRO DE 1942
 
 Transfere de Recife para Olinda a sede do 7º Grupo de Artilharia de Dorso

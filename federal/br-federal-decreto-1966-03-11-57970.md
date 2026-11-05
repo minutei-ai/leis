@@ -1,5 +1,3 @@
-###DEC-057970-0-000-11-03-1966@@@
-
 DECRETO Nº 57.970, DE 11 DE MARÇO DE 1966.
 
 Concede à sociedade SILFRAN - Comércio e Navegação Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

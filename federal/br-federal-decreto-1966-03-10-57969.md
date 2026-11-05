@@ -1,5 +1,3 @@
-###DEC-057969-0-000-10-03-1966@@@
-
 decreto nº 57.969, de 10 de março de 1966.
 
 Autoriza o cidadão brasileiro João Paulo de Almeida a pesquisar argila, no Município de Campina Grande, Estado da Paraíba.

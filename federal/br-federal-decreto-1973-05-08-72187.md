@@ -1,5 +1,3 @@
-###DEC-072187-0-000-08-05-1973@@@
-
 DECRETO Nº 72.187, DE 8 DE MAIO DE 1973.
 
 Torna sem efeito aproveitamento, na Universidade Federal da Bahia, de servidor em disponibilidade e dá outras providências.

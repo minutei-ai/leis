@@ -1,5 +1,3 @@
-###DEC-057868-0-000-25-02-1966@@@
-
 Decreto nº 57.868, de 25 de fevereiro de 1966.
 
 Autoriza Mineração Tejucana S.A. a comprar pedras preciosas.

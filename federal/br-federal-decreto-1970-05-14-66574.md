@@ -1,5 +1,3 @@
-###DEC-066574-0-000-14-05-1970@@@
-
 DECRETO Nº 66.574, DE 14 DE MAIO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de domínio direto de imóvel, em Palmeira dos Índios - AL, destinado ao Ministério do Exército.

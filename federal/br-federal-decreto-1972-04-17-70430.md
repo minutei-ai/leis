@@ -1,5 +1,3 @@
-###DEC-070430-0-000-17-04-1972@@@
-
 DECRETO Nº 70.430, de 17 DE ABRIL DE 1972.
 
 Estabelece a assistência às pessoas domiciliados na área dos planos de desenvolvimento agropecuários financiados por incentivos fiscais e, em área pioneiras, por estabelecimentos oficiais de crédito.

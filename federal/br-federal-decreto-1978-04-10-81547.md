@@ -1,5 +1,3 @@
-###DEC-081547-0-000-10-04-1978@@@
-
 Decreto nº 81.547, de 10 de abril de 1978.
 
 Concede à Mineração Rio do Norte S/A o direito de lavrar saibro no Município de Oriximiná, Estado do Pará.

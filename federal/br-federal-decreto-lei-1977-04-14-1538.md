@@ -1,5 +1,3 @@
-###DEL-001538-0-000-14-04-1977@@@
-
 # DECRETO-LEI Nº 1.538, DE 14 DE ABRIL DE 1977
 
 Altera a redação do artigo 250 da Lei nº 4.737, de 15 de julho de 1965 modificada pela Lei número 6.339, de 1º de julho de 1976, e dá outras providências.

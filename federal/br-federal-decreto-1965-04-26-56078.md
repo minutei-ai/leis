@@ -1,5 +1,3 @@
-###DEC-056078-0-000-26-04-1965@@@
-
 DECRETO Nº 56.078, DE 26 DE ABRIL DE 1965.
 
 Extingue o Serviço de Alienação de Bens do Ministério da Marinha e dá outras providências.

@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 30 dias do mês de Maio de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -57,6 +55,7 @@ QUADRO 2
 | 06 181 1021 3.130 | CONSTRUÇÃO DE UNIDADE DA POLÍCIA MILITAR | 4 - INVESTIMENTOS | 17530161 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 598.143,75 |

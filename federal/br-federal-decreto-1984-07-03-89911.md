@@ -1,5 +1,3 @@
-###DEC-089911-0-000-03-07-1984@@@
-
 decreto nº 89.911, de 03 de julho de 1984
 
 Autoriza a alienação de projeções residenciais de propriedade da União, localizadas em Brasília.

@@ -1,5 +1,3 @@
-###DEC-085345-0-000-11-11-1980@@@
-
 DECRETO nº 85.345, de 11 de novembro de 1980.
 
 Dispõe sobre a composição do Conselho Nacional de Política Penitenciária.

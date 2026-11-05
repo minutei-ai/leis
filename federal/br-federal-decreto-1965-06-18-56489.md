@@ -1,5 +1,3 @@
-###DEC-056489-0-000-18-06-1965@@@
-
 DECRETO Nº 56.489, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública a Sociedade Beneficente Sopa dos Pobres, com sede em Juiz de Fora, Estado de Minas Gerais.

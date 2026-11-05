@@ -1,5 +1,3 @@
-###DEC-094716-0-000-03-08-1987@@@
-
 DECRETO Nº 94.716, DE 3 DE AGOSTO DE 1987.
 
 Concede à empresa FARMITALIA CARLO ERBA S.p.A, autorização para funcionar na República Federativa do Brasil.

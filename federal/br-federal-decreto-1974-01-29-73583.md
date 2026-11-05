@@ -1,5 +1,3 @@
-###DEC-073583-0-000-29-01-1974@@@
-
 DECRETO Nº 73.583, DE 29 DE JANEIRO DE 1974.
 
 Concede a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR o direito de lavrar argila refratária nos Municípios de Mogi das Cruzes e Suzano, Estado de São Paulo.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.733, DE 19 DE MAIO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.612, de 16 de março de 2020, que “Autoriza o Estado do Acre a conceder o uso de imóvel à Colônia de Pescadores e Agricultores da Capital Z-8 - COLPAC".</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.612, de 16 de março de 2020, que “Autoriza o Estado do Acre a conceder o uso de imóvel à Colônia de Pescadores e Agricultores da Capital Z-8 - COLPAC".
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

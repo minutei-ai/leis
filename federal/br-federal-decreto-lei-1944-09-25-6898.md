@@ -1,5 +1,3 @@
-###DEL-006898-0-000-25-09-1944@@@
-
 DECRETO-LEI N. 6.898 – DE 25 DE SETEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Fazenda

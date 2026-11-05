@@ -1,5 +1,3 @@
-###DEC-058338-0-000-03-05-1966@@@
-
 DECRETO Nº 58.338, de 3 de maio de 1966.
 
 Concede à Gaúcha de Produtos QuÍmicos Ltda., autorização para funcionar como emprêsa de mineração.

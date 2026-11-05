@@ -1,5 +1,3 @@
-###DEC-069385-0-000-20-10-1971@@@
-
 DECRETO Nº 69.385, DE 20 DE OUTUBRO DE 1971.
 
 Reconhece a Faculdade de Direito Norte de Minas, da Fundação Universidade Norte Mineira, sediada em Montes Claros, Estado de Minas Gerais.

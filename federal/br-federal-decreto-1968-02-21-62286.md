@@ -1,5 +1,3 @@
-###DEC-062286-0-000-21-02-1968@@@
-
 DECRETO Nº 62.286, DE 21 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Associação Joseense de Ensino”, com sede em São José dos Campos, Estado de São Paulo.

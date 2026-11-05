@@ -1,7 +1,3 @@
-1
-
-###DEC-099417-0-000-26-07-1990@@@
-
 DECRETO Nº 99.417, DE 26 DE JULHO DE 1990
 
 Delega competência aos Ministros de Estado da Marinha, do Exército e da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-006590-0-000-01-10-2008@@@
-
 DECRETO Nº 6.590, DE 1º DE OUTUBRO DE 2008.
 
 Dispõe sobre o procedimento administrativo para aplicação de penalidades por infrações cometidas nas atividades cinematográfica e videofonográfica e em outras atividades a elas vinculadas, e dá outras providências.   

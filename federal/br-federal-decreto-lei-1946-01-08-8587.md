@@ -1,5 +1,3 @@
-###DEL-008587-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.587 – DE 8 de JANEIRO DE 1946
 
 Cria funções gratificadas no Quadro Permanente, do Ministério da Educação e Saúde.

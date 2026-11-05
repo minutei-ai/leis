@@ -1,5 +1,3 @@
-###DEC-007186-0-000-27-05-2010@@@
-
 DECRETO Nº 7.186, DE 27 DE MAIO DE 2010.
 
 Regulamenta os arts. 298 a 307 da Lei no 11.907, de 2 de fevereiro de 2009, que tratam do Adicional por Plantão Hospitalar - APH

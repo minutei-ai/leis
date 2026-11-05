@@ -1,5 +1,3 @@
-###DEC-058226-0-000-20-04-1966@@@
-
 decreto nº 58.266, de 20 de abril de 1966.
 
 Cria Grupo de Trabalho destinado a estudar a formulação do Plano Nacional de Estatística.

@@ -1,5 +1,3 @@
-###DEC-002165-0-000-26-02-1997@@@
-
 DECRETO Nº 2.165, DE 26 DE FEVEREIRO DE 1997
 
 Promulga o Acordo sobre Cooperação entre as Academias Diplomáticas de ambos os Países, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Chile, em Brasília, em 25 de março de 1996

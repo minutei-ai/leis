@@ -1,5 +1,3 @@
-###MPV-001942-0-025-14-12-2000@@@
-
 medida provisória nº 1.942-25, de 14 de dezembro de 2000.
 
 Dá nova redação a dispositivos da Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

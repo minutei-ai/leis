@@ -1,5 +1,3 @@
-###DEC-048558-0-000-21-07-1960@@@
-
 DECRETO Nº 48.558, DE 21 DE JUlho DE 1960.
 
 Autoriza o cidadão brasileiro Sebastião Curimbaba a pesquisar bauxita e argila, no município de Poços de Caldas, Estado de Minas Gerais.

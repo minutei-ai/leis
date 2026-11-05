@@ -1,5 +1,3 @@
-###DEC-055672-0-000-01-02-1965@@@
-
 DECRETO Nº 55.672, DE 1 DE FEVEREIRO DE 1965.
 
 Autoriza a cidadão brasileiro Benjamim Bontorim a lavrar calcário no município de Rio Branco do Sul, Estado do Paraná.

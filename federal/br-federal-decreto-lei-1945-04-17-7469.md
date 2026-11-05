@@ -1,5 +1,3 @@
-###DEL-007469-0-000-17-04-1945@@@
-
 DECRETO-LEI N. 7.469 – DE 17 DE ABRIL DE 1945
 
 Outorga à Companhia Brasileira de Energia Elétrica, com sede na Capital Federal, concessão para aproveitamento progressivo de energia hidráulica existente nos rios Preto, nos Municípios Três Rios, Petrópolis e Teresópolis, e Piabanha, no Município de Três Rios, todos no Estado do Rio de Janeiro, e dá outras providências.

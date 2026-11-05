@@ -1,14 +1,12 @@
-###DEC-035516-0-000-18-05-1954@@@
+**DECRETO Nº 35.516, DE 18 DE MAIO DE 1954.**
 
-<strong>DECRETO Nº 35.516, DE 18 DE MAIO DE 1954.</strong>
+***Cria Seções de Pessoal Civil em órgãos do Ministério da Aeronáutica e dá outras previdências.***
 
-<em><strong>Cria Seções de Pessoal Civil em órgãos do Ministério da Aeronáutica e dá outras previdências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando atribuição que lhe confere o artigo 87, item I da Constituição, e de acôrdo com o art. 26 do Decreto lei nº 988, de 16 de dezembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando atribuição que lhe confere o artigo 87, item I da Constituição, e de acôrdo com o art. 26 do Decreto lei nº 988, de 16 de dezembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criada uma Seção do Pessoal Civil em cada um dos órgãos do Ministério da Aeronáutica abaixo mencionados:
+**Art**. 1º Fica criada uma Seção do Pessoal Civil em cada um dos órgãos do Ministério da Aeronáutica abaixo mencionados:
 
 Estado Maior da Aeronáutica.
 
@@ -102,7 +100,7 @@ Núcleo de Parque de Aeronáutica de Lagoa Santa.
 
 Centro de Instrução Militar dos Afonsos.
 
-<strong>Art</strong>. 2º A Seção de Pessoal Civil compete:
+**Art**. 2º A Seção de Pessoal Civil compete:
 
 a) estudar os assuntos relativos a pessoal civil que para isso lhe forem encaminhados, prestando as informações correspondentes;
 
@@ -110,14 +108,14 @@ b) organizar o cadastro de todo o pessoal civil da unidade, repartição ou esta
 
 c) sugerir as medidas necessárias ao cumprimento das normas legais e regulamentares e concernantes ao pessoal civil.
 
-<strong>Art</strong>. 3º A função de Chefe da Seção de Pessoal Civil será exercida por um funcionário ou extranumerário mensalista, dos quadros ou tabelas do pessoal do Ministério da Aeronáutica, designado por ato do Chefe, Comandante ou Diretor da unidade, repartição ou estabelecimento a que pertencer a função.
+**Art**. 3º A função de Chefe da Seção de Pessoal Civil será exercida por um funcionário ou extranumerário mensalista, dos quadros ou tabelas do pessoal do Ministério da Aeronáutica, designado por ato do Chefe, Comandante ou Diretor da unidade, repartição ou estabelecimento a que pertencer a função.
 
-<strong>Art</strong>. 4º Por proposta da autoridade competente para designar referida no artigo anterior, o Ministro da Aeronáutica determinará, em Portaria, a subordinação de cada uma das Seções ora criadas.
+**Art**. 4º Por proposta da autoridade competente para designar referida no artigo anterior, o Ministro da Aeronáutica determinará, em Portaria, a subordinação de cada uma das Seções ora criadas.
 
-<strong>Art</strong>. 5º O presente decreto entrará na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º O presente decreto entrará na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de maio de 1954;133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Nero Moura

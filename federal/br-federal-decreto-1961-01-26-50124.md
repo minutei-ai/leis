@@ -1,5 +1,3 @@
-###DEC-050124-0-000-26-01-1961@@@
-
 decreto nº 50.124, de 26 de janeiro de 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Sociedade Anônima de Seguros Gerais ‘Lloyd Industrial Sul Americano”.

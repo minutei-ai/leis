@@ -1,5 +1,3 @@
-###DEC-084871-0-000-02-07-1980@@@
-
 Decreto nº 84.871, de 02 de julho de 1980.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação dos Institutos Paraibanos de Educação em João Pessoa, Estado da Paraíba.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098234-0-000-02-10-1989@@@
-
 DECRETO Nº 98.234, DE 2 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso de Comunicação Social com habilitação em Radialismo, da Faculdade de Comunicação e Turismo Hélio Alonso.

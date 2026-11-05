@@ -1,5 +1,3 @@
-###DEL-005101-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.101 – DE 17 DE DEZEMBRO DE 1942
 
 Dispõe sobre o nome dos estrangeiros e brasileiros naturalizados

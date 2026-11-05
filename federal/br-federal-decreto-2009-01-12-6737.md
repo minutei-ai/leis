@@ -1,5 +1,3 @@
-###DEC-006737-0-000-12-01-2009@@@
-
 DECRETO Nº 6.737, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para Permissão de Residência, Estudo e Trabalho a Nacionais Fronteiriços Brasileiros e Bolivianos, celebrado em Santa Cruz da Serra, em 8 de julho de 2004.

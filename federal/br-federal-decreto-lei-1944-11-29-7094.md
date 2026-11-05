@@ -1,5 +1,3 @@
-###DEL-007094-0-000-29-11-1944@@@
-
 DECRETO-LEI N. 7.094 – DE 29 DE NOVEMBRO DE 1944
 
 Exclui do regime de fiscalização a emprêsa Pirelli S. A., Companhia Industrial Brasileira, com sede em São Paulo, e dá outras providências

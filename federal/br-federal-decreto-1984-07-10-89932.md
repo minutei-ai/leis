@@ -1,5 +1,3 @@
-###DEC-089932-0-000-10-07-1984@@@
-
 Decreto nº 89.932, de 1o de julho de 1984
 
 Altera os limites da Reserva Biológica do Lago Piratuba, criada pelo Decreto número 84.914, de 16 de julho de 1980, no território Federal do Amapá.

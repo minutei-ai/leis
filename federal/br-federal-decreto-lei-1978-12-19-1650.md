@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/184a1478-f521-432b-af65-209bfa4bafb3/texto#nowhere)
 
-###DEL-001650-0-000-19-12-1978@@@
-
 # Decreto-lei nº 1.650, de 19 de dezembro de 1978.
 
 Restringe a aplicação do artigo 2º da Lei nº 4.729, de 14 de julho de 1965, e do artigo 18, parágrafo único, do Decreto-lei nº 157, de 10 de fevereiro de 1967.
@@ -21,8 +19,6 @@ ERNESTO GEISEL
 Armando Falcão
 
 Mário Henrique Simonsen
-
-###DEL-001650-0-000-19-12-1978@@@RET01+++
 
 # DECRETO-LEI Nº 1.650, DE 19 DE DEZEMBRO DE 1978.
 

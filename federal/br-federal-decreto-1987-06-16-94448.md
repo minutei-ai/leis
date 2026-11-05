@@ -1,5 +1,3 @@
-###DEC-094448-0-000-16-06-1987@@@
-
 DECRETO Nº 94.448, DE 16 DE JUNHO DE 1987
 
 Altera o Decreto nº 93.944, de 16 de janeiro de 1987, que cria, por transformação, no Ministério da Ciência e Tecnologia, o Conselho de Ciência e Tecnologia - CCT.

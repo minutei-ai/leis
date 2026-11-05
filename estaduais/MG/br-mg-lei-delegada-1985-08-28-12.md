@@ -201,7 +201,3 @@ Carlos Alberto Cotta
 Walfrido Silvino dos Mares Guia Neto
 
 Luiz Alberto Rodrigues
-
-\==============================
-
-Data da última atualização: 23/03/2005

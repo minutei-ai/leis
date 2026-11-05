@@ -1,5 +1,3 @@
-###DEC-051695-0-000-04-02-1963@@@
-
 DECRETO Nº 51.695, DE 4 DE FEVEREIRO DE 1963.
 
 Inclui, no Regimento do Gabinete do Ministro da Viação e Obras Publicas, os órgãos que menciona e dá outras providencias.

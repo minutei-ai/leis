@@ -1,5 +1,3 @@
-###DEC-079255-0-000-14-02-1977@@@
-
 DECRETO Nº 79.255, DE 14 DE FEVEREIRO DE 1977.
 
 Concede à Empresa de Águas Minerais São Pedro Indústria e Comércio Limitada, o direito de lavrar água potável de mesa no Município de São Pedro, Estado de São Paulo.

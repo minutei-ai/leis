@@ -1,5 +1,3 @@
-###DEC-007158-0-000-20-04-2010@@@
-
 DECRETO Nº 7.158, DE 20 DE ABRIL DE 2010.
 
 Autoriza a Secretaria de Direitos Humanos da Presidência da República a dar cumprimento a sentença exarada pela Corte Interamericana de Direitos Humanos.
@@ -24,6 +22,28 @@ LUIZ INÁCIO LULA DA SILVA
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BENEFICIÁRIO</span></p></td><td style="width:169.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL*</span></p></td></tr><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Arley José Escher</span></p></td><td style="width:169.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">US$ 22,000.00</span></p></td></tr><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dalton Luciano de Vargas</span></p></td><td style="width:169.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">US$ 22,000.00</span></p></td></tr><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Delfino José Becker</span></p></td><td style="width:169.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">US$ 22,000.00</span></p></td></tr><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pedro Alves Cabral</span></p></td><td style="width:169.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">US$ 22,000.00</span></p></td></tr><tr><td style="width:215.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Celso Aghinoni</span></p></td><td style="width:169.78pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">US$ 22,000.00</span></p></td></tr></tbody></table>
+BENEFICIÁRIO
+
+TOTAL*
+
+Arley José Escher
+
+US$ 22,000.00
+
+Dalton Luciano de Vargas
+
+US$ 22,000.00
+
+Delfino José Becker
+
+US$ 22,000.00
+
+Pedro Alves Cabral
+
+US$ 22,000.00
+
+Celso Aghinoni
+
+US$ 22,000.00
 
 \* Conforme estabelecido no art. 1o da Lei no 10.192, de 14 de fevereiro de 2001, os valores em dólares determinados pela sentença deverão ser convertidos em Real. De acordo com determinação constante do parágrafo 261 da sentença da Corte Interamericana de Direitos Humanos, o câmbio utilizado para o cálculo deverá ser aquele que se encontre vigente na bolsa de Nova Iorque no dia anterior ao pagamento.

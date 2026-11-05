@@ -1,5 +1,3 @@
-###DEC-055143-0-000-04-12-1964@@@
-
 DECRETO Nº 55.143, DE 4 DE DEZEMBRO DE 1964.
 
 Declara públicas, de uso comum, as águas dos cursos d’água que especifica.

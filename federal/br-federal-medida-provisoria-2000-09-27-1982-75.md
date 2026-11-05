@@ -1,5 +1,3 @@
-###MPV-001982-0-075-27-09-2000@@@
-
 MEDIdA PROVISÓRIA Nº 1.982-75, DE 27 DE setembro DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

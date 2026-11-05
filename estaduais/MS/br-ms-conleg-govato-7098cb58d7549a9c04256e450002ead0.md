@@ -6,19 +6,24 @@ Declara de Utilidade Pública Estadual o Aeroclube de Mato Grosso do Sul, com se
 
 Publicada no Diário Oficial nº 3.679, de 3 de dezembro de 1993, página 1.
 
-O Governador do Estado de Mato Grosso do Sul, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o Aeroclube<br>
-de Mato Grosso do Sul, com sede e foro nesta cidade.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 2 de dezembro de 1993.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-NEWLEY ALEXANDRE DA SILVA AMARILLA<br>
+O Governador do Estado de Mato Grosso do Sul, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o Aeroclube
+
+de Mato Grosso do Sul, com sede e foro nesta cidade.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 2 de dezembro de 1993.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+NEWLEY ALEXANDRE DA SILVA AMARILLA
+
 Secretário de Estado de Justiça e Trabalho

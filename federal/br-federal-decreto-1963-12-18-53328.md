@@ -1,5 +1,3 @@
-###DEC-053328-0-000-18-12-1963@@@
-
 DECRETO Nº 53.328, de 18 de dezembro de 1963.
 
 Subordina o Colégio Comercial Professor Clóvis Salgado à Diretoria do Ensino Comercial do Ministério da Educação e Cultura e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082735-0-000-27-11-1978@@@
-
 Decreto nº 82.735, de 27 de novembro d 1978.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas do Ensino de 2º grau, Esquema II, ministrado pela Universidade Federal do Maranhão , com sede na cidade de São Luís

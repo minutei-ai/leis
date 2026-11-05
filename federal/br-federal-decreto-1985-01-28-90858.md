@@ -1,5 +1,3 @@
-###DEC-090858-0-000-28-01-1985@@@
-
 Decreto nº 90.858, de 28 de janeiro de 1985
 
 Altera a redação do Art. 1º, do Decreto nº 90.078, de 16 de agosto de 1984, que estende o prazo fixado pelo parágrafo único do artigo 1º, do Decreto nº 88.694, de 13 de setembro de 1983.

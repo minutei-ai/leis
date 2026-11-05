@@ -1,5 +1,3 @@
-###DEC-068320-0-000-05-03-1971@@@
-
 DECRETO Nº 68.320, DE 5 DE MARÇO DE 1971.
 
 Dá nova redação ao artigo 44 do Regulamento da Inspetoria-Geral da Aeronáutica, aprovado pelo Decreto nº 64.284, de 31 de março de 1969.

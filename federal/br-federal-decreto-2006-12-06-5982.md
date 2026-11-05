@@ -1,5 +1,3 @@
-###DEC-005982-0-000-06-12-2006@@@
-
 DECRETO Nº 5.982 DE 6 DE DEZEMBRO DE 2006.
 
 Institui a Medalha e o Diploma “Iniciativa para o Desenvolvimento Sustentável da Agropecuária”.
@@ -23,5 +21,3 @@ Institui a Medalha e o Diploma “Iniciativa para o Desenvolvimento Sustentável
 LUIZ INÁCIO LULA DA SILVA
 
         Luiz Carlos Guedes Pinto
-
-Este texto não substitui o publicado no DOU de 7.12.2006

@@ -1,5 +1,3 @@
-###DEL-009314-0-000-01-06-1946@@@
-
 DECRETO-LEI N. 9.314 – DE 1 DE JUNHO DE 1946
 
 Altera, sem aumento de despesa, as carreiras de Operário de Aviação e de Artífice do Quadro Suplementar do Ministério da Aeronáutica.

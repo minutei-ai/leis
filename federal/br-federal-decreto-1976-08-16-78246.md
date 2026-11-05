@@ -1,5 +1,3 @@
-###DEC-078246-0-000-16-08-1976@@@
-
 DECRETO Nº 78.246, DE 16 DE AGOSTO DE 1976.
 
 Autoriza o Serviço de Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Barra do Piraí, Estado do Rio de Janeiro.

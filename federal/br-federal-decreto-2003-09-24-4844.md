@@ -1,5 +1,3 @@
-###DEC-004844-0-000-24-09-2003@@@
-
 DECRETO Nº 4.844,  DE 24 DE SETEMBRO DE 2003.
 
        Institui a hora de verão, em parte do território nacional, no período que indica.

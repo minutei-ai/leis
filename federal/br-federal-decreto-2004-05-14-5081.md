@@ -1,5 +1,3 @@
-###DEC-005081-0-000-14-05-2004@@@
-
 DECRETO Nº 5.081,  DE 14 DE MAIO DE 2004
 
 Regulamenta os arts. 13 e 14 da Lei nº 9.648, de 27 de maio de 1998, e o art. 23 da Lei nº 10.848, de 15 de março de 2004, que tratam do Operador Nacional do Sistema Elétrico - ONS.

@@ -1,5 +1,3 @@
-###DEC-045314-0-000-27-01-1959@@@
-
 DECRETO Nº 45.314, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Carvalho a pesquisar mica e pedras coradas no município de Galileia, Estado de Minas Gerais.

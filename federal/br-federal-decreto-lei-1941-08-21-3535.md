@@ -1,5 +1,3 @@
-###DEL-003535-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.535 – DE 21 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 30:000$0 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-007877-0-000-27-12-2012-PUB-01@@@
-
 DECRETO N°\- 7.877, DE 27 DE DEZEMBRO DE 2012
 
 Altera o Decreto nº 7.828, de 16 de outubro de 2012, que regulamenta a incidência da contribuição previdenciária sobre a receita devida pelas empresas de que tratam os arts. 7º a 9º da Lei nº 12.546, de 14 de dezembro de 2011.

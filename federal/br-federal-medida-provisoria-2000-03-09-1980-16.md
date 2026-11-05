@@ -1,5 +1,3 @@
-###MPV-001980-0-016\-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-16, DE 9 DE março DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

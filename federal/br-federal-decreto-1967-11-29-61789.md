@@ -1,5 +1,3 @@
-###DEC-061789-0-000-29-11-1967@@@
-
 Decreto nº 61.789, de 29 de Novembro de 1967.
 
 Renova a declaração de utilidade pública a que se refere o decreto número 48.254, de 2 de junho de 1960, para fins de desapropriação pelo DNOCS, da área de terreno necessária à construção do açude público “Congo”, no município de são João do Cariri, Estado da Paraíba.

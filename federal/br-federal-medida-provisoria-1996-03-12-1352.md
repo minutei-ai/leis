@@ -1,7 +1,3 @@
-1
-
-###MPV-001352-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.352, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

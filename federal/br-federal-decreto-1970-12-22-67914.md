@@ -1,5 +1,3 @@
-###DEC-067914-0-000-22-12-1970@@@
-
 DECRETO Nº 67.914, DE 22 DE DEZEMBRO DE 1970.
 
 Extingue o Grupo Executivo das Telecomunicações para a Amazônia - GETAM.

@@ -1,5 +1,3 @@
-###DEL-005013-0-000-30-11-1942@@@
-
 DECRETO-LEI N. 5.013 – DE 30 DE NOVEMBRO DE 1942
 
 Cria a Diretoria das Armas e dá outras providências

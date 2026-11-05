@@ -1,5 +1,3 @@
-###DEC-002945-0-000-22-01-1999@@@
-
 DECRETO Nº 2.945, DE 22 DE JANEIRO DE 1999.
 
 Constitui a Comissão para Análise da Aplicação de Decisões Judiciais – CAADJ, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086234-0-000-29-07-1981@@@
-
 Decreto Nº 86.234, de 29 de julho de 1981
 
 Transfere ao Instituto Nacional de Colonização e Reforma Agrária - INCRA as áreas de terras que menciona.

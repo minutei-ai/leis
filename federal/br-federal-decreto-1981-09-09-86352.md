@@ -1,5 +1,3 @@
-###DEC-086352-0-000-09-09-1981@@@
-
 Decreto nº 86.352, de 09 de setembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, com benfeitoria, a ser desmembrada de maior porção, situada em Vila Maria, Município de São Paulo, Estado de São Paulo, destinada à construção de Central Telefônica CPA e Base Operacional pela Telecomunicações de São Paulo S.A. - TELESP.

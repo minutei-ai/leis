@@ -1,5 +1,3 @@
-###DEL-008664-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.664 – DE 14 DE JANEIRO DE 1946
 
  Prorroga a vigência do crédito especial aberto ao Ministério da Fazenda pelo Decreto-lei n º 6.740, de 26 de julho de 1944.

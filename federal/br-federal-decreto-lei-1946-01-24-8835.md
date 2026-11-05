@@ -1,5 +1,3 @@
-###DEL-008835-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.835 – DE 24 DE JANEIRO DE 1946
 
 Altera dispositivos do Decreto-lei nº 7.586, de 28 de maio de 1945, e dá outras providências.

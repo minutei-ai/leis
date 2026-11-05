@@ -1,5 +1,3 @@
-###DEC-003545-0-000-14-07-2000@@@
-
 DECRETO Nº 3.545, DE 14 DE JULHO DE 2000.
 
 Dispõe sobre os procedimentos a serem adotados em relação à paralisação de serviços públicos ocorrida no período de 6 de abril a 14 de julho de 2000, no âmbito da Administração Federal direta, das autarquias e das fundações públicas do Poder Executivo da União.

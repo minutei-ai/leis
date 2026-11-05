@@ -1,5 +1,3 @@
-###DEC-007372-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.372, DE 26 DE NOVEMBRO DE 2010.
 
 Dá nova redação ao art. 47 do Decreto no 93.872, de 23 de dezembro de 1986, para autorizar o uso de suprimentos de fundos em peculiaridades do Ministério da Agricultura, Pecuária e Abastecimento.

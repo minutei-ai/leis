@@ -1,5 +1,3 @@
-###MPV-002211-0-000-29-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.211, DE 29 DE AGOSTO DE 2001
 
  Altera dispositivos das Leis nos 9.995, de 25 de julho de 2000, e 10.266, de 24 de julho de 2001, que dispõem sobre as diretrizes para a elaboração das leis orçamentárias de 2001 e 2002, respectivamente.

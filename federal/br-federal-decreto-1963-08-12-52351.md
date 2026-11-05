@@ -1,5 +1,3 @@
-###DEC-052351-0-000-12-08-1963@@@
-
 DECRETO Nº 52.351, DE 12 DE AGÔSTO de 1963.
 
 Altera a denominação de estabelecimento de ensino.

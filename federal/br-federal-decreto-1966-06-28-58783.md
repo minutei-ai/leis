@@ -1,5 +1,3 @@
-###DEC-058783-0-000-28-06-1966@@@
-
 Decreto nº 58.783, de 28 de junho de 1966.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. – PETROBRÁS – área de terreno e benfeitorias situadas no município de Betim, Estado de Minas Gerais.

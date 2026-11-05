@@ -1,5 +1,3 @@
-###DEC-087249-0-000-07-06-1982@@@
-
 Decreto nº 87.249, de 07 de junho de 1982
 
 Dispõe sobre o Sistema de Investigação e Prevenção de Acidentes Aeronáuticos e dá outras providências.

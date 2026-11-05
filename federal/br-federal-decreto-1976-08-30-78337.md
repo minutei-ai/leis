@@ -1,5 +1,3 @@
-###DEC-078337-0-000-30-08-1976@@@
-
 DECRETO Nº 78.337, DE 30 DE AGOSTO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-065145-0-000-12-09-1969@@@
-
 DECRETO Nº 65.145 - DE 12 DE SETEMBRO DE 1969.
 
 Institui o Sistema de Contra-Incêndio do Ministério da Aeronáutica e dá outras providências.

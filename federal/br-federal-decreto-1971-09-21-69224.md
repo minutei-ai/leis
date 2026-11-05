@@ -1,5 +1,3 @@
-###DEC-069224-0-000-21-09-1971@@@
-
 decreto nº 69.224, de 21 de setembro de 1971.
 
 Torna sem efeito aproveitamento de disponível e dá outras providências.

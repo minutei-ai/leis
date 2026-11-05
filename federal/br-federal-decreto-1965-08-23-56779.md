@@ -1,5 +1,3 @@
-###DEC-056779-0-000-23-08-1965@@@
-
 DECRETO Nº 56.779, DE 23 DE AGÔSTO DE 1965.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a ampliar as suas instalações.

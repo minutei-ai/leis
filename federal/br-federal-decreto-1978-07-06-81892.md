@@ -1,5 +1,3 @@
-###DEC-081892-0-000-06-07-1978@@@
-
 Decreto nº 81.892, de 06 de julho de 1978
 
 Autoriza a permuta dos terrenos que menciona, situados no Distrito Federal.

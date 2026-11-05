@@ -1,5 +1,3 @@
-###DEL-007747-0-000-16-07-1945@@@
-
 DECRETO-LEI N. 7.747 – DE 16 DE JULHO DE 1945
 
 Dá nova redação ao art. 170 e seus parágrafos, do Decreto-lei nº 5.844, de 23 de setembro de 1943.

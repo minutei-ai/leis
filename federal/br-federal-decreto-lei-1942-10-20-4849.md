@@ -1,5 +1,3 @@
-###DEL-004849-0-000-20-10-1942@@@
-
 DECRETO-LEI N. 4.849 – DE 20 DE OUTUBRO DE 1942
 
 Incorpora à Rede Mineira de Viação o ramal de Goiandira a Ouvidor, da Estrada de Ferro de Goiaz

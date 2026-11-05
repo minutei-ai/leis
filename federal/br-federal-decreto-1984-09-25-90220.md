@@ -1,5 +1,3 @@
-###DEC-090220-0-000-25-09-1984@@@
-
 Decreto nº 90.220, de 25 de setembro de 1984
 
 Extingue Organizações Militares no Ministério do Exército e dá outras providências.

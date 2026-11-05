@@ -1,5 +1,3 @@
-###DEC-077621-0-000-17-05-1976@@@
-
 Decreto nº 77.621, de 17 de maio de 1976
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Santo Ângelo, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095785-0-000-04-03-1988@@@
-
 DECRETO Nº 95.785, DE 4 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Santa Marta  Lote 22, Gleba 3, 2ª Etapa  Loteamento Praia Chata", classificado como latifúndio por exploração, situado no Município de São Sebastião do Tocantins, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047930-0-000-15-03-1960@@@
-
 DECRETO Nº 47.930, DE 15 DE MARÇO DE 1960.
 
 Altera, sem aumento de despesa, o Decreto nº 40.870, de 7 de fevereiro de 1957 e dá outras providências.
@@ -22,7 +20,77 @@ Art. 2º Fica transformada a denominação das funções gratificadas, abaixo di
 
 DEPARTAMENTO NACIONAL DE ENDEMIAS RURAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação anterior</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação nova</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Contrôle Antiestegômico do Serviço Nacional de Febre Amarela, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção Industrial FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Epidemiologia do Serviço Nacional de Febre Amarela, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Estatística e Epidemilogia, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Vacinação do Serviço Nacional de Febre Amarela, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Profilaxia e Contrôle, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Viscerotomia do Serviço Nacional de Febre Amarela, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Educação Sanitária, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor, FG-4</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor da Divisão de Profilaxia, FG-4.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Administração do Serviço Nacional de Febre Amarela, FG-3.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Orçamento e Pessoal, FG-3.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 Chefe de Setor da Circunscrição Sueste do Serviço Nacional de Febre Amarela, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 Chefe de Setor de Circunscrição, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe do Instituto de Malariologia do Serviço Nacional de Malária, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe do Centro de Pesquisas de Belo Horizonte, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Pequena Hidráulica do Serviço Nacioal de Malária, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Engenharia Sanitária, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Organização e Contrôle do Serviço Nacional de Malária, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção Técnica, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Epidemiologia do Serviço Nacional de Malária, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe do Núcleo Central, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Administração do Serviço Nacional de Malária, FG-3.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Comunicações, FG-3.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor, FG-4.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor do I.N.E.Ru., FG-4.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Epidemiologia do Serviço Nacional de Peste, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Cooperação, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Organização e Contrôle do Serviço Nacioal de Peste, FG-2.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Seção de Divulgação, FG-2.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Administração do Serviço Nacional de Peste, FG-3.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Material e Transportes, FG-3.</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor, FG-4.</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Secretário do Diretor da Divisão de Cooperação e Divulgação, FG-4.</span></p></td></tr></tbody></table>
+Situação anterior
+
+Situação nova
+
+1 Chefe da Secção de Contrôle Antiestegômico do Serviço Nacional de Febre Amarela, FG-2.
+
+1 Chefe da Secção Industrial FG-2.
+
+1 Chefe da Secção de Epidemiologia do Serviço Nacional de Febre Amarela, FG-2.
+
+1 Chefe da Secção de Estatística e Epidemilogia, FG-2.
+
+1 Chefe da Secção de Vacinação do Serviço Nacional de Febre Amarela, FG-2.
+
+1 Chefe da Secção de Profilaxia e Contrôle, FG-2.
+
+1 Chefe da Secção de Viscerotomia do Serviço Nacional de Febre Amarela, FG-2.
+
+1 Chefe da Secção de Educação Sanitária, FG-2.
+
+1 Secretário do Diretor, FG-4
+
+1 Secretário do Diretor da Divisão de Profilaxia, FG-4.
+
+1 Chefe da Secção de Administração do Serviço Nacional de Febre Amarela, FG-3.
+
+1 Chefe da Secção de Orçamento e Pessoal, FG-3.
+
+7 Chefe de Setor da Circunscrição Sueste do Serviço Nacional de Febre Amarela, FG-2.
+
+7 Chefe de Setor de Circunscrição, FG-2.
+
+1 Chefe do Instituto de Malariologia do Serviço Nacional de Malária, FG-2.
+
+1 Chefe do Centro de Pesquisas de Belo Horizonte, FG-2.
+
+1 Chefe da Secção de Pequena Hidráulica do Serviço Nacioal de Malária, FG-2.
+
+1 Chefe da Secção de Engenharia Sanitária, FG-2.
+
+1 Chefe da Secção de Organização e Contrôle do Serviço Nacional de Malária, FG-2.
+
+1 Chefe da Secção Técnica, FG-2.
+
+1 Chefe da Secção de Epidemiologia do Serviço Nacional de Malária, FG-2.
+
+1 Chefe do Núcleo Central, FG-2.
+
+1 Chefe da Secção de Administração do Serviço Nacional de Malária, FG-3.
+
+1 Chefe da Secção de Comunicações, FG-3.
+
+1 Secretário do Diretor, FG-4.
+
+1 Secretário do Diretor do I.N.E.Ru., FG-4.
+
+1 Chefe da Secção de Epidemiologia do Serviço Nacional de Peste, FG-2.
+
+1 Chefe da Secção de Cooperação, FG-2.
+
+1 Chefe da Secção de Organização e Contrôle do Serviço Nacioal de Peste, FG-2.
+
+1 Chefe da Seção de Divulgação, FG-2.
+
+1 Chefe da Secção de Administração do Serviço Nacional de Peste, FG-3.
+
+1 Chefe da Secção de Material e Transportes, FG-3.
+
+1 Secretário do Diretor, FG-4.
+
+1 Secretário do Diretor da Divisão de Cooperação e Divulgação, FG-4.
 
 Art. 3º A despesa com a execução dêste Decreto continuará a ser atendida pela dotação orçamentária própria.
 

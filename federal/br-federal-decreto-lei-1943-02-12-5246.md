@@ -1,5 +1,3 @@
-###DEL-005246-0-000-12-02-1943@@@
-
 DECRETO‑LEI N. 5.246 – DE 12 DE FEVEREIRO DE 1943
 
 Autoriza o Ministro da Agricultura a baixar as instruções a que se refere a letra "c" da cláusula 5ª do Acordo firmado entre o Governo Brasileiro a o Governo Norte‑Americano

@@ -1,5 +1,3 @@
-###DEL-003103-0-000-12-03-1941@@@
-
 DECRETO-LEI N. 3.103 – DE 12 DE MARÇO DE 1941
 
 Orça a Receita e fixa a despesa para execução no exercício de 1943 do “Plano Especial de Obras Públicas e Aparelhamento da Defesa Nacional,”.

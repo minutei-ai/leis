@@ -1,5 +1,3 @@
-###DEC-045196-0-000-31-12-1958@@@
-
 DECRETO Nº 45.196, DE 31 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - Petrobrás, em caráter de urgência, o imóvel que menciona.

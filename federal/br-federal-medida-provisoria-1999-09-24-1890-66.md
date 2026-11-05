@@ -1,5 +1,3 @@
-###MPV-001890-0-066-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.890-66, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre o valor total anual das mensalidade escolares e dá outras providências.

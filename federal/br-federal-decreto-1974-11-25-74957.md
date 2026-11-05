@@ -1,5 +1,3 @@
-###DEC-074957-0-000-25-11-1974@@@
-
 DECRETO Nº 74.957, DE 25 DE NOVEMBRO DE 1974.
 
 Altera o Quadro de Pessoal do extinto Ministério da Viação e Obras públicas, e dá outras providências.

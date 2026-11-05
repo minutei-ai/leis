@@ -1,5 +1,3 @@
-###DEC-060095-0-000-19-01-1967@@@
-
 DECRETO Nº 60.095, DE 19 DE JANEIRO DE 1967.
 
 Altera a Ordenança Geral para o Serviço da Armada, aprovada pelo Decreto número 8.726, de 6 de fevereiro de 1942.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099124-0-000-09-03-1990@@@
-
 DECRETO Nº 99.124, DE 9 DE MARÇO DE 1990
 
 Outorga concessão à Televisão Exclusiva Ltda., para explorar Serviço Especial de Televisão por Assinatura - TVA, na região metropolitana de Curitiba, Estado do Paraná.

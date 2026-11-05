@@ -1,5 +1,3 @@
-###DEC-078665-0-000-04-11-1976@@@
-
 DECRETO Nº 78.665, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Medicina, da Escola de Medicina, da Fundação Técnico Educacional Souza Marques, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

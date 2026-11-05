@@ -1,5 +1,3 @@
-###DEL-009774-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.774 – DE 6 DE SETEMBRO DE 1946
 
 Desincorpora a Estrada de Ferro Central do Piauí da Estrada de Ferro São Luís a Terezina, e dá outras providências.

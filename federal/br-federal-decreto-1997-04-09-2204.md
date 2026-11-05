@@ -1,5 +1,3 @@
-###DEC-002204-0-000-09-04-1997@@@
-
 DECRETO Nº 2.204, DE 9 DE ABRIL DE 1997
 
 Dá nova redação aos arts. 7º e 8º da Estrutura Regimental do Departamento Nacional de Estradas de Rodagem - DNER, aprovada pelo art. 2º do Decreto nº 1.911, de 21 de maio de 1996.

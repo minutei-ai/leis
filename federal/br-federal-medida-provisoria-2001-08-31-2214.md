@@ -1,5 +1,3 @@
-###MPV-002214-0-000-31-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.214, DE 31 DE AGOSTO DE 2001
 
  Altera o art. 1º da Lei nº 10.261, de 12 de julho de 2001, que desvincula, parcialmente, no exercício de 2001, a aplicação dos recursos de que tratam os arts. 48, 49 e 50 da Lei nº 9.478, de 6 de agosto de 1997, pertencentes à União.

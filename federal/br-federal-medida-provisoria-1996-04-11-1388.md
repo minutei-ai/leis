@@ -1,7 +1,3 @@
-1
-
-###MPV-001388-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.388, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

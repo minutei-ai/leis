@@ -1,5 +1,3 @@
-###DEC-081308-0-000-03-02-1978@@@
-
 Decreto n.° 81.308, de 03 de fevereiro de 1978.
 
 Revigora o Decreto n° 69.618, de 30 de novembro de 1971, que dispõe sobre a isenção do IPI nos produtos destinados à construção, instalação, ampliação ou modernização e sedes de embaixadas e repartições consulares.

@@ -1,5 +1,3 @@
-###DEL-007852-0-000-11-08-1945@@@
-
 DECRETO-LEI N. 7.852 – DE 11 DE AGÔSTO DE 1945
 
 Cria coletorias federais no Território de Iguaçu e dá outras providências.

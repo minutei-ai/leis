@@ -1,5 +1,3 @@
-###DEC-064398-0-000-24-04-1969@@@
-
 decreto nº 64.398, de 24 de abril de 1969.
 
 Regulamenta a Lei nº 5.433, de 8 de maio de 1968, que dispõe sôbre a microfilmagem de documentos e dá outras providências.

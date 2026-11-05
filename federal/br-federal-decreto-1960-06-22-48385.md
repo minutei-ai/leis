@@ -1,5 +1,3 @@
-###DEC-048385-0-000-22-06-1960@@@
-
 DECRETO Nº 48.385, DE 22 DE JUNHO DE 1960.
 
 Outorga concessão à Rádio Difusora São Paulo Sociedade Anônima para instalar uma estação radiodifusora.

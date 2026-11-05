@@ -1,7 +1,3 @@
-1
-
-###DEC-002037-0-000-15-10-1996@@@
-
 DECRETO Nº 2.037, de 15 de outubro de 1996.
 
 Consolida as normas sobre aplicação de recursos do Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização.

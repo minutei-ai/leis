@@ -1,5 +1,3 @@
-###DEC-044909-0-000-28-11-1958@@@
-
 DECRETO Nº 44.909, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza Mineração Hanna do Brasil Ltda. a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

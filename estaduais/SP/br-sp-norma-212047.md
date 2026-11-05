@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212047)<br>
-
 # DECRETO N° 70.241, DE 19 DE DEZEMBRO DE 2025
 
 ### _Transfere o cargo que especifica e dá providências correlatas._

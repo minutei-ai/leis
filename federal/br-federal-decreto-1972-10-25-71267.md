@@ -1,5 +1,3 @@
-###DEC-071267-0-000-25-10-1972@@@
-
 decreto nº 71.267 - de 25 de outubro de 1972.
 
 Regulamenta o Decreto-lei nº 1.177, de 21 de junho de 1971, que dispõe sobre aerolevantamentos no território nacional, e dá outras providências.

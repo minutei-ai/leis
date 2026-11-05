@@ -1,7 +1,3 @@
-1
-
-###DEC-097850-0-000-20-06-1989@@@
-
 DECRETO Nº 97.850, DE 20 DE JUNHO DE 1989
 
 Altera o Decreto nº 91.237, de 8 de maio de 1985, que dispõe sobre a programação e a execução financeiras do Programa de Integração Nacional  \- PIN e do Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste -  PROTERRA e dá outras providências.

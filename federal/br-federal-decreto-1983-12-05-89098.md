@@ -1,5 +1,3 @@
-###DEC-089098-0-000-05-12-1983@@@
-
 DECRETO Nº 89.098, de 05 de dezembro de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

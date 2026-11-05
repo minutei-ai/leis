@@ -1,5 +1,3 @@
-###DEC-065267-0-000-03-10-1969@@@
-
 DECRETO Nº 65.267 - DE 3 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Liga de Defesa Contra a Tuberculose, com sede em Antonina, Estado do Paraná.

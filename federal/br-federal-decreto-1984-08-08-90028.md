@@ -1,5 +1,3 @@
-###DEC-090028-0-000-08-08-1984@@@
-
 DECRETO Nº 90.028, DE 08 DE AGOSTO DE 1984
 
 Cria o 3º Batalhão de Suprimento, no Ministério do Exército, e dá outras providências.

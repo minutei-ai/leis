@@ -1,5 +1,3 @@
-###DEC-064696-0-000-12-06-1969@@@
-
 DECRETO Nº 64.696, DE 12 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 7.475, de 2 de julho de 1941.

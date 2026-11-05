@@ -1,5 +1,3 @@
-###MPV-001666-0-000-05-06-1998@@@
-
 # MEDIDA PROVISÓRiA Nº 1.666, DE 5 DE JUnHO DE 1998
 
 Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Planejamento e Orçamento, da Agricultura e Abastecimento, e do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal crédito extraordinário no valor de R$824.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEC-062435-0-000-20-03-1968@@@
-
 DECRETO Nº 62.435, DE 20 DE MARÇO DE 1968.
 
 Declara de Utilidade Pública a “Maternidade do Povo” com sede em Belém, no Estado do Pará.

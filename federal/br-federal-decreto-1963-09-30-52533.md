@@ -1,5 +1,3 @@
-###DEC-052533-0-000-30-09-1963@@@
-
 Decreto nº 52.533, de 30 de setembro de 1963.
 
 Retifica os arts. 1º e 3º inciso I, do Decreto nº 49.732, de 31 de dezembro de 1960, que outorgou ao Estado da Bahia concessão para distribuir energia elétrica no município de Jaguaripe.

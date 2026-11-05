@@ -1,7 +1,3 @@
-1
-
-###LCP-000072-0-000-29-01-1993@@@
-
 # LEI COMPLEMENTAR N° 72, DE 29 DE JANEIRO DE 1993
 
 Prorroga a lei que estabelece normas sobre o cálculo, a entrega e o controle das liberações dos recursos dos Fundos de Participação e dá outras providências.

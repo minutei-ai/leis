@@ -1,5 +1,3 @@
-###DEC-062474-0-000-27-03-1968@@@
-
 DECRETO Nº 62.474, DE 27 DE MARÇO DE 1968.
 
 Delega ao Ministro da Saúde competência para designar os membros do Conselho Consultivo de Erradicação da Malária, da Comissão Nacional de Hemoterapia e dá nova redação ao art. 4º do Decreto nº 55.242, de 18 de dezembro de 1964, que reestruturou o Conselho Nacional de Saúde.

@@ -1,5 +1,3 @@
-###MPV-001676-0-036-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.676-36, DE 27 DE AGOSTO DE 1998
 
 Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências.

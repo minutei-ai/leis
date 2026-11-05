@@ -1,7 +1,3 @@
-1
-
-###DEC-095874-0-000-25-03-1988@@@
-
 DECRETO N° 95.874, DE 25 DE MARÇO DE 1988
 
 Concede autorização ao navio de pesquisa "AKADEMIK NICOLAI STRAKHOV", de bandeira soviética, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

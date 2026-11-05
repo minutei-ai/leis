@@ -7,7 +7,6 @@ versao: "versão original publicada no Diário Oficial do Estado de Mato Grosso 
 sha256_pdf: "c2eb39338ab5c0677a7641076ff1cbbbbd449a514e8dc9678ecf90cc5f573fd7"
 sha256_markdown: "8b676d0062e5531671bd587b7815d685034c89f145dc8f1a70590201d4cc23f6"
 ---
-
 # LEI Nº 1.861, DE 3 DE JULHO DE 1998.
 
 Versão original, publicada no Diário Oficial do Estado de Mato Grosso do Sul nº 4.807, de 6 de julho de 1998, páginas 3 e 4. As páginas 3 e 4, que contêm a lei inteira (ementa, artigos e assinatura) e os Anexos I e II, são reproduzidas em fac-símile ao final e são a representação integral e autoritativa do ato. O texto abaixo é uma transcrição auxiliar do articulado, feita para facilitar a leitura e a busca; em caso de diferença, vale a imagem. Esta versão não incorpora alterações posteriores.
@@ -16,7 +15,8 @@ LEI Nº 1.861, DE 3 DE JULHO DE 1998.
 
 Cria o Fundo Especial de Apoio e Desenvolvimento do Ministério Público – FEADMP/MS, e dá outras providências
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
 Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
 Art. 1° Fica criado o Fundo Especial de Apoio e Desenvolvimento do Ministério Público – FEADMP/MS, destinado a prover recursos para aprimoramento das atividades desenvolvidas pelo Ministério Público Estadual.
@@ -63,7 +63,8 @@ Art. 8° Esta Lei entrará em vigor na data de sua publicação.
 
 Campo Grande, 3 de julho de 1998.
 
-WILSON BARBOSA MARTINS<br>
+WILSON BARBOSA MARTINS
+
 Governador
 
 ## Lei e Anexos I e II em fac-símile (páginas originais)

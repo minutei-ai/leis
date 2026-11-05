@@ -1,5 +1,3 @@
-###DEC-057263-0-000-16-11-1965@@@
-
 DECRETO Nº 57.263, DE 16 DE Novembro de 1965.
 
 Transfere do Município de Campo Belo para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica e dá outras providências.

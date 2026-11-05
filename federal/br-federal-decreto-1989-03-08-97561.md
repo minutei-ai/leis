@@ -1,7 +1,3 @@
-1
-
-###DEC-097561-0-000-08-03-1989@@@
-
 # DECRETO N° 97.561, DE 8 DE MARÇO DE 1989
 
 Autoriza a Escola Técnica Federal do Maranhão a organizar e manter cursos de nível superior de ensino.

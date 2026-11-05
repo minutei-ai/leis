@@ -1,5 +1,3 @@
-###DEL-001495-0-000-09-12-1976@@@
-
 # DECRETO-LEI Nº 1.495, DE 9 DE DEZEMBRO DE 1976
 
 Retifica o Decreto-lei nº 1.480, de 9 de setembro de 1976.

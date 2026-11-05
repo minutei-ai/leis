@@ -1,5 +1,3 @@
-###DEC-069450-0-000-01-11-1971@@@
-
 DECRETO Nº 69.450 - DE 1 DE NOVEMBRO DE 1971
 
 Regulamenta o artigo 22 da Lei número 4.024, de 20 de dezembro de 1961, e alínea c do artigo 40 da Lei 5.540, de 28 de novembro de 1968 e dá outras providências.

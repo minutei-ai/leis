@@ -1,5 +1,3 @@
-###DEL-007789-0-000-27-07-1945@@@
-
 DECRETO-LEI N. 7.789 – DE 27 DE JULHO DE 1945
 
 Altera e transfere carreiras do Quadro Suplementar para o Quadro Permanente do Ministério da Marinha e dá outras providências.

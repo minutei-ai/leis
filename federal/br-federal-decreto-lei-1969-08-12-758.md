@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/01bb5ae9-88b3-4fb2-b68d-bc66029ca462/texto#nowhere)
 
-###DEL-000758-0-000-12-08-1969@@@
-
 DECRETO-LEI nº 758, DE 12 DE AGÔSTO DE 1969
 
 Autoriza o Govêrno do Estado do Paraná a celebrar operação de financiamento externo.

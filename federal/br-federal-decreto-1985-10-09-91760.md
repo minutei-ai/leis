@@ -1,5 +1,3 @@
-###DEC-091760-0-000-09-10-1985@@@
-
 Decreto nº 91.760, de 9 de outubro de 1985.
 
 Declara luto Oficial pelo falecimento do ex-Presidente da República, General Emílio Garrastazu Médici.

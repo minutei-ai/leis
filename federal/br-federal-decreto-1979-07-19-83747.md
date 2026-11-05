@@ -1,5 +1,3 @@
-###DEC-083747-0-000-19-07-1979@@@
-
 Decreto nº 83.747, de 19 de julho de 1979.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Queluz, Estado de São Paulo.

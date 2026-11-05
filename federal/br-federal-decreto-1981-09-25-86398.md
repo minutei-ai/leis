@@ -1,5 +1,3 @@
-###DEC-086398-0-000-25-09-1981@@@
-
 Decreto nº 86.398, de 25 de setembro de 1981
 
 Altera dispositivo do Decreto nº 85.324, de 05 de novembro de 1980, que dispõe sobre os Quadros de Oficiais do Corpo de Oficiais da Ativa da Aeronáutica.

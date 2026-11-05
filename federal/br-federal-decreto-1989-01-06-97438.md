@@ -1,5 +1,3 @@
-###DEC-097438-0-000-06-01-1989@@@
-
 DECRETO N.° 97.438, DE 6 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte dos imóveis rurais denominados Seringal Santa Cruz e Seringal Canaã Central, classificado como latifúndio por exploração, situados nos Municípios de Jarú e Porto Velho, no Estado de Rondônia, compreendidos na zona prioritária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

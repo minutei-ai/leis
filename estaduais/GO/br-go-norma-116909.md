@@ -12,8 +12,10 @@ Goiânia, 25 de agosto de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-CORONEL ADAILTON<br>
+CORONEL ADAILTON
+
 Deputado Estadual

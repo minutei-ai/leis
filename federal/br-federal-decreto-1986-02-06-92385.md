@@ -1,5 +1,3 @@
-###DEC-092385-0-000-06-02-1986@@@
-
 DECRETO Nº 92.385, DE 06 DE FEVEREIRO DE 1986
 
 Regulamenta o artigo 2º da Lei nº 7.451, de 26 de dezembro de 1985, e dá outras providências.

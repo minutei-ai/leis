@@ -1,5 +1,3 @@
-###DEC-061818-0-000-04-12-1967@@@
-
 DECRETO Nº 61.818, DE 4 DE DEZEMBRO DE 1967.
 
 Outorga concessão à Rádio Difusora Três Passos Ltda. para estabelecer uma estação de radiodifusão sonora na cidade de Três Passos, Estado do Rio Grande do Sul.

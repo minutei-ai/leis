@@ -1,5 +1,3 @@
-###DEC-051863-0-000-25-03-1963@@@
-
 DECRETO Nº 51.863, DE 25 DE MARÇO DE 1963.
 
 Prorroga o prazo a que se refere os artigos 2º do Decreto nº 814 de 31 de março de 1962 e 1º dos Decretos números 1.396 de 19 de setembro de 1962 e 1.878, de 13 de dezembro de 1962.

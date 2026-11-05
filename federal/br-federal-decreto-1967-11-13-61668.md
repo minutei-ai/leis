@@ -1,5 +1,3 @@
-###DEC-061668-0-000-13-11-1967@@@
-
 DECRETO nº 61.668, DE 13 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de NCr$22.200,00 para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-007043-0-000-22-12-2009@@@
-
 DECRETO Nº 7.043, DE 22 DE DEZEMBRO DE 2009.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria Especial de Políticas para as Mulheres, da Presidência da República, e dá outras providências.

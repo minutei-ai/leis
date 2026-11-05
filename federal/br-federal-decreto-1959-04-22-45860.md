@@ -1,5 +1,3 @@
-###DEC-045860-0-000-22-04-1959@@@
-
 DECRETO Nº 45.860, DE 22 DE ABRIL DE 1959.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura.

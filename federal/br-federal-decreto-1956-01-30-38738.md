@@ -1,32 +1,30 @@
-###DEC-038738-0-000-30-01-1956@@@
+**DECRETO Nº 38.738, DE 30 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.738, DE 30 DE JANEIRO DE 1956.</strong>
+***Aprova o Regimento do Instituto Nacional de Surdos-Mudos.***
 
-<em><strong>Aprova o Regimento do Instituto Nacional de Surdos-Mudos.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento Instituto Nacional de Surdos-Mudos, do Ministério da Educação e Cultura, que com êste baixa, assinado pelo titular de referida pasta.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento Instituto Nacional de Surdos-Mudos, do Ministério da Educação e Cultura, que com êste baixa, assinado pelo titular de referida pasta.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 30 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Abgar Renault
 
-<strong>REGIMENTO DO INSTITUTO NACIONAL DE SURDOS-MUDOS</strong>
+**REGIMENTO DO INSTITUTO NACIONAL DE SURDOS-MUDOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS FINALIDADES</em>
+*DAS FINALIDADES*
 
-<strong>Art</strong>. 1º O Instituto Nacional de Surdos-Mudos (INSM) órgão integrante do Ministério da Educação e Cultura (M.E.C.), diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Instituto Nacional de Surdos-Mudos (INSM) órgão integrante do Ministério da Educação e Cultura (M.E.C.), diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 a) dar orientação, assistência e educação aos indivíduos surdos de ambos os sexos, em idade pré-escolar, escolar e adulta, através dos postulados da pedagogia emendativa;
 
@@ -56,7 +54,7 @@ m) organizar, periódicamente, para todos os servidores do Instituto, cursos sô
 
 n) elaborar manuais, compêndios ou outras publicações de caráter técnico-científico relativas ao deficiente da audição e da palavra, no que concerne às últimas aquisições da ciência.
 
-<strong>Art</strong>. 2º Para atender às finalidades de que trata o artigo anterior a direção do I.N.S.M., valer-se-á de recursos próprios ou da cooperação de pessôas idôneas e tomará, entre outras, as seguintes providências:
+**Art**. 2º Para atender às finalidades de que trata o artigo anterior a direção do I.N.S.M., valer-se-á de recursos próprios ou da cooperação de pessôas idôneas e tomará, entre outras, as seguintes providências:
 
 a) estimulará nos alunos o gôsto e o hávito do trabalho, a noção do dever e senso de responsabilidade, providenciando, de acôrdo com as conveniências e necessidades do Instituto, o ensino de tarefas compatíveis com as suas possibilidades;
 
@@ -78,11 +76,11 @@ i) empenhar-se-á pelo aproveitamento em repartições públicas federais, munic
 
 j) manterá contrato permanentes com os deficientes da audição e da palavra, educados, reeducados ou empregados, seus empregadores e companheiros de trabalho, com a finalidade de descobrir, estudar, observar e resolver os seus problemas de desajustamento emocional, social ou econômico.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 3º O I.N.S.M. compõe-se de:
+**Art**. 3º O I.N.S.M. compõe-se de:
 
 Seção de Administração (S.A.);
 
@@ -98,19 +96,19 @@ Portaria (P.);
 
 Parágrafo único. A Z. e a P. serão subordinadas diretamente à S.A.
 
-<strong>Art</strong>. 4º O Diretor do I.N.S.M. será nomeado em comissão, pelo Presidente da República mediante proposta do Ministro do Estado.
+**Art**. 4º O Diretor do I.N.S.M. será nomeado em comissão, pelo Presidente da República mediante proposta do Ministro do Estado.
 
-<strong>Art</strong>. 5º O Diretor do I.N.S.M. terá três assessores, especializados, em orientação educacional, planejamento e pesquisas educacionais e assistência social, além de um secretário.
+**Art**. 5º O Diretor do I.N.S.M. terá três assessores, especializados, em orientação educacional, planejamento e pesquisas educacionais e assistência social, além de um secretário.
 
-<strong>Art</strong>. 6º São gratificadas as funções de Chefe de Seção, Chefe de Zeladoria, Chefe de Portaria, Chefe de Disciplina e Secretário do Diretor.
+**Art**. 6º São gratificadas as funções de Chefe de Seção, Chefe de Zeladoria, Chefe de Portaria, Chefe de Disciplina e Secretário do Diretor.
 
-<strong>Art</strong>. 7º Os órgãos que integram o I.N.S.M. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor.
+**Art**. 7º Os órgãos que integram o I.N.S.M. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 8º A S.A. compete a execução das medidas relativas a administração geral do I.N.S.M. devendo para tanto:
+**Art**. 8º A S.A. compete a execução das medidas relativas a administração geral do I.N.S.M. devendo para tanto:
 
 a) receber, registrar, distribuir, expedir e arquivar documentos relativos às atividades do Instituto controlando o respectivo andamento;
 
@@ -144,7 +142,7 @@ p) manter atualizada a escrituração do movimento financeiro interno e externo 
 
 Parágrafo único. A S.A. deverá funcionar perfeitamente articulada com o Departamento de Administração do Ministério, observando as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>Art</strong>. 9º À S.E. compete:
+**Art**. 9º À S.E. compete:
 
 I - coordenar o ensino ministrado nos diferentes graus, promovendo as condições para a equilibrada formação e desenvolvimento da personalidade das crianças deficientes da audição e da palavra, mediante cursos;
 
@@ -170,9 +168,9 @@ III - selecionar e distribuir os alunos depois de examinados pela S.C.P.M.P.
 
 § 5º A “educação física, recreação e jogos”, será ministrada aos alunos de todos os cursos.
 
-<strong>Art</strong>. 10. Serão designados pelo Diretor assistentes para os diferentes graus de ensino, para auxiliarem o Chefe da S.E.; na execução e verificação de trabalhos escolares, sem outra remuneração que o vencimento ou salário do cargo que ocupam.
+**Art**. 10. Serão designados pelo Diretor assistentes para os diferentes graus de ensino, para auxiliarem o Chefe da S.E.; na execução e verificação de trabalhos escolares, sem outra remuneração que o vencimento ou salário do cargo que ocupam.
 
-<strong>Art</strong>. 11. À S.C.P.M.P. compete zelar pela saúde dos alunos do I.N.S.M., devendo para tanto:
+**Art**. 11. À S.C.P.M.P. compete zelar pela saúde dos alunos do I.N.S.M., devendo para tanto:
 
 a) realizar, no início do ano e periódicamente, exames, clínicos, otorrinolaringológicos, oftalmológicos, biométricos e buco-dentários nos candidatos à matrícula e alunos do I.N.S.M, selecionando-os e classificando-os para estudos ou posterior tratamento, quando fôr o caso;
 
@@ -198,7 +196,7 @@ a) clínica: geral, otorrinolaringológica e oftalmologica, pediátrica, neurol�
 
 b) cirurgia: geral, otorrinolaringológica e oftalmológica e dentária.
 
-<strong>Art</strong>. 12. À S.P.A.P. compete:
+**Art**. 12. À S.P.A.P. compete:
 
 I - promover a preparação especializada de pessoal docente para deficientes da audição e da palavra, ou mediante entendimento com instituições especializadas ou interessadas, para portadores de outra deficiência;
 
@@ -208,7 +206,7 @@ III - habilitar auxiliares de educação dos deficientes da audição e da palav
 
 IV - desenvolver e prorrogar os conhecimentos e técnicas relativas à educação de deficientes da audição e da palavra, inclusive através de cursos de extensão.
 
-<strong>Art</strong>. 13. À Z. compete:
+**Art**. 13. À Z. compete:
 
 I - providenciar a limpeza das dependências e a vigilância diurna e noturna dos edifícios e dos terrenos do I.N.S.M.;
 
@@ -220,7 +218,7 @@ IV - providenciar a lavagem de roupa de cama, mesa e de uso pessoal dos alunos;
 
 V - zelar pela ordem, conservação e limpeza dos dormitórios do I.N.S.M.
 
-<strong>Art</strong>. 14. À P. compete:
+**Art**. 14. À P. compete:
 
 I - abrir e fechar os portões e portas do edifício diariamente, em horas préviamente fixadas;
 
@@ -232,11 +230,11 @@ IV - zelar pelo relógio de ponto providenciando a mudança dos cartões;
 
 V - fiscalizar a saída de volumes, e especialmten de artefatos confeccionados no I.N.S.M.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 15. Ao Diretor do I.N.S.M. incumbe:
+**Art**. 15. Ao Diretor do I.N.S.M. incumbe:
 
 a) dirigir as atividades técno-administrativas do I.N.S.M. e coordenar, orientar, planejar e promover estudos e pesquisas que visem a atualização e o aperfeiçoamento das técnicas de ensino e de assistência aos deficientes da audição e da palavra;
 
@@ -280,7 +278,7 @@ t) impor penas aos alunos, inclusive desligamento e determinar quais as que deve
 
 u) autorizar e fiscalizar a aplicação dos créditos orçamentários e adicionais concedidos ao I.N.S.M.
 
-<strong>Art</strong>. 16. Aos Chefes da S.E., da S.C.P.M.P., da S.P.A.P. e da S.A. incumbe dirigir os trabalhos respectivos, devendo, para tanto:
+**Art**. 16. Aos Chefes da S.E., da S.C.P.M.P., da S.P.A.P. e da S.A. incumbe dirigir os trabalhos respectivos, devendo, para tanto:
 
 a) distribuir o pessoal pelos diversos setores, de acôrdo com a conveniência do serviço;
 
@@ -298,9 +296,9 @@ g) propor ao Diretor a organização e alterção subsequente da escala de féri
 
 h) apresentar ao Diretor relatório dos trabalhos realizados, em andamento e planejados.
 
-<strong>Art</strong>. 17. Aos assessores de Diretor incumbe o estudo de assuntos de natureza técnica que lhe forem indicados pelo Diretor.
+**Art**. 17. Aos assessores de Diretor incumbe o estudo de assuntos de natureza técnica que lhe forem indicados pelo Diretor.
 
-<strong>Art</strong>. 18. Ao Secretário do Diretor incumbe:
+**Art**. 18. Ao Secretário do Diretor incumbe:
 
 a) atender as pessoas que desejarem comunicar-se com o Diretor, encaminhando-se a êste ou dando conhecimento do assunto a tratar;
 
@@ -308,7 +306,7 @@ b) representar o Diretor, quando para isso fôr designado; e
 
 c) redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 19. Ao Chefe de Zeladoria incumbe:
+**Art**. 19. Ao Chefe de Zeladoria incumbe:
 
 a) dirigir, coordenar e fiscalizar os trabalhos a cargo da Zeladoria;
 
@@ -322,7 +320,7 @@ e) expedir boletim de merecimento aos servidores que lhe forem subordinados;
 
 f) apresentar ao Chefe da S.A., anualmente, relatório dos trabalhos realizados.
 
-<strong>Art</strong>. 20. Ao Chefe da Portaria incumbe:
+**Art**. 20. Ao Chefe da Portaria incumbe:
 
 a) dirigir, coordenar e fiscalizar os trabalhos a cargo da P.;
 
@@ -336,7 +334,7 @@ e) expedir boletins de merecimento aos servidores que lhe forem diretamente subo
 
 f) apresentar ao Chefe da S.A., anualmente, relatório dos trabalhos realizados.
 
-<strong>Art</strong>. 21. Ao Chefe de Disciplina incumbe:
+**Art**. 21. Ao Chefe de Disciplina incumbe:
 
 a) manter, em colaboração com a S.E., a disciplina escolar;
 
@@ -352,7 +350,7 @@ f) tomar conhecimento das penalidades impostas aos alunos pelos inspetores e de 
 
 g) apresentar anualmente ao Diretor relatório de suas atividades;
 
-<strong>Art</strong>. 22. Aos mestres responsáveis pelas diversas modalidades de ensino profissional, industrial incumbe:
+**Art**. 22. Aos mestres responsáveis pelas diversas modalidades de ensino profissional, industrial incumbe:
 
 a) orientar, coordenar e fiscalizar os trabalhos na modalidade que fôr de sua competência;
 
@@ -374,29 +372,29 @@ i) zelar pela conservação do maquinário e demais utensílios referentes ao se
 
 j) apresentar mensalmente ao Chefe da S.A. os livros escriturados.
 
-<strong>Art</strong>. 23. Aos servidores que não tenham atribuições especificadas neste regimento cumpre executar as que lhe forem determinadas pelo chefe imediato.
+**Art**. 23. Aos servidores que não tenham atribuições especificadas neste regimento cumpre executar as que lhe forem determinadas pelo chefe imediato.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 24. O I.N.S.M., terá lotação aprovada em ato especial.
+**Art**. 24. O I.N.S.M., terá lotação aprovada em ato especial.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 25. O horário normal de trabalho do pessoal será fixado pelo Diretor do I.N.S.M;. respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 25. O horário normal de trabalho do pessoal será fixado pelo Diretor do I.N.S.M;. respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 26. O Diretor do I.N.S.M. organizará ouvidos os chefes de seção e da Zeladoria, as escalas de plantão do pessoal;
+**Art**. 26. O Diretor do I.N.S.M. organizará ouvidos os chefes de seção e da Zeladoria, as escalas de plantão do pessoal;
 
-<strong>Art</strong>. 27. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
+**Art**. 27. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 28. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 28. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - O Diretor, por um dos chefes de seção designado pelo Ministro de Estado, mediante indicação do Diretor;
 
@@ -408,41 +406,41 @@ IV - o Chefe de Disciplina, por um inspetor de alunos de sua indicação, design
 
 Parágrafo único. Haverá sempre servidores préviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 29. Será comemorado a 26 de setembro, como festa escolar, o aniversário da fundação do I.N.S.M.
+**Art**. 29. Será comemorado a 26 de setembro, como festa escolar, o aniversário da fundação do I.N.S.M.
 
-<strong>Art</strong>. 30. É vedado aos mestres e ao pessoal das oficinas a realização, no I.N.S.M., de qualquer trabalho de natureza particular.
+**Art**. 30. É vedado aos mestres e ao pessoal das oficinas a realização, no I.N.S.M., de qualquer trabalho de natureza particular.
 
-<strong>Art</strong>. 31. A renda proveniente da venda de artigos encomendados e fabricados no I.N.S.M. será recolhida ao Tesouro Nacional.
+**Art**. 31. A renda proveniente da venda de artigos encomendados e fabricados no I.N.S.M. será recolhida ao Tesouro Nacional.
 
-<strong>Art</strong>. 32. O Diretor do I.N.S.M. poderá assinar acôrdos e convênios desde que para tal, seja devidamente autorizado pelo Ministro de Estado.
+**Art**. 32. O Diretor do I.N.S.M. poderá assinar acôrdos e convênios desde que para tal, seja devidamente autorizado pelo Ministro de Estado.
 
-<strong>Art</strong>. 33. Poderão residir na sede ou prédios situados nos terrenos de I.N.S.M. os servidores que a conveniência do serviço exigir a critério do Diretor.
+**Art**. 33. Poderão residir na sede ou prédios situados nos terrenos de I.N.S.M. os servidores que a conveniência do serviço exigir a critério do Diretor.
 
-<strong>Art</strong>. 34. O período de férias escolares para os diferentes cursos, será o mesmo dos cursos oficiais e equiparados, devendo os alunos passá-lo fora do estabelecimento, podendo, entretanto, o Diretor, com autorização do Ministro de Estado, modificá-lo no interêsse do ensino.
+**Art**. 34. O período de férias escolares para os diferentes cursos, será o mesmo dos cursos oficiais e equiparados, devendo os alunos passá-lo fora do estabelecimento, podendo, entretanto, o Diretor, com autorização do Ministro de Estado, modificá-lo no interêsse do ensino.
 
 § 1º A permanência dos alunos no estabelecimento, durante o período de férias escolares, só será permitida, a juízo do Diretor, no caso de indigência comprovada dos pais ou responsáveis.
 
 § 2º O Diretor poderá providenciar o transporte para os alunos cujos pais ou responsáveis estejam comprovadamente impossibilitados de custeá-lo.
 
-<strong>Art</strong>. 35. Os candidatos à matrícula serão submetidos a exame clínico e aos demais exames e testes necessários à avaliação da sua capacidade e das exigências da educação e reeducação.
+**Art**. 35. Os candidatos à matrícula serão submetidos a exame clínico e aos demais exames e testes necessários à avaliação da sua capacidade e das exigências da educação e reeducação.
 
-<strong>Art</strong>. 36. A capacidade do deficiente da audição e da palavra será aferida, por medidas aplicadas por técnicos em psico-pedagogia, em educação, em orientação profissional, em assistência social e médicos especializados em psiquiátria, em otorrinolaringologia, em clínica geral.
+**Art**. 36. A capacidade do deficiente da audição e da palavra será aferida, por medidas aplicadas por técnicos em psico-pedagogia, em educação, em orientação profissional, em assistência social e médicos especializados em psiquiátria, em otorrinolaringologia, em clínica geral.
 
-<strong>Art</strong>. 37. As matrículas serão concedidas a critério do Diretor e poderão ser solicitadas em qualquer época.
+**Art**. 37. As matrículas serão concedidas a critério do Diretor e poderão ser solicitadas em qualquer época.
 
-<strong>Art</strong>. 38. Aos deficientes da audição e da palavra é assegurada prioridade para a matrícula, podendo o Diretor, em condições especiais e a título de experiência, ouvidos os órgãos competentes, autorizar a admissão no I.N.S.M. de deficientes de outra ordem, ou de indivíduos fisicamente íntegros.
+**Art**. 38. Aos deficientes da audição e da palavra é assegurada prioridade para a matrícula, podendo o Diretor, em condições especiais e a título de experiência, ouvidos os órgãos competentes, autorizar a admissão no I.N.S.M. de deficientes de outra ordem, ou de indivíduos fisicamente íntegros.
 
-<strong>Art</strong>. 39. Farão parte do programa de educação e re-educação dos deficientes da audição e da palavra tôdas as medidas que visem a sua recuperação econômica, física, emocional e social.
+**Art**. 39. Farão parte do programa de educação e re-educação dos deficientes da audição e da palavra tôdas as medidas que visem a sua recuperação econômica, física, emocional e social.
 
 Parágrafo único. Para o cumprimento do disposto neste artigo o Instituto deverá também promover estudos de eletrônica, utilizando as conquistas da técnica moderna e fornecer aos deficientes da audição e da palavra, quando possível e com autorização do Ministro de Estado, aparelhos de prótese auditiva, para auxiliá-los na integração à sociedade.
 
-<strong>Art</strong>. 40. Só terão direito a alimentação e necessidade de serviço, obtiverem autorização do Diretor.
+**Art**. 40. Só terão direito a alimentação e necessidade de serviço, obtiverem autorização do Diretor.
 
-<strong>Art</strong>. 41. Para os efeitos do presente decreto, que visa a educação, re-educação e assistência dos deficientes da audição e da palavra são considerados deficientes da audição e da palavra:
+**Art**. 41. Para os efeitos do presente decreto, que visa a educação, re-educação e assistência dos deficientes da audição e da palavra são considerados deficientes da audição e da palavra:
 
 a) os indivíduos de audição difícil, como sejam aqueles que necessitam de muita atenção para ouvir e acompanhar a linguagem;
 
@@ -452,8 +450,8 @@ c) os totalmente surdos, como sejam aquêles que têm incapacidade de ouvir o si
 
 d) portadores de distúrbios de linguagem, como sejam aqueles que não têm o cultivo da expressão correta, pela linguagem oral, em conseqüência de surdez.
 
-<strong>Art</strong>. 42. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 42. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 30 de janeiro de 1956.
 
-<strong>ABGAR RENAULT</strong>
+**ABGAR RENAULT**

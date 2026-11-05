@@ -1,5 +1,3 @@
-###DEC-062164-0-000-23-01-1968@@@
-
 DECRETO Nº 62.164, DE 23 DE JANEIRO DE 1968.
 
 Autoriza Mineril - Mineração Irapurú Ltda. a lavrar minério de ferro nos municípios de Mazagão e Macapá no Território Federal do Amapá.

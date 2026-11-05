@@ -1,5 +1,3 @@
-###DEC-072648-0-000-17-08-1973@@@
-
 DECRETO Nº 72.648, DE 17 DE AGOSTO DE 1973.
 
 Torna sem efeito redistribuição de cargo com o respectivo ocupante, do Quadro de Pessoal do Ministério da Indústria e do Comércio para o da Comissão Nacional de Energia Nuclear.

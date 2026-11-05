@@ -1,5 +1,3 @@
-###DEC-065151-0-000-15-09-1969@@@
-
 DECRETO Nº 65.151, DE 15 DE setemBRO DE 1969.
 
 Declara caduco o Decreto nº 12.549, de 9 de junho de 1943.

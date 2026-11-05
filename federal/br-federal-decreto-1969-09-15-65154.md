@@ -1,5 +1,3 @@
-###DEC-065154-0-000-15-09-1969@@@
-
 DECRETO Nº 65.154 - DE 15 DE SETEMBRO DE 1969.
 
 Declara nulos atos de alienação ou oneração de bens integrantes do patrimônio de Indústrias Brasileiras de Papel S. A. confisca e incorpora ao patrimônio da União êsses bens.

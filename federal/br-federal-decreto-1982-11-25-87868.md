@@ -1,5 +1,3 @@
-###DEC-087868-0-000-25-11-1982@@@
-
 DECRETO Nº 87.868, DE 25 DE NOVEMbRO DE 1982
 
 Transforma a Autarquia Comissão de Financiamento da Produção - CFP em Empresa Pública, sob a denominação de Companhia de Financiamento da Produção - CFP, aprova o Estatuto da Empresa e dá outras providências.

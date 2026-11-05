@@ -1,7 +1,3 @@
-1
-
-###DEC-098084-0-000-22-08-1989@@@
-
 DECRETO Nº 98.084, DE 22 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “BOA VISTA/PAPAGAIOS”, classificado como latifúndio por exploração, situado nos Municípios de Inácio Martins, Guarapuava e Prudentópolis, Estado do Paraná, compreendido na zona prioritária fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.

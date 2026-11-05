@@ -1,5 +1,3 @@
-###DEC-083748-0-000-19-07-1979@@@
-
 Decreto nº 83.748, de 19 de julho de 1979.
 
 Concede à Manganês de Goiás S.A. o direito de lavrar minério de manganês no Município de Uruaçu, Estado de Goiás.

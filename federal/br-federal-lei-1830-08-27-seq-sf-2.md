@@ -1,5 +1,3 @@
-###LEI-000000-0-002-27-08-1830@@@
-
 LEI - DE 27 DE AGOSTO DE 1830
 
 Extingue as Superintendencias e Juntas do lançamento da decima urbana e crêa Collectores a quem encarrega desse serviço.

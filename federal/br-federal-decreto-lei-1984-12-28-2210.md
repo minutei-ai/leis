@@ -1,5 +1,3 @@
-###DEL-002210-0-000-28-12-1984@@@
-
 # deCreto-lei nº 2.210, de 28 de dezembrO de 1984
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Distrito Federal, bem como os das pensões e dá outras providências.

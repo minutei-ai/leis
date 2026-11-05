@@ -1,5 +1,3 @@
-###DEC-091156-0-000-18-03-1985@@@
-
 DECRETO Nº 91.156, DE 18 DE MARÇO DE 1985.
 
 Institui a Comissão de Reordenamento Financeiro do Governo Federal e dá outras providências.

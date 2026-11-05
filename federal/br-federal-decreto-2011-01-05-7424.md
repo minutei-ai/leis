@@ -1,5 +1,3 @@
-###DEC-007424-0-000-05-01-2011-PUB-01@@@
-
 DECRETO Nº 7.424, DE 5 DE JANEIRO DE 2011
 
 Dispõe sobre a transferência do Centro Gestor e Operacional do Sistema de Proteção da Amazônia - CENSIPAM da Casa Civil da Presidência da República para o Ministério da Defesa.

@@ -1,5 +1,3 @@
-###DEC-053655-0-000-04-03-1964@@@
-
 DECRETO Nº 53.655, DE 4 DE MARÇO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a adquirir imóvel no Estado do Rio Grande do Sul, necessário ao Ministério das Minas e Energia.

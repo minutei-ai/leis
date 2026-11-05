@@ -1,5 +1,3 @@
-###DEC-077145-0-000-12-02-1976@@@
-
 DECRETO Nº 77.145, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de lingüistica da Universidade Estadual de Campinas, com sede na Cidade de Campinas, Estado São Paulo.

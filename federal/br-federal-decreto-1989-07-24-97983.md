@@ -1,7 +1,3 @@
-1
-
-###DEC-097983-0-000-24-07-1989@@@
-
 DECRETO Nº 97.983, DE 24 DE JULHO DE 1989
 
 Autoriza a transferência direta da concessão outorgada a EMISSORAS REUNIDAS LTDA. Para a TRÍDIO - RADIODIFUSÃO LTDA.

@@ -1,5 +1,3 @@
-###DEC-066936-0-000-21-07-1970@@@
-
 DECRETO Nº 66.936, DE 21 DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Instituto Brasileiro de Desenvolvimento Florestal, cargo do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura, e dá outras providências.

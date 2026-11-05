@@ -1,7 +1,3 @@
-1
-
-###DEC-001355-0-000-30-12-1994@@@
-
 DECRETO Nº 1.355, DE 30 DE DEZEMBRO DE 1994 (\*)
 
 Promulgo a Ata Final que Incorpora os Resultados da Rodada Uruguai de Negociações Comerciais Multilaterais do GATT.

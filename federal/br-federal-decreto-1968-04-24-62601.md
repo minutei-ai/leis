@@ -1,5 +1,3 @@
-###DEC-062601-0-000-24-04-1968@@@
-
 DECRETO Nº 62.601, DE 24 DE ABRIL DE 1968.
 
 Transfere funções gratificadas.

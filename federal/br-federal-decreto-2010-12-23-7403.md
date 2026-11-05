@@ -1,5 +1,3 @@
-###DEC-007403-0-000-23-12-2010-PUB-01@@@
-
 DECRETO Nº 7.403, DE 23 DE DEZEMBRO DE 2010
 
 Estabelece regra de transição para destinação das parcelas de royalties e de participação especial devidas à administração direta da União em função da produção de petróleo, gás natural e outros hidrocarbonetos fluidos em áreas do pré-sal contratadas sob o regime de concessão, de que trata o § 2º do art. 49 da Lei nº 12.351, de 22 de dezembro de 2010.

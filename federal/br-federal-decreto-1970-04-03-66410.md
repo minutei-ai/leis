@@ -1,5 +1,3 @@
-###DEC-066410-0-000-03-04-1970@@@
-
 DECRETO Nº 66.410, DE 3 DE ABRIL DE 1970
 
 Autorização para funcionamento da Faculdade de Serviço Social de Santos.

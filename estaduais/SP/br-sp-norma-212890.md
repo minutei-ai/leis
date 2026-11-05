@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212890)<br>
-
 # ATO DA MESA N° 09/2026, DE 17 DE AGOSTO DE 2026
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, CONSIDERANDO a publicação da [Lei Complementar n° 1.437, de 23 de dezembro de 2025](https://www.al.sp.gov.br/norma/212077), que alterou a [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593) - Estatuto dos Servidores Públicos Civis do Estado de São Paulo, CONSIDERANDO a necessidade de adequar os procedimentos administrativos internos desta Casa, RESOLVE:

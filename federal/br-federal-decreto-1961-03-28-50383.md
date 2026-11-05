@@ -1,5 +1,3 @@
-###DEC-050383-0-000-28-03-1961@@@
-
 DECRETO Nº 50.383, DE 28 DE MARÇO DE 1961.
 
 Eleva à categoria de Embaixada a representação diplomática do Brasil em Acra.

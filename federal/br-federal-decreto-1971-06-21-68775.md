@@ -1,5 +1,3 @@
-###DEC-068775-0-000-21-06-1971@@@
-
 DECRETO Nº 68.775 - DE 21 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Casa do Menor de Taubaté, com sede em Taubaté, Estado de São Paulo.

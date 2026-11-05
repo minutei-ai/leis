@@ -1,5 +1,3 @@
-###DEL-008257-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.257 – DE 30 DE NOVEMBRO DE 1945
 
 Concede autonomia às Caixas Econômicas anexas às Delegacias Fiscais do Tesouro Nacional nos Estados do Amazonas, Pará, Maranhão, Ceara, Espirito Santo, Santa Catarina e Mato Grosso, e dá outras providencias.

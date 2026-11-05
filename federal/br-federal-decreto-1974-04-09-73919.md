@@ -1,5 +1,3 @@
-###DEC-073919-0-000-09-04-1974@@@
-
 DECRETO Nº 73.919, DE 9 DE ABRIL DE 1974.
 
 Autoriza a cessão de uso, a título gratuito e precário, de imóvel da União.

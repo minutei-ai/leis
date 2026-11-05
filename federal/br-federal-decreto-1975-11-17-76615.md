@@ -1,5 +1,3 @@
-###DEC-076615-0-000-17-11-1975@@@
-
 DECRETO Nº 76.615, DE 17 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias destinadas à bacia de acumulação da Usina Hidrelétrica de Capivara, no Rio Paranapanema, e localizadas em diversos Municípios dos Estados de São Paulo e Paraná.
@@ -16,11 +14,187 @@ Art. 2º As áreas de terra e benfeitorias referidas no artigo anterior compreen
 
 # Estado de São Paulo
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>MUNICÍ</span><span>PIO</span></p></td><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Á</span><span>rea cadastrada (ha)</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Á</span><span>rea reservada (ha</span><span>)</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Taciba......................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>1.309,4550</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>7,3800</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Martinó</span><span>polis..............................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>0,2800</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Iepê..........................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>11.913,5552</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>495,8900</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Rancharia.................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>936,2130</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Paraguaç</span><span>u Paulista..................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>13,8500</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Marací......................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.502,1570</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>242,3000</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Cruzá</span><span>lia....................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.611,4463</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>187,0800</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Florí</span><span>nea....................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.628,4800</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>584,2250</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Câ</span><span>ndido Mota...........................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>312,774</span><span style="font-size:0.67em; vertical-align:super">O</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">130,2350</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL......................................</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>24.228,2105</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>1647,1100</span></p></td></tr></tbody></table>
+MUNICÍPIO
+
+Área cadastrada (ha)
+
+Área reservada (ha)
+
+Taciba......................................
+
+1.309,4550
+
+7,3800
+
+Martinópolis..............................
+
+0,2800
+
+Iepê..........................................
+
+11.913,5552
+
+495,8900
+
+Rancharia.................................
+
+936,2130
+
+Paraguaçu Paulista..................
+
+13,8500
+
+Marací......................................
+
+3.502,1570
+
+242,3000
+
+Cruzália....................................
+
+3.611,4463
+
+187,0800
+
+Florínea....................................
+
+2.628,4800
+
+584,2250
+
+Cândido Mota...........................
+
+312,774O
+
+130,2350
+
+TOTAL......................................
+
+24.228,2105
+
+1647,1100
 
 # Estado do Parará
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Porecatu .................................</span></p></td><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.529,0350</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Florestó</span><span>polis ...........................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>419,8900</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Alvorada.do Sul ......................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>8.575,4554</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>436,7750</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Primeiro de Maio ....................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>10.489,7201</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>270,3100</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Sertanó</span><span>polis ............................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.702,0820</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Ibiporã</span><span> .....................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>373,8650</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>109,3500</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Jataizinho ...............................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>252,7770</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>165,5000</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Rancho Alegre ........................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.160,8440</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>191,8450</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Sertaneja ................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>9.776,3840</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>775,0300</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Leó</span><span>polis ..................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.139,1300</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>548,7800</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Santa Mariana ........................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>491,0150</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>223,1700</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Itambaracá</span><span> ..............................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">87,6550</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">87,6550</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ....................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>39.997,8525</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.808,4150</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>ILHAS</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Á</span><span>rea cadastrada (ha)</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Á</span><span>rea reservada (ha)</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Rio Paranapanema .................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>187,9500</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>187,9500</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Rio Tibagi ................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">94,0450</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">94,0450</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ....................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>281,9950</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>281,9950</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Estado de Sã</span><span>o Paulo ..............</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>24.228,2105</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>1.647,1100</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Estado do Paraná</span><span> ...................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>39.997,8525</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.808,4150</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Ilhas .........................................</span></p></td><td style="width:139.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">281,9950</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">281,9950</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ....................................</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>64.508,0580</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>4.737,5200</span></p></td></tr></tbody></table>
+Porecatu .................................
+
+2.529,0350
+
+Florestópolis ...........................
+
+419,8900
+
+Alvorada.do Sul ......................
+
+8.575,4554
+
+436,7750
+
+Primeiro de Maio ....................
+
+10.489,7201
+
+270,3100
+
+Sertanópolis ............................
+
+2.702,0820
+
+Ibiporã .....................................
+
+373,8650
+
+109,3500
+
+Jataizinho ...............................
+
+252,7770
+
+165,5000
+
+Rancho Alegre ........................
+
+2.160,8440
+
+191,8450
+
+Sertaneja ................................
+
+9.776,3840
+
+775,0300
+
+Leópolis ..................................
+
+2.139,1300
+
+548,7800
+
+Santa Mariana ........................
+
+491,0150
+
+223,1700
+
+Itambaracá ..............................
+
+87,6550
+
+87,6550
+
+TOTAL ....................................
+
+39.997,8525
+
+2.808,4150
+
+ILHAS
+
+Área cadastrada (ha)
+
+Área reservada (ha)
+
+Rio Paranapanema .................
+
+187,9500
+
+187,9500
+
+Rio Tibagi ................................
+
+94,0450
+
+94,0450
+
+TOTAL ....................................
+
+281,9950
+
+281,9950
+
+Estado de São Paulo ..............
+
+24.228,2105
+
+1.647,1100
+
+Estado do Paraná ...................
+
+39.997,8525
+
+2.808,4150
+
+Ilhas .........................................
+
+281,9950
+
+281,9950
+
+TOTAL ....................................
+
+64.508,0580
+
+4.737,5200
 
 Art. 3º Fica autorizada a Centrais Elétricas de São Paulo S. A. - CESP, a promover a desapropriação das referidas áreas de terra e respectivas benfeitorias, na forma da legislação vigente, com os seus recursos próprios.
 

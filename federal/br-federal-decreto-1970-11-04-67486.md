@@ -1,5 +1,3 @@
-###DEC-067486-0-000-04-11-1970@@@
-
 DECRETO Nº 67.486, DE 4 DE NOVEMBRO DE 1970.
 
 Aprova, no Ministério da Aeronáutica, o Regulamento dos Serviços Integrantes dos Comandos de Apoio, desativa organizações e dá outras providências.

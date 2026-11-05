@@ -1,5 +1,3 @@
-###DEL-004001-0-000-07-01-1942@@@
-
 DECRETO-LEI N. 4.001 – DE 7 DE JANEIRO DE 1942
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a uma operação de crédito em favor da Estrada de Ferro Central do Brasil, e dá outras providências

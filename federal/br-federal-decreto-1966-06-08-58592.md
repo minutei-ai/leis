@@ -1,5 +1,3 @@
-###DEC-058592-0-000-08-06-1966@@@
-
 DECRETO Nº 58.592, DE 8 DE JUNHO DE 1966.
 
 Exclui o Conselho Federal de Educação dos efeitos do Decreto nº 55.090, de 28 de novembro de 1964.

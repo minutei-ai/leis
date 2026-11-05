@@ -1,5 +1,3 @@
-###DEL-007112-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.112 – DE 4 DE DEZEMBRO DE 1944
 
 Autoriza a emissão de “Letras do Tesouro”

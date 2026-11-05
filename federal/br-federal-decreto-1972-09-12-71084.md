@@ -1,5 +1,3 @@
-###DEC-071084-0-000-12-09-1972@@@
-
 DECRETO Nº 71.084, DE 12 DE SETEMBRO DE 1972.
 
 Autoriza o Ministério da Fazenda a contratar operação externa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071111-0-000-15-09-1972@@@
-
 decreto nº 71.111, de 15 de setembro de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias situadas em diversos municípios dos Estados de Mato Grosso, Goiás, São Paulo e Minas Gerais destinadas à bacia de acumulação do aproveitamento hidrelétrico de Ilha Solteira.
@@ -23,8 +21,6 @@ Brasília, 15 de setembro de 1972; 151º da Independência e 84º da República.
 emílio g. médici
 
 Antônio Dias Leite Júnior
-
-###DEC-071111-0-000-15-09-1972@@@
 
 decreto nº 71.111, de 15 de setembro de 1972.
 

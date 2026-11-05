@@ -1,5 +1,3 @@
-###DEC-007053-0-000-23-12-2009@@@
-
 DECRETO Nº 7.053 DE 23 DE DEZEMBRO DE 2009.
 
 Institui a Política Nacional para a População em Situação de Rua e seu Comitê Intersetorial de Acompanhamento e Monitoramento, e dá outras providências.

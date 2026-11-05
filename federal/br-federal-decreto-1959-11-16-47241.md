@@ -1,5 +1,3 @@
-###DEC-047241-0-000-16-11-1959@@@
-
 DECRETO Nº 47.241, DE 16 DE NOVEMBRO DE 1959.
 
 Autoriza a cessão gratuita do terreno acrescido de marinha que menciona, situado na Praça Marechal Âncora, no Distrito Federal.

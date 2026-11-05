@@ -1,5 +1,3 @@
-###DEC-075833-0-000-09-06-1975@@@
-
 DECRETO Nº 75.833, DE 9 DE JUNHO DE 1975.
 
 Cria Organização Militar e dá outras providências.

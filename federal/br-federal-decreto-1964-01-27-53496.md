@@ -1,5 +1,3 @@
-###DEC-053496-0-000-27-01-1964@@@
-
 DECRETO Nº 53.496, DE 27 DE JANEIRO DE 1964.
 
 Altera o Regulamento para os Centros de Contrôle de Estoque.

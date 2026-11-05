@@ -1,5 +1,3 @@
-###DEC-054649-0-000-29-10-1964@@@
-
 DECRETO Nº 54.649, DE 29 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública a Casa de Misericórdia de Franca, com sede em Franca, Estado de São Paulo.

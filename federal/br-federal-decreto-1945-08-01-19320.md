@@ -1,14 +1,12 @@
-###DEC-019320-0-000-01-08-1945@@@
+**DECRETO Nº 19.320, DE 1 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.320, DE 1 DE AGÔSTO DE 1945.</strong>
+***Altera a lotação do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da  Agricultura, da seguinte maneira:
+**Art**. 1º Fica alterada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da  Agricultura, da seguinte maneira:
 
 I - A carreira de Tecnologista passa a ter 90 cargos, na lotação permanente, com a seguinte distribuição:
 
@@ -52,12 +50,12 @@ IV - Ficam excluídos 2 cargos de Engenheiro de Minas da lotação permanente do
 
 V - com as alterações constantes dos anteriores, passa a lotação numérica dos Quadros Permanente e Suplementar do Ministério da Agricultura a figurar com um total de 3.634 cargos, sendo 2.953 na lotação permanente e 681 na lotação suplementar.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 1 de agôsto de 1945, 124 da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolônio Salles

@@ -1,5 +1,3 @@
-###DEC-065260-0-000-01-10-1969@@@
-
 DECRETO Nº 65.260 - DE 1 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Associação Santa Gema de Amparo à Família, com sede em São Paulo, Estado de São Paulo.

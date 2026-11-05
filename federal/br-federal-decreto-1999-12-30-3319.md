@@ -1,5 +1,3 @@
-###DEC-003319-0-000-30-12-1999@@@
-
 DECRETO Nº 3.319, DE 30 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a suspensão, até 31 de dezembro de 2000, de cessão de servidores da Administração Pública Federal direta, autárquica e fundacional para outras esferas de Governo e outros Poderes.

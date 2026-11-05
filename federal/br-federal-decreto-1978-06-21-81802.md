@@ -1,5 +1,3 @@
-###DEC-081802-0-000-21-06-1978@@@
-
 DECRETO Nº 81.802, DE 21 DE JUNHO DE 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à operação de crédito externo a ser contratada pela Casa da Moeda do Brasil.

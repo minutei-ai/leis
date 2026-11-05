@@ -1,5 +1,3 @@
-###DEC-090690-0-000-12-12-1984@@@
-
 Decreto nº 90.690, de 12 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Farmácia do Instituto das Apóstolas do Sagrado Coração de Jesus.

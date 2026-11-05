@@ -1,5 +1,3 @@
-###DEC-094917-0-000-18-09-1987@@@
-
 DECRETO N° 94.917, DE 18 DE SETEMBRO DE 1987
 
 Altera o Decreto n° 76.085, de 6 de agosto de 1975, que dispõe sobre a Estrutura Básica do Ministério da Fazenda.

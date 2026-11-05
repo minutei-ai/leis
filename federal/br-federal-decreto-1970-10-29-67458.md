@@ -1,5 +1,3 @@
-###DEC-067458-0-000-29-10-1970@@@
-
 decreto nº 67.458 - de 29 de outubro de 1970
 
 Muda a denominação do Centro de Instrução de Guerra na Selva (CIGS) para Centro de Operação na Selva e Ações de Comandos (COSAC).

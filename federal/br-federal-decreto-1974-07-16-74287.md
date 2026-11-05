@@ -1,5 +1,3 @@
-###DEC-074287-0-000-16-07-1974@@@
-
 DECRETO N.º 74.287 - DE 16 JULHO DE 1974.
 
 Autoriza a cessão, sob o regime de aforamento, do imóvel que menciona, situado no Estado da Guanabara.

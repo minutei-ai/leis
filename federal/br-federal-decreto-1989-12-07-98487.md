@@ -1,5 +1,3 @@
-###DEC-098487-0-000-07-12-1989@@@
-
 DECRETO N° 98.487, DE 7 DE DEZEMBRO DE 1989
 
 Outorga concessão à RÁDIO UNIVERSAL DE MORRINHOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Morrinhos, Estado do Ceará.

@@ -139,7 +139,3 @@ Fernando Antonio Fagundes Reis
 Renata Maria Paes de Vilhena
 
 José Bonifácio Borges de Andrada
-
-\--------------------------------------------
-
-Data da última atualização: 11/1/2007.

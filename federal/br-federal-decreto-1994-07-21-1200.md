@@ -1,7 +1,3 @@
-1
-
-###DEC-001200-0-000-21-07-1994@@@
-
 DECRETO N° 1.200, DE 21 DE JULHO DE 1994
 
 Altera as disposições do Decreto n° 93.439, de 17 de outubro de 1986, que criou a Coordenadoria para Projetos Especiais (COPESP).

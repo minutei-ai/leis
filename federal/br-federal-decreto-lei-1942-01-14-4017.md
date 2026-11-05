@@ -1,5 +1,3 @@
-###DEL-004017-0-000-14-01-1942@@@
-
 DECRETO-LEI N. 4.017 – DE 14 DE JANEIRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de 20:000$0 para regularização de despesas

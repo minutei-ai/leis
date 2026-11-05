@@ -1,5 +1,3 @@
-###DEL-007025-0-000-07-11-1944@@@
-
 DECRETO-LEI N. 7.025 – DE 7 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 120.000,00 à Verba que especifica

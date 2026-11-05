@@ -1,5 +1,3 @@
-###DEC-005736-0-000-27-03-2006@@@
-
 DECRETO Nº 5.736, DE 27 DE MARÇO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa relativo ao Emprego Assalariado dos Familiares dos Agentes das Missões Oficiais de cada Estado no Outro, celebrado em Paris, em 28 de maio de 1996.

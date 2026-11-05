@@ -1,5 +1,3 @@
-###DEC-062505-0-000-08-04-1968@@@
-
 DECRETO Nº 62.505, DE 8 DE ABRIL DE 1968.
 
 Prorroga por seis (6) meses o prazo de que trata o art. 115, do Decreto 60.597, de 19 de abril de 1967.

@@ -1,5 +1,3 @@
-###DEL-004957-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.957 – DE 13 DE NOVEMBRO DE 1942
 
 Autoriza a aquisição de imoveis em Ladário, Estado de Mato Grosso

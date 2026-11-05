@@ -1,5 +1,3 @@
-###DEC-083101-0-000-29-01-1979@@@
-
 DECRETO Nº 83.101, DE 29 DE JANEIRO DE 1979
 
 Concede reconhecimento aos cursos de Biblioteconomia e de Economia Doméstica, ministrados pelas Faculdades Integradas Teresa D' Ávila, com sede na cidade de Santo André, Estado de São Paulo.

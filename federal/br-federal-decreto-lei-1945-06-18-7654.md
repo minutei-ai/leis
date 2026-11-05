@@ -1,5 +1,3 @@
-###DEL-007654-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.654 – DE 18 DE JUNHO DE 1945
 
 Cria a carreira de Arquivista no Quadro Permanente do Ministério da Guerra e dá outras providências

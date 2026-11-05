@@ -1,5 +1,3 @@
-###DEC-084328-0-000-20-12-1979@@@
-
 Decreto nº 84.328 de 20 de dezembro de 1979
 
 Autoriza o aumento de capital da Companhia Siderúrgica Nacional- CSN, com subscrição de ações em dinheiro.

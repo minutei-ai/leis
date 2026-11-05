@@ -1,5 +1,3 @@
-###DEC-081618-0-000-02-05-1978@@@
-
 Decreto nº 81.618, de 02 de maio de 1978.
 
 Concede reconhecimento aos cursos de História, de Letras, Ciências e de Pedagogia da Faculdade de Filosofia, Ciências e Letras do Patrocínio, com sede na cidade de Patrocínio, Estado de Minas Gerais.

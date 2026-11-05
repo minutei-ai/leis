@@ -1,5 +1,3 @@
-###DEC-004045-0-000-06-12-2001@@@
-
 DECRETO Nº 4.045, DE 6 DE DEZEMBRO DE 2001.
 
 Dá nova organização à Câmara de Medicamentos, criada pela Lei nº 10.213, de 27 de março de 2001, mediante alteração da composição de seu Conselho de Ministros e de seu Comitê Técnico.

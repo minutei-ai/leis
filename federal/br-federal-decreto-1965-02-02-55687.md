@@ -1,5 +1,3 @@
-###DEC-055687-0-000-02-02-1965@@@
-
 DECRETO Nº 55.687, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Mafra Pompeu a pesquisar quartzito no Município de Baependi Estado de Minas Gerais.

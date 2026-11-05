@@ -1,5 +1,3 @@
-###DEC-048978-0-000-30-09-1960@@@
-
 DECRETO Nº 48.978, DE 30 DE SETEMBRO DE 1960.
 
 Concede à sociedade anônima Charles Of The Ritz, Inc. autorização para funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-048972-0-000-28-09-1960@@@
-
 DECRETO Nº 48.972, DE 28 DE SETEMBRO DE 1960.
 
 Transforma cargo do Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

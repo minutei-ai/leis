@@ -1,5 +1,3 @@
-###DEC-065318-0-000-10-10-1969@@@
-
 DECRETO Nº 65.318 - DE 10 DE OUTUBRO DE 1969.
 
 Altera os Estatutos do Instituto de Resseguros do Brasil e dá outras providências.

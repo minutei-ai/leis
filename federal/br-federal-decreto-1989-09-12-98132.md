@@ -1,7 +1,3 @@
-1
-
-###DEC-098132-0-000-12-09-1989@@@
-
 DECRETO N° 98.132, DE 12 DE SETEMBRO DE 1989
 
 Autoriza o funcionamento do Curso de Geografia, da Faculdade de Ciências Humanas unidade integrante das Faculdades Integradas de São José dos Campos.

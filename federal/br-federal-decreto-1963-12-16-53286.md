@@ -1,5 +1,3 @@
-###DEC-053286-0-000-16-12-1963@@@
-
 DECRETO Nº 53.286, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza a cidadã brasileira Maria Margarida da Costa Santos a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

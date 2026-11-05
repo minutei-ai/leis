@@ -1,7 +1,3 @@
-1
-
-###DEC-098378-0-000-08-11-1989@@@
-
 DECRETO Nº 98.378, DE 8 DE NOVEMBRO DE 1989
 
 Autoriza a Telecomunicações Brasileiras S.A. - Telebrás a promover o aumento de capital social.

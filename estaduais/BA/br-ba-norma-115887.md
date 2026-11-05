@@ -124,39 +124,38 @@ Joalbo Rodrigues de Figueiredo Barbosa
 
 ANEXO Nº 1
 
-<table border="1" cellspacing="0" cellpadding="0" width="463" style="width:347.3pt;
- margin-left:42.55pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGOS EM COMISSÃO<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>SÍMBOLO<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>QUANTIDADE<quebra></quebra></span></p></td></tr><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Diretor do Departamento de Polícia Técnica<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3-C<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td></tr><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Diretor de Divisão<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>5-C<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td></tr><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Diretor do Laboratório Central da Polícia Técnica<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>5-C<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td></tr><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Assessor<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>6-C<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td></tr><tr><td width="283" valign="top" style="width:212.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Diretor de Serviço<quebra></quebra></span></p></td><td width="76" valign="top" style="width:56.7pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>7-C<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td></tr></tbody></table>
+CARGOS EM COMISSÃO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor do Departamento de Polícia Técnica<quebra></quebra>
+
+3-C<quebra></quebra>
+
+1<quebra></quebra>
+
+Diretor de Divisão<quebra></quebra>
+
+5-C<quebra></quebra>
+
+3<quebra></quebra>
+
+Diretor do Laboratório Central da Polícia Técnica<quebra></quebra>
+
+5-C<quebra></quebra>
+
+1<quebra></quebra>
+
+Assessor<quebra></quebra>
+
+6-C<quebra></quebra>
+
+1<quebra></quebra>
+
+Diretor de Serviço<quebra></quebra>
+
+7-C<quebra></quebra>
+
+2<quebra></quebra>

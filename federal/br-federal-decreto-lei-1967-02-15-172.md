@@ -1,5 +1,3 @@
-###DEL-000172-0-000-15-02-1967@@@
-
 DECRETO-lei nº 172, de 15 de FEVEREIRO DE 1967
 
 Dispõe sôbre a transferência de dotações orçamentárias para o Conselho Federal de Cultura.

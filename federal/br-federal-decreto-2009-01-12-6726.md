@@ -1,5 +1,3 @@
-###DEC-006726-0-000-12-01-2009@@@
-
 DECRETO Nº 6.726, DE 12 DE JANEIRO DE 2009.
 
 Dá nova redação ao art. 14 do Anexo I ao Decreto no 5.135, de 7 de julho de 2004, de 7 de julho de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Casa Civil da Presidência da República, e dá outras providências.

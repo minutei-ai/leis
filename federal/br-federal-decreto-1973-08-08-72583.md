@@ -1,5 +1,3 @@
-###DEC-072583-0-000-08-08-1973@@@
-
 DECRETO Nº 72.583, DE 08 DE AGOSTO DE 1973.
 
 Revoga os Decretos que concederam à Immobiliare Casa Latina Societá Per Azioni autorização para funcionar na República Federativa do Brasil.

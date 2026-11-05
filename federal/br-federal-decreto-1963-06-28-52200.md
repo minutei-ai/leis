@@ -1,5 +1,3 @@
-###DEC-052200-0-000-28-06-1963@@@
-
 DECRETO Nº 52.200, DE 28 DE JUNHO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Portos e Vias Navegáveis, os imóveis sitos à Rua da Praia ns. 10,12 e 14, necessários à construção ao ramal ferroviário de acesso ao pôrto de Camocim, no Estado do Ceará.

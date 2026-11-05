@@ -1,5 +1,3 @@
-###DEC-073865-0-000-25-03-1974@@@
-
 DECRETO Nº 73.865, DE 25 DE MARÇO DE 1974.
 
 Autoriza o funcionamento do curso de Artes Práticas do Centro de Ensino Superior de São Carlos, mantido pela Associação Brasileira de Educadores Lassalistas - ABEL, com sede na cidade de São Carlos, Estado de São Paulo.

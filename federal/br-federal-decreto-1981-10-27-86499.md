@@ -1,5 +1,3 @@
-###DEC-086499-0-000-27-10-1981@@@
-
 DECRETO nº 86.499, de 27 de Outubro de 1981
 
 Outorga á BRASPAP - Companhia Brasileira de Papel concessão para o aproveitamento da energia hidráulica de uma queda d'água do rio Cachoeira, no Município de Guarapuava, Estado do Paraná, para uso exclusivo.

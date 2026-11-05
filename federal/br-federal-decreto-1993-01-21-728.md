@@ -1,7 +1,3 @@
-1
-
-###DEC-000728-0-000-21-01-1993@@@
-
 DECRETO N° 728, DE 21 DE JANEIRO DE 1993
 
 Aprova a Estrutura Regimental da Superintendência da Zona Franca de Manaus (Suframa) e dá outras providências.

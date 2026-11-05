@@ -1,5 +1,3 @@
-###DEL-005582-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.582 – DE 17 DE JUNHO DE 1943
 
 Institue uma "Cota Especial" sôbre, algodão

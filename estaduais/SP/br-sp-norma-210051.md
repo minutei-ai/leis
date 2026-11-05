@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210051)<br>
-
 # DECRETO N° 68.917, DE 25 DE SETEMBRO DE 2024
 
 ### _Homologa, por 180 (cento e oi­tenta) dias, o decreto da Pre­feita do Município de Barretos, que declarou Situação de Emer­gência em áreas do Município._

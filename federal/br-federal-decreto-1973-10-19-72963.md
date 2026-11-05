@@ -1,5 +1,3 @@
-###DEC-072963-0-000-19-10-1973@@@
-
 DECRETO Nº 72.963, DE 19 DE OUTUBRO DE 1973.
 
 Altera o disposto no parágrafo único do artigo 65, do Regulamento a que se refere o Decreto número 68.419, de 25 da março de 1971.

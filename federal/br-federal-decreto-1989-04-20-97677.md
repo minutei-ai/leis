@@ -1,7 +1,3 @@
-1
-
-###DEC-097677-0-000-20-04-1989@@@
-
 DECRETO N° 97.677, DE 20 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis, em Vitória, Espírito Santo.

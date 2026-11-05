@@ -1,5 +1,3 @@
-###DEC-007678-0-000-06-02-2012-PUB-01@@@
-
 DECRETO Nº 7.678, DE 6 DE FEVEREIRO DE 2012
 
 Altera o Decreto nº 2.988, de 12 de março de 1999, para excepcionar a Petróleo Brasileiro S.A. - PETROBRAS da aplicação do disposto no inciso I do caput do art. 1º do Decreto nº 757, de 19 de fevereiro de 1993.

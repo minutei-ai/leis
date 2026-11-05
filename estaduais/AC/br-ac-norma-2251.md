@@ -1,6 +1,10 @@
 > **LEI Nº 3.138, DE 07 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a redução do subsídio do governador do Estado, estabelecido pela Lei n. 3.117, de 29 de dezembro de 2015.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a redução do subsídio do governador do Estado, estabelecido pela Lei n. 3.117, de 29 de dezembro de 2015.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

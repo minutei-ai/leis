@@ -1,5 +1,3 @@
-###LCP-000053-0-000-19-12-1986@@@
-
 # LEI COMPLEMENTAR Nº 53, DE 19 DE DEZEMBRO DE 1986
 
 Concede isenção do Imposto sobre Circulação de Mercadorias - ICM para veículos destinadas a uso exclusivo de paraplégicos ou de pessoas portadoras de defeitos físicos.

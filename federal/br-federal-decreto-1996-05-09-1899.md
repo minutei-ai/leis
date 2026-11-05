@@ -1,5 +1,3 @@
-###DEC-001899-0-000-09-05-1996@@@
-
 # DECRETO Nº 1.899 DE 9 DE MAIO DE L996.
 
 Promulga a Convenção Interamericana sobre Cartas Rogatórias, de 30 de janeiro de 1975.

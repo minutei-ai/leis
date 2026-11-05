@@ -1,5 +1,3 @@
-###DEC-064841-0-000-18-07-1969@@@
-
 DECRETO Nº 64.841 - de 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 38.112, de 20 de outubro de 1955.

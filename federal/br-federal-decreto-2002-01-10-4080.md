@@ -1,5 +1,3 @@
-###DEC-004080-0-000-10-01-2002@@@
-
 DECRETO Nº 4.080, DE 10 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução orçamentária e financeira dos órgãos, dos fundos e das entidades do Poder Executivo até a publicação do cronograma anual de desembolso de que trata o art. 72 da Lei no 10.266, de 24 de julho de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005481-0-000-30-06-2005@@@
-
 DECRETO Nº 5.481, DE 30 DE JUNHO DE 2005
 
 Acresce o art. 20-B ao Decreto nº 3.591, de 6 de setembro de 2000, que dispõe sobre o Sistema de Controle Interno do Poder Executivo Federal.

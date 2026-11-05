@@ -1,5 +1,3 @@
-###DEL-004703-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.703 - DE 17 DE SETEMBRO DE 1942
 
 Extingue a 2ª Brigada de Infantaria, com sede em Natal

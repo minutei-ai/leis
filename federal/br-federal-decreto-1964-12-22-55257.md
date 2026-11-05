@@ -1,5 +1,3 @@
-###DEC-055257-0-000-22-12-1964@@@
-
 DECRETO Nº 55.257, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Raul Milanez a pesquisar calcário no município de Capão Bonito, Estado de São Paulo.

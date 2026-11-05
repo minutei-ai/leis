@@ -1,5 +1,3 @@
-###DEC-076194-0-000-02-09-1975@@@
-
 DECRETO Nº 76.194 - DE 2 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Tecnologia da Universidade de Caxias de Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-089508-0-000-03-04-1984@@@
-
 Decreto nº 89.508, de 03 de abril de 1984
 
 Outorga concessão à ITA - NEGÓCIOS E PARTICIPAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itaituba, Estado do Pará.

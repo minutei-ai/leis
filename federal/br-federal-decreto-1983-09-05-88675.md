@@ -1,5 +1,3 @@
-###DEC-088675-0-000-05-09-1983@@@
-
 Decreto nº 88.675, de 05 de setembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada a passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-077923-0-000-29-06-1976@@@
-
 DECRETO Nº 77.923, DE 29 DE JUNHO DE 1976.
 
 Autorizo a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado de Mato Grosso.

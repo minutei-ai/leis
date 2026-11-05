@@ -1,5 +1,3 @@
-###DEL-004109-0-000-12-02-1942@@@
-
 DECRETO-LEI N. 4.109 – DE 12 DE FEVEREIRO DE 1942
 
 Declara a caducidade da concessão a que se refere o decreto número 24.069, de 31 de março de 1934, e dá outras providências

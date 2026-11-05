@@ -1,5 +1,3 @@
-###DEC-062055-0-000-05-01-1968@@@
-
 DECRETO Nº 62.055, DE 5 DE JANEIRO DE 1968.
 
 Autoriza a Mineração Urandi S.A. a lavrar minério de manganês no município de Caetité, Estado da Bahia.

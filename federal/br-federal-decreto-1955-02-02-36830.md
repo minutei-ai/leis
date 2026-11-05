@@ -1,36 +1,34 @@
-###DEC-036830-0-000-02-02-1955@@@
+**DECRETO Nº 36.830, DE 2 DE FEVEREIRO DE 1955.**
 
-<strong>DECRETO Nº 36.830, DE 2 DE FEVEREIRO DE 1955.</strong>
+***Aprova o Regulamento para os Centros de Instrução de oficiais para a Reserva da Marinha.***
 
-<em><strong>Aprova o Regulamento para os Centros de Instrução de oficiais para a Reserva da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso l de Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso l de Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para os Centros de Instrução de Oficiais para a Reserva da Marinha que com êste baixa, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para os Centros de Instrução de Oficiais para a Reserva da Marinha que com êste baixa, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposição em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposição em contrário.
 
 Rio de janeiro em 2 de fevereiro de 1955; 134º da Independência e 67º da república.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão Amorim do Valle
 
-<strong>REGULAMENTO PARA OS CENTROS DE INSTRUÇÃO DE OFICIAIS PARA A RESERVA DA MARINHA</strong>
+**REGULAMENTO PARA OS CENTROS DE INSTRUÇÃO DE OFICIAIS PARA A RESERVA DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos fins</em>
+*Dos fins*
 
-<strong>Art</strong>. 1º Os centros de Instrução de Oficiais para a Reserva da Marinha (CIORM) são estabelecimentos destinados à formação de oficiais para Reserva do Corpo da Armada, do Corpo d e Fuzileiros Navais e do Corpo de Intendentes da Marinha.
+**Art**. 1º Os centros de Instrução de Oficiais para a Reserva da Marinha (CIORM) são estabelecimentos destinados à formação de oficiais para Reserva do Corpo da Armada, do Corpo d e Fuzileiros Navais e do Corpo de Intendentes da Marinha.
 
-<strong>Art</strong>. 2º Os CIORM serão subordinados aos Comandantes dos Distritos Navais em que estiverem situados, mas receberão orientação técnica da Diretoria do Pessoal da Marinha.
+**Art**. 2º Os CIORM serão subordinados aos Comandantes dos Distritos Navais em que estiverem situados, mas receberão orientação técnica da Diretoria do Pessoal da Marinha.
 
 Parágrafo único. O CIORM do Distrito Federal será integralmente subordinado à Diretoria do Pessoal da Marinha.
 
-<strong>Art</strong>. 3º Os CIORM orientarão a educação, a instrução e a seleção dos alunos de modo a assegurar que sejam moralmente dignos o oficialato e física e intelectualmente capazes de exercer as funções normalmente atribuídas:
+**Art**. 3º Os CIORM orientarão a educação, a instrução e a seleção dos alunos de modo a assegurar que sejam moralmente dignos o oficialato e física e intelectualmente capazes de exercer as funções normalmente atribuídas:
 
 a) aos ajudante de divisão, no Corpo da Armada;
 
@@ -38,11 +36,11 @@ b) aos comandantes de pelotão, no Corpo de Fuzileiros Navais;
 
 c) aos ajudantes de divisão, no Corpo de Intendentes da Marinha.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 4º Os CIORM terão os seguintes órgãos:
+**Art**. 4º Os CIORM terão os seguintes órgãos:
 
 a) um Comando;
 
@@ -54,11 +52,11 @@ d) Um Departamento de Ensino;
 
 e) Um Departamento de Administração.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do pessoal</em>
+*Do pessoal*
 
-<strong>Art</strong>. 5º Os CIORM terão o seguinte Pessoal:
+**Art**. 5º Os CIORM terão o seguinte Pessoal:
 
 a) um Comandante capitão-de-fragata da ativa, do Corpo da Armada;
 
@@ -72,13 +70,13 @@ e) o pessoal subalterno necessário do Corpo do Pessoal Subalterno da Armada e d
 
 f) o pessoal civil, permanente ou extranumerário, previsto na lotação de cada CIORM.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do ensino</em>
+*Do ensino*
 
-<strong>Art</strong>. 6º O ensino do CIORM obedecerá ao plano de Ensino da Marinha e será regulado por currículos constantes do Regimento Interno.
+**Art**. 6º O ensino do CIORM obedecerá ao plano de Ensino da Marinha e será regulado por currículos constantes do Regimento Interno.
 
-<strong>Art</strong>. 7º Funcionarão nos CIORM três cursos:
+**Art**. 7º Funcionarão nos CIORM três cursos:
 
 a) curso de formação de Oficiais para a Reserva do Corpo da Armada;
 
@@ -86,23 +84,23 @@ b) curso de formação de Oficiais para a Reserva do Carpo de Fuzileiros Navais
 
 c) curso de formação de Oficiais para Reserva do Carpo de Intendentes da Marinha
 
-<strong>Art</strong>. 8º Os assuntos constituintes dos currículos são grupados nas seguintes categorias:
+**Art**. 8º Os assuntos constituintes dos currículos são grupados nas seguintes categorias:
 
 a) Ensino Técnico-Profissional;
 
 b) Ensino, Militar-Naval; sendo os currículos de Ensino Militar-Naval comuns aos comuns ao três cursos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do regime escolar</em>
+*Do regime escolar*
 
-<strong>Art</strong>. 9º Em todos os cursos e ensino se fará em estágios:
+**Art**. 9º Em todos os cursos e ensino se fará em estágios:
 
 a) um estágio escolar, realizado nos centros de Instrução;
 
 b) um estágio de adaptação, realizado, após a nomeação a Guarda-Marinha, fora dos Centros de Instrução.
 
-<strong>Art</strong>. 10. O estágio escolar será feito em dois anos letivos para todos os cursos, consistindo cada ano letivo em:
+**Art**. 10. O estágio escolar será feito em dois anos letivos para todos os cursos, consistindo cada ano letivo em:
 
 a) um período de instrução contínua, realizado em duas fases:
 
@@ -114,19 +112,19 @@ b) um período de instrução descontínua, realizado somente aos domingos, de 1
 
 Parágrafo único. No mês de julho, haverá uma viagem de instrução para os alunos do 1º ano.
 
-<strong>Art</strong>. 11. O estágio de adaptação será realizado no período de 15 de dezembro a 14 de fevereiro, e será feito inteiramente a bordo de navios da Marinha, exceto para os Guardas-Marinhas da Reserva do Corpo de Fuzileiros Navais, que farão parte do estágios em unidades da corporação.
+**Art**. 11. O estágio de adaptação será realizado no período de 15 de dezembro a 14 de fevereiro, e será feito inteiramente a bordo de navios da Marinha, exceto para os Guardas-Marinhas da Reserva do Corpo de Fuzileiros Navais, que farão parte do estágios em unidades da corporação.
 
-<strong>Art</strong>.12. Os alunos serão externos, exceto quando embarcados.
+**Art**.12. Os alunos serão externos, exceto quando embarcados.
 
 Parágrafo único. Os alunos terão direito a rancho quando a duração do período de instrução diário o exigir; quando embarcados, perceberão rações.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Matrícula</em>
+*Da Matrícula*
 
-<strong>Art</strong>. 13. Anualmente a Diretoria do Pessoal fixará o número de vagas para o 1º ano de cada curso e cada Centro se Instrução e abrirá as inscrições para o concurso, que normalmente s e farão de 15 de maio a 15 de julho.
+**Art**. 13. Anualmente a Diretoria do Pessoal fixará o número de vagas para o 1º ano de cada curso e cada Centro se Instrução e abrirá as inscrições para o concurso, que normalmente s e farão de 15 de maio a 15 de julho.
 
-<strong>Art</strong>.14 Para se inscrever nos concursos de admissão o candidato deverá provar:
+**Art**.14 Para se inscrever nos concursos de admissão o candidato deverá provar:
 
 a) que é brasileiro nato ou por opção, comprovada neste caso, pelo documento de opção;
 
@@ -144,17 +142,17 @@ f) que e aluno de estabelecimento de ensino superior, ou que já cursou, cursa, 
 
 § 2º Não e permitida e inscrição de cidadãos, mesmo convocados, que tenham sido condenados ou encontrem sub-judice bem como os excluídos, por motivo disciplinar, de qualquer unidade ou estabelecimento de ensino das Fôrças Armadas, condições que implicarão, quando descobertas, na anulação da matrícula.
 
-<strong>Art</strong>. 15. Para ser admitido a matrícula o candidato deverá satisfazer os seguintes requisitos:
+**Art**. 15. Para ser admitido a matrícula o candidato deverá satisfazer os seguintes requisitos:
 
 a) ter as condições físicas exigidas para admissão nos CIORM, verificadas pelas junta de Saúde competente;
 
 b) ter sido aprovado no Concurso de Admissão e Classificação dentro do vagas fixada.
 
-<strong>Art</strong>.16. O concurso de admissão será realizado na segunda quinzena de julho, e constará de uma prova de Português e uma de Matemática, abrangendo a matéria correspondente aos programas comuns até o nível do 2º anos Clássico ou científico inclusivel.
+**Art**.16. O concurso de admissão será realizado na segunda quinzena de julho, e constará de uma prova de Português e uma de Matemática, abrangendo a matéria correspondente aos programas comuns até o nível do 2º anos Clássico ou científico inclusivel.
 
 Parágrafo único. O concurso só terá validade para a ano de sua realização.
 
-<strong>Art</strong>. 17. Os candidatos aprovados e classificados serão matriculados pelo Comandante do CIORM, em um dos três cursos, considerando-se:
+**Art**. 17. Os candidatos aprovados e classificados serão matriculados pelo Comandante do CIORM, em um dos três cursos, considerando-se:
 
 a) a necessidade do serviço;
 
@@ -162,9 +160,9 @@ b) a Faculdade que o candidato freqüenta, ou pretende freqüentar, ou sua ativi
 
 c) a preferência do candidato.
 
-<strong>Art</strong>. 18. A matrícula dos 2º curso será feita pelo Comandante do CIORM, desde que o aluno satisfaça os requisitos físicos, morais e intelectuais previstos neste Regulamento.
+**Art**. 18. A matrícula dos 2º curso será feita pelo Comandante do CIORM, desde que o aluno satisfaça os requisitos físicos, morais e intelectuais previstos neste Regulamento.
 
-<strong>Art</strong>. 19. Terá a matrícula trancada:
+**Art**. 19. Terá a matrícula trancada:
 
 a) o aluno que, por doença ou acidente tiver de permanecer mais de 15 dias afastado do CIORM, em tratamento.
 
@@ -172,31 +170,31 @@ b) o aluno que, em requerimento dirigido ao Comandante do CIORM, alegar motivo j
 
 § 1ºDurante todo o curso do CIORM, inclusive o estágio de adaptação, o aluno só poderá ter matrícula trancada um vez.
 
-§ 2º O trancamento de matrícula só poderá ser concedida a alunos que já tenham cursado pelo menos um período de instrução contínua, ressalvando o disposto na letra <em>a</em> do artigo 19.
+§ 2º O trancamento de matrícula só poderá ser concedida a alunos que já tenham cursado pelo menos um período de instrução contínua, ressalvando o disposto na letra *a* do artigo 19.
 
 § 3º O aluno que tiver a matrícula trancada será submetido, no início do ano letivo seguinte, a inspeção de saúde, sendo rematriculado se julga apto.
 
-<strong>Art</strong>. 20. É permitido a transferência de matrícula de um CIORM para outro, fora do período de instrução contínua, mediante requerimento dirigido ao Diretor-Geral do Pessoal.
+**Art**. 20. É permitido a transferência de matrícula de um CIORM para outro, fora do período de instrução contínua, mediante requerimento dirigido ao Diretor-Geral do Pessoal.
 
-<strong>Art</strong>. 21.Não é permitida a transferência de alunos de um curso para outro.
+**Art**. 21.Não é permitida a transferência de alunos de um curso para outro.
 
-<strong>Art</strong>. 22. Não será admitidos alunos ouvintes.
+**Art**. 22. Não será admitidos alunos ouvintes.
 
-<strong>Art</strong>. 23. O aproveitamento dos alunos em cada assunto do Ensino Técnico Profissional e Militar Naval será aferido pela média aritmética dos graus obtidos nas provas realizadas durante o ano letivo
+**Art**. 23. O aproveitamento dos alunos em cada assunto do Ensino Técnico Profissional e Militar Naval será aferido pela média aritmética dos graus obtidos nas provas realizadas durante o ano letivo
 
-<strong>Art</strong>. 24 As provas de cada assunto serão realizadas conforme o disposto no currículo, abrangendo cada prova a matéria lecionada desde a prova anterior.
+**Art**. 24 As provas de cada assunto serão realizadas conforme o disposto no currículo, abrangendo cada prova a matéria lecionada desde a prova anterior.
 
 Parágrafo único. A última prova versará sôbre temas selecionados dentre tôda a matéria lecionada durante o ano letivo e será ordinariamente mencionada no currículo que seja oral.
 
-<strong>Art</strong>. 25.O aluno que, numa escala de notas de zero a dez, não conseguir, em determinado assunto, média igual ou superior a quatro, ou que, tendo obtido esta média, tiver nota inferior a quatro na última prova, será considerado inabilitado nesta disciplina.
+**Art**. 25.O aluno que, numa escala de notas de zero a dez, não conseguir, em determinado assunto, média igual ou superior a quatro, ou que, tendo obtido esta média, tiver nota inferior a quatro na última prova, será considerado inabilitado nesta disciplina.
 
 Parágrafo único. O aluno que faltar a uma prova sem motivo justificado terá grau zero nesta prova.
 
-<strong>Art</strong>. 26 Anualmente, a cada aluno será atribuído um grau de aptidão para o oficialato, conferido por uma junta de oficiais do CIORM. O grau de oficialato será dado numa escala de zero a dez e o julgamento se fará como preceituado no Regimento Interno.
+**Art**. 26 Anualmente, a cada aluno será atribuído um grau de aptidão para o oficialato, conferido por uma junta de oficiais do CIORM. O grau de oficialato será dado numa escala de zero a dez e o julgamento se fará como preceituado no Regimento Interno.
 
 Parágrafo único. O aluno que tiver grau de oficialato inferior a quatro será excluído do CIORM.
 
-<strong>Art</strong>. 27 A classificação inicial dos alunos será por ordem de mérito, conforme a soma dos graus obtidos nas provas do concurso de admissão. Em caso de igualdade de pontos prevalece:
+**Art**. 27 A classificação inicial dos alunos será por ordem de mérito, conforme a soma dos graus obtidos nas provas do concurso de admissão. Em caso de igualdade de pontos prevalece:
 
 a) a maior nota em matemática;
 
@@ -204,9 +202,9 @@ b) o mais idoso.
 
 Parágrafo único. Os alunos que qualquer motivo, forem repetir o primeiro ano, serão reclassificados entre os recem-admitidos, de acôrdo com o mesmo critério, tendo precedência em caso de igualdade de pontos.
 
-<strong>Art</strong>. 28 A classificação dos alunos no 2º ano e no estágio de adaptação será também por ordem de mérito, estabelecida por uma percentagem de aproveitamento, relação percentual entre a soma das médias finais obtidas em cada assunto, inclusive o grau de oficialato, e o número máximo de pontos que o aluno poderá obter por êste critério.
+**Art**. 28 A classificação dos alunos no 2º ano e no estágio de adaptação será também por ordem de mérito, estabelecida por uma percentagem de aproveitamento, relação percentual entre a soma das médias finais obtidas em cada assunto, inclusive o grau de oficialato, e o número máximo de pontos que o aluno poderá obter por êste critério.
 
-<strong>Art</strong>. 29. O aluno que, no fim do letivo for inabilitado em um ou mais assuntos prestará, em agôsto, um novo exame, abrangendo tôda a matéria.
+**Art**. 29. O aluno que, no fim do letivo for inabilitado em um ou mais assuntos prestará, em agôsto, um novo exame, abrangendo tôda a matéria.
 
 Parágrafo único. O aluno que, neste segundo exame, abrangendo fôr inabilitado:
 
@@ -216,17 +214,17 @@ b) em um só assunto técnico - Profissional, repetirá o ano, ou será matricul
 
 c) em mais de um assunto do Ensino Técnico - Profissional, repetirá o ano, ou será eliminado da matrícula, se já tiver gozado uma vez desta concessão.
 
-<strong>Art</strong>. 30. Os alunos dependentes prestarão em primeiro lugar exame do assunto da dependência, e se inabilitados repetirão o ano.
+**Art**. 30. Os alunos dependentes prestarão em primeiro lugar exame do assunto da dependência, e se inabilitados repetirão o ano.
 
-<strong>Art</strong>. 31 Só é permitido aos alunos repetirem um ano.
+**Art**. 31 Só é permitido aos alunos repetirem um ano.
 
-<strong>Art</strong>. 32. Os Guardas - Marinhas da Reserva inabilitados em assuntos do Estágio de Adaptação, prestarão um exame oral do assunto três meses após a primeira inabilitação. Se inabilitado s nêste exame oral serão demitidos.
+**Art**. 32. Os Guardas - Marinhas da Reserva inabilitados em assuntos do Estágio de Adaptação, prestarão um exame oral do assunto três meses após a primeira inabilitação. Se inabilitado s nêste exame oral serão demitidos.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da perda e conservação da matrícula</em>
+*Da perda e conservação da matrícula*
 
-<strong>Art</strong>. 33. Será eliminado da matrícula, ou demitido, o aluno ou Guarda - Marinha que:
+**Art**. 33. Será eliminado da matrícula, ou demitido, o aluno ou Guarda - Marinha que:
 
 a) incorrer nos casos de eliminação ou demissão previstos no capítulo VI;
 
@@ -238,23 +236,23 @@ d) incorre em falta eliminatória prevista no Regimento Interno.
 
 e) atingir, por faltas disciplinares o número eliminatório de deméritos previstos no Regimento Interno.
 
-<strong>Art</strong>. 34. Os alunos desligados do Centro por perda de matrícula, ou os Guardas-Marinhas demitidos serão apresentados aos órgãos competentes, para cumprimento da Legislação em vigor.
+**Art**. 34. Os alunos desligados do Centro por perda de matrícula, ou os Guardas-Marinhas demitidos serão apresentados aos órgãos competentes, para cumprimento da Legislação em vigor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do regime disciplinar</em>
+*Do regime disciplinar*
 
-<strong>Art</strong>. 35. Os alunos do CIORM, tanto no estágio Escolar como no Adaptação estarão sujeitos ao Código Penal Militar e às penas estabelecidas no Regimento Interno.
+**Art**. 35. Os alunos do CIORM, tanto no estágio Escolar como no Adaptação estarão sujeitos ao Código Penal Militar e às penas estabelecidas no Regimento Interno.
 
 Parágrafo único. Quando embarcados ou aquartelados, estarão sujeitos ao Regulamento Disciplinar para a Armarda.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Dos diretos e deveres</em>
+*Dos diretos e deveres*
 
-<strong>Art</strong>. 36. Os alunos dos CIORM terão os deveres e responsabilidades inerentes à sua situação Militar.
+**Art**. 36. Os alunos dos CIORM terão os deveres e responsabilidades inerentes à sua situação Militar.
 
-<strong>Art</strong>. 37. Os alunos dos CIORM terão os seguintes direitos:
+**Art**. 37. Os alunos dos CIORM terão os seguintes direitos:
 
 a) o direito às horas e sinais de respeito que lhes forem aplicáveis pelo Regulamento de Continência, Honras e Sinais de Respeito da Fôrças Armadas;
 
@@ -264,25 +262,25 @@ c) transporte gratuito quando em serviço ou instrução.
 
 d) alimentação por conta do Estado, quando embarcados, ou aquartelados.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 38. Os alunos não perceberão vencimentos, vantagens ou quaisquer gratificações enquanto no Estágio Escolar; durante o Estágio de Adaptação, como Guardas-Marinhas da Reserva, terão os vencimentos e vantagens dos Guardas-Marinhos da ativa.
+**Art**. 38. Os alunos não perceberão vencimentos, vantagens ou quaisquer gratificações enquanto no Estágio Escolar; durante o Estágio de Adaptação, como Guardas-Marinhas da Reserva, terão os vencimentos e vantagens dos Guardas-Marinhos da ativa.
 
-<strong>Art</strong>. 39. Os alunos farão, no ato da matrícula, um depósito em dinheiro, destinado à idealização do material escolar fornecido durante o período de instrução.
+**Art**. 39. Os alunos farão, no ato da matrícula, um depósito em dinheiro, destinado à idealização do material escolar fornecido durante o período de instrução.
 
-<strong>Art</strong>. 40. Os alunos custearão as despesas de aquisição e renovação de seus uniformes.
+**Art**. 40. Os alunos custearão as despesas de aquisição e renovação de seus uniformes.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>Disposições transitórias</em>
+*Disposições transitórias*
 
-<strong>Art</strong>. 41. O Comandante do CIORM do Distrito Federal submeterá à consideração do Ministro da Marinha, dentro do prazo de 60 dias, a contar da data da publicação dêste Regulamento, o projeto de Regimento Interno.
+**Art**. 41. O Comandante do CIORM do Distrito Federal submeterá à consideração do Ministro da Marinha, dentro do prazo de 60 dias, a contar da data da publicação dêste Regulamento, o projeto de Regimento Interno.
 
 Rio de Janeiro, em 2 de fevereiro de 1955.
 
-<strong>EDMUNDO JORDÃO AMORIM DO VALLE</strong>
+**EDMUNDO JORDÃO AMORIM DO VALLE**
 
 Vice-Almirante
 

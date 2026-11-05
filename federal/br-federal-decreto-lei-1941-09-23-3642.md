@@ -1,5 +1,3 @@
-###DEL-003642-0-000-23-09-1941@@@
-
 DECRETO-LEI N. 3.642 – DE 23 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da. Aeronáutica, o crédito especial de 1.472 :400$0, para atender às despesas de instalação do Serviço de Fazenda do Aeronáutica e cria cargos isolados no respectivo Quadro Permanente

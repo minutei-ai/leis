@@ -1,5 +1,3 @@
-###DEC-081842-0-000-26-06-1978@@@
-
 Decreto nº 81.842, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade Municipal de Educação, Ciências e Letras de Paranavaí, com sede na cidade de Paranavaí, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-077015-0-000-14-01-1976@@@
-
 DECRETO Nº 77.015, DE 14 DE JANEIRO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado na cidade de Cataguases, Estado de Minas Gerais.

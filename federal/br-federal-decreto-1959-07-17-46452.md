@@ -1,5 +1,3 @@
-###DEC-046452-0-000-17-07-1959@@@
-
 DECRETO Nº 46.452, DE 17 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Hugo França Zanotti a pesquisar quartzo e água marinha no município de Santa Tereza, estado do Espírito Santo.

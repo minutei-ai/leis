@@ -1,5 +1,3 @@
-###DEC-052041-0-000-22-05-1963@@@
-
 Decreto nº 52.041, de 22 de maio de 1963.
 
 Altera o artigo 68 do Regulamento de Pessoal do Ministério das Relações Exteriores, aprovado pelo Decreto nº 2, de 21 de setembro de 1961.

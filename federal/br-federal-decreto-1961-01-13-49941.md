@@ -1,5 +1,3 @@
-###DEC-049941-0-000-13-01-1961@@@
-
 DECRETO Nº 49.941, DE 13 DE JANEIRO DE 1961.
 
 Autoriza MIL - Mineração Ita Ltda. a lavrar caulim, no município de São Bernardo do Campo, Estado de São Paulo.

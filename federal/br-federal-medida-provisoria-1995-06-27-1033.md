@@ -1,7 +1,3 @@
-1
-
-###MPV-001033-0-000-27-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.033, DE 27 DE JUNHO DE 1995.
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212033)<br>
-
 # DECRETO N° 70.227, DE 19 DE DEZEMBRO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Barrinha, que declarou Situação de Emergência em áreas do Município._

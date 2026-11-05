@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53789)
-
 # LEI Nº 11.951, DE 10 DE JUNHO DE 2005
 
 ## (PL 156/2004 - José Dilson)

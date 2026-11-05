@@ -1,5 +1,3 @@
-###DEC-078479-0-000-28-09-1976@@@
-
 DECRETO Nº 78.479, DE 28 DE SETEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio São Francisco Ltda. para que a Fundação Frei João Batista Vogel, O.F.M. - Rádio São Francisco passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Anápolis, Estado de Goiás.

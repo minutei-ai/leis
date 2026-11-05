@@ -1,7 +1,3 @@
-1
-
-###DEC-001099-0-000-30-03-1994@@@
-
 # DECRETO N° 1.099, DE 30 DE MARÇO DE 1994
 
 Dispõe sobre a organização e o funcionamento da Junta de Programação Financeira.

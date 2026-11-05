@@ -1,5 +1,3 @@
-###DEC-055892-0-000-01-04-1965@@@
-
 Decreto nº 55.892, de 1º de abril de 1965.
 
 Dispõe sôbre a prestação de assistência médica pelas autarquias que menciona.

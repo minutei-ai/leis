@@ -1,5 +1,3 @@
-###DEC-083014-0-000-11-01-1979@@@
-
 Decreto nº 83.014, de 11 de janeiro de 1979
 
 Retifica a autorização de lavra conferida à cidadã brasileira Etelvina Gavazza de Andrade pelo Decreto nº 23.784, de 06 de outubro de 1947, retificado pelo Decreto nº 24.027, de 11 de novembro de 1947.

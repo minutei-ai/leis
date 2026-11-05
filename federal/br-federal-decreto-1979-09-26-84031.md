@@ -1,5 +1,3 @@
-###DEC-084031-0-000-26-09-1979@@@
-
 DECRETO Nº 84.031, de 26 de setembro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa permanente, faixa de terra destinada à passagem de aqueduto da Indústria de Material Bélico do Brasil - IMBEL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-066772-0-000-24-06-1970@@@
-
 DECRETO Nº 66.772 - DE 24 DE JUNHO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel designado por Lote 51, sito na Rua Frei Mariano, cidade de Corumbá, Estado de Mato Grosso, necessário à construção da Estação Terminal de Microondas daquela cidade, integrante do Sistema Nacional de Telecomunicações, a cargo da Emprêsa Brasileira de Telecomunicações - EMBRATEL.

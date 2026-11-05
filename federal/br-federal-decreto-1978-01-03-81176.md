@@ -1,5 +1,3 @@
-###DEC-081176-0-000-03-01-1978@@@
-
 Decreto nº 81.176, de 3 de janeiro de 1978
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas de Patos, com sede na cidade de Patos, Estado da Paraíba.

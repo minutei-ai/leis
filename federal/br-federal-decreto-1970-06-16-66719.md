@@ -1,5 +1,3 @@
-###DEC-066719-0-000-16-06-1970@@@
-
 DECRETO Nº 66.719, DE 16 DE JUNHO DE 1970.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

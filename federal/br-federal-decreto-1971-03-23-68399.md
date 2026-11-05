@@ -1,5 +1,3 @@
-###DEC-068399-0-000-23-03-1971@@@
-
 DECRETO Nº 68.399, DE 23 DE MARÇO de 1971.
 
 Concede à Mineração Santa Patrícia Ltda., o direito de lavrar caulim, no município de Mazagão, Território Federal do Amapá.

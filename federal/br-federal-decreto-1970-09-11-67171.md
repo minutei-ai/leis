@@ -1,5 +1,3 @@
-###DEC-067171-0-000-11-09-1970@@@
-
 DECRETO Nº 67.171, DE 11 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem de linha de transmissão no município de Duartina, no Estado de São Paulo.

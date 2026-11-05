@@ -1,5 +1,3 @@
-###DEC-058404-0-000-17-05-1966@@@
-
 decreto nº 58.404, de 17 de maio de 1966.
 
 Renova o decreto nº 52.928, de 25 de novembro de 1963.

@@ -1,5 +1,3 @@
-###DEC-002602-0-000-22-05-1998@@@
-
 DECRETO Nº 2.602, DE 22 DE MAIO DE 1998
 
 Dá nova redação ao art. 19 do Regulamento para o Fundo do EMFA, aprovado pelo Decreto nº 92.222, de 27 de dezembro de 1985.

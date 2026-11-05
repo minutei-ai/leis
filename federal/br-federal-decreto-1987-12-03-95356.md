@@ -1,5 +1,3 @@
-###DEC-095356-0-000-03-12-1987@@@
-
 DECRETO Nº 95.356, DE 3 DE DEZEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA GUARIROBA", classificado como “latifúndio por exploração”, situado no Município de Paracatu, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

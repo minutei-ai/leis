@@ -1,5 +1,3 @@
-###DEC-062036-0-000-29-12-1967@@@
-
 DECRETO Nº 62.036, DE 29 DE DEZEMBRO DE 1967.
 
 Outorga concessão à Rádio Vicente Palotti Ltda., para estabelecer uma estação de radiodifusão sonora na cidade de Coronel Vivida, Estado do Paraná.

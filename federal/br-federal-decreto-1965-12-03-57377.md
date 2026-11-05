@@ -1,5 +1,3 @@
-###DEC-057377-0-000-03-12-1965@@@
-
 decreto nº 57.377, de 3 de dezembro de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Nova América Companhia de Seguros Gerais, relativas à transferência da sede e ao aumento do capital social.

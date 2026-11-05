@@ -1,5 +1,3 @@
-###DEC-072513-0-000-23-07-1973@@@
-
 DECRETO Nº 72.513, DE 23 DE JULHO DE 1973.
 
 Autoriza a permuta dos terrenos que menciona, situados em Brasília, Distrito Federal.

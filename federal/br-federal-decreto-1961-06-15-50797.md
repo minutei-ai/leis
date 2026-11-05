@@ -1,5 +1,3 @@
-###DEC-050797-0-000-15-06-1961@@@
-
 Decreto nº 50.797, de 15 de junho de 1961.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no distrito de Santana da Vargem, município de Três Pontas, Estado de Minas Gerais, e dá outras providências.

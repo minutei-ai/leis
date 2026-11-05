@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210764)<br>
-
 # LEI N° 18.132, DE 19 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 383/2024, dos Deputados Rogério Santos - MDB e Gil Diniz - PL)

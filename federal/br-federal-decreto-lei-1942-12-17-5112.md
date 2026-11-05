@@ -1,5 +1,3 @@
-###DEL-005112-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.112 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 5.500.000,00 para prosseguimento da construção da Estrada de Ferro Santa Catarina

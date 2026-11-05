@@ -1,5 +1,3 @@
-###DEC-045968-0-000-06-05-1959@@@
-
 DECRETO Nº 45.968, DE 6 DE MAIO DE 1959.
 
 Suprime cargo extinto

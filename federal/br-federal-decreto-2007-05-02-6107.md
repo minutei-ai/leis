@@ -1,5 +1,3 @@
-###DEC-006107-0-000-02-05-2007@@@
-
 DECRETO Nº 6.107, DE 2 DE MAIO DE 2007.
 
 Dá nova redação ao art. 3o do Decreto no 3.939, de 26 de setembro de 2001, que dispõe sobre a Comissão Interministerial para os Recursos do Mar (CIRM).
@@ -55,5 +53,3 @@ Brasília, 2 de maio de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Waldir Pires
-
-Este texto não substitui o publicado no DOU de 3.5.2007.

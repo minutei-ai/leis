@@ -1,7 +1,3 @@
-1
-
-###DEC-085791-0-000-09-03-1981@@@
-
 Decreto nº 85.791, de 09 de março de 1981.
 
 Autoriza o funcionamento do curso de Odontologia, do Instituto de Odontologia Paulista, com sede na cidade de São Paulo, Estado de São Paulo.

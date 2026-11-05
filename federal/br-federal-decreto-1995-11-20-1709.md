@@ -1,7 +1,3 @@
-1
-
-###DEC-001709-0-000-20-11-1995@@@
-
 DECRETO N° 1.709, DE 20 DE NOVEMBRO DE 1995
 
 Declara de preservação permanente as florestas e demais formas de vegetação autóctone situadas no imóvel que menciona.

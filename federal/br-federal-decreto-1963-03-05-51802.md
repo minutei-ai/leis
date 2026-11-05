@@ -1,5 +1,3 @@
-###DEC-051802-0-000-05-03-1963@@@
-
 DECRETO Nº 51.802, DE 5 DE MARÇO DE 1963.
 
 ”Altera a redação do parágrafo 3º do Artigo 1º, assim como a do Artigo 6º do Decreto número 47.933, de 15 de março de 1960, que institui normas especiais de trabalho para construção de trechos rodoviários integrantes da ligação Brasília-Acre”.

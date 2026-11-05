@@ -1,5 +1,3 @@
-###DEC-056842-0-000-06-09-1965@@@
-
 DECRETO Nº 56.842, DE 6 DE SETEMBRO DE 1965.
 
 Concede à Cerâmica Vaz Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-073428-0-000-08-01-1974@@@
-
 DECRETO Nº 73.428, DE 8 DE JANEIRO DE 1974.
 
 Torna sem efeito redistribuição de cargo, com a respectiva ocupante, do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil para o do Ministério da Educação e Cultura.

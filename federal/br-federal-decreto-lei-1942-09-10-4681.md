@@ -1,5 +1,3 @@
-###DEL-004681-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.681 – DE 10 DE SETEMBRO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de 97:000$0, à verba que especifica

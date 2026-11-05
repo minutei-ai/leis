@@ -1,5 +1,3 @@
-###DEC-091950-0-000-18-11-1985@@@
-
 Decreto nº 91.950, de 18 de novembro de 1985.
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA - COFAVI  autorização para proceder a aumento de seu capital social.

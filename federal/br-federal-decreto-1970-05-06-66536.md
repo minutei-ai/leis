@@ -1,5 +1,3 @@
-###DEC-066536-0-000-06-05-1970@@@
-
 DECRETO Nº 66.536, DE 6 DE MAIO DE 1970.
 
 Aprova o Estatuto da Universidade Federal do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-084444-0-000-30-01-1980@@@
-
 Decreto nº 84.444 de 30 de janeiro de 1980.
 
 Regulamenta a Lei nº 6.583, de 20 de outubro de 1978, que cria os Conselhos Federal e Regionais de Nutricionistas, regula o seu funcionamento e da outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000019-0-000-01-02-1991@@@
-
 DECRETO Nº 19, DE 1º DE FEVEREIRO DE 1991.
 
 Estabelece normas para a programação e execução orçamentária e financeira dos orçamentos da União para o exercício de 1991 e dá outras providências.

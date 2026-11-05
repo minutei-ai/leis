@@ -1,5 +1,3 @@
-###DEC-057178-0-000-05-11-1965@@@
-
 DECRETO Nº 57.178, DE 5 DE NOVEMBRO DE 1965.
 
 Cria o “Fundo para Investimentos Sociais” - FUNINSO - e dá outras providências.

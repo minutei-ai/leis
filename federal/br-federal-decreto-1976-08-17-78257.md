@@ -1,5 +1,3 @@
-###DEC-078257-0-000-17-08-1976@@@
-
 DECRETO N.º 78.257-DE 17 DE AGOSTO DE 1976
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade Regina Coeli, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

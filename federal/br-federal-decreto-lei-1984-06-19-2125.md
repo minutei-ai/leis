@@ -1,5 +1,3 @@
-###DEL-002125-0-000-19-06-1984@@@
-
 # Decreto-lei nº 2125, de 19 de junho de 1984
 
 Estabelece correspondência de referências de vencimentos concernentes aos servidores alcançados pelo artigo 1º da Lei nº 6.823, de 22 de setembro de 1980.

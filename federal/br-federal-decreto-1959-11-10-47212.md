@@ -1,5 +1,3 @@
-###DEC-047212-0-000-10-11-1959@@@
-
 DECRETO Nº 47.212, DE 10 DE NOVEMBRO DE 1959
 
 Dispõe sôbre a formação de estoques de reserva, ou reguladores de suprimento de artigos de primeira necessidade, no mercado interno, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006998-0-000-05-11-2009@@@
-
 DECRETO Nº 6.998, DE 5 DE NOVEMBRO DE 2009.
 
 Acresce e altera dispositivos do Decreto no 6.980, de 13 de outubro de 2009, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria Especial dos Direitos Humanos da Presidência da República.

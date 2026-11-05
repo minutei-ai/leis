@@ -1,5 +1,3 @@
-###DEC-054152-0-000-20-08-1964@@@
-
 DECRETO Nº 54.152, DE 20 DE AGÔSTO DE 1964.
 
 Transfere da Prefeitura Municipal de Ilhabela para o Departamento de Águas e Energia Elétrica do Estado de São Paulo concessão para distribuir energia elétrica no Município de Ilhabela, Estado de São Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000126-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 126 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de réis 848:392$700, para pagamento de material nus condições que menciona.

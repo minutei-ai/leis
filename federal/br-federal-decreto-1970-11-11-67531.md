@@ -1,5 +1,3 @@
-###DEC-067531-0-000-11-11-1970@@@
-
 decreto nº 67.531, de 11 de novembro de 1970.
 
 Altera disposições do Decreto nº 61.105, de 28 de julho de 1967, e dá outras providências.

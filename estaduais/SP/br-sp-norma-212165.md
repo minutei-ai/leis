@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212165)<br>
-
 # DECRETO N° 70.337, DE 12 DE JANEIRO DE 2026
 
 ### _Autoriza a abertura de licitação para a concessão da prestação dos serviços de recolhimento, custódia, restituição e preparação para leilão de veículos recolhidos pelos órgãos de trânsito no Estado de São Paulo, e aprova o respectivo regulamento._
@@ -48,12 +46,14 @@ Rafael Antonio Cren Benini
 
 #### REGULAMENTO DA CONCESSÃO DOS SERVIÇOS DE RECOLHIMENTO, CUSTÓDIA, RESTITUIÇÃO E PREPARAÇÃO PARA LEILÃO DE VEÍCULOS RECOLHIDOS PELOS ÓRGÃOS DE TRÂNSITO NO ESTADO DE SÃO PAULO
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este Regulamento tem por objetivo disciplinar os serviços de recolhimento, custódia, restituição e preparação para leilão de veículos recolhidos pelos órgãos de trânsito no Estado de São Paulo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Serviços Concedidos
 
 **Artigo 2° -** Os serviços serão prestados pela concessionária, ou por terceiros por ela contratados, observadas as regras previstas no contrato de concessão, e corresponderão às funções operacionais e aos investimentos necessários à respectiva prestação, incluindo infraestruturas físicas e virtuais, nos termos do caderno de encargos que acompanha o edital da licitação.
@@ -74,7 +74,8 @@ VI - operação, manutenção e gestão dos Pátios Veiculares estaduais.
 
 **Artigo 4° -** A concessionária poderá explorar atividades geradoras de receitas acessórias, nos termos do contrato de concessão e seus anexos.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Responsabilidades da Concessionária
 
 **Artigo 5° -** São deveres da concessionária durante todo o prazo de concessão:
@@ -115,7 +116,8 @@ XVII - responder pela conduta de seus empregados e de terceiros contratados, qua
 
 **Parágrafo único -** Para os fins do inciso VI, a responsabilidade da concessionária perdurará mesmo depois de encerrado o contrato, podendo o Poder Concedente buscar o ressarcimento junto aos sócios da concessionária, na forma da legislação societária, no caso de extinção da pessoa jurídica.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Acompanhamento da Concessão, da Fiscalização dos Serviços Concedidos e das Penalidades
 
 **Artigo 6° -** A Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP atuará, na forma prevista no contrato, no acompanhamento da concessão e na fiscalização dos serviços concedidos.
@@ -142,7 +144,8 @@ c) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **§2° -** Os fatores a que se refere o §1° serão aferidos a partir dos parâmetros definidos nos anexos do contrato.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Receitas
 
 **Artigo 8° -** Constituem fontes de receita da concessionária a serem auferidas nos termos do contrato de concessão:
@@ -157,7 +160,8 @@ IV - outras receitas previstas no edital e no contrato respectivo, ou que venham
 
 **Parágrafo único -** As tarifas dos serviços de recolhimento, custódia e restituição de veículos recolhidos e os valores auferidos pela prestação dos serviços de preparação do leilão, bem como os critérios e periodicidade de reajuste, serão estabelecidos no edital, observadas as normas legais e regulamentares pertinentes.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações dos Usuários dos Serviços Concedidos
 
 **Artigo 9° -** São direitos e obrigações dos usuários:
@@ -176,7 +180,8 @@ VI - contribuir para permanência das boas condições dos bens da concessionár
 
 VII - se valer, sempre que possível, de infraestrutura adaptada às pessoas com deficiência ou com mobilidade reduzida, inclusive idosos, nos termos previstos nas normas vigentes;
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Disposições Gerais
 
 **Artigo 10**° - Nos termos das normas de organização administrativa vigentes do Estado de São Paulo, poderão ser expedidas normas complementares necessárias à execução deste Regulamento.

@@ -1,5 +1,3 @@
-###DEL-005264-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.264 – DE 18 DE FEVEREIRO DE 1943
 
 Autoriza O Prefeito do Distrito Federal a isentra, dos tributos de transmissão correspondentes a aquisição, pelo Asilo Infantil Nossa Senhora de PomPéia, dos imoveis qua menciona e dá  outras providências

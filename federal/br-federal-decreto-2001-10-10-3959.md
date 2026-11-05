@@ -1,5 +1,3 @@
-###DEC-003959-0-000-10-10-2001@@@
-
 DECRETO Nº 3.959, DE 10 DE OUTUBRO DE 2001 - 1ª PARTE
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Relações Exteriores e dá outras providências.

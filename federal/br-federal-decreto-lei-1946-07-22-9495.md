@@ -1,5 +1,3 @@
-###DEL-009495-0-000-22-07-1946@@@
-
 DECRETO-LEI N. 9.495 – DE 22 DE JULHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a vender à Standard Oil Company of Brazil o imóvel que menciona:

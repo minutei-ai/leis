@@ -1,5 +1,3 @@
-###MPV-001985-0-029\-29-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-29, DE 29 de junho DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002522-0-000-20-03-1998@@@
-
 DECRETO Nº 2.522, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de “Renegociação das Concessões Outorgadas no Período 1962/1980” nº 11, entre Brasil e Equador, de 18 de dezembro de 1997.

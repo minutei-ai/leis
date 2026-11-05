@@ -1,13 +1,15 @@
 LEI DELEGADA Nº 51 DE 31 DE MAIO DE 1983
 
-Ver também:<br>
+Ver também:
+
 Art. 12 da Lei nº 7.016, de 09 de dezembro de 1996: "Esta Lei entrará em vigor na data de sua publicação, revogados os dispositivos da Lei Delegada nº 51, de 31 de maio de 1983 e demais disposições em contrário."
 
 Dispõe sobre a organização do Conselho Estadual de Cultura e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi delegada pela Resolução nº 1.176 de 03 de dezembro de 1982, da Assembléia Legislativa do Estado da Bahia, promulga a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE, SEDE E CONSTITUIÇÃO
 
 Art. 1º - O Conselho Estadual de Cultura, órgão colegiado integrante da Secretaria da Educação e Cultura, com sede na Capital e jurisdição em todo o território estadual, tem por finalidade participar da formulação da política estadual de cultura, exercendo, nos termos do art. 121 da Constituição do Estado, funções normativas e consultivas.
@@ -20,7 +22,8 @@ Art. 2º - O Conselho Estadual de Cultura compõe-se de 20 (vinte) membros , nom
 
 § 3º - Em caso de vacância definitiva, ficará a critério do Governador do Estado decidir sobre a nomeação do substituto.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 COMPETÊNCIA
 
 Art. 3º - Consideram-se atividades culturais para o fim da fixação da competência do Conselho:
@@ -73,7 +76,8 @@ XVII - exercer outras atividades correlatas.
 
 Parágrafo único - Dependem de homologação do Secretário da Educação e Cultura os atos e resoluções, aprovados em Plenário, sempre que fixem doutrinas, normas de ordem geral ou que gerem obrigações para o Poder Público.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FUNCIONAMENTO
 
 Art. 5º - O Conselho Estadual de Cultura funcionará em Plenário, Câmara e Comissões Permanentes.
@@ -86,7 +90,8 @@ Art. 5º - O Conselho Estadual de Cultura funcionará em Plenário, Câmara e Co
 
 § 4º - Na forma regimental, por iniciativa do Secretário da Educação e Cultura ou da Presidência do Conselho, poderão ser criadas comissões especiais ou grupos de trabalho.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 ADMINISTRAÇÃO DO CONSELHO
 
 Art. 6º - A Administração do Conselho Estadual de Cultura incumbe ao Presidente, eleito mediante votação secreta, pela maioria de seus pares, com mandato de dois anos, permitida a reeleição.
@@ -105,7 +110,8 @@ Art. 7º - Cabe à Presidência compor as Câmaras, as Comissões Permanentes e 
 
 Art. 8º - Para o exercício de suas atividades o Conselho disporá de unidades técnico-administrativas definidas no Regimento Interno.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 CONSELHEIRO
 
 Art. 9º - A função de Conselheiro é considerada de relevante interesse público, e seu exercício terá prioridade sobre qualquer função ou cargo.
@@ -118,7 +124,8 @@ Art. 11 - Poderão ser atribuídos encargos ou representação ao Conselheiro su
 
 Art. 12 - O Conselheiro não poderá participar de deliberação sobre assuntos de seu interesse pessoal ou de parentes até o terceiro grau, inclusive.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - As deliberações do Conselho Estadual de Cultura se revestirão de forma de resolução ou parecer.

@@ -1,5 +1,3 @@
-###DEL-003834-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.834 – DE 18 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de réis 12.000:000$0 destinado  á compra de 50 aviões FAIRCHILD-M-62.

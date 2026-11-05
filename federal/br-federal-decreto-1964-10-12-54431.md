@@ -1,5 +1,3 @@
-###DEC-054431-0-000-12-10-1964@@@
-
 DECRETO Nº 54.431, DE 12 DE OUTUBRO DE 1964.
 
 Concede à Mineração Magnecal, Indústria e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

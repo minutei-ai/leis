@@ -6,12 +6,14 @@ A CÂMARA MUNICIPAL DE APARECIDA DE GOIANIA, ESTADO DE GOIÁS, APROVA E EU, JOS�
 
 Art. 1º - A Lei Municipal nº 1.061 de 25 de março de 1992 e alterada pela Lei n. 1.240 de 30 de junho de 1.993 que instituiu o Conselho Municipal de Saúde de Aparecida de Goiânia passa a ter a seguinte redação.
 
-CAPITULO I<br>
+CAPITULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 2º - Fica criado nos termos da legislação federal, estadual e municipal que regem a matéria, o Conselho Municipal de Saúde - CMS, órgão colegiado de composição paritária, caráter permanente, deliberativo, normativo, fiscalizador e consultivo, como co-responsável pelo Sistema Único de Saúde – SUS – no Município de Aparecida de Goiânia, com o objetivo de assegurar o direito à saúde e à qualidade de vida às pessoas mediante a efetiva participação da comunidade na gestão da política de saúde, sem prejuízo das funções dos demais poderes legalmente constituídos.
 
-CAPITULO II<br>
+CAPITULO II
+
 DA FINALIDADE E COMPETÊNCIAS
 
 Art. 3º - O Conselho Municipal de Saúde tem por finalidade atuar na formulação da política global de saúde para o Município de Aparecida de Goiânia e determinar sua execução, deliberando sobre normas regulamentares, técnicas, padrões e outras medidas de caráter operacional.
@@ -72,7 +74,8 @@ XXVI - Deliberar sobre o Plano Municipal de Investimentos no Sistema de Saúde;
 
 XXVII - Propor e aprovar diretrizes para elaboração da Política Municipal e Saúde em consonância com os princípios e diretrizes do Sistema Único de Saúde.
 
-CAPITULO III<br>
+CAPITULO III
+
 DA ORGANIZAÇÃO, COMPOSIÇÃO, ELEIÇÃO E FUNCIONAMENTO.
 
 Art. 5º - O Conselho Municipal de Saúde de Aparecida de Goiânia tem a seguinte organização:
@@ -97,7 +100,8 @@ III – 25% de representação de governo, de prestadores de serviços privados 
 
 Art. 7º - A eleição do Conselho Municipal de Saúde será realizada através de Conferencia Municipal de Saúde e as representações serão por entidades e instituições, podendo as mesmas, elegerem ou indicarem seus representantes, conforme seus estatutos, para compor o Plenário do Conselho Municipal de Saúde.
 
-§1º - O mandato das entidades e instituições membras do Conselho Municipal de Saúde, será de quatro anos, renovável nas Conferências Municipais de Saúde, convocadas em caráter ordinário.<br>
+§1º - O mandato das entidades e instituições membras do Conselho Municipal de Saúde, será de quatro anos, renovável nas Conferências Municipais de Saúde, convocadas em caráter ordinário.
+
 (Redação alterada pela Lei Ordinária nº 3.638, de 15 de dezembro de 2021).
 
 ~~§1º. O mandato das entidades e instituições membros do Conselho Municipal de Saúde será de dois anos, renovável nas Conferências Municipais de Saúde, convocadas em caráter ordinário.~~
@@ -120,7 +124,8 @@ Art. 8º - O funcionamento do Conselho Municipal de Saúde será conforme o Regi
 
 §6º. As deliberações do Plenário obedecerão a critérios regimentais quanto, à formalidade documental e o rito.
 
-CAPITULO IV<br>
+CAPITULO IV
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 9º - Nos termos do artigo 1º parágrafo 2º, da Lei Federal nº 8.142, as decisões do Conselho Municipal de Saúde deverão ser homologadas pelo Secretário Municipal de Saúde, na forma regimental.
@@ -137,11 +142,14 @@ Art. 13 - Revogam-se as disposições em contrário.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, Estado de Goiás, aos 29 dias do mês de outubro de 2008.
 
-JOSÉ MACEDO DE ARAÚJO.<br>
+JOSÉ MACEDO DE ARAÚJO.
+
 PREFEITO MUNICIPAL
 
-RODRIGO GONZAGA CALDAS<br>
+RODRIGO GONZAGA CALDAS
+
 SECRETÁRIO DE SAÚDE
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SECRETÁRIO EXECUTIVO

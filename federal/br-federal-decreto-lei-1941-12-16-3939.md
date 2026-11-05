@@ -1,5 +1,3 @@
-###DEL-003939-0-000-16-12-1941@@@
-
 DECRETO-LEI N. 3.939 – DE 16 DE DEZEMBRO DE 1941
 
 Estabelece a forma de administração das Caixas de Aposentadoria e Pensões e dá outras providências

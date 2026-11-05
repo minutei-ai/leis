@@ -1,5 +1,3 @@
-###DEC-078482-0-000-28-09-1976@@@
-
 DECRETO Nº 78.482, DE 28 DE SETEMBRO DE 1976.
 
 Concede autorização à General Motors do Brasil S.A., sediada em São Caetano do Sul, Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, nas suas fábricas localizadas naquela cidade e na de São José dos Campos.

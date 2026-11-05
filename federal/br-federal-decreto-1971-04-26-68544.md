@@ -1,5 +1,3 @@
-###DEC-068544-0-000-26-04-1971@@@
-
 DECRETO Nº 68.544, DE 26 DE ABRIL de 1971.
 
 Concede permissão, em caráter permanente, à empresa Indústria de Meias Aço S. A., para funcionar aos domingos e nos dias feriados civis e religiosos.

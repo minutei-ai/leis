@@ -1,5 +1,3 @@
-###DEC-089121-0-000-06-12-1983@@@
-
 Decreto nº 89.121, de 06 de dezembro de 1983
 
 Regulamenta a Lei nº 6.009, de 26 de dezembro de 1973, alterada pelo Decreto-lei nº 2.060, de 12 de setembro de 1983, que dispõe sobre a utilização e a exploração dos aeroportos e das facilidades à navegação aérea.

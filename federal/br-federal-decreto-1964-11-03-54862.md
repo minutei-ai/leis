@@ -1,5 +1,3 @@
-###DEC-054862-0-000-03-11-1964@@@
-
 DECRETO Nº 54.862, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Luiz Gonzaga Ramos a lavrar água mineral, no município de Ibiraci, Estado de Minas Gerais.

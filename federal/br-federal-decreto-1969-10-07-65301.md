@@ -1,5 +1,3 @@
-###DEC-065301-0-000-07-10-1969@@@
-
 DECRETO Nº 65.301 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto número 20.731, de 13 de março de 1946.

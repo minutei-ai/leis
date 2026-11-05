@@ -1,14 +1,12 @@
-###DEC-031682-0-000-30-10-1952@@@
+**DECRETO Nº 31.682, DE 30 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.682, DE 30 DE OUTUBRO DE 1952.</strong>
+***Altera o artigo 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934.***
 
-<em><strong>Altera o artigo 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 67, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 67, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934, passa a ter a seguintes redação
+**Art**. 1º O art. 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934, passa a ter a seguintes redação
 
 Art. 51. Além das aplicações previstas em lei especial, o patrimônio do Instituto deverá ser empregado, de modo que dêle se obtenha o melhor rendimento.
 
@@ -20,10 +18,10 @@ c) em empréstimos aos associados, mediante consignação em fôlha;
 
 d) em empréstimos aos sindicatos de empregados em estabelecimentos bancários e às cooperativas de consumo de bancários, mediante garantia hipotecária, para aquisição ou construção de sua sede social, de acôrdo com as instruções expedidas pelo Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Segadas Viana

@@ -1,5 +1,3 @@
-###DEC-003393-0-000-28-03-2000@@@
-
 DECRETO Nº 3.393, DE 28 DE MARÇO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidrelétricos, e dá outras providências.

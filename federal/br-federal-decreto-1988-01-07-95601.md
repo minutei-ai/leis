@@ -1,7 +1,3 @@
-1
-
-###DEC-095601-0-000-07-01-1988@@@
-
 DECRETO N° 95.601, DE 7 DE JANEIRO DE 1988
 
 Altera dispositivos do Decreto n° 88.455, de 4 de julho de 1983, que regulamenta a designação de militar da reserva remunerada das Forças Armadas para o serviço ativo.

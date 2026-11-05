@@ -1,6 +1,7 @@
 LEI Nº 2.113 DE 04 DE JANEIRO DE 1965
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.636](https://www.legislabahia.ba.gov.br/documentos/lei-no-12636-de-10-de-janeiro-de-2013#LO%2012.636)  de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Extremo Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Alcobaça, Caravelas, Ibirapoã, Itamaraju, Itanhém, Jucuruçu, Lajedão, Medeiros Neto, Mucuri, Nova Viçosa, Prado, Teixeira de Freitas e Vereda. 
 
 Corrige a [Lei nº 1.738 de 20 de julho de 1962](https://www.legislabahia.ba.gov.br/documentos/lei-no-1738-de-20-de-julho-de-1962#LO_1_738) , que criou o Município de Ibirapoã, desmembrado do de Caravelas.
@@ -35,4 +36,4 @@ Governador
 
 Paulo Pereira de Almeida
 
-* * *
+ *

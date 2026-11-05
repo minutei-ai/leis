@@ -1,5 +1,3 @@
-###DEC-057083-0-000-15-10-1965@@@
-
 DECRETO Nº 57.083, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza a Sociedade Industrial União Ltda, a lavrar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

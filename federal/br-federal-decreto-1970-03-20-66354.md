@@ -1,5 +1,3 @@
-###DEC-066354-0-000-20-03-1970@@@
-
 DECRETO Nº 66.354 - DE 20 DE MARÇO DE 1970
 
 Dispõe sôbre a constituição de Grupos de Trabalho para propor as bases de convênios a serem firmados com Estados e Municípios, relativamente à integração de serviços ligados à Educação e Saúde.

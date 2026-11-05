@@ -1,5 +1,3 @@
-###DEC-087588-0-000-20-09-1982@@@
-
 Decreto nº 87.588, de 20 de setembro de 1982.
 
 Cria, no Estado do Espírito Santo, a Reserva Biológica de Sooretama, com os limites que específica e dá outras providências.

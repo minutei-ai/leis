@@ -1,5 +1,3 @@
-###DEC-068651-0-000-24-05-1971@@@
-
 DECRETO Nº 68.651 - DE 24 DE MAIO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem da linha de transmissão Pôrto da Fôlha - Monte Alegre, no Estado de Sergipe.

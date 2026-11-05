@@ -1,5 +1,3 @@
-###DEL-009393-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.393 – DE 21 DE JUNHO DE 1946
 
 Concede pensão a um veterano do Paraguai.

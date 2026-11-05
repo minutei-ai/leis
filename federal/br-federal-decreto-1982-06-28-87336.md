@@ -1,5 +1,3 @@
-###DEC-087336-0-000-28-06-1982@@@
-
 Decreto nº 87.336, de 28 de junho de 1982.
 
 Dispõe sobre a constituição da "Empresa Gerencial de Projetos Navais - EMGEPRON".

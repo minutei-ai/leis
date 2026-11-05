@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211781)<br>
-
 # DECRETO N° 70.057, DE 05 DE NOVEMBRO DE 2025
 
 ### _Concede a Medalha dos Bandeirantes às personalidades que especifica._

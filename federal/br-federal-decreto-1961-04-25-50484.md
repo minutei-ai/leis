@@ -1,5 +1,3 @@
-###DEC-050484-0-000-25-04-1961@@@
-
 DECRETO Nº 50.484, DE 25 DE ABRIL DE 1961.
 
 Concede autorização para o funcionamento do curso que indica.

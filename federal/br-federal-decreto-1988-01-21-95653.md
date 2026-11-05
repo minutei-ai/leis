@@ -1,7 +1,3 @@
-1
-
-###DEC-095653-0-000-21-01-1988@@@
-
 DECRETO N° 95.653, DE 21 DE JANEIRO DE 1988
 
 Concede à USINA SIDERÚRGICA DA BAHIA S.A. - USIBA (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital autorizado e social.

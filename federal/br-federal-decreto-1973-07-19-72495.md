@@ -1,5 +1,3 @@
-###DEC-072495-0-000-19-07-1973@@@
-
 Decreto nº 72.495, de 19 de julho de 1973.
 
 Estabelece normas para a concessão de amparo técnico e financeiro às entidades particulares de ensino e dá outras providências.

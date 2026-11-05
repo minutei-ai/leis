@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d842e701-3761-478c-b168-ef0498c27477/texto#nowhere)
 
-###DEL-000803-0-000-28-08-1969@@@
-
 DECRETO-LEI Nº 803, De 28 De AGÔSTO DE 1969
 
 Complementa o disposto no Decreto-lei nº 725, de 31 de julho de 1969.

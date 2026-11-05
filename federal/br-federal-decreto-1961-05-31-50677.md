@@ -1,5 +1,3 @@
-###DEC-050677-0-000-31-05-1961@@@
-
 DECRETO Nº 50.677, DE 31 DE MAIO DE 1961.
 
 Altera o art. 3º do Decreto nº 50.316, de 6 de março de 1961, a fim de autorizar as Caixas Econômicas Federais a realizar operações de crédito nas Carteiras Hipotecárias para a construção de teatros e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002452-0-000-29-07-1988@@@
-
 # DECRETO-LEI N° 2.452, DE 29 DE JULHO DE 1988
 
 Dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportações e dá outras providências.

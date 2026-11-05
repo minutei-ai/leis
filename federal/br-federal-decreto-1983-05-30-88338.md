@@ -1,5 +1,3 @@
-###DEC-088338-0-000-30-05-1983@@@
-
 Decreto nº 88.338, de 30 de maio de 1983
 
 Cassa a concessão outorgada à RÁDIO VEREDA LTDA., para executar serviços de radiodifusão sonora em ondas médias de âmbito regional, na cidade de Araçuaí, Estado de Minas Gerais.

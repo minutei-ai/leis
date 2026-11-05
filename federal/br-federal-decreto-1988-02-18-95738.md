@@ -1,7 +1,3 @@
-1
-
-###DEC-095738-0-000-18-02-1988@@@
-
 DECRETO N° 95.738, DE 18 DE FEVEREIRO DE 1988
 
 Dispõe sobre a elevação do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

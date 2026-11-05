@@ -1,5 +1,3 @@
-###DEC-049723-0-000-31-12-1960@@@
-
 DECRETO Nº 49.723, DE 31 DE DEZEMBRO DE 1960.
 
 Concede á sociedade José Martins & Cia. Autorização para funcionar como emprêsa de navegação de cabotagem.

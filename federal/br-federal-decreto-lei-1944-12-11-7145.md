@@ -1,5 +1,3 @@
-###DEL-007145-0-000-11-12-1944@@@
-
 DECRETO-LEI N. 7.145 – DE 11 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 78.802,00 à verba que especifica

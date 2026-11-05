@@ -1,5 +1,3 @@
-###DEC-055302-0-000-30-12-1964@@@
-
 DECRETO Nº 55.302, DE 30 DE DEZEMBRO DE 1964.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$200.000.000,00 (duzentos milhões de cruzeiros) para atender às despesas que especifica.

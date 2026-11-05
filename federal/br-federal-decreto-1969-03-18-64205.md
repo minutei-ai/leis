@@ -1,5 +1,3 @@
-###DEC-064205-0-000-18-03-1969@@@
-
 DECRETO Nº 64.205, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Colégio Salesiano Itajaí, com sede em Itajaí, Estado de Santa Catarina.

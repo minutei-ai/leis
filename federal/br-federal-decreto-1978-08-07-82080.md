@@ -1,5 +1,3 @@
-###DEC-082080-0-000-07-08-1978@@@
-
 decreto nº 82.080, de 7 de agosto de 1978.
 
 Declara luto oficial.

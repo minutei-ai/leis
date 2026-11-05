@@ -1,5 +1,3 @@
-###DEC-082262-0-000-13-09-1978@@@
-
 Decreto nº 82.262, de 13 de setembro de 1978.
 
 Concede à MINERALTO - Mineração Alto Araguaia S.A. o direito de lavrar calcário no Município de Palmeiras de Goiás, Estado de Goiás.

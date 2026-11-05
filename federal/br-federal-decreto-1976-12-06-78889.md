@@ -1,5 +1,3 @@
-###DEC-078889-0-000-06-12-1976@@@
-
 DECRETO Nº 78.889, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia Civil, da Universidade Estadual de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso.

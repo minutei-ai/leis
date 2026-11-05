@@ -1,5 +1,3 @@
-###DEC-003961-0-000-10-10-2001@@@
-
 DECRETO Nº 3.961, DE 10 DE OUTUBRO DE 2001
 
 Altera o Decreto nº 79.094, de 5 de janeiro de 1977, que regulamenta a Lei nº 6.360, de 23 de setembro de 1976.

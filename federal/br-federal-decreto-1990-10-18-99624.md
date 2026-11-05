@@ -1,5 +1,3 @@
-###DEC-099624-0-000-18-10-1990@@@
-
 DECRETO N° 99.624, DE 18 DE OUTUBRO DE 1990
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, entre o Brasil e a Venezuela (Acordo n° 13).

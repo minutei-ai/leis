@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizada, na forma da presente lei, a Secretaria da Justiça.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA
 
 Art. 2º - A Secretaria da Justiça tem por finalidade a execução da política do Governo relacionada com a ordem jurídica e social, o estudo e o acompanhamento das questões legais e dos assuntos concernentes à cidadania, às garantias constitucionais, ao livre exercício dos poderes constituídos e às relações do Poder Executivo com os demais Poderes do Estado e da União, competindo-lhe:
@@ -29,7 +30,8 @@ VIII - articular-se, sistematicamente, com vistas ao cumprimento de sua finalida
 
 IX - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria da Justiça tem a seguinte estrutura:
@@ -64,7 +66,8 @@ a) Fundação de Assistência a Menores do Estado da Bahia - FAMEB.
 
 Art. 4º - O assessoramento jurídico aos órgãos da administração centralizada da Secretaria cabe à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIA DOS ÓRGÃOS E ENTIDADES DA SECRETARIA
 
 Art. 5º - Ao Gabinete do Secretário, que presta assistência ao Titular da Pasta no desempenho de suas atribuições, compete:
@@ -153,7 +156,8 @@ Art. 13 - O Conselho Penitenciário, órgão consultivo e fiscalizador da execu�
 
 Art. 14 - A Fundação de Assistência a Menores do Estado da Bahia - FAMEB tem sua finalidade e competência estabelecidas na legislação específica e sua supervisão e controle far-se-ão nos termos do [§ 2º, do artigo 8º, da Lei 2.321, de 11 de abril de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2321-de-11-de-abril-de-1966#LO_2_321_Art__8_P_2) .
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 15 - O [artigo 7º da Lei nº 3.509, de 04 de outubro de 1976](https://www.legislabahia.ba.gov.br/documentos/lei-no-3509-de-04-de-outubro-de-1976#LO_3_509_Art__7) , passa a ter a seguinte redação:

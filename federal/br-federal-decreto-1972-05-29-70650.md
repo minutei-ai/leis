@@ -1,5 +1,3 @@
-###DEC-070650-0-000-29-05-1972@@@
-
 DECRETO Nº 70.650, DE 29 DE MAIO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Fazenda, e dá outras providências.

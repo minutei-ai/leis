@@ -1,7 +1,3 @@
-1
-
-###MPV-000825-0-000-10-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 825, DE 10 DE JANEIRO DE 1995
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante (FMM), em favor da Companhia de Navegação Lloyd Brasileiro (LLOYDBRÁS).

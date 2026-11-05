@@ -1,5 +1,3 @@
-###DEC-056774-0-000-20-08-1965@@@
-
 DECRETO Nº 56.774, DE 20 DE AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Antonio Rodrigues de Almeida a pesquisar, feldspato, no município de Itapeva, Estado de São Paulo.

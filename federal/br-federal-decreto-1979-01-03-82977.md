@@ -1,5 +1,3 @@
-###DEC-082977-0-000-03-01-1979@@@
-
 Decreto nº 82.977, de 03 de janeiro de 1979
 
 Declara a caducidade do Manifesto de Mina que menciona.

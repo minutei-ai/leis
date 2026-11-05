@@ -1,5 +1,3 @@
-###DEC-079559-0-000-20-04-1977@@@
-
 DECRETO Nº 79.559, DE 20 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Educação de Joinville, com sede na Cidade de Joinville, Estado de Santa Catarina.

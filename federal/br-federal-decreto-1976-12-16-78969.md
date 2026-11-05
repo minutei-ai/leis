@@ -1,5 +1,3 @@
-###DEC-078969-0-000-16-12-1976@@@
-
 DECRETO Nº 78.969, DE 16 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Sociais, da Faculdade de Filosofia, Ciências e Letras de São João da Boa Vista, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-083811-0-000-06-08-1979@@@
-
 decreto nº 83.811, de 06 de agosto de 1979.
 
 Retifica a concessão de lavra outorgada à Cia. de Cimento Itambé pelo Decreto nº 67.604. de 18 de novembro de 1970, retificado pelo Decreto nº 73.507, de 17 de janeiro de 1974.

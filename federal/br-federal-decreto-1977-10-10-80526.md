@@ -1,5 +1,3 @@
-###DEC-080526-0-000-10-10-1977@@@
-
 DECRETO Nº 80.526, DE 10 DE OUTUBRO DE 1977.
 
 Altera o artigo 1º do Decreto nº 79.343, de 7 de março de 1977.

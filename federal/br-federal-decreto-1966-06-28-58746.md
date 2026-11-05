@@ -1,5 +1,3 @@
-###DEC-058746-0-000-28-06-1966@@@
-
 DECRETO Nº 58.746, de 28 de junho de 1966.
 
 Abre pelo Ministério da Aeronáutica o crédito especial de Cr$500.000.000 (quinhentos milhões de cruzeiros), para o fim que especifica.

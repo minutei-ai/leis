@@ -1,5 +1,3 @@
-###DEC-045795-0-000-14-04-1959@@@
-
 DECRETO Nº 45.795, DE 14 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Aristides Cockell a pesquisar minérios de ferro e manganês no município de Corumbá, Estado de Mato Grosso.

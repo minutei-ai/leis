@@ -1,24 +1,22 @@
-###DEC-019293-0-000-30-07-1945@@@
+**DECRETO Nº 19.293, DE 30 DE JULHO DE 1945.**
 
-<strong>DECRETO Nº 19.293, DE 30 DE JULHO DE 1945.</strong>
+***Concede permissão, ao Govêrno do Estado do Rio Grande do Sul para estabelecer uma estação radiodifusora na capital de dêsse Estado.***
 
-<em><strong>Concede permissão, ao Govêrno do Estado do Rio Grande do Sul para estabelecer uma estação radiodifusora na capital de dêsse Estado.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a* da Constituição, tendo em vista o que requereu o Govêrno do Estado do Rio Grande do Sul e de acôrdo com o estabelecimento no artigo 11 do Decreto nº 24.655, de 11 de julho de 1934,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em> da Constituição, tendo em vista o que requereu o Govêrno do Estado do Rio Grande do Sul e de acôrdo com o estabelecimento no artigo 11 do Decreto nº 24.655, de 11 de julho de 1934,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica concedida ao Govêrno do Estado do Rio Grande do Sul permissão para estabelecer, sem direito de exclusividade, na capital dêsse Estado, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste Decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser desde longe considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste Decreto no *DiárioOficial*, sob pena de ser desde longe considerada nula a concessão.
 
 Rio de Janeiro, 30 de julho de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João de Mendonça Lima
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 19.293, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 19.293, DESTA DATA**
 
 I -. Fica assegurado o Govêrno do Estado do Rio Grande do Sul o direito de estabelecer na capital dêsse Estado uma estação destinada a executar o serviço de radiodifusão, com finalidades administrativas, intelectuais e instrutivas, e com subordinação a tôdas as obrigações e exigências instituídas neste ato de concessão.
 
@@ -64,13 +62,13 @@ V - No regime de fiscalização que fôr instituído, fica assegurado ao Govêrn
 
 VI - Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizandor, impor ao concessionário multas de cem cruzeiros (Cr$ 100,00) a cinco mil cruzeiros (Cr$ 5.000,00), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos dentro do prazo improrrogável de trinta (30) dias, a contar da data da notificação feita diretamente ao concessionário ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos dentro do prazo improrrogável de trinta (30) dias, a contar da data da notificação feita diretamente ao concessionário ou da publicação do ato no *Diário Oficial*.
 
 VII - Em qualquer tempo, são aplicáveis ao concessionário os preceitos da legislação sôbre desapropriação por necessidade ou utilidade pública e requisições militares.
 
 VIII - A concessão será considerada caduca, para todos os efeitos, sem direitos a qualquer indenização:
 
-a) se, em todo tempo, fôr verificada a inobservância das disposições contidas nas alíneas <em>a, b, c, d,</em> e <em>(in fine), j, k</em> e l da cláusula III;
+a) se, em todo tempo, fôr verificada a inobservância das disposições contidas nas alíneas *a, b, c, d,* e *(in fine), j, k* e l da cláusula III;
 
 b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea e da cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
@@ -86,4 +84,4 @@ b) se o concessionário incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 30 de julho de 1945.
 
-<strong>JOÃO DE MENDONÇA LIMA</strong>
+**JOÃO DE MENDONÇA LIMA**

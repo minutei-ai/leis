@@ -1,5 +1,3 @@
-###DEC-053975-0-000-19-06-1964@@@
-
 decreto nº 53.975, de 19 de junho de 1964.
 
 Reorganiza os Grupos Executivos subordinados à Comissão de Desenvolvimento Industrial e dá outras providências.

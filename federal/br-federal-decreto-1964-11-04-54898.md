@@ -1,5 +1,3 @@
-###DEC-054898-0-000-04-11-1964@@@
-
 DECRETO Nº 54.898, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Raphael Di Sandro a pesquisar caulim e feldspato no município de Caieiras, Estado de São Paulo.

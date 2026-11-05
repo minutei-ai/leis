@@ -1,5 +1,3 @@
-###DEC-052643-0-000-10-10-1963@@@
-
 DECRETO Nº 52.643, DE 10 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a Associação Paulista de Combate do Câncer, com sede em São Paulo, Estado de São Paulo.

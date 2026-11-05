@@ -22,10 +22,12 @@ VI - disposições sobre alterações na legislação tributária do Estado e me
 
 Parágrafo único - A lei orçamentaria anual para o exercício de 1992 deverá ser compatibilizada com as diretrizes e prioridades estabelecidas para os diversos setores constantes do Plano Plurianual a ser encaminhado ao exame da Assembléia Legislativa no prazo constitucionalmente previsto.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DIRETRIZES PARA OS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DIRETRIZES GERAIS
 
 Art. 2º - No projeto de lei orçamentaria, as receitas e despesas serão orçadas segundo os preços vigentes em maio de 1991.
@@ -74,10 +76,12 @@ Art. 6º - As receitas próprias de autarquia e fundações instituídas e manti
 
 § 2º - O Poder Executivo estabelecerá mecanismos de controle do disposto neste artigo.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DIRETRIZES DOS ORÇAMENTOS FISCAL E DE SEGURIDADE SOCIAL
 
-Subseção I -<br>
+Subseção I -
+
 DAS DIRETRIZES COMUNS
 
 Art. 7º - Os recursos ordinários do Tesouro Estadual somente poderão ser programados para atender a gastos com custeio administrativo e operacional e despesas de capital, após atendidas as despesas com pessoal e encargos sociais e serviços da dívida.
@@ -104,7 +108,8 @@ II - atende ao disposto no [art. 258 da Constituição Estadual](https://www.leg
 
 Parágrafo único - A comprovação de que trata o "caput" deste artigo, será feita através dos respectivos balanços de 1990 e 1991 e leis orçamentárias para 1992, conforme o exercício a que se relacione a transferência.
 
-Subseção II -<br>
+Subseção II -
+
 DAS DIRETRIZES ESPECÍFICAS DO ORÇAMENTO FISCAL
 
 Art. 13 - O orçamento fiscal abrangerá todas as receitas dos Poderes do Estado, seus fundos, órgãos da administração direta, autarquias e fundações instituídas e mantidas pelo Poder Público.
@@ -121,7 +126,8 @@ Art. 15 - As propostas orçamentarias dos Poderes Legislativo e Judiciário ser�
 
 § 3º - As eventuais diferenças de recursos em favor dos Poderes Legislativo e Judiciário, decorrentes de reestimativas dos impostos, serão consignadas em atividade sob denominação de "Provisão para Cumprimento do Disposto nos [artigos 69](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#Const_Est_Art__69) e [112 da Constituição Estadual](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#Const_Est_Art__112) " a ser locada nos "Encargos Gerais do Estado" e destinada a reajustar, ao longo do exercício de 1992, os orçamentos referidos neste artigo.
 
-Subseção III -<br>
+Subseção III -
+
 DAS DIRETRIZES ESPECÍFICAS DO ORÇAMENTO DA SEGURIDADE SOCIAL
 
 Art. 16 - O orçamento da seguridade social abrangerá as entidades e órgãos, bem como fundos, fundações e autarquias que atuem nas áreas de saúde, previdência e assistência social.
@@ -132,7 +138,8 @@ I - transferência de recurso do orçamento fiscal, inclusive as originárias da
 
 II - receitas próprias dos órgãos, fundos e entidades que integram exclusivamente o orçamento da seguridade social.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS DIRETRIZES DO ORÇAMENTO DE INVESTIMENTOS DAS EMPRESAS
 
 Art. 18 - O orçamento de investimentos previsto no [artigo 159, §5º, inciso II, da Constituição Estadual](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#Const_Est_Art__159_P_5_II) , será apresentada para cada empresa pública e sociedade de economia mista em que o Estado detenha direta ou indiretamente a maioria do capital social com direito a voto.
@@ -151,7 +158,8 @@ c) elevação dos padrões de desenvolvimento.
 
 Art. 20 - Os investimentos à conta de recursos oriundos dos orçamentos fiscais e da seguridade social, inclusive mediante participação acionária, serão programados de acordo com as dotações previstas nos respectivos orçamentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO E ESTRUTURA DO ORÇAMENTO
 
 Art. 21 - A estrutura e organização da lei orçamentaria obedecerão à legislação pertinente em vigor e ao excepcionalmente disposto nesta Lei.
@@ -266,7 +274,8 @@ II - cópia das classificações orçamentarias das receitas e da despesa, utili
 
 III - cópia do Quadro de Detalhamento de Despesa - QDD.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL
 
 Art. 29 - A concessão de vantagens e o aumento de vencimentos dos servidores e empregados públicos serão admitidos nos limites das dotações previstas, na lei orçamentaria, para os gastos com "Pessoal e Encargos Sociais", atualizadas, ao longo do exercício financeiro de 1992, na forma do disposto no [art. 2º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#LO_6_214_Art__2) .
@@ -287,7 +296,8 @@ Parágrafo único - Fica vedada a realização de convênios que impliquem a con
 
 Art. 31 - A política de remuneração de pessoal terá em vista o disposto no art. 37, inciso 11 da Constituição Federal, combinado com art. 38 do ato das disposições Constitucionais Transitórias da mesma Constituição.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA POLÍTICA DE APLICAÇÃO DAS AGÊNCIAS FINANCEIRAS OFICIAIS DE FOMENTO
 
 Art. 32 - As agências financeiras estaduais na concessão de financiamento, observarão as seguintes políticas:
@@ -308,7 +318,8 @@ VI - fomento à agroindústrias, agricultura irrigada, produção de insumos agr
 
 § 2º - A concessão de empréstimos ou financiamentos pelas agências oficiais a municípios, inclusive às suas entidades da Administração Direta, fundações, empresas e sociedade controladas, sem prejuízo das demais normas regulamentares, fica condicionada à aprovação a que se refere o [art. 12 desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#LO_6_214_Art__12) .
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA E INCREMENTO DA RECEITA
 
 Art. 33 - O Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro do exercício em curso, projetos de lei dispondo sobre a alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -329,7 +340,8 @@ VI - geração de receita própria pelas entidades da administração indireta, 
 
 § 2º - A Assembléia Legislativa apreciará as matérias que lhes sejam encaminhadas nos termos deste artigo até o encerramento da sessão legislativa.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 34 - Caso o projeto de lei orçamentária não seja aprovado e sancionado até 31 de dezembro de 1991, a programação constante da proposta orçamentária para 1992 poderá ser executada na forma originalmente encaminhada ao Poder Legislativo, atualizada, segundo critérios nele definidos, nos termos do [art.2º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6214-de-05-de-julho-de-1991#LO_6_214_Art__2) , até a edição da respectiva lei orçamentária.

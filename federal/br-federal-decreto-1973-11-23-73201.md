@@ -1,5 +1,3 @@
-###DEC-073201-0-000-23-11-1973@@@
-
 DECRETO Nº 73.201 - DE 23 DE NOVEMBRO DE 1973
 
 Concede à Companhia Paulista de Mineração o direito de lavrar agalmatolito no Município de Pará de Minas, Estado de Minas Gerais.

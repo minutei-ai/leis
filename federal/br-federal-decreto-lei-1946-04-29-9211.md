@@ -1,5 +1,3 @@
-###DEL-009211-0-000-29-04-1946@@@
-
 DECRETO-LEI N. 9.211 – DE 29 DE ABRIL DE 1946
 
 Altera a redação do Decreto-lei número 8.901, de 24 de  Janeiro de 1946.

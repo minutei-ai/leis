@@ -1,5 +1,3 @@
-###DEC-001783-0-000-10-01-1996@@@
-
 DECRETO Nº 1.783, DE 10 DE JANEIRO DE 1996.
 
 Promulga o Acordo, por troca de Notas, que emenda o Acordo sobre Cooperação Administrativa Mútua para a Prevenção, a Pesquisa e a Repressão às Infrações Aduaneiras, de 18 de março de 1993, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Francesa, em Brasília, em 4 de novembro de 1994.

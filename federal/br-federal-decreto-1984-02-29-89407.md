@@ -1,5 +1,3 @@
-###DEC-089407-0-000-29-02-1984@@@
-
 Decreto nº 89.4o7, de 29 de fevereiro de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CULTURA D'OESTE S.A., para explorar serviço de radiodifusão sonora em onda média, na cidade de Lavras, Estado de Minas Gerais.

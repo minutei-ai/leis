@@ -1,5 +1,3 @@
-###DEC-085019-0-000-11-08-1980@@@
-
 decreto nº 85.019, de 11 de agosto de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Ubarana da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

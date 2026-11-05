@@ -1,5 +1,3 @@
-###DEC-082683-0-000-21-11-1978@@@
-
 DECRETO Nº 82.683, DE 21 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento ao Curso de Desenho Industrial, da Faculdade de Desenho Industrial de Mauá, com sede na cidade de Mauá, Estado de São Paulo.

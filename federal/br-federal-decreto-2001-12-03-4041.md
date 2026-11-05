@@ -1,5 +1,3 @@
-###DEC-004041-0-000-03-12-2001@@@
-
 DECRETO Nº 4.041, DE 3 DE DEZEMBRO DE 2001.
 
 Acresce dispositivo ao art. 8º do Decreto nº 3.937, de 25 de setembro de 2001, que regulamenta a Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

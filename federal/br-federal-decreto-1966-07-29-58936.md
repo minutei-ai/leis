@@ -1,5 +1,3 @@
-###DEC-058936-0-000-29-07-1966@@@
-
 DECRETO Nº 58.936, DE 29 DE JUlHO DE 1966.
 
 Autoriza o cidadão brasileiro Joaquim de Castro a pesquisar bauxita no município de Lavrinhas, Estado de São Paulo.

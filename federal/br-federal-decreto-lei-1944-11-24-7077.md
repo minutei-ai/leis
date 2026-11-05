@@ -1,5 +1,3 @@
-###DEL-007077-0-000-24-11-1944@@@
-
 DECRETO-LEI N. 7.077 – DE 24 DE NOVEMBRO DE 1944
 
 Cria, no Ministério da Marinha, o Centro de Instrução do Rio de Janeiro

@@ -1,5 +1,3 @@
-###DEC-094431-0-000-11-06-1987@@@
-
 DECRETO Nº 94.431, DE 11 DE JUNHO DE 1987
 
 Dispõe sobre a transferência da Coordenadoria para Integração da Pessoa Portadora de Deficiência - CORDE  para a estrutura básica da Secretaria de Planejamento e Coordenação da Presidência da República - SEPLAN, e dá outras providências.

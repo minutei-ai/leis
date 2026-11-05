@@ -1,5 +1,3 @@
-###DEC-082634-0-000-14-11-1978@@@
-
 DECRETO Nº 82.634, DE 14 DE NOVEMBRO DE 1978.
 
 Concede à Sociedade Ituana de Águas Minerais Ltda. o direito de lavrar água mineral do Município de Itu, Estado de São Paulo.

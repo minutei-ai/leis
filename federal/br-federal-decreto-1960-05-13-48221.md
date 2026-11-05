@@ -1,5 +1,3 @@
-###DEC-048221-0-000-13-05-1960@@@
-
 DECRETO Nº 48.221, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Walter Fernandes a pesquisar água mineral, no município de Ceará Mirim, Estado do Rio Grande do Norte.

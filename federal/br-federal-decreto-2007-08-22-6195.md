@@ -1,5 +1,3 @@
-###DEC-006195-0-000-22-08-2007@@@
-
 DECRETO Nº 6.195, DE 22 DE AGOSTO DE 2007.
 
 Dispõe sobre a execução do Sexagésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 26 de julho de 2007.
@@ -22,11 +20,7 @@ Brasília, 22 de agosto de 2007; 186º da Independência e 119º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.8.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2 CELEBRADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2 CELEBRADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI
 
 Sexagésimo Sétimo Protocolo Adicional
 

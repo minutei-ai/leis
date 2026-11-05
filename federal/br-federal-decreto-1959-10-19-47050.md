@@ -1,5 +1,3 @@
-###DEC-047050-0-000-19-10-1959@@@
-
 DECRETO Nº 47.050, DE 19 DEOUTUBRO DE 1959.
 
 Transfere função da Tabela Numérica Especial do Extranumerário-mensalista do Comando de Transporte Aéreo, do Ministério da Aeronáutica, que menciona.

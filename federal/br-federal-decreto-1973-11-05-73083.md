@@ -1,5 +1,3 @@
-###DEC-073083-0-000-05-11-1973@@@
-
 DECRETO Nº 73.083 - DE 5 DE NOVEMBRO DE 1973
 
 Concede autorização à Campanha Société de Forages en Mer Netúnio, para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileira S.A. - PETROBRÁS.

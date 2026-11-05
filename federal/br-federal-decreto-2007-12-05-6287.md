@@ -1,5 +1,3 @@
-###DEC-006287-0-000-05-12-2007@@@
-
 DECRETO Nº 6.287, DE 5 DE DEZEMBRO DE 2007.
 
 Dispõe sobre a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, incidentes sobre a receita bruta na venda, no mercado interno, quando adquiridos pelos Estados, Municípios e pelo Distrito Federal de veículos e embarcações destinados ao transporte escolar para a educação básica na zona rural.
@@ -31,5 +29,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 6.12.2007

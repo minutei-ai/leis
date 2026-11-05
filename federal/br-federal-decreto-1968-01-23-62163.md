@@ -1,5 +1,3 @@
-###DEC-062163-0-000-23-01-1968@@@
-
 DECRETO Nº 62.163, DE 23 DE JANEIRO DE 1968.
 
 Define a estrutura básica do Ministério da Agricultura e dá outras providências.

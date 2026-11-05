@@ -1,5 +1,3 @@
-###MPV-000465-0-000-29-06-2009@@@
-
 MEDIDA PROVISÓRIA Nº 465, DE 29 DE JUNHO DE 2009.
 
 Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica, altera as Leis nos 10.925, de 23 de julho de 2004, e 11.948, de 16 de junho de 2009, e dá outras providências.

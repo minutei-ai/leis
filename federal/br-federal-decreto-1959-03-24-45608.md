@@ -1,5 +1,3 @@
-###DEC-045608-0-000-24-03-1959@@@
-
 Decreto nº 45.608, de 24 de março de 1959.
 
 Altera a lotação do Ministério da Educação e Cultura.

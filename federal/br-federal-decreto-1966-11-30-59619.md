@@ -1,5 +1,3 @@
-###DEC-059619-0-000-30-11-1966@@@
-
 DECRETO Nº 59.619, de 30 de novembro de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Real de Seguros, relativa ao aumento do capital social.

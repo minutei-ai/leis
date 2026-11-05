@@ -1,5 +1,3 @@
-###DEC-049504-0-000-12-12-1960@@@
-
 DECRETO Nº 49.504, DE 12 DE DEZEMBRO DE 1960.
 
 Abre, pelo Tribunal de Contas, o crédito especial de Cr$10.307.808,00, para o fim que especifica.

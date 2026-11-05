@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/452ffa33-e170-4f7e-bab7-fcc1c5ab64a4/texto#nowhere)
 
-###DEL-001638-0-000-06-10-1978@@@
-
 # Decreto-lei nº 1.638, de 06 de outubro de 1978
 
 Dá nova redação ao artigo 16 da Lei nº 4.595, de 31 de dezembro de 1964, dispõe sobre a constituição de reserva monetária no Banco Central do Brasil e dá outras providências.

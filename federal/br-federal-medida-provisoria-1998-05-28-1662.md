@@ -1,5 +1,3 @@
-###MPV-001662-0-000-28-05-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.662, DE 28 DE MAIO DE 1998
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

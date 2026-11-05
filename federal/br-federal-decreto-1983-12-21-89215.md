@@ -1,5 +1,3 @@
-###DEC-089215-0-000-21-12-1983@@@
-
 Decreto nº 89.215, de 21 de dezembro de 1983.
 
 Altera dispositivo do Decreto nº 84.557, de 12 de março de 1980, que dispõe sobre aero-levantamento no território nacional e dá outras providências.

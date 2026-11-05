@@ -1,6 +1,10 @@
 > **LEI Nº 4.766, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n° 4.298, de 27 de dezembro de 2023, que cria o Dia do Corredor de Rua e do Ciclista.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n° 4.298, de 27 de dezembro de 2023, que cria o Dia do Corredor de Rua e do Ciclista.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

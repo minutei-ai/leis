@@ -1,5 +1,3 @@
-###DEC-054982-0-000-12-11-1964@@@
-
 DECRETO Nº 54.982, DE 12 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Bedrich Gabriel Sussland a comprar pedras preciosas.

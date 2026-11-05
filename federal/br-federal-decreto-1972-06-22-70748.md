@@ -1,5 +1,3 @@
-###DEC-070748-0-000-22-06-1972@@@
-
 Decreto nº 70.748, de 22 de junho de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um imóvel urbano destinado à ampliação da estação terminal de microondas e instalação de uma central de telex e de comutação telefônica automática, pela Empresa Brasileira de Telecomunicações - EMBRATEL, na cidade de Governador Valadares, Estado de Minas Gerais.

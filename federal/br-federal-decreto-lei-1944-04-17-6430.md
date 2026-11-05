@@ -1,5 +1,3 @@
-###DEL-006430-0-000-17-04-1944@@@
-
 ( \* ) DECRETO-LEI N. 6.430 – DE 17 DE ABRIL DE 1944
 
 Dispõe sôbre as transações imobiliárias e o estabelecimento de indústria a comércio de estrangeiros na faixa de fronteiras

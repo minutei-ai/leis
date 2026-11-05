@@ -1,5 +1,3 @@
-###DEC-049794-0-000-31-12-1960@@@
-
 DECRETO Nº 49.794, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Porcelana e Steatita S.A. a pesquisar talco e calcáreo no Município de Castro, Estado do Paraná.

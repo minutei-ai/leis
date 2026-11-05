@@ -1,5 +1,3 @@
-###DEC-046726-0-000-26-08-1959@@@
-
 DECRETO Nº 46.726, de 26 de agÔsto de 1959.
 
 Suprime cargo extinto

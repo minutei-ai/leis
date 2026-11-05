@@ -1,5 +1,3 @@
-###DEC-064679-0-000-11-06-1969@@@
-
 DECRETO Nº 64.679, DE 11 DE JUNHO DE 1969.
 
 Concede permissão, em caráter permanente, a Indústrias de Papel São Marcos Ltda., com sede no Estado do Paraná, para funcionar aos domingos e nos feriados civis e religiosos.

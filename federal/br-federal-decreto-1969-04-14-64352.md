@@ -1,5 +1,3 @@
-###DEC-064352-0-000-14-04-1969@@@
-
 Decreto nº 64.352, de 14 de abril de 1969.
 
 Dispõe sôbre a constituição de bancas para exames de suficiência nas Escolas da rede federal de ensino do MEC e do SENAI.

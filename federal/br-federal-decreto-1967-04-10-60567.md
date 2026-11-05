@@ -1,5 +1,3 @@
-###DEC-060567-0-000-10-04-1967@@@
-
 DECRETO Nº 60.567, DE 10 DE ABRIL DE 1967.
 
 Cria e extingue funções gratificadas no Quadro de Pessoal do Ministério da Indústria e do Comércio.

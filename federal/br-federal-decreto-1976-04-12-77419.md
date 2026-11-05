@@ -1,5 +1,3 @@
-###DEC-077419-0-000-12-04-1976@@@
-
 DECRETO Nº 77.419 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Turismo, da Faculdade Ibero- Americana de Letras e Ciências Humanas, com sede na cidade de São Paulo, Estado de São Paulo.

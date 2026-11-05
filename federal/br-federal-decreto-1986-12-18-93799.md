@@ -1,5 +1,3 @@
-###DEC-093799-0-000-18-12-1986@@@
-
 DECRETO Nº 93.799, DE 18 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA FEIJÃO", situado no Município de Pedro Avelino, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

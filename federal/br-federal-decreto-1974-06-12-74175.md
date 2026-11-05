@@ -1,5 +1,3 @@
-###DEC-074175-0-000-12-06-1974@@@
-
 DECRETO Nº 74.175, DE 12 DE JUNHO DE 1974.
 
 Extingue a Delegacia do Tesouro Brasileiro no Exterior e dá outras providências.

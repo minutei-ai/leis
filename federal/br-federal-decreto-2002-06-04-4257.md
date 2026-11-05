@@ -1,5 +1,3 @@
-###DEC-004257-0-000-04-06-2002@@@
-
 DECRETO Nº 4.257, DE 4 DE JUNHO DE 2002
 
 Altera o art. 315 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985.

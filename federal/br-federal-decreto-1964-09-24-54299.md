@@ -1,5 +1,3 @@
-###DEC-054299-0-000-24-09-1964@@@
-
 DECRETO Nº 54.299, DE 24 DE SETEMBRO DE 1964.
 
 Altera a denominação do atual Serviço de Contabilidade do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE) e dá outras providências.

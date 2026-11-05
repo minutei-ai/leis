@@ -1,5 +1,3 @@
-###DEC-045799-0-000-15-04-1959@@@
-
 DECRETO Nº 45.799, DE 15 DE ABRIL DE 1959.
 
 Altera a Ordenança Geral para o Serviço da Armada.

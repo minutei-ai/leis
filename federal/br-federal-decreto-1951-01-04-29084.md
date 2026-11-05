@@ -1,10 +1,8 @@
-###DEC-029084-0-000-04-01-1951@@@
+**DECRETO Nº 29.084, DE 4 DE JANEIRO DE 1951.**
 
-<strong>DECRETO Nº 29.084, DE 4 DE JANEIRO DE 1951.</strong>
+***Concede auxílio financeiro às emprêsas de mineração de carvão de Santa Catarina.***
 
-<em><strong>Concede auxílio financeiro às emprêsas de mineração de carvão de Santa Catarina.</strong></em>
-
-<strong>O PRESIDENTE DFA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87, nº I, da Constituição e tendo em vista o que estabelece o Decreto-lei nº 2.667, de 3 de outubro de 1940, e
+**O PRESIDENTE DFA REPÚBLICA**, usando das atribuições que lhe confere o art. 87, nº I, da Constituição e tendo em vista o que estabelece o Decreto-lei nº 2.667, de 3 de outubro de 1940, e
 
 CONSIDERANDO a necessidade de manter a indústria do carvão nacional em plena vitalidade a fim de possibilitar com recursos internos, o abastecimento de combustível sólido a indústrias essenciais a segurança do país em qualquer emergência:
 
@@ -14,18 +12,18 @@ CONSIDERANDO que a usina de Volta Redonda da Companhia Siderúrgica Nacional, fo
 
 CONSIDERANDO ainda encontrar-se o Govêrno autorizado conforme estabelece o art. 1º do Decreto-lei número 2.667 de 3 de outubro de 1940 a auxiliar pela forma que julgar conveniente, as emprêsas nacionais de mineração de carvão, para o fim exclusivo de melhorar a qualidade do seu produto e diminuir o seu custo de produção e que essa subvenção deve ser limitada no tempo e correspondida pela obrigação por parte das emprêsas mineradoras de carvão de tomarem medidas de racionalização e mecanização da produção a fim de lhe reduzir o custo,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Do total a ser arrecadado em virtude do Decreto-lei nº 2.667, de 3 de outubro de 1940, será destacada a importância de Cr$15.000.000,00 (quinze milhões de cruzeiros) a ser distribuída às emprêsas mineradoras de carvão de Santa Catarina, na proporção de Cr$20,00 por tonelada de carvão tipo “lavador”, entregue à Companhia Siderúrgica Nacional durante o período de 18 meses anteriores à data dêste decreto.
+**Art**. 1º Do total a ser arrecadado em virtude do Decreto-lei nº 2.667, de 3 de outubro de 1940, será destacada a importância de Cr$15.000.000,00 (quinze milhões de cruzeiros) a ser distribuída às emprêsas mineradoras de carvão de Santa Catarina, na proporção de Cr$20,00 por tonelada de carvão tipo “lavador”, entregue à Companhia Siderúrgica Nacional durante o período de 18 meses anteriores à data dêste decreto.
 
-<strong>Art</strong>. 2º As emprêsas mineradoras, para terem direito ao benefício previsto no artigo anterior deverão apresentar previamente ao Conselho Nacional de Minas, e Metalurgia o programa de providências para redução do custo de produção do carvão, que deverá ser pelo mesmo aprovado, assinando as referidas emprêsas perante o Conselho, um têrmo de responsabilidade.
+**Art**. 2º As emprêsas mineradoras, para terem direito ao benefício previsto no artigo anterior deverão apresentar previamente ao Conselho Nacional de Minas, e Metalurgia o programa de providências para redução do custo de produção do carvão, que deverá ser pelo mesmo aprovado, assinando as referidas emprêsas perante o Conselho, um têrmo de responsabilidade.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de janeiro de 1951, 130º da Independência e 63º da República,
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 João Valdeato de Amorim e Mello

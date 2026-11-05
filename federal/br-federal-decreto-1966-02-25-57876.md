@@ -1,5 +1,3 @@
-###DEC-057876-0-000-25-02-1966@@@
-
 DECRETO Nº 57.876, DE 25 DE FEVEREIRO DE 1966.
 
 Altera a redação do art. 3º do Decreto nº 54.999, de 13 de novembro de 1964.

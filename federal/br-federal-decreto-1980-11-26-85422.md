@@ -1,5 +1,3 @@
-###DEC-085422-0-000-26-11-1980@@@
-
 Decreto nº 85.422, de 26 de novembro de 1980
 
 Concede indulto, reduz penas e dá outras providências.

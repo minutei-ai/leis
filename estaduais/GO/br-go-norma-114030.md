@@ -4,7 +4,8 @@ O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, co
 
 **RESOLVE:**
 
-Art. 1º Ficam abertos à SECRETÁRIA DE ESTADO DE CULTURA, SECRETÁRIA DE ESTADO DA EDUCAÇÃO, SECRETÁRIA DA SEGURANÇA PÚBLICA, créditos suplementares no valor global de R$ 112.187.962,50 (cento e doze milhões cento e oitenta e sete mil novecentos e sessenta e dois reais e cinquenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos à SECRETÁRIA DE ESTADO DE CULTURA, SECRETÁRIA DE ESTADO DA EDUCAÇÃO, SECRETÁRIA DA SEGURANÇA PÚBLICA, créditos suplementares no valor global de R$ 112.187.962,50 (cento e doze milhões cento e oitenta e sete mil novecentos e sessenta e dois reais e cinquenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
@@ -13,30 +14,109 @@ Art. 2º Esta portaria entra em vigor nesta data. GABINETE DO SECRETÁRIO DE EST
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 159.935,67</td><td style=" width:85px;    ">R$ 107.712,50</td><td style=" width:85px;    ">R$ 267.648,17</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.292.379,24</td><td style=" width:85px;    ">R$ 1.580.250,00</td><td style=" width:85px;    ">R$ 3.872.629,24</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td>06 181 1051 3177</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 159.935,67</td><td>R$ 107.712,50</td><td>R$ 267.648,17</td></tr><tr><td>CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td>06 181 1051 3177</td><td>17000280</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 2.292.379,24</td><td>R$ 1.580.250,00</td><td>R$ 3.872.629,24</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">BOLSA ESTUDO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 1008 2549</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 527.683.150,12</td><td style=" width:85px;    ">R$ 110.000.000,00</td><td style=" width:85px;    ">R$ 637.683.150,12</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO** 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>BOLSA ESTUDO - ENSINO MEDIO</td><td>12 362 1008 2549</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 527.683.150,12</td><td>R$ 110.000.000,00</td><td>R$ 637.683.150,12</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2500 - SECRETARIA DE ESTADO DE CULTURA</b><br>2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EDITAIS DO FUNDO DE ARTE E CULTURA (FAC)</td><td style=" width:85px;    ">13 392 1026 3167</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2500 - SECRETARIA DE ESTADO DE CULTURA** 2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>REALIZAÇÃO DE EDITAIS DO FUNDO DE ARTE E CULTURA (FAC)</td><td>13 392 1026 3167</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 500.000,00</td><td>R$ 500.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 110.607.712,50</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 1.580.250,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 112.187.962,50</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 110.607.712,50
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 1.580.250,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 112.187.962,50
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.731.609,38</td><td style=" width:85px;    ">R$ 107.712,50</td><td style=" width:85px;    ">R$ 107.712,50</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 12.329.803,91</td><td style=" width:85px;    ">R$ 1.580.250,00</td><td style=" width:85px;    ">R$ 1.580.250,00</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">TRANSPORTE ESCOLAR</td><td style=" width:85px;    ">12 361 1008 2027</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">42</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 82.650.000,00</td><td style=" width:85px;    ">R$ 66.712.000,00</td><td style=" width:85px;    ">R$ 66.712.000,00</td></tr><tr><td style=" width:85px;    ">TRANSPORTE ESCOLAR</td><td style=" width:85px;    ">12 362 1008 2027</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">42</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 58.000.000,00</td><td style=" width:85px;    ">R$ 43.288.000,00</td><td style=" width:85px;    ">R$ 43.288.000,00</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2500 - SECRETARIA DE ESTADO DE CULTURA</b><br>2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOMENTO E INCENTIVO À&nbsp; CULTURA GOIANA</td><td style=" width:85px;    ">13 392 1026 2098</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.309.668,53</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 110.607.712,50</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 1.580.250,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 112.187.962,50</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 110.607.712,50</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 1.580.250,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 112.187.962,50</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.731.609,38
+
+R$ 107.712,50
+
+R$ 107.712,50
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 12.329.803,91
+
+R$ 1.580.250,00
+
+R$ 1.580.250,00
+
+<table><tbody><tr><td colspan="8">**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO** 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>TRANSPORTE ESCOLAR</td><td>12 361 1008 2027</td><td>15000100</td><td>42</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 82.650.000,00</td><td>R$ 66.712.000,00</td><td>R$ 66.712.000,00</td></tr><tr><td>TRANSPORTE ESCOLAR</td><td>12 362 1008 2027</td><td>15000100</td><td>42</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 58.000.000,00</td><td>R$ 43.288.000,00</td><td>R$ 43.288.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="8">**2500 - SECRETARIA DE ESTADO DE CULTURA** 2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>FOMENTO E INCENTIVO À&nbsp; CULTURA GOIANA</td><td>13 392 1026 2098</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 4.309.668,53</td><td>R$ 500.000,00</td><td>R$ 500.000,00</td></tr></tbody></table>
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 110.607.712,50
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 1.580.250,00
+
+**TOTAL**
+
+R$ 112.187.962,50
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 110.607.712,50
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 1.580.250,00
+
+**TOTAL**
+
+R$ 112.187.962,50

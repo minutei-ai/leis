@@ -1,5 +1,3 @@
-###DEC-045934-0-000-29-04-1959@@@
-
 Decreto nº 45.934, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Coriolano Martins dos Santos a pesquisar minério de manganês no município de Senhor do Bonfim, Estado da Bahia.

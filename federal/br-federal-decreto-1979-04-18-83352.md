@@ -1,5 +1,3 @@
-###DEC-083352-0-000-18-04-1979@@@
-
 Decreto nº 83.352, de 18 de abril de 1979.
 
 Concede à S.A de Cimento, Mineração e Cabotagem - CIMIMAR o direito de lavrar leucofilito no Município de Itapeva, Estado de São Paulo.

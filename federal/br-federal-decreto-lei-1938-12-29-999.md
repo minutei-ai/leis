@@ -8,7 +8,19 @@ DECRETA:
 
 Artigo único. Fica aberto, pelo Ministério da Fazenda, o crédito suplementar de mil seiscentos e oitenta contos de réis (1.680:000$); para reforço da Verba 1 – Pessoal, do atual orçamento do mesmo Ministério (Anexo n. 3, do decreto-lei n. 107, de 27 de dezembro de 1937), sendo:
 
-<table><tbody><tr><td>V – Outras Despesas de Pessoal</td><td></td></tr><tr><td>S/c. 32, – Para atender ao pagamento de diferença entre remunerações, etc............</td><td>180:000$0</td></tr><tr><td>VII – Inativos</td><td></td></tr><tr><td>S/c. 35 – 02) Novas aposentadorias............................................................................</td><td><u>1.500:000$0</u></td></tr><tr><td></td><td><u>1.680:000$0</u></td></tr></tbody></table>
+V – Outras Despesas de Pessoal
+
+S/c. 32, – Para atender ao pagamento de diferença entre remunerações, etc............
+
+180:000$0
+
+VII – Inativos
+
+S/c. 35 – 02) Novas aposentadorias............................................................................
+
+1.500:000$0
+
+1.680:000$0
 
 Rio de Janeiro, 29 de dezembro de 1938, 117º da Independência e 50º da República.
 

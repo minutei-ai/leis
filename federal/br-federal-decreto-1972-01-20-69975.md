@@ -1,5 +1,3 @@
-###DEC-069975-0-000-20-01-1972@@@
-
 Decreto Nº 69.975, DE 20 DE JANEIRO DE 1972.
 
 Altera o parágrafo 1º do artigo 5º do Plano de Reestruturação da Pontifícia Universidade Católica do Rio Grande do Sul, aprovado pelo Decreto nº 63.284, de 26 de setembro de 1968.

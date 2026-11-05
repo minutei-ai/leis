@@ -1,5 +1,3 @@
-###DEC-058659-0-000-16-06-1966@@@
-
 DECRETO Nº 58.659, DE 16 DE JUNHO DE 1966.
 
 Declara de utilidade pública a Fundação Martius de Ciências, Letras e Artes, com sede em São Paulo, Estado de São Paulo.

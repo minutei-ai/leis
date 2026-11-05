@@ -1,7 +1,3 @@
-1
-
-###DEC-000542-0-000-26-05-1992@@@
-
 DECRETO Nº 542, DE 26 DE MAIO DE 1992
 
 Define bens de pequeno valor, para efeito da não-incidência do imposto de renda sobre ganhos de capital e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007126-0-000-06-12-1944@@@
-
 DECRETO-LEI N. 7.126 – DE 6 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 93.500,00, para o fim que especifica

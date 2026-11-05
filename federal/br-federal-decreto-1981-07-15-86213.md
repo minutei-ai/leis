@@ -1,5 +1,3 @@
-###DEC-086213-0-000-15-07-1981@@@
-
 Decreto nº 86.213, de 15 de julho de 1981.
 
 Regulamenta a concessão de Gratificação de Atendimento e Habilitação Previdenciários nos casos que específica e dá outras providências.

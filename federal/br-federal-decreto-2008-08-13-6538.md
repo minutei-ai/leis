@@ -1,5 +1,3 @@
-###DEC-006538-0-000-13-08-2008@@@
-
 DECRETO Nº 6.538, DE 13 DE AGOSTO DE 2008.
 
 Dá nova redação aos incisos do art. 5~~º~~ do Decreto n~~º~~ 6.041, de 8 de fevereiro de 2007, que institui a Política de Desenvolvimento da Biotecnologia e cria o Comitê Nacional de Biotecnologia. 

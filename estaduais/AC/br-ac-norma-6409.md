@@ -1,6 +1,10 @@
 > **LEI Nº 4.554, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Torna obrigatória a realização do Teste do Reflexo Vermelho em crianças recém-nascidas em todos os hospitais e maternidades do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Torna obrigatória a realização do Teste do Reflexo Vermelho em crianças recém-nascidas em todos os hospitais e maternidades do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

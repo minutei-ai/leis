@@ -1,5 +1,3 @@
-###DEC-096872-0-000-29-09-1988@@@
-
 DECRETO N° 96.872, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à REDE REGIONAL DE RADIODIFUSÃO LTDA.,  para explo­rar serviço de radiodifusão sonora em onda média, na Cidade de Glória de Dourados Estado do Mato Grosso do Sul.

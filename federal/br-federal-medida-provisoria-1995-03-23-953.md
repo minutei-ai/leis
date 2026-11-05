@@ -1,7 +1,3 @@
-1
-
-###MPV-000953-0-000-23-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 953, DE 23 DE MARÇO DE 1995
 
 Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real e os critérios para conversão das obrigações para o Real, e dá outras providências.

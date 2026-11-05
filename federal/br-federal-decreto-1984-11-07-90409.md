@@ -1,5 +1,3 @@
-###DEC-090409-0-000-07-11-1984@@@
-
 Decreto nº 90.409, de 07 de novembro de 1984
 
 Autoriza a alienação de imóvel da União, vinculado ao FRHB, localizado em Brasília, Distrito Federal, à Sociedade de Habitações de Interesse Social - SHIS.

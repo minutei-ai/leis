@@ -1,5 +1,3 @@
-###DEC-066634-0-000-26-05-1970@@@
-
 DECRETO Nº 66.634, DE 26 DE MAIO DE 1970.
 
 Concede à Emprêsa de Caolim Limitada o direito de lavrar arenito, no Município de Bom Jesus do Amparo, Estado de Minas Gerais.

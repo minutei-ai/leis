@@ -1,5 +1,3 @@
-###DEC-052763-0-000-25-10-1963@@@
-
 DECRETO Nº 52.763, DE 25 DE OUTUBRO DE 1963.
 
 Transfere de Augusto Martini, para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica.
@@ -23,8 +21,6 @@ Brasília, 25 de outubro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052763-0-000-25-10-1963@@@RET01+++
 
 DECRETO Nº 52.763, DE 25 DE OUTUBRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-050452-0-000-13-04-1961@@@
-
 Decreto nº 50.452, de 13 de abril de 1961.
 
 Concede à sociedade anônima Shell Brazil Limited autorização para continuar a funcionar na República.

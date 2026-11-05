@@ -1,5 +1,3 @@
-###DEC-085566-0-000-18-12-1980@@@
-
 decreto nº 85.566, de 18 de dezembro de 1980
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, em Bauru, Estado de São Paulo.

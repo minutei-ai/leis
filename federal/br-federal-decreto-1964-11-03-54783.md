@@ -1,5 +1,3 @@
-###DEC-054783-0-000-03-11-1964@@@
-
 DECRETO Nº 54.783, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Júlio da Silva Pereira a pesquisar diamante no município Sêrro, Estado de Minas Gerais.

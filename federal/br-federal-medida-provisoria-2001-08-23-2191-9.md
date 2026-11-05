@@ -1,5 +1,3 @@
-###MPV-002191-0-009-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.191-9, DE 23 DE AGOSTO DE 2001
 
  Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

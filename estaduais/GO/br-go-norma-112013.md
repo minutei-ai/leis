@@ -36,9 +36,12 @@ Goiânia, 30 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
  
 
-ANTÔNIO GOMIDE<br>
+ANTÔNIO GOMIDE
+
 Deputado Estadual

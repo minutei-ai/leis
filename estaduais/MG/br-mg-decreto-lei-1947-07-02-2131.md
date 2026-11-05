@@ -271,7 +271,3 @@ Art. 47 - Revogam-se as disposições em contrário, entrando este Decreto-lei e
 Palácio da Liberdade, em Belo Horizonte, aos 2 de julho de 1947.
 
 Milton Soares Campos - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 06/09/2006.

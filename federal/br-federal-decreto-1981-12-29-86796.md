@@ -1,5 +1,3 @@
-###DEC-086796-0-000-29-12-1981@@@
-
 DECRETO Nº 86.796, DE 29 DE DEZEMBRO DE 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à formação do reservatório para abastecimento d'água da subestação de São Roque-Conversora, de FURNAS - Centrais Elétricas S.A., no Estado de São Paulo.

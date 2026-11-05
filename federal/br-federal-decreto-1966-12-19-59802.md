@@ -1,5 +1,3 @@
-###DEC-059802-0-000-19-12-1966@@@
-
 DECRETO Nº 59.802, de 19 de Dezembro de 1966.
 
 Transfere da Prefeitura Municipal de Paraopeba para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.
@@ -33,8 +31,6 @@ Brasília. 19 de Dezembro de 1966;145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-059802-0-000-19-12-1966@@@RET01+++
 
 Decreto nº 59.802, de 19 de Dezembro de 1966.
 

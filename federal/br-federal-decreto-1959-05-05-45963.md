@@ -1,5 +1,3 @@
-###DEC-045963-0-000-05-05-1959@@@
-
 DECRETO Nº 45.963, DE 5 DE MAIO DE 1959.
 
 Concede autorização para o funcionamento do curso de bacharelado da Faculdade de Direito da Universidade Católica de Pernambuco.

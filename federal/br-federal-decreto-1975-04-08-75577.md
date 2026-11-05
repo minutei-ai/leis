@@ -1,5 +1,3 @@
-###DEC-075577-0-000-08-04-1975@@@
-
 DECRETO Nº 75.577, DE 8 DE ABRIL DE 1975.
 
 Concede reconhecimento ao Curso de Administração, da Universidade do Vale do Rio dos Sinos - Unisinos, em São Leopoldo , Rio Grande do Sul, mantida pela Sociedade Antônio Viera, com sede em porto Alegre, no mesmo Estado.

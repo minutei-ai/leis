@@ -1,5 +1,3 @@
-###DEC-047766-0-000-08-02-1960@@@
-
 DECRETO Nº 47.766, DE 8 DE FEVEEIRO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

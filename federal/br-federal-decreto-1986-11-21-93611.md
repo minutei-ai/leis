@@ -1,5 +1,3 @@
-###DEC-093611-0-000-21-11-1986@@@
-
 DECRETO Nº 93.611, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a transferência do controle acionário das Centrais de Abastecimento - CEASA's e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001156-0-000-20-06-1994@@@
-
 DECRETO N° 1.156, DE 20 DE JUNHO DE 1994
 
 Extingue a Estação Rádio Pina e dá outras providências.

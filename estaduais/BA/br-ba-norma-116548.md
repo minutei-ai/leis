@@ -66,4 +66,32 @@ Kléber Pacheco de Oliveira
 
 VENCIMENTO DO GRUPO DIREÇÃO E ASSESSORAMENTO
 
-<table style="margin-left: 109.85pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 4cm; border: 1pt solid windowtext; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">NÍVEL</p></td><td style="width: 120.45pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: center;" align="center">VENCIMENTO</p><p style="text-align: center;" align="center">VALOR</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">6</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">35.000,00</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">5</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">30.000,00</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">4</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">25.000,00</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">3</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">20.000,00</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">2</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">15.000,00</p></td></tr><tr><td style="width: 4cm; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="151"><p style="text-align: center;" align="center">1</p></td><td style="width: 120.45pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="161"><p style="text-align: right;" align="right">10.000,00</p></td></tr></tbody></table>
+NÍVEL
+
+VENCIMENTO
+
+VALOR
+
+6
+
+35.000,00
+
+5
+
+30.000,00
+
+4
+
+25.000,00
+
+3
+
+20.000,00
+
+2
+
+15.000,00
+
+1
+
+10.000,00

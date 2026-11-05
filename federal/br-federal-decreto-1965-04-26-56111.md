@@ -1,5 +1,3 @@
-###DEC-056111-0-000-26-04-1965@@@
-
 DECRETO Nº 56.111, DE 26 DE ABRIL DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

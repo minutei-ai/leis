@@ -1,5 +1,3 @@
-###DEC-005014-0-000-12-03-2004@@@
-
 DECRETO Nº 5.014,  DE 12 DE MARÇO DE 2004.
 
 Regulamenta o inciso XVI do art. 20 da Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004664-0-000-04-09-1942@@@
-
 DECRETO-LEI N. 4.664 – DE 4 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 4.200:000$0, para construção de rodovia

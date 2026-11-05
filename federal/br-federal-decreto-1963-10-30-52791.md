@@ -1,5 +1,3 @@
-###DEC-052791-0-000-30-10-1963@@@
-
 DECRETO Nº 52.791, DE 30 DE OUTUBRO DE 1963.
 
 Concede à Mineração Tejucana Sociedade Anônima autorização para continuar a funcionar como emprêsa de mineração.

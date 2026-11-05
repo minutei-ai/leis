@@ -1,5 +1,3 @@
-###DEC-045671-0-000-31-03-1959@@@
-
 Decreto nº 45.671, de 31 de março de 1959.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$38.033.056,60, para o fim que específica.

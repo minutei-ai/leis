@@ -1,5 +1,3 @@
-###DEC-054250-0-000-02-09-1964@@@
-
 Decreto nº 54.250, de 2 de setembro de 1964.
 
 Institui os cursos de formação e de especialização técnica e científica do Instituto Oswaldo Cruz e dá outras providências

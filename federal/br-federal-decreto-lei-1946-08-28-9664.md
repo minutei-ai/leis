@@ -1,5 +1,3 @@
-###DEL-009664-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.664 – DE 28 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Agricultura, o crédito especial de Cr$ 10.000.000,00, para execução de um plano de emergência, de fomento da produção animal, e da outras providências.

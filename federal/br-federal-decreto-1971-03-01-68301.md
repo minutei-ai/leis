@@ -1,5 +1,3 @@
-###DEC-068301-0-000-01-03-1971@@@
-
 DECRETA Nº 68.301, DE 1 DE MARÇO DE 1971.
 
 Confisca bens de Aerton Menezes Silva, e dá outras providências.

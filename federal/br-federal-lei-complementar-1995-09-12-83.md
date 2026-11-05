@@ -1,7 +1,3 @@
-1
-
-###LCP-000083-0-000-12-09-1995@@@
-
 LEI COMPLEMENTAR Nº 83, DE 12 DE SETEMBRO DE 1995
 
 Altera dispositivo da Lei Complementar nº 69, de 23 de julho de 1991, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas.

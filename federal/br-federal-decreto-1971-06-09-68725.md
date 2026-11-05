@@ -1,5 +1,3 @@
-###DEC-068725-0-000-09-06-1971@@@
-
 DECRETO Nº 68.725 - DE 9 DE JUNHO DE 1971.
 
 Declara de utilidade pública ao Lar Antônio de Pádua, com sede no Estado da Guanabara.

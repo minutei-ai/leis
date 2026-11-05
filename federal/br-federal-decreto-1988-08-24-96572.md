@@ -1,5 +1,3 @@
-###DEC-096572-0-000-24-08-1988@@@
-
 DECRETO N° 96.572, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas e Contábeis Cândido Rondon.

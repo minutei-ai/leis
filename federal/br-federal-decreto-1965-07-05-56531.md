@@ -1,5 +1,3 @@
-###DEC-056531-0-000-05-07-1965@@@
-
 decreto nº 56.531, de 5 de julho de 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar uma área de terreno em São Paulo, destinada ao Ministério da Guerra.

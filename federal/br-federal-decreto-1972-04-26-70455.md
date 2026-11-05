@@ -1,5 +1,3 @@
-###DEC-070455-0-000-26-04-1972@@@
-
 DECRETO Nº 70.455, DE 26 DE ABRIL DE 1972.
 
 Concede reconhecimento ao Curso de Instrumento (piano), da Faculdade de Música São Domingos- Paraná.

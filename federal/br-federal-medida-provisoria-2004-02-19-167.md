@@ -1,5 +1,3 @@
-###MPV-000167-0-000-19-02-2004@@@
-
 MEDIDA PROVISÓRIA Nº 167, DE 19 DE FEVEREIRO 2004.
 
        Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de dezembro de 2003, altera dispositivos das Leis nos 9.717, de 27 de novembro de 1998, 9.783, de 28 de janeiro de 1999, 8.213, de 24 de julho de 1991, 9.532, de 10 de dezembro de 1997, e dá outras providências.
@@ -108,11 +106,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Nelson Machado
 
-Amir Lando
-
-Este texto não substitui o publicado no D.O.U. de 20.2.2004
-
-RETIFICAÇÃO
+Amir LandoRETIFICAÇÃO
 
 MEDIDA PROVISÓRIA No- 167, DE 19 DE FEVEREIRO DE 2004
 

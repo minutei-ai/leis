@@ -1,14 +1,12 @@
-###DEC-026587-0-000-13-04-1949@@@
+**DECRETO Nº 26.587, DE 13 DE ABRIL DE 1949.**
 
-<strong>DECRETO Nº 26.587, DE 13 DE ABRIL DE 1949.</strong>
+***Abre, ao Ministério da Guerra, o crédito especial de Cr$87.073.767,70, para ocorrer às despesas que especifica.***
 
-<em><strong>Abre, ao Ministério da Guerra, o crédito especial de Cr$87.073.767,70, para ocorrer às despesas que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei número 613, de 13 de janeiro de 1949, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93, do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei número 613, de 13 de janeiro de 1949, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93, do Regulamento Geral de Contabilidade Pública,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto, ao Ministério da Guerra, o crédito especial de oitenta e sete milhões setenta e três mil, setecentos e sessenta cruzeiros e setenta centavos (Cr$87.073.767,70), para pagamento de despesas de pessoal e de material, relativas a 1946, assim discriminadas:
+**Art**. 1º Fica aberto, ao Ministério da Guerra, o crédito especial de oitenta e sete milhões setenta e três mil, setecentos e sessenta cruzeiros e setenta centavos (Cr$87.073.767,70), para pagamento de despesas de pessoal e de material, relativas a 1946, assim discriminadas:
 
 Cr$
 
@@ -28,15 +26,15 @@ g) - Abono provisório e novas pensões ........................................
 
 h) - Etapas para alimentação .................................................................................... 78.502.342,20
 
-i) - Auxilio para funeral ................................................................................................... <u>252.943,80</u>
+i) - Auxilio para funeral ................................................................................................... 252.943,80
 
-Total........................................................................................................................... <u>87.073.767,70</u>
+Total........................................................................................................................... 87.073.767,70
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 13 de abril de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Newton Cavalcânti
 

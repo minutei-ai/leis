@@ -23,12 +23,14 @@ Art. 372 – (...)
 
 §6º - Consideram-se locais de reunião de público, para os fins do parágrafo anterior, os espaços destinados ao agrupamento de pessoas, em imóvel de uso coletivo, público ou não, com capacidade superior a 200 (duzentas) pessoas, tais como estádios, auditórios, ginásios, escolas, clubes, teatros, cinemas, parques de diversão, estabelecimentos de saúde, mercado, supermercado, hipermercados, estações rodoviárias ou ferroviárias, locais de culto religioso e salões de uso diverso.
 
-§7º - Fica proibido a instalação de depósito de gás liquefeito de petróleo (GLP) na mesma quadra ou em local que não guarde uma distância mínima de 15 (quinze) metros de onde já houver outro estabelecimento do mesmo gênero.<br>
+§7º - Fica proibido a instalação de depósito de gás liquefeito de petróleo (GLP) na mesma quadra ou em local que não guarde uma distância mínima de 15 (quinze) metros de onde já houver outro estabelecimento do mesmo gênero.
+
  
 
 Art. 2° Essa Lei entra em vigor na data de sua publicação, retroagindo seus efeitos à 01 de janeiro de 2014. 
 
 Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, aos  dias 22 do mês de dezembro do ano de 2014.
 
-GUSTAVO MENDANHA MELLO<br>
-PRESIDENTE<br>
+GUSTAVO MENDANHA MELLO
+
+PRESIDENTE

@@ -1,5 +1,3 @@
-###DEC-055288-0-000-28-12-1964@@@
-
 DECRETO Nº 55.288, DE 28 DE Dezembro DE 1964.
 
 Concede nacionalização à sociedade anônima Rio de Janeiro Lighterage Company Limited, sob a denominação de Companhia de Saveiros de Rio de Janeiro.

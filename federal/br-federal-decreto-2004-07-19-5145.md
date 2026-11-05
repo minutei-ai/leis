@@ -1,5 +1,3 @@
-###DEC-005145-0-000-19-07-2004@@@
-
 DECRETO Nº 5.145,  DE 19 DE JULHO DE 2004
 
 Acrescenta artigo ao Decreto no 5.109, de 17 de junho de 2004, que dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos do Idoso \- CNDI.

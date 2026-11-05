@@ -1,5 +1,3 @@
-###DEC-002478-0-000-29-01-1998@@@
-
 DECRETO Nº 2.478, DE 29 DE JANEIRO DE 1998
 
 Dispõe sobre a transferência de ações da Petróleo Brasileiro S.A. - PETROBRÁS depositadas no Fundo de Amortização da Dívida Pública Mobiliária Federal - FADPMF para o Fundo Nacional de Desestatização - FND.

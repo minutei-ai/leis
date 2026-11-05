@@ -1,5 +1,3 @@
-###DEC-055768-0-000-18-02-1965@@@
-
 DECRETO Nº 55.768, DE 18 DE FEVEREIRO DE 1965.
 
 Cria a 5ª Companhia Depósito de Armamento e Munição.

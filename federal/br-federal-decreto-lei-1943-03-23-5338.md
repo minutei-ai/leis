@@ -1,5 +1,3 @@
-###DEL-005338-0-000-23-03-1943@@@
-
 DECRETO‑LEI N. 5.338 – DE 23 DE MARÇO DE 1943
 
 Dispõe sobre o processo de desertores

@@ -1,5 +1,3 @@
-###DEC-060190-0-000-08-02-1967@@@
-
 DECRETO Nº 60.190, DE 8 DE FEVEREIRO DE 1967.
 
 Regulamenta o Decreto-lei nº 1, de 13 de novembro de 1965, e dá outras providências.

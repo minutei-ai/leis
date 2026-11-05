@@ -1,5 +1,3 @@
-###DEC-079211-0-000-07-02-1977@@@
-
 DECRETO Nº 79.211, de 7 de fevereiro de 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

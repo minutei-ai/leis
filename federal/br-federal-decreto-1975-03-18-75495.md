@@ -1,5 +1,3 @@
-###DEC-075495-0-000-18-03-1975@@@
-
 DECRETO Nº 75.495, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Ciências do Centro de Ensino Superior de Juiz de Fora mantido pela Sociedade Propagadora Esdeva, com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

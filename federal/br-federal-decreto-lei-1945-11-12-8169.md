@@ -1,5 +1,3 @@
-###DEL-008169-0-000-12-11-1945@@@
-
 DECRETO-LEI N. 8.169 – DE 12 DE NOVEMBRO DE 1945
 
 Concede um abono de emergência dos servidores civis e militares da União

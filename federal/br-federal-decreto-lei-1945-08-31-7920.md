@@ -1,5 +1,3 @@
-###DEL-007920-0-000-31-08-1945@@@
-
 DECRETO-LEI N. 7.920 – DE 31 DE AGÔSTO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a fazer entrega do Plano Inclinado do Outeiro da Glória à Imperial Irmandade de Nossa Senhora da Glória do Outeiro, para os fins que menciona.

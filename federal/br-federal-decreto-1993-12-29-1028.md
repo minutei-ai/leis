@@ -1,7 +1,3 @@
-1
-
-###DEC-001028-0-000-29-12-1993@@@
-
 DECRETO Nº 1.028, DE 29 DE DEZEMBRO DE 1993
 
 Altera os arts. 1º e 7º do Decreto nº 969, de 3 de novembro de 1993.

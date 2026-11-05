@@ -1,5 +1,3 @@
-###DEC-057994-0-000-14-03-1966@@@
-
 DECRETO Nº 57.994, DE 14 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro José da Silva Gomes a pesquisar mármore no município de Rio Branco do Sul, Estado do Paraná.

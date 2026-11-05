@@ -1,5 +1,3 @@
-###DEL-000953-0-000-13-10-1969@@@
-
 Decreto-lei nº 953, de 13 de outubro de 1969
 
 Dispõe sôbre remissão parcial de créditos tributário.

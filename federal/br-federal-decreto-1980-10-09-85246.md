@@ -1,5 +1,3 @@
-###DEC-085246-0-000-09-10-1980@@@
-
 decreto nº 85.246, de 09 de outubro de 1980
 
 Declara de interesse social, para fins de desapropriação, parte de imóvel rural situado no Município de Foz do Iguaçu, Estado do Paraná, compreendido na área prioritária de reforma agrária fixada pelos Decretos nºs 69.411, de 22 de outubro de 1971, e 78.422, de 15 de setembro de 1976.

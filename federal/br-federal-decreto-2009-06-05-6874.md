@@ -1,5 +1,3 @@
-###DEC-006874-0-000-05-06-2009@@@
-
 DECRETO Nº 6.874, DE 5 DE JUNHO DE 2009.
 
 Institui, no âmbito dos Ministérios do Meio Ambiente e do Desenvolvimento Agrário, o Programa Federal de Manejo Florestal Comunitário e Familiar - PMCF, e dá outras providências.

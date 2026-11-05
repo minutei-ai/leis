@@ -1,5 +1,3 @@
-###DEC-080203-0-000-22-08-1977@@@
-
 decreto nº 80.203, de 22 de agosto de 1977.
 
 Concede à S.A. Industrias Votorantim o direito de lavrar calcário e dolomito nos Municípios de Guapiara e Capão Bonito, Estado de São Paulo.

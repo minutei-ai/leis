@@ -1,5 +1,3 @@
-###DEC-091795-0-000-17-10-1985@@@
-
 Decreto nº 91.795, de 17 de outubro de 1985
 
 Delega ao Estado de São Paulo, mediante concessão, a administração e exploração da Hidrovia do Rio Paraná, no trecho compreendido entre a foz do Rio Tietê e a barragem de Jupiá, inclusive.

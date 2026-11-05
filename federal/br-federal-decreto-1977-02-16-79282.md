@@ -1,5 +1,3 @@
-###DEC-079282-0-000-16-02-1977@@@
-
 DECRETO Nº 79.282, DE 16 DE FEVEREIRO DE 1977.
 
 Autoriza a transferência direta para a Rádio Carioca Ltda. da concessão outorgada à Rádio Difusora Carioca Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Feira de Santana, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-009913-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.913 – DE 17 DE SETEMBRO DE 1946
 
 Aprova ato do Interventor Federal no Estado do Ceará

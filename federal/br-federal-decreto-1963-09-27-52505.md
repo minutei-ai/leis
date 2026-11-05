@@ -1,5 +1,3 @@
-###DEC-052505-0-000-27-09-1963@@@
-
 DECRETO Nº 52.505, DE 27 DE SETEMBRO DE 1963.
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação do terreno que menciona, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-072422-0-000-03-07-1973@@@
-
 DECRETO Nº 72.422, DE 3 DE JULHO DE 1973.
 
 Aproveita disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

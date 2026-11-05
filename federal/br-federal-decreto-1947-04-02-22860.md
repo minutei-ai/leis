@@ -1,14 +1,12 @@
-###DEC-022860-0-000-02-04-1947@@@
+**DECRETO Nº 22.860, DE 2 DE ABRIL DE 1947.**
 
-<strong>DECRETO Nº 22.860, DE 2 DE ABRIL DE 1947.</strong>
+***Altera a lotação numérica de repartições do Ministério do Trabalho, Indústria e Comércio.***
 
-<em><strong>Altera a lotação numérica de repartições do Ministério do Trabalho, Indústria e Comércio.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Na lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio, ficam introduzidas as seguintes alterações:
+**Art**. 1.º Na lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio, ficam introduzidas as seguintes alterações:
 
 I - Fica transferido da Divisão de Marcas do Departamento Nacional da Propriedade Industrial para a Delegacia Regional do Trabalho em Alagoas, um cargo da carreira de Examinador de Marcas, ocupado por Lenir Martins Correia Lima;
 
@@ -26,14 +24,14 @@ VII - Fica transferido do Departamento Nacional de Imigração para a Delegacia 
 
 VIII - Fica transferido do Serviço de Identificação Profissional do Departamento Nacional do Trabalho para a Delegacia Regional do Trabalho no Amazonas um cargo da carreira de Dactiloscopista, ocupado por Teófilo Lopes da Silva.
 
-<strong>Art</strong>. 2.º Fica incluído na lotação suplementar da Delegacia Regional do Trabalho em Goiás um cargo da carreira de Fiscal do Trabalho, ocupado por Emanuel Sarmanho Arrais.
+**Art**. 2.º Fica incluído na lotação suplementar da Delegacia Regional do Trabalho em Goiás um cargo da carreira de Fiscal do Trabalho, ocupado por Emanuel Sarmanho Arrais.
 
-<strong>Art</strong>. 3.º Os cargos transferidos, a que se refere os artigos anteriores, continuam providos pelos atuais ocupantes, os quais são, para todos os efeitos, considerados removidos.
+**Art**. 3.º Os cargos transferidos, a que se refere os artigos anteriores, continuam providos pelos atuais ocupantes, os quais são, para todos os efeitos, considerados removidos.
 
-<strong>Art</strong>. 4.º Êste Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 4.º Êste Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 2 de Abril de 1947, 126.° da Independência e 59.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan de Figueiredo

@@ -1,5 +1,3 @@
-###DEL-006464-0-000-02-05-1944@@@
-
 DECRETO-LEI N. 6.464 – DE 2 DE MAIO DE 1944
 
 Dispõe sôbre as ações preferenciais das sociedades cuja maioria das ordinárias pertença a pessoas jurídicas de direito público

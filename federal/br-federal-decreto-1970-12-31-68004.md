@@ -1,5 +1,3 @@
-###DEC-068004-0-000-31-12-1970@@@
-
 DECRETO Nº 68.004, DE 31 DE DEZEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 44.340, de 22 de agôsto de 1958.

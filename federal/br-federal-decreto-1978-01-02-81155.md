@@ -1,5 +1,3 @@
-###DEC-081155-0-000-02-01-1978@@@
-
 Decreto nº 81.155, de 02 de janeiro de 1978.
 
 Concede à Céramus Bahia S.A. - Produtos Cerâmicos o direito de lavrar argila no Município de Camaçari, Estado da Bahia.

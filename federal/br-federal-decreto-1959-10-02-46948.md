@@ -1,5 +1,3 @@
-###DEC-046948-0-000-02-10-1959@@@
-
 DECRETO Nº 46.948, DE 2 DE Outubro DE 1959.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica em Bocaiúva, Estado de Minas Gerais.

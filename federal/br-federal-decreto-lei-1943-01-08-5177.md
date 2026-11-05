@@ -1,5 +1,3 @@
-###DEL-005177-0-000-08-01-1943@@@
-
 DECRETO‑LEI N. 5.177 – DE 8 DE JANEIRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 231.992,80 para prolongamento da estrada de ferro de Jacuí

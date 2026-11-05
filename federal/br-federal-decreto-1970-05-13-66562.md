@@ -1,5 +1,3 @@
-###DEC-066562-0-000-13-05-1970@@@
-
 DECRETO Nº 66.562, DE 13 DE MAIO DE 1970.
 
 Outorga à Companhia Catarinense de Telecomunicações - COTESC - concessão para explorar os serviços de Telefonia Público Urbano e Interurbano do Estado de Santa Catarina, e dá outras providências.

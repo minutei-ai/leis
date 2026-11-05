@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.496, DE 06 DE SETEMBRO DE 2019<br>
+LEI MUNICIPAL Nº 3.496, DE 06 DE SETEMBRO DE 2019
+
 (Revogada pela Lei Ordinária nº 3.502, de 17 de setembro de 2019).
 
 ~~Institui a política de incentivo aos atletas praticantes de desportos de rendimento nas modalidades do Programa “Aparecida Compete”, e dá outras providências.~~
@@ -63,8 +64,10 @@ LEI MUNICIPAL Nº 3.496, DE 06 DE SETEMBRO DE 2019<br>
 
 ~~Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 06 de setembro de 2019.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito~~
 
-~~OLAVO NOLETO ALVES<br>
+~~OLAVO NOLETO ALVES
+
 Chefe da Casa Civil~~

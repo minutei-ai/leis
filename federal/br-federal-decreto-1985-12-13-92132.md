@@ -1,5 +1,3 @@
-###DEC-092132-0-000-13-12-1985@@@
-
 Decreto nº 92.132, de 13 de dezembro de 1985
 
 Revoga a concessão outorgada à RÁDIO EDUCADORA PARNAÍBA S/A, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Parnaíba, Estado do Piauí.

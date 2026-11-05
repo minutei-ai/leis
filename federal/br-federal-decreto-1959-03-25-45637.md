@@ -1,5 +1,3 @@
-###DEC-045637-0-000-25-03-1959@@@
-
 DECRETO Nº 45.637, DE 25 DE MARÇO DE 1959.
 
 Renova o Decreto nº 40.645, de 28 de dezembro de 1956.

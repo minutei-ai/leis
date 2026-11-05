@@ -1,5 +1,3 @@
-###DEC-067195-0-000-14-09-1970@@@
-
 DECRETO Nº 67.195, DE 14 DE SETEMBRO DE 1970.
 
 Concede autorização a cidadão estrangeiro radicado no Brasil para adquirir terras que menciona.

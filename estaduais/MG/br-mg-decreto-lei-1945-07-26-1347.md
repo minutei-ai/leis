@@ -19,7 +19,3 @@ Palácio do Governo, em Caxambu, 26 de julho de 1945.
 BENEDITO VALADARES RIBEIRO
 
 Edison Álvares da Silva
-
-\=================
-
-Data da última atualização: 04/09/2006.

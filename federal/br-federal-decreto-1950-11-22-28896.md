@@ -1,28 +1,26 @@
-###DEC-028896-0-000-22-11-1950@@@
+**DECRETO Nº 28.896, DE 22 DE NOVEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.896, DE 22 DE NOVEMBRO DE 1950.</strong>
+***Aprova novas especificações e tabelas para a classificação e fiscalização da exportação de fibras de sisal e piteira.***
 
-<em><strong>Aprova novas especificações e tabelas para a classificação e fiscalização da exportação de fibras de sisal e piteira.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA:</strong>
+**O PRESIDENTE DA REPÚBLICA:**
 
 Usando das atribuições que lhe confere o art. 87, nº I, da Constituição e tendo em vista o que dispõe o art. 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Ficam aprovadas as novas especificações e tabelas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, e referentes à classificação e fiscalização da exportação de fibras de sisal e piteira.
+**Art**. 1º Ficam aprovadas as novas especificações e tabelas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, e referentes à classificação e fiscalização da exportação de fibras de sisal e piteira.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor a partir de 1º de janeiro do ano de 1951.
+**Art**. 2º Êste Decreto entrará em vigor a partir de 1º de janeiro do ano de 1951.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de novembro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho
 
-<strong>NOVAS ESPECIFICAÇÕES E TABELAS PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE FIBRAS DE SISAL E PITEIRA, APROVADAS PELO DECRETO Nº 28.896, DE 22 DE NOVEMBRO DE 1950 EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.</strong>
+**NOVAS ESPECIFICAÇÕES E TABELAS PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE FIBRAS DE SISAL E PITEIRA, APROVADAS PELO DECRETO Nº 28.896, DE 22 DE NOVEMBRO DE 1950 EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.**
 
 I - As fibras de sisal e piteira, extraídas de fôlhas de plantas da família das Amarilidáceas, serão classificadas segundo a côr, a resistência, o estado de conservação e de sanidade, o comprimento e a quantidade de defeitos.
 
@@ -162,7 +160,7 @@ b) bucha........................................................................
 
 c) apara ..................................................................................................................................... 0,01
 
-4 - Inspeção para os fins indicados nas alíneas <em>c</em> e <em>d</em> do art. 79:
+4 - Inspeção para os fins indicados nas alíneas *c* e *d* do art. 79:
 
 Cr$
 
@@ -206,4 +204,4 @@ XXIV - Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com a
 
 Rio de janeiro, 22 de novembro de 1950.
 
-<strong>A. DE NOVAES FILHO</strong>
+**A. DE NOVAES FILHO**

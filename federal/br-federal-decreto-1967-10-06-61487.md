@@ -1,5 +1,3 @@
-###DEC-061487-0-000-06-10-1967@@@
-
 DECRETO Nº 61.487, DE 6 DE OUTUBRO DE 1967.
 
 Estende a imóvel rural no Estado da Paraíba a desapropriação de que trata o Decreto nº 58.160, de 6 de abril de 1966.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095720-0-000-11-02-1988@@@
-
 DECRETO Nº 95.720 DE 11 DE FEVEREIRO DE 1988
 
 Estabelece critérios para o reajustamento de encargos educacionais, e dá outras providências.

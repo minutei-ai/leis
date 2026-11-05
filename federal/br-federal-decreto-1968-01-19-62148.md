@@ -1,5 +1,3 @@
-###DEC-062148-0-000-19-01-1968@@@
-
 DECRETO Nº 62.148, DE 19 DE JANEIRO DE 1968.
 
 Regula a prestação de garantia ao Banco da Amazônia S.A., pelas Prefeituras Municipais.

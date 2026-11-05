@@ -1,5 +1,3 @@
-###DEC-048631-0-000-27-07-1960@@@
-
 decreto nº 48.631, de 27 de julho de 1960.
 
 Subordina a Conferenção Columbófila Brasileira ao Conselho Nacional de Desportos, e dá outras providências.

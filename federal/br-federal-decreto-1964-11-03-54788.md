@@ -1,5 +1,3 @@
-###DEC-054788-0-000-03-11-1964@@@
-
 DECRETO Nº 54.788, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Mitra Arquidiocesana de São Paulo a pesquisar minério de ferro e calcáreo, no Município de Pirapora do Bom Jesus, Estado de São Paulo.

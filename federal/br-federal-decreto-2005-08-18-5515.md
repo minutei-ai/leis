@@ -1,5 +1,3 @@
-###DEC-005515-0-000-18-08-2005@@@
-
 DECRETO Nº 5.515, DE 18 DE AGOSTO DE 2005.
 
        Regulamenta a Gratificação de Desempenho de Atividade de Recursos Hídricos - GDRH e dá outras providências.
@@ -115,5 +113,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 19.8.2005

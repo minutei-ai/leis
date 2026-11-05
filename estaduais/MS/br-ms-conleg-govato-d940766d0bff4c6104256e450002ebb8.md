@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:22:54.000Z"
 sha256_fonte: "8634be5c4c76cc183881b09f13c75bfbf1d96cd434e46aaa05010a8b9f10e4d2"
 sha256_markdown: "70088c58de75d295c5a171bdb5120ab45a2842b240b90b56aabbfe49c97b8041"
 ---
-
 # LEI Nº 1.171, DE 1 DE JULHO DE 1991.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,17 +20,18 @@ Aprova o Orçamento da Fundação de Desporto e Lazer de Mato Grosso do Sul - FU
 
 Publicada no Diário Oficial nº 3.084, de 2 de julho de 1991.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica aprovado o Orçamento da Fundação de Desporto e Lazer de Mato Grosso do Sul - FUNDESPORTE, criada através da [Lei Estadual nº 1.137 de 30 de abril de 1991](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cff25f84a67077b404256e450002eb9b?OpenDocument), estimada a receita e fixada a despesa em igual valor de Cr$ 348.101.000,00 (trezentos e quarenta e oito milhões e cento e um mil cruzeiros), na forma do detalhamento constante nos Anexos I e II a esta Lei.<br>
-<br>
-Art. 2º Os respectivos créditos adicionais serão abertos pelo Poder Executivo nos termos do parágrafo único do artigo 3º da Lei mencionada no artigo anterior.<br>
-<br>
-Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as demais disposições em contrário.<br>
-<br>
-Campo Grande, 1º de julho de 1991.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica aprovado o Orçamento da Fundação de Desporto e Lazer de Mato Grosso do Sul - FUNDESPORTE, criada através da [Lei Estadual nº 1.137 de 30 de abril de 1991](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cff25f84a67077b404256e450002eb9b?OpenDocument), estimada a receita e fixada a despesa em igual valor de Cr$ 348.101.000,00 (trezentos e quarenta e oito milhões e cento e um mil cruzeiros), na forma do detalhamento constante nos Anexos I e II a esta Lei.
+
+Art. 2º Os respectivos créditos adicionais serão abertos pelo Poder Executivo nos termos do parágrafo único do artigo 3º da Lei mencionada no artigo anterior.
+
+Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as demais disposições em contrário.
+
+Campo Grande, 1º de julho de 1991.
+
+PEDRO PEDROSSIAN
+
 Governador
 
 **Conferência da versão do texto.** Os arts. 1º a 3º do texto acima (Consultoria Legislativa) e o valor (Cr$ 348.101.000,00) foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.085, que republica a lei “por ter veiculada incompleta” na edição nº 3.084, página 1; coincidem no conteúdo. A edição 3.084 não é reproduzida. O texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.

@@ -1,5 +1,3 @@
-###DEC-005329-0-000-30-12-2004@@@
-
 DECRETO Nº 5.329 DE 30 DE DEZEMBRO DE 2004
 
 Prorroga a validade dos Restos a Pagar inscritos no exercício financeiro de 2003 e anteriores.

@@ -1,5 +1,3 @@
-###DEC-068551-0-000-27-04-1971@@@
-
 Decreto nº 68.551, de 27 de abril de 1971.
 
 Torna sem efeito o Decreto nº 65.435, de 13 de outubro de 1969, na parte que se refere a Henrique Gonzales e Maria Olinda Lemanczuk, ocupantes de cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, para redistribuí-los para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem.

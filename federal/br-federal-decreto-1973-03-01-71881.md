@@ -1,5 +1,3 @@
-###DEC-071881-0-000-01-03-1973@@@
-
 DECRETO Nº 71.881, DE 1º DE MARÇO DE 1973.
 
 Autoriza o funcionamento dos cursos de Turismo e Ciências Domésticas da Faculdade de Ciências Extras, Administrativas e Sociais de Brasília, mantida pela União Pioneira de Integração Social - UPIS, DF.

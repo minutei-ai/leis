@@ -1,5 +1,3 @@
-###DEC-051205-0-000-17-08-1961@@@
-
 DECRETO Nº 51.205, DE 17 DE AGÔSTO DE 1961.
 
 Torna sem efeito o Decreto nº 50.921, de 6 de julho de 1961, que abriu o crédito especial de Cr$150.000.000,00, para o combate ao cancro cítrico e indenização de plantas cítricas destruídas, e deu outras providências.

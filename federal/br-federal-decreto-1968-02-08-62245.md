@@ -1,5 +1,3 @@
-###DEC-062245-0-000-08-02-1968@@@
-
 DECRETO Nº 62.245, DE 8 DE FEVEREIRO DE 1968.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terreno em Goiânia, Estado de Goiás.

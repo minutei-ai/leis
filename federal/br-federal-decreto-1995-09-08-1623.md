@@ -1,7 +1,3 @@
-1
-
-###DEC-001623-0-000-08-09-1995@@@
-
 Decreto nº 1.623, de 08 de setembro de 1995.
 
 Altera o art. 85 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985.

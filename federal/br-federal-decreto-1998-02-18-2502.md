@@ -1,5 +1,3 @@
-###DEC-002502-0-000-18-02-1998@@@
-
 DECRETO Nº 2.502, DE 18 DE FEVEREIRO DE 1998
 
 Autoriza a incorporação da Ferrovia Paulista S.A. - FEPASA pela Rede Ferroviária Federal S.A. - RFFSA e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004964-0-000-17-11-1942@@@
-
 DECRETO-LEI N. 4.964 – DE 17 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 15.00.000,00 para despesas de obras contra as secas

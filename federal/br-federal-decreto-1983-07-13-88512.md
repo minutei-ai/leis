@@ -1,5 +1,3 @@
-###DEC-088512-0-000-13-07-1983@@@
-
 Decreto nº 88.512, de 13 de julho de 1983.
 
 Declara de utilidade publica, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - áreas de terra abrangidas pela bacia hidráulica, faixa seca e de empréstimo do Açude Público "ENGENHEIRO LUIZ VIEIRA" - Ex-Brumado no Município de Rio de Contas, Estado da Bahia e dá outras providências.

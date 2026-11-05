@@ -1,5 +1,3 @@
-###DEL-009584-0-000-14-08-1946@@@
-
 DECRETO-LEI N. 9.584 – DE 14 DE AGÔSTO DE 1946
 
 Altera, com redução de despesas, os Quadros Permanente e Suplementar, do Ministério da Guerra e dá outras providências.

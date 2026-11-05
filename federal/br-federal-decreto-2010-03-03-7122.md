@@ -1,5 +1,3 @@
-###DEC-007122-0-000-03-03-2010@@@
-
 DECRETO Nº 7.122, DE 3 DE MARÇO DE 2010.
 
 Aprova o Estatuto Social da Empresa Gestora de Ativos - EMGEA.

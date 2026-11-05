@@ -1,5 +1,3 @@
-###DEC-050119-0-000-26-01-1961@@@
-
 DECRETO Nº 50.119, DE 26 DE JANEIRO DE 1961.
 
 Outorga concessão à Sociedade Rádio e Televisão Alterosa Limitada para estabelecer uma estação da radiotelevisão.

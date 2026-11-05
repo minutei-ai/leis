@@ -1,5 +1,3 @@
-###DEC-071681-0-000-08-01-1973@@@
-
 DECRETO Nº 71.681, DE 8 DE JANEIRO DE 1973.
 
 Concede a Camargo Correa Industrial S.A. o direito de lavrar argila no Município de Apiaí, Estado de São Paulo.

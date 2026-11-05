@@ -1,5 +1,3 @@
-###DEC-068001-0-000-31-12-1970@@@
-
 DECRETO Nº 68.001, DE 31 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 28.495, de 14 de agôsto de 1950.

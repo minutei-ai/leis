@@ -1,5 +1,3 @@
-###DEC-078439-0-000-20-09-1976@@@
-
 DECRETO Nº 78.439, DE 20 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Comunicação Social, da Faculdade de Comunicação e Turismo Hélio Alonso, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

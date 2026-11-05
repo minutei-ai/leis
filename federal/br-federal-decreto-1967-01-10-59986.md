@@ -1,5 +1,3 @@
-###DEC-059986-0-000-10-01-1967@@@
-
 DECRETO Nº 59.986, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Hélio Furtado Gaudereto a pesquisar quartzo, feldspato, mica e caulim, no município de Santo Antônio da Grama, no Estado de Minas Gerais.

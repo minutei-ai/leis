@@ -1,5 +1,3 @@
-###DEC-046555-0-000-10-08-1959@@@
-
 DECRETO Nº 46.555, DE 10 DE AGÔSTO DE 1959.
 
 Exclui das disposições do parágrafo único do art. 9º do Decreto nº 45.363, de 29 de janeiro de 1959, despesa que menciona.

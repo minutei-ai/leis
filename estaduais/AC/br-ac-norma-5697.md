@@ -1,6 +1,10 @@
 > **LEI Nº 4.146, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica denominada “Ponte Josimar Oliveira dos Santos (Dimar)” a Ponte sobre o Rio Acre, no Município de Xapuri, que interliga o Bairro Sibéria ao centro da cidade.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica denominada “Ponte Josimar Oliveira dos Santos (Dimar)” a Ponte sobre o Rio Acre, no Município de Xapuri, que interliga o Bairro Sibéria ao centro da cidade.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

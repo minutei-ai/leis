@@ -1,5 +1,3 @@
-###DEC-068390-0-000-23-03-1971@@@
-
 DECRETO Nº 68.390, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Irmandade do Senhor Bom Jesus dos Passos de Imbituba, com sede em Imbituba, Estado de Santa Catarina.

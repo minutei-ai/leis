@@ -1,5 +1,3 @@
-###DEC-087444-0-000-03-08-1982@@@
-
 Decreto nº 87.444, de 03 de agosto de 1982
 
 Altera dispositivos do Decreto nº 62.860 de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047857-0-000-07-03-1960@@@
-
 DECRETO Nº 47.857, DE 7 DE MARÇO DE 1960.
 
 Autoriza o cidadão brasileiro Humberto de Lima Dantas a pesquisar minério de cromo, no município de Campo Formoso, Estado da Bahia.

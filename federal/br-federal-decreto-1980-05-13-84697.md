@@ -1,5 +1,3 @@
-###DEC-084697-0-000-13-05-1980@@@
-
 Decreto nº 84.697, de 13 de maio de 1980.
 
 Autoriza GIOVANNI BUCCI e FRANCO SARTORI, de nacionalidade italiana, a adquirirem imóveis rurais.

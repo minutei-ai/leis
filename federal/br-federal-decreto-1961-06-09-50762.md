@@ -1,5 +1,3 @@
-###DEC-050762-0-000-09-06-1961@@@
-
 DECRETO Nº 50.762, DE 9 DE JUNHO DE 1961.
 
 Transfere da Prefeitura Municipal de Vespasiano para a Centrais Elétricas de Minas Gerais S.A. a concessão para a produção e fornecimento de energia elétrica ao Município de Vespasiano, Estado de Minas Gerais.

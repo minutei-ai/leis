@@ -1,5 +1,3 @@
-###DEL-003497-0-000-13-08-1941@@@
-
 DECRETO-LEI N. 3.497 – DE 13 DE AGOSTO DE 1941
 
 Cria, no Serviço Nacional, de Doenças Mentais do Departamento Nacional, de Saude do Ministério da Educação e Saude, o Hospital de Neuro-Psiquiatria Infantil e dá outras providências

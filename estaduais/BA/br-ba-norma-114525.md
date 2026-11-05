@@ -8,7 +8,8 @@ Art. 1º - Fica O Poder Executivo autorizado a abrir crédito especial até o li
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão por conta da verba 3.05.08-1.6.21.1, do orçamento vigente.
 
-Redação de acordo com a Lei nº 1.974, de 31 de outubro de 1963.<br>
+Redação de acordo com a Lei nº 1.974, de 31 de outubro de 1963.
+
 Redação original: " As despesas decorrentes da abertura do presente crédito correrão por conta do recurso previsto no orçamento, sob codificação 05.08-1.6.21."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ João da Costa Pinto Dantas Júnior
 
 Ruy Santos
 
-* * *
+ *

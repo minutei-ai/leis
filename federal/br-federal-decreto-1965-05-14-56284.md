@@ -1,5 +1,3 @@
-###DEC-056284-0-000-14-05-1965@@@
-
 DECRETO Nº 56.284, DE 14 DE MAIO DE 1965.
 
 Regulamenta as disposições dos artigos 1° a 10 da Lei n° 4.621, de 30 de abril de 1965, e dá outras providências.
@@ -16,7 +14,25 @@ Art. 2º A subscrição compulsória a que se refere o artigo anterior incidirá
 
 § 1º A subscrição compulsória dos residentes no Brasil será calculada, por faixa de rendimentos, de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Classes de rendimentos mensais</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Subscrição compulsória por faixa de rendimentos</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até Cr$600.000................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Isento</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Entre Cr$600.001 e Cr$800.000 .....................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10%</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Entre Cr$800.001 e Cr$1.000.000...................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20%</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de Cr$1.000.000 ..................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30%</span></p></td></tr></tbody></table>
+Classes de rendimentos mensais
+
+Subscrição compulsória por faixa de rendimentos
+
+Até Cr$600.000................................................................................
+
+Isento
+
+Entre Cr$600.001 e Cr$800.000 .....................................................
+
+10%
+
+Entre Cr$800.001 e Cr$1.000.000...................................................
+
+20%
+
+Acima de Cr$1.000.000 ..................................................................
+
+30%
 
 § 2º O montante da subscrição será determinado pela soma das parcelas correspondentes a cada faixa.
 

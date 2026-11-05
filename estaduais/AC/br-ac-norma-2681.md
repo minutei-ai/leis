@@ -1,6 +1,6 @@
 > **LEI Nº 3.264, DE 17 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Ratifica o Protocolo de Intenções firmado entre os Estados do Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins, com o objetivo de constituição de consórcio interestadual, sob a forma de autarquia, denominada Consórcio Interestadual de Desenvolvimento Sustentável da Amazônia Legal.</span></span></span></p></td></tr></tbody></table>
+Ratifica o Protocolo de Intenções firmado entre os Estados do Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins, com o objetivo de constituição de consórcio interestadual, sob a forma de autarquia, denominada Consórcio Interestadual de Desenvolvimento Sustentável da Amazônia Legal.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -407,7 +407,8 @@ Contrato de Programa
 
 **V** - procedimentos que garantam transparência da gestão econômica e financeira de cada serviço em relação a cada um de seus titulares, especialmente de apuração de quanto foi arrecadado e investido nos territórios de cada um deles, em relação a cada serviço sob regime de gestão associada de serviço público;
 
-**VI** - os direitos, garantias e obrigações do titular e do prestador, inclusive<br>
+**VI** - os direitos, garantias e obrigações do titular e do prestador, inclusive
+
  os relacionados às previsíveis necessidades de futura alteração e expansão dos serviços e consequente modernização, aperfeiçoamento e ampliação dos equipa­mentos e instalações;
 
 **VII** - os direitos e deveres dos usuários para obtenção e utilização dos serviços;
@@ -420,7 +421,8 @@ Contrato de Programa
 
 **XI** - os bens reversíveis;
 
-**XII** - os critérios para o cálculo e a forma de pagamento das indenizações<br>
+**XII** - os critérios para o cálculo e a forma de pagamento das indenizações
+
  devidas ao prestador dos serviços, inclusive quando consórcio público, especialmen­te do valor dos bens reversíveis que não foram amortizados por tarifas e outras re­ceitas emergentes da prestação dos serviços;
 
 **XIII** - a obrigatoriedade, forma e periodicidade da prestação de contas do consórcio público ou outro prestador dos serviços, no que se refere à prestação dos serviços por gestão associada de serviço público;
@@ -443,7 +445,8 @@ Contrato de Programa
 
 **V** – a identificação dos bens que terão apenas a sua gestão e administra­ção transferidas e o preço dos que sejam efetivamente alienados ao prestador dos serviços ou ao consórcio público; e
 
-**VI** - o procedimento para o levantamento, cadastro e avaliação dos bens<br>
+**VI** - o procedimento para o levantamento, cadastro e avaliação dos bens
+
  reversíveis que vierem a ser amortizados mediante receitas de tarifas ou outras emergentes da prestação dos serviços.
 
 **§ 2º** O contrato de programa poderá autorizar o Consórcio a emitir documentos de cobrança pelos serviços públicos prestados para os entes associados.
@@ -646,4 +649,44 @@ PROTOCOLO DE INTENÇÕES DO CONSÓRCIO INTERESTADUAL DE DESENVOLVIMENTO SUSTENT�
 
 **QUADRO DE REMUNERAÇÃO DOS CARGOS COMISSIONADOS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>CARGOS COMISSIONADOS</span></strong></span></p></td><td><p><span><strong><span>QUANTIDADE</span></strong></span></p></td><td><p><span><strong><span>REMUNERAÇÃO</span></strong></span></p></td></tr><tr><td><p><span><span>Secretário Executivo</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>R$ 18.000,00</span></span></p></td></tr><tr><td><p><span><span>Diretor</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>R$ 15.000,00</span></span></p></td></tr><tr><td><p><span><span>Coordenador</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>R$ 12.000,00</span></span></p></td></tr><tr><td><p><span><span>Assessor</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>R$ 8.000,00</span></span></p></td></tr><tr><td><p><span><span>Auxiliar Técnico I</span></span></p></td><td><p><span><span>5</span></span></p></td><td><p><span><span>R$ 5.500,00</span></span></p></td></tr><tr><td><p><span><span>Auxiliar Técnico II</span></span></p></td><td><p><span><span>5</span></span></p></td><td><p><span><span>R$ 3.500,00</span></span></p></td></tr></tbody></table>
+**CARGOS COMISSIONADOS**
+
+**QUANTIDADE**
+
+**REMUNERAÇÃO**
+
+Secretário Executivo
+
+1
+
+R$ 18.000,00
+
+Diretor
+
+2
+
+R$ 15.000,00
+
+Coordenador
+
+4
+
+R$ 12.000,00
+
+Assessor
+
+4
+
+R$ 8.000,00
+
+Auxiliar Técnico I
+
+5
+
+R$ 5.500,00
+
+Auxiliar Técnico II
+
+5
+
+R$ 3.500,00

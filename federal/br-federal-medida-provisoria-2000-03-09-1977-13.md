@@ -1,5 +1,3 @@
-###MPV-001977-0-013-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-13, DE 9 DE março DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

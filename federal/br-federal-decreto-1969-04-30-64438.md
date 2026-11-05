@@ -1,5 +1,3 @@
-###DEC-064438-0-000-30-04-1969@@@
-
 decreto nº 64.438, de 30 de abril de 1969.
 
 Declara de utilidade pública a Associação Sul Riograndense da Igreja Adventista do Sétimo Dia, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

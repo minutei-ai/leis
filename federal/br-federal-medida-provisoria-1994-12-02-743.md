@@ -1,7 +1,3 @@
-1
-
-###MPV-000743-0-000-02-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 743, DE 2 DE DEZEMBRO DE 1994
 
 Institui a Taxa de Juros de Longo Prazo (TJLP), dispõe sobre a remuneração dos recursos do Fundo de Participação Pis‑Pasep, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057886-0-000-28-02-1966@@@
-
 DECRETO Nº 57.886, DE 28 DE FEVEREIRO DE 1966.
 
 Autoriza à Companhia Brasileira de Energia Elétrica a ampliar seu sistema de transmissão.

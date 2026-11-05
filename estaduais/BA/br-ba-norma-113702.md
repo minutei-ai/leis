@@ -1,6 +1,7 @@
 LEI Nº 1.014 DE 03 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.362 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Boa Vista do Tupim, Iaçu, Ibiquera, Itaberaba, Itatim, Lajedinho, Macajuba, Mundo Novo, Piritiba, Rafael Jambeiro, Ruy Barbosa, Santa Terezinha e Tapiramutá. 
 
 Restabelece o município de Piritiba, desmembrado do de Mundo Novo.
@@ -97,4 +98,4 @@ LEIA-SE: serão regulados pela lei nº 140, de 22 de dezembro de 1948
 
 (Lei Orgânica dos Municípios).
 
-* * *
+ *

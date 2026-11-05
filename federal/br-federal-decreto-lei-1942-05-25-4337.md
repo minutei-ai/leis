@@ -1,5 +1,3 @@
-###DEL-004337-0-000-25-05-1942@@@
-
 DECRETO-LEI N. 4.337 – DE 25 DE MAIO DE 1942
 
 Abre o crédito suplementar de 40:800$0, às dotações que especifica, do Anexo 15 – Ministério da Educação e Saude – do Orçamento em vigor

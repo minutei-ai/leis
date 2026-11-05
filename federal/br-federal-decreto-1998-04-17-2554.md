@@ -1,5 +1,3 @@
-###DEC-002554-0-000-17-04-1998@@@
-
 DECRETO Nº 2.554, DE 17 DE ABRIL DE 1998
 
 Fixa o valor absoluto do limite global das deduções do Imposto sobre a Renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

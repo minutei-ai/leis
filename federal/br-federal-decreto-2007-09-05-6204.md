@@ -1,5 +1,3 @@
-###DEC-006204-0-000-05-09-2007@@@
-
 DECRETO Nº 6.204, DE 5 DE SETEMBRO DE 2007.
 
 Regulamenta o tratamento favorecido, diferenciado e simplificado para as microempresas e empresas de pequeno porte nas contratações públicas de bens, serviços e obras, no âmbito da administração pública federal.                                   
@@ -135,5 +133,3 @@ Regulamenta o tratamento favorecido, diferenciado e simplificado para as microem
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 5.9.2007

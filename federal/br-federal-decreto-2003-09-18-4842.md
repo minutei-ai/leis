@@ -1,5 +1,3 @@
-###DEC-004842-0-000-18-09-2003@@@
-
 DECRETO Nº 4.842,  DE 19 DE SETEMBRO DE 2003.
 
        Dá nova redação ao art. 66 do Decreto no 55.762, de 17 de fevereiro de 1965, que regulamenta a Lei no 4.131, de 3 de setembro de 1962.
@@ -20,5 +18,6 @@ Parágrafo único.  A disponibilização eletrônica pela internet de que trat
 
         Brasília, 18 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

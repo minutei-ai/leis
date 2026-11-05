@@ -1,5 +1,3 @@
-###DEC-045146-0-000-30-12-1958@@@
-
 (\*) DECRETO Nº 45.146, DE 30 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento da Diretoria de Remonta (R-42).
@@ -286,7 +284,169 @@ henrique teixeira lott
 
 ÍNDICE DE ASSUNTOS (Remissivo)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Atribuições</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Da Chefia do Gabinete...................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 13</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Da Chefia das Seções....................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.14</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Das Coudelarias.............................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.15</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Do Diretor de Remonta...................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.12</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Do Gabinete....................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.9º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Da 1ª Seção (S/1) Fomento e Criação...........................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.10</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Da 2ª Seção (S/2) Provimento Controle e Movimento de Animais.................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.11</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Da 3ª Seção (S/3) Provisão Animal................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.12</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Dos Postos de Monta.....................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.16</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Coudelarias</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Finalidade.......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.15</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Subordinação.................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.4º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Diretor de Remonta</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.12</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Estatística</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições da DR...........................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 2º 4)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Estudo e elaboração.......................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.11. 7)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Gabinete</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 9º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização...................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 6º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Inspeções e Fiscalização</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.13. 4)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Instruções e Normas Técnicas</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Elaboração......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.18</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Mobilização</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições da DR...........................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.2º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Estudo e elaboração.......................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 11. 8)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pessoal e Relações Públicas</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Assuntos de....................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.9º 1)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Postos de Monta</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Finalidade.......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.16.</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Subordinação..................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.4º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Programas</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Aprovação.......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 2º 2)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Elaboração.....................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 2º 7)</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Recursos Financeiros</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuição da DR.............................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 2º 7) b</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições do Diretor de Remonta.................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 12.</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Regimento Interno</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Elaboração......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 20.</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Seções</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições......................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 10 e 11</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Denominações................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 7º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Desdobramento..............................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 8º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização...................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 3º</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1ª Seção (S/1) Fomento e Criação.................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 10.</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2ª Seção (S/2) Provimento, Contrôle e Movimento de Animais.....................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art.11.</span></p></td></tr></tbody></table>
+Atribuições
+
+Da Chefia do Gabinete...................................................................................................
+
+Art. 13
+
+Da Chefia das Seções....................................................................................................
+
+Art.14
+
+Das Coudelarias.............................................................................................................
+
+Art.15
+
+Do Diretor de Remonta...................................................................................................
+
+Art.12
+
+Do Gabinete....................................................................................................................
+
+Art.9º
+
+Da 1ª Seção (S/1) Fomento e Criação...........................................................................
+
+Art.10
+
+Da 2ª Seção (S/2) Provimento Controle e Movimento de Animais.................................
+
+Art.11
+
+Da 3ª Seção (S/3) Provisão Animal................................................................................
+
+Art.12
+
+Dos Postos de Monta.....................................................................................................
+
+Art.16
+
+Coudelarias
+
+Finalidade.......................................................................................................................
+
+Art.15
+
+Subordinação.................................................................................................................
+
+Art.4º
+
+Diretor de Remonta
+
+Atribuições......................................................................................................................
+
+Art.12
+
+Estatística
+
+Atribuições da DR...........................................................................................................
+
+Art. 2º 4)
+
+Estudo e elaboração.......................................................................................................
+
+Art.11. 7)
+
+Gabinete
+
+Atribuições......................................................................................................................
+
+Art. 9º
+
+Organização...................................................................................................................
+
+Art. 6º
+
+Inspeções e Fiscalização
+
+Atribuições......................................................................................................................
+
+Art.13. 4)
+
+Instruções e Normas Técnicas
+
+Elaboração......................................................................................................................
+
+Art.18
+
+Mobilização
+
+Atribuições da DR...........................................................................................................
+
+Art.2º
+
+Estudo e elaboração.......................................................................................................
+
+Art. 11. 8)
+
+Pessoal e Relações Públicas
+
+Assuntos de....................................................................................................................
+
+Art.9º 1)
+
+Postos de Monta
+
+Finalidade.......................................................................................................................
+
+Art.16.
+
+Subordinação..................................................................................................................
+
+Art.4º
+
+Programas
+
+Aprovação.......................................................................................................................
+
+Art. 2º 2)
+
+Elaboração.....................................................................................................................
+
+Art. 2º 7)
+
+Recursos Financeiros
+
+Atribuição da DR.............................................................................................................
+
+Art. 2º 7) b
+
+Atribuições do Diretor de Remonta.................................................................................
+
+Art. 12.
+
+Regimento Interno
+
+Elaboração......................................................................................................................
+
+Art. 20.
+
+Seções
+
+Atribuições......................................................................................................................
+
+Art. 10 e 11
+
+Denominações................................................................................................................
+
+Art. 7º
+
+Desdobramento..............................................................................................................
+
+Art. 8º
+
+Organização...................................................................................................................
+
+Art. 3º
+
+1ª Seção (S/1) Fomento e Criação.................................................................................
+
+Art. 10.
+
+2ª Seção (S/2) Provimento, Contrôle e Movimento de Animais.....................................
+
+Art.11.
 
 ÍNDICE GERAL (ANALÍTICO)
 

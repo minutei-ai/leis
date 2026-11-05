@@ -1,5 +1,3 @@
-###DEC-058725-0-000-27-06-1966@@@
-
 decreto nº 58.725, de 27 de junho de 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica.

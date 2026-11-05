@@ -1,8 +1,6 @@
-###DEC-029675-0-000-18-06-1951@@@
+**DECRETO N. 29.675 – DE 18 DE JUNHO DE 1951**
 
-<strong>DECRETO N. 29.675 – DE 18 DE JUNHO DE 1951</strong>
-
-<em><strong>Revoga o Decreto nº 27.680, de 5 de janeiro de 1950, e dá outras providências.</strong></em>
+***Revoga o Decreto nº 27.680, de 5 de janeiro de 1950, e dá outras providências.***
 
 O Presidente da República, usando da atribuição que lhe confere o art. 87, número I, da Constituição, e  Atendendo a que a Câmara Sindical da Bôlsa de Valôres do Rio de Janeiro solicitou a revogação do Decreto nº 27.680, de 5 de janeiro de 1950, e a manutenção da fiança de Cr$ 50.000,00, estabelecida no art. 7º do Decreto nº 2.475, de 13 do março de 1897;
 
@@ -10,16 +8,16 @@ Considerando que, nos termos do art. 7º da Lei n° 106, de 23 de outubro de 193
 
 Tendo em vista que, assim, estava a caução, anteriormente ao Decreto nº 27.680, de 5 de janeiro de 1950, praticamente elevada a Cr$  ... 400.000,00,
 
-  <strong>DECRETA:</strong>
+  **DECRETA:**
 
-<strong>Art.</strong> 1º Fica revogado o Decreto nº 27.680, de 5 de janeiro de 1950, restabelecendo-se, em consequência, a fiança de cinqüenta mil cruzeiros (Cr$ 50.000,00), fixada pelo art. do Decreto n° 2.475, de 13 de março de 1897.
+**Art.** 1º Fica revogado o Decreto nº 27.680, de 5 de janeiro de 1950, restabelecendo-se, em consequência, a fiança de cinqüenta mil cruzeiros (Cr$ 50.000,00), fixada pelo art. do Decreto n° 2.475, de 13 de março de 1897.
 
-<strong>Art.</strong> 2º Êste Decreto entrará em vigor na data da sua publicação.
+**Art.** 2º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrário.
+**Art.** 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 18 de junho de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Horário Lafer

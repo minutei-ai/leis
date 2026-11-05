@@ -1,5 +1,3 @@
-###DEC-066552-0-000-11-05-1970@@@
-
 Decreto nº 66.552, de 11 de maio de 1970.
 
 Reconhece o Curso Superior da Formação de Professôres para Ensino Normal (Pedagogia), de Duque de Caxias, Estado do Rio de Janeiro.

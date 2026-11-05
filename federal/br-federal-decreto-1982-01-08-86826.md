@@ -1,5 +1,3 @@
-###DEC-086826-0-000-08-01-1982@@@
-
 DECRETO Nº 86.826, DE 08 DE JANEIRO DE 1982
 
 Autoriza a Nuclebrás Equipamentos Pesados S.A. - NUCLEP a proceder ao aumento do limite do seu Capital Social.

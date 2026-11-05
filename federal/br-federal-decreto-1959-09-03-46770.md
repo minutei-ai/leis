@@ -1,5 +1,3 @@
-###DEC-046770-0-000-03-09-1959@@@
-
 decreto nº 46.770, de 3 de setembro de 1959.
 
 Declara de utilidade pública, para efeitos de desapropriação, imóveis situados em Fortaleza, Estado do Ceará.

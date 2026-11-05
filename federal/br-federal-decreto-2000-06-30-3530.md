@@ -1,5 +1,3 @@
-###DEC-003530-0-000-30-06-2000@@@
-
 DECRETO Nº 3.530, DE 30 DE JUNHO DE 2000.
 
 Altera o § 3º do art. 4º do Decreto nº 3.431, de 24 de abril de 2000, que regulamenta a execução do Programa de Recuperação Fiscal - REFIS.

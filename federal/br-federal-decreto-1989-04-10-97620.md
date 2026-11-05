@@ -1,7 +1,3 @@
-1
-
-###DEC-097620-0-000-10-04-1989@@@
-
 DECRETO N° 97.620, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre financiamentos ao setor rural e agroindustrial, vinculados a fundos e programas especiais de crédito.

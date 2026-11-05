@@ -1,6 +1,10 @@
 > **LEI Nº 3.766, DE 09 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.261, de 31 de março de 2010, que institui no âmbito da Secretaria de Estado de Justiça e Direitos Humanos - SEJUDH a Ouvidoria sobre assuntos de segurança pública e medidas socioeducativas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.261, de 31 de março de 2010, que institui no âmbito da Secretaria de Estado de Justiça e Direitos Humanos - SEJUDH a Ouvidoria sobre assuntos de segurança pública e medidas socioeducativas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

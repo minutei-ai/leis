@@ -1,30 +1,28 @@
-###DEC-040870-0-000-07-02-1957@@@
+**DECRETO Nº 40.870, DE 7 DE FEVEREIRO DE 1957.**
 
-<strong>DECRETO Nº 40.870, DE 7 DE FEVEREIRO DE 1957.</strong>
+***Aprova o Regimento do Departamento Nacional de Endemias Rurais, do Ministério da Saúde.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Endemias Rurais, do Ministério da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Endemias Rurais (D.N.Ru.), que, assinado pelo Ministro de Estado dos Negócios da Saúde, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Endemias Rurais (D.N.Ru.), que, assinado pelo Ministro de Estado dos Negócios da Saúde, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de fevereiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Maurício de Medeiros
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE ENDEMIAS RURAIS</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE ENDEMIAS RURAIS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º O Departamento Nacional de Endemias Rurais (D.N.E.Ru.), criado pela Lei nº 2.743, de 6 de março de 1956, e diretamente subordinado ao Ministro de Estado dos Negócios da Saúde, tem por finalidade:
+**Art**. 1º O Departamento Nacional de Endemias Rurais (D.N.E.Ru.), criado pela Lei nº 2.743, de 6 de março de 1956, e diretamente subordinado ao Ministro de Estado dos Negócios da Saúde, tem por finalidade:
 
 a) promover, diretamente na zona rural e em tôdas as áreas do território nacional em que se fizer necessário, o combate à malária, leishmaniose, doença de Chagas, peste, brucelose, febre amarela, esquistossomose, ancilostomose, filariose, hidatidose, bócio endêmico, bouba, trocoma e outras endemias cuja investigação e combate, na forma da referida lei, lhe forem atribuídas pelo Ministro de Estado dos Negócios da Saúde;
 
@@ -48,11 +46,11 @@ j) divulgar os resultados de seus programas de combate a endemias, investigaçõ
 
 k) estabelecer intercâmbio com organizações culturais ou técnicas, visando à troca de informações e conjugação de esforços para a solução dos problemas compreendidos em seus âmbito de ação.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O D.N.E. Ru. compreende:
+**Art**. 2º O D.N.E. Ru. compreende:
 
 I - Diretoria-Geral (D. G.).
 
@@ -108,7 +106,7 @@ a) Setores (S.)
 
 b) Turma de Administração (T.A.)
 
-<strong>Art</strong>. 3º. Os Centros de Pesquisas órgãos regionais de I. N. E. Ru. previstos no presente Regimento, serão criados por indicação do Diretor-Geral e proposta do Ministro de Estado.
+**Art**. 3º. Os Centros de Pesquisas órgãos regionais de I. N. E. Ru. previstos no presente Regimento, serão criados por indicação do Diretor-Geral e proposta do Ministro de Estado.
 
 § 1º As Circunscrições (C.), em número de 25 (vinte e cinco), corresponderão uma ao Distrito Federal e uma a cada um dos Estados e Territórios, sendo sediadas nas respectivas capitais.
 
@@ -116,33 +114,33 @@ b) Turma de Administração (T.A.)
 
 § 3º A sede e a jurisdição dos Setores e Centros de Pesquisas serão estabelecidas, por portaria do Ministro de Estado, mediante proposta do Diretor-Geral.
 
-<strong>Art</strong>. 4º O D. N. E. Ru. será dirigido por um Diretor-Geral, nomeado em comissão pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 4º O D. N. E. Ru. será dirigido por um Diretor-Geral, nomeado em comissão pelo Presidente da República, por indicação do Ministro de Estado.
 
 Parágrafo único. O Diretor-Geral será auxiliado por cinco Assistentes Técnicos e um Secretário, por êle designados.
 
-<strong>Art</strong>. 5º Os Diretores das divisões, do Instituto Nacional de Endemias Rurais e do Serviço de Produtos Profiláticos serão nomeados pelo Presidente da República, por indicação do Diretor-Geral e proposta do Ministro de Estado.
+**Art**. 5º Os Diretores das divisões, do Instituto Nacional de Endemias Rurais e do Serviço de Produtos Profiláticos serão nomeados pelo Presidente da República, por indicação do Diretor-Geral e proposta do Ministro de Estado.
 
 Parágrafo único. Os Diretores a que se refere o presente artigo terão Secretários, por êles designados.
 
-<strong>Art</strong>. 6º O S. A.., as Circunscrições, as Seções, os Centros de Pesquisas e Setores terão Chefes e as Turmas de Administração e a Portaria. Encarregados, todos designados pelos respectivos chefes imediatos.
+**Art**. 6º O S. A.., as Circunscrições, as Seções, os Centros de Pesquisas e Setores terão Chefes e as Turmas de Administração e a Portaria. Encarregados, todos designados pelos respectivos chefes imediatos.
 
 § 1º Nas Circunscrições caberá aos Encarregados de Turmas de Administração secretariar os respectivos Chefes.
 
 § 2º Os chefes das Circunscrições sediadas nos Estados terão um Assessor, designado pelo Diretor-Geral.
 
-<strong>Art</strong>. 7º Os órgãos que integram o Departamento funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a supervisão e contrôle do Diretor-Geral.
+**Art**. 7º Os órgãos que integram o Departamento funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a supervisão e contrôle do Diretor-Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos Órgãos</em>
+*Da competência dos Órgãos*
 
-<strong>Art</strong>. 8º A S. En. S. compete:
+**Art**. 8º A S. En. S. compete:
 
 a) projetar e executar as obras de saneamento, a cargo do Departamento;
 
 b) colaborar com órgãos de saneamento, públicos e particulares nos assuntos de interêsse comum.
 
-<strong>Art</strong>. 9º A S. Ed. S. compete:
+**Art**. 9º A S. Ed. S. compete:
 
 a) elaborar programas de educação sanitária e controlar sua execução;
 
@@ -150,7 +148,7 @@ b) preparar e zelar pelo material educativo;
 
 c) colaborar com órgãos de educação sanitária do serviço público ou particulares, nos assuntos de interesse comum.
 
-<strong>Art</strong>. 10. A D. Pr. Compete:
+**Art**. 10. A D. Pr. Compete:
 
 I - através da S. E. E.:
 
@@ -174,7 +172,7 @@ c) elaborar, em cooperação com outros órgãos do Departamento, os orçamentos
 
 d) registrar e acompanhar o desenvolvimento das campanhas.
 
-<strong>Art</strong>. 11. A D.C.D. compete:
+**Art**. 11. A D.C.D. compete:
 
 I - Através da S. Co.:
 
@@ -192,7 +190,7 @@ c) colaborar com órgãos de documentação e divulgação do Ministério;
 
 d) organizar e manter uma Biblioteca especializada, destinada aos diversos órgãos do Departamento.
 
-<strong>Art</strong>. 12. Ao I.N. E Ru. compete:
+**Art**. 12. Ao I.N. E Ru. compete:
 
 a) realizar estudos e pesquisas que visem a ampliar o conhecimento das endemais cujo combate está afeto ao Departamento, investigando a natureza e comportamento de seus agentes etiológicos, vetores e hospedeiros, assim como os fatôres e modos de transmissão;
 
@@ -208,7 +206,7 @@ e) colaborar com os órgãos especializados na formação e treinamento do pesso
 
 § 2º Aos Centros de Pesquisas compete executar as atividades a que se refere êste artigo, dentro das respectivas áreas de jurisdição, de acôrdo com os planos de trabalho que lhes forem determinados pelo Diretor.
 
-<strong>Art</strong>. 13. Ao S. P. P. compete:
+**Art**. 13. Ao S. P. P. compete:
 
 A - Através da SI:
 
@@ -222,9 +220,9 @@ B - Através da S.Tc.:
 
 2\) realializar, com a colaboração do I.N.E.Ru., pesquisas que visem ao descobrimento de novos recursos profiláticos ou ao aprimoramento dos já existentes.
 
-<strong>Art</strong>. 14. Ao S.A. compete, como órgão central de administração geral do Departamento, executar, orientar, promover e supervisionar tôdas as atividades relativas à administração de pessoal, material, orçamento, comunicações e transportes, devendo, para isso, manter-se perfeitamente articulado com o Departamento de Administração do Ministério.
+**Art**. 14. Ao S.A. compete, como órgão central de administração geral do Departamento, executar, orientar, promover e supervisionar tôdas as atividades relativas à administração de pessoal, material, orçamento, comunicações e transportes, devendo, para isso, manter-se perfeitamente articulado com o Departamento de Administração do Ministério.
 
-<strong>Art</strong>. 15. Compete, em particular, ao S.A.:
+**Art**. 15. Compete, em particular, ao S.A.:
 
 I - Através da Seção de Material e Transportes (S.M.T.).
 
@@ -286,11 +284,11 @@ III - através da Seção de comunicações (S.C.):
 
 1\) receber, registrar, distribuir, expedir e guardar a correspondência oficial, processos e demais documentos remetidos ao Departamento;
 
-2\) promover a publicação no <em>Diário Oficial</em> dos atos e decições do Diretor-Geral do Departamento;
+2\) promover a publicação no *Diário Oficial* dos atos e decições do Diretor-Geral do Departamento;
 
 3\) passar certidões, quando autorizadas pelo Diretor-Geral.
 
-<strong>Art</strong>. 16. Ao Almoxarifado compete:
+**Art**. 16. Ao Almoxarifado compete:
 
 1\) conferir, receber, conservar e distribuir o material adquirido pelo Departamento;
 
@@ -302,7 +300,7 @@ III - através da Seção de comunicações (S.C.):
 
 5\) zelar para que sejam mantidas as quantidades mínimas estabelecidas pelo S.A. para os materiais de maior consumo.
 
-<strong>Art</strong>. 17. À Portaria compete:
+**Art**. 17. À Portaria compete:
 
 1\) executar os trabalhos de vigilância interna das dependências ocupadas pelo D.N.E.Ru.;
 
@@ -312,7 +310,7 @@ III - através da Seção de comunicações (S.C.):
 
 4\) fazer a entrega da correspondência de caráter urgente do Departamento.
 
-<strong>Art</strong>. 18. Às T.A. compete, em relação aos órgãos que integrarem:
+**Art**. 18. Às T.A. compete, em relação aos órgãos que integrarem:
 
 1\) receber, distribuir, expedir e controlar os processos e papéis entrados;
 
@@ -326,7 +324,7 @@ III - através da Seção de comunicações (S.C.):
 
 6\) promover a aquisição, pelo órgão competente, do material necessário ao serviço.
 
-<strong>Art</strong>. 19. Às Circunscrições compete a execução, na área de sua jurisdição de tôdas as atividades destinadas ao combate às endemias rurais, de competência do Departamento, devendo, para êsse fim:
+**Art**. 19. Às Circunscrições compete a execução, na área de sua jurisdição de tôdas as atividades destinadas ao combate às endemias rurais, de competência do Departamento, devendo, para êsse fim:
 
 1\) verificar a existência de fontes de infecção, vetores e hospedeiros;
 
@@ -344,11 +342,11 @@ III - através da Seção de comunicações (S.C.):
 
 Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territorial, executar, tôdas as atribuições estabelecidas para as Circunscrições, assim como a administração de Postos, Hospitais, Subpostos e outras unidades sanitárias.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 20. Ao Diretor-Geral incumbe:
+**Art**. 20. Ao Diretor-Geral incumbe:
 
 1\) dirigir, orientar, coordenar e supervisionar os trabalhos do Departamento e representá-lo em suas relações externas;
 
@@ -392,7 +390,7 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 21\) exercer quaisquer outras atribuições que lhe forem cometidas.
 
-<strong>Art</strong>. 21. Aos Diretores, aos Chefes do S.A.e das Circunscrições incumbe:
+**Art**. 21. Aos Diretores, aos Chefes do S.A.e das Circunscrições incumbe:
 
 1\) dirigir, orientar, coordenar e fiscalizar os trabalhos a cargo do órgão sob sua direção;
 
@@ -416,7 +414,7 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 11\) tomar tôdas as providências que se fizerem necessárias ao desempenho das atribuições do órgão que dirigir;
 
-<strong>Art</strong>. 22. Aos Chefes de Seção, Centros de Pesquisa, Setôres e Encarregados de Turma de Administração incumbe:
+**Art**. 22. Aos Chefes de Seção, Centros de Pesquisa, Setôres e Encarregados de Turma de Administração incumbe:
 
 1\) chefiar, coordenar e fiscalizar a execução dos trabalhos a cargo da respectiva Seção, Centro, Setor ou Turma;
 
@@ -426,7 +424,7 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 4\) promover e simplificação do trabalho, tendo em vista melhor aproveitamento dos recursos disponíveis.
 
-<strong>Art</strong>. 23. Aos Assistentes Técnicos e Assessôres incumbe:
+**Art**. 23. Aos Assistentes Técnicos e Assessôres incumbe:
 
 1\) fazer, em caráter permanente, a crítica dos trabalhos em execução nos órgãos que integram o Departamento bem como de suas rotinas, sugerindo ao Diretor-Geral as providências que lhes parecerem convenientes;
 
@@ -434,7 +432,7 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 3\) auxiliar o Diretor Geral no exame dos processos de natureza técnica que lhe sejam submetidos;
 
-<strong>Art</strong>. 24. Aos Secretários incumbe:
+**Art**. 24. Aos Secretários incumbe:
 
 1\) atender às pessoas que desejarem comunicar-se com o Diretor-Geral ou com os Diretores, encaminhando-as ou dando aos mesmos conhecimento do assunto a tratar;
 
@@ -442,7 +440,7 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 3\) manter atualizado o contrôle do movimento dos papéis que forem a despacho ou estudo do Diretor-Geral ou Diretor.
 
-<strong>Art</strong>. 25. Ao Chefe de Portaria incumbe:
+**Art**. 25. Ao Chefe de Portaria incumbe:
 
 1\) orientar e informar o público;
 
@@ -454,23 +452,23 @@ Parágrafo único. Aos Setôres compete, no âmbito de sua jurisdição territor
 
 5\) organizar a escala de serviço do pessoal em exercício na portaria.
 
-<strong>Art</strong>. 26. Aos demais servidores sem funções especificadas no presente Regimento compete executar os trabalhos que lhe forem distribuídos pelos seus superiores hierárquicos.
+**Art**. 26. Aos demais servidores sem funções especificadas no presente Regimento compete executar os trabalhos que lhe forem distribuídos pelos seus superiores hierárquicos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do horário:</em>
+*Do horário:*
 
-<strong>Art</strong>. 27. O horário normal de trabalho do D.N.E.R. será fixado, nos órgãos situados no Distrito Federal, pelo Diretor-Geral e, nos órgãos regionais, pelos respectivos dirigentes, respeitados o número de horas semanais estabelecidos para o serviço público civil.
+**Art**. 27. O horário normal de trabalho do D.N.E.R. será fixado, nos órgãos situados no Distrito Federal, pelo Diretor-Geral e, nos órgãos regionais, pelos respectivos dirigentes, respeitados o número de horas semanais estabelecidos para o serviço público civil.
 
 Parágrafo único. Nos trabalhos em que houver necessidade de revesamento, observar-se-á a escala de distribuição dos serviços que fôr aprovado pelo Chefe respectivo.
 
-<strong>Art</strong>. 28. Não ficam sujeitos a ponto o Diretor Geral, os Diretores de Divisão, do I.N.E.R.u., do S.P.P. e o Chefe do S.A. bem como os Chefes de órgãos regionais.
+**Art**. 28. Não ficam sujeitos a ponto o Diretor Geral, os Diretores de Divisão, do I.N.E.R.u., do S.P.P. e o Chefe do S.A. bem como os Chefes de órgãos regionais.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições:</em>
+*Das substituições:*
 
-<strong>Art</strong>. 29. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 29. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 1\) o Diretor Geral, por um dos Diretores, por êle indicado e prèviamente designado pelo Ministro de Estado;
 
@@ -478,18 +476,18 @@ Parágrafo único. Nos trabalhos em que houver necessidade de revesamento, obser
 
 3\) os Chefes de Seção, Centros de Pesquisas, Setôres, Turmas e Portaria, por servidores pelos mesmos indicados e desigandos pelos respectivos Diretores ou Chefes de Serviço.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais:</em>
+*Disposições Gerais:*
 
-<strong>Art</strong>. 30. O Diretor Geral poderá indicar qualquer servidor técnico do Departamento para servir como Coordenador de Programa específico de combate a endemias ou de atividades técnico-especializadas, cabendo ao mesmo a coordenação e orientação dos trabalhos dentro do plano geral estabelecido.
+**Art**. 30. O Diretor Geral poderá indicar qualquer servidor técnico do Departamento para servir como Coordenador de Programa específico de combate a endemias ou de atividades técnico-especializadas, cabendo ao mesmo a coordenação e orientação dos trabalhos dentro do plano geral estabelecido.
 
-<strong>Art</strong>. 31. O Diretor-Geral poderá, atendendo as indicações técnico-administrativas, determinar prioridade para os trabalhos de combate, erradicação ou investigação de determinada endemia compreendida nas atribuições do Departamento, baixando, para isso, instruções especiais em que poderá realizar, em caráter temporário, o destaque de dotações orçamentárias, redistribuição de material e de pessoal eventual para aquêle fim.
+**Art**. 31. O Diretor-Geral poderá, atendendo as indicações técnico-administrativas, determinar prioridade para os trabalhos de combate, erradicação ou investigação de determinada endemia compreendida nas atribuições do Departamento, baixando, para isso, instruções especiais em que poderá realizar, em caráter temporário, o destaque de dotações orçamentárias, redistribuição de material e de pessoal eventual para aquêle fim.
 
-<strong>Art</strong>. 32. Ficam extensivas, no que couber ao Departamento Nacional de Endemias Rurais de acôrdo com o art. 5º da Lei nº 2.743, de 6-3-56, as atribuições contidas no Decreto nº 21.743, de 23 de maio de 1932, no Decreto-lei nº 3.672, de 1º de outubro de 1941, no Decreto-lei nº 8.938, de 26 de janeiro de 1946, retificado pelo Decreto-lei nº 9.342, de 10 de junho de 1946 e pela Lei nº 2.161, de 2 de janeiro de 1954.
+**Art**. 32. Ficam extensivas, no que couber ao Departamento Nacional de Endemias Rurais de acôrdo com o art. 5º da Lei nº 2.743, de 6-3-56, as atribuições contidas no Decreto nº 21.743, de 23 de maio de 1932, no Decreto-lei nº 3.672, de 1º de outubro de 1941, no Decreto-lei nº 8.938, de 26 de janeiro de 1946, retificado pelo Decreto-lei nº 9.342, de 10 de junho de 1946 e pela Lei nº 2.161, de 2 de janeiro de 1954.
 
 Parágrafo único. A. aplicação dos recursos destinados às campanhas a cargo do D.N.E.Ru. obedecerá ao mesmo regime financeiro estabelecido no Decreto-lei nº 9.387, de 20-6-46 bem como no art. 7º e seu parágrafo único da Lei nº 1.489, de 10-2-51, conforme determinada o art. 17 da Lei nº 2.743, de 6-3-56.
 
 Rio de Janeiro, em 7 de fevereiro de 1957.
 
-<strong>MAURÍCIO DE MEDEIROS</strong>
+**MAURÍCIO DE MEDEIROS**

@@ -1,5 +1,3 @@
-###DEC-053154-0-000-10-12-1963@@@
-
 DECRETO Nº 53.154, DE 10 DE DEZEMBRO DE 1963.
 
 Aprova o Regulamento da Previdência Social Rural.

@@ -1,5 +1,3 @@
-###DEC-070467-0-000-02-05-1972@@@
-
 DECRETO Nº 70.467, DE 2 DE MAIO DE 1972.
 
 Dá nova redação ao artigo 31 do Regulamento da Inspetoria-Geral da Aeronáutica, aprovado pelo Decreto nº 64.284, de 31 de março de 1969.

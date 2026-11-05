@@ -1,5 +1,3 @@
-###DEC-077803-0-000-09-06-1976@@@
-
 DECRETO Nº 77.803, DE 9 DE JUNHO DE 1976.
 
 Reorganiza o Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

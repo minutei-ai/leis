@@ -1,5 +1,3 @@
-###DEC-049300-0-000-19-11-1960@@@
-
 DECRETO Nº 49.300, DE 19 DE novembro DE 1960.
 
 Declara oficiais as solenidades de trasladação dos restos mortais de Teófilo Benedito Ottoni.

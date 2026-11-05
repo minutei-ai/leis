@@ -1,5 +1,3 @@
-###DEC-004049-0-000-12-12-2001@@@
-
 DECRETO Nº 4.049, DE 12 DE DEZEMBRO DE 2001.
 
 Dispõe sobre a inscrição de despesas em Restos a Pagar no exercício de 2002, e dá outras providências.

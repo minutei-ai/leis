@@ -1,5 +1,3 @@
-###DEC-076267-0-000-12-09-1975@@@
-
 DECRETO Nº 76.267 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Companhia de Cimento Portland Barroso o direito de lavrar calcário no Município de Barroso, Estado de Minas Gerais.

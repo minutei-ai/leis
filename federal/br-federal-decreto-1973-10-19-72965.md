@@ -1,5 +1,3 @@
-###DEC-072965-0-000-19-10-1973@@@
-
 DECRETO Nº 72.965, DE 19 DE OUTUBRO DE 1973.
 
 Aprova o Regulamento da Diretoria de Serviço Geográfico, do Departamento de Engenharia e Comunicações, do Ministério do Exército, e dá outras providências.

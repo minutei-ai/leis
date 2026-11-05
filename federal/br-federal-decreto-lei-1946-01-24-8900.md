@@ -1,5 +1,3 @@
-###DEL-008900-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.900 – DE 24 DEJANEIRO DE 1946
 
 Dispõe sôbre a forma de pagamento de indenizações decorrentes de desapropriação de terrenos no Território Nacional do Iguaçu; a que se  refere o crédito especial de Cr$.. 27.900,00 (vinte e sete mil e novecentos cruzeiros), aberto ao Ministério da Agricultura pelo Decreto-lei nº 7.476, de 18-4-45.

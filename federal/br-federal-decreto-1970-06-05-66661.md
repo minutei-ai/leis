@@ -1,5 +1,3 @@
-###DEC-066661-0-000-05-06-1970@@@
-
 decreto nº 66.661, de 5 de junho de 1970.
 
 Autoriza a permuta de imóvel da União Federal situado em Pirapora, no Estado de Minas Gerais.

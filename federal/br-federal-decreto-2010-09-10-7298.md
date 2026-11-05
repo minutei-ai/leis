@@ -1,5 +1,3 @@
-###DEC-007298-0-000-10-09-2010-PUB-01@@@
-
 DECRETO Nº 7.298, DE 10 DE SETEMBRO DE 2010
 
 Cria a Embaixada do Brasil em Monróvia, na República da Libéria.

@@ -1,22 +1,20 @@
-###DEC-022458-0-000-16-01-1947@@@
+**DECRETO Nº 22.458, DE 16 DE JANEIRO DE 1947.**
 
-<strong>DECRETO Nº 22.458, DE 16 DE JANEIRO DE 1947.</strong>
+***Concede à sociedade anônima “Skyways International Trading & Transport Co., autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Skyways International Trading & Transport Co., autorização para funcionar na República.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “Skyways International Trading & Transport Co.”,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “Skyways International Trading & Transport Co.”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E´ concedida à sociedade anônima “Skyways International Trading & Transport Co.”, com sede na cidade de Miami, condado de Dade, Flórida, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$415.000,00 (quatrocentos e quinze mil cruzeiros) destinado às suas operações no Brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 16 de Janeiro de 1947, 126º da Independência e 59.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<em>CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 22.458, DESTA DATA.</em>
+*CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 22.458, DESTA DATA.*
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro,  16 de janeiro de 1947.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

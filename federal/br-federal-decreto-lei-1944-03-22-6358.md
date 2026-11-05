@@ -1,5 +1,3 @@
-###DEL-006358-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.358 – DE 22 DE MARÇO DE 1944
 
 Prorroga o prazo a que se refere a aIínea “e” do art. 1º do Decreto-lei Nº 1.474, de 3 de agôsto de 1939 e dá outras providências

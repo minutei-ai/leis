@@ -1,5 +1,3 @@
-###DEC-089492-0-000-29-03-1984@@@
-
 Decreto n.º 89.492, de 29 março de 1984
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estação de comunicações VHF, situada na Serra do Couto, e sua estrada de acesso, da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

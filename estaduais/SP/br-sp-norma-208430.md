@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208430)<br>
-
 # DECRETO N° 67.900, DE 21 DE AGOSTO DE 2023
 
 ### _Altera dispositivo do Decreto n° 40.445, de 13 de novembro de 1995, que autorizou a Fazenda do Estado a permitir o uso, a título precário, em favor da Prefeitura Municipal de Tarabai, do imóvel que especifica._

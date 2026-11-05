@@ -1,5 +1,3 @@
-###DEC-049774-0-000-31-12-1960@@@
-
 Decreto nº 49.774, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos da L’Union Compagnie D’Assurances Contre L’Incendie, Les Accidents Et Risques Divers.

@@ -1,5 +1,3 @@
-###DEC-096748-0-000-21-09-1988@@@
-
 DECRETO N° 96.748, DE 21 DE SETEMBRO DE 1988
 
 Outorga concessão à TV PLANÍCIE LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Campos, Estado do Rio de Janeiro.

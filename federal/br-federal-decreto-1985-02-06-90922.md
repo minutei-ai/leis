@@ -1,5 +1,3 @@
-###DEC-090922-0-000-06-02-1985@@@
-
 Decreto nº 90.922, de 06 de fevereiro de 1985
 
 Regulamenta a Lei nº 5.524, de 05 de novembro de 1968, que dispõe sobre o exercício da profissão de técnico industrial e técnico agrícola de nível médio ou de 2º grau.

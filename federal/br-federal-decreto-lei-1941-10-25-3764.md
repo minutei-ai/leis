@@ -1,5 +1,3 @@
-###DEL-003764-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.764 – DE 25 DE OUTUBRO DE 1941
 
 Altera a redação do art. 103 e parágrafos e do art. 104 do decreto-lei n. 1.713, de 28 de outubro de 1939.

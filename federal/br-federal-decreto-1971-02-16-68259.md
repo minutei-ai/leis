@@ -1,5 +1,3 @@
-###DEC-068259-0-000-16-02-1971@@@
-
 DECRETO Nº 68.259, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública o Instituto Bom Pastor, com sede em Fortaleza, Estado do Ceará.

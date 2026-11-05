@@ -1,5 +1,3 @@
-###DEC-058813-0-000-14-07-1966@@@
-
 decreto nº 58.813, de 14 de julho de 1966.
 
 Abre, ao Ministério da Aeronáutica, o crédito especial de Cr$15.480.000.000 (quinze bilhões, quatrocentos e oitenta milhões de cruzeiros), para o fim que especifica.

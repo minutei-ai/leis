@@ -1,5 +1,3 @@
-###DEC-087196-0-000-19-05-1982@@@
-
 DECRETO nº 87.196, de 19 de maio de 1982
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da ETD Centenário da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

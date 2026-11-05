@@ -1,5 +1,3 @@
-###DEC-002115-0-000-08-01-1997@@@
-
 DECRETO Nº 2.115, DE 8 DE JANEIRO DE 1997
 
 Aprova o Estatuto Social da Empresa de Processamento de Dados da Previdência Social - DATAPREV, e dá outras providências.

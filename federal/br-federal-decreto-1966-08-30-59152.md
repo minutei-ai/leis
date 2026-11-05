@@ -1,5 +1,3 @@
-###DEC-059152-0-000-30-08-1966@@@
-
 decreto nº 59.152, de 30 de agôsto de 1966.
 
 Concede à sociedade Navegação e Comércio Lajeado Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

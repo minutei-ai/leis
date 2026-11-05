@@ -1,5 +1,3 @@
-###DEC-090019-0-000-01-08-1984@@@
-
 Decreto nº 90.019, de 01 de agosto de 1984
 
 Modifica o Decreto nº 81.199, de 09 de janeiro 1978, que alterou a constituição do Comando-Geral de Apoio.

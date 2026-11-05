@@ -1,5 +1,3 @@
-###DEL-006315-0-000-03-03-1944@@@
-
 DECRETO-LEI N. 6.315 – DE 3 DE MARÇO DE 1944
 
 Cria o 4º Corpo do Trem Motorizado

@@ -62,12 +62,14 @@ Art. 9º Fica alterado a redação do Art. 21 da Lei Municipal nº 3.046 de 26 d
 
 Art. 10 Fica alterado a redação do CAPÍTULO IV da Lei Municipal nº 3.046 de 26 de Junho de 2012, conforme a seguinte redação:
 
-“CAPÍTULO IV<br>
+“CAPÍTULO IV
+
 DAS INFRAÇÕES, DAS PENALIDADES E MEDIDAS ADMINISTRATIVAS”
 
 Art. 11 Ficam acrescidas as seções I, II e III ao Capitulo IV da Lei Municipal nº 3.046 de 26 de Junho de 2012, conforme a seguinte redação:
 
-“SEÇÃO I<br>
+“SEÇÃO I
+
 DAS INFRAÇÕES
 
 Art. 33 A Constitui infração a inobservância a qualquer preceito deste Regulamento e seus Anexos, sendo o operador e/ou o infrator sujeito às penalidades e medidas administrativas indicadas em cada parágrafo a seguir:
@@ -244,7 +246,8 @@ II – Penalidade: multa, multiplicada x 2 (duas);
 
 III – Medida administrativa: apreensão da motocicleta.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS PENALIDADES
 
 Art. 33 B As penalidades serão impostas aos operadores por infração ao disposto nesta Lei, bem como nas demais normatizações supervenientes aplicáveis, conforme abaixo:
@@ -309,11 +312,14 @@ Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 06 de Maio de 2020.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FABIO PASSAGLIA<br>
+FABIO PASSAGLIA
+
 Chefe da Casa Civil
 
-ROBES VENÂNCIO E SILVA<br>
+ROBES VENÂNCIO E SILVA
+
 Secretário Executivo de Mobilidade

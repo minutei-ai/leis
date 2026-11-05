@@ -1,5 +1,3 @@
-###DEC-074670-0-000-10-10-1974@@@
-
 DECRETO nº 74.670, DE 10 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Ribeirão Preto S. A., para executar serviço de radiodifusão sonora em onda curta, na cidade de Ribeirão Preto, Estado de São Paulo.

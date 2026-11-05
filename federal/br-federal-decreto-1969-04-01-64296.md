@@ -1,5 +1,3 @@
-###DEC-064296-0-000-01-04-1969@@@
-
 Decreto nº 64.296, de 1º de abril de 1969
 
 Concede reconhecimento a Faculdade.

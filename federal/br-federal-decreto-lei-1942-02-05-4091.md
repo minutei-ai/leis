@@ -1,5 +1,3 @@
-###DEL-004091-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.091 – DE 5 DE FEVEREIRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 1.000:000$0 para liquidação de despesas a cargo do 3º Batalhão Rodoviário

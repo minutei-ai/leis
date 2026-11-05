@@ -1,5 +1,3 @@
-###DEC-095903-0-000-07-04-1988@@@
-
 DECRETO N° 95.903, DE 07 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO UNIÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de União, Estado do Piauí.

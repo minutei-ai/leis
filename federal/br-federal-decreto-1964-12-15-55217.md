@@ -1,5 +1,3 @@
-###DEC-055217-0-000-15-12-1964@@@
-
 DECRETO Nº 55.217, DE 15 DE DEZEMBRO DE 1964.
 
 Outorga à Companhia Paranense de Energia Elétrica concessão para distribuir energia elétrica.

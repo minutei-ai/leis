@@ -1,5 +1,3 @@
-###DEC-070547-0-000-16-05-1972@@@
-
 DECRETO Nº 70.547, DE 16 DE MAIO DE 1972.
 
 Altera o Estatuto da Fundação Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional (CENAFOR), aprovado pelo Decreto nº 65.322, de 10 de outubro de 1969.

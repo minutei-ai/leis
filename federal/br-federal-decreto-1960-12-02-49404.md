@@ -1,5 +1,3 @@
-###DEC-049404-0-000-02-12-1960@@@
-
 DECRETO Nº 49.404, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Hermilio Vieira da Silva a pesquisar minério de ouro, no município de Minas Novas, Estado de Minas Gerais.

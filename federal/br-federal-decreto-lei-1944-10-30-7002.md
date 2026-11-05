@@ -1,5 +1,3 @@
-###DEL-007002-0-000-30-10-1944@@@
-
 DECRETO-LEI N. 7.002 – DE 30 DE OUTUBRO DE 1944
 
 Concede favores e auxílio para instalação de uma rêde nacional de armazéns e silos de grãos e sementes

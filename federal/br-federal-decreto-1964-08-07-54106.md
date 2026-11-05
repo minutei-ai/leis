@@ -1,5 +1,3 @@
-###DEC-054106-0-000-07-08-1964@@@
-
 DECRETO Nº 54.106, DE 7 DE AGÔSTO DE 1964.
 
 Acrescenta itens ao § 4º do art. 48 do Regulamento do Serviço de Identificação do Exército (R-115.)

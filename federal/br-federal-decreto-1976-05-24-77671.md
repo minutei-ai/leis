@@ -1,5 +1,3 @@
-###DEC-077671-0-000-24-05-1976@@@
-
 DECRETO Nº 77.671, DE 24 DE MAIO DE 1976
 
 Concede reconhecimento aos cursos de Ciências Biológicas, de Pedagogia, de Letras, de História e de Geografia da Faculdade de Filosofia. Ciências e Letras de Barra Mansa, com sede na cidade de Barra Mansa, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-049645-0-000-31-12-1960@@@
-
 DECRETO Nº 49.645, DE 31 DE dezembro DE 1960.
 
 Renova o Decreto nº 44.121, de 24 de julho de 1958.

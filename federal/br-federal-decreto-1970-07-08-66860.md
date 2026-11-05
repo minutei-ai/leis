@@ -1,5 +1,3 @@
-###DEC-066860-0-000-08-07-1970@@@
-
 DECRETO Nº 66.860, DE 8 DE JULHO DE 1970.
 
 Aprova o Regulamento da Diretoria de Administração do Pessoal do Ministério da Aeronáutica, e dá outras providências.

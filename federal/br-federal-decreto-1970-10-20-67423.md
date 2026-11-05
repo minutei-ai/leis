@@ -1,5 +1,3 @@
-###DEC-067423-0-000-20-10-1970@@@
-
 DECRETO Nº 67.423, DE 20 DE OUTUBRO DE 1970.
 
 Transfere a sede do 3º Batalhão de Engenharia de Construção, de Natal (RN) para Picos (PI), dá outras providências.

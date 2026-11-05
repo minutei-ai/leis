@@ -1,5 +1,3 @@
-###DEL-008837-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.837 – DE 24 DE JANEIRO DE 1946
 
 Declara qual a situação de um oficial general da Armada na respectiva escala.

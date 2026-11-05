@@ -1,5 +1,3 @@
-###DEC-076402-0-000-08-10-1975@@@
-
 DECRETO Nº 76.402, DE 8 DE OUTUBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da união a aceitar a doação dos imóveis que menciona, situados no Município de Belém, Estado do Pará.

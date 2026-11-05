@@ -1,5 +1,3 @@
-###DEC-094082-0-000-06-03-1987@@@
-
 DECRETO N° 94.082, DE 6 DE MARÇO DE 1987
 
 Altera o artigo 1° do Decreto nº 93.247, de 11 de setembro de 1986, que autorizou o funcionamento o curso de Medicina Veterinária.

@@ -8,16 +8,20 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º A Gratificação de Dedicação Plena e Integral – GDPI de que trata o art. 13 da Lei nº [20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633/lei-20917), de 21 de dezembro de 2020, passa a ter o quantitativo definido conforme o Anexo Único deste Decreto.
 
-§ 1º O pagamento das GDPIs de que trata este artigo terá como limite de gasto mensal o valor global de R$ 20.136.925,00.<br>
+§ 1º O pagamento das GDPIs de que trata este artigo terá como limite de gasto mensal o valor global de R$ 20.136.925,00.
+
 \- [Acrescido pelo Decreto nº 10.784, de 22-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111278/decreto-10784).
 
-~~Parágrafo único. O pagamento das gratificações que trata este artigo não poderá exceder a despesa global que era comprometida com essa finalidade à época da vigência da Lei nº [19.687](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99003/lei-19687), de 22 de junho de 2017.~~<br>
+~~Parágrafo único. O pagamento das gratificações que trata este artigo não poderá exceder a despesa global que era comprometida com essa finalidade à época da vigência da Lei nº [19.687](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99003/lei-19687), de 22 de junho de 2017.~~
+
 \- [Revogado pelo Decreto nº 10.784, de 22-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111278/decreto-10784), art. 5º.
 
-§ 2º O quantitativo das GDPIs poderá ser modificado por ato do titular da SEDUC, observados os tipos, símbolos e valores definidos no Anexo Único deste Decreto e no Anexo II da [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 2020, respeitado o limite de gasto mensal do § 1º deste artigo.<br>
+§ 2º O quantitativo das GDPIs poderá ser modificado por ato do titular da SEDUC, observados os tipos, símbolos e valores definidos no Anexo Único deste Decreto e no Anexo II da [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 2020, respeitado o limite de gasto mensal do § 1º deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.784, de 22-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111278/decreto-10784).
 
-§ 3º A alteração de que trata o § 2º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos funcionais e financeiros para o mês subsequente, vedada modificação ou designação com data retroativa.<br>
+§ 3º A alteração de que trata o § 2º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos funcionais e financeiros para o mês subsequente, vedada modificação ou designação com data retroativa.
+
 \- [Acrescido pelo Decreto nº 10.784, de 22-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111278/decreto-10784).
 
 Art. 2º Este Decreto entra em vigor na data de sua publicação, mas seus efeitos retroagem a 1º de janeiro de 2021.
@@ -32,7 +36,8 @@ Governador do Estado
 
 ANEXO ÚNICO
 
-QUANTITATIVO DA GRATIFICAÇÃO DE DEDICAÇÃO PLENA E INTEGRAL – GDPI<br>
+QUANTITATIVO DA GRATIFICAÇÃO DE DEDICAÇÃO PLENA E INTEGRAL – GDPI
+
 \- [Redação dada pelo Decreto nº 10.082, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105432/decreto-10082).
 
 | SÍMBOLO | FUNÇÃO | CARGA HORÁRIA | QUANTIDADE | VALOR GDPI |

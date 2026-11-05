@@ -1,5 +1,3 @@
-###DEC-047068-0-000-22-10-1959@@@
-
 Decreto nº 47.068, de 22 de outubro de 1959.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$10.000.000,00 para o fim que menciona.

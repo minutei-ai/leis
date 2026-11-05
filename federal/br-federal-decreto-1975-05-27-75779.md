@@ -1,5 +1,3 @@
-###DEC-075779-0-000-27-05-1975@@@
-
 DECRETO Nº 75.779, DE 27 DE MAIO DE 1975.
 
 Altera disposições do Decreto número 71.267, de 25 de outubro de 1972, que dispõe sobre aerolevantamentos no território nacional e dá outras providências.

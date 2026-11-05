@@ -1,5 +1,3 @@
-###DEL-004668-0-000-08-09-1942@@@
-
 DECRETO-LEI N. 4.668 – DE 8 DE SETEMBRO DE 1942
 
 Desdobra a disciplína de língua inglesa e literatura inglesa e anglo-americana do curso de letras anglo-germânicas da Faculdade Nacional de Filosofia

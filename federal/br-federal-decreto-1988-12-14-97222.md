@@ -1,5 +1,3 @@
-###DEC-097222-0-000-14-12-1988@@@
-
 DECRETO Nº 97.222, DE 14 DE DEZEMBRO DE 1988
 
 Regulamenta os procedimentos para apuração dos saldos residuais a cargo do Fundo de Compensação de Variações Salariais - FCVS e dá outras providências.

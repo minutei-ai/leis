@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74628)
-
 # LEI Nº 12.774, DE 21 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 533/2007, do Deputado Edson Ferrarini - PTB)

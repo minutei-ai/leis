@@ -1,5 +1,3 @@
-###DEC-092916-0-000-10-07-1986@@@
-
 DECRETO Nº 92.916, DE 10 DE JULHO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO PRINCESA DO JACUÍ LTDA., PARA A RÁDIO VALE DO JACUÍ LTDA.

@@ -1,5 +1,3 @@
-###DEC-096758-0-000-22-09-1988@@@
-
 DECRETO N° 96.758, DE 22 DE SETEMBRO DE 1988
 
 Regulamenta o Decreto-Lei n° 2.452, de 29 de julho de 1988, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação  (ZPE).

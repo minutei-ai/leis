@@ -1,5 +1,3 @@
-###DEC-055996-0-000-22-04-1965@@@
-
 DECRETO Nº 55.996, DE 22 DE ABRIL DE 1965.
 
 OUTORGA a J. Monteiro & Companhia Limitada concessão para aproveitamento de energia hidráulica.

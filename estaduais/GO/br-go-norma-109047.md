@@ -194,7 +194,8 @@ I – em substituição à previsão do § 2º do art. 13 do Anexo XIX do [Decre
 
 II – em substituição à previsão do § 2º do art. 3º do Anexo XIX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, a indicação na nota fiscal deve considerar a UF do emitente para 100% (cem por cento) do produto (Convênio ICMS nº 15/23, cláusula trigésima quarta– B).
 
-Art. 6º-A Na hipótese de início de atividades de novoestabelecimento de TRR ou Distribuidor de Combustíveis, para os dois primeiros meses de operação, devem ser observados os procedimentos previstos no art. 6º deste Decreto (Convênio ICMS nº 15/23, cláusula trigésima quarta-D).<br>
+Art. 6º-A Na hipótese de início de atividades de novoestabelecimento de TRR ou Distribuidor de Combustíveis, para os dois primeiros meses de operação, devem ser observados os procedimentos previstos no art. 6º deste Decreto (Convênio ICMS nº 15/23, cláusula trigésima quarta-D).
+
  - [Acrescido pelo Decreto nº 10.920, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115185). (Efeitos a partir de 27-4-2026.)
 
 Art. 7º Nos meses de junho a agosto de 2023, os documentos, as declarações e as escriturações fiscais podem ser gerados com a utilização de solução sistêmica contingencial, em face das operações com gasolina e EAC (Convênio ICMS nº 15/23, cláusula trigésima quarta-C).
@@ -321,7 +322,8 @@ ANEXO ÚNICO
 
 “ANEXO XIX
 
-DA INCIDÊNCIA ÚNICA DO ICMS SOBRE O ETANOL ANIDRO COMBUSTÍVEL E A GASOLINA – TRIBUTAÇÃO MONOFÁSICA<br>
+DA INCIDÊNCIA ÚNICA DO ICMS SOBRE O ETANOL ANIDRO COMBUSTÍVEL E A GASOLINA – TRIBUTAÇÃO MONOFÁSICA
+
 (Art. 43-A)
 
 CAPÍTULO I

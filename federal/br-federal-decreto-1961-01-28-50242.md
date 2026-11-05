@@ -1,5 +1,3 @@
-###DEC-050242-0-000-28-01-1961@@@
-
 DECRETO Nº 50.242, DE 28 DE JANEIRO DE 1961.
 
 Altera a redação dos artigos 2º, 3º e parágrafo único do artigo 3º do Decreto nº 46.363, de 7 de julho de 1959, e dá outras providências.

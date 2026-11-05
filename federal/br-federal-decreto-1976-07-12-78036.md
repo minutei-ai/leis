@@ -1,5 +1,3 @@
-###DEC-078036-0-000-12-07-1976@@@
-
 Decreto nº 78.036, de 12 de julho de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC - no Estado de Santa Catarina.

@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR N. 149, DE 20 DE FEVEREIRO DE 2019
 
-<br>
 Altera a Lei complementar n. 3.968/2000 – Estatuto dos Servidores Municipais.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

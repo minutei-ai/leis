@@ -1,5 +1,3 @@
-###DEC-046524-0-000-27-07-1959@@@
-
 DECRETO Nº 46.524, DE 27 DE JULHO DE 1959.
 
 Autoriza o Govêrno do Estado de São Paulo a derivar para o reservatório Billings as águas do rio Capivari-Monos.

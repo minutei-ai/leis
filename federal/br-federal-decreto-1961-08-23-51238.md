@@ -1,5 +1,3 @@
-###DEC-051238-0-000-23-08-1961@@@
-
 DECRETO Nº 51.238, DE 23 DE AGÔSTO DE 1961.
 
 Modifica o Decreto nº 51.142, de 4 de agôsto de 1961.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001360-0-000-30-12-1994@@@
-
 DECRETO Nº 1.360, DE 30 DE DEZEMBRO DE 1994
 
 Regulamenta o disposto no art. 1º do Decreto-Lei nº 1.876, de 15 de julho de 1981 e no art. 101 do Decreto-Lei nº 9.760, de 5 de setembro de 1946, ambos com a redação dada pela Lei nº 7.450, de 23 de dezembro de 1985.

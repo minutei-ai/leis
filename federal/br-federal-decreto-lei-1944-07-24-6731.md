@@ -1,5 +1,3 @@
-###DEL-006731-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.731 – DE 24 DE JULHO DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Agricultura e dá outras providências

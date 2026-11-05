@@ -1,5 +1,3 @@
-###DEC-047438-0-000-15-12-1959@@@
-
 Decreto nº 47.438, de 15 de dezembro de 1959.
 
 Concede autorização para funcionamento do Curso de Engenharia Civil da Escola de Engenharia da Universidade do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-069214-0-000-17-09-1971@@@
-
 DECRETO Nº 69.214, DE 17 DE SETEMBRO DE 1971.
 
 Retribui cargo, com a respectiva ocupante, para a Universidade Federal do Rio de Janeiro.

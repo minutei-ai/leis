@@ -1,7 +1,3 @@
-1
-
-###DEC-099933-0-000-24-12-1990@@@
-
 # DECRETO N° 99.933, DE 24 DE DEZEMBRO DE 1990
 
 Abre ao Orçamento Fiscal da União, em favor do Ministério do Trabalho e da Previdência Social, crédito suplementar no valor de Cr$ 1.574.411.000,00, para reforço de dotações consignadas no vigente orçamento.

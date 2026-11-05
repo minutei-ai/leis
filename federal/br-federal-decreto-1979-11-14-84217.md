@@ -1,5 +1,3 @@
-###DEC-084217-0-000-14-11-1979@@@
-
 Decreto nº 84.217, de 14 de novembro de 1979.
 
 Concede autorização à Universidade de Pesca do Ministério da Agricultura, Floresta e Pesca do Japão, para realizar, no Brasil, os serviços que especifica.

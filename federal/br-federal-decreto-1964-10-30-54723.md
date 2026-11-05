@@ -1,5 +1,3 @@
-###DEC-054723-0-000-30-10-1964@@@
-
 DECRETO Nº 54.723, DE 30 DE OUTUBRO DE 1964.
 
 Outorga a Primo Tedesco concessão para o aproveitamento parcial do desnível Abelardo Luz, em Santa Catarina.
@@ -43,8 +41,6 @@ Brasília, 30 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054723-0-000-30-10-1964@@@RET01+++
 
 DECRETO Nº 54.723, DE 30 DE OUTUBRO DE 1964.
 

@@ -126,5 +126,6 @@ Eduardo Refinetti Guardia
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
-<<TABELAS>><br>
+<<ANEXOS>>
+
+<<TABELAS>>

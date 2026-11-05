@@ -1,5 +1,3 @@
-###DEC-080808-0-000-23-11-1977@@@
-
 Decreto nº 80.808, de 23 de novembro de 1977.
 
 Declara sem efeito o Decreto nº 27.938, de 28 de março de 1950, que autorizou o cidadão brasileiro Gabriel Caúla Soares a lavrar caulim e associados no Município de Juiz de Fora, Estado de Minas Gerais.

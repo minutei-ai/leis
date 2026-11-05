@@ -1,5 +1,3 @@
-###DEL-007710-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.710 – DE 5 DE JULHO DE 1945
 
 Dispõe sobre a Pagadoria do Tesouro Nacional

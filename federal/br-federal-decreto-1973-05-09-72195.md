@@ -1,5 +1,3 @@
-###DEC-072195-0-000-09-05-1973@@@
-
 DECRETO Nº 72.195, DE 9 DE MAIO DE 1973.
 
 Autoriza a cessão gratuita de uso de imóvel ao Governo do Estado do Maranhão.

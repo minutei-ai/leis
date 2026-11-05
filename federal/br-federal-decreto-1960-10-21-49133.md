@@ -1,5 +1,3 @@
-###DEC-049133-0-000-21-10-1960@@@
-
 DECRETO Nº 49.133, DE 21 DE OUTUBRO DE 1960.
 
 Cria o Consulado honorário do Brasil em Adis-Abeba, Etiópia.

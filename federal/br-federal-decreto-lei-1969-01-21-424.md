@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8a25d2e9-a2d6-41c3-b273-b80b0fb5b740/texto#nowhere)
 
-###DEL-000424-0-000-21-01-1969@@@
-
 DECRETO-LEI Nº 424, DE 21 DE JANEIRO DE 1969
 
 Dá nova redação a dispositivos da Consolidação das Leis do Trabalho.

@@ -1,5 +1,3 @@
-###DEC-051237-0-000-23-08-1961@@@
-
 DECRETO Nº 51.237, DE 23 DE AGÔSTO DE 1961.
 
 Modifica a redação do dispositivo que indica.

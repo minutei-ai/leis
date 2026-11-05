@@ -1,5 +1,3 @@
-###DEC-081518-0-000-04-04-1978@@@
-
 Decreto nº 81.518, de 04 de abril de 1978.
 
 Suspende o funcionamento do Clube Nacional dos Fiscais, antigo "Clube dos Fiscais de Previdência Social", com sede no Estado do Rio de Janeiro.

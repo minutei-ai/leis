@@ -1,5 +1,3 @@
-###DEL-007034-0-000-09-11-1944@@@
-
 DECRETO-LEI N. 7.034 – DE 9 DE NOVEMBRO DE 1944
 
 Autoriza o Ministério de Educação a adquirir, mediante permuta, terrenos destinados às novas instalações do Colégio Pedro II.

@@ -1,5 +1,3 @@
-###DEC-085272-0-000-21-10-1980@@@
-
 Decreto nº 85.272, de 21 de outubro de 1980
 
 Autoriza o aumento de potência da RÁDIO DIFUSORA VALE DO PARAÍBA LTDA., na cidade de Barra do Piraí, Estado do Rio de Janeiro.

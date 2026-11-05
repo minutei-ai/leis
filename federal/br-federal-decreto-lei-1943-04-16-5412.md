@@ -1,5 +1,3 @@
-###DEL-005412-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.412 – DE 16 DE ABRIL DE 1943
 
 Dispõe sobre o processo e julgamento do crime de deserção definido no decreto‑lei n. 4.937, de 9 de novembro de 1942

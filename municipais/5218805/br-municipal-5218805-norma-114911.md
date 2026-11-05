@@ -6,7 +6,8 @@ Altera a Lei Complementar nº. 3.633/1998 que dispõe sobre o parcelamento do so
 
 Art. 1º O inciso IX do art. 6º da Lei 3.633/1998, que dispõe sobre o parcelamento do solo passa a vigorar com a seguinte redação:
 
-“**CAPÍTULO IV<br>
+“**CAPÍTULO IV
+
 DOS REQUISITOS URBANÍSTICOS**
 
 Art. 6º ..................................................................................................
@@ -26,5 +27,3 @@ Prefeito de Rio Verde
 VINÍCIUS FONSÊCA CAMPOS
 
 Procurador-Geral
-
-<br>

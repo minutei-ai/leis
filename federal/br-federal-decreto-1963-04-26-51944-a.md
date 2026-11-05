@@ -1,5 +1,3 @@
-###DEC-051944-A-000-26-04-1963@@@
-
 DECRETO Nº 51.944-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Vitor Manoel de Souza Abreu a pesquisar feldspato no município de Rio Bonito, Estado do Rio de Janeiro.

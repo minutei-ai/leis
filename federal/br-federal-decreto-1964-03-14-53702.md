@@ -1,5 +1,3 @@
-###DEC-053702-0-000-14-03-1964@@@
-
 DECRETO Nº 53.702, de 14 de março de 1964.
 
 Tabela os aluguéis de imóveis no território nacional, e dá outras providências.

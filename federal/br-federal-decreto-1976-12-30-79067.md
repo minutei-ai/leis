@@ -1,5 +1,3 @@
-###DEC-079067-0-000-30-12-1976@@@
-
 Decreto nº 79.067, de 30 de dezembro de 1976.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplina Especializadas do 2º Grau, da Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

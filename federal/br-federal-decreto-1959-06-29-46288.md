@@ -1,5 +1,3 @@
-###DEC-046288-0-000-29-06-1959@@@
-
 DECRETO Nº 46.288, DE 29 DE junho DE 1959.
 
 Autoriza Magnesita S.A. a lavrar dolomita no município de Sabará, Estado de Minas Gerais.

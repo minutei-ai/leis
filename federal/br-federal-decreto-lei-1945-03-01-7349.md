@@ -1,5 +1,3 @@
-###DEL-007349-0-000-01-03-1945@@@
-
 DECRETO-LEI N. 7.349 – DE 1 DE MARÇO DE 1945
 
 Dispõe sôbre a distribuição das ações para cobrança da dívida ativa da Fazenda do Distrito Federal

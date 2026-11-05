@@ -1,5 +1,3 @@
-###DEC-007573-0-000-29-09-2011-PUB-01@@@
-
 DECRETO Nº 7.573, DE 29 DE SETEMBRO DE 2011.
 
 Altera o limite de que trata o § 7o do art. 64 da Lei no 9.532, de 10 de dezembro de 1997, para fins de arrolamento de bens e direitos do sujeito passivo da obrigação tributária.

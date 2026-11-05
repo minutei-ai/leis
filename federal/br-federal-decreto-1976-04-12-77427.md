@@ -1,5 +1,3 @@
-###DEC-077427-0-000-12-04-1976@@@
-
 DECRETO Nº 77.427 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras, da Fundação Universidade de Uberlândia, Estado de Minas Gerais.

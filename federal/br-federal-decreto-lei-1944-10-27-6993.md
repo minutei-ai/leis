@@ -1,5 +1,3 @@
-###DEL-006993-0-000-27-10-1944@@@
-
 DECRETO-LEI N. 6. 993 – DE 27 DE OUTUBRO DE 1944
 
 Reorganiza o Serviço  de Estatística Econômica e Financeira, do Ministério da Fazenda, e dá outras providências

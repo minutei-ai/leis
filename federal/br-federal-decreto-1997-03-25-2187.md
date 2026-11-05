@@ -1,5 +1,3 @@
-###DEC-002187-0-000-25-03-1997@@@
-
 DECRETO Nº 2.187, DE 25 DE MARÇO DE 1997
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de “Renegociação das concessões outorgadas no período 1962/1980” nº 9 (Protocolo de Adequação), entre Brasil e México, de 27 de janeiro de 1997.

@@ -1,5 +1,3 @@
-###DEL-006591-0-000-15-06-1944@@@
-
 DECRETO-LEI N. 6.591 – DE 15 DE JUNHO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 547.200,00, para equipamento do Laboratório da Produção Mineral em Campina Grande

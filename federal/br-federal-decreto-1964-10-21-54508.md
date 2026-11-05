@@ -1,5 +1,3 @@
-###DEC-054508-0-000-21-10-1964@@@
-
 DECRETO Nº 54.508, DE 21 DE OUTUBRO DE 1964.
 
 Outorga à Prefeitura Municipal de Carira, Estado de Sergipe, concessão para distribuir energia elétrica.

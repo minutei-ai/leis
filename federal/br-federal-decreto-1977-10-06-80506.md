@@ -1,5 +1,3 @@
-###DEC-080506-0-000-06-10-1977@@@
-
 DECRETO Nº 80.506, DE 6 DE OUTUBRO DE 1977.
 
 Autoriza estrangeiro a adquirir o domino dos imóveis que menciona, no Estado do Rio de Janeiro.

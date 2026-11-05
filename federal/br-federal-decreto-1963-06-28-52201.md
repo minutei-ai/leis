@@ -1,5 +1,3 @@
-###DEC-052201-0-000-28-06-1963@@@
-
 DECRETO Nº 52.201, DE 28 DE JUNHO DE 1963.
 
 Renova a declaração de utilidade pública, a que se refere o Decreto número 39.079, de 30 de abril de 1956, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, de área de terreno necessária à construção de açude público “Adustina” do Município de Paripiranga, Estado da Bahia.

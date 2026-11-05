@@ -1,5 +1,3 @@
-###DEC-087989-0-000-23-12-1982@@@
-
 Decreto nº 87.989, de 23 de dezembro de 1982
 
 Autoriza a Universidade Federal de Uberlândia a permutar imóveis de sua propriedade por outros de propriedade do Município de Uberlândia.

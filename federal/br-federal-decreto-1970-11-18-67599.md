@@ -1,5 +1,3 @@
-###DEC-067599-0-000-18-11-1970@@@
-
 DECRETO Nº 67.599, DE 18 de Novembro de 1970.
 
 Concede reconhecimento á Faculdade de Municipal de Filosofia, Ciências e Letras de Poços de Caldas, MG.

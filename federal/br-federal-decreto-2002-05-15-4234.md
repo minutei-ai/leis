@@ -1,5 +1,3 @@
-###DEC-004234-0-000-15-05-2002@@@
-
 DECRETO Nº 4.234, DE 15 DE MAIO DE 2002
 
 Dá nova redação aos arts. 3º e 4º do Decreto nº 4.128, de 13 de fevereiro de 2002, que dispõe sobre a inventariança, a transferência e a incorporação dos direitos, das obrigações e dos bens móveis e imóveis do Departamento Nacional de Estradas de Rodagem - DNER, e dá outras providências.

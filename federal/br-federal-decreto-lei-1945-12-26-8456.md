@@ -1,5 +1,3 @@
-###DEL-008456-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.456 – DE 26 DE DEZEMBRO DE 1945
 
 Autoriza adiantamento sôbre “Certificados de Prêmio” emitidos pelo Departamento Nacional do Café.

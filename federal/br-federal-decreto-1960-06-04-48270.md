@@ -1,42 +1,40 @@
-###DEC-048270-0-000-04-06-1960@@@
+**DECRETO Nº 48.270, DE 4 DE JUNHO DE 1960.**
 
-<strong>DECRETO Nº 48.270, DE 4 DE JUNHO DE 1960.</strong>
+***Aprova o Regimento da Administração do Pôrto do Rio de Janeiro.***
 
-<em><strong>Aprova o Regimento da Administração do Pôrto do Rio de Janeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica aprovado o Regimento da Administração do Pôrto do Rio de Janeiro (A.P.R.J.), que com êste baixa.
 
-<strong>Art</strong>. 1º - Fica aprovado o Regimento da Administração do Pôrto do Rio de Janeiro (A.P.R.J.), que com êste baixa.
-
-<strong>Art</strong>. 2º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 4 de junho de 1960; 139º da República e 72º da Independência.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernani do Amaral Peixoto
 
-<strong>REGIMENTO DA ADMINISTRAÇÃO DO PÔRTO DO RIO DE JANEIRO.</strong>
+**REGIMENTO DA ADMINISTRAÇÃO DO PÔRTO DO RIO DE JANEIRO.**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Natureza</em>
+*Da Natureza*
 
-<strong>Art</strong>. 1º - A Administração do Pôrto do Rio de Janeiro (A.P.R.J.) é órgão de natureza autárquica, com personalidade jurídica própria, sob a jurisdição do Ministério da Viação e Obras Públicas.
+**Art**. 1º - A Administração do Pôrto do Rio de Janeiro (A.P.R.J.) é órgão de natureza autárquica, com personalidade jurídica própria, sob a jurisdição do Ministério da Viação e Obras Públicas.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 2º - A A.P.R.J., tem por fim realizar as obras de melhoramento e ampliação das instalações portuárias, sua reparação, conservação, renovação e a exploração industrial e comercial do Pôrto do Rio de Janeiro.
+**Art**. 2º - A A.P.R.J., tem por fim realizar as obras de melhoramento e ampliação das instalações portuárias, sua reparação, conservação, renovação e a exploração industrial e comercial do Pôrto do Rio de Janeiro.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º - A A.P.R.J. compreende:
+**Art**. 3º - A A.P.R.J. compreende:
 
 1 - Superintendência (S).
 
@@ -160,27 +158,27 @@ Ernani do Amaral Peixoto
 
 7 - Seção de Relações Públicas (S/SRP).
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Direção e Chefia</em>
+*Da Direção e Chefia*
 
-<strong>Art</strong>. 4º A A.P.R.J. será dirigida por um Superintendente, nomeado em comissão pelo Presidente da República, por indicação do Ministro da Viação e Obras Públicas, devendo a escolha recair em engenheiro civil de reconhecida competência.
+**Art**. 4º A A.P.R.J. será dirigida por um Superintendente, nomeado em comissão pelo Presidente da República, por indicação do Ministro da Viação e Obras Públicas, devendo a escolha recair em engenheiro civil de reconhecida competência.
 
 § 1º O Superintendente terá um Chefe de Gabinete, um Secretário e Auxiliares de Gabinete.
 
 § 2º Para o estudo dos problemas de envergaduras, relacionados com a atividade portuária, funcionará junto a Superintendência um Conselho Consultivo de Administração, cujas atribuições serão reguladas por Portaria do Ministro da Viação e Obras Públicas.
 
-<strong>Art</strong>. 5º A Procuradoria será chefiada por um Procurador Geral; a Tesouraria por um Tesoureiro; os Departamentos terão Diretores; as Divisões, as Seções e o Almoxarifado Chefes, as Inspetorias, Inspetores; as Subinspetorias, Subinspetores; os Conjuntos Residenciais e a Drogaria, Administradores; os Armazéns, Fiéis; os Setores da Procuradoria e demais órgãos Encarregados.
+**Art**. 5º A Procuradoria será chefiada por um Procurador Geral; a Tesouraria por um Tesoureiro; os Departamentos terão Diretores; as Divisões, as Seções e o Almoxarifado Chefes, as Inspetorias, Inspetores; as Subinspetorias, Subinspetores; os Conjuntos Residenciais e a Drogaria, Administradores; os Armazéns, Fiéis; os Setores da Procuradoria e demais órgãos Encarregados.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da Competência Dos Órgãos</em>
+*Da Competência Dos Órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Superintendência</em>
+*Da Superintendência*
 
-<strong>Art</strong>. 6º Compete ao Superintendente, além do disposto nos arts. 3º, 4º, 5º, 6º e 10º do Decreto-lei nº 3.198, de 14 de abril de 1941, o seguinte:
+**Art**. 6º Compete ao Superintendente, além do disposto nos arts. 3º, 4º, 5º, 6º e 10º do Decreto-lei nº 3.198, de 14 de abril de 1941, o seguinte:
 
 I - superintender todos os negócios, serviços e operações do A.P.R.J.;
 
@@ -222,7 +220,7 @@ XIX - propor as alterações do Quadro de Pessoal, exigidas pela conveniência d
 
 XX - fixar a jurisdição das Inspetorias, do Departamento de Tráfego e da Divisão de Polícia Portuária.
 
-<strong>Art</strong>. 7º Compete ao Chefe do Gabinete:
+**Art**. 7º Compete ao Chefe do Gabinete:
 
 I - despachar pessoalmente com o Superintendente;
 
@@ -236,21 +234,21 @@ V - representar o Superintendente, quando para isso designado;
 
 VI - executar outras atribuições que lhe forem cometidas pelo Superintendente.
 
-<strong>Art</strong>. 8º Compete ao Secretário do Superintendente exercer as atribuições que lhe forem cometidas por êste.
+**Art**. 8º Compete ao Secretário do Superintendente exercer as atribuições que lhe forem cometidas por êste.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Procuradoria</em>
+*Da Procuradoria*
 
-<strong>Art</strong>. 9º A Procuradoria tem por fim a defesa, em Juízo ou fora dêle, dos direitos e interêsses da A.P.R.J., nos têrmos da legislação em vigor.
+**Art**. 9º A Procuradoria tem por fim a defesa, em Juízo ou fora dêle, dos direitos e interêsses da A.P.R.J., nos têrmos da legislação em vigor.
 
-<strong>Art</strong>. 10. A Procuradoria será dirigida por um Procurador de 1ª Categoria, designado pelo Superintendente para exercer o cargo de Procurador Geral.
+**Art**. 10. A Procuradoria será dirigida por um Procurador de 1ª Categoria, designado pelo Superintendente para exercer o cargo de Procurador Geral.
 
 Parágrafo único - O disposto nêste artigo não prejudicará a situação de direito do atual Procurador - Chefe do Serviço Jurídico, assegurada pelo Decreto-lei nº 8.856, de 24 de janeiro de 1946.
 
-<strong>Art</strong>. 11. Os Setores da Procuradoria serão dirigidos por Procuradores designados pelo Superintendente, mediante proposta do Procurador Geral.
+**Art**. 11. Os Setores da Procuradoria serão dirigidos por Procuradores designados pelo Superintendente, mediante proposta do Procurador Geral.
 
-<strong>Art</strong>. 12. Compete à Procuradoria:
+**Art**. 12. Compete à Procuradoria:
 
 I - Através do Setor Contencioso:
 
@@ -280,21 +278,21 @@ e) acompanhar os inquéritos policiais resultantes de acidentes acorridos com ap
 
 f) prestar assistência jurídica à Polícia Portuária.
 
-<strong>Art</strong>. 13. Os processos entrados na Procuradoria serão encaminhados ao Procurador Geral, que os distribuíra aos Setores competentes, segundo a conveniência do serviço.
+**Art**. 13. Os processos entrados na Procuradoria serão encaminhados ao Procurador Geral, que os distribuíra aos Setores competentes, segundo a conveniência do serviço.
 
-<strong>Art</strong>. 14. O Procurador Geral além de distribuir os processos, como dispõe o artigo anterior, avocará os que entender necessários ao seu exame, neles emitido parecer.
+**Art**. 14. O Procurador Geral além de distribuir os processos, como dispõe o artigo anterior, avocará os que entender necessários ao seu exame, neles emitido parecer.
 
 § 1º Caberá ao Procurador Geral imprimir a orientação das atividades de Procuradorias, baixando as instruções e ordens de serviço que se fizerem necessárias.
 
 § 2º O Procurador Geral terá um Secretário de sua livre escolha.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Departamento de Administração</em>
+*Do Departamento de Administração*
 
-<strong>Art</strong>. 15. O Departamento de Administração tem por fim orientar, controlar e executar as atividades relativas a pessoal, finanças, comunicações, administração de edifícios, assistência social aos servidores da A.P.R.J. e o estudo de problemas decorrentes dessas atividades.
+**Art**. 15. O Departamento de Administração tem por fim orientar, controlar e executar as atividades relativas a pessoal, finanças, comunicações, administração de edifícios, assistência social aos servidores da A.P.R.J. e o estudo de problemas decorrentes dessas atividades.
 
-<strong>Art</strong>. 16. O Departamento de Administração compreende:
+**Art**. 16. O Departamento de Administração compreende:
 
 a) Serviços de Comunicações;
 
@@ -304,7 +302,7 @@ c) Divisão Financeira;
 
 d) Administração de Conjuntos Residenciais.
 
-<strong>Art</strong>. 17. Compete ao Diretor do Departamento de Administração:
+**Art**. 17. Compete ao Diretor do Departamento de Administração:
 
 a) superintender os serviços dos diversos órgãos a êle subordinados;
 
@@ -316,9 +314,9 @@ Parágrafo único. O Diretor do Departamento de Administração terá um Secret�
 
 Do Serviço de Comunicações
 
-<strong>Art</strong>. 18. O Serviço de Comunicações tem por fim controlar a movimentação de documentos e a publicação de expediente em órgãos oficiais, articulando-se com os demais órgãos da A.P.R.J.
+**Art**. 18. O Serviço de Comunicações tem por fim controlar a movimentação de documentos e a publicação de expediente em órgãos oficiais, articulando-se com os demais órgãos da A.P.R.J.
 
-<strong>Art</strong>. 19. O Serviço de Comunicações compreende:
+**Art**. 19. O Serviço de Comunicações compreende:
 
 a) Seção de Expediente;
 
@@ -326,7 +324,7 @@ b) Seção de Arquivo;
 
 c) Portaria.
 
-<strong>Art</strong>. 20. Compete ao Serviço de Comunicações:
+**Art**. 20. Compete ao Serviço de Comunicações:
 
 I - Através da Seção de Expediente:
 
@@ -374,9 +372,9 @@ c) impedir que pessoas estranhas aos serviços penetrem nas dependências do Esc
 
 Da Divisão do Pessoal
 
-<strong>Art</strong>. 21. A Divisão do Pessoal tem por fim, orientar a aplicação da legislação de pessoal, elaborando ou instituindo os expedientes relativos ao provimento e vacância dos cargos e funções da A.P.R.J. e aos direitos, vantagens, deveres e responsabilidades dos respectivos ocupantes, bem ainda prestar assistência social aos servidores e colaborar na elaboração da proposta orçamentária, na parte referente a pessoal.
+**Art**. 21. A Divisão do Pessoal tem por fim, orientar a aplicação da legislação de pessoal, elaborando ou instituindo os expedientes relativos ao provimento e vacância dos cargos e funções da A.P.R.J. e aos direitos, vantagens, deveres e responsabilidades dos respectivos ocupantes, bem ainda prestar assistência social aos servidores e colaborar na elaboração da proposta orçamentária, na parte referente a pessoal.
 
-<strong>Art</strong>. 22. A Divisão do Pessoal compreende:
+**Art**. 22. A Divisão do Pessoal compreende:
 
 a) Seção de Cadastro e Movimento;
 
@@ -384,7 +382,7 @@ b) Seção de Administração;
 
 c) Seção de Assistência Social.
 
-<strong>Art</strong>. 23. Compete à Divisão do Pessoal:
+**Art**. 23. Compete à Divisão do Pessoal:
 
 I - Através da Seção de Cadastro e Movimento:
 
@@ -420,7 +418,7 @@ o) organizar, em cooperação com a Seção Administrativa, normas e modêlos a 
 
 p) receber da Seção de Mecanização os boletins de freqüência, para fins de anotação;
 
-q) providenciar a publicação no <em>Diário Oficial</em> dos despachos do Superintendente concernentes a pessoal, de acôrdo com a legislação vigente;
+q) providenciar a publicação no *Diário Oficial* dos despachos do Superintendente concernentes a pessoal, de acôrdo com a legislação vigente;
 
 r) providenciar mensalmente a divulgação interna, através de um Boletim de Pessoal, dos atos do Superintendente e das alterações relativas aos servidores;
 
@@ -480,9 +478,9 @@ p) orientar e fiscalizar a Drogaria, de acôrdo com as instruções que lhe fore
 
 Da Divisão Financeira
 
-<strong>Art</strong>. 24. A Divisão Financeira tem por fim elaborar a proposta orçamentária, coordenar e fiscalizar a respectiva execução, bem ainda promover, orientar e superintender as atividades financeiras da A.P.R.J.
+**Art**. 24. A Divisão Financeira tem por fim elaborar a proposta orçamentária, coordenar e fiscalizar a respectiva execução, bem ainda promover, orientar e superintender as atividades financeiras da A.P.R.J.
 
-<strong>Art</strong>. 25. A Divisão Financeira compreende:
+**Art**. 25. A Divisão Financeira compreende:
 
 a) Seção de Contabilidade;
 
@@ -502,7 +500,7 @@ h) Seção de Mecanização;
 
 i) Tesouraria.
 
-<strong>Art</strong>. 26. Compete à Divisão Financeira:
+**Art**. 26. Compete à Divisão Financeira:
 
 I - Através da Seção de Contabilidade:
 
@@ -520,9 +518,9 @@ f) escriturar os depósitos, cauções e fianças;
 
 g) manter em dia o custo da execução de obras novas e o das de conservação, executadas por empreitada, confrontando-o, em cada mês, com os respectivos orçamentos e contratos;
 
-h) sustar o processamento das contas que excedam a orçamentos e contratos das obras referidas na letra “<em>g</em>”, quando não tenha, antecipadamente, conhecimento de qualquer alteração contratual a elas referentes, comunicando o fato à autoridade competente;
+h) sustar o processamento das contas que excedam a orçamentos e contratos das obras referidas na letra “*g*”, quando não tenha, antecipadamente, conhecimento de qualquer alteração contratual a elas referentes, comunicando o fato à autoridade competente;
 
-i) comunicar o fechamento das contas para realização das obras constantes da letra “<em>g</em>”, desde que estejam concluídas;
+i) comunicar o fechamento das contas para realização das obras constantes da letra “*g*”, desde que estejam concluídas;
 
 j) apurar o custo dos serviços portuários;
 
@@ -746,7 +744,7 @@ IX - realizar estudos de novos serviços mecanizados.
 
 Da Administração de Conjuntos Residenciais
 
-<strong>Art</strong>. 27. Compete à Administração de Conjuntos Residenciais:
+**Art**. 27. Compete à Administração de Conjuntos Residenciais:
 
 a) gerir os serviços administrativos que lhe estão afetos;
 
@@ -768,13 +766,13 @@ i) difundir princípios e meios para o bem estar físico e moral dos moradores;
 
 j) recencear as famílias dos servidores locatários para efeito de manter atualizadas as respectivas fichas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Departamento de Engenharia</em>
+*Do Departamento de Engenharia*
 
-<strong>Art</strong>. 28. O Departamento de Engenharia tem por fim construir e fiscalizar as obras, conservar os imóveis da A.P.R.J., elaborar os projetos especificações e orçamentos; estudar e sugerir, em colaboração com os órgãos competentes, padrões e normas para a construção de edifícios; executar e fiscalizar a instalação, recuperação, manutenção e conservação de máquinas e equipamentos, bem como as que se referirem aos móveis em recintos de trabalho e demais instalações portuárias.
+**Art**. 28. O Departamento de Engenharia tem por fim construir e fiscalizar as obras, conservar os imóveis da A.P.R.J., elaborar os projetos especificações e orçamentos; estudar e sugerir, em colaboração com os órgãos competentes, padrões e normas para a construção de edifícios; executar e fiscalizar a instalação, recuperação, manutenção e conservação de máquinas e equipamentos, bem como as que se referirem aos móveis em recintos de trabalho e demais instalações portuárias.
 
-<strong>Art</strong>. 29. O Departamento de Engenharia compreende:
+**Art**. 29. O Departamento de Engenharia compreende:
 
 a) Divisão de Engenharia Civil;
 
@@ -782,7 +780,7 @@ b) Divisão de Engenharia Mecânica e Elétrica;
 
 c) Divisão de Material.
 
-<strong>Art</strong>. 30. Compete ao Diretor do Departamento de Engenharia:
+**Art**. 30. Compete ao Diretor do Departamento de Engenharia:
 
 a) imprimir a orientação geral das atividades do Departamento;
 
@@ -802,9 +800,9 @@ Parágrafo único - O Diretor do Departamento de Engenharia terá um Secretário
 
 Da Divisão de Engenharia Civil
 
-<strong>Art</strong>. 31. A Divisão de Engenharia Civil tem por fim organizar e fiscalizar a execução do programa do Departamento de Engenharia, em matéria da sua alçada.
+**Art**. 31. A Divisão de Engenharia Civil tem por fim organizar e fiscalizar a execução do programa do Departamento de Engenharia, em matéria da sua alçada.
 
-<strong>Art</strong>. 32. A Divisão de Engenharia Civil compreende:
+**Art**. 32. A Divisão de Engenharia Civil compreende:
 
 a) Seção de Planos e Obras;
 
@@ -814,7 +812,7 @@ c) Seção de Conservação;
 
 d) Seção de Dragagem.
 
-<strong>Art</strong>. 33. Compete ao Chefe da Divisão de Engenharia Civil:
+**Art**. 33. Compete ao Chefe da Divisão de Engenharia Civil:
 
 a) organizar as concorrências públicas e administrativas para a execução das obras programadas, tendo em vista a legislação em vigôr;
 
@@ -834,7 +832,7 @@ h) comunicar ao Diretor do Departamento de Engenharia as irregularidades que ven
 
 i) fornecer, mensalmente, ao Departamento de Engenharia o montante das despesas de materiais e mão-de-obra, de acôrdo com as instruções dêle emanadas.
 
-<strong>Art</strong>. 34. Compete à Divisão de Engenharia Civil:
+**Art**. 34. Compete à Divisão de Engenharia Civil:
 
 I - Através da Seção de Planos e Obras:
 
@@ -890,9 +888,9 @@ c) o levantamento periódico dos perfis no canal e bacia de evolução do Pôrto
 
 Da Divisão de Engenharia Mecânica e Elétrica:
 
-<strong>Art</strong>. 35. A Divisão de Engenharia Mecânica e Elétrica tem por fim, na sua especialidade, estudar o plano geral de obras, organizar e fiscalizar a execução do programa do Departamento de Engenharia.
+**Art**. 35. A Divisão de Engenharia Mecânica e Elétrica tem por fim, na sua especialidade, estudar o plano geral de obras, organizar e fiscalizar a execução do programa do Departamento de Engenharia.
 
-<strong>Art</strong>. 36 A Divisão de Engenharia Mecânica e Elétrica compreende:
+**Art**. 36 A Divisão de Engenharia Mecânica e Elétrica compreende:
 
 a) Seção de Estudos e Projetos:
 
@@ -900,7 +898,7 @@ b) Seção Mecânica:
 
 c) Seção Elétrica.
 
-<strong>Art</strong>. 37 Compete ao Chefe da Divisão de Engenharia Mecânica e Elétrica:
+**Art**. 37 Compete ao Chefe da Divisão de Engenharia Mecânica e Elétrica:
 
 a) cooperar com a Divisão de Engenharia Civil no estudo do plano geral de obras para o desenvolvimento da A.P.R.J. referentemente às instalações mecânicas e elétricas;
 
@@ -930,7 +928,7 @@ m) fiscalizar as instalações mecânicas e elétricas;
 
 n) remeter à Seção de Estatística, mensalmente, através do órgão competente, os elementos necessários à elaboração do relatório;
 
-<strong>Art</strong>. 38. Compete à Divisão de Engenharia Mecânica e Elétrica:
+**Art**. 38. Compete à Divisão de Engenharia Mecânica e Elétrica:
 
 I - Através da Seção de Estudos e Projetos:
 
@@ -954,9 +952,9 @@ c) manter atualizadas as plantas gerais das instalações elétricas da A.P.R.J.
 
 Da Divisão de Material:
 
-<strong>Art</strong>. 39. A Divisão de Material tem por fim controlar, guardar e registrar os materiais, móveis, utensílios e equipamentos necessários aos serviços da A.P.R.J.
+**Art**. 39. A Divisão de Material tem por fim controlar, guardar e registrar os materiais, móveis, utensílios e equipamentos necessários aos serviços da A.P.R.J.
 
-<strong>Art</strong>. 40. A Divisão de Material compreende:
+**Art**. 40. A Divisão de Material compreende:
 
 a) Seção de Compras;
 
@@ -964,7 +962,7 @@ b) Almoxarifado;
 
 c) Seção do Patrimônio.
 
-<strong>Art</strong>. 41. Compete à Divisão de Material:
+**Art**. 41. Compete à Divisão de Material:
 
 I - Através da Seção de Compras:
 
@@ -1046,13 +1044,13 @@ j) fornecer à Divisão os elementos necessários à responsabilização por dan
 
 k) organizar os elementos técnicos dos serviços executados, para o relatório anual.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Departamento de Tráfego</em>
+*Do Departamento de Tráfego*
 
-<strong>Art</strong>. 42. O Departamento de Tráfego tem por fim proporcionar as vantagens e serviços requisitados pelo comércio, navegação e demais usuários, com vistas à exploração industrial e comercial do Pôrto.
+**Art**. 42. O Departamento de Tráfego tem por fim proporcionar as vantagens e serviços requisitados pelo comércio, navegação e demais usuários, com vistas à exploração industrial e comercial do Pôrto.
 
-<strong>Art</strong>. 43. O Departamento de Tráfego compreende:
+**Art**. 43. O Departamento de Tráfego compreende:
 
 a) Inspetorias;
 
@@ -1062,7 +1060,7 @@ c) Seção de Faltas e Avarias;
 
 Parágrafo único. O Departamento de Tráfego terá dois Ajudantes, sendo um técnico.
 
-<strong>Art</strong>. 44. Compete ao Diretor do Departamento de Tráfego:
+**Art**. 44. Compete ao Diretor do Departamento de Tráfego:
 
 a) providenciar para que o comércio, a navegação e demais usuários do Pôrto possam usufruir das vantagens e serviços previstos na legislação em vigor;
 
@@ -1096,7 +1094,7 @@ l) atestar, nos relatórios de navios, recebidos das Inspetorias, a prestação 
 
 m) organizar as normas de operações portuárias.
 
-<strong>Art</strong>. 45. Compete as Inspetorias:
+**Art**. 45. Compete as Inspetorias:
 
 a) fiscalizar o comparecimento e freqüência do pessoal, enviando os cartões à Seção competente, dentro dos prazos determinados;
 
@@ -1142,9 +1140,9 @@ b) solicitar ao Departamento de Tráfego os serviços de reparação nas instala
 
 Da Divisão de Transporte.
 
-<strong>Art</strong>. 46. A Divisão de Transporte tem por fim dirigir e executar os serviços de transporte.
+**Art**. 46. A Divisão de Transporte tem por fim dirigir e executar os serviços de transporte.
 
-<strong>Art</strong>. 47. A Divisão de Transporte compreende:
+**Art**. 47. A Divisão de Transporte compreende:
 
 a) Seção de Movimento Ferroviário;
 
@@ -1152,7 +1150,7 @@ b) Seção de Máquinas Industriais;
 
 c) Seção de Viaturas;
 
-<strong>Art</strong>. 48. Compete a Divisão de Transporte:
+**Art**. 48. Compete a Divisão de Transporte:
 
 I - Através da Seção de Movimento Ferroviário:
 
@@ -1216,7 +1214,7 @@ g) cuidar da seleção de óleos e graxas, lubrificantes e equipamentos para lub
 
 h) ordenar o uso técnico dos lubrificantes, processos de lubrificação e testes para manutenção preventiva.
 
-<strong>Art</strong>. 49. Compete à Seção de Faltas e Avarias:
+**Art**. 49. Compete à Seção de Faltas e Avarias:
 
 a) instruir os processos de faltas e avarias nas operações portuárias, indicando o montante dos prejuízos;
 
@@ -1226,11 +1224,11 @@ c) instruir os processos relativos a avarias em equipamentos, aparelhagem e mate
 
 d) adotar ou sugerir providências tendentes a evitar faltas ou avarias.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Divisão de Polícia Portuária</em>
+*Da Divisão de Polícia Portuária*
 
-<strong>Art</strong>. 50. A Divisão de Polícia Portuária compete, através de suas Inspetorias:
+**Art**. 50. A Divisão de Polícia Portuária compete, através de suas Inspetorias:
 
 a) exercer contínua vigilância nas dependências e instalações da A.P.R.J., zelando pela fiel guarda e conservação dos seus bens e mercadorias depositadas;
 
@@ -1248,11 +1246,11 @@ g) cooperar na repressão dos contrabandos;
 
 h) impedir a distribuição de boletins e impressos subversivos nas dependências portuárias, bem como a colocação de cartazes ou legendas murais, sem devida autorização, detendo seus autores e apreendendo o respectivo material.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da Seção de Relações Públicas</em>
+*Da Seção de Relações Públicas*
 
-<strong>Art</strong>. 51. Compete à Seção de Relações Públicas:
+**Art**. 51. Compete à Seção de Relações Públicas:
 
 a) auscultar a opinião pública no que concerne às atividades da A.P.R.J. de divulgar, pelos meios adequados, as informações que apresentarem interêsse;
 
@@ -1268,19 +1266,19 @@ f) manter serviço de divulgação das obras em construção ou concluídas, bem
 
 g) organizar festividades culturais, recreativas, desportivas e programas que estimulam os servidor, elaborando, ouvidos os demais órgãos da A.P.R.J., um serviço permanente de informações aos portuários e ao público em geral de tôdas as atividades da autarquia.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Da Lotação dos Órgãos</em>
+*Da Lotação dos Órgãos*
 
-<strong>Art</strong>. 52. Os órgãos da A.P.R.J. terão a sua lotação aprovada pelo Superintendente.
+**Art**. 52. Os órgãos da A.P.R.J. terão a sua lotação aprovada pelo Superintendente.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Do Horário e Condições de Trabalho</em>
+*Do Horário e Condições de Trabalho*
 
-<strong>Art</strong>. 53. O trabalho ordinário será executado na conformidade do disposto no Decreto n.º 26.299, de 31 de janeiro de 1949.
+**Art**. 53. O trabalho ordinário será executado na conformidade do disposto no Decreto n.º 26.299, de 31 de janeiro de 1949.
 
-<strong>Art</strong>. 54. Ficam estabelecidos as seguintes normas gerais para os serviços extraordinários:
+**Art**. 54. Ficam estabelecidos as seguintes normas gerais para os serviços extraordinários:
 
 a) nenhum servidor poderá trabalhar mais de duas noites consecutivas e nem dezesseis horas consecutivas;
 
@@ -1288,17 +1286,17 @@ b) o trabalho extraordinário caberá, eqüitativamente, dentro de cada órgão,
 
 c) evitar, tanto quanto possível por conta da A.P.R.J, a realização de serviços extraordinários, devendo aos mesmos preceder a autorização do Superintendente, que poderá ser “a posterior” nos casos de emergência.
 
-<strong>Art</strong>. 55. Os serviços extraordinários, executados durante as horas de refeições, serão integralmente debitados aos requisitantes, com 10% de administração.
+**Art**. 55. Os serviços extraordinários, executados durante as horas de refeições, serão integralmente debitados aos requisitantes, com 10% de administração.
 
 § 1º Os serviços ordinários e extraordinários não utilizados serão debitados integralmente, aos requisitantes, com o acréscimo de 10% de administração, a menos que êstes cancelem as requisições antes da A.P.R.J. ter incorrido nas despesas para executá-los.
 
 § 2º Os reforços voluntariamente requisitados pelas partes serão integralmente debitados aos requisitantes, com o acréscimo de 10% de administração.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 56. Serão substituídos automaticamente em suas faltas ou impedimentos eventuais, até 30 dias:
+**Art**. 56. Serão substituídos automaticamente em suas faltas ou impedimentos eventuais, até 30 dias:
 
 a) o Superintendente pelo Chefe do Gabinete ou por um Diretor de Departamento;
 
@@ -1318,11 +1316,11 @@ h) as demais autoridades por servidores que lhes sejam diretamente subordinados.
 
 Parágrafo único. Os substitutos a que se refere êste artigo serão previamente designados pelo Superintendente.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>Dos Fundos da A.P.R.J.</em>
+*Dos Fundos da A.P.R.J.*
 
-<strong>Art</strong>. 57. O resultado verificado no encerramento de cada balanço anual será aplicado:
+**Art**. 57. O resultado verificado no encerramento de cada balanço anual será aplicado:
 
 \- 20% para a conta “Fundo de Reserva e Renovação”;
 
@@ -1332,29 +1330,29 @@ Parágrafo único. Os substitutos a que se refere êste artigo serão previament
 
 \- 15% para a conta “Fundo de Assistência Social”.
 
-<strong>TÍTULO X</strong>
+**TÍTULO X**
 
-<em>Da Concorrência</em>
+*Da Concorrência*
 
-<strong>Art</strong>. 58. A execução de obras e aquisição de materiais serão feitas através de concorrência pública ou administrativa.
+**Art**. 58. A execução de obras e aquisição de materiais serão feitas através de concorrência pública ou administrativa.
 
 Parágrafo único. A concorrência administrativa se aplicará à execução de obras e aquisições de materiais, cujo valor não exceda de um milhão de cruzeiros (Cr$1.000.000,00).
 
-<strong>Art</strong>. 59. Ao Superintendente compete determinar a execução de obras ou a aquisição de material.
+**Art**. 59. Ao Superintendente compete determinar a execução de obras ou a aquisição de material.
 
-<strong>Art</strong>. 60. Para fins de concorrência administrativa, a Seção de Compras organizará um cadastro das firmas fornecedoras, por especialidade, observando-se no seu processamento as seguintes normas:
+**Art**. 60. Para fins de concorrência administrativa, a Seção de Compras organizará um cadastro das firmas fornecedoras, por especialidade, observando-se no seu processamento as seguintes normas:
 
 a) recebidas as propostas, a Comissão de Concorrências, cuja composição será estabelecida pelo Superintendente, abrirá os envelopes, verificando os preços e se as qualidades oferecidas correspondem às exigidas, rubricando, juntamente com os interessados, tôdas as propostas, que serão entregues à Seção de Compras;
 
 b) havendo amostras, deverão ser elas entregues, em dois exemplares, com etiquetas devidamente rubricadas e datadas pela proponente;
 
-c) abertos os envelopes, na forma do disposto na letra <em>a</em>, a Seção de Compras organizará o mapa de confronto dos preços ofertados, submetendo-o à apreciação e pronunciamento da Comissão de Concorrência, encaminhando o processo, pelas vias regulares, ao Superintendente, para que êste decida sôbre a adjudicação, expedindo-se a respectiva carta de encomenda.
+c) abertos os envelopes, na forma do disposto na letra *a*, a Seção de Compras organizará o mapa de confronto dos preços ofertados, submetendo-o à apreciação e pronunciamento da Comissão de Concorrência, encaminhando o processo, pelas vias regulares, ao Superintendente, para que êste decida sôbre a adjudicação, expedindo-se a respectiva carta de encomenda.
 
-<strong>Art</strong>. 61. No processamento das concorrências públicas, observar-se-ão as normas legais vigentes.
+**Art**. 61. No processamento das concorrências públicas, observar-se-ão as normas legais vigentes.
 
-<strong>TÍTULO XI</strong>
+**TÍTULO XI**
 
-<strong>Art</strong>. 62. Compete ao Procurador Geral e aos Diretores de Departamento, além das atribuições definidas nêste Regimento:
+**Art**. 62. Compete ao Procurador Geral e aos Diretores de Departamento, além das atribuições definidas nêste Regimento:
 
 a) remover de um para outro órgão da Procuradoria ou Departamento os servidores nêles lotados, dando ciência à Divisão de Pessoal;
 
@@ -1366,7 +1364,7 @@ d) aplicar penas disciplinares, inclusive a de suspensão, até quinze dias, e p
 
 e) apresentar, anualmente, ao Superintendente, até o dia 31 de março, relatório das atividades do órgão sob sua responsabilidade.
 
-<strong>Art</strong>. 63. Compete aos Chefes de Divisão, além das atribuições definidas nêste Regimento:
+**Art**. 63. Compete aos Chefes de Divisão, além das atribuições definidas nêste Regimento:
 
 a) apresentar anualmente ao Diretor do Departamento a que tiver subordinado, até o dia 31 de janeiro, relatório das atividades da Divisão;
 
@@ -1374,32 +1372,32 @@ b) aplicar penas disciplinares, inclusive a de suspensão, até oito dias, e pro
 
 c) adotar ou propôr as providências necessárias ao exercício de sua atribuições, no que não colidir com a competência de outras autoridades.
 
-<strong>Art</strong>. 64. Compete aos Chefes de Seção, além das atribuições definidas nêste Regimento:
+**Art**. 64. Compete aos Chefes de Seção, além das atribuições definidas nêste Regimento:
 
 a) apresentar, anualmente ao Chefe de Divisão a que estiver subordinado, até o dia 15 de janeiro, relatório das atividades da Seção;
 
 b) adotar ou propôr as providências necessárias ao exercício de sua atribuições, no que não colidir com a competência de outras autoridades.
 
-<strong>Art</strong>. 65. Compete às demais autoridades:
+**Art**. 65. Compete às demais autoridades:
 
 a) apresentar, anualmente, à Chefia a que estejam subordinados, até do dia 15 de janeiro, relatório das atividades do órgão sob sua responsabilidade;
 
 b) adotar ou propôr as providências necessárias ao exercício de sua atribuições, no que não colidir com a competência de outras autoridades.
 
-<strong>TÍTULO XII</strong>
+**TÍTULO XII**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 66. Além dos servidores do Quadro de Pessoal, a A.P.R.J. poderá, observadas as disposições legais, admitir pessoal temporário para o desempenho de atribuições técnico-científicas de natureza reconhecidamente transitórias.
+**Art**. 66. Além dos servidores do Quadro de Pessoal, a A.P.R.J. poderá, observadas as disposições legais, admitir pessoal temporário para o desempenho de atribuições técnico-científicas de natureza reconhecidamente transitórias.
 
-<strong>Art</strong>. 67. Os aprendizes serão aproveitados na metade das vagas que se verifiquem na classe inicial das carreiras de artíficie, desde que satisfaçam os requisitos legais de habilitação profissional.
+**Art**. 67. Os aprendizes serão aproveitados na metade das vagas que se verifiquem na classe inicial das carreiras de artíficie, desde que satisfaçam os requisitos legais de habilitação profissional.
 
-<strong>Art</strong>. 68. O dia 28 de janeiro será consagrado ao servidor da A.P.R.J.
+**Art**. 68. O dia 28 de janeiro será consagrado ao servidor da A.P.R.J.
 
-<strong>Art</strong>. 69. O Superintendente baixará as instruções que se fizerem necessárias para a perfeita execução do presente Regimento cabendo-lhe resolver os casos omissos.
+**Art**. 69. O Superintendente baixará as instruções que se fizerem necessárias para a perfeita execução do presente Regimento cabendo-lhe resolver os casos omissos.
 
 Brasília, 4 de junho de 1960.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernani do Amaral Peixoto

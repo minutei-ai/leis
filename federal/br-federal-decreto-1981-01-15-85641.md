@@ -1,5 +1,3 @@
-###DEC-085641-0-000-15-01-1981@@@
-
 Decreto nº 85.641, de 15 de janeiro de 1981
 
 Concede à Companhia Usinas Nacionais autorização para proceder a aumento do seu capital social.

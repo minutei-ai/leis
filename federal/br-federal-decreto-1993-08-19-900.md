@@ -1,7 +1,3 @@
-1
-
-###DEC-000900-0-000-19-08-1993@@@
-
 DECRETO N° 900, DE 19 DE AGOSTO DE 1993
 
 Dá nova redação ao inciso I do art. 39 do Anexo I ao Decreto n° 99.578, de 10 de outubro de 1990, que consolida normas sobre a organização e funcionamento do Ministério das Relações Exteriores.

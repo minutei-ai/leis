@@ -1,5 +1,3 @@
-###DEC-051048-0-000-26-07-1961@@@
-
 decreto nº 51.048, de 26 de julho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Mato Grosso as águas do rio São Domingos.

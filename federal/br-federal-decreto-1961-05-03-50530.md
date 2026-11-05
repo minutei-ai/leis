@@ -1,5 +1,3 @@
-###DEC-050530-0-000-03-05-1961@@@
-
 Decreto nº 50.530, de 3 de maio de 1961.
 
 Declara emancipado o Núcleo colonial Santa Cruz e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076565-0-000-06-11-1975@@@
-
 DECRETO Nº 76.565, DE 6 DE NOVEMBRO DE 1975.
 
 Abre a Encargos Gerais da União, em favor do Fundo de Desenvolvimento de Áreas Estratégicas, o crédito suplementar de Cr$ 30.000.000,00, para reforço de dotação consignada no vigente Orçamento.

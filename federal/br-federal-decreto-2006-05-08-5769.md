@@ -1,5 +1,3 @@
-###DEC-005769-0-000-08-05-2006@@@
-
 DECRETO Nº 5.769, DE 8 DE MAIO DE 2006.
 
 Dá nova redação a dispositivos dos Decretos nºs 5.189 e 5.190, ambos de 19 de agosto de 2004, que regulamentam a Gratificação de Incremento da Fiscalização e da Arrecadação - GIFA devida aos ocupantes dos cargos efetivos das Carreiras Auditoria da Receita Federal e Auditoria-Fiscal da Previdência Social, bem como da parcela do pró-labore devida aos ocupantes dos cargos efetivos da Carreira de Procurador da Fazenda Nacional.

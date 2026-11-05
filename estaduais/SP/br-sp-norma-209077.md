@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209077)<br>
-
 # DECRETO N° 68.306, DE 16 DE JANEIRO DE 2024
 
 ### _Dispõe sobre o uso de assinaturas eletrônicas na Administração Pública estadual direta, autárquica e fundacional, regulamenta o artigo 5° da Lei federal n° 14.063, de 23 de setembro de 2020, e disciplina a comprovação de vida e as ações de recadastramento por meio digital para os fins que especifica._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Os órgãos e entidades da Administração Pública estadual direta, autárquica e fundacional observarão as normas deste decreto para:
@@ -91,10 +90,12 @@ IV - validador de acesso digital: órgão ou entidade, pública ou privada, auto
 
 V - comprovação de vida: registro em meio eletrônico de ação ou conjunto de ações aptas, operacional e juridicamente, a fazer prova de vida, que sejam praticadas por pessoa natural junto a órgão ou entidade pública ou privada.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Assinatura Eletrônica
 
-#### Seção I<br>
+#### Seção I
+
 Das modalidades
 
 **Artigo 5° -** Para efeitos deste decreto, as assinaturas eletrônicas são classificadas em:
@@ -123,7 +124,8 @@ III - assinatura eletrônica qualificada: a que utiliza certificado digital ICP-
 
 **Parágrafo único -** A adoção das providências de que trata o "caput" deste artigo admite a utilização de tecnologias voltadas à verificação da presença ativa do usuário no momento da interação eletrônica ("liveness").
 
-#### Seção II<br>
+#### Seção II
+
 Da aplicabilidade
 
 **Artigo 7° -** Os níveis mínimos para as assinaturas em interações eletrônicas com a Administração Pública estadual direta, autárquica e fundacional são:
@@ -176,12 +178,14 @@ b) as demais hipóteses previstas em lei.
 
 **Parágrafo único -** O disposto no "caput" deste artigo aplica-se à validação do acesso a que se refere o inciso IV do artigo 4° deste decreto.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da adoção da forma eletrônica nas atualizações de bases de dados estaduais
 
 **Artigo 9° -** Os recadastramentos, atualizações cadastrais e recenseamentos, no âmbito da Administração Pública direta, autárquica e fundacional, adotarão a forma eletrônica, nos termos previstos neste decreto.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Responsabilidades
 
 **Artigo 10 -** Os órgãos e entidades da Administração Pública direta, autárquica e fundacional adotarão mecanismos para prover aos usuários a capacidade de utilizar assinaturas eletrônicas para as interações com entes públicos, respeitados os seguintes critérios:
@@ -210,7 +214,8 @@ II - por informar ao ente público sobre possíveis usos ou tentativas de uso in
 
 **Artigo 12 -** Em caso de suspeita de uso indevido das assinaturas eletrônicas e credenciais de acesso de que tratam este decreto, a Administração Pública poderá suspender os meios de acesso das assinaturas eletrônicas possivelmente comprometidas, de forma individual ou coletiva.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 13 -** O Secretário de Gestão e Governo Digital poderá expedir atos complementares para o cumprimento do disposto neste decreto.
@@ -263,7 +268,8 @@ b) o artigo 3°:
 
 **Artigo 16 -** Este decreto e sua disposição transitória entram em vigor na data de sua publicação.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Disposição Transitória
 
 **Artigo único -** No exercício de 2024, o recadastramento de que trata o [Decreto n° 52.691, de 1° de fevereiro de 2008](https://www.al.sp.gov.br/norma/?id=76131), será realizado por todos os servidores, empregados públicos e militares em atividade, no prazo de 60 (sessenta) dias a contar da publicação deste decreto.

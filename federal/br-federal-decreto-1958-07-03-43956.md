@@ -1,20 +1,18 @@
-###DEC-043956-0-000-03-07-1958@@@
+**DECRETO Nº 43.956, DE 3 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 43.956, DE 3 DE JULHO DE 1958.</strong>
+***Promulga o Acôrdo entre os Estados Unidos do Brasil e a República Federal da Alemanha sôbre Restauração dos Direitos de propriedade Industrial e de Direitos Autorais atingidos pela II Guerra Mundial, firmado no Rio de janeiro a 4 de setembro de 1953.***
 
-<em><strong>Promulga o Acôrdo entre os Estados Unidos do Brasil e a República Federal da Alemanha sôbre Restauração dos Direitos de propriedade Industrial e de Direitos Autorais atingidos pela II Guerra Mundial, firmado no Rio de janeiro a 4 de setembro de 1953.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, havendo o Congresso Nacional aprovado, pelo Decreto Legislativo nº 39, de 15 de dezembro de 1957, o Acôrdo sôbre Restauração dos Direitos de Propriedade Industrial e dos Direitos Autorais atingidos pela II Guerra Mundial assinado no Rio de janeiro, a 4 de setembro de 1953, entre os Estados Unidos do Brasil e República Federal da Alemanha; e havendo sido ratificado, pelo Brasil, por Carta de 22 de janeiro de 1958, e tendo sido efetuada, em Bonn, a 23 de maio de 1958, a troca dos instrumentos de ratificação:
+**O PRESIDENTE DA REPÚBLICA**, havendo o Congresso Nacional aprovado, pelo Decreto Legislativo nº 39, de 15 de dezembro de 1957, o Acôrdo sôbre Restauração dos Direitos de Propriedade Industrial e dos Direitos Autorais atingidos pela II Guerra Mundial assinado no Rio de janeiro, a 4 de setembro de 1953, entre os Estados Unidos do Brasil e República Federal da Alemanha; e havendo sido ratificado, pelo Brasil, por Carta de 22 de janeiro de 1958, e tendo sido efetuada, em Bonn, a 23 de maio de 1958, a troca dos instrumentos de ratificação:
 
 Decreta que o mencionado Acôrdo apenso por cópia ao presente Decreto, seja executado e cumprido tão inteiramente como nele se contém.
 
 Rio de Janeiro, em 3 de julho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK.</strong>
+**JUSCELINO KUBITSCHEK.**
 
 José Carlos de Macedo Soares
 
-<strong>ACÔRDO SÔBRE RESTAURAÇÃO DOS DIREITOS DE PROPRIEDADE INDUSTRIAL E DIREITOS AUTORAIS ATINGIDOS PELA SEGUNDA GUERRA MUNDIAL ENTRE OS ESTADOS UNIDOS DO BRASIL E REPÚBLICA FEDERAL DA ALEMANHA.</strong>
+**ACÔRDO SÔBRE RESTAURAÇÃO DOS DIREITOS DE PROPRIEDADE INDUSTRIAL E DIREITOS AUTORAIS ATINGIDOS PELA SEGUNDA GUERRA MUNDIAL ENTRE OS ESTADOS UNIDOS DO BRASIL E REPÚBLICA FEDERAL DA ALEMANHA.**
 
 O Govêrno dos Estados Unidos do Brasil e o Govêrno da República Federal da Alemanha, desejosos de regular nas relações entre os dois Países, a situação dos direitos da propriedade industrial e dos direitos autorais atingidos pela segunda guerra mundial, resolveram celebrar o presente Acôrdo.
 
@@ -108,7 +106,7 @@ Em fé do que, os Plenipotenciários acima nomeados firmaram o presente Acôrdo 
 
 Feito na cidade do Rio de Janeiro aos quatro dias do mês de setembro de mil novecentos e cinqüenta e três.
 
-<strong>VICENTE RÁO</strong>
+**VICENTE RÁO**
 
 Fritz Oellers
 

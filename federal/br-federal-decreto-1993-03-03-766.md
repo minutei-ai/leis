@@ -1,7 +1,3 @@
-1
-
-###DEC-000766-0-000-03-03-1993@@@
-
 DECRETO N° 766, DE 3 DE MARÇO DE 1993
 
 Altera a Nomenclatura do Sistema Harmonizado de Designação e de Codificação de Mercadorias e dá outras providências.

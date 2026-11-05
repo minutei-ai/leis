@@ -1,5 +1,3 @@
-###DEC-074195-0-000-20-06-1974@@@
-
 DECRETO Nº 74.195, DE 20 DE JUNHO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas de Rolândia, mantida pela Associação Rolandense de Ensino e Cultura, com sede na cidade de Rolândia, Estado do Paraná.

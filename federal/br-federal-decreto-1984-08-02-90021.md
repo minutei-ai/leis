@@ -1,5 +1,3 @@
-###DEC-090021-0-000-02-08-1984@@@
-
 Decreto nº 90.021, de 02 de agosto de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia-COELBA, no Estado da Bahia.

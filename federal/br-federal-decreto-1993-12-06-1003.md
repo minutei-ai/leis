@@ -1,7 +1,3 @@
-1
-
-###DEC-001003-0-000-06-12-1993@@@
-
 DECRETO N° 1.003, DE 6 DE DEZEMBRO DE 1993
 
 Dispõe sobre a execução da Ata de Retificação do Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica de n° 14, entre Brasil e Argentina, de 6 de agosto de 1993.

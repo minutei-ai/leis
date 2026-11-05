@@ -1,5 +1,3 @@
-###DEC-066944-0-000-23-07-1970@@@
-
 DECRETO Nº 66.944, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel nº 62, situado na Ladeira do Barroso, Cidade do Rio de Janeiro, Estado da Guanabara necessário à ampliação da Estação Terminal de Microondas da Cidade do Rio de Janeiro, integrante do Sistema Nacional de Telecomunicações, a cargo da Emprêsa Brasileira de Telecomunicações - EMBRATEL.

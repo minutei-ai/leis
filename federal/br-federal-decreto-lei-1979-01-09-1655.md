@@ -1,7 +1,3 @@
-1
-
-###DEL-001655-0-000-09-01-1979@@@
-
 # Decreto-lei nº 1.655, de 09 de janeiro de 1979
 
 Dispõe sobre a guarda e a liquidação dos comprovantes do recolhimento restituível decorrente do consumo de óleo combustível instituído pelo Decreto-Lei nº 1.520, de 17 de janeiro de 1977.

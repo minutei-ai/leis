@@ -1,5 +1,3 @@
-###MPV-001971-0-007-11-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1971-7, DE 11 de janeiro DE 2000.
 
 Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional e organização da Carreira Auditoria-Fiscal da Previdência Social da Carreira Auditoria-Fiscal do Trabalho.

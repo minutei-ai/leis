@@ -1,5 +1,3 @@
-###DEC-064035-0-000-28-01-1969@@@
-
 DECRETO Nº 64.035, DE 28 DE JANEIRO DE 1969.
 
 Reclassifica junção gratificada do Quadro de Pessoal da Universidade Federal Rural de Pernambuco.

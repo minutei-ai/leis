@@ -1,5 +1,3 @@
-###DEL-000097-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 97, DE 30 DE DEZEMBRO DE 1966
 
 Exclui o Conselho Federal de Educação dos efeitos do Decreto-lei número 81, de 21 de dezembro de 1966.

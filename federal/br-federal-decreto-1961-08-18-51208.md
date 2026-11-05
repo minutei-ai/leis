@@ -1,5 +1,3 @@
-###DEC-051208-0-000-18-08-1961@@@
-
 DECRETO Nº 51.208, DE 18 DE AGÔSTO DE 1961.
 
 Altera a redação do art.6º do Decreto nº 46.794, de 4-9-59, e dá outras providências.

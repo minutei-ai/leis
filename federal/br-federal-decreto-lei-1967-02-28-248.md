@@ -1,5 +1,3 @@
-###DEL-000248-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 248, DE 28 DE FEVEREIRO DE 1967
 
 Institui a Política Nacional de Saneamento Básico, cria o Conselho Nacional de Saneamento Básico e dá outras providências.

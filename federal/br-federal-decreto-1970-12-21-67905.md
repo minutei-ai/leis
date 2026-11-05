@@ -1,5 +1,3 @@
-###DEC-067905-0-000-21-12-1970@@@
-
 Decreto nº 67.905, de 21 de dezembro de 1970.
 
 Retifica o artigo 1º do Decreto nº 67.726, de 7 de dezembro de 1970 que abre ao Poder Judiciário - Justiça Eleitoral - em favor dos Tribunais Regionais Eleitorais do Paraná, Rio de Janeiro, Rio Grande do Sul e São Paulo o crédito suplementar de Cr$ 428.739,00 para refôrço de dotações consignadas no vigente Orçamento.
@@ -12,11 +10,23 @@ Art. 1º Fica retificado, na forma abaixo, o artigo 1º do Decreto nº 67.726, d
 
 No artigo 1º ONDE SE LÊ:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"07.18.20</span></p></td><td style="width:371.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Tribunal Regional Eleitoral do Rio de Janeiro</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03.07.2.037</span></p></td><td style="width:371.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pagamento de Inativos e Pensionistas do Tribunal Regional Eleitorial do Rio de Janeiro"</span></p></td></tr></tbody></table>
+"07.18.20
+
+- Tribunal Regional Eleitoral do Rio de Janeiro
+
+03.07.2.037
+
+- Pagamento de Inativos e Pensionistas do Tribunal Regional Eleitorial do Rio de Janeiro"
 
 LEIA-SE:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"07.18.00</span></p></td><td style="width:371.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Tribunal Regional Eleitoral do Rio de Janeiro</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03.07.2.038</span></p></td><td style="width:371.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pagamento de Inativos do Tribunal Regional Eleitoral do Rio de Janeiro".</span></p></td></tr></tbody></table>
+"07.18.00
+
+- Tribunal Regional Eleitoral do Rio de Janeiro
+
+03.07.2.038
+
+- Pagamento de Inativos do Tribunal Regional Eleitoral do Rio de Janeiro".
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-070392-0-000-12-04-1972@@@
-
 DECRETO Nº 70.392, DE 12 DE ABRIL DE 1972.
 
 Retifica o Decreto nº 69.821, de 22 de dezembro de 1971, que declarou de utilidade pública a Sociedade Educativa de Montes Claros SOEMOC, com sede em Montes Claros, Estado de Minas Gerais.

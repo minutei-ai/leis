@@ -1,5 +1,3 @@
-###DEC-064740-0-000-26-06-1969@@@
-
 DECRETO Nº 64.740, DE 26 DE JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Aeronáutica, cargos originários da extinta Autarquia Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

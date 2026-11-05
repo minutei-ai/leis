@@ -1,5 +1,3 @@
-###DEC-063976-0-000-10-01-1969@@@
-
 DECRETO Nº 63.976, DE 10 DE JANEIRO DE 1969.
 
 Complementa o Plano Geral de Convocação para o Serviço Militar Inicial nas Fôrças Armadas em 1969.

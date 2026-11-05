@@ -1,5 +1,3 @@
-###DEC-089916-0-000-04-07-1984@@@
-
 Decreto nº 89.916, de 04 de julho de 1984
 
 Outorga concessão à RÁDIO PIONEIRA DE TANGARÁ DA SERRA LTDA; para explorar serviço de radiodifusão sonora em onda média, na cidade de Tangará da Serra, Estado do Mato Grosso.

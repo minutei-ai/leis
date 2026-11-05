@@ -22,25 +22,32 @@ VI – estimular o acesso ao crédito e o apoio ao empreendedorismo, associativi
 
 VII – incentivar a celebração de parcerias ou convênios entre o Poder Público estadual e a sociedade civil organizada, de forma a se alcançar o objetivo previsto no art. 1º.
 
-VIII – implementar ações e programas que visem priorizar a inserção de mulheres com idade acima de 50 (cinquenta) anos no mercado de trabalho;<br>
+VIII – implementar ações e programas que visem priorizar a inserção de mulheres com idade acima de 50 (cinquenta) anos no mercado de trabalho;
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-IX – incentivar iniciativas empresariais que visem ao aprimoramento profissional, à manutenção do emprego e à inserção no mercado de trabalho de mulheres com idade acima de 50 (cinquenta) anos.<br>
+IX – incentivar iniciativas empresariais que visem ao aprimoramento profissional, à manutenção do emprego e à inserção no mercado de trabalho de mulheres com idade acima de 50 (cinquenta) anos.
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-Parágrafo único. A Política ora instituída deve priorizar mulheres com idade acima de 50 (cinquenta) anos que:<br>
+Parágrafo único. A Política ora instituída deve priorizar mulheres com idade acima de 50 (cinquenta) anos que:
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-I – sejam chefes de família monoparental;<br>
+I – sejam chefes de família monoparental;
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-II – tenham deficiência ou filho com deficiência;<br>
+II – tenham deficiência ou filho com deficiência;
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-III – sejam vítimas de violência doméstica.<br>
+III – sejam vítimas de violência doméstica.
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
-Art. 2º-A (VETADO).<br>
+Art. 2º-A (VETADO).
+
 \- [Acrescido pela Lei nº 22.705, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108857/lei-22705).
 
 Art. 3º (VETADO).
@@ -48,8 +55,6 @@ Art. 3º (VETADO).
 Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 6 de junho de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

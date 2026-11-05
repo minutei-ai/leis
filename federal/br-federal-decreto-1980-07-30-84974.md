@@ -1,5 +1,3 @@
-###DEC-084974-0-000-30-07-1980@@@
-
 DECRETO Nº 84.974, DE 30 DE JULHO DE 1980.
 
 Cria os Vice-Consulados do Brasil em Santa Elena do Uairén, Milagro e Puerto Ordaz, na Venezuela.

@@ -1,5 +1,3 @@
-###DEC-002840-0-000-10-11-1998@@@
-
 DECRETO Nº 2.840, DE 10 DE NOVEMBRO DE 1998
 
 Estabelece normas para operação de embarcações pesqueiras nas águas sob jurisdição brasileira e dá outras providências.

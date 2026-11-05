@@ -1,5 +1,3 @@
-###DEC-076879-0-000-22-12-1975@@@
-
 decreto nº 76.879, de 22 de dezembro de 1975.
 
 Declara de utilidade públicas, para fins de constituição de servidão administrativa, faixa de terra destinada á passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo .

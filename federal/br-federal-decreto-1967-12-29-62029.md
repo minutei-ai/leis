@@ -1,5 +1,3 @@
-###DEC-062029-0-000-29-12-1967@@@
-
 DECRETO Nº 62.029, DE 29 DE DEZEMBRO DE 1967.
 
 Dispõe sôbre o pagamento de encargos com o movimento de Educação de Base.

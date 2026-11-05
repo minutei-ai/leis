@@ -1,5 +1,3 @@
-###DEC-096619-0-000-31-08-1988@@@
-
 DECRETO Nº 96.619, DE 31 DE AGOSTO DE 1988
 
 Autoriza a empresa FILOBEL S.A. Indústrias Têxteis do Brasil, com sede no Município de Jundiaí, no Estado de São Paulo, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.

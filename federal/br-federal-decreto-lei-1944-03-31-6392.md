@@ -1,5 +1,3 @@
-###DEL-006392-0-000-31-03-1944@@@
-
 DECRETO-LEI N. 6.392 – DE 31 DE MARÇO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 34.880,00, para pagamento de diferença de vencimentos

@@ -1,5 +1,3 @@
-###MPV-002010-0-035-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.010-35, DE 25 DE agosto de 2000.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

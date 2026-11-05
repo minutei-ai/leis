@@ -1,5 +1,3 @@
-###DEL-000371-0-000-20-12-1968@@@
-
 DECRETO-LEI Nº 371, DE 20 DE DEzembro DE 1968
 
 Autoriza o Poder Executivo a abrir, ao Ministério do Exército, o crédito especial de NCr$25.299,60 destinado ocorrer às despesas que determina o artigo único do Decreto nº 63.249, de 18 de setembro de 1968

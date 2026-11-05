@@ -1,5 +1,3 @@
-###DEC-060833-0-000-08-06-1967@@@
-
 decreto Nº 60.833, DE 8 DE junho DE 1967.
 
 Altera e suprime dispositivos do Decreto nº 59.355, de 4 de outubro de 1966.

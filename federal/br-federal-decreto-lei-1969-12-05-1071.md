@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e4904839-9cd5-450a-8b25-e59ba56974b3/texto#nowhere)
 
-###DEL-001071-0-000-05-12-1969@@@
-
 decreto-LEI nº 1.071, de 5 de dezembro de 1969
 
 Prorroga o prazo de isenção estabelecido no art. 4º do Decreto-lei número 614, de 6 de junho 1969.

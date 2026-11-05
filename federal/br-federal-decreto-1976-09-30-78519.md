@@ -1,5 +1,3 @@
-###DEC-078519-0-000-30-09-1976@@@
-
 DECRETO Nº 78.519, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Química e de Engenharia Química, da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

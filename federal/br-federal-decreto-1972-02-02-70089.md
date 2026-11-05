@@ -1,5 +1,3 @@
-###DEC-070089-0-000-02-02-1972@@@
-
 DECRETO Nº 70.089, DE 2 DE FEVEREIRO DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

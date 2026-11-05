@@ -1,5 +1,3 @@
-###DEC-079803-0-000-13-06-1977@@@
-
 DECRETO Nº 79.803, DE 13 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à construção dos oleodutos ligando o futuro Terminal de Guarulhos ao de Utinga, situados nos Município de Guarulhos e de São Paulo, no Estado de São Paulo.

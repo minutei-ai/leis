@@ -1,5 +1,3 @@
-###DEC-053767-0-000-20-03-1964@@@
-
 DECRETO Nº 53.767, DE 20 DE MARCO DE 1964.
 
 Outorga à Companhia Fôrça e Luz Santa Clara concessão para aproveitamento de energia hidráulica.

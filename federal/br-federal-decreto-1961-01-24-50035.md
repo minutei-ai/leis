@@ -1,5 +1,3 @@
-###DEC-050035-0-000-24-01-1961@@@
-
 DECRETO Nº 50.035, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Daniel da Fonseca Júnior a pesquisar minério de manganês no município de Jequitaí, Estado de Minas Gerais.

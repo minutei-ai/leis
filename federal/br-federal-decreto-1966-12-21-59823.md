@@ -1,5 +1,3 @@
-###DEC-059823-0-000-21-12-1966@@@
-
 DECRETO Nº 59.823, DE 21 de DEZEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Atlântica Companhia Nacional de Segurança, inclusive aumento do capital social.

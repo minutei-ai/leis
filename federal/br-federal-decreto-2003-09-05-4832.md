@@ -1,5 +1,3 @@
-###DEC-004832-0-000-05-09-2003@@@
-
 DECRETO Nº 4.832,  DE 5 DE SETEMBRO DE 2003.
 
        Altera o art. 2o do Decreto no 3.629, de 11 de outubro de 2000, que dispõe sobre o exercício de função militar.
@@ -16,5 +14,6 @@ DECRETO Nº 4.832,  DE 5 DE SETEMBRO DE 2003.
 
         Brasília, 5 de setembro de 2003; 182º da Independência e 115º da República. 
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

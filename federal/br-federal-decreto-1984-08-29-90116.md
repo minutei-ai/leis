@@ -1,5 +1,3 @@
-###DEC-090116-0-000-29-08-1984@@@
-
 DECRETO Nº 90.116, de 29 de agosto de 1984.
 
 Regulamenta o ingresso e a Promoção no Quadro Auxiliar de Oficiais (QAO) e dá outras providências (RIPQAO)

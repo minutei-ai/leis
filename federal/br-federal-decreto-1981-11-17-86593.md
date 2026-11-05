@@ -1,5 +1,3 @@
-###DEC-086593-0-000-17-11-1981@@@
-
 DECRETO Nº 86.593, DE 17 DE NOVEMBRO DE 1981.
 
 Delega competência ao Ministro do Trabalho para nomear os Presidentes dos Conselhos Federais de Biblioteconomia e de Química.

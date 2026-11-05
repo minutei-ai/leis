@@ -1,5 +1,3 @@
-###DEC-073936-0-000-16-04-1974@@@
-
 DECRETO Nº 73.936, DE 16 DE ABRIL DE 1974.
 
 Concede à Companhia Melhoramentos Norte do Paraná o direito de lavra argilar no Município de Jussara, Estado do Paraná

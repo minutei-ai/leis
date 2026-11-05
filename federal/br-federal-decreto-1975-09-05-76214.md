@@ -1,5 +1,3 @@
-###DEC-076214-0-000-05-09-1975@@@
-
 DECRETO Nº 76.214 - DE 5 DE SETEMBRO DE 1975
 
 Extingue a Comissão Interministerial criada pelo Decreto nº 74.482, de 30 de agosto de 1974.

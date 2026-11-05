@@ -1,5 +1,3 @@
-###DEC-005677-0-000-18-01-2006@@@
-
 DECRETO Nº 5.677, DE 18 DE JANEIRO DE 2006.
 
 Cria a Missão do Brasil junto à Comunidade dos Países de Língua Portuguesa, com sede em Lisboa.       

@@ -1,5 +1,3 @@
-###DEC-004026-0-000-22-11-2001@@@
-
 DECRETO Nº 4.026, DE 22 DE NOVEMBRO DE 2001
 
 Prorroga por mais trinta dias o prazo de que trata o art. 1o do Decreto no 3.979, de 23 de outubro de 2001.

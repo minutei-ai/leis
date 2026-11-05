@@ -1,5 +1,3 @@
-###DEL-002207-0-000-28-12-1984@@@
-
 # DECRETO-lei nº 2.207, dE 28 dE dezembro de 1984.
 
 Autoriza a elevação do capital social do Banco Nacional de crédito Cooperativo S.A. - BNCC e dá outras providências.

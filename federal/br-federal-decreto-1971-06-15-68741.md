@@ -1,5 +1,3 @@
-###DEC-068741-0-000-15-06-1971@@@
-
 DECRETO Nº 68.741 - DE 15 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Lar de Velhos "Irmã Teresinha", com sede em Pindamonhangaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210964)<br>
-
 # DECRETO N° 69.543, DE 22 DE MAIO DE 2025
 
 ### _Institui a Medalha "Ao Mérito Penitenciário" e dá providências correlatas._

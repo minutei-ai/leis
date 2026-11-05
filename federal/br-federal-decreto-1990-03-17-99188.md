@@ -1,5 +1,3 @@
-###DEC-099188-0-000-17-03-1990@@@
-
 DECRETO Nº 99.188, DE 17 DE MARCO DE 1990
 
 Dispõe sobre contenção de despesas na Administração Pública Federal, e dá outras providências.

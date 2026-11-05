@@ -1,5 +1,3 @@
-###DEL-006474-0-000-05-05-1944@@@
-
 DECRETO-LEI N. 6.474 – DE 5 DE MAIO DE 1944
 
 Altera o disposto no art. 3º, inciso e do Decreto-lei nº

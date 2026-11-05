@@ -1,5 +1,3 @@
-###DEC-090030-0-000-08-08-1984@@@
-
 DEcreto nº 90.030, de 08 de agosto de 1984.
 
 Concede à Companhia Siderúrgica Nacional (Grupo SIDERBRÁS) autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-085938-0-000-28-04-1981@@@
-
 DecRETo nº 85.938, de 28 de abril dE 1981.
 
 Concede autorização à COMPANHIA ESSO PROSPECÇÃO DO BRASIL, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S. A. - PETROBRÁS.

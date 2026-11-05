@@ -1,5 +1,3 @@
-###DEC-089214-0-000-21-12-1983@@@
-
 decreto nº 89.214, de 21 de dezembro de 1983
 
 Autoriza o funcionamento do curso de Fisioterapia, em Novo Hamburgo, Rio Grande do Sul.

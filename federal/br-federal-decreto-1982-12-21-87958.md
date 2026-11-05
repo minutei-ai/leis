@@ -1,5 +1,3 @@
-###DEC-087958-0-000-21-12-1982@@@
-
 Decreto nº 87.958, de 21 de dezembro de 1982
 
 Autoriza a FUNDAÇÃO TELEVISÃO EDUCATIVA DO RIO GRANDE DO SUL a executar, pelo restante do prazo, serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Alegre, Estado do Rio Grande do Sul, outorgado à Secretaria de Educação e Cultura do Governo do Estado do Rio Grande do Sul.

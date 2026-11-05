@@ -1,5 +1,3 @@
-###DEC-000244-0-000-28-10-1991@@@
-
 DECRETO N° 244, DE 28 DE OUTUBRO DE 1991
 
 Dispõe sobre a liquidação das sociedades sob controle indireto da União, de que trata a Lei n° 8.029, de 12 de abril de 1990.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/48808d4c-d3a4-42c8-9745-82668cfcb7ed/texto#nowhere)
 
-###DEL-000499-0-000-17-03-1969@@@
-
 DECRETO-LEI nº 499, DE 17 DE MARÇO DE 1969
 
 Institui nova carteira de identidade para estrangeiros e dá outras providências.

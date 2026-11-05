@@ -1,5 +1,3 @@
-###DEC-059433-0-000-27-10-1966@@@
-
 DECRETO Nº 59.433, DE 27 DE OUTUBRO DE 1966.
 
 Autoriza o funcionamento da Faculdade de Educação de Piracicaba, no Estado de São Paulo.

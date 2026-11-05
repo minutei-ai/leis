@@ -1,5 +1,3 @@
-###DEL-009653-0-000-24-08-1946@@@
-
 DECRETO-LEI N. 9.653 – DE 24 DE AGÔSTO DE 1946
 
 Cria a Divisão de Bioquímica na Diretoria de Saúde da Aeronáutica

@@ -1,5 +1,3 @@
-###DEC-068315-0-000-04-03-1971@@@
-
 DECRETO Nº 68.315, de 4 de março de 1971.
 
 Decreta intervenção federal no Município de Salvaterra, no Estado do Pará, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077116-0-000-06-02-1976@@@
-
 DECRETO Nº 77.116, DE 6 DE FEVEREIRO DE 1976.
 
 Estabelece diretrizes para a ação do Governo na área de Alimentação e Nutrição, aprova o Programa Nacional de Alimentação e Nutrição - PRONAN e dá outras providências.

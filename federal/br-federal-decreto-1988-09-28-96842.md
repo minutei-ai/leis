@@ -1,5 +1,3 @@
-###DEC-096842-0-000-28-09-1988@@@
-
 DECRETO Nº 96.842, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO DIFUSORA 26 DE ABRIL DE IMARUÍ LTDA., para explorar serviços de radiodifusão sonora em onda média, na Cidade de Imaruí, Estado de Santa Catarina.

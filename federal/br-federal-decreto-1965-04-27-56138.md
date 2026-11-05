@@ -1,5 +1,3 @@
-###DEC-056138-0-000-27-04-1965@@@
-
 DECRETO Nº 56.138, DE 27 DE ABRIL DE 1965.
 
 Concede à Jequitibá Companhia de Seguros Gerais autorização para funcionar e aprova e os seus Estatutos.

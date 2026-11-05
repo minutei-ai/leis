@@ -1,5 +1,3 @@
-###DEC-046201-0-000-11-06-1959@@@
-
 DECRETO Nº 46.201, DE 11 DE JUNHO DE 1959.
 
 Concede à Cia. Mercantil e Industrial Ingá, autorização para funcionar como emprêsa de mineração.

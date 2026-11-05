@@ -1,5 +1,3 @@
-###DEC-049496-0-000-10-12-1960@@@
-
 DECRETO Nº 49.496, DE 10 DE DEZEMBRO DE 1960.
 
 Cria um cargo no Quadro Permanente do Instituto do Açúcar e do Álcool e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074534-0-000-11-09-1974@@@
-
 DECRETO Nº 74.534, DE 11 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Biológicas de Araras, mantida pela Fundação regional de Ensino Superior, com sede na cidade de Araras, Estado de São Paulo.

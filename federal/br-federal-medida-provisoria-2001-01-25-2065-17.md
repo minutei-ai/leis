@@ -1,5 +1,3 @@
-###MPV-002065-0-017-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.065-17, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a Cédula de Crédito Bancário.

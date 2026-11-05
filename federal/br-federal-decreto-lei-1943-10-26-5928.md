@@ -1,5 +1,3 @@
-###DEL-005928-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.928 – DE 26 DE OUTUBRO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 95.000,00 para pagamento de honorários a professores da Escola de Enfermeiros Alfredo Pinto.

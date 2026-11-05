@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212714)<br>
-
 # LEI N° 18.479, DE 09 DE JUNHO DE 2026
 
 ## (Projeto de lei n° 486/2024, do Deputado Itamar Borges – MDB)

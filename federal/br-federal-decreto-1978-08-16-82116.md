@@ -1,5 +1,3 @@
-###DEC-082116-0-000-16-08-1978@@@
-
 Decreto nº 82.116, de 16 de agosto de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos e benfeitorias necessários à ampliação da área das instalações e vias de circulação do Porto de Santos, localizadas na região da Ponta da Praia, Estado de São Paulo, e dá outras providências.

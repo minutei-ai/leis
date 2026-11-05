@@ -1,5 +1,3 @@
-###DEC-057767-0-000-09-02-1966@@@
-
 DECRETO Nº 57.767, DE 9 DE FEVEREIRO DE 1966.
 
 Prorroga até 31 de dezembro de 1966 na suspensão temporária da cobrança das obrigações mencionadas nos Decretos ns. 56.621 e 56.789, respectivamente de 29 de julho e 26 de agôsto de 1965.

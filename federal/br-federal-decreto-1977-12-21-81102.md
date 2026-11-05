@@ -1,5 +1,3 @@
-###DEC-081102-0-000-21-12-1977@@@
-
 DECRETO Nº 81.102, DE 21 DE DEZEMBRO DE 1977.
 
 Dá nova redação ao artigo 189 do Regulamento da Lei nº 6.251, de 8 de outubro de 1975, que institui normas gerais sobre desportos.

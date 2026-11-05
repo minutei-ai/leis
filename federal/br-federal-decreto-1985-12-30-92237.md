@@ -1,5 +1,3 @@
-###DEC-092237-0-000-30-12-1985@@@
-
 Decreto nº 92.237, de 30 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Rio Timbó", compreendido na referida área, no Município de Lebon Régis, no Estado de Santa Catarina, e dá outras providências.

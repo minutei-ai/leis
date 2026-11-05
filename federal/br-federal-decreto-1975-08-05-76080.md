@@ -1,5 +1,3 @@
-###DEC-076080-0-000-05-08-1975@@@
-
 DECRETO Nº 76.080 - de 5 de agosto de 1975
 
 Aprova o Regulamento do Departamento de Pesquisas e Desenvolvimento (DEPED).

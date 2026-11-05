@@ -1,5 +1,3 @@
-###DEC-051276-0-000-25-08-1961@@@
-
 Decreto Nº 51.276, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Mineração Po-Be-Mar Limitada autorização para funcionar como emprêsa de mineração.

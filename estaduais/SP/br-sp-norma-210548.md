@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210548)<br>
-
 # DECRETO N° 69.321, DE 22 DE JANEIRO DE 2025
 
 ### _Institui a Medalha "Cantídio Nogueira Sampaio" da Assessoria Policial Militar da Prefeitura do Município de São Paulo e dá providências correlatas._

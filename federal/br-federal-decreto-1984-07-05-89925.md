@@ -1,5 +1,3 @@
-###DEC-089925-0-000-05-07-1984@@@
-
 Decreto nº 89.925, de 05 de julho De 1984
 
 Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS e suas controladas a promoverem aumento de capital social.

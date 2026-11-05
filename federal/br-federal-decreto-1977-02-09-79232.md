@@ -1,5 +1,3 @@
-###DEC-079232-0-000-09-02-1977@@@
-
 DECRETO Nº 79.232, DE 09 DE FEVEREIRO DE 1977.
 
 Declara da utilidade pública, para fins de desapropriação, terreno necessário à ampliação da subestação de Ilhota da Centrais Elétricas do Sul do Brasil S.A. ELETROSUL, no Estado de Santa Catarina.

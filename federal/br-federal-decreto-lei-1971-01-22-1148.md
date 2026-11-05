@@ -1,5 +1,3 @@
-###DEL-001148-0-000-22-01-1971@@@
-
 # DECRETO-LEI Nº 1.148, DE 22 DE JANEIRO DE 1971
 
 Dá nova redação ao artigo 2º do Decreto-lei nº 1.144, de 31 de dezembro de 1970.

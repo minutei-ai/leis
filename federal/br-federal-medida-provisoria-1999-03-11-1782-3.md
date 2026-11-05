@@ -1,5 +1,3 @@
-###MPV-001782-0-003-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.782-3, DE 11 DE MARÇO DE 1999
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

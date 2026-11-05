@@ -1,14 +1,12 @@
-###DEC-042561-0-000-06-11-1957@@@
+**DECRETO Nº 42.561, DE 6 DE NOVEMDRO DE 1957.**
 
-<strong>DECRETO Nº 42.561, DE 6 DE NOVEMDRO DE 1957.</strong>
+***Altera o Regulamento para os Centros de Instrução de Oficinas para a Reserva da Marinha.***
 
-<em><strong>Altera o Regulamento para os Centros de Instrução de Oficinas para a Reserva da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento para os Centros de Instrução de Oficiais para a Reserva da Marinha aprovado pelo Decreto numérico 36.830, de 2 de fevereiro de 1955, para o fim de dar nova redação às alíneas <em>a</em>, <em>b</em>, <em>c</em>, e <em>d</em>, do art. 5º, ao art. 6º, às alíneas <em>a</em> e <em>b</em>, do art.10. As alíneas <em>d</em> e <em>f</em>, e § 1º do art. 14, ao art. 18, às alíneas <em>a</em> e <em>b</em> do artigo 19, ao parágrafo único do art. 26, ao art. 29 e alínea <em>b</em> de seu parágrafo único, aos arts.30, 31 e 32, à alínea <em>c</em> do art. 33, ao art. 34, ao parágrafo único do art. 35 e ao artigo 38, e acrescentar a alínea <em>g</em> ao artigo 14, a alínea <em>c</em> ao art. 19, os §§ 1º e 2º ao art. 34, a saber:
+**Art**. 1º Fica alterado o Regulamento para os Centros de Instrução de Oficiais para a Reserva da Marinha aprovado pelo Decreto numérico 36.830, de 2 de fevereiro de 1955, para o fim de dar nova redação às alíneas *a*, *b*, *c*, e *d*, do art. 5º, ao art. 6º, às alíneas *a* e *b*, do art.10. As alíneas *d* e *f*, e § 1º do art. 14, ao art. 18, às alíneas *a* e *b* do artigo 19, ao parágrafo único do art. 26, ao art. 29 e alínea *b* de seu parágrafo único, aos arts.30, 31 e 32, à alínea *c* do art. 33, ao art. 34, ao parágrafo único do art. 35 e ao artigo 38, e acrescentar a alínea *g* ao artigo 14, a alínea *c* ao art. 19, os §§ 1º e 2º ao art. 34, a saber:
 
 “Art. 5º......................................................................................................................................
 
@@ -98,11 +96,11 @@ c) não atingir a freqüência mínima estabelecida no Regimento Interno, não t
 
 f) falecimento”.
 
-“Art. 34 Os alunos desligados do CIORM, no primeiro ano do curso, por perda de matrícula, prestarão serviço militar, de acôrdo com a Lei do Serviço militar, em unidade de tropa ou Centro de Recrutas do Corpo de Fuzileiros Navais, salvo quando a perda de matrícula se der por fôrça das alíneas <em>b</em> e <em>f</em> do art. 33.
+“Art. 34 Os alunos desligados do CIORM, no primeiro ano do curso, por perda de matrícula, prestarão serviço militar, de acôrdo com a Lei do Serviço militar, em unidade de tropa ou Centro de Recrutas do Corpo de Fuzileiros Navais, salvo quando a perda de matrícula se der por fôrça das alíneas *b* e *f* do art. 33.
 
-§ 1º No caso dos alunos desligados do CIORM no segundo ano do curso, por perda de matrícula, salvo quando por fôrça das alíneas <em>b</em> e <em>f</em> do art. 33, aplicar-se-á o disposto no art. 103 da Lei do Serviço Militar.
+§ 1º No caso dos alunos desligados do CIORM no segundo ano do curso, por perda de matrícula, salvo quando por fôrça das alíneas *b* e *f* do art. 33, aplicar-se-á o disposto no art. 103 da Lei do Serviço Militar.
 
-§ 2º No caso dos alunos deslogados por força da alínea <em>b</em> do art. 54 da Lei do Serviço Militar.
+§ 2º No caso dos alunos deslogados por força da alínea *b* do art. 54 da Lei do Serviço Militar.
 
 “Art. 35. ...................................................................................................................................
 
@@ -110,12 +108,12 @@ Parágrafo único. Quanto embarcados ou aquartelados estarão sujeitos ao Regula
 
 “Art. 38. Enquanto no estagio escolar os alunos não perceberão vencimentos vantagens ou quaisquer gratificações durante o estagio de adaptação terão ao vencimentos e vantagens previstos para a sua graduação na lei que fixa os vencimentos dos militares e no Código de Conhecimentos dos Militares.
 
-Parágrafo único. Fica suprimida no Regulamento de que se trata a alínea <em>c</em> do art. 29.
+Parágrafo único. Fica suprimida no Regulamento de que se trata a alínea *c* do art. 29.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposicões em contrario.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposicões em contrario.
 
 Rio de Janeiro, em 6 de dezembro de 1957; 136º da Independencia e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antonio Alves Câmara

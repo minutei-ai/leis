@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ae52b757-28d8-44a8-9b1a-63d302a6416d/texto#nowhere)
 
-###DEL-001901-0-000-22-12-1981@@@
-
 # Decreto-lei nº 1.901, de 22 de dezembro de 1981.
 
 Fixa o valor do soldo base do cálculo da remuneração dos militares, extingue gratificações e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001063-0-000-27-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.063, DE 27 DE JULHO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

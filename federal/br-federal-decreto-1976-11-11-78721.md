@@ -1,5 +1,3 @@
-###DEC-078721-0-000-11-11-1976@@@
-
 DECRETO Nº 78.721, DE 11 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno contíguo ao Campo de Lançamento de Foguetes da Barreira do Inferno - CLFBI, no Estado de Rio Grande do Norte, necessário ao Ministério da Aeronáutica.

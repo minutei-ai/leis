@@ -1,5 +1,3 @@
-###DEC-067073-0-000-18-08-1970@@@
-
 Decreto nº 67.073, de 18 de agôsto de 1970.
 
 Declara de utilidade pública o Centro Juvenil São Carlos, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-003327-0-000-04-06-1941@@@
-
 DECRETO-LEI N. 3.327 – DE 4 DE JUNHO DE 1941
 
 Altera as carreiras de Artífice e Operário de Artes Gráficas do Quadro Suplementar do Ministério da Fazenda.

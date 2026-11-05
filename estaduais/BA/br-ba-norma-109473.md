@@ -10,7 +10,8 @@ Art. 2º - A estrutura de cargos em comissão da Secretaria da Saúde fica acres
 
 Art. 3º - Ficam criados na estrutura de cargos em comissão do Departamento Estadual de Trânsito - DETRAN, autarquia vinculada à Secretaria da Segurança Pública, 01 (um) cargo de Coordenador II, símbolo DAS-3, 01 (um) cargo de Coordenador IV, símbolo DAI-5, e 02 (dois) cargos de Coordenador V, símbolo DAI-6.
 
-Ver também:<br>
+Ver também:
+
 [Art. 6º da Lei nº 9.427, de 01 de fevereiro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9427-de-01-de-fevereiro-de-2005#LO_9_427_Art__6) : Fica modificada, na estrutura de cargos em comissão do Departamento Estadual de Trânsito - DETRAN, vinculado à Secretaria da Segurança Pública, a nomenclatura de 01 (um) dos dois cargos de Coordenador V, símbolo DAI-6, criados pelo art. 3º da Lei nº 8.254, de 08 de maio de 2002, passando este a denominar-se Assistente V, de igual símbolo.
 
 Art. 4º - As despesas decorrentes da aplicação desta Lei correrão por conta dos recursos constantes do orçamento em exercício, ficando o Poder Executivo autorizado a promover as alterações orçamentárias que se fizerem necessárias.

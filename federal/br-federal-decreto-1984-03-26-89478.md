@@ -1,5 +1,3 @@
-###DEC-089478-0-000-26-03-1984@@@
-
 Decreto nº 89.478, de 26 de março de 1984.
 
 Dispõe sobre o limite do Capital Autorizado da Goiás Fertilizantes S.A. - GOIASFÉRTIL.

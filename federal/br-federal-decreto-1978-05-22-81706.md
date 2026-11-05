@@ -1,5 +1,3 @@
-###DEC-081706-0-000-22-05-1978@@@
-
 Decreto nº 81 706 de 22 de maio de 1978
 
 Aprova a incorporação de bens ao patrimônio da Empresa Brasileira de Radiodifusão - RADIOBRÁS.

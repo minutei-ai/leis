@@ -1,5 +1,3 @@
-###DEC-092833-0-000-26-06-1986@@@
-
 DECRETO Nº 92.833, DE 26 DE JUNHO DE 1986
 
 Cria Comissão Interministerial e Comissão de Honra do Projeto Brasil-França.

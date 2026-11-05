@@ -1,5 +1,3 @@
-###DEC-073034-0-000-30-10-1973@@@
-
 DECRETO Nº 73.034, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Difusora Riopretense Sociedade Anônima, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São José do Rio Preto, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-075473-0-000-12-03-1975@@@
-
 DECRETO Nº 75.473, DE 12 DE MARÇO DE 1975.
 
 Dispõe sobre o pagamento da gratificação de representação por exercício no Gabinete da Secretaria Geral do Conselho de Segurança Nacional.

@@ -1,5 +1,3 @@
-###DEL-009456-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.456 – DE 12 DE JULHO DE 1946
 
 Abre ao Ministério da Relações exteriores um crédito de Cr$ 350.000,00 suplementar à verba que especifica

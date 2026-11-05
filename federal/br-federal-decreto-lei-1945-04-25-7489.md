@@ -1,5 +1,3 @@
-###DEL-007489-0-000-25-04-1945@@@
-
 DECRETO-LEI N. 7.489 – DE 25 DE ABRIL DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 256.960,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-001107-0-000-12-04-1994@@@
-
 DECRETO N° 1.107, DE 12 DE ABRIL DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

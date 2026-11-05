@@ -1,6 +1,10 @@
 > **LEI Nº 4.782, DE 01 DE ABRIL DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Programa Estadual de Atualização Cadastral do Rebanho Bovino e Bubalino do Acre - Rebanho Certo/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Programa Estadual de Atualização Cadastral do Rebanho Bovino e Bubalino do Acre - Rebanho Certo/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,6 +1,10 @@
 > **LEI Nº 3.648, DE 10 DE SETEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui no âmbito do Estado e insere no Calendário Oficial de Eventos do Acre a Quinzena de Agosto Lilás, com a finalidade de desenvolver ações efetivas no combate à violência contra a mulher e de promover a divulgação da Lei Federal nº 11.340, de 7 de agosto de 2006.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui no âmbito do Estado e insere no Calendário Oficial de Eventos do Acre a Quinzena de Agosto Lilás, com a finalidade de desenvolver ações efetivas no combate à violência contra a mulher e de promover a divulgação da Lei Federal nº 11.340, de 7 de agosto de 2006.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

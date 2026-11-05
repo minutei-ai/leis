@@ -1,5 +1,3 @@
-###DEL-003619-0-000-16-09-1941@@@
-
 DECRETO-LEI N. 3.619 – DE 16 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 227:700$0, para atender às despesas que especifica

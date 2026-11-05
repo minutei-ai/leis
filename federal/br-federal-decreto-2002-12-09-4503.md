@@ -1,5 +1,3 @@
-###DEC-004503-0-000-09-12-2002@@@
-
 DECRETO Nº 4.503, DE 9 DE DEZEMBRO DE 2002
 
 Revoga o inciso I do art. 29 do Decreto n3.965, de 10 de outubro de 2001, que institui o Serviço de Retransmissão de Televisão e o Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

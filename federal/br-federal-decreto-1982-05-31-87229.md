@@ -1,5 +1,3 @@
-###DEC-087229-0-000-31-05-1982@@@
-
 Decreto nº 87.229, de 31 de maio de 1982
 
 Revoga a autorização concedida à empresa IMPRESIT GIROLA LODIGIANI (IMPREGILO) S.p.A para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-082263-0-000-13-09-1978@@@
-
 Decreto nº 82 263, de 13 de setembro de 1978.
 
 Dá nova denominação aos atuais Parques Nacionais do Xingu e de Tumucumaque.

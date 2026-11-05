@@ -1,5 +1,3 @@
-###DEC-007188-0-000-27-05-2010@@@
-
 DECRETO Nº 7.188, DE 27 DE MAIO DE 2010.
 
 Regulamenta a Lei no 12.158, de 28 de dezembro de 2009, que dispõe sobre o acesso às graduações superiores de militares oriundos do Quadro de Taifeiros da Aeronáutica
@@ -130,7 +128,25 @@ CLÁUSULA QUARTA: Declaro estar ciente e concordo que os efeitos financeiros dec
 
 Por estar de acordo, assino o presente Termo para que produza os efeitos devidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:10.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:100.15pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">___________ -</span></p></td><td style="width:49.65pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____,</span></p></td><td style="width:38.25pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____/</span></p></td><td style="width:71pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________/</span></p></td><td style="width:70.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________</span></p></td></tr><tr><td style="width:10.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:100.15pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Local)</span></p></td><td style="width:49.65pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(UF)</span></p></td><td style="width:38.25pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Dia)</span></p></td><td style="width:71pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Mês)</span></p></td><td style="width:70.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ano)</span></p></td></tr></tbody></table>
+___________ -
+
+____,
+
+____/
+
+_________/
+
+_________
+
+(Local)
+
+(UF)
+
+(Dia)
+
+(Mês)
+
+(Ano)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -174,7 +190,25 @@ CLÁUSULA QUARTA: Declaro estar ciente e concordo que os efeitos financeiros dec
 
 Por estar de acordo, assino o presente Termo para que produza os efeitos devidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:10.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:139.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________________ -</span></p></td><td style="width:35.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____,</span></p></td><td style="width:35.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____/</span></p></td><td style="width:65.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________/</span></p></td><td style="width:110pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________</span></p></td></tr><tr><td style="width:10.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:139.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Local)</span></p></td><td style="width:35.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(UF)</span></p></td><td style="width:35.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Dia)</span></p></td><td style="width:65.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Mês)</span></p></td><td style="width:110pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ano)</span></p></td></tr></tbody></table>
+_________________ -
+
+____,
+
+____/
+
+_________/
+
+_________
+
+(Local)
+
+(UF)
+
+(Dia)
+
+(Mês)
+
+(Ano)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -182,7 +216,25 @@ Assinatura
 
 ANEXO III
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:10.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:159.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____________________ -</span></p></td><td style="width:33.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____,</span></p></td><td style="width:37.15pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____ de</span></p></td><td style="width:58.2pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________ de</span></p></td><td style="width:105.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________</span></p></td></tr><tr><td style="width:10.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:159.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Local)</span></p></td><td style="width:33.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(UF)</span></p></td><td style="width:37.15pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Dia)</span></p></td><td style="width:58.2pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Mês)</span></p></td><td style="width:105.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ano)</span></p></td></tr></tbody></table>
+____________________ -
+
+____,
+
+____ de
+
+_________ de
+
+_________
+
+(Local)
+
+(UF)
+
+(Dia)
+
+(Mês)
+
+(Ano)
 
 Do \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -216,7 +268,25 @@ Assinatura                       
 
 ANEXO IV
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:9.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:172.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_____________________ -</span></p></td><td style="width:33.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____,</span></p></td><td style="width:37pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">____ de</span></p></td><td style="width:57.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________ de</span></p></td><td style="width:129pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________</span></p></td></tr><tr><td style="width:9.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:172.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Local)</span></p></td><td style="width:33.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(UF)</span></p></td><td style="width:37pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Dia)</span></p></td><td style="width:57.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Mês)</span></p></td><td style="width:129pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ano)</span></p></td></tr></tbody></table>
+_____________________ -
+
+____,
+
+____ de
+
+_________ de
+
+_________
+
+(Local)
+
+(UF)
+
+(Dia)
+
+(Mês)
+
+(Ano)
 
 Do \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

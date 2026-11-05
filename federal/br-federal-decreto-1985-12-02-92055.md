@@ -1,5 +1,3 @@
-###DEC-092055-0-000-02-12-1985@@@
-
 Decreto nº 92.055, de 02 de dezembro de 1985
 
 Autoriza o Lloyds Bank Plc, como sucessor do Lloyds Bank Internacional Limited, a funcionar no Brasil e dá outras providências.

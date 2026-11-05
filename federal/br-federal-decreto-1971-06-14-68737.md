@@ -1,5 +1,3 @@
-###DEC-068737-0-000-14-06-1971@@@
-
 DECRETO Nº 68.737 - DE 14 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Lar Alice Kinsolving com sede em Viamão, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-057475-0-000-20-12-1965@@@
-
 DECRETO Nº 57.475, DE 20 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública o “Instituto Maria Auxiliadora”, com sede em Barretos, Estado de São Paulo.

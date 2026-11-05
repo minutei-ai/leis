@@ -1,5 +1,3 @@
-###DEC-070370-0-000-05-04-1972@@@
-
 DECRETO Nº 70.370, DE 5 DE ABRIL DE 1972.
 
 Cria a Comissão de Coordenação das Atividades de Processamento Eletrônico, e dá outras providências.

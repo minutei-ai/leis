@@ -1,5 +1,3 @@
-###DEC-048357-0-000-21-06-1960@@@
-
 DECRETO Nº 48.357, DE 21 DE JUNHO DE 1960.
 
 Renova o Decreto nº 42.078, de 19 agôsto de 1957.

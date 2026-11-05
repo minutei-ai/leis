@@ -1,5 +1,3 @@
-###DEC-070925-0-000-03-08-1972@@@
-
 DECRETO Nº 70.925, DE 3 DE AGOSTO DE 1972.
 
 Altera o Regulamento da Administração do Aeroporto Internacional de Brasília.

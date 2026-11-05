@@ -1,5 +1,3 @@
-###MPV-002041-0-007-28-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.041-7, DE 28 DE JUNHO DE 2000.
 
 Assegura percepção de gratificação por servidores da Carreira Policial Federal, e dá outras providências.

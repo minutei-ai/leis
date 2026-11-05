@@ -1,24 +1,22 @@
-###DEC-052102-0-000-11-06-1963@@@
+**DECRETO Nº 52.102, DE 11 DE JUNHO DE 1963.**
 
-<strong>DECRETO Nº 52.102, DE 11 DE JUNHO DE 1963.</strong>
+***Dispõe sôbre o Serviço Nacional do Município (SENAM), criado pelo Decreto Nº 50.334, de 11 de março de 1961 diretamente subordinado à Presidência da República , à “Casa dos Municípios e**dá outras providências.***
 
-<em><strong>Dispõe sôbre o Serviço Nacional do Município (SENAM), criado pelo Decreto Nº 50.334, de 11 de março de 1961 diretamente subordinado à Presidência da República , à “Casa dos Municípios e</strong></em> <em><strong>dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I , da Constituição ,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I , da Constituição ,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Serviço Nacional do Município (SENAM), , criado pelo Decreto nº 50.334 , de 11 de março de 1961, permanece, nos têrmos do Decreto nº 1.486, de 07 de novembro de 1962, diretamente subordinado à Presidência da República, até que sua organização definitiva seja expressa em Lei.
 
-<strong>Art</strong>. 1º O Serviço Nacional do Município (SENAM), , criado pelo Decreto nº 50.334 , de 11 de março de 1961, permanece, nos têrmos do Decreto nº 1.486, de 07 de novembro de 1962, diretamente subordinado à Presidência da República, até que sua organização definitiva seja expressa em Lei.
-
-<strong>Art</strong>. 2º O SENAM será dirigido por um Diretor-Geral e utilizará, em princípio, pessoal requisitado do serviço público da União, dos Estados , das Autarquias , dos Municípios e das Sociedades de Economia Mista.
+**Art**. 2º O SENAM será dirigido por um Diretor-Geral e utilizará, em princípio, pessoal requisitado do serviço público da União, dos Estados , das Autarquias , dos Municípios e das Sociedades de Economia Mista.
 
 § 1º Poderá também contratar, dentro dos recursos que lhe forem atribuídos , pessoal especializado e administrativo, para trabalhos específicos, o qual ficará sujeito às normas da legislação trabalhista.
 
-§ 2º A contratação de pessoal deverá ser precedida da aprovação, pelo Presidente da República, de tabelas que serão publicadas no <em>Diário Oficial</em>.
+§ 2º A contratação de pessoal deverá ser precedida da aprovação, pelo Presidente da República, de tabelas que serão publicadas no *Diário Oficial*.
 
-<strong>Art</strong>. 3º O Serviço Nacional do município (SENAM), sediado na Capital da República, tem por finalidade estreita colaboração com os demais órgãos federais e estaduais, estudar e propor diretrizes para o desenvolvimento dos municípios , por tendo para isso, elaborar projetos que lhe forem atribuídos ou solicitados.
+**Art**. 3º O Serviço Nacional do município (SENAM), sediado na Capital da República, tem por finalidade estreita colaboração com os demais órgãos federais e estaduais, estudar e propor diretrizes para o desenvolvimento dos municípios , por tendo para isso, elaborar projetos que lhe forem atribuídos ou solicitados.
 
-<strong>Art</strong>. 4º Consideradas as atribuições próprias do Ministérios e demais órgãos e entidades federais, bem como as das Secretarias e órgãos estaduais, a fim de evitar o dobramento de serviços ou a execução de tarefas que não lhe incumbe ao SENAM:
+**Art**. 4º Consideradas as atribuições próprias do Ministérios e demais órgãos e entidades federais, bem como as das Secretarias e órgãos estaduais, a fim de evitar o dobramento de serviços ou a execução de tarefas que não lhe incumbe ao SENAM:
 
 I - Estabelecer audiências das autoridades municipais e os Poderes Executivo e Legislativo;
 
@@ -60,7 +58,7 @@ XVIII - Organizar e manter um cadastro completo da situação e necessidade prio
 
 XIX - Colaborar com os govêrnos estaduais quando solicitado.
 
-<strong>Art</strong>. 5º Ao Diretor-Geral incumbe:
+**Art**. 5º Ao Diretor-Geral incumbe:
 
 I - Dirigir os trabalhos do órgão;
 
@@ -78,7 +76,7 @@ VII - Regulamentar o funcionamento da “Casa dos Municípios”;
 
 VIII - Apresentar, até 20 de janeiro de cada ano, relatório das atividades do SENAM no exercício anterior.
 
-<strong>Art</strong>. 6º O Serviço Nacional dos Municípios (SENAM) manterá, até que sua organização definitiva seja expressa em lei, a seguinte estrutura:
+**Art**. 6º O Serviço Nacional dos Municípios (SENAM) manterá, até que sua organização definitiva seja expressa em lei, a seguinte estrutura:
 
 a) Gabinete do Diretor-Geral - (GDG);
 
@@ -92,16 +90,16 @@ e) Delegacias Estaduais - (DEL);
 
 f) Casa dos Municípios - (CM);
 
-<strong>Art</strong>. 7º As Delegacias nos Estados serão instaladas de acôrdo com as necessidades dos municípios e as possibilidades do SENAM, por iniciativa do Diretor-Geral.
+**Art**. 7º As Delegacias nos Estados serão instaladas de acôrdo com as necessidades dos municípios e as possibilidades do SENAM, por iniciativa do Diretor-Geral.
 
-<strong>Art</strong>. 8º A “Casa dos Municípios” é a sede do Serviço Nacional dos Municípios (SENAM) e poderá servir de endereço, alojamento e escritório das autoridades municipais em trânsito na capital federal a serviço de suas Prefeituras e Câmaras.
+**Art**. 8º A “Casa dos Municípios” é a sede do Serviço Nacional dos Municípios (SENAM) e poderá servir de endereço, alojamento e escritório das autoridades municipais em trânsito na capital federal a serviço de suas Prefeituras e Câmaras.
 
 § 1º Caberá ao Diretor-Geral do SENAM promover e executa tôdas as providências necessárias ao planejamento da aquisição de prédio ou construção, organização, aparelhamento e administração da “Casa dos Municípios”.
 
 § 2º Fica revogado o Decreto número 1.196, de 19 de junho de 1962.
 
-<strong>Art</strong>. 9º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, Distrito Federal, em 11 de junho de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**

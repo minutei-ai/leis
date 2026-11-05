@@ -1,5 +1,3 @@
-###DEL-007681-0-000-27-06-1945@@@
-
 DECRETO-LEI N. 7.681 – DE 27 DE Junho DE 1945
 
 Abre ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 786.000,00 à verba que especifica

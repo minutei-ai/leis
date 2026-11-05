@@ -1,5 +1,3 @@
-###DEC-078309-0-000-25-08-1976@@@
-
 DECRETO Nº 78.309, DE 25 DE AGOSTO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Progresso de Juazeiro S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Juazeiro do Norte, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-081193-0-000-09-01-1978@@@
-
 Decreto nº 81.193, de 9 de janeiro de 1978.
 
 Cria Consulados Honorários do Brasil no Japão.

@@ -1,5 +1,3 @@
-###DEC-097460-0-000-15-01-1989@@@
-
 DECRETO Nº 97.460, DE 15 DE JANEIRO DE 1989
 
 Dispõe sobre a composição dos conselhos de administração, fiscal e curador e diretorias executivas das entidades estatais que menciona.

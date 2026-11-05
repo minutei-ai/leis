@@ -1,5 +1,3 @@
-###DEC-078551-0-000-11-10-1976@@@
-
 DECRETO Nº 78.551, DE 11 DE OUTUBRO DE 1976
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado de São Paulo.

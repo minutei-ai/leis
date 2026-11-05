@@ -1,5 +1,3 @@
-###DEL-009488-0-000-19-07-1946@@@
-
 DECRETO-LEI N. 9.488 – DE 19 DE JULHO DE 1946
 
 Declara feriado nacional o dia 29 de julho de 1946 e dá outras providências.

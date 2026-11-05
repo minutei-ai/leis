@@ -1,5 +1,3 @@
-###DEC-047274-0-000-20-11-1959@@@
-
 DECRETO Nº 47.274, 20 DE NOVEMBRO DE 1959.
 
 Outorga concessão à Rádio Clube de Patos Sociedade Anônima para instalar uma radiodifusora.

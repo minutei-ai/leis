@@ -20,8 +20,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, retroagindo seus e
 
 Goiânia, 3 de maio de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -30,4 +28,42 @@ DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS
 
 **ANEXO ÚNICO**
 
-<table style="width: 79.9835%;"><tbody><tr><td style="width: 31.1573%; text-align: center;"><strong>CARGO</strong></td><td style="width: 18.1181%; text-align: center;"><strong>Subsídio Atual</strong></td><td style="width: 18.323%; text-align: center;"><strong>Subsídio a partir de 1º de abril de 2023</strong></td><td style="width: 16.6667%; text-align: center;"><strong>Subsídio a partir de 1º de fevereiro de 2024</strong></td><td style="width: 15.735%; text-align: center;"><strong>Subsídio a partir de 1º de fevereiro de 2025</strong></td></tr><tr><td style="width: 31.1573%;">Defensor Público de Primeira Categoria</td><td style="width: 18.1181%; text-align: center;">R$ 35.461,17</td><td style="width: 18.323%; text-align: center;">R$ 37.588,84</td><td style="width: 16.6667%; text-align: center;">R$ 39.716,51</td><td style="width: 15.735%; text-align: center;">R$ 41.844,18</td></tr><tr><td style="width: 31.1573%;">Defensor Público de Segunda Categoria</td><td style="width: 18.1181%; text-align: center;">R$ 33.688,11</td><td style="width: 18.323%; text-align: center;">R$ 35.709,40</td><td style="width: 16.6667%; text-align: center;">R$ 37.730,68</td><td style="width: 15.735%; text-align: center;">R$ 39.751,97</td></tr><tr><td style="width: 31.1573%;">Defensor Público de Terceira Categoria</td><td style="width: 18.1181%; text-align: center;">R$ 32.003,70</td><td style="width: 18.323%; text-align: center;">R$ 33.923,92</td><td style="width: 16.6667%; text-align: center;">R$ 35.844,14</td><td style="width: 15.735%; text-align: center;">R$ 37.764,37</td></tr></tbody></table>
+**CARGO**
+
+**Subsídio Atual**
+
+**Subsídio a partir de 1º de abril de 2023**
+
+**Subsídio a partir de 1º de fevereiro de 2024**
+
+**Subsídio a partir de 1º de fevereiro de 2025**
+
+Defensor Público de Primeira Categoria
+
+R$ 35.461,17
+
+R$ 37.588,84
+
+R$ 39.716,51
+
+R$ 41.844,18
+
+Defensor Público de Segunda Categoria
+
+R$ 33.688,11
+
+R$ 35.709,40
+
+R$ 37.730,68
+
+R$ 39.751,97
+
+Defensor Público de Terceira Categoria
+
+R$ 32.003,70
+
+R$ 33.923,92
+
+R$ 35.844,14
+
+R$ 37.764,37

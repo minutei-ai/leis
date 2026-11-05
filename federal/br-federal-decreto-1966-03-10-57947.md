@@ -1,5 +1,3 @@
-###DEC-057947-0-000-10-03-1966@@@
-
 DECRETO Nº 57.947, de 10 de março de 1966.
 
 Autoriza o cidadão brasileiro Sílvio Beneduzzi a lavras feldspato e quartzo no município de Monte Sião no Estado de Minas Gerais.

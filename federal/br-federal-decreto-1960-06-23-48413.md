@@ -1,5 +1,3 @@
-###DEC-048413-0-000-23-06-1960@@@
-
 DECRETO Nº 48.413, DE 23 DE JUNHO DE 1960.
 
 Declara públicas de uso comum, do domínio do Estado de Minas Gerais, as águas do rio Água Limpa.

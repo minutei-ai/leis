@@ -1,5 +1,3 @@
-###DEC-080951-0-000-07-12-1977@@@
-
 Decreto nº 80.951, de 07 de dezembro de 1977.
 
 Concede a Manoel José Jorge, Firma Individual, o direito de lavrar calcário no Município de Rio Pardo, Estado do Rio Grande do Sul.

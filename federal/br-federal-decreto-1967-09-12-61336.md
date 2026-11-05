@@ -1,5 +1,3 @@
-###DEC-061336-0-000-12-09-1967@@@
-
 decreto nº 61.336, de 12 de setembro de 1967.
 
 Altera o artigo 60 e revoga o artigo 61, e os artigos 65 a 73 e respectivos parágrafos, do Decreto nº 59.832, de 21 de dezembro de 1966.

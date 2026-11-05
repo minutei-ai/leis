@@ -1,5 +1,3 @@
-###DEC-082543-0-000-01-11-1978@@@
-
 Decreto nº 82.543, de 01 de novembro de 1978.
 
 Retifica a concessão da lavra outorgada à COPACAL S.A. - Mineração e Comércio pelo Decreto nº 64.504, de 14 de maio de 1969, retificado pelo Decreto nº 80.287, de 05 de setembro de 1977.

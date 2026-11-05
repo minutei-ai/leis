@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 344/2024 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004040517.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004040517.
 
 **RESOLVE:**
 
@@ -12,15 +12,13 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 26 dias do mês de Junho de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| **1600 - SECRETARIA DE ESTADO DA CASA MILITAR** **1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR** |
+| **1600 - SECRETARIA DE ESTADO DA CASA MILITAR1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR** |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
 | 04 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 90 |
 | **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |

@@ -1,5 +1,3 @@
-###DEC-059875-0-000-26-12-1966@@@
-
 DECRETO Nº 59.875, DE 26 DE DEZEMBRO DE 1966.
 
 Expede normas para eleições de representantes classistas nos órgãos colegiados da previdência social e dá o outras providencias.

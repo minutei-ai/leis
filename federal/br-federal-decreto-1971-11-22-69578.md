@@ -1,5 +1,3 @@
-###DEC-069578-0-000-22-11-1971@@@
-
 DECRETO Nº 69.578 - DE 22 DE NOVEMBRO DE 1971
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no município de Poços de Caldas, Estados de Minas Gerais.

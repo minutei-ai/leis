@@ -1,5 +1,3 @@
-###DEL-000070-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 70 – DE 16 DE DEZEMBRO DE 1937
 
 Suspende as consignações em folha do funcionalismo federal, relativas ao mês de dezembro de 1937

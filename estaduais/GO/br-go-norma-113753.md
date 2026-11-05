@@ -12,8 +12,10 @@ Goiânia, 7 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-VIRMONDES CRUVINEL<br>
+VIRMONDES CRUVINEL
+
 Deputado Estadual

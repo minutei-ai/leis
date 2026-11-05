@@ -1,5 +1,3 @@
-###DEC-062290-0-000-21-02-1968@@@
-
 DECRETO Nº 62.290, de 21 DE FEVEREIRO DE 1968.
 
 Delega ao Presidente do IPASE competência para expedir novo Regimento para o Hospital dos Servidores do Estado, revoga o parágrafo único do artigo 10 do Decreto número 36.952, de 24 de fevereiro de 1955 e dá outras providências.

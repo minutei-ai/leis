@@ -1,5 +1,3 @@
-###DEC-084786-0-000-12-06-1980@@@
-
 Decreto nº 84.786, de 12 de junho de 1980.
 
 Autoriza a transferência da sub-rogação das obrigações, instituídas pelo Decreto-lei nº 5.123, de 21 de dezembro de 1942.

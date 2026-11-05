@@ -1,14 +1,12 @@
-###DEC-072211-0-000-11-05-1973@@@
+**DECRETO Nº 72.211, DE 11 DE MAIO DE 1973.**
 
-<strong>DECRETO Nº 72.211, DE 11 DE MAIO DE 1973.</strong>
+***Redistribui cargos, com os respectivos ocupantes, e dá outras providências.***
 
-<em><strong>Redistribui cargos, com os respectivos ocupantes, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto nos artigos 99, § 2º, do Decreto-lei nº 200, de 25 de fevereiro de 1967, e 2º, do Ato Complementar nº 52, de 2 de maio de 1969,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto nos artigos 99, § 2º, do Decreto-lei nº 200, de 25 de fevereiro de 1967, e 2º, do Ato Complementar nº 52, de 2 de maio de 1969,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam redistribuídos os seguintes cargos com os respectivos ocupantes, na forma abaixo indicada:
+**Art**. 1º Ficam redistribuídos os seguintes cargos com os respectivos ocupantes, na forma abaixo indicada:
 
 I - do Quadro de Pessoal - Parte Permanente - do Ministério das Relações Exteriores para idênticos Quadro e Parte do Ministério da Industria e do Comércio, um cargo de Economista, Código TC-501.21-B, ocupado por Benedito Fonseca Moreira;
 
@@ -16,7 +14,7 @@ II - do Quadro de Pessoal - Parte Permanente - do Ministério das Relações Ext
 
 III - do Quadro de Pessoal - Partes Permanente e Especial - do Ministério da Agricultura para o Quadro de Pessoal - Parte Permanente - da Superintendência Nacional do Abastecimento, mantido o regime jurídico dos servidores:
 
-a) <em>da Parte Permanente</em>
+a) *da Parte Permanente*
 
 3 (três) cargos de Escriturário, código AF-202.8-A, ocupados por Antonieta Trisuzzi Moritz Sohon, Mary Rose Machado e Maria Nilda Rolim Cabral;
 
@@ -32,7 +30,7 @@ a) <em>da Parte Permanente</em>
 
 4 (quatro) cargos de Escrevente-Datilógrafo, código AF-204.7, ocupados por Antônio José da Silva, Jayme Gomes, Lais França de Albuquerque e Leonel Dias Leal;
 
-b) <em>da Parte Especial</em>
+b) *da Parte Especial*
 
 3 (três) cargos de Escrevente-Datilógrafo, código AF-204.7, ocupados por Iza Brito da Cunha, Maria Queiroz e Suely Cyllios Rios;
 
@@ -54,7 +52,7 @@ XI - do Quadro de Pessoal - Parte Permanente - do Ministério da Educação e Cu
 
 XII - do Quadro de Pessoal - Partes Permanente e Especial do Ministério da Educação e Cultura para o Quadro de Único de Pessoal da Universidade Federal da Bahia, mantido o regime jurídico dos servidores:
 
-a) <em>da Parte Permanente</em>
+a) *da Parte Permanente*
 
 3 (três) cargos de Servente, código GL-104.5, ocupados por João Alves da Silva, Ricardo Bispo dos Santos e Sifrônio Custodio dos Santos;
 
@@ -68,7 +66,7 @@ a) <em>da Parte Permanente</em>
 
 1 (um) cargo de Motorista, código CT-401.10-B, ocupado por José Lopes;
 
-b) <em>da Parte Especial</em>
+b) *da Parte Especial*
 
 1 (um) cargo de Professor de Cursos Isolados, código EC-521.15, ocupado por Maria Tereza Reis de Azevedo Coutinho;
 
@@ -112,17 +110,17 @@ XVIII - do Quadro de Pessoal - Parte Permanente - do Instituto de Previdência e
 
 XIX - do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura para idênticos Quadro e Parte do Departamento Nacional de Obras Contra as Secas, um cargo de Escriturário, código AF-202.8-A, ocupado por Élcias Fernandes de Souza, mantido o regime jurídico do servidor.
 
-<strong>Art</strong>. 2º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento, venha a ser considerada nula, ilegal ou contrária às normas administrativas em vigor.
+**Art**. 2º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento, venha a ser considerada nula, ilegal ou contrária às normas administrativas em vigor.
 
-<strong>Art</strong>. 3º Os ocupantes dos cargos ora redistribuídos continuarão a perceber seus vencimentos e vantagens pelos órgãos de origem, até que os orçamentos dos órgãos para onde foram os cargos movimentados consignem os recursos necessários ao pagamento das despesas resultantes do cumprimento do disposto neste ato.
+**Art**. 3º Os ocupantes dos cargos ora redistribuídos continuarão a perceber seus vencimentos e vantagens pelos órgãos de origem, até que os orçamentos dos órgãos para onde foram os cargos movimentados consignem os recursos necessários ao pagamento das despesas resultantes do cumprimento do disposto neste ato.
 
-<strong>Art</strong>. 4º Os assentamentos funcionais dos servidores mencionados no artigo 1º serão enviados, no prazo de 30 (trinta) dias, a contar da publicação deste decreto, aos órgãos de pessoal dos Ministérios e Autarquias respectivos.
+**Art**. 4º Os assentamentos funcionais dos servidores mencionados no artigo 1º serão enviados, no prazo de 30 (trinta) dias, a contar da publicação deste decreto, aos órgãos de pessoal dos Ministérios e Autarquias respectivos.
 
-<strong>Art</strong>. 5º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de maio de 1973; 152º da Independência e 85º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Alfredo Buzaid
 

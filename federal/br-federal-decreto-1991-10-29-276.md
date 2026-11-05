@@ -1,7 +1,3 @@
-1
-
-###DEC-000276-0-000-29-10-1991@@@
-
 DECRETO N° 276, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrati­va da Área Indigena Taunay‑lpegue, no Es­tado do Mato Grosso do Sul.

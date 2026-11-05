@@ -1,5 +1,3 @@
-###DEC-088468-0-000-04-07-1983@@@
-
 Decreto nº 88.468, de 04 de julho de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de trechos de linhas de transmissão da Companhia Paulista de Força Luz - CPFL, no Estado de São Paulo.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ef97f2a3-b7a0-4079-8f5b-2f67b1a55415/texto#nowhere)
 
-###DEL-001059-0-000-21-10-1969@@@
-
 DECReto-LEI Nº 1.059, DE 21 DE outubro DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Fazenda, em favor da Secretaria da Receita Federal, o crédito especial de NCr$5.621.162,00, para o fim que especifica.

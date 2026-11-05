@@ -2,7 +2,11 @@ Modificada pelas Leis nº [3.657, de 11 de Dezembro de 2020;](https://legis.ac.g
 
 > **LEI Nº 3.549, DE 02 DE DEZEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Regime de Previdência Complementar do Estado para os servidores titulares de cargos efetivos, inclusive os membros dos órgãos e Poderes que menciona; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Regime de Previdência Complementar do Estado para os servidores titulares de cargos efetivos, inclusive os membros dos órgãos e Poderes que menciona; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -28,8 +32,6 @@ Modificada pelas Leis nº [3.657, de 11 de Dezembro de 2020;](https://legis.ac.g
 
 **§ 6º** A contribuição aportada pelo patrocinador será devolvida à respectiva fonte pagadora no mesmo prazo da devolução da contribuição aportada pelo participante. (Incluído pela Lei nº 3.657, de 11/12/2020) 
 
-<br>
-
 **Art. 2°** Para os efeitos desta lei, entende-se por:
 
 **I -** patrocinador: o Estado, suas autarquias e fundações, em decorrência da aplicação desta lei;
@@ -46,7 +48,7 @@ Modificada pelas Leis nº [3.657, de 11 de Dezembro de 2020;](https://legis.ac.g
 
 **~~§ 1º~~** ~~O prazo para a opção de que trata o inciso II do **caput** deste artigo será de vinte e quatro meses, contados a partir do início da vigência do regime de previdência complementar, instituído no **caput** do art. 1º desta lei.~~
 
-**§ 1º** A opção de que trata o inciso II do **caput** deve ser exercida até 30 de junho de 2026. (Redação dada pela Lei nº 4.374, de 11/07/2024)<br>
+**§ 1º** A opção de que trata o inciso II do **caput** deve ser exercida até 30 de junho de 2026. (Redação dada pela Lei nº 4.374, de 11/07/2024)
 
 **§ 2º** O exercício da opção a que se refere o inciso II do **caput** é irrevogável e irretratável, não sendo devida pelo Estado e suas autarquias e fundações públicas qualquer contrapartida referente ao valor dos descontos já efetuados sobre a base de contribuição acima do limite previsto no **caput** deste artigo.
 
@@ -130,11 +132,7 @@ Modificada pelas Leis nº [3.657, de 11 de Dezembro de 2020;](https://legis.ac.g
 
 **§ 5º** A remuneração do servidor, quando devida durante afastamentos considerados por lei como de efetivo exercício, será integralmente coberta pelo ente público, continuando a incidir a contribuição para o regime instituído por esta lei.
 
-<br>
-
 **§ 6º** Cabe ao patrocinador, a que estiver vinculado o participante, a responsabilidade pelo aporte de contribuições e pelas transferências das contribuições descontadas dos participantes à entidade fechada de previdência complementar administradora do plano de benefícios, observado o disposto nesta Lei, no convênio de adesão e no estatuto da entidade. (Incluído pela Lei nº 3.657, de 11/12/2020)
-
-<br>
 
 **§ 7º** Sem prejuízo das penalidades e responsabilidades previstas em Lei, as contribuições recolhidas com atraso estarão sujeitas à atualização monetária e consectários de mora estabelecidos no convênio de adesão, regulamento e plano de custeio do respectivo plano de benefícios. (Incluído pela Lei nº 3.657, de 11/12/2020) 
 
@@ -147,8 +145,6 @@ Modificada pelas Leis nº [3.657, de 11 de Dezembro de 2020;](https://legis.ac.g
 **~~§ 1º~~** ~~O plano de custeio referido no **caput** deverá prever parcela da contribuição do participante e do patrocinador com o objetivo de compor o Fundo de Cobertura de Benefícios Extraordinários - FCBE, do qual serão vertidos montantes, a título de contribuições extraordinárias, à conta mantida em favor do participante, nas hipóteses e na forma prevista nesta lei.~~
 
 **§ 1º** O plano de custeio referido no **caput** poderá prever parcela da contribuição do participante e do patrocinador com o objetivo de compor o Fundo de Cobertura de Benefícios Extraordinários - FCBE, do qual serão vertidos montantes, a título de contribuições extraordinárias, à conta mantida em favor do participante, nas hipóteses e na forma prevista nesta lei. (Redação dada pela Lei nº 3.657, de 11/12/2020)
-
-<br>
 
 **§ 2º** As contribuições extraordinárias a que se refere o § 1º serão vertidas nas seguintes hipóteses:
 

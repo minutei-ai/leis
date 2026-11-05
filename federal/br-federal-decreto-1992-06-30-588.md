@@ -1,5 +1,3 @@
-###DEC-000588-0-000-30-06-1992@@@
-
 DECRETO N° 588, DE 30 DE JUNHO DE 1992
 
 Altera dispositivos do Derreto n° 475 de 13 de março de 1992, e dá outras providências.

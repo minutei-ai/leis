@@ -1,5 +1,3 @@
-###DEL-003490-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.490 – DE 12 DE AGOSTO DE 1941
 
 Dá  nova  redação  ao decreto-lei nº 2.930, de 31 de dezembro  de 1940

@@ -1,5 +1,3 @@
-###DEC-047493-0-000-26-12-1959@@@
-
 DECRETO Nº 47.493, DE 26 DE DEZEMBRO DE 1959.
 
 Modifica o Decreto nº 45.039, de 5 de dezembro de 1958, que criou a Comissão de Supervisão e Órgãos Autônomos, e dá outras providências.

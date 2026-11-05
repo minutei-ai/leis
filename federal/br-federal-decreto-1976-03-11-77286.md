@@ -1,5 +1,3 @@
-###DEC-077286-0-000-11-03-1976@@@
-
 DECRETO Nº 77.286, DE 11 DE MARÇO DE 1976.
 
 Autoriza o funcionamento do curso de Administração do Centro de Ensino Superior de Erexim, com sede na Cidade de Erexim, Estado do Rio Grande do Sul.

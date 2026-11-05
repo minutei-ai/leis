@@ -1,5 +1,3 @@
-###DEC-052945-0-000-26-11-1963@@@
-
 DECRETO Nº 52.945, DE 26 DE NOVEMBRO DE 1963.
 
 Concede à Ferro de Belo Horizonte S.A. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-056804-0-000-27-08-1965@@@
-
 DECRETO Nº 56.804, DE 27 DE AGôSTO DE 1965.
 
 Revoga o Decreto nº 52.789, de 30 de outubro de 1963.

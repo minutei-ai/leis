@@ -1,5 +1,3 @@
-###DEC-056509-0-000-28-06-1965@@@
-
 DECRETO Nº 56.509, DE 28 DE JUNHO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à firma “Artefatos de Borracha Mucambo Ltda.”, de Salvador (Bahia).
@@ -14,7 +12,69 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à firma “Artefatos de Borracha Mucambo Ltda.”, de Ilhéus (Bahia).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:265.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:70.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF</span></p></td><td style="width:39.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 - Fôrmas de porcelana para luvas cirúrgicas marca General Porcelain MFG Co. País de origem: USA. Pêso bruto: 2.167,000 kg. Pêso líquido: 1.961.280 kg. .................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pares 1.200</span></p></td><td style="width:35.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.373</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 - Fôrmas de porcelana para luvas domésticas crespas, marca e fabricante: GENERAL Porcelain MFG Co. País de origem: USA. Pêso bruto: 646.376 kg. Pêso líquido: 581.120 kg ............................................................................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pares 270</span></p></td><td style="width:35.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.111</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 - Fôrmas de porcelana para luvas domésticas lisas. Marca e fabricantes: General Porcelain MFG Co. País de origem: USA. Pêso bruto: 1.134,718 kg. Pêso líquido: 1.026,895 kg .........................................................................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pares 460</span></p></td><td style="width:35.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.899</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 - Chapinhas para prender fôrmas de porcelana nas bancas. Marcas e fabricante: General Porcelain MFG. Co. País de origem: USA. Pêso bruto: 112.875 kg. Pêso líquido: 102.150 kg ............................................................................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000</span></p></td><td style="width:35.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>679</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 - Parafusos com porcas para prender as fôrmas nas bancas. Marca e fabricante: General Porcelain MFG. Co. País de origem: USA. Pêso bruto: 637,087 kg. Pêso líquido: 567,300 kg ............................................................................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000</span></p></td><td style="width:35.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>865</span></p></td></tr><tr><td style="width:265.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ......................................................................................</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:35.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14.927</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade
+
+a ser
+
+importada
+
+Valor
+
+CIF
+
+Total
+
+US$
+
+1 - Fôrmas de porcelana para luvas cirúrgicas marca General Porcelain MFG Co. País de origem: USA. Pêso bruto: 2.167,000 kg. Pêso líquido: 1.961.280 kg. .................
+
+Pares 1.200
+
+-
+
+6.373
+
+2 - Fôrmas de porcelana para luvas domésticas crespas, marca e fabricante: GENERAL Porcelain MFG Co. País de origem: USA. Pêso bruto: 646.376 kg. Pêso líquido: 581.120 kg ............................................................................
+
+Pares 270
+
+-
+
+4.111
+
+3 - Fôrmas de porcelana para luvas domésticas lisas. Marca e fabricantes: General Porcelain MFG Co. País de origem: USA. Pêso bruto: 1.134,718 kg. Pêso líquido: 1.026,895 kg .........................................................................
+
+Pares 460
+
+-
+
+2.899
+
+4 - Chapinhas para prender fôrmas de porcelana nas bancas. Marcas e fabricante: General Porcelain MFG. Co. País de origem: USA. Pêso bruto: 112.875 kg. Pêso líquido: 102.150 kg ............................................................................
+
+5.000
+
+-
+
+679
+
+5 - Parafusos com porcas para prender as fôrmas nas bancas. Marca e fabricante: General Porcelain MFG. Co. País de origem: USA. Pêso bruto: 637,087 kg. Pêso líquido: 567,300 kg ............................................................................
+
+10.000
+
+-
+
+865
+
+Total ......................................................................................
+
+-
+
+-
+
+14.927
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

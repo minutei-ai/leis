@@ -1,5 +1,3 @@
-###DEC-060290-0-000-03-03-1967@@@
-
 DECRETO Nº 60.290, DE 3 DE MARÇO DE 1967.
 
 Autoriza o Presidente do Conselho Nacional de Telecomunicações a assinar em nome da União Federal, contrato para o Planejamento do Sistema Nacional de Telecomunicações e a revisão do Plano Nacional de Telecomunicações.

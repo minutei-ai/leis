@@ -1,5 +1,3 @@
-###DEC-056708-0-000-11-08-1965@@@
-
 DECRETO Nº 56.708, DE 11 DE AGôSTO DE 1965.
 
 Cancela a autorização concedida á sociedade anônima Cooper-Bessemer International Corporation para funcionar na República dos Estados Unidos do Brasil.

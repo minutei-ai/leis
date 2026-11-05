@@ -1,5 +1,3 @@
-###DEL-004068-0-000-29-01-1942@@@
-
 DECRETO-LEI N. 4.068 – DE 29 DE JANEIRO DE 1942
 
 Autoriza o Banco do Brasil a fazer contrato de locação de serviços para fins especiais

@@ -1,5 +1,3 @@
-###DEC-093852-0-000-22-12-1986@@@
-
 DECRETO Nº 93.852, DE 22 DE DEZEMBRO DE 1986
 
 Altera o art. 15 do Regulamento da Lei nº 7.505, de 2 de julho de 1986, que dispõe sobre benefícios fiscais na área do imposto de renda concedidos a operações de caráter cultural.

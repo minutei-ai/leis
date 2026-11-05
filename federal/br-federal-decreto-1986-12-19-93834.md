@@ -1,5 +1,3 @@
-###DEC-093834-0-000-19-12-1986@@@
-
 DECRETO Nº 93.834, DE 19 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Karinã", situado no Município de Santa Luzia, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixado pelo Decreto nº 92.619, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

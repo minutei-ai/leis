@@ -1,7 +1,3 @@
-1
-
-###DEC-000444-0-000-06-02-1992@@@
-
 DECRETO N° 444, DE 06 DE FEVEREIRO DE 1992
 
 Promulga o Acordo para a Cooperação Técnica com Outros Países da América La­tina e Países da África entre o Governo da República Federativa do Brasil e a Organi­zação Internacional do Trabalho.

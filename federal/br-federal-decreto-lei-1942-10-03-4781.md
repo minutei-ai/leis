@@ -1,5 +1,3 @@
-###DEL-004781-0-000-03-10-1942@@@
-
 decreto-lei n. 4.781 - de 3 de outubro de 1942
 
 Autoriza a designação de funcionários para auxiliarem serviços da Caixa de Amortização, e dá outras providências
@@ -18,7 +16,17 @@ VERBA 3 - SERVIÇO E  ENCARGOS
 
 CONSIGNAÇÃO I - DIVERSOS
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:36.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">S/c n.</span></p></td><td style="width:18pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">05 -</span></p></td><td style="width:353pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assinatura de notas</span></p></td><td style="width:53.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:36.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:18pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">12 -</span></p></td><td style="width:353pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Caixa de Amortização...........................................................................................</span></p></td><td style="width:53.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">200:000$0</span></p></td></tr></tbody></table>
+S/c n.
+
+05 -
+
+Assinatura de notas
+
+12 -
+
+Caixa de Amortização...........................................................................................
+
+200:000$0
 
 Art. 3º O presente decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

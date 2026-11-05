@@ -1,5 +1,3 @@
-###DEC-062118-0-000-12-01-1968@@@
-
 DECRETO Nº 62.118, DE 12 DE JANEIRO DE 1968.
 
 Outorga à Companhia de Eletricidade de Pernambuco concessão para distribuir energia elétrica no município de Iguaraci, Estado de Pernambuco.

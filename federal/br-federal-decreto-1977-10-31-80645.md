@@ -1,5 +1,3 @@
-###DEC-080645-0-000-31-10-1977@@@
-
 DECRETO Nº 80.645, DE 31 DE OUTUBRO DE 1977.
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

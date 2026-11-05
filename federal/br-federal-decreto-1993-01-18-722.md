@@ -1,7 +1,3 @@
-1
-
-###DEC-000722-0-000-18-01-1993@@@
-
 DECRETO N° 722, DE 18 DE JANEIRO DE 1993
 
 Regulamenta a Lei n° 8.237, de 30 de setembro de 1991, que dispõe sobre a remuneração dos Servidores Militares Federais das Forças Armadas.

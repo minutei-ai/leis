@@ -1,5 +1,3 @@
-###DEC-048138-0-000-25-04-1960@@@
-
 DECRETO Nº 48.138, DE 25 DE ABRIL DE 1960.
 
 Cria a 11ª Região Militar e o Comunicado Militar de Brasília.

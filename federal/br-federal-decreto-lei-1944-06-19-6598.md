@@ -1,5 +1,3 @@
-###DEL-006598-0-000-19-06-1944@@@
-
 DECRETO-LEI N. 6.598 – DE 19 DE JUNHO DE 1944
 
 Modifica, sem aumento de despesa, o Orçamento Geral da República

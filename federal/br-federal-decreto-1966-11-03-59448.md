@@ -1,5 +1,3 @@
-###DEC-059448-0-000-03-11-1966@@@rtf
-
 DECRETO Nº 59.448, de 3 de novembro de 1966.
 
 Concede à sociedade Navegação Continental Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

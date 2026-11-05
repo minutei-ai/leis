@@ -1,5 +1,3 @@
-###DEC-007523-0-000-08-07-2011-PUB-01@@@
-
 DECRETO Nº 7.523, DE 8 DE JULHO DE 2011
 
 Regulamenta o art. 21-C da Lei nº 10.848, de 15 de março de 2004, para dispor sobre a autorização de mudança de combustível de usinas termelétricas que tenham celebrado Contrato de Comercialização de Energia Elétrica no Ambiente Regulado - CCEAR, e dá outras providências.

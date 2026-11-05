@@ -1,5 +1,3 @@
-###MPV-001950-0-061-02-03-2000@@@
-
 MEDIDA provisória nº 1.950-61, de 2 de março de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064158-0-000-04-03-1969@@@
-
 DECRETO Nº 64.158, DE 4 DE MARÇO DE 1969.
 
 Autoriza a contratação da operação de crédito que menciona e dá outras providências.

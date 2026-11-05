@@ -27,7 +27,3 @@ Antônio Martins Vilas Boas
 Iago Vitoriano Pimentel
 
 José de Carvalho Lopes
-
-\============================================================
-
-Data da última atualização: 18/10/2021

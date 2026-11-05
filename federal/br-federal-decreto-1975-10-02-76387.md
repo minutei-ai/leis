@@ -1,5 +1,3 @@
-###DEC-076387-0-000-02-10-1975@@@
-
 decreto nº 76.387, de 2 de outubro de 1975
 
 Dispõe sobre a Estrutura Básica do Ministério da Justiça e dá outras providências.

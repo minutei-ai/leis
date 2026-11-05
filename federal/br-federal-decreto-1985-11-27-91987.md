@@ -1,5 +1,3 @@
-###DEC-091987-0-000-27-11-1985@@@
-
 Decreto nº 91.987, de 27 de novembro de 1985
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas e Administrativas de Presidente Prudente.

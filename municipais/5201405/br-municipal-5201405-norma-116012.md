@@ -4,9 +4,12 @@ Dispõe sobre a qualificação de entidades como organizações sociais municipa
 
 A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA  APROVOU E EU PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO  I<br>
-DAS ORGANIZAÇÕES SOCIAIS<br>
-Seção I<br>
+CAPÍTULO  I
+
+DAS ORGANIZAÇÕES SOCIAIS
+
+Seção I
+
 Da Qualificação
 
 Art. 1º A qualificação de pessoas jurídicas de direito privado como organizações sociais do Município de Aparecida de Goiânia dar-se-á por meio de ato do Poder Executivo, após avaliação da Comissão a ser constituída por Decreto Municipal a fim de avaliar se a Organização Social cumpriu todos os requisitos previstos nesta Lei.
@@ -39,7 +42,8 @@ III - não ser qualificada, pelo Município de Aparecida de Goiânia, como organ
 
 Parágrafo único. Ficam dispensadas do  cumprimento do disposto nas alíneas “a” a “h” do inciso II deste artigo e nos arts. 3º a 5º desta Lei, para fins de qualificação como organizações sociais do Município de Aparecida de Goiânia, por meio de ato do Poder Executivo, as pessoas jurídicas de direito privado qualificadas como organizações sociais no âmbito da União, dos demais Estados e do Distrito Federal, de reconhecida experiência, especialmente técnica, nas áreas de suas atuações, cujas condições devem ser objetivamente comprovadas em ato público convocado pela Prefeitura Municipal de Aparecida de Goiânia, mediante publicação do respectivo edital no Diário Oficial do Estado e em jornal de grande circulação.
 
-Seção II<br>
+Seção II
+
 Do Conselho de Administração
 
 Art. 3º O Conselho de Administração deve estar estruturado nos termos que dispuser o respectivo estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:
@@ -92,7 +96,8 @@ IX - aprovar e encaminhar, ao órgão supervisor da execução do contrato de ge
 
 X - fiscalizar o cumprimento das diretrizes e metas definidas e aprovar os demonstrativos financeiros e contábeis e as contas anuais da entidade, com o auxílio de auditoria externa.
 
-Seção III<br>
+Seção III
+
 Do Conselho Fiscal
 
 Art. 5º A administração da entidade será fiscalizada, assídua e minuciosamente, por um Conselho Fiscal, constituído de no mínimo 3 (três) membros efetivos e de 3 (três) suplentes, todos associados, eleitos na forma estabelecida pelo estatuto, para mandatos de 1 (um)  a 3 (três) anos, permitida a reeleição, por uma única vez, de 1/3 (um terço) de seus componentes.
@@ -101,7 +106,8 @@ Art. 5º A administração da entidade será fiscalizada, assídua e minuciosame
 
 § 2º As funções do componente do Conselho Fiscal são incompatíveis com as de membro do Conselho de Administração ou da Diretoria.
 
-Seção IV<br>
+Seção IV
+
 Do Contrato de Gestão
 
 Art. 6º Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de parceria entre as partes para fomento e execução de atividades relativas às áreas relacionadas no art. 2º, inciso I, desta Lei.
@@ -136,7 +142,8 @@ Art. 11 Os responsáveis pela fiscalização da execução do Contrato de Gestã
 
 Art. 12 Sem prejuízo da medida a que se refere o artigo anterior, quando assim exigir a gravidade dos fatos ou o interesse público, havendo indícios fundados de malversação de bens ou recursos de origem pública, os responsáveis pela fiscalização representarão ao Ministério Público e à Procuradoria Geral do Município, para as medidas cabíveis.
 
-Seção VI<br>
+Seção VI
+
 Do Fomento às Atividades Sociais
 
 Art. 13 As entidades qualificadas como organizações sociais são declaradas como entidades de interesse social e utilidade pública, para todos os efeitos legais.
@@ -145,7 +152,8 @@ Art. 14 Às organizações sociais poderão ser destinados recursos orçamentár
 
 Parágrafo único. São assegurados às organizações sociais os créditos previstos no orçamento e as respectivas liberações financeiras, de acordo com o cronograma de desembolso previsto no Contrato de Gestão.
 
-Seção VII<br>
+Seção VII
+
 Da Desqualificação
 
 Art. 15 Constituem motivos para a desqualificação da entidade a inobservância de qualquer dispositivo desta Lei, o exercício de atividades não relacionadas às previstas no art. 2º, inciso I, desta Lei, bem como a inadimplência do contrato de gestão firmado com o Poder Público.
@@ -156,17 +164,20 @@ Art. 15 Constituem motivos para a desqualificação da entidade a inobservância
 
 § 3º A desqualificação importará no ressarcimento dos recursos orçamentários destinados à organização social, sem prejuízo de outras sanções cabíveis.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 16 A autorização de que trata o art. 1º desta Lei não confere nenhum direito à entidade de obter a qualificação de organização social, nem o de assinar o contrato de gestão previsto nesta Lei.
 
 Art. 17 A organização social fará publicar, no Diário Oficial do Estado, no prazo máximo de 90 (noventa) dias, contado da assinatura do contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público.
 
-Art. 18- O procedimento de qualificação das organizações sociais nas áreas de saúde, ensino, cultura e assistência social será estabelecido em decreto do Poder Executivo, observados os requisitos desta Lei.<br>
+Art. 18- O procedimento de qualificação das organizações sociais nas áreas de saúde, ensino, cultura e assistência social será estabelecido em decreto do Poder Executivo, observados os requisitos desta Lei.
+
 (Redação alterada pela Lei Ordinária nº 3.614, de 24 de junho de 2021).
 
-~~Art. 18. O procedimento de qualificação das organizações sociais nas áreas de saúde, ensino, cultura e assistência social será estabelecido em decreto do Poder Executivo, observados os requisitos desta Lei.~~<br>
+~~Art. 18. O procedimento de qualificação das organizações sociais nas áreas de saúde, ensino, cultura e assistência social será estabelecido em decreto do Poder Executivo, observados os requisitos desta Lei.~~
+
 ~~(Redação alterada pela Lei Complementar nº 140, de 14 de dezembro de 2017).~~
 
 ~~Art. 18 Os requisitos específicos para as Organizações Sociais atuarem nas áreas de saúde, ensino, cultura, assistência social serão estabelecidos em Decreto do Poder Executivo, a ser editado no prazo máximo de 30 (trinta) dias a contar da publicação da Lei.~~
@@ -175,6 +186,6 @@ Art. 19 Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 12 dias do mês de julho de 2012.
 
-<br>
-LUIZ ALBERTO MAGUITO VILELA <br>
-PREFEITO MUNICIPAL<br>
+LUIZ ALBERTO MAGUITO VILELA 
+
+PREFEITO MUNICIPAL

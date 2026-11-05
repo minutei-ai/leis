@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/191f510b-7be4-41c6-a3de-373ef5e15c01/texto#nowhere)
 
-###DEL-000038-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 38, DE 18 DE NOVEMBRO DE 1966
 
 Estabelece estímulos à contenção dos preços e penalidade para aumentos superiores aos do índice geral de preços.

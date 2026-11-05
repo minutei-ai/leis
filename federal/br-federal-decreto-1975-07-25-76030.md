@@ -1,5 +1,3 @@
-###DEC-076030-0-000-25-07-1975@@@
-
 DECRETO Nº 76.030 - DE 25 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de Desenho e Plástica e de Música, do Instituto de Artes da Universidade Federal do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -4,7 +4,8 @@ Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária do Municí
 
 A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, nos termos do art. 38 da Lei Orgânica do Município, decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Esta Lei estabelece as diretrizes para a elaboração do orçamento do Município de Aparecida de Goiânia para o exercício de 2027, em cumprimento ao disposto no art. 165, § 2º, da Constituição Federal, no art. 4º, da Lei Complementar federal nº 101, de 4 de maio de 2000, no art. 92, § 2º, da Lei Orgânica do Município de Aparecida de Goiânia, compreendendo:
@@ -71,7 +72,8 @@ III – Riscos Fiscais.
 
 Art. 3º O projeto da Lei Orçamentária Anual para o exercício de 2027 será elaborado a partir da consolidação das propostas setoriais apresentadas pelos órgãos e entidades da administração pública municipal, bem como das propostas e sugestões formuladas pela população, por meio de audiências públicas e dos mecanismos de participação disponibilizados pela internet.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS METAS E PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 4º As metas e prioridades da administração pública municipal para o exercício de 2027, observadas as disposições constitucionais e legais aplicáveis, serão estabelecidas em consonância com o Plano Plurianual (PPA) referente ao período de 2026 a 2029, consideradas as atualizações promovidas por esta Lei e as revisões decorrentes da evolução do cenário econômico e fiscal.
@@ -110,7 +112,8 @@ g) a priorização das despesas finalísticas, em especial as relacionadas a pro
 
 Art. 6º O Plano Plurianual (PPA), como instrumento de planejamento estratégico do Governo Municipal, bem como esta Lei de Diretrizes Orçamentárias (LDO), orientarão a elaboração do Projeto de Lei Orçamentária Anual para o exercício de 2027, estruturado em programas e ações regionalizadas, na forma de projetos e atividades.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ESTRUTURA E ORGANIZAÇÃO DOS ORÇAMENTOS
 
 Art. 7º Para elaboração da Lei Orçamentária Anual adotar-se-á a classificação funcional-programática, definida no Manual de Contabilidade Aplicada ao Setor Público (MCASP) e no Manual de Demonstrativos Fiscais (MDF).
@@ -173,7 +176,8 @@ III - orçamentos fiscal e da seguridade social dos Poderes Executivo e Legislat
 
 Parágrafo único. O PLOA conterá, ainda, a programação referente à manutenção e ao desenvolvimento do ensino, nos termos do art. 112 da Lei Orgânica do Município.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO
 
 DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES
@@ -310,7 +314,8 @@ Art. 34. Nenhuma despesa poderá ser fixada sem que esteja legalmente definida n
 
 Art. 35. Na programação dos investimentos, aqueles em fase de execução terão prioridade sobre novos projetos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 36. As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da Receita Corrente Líquida (RCL) do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, inciso III, da Lei Complementar federal nº 101, de 2000, excetuando-se:
@@ -347,7 +352,8 @@ Art. 41. Desde que observados os limites legais de despesa com pessoal previstos
 
 Art. 42. Os Poderes Executivo e Legislativo poderão realizar concursos públicos, observados os limites legais de despesa com pessoal e as disposições desta Lei.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO
 
 Art. 43. O Poder Executivo Municipal poderá encaminhar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão incidir, especialmente sobre:
@@ -368,7 +374,8 @@ VII - instituição de novas taxas pela prestação de serviços públicos e pel
 
 VIII - revisão das isenções tributárias, com vistas à preservação do interesse público e ao estímulo ao desenvolvimento econômico e à justiça social.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 44. Na hipótese de ocorrência das circunstâncias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar federal nº 101, de 2000, o Poder Executivo e o Poder Legislativo procederão à limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação de cada Poder no total das dotações iniciais constantes da Lei Orçamentária de 2027, utilizando-se, para esse fim, as cotas orçamentárias e financeiras.
@@ -401,7 +408,8 @@ IX - investimentos novos.
 
 § 5º Verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DEFINIÇÃO DE CRITÉRIOS PARA INÍCIO DE NOVOS PROJETOS
 
 Art. 45. Além da observância das metas e prioridades definidas nos termos do art. 4º desta Lei, a Lei Orçamentária de 2027 e seus créditos adicionais, observado o disposto no art. 45, da Lei Complementar federal nº 101, de 2000, somente incluirão novos projetos se:
@@ -416,7 +424,8 @@ IV - os recursos alocados destinarem-se a contrapartidas de recursos federais, e
 
 Parágrafo único. Para os efeitos desta Lei, considera-se projeto em andamento aquele cuja execução tenha sido iniciada até a data de encaminhamento da proposta orçamentária para o exercício de 2027 e cujo cronograma de execução ultrapasse o término do exercício de 2026.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 46. O Projeto de Lei Orçamentária Anual do Município, relativo ao exercício financeiro de 2027, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -431,7 +440,8 @@ I - elaboração da proposta orçamentária de 2027;
 
 II - demonstração dos resultados obtidos pela Administração, na execução do planejamento.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 48. A programação das receitas e despesas previstas no orçamento para o exercício de 2027 deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -446,7 +456,8 @@ Art. 52. Esta Lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 10 de setembro de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19133)

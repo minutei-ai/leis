@@ -1,4 +1,5 @@
-DECRETO Nº 9.882, DE 08 DE JUNHO DE 2021<br>
+DECRETO Nº 9.882, DE 08 DE JUNHO DE 2021
+
 \- [Revogado pelo Decreto nº 10.213, de 7 de fevereiro de 2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106743/decreto-10213).
 
 ~~Aprova o Regulamento da Agência Goiana de Infraestrutura e Transportes — GOINFRA.~~
@@ -14,8 +15,6 @@ DECRETO Nº 9.882, DE 08 DE JUNHO DE 2021<br>
 ~~Art. 3º  Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 08 de junho de 2021, 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

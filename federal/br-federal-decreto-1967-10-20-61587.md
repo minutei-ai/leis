@@ -1,5 +1,3 @@
-###DEC-061587-0-000-20-10-1967@@@
-
 DECRETO Nº 61.587, DE 20 DE OUTUBrO DE 1967.
 
 Altera a redação do artigo 1º, “caput”, do Decreto 61.337, de 12 de setembro de 1967.

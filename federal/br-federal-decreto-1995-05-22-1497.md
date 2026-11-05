@@ -1,7 +1,3 @@
-1
-
-###DEC-001497-0-000-22-05-1995@@@
-
 DECRETO Nº 1.497, DE 22 DE MAIO DE 1995
 
 Altera a redação dos arts. 82 e 83 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

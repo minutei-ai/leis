@@ -1,5 +1,3 @@
-###DEC-067051-0-000-13-08-1970@@@
-
 DECRETO Nº 67.051, DE 13 DE AGÔSTO DE 1970.
 
 Atribui também a General-de-Brigada Engenheiro Militar o exercício de cargos privativos do pôsto de General-de-Brigada Combatente.

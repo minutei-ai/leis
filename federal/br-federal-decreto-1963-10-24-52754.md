@@ -1,5 +1,3 @@
-###DEC-052754-0-000-24-10-1963@@@
-
 DECRETO Nº 52.754, DE 24 DE OUTUBRO DE 1963.
 
 Concede à sociedade Manoel Lino Costa Navegação Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

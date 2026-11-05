@@ -1,5 +1,3 @@
-###DEC-082125-0-000-17-08-1978@@@
-
 Decreto nº 82.125, de 17 de agosto de 1978.
 
 Declara sem efeito o Decreto nº 44.940, de 01 de dezembro de 1958, retificado pelo Decreto nº 65.010, de 18 de agosto de 1969, que outorgou à Cerâmica Assad S.A. o direito de lavrar argila no Município de Suzano, Estado de São Paulo.

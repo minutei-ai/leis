@@ -1,5 +1,3 @@
-###DEC-066712-0-000-12-06-1970@@@
-
 DECRETO Nº 66.712, DE 12 de JUNHO DE 1970.
 
 Concede à emprêsa Sinval Duarte Pereira S.A. - Agro Industrial e Mineração o direito de lavrar diatomita, no município de Ceará-Mirim, Estado do Rio Grande do Norte.

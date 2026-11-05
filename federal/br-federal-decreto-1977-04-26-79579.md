@@ -1,5 +1,3 @@
-###DEC-079579-0-000-26-04-1977@@@
-
 DECRETO Nº 79.579, DE 26 DE ABRIL DE 1977.
 
 Concede a Cimento Portland Pains S.A. o direito de lavrar argila no Município de Arcos, Estado de Minas Gerais.

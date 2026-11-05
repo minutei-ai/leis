@@ -1,5 +1,3 @@
-###DEC-066121-0-000-27-01-1970@@@
-
 decreto nº 66.121 - de 27 de janeiro de 1970
 
 Concede reconhecimento à Faculdade de Ciências Políticas e Econômicas do Rio Grande - RS.

@@ -1,5 +1,3 @@
-###DEL-005606-0-000-22-06-1943@@@
-
 DECRETO‑LEI N.  5.606 – DE 22 DE JUNHO DE 1943
 
 Dispõe sôbre o serviço do Registo Civil das Pessoas Naturais e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-090134-0-000-30-08-1984@@@
-
 Decreto nº 90.134, de 30 de agosto de 1984
 
 Autoriza o Instituto Nacional de Colonização e  Reforma. Agrária - INCRA a doar o imóvel que menciona.

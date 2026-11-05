@@ -1,5 +1,3 @@
-###DEC-086685-0-000-03-12-1981@@@
-
 Decreto nº 86.685, de 03 de dezembro de 1981
 
 Altera dispositivos do Decreto nº 85.324, de 05 de novembro de 1980, que dispõe sobre Quadros de Oficiais do Corpo de Oficiais da Ativa da Aeronáutica e dá outras providênicas.
@@ -91,8 +89,6 @@ Brasília, DF, 03 de dezembro de 1981; 160º da Independência e 93º da Repúbl
 JOÃO FIGUEIREDO
 
 Délio Jardim de Mattos
-
-###DEC-086685-0-000-03-12-1981@@@
 
 DECRETO Nº 86.685, DE 03 DE DEZEMBRO DE 1981
 

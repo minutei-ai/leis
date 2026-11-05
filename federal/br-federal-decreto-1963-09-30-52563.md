@@ -1,5 +1,3 @@
-###DEC-052563-0-000-30-09-1963@@@
-
 DECRETO Nº 52.563, DE 30 DE SETEMBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Fôrça e Luz de Santa Clara.
@@ -17,8 +15,6 @@ Brasília, 30 de setembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052563-0-000-30-09-1963@@@RET01+++
 
 Decreto nº 52.563, de 30 de setembro de 1963.
 

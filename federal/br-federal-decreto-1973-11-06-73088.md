@@ -1,5 +1,3 @@
-###DEC-073088-0-000-06-11-1973@@@
-
 DECRETO Nº 73.088 - DE 6 DE NOVEMBRO DE 1973
 
 Redistribui cargo, com o respectivo ocupante, do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil para o do Ministério do Trabalho e Previdência Social, e dá outras providências.

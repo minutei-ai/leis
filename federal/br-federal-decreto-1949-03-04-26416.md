@@ -1,20 +1,18 @@
-###DEC-026416-0-000-04-03-1949@@@
+**DECRETO Nº 26.416, DE 4 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.416, DE 4 DE MARÇO DE 1949.</strong>
+***Outorga às Indústrias de Madeiras Rio Vermelho Ltda. concessão para ao aproveitamento da energia hidráulica de queda dágua denominada Engenheiro Mário, situada no rio Humaboldt, distrito e município de Serra Alta, Estado de Santa Catarina, para fins exclusivos.***
 
-<em><strong>Outorga às Indústrias de Madeiras Rio Vermelho Ltda. concessão para ao aproveitamento da energia hidráulica de queda dágua denominada Engenheiro Mário, situada no rio Humaboldt, distrito e município de Serra Alta, Estado de Santa Catarina, para fins exclusivos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (dec. nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (dec. nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada às Indústrias de Madeira Rio Vermelho Ltda. concessão para o aproveitamento da energia hidráulica da queda d’água denominada Engenheiro Mário, situada no rio Humboldt, distrito e município de Serra Alta, Estado de Santa Catarina.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada às Indústrias de Madeira Rio Vermelho Ltda. concessão para o aproveitamento da energia hidráulica da queda d’água denominada Engenheiro Mário, situada no rio Humboldt, distrito e município de Serra Alta, Estado de Santa Catarina.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar e a descarga concedida.
 
 § 2º O aproveitamento destina-se à utilização da energia para uso exclusivo da concessionária, até o máximo de 170 KW.
 
-<strong>Art</strong>. 2º Sob pena de caducidade o presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade o presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional de Produção Mineral do Ministério da Agricultura, dentro do prazo de trinta (30) dias após a sua publicação.
 
@@ -40,26 +38,26 @@ V - Apresntar mesmo contrato à Divisão de Águas para fins de registro até se
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogadas por ato do Ministro da Agricultura
 
-<strong>Art</strong>. 3º A minuta de contrato disciplinar desta concessão será prejarada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta de contrato disciplinar desta concessão será prejarada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e a manter nas proximidades do local do aproveitramento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessarias as observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º A concessionária fica obrigada a construir e a manter nas proximidades do local do aproveitramento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessarias as observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato da Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato da Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, tôda a propriedade da concessionária que no momento existir, em utilização da energia mecânica referente ao aporveitamento concedido, reverterá ao Estado de Santa Catarina, mediante indenização do custo histórico, isto é do capital efetivamente invertido menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, tôda a propriedade da concessionária que no momento existir, em utilização da energia mecânica referente ao aporveitamento concedido, reverterá ao Estado de Santa Catarina, mediante indenização do custo histórico, isto é do capital efetivamente invertido menos a depreciação.
 
 § 1º Se o Estado de Santa Catarina não fizer uso do seu direito a essa reversão, a concessionária poderá requerer, na forma que fôr estipulada no contrato da presente concessão e a sua renovação, salvo se preferir repor, por sua conta, o curso das águas no seu primitivo estado.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Santa Catarina e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º A concessonária gozará, desde a data do registro de que trata o nº I do art. 2º enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º A concessonária gozará, desde a data do registro de que trata o nº I do art. 2º enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8º O presente decreto entra em vigor na data da sua publicação.
+**Art**. 8º O presente decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

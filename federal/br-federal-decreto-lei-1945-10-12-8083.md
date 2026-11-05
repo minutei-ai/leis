@@ -1,5 +1,3 @@
-###DEL-008083-0-000-12-10-1945@@@
-
 DECRETO-LEI N. 8.083 – DE 12 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 1.440,00, para pagamento de gratificação de magistério.

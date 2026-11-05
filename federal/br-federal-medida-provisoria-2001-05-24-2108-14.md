@@ -1,5 +1,3 @@
-###MPV-002108-0-014-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.108‑14, DE 24 DE MAIO DE 2001.
 
 Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093335-0-000-03-10-1986@@@
-
 DECRETO Nº 93.335, DE 3 DE OUTUBRO DE 1986.
 
 Aprova o Regulamento da Lei nº 7.505, de 2 de julho de 1986, que dispõe sobre benefícios fiscais na área do imposto de renda, concedidos a operações de caráter cultural.

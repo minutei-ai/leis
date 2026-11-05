@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209568)<br>
-
 # DECRETO N° 68.608, DE 15 DE JUNHO DE 2024
 
 ### _Altera o Decreto n° 67.947, de 15 de setembro de 2023_

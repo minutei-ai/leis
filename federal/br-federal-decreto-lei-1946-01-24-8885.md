@@ -1,5 +1,3 @@
-###DEL-008885-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.885 – DE 24 DE JANEIRO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério da Aeronáutica, a carreira de Assessor de Direito Aeronáutico, extingue séries funcionais das Tabelas Numéricas Ordinárias e Suplementar da Diretoria de Aeronáutica Civil, e dá outras providências.

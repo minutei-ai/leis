@@ -10,7 +10,8 @@ Art. 1º A Lei nº [20.939](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 ..........................................................................................................................” (NR)
 
-“Art. 17-A. Ficam as empresas e os contribuintes goianos dispensados da apresentação da Certidão Negativa de Débito de tributos federais e a Certidão de que trata o art. 47, I, alínea “a”, da Lei federal nº 8.212/91, na contratação com o Poder Público e no recebimento, fruição ou contratação de benefício ou incentivo fiscal ou creditício concedido por lei estadual, enquanto perdurar o estado de calamidade pública. ” (NR)<br>
+“Art. 17-A. Ficam as empresas e os contribuintes goianos dispensados da apresentação da Certidão Negativa de Débito de tributos federais e a Certidão de que trata o art. 47, I, alínea “a”, da Lei federal nº 8.212/91, na contratação com o Poder Público e no recebimento, fruição ou contratação de benefício ou incentivo fiscal ou creditício concedido por lei estadual, enquanto perdurar o estado de calamidade pública. ” (NR)
+
 [\- Promulgado pela Assembleia Legislativa D.O. de 02-07-2021.](https://diariooficial.abc.go.gov.br/portal/edicoes/download/4779)
 
 Art. 2º A Lei nº [20.966](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103757/lei-20966), de 29 de janeiro de 2021, passa a vigorar com a seguinte alteração:
@@ -22,8 +23,6 @@ Art. 2º A Lei nº [20.966](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 Art. 3º Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de junho de 2021.
 
 Goiânia, 23 de junho de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

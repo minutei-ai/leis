@@ -1,5 +1,3 @@
-###DEC-002607-0-000-28-05-1998@@@
-
 DECRETO Nº 2.607, DE 28 DE MAIO DE 1998
 
 Dispõe sobre a adição de álcool etílico anidro combustível à gasolina.

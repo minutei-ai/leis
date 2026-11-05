@@ -1,5 +1,3 @@
-###DEL-007319-0-000-14-02-1945@@@
-
 DECRETO-LEI N. 7.319 – DE 14 DE FEVEREIRO DE 1945
 
 Dispõe sôbre julgamento das condições de sanidade e capacidade física para fins de posse e exercício e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-079996-0-000-20-07-1977@@@
-
 DECRETO Nº 79.996, DE 20 DE JULHO DE 1977
 
 Abre à Justiça Militar em favor do Superior Tribunal Militar e Auditorias da Justiça Militar o crédito suplementar de Cr$ 29.576.000,00, para reforço de dotações consignadas no vigente Orçamento.

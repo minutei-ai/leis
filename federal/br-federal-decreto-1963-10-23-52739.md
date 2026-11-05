@@ -1,5 +1,3 @@
-###DEC-052739-0-000-23-10-1963@@@
-
 DECRETO Nº 52.739, DE 23 DE OUTUBRO DE 1963.
 
 Altera o Regulamento para a Base Almirante Castro e Silva.

@@ -1,5 +1,3 @@
-###DEC-093996-0-000-02-02-1987@@@
-
 DECRETO N° 93.996, DE 02 DE FEVEREIRO DE 1987
 
 Classifica a Comissão de Cartografia - COCAR, integrante do Ministério da Ciência e Tecnologia, como órgão de deliberação coletiva de 2º grau.

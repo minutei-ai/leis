@@ -1,5 +1,3 @@
-###DEC-047645-0-000-15-01-1960@@@
-
 DECRETO Nº 47.645, DE 15 DE JANEIRO DE 1960.
 
 Renova o Decreto nº 40.905, de 13 de fevereiro de 1957.

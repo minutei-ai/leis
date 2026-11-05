@@ -1,5 +1,3 @@
-###DEC-046198-0-000-11-06-1959@@@
-
 DECRETO Nº 46.198, DE 11 DE JUNHO DE 1959.
 
 Autoriza a cidadã brasileira Maria Pereira Bem a pesquisar calcário no município de Matosinhos, Estado de Minas Gerais.

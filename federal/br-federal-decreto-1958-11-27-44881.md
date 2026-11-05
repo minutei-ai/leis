@@ -1,5 +1,3 @@
-###DEC-044881-0-000-27-11-1958@@@
-
 DECRETO Nº 44.881, DE 27 DE NOVEMBRO DE 1958.
 
 Transfere função da Tabela Numérica Especial de Extranumerário Mensalista do Parque de Aeronáutica do Recife para a do Quartel General da 2ª Zona Aérea.

@@ -1,5 +1,3 @@
-###DEC-069680-0-000-03-12-1971@@@
-
 DECRETO Nº 69.680 - DE 3 DE DEZEMBRO DE 1971
 
 Reajusta limites das faixas de números de habitantes de que trata o § 2º do artigo 91 da lei nº 5.172, de 25 de outubro de 1966.

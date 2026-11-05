@@ -20,7 +20,8 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 31 de
 
  
 
-VETER MARTINS<br>
+VETER MARTINS
+
 Prefeito Municipal em Exercício
 
 ANEXO I

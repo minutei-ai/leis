@@ -1,5 +1,3 @@
-###DEC-094557-0-000-07-07-1987@@@
-
 DECRETO N° 94.557, DE 7 DE JULHO DE 1987
 
 Outorga concessão à RÁDIO VALE DO CANINDÉ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Oeiras, Estado do Piauí.

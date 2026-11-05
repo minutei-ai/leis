@@ -1,5 +1,3 @@
-###DEC-083010-0-000-10-01-1979@@@
-
 DECRETO Nº 83.010, DE 10 DE JANEIRO DE 1979
 
 Revoga o Decreto nº 5.648, de 22 de agosto de 1905, que concedeu à empresa SINGER SEWING MACHINE COMPANY autorização para funcionar na República Federativa do Brasil.

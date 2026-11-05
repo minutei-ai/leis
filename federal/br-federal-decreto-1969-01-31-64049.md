@@ -1,5 +1,3 @@
-###DEC-064049-0-000-31-01-1969@@@
-
 DECRETO Nº 64.049, DE 31 DE JANEIRO DE 1969.
 
 Prorroga, por 60 (sessenta) dias, prazo previsto no Decreto nº 63.479, de 25 de outubro de 1968, e dá outras providências.

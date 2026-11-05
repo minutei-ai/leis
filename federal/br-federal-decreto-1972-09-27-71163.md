@@ -1,5 +1,3 @@
-###DEC-071163-0-000-27-09-1972@@@
-
 Decreto nº 71.163, de 27 de setembro de 1972.
 
 Concede reconhecimento aos Cursos de Administração de Empresas - Santo André - SP.

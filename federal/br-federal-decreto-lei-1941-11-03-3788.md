@@ -1,5 +1,3 @@
-###DEL-003788-0-000-03-11-1941@@@
-
 DECRETO-LEI N. 3.788 – DE 3 DE NOVEMBRO DE 1941
 
 Restabelece cargo na carreira de Escriturário do Quadro Permanente do Ministério da Fazenda e dá outras providências

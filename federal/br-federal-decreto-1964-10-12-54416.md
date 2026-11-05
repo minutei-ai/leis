@@ -1,5 +1,3 @@
-###DEC-054416-0-000-12-10-1964@@@
-
 DECRETO Nº 54.416, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza a Sociedade Industrial de Adubos Mandioré Limitada SIDAM - a lavrar fosfato no município de Corumbá, Estado de Mato Grosso.

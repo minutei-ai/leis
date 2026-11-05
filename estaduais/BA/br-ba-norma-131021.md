@@ -4,7 +4,8 @@ Institui a Política Estadual de Convivência com o Semiárido e o Sistema Estad
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituída a Política Estadual de Convivência com o Semiárido, que observará princípios, objetivos, diretrizes, mecanismos de financiamento, de gestão, de monitoramento e de avaliação, constantes desta Lei.
@@ -51,10 +52,12 @@ XVII - território de identidade: agrupamento identitário municipal formado de 
 
 XVIII - produção associada ao turismo: qualquer produção artesanal, industrial ou agropecuária que detenha atributos naturais ou culturais de uma determinada localidade ou região, capazes de agregar valor ao produto turístico.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA POLÍTICA ESTADUAL DE CONVIVÊNCIA COM O SEMIÁRIDO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Princípios
 
 Art. 4º - São princípios da Política Estadual de Convivência com o Semiárido:
@@ -89,7 +92,8 @@ XIV - agricultura sustentável e agroecológica;
 
 XV - produção associada ao turismo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Objetivos
 
 Art. 5º - São objetivos da Política Estadual de Convivência com o Semiárido:
@@ -128,7 +132,8 @@ XVI - estimular, desenvolver e promover a produção associada ao turismo por me
 
 XVII - estimular a geração de energia eólica, solar e por meio de biomassa no semiárido baiano.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Das Diretrizes
 
 Art. 6º - São diretrizes da Política Estadual de Convivência com o Semiárido:
@@ -177,7 +182,8 @@ XXI - estímulo, desenvolvimento e promoção à produção associada ao turismo
 
 XXII - fomento à implantação de empreendimentos de geração de energia no semiárido por meio de fontes renováveis alternativas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO SISTEMA ESTADUAL DE CONVIVÊNCIA COM O SEMIÁRIDO
 
 Art. 7º - Fica instituído o Sistema Estadual de Convivência com o Semiárido, composto por instituições públicas, entidades privadas sem fins lucrativos e outras organizações da sociedade, com o objetivo de integrar seus esforços, bem como de formular, implantar e monitorar a Política Estadual de Convivência com o Semiárido, com seus programas, projetos e ações.
@@ -188,7 +194,8 @@ I - Fórum Estadual de Convivência com o Semiárido;
 
 II - Comitê Governamental de Convivência com o Semiárido.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Fórum Estadual de Convivência com o Semiárido
 
 Art. 9º - Fica criado o Fórum Estadual de Convivência com o Semiárido, com funções propositiva, consultiva e de acompanhamento da Política Estadual de Convivência com o Semiárido, vinculado à Casa Civil.
@@ -237,7 +244,8 @@ Art. 13 - O funcionamento, a representação dos membros do Fórum Estadual de C
 
 Art. 14 - As reuniões ordinárias do Fórum Estadual de Convivência com o Semiárido deverão ocorrer, prioritariamente, em Municípios do Semiárido, observando-se a alternância entre os mesmos.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Comitê Governamental de Convivência com o Semiárido
 
 Art. 15 - O Comitê Governamental de Convivência com o Semiárido, no âmbito do Sistema Estadual de Convivência com o Semiárido, tem a finalidade de promover a articulação e a integração dos órgãos da Administração Pública, direta e indireta, vinculadas à convivência com o semiárido, com as seguintes competências:
@@ -264,7 +272,8 @@ Parágrafo único - O Secretário da Casa Civil presidirá o Comitê Governament
 
 Art. 17 - Os órgãos da Administração Pública direta e indireta, com atuação no semiárido, na qualidade de executores da Política Estadual de Convivência com o Semiárido, seguirão as orientações e recomendações formuladas pelo Comitê Governamental de Convivência com o Semiárido.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PLANEJAMENTO E GESTÃO
 
 Art. 18 - A implantação da Política Estadual de Convivência com o Semiárido terá como instrumentos de planejamento e gestão:
@@ -307,7 +316,8 @@ Art. 21 - As instâncias de governanças do Sistema Estadual de Convivência com
 
 Art. 22 - O Poder Executivo apoiará a instalação do Observatório do Semiárido como instrumento de construção e disseminação de conhecimento, participação e controle social, acompanhamento e análise das ações da Política Estadual de Convivência com o Semiárido.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS MECANISMOS DE FINANCIAMENTO E INCENTIVO
 
 Art. 23 - As ações de convivência com o semiárido deverão integrar programas do anexo de prioridades da Lei de Diretrizes Orçamentárias - LDO e serão financiadas com recursos do orçamento do Estado, alocados diretamente nos planos de trabalho dos órgãos e entidades da Administração Pública Estadual.
@@ -316,7 +326,8 @@ Art. 24 - A aplicação dos recursos financeiros de orçamento próprio e outros
 
 Art. 25 - Para a ampliação das ações de convivência com o semiárido, o poder público poderá ainda valer-se de equalização de taxas de juros de financiamentos, renúncias fiscais e isenção de impostos.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIçõES FINAIS
 
 Art. 26 - São ações de convivência com o semiárido aquelas abrigadas em programas e ações previstos no Plano Plurianual - PPA, contínuas, tais como universalização do acesso à agua para consumo humano, dessedentação animal e uso produtivo da agricultura familiar, assistência técnica e extensão rural, inclusão produtiva e combate à pobreza, aquisição e distribuição de sementes e insumos necessários para produção, matrizes e mudas.

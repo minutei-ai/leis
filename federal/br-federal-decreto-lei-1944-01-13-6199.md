@@ -1,5 +1,3 @@
-###DEL-006199-0-000-13-01-1944@@@
-
 DECRETO-LEI N. 6.199 – DE 13 DE JANEIRO DE 1944
 
 Concede pensão especial a D. Gabriela d’Escragnolle Taunay, filha solteira do Visconde Alfredo d’Escragnolle Taunay

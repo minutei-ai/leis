@@ -22,5 +22,6 @@ Art.4°: Esta lei entra em vigor 45 (quarenta e cinco) dias, após a data de sua
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 02 dias do mês de Junho de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

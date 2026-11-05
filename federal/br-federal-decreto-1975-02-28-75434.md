@@ -1,5 +1,3 @@
-###DEC-075434-0-000-28-02-1975@@@
-
 DECRETO Nº 75.434, DE 28 DE FEVEREIRO DE 1975.
 
 Concede à Cimentos do Brasil S.A. - CIBRASA o direito de lavrar calcário no Município de Capanema, Estado do Pará.

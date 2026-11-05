@@ -1,5 +1,3 @@
-###DEC-093068-0-000-06-08-1986@@@
-
 DECRETO Nº 93.068, DE 06 DE AGOSTO DE 1986
 
 Homologa a demarcação da Área Indígena que menciona no Estado de Rondônia.

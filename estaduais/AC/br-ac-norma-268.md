@@ -1,12 +1,14 @@
 > **LEI Nº 3.239, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Semana de Conscientização sobre a Microcefalia.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Semana de Conscientização sobre a Microcefalia.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
-
-<br>
 
 **Art. 1º** Fica instituída a Semana de Conscientização sobre a Microcefalia a ser realizada, anualmente, na primeira semana do mês de dezembro.
 

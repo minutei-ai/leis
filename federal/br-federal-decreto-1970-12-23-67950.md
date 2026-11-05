@@ -1,5 +1,3 @@
-###DEC-067950-0-000-23-12-1970@@@
-
 decreto nº 67.950, de 23 de dezembro de 1970.
 
 Concede à Sociedade The Sydney Ross Co. autorização para continuar a funcionar na República Federativa do Brasil.

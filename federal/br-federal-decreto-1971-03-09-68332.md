@@ -1,5 +1,3 @@
-###DEC-068332-0-000-09-03-1971@@@
-
 DECRETO Nº 68.332, DE 9 DE MARÇO DE 1971.
 
 Outorga à Centrais Elétricas de São Paulo S.A. concessão para o aproveitamento Hidráulico dos rios Paraibuna e Paraitinga, no Estado de S. Paulo.

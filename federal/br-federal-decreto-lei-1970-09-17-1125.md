@@ -1,5 +1,3 @@
-###DEL-001125-0-000-17-09-1970@@@
-
 # DECRETO-LEI Nº 1.125, DE 17 DE SETEMBRO DE 1970
 
 Fixa recursos para a implantação do Programa de Integração Social.

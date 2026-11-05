@@ -1,5 +1,3 @@
-###DEC-053090-0-000-09-12-1963@@@
-
 DECRETO Nº 53.090, DE 9 DE DEZEMBRO DE 1963.
 
 Abre à Superintendência do Desenvolvimento do Nordeste (SUDENE) o crédito especial de Cr$64.490.000.000,00 (sessenta e quatro bilhões e quatrocentos milhões de cruzeiros), destinados à execução do Plano Diretor aprovado pela Lei nº 4.239 de 27 de junho de 1963.

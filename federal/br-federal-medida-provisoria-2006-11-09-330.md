@@ -1,5 +1,3 @@
-###MPV-000330-0-000-09-11-2006@@@
-
 MEDIDA PROVISÓRIA Nº 330, DE 9 DE NOVEMBRO DE 2006.
 
 Abre crédito extraordinário ao Orçamento de Investimento para 2006, em favor de empresas do Grupo ELETROBRÁS, no valor total de R$ 106.726.769,00, para os fins que especifica.
@@ -17,5 +15,3 @@ Brasília, 9 de novembro de 2006; 185º da Independência e 118º da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 10.11.2006

@@ -1,5 +1,3 @@
-###MPV-001994-0-039-11-05-2000@@@
-
 Medida Provisória nº 1.994-39, de 11 de maio de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

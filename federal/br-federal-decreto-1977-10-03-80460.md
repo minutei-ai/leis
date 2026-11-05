@@ -1,5 +1,3 @@
-###DEC-080460-0-000-03-10-1977@@@
-
 DECRETO Nº 80.460, DE 3 DE OUTUBRO DE 1977.
 
 Concede à Lavras Santo Amaro S.A. o direito de lavrar argila no Município de Jacupiranga, Estado de São Paulo.

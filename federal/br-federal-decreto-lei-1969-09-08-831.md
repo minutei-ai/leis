@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0cc033ee-d266-44be-ae84-9961862fc406/texto#nowhere)
 
-###DEL-000831-0-000-08-09-1969@@@
-
 DECReto-LEI Nº 831, De 8 DE SETeMBRO DE 1969
 
 Dá nova redação aos §§ 2º e 4º do artigo 7º do Decreto-lei nº 512, de 21 de março, de 1969, e dá outras providências.

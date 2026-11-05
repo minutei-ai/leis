@@ -1,5 +1,3 @@
-###DEC-007229-0-000-12-07-2010@@@
-
 DECRETO Nº 7.229, DE 12 DE JULHO DE 2010.
 
 Acresce parágrafo único ao art. 48 do Decreto nº 4.502, de 9 de dezembro de 2002, que aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército - R-68.

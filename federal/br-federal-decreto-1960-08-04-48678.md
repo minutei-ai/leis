@@ -1,5 +1,3 @@
-###DEC-048678-0-000-04-08-1960@@@
-
 DECRETO Nº 48.678, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado na cidade do Rio de Janeiro.

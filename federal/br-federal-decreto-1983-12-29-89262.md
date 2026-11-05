@@ -1,5 +1,3 @@
-###DEC-089262-0-000-29-12-1983@@@
-
 Decreto nº 89.262, de 29 de dezembro de 1983.
 
 Concede autorização ao navio de pesquisa "KNORR" de bandeira norte-americana, para realizar em águas brasileiras os serviços que especifica.

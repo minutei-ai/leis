@@ -1,5 +1,3 @@
-###DEC-050898-0-000-03-07-1961@@@
-
 Decreto nº 50.898, de 3 de julho de 1961.
 
 Autoriza a Babcock & Wilcox (Caldeiras) S.A., a instalar um grupo diesel elétrico.

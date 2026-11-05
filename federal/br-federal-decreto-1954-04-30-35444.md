@@ -1,25 +1,23 @@
-###DEC-035444-0-000-30-04-1954@@@
+**DECRETO Nº 35.444, DE 30 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.444, DE 30 DE ABRIL DE 1954.</strong>
+***Declara públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do ribeirão Melo.***
 
-<em><strong>Declara públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do ribeirão Melo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1940, e
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1940, e
-
-CONSIDERANDO que o edital de classificação do curso dágua publicado no “<em>Diário Oficial</em>” de 13 de agôsto de 1952 retificado no “<em>Diário Oficial</em>” de 20 de agôsto de 1952, não suscitou qualquer contestação ou reclamação;
+CONSIDERANDO que o edital de classificação do curso dágua publicado no “*Diário Oficial*” de 13 de agôsto de 1952 retificado no “*Diário Oficial*” de 20 de agôsto de 1952, não suscitou qualquer contestação ou reclamação;
 
 CONSIDERANDO que o Conselho Nacional de Águas e Energia Elétrica opinou pela classificação constante do mesmo edital,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º São declaradas públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do ribeirão denominado Melo, em tôda a sua extensão, que nasce no município de Carandaí, divide êste do de Rio Espera e é tributário pela margem direita do rio Piranga.
+**Art**. 1º São declaradas públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do ribeirão denominado Melo, em tôda a sua extensão, que nasce no município de Carandaí, divide êste do de Rio Espera e é tributário pela margem direita do rio Piranga.
 
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º - Revogam-se as disposições em contrário.
+**Art**. 3º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

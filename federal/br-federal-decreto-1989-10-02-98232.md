@@ -1,7 +1,3 @@
-1
-
-###DEC-098232-0-000-02-10-1989@@@
-
 DECRETO Nº 98.232, DE 2 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, de um imóvel rural, situada no Município de Maringá, Estado do Paraná, destinada à instalação de Estação Telefônica da Telecomunicações do Paraná S.A. - TELEPAR, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056885-0-000-20-09-1965@@@
-
 DECRETO Nº 56.885, DE 20 DE SETEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos do Brasil Companhia de Seguros Gerais, relativa ao aumento do capital social.

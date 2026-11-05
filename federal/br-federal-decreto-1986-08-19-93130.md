@@ -1,5 +1,3 @@
-###DEC-093130-0-000-19-08-1986@@@
-
 DECRETO Nº 93.130, DE 19 DE AGOSTO DE 1986
 
 Autoriza o aumento do Capital Social da VALENORTE ALUMÍNIO LTDA.

@@ -1,5 +1,3 @@
-###DEC-057857-0-000-25-02-1966@@@
-
 DECRETO Nº 57.857, DE 25 DE FEVEREIRO DE 1966.
 
 Renova o Decreto nº 53.459, de 20 de janeiro de 1964.

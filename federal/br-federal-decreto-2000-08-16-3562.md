@@ -1,5 +1,3 @@
-###DEC-003562-0-000-16-08-2000@@@
-
 DECRETO Nº 3.562, DE 16 DE AGOSTO DE 2000.
 
 Acresce dispositivo ao Decreto nº 2.809, de 22 de outubro de 1998.

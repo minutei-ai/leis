@@ -1,5 +1,3 @@
-###DEC-045178-0-000-31-12-1958@@@
-
 DECRETO Nº 45.178, DE 31 DE DEZEMBRO DE 1958.
 
 Outorga à “Fábricas Unidas de Tecidos, Rendas e Bordados S.A.” concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Chiqueiro, 2º distrito de Magé, município de Magé Estado do Rio de Janeiro.

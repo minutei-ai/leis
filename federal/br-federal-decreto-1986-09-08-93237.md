@@ -1,5 +1,3 @@
-###DEC-093237-0-000-08-09-1986@@@
-
 DECRETO Nº 93.237, DE 08 DE SETEMBRO DE 1986
 
 Regula as atividades de Advocacia Consultiva da União, no Poder Executivo.

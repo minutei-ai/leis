@@ -1,5 +1,3 @@
-###DEC-074057-0-000-14-05-1974@@@
-
 DECRETO Nº 74.057, DE 14 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A - PETROBRÁS, terras, imóveis e benfeitorias situadas em Municípios do Estado de São Paulo.

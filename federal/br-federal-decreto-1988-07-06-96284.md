@@ -1,5 +1,3 @@
-###DEC-096284-0-000-06-07-1988@@@
-
 DECRETO N° 96.284, DE 6 DE JULHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Esmeralda, da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

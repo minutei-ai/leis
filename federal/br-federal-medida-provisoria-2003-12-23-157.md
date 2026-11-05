@@ -1,5 +1,3 @@
-###MPV-000157-0-000-23-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 157, DE 23 DE DEZEMBRO 2003.
 
 Altera o inciso IV do art. 6o da Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes.

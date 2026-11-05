@@ -1,5 +1,3 @@
-###DEC-088648-0-000-30-08-1983@@@
-
 Decreto nº 88.648, de 30 de agosto de 1983
 
 Homologa a demarcação topográfica da área indígena que menciona, no Estado do Pará.

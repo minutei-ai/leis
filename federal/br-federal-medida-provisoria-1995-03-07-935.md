@@ -1,7 +1,3 @@
-1
-
-###MPV-000935-0-000-07-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 935, DE 7 DE  MARÇO DE 1995
 
 Revoga dispositivos das Leis nºs 8.019, de 11 de abril de 1990 e 8.212, de 24 de julho de 1991.

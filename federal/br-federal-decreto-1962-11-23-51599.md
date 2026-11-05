@@ -1,5 +1,3 @@
-###DEC-051599-0-000-23-11-1962@@@
-
 DECRETO Nº 51.599, de 23 de novembro de 1962.
 
 Altera o art. 6º do Decreto nº 51.504, de 11 de junho de 1962.

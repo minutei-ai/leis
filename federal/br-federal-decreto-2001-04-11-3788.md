@@ -1,5 +1,3 @@
-###DEC-003788-0-000-11-04-2001@@@
-
 DECRETO Nº 3.788, DE 11 DE ABRIL DE 2001
 
 Institui, no âmbito da Administração Pública Federal, o Certificado de Regularidade Previdenciária- CRP.

@@ -1,5 +1,3 @@
-###DEC-096889-0-000-30-09-1988@@@
-
 DECRETO N° 96.889, DE 30 DE SETEMBRO DE 1988
 
 Outorga concessão à FUNDAÇÃO EVANGÉLICA TRINDADE, para executar serviço de radiodifusão de sons e imagens (televisão), na Cidade de São Paulo, Estado de São Paulo.

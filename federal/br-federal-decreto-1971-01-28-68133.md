@@ -1,5 +1,3 @@
-###DEC-068133-0-000-28-01-1971@@@
-
 decreto Nº 68.133, de 28 de janeiro de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, a loja e sobreloja "A" e a respectiva fração ideal do terreno do Edifício sito a rua Francisco Sá, nº 88, em Ipanema na Cidade do Rio de Janeiro, no Estado da Guanabara, destinados a instalações de serviços da Companhia Telefônica Brasileira.

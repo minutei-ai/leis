@@ -1,5 +1,3 @@
-###DEC-071211-0-000-05-10-1972@@@
-
 DECRETO Nº 71.211 - de 5 de Outubro de 1972.
 
 Atribui competência ao Ministro da Saúde para aprovar a Farmacopéia Homeopática Brasileira e dá outras providências.

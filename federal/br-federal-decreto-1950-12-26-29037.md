@@ -1,24 +1,22 @@
-###DEC-029037-0-000-26-12-1950@@@
+**DECRETO N. 29.037 – DE 26 DE DEZEMBRO DE 1950**
 
-<strong>DECRETO N. 29.037 – DE 26 DE DEZEMBRO DE 1950</strong>
-
-<em><strong>Outorga à Usina Açucareira Esther S. A. concessão para o aproveitamento de energia hiadráulica da cachoeira do Funil, existente no rio Jaguari, Distrito de Cosnópolis, município de Cosnópolis, Estado de São Paulo.</strong></em>
+***Outorga à Usina Açucareira Esther S. A. concessão para o aproveitamento de energia hiadráulica da cachoeira do Funil, existente no rio Jaguari, Distrito de Cosnópolis, município de Cosnópolis, Estado de São Paulo.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto n° 24.643, de 10 de julho de 1934),
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Respeitados os direitos de terceiros, é outorgada à Usina Açucareira Esther S. A, concessão para o aproveitamento da energia hidráulica da cachoeira do Funil, existente no rio Jaguari, distrito de Cosnópolis, município de Cosnópolis, Estado de São Paulo.
+**Art.** 1º Respeitados os direitos de terceiros, é outorgada à Usina Açucareira Esther S. A, concessão para o aproveitamento da energia hidráulica da cachoeira do Funil, existente no rio Jaguari, distrito de Cosnópolis, município de Cosnópolis, Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura, no ato de aprovação dos projetos, serão determinadas a altura da queda a aproveitar a descarga da derivação e a potência.
 
-§ 2º O aproveitamento destina-se ao uso exclusivo da concessionária que não poderá ceder energia a terceiros. mesmo a título gratuito, excluídas. todavia, desta proibição as vilas operárias da concessionária, <em>des</em>de que seja gratuito o fornecimento de energia que lhes for feito.
+§ 2º O aproveitamento destina-se ao uso exclusivo da concessionária que não poderá ceder energia a terceiros. mesmo a título gratuito, excluídas. todavia, desta proibição as vilas operárias da concessionária, *des*de que seja gratuito o fornecimento de energia que lhes for feito.
 
-<strong>Art.</strong> 2º Caducará o presente titulo, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art.** 2º Caducará o presente titulo, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério ds Agricultura, dentro de trinta (30) dias. contádos da data de sua publicação.
 
-II – Assinar o contrato disciplinar da concessão cuja minuta será preparada pela Divisão <em>de</em> Aguas, dentro do prazo de trinta (30) dias, a contar da data em que fôr publicada a respectiva aprovação pelo Ministério da, Agricultura.
+II – Assinar o contrato disciplinar da concessão cuja minuta será preparada pela Divisão *de* Aguas, dentro do prazo de trinta (30) dias, a contar da data em que fôr publicada a respectiva aprovação pelo Ministério da, Agricultura.
 
 III – Requerer à Divisão de Águas, mediante o arquivamento de certidão comprobatória, a averbação do registro do referido contrato no Tribunal de Contas, dentro de sessenta (60) dias da realização do mesmo.
 
@@ -86,24 +84,24 @@ j) Orçamento detalhado correspondente a cada um dos itens anteriores.
 
 V – Iniciar e concluir as obras nos prazos que forem determinados pelo Ministério da Agricultura, executando-as de acôrdo com os projetos aprovados e com as modificações que forem autorizadas, se necessárias.
 
-<strong>Parágrafo único.</strong> Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
+**Parágrafo único.** Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Govêrno da União, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
+**Art.** 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Govêrno da União, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que o Govêrno da União não faça uso do seu direito a essa reversão.
 
 § 2º A concessionária deverá, entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art.</strong> 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art.** 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art.</strong> 6º O presente decreto entra em vigor na data de sua publicação.
+**Art.** 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art.</strong> 7º Revogam-se as disposições em contrário.
+**Art.** 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de dezembro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho

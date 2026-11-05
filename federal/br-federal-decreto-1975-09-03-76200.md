@@ -1,5 +1,3 @@
-###DEC-076200-0-000-03-09-1975@@@
-
 DECRETO Nº 76.200 - de 3 de setembro de 1975
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Ciências, Letras e Educação de Presidente Prudente, com sede na cidade de Presidente Prudente, Estado de São Paulo.

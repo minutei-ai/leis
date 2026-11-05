@@ -1,5 +1,3 @@
-###DEC-082681-0-000-21-11-1978@@@
-
 DECRETO Nº 82.681, DE 21 DE NOVEMBRO DE 1978
 
 Autoriza à conversão dos cursos de Ciências, licenciatura de 1º grau, de Matemática e de Ciências Biológicas, em curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Santos, com sede na cidade de Santos, Estado de São Paulo.

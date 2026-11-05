@@ -1,5 +1,3 @@
-###DEC-049818-0-000-05-01-1961@@@
-
 DECRETO Nº 49.818, DE 5 DE JANEIRO DE 1961.
 
 Concede equiparação aos Cursos de Iniciação e Mestria Agrícola da Escola Prática de Agricultura “José Bonifácio”.

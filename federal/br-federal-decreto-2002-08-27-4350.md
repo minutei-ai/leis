@@ -1,5 +1,3 @@
-###DEC-004350-0-000-27-08-2002@@@
-
 DECRETO Nº 4.350, DE 27 DE AGOSTO DE 2002
 
 Dá nova redação ao art. 7º do Decreto nº 4.263, de 10 de junho de 2002, que dispõe sobre a criação da Ordem do Mérito da Defesa, e dá outras providências.

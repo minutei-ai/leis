@@ -1,5 +1,3 @@
-###DEC-080818-0-000-24-11-1977@@@
-
 Decreto nº 80.818, de 24 de novembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação pela União Federal, direitos sobre o terreno que menciona, situado no Município de Foz do Iguaçu, Estado do Paraná.

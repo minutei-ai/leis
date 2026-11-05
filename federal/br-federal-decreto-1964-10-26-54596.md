@@ -1,5 +1,3 @@
-###DEC-054596-0-000-26-10-1964@@@
-
 DECRETO Nº 54.596, DE 26 DE OUTUBRO DE 1964.
 
 Transfere concessão para distribuir energia elétrica.
@@ -23,8 +21,6 @@ Brasília, 26 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054596-0-000-26-10-1964@@@RET01+++
 
 Decreto nº 54.596, de 26 de outubro de 1964.
 

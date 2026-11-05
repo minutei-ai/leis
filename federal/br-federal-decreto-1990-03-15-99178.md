@@ -1,7 +1,3 @@
-1
-
-###DEC-099178-0-000-15-03-1990@@@
-
 DECRETO Nº 99.178, DE 15 DE MARÇO DE 1990
 
 Dispõe sobre contenção de despesas na Administração Pública Federal e dá outras providências.

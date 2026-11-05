@@ -1,5 +1,3 @@
-###DEC-080232-0-000-29-08-1977@@@
-
 Decreto nº 80.232, de 29 de agosto de 1977.
 
 Altera a redação do artigo 6º do Decreto nº 79.399, de 16 de março de 1977.

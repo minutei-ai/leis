@@ -1,5 +1,3 @@
-###DEC-088293-0-000-09-05-1983@@@
-
 Decreto nº 88.293, de 09 de maio de 1983
 
 Aprova o Estatuto da Empresa Pública Banco Nacional da Habitação.

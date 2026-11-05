@@ -1,5 +1,3 @@
-###DEC-064138-0-000-26-02-1969@@@
-
 DECRETO Nº 64.138, de 26 DE FEVEREIRO DE 1969.
 
 Cria o Comando Militar do Planalto.

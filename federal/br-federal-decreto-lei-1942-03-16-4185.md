@@ -1,5 +1,3 @@
-###DEL-004185-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.185 – DE 16 DE MARÇO DE 1942
 
 Estabelece normas de contabilidade para os Ministérios da Guerra, Marinha e Aeronáutica e dá outras providências.

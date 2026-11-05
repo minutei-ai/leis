@@ -1,5 +1,3 @@
-###DEC-046595-0-000-14-08-1959@@@
-
 DECRETO Nº 46.595, DE 14 DE AGÔSTO DE 1959.
 
 Concede à Companhia de Seguros Phoenix Paulista autorização para funcionar e aprovar os seus Estatutos.

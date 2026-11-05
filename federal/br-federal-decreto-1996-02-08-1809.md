@@ -1,5 +1,3 @@
-###DEC-001809-0-000-08-02-1996@@@
-
 DECRETO Nº 1.809, DE 8 DE FEVEREIRO DE 1996
 
 Aprova a alteração do art. 5° do Estatuto Social da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

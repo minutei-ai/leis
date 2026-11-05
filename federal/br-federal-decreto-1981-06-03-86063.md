@@ -1,5 +1,3 @@
-###DEC-086063-0-000-03-06-1981@@@
-
 Decreto nº 86.063, de 03 de junho de 1981.
 
 Autoriza a incorporação ao patrimônio da Companhia Brasileira de Armazenamento - CIBRAZEM, do terreno que menciona, situado no Município de Porto Velho, Território Federal de Rondônia.

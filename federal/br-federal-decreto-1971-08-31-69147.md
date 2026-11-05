@@ -1,5 +1,3 @@
-###DEC-069147-0-000-31-08-1971@@@
-
 DECRETO Nº 69.147, DE 31 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública o Hospital Beneficente Santo Antônio, com sede em Orlândia, Estado de São Paulo.

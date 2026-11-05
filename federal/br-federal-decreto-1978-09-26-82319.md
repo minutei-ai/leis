@@ -1,5 +1,3 @@
-###DEC-082319-0-000-26-09-1978@@@
-
 Decreto nº 82 319, de 26 de setembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Campina Grande, Estado da Paraíba.

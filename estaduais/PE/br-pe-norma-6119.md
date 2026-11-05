@@ -322,63 +322,74 @@ Palácio do Campo das Princesas, em 9 de dezembro de 1997.
 
 Governador do Estado
 
-<br>
-
 **ANEXO I**
 
 **ORGANIZAÇÃO EM CARREIRA**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="859" style="width:644.55pt;margin-left:.75pt;border:solid windowtext 1.0pt"><tbody><tr style="page-break-inside:avoid"><td width="14%" rowspan="2" style="width:14.04%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center;text-indent:3.35pt">REFERÊNCIAS</p></td><td width="44%" colspan="6" style="width:44.58%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">GRAUS (Efetivo Tempo de Serviço)</p></td><td width="41%" rowspan="2" style="width:41.4%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><h1 align="center" style="text-align:center"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-weight:normal">ENQUADRAMENTO DAS REFERÊNCIAS</span></h1><p class="MsoNormal" align="center" style="margin-left:-16.35pt;text-align:center;
-  text-indent:16.35pt">REFERÊNCIA DA LEI Nº 11.195/94</p></td></tr><tr style="page-break-inside:avoid"><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">E</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">F</p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ - I</p></td><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">Inicial</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">05 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10 anos</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">20 anos</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">25 anos</p></td><td width="41%" style="width:41.4%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ-I e PJ-II</p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ - II</p></td><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">Inicial</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">05 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10 anos</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">20 anos</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">25 anos</p></td><td width="41%" style="width:41.4%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ-III e PJ-IV</p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ - III</p></td><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">Inicial</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">05 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10 anos</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">20 anos</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">25 anos</p></td><td width="41%" style="width:41.4%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ-V e PJVI</p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ - IV</p></td><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">Inicial</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">05 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10 anos</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">20 anos</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">25 anos</p></td><td width="41%" style="width:41.4%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ-VII e PJ-VIII</p></td></tr><tr><td width="14%" style="width:14.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ - V</p></td><td width="6%" style="width:6.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">Inicial</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">05 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10 anos</p></td><td width="7%" style="width:7.92%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15 anos</p></td><td width="8%" style="width:8.9%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">20 anos</p></td><td width="3%" style="width:3.98%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">25 anos</p></td><td width="41%" style="width:41.4%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PJ-IX e PJ-X</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> REFERÊNCIAS </td><td colspan="6"> GRAUS (Efetivo Tempo de Serviço) </td><td rowspan="2"><h1>ENQUADRAMENTO DAS REFERÊNCIAS</h1> REFERÊNCIA DA LEI Nº 11.195/94 </td></tr><tr><td> A </td><td> B </td><td> C </td><td> D </td><td> E </td><td> F </td></tr><tr><td> PJ - I </td><td> Inicial </td><td> 05 anos </td><td> 10 anos </td><td> 15 anos </td><td> 20 anos </td><td> 25 anos </td><td> PJ-I e PJ-II </td></tr><tr><td> PJ - II </td><td> Inicial </td><td> 05 anos </td><td> 10 anos </td><td> 15 anos </td><td> 20 anos </td><td> 25 anos </td><td> PJ-III e PJ-IV </td></tr><tr><td> PJ - III </td><td> Inicial </td><td> 05 anos </td><td> 10 anos </td><td> 15 anos </td><td> 20 anos </td><td> 25 anos </td><td> PJ-V e PJVI </td></tr><tr><td> PJ - IV </td><td> Inicial </td><td> 05 anos </td><td> 10 anos </td><td> 15 anos </td><td> 20 anos </td><td> 25 anos </td><td> PJ-VII e PJ-VIII </td></tr><tr><td> PJ - V </td><td> Inicial </td><td> 05 anos </td><td> 10 anos </td><td> 15 anos </td><td> 20 anos </td><td> 25 anos </td><td> PJ-IX e PJ-X </td></tr></tbody></table>
 
 **ANEXO II**
 
 # QUANTITATIVO DE CARGOS
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="825" style="width:618.95pt;margin-left:7.2pt;border:solid windowtext 1.0pt"><tbody><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">ESTRUTURA DE CARGOS P/VARA</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">EXISTENTE</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A CRIAR</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Técnico Judiciário de 1ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">115</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Auxiliar Judiciário de 1a Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">87</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Assistente Judiciário de 1ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VETADO</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">02 (dois) Oficial de Justiça de 1ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">142</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Técnico Judiciário de 2ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">227</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Auxiliar Judiciário de 2ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">19</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">128</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">01 (um) Assistente Judiciário de 2ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">22</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VETADO</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">02 (dois) Oficial de Justiça de 2ª Entrância</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">244</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td></tr><tr><td width="74%" style="width:74.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal">TOTAL</p></td><td width="12%" style="width:12.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">769</p></td><td width="12%" style="width:12.98%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">430</p></td></tr></tbody></table>
+ESTRUTURA DE CARGOS P/VARA
+
+EXISTENTE
+
+A CRIAR
+
+01 (um) Técnico Judiciário de 1ª Entrância
+
+115
+
+-
+
+01 (um) Auxiliar Judiciário de 1a Entrância
+
+-
+
+87
+
+01 (um) Assistente Judiciário de 1ª Entrância
+
+-
+
+VETADO
+
+02 (dois) Oficial de Justiça de 1ª Entrância
+
+142
+
+-
+
+01 (um) Técnico Judiciário de 2ª Entrância
+
+227
+
+-
+
+01 (um) Auxiliar Judiciário de 2ª Entrância
+
+19
+
+128
+
+01 (um) Assistente Judiciário de 2ª Entrância
+
+22
+
+VETADO
+
+02 (dois) Oficial de Justiça de 2ª Entrância
+
+244
+
+-
+
+TOTAL
+
+769
+
+430
 
 (Vide a alínea “c” do inciso V do art. 27 da [Lei nº 12.643, de 22 de julho de 2004](https://legis.alepe.pe.gov.br/?lo126432004).)

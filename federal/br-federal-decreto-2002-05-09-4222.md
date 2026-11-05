@@ -1,5 +1,3 @@
-###DEC-004222-0-000-09-05-2002@@@
-
 DECRETO Nº 4.222, DE 9 DE MAIO DE 2002
 
 Dispõe sobre a execução do Quadragésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (prorrogação do ACE-2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 29 de junho de 2001.

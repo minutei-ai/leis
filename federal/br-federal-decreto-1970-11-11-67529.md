@@ -1,5 +1,3 @@
-###DEC-067529-0-000-11-11-1970@@@
-
 decreto nº 67.529, de 11 de novembro de 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério do Exército, cargo originário do Ministério dos Transportes e dá outras providências.

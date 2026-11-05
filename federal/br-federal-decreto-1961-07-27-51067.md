@@ -1,5 +1,3 @@
-###DEC-051067-0-000-27-07-1961@@@
-
 DECRETO Nº 51.067, DE 27 DE JULHO DE 1961.
 
 Altera o artigo 1º do Decreto número 50.521, de 3 de maio de 1961, que criou o Grupo Executivo da Indústria Metalúrgica (GEIMET).

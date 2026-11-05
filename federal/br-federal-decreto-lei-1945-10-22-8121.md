@@ -1,5 +1,3 @@
-###DEL-008121-0-000-22-10-1945@@@
-
 DECRETO-LEI N. 8.121 – DE 22 DE OUTUBRO DE 1945
 
 Fixa os cargos do pessoal do magistério da Prefeitura do Distrito Federal e dá outras  providências.

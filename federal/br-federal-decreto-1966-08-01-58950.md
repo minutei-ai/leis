@@ -1,5 +1,3 @@
-###DEC-058950-0-000-01-08-1966@@@
-
 DECRETO Nº 58.950, DE 1º DE AGÔSTO DE 1966.
 
 Outorga ao Município de Juruti concessão para distribuir energia elétrica.

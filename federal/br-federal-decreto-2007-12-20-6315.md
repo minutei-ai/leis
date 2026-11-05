@@ -1,5 +1,3 @@
-###DEC-006315-0-000-20-12-2007@@@
-
 DECRETO Nº 6.315, DE 20 DE DEZEMBRO DE 2007.
 
 Acresce dispositivo à alínea “e” do inciso I do art. 1o do Decreto no 5.926, de 9 de outubro de 2006, que fixa os cargos privativos de Oficial-General da Aeronáutica em tempo de paz.
@@ -19,5 +17,3 @@ Brasília, 20 de  dezembro  de 2007; 186o da Independência e 119o da Repúbli
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 21.12.2007

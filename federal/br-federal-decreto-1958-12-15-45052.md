@@ -1,5 +1,3 @@
-###DEC-045052-0-000-15-12-1958@@@
-
 DECRETO Nº 45.052, DE 15 DE DEZEMBRO DE 1958.
 
 Cria o Colégio Militar de Curitiba e dá outras providências.

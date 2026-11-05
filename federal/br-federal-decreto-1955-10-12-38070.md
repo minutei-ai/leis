@@ -1,6 +1,4 @@
-###DEC-038070-0-000-12-10-1955@@@
-
-<strong>DECRETO Nº 38.070, DE 12 DE OUTUBRO DE 1955.</strong>
+**DECRETO Nº 38.070, DE 12 DE OUTUBRO DE 1955.**
 
 <!-- fac-simile-oficial:inicio -->
 

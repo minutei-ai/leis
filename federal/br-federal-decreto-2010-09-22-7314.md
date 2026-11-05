@@ -1,5 +1,3 @@
-###DEC-007314-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.314, DE 22 DE SETEMBRO DE 2010.
 
 Dá nova redação ao § 3~~º~~ do art. 55 do Decreto n~~º~~ 7.123, de 3 de março de 2010, que dispõe sobre o Conselho Nacional de Previdência Complementar - CNPC e sobre a Câmara de Recursos da Previdência Complementar - CRPC.

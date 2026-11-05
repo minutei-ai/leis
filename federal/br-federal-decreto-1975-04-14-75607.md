@@ -1,5 +1,3 @@
-###DEC-075607-0-000-14-04-1975@@@
-
 DECRETO Nº 75.607, DE 14 DE ABRIL DE 1975.
 
 Concede reconhecimento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Rio Pardo, Estado de São Paulo, mantida pela Instituição Toledo de Ensino, com sede em Bauru, no mesmo Estado.

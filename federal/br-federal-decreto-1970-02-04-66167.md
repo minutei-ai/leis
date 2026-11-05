@@ -1,5 +1,3 @@
-###DEC-066167-0-000-04-02-1970@@@
-
 DECRETO Nº 66.167 - DE 4 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Associação das Senhoras de Caridade de São Vicente de Paulo de Bareirinha, com sede em Curitiba, Estado do Paraná.

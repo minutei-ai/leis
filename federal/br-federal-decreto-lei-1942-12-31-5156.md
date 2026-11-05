@@ -1,5 +1,3 @@
-###DEL-005156-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.156 – DE 31 DE DEZEMBRO DE 1942
 
 Altera o art. 5º do decreto-lei n. 4.398, de 24 de junho de 1942

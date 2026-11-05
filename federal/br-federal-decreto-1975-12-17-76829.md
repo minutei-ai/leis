@@ -1,5 +1,3 @@
-###DEC-076829-0-000-17-12-1975@@@
-
 DECRETO Nº 76.829, DE 17 DE DEZEMBRO DE 1975.
 
 Concede à Companhia Industrial Belo Horizonte, com sede em Belo Horizonte, Minas Gerais, autorização para funcionar aos domingos e nos dias feriados civis e religiosos, nos estabelecimentos fabris que menciona.

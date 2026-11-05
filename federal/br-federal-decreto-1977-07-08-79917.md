@@ -1,5 +1,3 @@
-###DEC-079917-0-000-08-07-1977@@@
-
 Decreto nº 79.917, de 08 de julho de 1977
 
 Regulamenta o artigo 22 da Lei nº 3.765, de 4 de maio de 1960, que dispõe sobre as Pensões Militares, na redação dada pelo Decreto-lei nº 197, de 24 de fevereiro de 1967.

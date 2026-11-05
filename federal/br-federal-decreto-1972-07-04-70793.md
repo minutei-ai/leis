@@ -1,5 +1,3 @@
-###DEC-070793-0-000-04-07-1972@@@
-
 Decreto nº 70.793, de 4 de julho de 1972.
 
 Transfere as atribuições do Escritório da Reforma Administrativa e dá outras providências.

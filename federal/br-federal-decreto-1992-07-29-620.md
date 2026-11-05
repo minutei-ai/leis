@@ -1,5 +1,3 @@
-###DEC-000620-0-000-29-07-1992@@@
-
 DECRETO N° 620, DE 29 DE JULHO DE 1992
 
 Altera a composição do Conselho de Administração da RADIOBRÁS  Empresa Brasileira de Comunicação S.A.

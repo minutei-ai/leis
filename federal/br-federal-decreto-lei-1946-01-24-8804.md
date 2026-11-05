@@ -1,5 +1,3 @@
-###DEL-008804-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.804 – DE 24 DE JANEIRO DE 1946
 
 Cria cargos isolados no Ministério da Justiça e Negócios Interiores

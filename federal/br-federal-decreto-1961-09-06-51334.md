@@ -1,5 +1,3 @@
-###DEC-051334-0-000-06-09-1961@@@
-
 DECRETO Nº 51.334, DE 6 DE SETEMBRO DE 1961.
 
 Altera o art. 12 do Decreto número 41.186, de 20 de março de 1957

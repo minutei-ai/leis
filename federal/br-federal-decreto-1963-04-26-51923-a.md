@@ -1,5 +1,3 @@
-###DEC-051923-A-000-26-04-1963@@@
-
 DECRETO Nº 51.923-A, de 26 de abril de 1963.
 
 Autoriza Caraça Ferro e Aço S.A., emprêsa de mineração, a lavrar minérios de ferro e de manganês no município de Santa Barbara, Estado de Minas Gerais.

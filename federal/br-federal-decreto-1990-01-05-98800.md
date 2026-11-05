@@ -1,7 +1,3 @@
-1
-
-###DEC-098800-0-000-05-01-1990@@@
-
 DECRETO Nº 98.800, DE 5 DE JANEIRO DE 1990
 
 Inclui a categoria profissional de Agentes de Higiene e Segurança no Trabalho entre as categorias abrangidas pelo Decreto nº 79.966, de 14 de julho de 1977, com as alterações introduzidas pelos Decretos nºs 83.089, de 24 de janeiro de 1979 e 94.500, de 19 de junho de 1987.

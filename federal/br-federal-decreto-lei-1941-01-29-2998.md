@@ -1,5 +1,3 @@
-###DEL-002998-0-000-29-01-1941@@@
-
 DECRETO-LEI N. 2.998 – DE 29 DE JANEIRO DE 1941
 
 Autoriza ao Prefeito do Distrito Federal isentar a “Associação Pro-Matre” de pagamento do imposto predial relativo aos imoveis que menciona, e dá outras providências.

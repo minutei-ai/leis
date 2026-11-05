@@ -1,5 +1,3 @@
-###DEC-004796-0-000-29-07-2003@@@
-
 DECRETO Nº 4.796, DE 29 DE JULHO DE 2003.
 
        Institui o Fórum Nacional do Trabalho e dá outras providências.
@@ -66,5 +64,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 Brasília, 29 de julho de 2003; 182o da Independência e 115o da República
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Jaques Wagner

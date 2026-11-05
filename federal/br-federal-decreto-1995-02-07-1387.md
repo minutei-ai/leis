@@ -1,5 +1,3 @@
-###DEC-001387-0-000-07-02-1995@@@
-
 DECRETO Nº 1.387, DE 7 DE FEVEREIRO DE 1995
 
 Dispõe sobre o afastamento do País de servidores civis da Administração Pública Federal, e dá outras providências.

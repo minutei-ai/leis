@@ -144,8 +144,6 @@ Art. 11. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 5 de outubro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

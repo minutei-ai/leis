@@ -2,7 +2,11 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 > **LEI Nº 3.129, DE 23 DE MAIO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica, Educação Profissional e Ensino Superior, no âmbito do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica, Educação Profissional e Ensino Superior, no âmbito do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -16,17 +20,13 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **Art. 1º** Fica criado o Programa Institucional de Bolsas para a Educação Básica, Educação Profissional e Ensino Superior, que tem por finalidade incentivar a dedicação aos estudos e às atividades de ensino, pesquisa, extensão, monitoria, tutoria e preceptoria no âmbito do Sistema Estadual de Educação, das autarquias vinculadas à Secretaria de Estado de Educação e Esporte - SEE e das unidades escolares da rede pública estadual de educação básica, visando contribuir para a melhoria da qualidade da educação, da difusão cultural e da prática esportiva no Estado do Acre, conforme as hipóteses previstas nesta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
 
-<br>
-
 **~~Art. 2°~~** ~~O Programa Institucional Bolsas para a Educação Básica e Educação Profissional cumprirá seus objetivos e finalidades mediante a concessão de bolsas de natureza educacional, científica e tecnológica pelo desempenho, exercício ou prestação de atividades educativas de ensino, pesquisa, extensão, monitoria, tutoria e preceptoria a beneficiários que se enquadrarem nas hipóteses de concessão de bolsas da presente lei.~~
 
 **Art. 2°** O Programa Institucional Bolsas para a Educação Básica, Educação Profissional e Ensino Superior cumprirá seus objetivos e finalidades mediante a concessão de bolsas de natureza educacional, científica, tecnológica, esportiva e cultural pelo desempenho, exercício ou prestação de atividades educativas de ensino, pesquisa, extensão, monitoria, tutoria e preceptoria a beneficiários que se enquadrarem nas hipóteses de concessão de bolsas da presente lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
 
-<br>
-
 **~~Parágrafo único.~~** ~~Considera-se bolsa o valor pecuniário destinado a fomentar atividades de ensino, pesquisa, extensão, monitoria, tutoria e preceptoria no âmbito do Sistema Estadual de Educação e das escolas da rede pública estadual de educação básica.~~
 
-**Parágrafo ún****ico.** Considera-se bolsa o valor pecuniário destinado a fomentar as atividades descritas no _caput_ do art. 1º, de natureza precária e sempre condicionada às disposições do art. 12 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017) 
+**Parágrafo único.** Considera-se bolsa o valor pecuniário destinado a fomentar as atividades descritas no _caput_ do art. 1º, de natureza precária e sempre condicionada às disposições do art. 12 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017) 
 
 **CAPÍTULO II**
 
@@ -38,7 +38,7 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **~~I –~~** ~~estudantes do 9º ano do ensino fundamental, do ensino médio, da educação de jovens e adultos e dos programas de aceleração de aprendizagem para correção da distorção idade-série/defasagem idade-ano das unidades escolares das redes públicas estaduais de educação básica e de educação profissional;~~
 
-**I -** estudantes do 9º ano do ensino fundamental, do ensino médio, da educação de jovens e adultos e dos programas de aceleração de aprendizagem para correção da distorção idade série/defasagern idade ano das unidades escolares das redes públicas estaduais de educação básica e de educação profissional, bem como os alunos do sistema socioeducativo, que estejam devidamente matriculados no ensino regular, ou em curso profissionalizante com frequência devidamente comprovada; (Redação dada pela Lei nº 4.072, de 26/12/2022)<br>
+**I -** estudantes do 9º ano do ensino fundamental, do ensino médio, da educação de jovens e adultos e dos programas de aceleração de aprendizagem para correção da distorção idade série/defasagern idade ano das unidades escolares das redes públicas estaduais de educação básica e de educação profissional, bem como os alunos do sistema socioeducativo, que estejam devidamente matriculados no ensino regular, ou em curso profissionalizante com frequência devidamente comprovada; (Redação dada pela Lei nº 4.072, de 26/12/2022)
 
 **II –** servidores públicos estaduais, do grupo magistério, responsáveis pela supervisão de alunos bolsistas ou enquadráveis nas demais hipóteses de concessão de bolsas a profissionais docentes; 
 
@@ -51,8 +51,6 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 **VI –** profissionais e acadêmicos ligados à prática desportiva; e (Incluído pela Lei nº 3.255, de 06/06/2017) 
 
 **VII –** estudantes de nível superior em áreas que possam prestar apoio ao desenvolvimento cultural. (Incluído pela Lei nº 3.255, de 06/06/2017) 
-
-<br>
 
 **CAPÍTULO III**
 
@@ -122,7 +120,7 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **~~Art. 5º~~** ~~Para se tornar bolsista do Programa Institucional de Bolsas para Educação Básica e Educação Profissional, o aluno das unidades escolares da rede pública estadual de educação básica deverá atender aos seguintes requisitos cumulativos:~~
 
-**Art. 5º** Para se tornar bolsista do Programa Institucional de Bolsas para Educação Básica, Educação Profissional e Ensino Superior os possíveis beneficiários listados no art. 3º desta lei deverão atender aos requisitos estabelecidos através do ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)<br>
+**Art. 5º** Para se tornar bolsista do Programa Institucional de Bolsas para Educação Básica, Educação Profissional e Ensino Superior os possíveis beneficiários listados no art. 3º desta lei deverão atender aos requisitos estabelecidos através do ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
 
 **I –** estar regularmente matriculado nas escolas da rede pública estadual de educação básica;
 
@@ -130,15 +128,11 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **III –** apresentar desempenho nas avaliações externas em larga escala enquadrável no espectro do nível de proficiência considerado “adequado” ou “avançado”, para o ano/série que estiver cursando, vedada a percepção de bolsa para alunos cujo desempenho esteja enquadrado nos níveis “abaixo do básico” ou “básico”.
 
-<br>
-
 **§ 1º** Sendo aluno do instituto socioeducativo, o candidato a bolsista deverá cumprir com os seguintes requisitos adicionais: (Incluído pela Lei nº 4.072, de 26/12/2022)
 
 **I -** apresentar bom rendimento no curso que aderiu; (Incluído pela Lei nº 4.072, de 26/12/2022)
 
 **II -** apresentar frequência regular em curso profissionalizante. (Incluído pela Lei nº 4.072, de 26/12/2022)
-
-<br>
 
 **§ 2º** O descumprimento do disposto no § 1º, incisos I e II deste artigo implicará no cancelamento da bolsa e não ensejará dever de indenização por parte da administração pública. (Incluído pela Lei nº 4.072, de 26/12/2022)
 
@@ -170,9 +164,9 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **Das Obrigações dos Bolsistas**
 
-**~~Art. 9º~~** ~~O aluno bolsista do Programa Institucional de Bolsas para Educação Básica e Educação Profissional deve~~~~rá cumprir com as seguintes obrigações:~~
+**~~Art. 9º~~** ~~O aluno bolsista do Programa Institucional de Bolsas para Educação Básica e Educação Profissional deverá cumprir com as seguintes obrigações:~~
 
-**Art. 9º** Para se tornar bolsista do Programa Institucional de Bolsas para Educação Básica, Educação Profissional e Ensino Superior, os possíveis beneficiários abrangidos por esta lei deverão atender aos requisitos estabelecidos através do ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)<br>
+**Art. 9º** Para se tornar bolsista do Programa Institucional de Bolsas para Educação Básica, Educação Profissional e Ensino Superior, os possíveis beneficiários abrangidos por esta lei deverão atender aos requisitos estabelecidos através do ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
 
 **I –** assinar termo de compromisso, o qual estabelecerá as responsabilidades das partes, a ser celebrado em conjunto com o secretário de Estado de Educação, com o gestor da escola e com o respectivo professor tutor; e
 
@@ -218,8 +212,6 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **Parágrafo único.** As obrigações dos profissionais não-docentes e leigos serão definidas através do ato normativo de que trata o art. 22 desta lei. (Incluído pela Lei nº 3.255, de 06/06/2017)
 
-<br>
-
 **CAPÍTULO VI**
 
 **Do Pagamento das Bolsas**
@@ -264,15 +256,11 @@ Modificada pelas Leis nº [3.255, de 06 de Junho de 2017;](https://legis.ac.gov.
 
 **Art. 16.** Os municípios do Estado do Acre, bem como instituições governamentais e não governamentais poderão aderir ao Programa Institucional de Bolsas para a Educação Básica, Educação Profissional e Ensino Superior, mediante celebração de termo de cooperação, obedecendo critérios estabelecidos no ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
 
-<br>
-
 **Art. 17.** Os demais requisitos, critérios de seleção, obrigações e atividades a serem desenvolvidas pelos bolsistas não dispostas na presente lei serão descritas em edital de seleção ou em ato normativo específico publicado para este fim, segundo a especificidade de cada modalidade de bolsa.  
 
 **~~Art. 18.~~** ~~As atividades desenvolvidas pelo bolsista serão acompanhadas pelo professor tutor e monitoradas pela SEE.~~
 
 **Art. 18.** O acompanhamento das atividades desenvolvidas pelo bolsista será realizado conforme condições e critérios estabelecidos no ato normativo de que trata o art. 22 desta lei. (Redação dada pela Lei nº 3.255, de 06/06/2017)
-
-<br>
 
 **Art. 19.** O bolsista não poderá acumular o recebimento de bolsas de diferentes programas. 
 
@@ -289,9 +277,5 @@ Rio Branco-Acre, 23 de maio de 2016, 128º da República, 114º do Tratado de Pe
 **Tião Viana**
 
 Governador do Estado do Acre
-
-<br>
-
-<br>
 
 **\***Ementa original “Dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica e Educação Profissional, da Secretaria de Estado de Educação e Esporte – SEE” alterada pela Lei nº 3.255, de 06/06/2017, para “Dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica, Educação Profissional e Ensino Superior, no âmbito do Estado do Acre”.

@@ -1,5 +1,3 @@
-###DEC-057340-0-000-25-11-1965@@@
-
 decreto nº 57.340, de 25 de novembro de 1965.
 
 Autoriza a Emprêsa de Mineração Badin Ltda. a pesquisar minério de ouro e cassiterita nos municípios de Livramento do Brumado e Rio de Contas, Estado da Bahia.

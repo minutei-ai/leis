@@ -1,5 +1,3 @@
-###DEC-004474-0-000-20-11-2002@@@
-
 DECRETO Nº 4.474, DE 20 DE NOVEMBRO DE 2002
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Cultural Palmares - FCP, e dá outras providências.

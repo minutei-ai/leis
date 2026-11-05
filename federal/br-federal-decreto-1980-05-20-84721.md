@@ -1,5 +1,3 @@
-###DEC-084721-0-000-20-05-1980@@@
-
 DECRETO Nº 84.721, DE 20 DE MAIO DE 1980
 
 Autoriza o funcionamento do recurso de Pedagogia da Faculdade de Educação, em Sobral, Estado do Ceará.

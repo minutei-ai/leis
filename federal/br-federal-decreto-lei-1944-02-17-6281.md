@@ -1,5 +1,3 @@
-###DEL-006281-0-000-17-02-1944@@@
-
 DECRETO-LEI N. 6.281 – DE 17 DE FEVeREIRO 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 59.726,00, para pagamento de materiais fornecidos à Estrada de Ferro Central do Rio Grande do Norte

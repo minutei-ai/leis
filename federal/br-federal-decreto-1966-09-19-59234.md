@@ -1,5 +1,3 @@
-###DEC-059234-0-000-19-09-1966@@@
-
 DECRETO Nº 59.234, DE 19 DE SETEMBRO DE 1966.
 
 Estabelece o local do Aeródromo para Aviação Civil de Pequeno Porte e serviços correlatos, no Estado da Guanabara e dá outras providências.

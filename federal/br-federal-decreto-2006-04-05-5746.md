@@ -1,5 +1,3 @@
-###DEC-005746-0-000-05-04-2006@@@
-
 DECRETO Nº 5.746, DE 5 DE ABRIL DE 2006.
 
 Regulamenta o art. 21 da Lei nº 9.985, de 18 de julho de 2000, que dispõe sobre o Sistema Nacional de Unidades de Conservação da Natureza.
@@ -222,7 +220,19 @@ O presente Termo é firmado na presença do Gerente Executivo do IBAMA no Estado
 
 TESTEMUNHAS:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:257.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">______________________________________________</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Nome: CPF: CI:</span></p></td><td style="width:2.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:257.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">______________________________________________</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Nome: CPF: CI:</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:257.35pt; vertical-align:top">
+
+______________________________________________&nbsp; Nome: CPF: CI:
+
+</td><td style="width:2.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:257.35pt; vertical-align:top">
+
+______________________________________________&nbsp; Nome: CPF: CI:
+
+</td></tr></tbody></table>
 
 MINISTÉRIO DO MEIO AMIENTE
 

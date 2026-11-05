@@ -1,5 +1,3 @@
-###DEC-052536-0-000-30-09-1963@@@
-
 DECRETO Nº 52.536, DE 30 DE SETEMBRO DE 1963.
 
 Transfere para a Comissão Estadual de Energia Elétrica do Rio Grande do Sul a concessão para distribuir energia elétrica no município de Feliz, e dá outras providências.

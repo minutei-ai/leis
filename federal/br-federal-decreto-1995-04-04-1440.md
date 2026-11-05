@@ -1,7 +1,3 @@
-1
-
-###DEC-001440-0-000-04-04-1995@@@
-
 # DECRETO Nº 1.440, DE 4 DE ABRIL DE 1995
 
 Dispõe sobre a transferência dos cargos em comissão que menciona.

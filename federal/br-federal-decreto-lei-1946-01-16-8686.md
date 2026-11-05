@@ -1,5 +1,3 @@
-###DEL-008686-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.686 – DE 16 DE JANEIRO DE 1946
 
 Incorpora o Instituto Osvaldo Cruz à Universidade do Brasil e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056317-0-000-21-05-1965@@@
-
 DECRETO Nº 56.317, DE 21 DE MAIO DE 1965.
 
 Autoriza Porcelana Real S.A. a pesquisar caulim, no município de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058364-0-000-09-05-1966@@@
-
 decreto nº 58.364, de 9 de maio de 1966.
 
 Concede reconhecimento à Faculdade de Ciências Médicas da Universidade do Maranhão.

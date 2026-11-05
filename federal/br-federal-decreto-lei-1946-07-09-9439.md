@@ -1,5 +1,3 @@
-###DEL-009439-0-000-09-07-1946@@@
-
 DECRETO-LEI N. 9.439 – DE 9 DE JULHO DE 1946
 
 Retifica o Decreto-lei nº 9.240, de 7 de Maio de 1946

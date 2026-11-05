@@ -1,5 +1,3 @@
-###DEC-052293-0-000-24-07-1963@@@
-
 decreto nº 52.293, de 24 de julho de 1963.
 
 Dispõe sôbre a denominação e manutenção do estabelecimento de ensino que indica.

@@ -1,5 +1,3 @@
-###DEC-074073-0-000-16-05-1974@@@
-
 DECRETO Nº 74.073, DE 16 DE MAIO DE 1974.
 
 Regulamenta o item II do artigo 6º da Lei nº 5.964, de 10 de dezembro de 1973, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008743-0-000-19-01-1946@@@
-
 DECRETO\-LEI N. 8.743 – DE 19 DE JANEIRO DE 1946
 
 Institui uma  Comissão de Inquérito e dá outras  providências.

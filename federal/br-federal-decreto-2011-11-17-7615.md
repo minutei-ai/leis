@@ -1,5 +1,3 @@
-###DEC-007615-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.615, DE 17 DE NOVEMBRO DE 2011
 
 Altera o art. 2º do Decreto nº 7.560, de 8 de setembro de 2011, que dispõe sobre os procedimentos a serem observados pelos órgãos da Administração Pública federal quanto às ações do Poder Executivo federal no âmbito da Autoridade Pública Olímpica - APO.

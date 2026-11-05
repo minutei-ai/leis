@@ -70,45 +70,37 @@ Rodrigo Pimentel de Souza Lima
 
 Secretário da Administração
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:432.2pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="2" style="width:432.2pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="576"><p class="Tabela-Texto" style="margin-right:21.2pt"><span style="color:black;
-  font-weight:normal">ANEXO I<br>PERCENTUAIS DA GAC</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">Número de Pontos Obtidos no Trimestre de Referência</span></p></td><td style="width:216.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">Percentual da GAC</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">25 pontos ou mais</span></p></td><td style="width:216.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">50%</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">De 19 a 24 pontos</span></p></td><td style="width:216.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">45%</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">De 13 a 18 pontos</span></p></td><td style="width:216.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">35%</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">De 06 a 12 pontos</span></p></td><td style="width:216.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="288"><p class="Tabela-Texto" style="margin-left:0cm"><span style="color:black;
-  font-weight:normal">20%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> ANEXO I PERCENTUAIS DA GAC </td></tr><tr><td> Número de Pontos Obtidos no Trimestre de Referência </td><td> Percentual da GAC </td></tr><tr><td> 25 pontos ou mais </td><td> 50% </td></tr><tr><td> De 19 a 24 pontos </td><td> 45% </td></tr><tr><td> De 13 a 18 pontos </td><td> 35% </td></tr><tr><td> De 06 a 12 pontos </td><td> 20% </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:432.2pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:21.2pt;margin-bottom:
-  3.0pt;margin-left:0cm"><span style="color:black;font-weight:normal">ANEXO II<br>ATIVIDADES DE CAMPO PASSÍVEIS DE CONCESSÃO DA GAC</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">&nbsp;I - inspeções, vistorias e aferições realizadas em áreas ou empreendimentos industriais do setor químico, petroquímico, metalurgíco e siderúrgico, minerários, energéticos, de infraestrutura, atividades relacionadas à extração mineral, petróleo e gás, geração e distribuição de energia, gerenciamento de resíduos e efluentes e armazenamento e transporte de substâncias ou produtos químicos;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">II - inspeções, vistorias e aferições realizadas em atividades relacionadas à fauna silvestre, incluindo criadouros comerciais ou científicos, centros de triagem, manutenção ou reabilitação de animais silvestres, zoológicos, abatedouros e frigoríficos de animais silvestres;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">III - atendimento emergencial em áreas com ocorrência de derramamento, vazamento, incêndio, explosão, rompimento de estruturas, acidentes ambientais ou situações que impliquem potencial de contaminação por produtos químicos, biológicos ou perigosos, independentemente do porte do empreendimento;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">IV - inspeções, vistorias e aferições de recursos naturais em ambientes aquáticos e manguezais;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">V - desenvolvimento de atividades em ambientes de caverna;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">VI - inspeções e vistorias realizadas por sobrevoo tripulado ou escalada;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">VII - atividades de apreensão, recepção, resgate, manejo e contenção de animais peçonhentos;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">VIII - inspeções, vistorias, aferições, apreensão ou repressão de atividades ambientais ilegais ou irregulares, tais como exploração mineral clandestina ou irregular, extração ilegal de madeira, produção irregular de carvão vegetal, uso, armazenamento ou detonação irregular de explosivos, pesca com uso de artefatos explosivos, caça ilegal, tráfico de fauna silvestre, supressão irregular de vegetação nativa, ocupações ou intervenções ambientais não autorizadas;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">IX - vistorias, inspeções e aferições em áreas florestais e de vegetação nativa ou em restauração, empreendimentos agrossilvipastoris, de aquicultura, urbanismo, de interesse social e utilidade pública, produção de energia, cerâmicas, ou unidades de conservação;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">X - instalação e manutenção, em campo, de equipamentos eletrônicos de monitoramento ambiental, tais como estações hidrológicas, hidrometeorológicas, meteorológicas, hidrogeológicas, de qualidade do ar e de qualidade da água;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">XI - atividades de campo que envolvam atuação institucional perante órgãos colegiados, bem como a participação em audiências públicas, reuniões, oficinas e demais eventos com controle social relacionados às políticas ambientais, de recursos hídricos e de prevenção a incêndios florestais;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">XII - vistoria para fins de fiscalização de segurança de barragens;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">XIII - inspeção para cadastro de usuários de recursos hídricos, imóveis rurais e àreas de solturas de animais silvestres;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">XIV - estudos e inspeções de campo para subsidiar a criação de Unidades de Conservação, a elaboração, implementação e revisãode de Planos de Manejo e a promoção de projetos socioambientais executados nessas áreas protegidas;</span></p></td></tr><tr><td style="width:432.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p class="Tabela-Texto"><span style="color:black;font-weight:normal">XV - realização em campo de campanhas de sensibilização e engajamento social.</span></p></td></tr></tbody></table>
+ANEXO II
+ATIVIDADES DE CAMPO PASSÍVEIS DE CONCESSÃO DA GAC
+
+I - inspeções, vistorias e aferições realizadas em áreas ou empreendimentos industriais do setor químico, petroquímico, metalurgíco e siderúrgico, minerários, energéticos, de infraestrutura, atividades relacionadas à extração mineral, petróleo e gás, geração e distribuição de energia, gerenciamento de resíduos e efluentes e armazenamento e transporte de substâncias ou produtos químicos;
+
+II - inspeções, vistorias e aferições realizadas em atividades relacionadas à fauna silvestre, incluindo criadouros comerciais ou científicos, centros de triagem, manutenção ou reabilitação de animais silvestres, zoológicos, abatedouros e frigoríficos de animais silvestres;
+
+III - atendimento emergencial em áreas com ocorrência de derramamento, vazamento, incêndio, explosão, rompimento de estruturas, acidentes ambientais ou situações que impliquem potencial de contaminação por produtos químicos, biológicos ou perigosos, independentemente do porte do empreendimento;
+
+IV - inspeções, vistorias e aferições de recursos naturais em ambientes aquáticos e manguezais;
+
+V - desenvolvimento de atividades em ambientes de caverna;
+
+VI - inspeções e vistorias realizadas por sobrevoo tripulado ou escalada;
+
+VII - atividades de apreensão, recepção, resgate, manejo e contenção de animais peçonhentos;
+
+VIII - inspeções, vistorias, aferições, apreensão ou repressão de atividades ambientais ilegais ou irregulares, tais como exploração mineral clandestina ou irregular, extração ilegal de madeira, produção irregular de carvão vegetal, uso, armazenamento ou detonação irregular de explosivos, pesca com uso de artefatos explosivos, caça ilegal, tráfico de fauna silvestre, supressão irregular de vegetação nativa, ocupações ou intervenções ambientais não autorizadas;
+
+IX - vistorias, inspeções e aferições em áreas florestais e de vegetação nativa ou em restauração, empreendimentos agrossilvipastoris, de aquicultura, urbanismo, de interesse social e utilidade pública, produção de energia, cerâmicas, ou unidades de conservação;
+
+X - instalação e manutenção, em campo, de equipamentos eletrônicos de monitoramento ambiental, tais como estações hidrológicas, hidrometeorológicas, meteorológicas, hidrogeológicas, de qualidade do ar e de qualidade da água;
+
+XI - atividades de campo que envolvam atuação institucional perante órgãos colegiados, bem como a participação em audiências públicas, reuniões, oficinas e demais eventos com controle social relacionados às políticas ambientais, de recursos hídricos e de prevenção a incêndios florestais;
+
+XII - vistoria para fins de fiscalização de segurança de barragens;
+
+XIII - inspeção para cadastro de usuários de recursos hídricos, imóveis rurais e àreas de solturas de animais silvestres;
+
+XIV - estudos e inspeções de campo para subsidiar a criação de Unidades de Conservação, a elaboração, implementação e revisãode de Planos de Manejo e a promoção de projetos socioambientais executados nessas áreas protegidas;
+
+XV - realização em campo de campanhas de sensibilização e engajamento social.

@@ -1,5 +1,3 @@
-###DEL-003357-0-000-19-06-1941@@@
-
 DECRETO-LEI N. 3.357 – DE 19 DE JUNHO DE 1941
 
 Revoga o art. 40 do decreto-lei n. 2.122, de 9 de abril de 1940

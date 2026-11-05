@@ -1,5 +1,3 @@
-###DEC-070995-0-000-17-08-1972@@@
-
 DECRETO Nº 70.995, DE 17 DE AGOSTO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Barra do Piraí - RJ.

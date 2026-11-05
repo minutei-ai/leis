@@ -1,5 +1,3 @@
-###DEC-002313-0-000-29-08-1997@@@
-
 DECRETO Nº 2.313, DE 29 DE AGOSTO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.162, de 24 de fevereiro de 1997.

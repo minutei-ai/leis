@@ -1,14 +1,12 @@
-###DEC-043912-0-000-18-06-1958@@@
+**DECRETO Nº 43.912, DE 18 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.912, DE 18 DE JUNHO DE 1958.</strong>
+***Dá nova redação aos Arts. 4º - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 23 e 28 do Regulamento da Escola Técnica do Exército, aprovado pelo Decreto nº 14.947, de 3 de março de 1944, e alterado pelos Decretos ns. 20.802, de 21 de março de 1956 e nº 27.887, de 17 de março de 1950, e acrescenta ao citado Regulamento os Artigos 4-A - 21-A - 21-B - 21-C - 21-D - 21-E - 21-F - 21-G - 21-H - 21-I - 21-J - 21-L - 21-M - 21-N e 21-O.***
 
-<em><strong>Dá nova redação aos Arts. 4º - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 23 e 28 do Regulamento da Escola Técnica do Exército, aprovado pelo Decreto nº 14.947, de 3 de março de 1944, e alterado pelos Decretos ns. 20.802, de 21 de março de 1956 e nº 27.887, de 17 de março de 1950, e acrescenta ao citado Regulamento os Artigos 4-A - 21-A - 21-B - 21-C - 21-D - 21-E - 21-F - 21-G - 21-H - 21-I - 21-J - 21-L - 21-M - 21-N e 21-O.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o Artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o Artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os Arts. 4º - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 23 e 28 do Regulamento da Escola Técnica do Exército (Decretos números 14.947, de 6 de março de 1944; 20.802, de 21 de março de 1946 e 27.887, de 17 de março de 1950) passam a ter nova redação, sendo acrescidos ao citado Regulamento os artigos 4-A - 21-A - 21-B - 21-C - 21-D - 21-E - 21-F - 21-G - 21-H - 21-I - 21-J - 21-L - 21-M - 21-N e 21-O, conforme abaixo se especifica:
+**Art**. 1º Os Arts. 4º - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 23 e 28 do Regulamento da Escola Técnica do Exército (Decretos números 14.947, de 6 de março de 1944; 20.802, de 21 de março de 1946 e 27.887, de 17 de março de 1950) passam a ter nova redação, sendo acrescidos ao citado Regulamento os artigos 4-A - 21-A - 21-B - 21-C - 21-D - 21-E - 21-F - 21-G - 21-H - 21-I - 21-J - 21-L - 21-M - 21-N e 21-O, conforme abaixo se especifica:
 
 “Art. 4º O ensino da Escola desenvolve-se em três (3) anos para os Cursos Técnicos e em um ano para o Curso de Preparação.
 
@@ -122,7 +120,7 @@ d) Projetos de Fim de Curso.
 
 § 2º Os temas dos mencionados Projetos serão formulados por Comissões nomeadas em Boletim Interno e constituídas de professôres de curso interessado sob a presidência do respectivo Chefe. Essas comissões deverão acompanhar a execução dos trabalhos e os julgarão. Os alunos deverão receber os temas dos projetos até o fim da quarta semana do primeiro período do ano letivo.
 
-CA = <u>TC1 + TC2 + TC3 +</u>   <u>\+ TCn + 2 EP</u>
+CA = TC1 + TC2 + TC3 +   \+ TCn + 2 EP
 
 N + 2
 
@@ -186,7 +184,7 @@ b) justificação oral da solução adotada, bem como dos processos e métodos d
 
 § 4º O aluno, considerado inabilitado no primeiro julgamento (equivalente a Exame Final realizado em primeira época) do Projeto de Fim de Curso, será submetido a um segundo julgamento (equivalente a Exame Final realizado em segunda época), sôbre o mesmo Projeto, na primeira quinzena do ano letivo seguinte, segundo normas baixadas pela Direção de Ensino da Escola.
 
-Art. 21-I. Os alunos, habilitados em tôdas as disciplinas do Curso de Preparação, serão matriculados no primeiro ano de um dos Cursos Técnicos, na forma estabelecida no Art. 22 dêste Regulamento e de acôrdo com o Art. 23, letra <em>b</em>.
+Art. 21-I. Os alunos, habilitados em tôdas as disciplinas do Curso de Preparação, serão matriculados no primeiro ano de um dos Cursos Técnicos, na forma estabelecida no Art. 22 dêste Regulamento e de acôrdo com o Art. 23, letra *b*.
 
 “Art. 21-J. Os alunos dos 1º e 2º anos dos Cursos Técnicos, habilitados em tôdas as disciplinas, serão promovidos ao ano seguinte do respectivo curso.
 
@@ -218,9 +216,9 @@ a) nos Cursos Técnicos da média aritmética simples calculada entre os graus d
 
 b) no Curso de Preparação da média aritmética simples dos graus das disciplinas obtidos de acôrdo com o Art. 21-B.
 
-§ 1º O aluno do 3º ano do Curso Técnico, ou do Curso de Preparação aprovado em Exames Finais de segunda época, terá a sua classificação assegurada de acôrdo com as letras “<em>a</em>” e “<em>b</em>” dêste artigo.
+§ 1º O aluno do 3º ano do Curso Técnico, ou do Curso de Preparação aprovado em Exames Finais de segunda época, terá a sua classificação assegurada de acôrdo com as letras “*a*” e “*b*” dêste artigo.
 
-§ 2º O valor numérico da média aritmética obtida na forma estabelecida pela letra “<em>a</em>” do presente artigo, dará lugar às seguintes menções:
+§ 2º O valor numérico da média aritmética obtida na forma estabelecida pela letra “*a*” do presente artigo, dará lugar às seguintes menções:
 
 a) “MUITO BEM” - quando compreendido entre dez (10) e oito (8) inclusive;
 
@@ -256,9 +254,9 @@ b) No conjunto dos Cursos Técnicos:
 
 “Art. 28. O pedido de inscrição será feito em requerimento dirigido ao Comandante da Escola e entregue na Secretaria até 30 de setembro.
 
-<strong>Art</strong>. 2º Aos alunos inabilitados numa disciplina em Exames Finais de segunda época, referentes ao ano letivo de 1957 ou anteriores e que já estejam cursando o ano letivo de 1958 com dependência daquela disciplina, é permitido o gôzo dessa concessão sòmente no ano letivo de 1958.
+**Art**. 2º Aos alunos inabilitados numa disciplina em Exames Finais de segunda época, referentes ao ano letivo de 1957 ou anteriores e que já estejam cursando o ano letivo de 1958 com dependência daquela disciplina, é permitido o gôzo dessa concessão sòmente no ano letivo de 1958.
 
-<strong>Art</strong>. 3º Os alunos, promovidos aos 2º e 3º anos dos Cursos Técnicos antes da vigência do presente Decreto terão os graus de aprovação das disciplinas concluídas em 1957, ou em anos anteriores, calculados consoante os preceitos da legislação vigente na época.
+**Art**. 3º Os alunos, promovidos aos 2º e 3º anos dos Cursos Técnicos antes da vigência do presente Decreto terão os graus de aprovação das disciplinas concluídas em 1957, ou em anos anteriores, calculados consoante os preceitos da legislação vigente na época.
 
 Nas disciplinas iniciadas naqueles anos e que devam ser concluídas a partir de 1958, inclusive, o grau de aprovação das mesmas será a média aritmética verificada entre a Conta de Ano e o grau de Exame Final, em primeira época; ou será unicamente o grau do Exame Final, obtido em segunda época.
 
@@ -268,14 +266,14 @@ a) como Conta de Ano, a média aritmética verificada entre as Provas Parciais, 
 
 b) como grau de Exame Final, a média aritmética verificada entre o grau da prova oral e o da prova escrita.
 
-<strong>Art</strong>. 4º Os alunos promovidos aos 2º e 3º anos dos Cursos Técnicos, antes da vigência do presente Decreto, terão a sua classificação por merecimento intelectual calculada de acôrdo com a legislação vigente na época.
+**Art**. 4º Os alunos promovidos aos 2º e 3º anos dos Cursos Técnicos, antes da vigência do presente Decreto, terão a sua classificação por merecimento intelectual calculada de acôrdo com a legislação vigente na época.
 
-<strong>Art</strong>. 5º O Ministério da Guerra resolverá os casos não previstos no Regulamento da Escola Técnica do Exército.
+**Art**. 5º O Ministério da Guerra resolverá os casos não previstos no Regulamento da Escola Técnica do Exército.
 
-<strong>Art</strong>. 6º O presente Decreto entrará em vigor a partir do início do ano letivo de 1958, revogadas as disposições em contrário.
+**Art**. 6º O presente Decreto entrará em vigor a partir do início do ano letivo de 1958, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

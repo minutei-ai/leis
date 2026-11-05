@@ -1,5 +1,3 @@
-###DEL-005614-0-000-24-06-1943@@@
-
 DECRETO–LEI N. 5.614 – DE 24 DE JUNHO DE 1943
 
 Dispõe sôbre as taxas de água e esgotos no Distrito Federal

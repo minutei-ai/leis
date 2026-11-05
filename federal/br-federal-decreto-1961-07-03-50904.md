@@ -1,5 +1,3 @@
-###DEC-050904-0-000-03-07-1961@@@
-
 DECRETO Nº 50.904, DE 3 DE JULHO DE 1961.
 
 Regulamenta o artigo 28 da Lei que criou o Conselho Nacional de Pesquisas.

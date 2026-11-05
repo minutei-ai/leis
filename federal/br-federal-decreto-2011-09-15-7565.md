@@ -1,5 +1,3 @@
-###DEC-007565-0-000-15-09-2011-PUB-01@@@
-
 DECRETO Nº 7.565, DE 15 DE SETEMBRO DE 2011
 
 Dispõe sobre a criação e a manutenção do índice de preços de imóveis no Brasil.

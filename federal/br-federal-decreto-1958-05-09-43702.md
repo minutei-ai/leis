@@ -1,14 +1,12 @@
-###DEC-043702-0-000-09-05-1958@@@
+**DECRETO Nº 43.702, DE 9 DE MAIO DE 1958.**
 
-<strong>DECRETO Nº 43.702, DE 9 DE MAIO DE 1958.</strong>
+***Altera o Decreto nº 20.397, de 14 de janeiro de 1946, que regula o funcionamento da indústria farmacêutica no Brasil.***
 
-<em><strong>Altera o Decreto nº 20.397, de 14 de janeiro de 1946, que regula o funcionamento da indústria farmacêutica no Brasil.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº 1, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº 1, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam alterados os artigos 2º, 63, 68, 78, 92, 113, 114 e 124, seus parágrafos, itens e alíneas do Regulamento do Exercício da Indústria Farmacêutica no Brasil, aprovado pelo Decreto nº 20.397, de 14 de janeiro de 1946, que passam a ter a seguinte redação.
+**Art**. 1º Ficam alterados os artigos 2º, 63, 68, 78, 92, 113, 114 e 124, seus parágrafos, itens e alíneas do Regulamento do Exercício da Indústria Farmacêutica no Brasil, aprovado pelo Decreto nº 20.397, de 14 de janeiro de 1946, que passam a ter a seguinte redação.
 
 “Art. 2º Os estabelecimentos referidos no art. 1º com sede fora do Distrito Federal, em que se fabriquem ou manipulem produtos para o consumo no país, deverão se inscrever no Serviço Nacional de Fiscalização da Medicina e Farmácia.
 
@@ -76,7 +74,7 @@ a) as drogas e produtos químicos que carecerem de cuidados especiais na sua apl
 
 b) os extratos, lisados, frações de órgãos, hormônios, soros, vacinas, bacteriófagos, vitaminas, antibióticos, e outros congêneres a critério do Serviço Nacional de Fiscalização da Medicina e Farmácia por não serem de conservação relativamente longa;
 
-§ 3º As drogas e os produtos referidos nas alíneas <em>a</em> e <em>b</em> do parágrafo anterior poderão ser licenciados de conformidade com o disposto no artigo 65 e seus parágrafos deste regulamento”.
+§ 3º As drogas e os produtos referidos nas alíneas *a* e *b* do parágrafo anterior poderão ser licenciados de conformidade com o disposto no artigo 65 e seus parágrafos deste regulamento”.
 
 “Art. 113. Sempre que necessário, a autoridade sanitária fará a apreensão, para análise, de fórmulas medicamentos, as drogas, produtos químicos, biológicos, oficinais, de toucador, desinfetantes, antissépticos, especialidades farmacêuticas e congêneres, onde quer que se encontrem. Lavrará da apreensão auto em duas vias, que além de assinado pelo funcionário apreensor e será também por duas testemunhas idôneas e pelo interessado responsável ou seu substituto eventual, especificando-se no laudo a natureza e outras características do produto.
 
@@ -106,7 +104,7 @@ b) os extratos, lisados, frações de órgãos, hormônios, soros, vacinas, bact
 
 “Art. 124. Das decisões proferidas pelo Diretor do Serviço Nacional de Fiscalização da Medicina e Farmácia ou pelas autoridades sanitárias estaduais competentes caberá recurso, dentro de 60 dias, ao Diretor do Departamento Nacional de Saúde”.
 
-<strong>Art</strong>. 2º O item 1 da tabela que acompanha o Decreto nº 20.397, de 14 de janeiro de 1946 passa a ter a seguinte redação:
+**Art**. 2º O item 1 da tabela que acompanha o Decreto nº 20.397, de 14 de janeiro de 1946 passa a ter a seguinte redação:
 
 “1. Pedido de licenciamento ou modificação de fórmula de especialidades farmacêuticas, dietéticas, desinfetantes, produtos químicos de higiene e toucador, produtos oficinais e congêneres - 200,00”.
 
@@ -114,10 +112,10 @@ Parágrafo único. Fica incluída, na aludida tabela, a seguinte “nota”:
 
 “Nota: - Os emolumentos previstos na presente tabela serão cobrados em estampilhas federais coladas na petição ou no processo”.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, em 9 de maio de 1958; 137º da Independência e 70ª da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Maurício de Medeiros

@@ -1,7 +1,3 @@
-1
-
-###DEC-095881-0-000-29-03-1988@@@
-
 # DECRETO N° 95.881, DE 29 DE MARÇO DE 1988
 
 Outorga concessão à TV Universal Ltda., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Bauru, Estado de São Paulo.

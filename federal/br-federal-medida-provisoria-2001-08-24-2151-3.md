@@ -1,5 +1,3 @@
-###MPV-002151-0-003-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.151-3, DE 24 DE AGOSTO DE 2001
 
 Regulamenta o art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências.

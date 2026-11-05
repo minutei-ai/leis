@@ -1,5 +1,3 @@
-###DEC-003766-0-000-08-03-2001@@@
-
 DECRETO Nº 3.766, DE 8 DE MARÇO DE 2001
 
 Institui a Medalha do Mérito Social.

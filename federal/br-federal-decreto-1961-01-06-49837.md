@@ -1,5 +1,3 @@
-###DEC-049837-0-000-06-01-1961@@@
-
 Decreto nº 49.837, de 6 de janeiro de 1961.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

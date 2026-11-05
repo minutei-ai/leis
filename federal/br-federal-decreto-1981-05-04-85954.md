@@ -1,5 +1,3 @@
-###DEC-085954-0-000-04-05-1981@@@
-
 Decreto nº 85.954, de 04 de maio de 1981.
 
 Autoriza a elevação do capital social da Companhia Aços Especiais Itabira (ACESITA) e dá outras providências.

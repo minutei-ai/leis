@@ -1,5 +1,3 @@
-###DEC-054660-0-000-29-10-1964@@@
-
 DECRETO Nº 54.660, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Hidrelétrica do Rio Pardo a construir linha de transmissão.

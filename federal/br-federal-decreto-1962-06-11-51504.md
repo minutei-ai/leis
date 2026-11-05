@@ -1,5 +1,3 @@
-###DEC-051504-0-000-11-06-1962@@@
-
 DECRETO Nº 51.504, DE 11 DE JUNHO DE 1962.
 
 Proíbe temporàriamente o ingresso de pessoal, a qualquer título, no Serviço Civil do Poder Executivo e nas autarquias, bem como nas sociedades de economia mista subvencionadas pela União, e dá outras providências.

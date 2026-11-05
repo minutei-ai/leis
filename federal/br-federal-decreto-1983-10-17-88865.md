@@ -1,5 +1,3 @@
-###DEC-088865-0-000-17-10-1983@@@
-
 Decreto nº 88.865, de 17 de outubro de 1983
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 87.549, de 09 de setembro de 1982, que declara de utilidade pública faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ.

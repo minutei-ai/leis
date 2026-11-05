@@ -1,5 +1,3 @@
-###DEC-085579-0-000-22-12-1980@@@
-
 Decreto nº 85.579, de 22 de dezembro de 1980
 
 Autoriza OKURA FUJIWARA, de nacionalidade japonesa, a adquirir imóvel rural.

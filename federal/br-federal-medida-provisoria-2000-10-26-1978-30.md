@@ -1,5 +1,3 @@
-###MPV-001978-0-030\-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-30, De 26 de outubro DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

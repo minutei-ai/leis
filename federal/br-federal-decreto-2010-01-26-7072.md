@@ -1,5 +1,3 @@
-###DEC-007072-0-000-26-01-2010@@@
-
 DECRETO Nº 7.072, DE 26 DE JANEIRO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Nicósia, na República de Chipre.

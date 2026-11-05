@@ -1,5 +1,3 @@
-###DEC-052324-0-000-07-08-1963@@@
-
 Decreto Nº 52.324, DE 07 DE AgÔsto DE 1963.
 
 Oficializa o III Congresso Mundial de Anestesiologia, a realizar-se na cidade de São Paulo entre 20 e 26 de setembro de 1964.

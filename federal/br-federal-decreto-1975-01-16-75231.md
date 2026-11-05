@@ -1,5 +1,3 @@
-###DEC-075231-0-000-16-01-1975@@@
-
 DECRETO Nº 75.231, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento do curso de Serviço Social da Universidade Federal de Mato Grosso, com sede na Cidade de Cuiabá, Estado de Mato Grosso.

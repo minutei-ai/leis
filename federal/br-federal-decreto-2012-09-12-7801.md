@@ -1,5 +1,3 @@
-###DEC-007801-0-000-12-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.801, DE 12 DE SETEMBRO DE 2012
 
 Altera o Decreto n° 7.659, de 23 de dezembro de 2011, no tocante à alocação de cargos em comissão temporários para o Ministério da Defesa, e prevê representações do Ministério da Defesa em cidades-sede de grandes eventos.

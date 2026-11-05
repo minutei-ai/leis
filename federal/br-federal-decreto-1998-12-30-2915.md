@@ -1,5 +1,3 @@
-###DEC-002915-0-000-30-12-1998@@@
-
 DECRETO Nº 2.915, DE 30 DE DEZEMBRO DE 1998.
 
 Dá nova redação ao art. 8º do Decreto nº 91.800, de 18 de outubro de 1985, que dispõe sobre viagens ao exterior, a serviço ou com o fim de aperfeiçoamento, sem nomeação ou designação e dá outras providências.

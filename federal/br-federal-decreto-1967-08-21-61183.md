@@ -1,5 +1,3 @@
-###DEC-061183-0-000-21-08-1967@@@
-
 decreto Nº 61.183, de 21 de agôsto de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, no município de igual nome, Estado do Rio Grande do Norte.

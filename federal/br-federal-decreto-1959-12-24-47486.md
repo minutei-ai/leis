@@ -1,5 +1,3 @@
-###DEC-047486-0-000-24-12-1959@@@
-
 DECRETO Nº 47.486, DE 24 DE DEZEMBRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista da Comissão de Recebimento de Material do Estrangeiro para idêntica Tabela do Hospital da Guarnição da Vila Militar, ambas do Ministério da Guerra.

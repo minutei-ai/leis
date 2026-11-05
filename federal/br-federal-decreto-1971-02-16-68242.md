@@ -1,5 +1,3 @@
-###DEC-068242-0-000-16-02-1971@@@
-
 DECRETO Nº 68.242, DE 16 DE FEVEREIRO DE 1971.
 
 Retifica o Artigo 1º do Decreto número 62.939 de 2 de julho de 1968.

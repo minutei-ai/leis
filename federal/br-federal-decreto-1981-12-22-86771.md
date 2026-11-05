@@ -1,5 +1,3 @@
-###DEC-086771-0-000-22-12-1981@@@
-
 Decreto nº 86.771, de 22 de dezembro de 1981
 
 Prorroga até 31 de dezembro de 1984 o prazo para isenção do IPI incidente sobre os produtos destinados à construção, instalação ou modernização de sedes de embaixadas e repartições consulares, em Brasília.

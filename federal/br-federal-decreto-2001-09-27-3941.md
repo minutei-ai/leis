@@ -1,5 +1,3 @@
-###DEC-003941-0-000-27-09-2001@@@
-
 DECRETO Nº 3.941, DE 27 DE SETEMBRO DE 2001
 
 Promulga o Convênio Constitutivo do Banco de Compensações Internacionais.

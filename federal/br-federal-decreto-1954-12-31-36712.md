@@ -1,14 +1,12 @@
-###DEC-036712-0-000-31-12-1954@@@
+**DECRETO Nº 36.712, DE 31 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.712, DE 31 DE DEZEMBRO DE 1954.</strong>
+***Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.***
 
-<em><strong>Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, da Constituição Federal, e tendo em vista o disposto no § 1º do art. 17 da Lei nº 2.370, de 9 de dezembro de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, da Constituição Federal, e tendo em vista o disposto no § 1º do art. 17 da Lei nº 2.370, de 9 de dezembro de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Fica fixado, para o ano de 1954, no Ministério da Aeronáutica, o número mínimo de vagas para os postos abaixo, dentro dos seguintes limites:
+**Art**. 1.º Fica fixado, para o ano de 1954, no Ministério da Aeronáutica, o número mínimo de vagas para os postos abaixo, dentro dos seguintes limites:
 
 (1/7 do efetivo).................................................................................................................................1
 
@@ -54,10 +52,10 @@ Tenente-Coronel Médico ........................................................
 
 Major-Médico ............................................. ............ .........................................................................
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 31 de dezembro de 1954; 133º da Independência de 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

@@ -1,5 +1,3 @@
-###DEC-073272-0-000-10-12-1973@@@
-
 DECRETO Nº 73.272 - DE 10 DE DEZEMBRO DE 1973
 
 Dispõe sobre a competência para o processamento e o pagamento da pensão militar devida a beneficiários dos integrantes da Polícia Militar e do Corpo de Bombeiros do antigo Distrito Federal, transferidos para o Estado da Guanabara ou neste reincluídos.

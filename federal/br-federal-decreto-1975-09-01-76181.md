@@ -1,5 +1,3 @@
-###DEC-076181-0-000-01-09-1975@@@
-
 DECRETO Nº 76.181 - DE 1º DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Química da Pontifícia Universidade Católica do Rio de Janeiro.

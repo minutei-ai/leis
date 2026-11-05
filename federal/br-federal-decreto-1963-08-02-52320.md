@@ -1,5 +1,3 @@
-###DEC-052320-0-000-02-08-1963@@@
-
 DECRETO Nº 52.320, DE 2 DE AGôSTO DE 1963.
 
 Declara de urgência a desapropriação de que trata o Decreto número 51.905, de 19 de abril de 1963, re-ratifica o mesmo Decreto e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058263-0-000-27-04-1966@@@
-
 DECRETO Nº 58.263, DE 27 DE ABRIL DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Marítima Companhia de Seguros Gerais, relativa ao aumento do capital social.

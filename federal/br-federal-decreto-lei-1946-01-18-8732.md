@@ -1,5 +1,3 @@
-###DEL-008732-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.732 – DE 18 DE JANEIRO DE 1946
 
 Considera extranumerários-mensalistas os servidores admitidos pelo Coordenador da Mobilização Econômica e dá outras providências.

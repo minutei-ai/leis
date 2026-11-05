@@ -1,5 +1,3 @@
-###DEC-058445-0-000-17-05-1966@@@
-
 DECRETO Nº 58.445, DE 17 DE MAIO DE 1966.
 
 Retifica o Decreto nº 57.498, de 28 de dezembro de 1965.

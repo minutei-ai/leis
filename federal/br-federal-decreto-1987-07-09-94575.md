@@ -1,5 +1,3 @@
-###DEC-094575-0-000-09-07-1987@@@
-
 DECRETO N° 94.575, DE 9 DE JULHO DE 1987
 
 Dispõe sobre os Quadros de Oficiais da Ativa da Aeronáutica.

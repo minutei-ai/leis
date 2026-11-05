@@ -1,5 +1,3 @@
-###DEL-007842-0-000-02-08-1945@@@ 
-
 DECRETO-LEI N. 7.842 – DE 2 DE AGôSTO DE 1945
 
 Concede prazo as Cooperativas para se enquadrarem à legislação cooperativista vigente

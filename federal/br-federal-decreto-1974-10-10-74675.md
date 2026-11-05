@@ -1,5 +1,3 @@
-###DEC-074675-0-000-10-10-1974@@@
-
 DECRETO Nº 74.675, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Letras e de Pedagogia da Faculdade de Educação, Ciências e Letras Olavo Bilac, mantida pela Sociedade Madeira de Ley, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208844)<br>
-
 # LEI N° 17.850, DE 28 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 632/2023, do Deputado Vinicius Camarinha – PSDB)

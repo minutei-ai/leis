@@ -1,5 +1,3 @@
-###MPV-002105-0-015-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.105-15, DE 26 DE JANEIRO DE 2001
 
 Altera e acresce dispositivos à Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, e dá outras providências.

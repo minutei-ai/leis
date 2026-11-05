@@ -1,5 +1,3 @@
-###DEC-090539-0-000-20-11-1984@@@
-
 Decreto nº 9o.539, de 20 de novembro de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis, em São José do Rio Preto, São Paulo.

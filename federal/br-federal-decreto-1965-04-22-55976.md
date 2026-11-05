@@ -1,5 +1,3 @@
-###DEC-055976-0-000-22-04-1965@@@
-
 DECRETO Nº 55.976, DE 22 DE ABRIL DE 1965.
 
 Autoriza Bauxita Santa Rita Ltda. - Bauxisa - a pesquisar bauxita no município de juriti, Estado do Pará.

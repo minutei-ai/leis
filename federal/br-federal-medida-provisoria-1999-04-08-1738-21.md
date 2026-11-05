@@ -1,5 +1,3 @@
-###MPV-001738-0-021-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.738-21, DE 8 DE ABRIL DE 1999
 
 Cria a Fundo de Garantia à Exportação - FGE, e dá outras providências.

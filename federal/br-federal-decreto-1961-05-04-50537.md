@@ -1,5 +1,3 @@
-###DEC-050537-0-000-04-05-1961@@@
-
 DECRETO Nº 50.537, DE 4 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Alvorada - Companhia Nacional de Seguros Gerais.

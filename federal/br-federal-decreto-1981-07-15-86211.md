@@ -1,5 +1,3 @@
-###DEC-086211-0-000-15-07-1981@@@
-
 Decreto nº 86.211, de 15 de julho de 1981.
 
 Suspende por prazo indeterminado a transferência de órgãos federais para Brasília e dá outras providências.

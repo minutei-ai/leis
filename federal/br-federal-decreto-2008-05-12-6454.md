@@ -1,5 +1,3 @@
-###DEC-006454-0-000-12-05-2008@@@
-
 DECRETO Nº 6.454, DE 12 DE MAIO DE 2008.
 
 Dá nova redação ao inciso III do art. 445 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.
@@ -27,5 +25,3 @@ Brasília, 12 de maio de 2008; 187º da Independência e 120º da República.
 LUIZ LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 13.5.2008

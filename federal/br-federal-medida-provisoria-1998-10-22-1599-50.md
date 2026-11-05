@@ -1,5 +1,3 @@
-###MPV-001599-0-050-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.599-50, DE 22 DE OUTUBRO DE 1998
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

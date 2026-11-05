@@ -1,5 +1,3 @@
-###DEL-000204-0-000-25-01-1938@@@
-
 DECRETO-LEI N. 204 – DE 25 DE JANEIRO DE 1938
 
 Dispõe sobre os serviços do pessoal nos Ministérios e  dá outras providências

@@ -1,5 +1,3 @@
-###DEL-009099-0-000-27-03-1946@@@
-
 DECRETO-LEI N. 9.099 – DE 27 DE MARÇO DE 1946
 
 Lei de Organização do Exército

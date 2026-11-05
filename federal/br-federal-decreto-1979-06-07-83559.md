@@ -1,5 +1,3 @@
-###DEC-083559-0-000-07-06-1979@@@
-
 Decreto nº 83.559, de 07 de junho de 1979.
 
 Dispõe sobre a Estrutura Básica da Secretaria de Comunicação Social da Presidência da República - SECOM-PR, e dá outras providencias.

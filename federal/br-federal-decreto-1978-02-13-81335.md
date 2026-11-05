@@ -1,5 +1,3 @@
-###DEC-081335-0-000-13-02-1978@@@
-
 Decreto nº 81.335, de 13 de fevereiro de 1978.
 
 Declara sob intervenção uma faixa de terras localizada no Parque Indígena de Tumucumaque, no Estado do Pará.

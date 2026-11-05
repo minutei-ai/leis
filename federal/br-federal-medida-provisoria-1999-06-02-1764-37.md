@@ -1,5 +1,3 @@
-###MPV-001764-0-037-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.764-37, DE 2 DE JUNHO DE 1999.
 
 Altera dispositivos das Leis nºs 9.138, de 29 de novembro de 1995, 8.427, de 27 de maio de 1992, e 9.126, de 10 de novembro de 1995, que dispõem, respectivamente, sobre o crédito rural; sobre a concessão de subvenção econômica nas operações de crédito rural; autoriza o Poder Executivo a renegociar as obrigações financeiras relativas à liquidação de operações de Empréstimos do Governo Federal - EGF, vencidas e prorrogadas a partir de 1991; e a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais e com recursos das Operações Oficiais de Crédito.

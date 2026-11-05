@@ -123,10 +123,10 @@ Art.5º - Conforme indicação de seus respectivos órgãos, ficam os abaixo nom
 | Instituto Médico Legal (I.M.L) de Aparecida de Goiânia/GO; Núcleo da Polícia Técnico Científica – (N.P.T.C). | **Titular:** Murilo Toscano **Suplente:** Emiliano Luiz Neto |
 | Polícia Rodoviária Federal, unidade representativa no Estado de Goiás (P.R.F/GO). | **Titular:** Ivan Souza e Silva **Suplente:** Mayara Mesquita Diniz |
 | Secretaria de Articulação Metropolitana de Aparecida de Goiânia/GO. | **Titular:** Tanubio Goncalves de Oliveira **Suplente:** Elias Alves da Silva |
-| Secretaria Municipal de Saúde de Aparecida de Goiânia/GO. | **SAMU:** **Titular:** Danielly Silvestre Bitencourt **Suplente:** Emily Estevão do Carmo Apoio: Murilo Terenço de Oliveira |
-| **Urgência:** **Titular:** Cristiane Luiza de Sousa Nogueira **Suplente:** Thatyane Mendanha do Nascimento |
-| **UPAS/CAIS:** **Titular:** Renata Costa Marcelino **Suplente:** Henrique do Carmo Rodrigues |
-| **Atenção Primária:** **Titular:** Murilo Morais Castro |
+| Secretaria Municipal de Saúde de Aparecida de Goiânia/GO. | **SAMU:Titular:** Danielly Silvestre Bitencourt **Suplente:** Emily Estevão do Carmo Apoio: Murilo Terenço de Oliveira |
+| **Urgência:Titular:** Cristiane Luiza de Sousa Nogueira **Suplente:** Thatyane Mendanha do Nascimento |
+| **UPAS/CAIS:Titular:** Renata Costa Marcelino **Suplente:** Henrique do Carmo Rodrigues |
+| **Atenção Primária:Titular:** Murilo Morais Castro |
 | **Vigilância do óbito, violências e acidentes:** Dayanne Priscylla Pires de Deus Caparroz; Glenda Batista de Almeida Andrade; Regiane Santana Vasconcelos; Milene Martins Oliveira; Vanubia Cardoso Braga; Vanete de Jesus Souza; Aline Martins da Costa; |
 | Secretaria de Desenvolvimento Urbano de Aparecida de Goiânia/GO. | **Titular:** Werlei Marciano de Morais **Suplente:** Márcio Tiago da Silva |
 | Secretaria Municipal de Educação de Aparecida de Goiânia/GO. | **Titular:** Ademir Martins de Araújo **Suplente:** Miriam da Silva Pinto |
@@ -167,8 +167,10 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 14 de abril de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

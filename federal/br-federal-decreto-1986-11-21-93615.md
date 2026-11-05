@@ -1,5 +1,3 @@
-###DEC-093615-0-000-21-11-1986@@@
-
 DECRETO Nº 93.615, DE 21 DE NOVEMBRO DE 1986.
 
 Cria o Programa de Apoio às Micro e Pequena Empresas das Regiões Norte e Nordeste, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005664-0-000-10-01-2006@@@
-
 DECRETO Nº 5.664, DE 10 DE JANEIRO DE 2006.
 
 Delega competência ao Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior para autorizar o funcionamento no Brasil de sociedade estrangeira, bem como suas alterações estatutárias ou contratuais, nacionalização e cassação da autorização, nas formas previstas nos arts. 1.134, 1.139 e 1.141 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, e nos arts. 59 a 73 do Decreto-Lei nº 2.627, de 26 de setembro de 1940.

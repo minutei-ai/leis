@@ -1,5 +1,3 @@
-###DEC-094145-0-000-26-03-1987@@@
-
 DECRETO Nº 94.145, DE 26 DE MARÇO DE 1987.
 
 Autoriza a alienação de bem imóvel pertencente ao patrimônio da Universidade Federal do Rio Grande do Norte, e dá outras providências.

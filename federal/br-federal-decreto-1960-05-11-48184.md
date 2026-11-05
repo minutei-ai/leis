@@ -1,5 +1,3 @@
-###DEC-048184-0-000-11-05-1960@@@
-
 Decreto nº 48.184, de 11 de maio de 1960.
 
 Autoriza o cidadão brasileiro Edmundo de Melo Franco a pesquisar calcário, no município de Itambacuri, Estado de Minas Gerais.

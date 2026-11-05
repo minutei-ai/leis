@@ -1,5 +1,3 @@
-###DEC-094192-0-000-06-04-1987@@@
-
 DECRETO Nº 94.192, DE 6 DE ABRIL DE 1987
 
 Institui a Comissão de Assessoramento Presidencial para a Negociação da Dívida Externa Brasileira.

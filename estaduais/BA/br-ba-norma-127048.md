@@ -66,7 +66,29 @@ Art. 3º- A alínea "f" do inciso I do art. 5º da Lei nº 11.631, de 30 de deze
 
 Art. 4º - Ficam acrescentados os itens "2.5", "2.6" e "2.7" ao item "2" do Anexo II da Lei nº 11.631, de 30 de dezembro de 2009, com as seguintes redações:
 
-<table style="border-collapse: collapse;" width="615" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 20.7pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>2</span></p></td><td style="width: 20.75pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>5</span></p></td><td style="width: 20.75pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 308.0pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="411"><p class="Tabela-Texto"><span>Análise de pedido de concessão de regime especial</span></p></td><td style="width: 49.35pt; border: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="66"><p class="Tabela-Texto"><span>2.034,00</span></p></td></tr><tr><td style="width: 20.7pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>2</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>6</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 308.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="411"><p class="Tabela-Texto"><span>Análise de pedido de renovação ou alteração de regime especial</span></p></td><td style="width: 49.35pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="66"><p class="Tabela-Texto"><span>678,00</span></p></td></tr><tr><td style="width: 20.7pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>2</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>7</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 20.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="28"><p class="Tabela-Texto"><span>&nbsp;</span></p></td><td style="width: 308.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="411"><p class="Tabela-Texto"><span>Digitalização de autos de processo administrativo, por folha</span></p></td><td style="width: 49.35pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 12.8pt;" valign="top" width="66"><p class="Tabela-Texto"><span>0,90</span></p></td></tr></tbody></table>
+2
+
+5
+
+Análise de pedido de concessão de regime especial
+
+2.034,00
+
+2
+
+6
+
+Análise de pedido de renovação ou alteração de regime especial
+
+678,00
+
+2
+
+7
+
+Digitalização de autos de processo administrativo, por folha
+
+0,90
 
 Art. 5º - O inciso III do caput do art. 2º da Lei nº 12.903, de 05 de setembro de 2013, passa a vigorar com a seguinte redação:
 

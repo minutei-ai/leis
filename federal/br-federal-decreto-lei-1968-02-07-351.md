@@ -1,5 +1,3 @@
-###DEL-000351-0-000-07-02-1968@@@
-
 DECRETO-LEI Nº 351, DE 7 DE FEVeREIRO DE 1968
 
 Dá nova redação ao art. 3º do Decreto-lei nº 111, de 24 de janeiro de 1967.

@@ -1,5 +1,3 @@
-###DEC-003025-0-000-12-04-1999@@@
-
 DECRETO Nº 3.025, DE 12 DE ABRIL DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 1.387, de 7 de fevereiro de 1995, que dispõe sobre o afastamento do País de servidores civis da Administração Pública Federal.

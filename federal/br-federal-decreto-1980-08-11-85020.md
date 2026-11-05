@@ -1,5 +1,3 @@
-###DEC-085020-0-000-11-08-1980@@@
-
 Decreto nº 85.020, de 11 de agosto de 1980.
 
 Decreta de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

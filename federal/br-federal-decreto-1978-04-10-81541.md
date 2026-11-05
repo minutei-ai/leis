@@ -1,5 +1,3 @@
-###DEC-081541-0-000-10-04-1978@@@
-
 Decreto nº 81.541, de 10 de abril de 1978.
 
 Concede à Mineração Rodeio de Tropa Ltda. o direito de lavrar caulim e argila no Município de São Bento do Sul, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-006147-0-000-29-12-1943@@@
-
 DECRETO‑LEI N. 6.147 – DE 29 DE DEZEMBRO DE 1943
 
 Altera a redação do artigo 5º e seus parágrafos do decreto‑lei n. 3.346, de 12 de junho de 1941

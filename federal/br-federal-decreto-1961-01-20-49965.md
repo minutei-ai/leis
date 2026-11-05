@@ -1,5 +1,3 @@
-###DEC-049965-0-000-20-01-1961@@@
-
 DECRETO Nº 49.965, DE 20 DE JANEIRO DE 1961.
 
 Outorga concessão a Rádio Guanabara S. A. para instalar uma estação radiodifusora.

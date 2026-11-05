@@ -230,7 +230,8 @@ III -     de transferências constitucionais ou voluntárias recebidas e as d
 
 IV -     das operações de crédito realizadas com instituições financeiras nacionais e internacionais;
 
-V -     outras a serem criadas por lei.<br>
+V -     outras a serem criadas por lei.
+
  
 
 Art. 26 As previsões da receita observarão as normas técnicas e legais, considerarão os efeitos das alterações na legislação, da variação do índice de preços, do crescimento econômico ou de qualquer outro fator relevante e serão acompanhadas de demonstrativos de sua evolução nos últimos três anos, da projeção para os dois seguintes ao ano que se referirem e da metodologia de cálculo e premissas utilizadas.
@@ -389,7 +390,8 @@ Art. 46 Será assegurada ao cidadão a participação nas audiências públicas,
 
 I -     elaboração da proposta orçamentária de 2024;
 
-II -     demonstração dos resultados obtidos pela Administração, na execução do planejamento.<br>
+II -     demonstração dos resultados obtidos pela Administração, na execução do planejamento.
+
  
 
 CAPÍTULO X
@@ -410,5 +412,6 @@ Art. 52 - Esta Lei entrará em vigor em 01 de janeiro de 2024.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 23 de Julho de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

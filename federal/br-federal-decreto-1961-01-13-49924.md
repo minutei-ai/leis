@@ -1,5 +1,3 @@
-###DEC-049924-0-000-13-01-1961@@@
-
 DECRETO Nº 49.924, DE 13 DE JANEIRO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Atalaia Companhia de Seguros.

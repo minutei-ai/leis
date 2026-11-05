@@ -1,5 +1,3 @@
-###DEC-067488-0-000-05-11-1970@@@
-
 DECRETO Nº 67.488, de 5 de novembro DE 1970.
 
 Declara caduco o Decreto nº 38.877, de 13 de março de 1956.

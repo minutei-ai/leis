@@ -27,7 +27,3 @@ Cláudio Roberto Mourão da Silveira
 José Rafael Guerra Pinto Coelho
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\-------------------------------------------------
-
-Data da última atualização: 28/12/2010.

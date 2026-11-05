@@ -1,5 +1,3 @@
-###DEC-079612-0-000-28-04-1977@@@
-
 DECRETO Nº 79.612, DE 28 DE ABRIL DE 1977.
 
 Altera dispositivos dos Estatutos da FUNDAÇÃO PROJETO RONDON, aprovados pelo Decreto número 77.326, de 22 de março de 1976, e dá outras providências.

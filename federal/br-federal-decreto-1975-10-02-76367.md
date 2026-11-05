@@ -1,5 +1,3 @@
-###DEC-076367-0-000-02-10-1975@@@
-
 DECRETO Nº 76.367, DE 2 DE OUTUBRO DE 1975.
 
 Concede à Cerâmica de Guarulhos S.A., o direito de lavrar magnesita, no Município de Brumado, Estado da Bahia.

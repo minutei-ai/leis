@@ -1,5 +1,3 @@
-###DEC-094232-0-000-15-04-1987@@@
-
 DECRETO Nº 94.232, DE 15 DE ABRIL DE 1987.
 
 Dispõe sobre a participação da União nas cerimônias cívico-militares, guarda e segurança do Panteão da Pátria Tancredo Neves e Monumento do Fogo Simbólico da Pátria.

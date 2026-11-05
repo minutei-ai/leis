@@ -4,7 +4,8 @@ Dispõe sobre a Política Estadual da Pessoa Idosa e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º - Fica instituída a Política Estadual da Pessoa Idosa que se regerá pelos objetivos, princípios, diretrizes e instrumentos estabelecidos por esta Lei.
@@ -13,10 +14,12 @@ Art. 2º - A Política Estadual da Pessoa Idosa, em consonância com a Lei Feder
 
 Art. 3º - Considera-se pessoa idosa, para efeito desta Lei, a pessoa com idade igual ou superior a de 60 (sessenta) anos de idade.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS E DAS DIRETRIZES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Princípios
 
 Art. 4º - A Política Estadual da Pessoa Idosa reger-se-á pelos seguintes princípios:
@@ -31,7 +34,8 @@ IV - a pessoa idosa será a principal agente e destinatária das transformaçõe
 
 V - o Poder Público e a sociedade em geral tem o dever de observar, na aplicação desta Lei, as diferenças econômicas, sociais, étnico-raciais, regionais, culturais e, particularmente, as contradições entre o meio urbano e rural.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes
 
 Art. 5º - Constituem diretrizes da Política Estadual da Pessoa Idosa:
@@ -68,7 +72,8 @@ XV - a promoção de políticas públicas visando à acessibilidade para a pesso
 
 Parágrafo único - A prevenção e a manutenção da saúde da pessoa idosa serão efetivadas por meio de atendimento domiciliar, incluindo sua internação, quando necessitar ou estiver impossibilitada de se locomover, inclusive para aquela abrigada ou acolhida por instituições públicas, filantrópicas ou sem fins lucrativos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS COMPETÊNCIAS
 
 Art. 6º - Compete à Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH a coordenação e o monitoramento das ações relativas à Política Estadual da Pessoa Idosa.
@@ -93,7 +98,8 @@ VII - prestar apoio técnico e financeiro às iniciativas comunitárias de estud
 
 VIII - coordenar e manter atualizado o cadastro de entidades e organizações voltadas ao atendimento à pessoa idosa.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS AÇÕES GOVERNAMENTAIS
 
 Art. 9º - São competências dos órgãos e entidades da Administração Pública estadual, na implementação da Política Estadual da Pessoa Idosa:
@@ -352,7 +358,8 @@ c) garantir 10% (dez por cento) das vagas em cursos e oficinas oferecidos pelos 
 
 d) exercer outras atividades correlatas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 10 - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos orçamentários próprios, ficando o Poder Executivo autorizado a promover as alterações que se fizerem necessárias.

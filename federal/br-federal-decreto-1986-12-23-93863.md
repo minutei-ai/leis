@@ -1,5 +1,3 @@
-###DEC-093863-0-000-23-12-1986@@@
-
 DECRETO Nº 93.863, DE 23 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Fazenda Favela'', situado no Município de Mossoró, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, e dá outras providências.

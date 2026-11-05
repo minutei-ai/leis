@@ -1,5 +1,3 @@
-###DEL-003194-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.194 – DE 14 DE ABRIL DE 1941
 
 Dá nova redação ao §1º do artigo 186 do decreto-lei n. 1.713, de 28 de outubro de 1939

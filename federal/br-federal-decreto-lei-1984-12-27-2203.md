@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/49732ca1-704c-417c-be48-faced50d1496/texto#nowhere)
 
-###DEL-002203-0-000-27-12-1984@@@
-
 # DECRETO-LEI Nº 2.203, DE 27 DE DEZEMBRO DE 1984.
 
 Dispõe sobre a equiparação de companhias abertas a empresas nacionais definidas no artigo 12 da Lei nº 7.232, de 29 de outubro de 1984, nas condições e para os efeitos que estabelece, e da outras providências.

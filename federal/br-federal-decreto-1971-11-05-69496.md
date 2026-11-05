@@ -1,5 +1,3 @@
-###DEC-069496-0-000-05-11-1971@@@
-
 DECRETO Nº 69.496 - DE 5 DE NOVEMBRO DE 1971
 
 Autoriza a transferência, para o patrimônio do SERPRO, do terreno que menciona.

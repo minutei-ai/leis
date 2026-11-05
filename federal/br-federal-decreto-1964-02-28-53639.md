@@ -1,5 +1,3 @@
-###DEC-053639-0-000-28-02-1964@@@
-
 DECRETO Nº 53.639, DE 28 DE FEVEREIRO DE 1964.
 
 Altera o Regulamento para a Estação Rádio da Marinha no Rio de Janeiro.

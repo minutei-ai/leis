@@ -1,5 +1,3 @@
-###DEC-070965-0-000-11-08-1972@@@
-
 DECRETO Nº 70.965, DE 11 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração de Empresas de Jaú - São Paulo.

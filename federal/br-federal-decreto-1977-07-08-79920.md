@@ -1,5 +1,3 @@
-###DEC-079920-0-000-08-07-1977@@@
-
 Decreto nº 79.920, de 8 de julho de 1977.
 
 Prova o Regimento do Museu Aeroespacial e dá outras providências.

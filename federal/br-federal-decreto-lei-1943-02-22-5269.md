@@ -1,5 +1,3 @@
-###DEL-005269-0-000-22-02-1943@@@
-
 DECRETO‑LEI N. 5.269 – DE 22 DE FEVEREIRO DE 1943
 
 Concede gratificação aos componentes da Comissão Executiva do Leite, e dá outras providências

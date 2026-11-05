@@ -1,5 +1,3 @@
-###DEL-001991-0-000-29-12-1982@@@
-
 # DECRETO-LEI Nº 1.991, de 29 de dezembro dE 1982
 
 Dispõe sobre a incorporação de gratificação aos proventos de aposentadoria.

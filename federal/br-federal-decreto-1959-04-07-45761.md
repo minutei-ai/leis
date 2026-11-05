@@ -1,5 +1,3 @@
-###DEC-045761-0-000-07-04-1959@@@
-
 DECRETO Nº 45.761, DE 7 DE ABRIL DE 1959.
 
 Concede à Matogrominex Ltda a autorização para funcionar como emprêsa de mineração.

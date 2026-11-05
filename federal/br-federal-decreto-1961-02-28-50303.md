@@ -1,5 +1,3 @@
-###DEC-050303-0-000-28-02-1961@@@
-
 DECRETO Nº 50.303, DE 28 DE fevereiro DE 1961.
 
 O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,

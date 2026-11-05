@@ -1,5 +1,3 @@
-###DEL-000491-0-000-11-06-1938@@@
-
 DECRETO-LEI N. 491 – DE 11 DE JUNHO DE 1938
 
 Abre, pelo Ministério da Educação, o crédito especial de 217:000$000, para reparos no edifício da Faculdade Nacional de Medicina da Universidade do Brasil.

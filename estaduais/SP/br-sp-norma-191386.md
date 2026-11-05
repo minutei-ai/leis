@@ -1,11 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=191386)
-
 # DECRETO Nº 64.445, DE 05 DE SETEMBRO DE 2019
 
 ### _Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A., as áreas necessárias à execução das obras de duplicação do km 0+000 ao km 4+250 da Rodovia dos Agricultores, SPA-122/065, no Município e Comarca de Valinhos, no trecho que especifica e dá providências correlatas_
 
-JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941 e do disposto no Decreto estadual nº 53.310, de 8 de agosto de 2008,<br>
-Decreta:<br>
+JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941 e do disposto no Decreto estadual nº 53.310, de 8 de agosto de 2008,
+
+Decreta:
+
 **Artigo 1º -** Ficam declaradas de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A., concessionária de serviço público, por via amigável ou judicial, as áreas descritas e caracterizadas nas plantas cadastrais de códigos nº DE-SPA122065-000.005-007-D03/001.R0, nº DE-SPA122065-000.005-007-D03/002.R0, nº DE-SPA122065-000.005-007-D03/003.R0, nº DE-SPA122065-000.005-007-D03/004.R0, e nº DE-SPA122065-000.005-007-D03/005.R0 e nos memoriais descritivos, constantes do Processo ARTESP nº 033.670/2019-SG, necessárias às obras de duplicação do km 0+000 ao km 4+250 da Rodovia dos Agricultores, SPA-122/065, no Município e Comarca de Valinhos, perfazendo área total de 20.744,82m2 (vinte mil, setecentos e quarenta e quatro metros quadrados e oitenta e dois decímetros quadrados), inseridas nos perímetros a seguir descritos, áreas estas que constam pertencer aos proprietários ora identificados, a saber:
 
 **I** - Área 1 - a área a ser declarada de utilidade pública, conforme planta nº DE-SPA122065-000.005-007-D03/001.R0, situa-se à Rodovia dos Agricultores (SPA-122/065), Município e Comarca de Valinhos, consta pertencer a Amanari Tupi Participações Ltda. e/ou outros, com linha de divisa partindo do ponto denominado P1 de coordenadas, sendo constituída pelo memorial descritivo abaixo relacionado: Inicia-se a descrição deste perímetro no vértice P1, de coordenadas N(Y)7464740,667 e E(X)299379,336, situado no limite com, Área já decretada deste, segue com azimute de 40°25' 01"e distância de 13,89m, confrontando neste trecho com Área já decretada, até o vértice P2, de coordenadas N(Y)7464751,245 e E(X)299388,344; deste, segue com azimute de 48°38' 02"e distância de 11,58m, confrontando neste trecho com Área já decretada, até o vértice P3, de coordenadas N(Y)7464758,898 e E(X)299397,035; deste, segue com azimute de 67°04' 40"e distância de 19,38m, confrontando neste trecho com Área já decretada, até o vértice P4, de coordenadas N(Y)7464766,445 e E(X)299414,882; deste, segue com azimute de 96°35' 22"e distância de 8,28m, confrontando neste trecho com Área já decretada, até o vértice P5, de coordenadas N(Y)7464765,495 e E(X)299423,106; deste, segue com azimute de 240°26' 11"e distância de 50,32m, confrontando neste trecho com Amanari Tupi Participações Ltda., até o vértice P1, de coordenadas N(Y)7464740,667 e E(X)299379,336, perfazendo uma área de 230,28m2 (duzentos e trinta metros quadrados e vinte e oito decímetros quadrados);
@@ -46,16 +46,26 @@ Decreta:<br>
 
 **XIX** - ÁREA 19 - A área a ser declarada de utilidade pública, conforme plantas n° DE-SPA122065-000.005-007-D03/005.R0, situa-se à Rodovia dos Agricultores (SPA-122/065), Município de Valinhos e Comarca de Campinas, consta pertencer a FLORINDO DE ALMEIDA PACHECO, SANDRA DE JESUS PACHECO E/OU OUTROS, com linha de divisa partindo do ponto denominado P1 de coordenadas N= 7462157,415 e E= 297574,115, sendo constituída pelo memorial descritivo abaixo relacionado: Inicia-se a descrição deste perímetro no vértice P1, de coordenadas N(Y)7462157,415 e E(X)297574,115, situado no limite com Florindo de Almeida Pacheco e Outra; deste, segue com azimute de 9°34' 23"e distância de 12,51m, confrontando neste trecho com Florindo de Almeida Pacheco e Outra, até o vértice P2, de coordenadas N(Y)7462169,754 e E(X)297576,196; deste, segue com azimute de 8°01' 09"e distância de 25,71m, confrontando neste trecho com Florindo de Almeida Pacheco e Outra, até o vértice P3, de coordenadas N(Y)7462195,215 e E(X)297579,783; deste, segue com azimute de 15°12' 26"e distância de 22,70m, confrontando neste trecho com Florindo de Almeida Pacheco e Outra, até o vértice P4, de coordenadas N(Y)7462217,122 e E(X)297585,738; deste, segue com azimute de 188°33' 22"e distância de 29,53m, confrontando neste trecho com Área já decretada, até o vértice P5, de coordenadas N(Y)7462187,917 e E(X)297581,344; deste, segue com azimute de 193°04' 25"e distância de 28,21m, confrontando neste trecho com Área já decretada, até o vértice P6, de coordenadas N(Y)7462160,439 e E(X)297574,963; deste, segue com azimute de 195°39' 53"e distância de 3,14m, confrontando neste trecho com Área já decretada, até o vértice P1, de coordenadas N(Y)7462157,415 e E(X)297574,115, perfazendo uma área de 86,65 m2 (oitenta e seis metros quadrados e sessenta e cinco decímetros quadrados).
 
-**Parágrafo único -** A declaração de utilidade pública, para fins de desapropriação, limitar-se-á às coordenadas georreferenciais descritas em cada uma das áreas elencadas no “caput” e seus incisos deste artigo.<br>
-**Artigo 2° -** Ficam excluídos da presente declaração de utilidade pública os imóveis pertencentes a pessoas jurídicas de direito público que estiverem abrangidos pela descrição do artigo 1º deste decreto.<br>
+**Parágrafo único -** A declaração de utilidade pública, para fins de desapropriação, limitar-se-á às coordenadas georreferenciais descritas em cada uma das áreas elencadas no “caput” e seus incisos deste artigo.
+
+**Artigo 2° -** Ficam excluídos da presente declaração de utilidade pública os imóveis pertencentes a pessoas jurídicas de direito público que estiverem abrangidos pela descrição do artigo 1º deste decreto.
+
 **Artigo 3° -** Fica a CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A. autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, e pela Lei federal nº 11.977, de 7 de julho de 2009, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER/SP.
 
-**Artigo 4° -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A.<br>
-**Artigo 5º -** Este decreto entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 5 de setembro de 2019<br>
-JOÃO DORIA<br>
-Antonio Carlos Rizeque Malufe<br>
-Secretário Executivo, Respondendo pelo Expediente da Casa Civil<br>
-Rodrigo Garcia<br>
-Secretário de Governo<br>
+**Artigo 4° -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A.
+
+**Artigo 5º -** Este decreto entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 5 de setembro de 2019
+
+JOÃO DORIA
+
+Antonio Carlos Rizeque Malufe
+
+Secretário Executivo, Respondendo pelo Expediente da Casa Civil
+
+Rodrigo Garcia
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 5 de setembro de 2019.

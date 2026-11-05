@@ -1,5 +1,3 @@
-###DEL-004993-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.993 – DE 26 DE NOVEMBRO DE 1942
 
 Institue o Conservatório Nacional de Canto Orfeônico e dá outras providências

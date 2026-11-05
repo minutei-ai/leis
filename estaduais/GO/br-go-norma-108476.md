@@ -336,8 +336,6 @@ VIII – 1º de abril de 2024, quanto aos incisos X, X– A e X– B do art. 167
 
 Goiânia, 29 de fevereiro de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

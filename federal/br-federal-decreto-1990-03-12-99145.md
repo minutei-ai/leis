@@ -1,7 +1,3 @@
-1
-
-###DEC-099145-0-000-12-03-1990@@@
-
 DECRETO Nº 99.145, DE 12 DE MARÇO DE 1990
 
 Cria a Reserva Extrativista do Rio Cajari.

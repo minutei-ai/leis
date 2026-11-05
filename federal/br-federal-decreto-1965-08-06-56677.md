@@ -1,5 +1,3 @@
-###DEC-056677-0-000-06-08-1965@@@
-
 Decreto nº 56.677, de 6 de agôsto de 1965.
 
 Autoriza a Usina Queiroz Junior S.A. - Indústria Siderúrgica a pesquisar minério de manganês, no município de Ouro Prêto, Estado de Minas Gerais.

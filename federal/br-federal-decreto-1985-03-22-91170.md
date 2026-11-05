@@ -1,5 +1,3 @@
-###DEC-091170-0-000-22-03-1985@@@
-
 Decreto nº 91.170, de 22 de março de 1985.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para a prática dos atos que menciona.

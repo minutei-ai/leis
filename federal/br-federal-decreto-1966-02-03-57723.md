@@ -1,5 +1,3 @@
-###DEC-057723-0-000-03-02-1966@@@
-
 DECRETO Nº 57.723, DE 3 de FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Jorge Abdala a lavrar calcário, no Município de Alpinópolis, Estado de Minas Gerais.

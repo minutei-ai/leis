@@ -1,5 +1,3 @@
-###DEC-093609-0-000-21-11-1986@@@
-
 DECRETO Nº 93.609, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a incorporação das empresas estatais que menciona, e dá outras providências.

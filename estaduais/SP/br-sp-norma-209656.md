@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209656)<br>
-
 # LEI N° 17.952, DE 01 DE JULHO DE 2024
 
 ## (Projeto de lei n° 461/2023, do Deputado Dr. Jorge do Carmo - PT)

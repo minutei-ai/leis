@@ -1,5 +1,3 @@
-###DEC-001967-0-000-29-07-1996@@@
-
 DECRETO Nº 1.967, DE 29 DE JULHO DE 1996.
 
 Dispõe sobre o índice de representação no exterior para Ministros de Primeira Classe no exercício das funções de Representante Alterno junto a organismos internacionais e de Cônsul-Geral.

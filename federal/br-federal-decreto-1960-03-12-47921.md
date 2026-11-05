@@ -1,5 +1,3 @@
-###DEC-047921-0-000-12-03-1960@@@
-
 DECRETO Nº 47.921, DE 12 DE MARÇO DE 1960.
 
 Dá nova missão ao 2º Batalhão Ferroviário.

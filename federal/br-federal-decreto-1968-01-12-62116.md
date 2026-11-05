@@ -1,5 +1,3 @@
-###DEC-062116-0-000-12-01-1968@@@
-
 DECRETO Nº 61.116, DE 12 DE JANEIRO DE 1968.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica, no município de Verê, Estado do Paraná.

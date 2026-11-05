@@ -1,5 +1,3 @@
-###DEC-054993-0-000-13-11-1964@@@
-
 DECRETO Nº 54.993, DE 13 DE NOVEMBRO DE 1964.
 
 Inclui a Inspetoria do Impôsto de Renda e a Coletoria Federal em Brasília no regime estabelecido pelo artigo 2º do Decreto número 10.280, de 19 de agôsto de 1942, alterado pelo Decreto nº 51.990, de 6 de maio de 1963.

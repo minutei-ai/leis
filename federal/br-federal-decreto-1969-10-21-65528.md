@@ -1,5 +1,3 @@
-###DEC-065528-0-000-21-10-1969@@@
-
 DECRETO Nº 65.528 - DE 21 DE OUTUBRO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Direito de Piracicaba, Estado de São Paulo.

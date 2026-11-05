@@ -1,5 +1,3 @@
-###DEC-069057-0-000-12-08-1971@@@
-
 DECRETO Nº 69.057, DE 12 DE AGÔSTO DE 1971.
 
 Concede reconhecimento à Faculdade de Serviço Social de Mossoró, RN.

@@ -1,5 +1,3 @@
-###DEC-049976-0-000-23-01-1961@@@
-
 DECRETO Nº 49.976, DE 23 DE JANEIRO DE 1961.
 
 Cria o Consulado Honorário do Brasil em Tripoli, Líbano.

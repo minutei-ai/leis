@@ -1,5 +1,3 @@
-###DEC-075942-0-000-04-07-1975@@@
-
 DECRETO Nº 75.942 - DE 4 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras das Faculdades Associadas do Ipiranga, mantida pelo Instituto Educacional Seminário Paulopolitano com sede na Cidade de São Paulo, Estado de São Paulo.

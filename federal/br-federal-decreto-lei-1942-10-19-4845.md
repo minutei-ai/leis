@@ -1,5 +1,3 @@
-###DEL-004845-0-000-19-10-1942@@@
-
 DECRETO-LEI N. 4.845 – DE 19 DE OUTUBRO DE 1942
 
 Cria a 7ª Bateria Independente de Artilharia de Costa

@@ -1,5 +1,3 @@
-###DEC-003116-0-000-13-07-1999@@@
-
 DECRETO Nº 3.116, DE 13 DE JULHO DE 1999
 
 Dispõe sobre os cargos privativos de Oficial-General do Exército em Tempo de Paz e dá outras providências.

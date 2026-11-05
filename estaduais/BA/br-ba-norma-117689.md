@@ -8,7 +8,8 @@ Art. 1º - Fica outorgada à Associação Brasileira de Criadores de Zebu - ABCZ
 
 Art. 2º - Obriga-se a concessionária a construir, na área a que se refere o artigo anterior, o seu escritório em Salvador e a dar, por meio dele atendimento aos criadores de zebu na Bahia, sem qualquer ônus para o Estado.
 
-Redação de acordo com a Lei nº 5.984, de 14 de novembro de 1990.<br>
+Redação de acordo com a Lei nº 5.984, de 14 de novembro de 1990.
+
 Redação original: "Art. 2º - Obriga-se a concessionária a construir, na área a que se refere o artigo anterior, o seu escritório técnico em Salvador, que se destinará a dar atendimento gratuito aos criadores de Zebu no Estado da Bahia."
 
 Art. 3º - A concessão, que será efetivada mediante assinatura de termo administrativo, será gratuita e por tempo indeterminado.

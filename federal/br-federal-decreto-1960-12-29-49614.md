@@ -1,5 +1,3 @@
-###DEC-049614-0-000-29-12-1960@@@
-
 DECRETO Nº 49.614, DE 29 DE DEZEMBRO DE 1960.
 
 Concede autorização à Cooperativa Banco União Agrícola Limitada, com sede em São Paulo, para modificar seu estatuto social.

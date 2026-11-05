@@ -1,5 +1,3 @@
-###DEC-057761-0-000-08-02-1966@@@
-
 DECRETO Nº 57.761, de 8 DE FEVEREIRO DE 1966.
 
 Extingue os cursos de Técnica de Ensino e de Classificação de Pessoal e o Centro de Estudos de Línguas Estrangeiras e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053023-0-000-27-11-1963@@@
-
 DECRETO Nº 53.023, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o Ministério da Aeronáutica a instituir bôlsas de estudos e de especialização, a médicos formados pelas Universidades Brasileiras.

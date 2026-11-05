@@ -1,5 +1,3 @@
-###DEC-096776-0-000-27-09-1988@@@
-
 DECRETO N° 96.776, DE 27 DE SETEMBRO DE 1988
 
 Autoriza o funcionamento dos cursos de Administração e de Pedagogia da Faculdade de Filosofia e Ciências Humanas de Goiatuba.

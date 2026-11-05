@@ -1,5 +1,3 @@
-###DEC-056487-0-000-18-06-1965@@@
-
 DECRETO Nº 56.487, DE 18 DE JUNHO DE 1965.
 
 Renova concessão de serviço de radiodifusão a Rádio Iracema de Fortaleza S.A.

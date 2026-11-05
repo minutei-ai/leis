@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=186865)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16784-28.06.2018.html)
 
 # LEI Nº 16.784, DE 28 DE JUNHO DE 2018
@@ -9,8 +8,10 @@
 
 ### _Proíbe a caça no Estado de São Paulo e dá outras providências_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
 **Artigo 1º -** Fica vedada a caça, em todas as suas modalidades, sob qualquer pretexto, forma e para qualquer finalidade, em todo o Estado de São Paulo.
 
 **Parágrafo único -** Para os efeitos desta lei, considera-se caça a perseguição, o abate, a apanha, a captura seguida de eliminação direta de espécimes, ou a eliminação direta de espécimes, bem como a destruição de ninhos, abrigos ou de outros recursos necessários à manutenção da vida animal.
@@ -63,15 +64,26 @@ _\- Parágrafo único com redação dada pela [Lei nº 17.295, de 22/10/2020](ht
 
 **Artigo 4º -** A violação ao estabelecido nesta lei constitui conduta sujeita à imposição de sanção pecuniária fixada em 150 (cento e cinquenta) Ufesps, dobrada na reincidência.
 
-**Parágrafo único -** A multa será aumentada até o triplo se a caça é praticada:<br>
-**1.** contra animal pertencente a espécie rara ou ameaçada de extinção;<br>
-**2.** com emprego de método ou instrumento capaz de provocar destruição em massa;<br>
-**3.** em áreas protegidas, ou em unidades de conservação.<br>
-**Artigo 5º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 28 de junho de 2018<br>
-MÁRCIO FRANÇA<br>
-Eduardo Trani<br>
-Respondendo pelo expediente da Secretaria do Meio Ambiente<br>
-Claudio Valverde Santos<br>
-Secretário-Chefe da Casa Civil<br>
+**Parágrafo único -** A multa será aumentada até o triplo se a caça é praticada:
+
+**1.** contra animal pertencente a espécie rara ou ameaçada de extinção;
+
+**2.** com emprego de método ou instrumento capaz de provocar destruição em massa;
+
+**3.** em áreas protegidas, ou em unidades de conservação.
+
+**Artigo 5º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 28 de junho de 2018
+
+MÁRCIO FRANÇA
+
+Eduardo Trani
+
+Respondendo pelo expediente da Secretaria do Meio Ambiente
+
+Claudio Valverde Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnica da Casa Civil, em 28 de junho de 2018.

@@ -1,5 +1,3 @@
-###DEC-050641-0-000-20-05-1961@@@
-
 DECRETO Nº 50.641, DE 20 DE MAIO DE 1961.
 
 Cria o Estabelecimento de Finanças e o Estabelecimento de Subsistência da Décima Primeira Região Militar.

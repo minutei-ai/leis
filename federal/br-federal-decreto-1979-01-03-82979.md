@@ -1,5 +1,3 @@
-###DEC-082979-0-000-03-01-1979@@@
-
 DECRETO Nº 82.979, DE 03 DE JANEIRO DE 1979.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Educação Hebraico-Brasileira Renascença, com sede na cidade de São Paulo, Estado de São Paulo.

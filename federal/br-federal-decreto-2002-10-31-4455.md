@@ -1,5 +1,3 @@
-###DEC-004455-0-000-31-10-2002@@@
-
 DECRETO Nº 4.455, DE 31 DE OUTUBRO DE 2002
 
 Altera alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

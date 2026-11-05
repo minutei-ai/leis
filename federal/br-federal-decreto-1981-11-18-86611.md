@@ -1,5 +1,3 @@
-###DEC-086611-0-000-18-11-1981@@@
-
 Decreto nº 86.611, de 18 de novembro de 1981
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO ESTADUAL DO PARANÁ, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-088179-0-000-14-03-1983@@@
-
 Decreto nº 88.179, de 14 de março de 1983
 
 Declara insubsistentes os Decretos nºs 65.549 e 65.552, de 21 de outubro de 1969, que dispõem sobre o confisco e a incorporação ao patrimônio da Caixa Econômica Federal de Goiás, respectivamente, dos bens pertencentes a THIRSO CORRÊA ROSA e CALIXTO ANTÔNIO e dá outras providências.

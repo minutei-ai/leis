@@ -1,4 +1,5 @@
-DECRETO Nº 10.444, DE 19 DE ABRIL DE 2024<br>
+DECRETO Nº 10.444, DE 19 DE ABRIL DE 2024
+
 \- [Revogado pelo Decreto nº 10.910, de 18-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114578), art.75.
 
 ~~Dispõe sobre a criação do Comitê de Monitoramento e Avaliação das Despesas – CMA no Poder Executivo do Estado de Goiás.~~
@@ -19,18 +20,22 @@ DECRETO Nº 10.444, DE 19 DE ABRIL DE 2024<br>
 
 ~~III – sugerir ao Conselho de Governo o sobrestamento da execução, a qualquer tempo, de despesas pertencentes aos grupos definidos no art. 1º deste Decreto; e~~
 
-~~IV – assessorar o Conselho de Governo nas recomendações relativas a:~~<br>
+~~IV – assessorar o Conselho de Governo nas recomendações relativas a:~~
+
 ~~\- [Redação dada pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~IV – apoiar o Conselho de Governo nas autorizações para a solicitação de créditos adicionais.~~
 
-~~a) solicitação de créditos adicionais;~~<br>
+~~a) solicitação de créditos adicionais;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~b) anulação de empenhos; e~~<br>
+~~b) anulação de empenhos; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~c) remanejamento de recursos orçamentários autorizados e não empenhados.~~<br>
+~~c) remanejamento de recursos orçamentários autorizados e não empenhados.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~§ 1º O CMA tem o poder de requisitar análises, dados e informações, também o comparecimento pessoal dos agentes públicos envolvidos, para a prestação de esclarecimentos necessários ao desempenho de suas funções.~~
@@ -39,52 +44,64 @@ DECRETO Nº 10.444, DE 19 DE ABRIL DE 2024<br>
 
 ~~§ 3º A inobservância do disposto no § 2º deste artigo deverá ser imediatamente comunicada ao Conselho de Governo.~~
 
-~~Art. 3º O pedido de crédito adicional será avaliado pelo Conselho de Governo, que expedirá recomendações à pasta detentora da competência legal para a abertura do crédito.~~<br>
+~~Art. 3º O pedido de crédito adicional será avaliado pelo Conselho de Governo, que expedirá recomendações à pasta detentora da competência legal para a abertura do crédito.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~Art. 3º O deferimento das solicitações de créditos adicionais ficará a cargo do Conselho de Governo, que avaliará a conveniência e a oportunidade das demandas, e será precedida da análise do CMA, da Secretaria de Estado da Economia – ECONOMIA e da Secretaria de Estado de Administração – SEAD, quando for o caso.~~
 
-~~§ 1º  Nos casos em que a execução de créditos adicionais puder extrapolar os limites de empenho estabelecidos no Anexo I do [Decreto estadual nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461), de 8 de fevereiro de 2024, ficam automaticamente acrescidos aos valores dos Anexos I, II e V do mesmo decreto os montantes referentes às solicitações de créditos adicionais deferidas pelo Conselho de Governo.~~<br>
+~~§ 1º  Nos casos em que a execução de créditos adicionais puder extrapolar os limites de empenho estabelecidos no Anexo I do [Decreto estadual nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461), de 8 de fevereiro de 2024, ficam automaticamente acrescidos aos valores dos Anexos I, II e V do mesmo decreto os montantes referentes às solicitações de créditos adicionais deferidas pelo Conselho de Governo.~~
+
 ~~\- [Redação dada pelo Decreto n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109013/decreto-10478)[º 10.478, de 13-6-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109013/decreto-10478).~~
 
 ~~§ 1º Nos casos em que a execução de créditos adicionais puder extrapolar os limites de empenho estabelecidos no Anexo I do [Decreto estadual nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461), de 8 de fevereiro de 2024, ficam automaticamente acrescidos aos respectivos valores constantes desse anexo os montantes referentes às solicitações de créditos adicionais deferidas pelo Conselho de Governo.~~
 
 ~~§ 2º Aplica-se o disposto no § 1º deste artigo aos pedidos de crédito já deferidos pela ECONOMIA.~~
 
-~~§ 3º  A Secretaria de Estado da Economia publicará portaria com os valores atualizados dos Anexos I, II e V do [Decreto nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461), de 2024, para conferir publicidade às alterações decorrentes da aprovação de créditos adicionais, conforme está estabelecido no § 1º deste artigo.~~<br>
+~~§ 3º  A Secretaria de Estado da Economia publicará portaria com os valores atualizados dos Anexos I, II e V do [Decreto nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461), de 2024, para conferir publicidade às alterações decorrentes da aprovação de créditos adicionais, conforme está estabelecido no § 1º deste artigo.~~
+
 ~~\- [Acrescido pelo Decreto n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109013/decreto-10478)[º 10.478, de 13-6-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109013/decreto-10478).~~
 
-~~§ 4º Serão ouvidos, nos pedidos de abertura de crédito adicional, previamente às recomendações na forma prevista no _caput_ deste artigo, o CMA, a Secretaria de Estado da Economia – ECONOMIA e a Secretaria de Estado de Administração – SEAD, quando for o caso.~~<br>
+~~§ 4º Serão ouvidos, nos pedidos de abertura de crédito adicional, previamente às recomendações na forma prevista no _caput_ deste artigo, o CMA, a Secretaria de Estado da Economia – ECONOMIA e a Secretaria de Estado de Administração – SEAD, quando for o caso.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~§ 5º O Conselho de Governo poderá recomendar a anulação de empenhos que se mostrem superestimados em relação à capacidade da execução orçamentária no exercício corrente, conforme a formalização do alerta do CMA nos termos do inciso I do art. 2º deste Decreto.~~<br>
+~~§ 5º O Conselho de Governo poderá recomendar a anulação de empenhos que se mostrem superestimados em relação à capacidade da execução orçamentária no exercício corrente, conforme a formalização do alerta do CMA nos termos do inciso I do art. 2º deste Decreto.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~§ 6º O Conselho de Governo poderá recomendar o remanejamento de recursos orçamentários autorizados não empenhados para atender às insuficiências nas dotações orçamentárias dos órgãos e das entidades do Poder Executivo estadual, consoante art. 8º da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de janeiro de 2024.~~<br>
+~~§ 6º O Conselho de Governo poderá recomendar o remanejamento de recursos orçamentários autorizados não empenhados para atender às insuficiências nas dotações orçamentárias dos órgãos e das entidades do Poder Executivo estadual, consoante art. 8º da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de janeiro de 2024.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~Art. 4º O CMA atuará na identificação dos desvios das despesas empenhadas em 2024 em relação à média dos exercícios anteriores e poderá sugerir o contingenciamento de empenhos e PDFs de despesas continuadas.~~
 
-~~§ 1º No caso de despesas relativas a projetos governamentais e ações estratégicas de governo, o CMA acionará a rede de projetos de governo e o Sistema Estruturador Integrado de Planejamento, Orçamento e Finanças Estadual – SIPOFE de que tratam os incisos II e V do art. 3º do Decreto nº 10.263, de 19 de maio de 2023, regulamentador do Sistema de Gestão Estadual – SIGES, para realizar, se houver necessidade, ajustes da execução física dos projetos ao orçamento.~~<br>
+~~§ 1º No caso de despesas relativas a projetos governamentais e ações estratégicas de governo, o CMA acionará a rede de projetos de governo e o Sistema Estruturador Integrado de Planejamento, Orçamento e Finanças Estadual – SIPOFE de que tratam os incisos II e V do art. 3º do Decreto nº 10.263, de 19 de maio de 2023, regulamentador do Sistema de Gestão Estadual – SIGES, para realizar, se houver necessidade, ajustes da execução física dos projetos ao orçamento.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~§ 1º No caso de despesas relativas a projetos governamentais e ações estratégicas de governo, o CMA acionará a rede de projetos de governo de que trata o inciso II do art. 3º do [Decreto estadual nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, que instituiu o Sistema de Gestão Estadual – SIGES, para realizar, se houver necessidade, ajustes da execução física do projeto ao orçamento.~~
 
 ~~§ 2º As despesas dos projetos governamentais novos e dos de caráter continuado deverão ser precedidas de cadastro no Sistema de Monitoramento e Acompanhamento de Projetos Governamentais – GOMAP.~~
 
-~~§ 3º Na avaliação de despesas finalísticas, consideradas a relevância e a magnitude do impacto nas políticas públicas envolvidas, o CMA acionará a Unidade Central de Planejamento para a análise e as considerações quanto à pertinência do projeto e para verificar a situação dele em relação à vinculação orçamentária e ao Plano Plurianual – PPA, examinará ainda o projeto quanto:~~<br>
+~~§ 3º Na avaliação de despesas finalísticas, consideradas a relevância e a magnitude do impacto nas políticas públicas envolvidas, o CMA acionará a Unidade Central de Planejamento para a análise e as considerações quanto à pertinência do projeto e para verificar a situação dele em relação à vinculação orçamentária e ao Plano Plurianual – PPA, examinará ainda o projeto quanto:~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~I – à situação ou a fase da execução;~~<br>
+~~I – à situação ou a fase da execução;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~II – à importância ou à criticidade;~~<br>
+~~II – à importância ou à criticidade;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~III – à priorização governamental; e~~<br>
+~~III – à priorização governamental; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
-~~IV – aos demais aspectos cabíveis à alocação efetiva e tempestiva do recurso orçamentário.~~<br>
+~~IV – aos demais aspectos cabíveis à alocação efetiva e tempestiva do recurso orçamentário.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.535, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109404/decreto-10535).~~
 
 ~~Art. 5º O Sistema Estruturador Integrado de Planejamento, Orçamento e Finanças Estadual – SIPOFE será submetido às diretrizes do Programa de _Compliance_ Público, no eixo da gestão de riscos.~~

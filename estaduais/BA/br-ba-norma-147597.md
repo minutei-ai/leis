@@ -96,96 +96,7 @@ Secretário do Planejamento
 
 **VIGÊNCIA 1º DE MAIO DE 2025**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:319.6pt;border-collapse:collapse" width="426"><tbody><tr style="height:27.6pt"><td style="width:159.3pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="212"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><b><span style="color:black">CARGOS</span></b></p></td><td style="width:57.9pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:102.4pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center;
-  text-indent:2.65pt"><span style="font-size:12.0pt">VENCIMENTO (R$)</span></p></td></tr><tr style="height:27.6pt"><td rowspan="14" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="212"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.4pt;
-  margin-bottom:0cm;margin-left:1.05pt;margin-bottom:.0001pt;text-align:center"><span style="color:black">Especialista em Produção de Informações Econômicas, Sociais e Geoambientais</span></p></td><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="color:black">1</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">2.884,89</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">3.118,32</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3.368,48</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3.635,30</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3.927,12</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4.242,27</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4.585,80</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4.952,66</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">5.352,86</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">5.769,77</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-left:3.6pt;text-align:center"><span style="font-size:12.0pt">11</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">6.228,33</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">12</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">6.720,26</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">13</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">7.257,88</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">14</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;
-  margin-bottom:0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">7.838,51</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **CARGOS** </td><td> CLASSE </td><td> VENCIMENTO (R$) </td></tr><tr><td rowspan="14"> Especialista em Produção de Informações Econômicas, Sociais e Geoambientais </td><td> 1 </td><td> 2.884,89 </td></tr><tr><td> 2 </td><td> 3.118,32 </td></tr><tr><td> 3 </td><td> 3.368,48 </td></tr><tr><td> 4 </td><td> 3.635,30 </td></tr><tr><td> 5 </td><td> 3.927,12 </td></tr><tr><td> 6 </td><td> 4.242,27 </td></tr><tr><td> 7 </td><td> 4.585,80 </td></tr><tr><td> 8 </td><td> 4.952,66 </td></tr><tr><td> 9 </td><td> 5.352,86 </td></tr><tr><td> 10 </td><td> 5.769,77 </td></tr><tr><td> 11 </td><td> 6.228,33 </td></tr><tr><td> 12 </td><td> 6.720,26 </td></tr><tr><td> 13 </td><td> 7.257,88 </td></tr><tr><td> 14 </td><td> 7.838,51 </td></tr></tbody></table>
 
 **ANEXO II**
 
@@ -193,155 +104,66 @@ Secretário do Planejamento
 
  **VIGÊNCIA 1º DE ABRIL DE 2026**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:328.9pt;border-collapse:collapse" width="439"><tbody><tr style="height:27.6pt"><td style="width:159.3pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="212"><p align="center" class="MsoNormal" style="margin-left:1.6pt;text-align:center"><b><span style="color:black">CARGOS</span></b></p></td><td style="width:59.6pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:1.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:110.0pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:1.6pt;text-align:center"><span style="font-size:12.0pt">VENCIMENTO (R$)</span></p></td></tr><tr style="height:27.6pt"><td rowspan="14" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="212"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.45pt;
-  margin-bottom:0cm;margin-left:1.0pt;margin-bottom:.0001pt;text-align:center"><span style="color:black">Especialista em Produção de Informações Econômicas, Sociais e Geoambientais</span></p></td><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="color:black">1</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">2.957,30</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">3.196,59</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">3.453,03</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">3.726,55</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">4.025,69</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">4.348,75</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">4.700,90</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">5.076,97</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">5.487,22</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">5.914,59</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-left:3.6pt;text-align:center"><span style="font-size:12.0pt">11</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">6.384,66</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">12</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">6.888,94</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">13</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">7.440,05</span></p></td></tr><tr style="height:27.6pt"><td style="width:59.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="79"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;
-  margin-bottom:0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">14</span></p></td><td style="width:110.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="147"><p align="center" class="MsoNormal" style="margin-left:.5pt;text-align:center"><span style="font-size:12.0pt">8.035,26</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **CARGOS** </td><td> CLASSE </td><td> VENCIMENTO (R$) </td></tr><tr><td rowspan="14"> Especialista em Produção de Informações Econômicas, Sociais e Geoambientais </td><td> 1 </td><td> 2.957,30 </td></tr><tr><td> 2 </td><td> 3.196,59 </td></tr><tr><td> 3 </td><td> 3.453,03 </td></tr><tr><td> 4 </td><td> 3.726,55 </td></tr><tr><td> 5 </td><td> 4.025,69 </td></tr><tr><td> 6 </td><td> 4.348,75 </td></tr><tr><td> 7 </td><td> 4.700,90 </td></tr><tr><td> 8 </td><td> 5.076,97 </td></tr><tr><td> 9 </td><td> 5.487,22 </td></tr><tr><td> 10 </td><td> 5.914,59 </td></tr><tr><td> 11 </td><td> 6.384,66 </td></tr><tr><td> 12 </td><td> 6.888,94 </td></tr><tr><td> 13 </td><td> 7.440,05 </td></tr><tr><td> 14 </td><td> 8.035,26 </td></tr></tbody></table>
 
 **ANEXO III**
 
 **TABELA DE DESENVOLVIMENTO NA CARREIRA**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:269.3pt;border-collapse:collapse" width="359"><tbody><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-left:3.5pt;text-align:center"><b><span style="color:black">Classes</span></b></p></td><td style="width:189.6pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:6.1pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><b><span style="color:black">Percentual sobre o total de servidores ocupantes da classe anterior</span></b></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="color:black">2</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">11</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">12</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.0pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">13</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.0pt;
-  margin-bottom:0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">14</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;
-  margin-bottom:0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:center"><span style="font-size:12.0pt">70%</span></p></td></tr></tbody></table>
+**Classes**
+
+**Percentual sobre o total de servidores ocupantes da classe anterior**
+
+2
+
+85%
+
+3
+
+85%
+
+4
+
+85%
+
+5
+
+80%
+
+6
+
+80%
+
+7
+
+80%
+
+8
+
+75%
+
+9
+
+75%
+
+10
+
+75%
+
+11
+
+70%
+
+12
+
+70%
+
+13
+
+70%
+
+14
+
+70%
 
 (\*) O resultado da aplicação do percentual deve ser arredondado para o número inteiro imediatamente superior.

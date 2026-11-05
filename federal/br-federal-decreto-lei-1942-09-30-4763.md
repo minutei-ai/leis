@@ -1,5 +1,3 @@
-###DEL-004763-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.763 – DE 30 DE SETEMBRO DE 1942
 
 Altera a carreira de Inspetor de Alunos do Quadro Permanente do Ministério da Educação e Saúde

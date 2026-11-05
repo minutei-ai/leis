@@ -1,5 +1,3 @@
-###DEL-008108-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.108 – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 400.000,00, à verba que especifica.

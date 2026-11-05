@@ -1,5 +1,3 @@
-###DEC-048166-0-000-10-05-1960@@@
-
 DECRETO Nº 48.166, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Joaquim Marques Carriço a pesquisar areia quartzosa, no município de São Vicente, Estado de São Paulo.

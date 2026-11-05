@@ -1,5 +1,3 @@
-###DEC-073835-0-000-13-03-1974@@@
-
 DECRETO Nº 73.835, DE 13 DE MARÇO DE 1974.
 
 Autoriza o Serviço de Patrimônio da União a aceitar doação de imóveis, Humaitá - AM, destinados ao Ministério do Exército.

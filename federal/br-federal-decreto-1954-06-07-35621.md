@@ -1,18 +1,16 @@
-###DEC-035621-0-000-07-06-1954@@@
+**DECRETO Nº 35.621, DE 7 DE JUNHO DE 1954.**
 
-<strong>DECRETO Nº 35.621, DE 7 DE JUNHO DE 1954.</strong>
+***Autoriza a Companhia Hidro Elétrica do São Francisco a construir uma linha e transmissão de 66 kV entre Itabaiana e Aracaju, declara de utilidade pública a faixa de terra destinada à passagem da referida linha e dá outras providências.***
 
-<em><strong>Autoriza a Companhia Hidro Elétrica do São Francisco a construir uma linha e transmissão de 66 kV entre Itabaiana e Aracaju, declara de utilidade pública a faixa de terra destinada à passagem da referida linha e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940, o disposto no art. 151, letras *b* e *c*, do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco, concessionária do aproveitamento da energia hidráulica do rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940, o disposto no art. 151, letras <em>b</em> e <em>c</em>, do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco, concessionária do aproveitamento da energia hidráulica do rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica a Companhia Hidro Elétrica do São Francisco autorizada a construir uma linha de transmissão de 68 kV, de Itabaiana e Aracaju, no Estado de Sergipe, com a extensão de 57 km, de acôrdo com o projeto aprovado pelo Sr. Ministro da Agricultura em 18 de fevereiro de 1954.
 
-<strong>Art</strong>. 1º Fica a Companhia Hidro Elétrica do São Francisco autorizada a construir uma linha de transmissão de 68 kV, de Itabaiana e Aracaju, no Estado de Sergipe, com a extensão de 57 km, de acôrdo com o projeto aprovado pelo Sr. Ministro da Agricultura em 18 de fevereiro de 1954.
+**Art**. 2º É declarada de utilidade pública uma faixa de terra, com a largura de vinte (20) metros, destinada à passagem, aérea ou subterrânea, da linha de transmissão de energia elétrica de que trata o artigo anterior.
 
-<strong>Art</strong>. 2º É declarada de utilidade pública uma faixa de terra, com a largura de vinte (20) metros, destinada à passagem, aérea ou subterrânea, da linha de transmissão de energia elétrica de que trata o artigo anterior.
-
-<strong>Art</strong>. 3º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Sr. Ministro da Agricultura, situadas no Estado de Sergipe, de propriedade atribuída às pessoas abaixo relacionadas, na ordem em que se encontram ao longo do traçado da linha.
+**Art**. 3º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Sr. Ministro da Agricultura, situadas no Estado de Sergipe, de propriedade atribuída às pessoas abaixo relacionadas, na ordem em que se encontram ao longo do traçado da linha.
 
 Município de Itabaiana
 
@@ -214,20 +212,20 @@ Município de Aracaju
 
 98 - Área de 3.080 (três mil e oitenta) m2, de José Camilo Cruz.
 
-<strong>Art</strong>. 4º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover as desapropriações de domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 4º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover as desapropriações de domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 5º Quando não fôr necessário proceder-se à desapropriação de domínio pleno, fica constituída, em favor da mesma Companhia, e para o fim indicado, a servidão necessária, a qual compreende o direito, atribuído à emprêsa concessionária, de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
+**Art**. 5º Quando não fôr necessário proceder-se à desapropriação de domínio pleno, fica constituída, em favor da mesma Companhia, e para o fim indicado, a servidão necessária, a qual compreende o direito, atribuído à emprêsa concessionária, de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
 
 § 1º Os proprietários das áreas de terra atingidas pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão, abstendo-se, em conseqüência, de praticar, dentro das mesmas, quaisquer atos que a embaracem, ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, podendo utilizar-se, inclusive, do processo da desapropriação, nos têrmos do artigo 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de junho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

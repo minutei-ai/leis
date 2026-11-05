@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212312)<br>
-
 # DECRETO N° 70.429, DE 10 DE MARÇO DE 2026
 
 ### _Autoriza a outorga de uso do imóvel que especifica ao Município de Santa Cruz das Palmeiras e dá providências correlatas._

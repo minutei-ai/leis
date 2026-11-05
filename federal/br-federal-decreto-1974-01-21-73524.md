@@ -1,5 +1,3 @@
-###DEC-073524-0-000-21-01-1974@@@
-
 DECRETO Nº 73.524, DE 21 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis urbanos, situados na Cidade de Barra Mansa, Estado do Rio de Janeiro, destinados à instalação de uma estação telefônica automática, pela Companhia Telefônica Brasileira - CTB.

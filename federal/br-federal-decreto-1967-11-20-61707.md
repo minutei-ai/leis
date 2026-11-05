@@ -1,5 +1,3 @@
-###DEC-061707-0-000-20-11-1967@@@
-
 DECRETO Nº 61.707, DE 20 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública a “Caixa de Pecúlio dos Militares-Beneficente” (CAPEMI) com sede no Estado da Guanabara.

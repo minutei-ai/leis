@@ -1,5 +1,3 @@
-###DEC-068492-0-000-12-04-1971@@@
-
 DECRETO Nº 68.492 - DE 12 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Iporá até a subestação de Diorama, no Estado de Goiás.

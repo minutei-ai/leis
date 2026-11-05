@@ -22,8 +22,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 10 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

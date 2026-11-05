@@ -1,5 +1,3 @@
-###DEC-069219-0-000-17-09-1971@@@
-
 DECRETO Nº 69.219, DE 17 DE SETEMBRO DE 1971.
 
 Amplia a largura das faixas de terra, já declaradas de utilidade pública, para fins de constituição de servidão administrativa, pelos Decretos nºs. 62.377, de 8 de março de 1968, 62.344, de 4 de março de 1968 e 61.830, de 5 de dezembro de 1967.

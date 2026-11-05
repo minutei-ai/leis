@@ -1,5 +1,3 @@
-###DEL-006057-0-000-02-12-1943@@@
-
 DECRETO‑LEI N. 6.057 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito suplementar de Cr$ 38.700,00, à verba que especifica

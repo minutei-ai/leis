@@ -1,7 +1,3 @@
-1
-
-###DEC-099682-0-000-08-11-1990@@@
-
 DECRETO N° 99.682, DE 8 DE NOVEMBRO DE 1990
 
 Altera o Decreto n° 99.518, de 10 de setembro de 1990.

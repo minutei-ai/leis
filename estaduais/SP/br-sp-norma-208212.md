@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208212)<br>
-
 # DECRETO N° 67.765, DE 22 DE JUNHO DE 2023
 
 ### _Dispõe sobre a alteração de denominação da Secretaria de Estado que especifica._

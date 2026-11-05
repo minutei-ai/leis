@@ -1,5 +1,3 @@
-###DEL-003175-0-000-07-04-1941@@@
-
 DECRETO-LEI N. 3.175 – DE 7 DE ABRIL DE 1941
 
 Restringe a imigração e da outras providências.

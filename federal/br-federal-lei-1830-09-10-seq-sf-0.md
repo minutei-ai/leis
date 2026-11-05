@@ -1,5 +1,3 @@
-###LEI-000000-0-000-10-09-1830@@@
-
 LEI - DE 10 DE SETEMBRO DE 1830
 
 Extingue a Mesa do despacho maritimo passando as suas incumbencias para as estações arrecadadoras dos direitos de sahida.

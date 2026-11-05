@@ -1,5 +1,3 @@
-###DEC-046516-0-000-24-07-1959@@@
-
 DECRETO Nº 46.516, DE 24 DE JULHO DE 1959.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de acrescido de marinha que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEL-009024-0-000-26-02-1946@@@
-
 DECRETO-LEI N. 9.024 – DE 26 DE FEVEREIRO DE 1946 
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde.

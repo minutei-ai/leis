@@ -1,5 +1,3 @@
-###DEC-001929-0-000-17-06-1996@@@
-
 DECRETO N° 1.929, DE 17 DE JUNHO DE 1996.
 
 Dá nova redação aos arts. 3° e 6° do Decreto n° 1.910, de 21 de maio de 1996, que dispõe sobre a concessão e a permissão de serviços desenvolvidos em terminais alfandegados de uso público.

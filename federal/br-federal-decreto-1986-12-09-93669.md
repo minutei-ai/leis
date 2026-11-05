@@ -1,5 +1,3 @@
-###DEC-093669-0-000-09-12-1986@@@
-
 DECRETO Nº 93.669, DE 9 DE DEZEMBRO DE 1986
 
 Dispõe sobre aumento do capital social da COMPANHIA ELETROMECÂNICA CELMA.

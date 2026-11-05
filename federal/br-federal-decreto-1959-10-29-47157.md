@@ -1,5 +1,3 @@
-###DEC-047157-0-000-29-10-1959@@@
-
 DECRETO Nº 47.157, DE 29 DE OUTUBRO DE 1959.
 
 Concede à Geohydro - Engenharia e Comércio S. A. autorização para continuar a funcionar como emprêsa de mineração.

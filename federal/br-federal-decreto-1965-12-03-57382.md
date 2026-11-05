@@ -1,5 +1,3 @@
-###DEC-057382-0-000-03-12-1965@@@
-
 DECRETO Nº 57.382, DE 3 DE DEZEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da União do Comércio e Indústria Companhia de Seguros Gerais, Relativa ao aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 3 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castelo Branco
 
 Daniel Faraco
-
-###DEC-057382-0-000-03-12-1965@@@RET01+++
 
 DECRETO Nº 57.382, DE 3 DE DEZEMBRO DE 1965.
 

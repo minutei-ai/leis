@@ -1,5 +1,3 @@
-###DEC-081245-0-000-23-01-1978@@@
-
 Decreto nº 81.245, de 23 de janeiro de 1978
 
 Autoriza a contratação de operações de crédito, com garantia do Tesouro Nacional, nos valores de US$ 50,000,000.00 (cinqüenta milhões de dólares) e ¥ 15,000,000,000 (quinze bilhões de ienes), respectivamente, com um sindicato de bancos liderado pelo The Industrial Bank of Japan, Limited, destinadas a compor o esquema financeiro de aporte de recursos de capital da siderurgia Brasileira S.A.- SIDERBRÁS em suas subsidiárias, no exercício de 1978, e da outras providências.

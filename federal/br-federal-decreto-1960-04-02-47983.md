@@ -1,5 +1,3 @@
-###DEC-047983-0-000-02-04-1960@@@
-
 DECRETO Nº 47.983, DE 2 DE ABRIL DE 1960.
 
 Transfere sem aumento de despesa função da Tabela Única de Extranumerário Mensalista do Ministério da Justiça e Negócios Interiores, para idêntica Tabela do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-089221-0-000-21-12-1983@@@
-
 Decreto nº 89.221, de 21 de dezembro de 1983
 
 Dispõe sobre o montante do Capital Social da Ferritas Magnéticas S.A. - FERMAG.

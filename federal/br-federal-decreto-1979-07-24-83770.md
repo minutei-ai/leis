@@ -1,5 +1,3 @@
-###DEC-083770-0-000-24-07-1979@@@
-
 DECRETO Nº 83.770, DE 24 DE JULHO DE 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Iguape, Estado de São Paulo.

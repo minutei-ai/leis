@@ -1,5 +1,3 @@
-###DEC-083095-0-000-26-01-1979@@@
-
 DECRETO Nº 83.095, DE 26 DE JANEIRO DE 1979
 
 Renova por 10 (dez) anos a concessão outorgada à Rádios e Jornais do Ceará S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Fortaleza, Estado do Ceará.

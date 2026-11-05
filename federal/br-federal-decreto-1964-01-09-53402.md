@@ -1,5 +1,3 @@
-###DEC-053402-0-000-09-01-1964@@@
-
 DECRETO Nº 54.402, DE 9 DE JANEIRO DE 1964.
 
 Retifica o dispositivo do Decreto nº 52.900, de 21 de novembro de 1963, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005586-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.586 – DE 17 DE JUNHO DE  1943
 
 Abre ao Ministro da Marinha o crédito especial de Cr$ 9.000.000,00 para  pagamento do vapor "Itassucê"

@@ -1,5 +1,3 @@
-###DEC-003160-0-000-01-09-1999@@@
-
 DECRETO Nº 3.160, DE 1º SETEMBRO DE 1999.
 
 Altera limites do Decreto nº 3.031, de 20 de abril de 1999, para o Ministério dos Transportes.

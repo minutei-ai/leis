@@ -1,5 +1,3 @@
-###DEC-094403-0-000-04-06-1987@@@
-
 DECRETO Nº 94.403, DE 4 DE JUNHO DE 1987
 
 Altera o Decreto nº 93.538, de 6 de novembro de 1986, que regulamenta o Fundo Nacional de Desenvolvimento - FND.

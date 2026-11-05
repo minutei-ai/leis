@@ -1,5 +1,3 @@
-###DEL-005867-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.867 – DE 1 DE ouTuBRo DE 1943
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 18.471,00, à verba que especifica

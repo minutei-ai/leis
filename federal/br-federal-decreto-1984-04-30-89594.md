@@ -1,5 +1,3 @@
-###DEC-089594-0-000-30-04-1984@@@
-
 # Decreto nº 89.594, de 30 de abril de 1984.
 
 Declara de ocupação dos silvícolas área de terras no Município de Boa Vista, no Território Federal de Roraima, e dá outras providencias.

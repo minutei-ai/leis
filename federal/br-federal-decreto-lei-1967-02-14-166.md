@@ -1,5 +1,3 @@
-###DEL-000166-0-000-14-02-1967@@@
-
 DECRETO-LEI Nº 166, DE 14 DE FEVEREIRO DE 1967
 
 Transfere a Agência Nacional do Ministério da Justiça e Negócios Interiores para Presidência da República.

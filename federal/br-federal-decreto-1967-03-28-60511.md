@@ -1,5 +1,3 @@
-###DEC-060511-0-000-28-03-1967@@@
-
 decreto nº 60.511, de 28 de março de 1967.
 
 Altera os preços mínimos básicos para financiamento ou aquisição de algodão das regiões Central e Meridional do país, da safra do ano de 1967, fixados pelo Decreto número 58.975, de 3.8.66 e alterado pelo Decreto nº 59.209, de 14.9.66.

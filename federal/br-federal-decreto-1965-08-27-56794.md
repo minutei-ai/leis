@@ -1,5 +1,3 @@
-###DEC-056794-0-000-27-08-1965@@@
-
 DECRETO Nº 56.794, de 27 de agôsto de 1965.
 
 Complementa o disposto no artigo 83 do decreto nº 55.889, de 30 de março de 1965, cria funções gratificadas no Instituto Brasileiro de reforma Agrária e dá outras providências.

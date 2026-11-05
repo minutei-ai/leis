@@ -1,5 +1,3 @@
-###DEL-001945-0-000-22-06-1982@@@
-
 # Decreto-lei nº 1.945, de 22 de junho de 1982
 
 Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas.

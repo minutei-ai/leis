@@ -1,5 +1,3 @@
-###DEL-000099-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 99, DE 30 DE DEZEMBRO DE 1966
 
 Prorroga, por mais um exercício, a vigência da autorização para abertura do crédito especial de Cr$ 87.864.828 (oitenta e sete milhões, oitocentos e sessenta e quatro mil, oitocentos e vinte e oito cruzeiros), contida no Art. 1º da Lei nº 4.788 de 13 de outubro de 1965.

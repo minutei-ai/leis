@@ -1,5 +1,3 @@
-###DEC-045765-0-000-07-04-1959@@@
-
 DECRETO Nº 45.765, DE 7 DE ABRIL DE 1959.
 
 Autoriza “Centais Elétricas de Goiás S.A.” a ampliar suas instalações.

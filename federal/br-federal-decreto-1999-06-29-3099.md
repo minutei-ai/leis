@@ -1,5 +1,3 @@
-###DEC-003099-0-000-29-06-1999@@@
-
 DECRETO Nº 3.099, DE 29 DE JUNHO DE 1999.
 
 Define os critérios e as condições para a assunção, pela União, das obrigações dos Municípios a que se refere a Medida Provisória nº 1.891-5, de 29 de junho de 1999, e dá outras providências.

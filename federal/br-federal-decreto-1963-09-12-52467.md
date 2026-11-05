@@ -1,5 +1,3 @@
-###DEC-052467-0-000-12-09-1963@@@
-
 DECRETO Nº 52.467, DE 12 DE SETEMBRO DE 1963.
 
 Modifica disposições do Decreto número 44.721, de 21 de outubro de 1958.

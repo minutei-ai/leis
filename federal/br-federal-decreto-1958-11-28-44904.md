@@ -1,5 +1,3 @@
-###DEC-044904-0-000-28-11-1958@@@
-
 DECRETO Nº 44.904, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza S. Schreiber Importação a comprar pedras preciosas.

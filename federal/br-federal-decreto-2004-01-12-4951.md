@@ -1,5 +1,3 @@
-###DEC-004951-0-000-12-01-2004@@@
-
 DECRETO Nº 4.951,  DE 12 DE JANEIRO DE 2004.
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil, e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela, países membros da Comunidade Andina, de 18 de dezembro de 2003.
@@ -24,9 +22,12 @@ JOSÉ ALENCAR GOMES DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 39 ASSINADO ENTRE<br>
-AS REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU E DA VENEZUELA,<br>
-PAÍSES-MEMBROS DA COMUNIDADE ANDINA, E A<br>
+# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 39 ASSINADO ENTRE
+
+AS REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU E DA VENEZUELA,
+
+PAÍSES-MEMBROS DA COMUNIDADE ANDINA, E A
+
 REPÚBLICA FEDERATIVA DO BRASIL
 
 ##  Décimo Protocolo Adicional
@@ -51,17 +52,22 @@ CONVÊM EM:
 
         EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos dezoito dias do mês de dezembro de dois mil e três, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-Pelo Governo da República da Colômbia:<br>
+Pelo Governo da República da Colômbia:
+
 CLAUDIA TURBAY QUINTERO
 
-Pelo Governo da República do Equador:<br>
+Pelo Governo da República do Equador:
+
 LEONARDO CAMÓN EGUIGUREN
 
-Pelo Governo da República do Peru:<br>
+Pelo Governo da República do Peru:
+
 WILLIAM BELAVAN MC BRIDE
 
-Pelo Governo da República Bolivariana da Venezuela:<br>
+Pelo Governo da República Bolivariana da Venezuela:
+
 NANCY UNDA
 
-Pelo Governo da República Federativa do Brasil:<br>
+Pelo Governo da República Federativa do Brasil:
+
 BERNARDO PERICÁS NETO

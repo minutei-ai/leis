@@ -1,5 +1,3 @@
-###DEL-009893-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.893 – DE 16 DE SETEMBRO DE 1946
 
 Exclui das disposições da Lei nº 452 e do Decreto nº 1.841, respectivamente de 5 e 31 de julho de 1937, o terreno que menciona e concede-o em aforamento a Drault Ernani de Melo e Silva, para ser incorporado ao patrimônio da Refinaria de Petróleos do Distrito Federal S. A., de que é fundador.

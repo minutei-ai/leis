@@ -1,5 +1,3 @@
-###DEC-089375-0-000-09-02-1984@@@
-
 Decreto nº 89.375, de 09 de fevereiro 1984.
 
 Declara de utilidade pública a instituição que menciona.

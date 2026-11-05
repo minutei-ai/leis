@@ -1,5 +1,3 @@
-###DEL-003601-0-000-09-09-1941@@@
-
 DECRETO-LEI N. 3.601 – DE 9 DE SETEMBRO DE 1941
 
 Dispõe sobre o provimento dos cargos de professor catedrático da Escola Nacional de Agronomia e da Escola Nacional de Veterinária

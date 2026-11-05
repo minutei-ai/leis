@@ -1,5 +1,3 @@
-###DEC-058347-0-000-04-05-1966@@@
-
 DECReTO Nº 58.347, DE 4 DE MAIO DE 1966.
 
 Concede à the yorkshire Insurance Company Limited Autorizado para aumentar o capital destinado às suas operações de seguros no Brasil.

@@ -1,5 +1,3 @@
-###DEL-006335-0-000-09-03-1944@@@
-
 DECRETO-LEI  N. 6.335 – DE 09 DE MARÇO DE 1944
 
 Concede pensão especial aos herdeiros de um extranumerário-mensalista da Estrada de Ferro Central do Rio Grande do Norte

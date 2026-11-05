@@ -1,5 +1,3 @@
-###DEC-073302-0-000-12-12-1973@@@
-
 DECRETO Nº 73.302 - DE 12 DE DEZEMBRO DE 1973
 
 Encampa os bens e instalações vinculados às concessões dos serviços públicos de energia elétrica nos municípios de Virgolândia e São Sebastião do Maranhão no Estado de Minas Gerias.

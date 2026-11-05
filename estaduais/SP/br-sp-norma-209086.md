@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209086)<br>
-
 # DECRETO N° 68.315, DE 26 DE JANEIRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a permitir seu uso, a título precário, gratuito e por prazo indeterminado, em favor do Tribunal Regional Eleitoral de São Paulo, do imóvel que especifica._

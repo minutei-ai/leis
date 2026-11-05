@@ -4,12 +4,14 @@ Dispõe sobre a criação do Conselho Municipal de Acompanhamento e Controle Soc
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES**
 
 Art. 1° Fica criado o CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB, no âmbito do município de Rio Verde.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA COMPOSIÇÃO**
 
 Art. 2° O Conselho a que se refere o art. 1° será constituído por no mínimo 11 (onze) membros titulares, acompanhado de seus respectivos suplentes, observados os seguintes critérios de composição:
@@ -88,12 +90,14 @@ II - rompimento do vínculo de que trata o §5º do art. 2º;
 
 III - situação de impedimento previsto no §7º do art. 2º.
 
-§1º Na hipótese em que o suplente incorrer na situação de afastamento definitivo descrito no art. 3°, o estabelecimento ou segmento responsável pela indicação deverá indicar novo suplente, nos termos desta lei.<br>
+§1º Na hipótese em que o suplente incorrer na situação de afastamento definitivo descrito no art. 3°, o estabelecimento ou segmento responsável pela indicação deverá indicar novo suplente, nos termos desta lei.
+
 §2° Na hipótese em que o titular e o suplente incorram simultaneamente na situação de afastamento definitivo descrito no art. 3°, o estabelecimento ou segmento responsável pela indicação deverá indicar novos titular e suplente, nos termos desta lei.
 
 Art. 4º O mandato dos membros dos conselhos do Fundeb será de 4 (quatro) anos, vedada a recondução para o próximo mandato, e iniciar-se-á em 1º de janeiro do terceiro ano de mandato do respectivo titular do Poder Executivo.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DAS COMPETÊNCIAS**
 
 Art. 5º Compete ao Conselho do FUNDEB:
@@ -136,10 +140,12 @@ c) a utilização em benefício do sistema de ensino de bens adquiridos com recu
 
 Art. 6º Os conselhos atuarão com autonomia, sem vinculação ou subordinação institucional ao Poder Executivo Municipal e serão renovados periodicamente ao final de cada mandato dos seus membros.
 
-Art. 7° Os conselhos não contarão com estrutura administrativa própria, e incumbirá ao Município garantir infraestrutura e condições materiais adequadas à execução plena das competências dos conselhos e oferecer ao Ministério da Educação os dados cadastrais relativos à criação e à composição dos respectivos conselhos.<br>
+Art. 7° Os conselhos não contarão com estrutura administrativa própria, e incumbirá ao Município garantir infraestrutura e condições materiais adequadas à execução plena das competências dos conselhos e oferecer ao Ministério da Educação os dados cadastrais relativos à criação e à composição dos respectivos conselhos.
+
 Parágrafo único – A Prefeitura Municipal deverá ceder ao Conselho do FUNDEB um servidor do quadro efetivo municipal para atuar como Secretário Executivo do Conselho.
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DA ATUAÇÃO DOS MEMBROS** 
 
 Art. 8º A atuação dos membros do FUNDEB:
@@ -160,10 +166,12 @@ c) afastamento involuntário e injustificado da condição de conselheiro antes 
 
 V - veda, quando os conselheiros forem representantes de estudantes em atividades do conselho, no curso do mandato, atribuição de falta injustificada nas atividades escolares.
 
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS**
 
-Art. 9º O Conselho do FUNDEB terá um Presidente e um Vice-Presidente, que serão eleitos pelos Conselheiros.<br>
+Art. 9º O Conselho do FUNDEB terá um Presidente e um Vice-Presidente, que serão eleitos pelos Conselheiros.
+
 Parágrafo único. Estão impedidos de ocupar a Presidência os conselheiros designados nos termos do inciso I do art. 2º, desta lei.
 
 Art. 10. Na hipótese em que o membro que ocupa a função de Presidente do Conselho do FUNDEB incorrer na situação de afastamento definitivo, previsto no art. 3º desta lei, a Presidência será ocupada pelo Vice-Presidente.
@@ -186,7 +194,8 @@ IV - outros documentos produzidos pelo conselho.
 
 Art. 14. Deverão ser observadas as disposições da Lei Federal n° 14.113/2020.
 
-**CAPÍTULO VI<br>
+**CAPÍTULO VI
+
 DAS DISPOSIÇÕES TRANSITÓRIAS**
 
 Art. 15. O primeiro mandato dos conselheiros extinguir-se-á em 31 de dezembro de 2022.

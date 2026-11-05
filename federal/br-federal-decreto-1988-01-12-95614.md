@@ -1,7 +1,3 @@
-1
-
-###DEC-095614-0-000-12-01-1988@@@
-
 DECRETO N° 95.614, DE 12 DE JANEIRO DE 1988
 
 Cria a Reserva Biológica do Gurupi e dá outras providências.

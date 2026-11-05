@@ -1,5 +1,3 @@
-###DEC-003578-0-000-30-08-2000@@@
-
 DECRETO Nº 3.578, DE 30 DE AGOSTO DE 2000.
 
 Dá nova redação ao caput do art. 5º do Decreto nº 3.117, de 13 de julho de 1999, que regulamenta a comissão de apoio financeiro aos Município que instituírem programa de garantia de renda mínima de que trata a Lei nº 9.533, de 10 de dezembro de 1997.

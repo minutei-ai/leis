@@ -1,16 +1,14 @@
-###DEC-037195-0-000-18-04-1955@@@
+**DECRETO Nº 37.195, DE 18 DE ABRIL DE 1955.**
 
-<strong>DECRETO Nº 37.195, DE 18 DE ABRIL DE 1955.</strong>
+***Revoga o Decreto n° 29.829, de 31 de julho de 1951, e modifica o Decreto n° 29.806, de 25 de julho de 1951, que criou a Comissão d***e ***Desenvolvimento Industrial.***
 
-<em><strong>Revoga o Decreto n° 29.829, de 31 de julho de 1951, e modifica o Decreto n° 29.806, de 25 de julho de 1951, que criou a Comissão d</strong></em>e <em><strong>Desenvolvimento Industrial.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.° Fica revogado o Decreto n° 29.829, de 31 de julho de 1951, que modificou a redação do art. 3° do Decreto n° 29.806, de 25 de julho de 1951.
 
-<strong>Art</strong>. 1.° Fica revogado o Decreto n° 29.829, de 31 de julho de 1951, que modificou a redação do art. 3° do Decreto n° 29.806, de 25 de julho de 1951.
-
-<strong>Art</strong>. 2.° O art. 3.° do Decreto n.° 29.806, de 25 de julho 1951, que criou a Comissão de Desenvolvimento Industrial, passa a ter a seguinte redação:
+**Art**. 2.° O art. 3.° do Decreto n.° 29.806, de 25 de julho 1951, que criou a Comissão de Desenvolvimento Industrial, passa a ter a seguinte redação:
 
 “Art. 3.° A Comissão será constituída :
 
@@ -34,11 +32,11 @@ i) de dois representantes da Confederação Nacional da Indústria, por esta ind
 
 j) de um representante dos órgãos de classe da agricultura.
 
-<strong>Art</strong>. 3° Êste Decreto entrará em vigor a na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3° Êste Decreto entrará em vigor a na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 18 de abril de 1955; 134.° da independência e 67.° da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão
 

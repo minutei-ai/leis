@@ -1,5 +1,3 @@
-###DEL-007500-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.500 – DE 30 DE ABRIL DE 1945
 
 Prorroga a moratória estabelecida no Decreto-lei nº 7.443, de 5 de abril de 1945

@@ -1,5 +1,3 @@
-###DEC-051925-0-000-26-04-1963@@@
-
 DECRETO Nº 51.925, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Jorge Ferreira da Costa, a comprar pedras preciosas.

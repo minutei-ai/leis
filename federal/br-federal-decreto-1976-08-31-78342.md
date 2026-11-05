@@ -1,5 +1,3 @@
-###DEC-078342-0-000-31-08-1976@@@
-
 DECRETO Nº 78.342, DE 31 DE AGOSTO DE 1976.
 
 Concede reconhecimento aos cursos de Letras, de Ciências, de Estudos Sociais e de Ciências Econômicas, da Fundação Educacional de São Gabriel, com sede na cidade de São Gabriel, Estado do Rio Grande do Sul.

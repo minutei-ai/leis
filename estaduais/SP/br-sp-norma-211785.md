@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211785)<br>
-
 # DECRETO N° 70.062, DE 07 DE NOVEMBRO DE 2025
 
 ### _Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 9 e 16 de novembro de 2025._

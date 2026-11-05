@@ -1,5 +1,3 @@
-###DEC-049120-A-000-17-10-1960@@@
-
 DECRETO Nº 49.120-A, DE 17 DE OUTUBRO DE 1960.
 
 Concede reconhecimento a curso.

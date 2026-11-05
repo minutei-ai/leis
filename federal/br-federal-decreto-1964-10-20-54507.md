@@ -1,5 +1,3 @@
-###DEC-054507-0-000-20-10-1964@@@
-
 DECRETO Nº 54.507, DE 20 DE OUTUBRO DE 1964.
 
 Estabelece, na forma do art. 5º da Lei nº 2.597, de 12 de setembro de 1955, a Colônia Militar do Oiapoque, no Município de Oiapoque, Território Federal do Amapá.

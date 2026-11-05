@@ -1,5 +1,3 @@
-###DEC-045147-0-000-30-12-1958@@@
-
 DECRETO Nº 45.147, DE 30 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento da Diretoria Geral de Intendência (R-185).
@@ -295,8 +293,6 @@ Art. 24. Em complemento às prescrições contidas neste Regulamento, a DGI elab
 Rio de Janeiro, 30 de dezembro de 1958.
 
 Henrique Lott
-
-###DEC-045147-0-000-30-12-1958@@@RET01+++
 
 DECRETO Nº 45.147, DE 30 DE DEZEMBRO DE 1958.
 

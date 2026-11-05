@@ -1,5 +1,3 @@
-###DEC-004777-0-000-11-07-2003@@@
-
 DECRETO Nº 4.777, DE 11 DE JULHO DE 2003.
 
        Dá nova redação ao § 1º do art. 4º do Decreto nº 3.913, de 11 de setembro de 2001, que dispõe sobre a apuração e liquidação dos complementos de atualização monetária de saldos de contas vinculadas do Fundo de Garantia do Tempo de Serviço - FGTS, de que trata a Lei Complementar nº 110, de 29 de junho de 2001.
@@ -16,9 +14,12 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 11 de julho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
  
 
-Antonio Palocci Filho<br>
-Jaques Wagner<br>
+Antonio Palocci Filho
+
+Jaques Wagner
+
 Álvaro Augusto Ribeiro da Costa

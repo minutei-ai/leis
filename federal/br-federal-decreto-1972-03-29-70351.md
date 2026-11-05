@@ -1,5 +1,3 @@
-###DEC-070351-0-000-29-03-1972@@@
-
 DECRETO Nº 70.351, DE 29 DE MARÇO DE 1972.
 
 Redistribui cargo, com a respectiva ocupante, para o Estado-Maior das Forças Armadas, e dá outras providências.

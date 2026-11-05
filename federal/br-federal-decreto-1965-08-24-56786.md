@@ -1,5 +1,3 @@
-###DEC-056786-0-000-24-08-1965@@@
-
 DECRETO Nº 56.786, DE 24 DE AGÔSTO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impôstos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados a “Companhia de Tecidos Paulista” de Paulista, Pe.
@@ -14,7 +12,43 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à “Companhia de Tecidos Paulista”, Pernambuco:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Item</span></p></td><td style="width:276.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Valor Total</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:276.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Teares Automáticos, Marca ELITEX, Tipo F. 44-2, largura de 1,200mm, Completamente Equipados, de fabricação e exportação “KOVO” Ltda, Praga Thecoslováquia ....................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>600</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>CIF US$</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>516.00</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:276.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Passadeiras, marca WHITIN, modêlo M-7B ACCUDRAFT, com uma cabeça e duas entregas devidamente equipadas e com motores acoplados pêso líquido total 6.168 quilos. Máquinas de procedência e fabricação americana e venda de WHITIN INTERNATIONAL LIMITED de Massachussets, S.A. .</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.190</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:276.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Maçaroqueiras WHITIN LONG-DRAFT modêlo J. SCOTSMAN, de 88 fusos cada, bitolo de 10 devidamente equipados de com motores acoplados de fabricação e venda de WHITIN INTERNATIONA LIMITED, de Massachussets U.S.A., e procedência norte-americana. Pêso líquido: não determinado .............................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Total ............................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">121.932</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">644.122</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+1
+
+Teares Automáticos, Marca ELITEX, Tipo F. 44-2, largura de 1,200mm, Completamente Equipados, de fabricação e exportação “KOVO” Ltda, Praga Thecoslováquia ....................
+
+600
+
+CIF US$
+
+516.00
+
+2
+
+Passadeiras, marca WHITIN, modêlo M-7B ACCUDRAFT, com uma cabeça e duas entregas devidamente equipadas e com motores acoplados pêso líquido total 6.168 quilos. Máquinas de procedência e fabricação americana e venda de WHITIN INTERNATIONAL LIMITED de Massachussets, S.A. .
+
+4
+
+6.190
+
+3
+
+Maçaroqueiras WHITIN LONG-DRAFT modêlo J. SCOTSMAN, de 88 fusos cada, bitolo de 10 devidamente equipados de com motores acoplados de fabricação e venda de WHITIN INTERNATIONA LIMITED, de Massachussets U.S.A., e procedência norte-americana. Pêso líquido: não determinado .............................................................................
+
+Total ............................................................
+
+6
+
+121.932
+
+644.122
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria fica sua similaridade para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 26 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

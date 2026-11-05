@@ -1,5 +1,3 @@
-###DEC-080091-0-000-04-08-1977@@@
-
 DECRETO Nº 80.091, DE 4 DE AGOSTO DE 1977.
 
 Concede reconhecimento aos cursos de Letras e de Desenho e Plástica, da Faculdade de Ciências e Letras de Araras, com sede na cidade de Araras, Estado de São Paulo.

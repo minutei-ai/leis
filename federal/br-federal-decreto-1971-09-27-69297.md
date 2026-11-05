@@ -1,5 +1,3 @@
-###DEC-069297-0-000-27-09-1971@@@
-
 DECRETO Nº 69.297, DE 27 DE SETEMBRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

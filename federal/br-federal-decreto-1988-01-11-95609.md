@@ -1,7 +1,3 @@
-1
-
-###DEC-095609-0-000-11-01-1988@@@
-
 DECRETO N° 95.609, DE 11 DE JANEIRO DE 1988
 
 Dispõe sobre a readaptação de servidor do Quadro Permanente do Departamento Nacional de Estradas de Rodagem, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089568-0-000-18-04-1984@@@
-
 Decreto nº 89.568, de 18 de ABril de 1984
 
 Concede a EMBRAER AIRCRAFT CORPORATION, subsidiária da EMBRAER - Empresa Brasileira de Aeronáutica SIA, autorização para proceder a aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-057498-0-000-28-12-1965@@@
-
 Decreto nº 57.498, de 28 de dezembro de 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

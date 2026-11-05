@@ -1,5 +1,3 @@
-###DEL-008705-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.705 – DE 17 DE JANEIRO DE 1946
 
 Concede auxílio ao Patronato de Menores e dá outras providências

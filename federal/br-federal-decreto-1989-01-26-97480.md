@@ -1,5 +1,3 @@
-###DEC-097480-0-000-26-01-1989@@@
-
 DECRETO N° 97.480, DE 26 de janeiro de 1989
 
 Revoga o artigo 8° do Decreto n° 60.521, de 31 de março de 1967 e o artigo 17 do Regulamento aprovado pelo Decreto n° 89.059, de 25 de novembro de 1983.

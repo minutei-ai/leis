@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/24527c11-883c-4228-bcfc-5d3a7e93501c/texto#nowhere)
 
-###DEL-001221-0-000-15-05-1972@@@
-
 # DECRETO-LEI Nº 1.221, DE 15 DE MAIO DE 1972
 
 Altera a redação do art. 1º, item II, do Decreto-lei nº 343, de 28 de dezembro de 1967, e do art. 13, item II, alínea “i”, da Lei nº 4.452, de 5 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-069372-0-000-18-10-1971@@@
-
 Decreto nº 69.372, de 18 de outubro de 1971.
 
 Concede autorização à Confederação Nacional dos Trabalhadores em Transportes Terrestres, para filiar-se à Federação Internacional dos Trabalhadores em Transportes (ITF).

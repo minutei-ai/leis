@@ -1,5 +1,3 @@
-###DEL-004816-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.816 – DE 8 DE OUTUBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 39:000$0, para despesas no exterior

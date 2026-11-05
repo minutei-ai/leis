@@ -1,5 +1,3 @@
-###DEC-045322-0-000-27-01-1959@@@
-
 DECREO Nº 45.322, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Tiradentes de Lima a pesquisar ilmenita e associados no município de Piaçabuçu, Estado de Alagoas.

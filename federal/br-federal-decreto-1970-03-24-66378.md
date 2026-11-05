@@ -1,5 +1,3 @@
-###DEC-066378-0-000-24-03-1970@@@
-
 DECRETO Nº 66.378 - DE 24 DE MARÇO DE 1970
 
 Declara de utilidade pública para fins de desapropriação, o domínio útil e respectivas benfeitorias, do imóvel que menciona, necessário ao Ministério do Exército.

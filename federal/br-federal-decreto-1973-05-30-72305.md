@@ -1,5 +1,3 @@
-###DEC-072305-0-000-30-05-1973@@@
-
 DECRETO Nº 72.305, DE 30 DE MAIO DE 1973.
 
 Outorga concessão ao Ministério da Educação e Cultura para estabelecer na Cidade do Rio de Janeiro, Estado da Guanabara, uma estação de radiodifusão de sons e imagens (televisão), com fins exclusivamente educativos.

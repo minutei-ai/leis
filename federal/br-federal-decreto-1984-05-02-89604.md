@@ -1,5 +1,3 @@
-###DEC-089604-0-000-02-05-1984@@@
-
 Decreto nº 89.604 de 02 de maio de 1984
 
 Outorga concessão à RÁDIO GUARANY LTDA., para explorar serviço de rádio difusão sonora em onda média, na cidade de Pacajus, Estado do Ceará.

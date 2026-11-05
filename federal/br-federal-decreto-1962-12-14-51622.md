@@ -1,5 +1,3 @@
-###DEC-051622-0-000-14-12-1962@@@
-
 DECRETO Nº 51.622, DE 14 DE DEZEMBRO DE 1962.
 
 Cria o Grupo de Trabalho para o fim que indica.

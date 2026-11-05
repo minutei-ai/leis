@@ -1,7 +1,3 @@
-1
-
-###DEC-098925-0-000-02-02-1990@@@
-
 DECRETO Nº 98.925, DE 2 DE FEVEREIRO DE l990
 
 Outorga concessão à TV CARIOBA COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão) na Cidade de Americana, Estado de São Paulo.

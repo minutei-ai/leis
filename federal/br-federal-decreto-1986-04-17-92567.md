@@ -1,5 +1,3 @@
-###DEC-092567-0-000-17-04-1986@@@
-
 DECRETO Nº 92.567, DE 17 DE ABRIL DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO SOCIEDADE DE MANHUAÇU LTDA., para a Fundação Expansão Cultural.

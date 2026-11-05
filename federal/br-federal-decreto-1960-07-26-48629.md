@@ -1,5 +1,3 @@
-###DEC-048629-0-000-26-07-1960@@@
-
 DECRETO Nº 48.629, DE 26 DE JULHO DE 1960.
 
 Outorga concessão à Rádio Educação Rural Limitada para instalar uma estação radiodifusora.

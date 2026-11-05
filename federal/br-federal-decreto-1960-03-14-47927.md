@@ -1,5 +1,3 @@
-###DEC-047927-0-000-14-03-1960@@@
-
 DECRETO Nº 47.927, DE 14 DE MARÇO DE 1960.
 
 Autoriza a Quimbrasil - Química Industrial Brasileira S/A a instalar uma usina termoelétrica, para uso exclusivo, na localidade de Utinga, município de Santo André, Estado de São Paulo.

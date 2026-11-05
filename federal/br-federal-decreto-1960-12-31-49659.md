@@ -1,5 +1,3 @@
-###DEC-049659-0-000-31-12-1960@@@
-
 DECRETO Nº 49.659, DE 31 DE dezembro DE 1960.
 
 Renova o Decreto nº 42.449, de 14 de outubro de 1957.

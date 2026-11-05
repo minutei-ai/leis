@@ -1,5 +1,3 @@
-###DEC-093377-0-000-09-10-1986@@@
-
 DECRETO Nº 93.377, DE 9 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Santa Rosa", situado no Município de Magé, no Estado do Rio de Janeiro, compreendido na zona prioritárIa, para fins de reforma agrária, fixado pelo Decreto nº 92.691, de 19 de maio de 1986 e dá outras providências.

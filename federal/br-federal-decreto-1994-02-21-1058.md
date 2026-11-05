@@ -1,7 +1,3 @@
-1
-
-###DEC-001058-0-000-21-02-1994@@@
-
 DECRETO Nº 1.058, DE 21 DE FEVEREIRO DE 1994
 
 Dispõe sobre o intercâmbio de informações entre órgãos e entidades da Administração Pública Federal direta e indireta e dá outras providências.

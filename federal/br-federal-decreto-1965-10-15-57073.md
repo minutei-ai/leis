@@ -1,5 +1,3 @@
-###DEC-057073-0-000-15-10-1965@@@
-
 Decreto nº 57.073, de 15 de outubro de 1965.
 
 Altera a redação do art. 34 do Regulamento para a Escola de Guerra Naval, aprovado pelo Decreto número 52.484, de 19 de setembro de 1963.

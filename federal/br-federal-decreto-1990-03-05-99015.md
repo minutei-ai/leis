@@ -1,7 +1,3 @@
-1
-
-###DEC-099015-0-000-05-03-1990@@@
-
 DECRETO Nº 99.015, DE 5 DE MARÇO DE 1990.
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo Comercial nº 26, no Setor da Indústria de Artigos e Aparelhos para Usos Hospitalares, Médicos, Odontológicos, Veterinários e Afins entre o Brasil, a Argentina e o México.

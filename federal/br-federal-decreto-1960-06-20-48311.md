@@ -1,5 +1,3 @@
-###DEC-048311-0-000-20-06-1960@@@
-
 Decreto nº 48.311, de 20 de junho de 1960.
 
 Autoriza Gêsso Nacional Tapuyo Limitada a pesquisar gipsita, no município de Porteiras, Estado do Ceará.

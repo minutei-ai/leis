@@ -1,6 +1,7 @@
 DECRETO Nº 9.891, DE 22 DE JUNHO DE 2021
 
-Institui o Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária, com vistas ao Desenvolvimento Sustentável do Estado de Goiás – ABC+GO.<br>
+Institui o Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária, com vistas ao Desenvolvimento Sustentável do Estado de Goiás – ABC+GO.
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~Institui o Plano Estadual de Mitigação/Adaptação às Mudanças Climáticas e Sustentabilidade na Agropecuária.~~
@@ -9,7 +10,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Fica instituído o Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária, com vistas ao Desenvolvimento Sustentável do Estado de Goiás – ABC+GO, para a consolidação de uma economia de baixa emissão de carbono que satisfaça à vertente ambiental do tripé da sustentabilidade, com os seguintes objetivos:<br>
+Art. 1º Fica instituído o Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária, com vistas ao Desenvolvimento Sustentável do Estado de Goiás – ABC+GO, para a consolidação de uma economia de baixa emissão de carbono que satisfaça à vertente ambiental do tripé da sustentabilidade, com os seguintes objetivos:
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~Art. 1º Fica instituído o Plano Estadual de Mitigação/Adaptação às Mudanças Climáticas e Sustentabilidade na Agropecuária, para a consolidação de uma economia de baixa emissão de carbono que satisfaça o tripé da sustentabilidade, com os seguintes objetivos:~~
@@ -58,12 +60,14 @@ X – propor a atualização da legislação relacionada com as atividades de de
 
 XI – incentivar maior uso do conhecimento técnico de práticas agronômicas de conservação do solo, da água e da biodiversidade, bem como a disseminação de sistemas de produção de baixa emissão de gases do efeito estufa — GEE, com o aumento do rendimento por unidade de área.
 
-Parágrafo único.  A Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA, por meio da Gerência de Sustentabilidade Agropecuária, é a unidade central de gestão do ABC+GO.<br>
+Parágrafo único.  A Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA, por meio da Gerência de Sustentabilidade Agropecuária, é a unidade central de gestão do ABC+GO.
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~Parágrafo único. A Superintendência de Produção Rural Sustentável, da Secretaria de Estado de Agricultura, Pecuária e Abastecimento, é a unidade central de gestão do plano ora instituído.~~
 
-Art. 2º Fica criado o Grupo Gestor Estadual do Plano ABC+ do Estado de Goiás – GGE-ABC+GO, coordenado pela SEAPA e composto por representantes dos seguintes órgãos e entidades:<br>
+Art. 2º Fica criado o Grupo Gestor Estadual do Plano ABC+ do Estado de Goiás – GGE-ABC+GO, coordenado pela SEAPA e composto por representantes dos seguintes órgãos e entidades:
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~Art. 2º Fica criado o Comitê Estadual de Gestão da Agropecuária de Baixo Carbono e Sustentável de Goiás — ABCS, coordenado pela Secretaria de Estado de Agricultura, Pecuária e Abastecimento e composto por representantes dos seguintes órgãos e entidades:~~
@@ -96,50 +100,64 @@ XIII – Serviço Nacional de Aprendizagem Rural — SENAR/GO; e
 
 XIV – Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — SEBRAE/GO;
 
-XV – Instituto Mauro Borges de Pesquisa e Política Econômica;<br>
+XV – Instituto Mauro Borges de Pesquisa e Política Econômica;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XVI – Instituto Brasileiro de Desenvolvimento e Sustentabilidade;<br>
+XVI – Instituto Brasileiro de Desenvolvimento e Sustentabilidade;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XVII – Secretaria de Estado de Ciência, Tecnologia e Inovação;<br>
+XVII – Secretaria de Estado de Ciência, Tecnologia e Inovação;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XVIII – Pontifícia Universidade Católica de Goiás;<br>
+XVIII – Pontifícia Universidade Católica de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XIX – Universidade Federal de Catalão;<br>
+XIX – Universidade Federal de Catalão;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XX – Universidade Estadual de Goiás;<br>
+XX – Universidade Estadual de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XXI – Fundação de Amparo à Pesquisa do Estado de Goiás;<br>
+XXI – Fundação de Amparo à Pesquisa do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XXII – Associação dos Produtores de Soja, Milho e Outros Grãos Agrícolas do Estado de Goiás;<br>
+XXII – Associação dos Produtores de Soja, Milho e Outros Grãos Agrícolas do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XXIII – Instituto Federal Goiano;<br>
+XXIII – Instituto Federal Goiano;
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XXIV –  Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba; e<br>
+XXIV –  Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba; e
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-XXV –  Associação Goiana dos Produtores de Algodão.<br>
+XXV –  Associação Goiana dos Produtores de Algodão.
+
 \- [Acrescido pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
-§ 1º O GGE-ABC+GO terá sua composição definida pelos titulares das pastas e entidades que o compõem.<br>
+§ 1º O GGE-ABC+GO terá sua composição definida pelos titulares das pastas e entidades que o compõem.
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~§ 1º O ABCS terá sua composição definida pelos titulares das pastas e/ou entidades que o compõem.~~
 
-§ 2º O funcionamento do GGE-ABC+GO será estabelecido por regimento interno.<br>
+§ 2º O funcionamento do GGE-ABC+GO será estabelecido por regimento interno.
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~§ 2º O funcionamento do ABCS será estabelecido por meio de regimento interno.~~
 
-Art. 3º A SEAPA, por portaria de seu titular, estabelecerá as metas programáticas e os programas executivos para os projetos estruturantes, bem como as ações e as atividades necessárias à difusão e à aplicação das decisões tomadas no âmbito do GGE-ABC+GO, e está autorizada, na forma da lei, a realizar as licitações e firmar os convênios, os acordos, os ajustes e os contratos que se fizerem indispensáveis à execução do que for estabelecido.<br>
+Art. 3º A SEAPA, por portaria de seu titular, estabelecerá as metas programáticas e os programas executivos para os projetos estruturantes, bem como as ações e as atividades necessárias à difusão e à aplicação das decisões tomadas no âmbito do GGE-ABC+GO, e está autorizada, na forma da lei, a realizar as licitações e firmar os convênios, os acordos, os ajustes e os contratos que se fizerem indispensáveis à execução do que for estabelecido.
+
 \- [Redação dada pelo Decreto nº 10.683, de 22-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110606).
 
 ~~Art. 3º A Secretaria de Estado de Agricultura, Pecuária e Abastecimento, por meio de portaria de seu titular, estabelecerá as metas programáticas e os programas executivos para os projetos estruturantes, bem como as ações e as atividades necessárias à difusão e à aplicação das decisões tomadas no âmbito de ação do ABCS, também estará autorizada, na forma da lei, a realizar as licitações e firmar os convênios, os acordos, os ajustes e os contratos que se fizerem necessários para a sua execução.~~

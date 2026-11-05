@@ -1,5 +1,3 @@
-###DEC-059110-0-000-22-08-1966@@@
-
 DECRETO Nº 59.110, DE 22 DE AGÔSTO DE 1966.
 
 Altera o Regimento da Contadoria Geral da República, aprovado pelo Decreto nº 1.508, de 12 de novembro de 1962, e dá outras providências.

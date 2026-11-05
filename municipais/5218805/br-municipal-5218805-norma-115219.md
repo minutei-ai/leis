@@ -2,7 +2,6 @@ LEI Nº 5.536, DE 27 DE FEVEREIRO DE 2009.
 
 Cria o Conselho Municipal de Agricultura, Pecuária e Abastecimento e dá outras providências.
 
-<br>
 **CONSOLIDADA COM A LEI:**
 
 [Lei n.º 7.443/2023............................................ 27/11/2023](http://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/115210/lei-ordinaria-7443)

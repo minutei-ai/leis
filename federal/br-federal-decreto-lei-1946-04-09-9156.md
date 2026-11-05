@@ -1,5 +1,3 @@
-###DEL-009156-0-000-09-04-1946@@@
-
 DECRETO-LEI N. 9.156 – DE 9 DE ABRIL DE 1946
 
 Permite a servidores públicos e das autarquias lecionar e ministrar aprendizagem no Serviço Nacional de Aprendizagem Industrial (S.E.N.A.I.).

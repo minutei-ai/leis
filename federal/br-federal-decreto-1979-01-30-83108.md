@@ -1,5 +1,3 @@
-###DEC-083108-0-000-30-01-1979@@@
-
 Decreto nº 83.108, de 30 de janeiro de 1979
 
 Altera a redação do art. 2º do Decreto nº 82.659, de 16 de novembro de 1978, que declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Ribeirão Preto, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

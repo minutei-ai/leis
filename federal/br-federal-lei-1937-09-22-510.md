@@ -1,14 +1,12 @@
-###LEI-000510-0-000-22-09-1937@@@
+**LEI N. 510 – DE 22 DE SETEMBRO DE 1937**
 
-<strong>LEI N. 510 – DE 22 DE SETEMBRO DE 1937</strong>
-
-<em><strong>Altera o regulamento da Ordem dos Advogados do Brasil</strong></em>
+***Altera o regulamento da Ordem dos Advogados do Brasil***
 
 O Presidente da República:
 
 Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte lei:
 
-<strong>Art.</strong> 1º O Regulamento da Ordem dos Advogados do Brasil, expedido com o decreto n. 22.478, de 20 de fevereiro de 1933, e modificado pelos decretos ns. 24.185, de 30 de abril de 1934, e 24.631, de 9 de julho de 1934, fica alterado pela forma seguinte:
+**Art.** 1º O Regulamento da Ordem dos Advogados do Brasil, expedido com o decreto n. 22.478, de 20 de fevereiro de 1933, e modificado pelos decretos ns. 24.185, de 30 de abril de 1934, e 24.631, de 9 de julho de 1934, fica alterado pela forma seguinte:
 
 1\. Art. 4º. A Ordem exercerá suas attribuições, em todo o território nacional, pelo Conselho Federal, e pelo presidente e secretário geral; em cada secção, pela assembléia geral e pelo conselho; em cada sub-secção pela diretoria  e pela assembléia geral.
 
@@ -78,10 +76,10 @@ Em todo o processo judicial, atinente ao exercício da profissão, poderá inter
 
 Parágrafo único. Se o prolator da decisão for o próprio juiz com exercício das atribuições referidas no art. 9º, o recurso será ex-officio.
 
-<strong>Art.</strong> 2º  Revogam-se as disposições em contrário.
+**Art.** 2º  Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 22 de setembro de 1937, 116º da Independência e 49º da República.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 José Carlos de Macedo Soares.

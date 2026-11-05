@@ -1,5 +1,3 @@
-###DEC-068620-0-000-14-05-1971@@@
-
 decreto nº 68.620 - de 14 de maio de 1971.
 
 Altera o Decreto nº 65.585, de 21 de outubro de 1969, que retificou o Quadro Único de Pessoal da Universidade Federal do Rio Grande do Sul.

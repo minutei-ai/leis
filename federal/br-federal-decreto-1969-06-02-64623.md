@@ -1,5 +1,3 @@
-###DEC-064623-0-000-02-06-1969@@@
-
 decreto nº 64.623, de 2 de junho de 1969.
 
 Declara caduco o Decreto nº 31.599, de 15 de outubro de 1952, retificado pelo de nº 39.812, de 16 de agôsto de 1956.

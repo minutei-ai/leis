@@ -1,5 +1,3 @@
-###DEC-048693-0-000-04-08-1960@@@
-
 DECRETO Nº 48.693, DE 04 DE agôsto DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.549, de 24 de maio de 1954,para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas da área de terreno necessária à construção do açude público Boqueirão, no Município de Cabaceiras, Estado da Paraíba.

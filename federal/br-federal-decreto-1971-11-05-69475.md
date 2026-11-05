@@ -1,5 +1,3 @@
-###DEC-069475-0-000-05-11-1971@@@
-
 DECRETO Nº 69.475 - DE 5 DE NOVEMBRO DE 1971
 
 Aprova incorporação de empresa de energia elétrica no Estado do Paraná e dá outras providências.

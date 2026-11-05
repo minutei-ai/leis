@@ -1,5 +1,3 @@
-###DEC-068235-0-000-15-02-1971@@@
-
 DECRETO Nº 68.235, DE 15 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão Abadiânia - Nova Abadiânia no município de Abadiânia, no Estado de Goiás.

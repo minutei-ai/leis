@@ -1,5 +1,3 @@
-###DEC-054061-0-000-28-07-1964@@@
-
 DECRETO Nº 54.061, DE 28 DE JULHO DE 1964.
 
 Regulamenta o Regime de Tempo Integral previsto nos artigos 11 e 12 da Lei nº 4.345, de 26 de junho de 1964.

@@ -1,5 +1,3 @@
-###DEC-060150-0-000-27-01-1967@@@
-
 DECRETO Nº 60.150, DE 27 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Silvio Costa Rodrigues a pesquisar Wolframita e cassiterita, no município de Encruzilhada do Sul, Estado do Rio Grande do Sul.

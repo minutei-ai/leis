@@ -1,7 +1,3 @@
-1
-
-###DEL-001909-0-000-28-12-1981@@@
-
 # Decreto-lei nº 1.909, de 28 de dezembro de 1981
 
 Estabelece contenção de despesas orçamentárias para o exercício de 1?82 e dá outras providências.

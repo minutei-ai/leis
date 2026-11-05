@@ -1,5 +1,3 @@
-###DEC-070545-0-000-16-05-1972@@@
-
 DECRETO Nº 70.545, DE 16 DE MAIO DE 1972.
 
 Retifica o Decreto nº 69.034, de 9 de agosto de 1971, que incluiu nas relações de que trata o Decreto número 55.244, de 21 de dezembro de 1964, os cargos de Professor de Ensino Especializado, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72794)
-
 # LEI Nº 12.637, DE 06 DE JULHO DE 2007
 
 ## (Projeto de lei nº 216, de 2004, do Deputado Simão Pedro - PT)

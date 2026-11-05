@@ -1,5 +1,3 @@
-###DEC-083325-0-000-16-04-1979@@@
-
 Decreto nº 83.325, de 16 de abril de 1979.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Faculdade de Educação, Ciências e Letras de Cascavel, com sede em Cascavel, Estado do Paraná.

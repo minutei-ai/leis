@@ -1,5 +1,3 @@
-###DEC-068387-0-000-23-03-1971@@@
-
 DECRETO Nº 68.387, DE 23 DE MARÇO DE 1971.
 
 Concede permissão, em caráter permanente, à emprêsa Industria Brasileira de Enxofre S.A, sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

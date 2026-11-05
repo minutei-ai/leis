@@ -1,5 +1,3 @@
-###DEC-047976-0-000-02-04-1960@@@
-
 DECRETO Nº 47.976, DE 2 DE ABRIL DE 1960.
 
 Altera a área de jurisdição do Primeiro Distrito Naval.

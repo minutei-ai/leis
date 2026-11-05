@@ -1,5 +1,3 @@
-###DEC-005749-0-000-11-04-2006@@@
-
 DECRETO Nº 5.749, DE 11 DE ABRIL DE 2006.
 
 Altera o caput do art. 18 do Decreto nº 5.209, de 17 de setembro de 2004, dispondo sobre atualizações de valores referenciais para caracterização das situações de pobreza e extrema pobreza no âmbito do Programa Bolsa Família, previstos no art. 2º, §§ 2º e 3º, da Lei nº 10.836, de 9 de janeiro de 2004.

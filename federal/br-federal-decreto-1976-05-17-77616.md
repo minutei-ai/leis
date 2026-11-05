@@ -1,5 +1,3 @@
-###DEC-077616-0-000-17-05-1976@@@
-
 DECRETO Nº 77.616, DE 17 DE MAIO DE 1976
 
 Concede a Mineração Santa Patrícia Ltda. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

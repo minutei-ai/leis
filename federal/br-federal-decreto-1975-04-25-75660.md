@@ -1,5 +1,3 @@
-###DEC-075660-0-000-25-04-1975@@@
-
 decreto nº 75.660, de 25 de abril de 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz do Estado de São Paulo.

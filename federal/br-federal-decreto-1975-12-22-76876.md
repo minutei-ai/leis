@@ -1,5 +1,3 @@
-###DEC-076876-0-000-22-12-1975@@@
-
 DECRETO Nº 76.876, DE 22 DE DEZEMBRO DE 1975.
 
 Conceda autorização à empresa Du Pont do Brasil S.A. - Indústrias Químicas, com sede em São Paulo, Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos, no estabelecimento fabril que menciona.

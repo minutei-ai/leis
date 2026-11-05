@@ -1,5 +1,3 @@
-###DEC-056806-0-000-30-08-1965@@@
-
 Decreto nº 56.806, de 30 de agôsto de 1965.
 
 Encampa a concessão e a autorização outorgadas à Companhia Hidrelétrica do Vale do Paraíba - CHEVAP, e dá outras providências.

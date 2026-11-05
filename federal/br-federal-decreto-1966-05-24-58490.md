@@ -1,5 +1,3 @@
-###DEC-058490-0-000-24-05-1966@@@
-
 DECRETO Nº 58.490, DE 24 DE MAIO DE 1966
 
 Autoriza a Cia. Minas da Passagem a pesquisar ouro e diamantes no leito e margens públicas, nos municípios de Diamantina e Couto de Magalhães, Estado de Minas Gerais.

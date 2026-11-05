@@ -1,5 +1,3 @@
-###DEL-005170-0-000-06-01-1943@@@
-
 DECRETO‑LEI N. 5.170 – DE 6 DE JANEIRO DE 1943
 
 Cria o 3º Regimento Auto‑metralhadoras de Cavalaria, com sede em Bagé, Estado , Rio Grande do Sul

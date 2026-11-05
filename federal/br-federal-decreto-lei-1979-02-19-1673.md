@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/82e881e0-f5ab-4ad7-a345-56ee1a97c0d4/texto#nowhere)
 
-###DEL-001673-0-000-19-02-1979@@@
-
 # Decreto-lei nº 1.673, de 19 de fevereiro de 1979.
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências.

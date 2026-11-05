@@ -1,5 +1,3 @@
-###DEL-007231-0-000-05-01-1945@@@
-
 DECRETO-LEI N. 7.231 – DE 5 DE JANEIRO 1945
 
 Dispõe sóbre o regime escolar nas Escolas Nacional de Agronomia e Nacional de Veterinária

@@ -1,5 +1,3 @@
-###DEC-085299-0-000-27-10-1980@@@
-
 Decreto Nº 85.299, de 27 de outubro de 1980.
 
 Cria Organização Militar no Ministério do Exército e dá outras providências.

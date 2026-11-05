@@ -1,5 +1,3 @@
-###DEC-005781-0-000-22-05-2006@@@
-
 DECRETO Nº 5.781, DE 22 DE MAIO DE 2006.
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Transporte Fluvial pela Hidrovia Paraguai-Paraná (Porto de Cáceres - Porto de Nueva Palmira), assinado ao amparo do Artigo 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, em 9 de dezembro de 2004.

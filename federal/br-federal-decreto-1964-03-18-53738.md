@@ -1,5 +1,3 @@
-###DEC-053738-0-000-18-03-1964@@@
-
 Decreto nº 53.738, de 18 de março de 1964.
 
 Concede o reconhecimento da Faculdade de Direito de Santa Maria, Estado do Rio Grande do Sul.

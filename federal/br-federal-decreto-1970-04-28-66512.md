@@ -1,5 +1,3 @@
-###DEC-066512-0-000-28-04-1970@@@
-
 DECRETO Nº 66.512, DE 28 de ABRIL DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma tôrre de microondas, no município de Olímpia, Estado de São Paulo.

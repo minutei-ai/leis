@@ -1,5 +1,3 @@
-###DEC-096416-0-000-26-07-1988@@@
-
 DECRETO N° 96.416, DE 26 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SANTA CATARINA”, classificado como latifúndio por exploração, situado no Município de Santo Amaro, no Estado da Bahia, incluso na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

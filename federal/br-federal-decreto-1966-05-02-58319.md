@@ -1,5 +1,3 @@
-###DEC-058319-0-000-02-05-1966@@@
-
 DECRETO Nº 58.319, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Gerhard Kroger, a pesquisar argila no município de Suzano, Estado de São Paulo.

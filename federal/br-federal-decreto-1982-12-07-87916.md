@@ -1,5 +1,3 @@
-###DEC-087916-0-000-07-12-1982@@@
-
 Decreto nº 87.916, de 07 de dezembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/11045)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1995/compilacao-lei-9185-21.11.1995.html)
 
 # LEI N° 9.185, DE 21 DE NOVEMBRO DE 1995

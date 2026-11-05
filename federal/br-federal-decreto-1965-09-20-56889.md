@@ -1,5 +1,3 @@
-###DEC-056889-0-000-20-09-1965@@@
-
 DECRETO Nº 56.889, DE 20 DE SETEMBRO DE 1965
 
 Prorroga o prazo de que trata § 2º do art. 9º, da Lei nº 4.390, de 29 de agôsto de 1964.

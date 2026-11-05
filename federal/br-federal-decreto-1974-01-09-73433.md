@@ -1,5 +1,3 @@
-###DEC-073433-0-000-09-01-1974@@@
-
 DECRETO Nº 73.433, DE 9 DE JANEIRO DE 1974.
 
 Concede reconhecimento dos cursos de Letras (licenciatura de 1º grau),Estudos Sociais (licenciatura de 1º grau, Estudo Sociais  (licenciatura de 1º Grau e habilitação em Educação Moral e Cívica), Matemática, Desenho e Plástica da Faculdade de Filosofia, Ciências e Letras de Jales, mantida pela Associação Educacional de Jales, com sede na cidade de Jales, Estado de São Paulo.

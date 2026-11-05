@@ -1,5 +1,3 @@
-###DEL-006328-0-000-09-03-1944@@@
-
 DECRETO-LEI N. 6.328 – DE 9 DE MARÇO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 2.000.000,00, para lavra de jazida de carvão mineral no Rio Grande do Sul

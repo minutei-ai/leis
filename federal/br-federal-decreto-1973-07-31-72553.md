@@ -1,5 +1,3 @@
-###DEC-072553-0-000-31-07-1973@@@
-
 Decreto nº 72.553, de 31 de julho de 1973.
 
 Altera dispositivos do Regulamento da Diretoria de Documentação e Histórico, aprovado pelo Decreto nº 67.555, de 12 de novembro de 1970, e dá outras providências.

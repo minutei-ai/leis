@@ -1,5 +1,3 @@
-###DEC-003557-0-000-14-08-2000@@@
-
 DECRETO Nº 3.557, DE 14 DE AGOSTO DE 2000.
 
 Dá nova redação ao art. 14 do Decreto nº 92.512, de 2 de abril de 1986, que dispõe sobre a assistência médico-hospitalar ao militar e seus dependentes.

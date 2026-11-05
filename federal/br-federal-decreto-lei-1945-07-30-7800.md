@@ -1,5 +1,3 @@
-###DEL-007800-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.800 – DE 30 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o credito especial de Cr$ 58.403.620.20, para pagamento de contas de transportes efetuados pela Estrada de Ferro Central do Brasil.

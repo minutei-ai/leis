@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9ec70c11-a386-44e2-93d9-58d6b35be647/texto#nowhere)
 
-###DEL-001225-0-000-22-06-1972@@@
-
 # decreto-lei nº 1.225, de 22 de junho de 1972
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea b, da Constituição, os Municípios de Lauro de Freitas, Simões Filho, Candeias e Camaçari, todos do Estado da Bahia e dá outras providências.

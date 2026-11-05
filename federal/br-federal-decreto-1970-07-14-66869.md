@@ -1,5 +1,3 @@
-###DEC-066869-0-000-14-07-1970@@@
-
 Decreto nº 66.869, de 14 de julho de 1970.
 
 Dá nova redação à letra b do artigo 10 do Regimento do Gabinete Militar da Presidência da República.

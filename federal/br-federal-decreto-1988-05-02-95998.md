@@ -1,5 +1,3 @@
-###DEC-095998-0-000-02-05-1988@@@
-
 DECRETO N° 95.998, DE 2 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO CINDERELA S/A para explorar serviço de radiodifusão sonora em onda média, na cidade de Campo Bom, Estado do Rio Grande do Sul.

@@ -1,14 +1,12 @@
-###DEC-042878-0-000-20-12-1957@@@
+**DECRETO Nº 42.878, DE 20 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.878, DE 20 DE DEZEMBRO DE 1957.</strong>
+***Altera disposições do Regimento do Presídio do Distrito Federal, do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Altera disposições do Regimento do Presídio do Distrito Federal, do Ministério da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 2º e seu § 1º, 3º, 10 e 11 do Regimento aprovado pelo Decreto nº 25.945, de 4 de dezembro de 1948, passam a vigorar com a seguinte redação:
+**Art**. 1º Os artigos 2º e seu § 1º, 3º, 10 e 11 do Regimento aprovado pelo Decreto nº 25.945, de 4 de dezembro de 1948, passam a vigorar com a seguinte redação:
 
 “Art. 2º O. P. D. F. compõe-se de:
 
@@ -72,10 +70,10 @@ IV - expedir laudo dos exames e observações efetuadas em cada presidiário, co
 
 V - fornecer dados prognósticos e indicações sobre o tipo de tarefa mais adequada ao indivíduo, dentro ou fora do Presídio”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 20 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico de Aguiar Salles

@@ -1,5 +1,3 @@
-###DEC-076330-0-000-24-09-1975@@@
-
 Decreto nº 76.330 - de 24 de setembro de 1975
 
 Renova por 10 (dez) anos a concessão outorgada à Planalto Promoções e Informações Ltda, posteriormente alterada para Planalto Promoções e Informação S. A., sob a denominação de Rádio Planalto, para executar na Cidade de Brasília, Distrito Federal, serviço de radiodifusão sonora em onda média de âmbito regional,

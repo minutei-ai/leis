@@ -1,5 +1,3 @@
-###DEC-079783-0-000-07-06-1977@@@
-
 DECRETO Nº 79.783, DE 7 DE JUNHO DE 1977
 
 Autoriza a alienação do imóvel que menciona, situado no Município de Itaperuna, Estado do Rio de janeiro.

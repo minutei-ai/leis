@@ -1,5 +1,3 @@
-###DEC-001303-0-000-08-11-1994@@@
-
 DECRETO Nº 1.303, DE 8 DE NOVEMBRO DE 1994
 
 Dispõe sobre a criação de universidades e estabelecimentos isolados de ensino superior e dá outras providências.

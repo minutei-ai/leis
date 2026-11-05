@@ -1,5 +1,3 @@
-###DEC-066866-0-000-13-07-1970@@@
-
 DECRETO Nº 66.866, DE 13 DE JUlhO DE 1970.
 
 Delega competência ao Ministro da Indústria e do Comércio para nomear na Comissão Executiva do Sal e na Junta Comercial do Distrito Federal.

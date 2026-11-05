@@ -1,5 +1,3 @@
-###DEC-080169-0-000-16-08-1977@@@
-
 DECRETO Nº 80.169, DE 16 DE AGOSTO DE 1977.
 
 Declara sem efeito a interdição de parte das áreas a que se refere o Decreto número 73.562, de 24 de janeiro de 1974, alterado pelo Decreto número 77.033, de 15 de janeiro de 1976, e dá outras providências.

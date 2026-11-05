@@ -1,6 +1,4 @@
-###DEL-006924-0-000-04-10-1944@@@
-
-         DECRETO-LEI N. 6.924 – DE 4 DE OUTUBRO DE 1944
+DECRETO-LEI N. 6.924 – DE 4 DE OUTUBRO DE 1944
 
 Concede pensão especial à viúva e aos filhos menores de Aldano de Araújo, vítima de acidente em serviço
 

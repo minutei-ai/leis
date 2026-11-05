@@ -1,5 +1,3 @@
-###DEC-075772-0-000-26-05-1975@@@
-
 DECRETO Nº 75.768, DE 26 DE MAIO DE 1975.
 
 Dispõe sobre a execução dos instrumentos resultantes das negociações para o estabelecimento da Nova Lista III (Brasil), do acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT), realizadas em Genebra, Suíça e encerradas em 30 de abril de 1974,

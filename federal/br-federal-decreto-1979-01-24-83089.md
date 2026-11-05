@@ -1,5 +1,3 @@
-###DEC-083089-0-000-24-01-1979@@@
-
 Decreto nº 83.089, de 24 de janeiro de 1979
 
 Altera dispositivos do Decreto nº 79.966, de 14 de julho de 1977, que dispõe sobre a concessão da Indenização de Transporte, e dá outras providências.

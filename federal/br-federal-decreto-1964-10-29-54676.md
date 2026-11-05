@@ -1,5 +1,3 @@
-###DEC-054676-0-000-29-10-1964@@@
-
 decreto nº 54.676, de 29 de outubro de 1964.
 
 Concede à sociedade Navegação Rio-Apa Ltda. Autorização para funcionar como emprêsa de navegação de cabotagem.

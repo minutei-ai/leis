@@ -1,7 +1,3 @@
-1
-
-###DEC-001056-0-000-11-02-1994@@@
-
 DECRETO Nº 1.056, DE 11 DE FEVEREIRO DE 1994
 
 Regulamenta a Lei nº 8.642, de 31 de março de 1993, e estabelece a forma de atuação dos órgãos do Poder Executivo para execução do Programa Nacional de Atenção Integral à Criança e ao Adolescente, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59849)
-
 # LEI Nº 12.186, DE 05 DE JANEIRO DE 2006
 
 ### _Altera a Lei n. 10.086, de 1998, que dispõe sobre o regime tributário simplificado da microempresa e da empresa de pequeno porte do Estado_
@@ -140,7 +138,29 @@ II - do valor obtido na forma do inciso I, deduzir o valor do imposto destacado 
 
 III - sobre o valor das operações ou prestações realizadas no período por empresa de pequeno porte, será aplicada a tributação conforme tabela abaixo: 
 
-<table border="0" cellpadding="2" cellspacing="2" style="width: 482px; text-align: left; margin-left: auto; margin-right: auto"><tbody><tr><td style="width: 253px">RECEITA BRUTA MENSAL</td><td style="width: 108px; text-align: center">TRIBUTAÇÃO</td><td style="width: 97px; text-align: center">DEDUÇÃO</td></tr><tr><td style="width: 253px">Até R$ 60.000,00</td><td style="width: 108px; text-align: center">2,1526%</td><td style="width: 97px; text-align: right">R$ 430,53</td></tr><tr><td style="width: 253px">De R$ 60.000,01 a R$ 100.000,00</td><td style="width: 108px; text-align: center">3,1008%</td><td style="width: 97px; text-align: right">R$ 999,44</td></tr><tr><td style="width: 253px">Acima de R$ 100.000,01</td><td style="width: 108px; text-align: center">4,0307%</td><td style="width: 97px; text-align: right">R$ 1.929,34</td></tr></tbody></table>
+RECEITA BRUTA MENSAL
+
+TRIBUTAÇÃO
+
+DEDUÇÃO
+
+Até R$ 60.000,00
+
+2,1526%
+
+R$ 430,53
+
+De R$ 60.000,01 a R$ 100.000,00
+
+3,1008%
+
+R$ 999,44
+
+Acima de R$ 100.000,01
+
+4,0307%
+
+R$ 1.929,34
 
 **§ 1º -** O regime especial de apuração do imposto previsto neste artigo não abrange as situações a seguir indicadas, hipótese em que o imposto quando devido deverá ser pago na conformidade da legislação própria:
 
@@ -208,15 +228,16 @@ Publicada na Assessoria Técnico-Legislativa, aos 05 de janeiro de 2006. 
 
 **[LEI Nº 12.186, DE 5 DE JANEIRO DE 2006](http://www.al.sp.gov.br/norma?id=59849)**
 
-<br>
 Altera a [Lei nº 10.086, de 19 de novembro de 1998](http://www.al.sp.gov.br/norma?id=7292), que dispõe sobre o regime tributário simplificado da microempresa e da empresa de pequeno porte do Estado de São Paulo
 
-<br>
 leia-se como segue e não como constou:
 
-<br>
-Luiz Tacca Júnior<br>
-Secretário da Fazenda<br>
-Fábio Augusto Martins Lepique<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Casa Civil<br>
+Luiz Tacca Júnior
+
+Secretário da Fazenda
+
+Fábio Augusto Martins Lepique
+
+Secretário-Adjunto, Respondendo pelo Expediente da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 5 de janeiro de 2006.

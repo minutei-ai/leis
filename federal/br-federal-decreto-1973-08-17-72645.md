@@ -1,5 +1,3 @@
-###DEC-072645-0-000-17-08-1973@@@
-
 DECRETO Nº 72.645, DE 17 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento do Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras Santo Tomás de Aquino, mantida pela Sociedade Educadora da Infância e Juventude de Uberaba, com sede na cidade de Uberaba, Estado de Minas Gerais.

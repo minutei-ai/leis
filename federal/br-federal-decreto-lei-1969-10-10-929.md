@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/920b8bd9-1cfe-4d4e-af4b-f27331fc037a/texto#nowhere)
 
-###DEL-000929-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 929, DE 10 DE OUTUBRO DE 1969
 
 Estabelece normas para enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro, não classificados nos têrmos da Lei número 4.881-A, de 6 de dezembro de 1965.

@@ -1,5 +1,3 @@
-###DEL-007179-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 7.179 – DE 21 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 6.040.251,50, para pagamento de notas de papel-moeda

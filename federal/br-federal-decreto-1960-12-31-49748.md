@@ -1,5 +1,3 @@
-###DEC-049748-0-000-31-12-1960@@@
-
 DECRETO Nº 49.748, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova o Regulamento Interno da Procuradoria junto ao Tribunal Marítimo.

@@ -1,5 +1,3 @@
-###DEC-077585-0-000-11-05-1976@@@
-
 decreto nº 77.585 - de 11 de maio de 1976
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Congonhas Difusora Ltda. para que a Fundação Radiodifusora de Congonhas passe a  executar serviço de radiodifusão sonora em onda tropical, na Cidade de Congonhas, Estado de Minas Gerais.

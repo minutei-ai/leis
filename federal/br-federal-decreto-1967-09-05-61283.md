@@ -1,5 +1,3 @@
-###DEC-061283-0-000-05-09-1967@@@
-
 decreto nº 61.283, de 5 de setembro de 1967.
 
 Transfere da Prefeitura Municipal de Astorga para a Companhia Paranaense de Energia Elétrica a concessão para distribuir energia elétrica no município de Astorga, Estado do Paraná.

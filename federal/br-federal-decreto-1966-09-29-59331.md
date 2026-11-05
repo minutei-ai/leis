@@ -1,5 +1,3 @@
-###DEC-059331-0-000-29-09-1966@@@
-
 DECRETO Nº 59.331, DE 29 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 53.253, de 13 de dezembro de 1963.

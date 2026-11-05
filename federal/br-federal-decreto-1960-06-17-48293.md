@@ -1,5 +1,3 @@
-###DEC-048293-0-000-17-06-1960@@@
-
 DECRETO Nº 48.293, DE 17 DE JUNHO DE 1960.
 
 Renova o Decreto nº 43.012, de 8 de janeiro de 1958.

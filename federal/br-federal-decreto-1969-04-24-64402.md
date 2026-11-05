@@ -1,5 +1,3 @@
-###DEC-064402-0-000-24-04-1969@@@
-
 DECRETO Nº 64.402, DE 24 DE ABRIL DE 1969.
 
 Atribui à 1º Divisão de Infantaria a denominação histórica de Divisão Mascarenhas de Moraes.

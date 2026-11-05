@@ -1,5 +1,3 @@
-###MPV-002120-0-008-27-12-2000@@@
-
 medida provisoria nº 2.120-8, de 27 de dezembro de 2000.
 
 Institui o Fundo Nacional de Segurança Pública - FNSP, e dá outras providências.

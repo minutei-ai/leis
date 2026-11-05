@@ -1,5 +1,3 @@
-###DEC-059894-0-000-29-12-1966@@@
-
 DECRETO Nº 59.894, DE 29 DE DEZEMBRO DE 1966.
 
 Presidência da República. Abre o crédito especial de Cr$110.050,924 (cento e dez milhões, cinqüenta mil, novecentos e vinte e quatro cruzeiros) autorizado pela Lei nº 5.059, de 1º de julho de 1966, a favor do Instituto Brasileiro de Geografia e Estatística.

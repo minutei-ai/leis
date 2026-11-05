@@ -1,5 +1,3 @@
-###DEC-064801-0-000-10-07-1969@@@
-
 DECRETO Nº 64.801 - DE 10 DE JULHO 1969.
 
 Exclui do Decreto nº 50.622, de 18 de maio de 1961, a sociedade que menciona.

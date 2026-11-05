@@ -1,5 +1,3 @@
-###DEC-069976-0-000-20-01-1972@@@
-
 Decreto Nº 69.976, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Fundação Gaúcha do Trabalho com sede em Porto Alegre, Estado do Rio Grande do Sul.

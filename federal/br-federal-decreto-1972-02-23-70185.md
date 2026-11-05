@@ -1,5 +1,3 @@
-###DEC-070185-0-000-23-02-1972@@@
-
 Decreto nº 70.185, de 23 de fevereiro de 1972.
 
 Dispõe sobre o Programa Nacional de Teleducação (PRONTEL) e dá outras providências.

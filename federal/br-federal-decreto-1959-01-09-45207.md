@@ -1,5 +1,3 @@
-###DEC-045207-0-000-09-01-1959@@@
-
 DECRETO Nº 45.207, DE 9 DE JANEIRO DE 1959.
 
 Outorga concessão à Rádio Difusora do Amazonas Ltda. para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-004327-0-000-08-08-2002@@@
-
 DECRETO Nº 4.327, DE 8 DE AGOSTO DE 2002
 
 Dispõe sobre a concessão do Certificado de Entidade Beneficente de Assistência Social - CEAS para instituições de saúde e altera o Decreto nº 2.536, de 6 de abril de 1998.

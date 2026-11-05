@@ -1,5 +1,3 @@
-###DEC-057888-0-000-28-02-1966@@@
-
 DECRETO Nº 57.888, DE 28 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Hermilio Vieira da Silva a pesquisar minério de ouro, no município de Minas Novas, Estado de Minas Gerais.

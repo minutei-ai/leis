@@ -1,5 +1,3 @@
-###DEC-061782-0-000-27-11-1967@@@
-
 Decreto nº 61.782, de 27 de novembro de 1967.
 
 Declara de utilidade pública o “Hospital Dr. Pacífico Mascarenhas”, com sede em Caetanópolis, Estado de Minas Gerais.

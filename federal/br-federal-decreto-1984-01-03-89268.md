@@ -1,5 +1,3 @@
-###DEC-089268-0-000-03-01-1984@@@
-
 DECRETO Nº 89.268, DE 03 DE JANEIRO DE 1984
 
 Cria a Reserva Ecológica Raso da Catarina, em área de terras que indica e dá outras providências.

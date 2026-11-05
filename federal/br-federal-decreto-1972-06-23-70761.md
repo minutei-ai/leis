@@ -1,5 +1,3 @@
-###DEC-070761-0-000-23-06-1972@@@
-
 DECRETO Nº 70.761, DE 23 DE JUNHO DE 1972.
 
 Concede reconhecimento a Faculdade de Filosofia, Ciências e Letras "Professor José Augusto Vieira", de Machado, Minas Gerais.

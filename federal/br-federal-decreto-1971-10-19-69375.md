@@ -1,5 +1,3 @@
-###DEC-069375-0-000-19-10-1971@@@
-
 DECRETO Nº 69.375, DE 19 DE OUTUBRO DE 1971.
 
 Redistribui cargo do Ministério da Agricultura para o Departamento Nacional de Obras Contra as Sêcas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046933-0-000-30-09-1959@@@
-
 decreto nº 46.933, de 30 de setembro de 1959.
 
 Autoriza estrangeiros a adquirir, em regime de ocupado, o terreno de marinha que menciona, situado no Estado de São Paulo.

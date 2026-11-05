@@ -1,5 +1,3 @@
-###DEC-071334-0-000-08-11-1972@@@
-
 DECRETO Nº 71.334 - DE 8 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do curso de comunicação da Faculdade de Filosofia, Ciências e Letras - Belo Horizonte - M.G.

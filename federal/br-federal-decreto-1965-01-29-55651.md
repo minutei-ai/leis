@@ -1,5 +1,3 @@
-###DEC-055651-0-000-29-01-1965@@@
-
 decreto nº 55.651, de 29 de janeiro de 1965.
 
 Aprova o Regulamento para arrecadação, aplicação e fiscalização das duas taxas de dez por cento, constitutivas dos Fundos de Melhoramentos e de Renovação Patrimonial e que fazem parte do Fundo Nacional de Investimentos Ferroviários.

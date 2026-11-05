@@ -1,5 +1,3 @@
-###DEC-063951-0-000-31-12-1968@@@
-
 DECRETO Nº 63.951, DE 31 DE DEZEMBRO DE 1968.
 
 Aprova a estrutura básica, do Ministério das Minas e Energia.

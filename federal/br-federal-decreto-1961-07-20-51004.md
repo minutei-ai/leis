@@ -1,5 +1,3 @@
-###DEC-051004-0-000-20-07-1961@@@
-
 DECRETO Nº 51.004, DE 20 DE JUlHO DE 1961.
 
 Modifica disposições do Regulamento da Diretoria de Material de Intendência (DMI), aprovado pelo Decreto nº 45.884, de 27 de abril de 1959.

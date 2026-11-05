@@ -1,5 +1,3 @@
-###DEC-066644-0-000-29-05-1970@@@
-
 DECRETONº 66.644, DE 29 DE MAIO DE 1970.
 
 Revalida a filiação da Federação Nacional das Emprêsas de Seguros Privados e Capitalização à Conferência Hemisférica de Seguros.

@@ -1,5 +1,3 @@
-###DEC-057935-0-000-09-03-1966@@@
-
 Decreto nº 57.935, de 9 de março de 1966.
 
 Autoriza Andrade & Filhos Ltda. a lavrar bauxita, no município de Poços de Caldas, Estado de Mina Gerais.

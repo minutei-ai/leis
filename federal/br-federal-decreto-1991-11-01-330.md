@@ -1,7 +1,3 @@
-1
-
-###DEC-000330-0-000-01-11-1991@@@
-
 DECRETO Nº 330, DE 1º DE NOVEMBRO DE 1991
 
 Consolida as normas sobre a Comissão de Alimentação das Forças Armadas CAFA, e dá outras providências.

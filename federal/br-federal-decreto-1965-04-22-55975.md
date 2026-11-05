@@ -1,5 +1,3 @@
-###DEC-055975-0-000-22-04-1965@@@
-
 DECRETO Nº 55.975, DE 22 DE ABRIL DE 1965.
 
 Autoriza Bauxita Santa Rita Ltda. - Bauxita - a pesquisar bauxita, no município de Juriti, Estado do Pará.

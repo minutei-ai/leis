@@ -1,5 +1,3 @@
-###DEL-005958-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.958 – DE 1 DE NOVEMBRO DE 1943
 
 Cria o Serviço do Material Automóvel do Exército

@@ -1,5 +1,3 @@
-###DEC-059499-0-000-09-11-1966@@@
-
 DECRETO Nº 59.499, DE 9 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Itajubá, com sede em Itajubá, Estado de Minas Gerais.

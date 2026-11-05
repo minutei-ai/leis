@@ -1,5 +1,3 @@
-###DEC-046319-0-000-30-06-1959@@@
-
 DECRETO Nº 46.319, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Prefeitura Municipal de Tapes no Estado do Rio Grande do Sul a ampliar suas instalações.

@@ -1,5 +1,3 @@
-###DEC-047864-0-000-07-03-1960@@@
-
 DECRETO Nº 47.864, DE 7 DE março DE 1960.
 
 Autoriza o cidadão brasileiro Armando Lopes Ribeiro a pesquisar ilmenita no município de Mangaratiba, Estado do Rio de Janeiro.

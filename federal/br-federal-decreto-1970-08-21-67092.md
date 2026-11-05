@@ -1,5 +1,3 @@
-###DEC-067092-0-000-21-08-1970@@@
-
 decreto nº 67.092, de 21 de agôsto de 1970.
 
 Declara de utilidade pública a Sociedade Brasileira para o Progresso da Ciência, com sede em São Paulo, Estado de São Paulo.

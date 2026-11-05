@@ -1,5 +1,3 @@
-###DEL-005060-0-000-09-12-1942@@@
-
 DECRETO-LEI N. 5.060 – DE 9 DE DEZEMBRO DE 1942
 
 Concede uma pensão vitalícia a D. Maria Augusta Ruy Barbosa

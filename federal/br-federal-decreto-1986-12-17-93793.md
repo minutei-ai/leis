@@ -1,5 +1,3 @@
-###DEC-093793-0-000-17-12-1986@@@
-
 DECRETO Nº 93.793, DE 17 DE DEZEMBRO DE 1986
 
 Outorga concessão à TROPICAL COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Natal, Estado do Rio Grande do Norte.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001000-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.000, DE 19 DE MAIO DE 1995
 
 Autoriza o Poder Executivo a contratar com a Itaipu Binacional pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados Brasil Investment Bond (BIB), em valor correspondente a até US$ 92,800,000.00 (noventa e dois milhões e oitocentos mil dólares dos Estados Unidos da América).

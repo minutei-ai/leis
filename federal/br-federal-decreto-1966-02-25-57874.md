@@ -1,5 +1,3 @@
-###DEC-057874-0-000-25-02-1966@@@
-
 decreto nº 57.874, de 25 de fevereiro de 1966.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

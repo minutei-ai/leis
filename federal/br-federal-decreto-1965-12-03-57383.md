@@ -1,5 +1,3 @@
-###DEC-057383-0-000-03-12-1965@@@
-
 DECRETO Nº 57.383, DE 3 de DEZEMBRO DE 1965.
 
 Regulamenta a assistência financeira do Govêrno Federal aos Estados e Municípios e cria o Fundo de Estabilização de Receita Cambial.

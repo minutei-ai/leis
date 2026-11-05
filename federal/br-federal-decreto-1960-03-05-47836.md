@@ -1,5 +1,3 @@
-###DEC-047836-0-000-05-03-1960@@@
-
 DECRETO Nº 47.836, DE 5 DE MARÇO DE 1960.
 
 Altera o Regulamento do Gabinete do Ministro da Aeronáutica.

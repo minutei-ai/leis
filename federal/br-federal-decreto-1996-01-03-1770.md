@@ -1,5 +1,3 @@
-###DEC-001770-0-000-03-01-1996@@@
-
 DECRETO Nº 1.770, DE 03 DE JANEIRO DE 1996
 
 Da nova redação ao art. 1º do Decreto nº 1.736, de 7 de dezembro de 1995.

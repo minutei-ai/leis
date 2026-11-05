@@ -1,5 +1,3 @@
-###DEC-081873-0-000-03-07-1978@@@
-
 Decreto nº 81.873, de 03 de julho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor de a Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terra e benfeitorias que estipula.
@@ -89,8 +87,6 @@ Brasília, 03 de julho de 1978; 157º da Independência e 90º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-081873-0-000-03-07-1978@@@REP01+++
 
 (\*) Decreto Nº 81.873, de 3 de julho de 1978.
 

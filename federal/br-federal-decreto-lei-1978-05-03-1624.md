@@ -1,5 +1,3 @@
-###DEL-001624-0-000-03-05-1978@@@
-
 # decreto-lei nº 1.624, de 03 de maio de 1978.
 
 Estende o prazo de redução do imposto sobre a renda e adicionais não restituíveis previsto no artigo 14 da Lei nº 4.239, de 27 de junho de 1963.

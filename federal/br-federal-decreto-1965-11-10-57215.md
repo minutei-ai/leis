@@ -1,5 +1,3 @@
-###DEC-057215-0-000-10-11-1965@@@
-
 DECRETO Nº 57.215, DE 10 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Martins Moreno a pesquisas minério de manganês, no município de São João D’Aliança, Estado de Goiás.

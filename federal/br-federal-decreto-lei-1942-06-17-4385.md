@@ -1,5 +1,3 @@
-###DEL-004385-0-000-17-06-1942@@@
-
 DECRETO-LEI N. 4.385 – DE 17 DE JUNHO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de 50:500$0, às verbas que especifica

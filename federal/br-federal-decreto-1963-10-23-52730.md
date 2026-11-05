@@ -1,5 +1,3 @@
-###DEC-052730-0-000-23-10-1963@@@
-
 DECRETO Nº 52.730, DE 23 DE OUTUBRO DE 1963.
 
 Prorroga prazo para vigência do Decreto 51.211, de 18 de agôsto de 1961.

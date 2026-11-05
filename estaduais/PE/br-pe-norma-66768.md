@@ -134,39 +134,25 @@ ALEXANDRE REBÊLO TÁVORA
 
 **Adicional de Desenvolvimento e Gerenciamento do Sistema de Transporte Rodoviário do Estado - ADGTR**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="327" valign="top" style="width:245.45pt;border:double silver 3.25pt;
-  border-right:none;background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="202" valign="top" style="width:151.5pt;border:double silver 3.25pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR MENSAL (em R$)</span></p></td></tr><tr><td width="327" valign="top" style="width:245.45pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.0pt;border-right:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista de gestão autárquica - função engenheiro</span></p></td><td width="202" valign="top" style="width:151.5pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.25pt;border-right:double silver 3.25pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.000</span></p></td></tr><tr><td width="327" valign="top" style="width:245.45pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.0pt;border-right:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista de gestão autárquica - demais funções</span></p></td><td width="202" valign="top" style="width:151.5pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.25pt;border-right:double silver 3.25pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.300</span></p></td></tr><tr><td width="327" valign="top" style="width:245.45pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assistente de gestão autárquica</span></p></td><td width="202" valign="top" style="width:151.5pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:solid black 1.0pt;border-right:double silver 3.25pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.100</span></p></td></tr><tr><td width="327" valign="top" style="width:245.45pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.0pt;border-right:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Auxiliar de gestão autárquica</span></p></td><td width="202" valign="top" style="width:151.5pt;border-top:none;border-left:
-  double silver 3.0pt;border-bottom:double silver 3.25pt;border-right:double silver 3.25pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">800</span></p></td></tr></tbody></table>
+CARGO
+
+VALOR MENSAL (em R$)
+
+Analista de gestão autárquica - função engenheiro
+
+4.000
+
+Analista de gestão autárquica - demais funções
+
+2.300
+
+Assistente de gestão autárquica
+
+1.100
+
+Auxiliar de gestão autárquica
+
+800
 
                                                                                                                                              ”
 
@@ -178,138 +164,6 @@ ALEXANDRE REBÊLO TÁVORA
 
 **DOS MILITARES INATIVOS DO ESTADO DESIGNADOS PARA A GMPE:**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="205" valign="top" style="width:153.95pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ATRIBUIÇÃO</span></p></td><td width="179" valign="top" style="width:133.9pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">POSTO/GRADUAÇÃO</span></p></td><td width="96" valign="top" style="width:71.9pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">EFETIVO PREVISTO</span></p></td><td width="133" valign="top" style="width:99.75pt;border:solid black 1.0pt;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR MENSAL DA RETRIBUIÇÃO R$</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Comandante</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:11.55pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coronel ou Tenente Coronel QOPM inativo da PMPE</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.500,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Subcomandante</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:11.55pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tenente Coronel ou Major (QOPM, QOC, QOA/PM ou QOA/BM) inativo</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.000,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenadores de Gestão de Pessoas, de Gestão de Logística, de Planejamento e Instrução, de Gestão Administrativa, de Segurança Prisional, bem como de Áreas da Região Metropolitana do Recife, das Zonas das Matas Norte e Sul, do Agreste e do Sertão</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Major ou Capitão (QOPM, QOC, QOA/PM ou QOA/BM) inativo</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">10</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.600,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Supervisor</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Capitão, 1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo&nbsp;(NR)</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">24</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.400,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Fiscal de Posto</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">70</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.100,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assessor Técnico-Administrativo</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Major, Capitão, 1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">105</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.100,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Guarda de Estabelecimentos Prisionais</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Praças inativos da PMPE ou do CBMPE</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.500</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.000,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Segurança de Autoridades</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Praças inativos da PMPE ou do CBMPE</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">90</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.500,00</span></p></td></tr><tr><td width="205" style="width:153.95pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.9pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Guarda Patrimonial</span></p></td><td width="179" style="width:133.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Praças inativos da PMPE ou do CBMPE</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.633</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.250,00</span></p></td></tr><tr><td width="384" colspan="2" style="width:287.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TOTAL</span></p></td><td width="96" style="width:71.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.434</span></p></td><td width="133" style="width:99.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;layout-grid-mode:char"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> ATRIBUIÇÃO </td><td valign="top"> POSTO/GRADUAÇÃO </td><td valign="top"> EFETIVO PREVISTO </td><td valign="top"> VALOR MENSAL DA RETRIBUIÇÃO R$ </td></tr><tr><td> Comandante </td><td> Coronel ou Tenente Coronel QOPM inativo da PMPE </td><td> 01 </td><td> 3.500,00 </td></tr><tr><td> Subcomandante </td><td> Tenente Coronel ou Major (QOPM, QOC, QOA/PM ou QOA/BM) inativo </td><td> 01 </td><td> 3.000,00 </td></tr><tr><td> Coordenadores de Gestão de Pessoas, de Gestão de Logística, de Planejamento e Instrução, de Gestão Administrativa, de Segurança Prisional, bem como de Áreas da Região Metropolitana do Recife, das Zonas das Matas Norte e Sul, do Agreste e do Sertão </td><td> Major ou Capitão (QOPM, QOC, QOA/PM ou QOA/BM) inativo </td><td> 10 </td><td> 2.600,00 </td></tr><tr><td> Supervisor </td><td> Capitão, 1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo&nbsp;(NR) </td><td> 24 </td><td> 2.400,00 </td></tr><tr><td> Fiscal de Posto </td><td> 1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo </td><td> 70 </td><td> 2.100,00 </td></tr><tr><td> Assessor Técnico-Administrativo </td><td> Major, Capitão, 1º Tenente ou 2º Tenente (QOPM, QOC, QOA/PM ou QOA/BM) inativo </td><td> 105 </td><td> 2.100,00 </td></tr><tr><td> Guarda de Estabelecimentos Prisionais </td><td> Praças inativos da PMPE ou do CBMPE </td><td> 1.500 </td><td> 2.000,00 </td></tr><tr><td> Segurança de Autoridades </td><td> Praças inativos da PMPE ou do CBMPE </td><td> 90 </td><td> 1.500,00 </td></tr><tr><td> Guarda Patrimonial </td><td> Praças inativos da PMPE ou do CBMPE </td><td> 1.633 </td><td> 1.250,00 </td></tr><tr><td colspan="2"> TOTAL </td><td> 3.434 </td><td> &nbsp; </td></tr></tbody></table>
 
                                                                                                                                                      ”

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211621)<br>
-
 # DECRETO N° 69.944, DE 10 DE OUTUBRO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Lucianópolis, do imóvel que especifica e dá providências correlatas._

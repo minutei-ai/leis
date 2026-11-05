@@ -1,5 +1,3 @@
-###DEC-047086-0-000-22-10-1959@@@
-
 DECRETO Nº 47.086, DE 22 DE OUTUBRO DE 1959.
 
 Altera a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

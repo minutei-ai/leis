@@ -1,5 +1,3 @@
-###DEC-055967-0-000-20-04-1965@@@
-
 DECRETO Nº 55.967, DE 20 DE ABRIL DE 1965.
 
 Declara de utilidade pública a sociedade Pio Sodalício das Damas de Caridade com sede em Caxias do Sul, Rio Grande do Sul.

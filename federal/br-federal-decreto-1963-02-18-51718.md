@@ -1,5 +1,3 @@
-###DEC-051718-0-000-18-02-1963@@@
-
 Decreto nº 51.718, de 18 de FEVEREIRO de 1963.
 
 Altera o Regulamento para as Capitanias dos Portos.

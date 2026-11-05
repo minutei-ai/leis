@@ -1,5 +1,3 @@
-###DEC-068433-0-000-29-03-1971@@@
-
 DECRETO Nº 68.433, DE 29 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Fundação Juracy Magalhães Júnior, com sede em Salvador, Estado da Bahia.

@@ -1,14 +1,12 @@
-###DEC-043189-0-000-12-02-1958@@@
+**DECRETO Nº 43.189, DE 12 DE FEVEREIRO DE 1953.**
 
-<strong>DECRETO Nº 43.189, DE 12 DE FEVEREIRO DE 1953.</strong>
+***Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas existentes, necessárias a construção do reservatório de acumulação da usina Salto Grande, no rio Paranapanema, Estado de São Paulo, e autoriza a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas existentes, necessárias a construção do reservatório de acumulação da usina Salto Grande, no rio Paranapanema, Estado de São Paulo, e autoriza a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras, constantes da plantas aprovadas pelo Ministério da Agricultura, no Processo D. Ag. nº 2.763-57, situadas nos Estados de São Paulo e Paraná, necessárias ao reservatório de acumulação da usina Salto Grande do Paranapanema, cuja concessão foi outorgada à Usinas Elétricas do Paranapanema S.A. - USELPA - pelo Decreto nº 42.886, de 26 de dezembro de 1957:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras, constantes da plantas aprovadas pelo Ministério da Agricultura, no Processo D. Ag. nº 2.763-57, situadas nos Estados de São Paulo e Paraná, necessárias ao reservatório de acumulação da usina Salto Grande do Paranapanema, cuja concessão foi outorgada à Usinas Elétricas do Paranapanema S.A. - USELPA - pelo Decreto nº 42.886, de 26 de dezembro de 1957:
 
 Município de Salto Grande
 
@@ -218,36 +216,34 @@ MUNICÍPIO DE CAMBARÁ - ESTADO DO PARANÁ
 
 100 - Área de 181.960m<sup>2</sup> (cento e oitenta e um mil, novecentos e sessenta metros quadrados), de propriedade atribuída a José Oliveira Pirajá.
 
-<strong>Art</strong>. 2º Fica autorizada a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
 Parágrafo único. Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a desapropriação é declarada de caráter urgente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-###DEC-043189-0-000-02-02-1958@@@RET01+++
+**DECRETO Nº 43.189, DE 2 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.189, DE 2 DE FEVEREIRO DE 1958.</strong>
+***Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas existentes, necessárias à construção do reservatório de acumulação da usina Salto Grande, no rio Paranapanema, Estado de São Paulo, e autoriza a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas existentes, necessárias à construção do reservatório de acumulação da usina Salto Grande, no rio Paranapanema, Estado de São Paulo, e autoriza a Usinas Elétricas do Paranapanema S.A. a promover a desapropriação.</strong></em>
+(Publicado no *Diário Oficial* - Seção 1 - de 13 de fevereiro de 1958 e retificado no do dia 27 de maio de último.
 
-(Publicado no <em>Diário Oficial</em> - Seção 1 - de 13 de fevereiro de 1958 e retificado no do dia 27 de maio de último.
+**RETIFICAÇÃO**
 
-<strong>RETIFICAÇÃO</strong>
+Na retificação publicada no *Diário Oficial* de 27-5-58
 
-Na retificação publicada no <em>Diário Oficial</em> de 27-5-58
-
-<u><strong>ONDE SE LÊ</strong></u>:
+**ONDE SE LÊ**:
 
 Decreto-lei nº 43.189 - de 12 de fevereiro de 1958.
 
-<u><strong>LEIA-SE</strong></u>:
+**LEIA-SE**:
 
 Decreto nº 43.189 - de 12 de fevereiro de 1958.

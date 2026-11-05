@@ -1,5 +1,3 @@
-###DEL-008236-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.236 – DE 27 DE NOVEMBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 3.729,00, para  pagamento de gratificações de magistério.

@@ -1,5 +1,3 @@
-###DEC-077684-0-000-26-05-1976@@@
-
 DECRETO Nº 77.684, DE 26 DE MAIO DE 1976
 
 Concede a Ary Garcia, firma individual, o direito de lavrar argila e bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

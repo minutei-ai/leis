@@ -1,5 +1,3 @@
-###DEC-049622-0-000-30-12-1960@@@
-
 DECRETO Nº 49.622, DE 30 DE dezembro DE 1960.
 
 Cria o Batalhão-Escola de Manutenção e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047492-0-000-24-12-1959@@@
-
 DECRETO Nº 47.492, DE 24 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre o uso, ocupação temporária de bens de emprêsas de navegação marítima, e dá outras providências.
@@ -45,8 +43,6 @@ Jorge do Paço Matoso Maia
 Ernani do Amaral Peixoto
 
 Fernando Nóbrega
-
-###DEC-047492-0-000-24-12-1959@@@RET01+++
 
 DECRETO Nº 47.492, DE 24 DE DEZEMBRO DE 1959.
 

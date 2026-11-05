@@ -1,5 +1,3 @@
-###DEC-000000-0-000-22-12-1823@@@
-
 DECRETO - DE 22 DE DEZEMBRO DE 1823
 
 Nomeia o Desembargador que devo servir do Auditor Geral da Marinha.

@@ -1,5 +1,3 @@
-###DEC-093837-0-000-19-12-1986@@@
-
 DECRETO Nº 93.837, DE 19 DE DEZEMBRO DE 1986
 
 Revoga o Decreto nº 58.591, de 07 de junho de 1966.

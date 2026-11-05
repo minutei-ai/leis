@@ -1,7 +1,3 @@
-1
-
-###DEC-000541-0-000-26-05-1992@@@
-
 DECRETO Nº 541, DE 26 DE MAIO DE 1992
 
 Regulamenta o art. 3º da Lei nº 8.402, de 8 de janeiro de 1992, que institui regime especial para compras internas com fim exclusivo de exportação.

@@ -1,5 +1,3 @@
-###DEC-007391-0-000-13-12-2010-PUB-01@@@
-
 DECRETO Nº 7.391, DE 13 DE DEZEMBRO DE 2010.
 
 Altera o início da vigência do Decreto n~~º~~ 7.386, de 8 de dezembro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Fazenda.

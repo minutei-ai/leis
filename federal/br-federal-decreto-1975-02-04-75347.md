@@ -1,5 +1,3 @@
-###DEC-075347-0-000-04-02-1975@@@
-
 Decreto N° 75.347, DE 4 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração de Empresas Riopretense, mantida pela Sociedade Riopretense de Ensino e Educação Limitada, com sede na cidade de São José do Rio Preto, Estado de São Paulo.

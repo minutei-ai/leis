@@ -1,5 +1,3 @@
-###DEC-060042-0-000-11-01-1967@@@
-
 decreto nº 60.042, de 11 de janeiro de 1967.
 
 Declara sem efeito o decreto número 54.827, de 3 de novembro de 1964.

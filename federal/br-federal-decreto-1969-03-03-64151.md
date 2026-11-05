@@ -1,5 +1,3 @@
-###DEC-064151-0-000-03-03-1969@@@
-
 DECRETO Nº 64.151, DE 3 DE MARÇO DE 1969.
 
 Transfere funções gratificadas de um estabelecimento de ensino agrícola para outro de igual categoria.

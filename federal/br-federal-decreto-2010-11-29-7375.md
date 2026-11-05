@@ -1,5 +1,3 @@
-###DEC-007375-0-000-29-11-2010-PUB-01@@@
-
 DECRETO Nº 7.375, DE 29 DE NOVEMBRO DE 2010.
 
 Aprova o Programa de Dispêndios Globais - PDG para 2011 das empresas estatais federais, e dá outras providências.

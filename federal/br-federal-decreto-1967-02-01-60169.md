@@ -1,5 +1,3 @@
-###DEC-060169-0-000-01-02-1967@@@
-
 Decreto nº 60.169, de 1º de fevereiro de 1967.
 
 Declara de utilidade pública os imóveis que menciona na cidade de Barbacena, Estado de Minas Gerais.

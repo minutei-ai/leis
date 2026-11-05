@@ -1,5 +1,3 @@
-###DEC-093435-0-000-16-10-1986@@@
-
 DECRETO Nº 93.435, DE 16 DE OUTUBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO EMISSORA DA BARRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Barra Bonita, Estado de São Paulo.

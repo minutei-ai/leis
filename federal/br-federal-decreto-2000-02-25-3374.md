@@ -1,5 +1,3 @@
-###DEC-003374-0-000-25-02-2000@@@
-
 decreto nº 3.374, de 25 de fevereiro de 2000.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.641, de 29 de junho de 1998.

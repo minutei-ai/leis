@@ -1,5 +1,3 @@
-###DEC-048095-0-000-11-04-1960@@@
-
 DECRETO Nº 48.095, de 11 de abril de 1960.
 
 Outorga à Prefeitura Municipal de Areia Branca, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

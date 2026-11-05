@@ -1,5 +1,3 @@
-###DEL-001337-0-000-23-07-1974@@@
-
 # decreto-lei nº 1.337, de 23 de julho de 1974
 
 Dispõe sobre o tratamento tributário na cessão de cartas-patente de instituições financeiras.

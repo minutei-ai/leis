@@ -1,5 +1,3 @@
-###DEC-081060-0-000-19-12-1977@@@
-
 decreto nº 81.060, de 19 de dezembro de 1977.
 
 Concede à Iguaçu Mineração e Comércio Ltda. o direito de lavrar areia quartzosa no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-063908-0-000-26-12-1968@@@
-
 DECRETO Nº 63.908, DE 26 DE DEZEMBRO DE 1968.
 
 Fixa a distribuição em cada arma e em cada pôsto, das funções gerais dos Oficiais do Exército, a vigorar a partir de 24 de dezembro de 1968.
@@ -10,7 +8,73 @@ decreta:
 
 Art. 1º São os efetivos globais das Armas atualmente em vigor, distribuídos em cada Arma e em cada pôsto pelas funções gerais (QEMG e QSG) e pelas funções privativas da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pôsto</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Armas e QMB</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Funções Privativas (i)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Funções Gerais (QEMG e QSG)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Efetivo previsto por Pôsto (j)</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coronel (a) (b)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41 29 22 18</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100 40 91 6</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">347</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente Coronel (c) (d)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84 40 62 41 (e)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">243 124 83 -</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">677</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major (f) (g)</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">223 93 148 137</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">277 105 347 35</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.365</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">568 264 353 279 41 (h) 43</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">330 171 292 49 - 19</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.379</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1º Tenente</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">539 184 272 114 70 110</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">203</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">21 7</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.520</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2º Tenente</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58 26 39 20 21 15</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Variável (Lei nº 5.394, de 23 de fevereiro de 1968)</span></p></td></tr></tbody></table>
+Pôsto
+
+Armas e QMB
+
+Funções Privativas (i)
+
+Funções Gerais (QEMG e QSG)
+
+Efetivo previsto por Pôsto (j)
+
+Coronel (a) (b)
+
+Infantaria Cavalaria Artilharia Engenharia
+
+41 29 22 18
+
+100 40 91 6
+
+347
+
+Tenente Coronel (c) (d)
+
+Infantaria Cavalaria Artilharia Engenharia
+
+84 40 62 41 (e)
+
+243 124 83 -
+
+677
+
+Major (f) (g)
+
+Infantaria Cavalaria Artilharia Engenharia
+
+223 93 148 137
+
+277 105 347 35
+
+1.365
+
+Capitão
+
+Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico
+
+568 264 353 279 41 (h) 43
+
+330 171 292 49 - 19
+
+2.379
+
+1º Tenente
+
+Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico
+
+539 184 272 114 70 110
+
+203  21 7
+
+1.520
+
+2º Tenente
+
+Infantaria Cavalaria Artilharia Engenharia Comunicações Material Bélico
+
+58 26 39 20 21 15
+
+Variável (Lei nº 5.394, de 23 de fevereiro de 1968)
 
 Observações:
 

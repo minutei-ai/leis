@@ -1,5 +1,3 @@
-###DEC-069949-0-000-18-01-1972@@@
-
 Decreto nº 69.949, de 18 de janeiro de 1972.
 
 Declara de utilidade pública a Sociedade Beneficente de Apiaí, com sede em Apiaí, Estado de São Paulo.

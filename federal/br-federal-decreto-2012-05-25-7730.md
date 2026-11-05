@@ -1,5 +1,3 @@
-###DEC-007730-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.730, DE 25 DE MAIO DE 2012
 
 Altera o art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares - R-200, aprovado pelo Decreto n° 88.777, de 30 de setembro de 1983, para caracterizar como exercício de função de natureza policial-militar ou de interesse policial- militar ou de bombeiro-militar o exercício de cargo ou função no Conselho Nacional de Justiça.

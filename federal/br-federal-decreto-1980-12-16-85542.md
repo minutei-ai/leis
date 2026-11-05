@@ -1,5 +1,3 @@
-###DEC-085542-0-000-16-12-1980@@@
-
 DECRETO Nº 85.542, de 16 de dezembro de 1980.
 
 Cria a 4a.Brigada de Cavalaria Mecanizada e seu respectivo Comando no Ministério do Exército e da outras providências.

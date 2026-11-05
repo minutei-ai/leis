@@ -1,5 +1,3 @@
-###DEC-064058-0-000-03-02-1969@@@
-
 decreto nº 64.058, de 3 de fevereiro de 1969.
 
 Institui a Feira Nacional de Ciências e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008398-0-000-18-12-1945@@@
-
 DECRETO-LEI N. 8.398 – DE 18 DE DEZEMBRO DE 1945
 
 Cria carpo no Quadro Permanente do Ministério da Aeronáutica e dá outras providências.

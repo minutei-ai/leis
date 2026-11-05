@@ -1,7 +1,3 @@
-1
-
-###DEC-098115-0-000-05-09-1989@@@
-
 DECRETO N° 98.115, DE 5 DE SETEMBRO DE 1989
 
 Autoriza a transferência direta da concessão outorgada à Rádio Goioerê Ltda. pra a Fundação Aldeia SOS de Goioerê.

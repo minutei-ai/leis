@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212472)<br>
-
 # DECRETO N° 70.534, DE 14 DE ABRIL DE 2026
 
 ### _Autoriza a outorga de uso dos imóveis que especifica, localizados no Parque Bruno Covas - Novo Rio Pinheiros, no Município de São Paulo, e dá providências correlatas._

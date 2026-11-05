@@ -1,7 +1,3 @@
-1
-
-###DEC-095846-0-000-18-03-1988@@@
-
 DECRETO N° 95.846, DE 18 DE MARÇO DE 1988
 
 Outorga concessão à SOCIEDADE RÁDIO EDUCADORA NOVA XAVANTINA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Guarantã do Norte, Estado do Mato Grosso.

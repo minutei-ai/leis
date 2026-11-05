@@ -1,5 +1,3 @@
-###DEC-079588-0-000-26-04-1977@@@
-
 DECRETO Nº 79.588, DE 26 DE ABRIL DE 1977.
 
 Concede à Cerâmica Mogi-Guaçu S. A., o direito de lavrar argila no Município de Caldas, Estado de Minas Gerais.

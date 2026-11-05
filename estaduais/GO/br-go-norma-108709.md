@@ -12,23 +12,71 @@ Art. 2º O CMA será composto pelos seguintes representantes:
 
 I – Secretaria– Geral de Governo – SGG:
 
-<table><tbody><tr><td>Mário Mendes Barbosa Júnior - CPF: ***.259.011-**;</td></tr></tbody><tbody><tr><td>Danielle Gomes de Oliveira - CPF: ***.648.251-**;</td></tr><tr><td>Luciano da Costa Bandeira - CPF: ***.515.411-**;</td></tr><tr><td>Sergio Vannucci Chiappori Rocha Souza - CPF: ***.959.935-**;</td></tr><tr><td>Larissa Lorrayne Alves da Silva - CPF: ***.716.781-**.</td></tr></tbody></table>
+Mário Mendes Barbosa Júnior - CPF: ***.259.011-**;
+
+Danielle Gomes de Oliveira - CPF: ***.648.251-**;
+
+Luciano da Costa Bandeira - CPF: ***.515.411-**;
+
+Sergio Vannucci Chiappori Rocha Souza - CPF: ***.959.935-**;
+
+Larissa Lorrayne Alves da Silva - CPF: ***.716.781-**.
 
 II – Secretaria de Estado da Economia – ECONOMIA:
 
-<table><tbody><tr><td>Gilberto Pompilio de Melo Filho - CPF: ***.453.301-**;</td></tr></tbody><tbody><tr><td>Kellen Kris Bueno Cardoso - CPF: ***.802.751-**;</td></tr><tr><td>Juarez Reis Rosa de Souza - CPF: ***.738.111-**;</td></tr><tr><td>Pedro Henrique Da Silva Nogueira - CPF: ***.593.701-**;</td></tr><tr><td>Jean Marck Barbosa - CPF: ***.169.881-**;</td></tr><tr><td>Rosângela Marinho de Souza Abrão - CPF: ***.164.122-**;</td></tr><tr><td>Wederson Xavier de Oliveira – CPF: ***.782.121-**;</td></tr><tr><td>Marco Antônio Fernandes Filho – CPF: ***.122.351-**;</td></tr><tr><td>Guilherme Cruz Abrahão – CPF: ***.275.761-**;</td></tr><tr><td>Diego Cota Pacheco - CPF: ***.460.101-**;</td></tr><tr><td>Patrícia Soares de Oliveira - CPF: ***.349.013-**;</td></tr><tr><td>Antônio Alan de Freitas Gonçalves - CPF: ***.011.381-**;</td></tr><tr><td>Hugo Leonardo de Araújo Godinho - CPF: ***.821.821-**.</td></tr></tbody></table>
+Gilberto Pompilio de Melo Filho - CPF: ***.453.301-**;
+
+Kellen Kris Bueno Cardoso - CPF: ***.802.751-**;
+
+Juarez Reis Rosa de Souza - CPF: ***.738.111-**;
+
+Pedro Henrique Da Silva Nogueira - CPF: ***.593.701-**;
+
+Jean Marck Barbosa - CPF: ***.169.881-**;
+
+Rosângela Marinho de Souza Abrão - CPF: ***.164.122-**;
+
+Wederson Xavier de Oliveira – CPF: ***.782.121-**;
+
+Marco Antônio Fernandes Filho – CPF: ***.122.351-**;
+
+Guilherme Cruz Abrahão – CPF: ***.275.761-**;
+
+Diego Cota Pacheco - CPF: ***.460.101-**;
+
+Patrícia Soares de Oliveira - CPF: ***.349.013-**;
+
+Antônio Alan de Freitas Gonçalves - CPF: ***.011.381-**;
+
+Hugo Leonardo de Araújo Godinho - CPF: ***.821.821-**.
 
 III – Secretaria de Estado da Casa Civil – CASA CIVIL:
 
-<table><tbody><tr><td>Rodrigo Carvalho Curvo - CPF: ***.408.691-**;</td></tr></tbody><tbody><tr><td>Vitor Ottoboni Porto Miglino - CPF: ***.766.608-**.</td></tr></tbody></table>
+Rodrigo Carvalho Curvo - CPF: ***.408.691-**;
+
+Vitor Ottoboni Porto Miglino - CPF: ***.766.608-**.
 
 IV – Secretaria de Estado da Administração – SEAD:
 
-<table><tbody><tr><td>Alexandre Demartini Rodrigues - CPF: ***.903.301-**;</td></tr></tbody><tbody><tr><td>João Paulo Marra Dantas - CPF: ***.645.031-**;</td></tr><tr><td>Gilson Geraldo Valério do Amaral - CPF: ***.813.481-**;</td></tr><tr><td>José Carlos de Oliveira - CPF: ***.774.021-**;</td></tr><tr><td>Erika Moreno Camargo - CPF: ***.657.261-**.</td></tr></tbody></table>
+Alexandre Demartini Rodrigues - CPF: ***.903.301-**;
+
+João Paulo Marra Dantas - CPF: ***.645.031-**;
+
+Gilson Geraldo Valério do Amaral - CPF: ***.813.481-**;
+
+José Carlos de Oliveira - CPF: ***.774.021-**;
+
+Erika Moreno Camargo - CPF: ***.657.261-**.
 
 V – Controladoria– Geral do Estado – CGE:
 
-<table><tbody><tr><td>Luís Henrique Crispim - CPF: ***.793.921-**;</td></tr></tbody><tbody><tr><td>Reneilton Brito de Abreu - CPF: ***.935.671-**;</td></tr><tr><td>Elaine de Fátima Aires - CPF: ***.708.821-**;</td></tr><tr><td>Ivo Cezar Vilela - CPF: ***.948.401-**.</td></tr></tbody></table>
+Luís Henrique Crispim - CPF: ***.793.921-**;
+
+Reneilton Brito de Abreu - CPF: ***.935.671-**;
+
+Elaine de Fátima Aires - CPF: ***.708.821-**;
+
+Ivo Cezar Vilela - CPF: ***.948.401-**.
 
 §1º Os representantes mencionados no art. 2º serão distribuídos em três grupos.
 
@@ -104,30 +152,36 @@ Art. 8º Os casos omissos serão resolvidos pelo Conselho de Governo, em forma d
 
 Art. 9º Esta Resolução entra em vigor na data de sua publicação.
 
-Conselho de Governo, em Goiânia - GO, aos 25 dias do mês de abril de 2024.<br>
-<br>
+Conselho de Governo, em Goiânia - GO, aos 25 dias do mês de abril de 2024.
 
 RONALDO CAIADO
 
 Governador do Estado
 
-Presidente do Conselho de Governo<br>
+Presidente do Conselho de Governo
+
 ADRIANO DA ROCHA LIMA
 
-Secretário-Chefe da Secretaria-Geral de Governo<br>
+Secretário-Chefe da Secretaria-Geral de Governo
+
 Coordenador do Conselho de Governo
 
-RAFAEL ARRUDA OLIVEIRA<br>
+RAFAEL ARRUDA OLIVEIRA
+
 Procurador-Geral do Estado
 
-JORGE LUIS PINCHEMEL<br>
+JORGE LUIS PINCHEMEL
+
 Secretário de Estado da Casa Civil
 
-FRANCISCO SÉRVULO FREIRE NOGUEIRA<br>
+FRANCISCO SÉRVULO FREIRE NOGUEIRA
+
 Secretário de Estado da Administração
 
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 Secretária de Estado da Economia
 
-HENRIQUE MORAES ZILLER<br>
+HENRIQUE MORAES ZILLER
+
 Secretário-Chefe da Controladoria-Geral do Estado

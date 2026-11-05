@@ -1,5 +1,3 @@
-###DEC-004225-0-000-09-05-2002@@@
-
 DECRETO Nº 4.225, DE 9 DE MAIO DE 2002
 
 Dispõe sobre os procedimentos a serem adotados nos casos de paralisação de serviços da Imprensa Nacional da Casa Civil da Presidência da República, nos períodos que menciona.

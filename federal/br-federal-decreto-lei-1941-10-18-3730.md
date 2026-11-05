@@ -1,5 +1,3 @@
-###DEL-003730-0-000-18-10-1941@@@
-
 DECRETO-LEI N. 3.730 – DE 18 DE OUTUBRO DE 1941
 
 Organiza o Ministério da Aeronáutica

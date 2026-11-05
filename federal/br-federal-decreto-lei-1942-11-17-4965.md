@@ -1,5 +1,3 @@
-###DEL-004965-0-000-17-11-1942@@@
-
 DECRETO-LEI N. 4.965 – DE 17 DE NOVEMBRO DE 1942
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 1.800.000,00, para despesas de obras contra as secas

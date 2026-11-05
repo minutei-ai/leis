@@ -1,5 +1,3 @@
-###DEC-078642-0-000-27-10-1976@@@
-
 Decreto Nº 78.642, DE 27 DE OUTUBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à proteção de acumulação a montante da barragem do Rio Caputera, no Terminal Marítimo da Baía da Ilha Grande, no Estado do Rio de Janeiro.

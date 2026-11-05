@@ -1,5 +1,3 @@
-###DEC-059101-0-000-19-08-1966@@@
-
 DECRETO Nº 59.101, DE 19 DE AGÔSTO DE 1966.
 
 Concede reconhecimento à Faculdade de Serviço Social de Ribeirão Preto.

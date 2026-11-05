@@ -1,5 +1,3 @@
-###DEC-059463-0-000-08-11-1966@@@
-
 Decreto nº 59.463, de 8 de novembro de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Sul Brasil de Seguros Terrestres e Marítimos relativa ao aumento do capital social.

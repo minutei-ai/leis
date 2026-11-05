@@ -1,5 +1,3 @@
-###DEC-053113-0-000-10-12-1963@@@
-
 DECRETO Nº 53.113, DE 10 DE DEZEMBRO DE 1963.
 
 Renova a autorização contida no Decreto nº 45.631, de 25 de março de 1959.

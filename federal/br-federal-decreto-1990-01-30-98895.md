@@ -1,7 +1,3 @@
-1
-
-###DEC-098895-0-000-30-01-1990@@@
-
 DECRETO Nº 98.895, DE 30 DE JANEIRO DE 1990
 
 Regulamenta a Lei nº 7.834, de 6 de outubro de 1989, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049149-0-000-26-10-1960@@@
-
 DECRETO Nº 49.149, DE 26 DE OUTUBRO DE 1960.
 
 Altera o art. 2º do Decreto nº 48.130, de 20 de abril de 1960.

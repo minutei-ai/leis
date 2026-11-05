@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.510, de 20 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.493, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a criação do Fundo Rotativo nos estabelecimentos prisionais do sistema penitenciário do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a criação do Fundo Rotativo nos estabelecimentos prisionais do sistema penitenciário do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

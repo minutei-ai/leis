@@ -1,5 +1,3 @@
-###DEC-002434-0-000-19-12-1997@@@
-
 DECRETO Nº 2.434, DE 19 DE DEZEMBRO DE 1997
 
 Prorroga o prazo no art. 1º do Decreto nº 2.340, de 7 de outubro de 1997.

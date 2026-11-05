@@ -28,6 +28,26 @@ Governador do Estado
 
 ~~SEMANAS ALUSIVAS~~
 
-<table><tbody><tr><td><p><s>......................</s></p></td><td><p><s>..................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr><tr><td><p><s>SEMANA</s></p></td><td><p><s>OUTUBRO</s></p></td><td><p><s>LEI ORIGINAL N°</s></p></td></tr><tr><td><p><s>Semana que compreender o dia 10</s></p></td><td><p><s>Semana Estadual de Conscientização e Prevenção dos Efeitos do Mau Uso do Meio Ambiente Digital.</s></p></td><td><p></p></td></tr><tr><td><p><s>......................</s></p></td><td><p><s>..................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr></tbody></table>
+~~......................~~
+
+~~..................................................................................~~
+
+~~.............................~~
+
+~~SEMANA~~
+
+~~OUTUBRO~~
+
+~~LEI ORIGINAL N°~~
+
+~~Semana que compreender o dia 10~~
+
+~~Semana Estadual de Conscientização e Prevenção dos Efeitos do Mau Uso do Meio Ambiente Digital.~~
+
+~~......................~~
+
+~~..................................................................................~~
+
+~~.............................~~
 
 ~~” (NR)~~

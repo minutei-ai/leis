@@ -1,5 +1,3 @@
-###DEC-052626-0-000-08-10-1963@@@
-
 Decreto nº 52.626, de 8 de outubro de 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Fôrça e Luz Constantina Limitada.

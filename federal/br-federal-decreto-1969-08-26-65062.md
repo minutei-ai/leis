@@ -1,5 +1,3 @@
-###DEC-065062-0-000-26-08-1969@@@
-
 DECRETO Nº 65.062 - DE 26 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Congregação dos Missionários Filhos do Imaculado Coração de Maria (Congregação Claretiana), com sede em Belo Horizonte, Estado de Minas Gerais.

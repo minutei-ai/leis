@@ -1,5 +1,3 @@
-###DEC-077418-0-000-12-04-1976@@@
-
 DECRETO Nº 77.418 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, Estado da Paraíba.

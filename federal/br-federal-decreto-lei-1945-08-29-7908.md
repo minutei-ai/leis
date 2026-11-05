@@ -1,5 +1,3 @@
-###DEL-007908-0-000-29-08-1945@@@
-
 DECRETO-LEI N. 7.908 – DE 29 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.726.493,60, para aquisição da ponte sôbre o rio Grande, construída pela, Emprêsa Paulista de Viação Limitada, e dá outras providências.

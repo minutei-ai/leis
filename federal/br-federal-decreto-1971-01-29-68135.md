@@ -1,5 +1,3 @@
-###DEC-068135-0-000-29-01-1971@@@
-
 DECRETO Nº 68.135, DE 29 DE JANEIRO DE 1971.
 
 Dispõe sobre a entrega, no exercício de 1971, das quotas do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios e do Fundo de Participação dos Municípios, e dá outras providências.

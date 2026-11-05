@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208653)<br>
-
 # DECRETO N° 68.010, DE 10 DE OUTUBRO DE 2023
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba._

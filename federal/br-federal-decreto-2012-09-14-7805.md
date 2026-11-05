@@ -1,5 +1,3 @@
-###DEC-007805-0-000-14-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.805, DE 14 DE SETEMBRO DE 2012
 
 Regulamenta a Medida Provisória n° 579, de 11 de setembro de 2012, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais, sobre a modicidade tarifária, e dá outras providências.

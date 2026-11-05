@@ -1,5 +1,3 @@
-###DEC-081472-0-000-22-03-1978@@@
-
 Decreto nº 81.472, de 22 de março de 1978.
 
 Dispõe sobre a classificação da Comissão Nacional da Indústria de Construção Civil - CNICC como órgão de deliberação coletiva.

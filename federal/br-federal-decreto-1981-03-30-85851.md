@@ -1,7 +1,3 @@
-1
-
-###DEC-085851-0-000-30-03-1981@@@
-
 Decreto Nº 85.851, de 30 de março de 1981
 
 Concede à Companhia Eletromecânica - CELMA, autorização para proceder o aumento de seu Capital.

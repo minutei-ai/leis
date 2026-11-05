@@ -1,5 +1,3 @@
-###DEC-044943-0-000-01-12-1958@@@
-
 DECRETO Nº 44.943, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza Mineração Hanna do Brasil Ltda. a pesquisar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

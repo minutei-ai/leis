@@ -12,8 +12,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 28 de maio de 2020, 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

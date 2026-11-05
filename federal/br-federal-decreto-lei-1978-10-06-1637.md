@@ -1,5 +1,3 @@
-###DEL-001637-0-000-06-10-1978@@@
-
 # Decreto-lei nº 1.637, de 06 de outubro de 1978
 
 Dispõe sobre a integralização de quotas e reajustes de haveres de organismos financeiros internacionais.

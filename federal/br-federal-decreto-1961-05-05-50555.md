@@ -1,5 +1,3 @@
-###DEC-050555-0-000-05-05-1961@@@
-
 DECRETO Nº 50.555, DE 5 DE MAIO DE 1961.
 
 Autoriza a Petróleo Brasileiro S.A. - Petrobrás - a instalar e operar no Canal de São Sebastião, no litoral do Estado de São Paulo, terminal marítimo de carga e descarga de petróleo bruto e derivados, e dá outras providências.

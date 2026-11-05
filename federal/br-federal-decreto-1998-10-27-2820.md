@@ -1,5 +1,3 @@
-###DEC-002820-0-000-27-10-1998@@@
-
 DECRETO Nº 2.820, DE 27 DE OUTUBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 4º do Decreto nº 2.352, de 20 de outubro de 1997, que cria o Grupo Executivo para a Conclusão do Projeto de Reassentamento de Populações da Usina Hidrelétrica de Itaparica.

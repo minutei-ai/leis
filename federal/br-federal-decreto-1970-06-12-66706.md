@@ -1,5 +1,3 @@
-###DEC-066706-0-000-12-06-1970@@@
-
 DECRETO Nº 66.706, DE 12 DE JUNHO DE 1970
 
 Concede à Mineração Comércio e Indústria Nôvo Horizonte Limitada, o direito de lavrar sodalita e sodalita-sienito, no município de Itabuna, Estado da Bahia.

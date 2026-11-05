@@ -1,5 +1,3 @@
-###DEL-007342-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.342 – DE 26 DE FEVEREIRO DE 1945
 
 Autoriza a alteração do contrato assinado com o Banco do Brasil para financiamento, amparo e defesa do açúcar

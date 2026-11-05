@@ -1,5 +1,3 @@
-###DEC-007084-0-000-27-01-2010@@@
-
 DECRETO Nº 7.084, DE 27 DE JANEIRO DE 2010.
 
 Dispõe sobre os programas de material didático e dá outras providências.

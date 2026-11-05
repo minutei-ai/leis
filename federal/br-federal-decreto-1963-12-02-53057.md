@@ -1,5 +1,3 @@
-###DEC-053057-0-000-02-12-1963@@@
-
 DECRETO Nº 53.057, DE 2 DE DEZEMBRO DE 1963.
 
 Aprova as alterações introduzidas nos Estatutos da Mercúrio - Companhia Nacional de Seguros, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 2 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Marcial Dias Pequeno
-
-###DEC-053057-0-000-02-12-1963@@@RET01+++
 
 Decreto nº 53.057, de 2 de dezembro de 1963.
 

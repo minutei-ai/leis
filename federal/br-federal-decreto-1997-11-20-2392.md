@@ -1,5 +1,3 @@
-###DEC-002392-0-000-20-11-1997@@@
-
 DECRETO Nº 2.392, 20 DE NOVEMBRO DE 1997
 
 Promulga o Tratado sobre as Relações de Amizade e Cooperação, celebrado entre o Governo da República Federativa do Brasil e o Governo da Ucrânia.

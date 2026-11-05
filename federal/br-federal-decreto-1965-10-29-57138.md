@@ -1,5 +1,3 @@
-###DEC-057138-0-000-29-10-1965@@@
-
 DECRETO Nº 57.138, DE 29 DE OUTUBRO DE 1965.
 
 Concede á sociedade Brasilmar Meridional de Navegação Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

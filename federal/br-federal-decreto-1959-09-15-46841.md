@@ -1,5 +1,3 @@
-###DEC-046841-0-000-15-09-1959@@@
-
 DECRETO Nº 46.841, DE 15 DE SETEMBRO DE 1959.
 
 Outorga ao Govêrno do Estado de Santa Catarina concessão para distribuir energia elétrica nos distritos de Cocal e Morro da Fumaça do município de Urussanga, e dá outras providências.

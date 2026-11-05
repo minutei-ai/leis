@@ -1,5 +1,3 @@
-###DEC-050241-0-000-28-01-1961@@@
-
 DECRETO Nº 50.241, DE 28 DE JANEIRO DE 1961.
 
 Modifica o Decreto nº 46.367, de 7 de julho de 1959, e dá outras providências.

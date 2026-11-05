@@ -1,5 +1,3 @@
-###DEC-045680-0-000-01-04-1959@@@
-
 DECRETO Nº 45.680, DE 1º DE ABRIL DE 1959.
 
 Concede à Petróleo da Bolívia S.A. - Petrobol autorização para funcionar.

@@ -1,5 +1,3 @@
-###DEL-006769-0-000-04-08-1944@@@
-
 DECRETO-LEI N. 6.769 – DE 4 DE AGÔSTO DE 1944
 
 Modifica a estrutura geral da organização dos serviços da Secretaria Geral de Saúde e Assistência e dá outras providências

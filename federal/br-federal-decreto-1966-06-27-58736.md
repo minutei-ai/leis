@@ -1,5 +1,3 @@
-###DEC-058736-0-000-27-06-1966@@@@
-
 DECRETO Nº 58.736, DE 27 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Benedito Cotomácio a lavrar dolomita no município de Pirapora do Bom Jesus, Estado de São Paulo.

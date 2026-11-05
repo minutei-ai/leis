@@ -1,5 +1,3 @@
-###DEC-068442-0-000-29-03-1971@@@
-
 DECRETO Nº 68.442, DE 29 DE MARÇO DE 1971.
 
 Inclui o Instituto Brasileiro de Informática entre os órgãos autônomos da Fundação IBGE.

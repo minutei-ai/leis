@@ -1,5 +1,3 @@
-###DEL-005239-0-000-10-02-1943@@@
-
 DECRETO‑LEI N. 5.239 – DE 10 DE FEVEREIRO DE 1943
 
 Regula a situação hierárquica dos oficiais do Quadro de Oficiais Auxiliares da Aeronáutica

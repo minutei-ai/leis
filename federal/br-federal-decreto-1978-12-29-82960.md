@@ -1,5 +1,3 @@
-###DEC-082960-0-000-29-12-1978@@@
-
 Decreto nº 82.960, de 29 de dezembro de 1978.
 
 Revoga os atos de banimento.

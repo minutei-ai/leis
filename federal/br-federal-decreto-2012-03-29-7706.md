@@ -1,5 +1,3 @@
-###DEC-007706-0-000-29-03-2012-PUB-01@@@
-
 DECRETO N° 7.706, DE 29 DE MARÇO DE 2012
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Apêndice II do Acordo de Complementação Econômica n° 55 (4PA ao Apêndice II-ACE55), assinado entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos, de 19 de março de 2012.

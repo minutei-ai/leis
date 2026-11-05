@@ -1,5 +1,3 @@
-###DEC-073250-0-000-04-12-1973@@@
-
 DECRETO Nº 73.250 - de 4 de Dezembro de 1973
 
 Retifica a alínea "c", do artigo 1º, do Decreto nº 71.641, de 29 de dezembro de 1972.

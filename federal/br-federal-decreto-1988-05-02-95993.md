@@ -1,5 +1,3 @@
-###DEC-095993-0-000-02-05-1988@@@
-
 DECRETO N° 95.993, DE 02 DE MAIO DE 1988
 
 Autoriza o Governo do Estado de Mato Grosso do Sul a executar, na cidade de Campo Grande, Estado de Mato Grosso do Sul, serviço de radiodifusão de sons e imagens (televisão), mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004245-0-000-22-05-2002@@@
-
 DECRETO Nº 4.245, DE 22 DE MAIO DE 2002
 
 Altera o Decreto nº 99.658, de 30 de outubro de 1990, que regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.

@@ -1,5 +1,3 @@
-###DEC-060781-0-000-31-05-1967@@@
-
 DECRETO Nº 60.781, DE 31 DE MAIO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Iapu, Estado de Minas Gerais.

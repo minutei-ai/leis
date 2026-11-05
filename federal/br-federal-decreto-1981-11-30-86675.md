@@ -1,5 +1,3 @@
-###DEC-086675-0-000-30-11-1981@@@
-
 DecretO nº 86.675, de 30 de novembro de 1981
 
 Revoga o Decreto nº 81.647, de 11 de maio de 1978, que concedeu a empresa PENNZOIL DO BRAZIL INC., autorização para funcionar na República Federativa do Brasil.

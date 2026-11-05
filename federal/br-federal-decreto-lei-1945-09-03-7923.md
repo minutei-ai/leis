@@ -1,5 +1,3 @@
-###DEL-007923-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.923 – DE 3 DE SETEMBRO DE 1945
 
 Altera a carreira de Oficial Administrativo, do Quadro Permanente do Ministério da Guerra, e abre crédito suplementar ao mesmo Ministério

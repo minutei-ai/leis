@@ -38,7 +38,8 @@ III – incentivar ações relacionadas ao desvio de resíduos sólidos urbanos 
 
 IV – fomentar a implantação de ecopontos para o aumento dos resíduos encaminhados à reciclagem, à compostagem e à disposição final ambientalmente adequada;
 
-V – promover a regularização dos locais em que ainda é inadequada a disposição final de resíduos sólidos urbanos no território de Goiás, consideradas as diretrizes estabelecidas em norma técnica;<br>
+V – promover a regularização dos locais em que ainda é inadequada a disposição final de resíduos sólidos urbanos no território de Goiás, consideradas as diretrizes estabelecidas em norma técnica;
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 VI – autorizar de forma provisória a implantação de aterros temporários de pequeno porte, com vida útil limitada, em conformidade com as normas técnicas e ambientais, em municípios que não apresentem viabilidade econômica para a disposição final em aterro sanitário licenciado;
@@ -113,7 +114,8 @@ II – a documentação formal que comprove qual aterro sanitário devidamente l
 
 § 1º Caso o município não possua coleta seletiva em operação, será necessário apresentar as iniciativas para a implementação em 6 (seis) meses, conforme as disposições previstas nos arts. 11 e 12 deste Decreto.
 
-§ 2º Caso não exista aterro sanitário devidamente licenciado e apto à recepção dos resíduos sólidos de outros municípios no raio de 200 km (duzentos quilômetros) de distância rodoviária nos municípios de tipo 2 e 3, o ente requerente deverá comunicar o fato e apresentar previamente ao pedido de licença de encerramento de lixões a proposta de solução alternativa à SEMAD, que a analisará e deliberará sobre cada caso, com a possibilidade de firmar Termo de Compromisso Ambiental – TCA para estabelecer medidas mínimas para o controle ambiental da operação até o estabelecimento da fase definitiva.<br>
+§ 2º Caso não exista aterro sanitário devidamente licenciado e apto à recepção dos resíduos sólidos de outros municípios no raio de 200 km (duzentos quilômetros) de distância rodoviária nos municípios de tipo 2 e 3, o ente requerente deverá comunicar o fato e apresentar previamente ao pedido de licença de encerramento de lixões a proposta de solução alternativa à SEMAD, que a analisará e deliberará sobre cada caso, com a possibilidade de firmar Termo de Compromisso Ambiental – TCA para estabelecer medidas mínimas para o controle ambiental da operação até o estabelecimento da fase definitiva.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 § 3º Caso não exista aterro sanitário devidamente licenciado e apto à recepção dos resíduos sólidos de outros municípios no raio de 100 km (cem quilômetros) de distância rodoviária nos municípios de tipo 4, o ente requerente poderá solicitar a autorização para a instalação e a operação de aterro temporário de pequeno porte, conforme a definição do inciso II do art. 3º deste Decreto.
@@ -122,7 +124,8 @@ II – a documentação formal que comprove qual aterro sanitário devidamente l
 
 § 5º As autorizações para a disposição em aterros temporários de pequeno porte terão a validade de 2 (dois) anos e somente poderão ocorrer até que esteja em operação a solução regionalizada na fase definitiva do programa.
 
-§ 6º No caso de municípios do tipo 4 que não sejam aptos a implantar aterro temporário de pequeno porte devido à geração diária de resíduos sólidos urbanos acima de 20 (vinte) toneladas por dia, o ente requerente deverá comunicar o fato e apresentar previamente ao pedido de licença de encerramento de lixões a proposta de solução alternativa à SEMAD, que a analisará e deliberará sobre cada caso, com a possibilidade de ser firmado Termo de Compromisso Ambiental – TCA para estabelecer medidas mínimas para o controle ambiental da operação até o estabelecimento da fase definitiva.<br>
+§ 6º No caso de municípios do tipo 4 que não sejam aptos a implantar aterro temporário de pequeno porte devido à geração diária de resíduos sólidos urbanos acima de 20 (vinte) toneladas por dia, o ente requerente deverá comunicar o fato e apresentar previamente ao pedido de licença de encerramento de lixões a proposta de solução alternativa à SEMAD, que a analisará e deliberará sobre cada caso, com a possibilidade de ser firmado Termo de Compromisso Ambiental – TCA para estabelecer medidas mínimas para o controle ambiental da operação até o estabelecimento da fase definitiva.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 § 7º Caso o pedido de licença do encerramento de lixões não seja requerido nos prazos previstos no art. 9º deste Decreto, o município ficará sujeito às sanções estabelecidas na legislação de regência.
@@ -207,7 +210,8 @@ IV – não esteja em área de expansão urbana definida em lei ou não seja obs
 
 V – em distâncias inferiores a 3.000 (três mil) metros e superiores a 1.500 (mil e quinhentos) metros do aglomerado urbano, existam barreiras físicas ao crescimento da cidade naquela direção.
 
-Art. 15. Caso a autorização para o aterro temporário de pequeno porte não possa ser emitida em razão do não atendimento das condições previstas no art. 14, deverá ser requerida somente o licenciamento para o encerramento das atividades operacionais do lixão e apresentada uma solução para a disposição dos resíduos sólidos urbanos, conforme define o art. 10 deste Decreto.<br>
+Art. 15. Caso a autorização para o aterro temporário de pequeno porte não possa ser emitida em razão do não atendimento das condições previstas no art. 14, deverá ser requerida somente o licenciamento para o encerramento das atividades operacionais do lixão e apresentada uma solução para a disposição dos resíduos sólidos urbanos, conforme define o art. 10 deste Decreto.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 CAPÍTULO IV
@@ -218,7 +222,8 @@ Art. 16. A fase definitiva estabelecerá as providências pertinentes à impleme
 
 § 1º A fase definitiva do programa abrangerá todos os municípios do Estado de Goiás.
 
-§ 2º A fase definitiva terá início nos prazos dispostos pelo colegiado microrregional de que trata a [Lei Complementar estadual nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157), de 2023.<br>
+§ 2º A fase definitiva terá início nos prazos dispostos pelo colegiado microrregional de que trata a [Lei Complementar estadual nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157), de 2023.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 Art. 17. A fase definitiva estabelecerá as providências referentes à implantação de aterros sanitários regionalizados e outras infraestruturas e instalações operacionais que compõem o serviço público de manejo de resíduos sólidos a serem compartilhadas nas MSBs, além da forma de operação regionalizada desses serviços.
@@ -229,37 +234,48 @@ CAPÍTULO V
 
 DOS PROCESSOS ADMINISTRATIVOS RELATIVOS A INFRAÇÕES AMBIENTAIS
 
-Art. 19. Os municípios que realizarem a adequação durante a fase de transição terão arquivados os processos de apuração de infrações ambientais decorrentes da operação de lixões sem licença, desde que atendam de forma integral aos requisitos estabelecidos neste Decreto e requeiram na SEMAD o licenciamento para o encerramento de lixões tempestivamente, nos termos deste artigo.<br>
+Art. 19. Os municípios que realizarem a adequação durante a fase de transição terão arquivados os processos de apuração de infrações ambientais decorrentes da operação de lixões sem licença, desde que atendam de forma integral aos requisitos estabelecidos neste Decreto e requeiram na SEMAD o licenciamento para o encerramento de lixões tempestivamente, nos termos deste artigo.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-Parágrafo único. Nos processos de auto de infração e nas audiências de autocomposição de que trata o art. 35 da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, referentes à instalação ou à operação de lixões, serão adotados os seguintes procedimentos:<br>
+Parágrafo único. Nos processos de auto de infração e nas audiências de autocomposição de que trata o art. 35 da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, referentes à instalação ou à operação de lixões, serão adotados os seguintes procedimentos:
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-I – serão suspensas multas e embargos decorrentes de autuações lavradas nos prazos necessários ao cumprimento das obrigações previstas neste Decreto, com a decisão devidamente fundamentada pela autoridade administrativa competente;<br>
+I – serão suspensas multas e embargos decorrentes de autuações lavradas nos prazos necessários ao cumprimento das obrigações previstas neste Decreto, com a decisão devidamente fundamentada pela autoridade administrativa competente;
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-II – em atendimento ao disposto no art. 80– B, da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 2013, a SEMAD promoverá desconto até 60% (sessenta por cento) do valor de multas aplicadas a municípios pela instalação ou pela operação de lixões, a depender da fase em que o processo administrativo se encontrar;<br>
+II – em atendimento ao disposto no art. 80– B, da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 2013, a SEMAD promoverá desconto até 60% (sessenta por cento) do valor de multas aplicadas a municípios pela instalação ou pela operação de lixões, a depender da fase em que o processo administrativo se encontrar;
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-III – o desconto de que trata o inciso II será confirmado na emissão do relatório de avaliação de pós– licença pela SEMAD, que atestará o cumprimento integral das condicionantes do licenciamento para o encerramento de lixões, e esse desconto será estabelecido no Termo de Compromisso Ambiental de Conversão de Multa – TCACM;<br>
+III – o desconto de que trata o inciso II será confirmado na emissão do relatório de avaliação de pós– licença pela SEMAD, que atestará o cumprimento integral das condicionantes do licenciamento para o encerramento de lixões, e esse desconto será estabelecido no Termo de Compromisso Ambiental de Conversão de Multa – TCACM;
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-IV – o acordo da autocomposição será realizado com a apresentação do licenciamento para o encerramento de lixões, com indicação das medidas a serem adotadas pelo município para a finalização da prática inadequada e a nova destinação dos resíduos sólidos urbanos, que poderá ser:<br>
+IV – o acordo da autocomposição será realizado com a apresentação do licenciamento para o encerramento de lixões, com indicação das medidas a serem adotadas pelo município para a finalização da prática inadequada e a nova destinação dos resíduos sólidos urbanos, que poderá ser:
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-a) a disposição final em aterro sanitário já em operação e devidamente licenciado, até 180 (cento e oitenta) dias do pedido do licenciamento, observado o disposto no art. 9º deste Decreto, conforme o que dispuser o Termo de Compromisso Ambiental – TCA específico e individual; ou<br>
+a) a disposição final em aterro sanitário já em operação e devidamente licenciado, até 180 (cento e oitenta) dias do pedido do licenciamento, observado o disposto no art. 9º deste Decreto, conforme o que dispuser o Termo de Compromisso Ambiental – TCA específico e individual; ou
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-b) a autorização para a disposição final em aterros temporários de pequeno porte; e<br>
+b) a autorização para a disposição final em aterros temporários de pequeno porte; e
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-V – os embargos serão levantados na apresentação do licenciamento para o encerramento de lixões, desde que a autorização para a instalação e a operação de aterro temporário de pequeno porte tenha sido concedida e englobe a poligonal da área embargada ou, nos casos necessários, a implementação de atividades de adequação e a remediação dos antigos lixões, com a decisão devidamente fundamentada pela autoridade administrativa competente.<br>
+V – os embargos serão levantados na apresentação do licenciamento para o encerramento de lixões, desde que a autorização para a instalação e a operação de aterro temporário de pequeno porte tenha sido concedida e englobe a poligonal da área embargada ou, nos casos necessários, a implementação de atividades de adequação e a remediação dos antigos lixões, com a decisão devidamente fundamentada pela autoridade administrativa competente.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-Art. 20. O licenciamento para o encerramento de lixões possuirá o efeito do Termo de Compromisso Ambiental – TCA, e os municípios deverão definir no ato do pedido do licenciamento a solução para a reabilitação, o monitoramento e o controle das áreas impactadas pela disposição final irregular, além da solução definitiva para a disposição ambientalmente adequada dos resíduos sólidos urbanos até a validade da licença.<br>
+Art. 20. O licenciamento para o encerramento de lixões possuirá o efeito do Termo de Compromisso Ambiental – TCA, e os municípios deverão definir no ato do pedido do licenciamento a solução para a reabilitação, o monitoramento e o controle das áreas impactadas pela disposição final irregular, além da solução definitiva para a disposição ambientalmente adequada dos resíduos sólidos urbanos até a validade da licença.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
-Parágrafo único. A SEMAD poderá deflagrar campanha de orientação, nos termos do art. 1º-A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 2013, aos municípios que tenham lixões sem licença, para que sejam realizadas as ações necessárias à regularização, como prevê este Decreto.<br>
+Parágrafo único. A SEMAD poderá deflagrar campanha de orientação, nos termos do art. 1º-A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 2013, aos municípios que tenham lixões sem licença, para que sejam realizadas as ações necessárias à regularização, como prevê este Decreto.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 CAPÍTULO VI

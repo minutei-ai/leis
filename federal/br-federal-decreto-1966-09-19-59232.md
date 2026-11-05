@@ -1,5 +1,3 @@
-###DEC-059232-0-000-19-09-1966@@@
-
 decreto nº 59.232, de 19 de setembro de 1966.
 
 Declara caduco o Decreto nº 46.017, de 18 de maio de 1959.

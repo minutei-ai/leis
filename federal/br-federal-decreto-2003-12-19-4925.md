@@ -1,5 +1,3 @@
-###DEC-004925-0-000-19-12-2003@@@
-
 DECRETO Nº 4.925 DE 19 DE DEZEMBRO DE 2003.
 
 Institui o Programa de Mobilização da Indústria Nacional de Petróleo e Gás Natural \- PROMINP, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003313-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.313 – DE 26 DE MAIO DE 1941
 
 Dispõe sobre o Comando da 9ª Região Militar

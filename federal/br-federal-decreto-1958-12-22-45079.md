@@ -1,5 +1,3 @@
-###DEC-045079-0-000-22-12-1958@@@
-
 DECRETO Nº 45.079, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza estrangeiro a adquirir o domínio pleno do terreno que menciona, situado no Distrito Federal.

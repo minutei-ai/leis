@@ -1,5 +1,3 @@
-###DEC-058278-0-000-28-04-1966@@@
-
 DECRETO Nº 58.278, DE 28 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Abílio Borin a pesquisar caulim e mica no município de São Bernardo do Campo, Estado de São Paulo.

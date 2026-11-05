@@ -1,5 +1,3 @@
-###DEC-054325-0-000-28-09-1964@@@
-
 DECRETO Nº 54.325, DE 28 de SETEMBRO DE 1964.
 
 Outorga à Companhia Fôrça e Luz do Oeste concessão para o aproveitamento de um desnível no Rio Jordão, existente do distrito Guarapuava, Município do mesmo nome, Estado do Paraná.

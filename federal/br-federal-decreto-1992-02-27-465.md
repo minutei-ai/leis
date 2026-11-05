@@ -1,7 +1,3 @@
-1
-
-###DEC-000465-0-000-27-02-1992@@@
-
 DECRETO N° 465, DE 27 DE FEVEREIRO DE 1992
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, da Cobra  Computadores e Sistemas Brasileiros S.A.

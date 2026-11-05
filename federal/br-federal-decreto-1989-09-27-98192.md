@@ -1,7 +1,3 @@
-1
-
-###DEC-098192-0-000-27-09-1989@@@
-
 DECRETO Nº 98.192, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA MASSAPÊ/CAGANTI”, situado no Município de Itapiúna, Estado do Ceará, e dá outras providências.

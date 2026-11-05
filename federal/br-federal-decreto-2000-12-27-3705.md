@@ -1,5 +1,3 @@
-###DEC-003705-0-000-27-12-2000@@@
-
 DECRETO Nº 3.705, DE 27 DE DEZEMBRO DE 2000.
 
 Prorroga o prazo estabelecido nos Decretos que menciona, e dá outras providências.

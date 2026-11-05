@@ -1,5 +1,3 @@
-###DEC-047866-0-000-07-03-1960@@@
-
 DECRETO Nº 47.866, de 7 de março de 1960.
 
 Dá nova redação ao art. 1º do Decreto nº 46.104, de 21 de maio de 1959, que outorgou à Prefeitura Municipal de Santa Rita de Jacutinga concessão para o aproveitamento de energia hidráulica, existente no curso d’água denominado bananal, Distrito de Santa Rita de Jacutinga, Município do mesmo nome, Estado de Minas Gerais.

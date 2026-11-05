@@ -1,5 +1,3 @@
-###DEC-059230-0-000-19-09-1966@@@
-
 DECRETO Nº 59.230, DE 19 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Achilles Scavariello a lavrar água mineral no município de Santa Isabel, Estado de São Paulo.

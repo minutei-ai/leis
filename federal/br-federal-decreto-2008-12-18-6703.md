@@ -1,5 +1,3 @@
-###DEC-006703-0-000-18-12-2008@@@
-
 DECRETO Nº 6.703, DE 18 DE DEZEMBRO DE 2008.
 
  Aprova a Estratégia Nacional de Defesa, e dá outras providências.

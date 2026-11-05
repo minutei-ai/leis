@@ -1,5 +1,3 @@
-###DEC-045211-0-000-10-01-1959@@@
-
 DECRETO Nº 45.211, DE 10 DE JANEIRO DE 1959.
 
 Altera dispositivo do Decreto número 43.935, de 3 de junho de 1958.

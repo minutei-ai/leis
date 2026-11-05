@@ -1,5 +1,3 @@
-###DEC-071705-0-000-16-01-1973@@@
-
 DECRETO Nº 71.705, DE 16 DE JANEIRO DE 1973.
 
 Retifica o enquadramento de servidor da Universidade Federal de Pernambuco, amparado parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962.

@@ -1,5 +1,3 @@
-###DEC-070741-0-000-20-06-1972@@@
-
 DECRETO Nº 70.741, DE 20 DE JUNHO DE 1972.
 
 Autoriza o funcionamento dos Cursos de História e Geografia da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá" - Ribeirão Preto - SP.

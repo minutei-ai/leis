@@ -1,5 +1,3 @@
-###DEC-085065-0-000-26-08-1980@@@
-
 Decreto nº 85.065, de 26 de agosto de 1980.
 
 Altera dispositivos do Regulamento da Ordem do Mérito Naval.

@@ -1,5 +1,3 @@
-###DEC-049359-0-000-28-11-1960@@@
-
 DECRETO Nº 49.359, de 28 de novembro de 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos materiais novos, ora especificados e consignados à firma Moinho do Nordeste Ltda. de Maceió (AL).

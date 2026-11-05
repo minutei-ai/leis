@@ -1,5 +1,3 @@
-###DEC-058528-0-000-30-05-1966@@@
-
 DECRETO Nº 58.528, DE 30 DE MAIO DE 1966.
 
 Estende aos servidores, do Conselho Nacional de Pesquisas e Institutos subordinados a assistências social concedida pelo IPASE.

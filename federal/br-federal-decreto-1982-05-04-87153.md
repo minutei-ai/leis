@@ -1,5 +1,3 @@
-###DEC-087153-0-000-04-05-1982@@@
-
 Decreto nº 87.153, de 04 de maio de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

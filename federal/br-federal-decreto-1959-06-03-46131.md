@@ -1,5 +1,3 @@
-###DEC-046131-0-000-03-06-1959@@@
-
 DECRETO Nº 46.131, DE 3 DE JUNHO DE 1959.
 
 Regulamenta a concessão das gratificações previstas no art. 145, itens V e VI da Lei nº 1.711, de 28 de outubro de 1952, aos servidores que exerçam cargos ou funções relacionados com o serviço da engenharia, no Serviço Público Federal e nas autarquias, e dá outras providências.

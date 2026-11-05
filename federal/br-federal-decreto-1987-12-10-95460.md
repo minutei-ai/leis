@@ -1,5 +1,3 @@
-###DEC-095460-0-000-10-12-1987@@@
-
 DECRETO Nº 95.460, DE 10 DE DEZEMBRO DE 1987
 
 Dispõe sobre o aumento do Capital Autorizado da Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS.

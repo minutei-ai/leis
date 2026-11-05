@@ -1,5 +1,3 @@
-###DEC-080482-0-000-03-10-1977@@@
-
 Decreto nº 80.482, de 3 de outubro de 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física, com sede na cidade de Criciúma, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-055788-0-000-23-02-1965@@@
-
 DECRETO Nº 55.788, DE 23 DE FEVEREIRO DE 1965.
 
 Estabelece normas para a concessão da garantia do tesouro Nacional a empréstimos contrários no exterior.

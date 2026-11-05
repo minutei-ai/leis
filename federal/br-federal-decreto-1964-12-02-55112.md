@@ -1,5 +1,3 @@
-###DEC-055112-0-000-02-12-1964@@@
-
 DECRETO Nº 55.112, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Gilson Chaves a pesquisar diamantes e ouro, no município de Diamantina, Estado de Minas Gerais.

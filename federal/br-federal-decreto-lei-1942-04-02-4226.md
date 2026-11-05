@@ -1,5 +1,3 @@
-###DEL-004226-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.226 – DE 2 DE ABRIL DE 1942
 
 Torna insubsistentes os §§ 2º e 3º do art. 59 do decreto n. 17.859, de 21 de julho de 1927

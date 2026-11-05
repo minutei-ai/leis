@@ -1,5 +1,3 @@
-###DEC-054523-0-000-21-10-1964@@@
-
 DECRETO Nº 54.523, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza a emprêsa de mineração Silva Areal, Mármores e Granitos Sociedade Anônima a lavrar mármore no município de Sete Lagoas, Estados de Minas Gerais.

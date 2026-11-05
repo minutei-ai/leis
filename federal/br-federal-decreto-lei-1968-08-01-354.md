@@ -1,5 +1,3 @@
-###DEL-000354-0-000-01-08-1968@@@
-
 DeCRETO-LEI Nº 354, DE 1 DE AGÔSTO DE 1968
 
 Estabelece medidas para resguardar dos interêsses da economia pública e particular, na indústria do café solúvel.

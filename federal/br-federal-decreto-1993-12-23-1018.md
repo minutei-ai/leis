@@ -1,7 +1,3 @@
-1
-
-###DEC-001018-0-000-23-12-1993@@@
-
 DECRETO N° 1.018, DE 23 DE DEZEMBRO DE 1993
 
 Consolida as Repartições Consulares de Carreira

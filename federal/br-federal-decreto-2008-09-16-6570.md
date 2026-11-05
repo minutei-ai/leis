@@ -1,5 +1,3 @@
-###DEC-006570-0-000-16-09-2008@@@
-
 DECRETO Nº 6.570, DE 16 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1807, de 31 de março de 2008, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.

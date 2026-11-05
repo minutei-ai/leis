@@ -1,5 +1,3 @@
-###DEC-066714-0-000-12-06-1970@@@
-
 DECRETO Nº 66.714, DE 12 DE JUNHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma torre repetidora de microondas e uma faixa de terra para o acesso à mesma, nos municípios de Pedralva e Maria da Fé, Estado de Minas Gerais.
@@ -25,8 +23,6 @@ Brasília, 12 de junho de 1970; 149º da Independência e 82º da República.
 EMÍLIO G. MÉDICI
 
 Hygino C. Corsetti
-
-###DEC-066714-0-000-12-06-1970@@@RET01+++
 
 (\*) DECRETO Nº 66.714, DE 12 DE JUNHO DE 1970.
 

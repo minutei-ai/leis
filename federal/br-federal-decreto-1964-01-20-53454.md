@@ -1,5 +1,3 @@
-###DEC-053454-0-000-20-01-1964@@@
-
 DECRETO Nº 53.454, DE 20 DE JANEIRO DE 1964.
 
 Outorga à Centrais Elétricas do Rio das Contas S.A. concessão para distribuir energia elétrica no município de Coaraci.

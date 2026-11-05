@@ -1,5 +1,3 @@
-###DEC-049638-0-000-30-12-1960@@@
-
 DECRETO Nº 49.638, DE 30 DE DEZEMBRO DE 1960.
 
 Autoriza a Emprêsa Fluminense de Energia Elétrica S.A., com sede em Niterói, Estado do Rio de Janeiro, a ampliar suas instalações.

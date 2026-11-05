@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211344)<br>
-
 # LEI N° 18.181, DE 21 DE AGOSTO DE 2025
 
 ## (Projeto de lei n° 94/2023, dos Deputados Letícia Aguiar - PP e Gil Diniz - PL)

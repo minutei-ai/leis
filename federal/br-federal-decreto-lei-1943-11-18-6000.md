@@ -1,5 +1,3 @@
-###DEL-006000-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.000 – DE 18 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 2.000.000,00, à verba que especifica

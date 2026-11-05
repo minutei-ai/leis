@@ -1,5 +1,3 @@
-###DEC-007380-0-000-01-12-2010-PUB-01@@@
-
 DECRETO Nº 7.380, DE 1º DE DEZEMBRO DE 2010
 
 Dá nova redação ao art. 33 do Decreto nº 2.594, de 15 de maio de 1998, que regulamenta a Lei nº 9.491, de 9 de setembro de 1997.

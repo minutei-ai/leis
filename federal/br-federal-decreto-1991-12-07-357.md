@@ -1,7 +1,3 @@
-1
-
-###DEC-000357-0-000-07-12-1991@@@
-
 # DECRETO Nº 357, DE 7 DE DEZEMBRO DE 1991
 
 Aprova o Regulamento dos Benefícios da Previdência Social.

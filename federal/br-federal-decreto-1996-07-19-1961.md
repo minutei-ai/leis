@@ -1,5 +1,3 @@
-###DEC-001961-0-000-19-07-1996@@@
-
 DECRETO Nº 1.961, DE 19 DE JULHO DE 1996
 
 Dá nova redação ao art. 14 do Decreto nº 92.512, de 2 de abril de 1986, que estabelece normas, condições de atendimento e indenizações para assistência médico-hospitalar ao militar e seus dependentes e dá outras providências.

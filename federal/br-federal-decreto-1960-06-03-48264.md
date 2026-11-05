@@ -1,5 +1,3 @@
-###DEC-048264-0-000-03-06-1960@@@
-
 decreto nº 48.264, de 3 de junho de 1960.
 
 Concede à Navegação e Armazenagem de Vinhos do Rio Grande do Sul S.A “Navinsul” autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

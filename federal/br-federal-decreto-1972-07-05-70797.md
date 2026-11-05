@@ -1,5 +1,3 @@
-###DEC-070797-0-000-05-07-1972@@@
-
 decreto nº 70.797, de 5 de julho de 1972.
 
 Revoga o Decreto n° 61.546, de 7 de outubro de 1967.

@@ -1,5 +1,3 @@
-###DEC-064518-0-000-15-05-1969@@@
-
 DECRETO Nº 64.518, DE 15 DE MAIO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Apucarana-PR, destinado ao Ministério do Exército.

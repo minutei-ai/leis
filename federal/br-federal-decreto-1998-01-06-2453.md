@@ -1,5 +1,3 @@
-###DEC-002453-0-000-06-01-1998@@@
-
 DECRETO Nº 2.453, DE 6 DE JANEIRO DE 1998
 
 Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais para 1998 e dá outras providências.

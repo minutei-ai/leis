@@ -1,5 +1,3 @@
-###DEC-067457-0-000-29-10-1970@@@
-
 decreto nº 67.457 - de 29 de outubro de 1970
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à implantação, pela Companhia Telefônica Brasileira, de uma estação terminal de microondas, no Município de Piracicaba, Estado de São Paulo.

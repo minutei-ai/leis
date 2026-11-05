@@ -1,5 +1,3 @@
-###DEL-008232-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.232 – DE 27 DE NOVEMBRO DE 1945
 
 Dispõe sôbre atribuições do Advogado da Polícia Militar do Distrito Federal.

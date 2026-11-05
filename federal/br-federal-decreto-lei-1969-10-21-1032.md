@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2ffdbbf1-e151-49c8-8f8f-e2c6502589f3/texto#nowhere)
 
-###DEL-001032-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.032, de 21 de outubro de 1969
 
 Dispõe sôbre a retroatividade do ato de nomeação que especifica.

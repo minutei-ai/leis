@@ -1,7 +1,3 @@
-1
-
-###MPV-000965-0-000-06-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 965, DE 06 DE ABRIL DE 1995
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

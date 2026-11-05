@@ -1,5 +1,3 @@
-###DEC-082726-0-000-27-11-1978@@@
-
 Decreto n º 82.726, de 27 de novembro de 1978
 
 Altera disposições do Decreto n º 74.448, de 22 de agosto de 1974, que dispõe sobre a lotação dos Órgãos da Administração Federal direta e Autarquias federais, e dá outras providências.

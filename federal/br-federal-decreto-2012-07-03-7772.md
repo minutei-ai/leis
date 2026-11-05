@@ -1,5 +1,3 @@
-###DEC-007772-0-000-03-07-2012-PUB-01@@@
-
 DECRETO N° 7.772, DE 3 DE JULHO DE 2012
 
 Altera o Decreto n° 5.743, de 4 de abril de 2006, para prorrogar o prazo de remanejamento de cargos em comissão do Grupo- Direção e Assessoramento Superiores - DAS.

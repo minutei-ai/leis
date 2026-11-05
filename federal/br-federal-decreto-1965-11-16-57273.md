@@ -1,5 +1,3 @@
-###DEC-057273-0-000-16-11-1965@@@
-
 DECRETO nº 57.273, DE 16 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, os terrenos onde foram travadas as Batalhas dos Guararapes, no Município de Jaboatão, no Estado de Pernambuco.

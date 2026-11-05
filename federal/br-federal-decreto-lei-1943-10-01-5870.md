@@ -1,5 +1,3 @@
-###DEL-005870-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.870 – DE 1 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 3.758,70, para pagamento de desapropriação

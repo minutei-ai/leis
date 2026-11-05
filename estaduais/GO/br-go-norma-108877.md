@@ -62,8 +62,6 @@ c) itens 4 a 7, 10.2 e 21, todos da alínea "d" do Apêndice XXX.
 
 Goiânia, 20 de maio de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

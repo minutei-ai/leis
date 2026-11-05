@@ -1,5 +1,3 @@
-###DEC-056682-0-000-09-08-1965@@@
-
 Decreto nº 56.682, de 9 de agôsto de 1965.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de S. Paulo a construir linha de transmissão.

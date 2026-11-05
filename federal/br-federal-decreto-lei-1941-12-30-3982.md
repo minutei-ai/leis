@@ -1,5 +1,3 @@
-###DEL-003982-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.982 – DE 30 DE DEZEMBRO DE 1941
 
 Modifica, como medida de emergência, as bases para cobrança da taxa de armazenagem nos Portos organizados.

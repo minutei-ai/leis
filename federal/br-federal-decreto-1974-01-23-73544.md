@@ -1,5 +1,3 @@
-###DEC-073544-0-000-23-01-1974@@@
-
 DECRETO Nº 73.544, DE 23 DE JANEIRO DE 1974.
 
 Denomina Parques de Material Aeronáutico os atuais Parques de Aeronáutica, aprova seu Regulamento e dá outras providências.

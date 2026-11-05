@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=181783)
-
 # DECRETO Nº 62.591, DE 22 DE MAIO DE 2017
 
 ### _Autoriza a Fazenda do Estado a prorrogar a permissão de uso, a título gratuito e por prazo de 150 dias, em favor do Comitê Paralímpico Brasileiro - CPB, de parte do imóvel que especifica_
@@ -22,10 +20,16 @@ Palácio dos Bandeirantes, 22 de maio de 2017
 
 GERALDO ALCKMIN
 
-Linamara Rizzo Battistella<br>
-Secretária dos Direitos da Pessoa com Deficiência<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Linamara Rizzo Battistella
+
+Secretária dos Direitos da Pessoa com Deficiência
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 22 de maio de 2017.

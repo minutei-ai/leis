@@ -1,5 +1,3 @@
-###DEL-008342-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.342 – DE 10 DE DEZEMBRO DE 1945
 
 Uniformiza o regime de promoção nas faculdades e escolas superiores.

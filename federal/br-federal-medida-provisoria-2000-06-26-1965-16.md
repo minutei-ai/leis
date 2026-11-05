@@ -1,5 +1,3 @@
-###MPV-001965-0-016-26-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-16, DE 26 DE junho DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001134-0-000-03-05-1994@@@
-
 DECRETO N° 1.134, DE 3 DE MAIO DE 1994
 
 Cria o passador e a barreta de quatro âncoras em prata e ouro para a medalha Mérito Marinheiro.

@@ -1,5 +1,3 @@
-###DEC-068558-0-000-28-04-1971@@@
-
 DECRETO Nº 68.558, de 28 de abril de 1971.
 
 Concede a Cigla - Construtora e Incorporadora de Goiás Ltda, o direito de lavrar minério de manganês, no município de São João da Aliança, Estado de Goiás.

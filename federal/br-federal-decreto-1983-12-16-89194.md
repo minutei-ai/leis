@@ -1,5 +1,3 @@
-###DEC-089194-0-000-16-12-1983@@@
-
 Decreto nº 89.194, de 16 de dezembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

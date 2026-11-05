@@ -1,5 +1,3 @@
-###DEC-073637-0-000-13-02-1974@@@
-
 DECRETO Nº 73.637, DE 13 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a construção de subestação, no município de São Gonçalo, Estado do Rio de Janeiro.

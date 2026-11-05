@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183565)
-
 # DECRETO Nº 62.871, DE 06 DE OUTUBRO DE 2017
 
 ### _Dispõe sobre a suspensão, no corrente exercício, da aplicação do disposto no artigo 5º do Decreto nº 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas_
@@ -26,10 +24,16 @@ Palácio dos Bandeirantes, 6 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 6 de outubro de 2017.

@@ -1,5 +1,3 @@
-###DEC-051416-0-000-23-02-1962@@@
-
 DECRETO Nº 51.416, DE 23 DE Fevereiro DE 1962.
 
 Aprova a reforma dos Estatutos do Banco do Nordeste do Brasil S.A.

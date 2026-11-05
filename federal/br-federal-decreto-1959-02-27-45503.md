@@ -1,5 +1,3 @@
-###DEC-045503-0-000-27-02-1959@@@
-
 DECRETO Nº 45.503, DE 27 DE Fevereiro DE 1959.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços, e dá outras providencias.

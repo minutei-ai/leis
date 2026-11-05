@@ -1,5 +1,3 @@
-###DEC-003310-0-000-24-12-1999@@@
-
 DECRETO Nº 3.310, DE 24 DE DEZEMBRO DE 1999.
 
 Prorroga o prazo de remanejamento estabelecido nos Decretos que menciona, e dá outras providências.

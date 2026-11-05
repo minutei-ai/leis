@@ -1,24 +1,22 @@
-###DEC-027856-0-000-09-03-1950@@@
+**DECRETO Nº 27.856, DE 9 DE MARÇO DE 1950.**
 
-<strong>DECRETO Nº 27.856, DE 9 DE MARÇO DE 1950.</strong>
+***Outorga concessão à Sociedade Rádio Emissora Metropolitana Limitada para estabelecer, nesta Capital, uma estação radiodifusora em freqüência modulada.***
 
-<em><strong>Outorga concessão à Sociedade Rádio Emissora Metropolitana Limitada para estabelecer, nesta Capital, uma estação radiodifusora em freqüência modulada.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Sociedade Emissora Metropolitana Limitada, e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Sociedade Emissora Metropolitana Limitada, e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Sociedade Rádio Emissora Metropolitana, nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, nessa Capital, uma estação radiodifusora, em freqüência modulada com a potência mínima de 3 KW, de acôrdo com as cláusulas que com êste baixam, devidamente assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro de sessenta dias, a contar da data da publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro de sessenta dias, a contar da data da publicação dêste Decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 9 de março de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULA A QUE SE REFERE O DECRETO Nº 27.856 DESTA DATA</strong>
+**CLÁUSULA A QUE SE REFERE O DECRETO Nº 27.856 DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão o Gôverno Federal poderá, pelo órgão fiscalizador impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a, b, c, d</em> e (<em>indefine), j, k</em> e <em>l</em> da cláusula III;
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a, b, c, d* e (*indefine), j, k* e *l* da cláusula III;
 
-b) se não foram pagas dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea <em>e</em> da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não foram pagas dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea *e* da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infranções passíveis de mul
 
 Rio de Janeiro, 9 de março de 1950.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

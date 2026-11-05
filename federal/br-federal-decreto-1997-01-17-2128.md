@@ -1,5 +1,3 @@
-###DEC-002128-0-000-17-01-1997@@@
-
 DECRETO Nº 2.128, DE 17 DE JANEIRO DE 1997
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 10/Revisado (Protocolo de Adequação), entre Brasil e Colômbia, de 25 de setembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-058687-0-000-22-06-1966@@@
-
 DECRETO Nº 58.687, DE 22 DE JUNHO DE 1966.
 
 Concede à Minas Cerâmicas S.A. autorização para funcionar como emprêsa de mineração.

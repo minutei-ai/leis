@@ -1,5 +1,3 @@
-###DEC-075051-0-000-06-12-1974@@@
-
 DECRETO Nº 75.051, DE 6 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Sociais, da Universidade de Caxias do Sul, Estado do Rio Grande do Sul.

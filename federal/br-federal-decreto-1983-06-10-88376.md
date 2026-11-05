@@ -1,5 +1,3 @@
-###DEC-088376-0-000-10-06-1983@@@
-
 # Decreto nº 88.376, de 10 de junho de 1983
 
 Altera o artigo 3º do Decreto nº 86.364, de 14 de setembro de 1981, que dispõe sobre concursos públicos e provas de seleção para ingresso nos órgãos e entidades da Administração Federal.

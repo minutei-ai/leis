@@ -1,5 +1,3 @@
-###DEL-004702-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.702 - DE 17 DE SETEMBRO DE 1942
 
 Extingue a 1ª Brigada de infantaria, com sede em Recife

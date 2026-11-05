@@ -10,8 +10,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 7 de janeiro de 2026; 138º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-ISSY QUINAN<br>
+ISSY QUINAN
+
 Deputado Estadual

@@ -1,5 +1,3 @@
-###DEL-005878-0-000-04-10-1943@@@
-
 DECRETO‑LEI N. 5.878 – DE 4 DE OUTUBRO DE 1943
 
 Autoriza a instituição da Fundação Brasil Central e dispõe sôbre o seu funcionamento

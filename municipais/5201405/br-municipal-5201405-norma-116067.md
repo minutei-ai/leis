@@ -4,7 +4,8 @@ Dispõe sobre o Programa Municipal de Parceria Público-Privada, cria o Comitê 
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DEFINIÇÕES E DOS PRINCÍPIOS
 
 Art. 1º. Esta Lei dispõe sobre o Programa Municipal de Parcerias Público-Privadas – PPP, a criação de seu Comitê Gestor e a instituição do Fundo de Garantia de Parceria Público-Privada.
@@ -99,7 +100,8 @@ XIV – vinculação aos planos de desenvolvimento econômico, social e ambienta
 
 XV – participação popular, mediante consulta pública.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS CONTRATOS DE PARCERIA PÚBLICO-PRIVADA
 
 Art. 11. Além das cláusulas do art. 5º da Lei nº 11.079, de 2004, deverão constar dos contratos de parceria público-privada as demais arroladas, além de atender ao disposto no art. 23 da Lei nº 8.987, de 1995, no que couber:
@@ -168,15 +170,18 @@ IV – títulos da dívida pública, emitidos com observância da legislação a
 
 V – cessão do direito de exploração comercial de bens públicos dominicais; e
 
-VI – ordem bancária;<br>
+VI – ordem bancária;
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~VI – outras receitas alternativas, complementares, acessórias ou de projetos associados.~~
 
-VII – outorga de direitos em face da Administração Pública;<br>
+VII – outorga de direitos em face da Administração Pública;
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-VIII – outros meios admitidos em lei.<br>
+VIII – outros meios admitidos em lei.
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 § 1º. O contrato poderá prever o pagamento ao parceiro privado de remuneração variável vinculada ao seu desempenho, conforme metas e padrões de qualidade e disponibilidade definidos no contrato.
@@ -187,22 +192,26 @@ VIII – outros meios admitidos em lei.<br>
 
 § 4º. A remuneração do parceiro privado poderá sofrer atualização periódica com base em fórmulas paramétricas, conforme previsto no edital de licitação.
 
-Art. 16 - O contrato poderá prever o aporte de recursos em favor do parceiro privado para a realização de obras e aquisição de bens reversíveis, nos termos dos incisos X e XI do caput do art. 18 da Lei nº 8.987, de 13 de fevereiro de 1995, desde que autorizado no edital de licitação.<br>
+Art. 16 - O contrato poderá prever o aporte de recursos em favor do parceiro privado para a realização de obras e aquisição de bens reversíveis, nos termos dos incisos X e XI do caput do art. 18 da Lei nº 8.987, de 13 de fevereiro de 1995, desde que autorizado no edital de licitação.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~Art. 16. A contraprestação da Administração Pública será obrigatoriamente precedida da disponibilização do serviço objeto do contrato de parceria público-privada.~~
 
-Parágrafo único. Por ocasião da extinção do contrato, o parceiro privado não receberá indenização pelas parcelas de investimentos vinculadas a bens reversíveis ainda não amortizadas ou depreciadas, quando tais investimentos tiverem sido realizados com valores provenientes do aporte de recursos de que trata o caput.<br>
+Parágrafo único. Por ocasião da extinção do contrato, o parceiro privado não receberá indenização pelas parcelas de investimentos vinculadas a bens reversíveis ainda não amortizadas ou depreciadas, quando tais investimentos tiverem sido realizados com valores provenientes do aporte de recursos de que trata o caput.
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 Art. 16-A - A contraprestação da Administração Pública será obrigatoriamente precedida da disponibilidade do serviço objeto do contrato de parceria público-privada.
 
 § 1º. É facultado à Administração Pública, nos termos do contrato, efetuar o pagamento da contraprestação relativa à parcela fruível do serviço objeto do contrato de parceria público-privada.
 
-§ 2º. O aporte de recursos de que trata o caput do art. 16, quando realizado durante a fase dos investimentos a cargo do parceiro privado, deverá guardar proporcionalidade com as etapas efetivamente executadas.<br>
+§ 2º. O aporte de recursos de que trata o caput do art. 16, quando realizado durante a fase dos investimentos a cargo do parceiro privado, deverá guardar proporcionalidade com as etapas efetivamente executadas.
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS GARANTIAS
 
 Art. 17. As obrigações pecuniárias contraídas pela Administração Pública em contrato de parceria público-privada poderão ser garantidas mediante:
@@ -219,7 +228,8 @@ V – garantias prestadas por fundo de garantia ou empresa estatal criada para e
 
 VI – outros mecanismos admitidos em lei.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA LICITAÇÃO
 
 Art. 18. A contratação de parceria público-privada será precedida de licitação na modalidade de concorrência, estando a abertura do processo licitatório condicionada a:
@@ -296,31 +306,38 @@ III – inabilitado o licitante melhor classificado, serão analisados os docume
 
 IV – proclamado o resultado final do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO PROGRAMA MUNICIPAL DE PARCERIAS PÚBLICO-PRIVADAS
 
-Art. 22 - O Programa Municipal de Parcerias Público-Privadas – PPP, no âmbito da Administração Pública do Município de Aparecida de Goiânia, será instituído pelo Comitê Gestor de Parcerias Público-Privadas do Município – CGPPP, o qual deverá observar as normas gerais previstas na Lei Federal nº 11.079, de 2004, e demais normas aplicáveis à espécie.<br>
+Art. 22 - O Programa Municipal de Parcerias Público-Privadas – PPP, no âmbito da Administração Pública do Município de Aparecida de Goiânia, será instituído pelo Comitê Gestor de Parcerias Público-Privadas do Município – CGPPP, o qual deverá observar as normas gerais previstas na Lei Federal nº 11.079, de 2004, e demais normas aplicáveis à espécie.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~Art. 22. O Programa Municipal de Parcerias Público-Privadas – PPP, no âmbito da Administração Pública do Município de Aparecida de Goiânia, será instituído pelo Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP –, que será elaborado anualmente, o qual deverá observar as normas gerais previstas na Lei Federal nº 11.079, de 2004, e demais normas aplicáveis à espécie.~~
 
-Art. 23 - Os órgãos ou entidades da Administração Pública nas suas respectivas áreas de competência, interessada em participar do Programa Municipal de Parceria Público-Privada deverão apresentar ao CGPPP proposta preliminar para inclusão de projeto no Programa Municipal de PPP, nos termos e prazos previstos em regulamento.<br>
+Art. 23 - Os órgãos ou entidades da Administração Pública nas suas respectivas áreas de competência, interessada em participar do Programa Municipal de Parceria Público-Privada deverão apresentar ao CGPPP proposta preliminar para inclusão de projeto no Programa Municipal de PPP, nos termos e prazos previstos em regulamento.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~Art. 23. O órgão ou a entidade da Administração Pública, nas suas respectivas áreas de competência, interessada em participar do Programa Municipal de Parceria Público-Privada encaminhará o respectivo projeto, nos termos e nos prazos previstos em regulamento, à apreciação do CGPPP.~~
 
-§ 1º. Pessoas físicas ou jurídicas não pertencentes à Administração Pública direta ou indireta, desde que autorizadas expressamente por deliberação do CGPPP, o qual analisará a presença do interesse público no caso, poderão apresentar manifestação de interesse para inclusão de Projetos no Programa Municipal de Parceria Público-Privada, nos termos definidos no regulamento.<br>
+§ 1º. Pessoas físicas ou jurídicas não pertencentes à Administração Pública direta ou indireta, desde que autorizadas expressamente por deliberação do CGPPP, o qual analisará a presença do interesse público no caso, poderão apresentar manifestação de interesse para inclusão de Projetos no Programa Municipal de Parceria Público-Privada, nos termos definidos no regulamento.
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-§ 2ª. Caberá ao CGPPP analisar e aprovar as propostas preliminares, previstas no caput, e manifestações de interesse, de que trata o parágrafo primeiro, dando ciência da deliberação ao proponente e permitindo a apresentação de projeto por este e demais interessados, nos termos do regulamento.<br>
+§ 2ª. Caberá ao CGPPP analisar e aprovar as propostas preliminares, previstas no caput, e manifestações de interesse, de que trata o parágrafo primeiro, dando ciência da deliberação ao proponente e permitindo a apresentação de projeto por este e demais interessados, nos termos do regulamento.
+
 (Redação acrescentada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~Parágrafo único. Os projetos aprovados pelo CGPPP integrarão o Plano Municipal de Parcerias Público-Privadas.<br>
+~~Parágrafo único. Os projetos aprovados pelo CGPPP integrarão o Plano Municipal de Parcerias Público-Privadas.
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 Art. 24. Fica criado o Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP, com competência para:
 
-I – elaborar o Programa Municipal de Parceria Público-Privada – PPP, expondo os objetivos, as áreas e os serviços prioritários para execução de parceria público-privada e definir os critérios para subsidiar a análise sobre a conveniência e oportunidade de contratação sob esse regime;<br>
+I – elaborar o Programa Municipal de Parceria Público-Privada – PPP, expondo os objetivos, as áreas e os serviços prioritários para execução de parceria público-privada e definir os critérios para subsidiar a análise sobre a conveniência e oportunidade de contratação sob esse regime;
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~I – elaborar, anualmente, o Programa Municipal de Parceria Público-Privada – PPP, expondo os objetivos, as áreas e os serviços prioritários para execução de parceria público-privada e definir os critérios para subsidiar a análise sobre a conveniência e oportunidade de contratação sob esse regime;~~
@@ -343,12 +360,14 @@ IX – estabelecer os procedimentos e requisitos dos projetos de parceria públi
 
 X – estabelecer os procedimentos básicos para acompanhamento e avaliação periódicos dos contratos de parceria público-privada;
 
-XI – fiscalizar a execução das parcerias público privadas, de maneira complementar e sem prejuízo da fiscalização realizada pelo órgão da administração direta ou indireta em suas áreas de competência, nos termos do art. 30 desta Lei;<br>
+XI – fiscalizar a execução das parcerias público privadas, de maneira complementar e sem prejuízo da fiscalização realizada pelo órgão da administração direta ou indireta em suas áreas de competência, nos termos do art. 30 desta Lei;
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~XI – fiscalizar a execução das parcerias público-privadas;~~
 
-XII – apreciar e aprovar os relatórios semestrais de execução de contratos de parceria público-provada, enviados pelas Secretarias e agências reguladoras, e suas áreas de competência;<br>
+XII – apreciar e aprovar os relatórios semestrais de execução de contratos de parceria público-provada, enviados pelas Secretarias e agências reguladoras, e suas áreas de competência;
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~XII – apreciar e aprovar os relatórios semestrais de execução de contratos de parceria público-privada, enviados pelas Secretarias e entidades reguladoras, em suas áreas de competência;~~
@@ -363,7 +382,8 @@ XVI – expedir resoluções necessárias ao exercício de sua competência;
 
 XVII – elaborar seu regimento interno; e
 
-~~XVIII – autorizar a utilização dos recursos do Fundo de Garantia de Parcerias Público-Privada – FGPPPM como garantia das obrigações pecuniárias contraídas pela Administração Pública em contrato de Parceria Público-Privada.<br>
+~~XVIII – autorizar a utilização dos recursos do Fundo de Garantia de Parcerias Público-Privada – FGPPPM como garantia das obrigações pecuniárias contraídas pela Administração Pública em contrato de Parceria Público-Privada.
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 § 1º. A análise e aprovação de projetos de Parceria Público-Privada pelo CGPP dependerão:
@@ -372,12 +392,14 @@ I – da manifestação da Secretaria da Fazenda do Município acerca da viabili
 
 II – da manifestação da Secretaria de Planejamento sobre o mérito do projeto.
 
-III – da manifestação de outras secretarias, de acordo com a pertinência temática do projeto.<br>
+III – da manifestação de outras secretarias, de acordo com a pertinência temática do projeto.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~§ 1º. A análise e aprovação de projetos de Parceria Público-Privada pelo CGPPP dependerão de manifestação, prévia e concomitante, do órgão ou entidade interessada, instruído com o estudo técnico, com a proposta de edital de licitação e o respectivo contrato, após a realização de consulta pública, na forma do regulamento.~~
 
-§ 2º. Os projetos aprovados em reunião aberta a qualquer interessado, com data e horário publicados com no mínimo 10 (dez) dias de antecedência pelo CGPPP, integrarão o Programa Municipal de Parcerias Público-Provadas, cujas cópias dos projetos serão encaminhadas à Câmara Municipal e ao Tribunal de Contas dos Municípios do Estado de Goiás.<br>
+§ 2º. Os projetos aprovados em reunião aberta a qualquer interessado, com data e horário publicados com no mínimo 10 (dez) dias de antecedência pelo CGPPP, integrarão o Programa Municipal de Parcerias Público-Provadas, cujas cópias dos projetos serão encaminhadas à Câmara Municipal e ao Tribunal de Contas dos Municípios do Estado de Goiás.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~§ 2º. As manifestações deverão, segundo atribuições a serem definidas no regulamento, analisar:~~
@@ -402,45 +424,56 @@ Art. 25 - O Comitê Gestor de Parcerias Público-Privadas do Município de Apare
 
 Art. 25. O Comitê Gestor de Parcerias Público-Privadas do Município de Aparecida de Goiânia – CGPPP, diretamente subordinado ao Chefe do Executivo, é integrado pelos seguintes membros:
 
-I – 08 (oito) membros do Poder Executivo, de livre nomeação pelo Prefeito;<br>
+I – 08 (oito) membros do Poder Executivo, de livre nomeação pelo Prefeito;
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~I – Secretário Municipal de Governo e Integração Institucional;~~
 
-II – 03 (três) membros do Poder Legislativo, indicados pelo Presidente da Câmara Municipal. <br>
+II – 03 (três) membros do Poder Legislativo, indicados pelo Presidente da Câmara Municipal. 
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~II – Secretário Municipal de Administração e Recursos Humanos;~~
 
-~~III – Secretário Municipal de Desenvolvimento Urbano;<br>
+~~III – Secretário Municipal de Desenvolvimento Urbano;
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~IV – Secretário Municipal de Fazenda;<br>
+~~IV – Secretário Municipal de Fazenda;
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~V – Secretário Municipal de Infraestrutura e Obras;~~<br>
+~~V – Secretário Municipal de Infraestrutura e Obras;~~
+
 (Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~VI – Secretário Municipal de Planejamento;<br>
+~~VI – Secretário Municipal de Planejamento;
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~VII – Secretário Municipal de Licitação e Compras;<br>
+~~VII – Secretário Municipal de Licitação e Compras;
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~VIII – o Procurador-Geral do Município; e<br>
+~~VIII – o Procurador-Geral do Município; e
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~IX – 03 (três) representantes que compõem o Poder Legislativo Municipal.<br>
+~~IX – 03 (três) representantes que compõem o Poder Legislativo Municipal.
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 § 1º. A estruturação, a organização e as deliberações do CGPPP serão regulamentadas mediante decreto.
 
-§ 2°. A Presidência do Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP será de livre nomeação pelo Prefeito;<br>
+§ 2°. A Presidência do Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP será de livre nomeação pelo Prefeito;
+
 (Redação alterada pela Lei Ordinária nº 3.155, de 24 de junho de 2021).
 
 ~~§ 2º. A Presidência do Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP caberá ao Secretário Municipal de Governo e Integração Institucional.~~
 
-§ 3º - Os membros titulares do CGPPP poderão ser substituídos, nas suas ausências ou impedimentos, a qualquer momento, sendo os substitutos dos 08 (oito) membros do Poder Executivo indicados e nomeados pelo Prefeito e dos 03 (três) Vereadores indicados pelo Presidente da Câmara Municipal, nos moldes dos incisos I e II do caput.<br>
+§ 3º - Os membros titulares do CGPPP poderão ser substituídos, nas suas ausências ou impedimentos, a qualquer momento, sendo os substitutos dos 08 (oito) membros do Poder Executivo indicados e nomeados pelo Prefeito e dos 03 (três) Vereadores indicados pelo Presidente da Câmara Municipal, nos moldes dos incisos I e II do caput.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~§ 3º. Os membros do CGPPP deverão indicar seus respectivos substitutos na reunião de instalação do Comitê, podendo os mesmos ser substituídos, nas suas ausências ou impedimentos, a qualquer momento, desde que esta troca conste em ata.~~
@@ -453,7 +486,8 @@ II – 03 (três) membros do Poder Legislativo, indicados pelo Presidente da Câ
 
 § 7º. É vedado ao membro do CGPPP valer-se de informação sobre processo de parceria ainda não divulgado para obter vantagem, para si ou para terceiros.
 
-§ 8º - A relação dos projetos de parceria público-privada aprovados pelo CGPPP deverá ser publicada no órgão oficial de divulgação dos atos do Município e por meio eletrônico, mediante ata que conterá, entre outras, a justificativa quanto à sua inclusão no Programa de PPP e dados sobre a sua execução.<br>
+§ 8º - A relação dos projetos de parceria público-privada aprovados pelo CGPPP deverá ser publicada no órgão oficial de divulgação dos atos do Município e por meio eletrônico, mediante ata que conterá, entre outras, a justificativa quanto à sua inclusão no Programa de PPP e dados sobre a sua execução.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~§ 8º. A relação dos projetos de parcerias público-privadas aprovados pelo CGPPP deverá, anualmente, ser publicada no órgão oficial de divulgação dos atos do Município, em jornais de grande circulação e por meio eletrônico, mediante ata que conterá, entre outras, a definição de seus objetivos, as ações de governo, a justificativa quanto à sua inclusão e dados sobre a execução do projeto.~~
@@ -464,19 +498,22 @@ II – 03 (três) membros do Poder Legislativo, indicados pelo Presidente da Câ
 
 ~~Art. 26. O órgão ou a entidade da Administração Pública, nas suas respectivas áreas de competência, interessada em participar do Programa Municipal de Parceria Público-Privada encaminhará o respectivo projeto, nos termos e nos prazos previstos em regulamento, à apreciação do CGPPP.~~
 
-~~Parágrafo único. Os projetos aprovados pelo CGPPP integrarão o Programa Municipal de Parceria Público-Privada.<br>
+~~Parágrafo único. Os projetos aprovados pelo CGPPP integrarão o Programa Municipal de Parceria Público-Privada.
+
 ~~(Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 Art. 27. O Município somente poderá contratar parceria público-privada quando a soma das despesas de caráter continuado, derivadas do conjunto de parcerias já contratadas, não tiver excedido, no ano anterior, a 1% (um por cento) da receita corrente líquida do exercício e quando as despesas anuais dos contratos vigentes, nos 10 (dez) anos subsequentes, não excedam a 1% (um por cento) da receita corrente líquida projetada para os respectivos exercícios.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO FUNDO DE GARANTIA DE PARCERIA PÚBLICO-PRIVADA MUNICIPAL
 
 Art. 28. Fica o Poder Executivo autorizado a instituir o Fundo de Garantia de Parceria Público-Privada Municipal – FGPPPM, de natureza privada, do qual poderão participar, além do próprio Município, suas autarquias, fundações públicas e empresas estatais, que terá por finalidade prestar garantia de pagamento de obrigações pecuniárias assumidas pelos parceiros públicos municipais em virtude das parcerias de que trata esta Lei de acordo com regulamento.
 
 § 1º. O FGPPPM terá patrimônio próprio separado do patrimônio dos cotistas, que será formado pelo aporte de bens e direitos realizado pelos cotistas, por meio da integralização de cotas e pelos rendimentos obtidos com sua administração, sujeito a direitos e obrigações próprios.
 
-§ 2º. A integralização das cotas poderá ser realizada através de dotações orçamentárias, inclusive com recursos de fundos municipais, o que inclui o Fundo de Participação Municipal (FPM), títulos da dívida pública, bens imóveis dominicais, bens móveis, inclusive ações da sociedade de economia mista excedentes ao necessário para a manutenção de seu controle pelo Município, ou outros direitos com valor patrimonial.<br>
+§ 2º. A integralização das cotas poderá ser realizada através de dotações orçamentárias, inclusive com recursos de fundos municipais, o que inclui o Fundo de Participação Municipal (FPM), títulos da dívida pública, bens imóveis dominicais, bens móveis, inclusive ações da sociedade de economia mista excedentes ao necessário para a manutenção de seu controle pelo Município, ou outros direitos com valor patrimonial.
+
 (Redação alterada pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
 ~~§ 2º. A integralização das cotas poderá ser realizada através de dotações orçamentárias, inclusive com recursos de fundos municipais, títulos da dívida pública, bens imóveis dominicais, bens móveis, inclusive ações de sociedade de economia mista excedentes ao necessário para a manutenção de seu controle pelo Município, ou outros direitos com valor patrimonial.~~
@@ -507,20 +544,24 @@ Art. 29. Poderão ser utilizados recursos dos fundos municipais para integraliza
 
 § 3º. Os saldos oriundos de fundos municipais incorporados ao FGPPPM serão devolvidos à origem, com todos os rendimentos, após a extinção da garantia a que se vinculam, deduzidas as despesas com sua administração.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA FISCALIZAÇÃO
 
 Art. 30. Nas suas respectivas competências, caberá aos órgãos reguladores e fiscalizadores o acompanhamento e a fiscalização dos contratos do Programa de Parceria Público-Privada – PPP, bem como de sua execução, em especial no tocante ao fiel cumprimento do contrato, à manutenção do equilíbrio econômico-financeiro, à eficiência e à justa competição.
 
 Art. 31. As Secretarias Municipais encaminharão ao Comitê Gestor de Parcerias Público-Privadas do Município de Aparecida de Goiânia – CGPPP, com periodicidade semestral, relatórios circunstanciados acerca da execução dos contratos de Parceria Público-Privada, sendo obrigatória a sua publicação no órgão oficial de divulgação dos atos do Município, em jornais de grande circulação e por meio eletrônico.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES FINAIS
 
-~~Art. 32. Os projetos de parcerias público-privadas serão objeto de consulta pública, com antecedência mínima de 37 (trinta e sete) dias da publicação do edital da respectiva licitação, mediante publicação de aviso no órgão oficial de divulgação dos atos do Município, em jornais de grande circulação e por meio eletrônico, no qual serão informadas as justificativas para a contratação, a identificação do objeto, o prazo de duração do contrato e seu valor estimado, fixando-se prazo de 30 (trinta) dias para o fornecimento de sugestões, cujo termo dar-se-á pelo menos com 07 (sete) dias de antecedência da data prevista para a publicação do edital.~~<br>
+~~Art. 32. Os projetos de parcerias público-privadas serão objeto de consulta pública, com antecedência mínima de 37 (trinta e sete) dias da publicação do edital da respectiva licitação, mediante publicação de aviso no órgão oficial de divulgação dos atos do Município, em jornais de grande circulação e por meio eletrônico, no qual serão informadas as justificativas para a contratação, a identificação do objeto, o prazo de duração do contrato e seu valor estimado, fixando-se prazo de 30 (trinta) dias para o fornecimento de sugestões, cujo termo dar-se-á pelo menos com 07 (sete) dias de antecedência da data prevista para a publicação do edital.~~
+
 (Revogado pela Lei Ordinária nº 3.381, de 21 de setembro de 2017).
 
-~~Art. 33. A Administração Pública somente poderá contratar Parceria Público-Privada quando a soma das despesas de caráter continuado derivadas do conjunto das parcerias já contratadas não tiver excedido, no ano anterior, a três por cento da receita corrente líquida do exercício e as despesas anuais dos contratos vigentes, nos dez anos subsequentes, não excedam a três por cento da receita corrente líquida projetada para os respectivos exercícios.~~<br>
+~~Art. 33. A Administração Pública somente poderá contratar Parceria Público-Privada quando a soma das despesas de caráter continuado derivadas do conjunto das parcerias já contratadas não tiver excedido, no ano anterior, a três por cento da receita corrente líquida do exercício e as despesas anuais dos contratos vigentes, nos dez anos subsequentes, não excedam a três por cento da receita corrente líquida projetada para os respectivos exercícios.~~
+
 (Revogado pela Lei Ordinária nº 3.218, de 15 de setembro de 2014).
 
 Art. 34. A Administração Pública deverá declarar, de utilidade pública, área, local ou bem que sejam adequados ao desenvolvimento de atividades inerentes, acessórias ou complementares ao objeto do contrato de parceria público-privada e à implementação de projeto associado, bem como promover diretamente a sua desapropriação.
@@ -539,8 +580,10 @@ Art. 39. Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 30 dias do mês de dezembro de dois mil e treze.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional

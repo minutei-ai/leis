@@ -1,5 +1,3 @@
-###DEC-058527-0-000-27-05-1966@@@
-
 DECRETO Nº 58.527, DE 27 DE MAIO DE 1966.
 
 Autoriza a Magnesita S. A. a pesquisar argilas no município de Esmeralda, Estado de Minas Gerais.

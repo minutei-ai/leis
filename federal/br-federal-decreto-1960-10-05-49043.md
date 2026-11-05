@@ -1,5 +1,3 @@
-###DEC-049043-0-000-05-10-1960@@@
-
 DECRETO Nº 49.043, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza S A Mineração Jerônimo Rosado a pesquisar gipsita no município de Bodocó, Estado de Pernambuco.

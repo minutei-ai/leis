@@ -1,5 +1,3 @@
-###DEC-047414-0-000-11-12-1959@@@
-
 Decreto nº 47.414, de 11 de dezembro de 1959.
 
 Altera a redação da alínea d do artigo 23 do Regulamento para a Diretoria de Hidrografia e Navegação.

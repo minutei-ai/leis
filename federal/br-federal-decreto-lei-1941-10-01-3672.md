@@ -1,5 +1,3 @@
-###DEL-003672-0-000-01-10-1941@@@
-
 Decreto-LeI N. 3.672 – de 1 de OUTUBRO de 1941
 
  Regula o regime de combate à malária em todo o país

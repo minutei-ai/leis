@@ -1,5 +1,3 @@
-###DEC-046855-0-000-15-09-1959@@@
-
 decreto nº 46.855, de 15 de setembro de 1959.
 
 Transfere da Energia, Indústria e Comércio Ltda. para a S.A. Industria e Comércio Concórdia a concessão para a produção e fornecimento de energia elétrica na sede do município de Concórdia, Estado de Santa Catarina.

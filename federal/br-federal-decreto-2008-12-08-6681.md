@@ -1,5 +1,3 @@
-###DEC-006681-0-000-08-12-2008@@@
-
 DECRETO Nº 6.681, DE 8 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo de Cooperação e Auxílio Jurídico Mútuo em Matéria Penal entre a República Federativa do Brasil e o Reino da Espanha, celebrado em Brasília, em 22 de maio de 2006.

@@ -1,5 +1,3 @@
-###DEC-070305-0-000-21-03-1972@@@
-
 DECRETO Nº 70.305, DE 21 DE MARÇO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro de Pessoal do Ministério da Marinha.

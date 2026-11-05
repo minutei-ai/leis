@@ -1,5 +1,3 @@
-###DEC-006303-0-000-12-12-2007@@@
-
 DECRETO Nº 6.303, DE 12 DE DEZEMBRO DE 2007.
 
 Altera dispositivos dos Decretos nos 5.622, de 19 de dezembro de 2005, que estabelece as diretrizes e bases da educação nacional, e 5.773, de 9 de maio de 2006, que dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e seqüenciais no sistema federal de ensino.
@@ -187,5 +185,3 @@ Brasília, 12 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 13.12.2007

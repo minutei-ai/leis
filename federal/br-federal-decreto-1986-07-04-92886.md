@@ -1,5 +1,3 @@
-###DEC-092886-0-000-04-07-1986@@@
-
 DECRETO Nº 92.886, DE 4 DE JULHO DE 1986
 
 Autoriza o aumento do Capital Social da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

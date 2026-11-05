@@ -1,5 +1,3 @@
-###MPV-000522-0-000-12-01-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 522, DE 12 DE JANEIRO DE 2011
 
 Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da Integração  Nacional, no valor global de R$ 780.000.000,00, para os fins que especifica.

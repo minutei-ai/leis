@@ -1,5 +1,3 @@
-###DEL-001947-0-000-29-06-1982@@@
-
 # Decreto nº 1.947, de 29 de junho de 1982
 
 Autoriza a elevação do capital do Banco Nacional do Desenvolvimento Econômico e Social - BNDES e dá outras providências.

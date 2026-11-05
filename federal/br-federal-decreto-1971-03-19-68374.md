@@ -1,5 +1,3 @@
-###DEC-068374-0-000-19-03-1971@@@
-
 DECRETO Nº 68.374, DE 19 DE MARÇO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Tecnologia de Sorocaba com o Curso Técnico Superior de Oficinas.

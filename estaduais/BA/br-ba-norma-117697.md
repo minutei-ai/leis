@@ -1,6 +1,7 @@
 LEI Nº 4.834 DE 24 DE FEVEREIRO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.629](https://www.legislabahia.ba.gov.br/documentos/lei-no-12629-de-04-de-janeiro-de-2013#LO%2012.629) de 04 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade do Velho Chico, na forma da Lei 12.057/2011, a saber: Barra, Bom Jesus da Lapa, Carinhanha, Feira da Mata, Ibotirama, Igaporã, Malhada, Matina, Morpará, Muquém do São Francisco, Oliveira dos Brejinhos, Paratinga, Riacho de Santana, Serra do Ramalho e Sítio do Mato.
 
 &nbs

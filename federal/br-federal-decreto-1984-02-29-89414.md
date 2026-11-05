@@ -1,5 +1,3 @@
-###DEC-089414-0-000-29-02-1984@@@
-
 # Decreto nº 89.414, de 29 de fevereiro de 1984
 
 Aprova o Regulamento do Departamento de Pesquisas e Desenvolvimento e dá outras Providências.

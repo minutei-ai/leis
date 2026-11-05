@@ -1,5 +1,3 @@
-###DEC-047118-0-000-27-10-1959@@@
-
 DECRETO Nº 47.118, DE 27 DE OUTUBRO DE 1959.
 
 Concede à Companhia Mineração Meteoro autorização para funcionar como emprêsa de Mineração.

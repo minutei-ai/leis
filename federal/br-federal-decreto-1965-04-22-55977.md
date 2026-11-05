@@ -1,5 +1,3 @@
-###DEC-055977-0-000-22-04-1965@@@
-
 DECRETO Nº 55.977, DE 22 DE ABRIL DE 1965.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

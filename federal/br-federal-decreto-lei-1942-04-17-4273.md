@@ -1,5 +1,3 @@
-###DEL-004273-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.273 – DE 17 DE ABRIL DE 1942
 
 Dispõe sobre a licença prévia para exportação de certos produtos, e dá outras providências

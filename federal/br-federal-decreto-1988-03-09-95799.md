@@ -1,7 +1,3 @@
-1
-
-###DEC-095799-0-000-09-03-1988@@@
-
 DECRETO N° 95.799, DE 9 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Guampo", classificado como latifúndio por exploração, situado no Município de Conceição do Araguaia, no Estado do Pará compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 2 de maio de 1986, e dá outras providências.

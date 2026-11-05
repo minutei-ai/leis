@@ -10,11 +10,27 @@ Art. 1º - Fica desmembrado o Lote 28 da Quadra 10 do Loteamento INTERNACIONAL P
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">Lote 28</td><td style="text-align:center">360,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+Lote 28
+
+360,00
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEIS</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">Lote 28A</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">Lote 28B</td><td style="text-align:center">180,00</td></tr></tbody></table>
+IMÓVEIS
+
+ÁREA (m²)
+
+Lote 28A
+
+180,00
+
+Lote 28B
+
+180,00
 
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024118527, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -22,8 +38,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 13 de junho de 2024.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

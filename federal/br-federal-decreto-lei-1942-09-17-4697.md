@@ -1,5 +1,3 @@
-###DEL-004697-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.697 – DE 17 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 20:000$0, à verba que especifica

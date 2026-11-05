@@ -1,5 +1,3 @@
-###DEC-076046-0-000-29-07-1975@@@
-
 DECRETO Nº 76.046 - DE 29 DE JULHO DE 1975.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra situada nos Municípios de Jucurutu, Janduis, Parau, São Rafael, Santana do Matos, Ipanguaçu, Açu, Afonso Bezerra, Carnaubais, Alto Rodrigues e Pendência, no Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-046518-0-000-24-07-1959@@@
-
 DECRETO Nº 46.518, DE 24 DE JULHO DE 1959.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$7.408.000,00 para o fim que especifica.

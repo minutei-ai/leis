@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.289, de 27 de Dezembro de 2023.](https://legis.ac.gov
 
 > **LEI Nº 4.108, DE 13 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação de um imóvel ao Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação de um imóvel ao Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -15,8 +19,6 @@ Modificada pela Lei nº [4.289, de 27 de Dezembro de 2023.](https://legis.ac.gov
 **Art. 2°** A presente doação possui como encargo a construção de um prédio com recursos próprios do ACREPREVIDÊNCIA, para fins de locação.
 
 **Art. 3º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco - Acre, 13 de junho de 2023, 135º da República, 121º do Tratado de Petrópolis e 62º do Estado do Acre. 
 

@@ -1,5 +1,3 @@
-###MPV-001959-0-028-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.959-28, DE 23 de novembro de 2000.
 
 Altera dispositivos da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

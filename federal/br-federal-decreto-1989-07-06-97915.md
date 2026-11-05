@@ -1,7 +1,3 @@
-1
-
-###DEC-097915-0-000-06-07-1989@@@
-
 DECRETO N° 97.915, DE 6 DE JULHO DE 1989
 
 Dispõe sobre o valor do salário-mínimo, na forma da Lei n° 7.789, de 3 de julho de 1989.

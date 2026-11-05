@@ -1,5 +1,3 @@
-###MPV-001707-0-002-28-08-1998@@@
-
 MEDIda PROVISÓRiA Nº 1.707-2, DE 28 DE AGOSto DE 1998
 
 Dispõe sobre critérios especiais para alienação de imóveis de propriedade do Instituto Nacional do Seguro Social - INSS e dá outras providências.

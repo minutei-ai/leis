@@ -1,5 +1,3 @@
-###DEC-072710-0-000-28-08-1973@@@
-
 DECRETO Nº 72.710, DE 28 DE AGOSTO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

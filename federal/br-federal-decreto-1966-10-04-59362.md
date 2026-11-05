@@ -1,5 +1,3 @@
-###DEC-059362-0-000-04-10-1966@@@
-
 DECRETO Nº 59.362, DE 4 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel destinado à ampliação das instalações da Faculdade de Odontologia de Pelotas, da Universidade Federal do Rio Grande do Sul.

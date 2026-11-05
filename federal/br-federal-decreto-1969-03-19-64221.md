@@ -1,5 +1,3 @@
-###DEC-064221-0-000-19-03-1969@@@
-
 DECRETO Nº 64.221, DE 19 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Ginásio Cristo Rei, com sede em Uberlândia, Estado de Minas Gerais.

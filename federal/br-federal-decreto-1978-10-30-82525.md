@@ -1,5 +1,3 @@
-###DEC-082525-0-000-30-10-1978@@@
-
 Decreto nº 82 525, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Engenharia de Operação de Santo Ângelo, mantida pela Fundação Missioneira de Ensino Superior, com sede em Santo Ângelo, Rio Grande do Sul.

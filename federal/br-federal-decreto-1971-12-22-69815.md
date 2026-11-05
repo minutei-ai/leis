@@ -1,5 +1,3 @@
-###DEC-069815-0-000-22-12-1971@@@
-
 decreto nº 69.815 - de 22 DE DEZEMBRO de 1971
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras na cidade de Volta Redonda, Rio de Janeiro.

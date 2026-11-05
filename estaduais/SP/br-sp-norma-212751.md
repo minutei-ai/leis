@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212751)<br>
-
 # DECRETO N° 70.686, DE 16 DE JUNHO DE 2026
 
 ### _Altera o Decreto n° 66.173, de 26 de outubro de 2021, e dá providências correlatas._

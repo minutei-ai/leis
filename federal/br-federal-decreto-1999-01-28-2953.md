@@ -1,5 +1,3 @@
-###DEC-002953-0-000-28-01-1999@@@
-
 DECRETO Nº 2.953, DE 28 DE JANEIRO DE 1999.
 
 Dispõe sobre o procedimento administrativo para aplicação de penalidades por infrações cometidas nas atividades relativas à indústria do petróleo e ao abastecimento nacional de combustíveis, e dá outras providências.

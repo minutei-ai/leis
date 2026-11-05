@@ -1,5 +1,3 @@
-###DEC-054593-0-000-26-10-1964@@@
-
 DECRETO Nº 54.593, DE 26 DE OUTUBRO DE 1964.
 
 Transfere da Central Elétrica do Piau S.A. para Centrais Elétrica de Minas Gerais S.A. (CEMIG) a concessão para produzir energia elétrica no Estado de Minas Gerais.

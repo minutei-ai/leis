@@ -1,5 +1,3 @@
-###DEC-056094-0-000-26-04-1965@@@
-
 decreto nº 56.094, de 26 de abril de 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros Aliança da Bahia, relativa ao aumento do capital social.

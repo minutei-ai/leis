@@ -1,5 +1,3 @@
-###DEC-051904-A-000-19-04-1963@@@
-
 DECRETO Nº 51.904-A, de 19 de abril de 1963.
 
 Cria a Comissão de Obras do Grupamento de Elementos de Fronteira, com sede em Manáus.

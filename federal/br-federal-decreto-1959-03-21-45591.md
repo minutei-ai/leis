@@ -1,5 +1,3 @@
-###DEC-045591-0-000-21-03-1959@@@
-
 DECRETO Nº 45.591, DE 21 DE MARÇO DE 1959.
 
 Dispõe sôbre o pagamento das contribuições escolares para o corrente ano.

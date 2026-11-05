@@ -1,5 +1,3 @@
-###DEC-064963-0-000-07-08-1969@@@
-
 DECRETO Nº 64.963 - DE 7 DE AGôSTO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras situadas no Estado da Guanabara.

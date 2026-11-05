@@ -1,5 +1,3 @@
-###MPV-002170-0-034-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.170‑34, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004593-0-000-18-08-1942@@@
-
 DECRETO-LEI N. 4.593 – DE 18 DE AGOSTO DE 1942
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de 5:000$0 à verba que especifica

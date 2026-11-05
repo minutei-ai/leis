@@ -1,14 +1,12 @@
-###DEC-032310-0-000-24-02-1953@@@
+**DECRETO N° 32.310, DE 24 DE FEVEREIRO DE 1953.**
 
-<strong>DECRETO N° 32.310, DE 24 DE FEVEREIRO DE 1953.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias à formação de bacia de acumulação do rio Jaguari, estado de Minas Gerais, e autoriza a Emprêsa Elétrica Bragantina S. A. a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias à formação de bacia de acumulação do rio Jaguari, estado de Minas Gerais, e autoriza a Emprêsa Elétrica Bragantina S. A. a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o dispôsto no Decreto-lei n° 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o dispôsto no Decreto-lei n° 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1° Ficam declarados de utilidade pública, as seguintes áreas de terra necessárias à formação de bacia de acumulação do rio Jaguari, no Estado de Minas Gerais, e constantes de planta aprovada pelo Ministro da Agricultura:
+**Art**. 1° Ficam declarados de utilidade pública, as seguintes áreas de terra necessárias à formação de bacia de acumulação do rio Jaguari, no Estado de Minas Gerais, e constantes de planta aprovada pelo Ministro da Agricultura:
 
 1 - Área de 17.104,95m<sup>2</sup> de propriedade atribuída a João Rosa;
 
@@ -106,14 +104,14 @@
 
 48 - Área de 13.179.23m<sup>2</sup> de propriedade atribuída a Joaquim Alves de Almeida;
 
-<strong>Art</strong>. 2° A Emprêsa Elétrica Bragantina S. A. fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento no artigo 151, alínea “<em>a</em>” e “<em>b</em>” do código de Águas e nos artigos 3° e 5° alínea “<em>f</em>” do Decreto-lei n° 3.365, de 21 de junho de 1941.
+**Art**. 2° A Emprêsa Elétrica Bragantina S. A. fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento no artigo 151, alínea “*a*” e “*b*” do código de Águas e nos artigos 3° e 5° alínea “*f*” do Decreto-lei n° 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 3° - O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3° - O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4° - Revogam-se as disposições em contrário.
+**Art**. 4° - Revogam-se as disposições em contrário.
 
 Rio de janeiro, 24 de fevereiro de 1953; 132° da Independência e 65° da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

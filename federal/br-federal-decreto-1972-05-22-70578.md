@@ -1,5 +1,3 @@
-###DEC-070578-0-000-22-05-1972@@@
-
 decreto nº 70.578, de 22 de maio de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Alfenas - M. G.

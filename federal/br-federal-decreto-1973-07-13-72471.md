@@ -1,5 +1,3 @@
-###DEC-072471-0-000-13-07-1973@@@
-
 DECRETO Nº 72.471, DE 13 DE JULHO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Difusora de Amparo Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Amparo, Estado de São Paulo.

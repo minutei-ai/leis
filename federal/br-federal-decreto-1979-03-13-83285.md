@@ -1,5 +1,3 @@
-###DEC-083285-0-000-13-03-1979@@@
-
 Decreto nº 83.285, de 13 de março de 1979
 
 Outorga à Prefeitura Municipal de Poços de Caldas concessão para o aproveitamento da energia hidráulica de um trecho do rio das Antas, o Município de Poços de Caldas, Estado de minas Gerais.

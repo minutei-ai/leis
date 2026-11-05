@@ -1,5 +1,3 @@
-###DEL-006404-0-000-05-04-1944@@@
-
 DECRETO-LEI N. 6.404 – DE 5 DE ABRIL DE 1944
 
 Revigora, no presente ano, o Decreto-lei nº 3.143, da 25 de março de 1941

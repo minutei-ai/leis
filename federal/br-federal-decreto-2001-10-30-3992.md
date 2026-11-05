@@ -1,5 +1,3 @@
-###DEC-003992-0-000-30-10-2001@@@
-
 DECRETO Nº 3.992, DE 30 DE OUTUBRO DE 2001
 
 Dispõe sobre o Conselho Nacional de Desenvolvimento Rural Sustentável - CNDRS e dá outras providências.

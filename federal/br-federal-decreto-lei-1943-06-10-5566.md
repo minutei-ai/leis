@@ -1,5 +1,3 @@
-###DEL-005566-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5.566 – DE 10 DE JUNHO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 80. 000,00, à verba que especifica

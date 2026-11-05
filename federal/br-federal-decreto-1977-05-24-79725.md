@@ -1,5 +1,3 @@
-###DEC-079725-0-000-24-05-1977@@@
-
 DECRETO Nº 79.725, DE 24 DE MAIO DE 1977.
 
 Declara perempta a concessão outorgada à Rádio Sociedade Guairacá Ltda., cuja denominação foi posteriormente alterada para Rádio Iguaçu de Curitiba Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Curitiba, Estado do Paraná.

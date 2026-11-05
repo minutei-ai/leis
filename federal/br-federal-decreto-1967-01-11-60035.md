@@ -1,5 +1,3 @@
-###DEC-060035-0-000-11-01-1967@@@
-
 decreto nº 60.035, de 11 de janeiro de 1967.
 
 Autoriza estrangeiros a adquirirem, em constituição de aforamento, o domínio útil do terreno acrescido de marinha quer menciona, no estado da Guanabara.

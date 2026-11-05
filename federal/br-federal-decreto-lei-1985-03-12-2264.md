@@ -1,5 +1,3 @@
-###DEL-002264-0-000-12-03-1985@@@
-
 # DECRETO-LEI Nº 2.264, DE 12 DE MARÇO DE 1985.
 
 Dispõe sobre a venda de bens imóveis pelo Ministério da Fazenda, com aplicação do produto da operação em empreendimentos do seu interesse e dá outras providências.

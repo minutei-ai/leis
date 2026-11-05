@@ -1,5 +1,3 @@
-###DEC-056148-0-000-27-04-1965@@@
-
 DECRETO Nº 56.148, DE 27 DE ABRIL DE 1965.
 
 Cancela a autorização concedida, a Transmar S.A. - Transportes Marítimos, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

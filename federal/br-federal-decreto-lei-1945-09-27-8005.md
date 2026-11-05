@@ -1,5 +1,3 @@
-###DEL-008005-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.005 – DE 27 DE SETEMBRO DE 1945
 
 Altera a redação do art. 1º do Decreto-lei nº 7.199, de 28 de dezembro de 1944

@@ -1,5 +1,3 @@
-###DEC-056823-0-000-01-09-1965@@@
-
 DECRETO Nº 56.823, de 1 de setembro de 1965.
 
 Altera o decreto nº 47.445, de 17 de dezembro de 1959, para atender funcionamento transitório da Seção de Segurança Nacional do Ministério da Viação e Obras Públicas.

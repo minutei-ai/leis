@@ -1,5 +1,3 @@
-###DEC-084879-0-000-08-07-1980@@@
-
 Decreto nº 84.879, de 08 de julho de 1980
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO URUBUPUNGÁ LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Andradina, Estado de São Paulo.

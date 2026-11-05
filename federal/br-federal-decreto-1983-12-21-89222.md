@@ -1,5 +1,3 @@
-###DEC-089222-0-000-21-12-1983@@@
-
 Decreto nº 89.222, de 21 de dezembro de 1983
 
 Dispõe sobre o limite do Capital Autorizado da PETROQUÍMICA UNIÃO S.A.

@@ -1,5 +1,3 @@
-###DEC-091205-0-000-29-04-1985@@@
-
 Decreto nº 91.205, de 29 de abril de 1985
 
 Dá nova redação a dispositivos do Decreto nº 88.513, de 13 de julho de 1983 que dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito Cerimonial Militar das Forças Armadas.

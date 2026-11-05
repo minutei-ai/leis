@@ -1,5 +1,3 @@
-###DEL-005875-0-000-02-10-1943@@@
-
 DECRETO‑LEI N. 5.875 – DE 2 DE OUTUBRO DE 1943
 
 Cria cargos e abre credito ao Ministério da Fazenda

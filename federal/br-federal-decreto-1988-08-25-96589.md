@@ -1,5 +1,3 @@
-###DEC-096589-0-000-25-08-1988@@@
-
 DECRETO N° 96.589, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO E TELEVISÃO GRANDE RIO FM STÉREO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Petrolina, Estado de Pernambuco.

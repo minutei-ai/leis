@@ -1,5 +1,3 @@
-###DEC-099558-0-000-05-10-1990@@@
-
 DECRETO N° 99.558, DE 5 DE OUTUBRO DE 1990
 
 Promulga o Acordo de Cooperação Cultural e Científica, entre a República Federativa do Brasil e a República Popular de Angola.

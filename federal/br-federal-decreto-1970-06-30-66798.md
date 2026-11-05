@@ -1,5 +1,3 @@
-###DEC-066798-0-000-30-06-1970@@@
-
 DECRETO Nº 66.798 - DE 30 DE JUNHO DE 1970
 
 Declara de utilidade pública a Associação de Caridade "Proteção à Maternidade e à Infância de Rio Negro", com sede em Rio Negro, Estado do Paraná.

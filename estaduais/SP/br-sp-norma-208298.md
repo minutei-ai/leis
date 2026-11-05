@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208298)<br>
-
 # DECRETO N° 67.819, DE 19 DE JULHO DE 2023
 
 ### _Dá nova redação ao dispositivo que especifica do n° 67.435, de 1° de janeiro de 2023._

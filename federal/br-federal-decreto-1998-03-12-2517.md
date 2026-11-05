@@ -1,5 +1,3 @@
-###DEC-002517-0-000-12-03-1998@@@
-
 DECRETO Nº 2.517, DE 12 DE MARÇO DE 1998
 
 Promulga o Acordo, por Troca de Notas, Relativo a um Empréstimo Japonês Concedido aos Estados de Santa Catarina, Paraná, Bahia e Ceará para Projetos Ambientais, celebrado entre o Governo da República Federativa do Brasil e o Governo do Japão, em Brasília, em 26 de agosto de 1996.

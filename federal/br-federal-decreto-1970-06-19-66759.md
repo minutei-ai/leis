@@ -1,5 +1,3 @@
-###DEC-066759-0-000-19-06-1970@@@
-
 DECRETO Nº 66.759 - DE 19 de JUNHO DE 1970
 
 Define atribuições do Conselho Nacional da Indústria Siderúrgica - CONSIDER, e dá outras providências.

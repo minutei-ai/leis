@@ -1,5 +1,3 @@
-###DEL-007307-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.307 – DE 8 DE FEVEREIRO DE 1945
 
 Reorganiza o Quadro Único do funcionalismo civil do Território do Acre

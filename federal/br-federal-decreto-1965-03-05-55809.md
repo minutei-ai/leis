@@ -1,5 +1,3 @@
-###DEC-055809-0-000-05-03-1965@@@
-
 decreto nº 55.809, de 5 de março de 1965.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição do algodão em pluma da região setentrional do país, da safra 1965.
@@ -12,7 +10,37 @@ Art. 1º Fica assegurada ao algodão em pluma da região setentrional do país, 
 
 a) preços para o algodão em pluma base FOB, posto armazéns adequados dos portos da região, por arrôba de 10 quilos líquidos, acondicionado em fardos com a densidade média de 600 quilos por metro cúbico, do tipo 3 das especificações aprovadas pelo Decreto nº 43.427, de 26 de março de 1958:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Fibras (comprimento comercial)</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38/40mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>12.125,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36/38mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>11.480,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34/36mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10.825,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32/34mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.815,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30/32mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.500,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28/30mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.175,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26/28mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8.845,00</span></p></td></tr></tbody></table>
+Fibras (comprimento comercial)
+
+Cr$
+
+38/40mm ........................................................................................................................
+
+12.125,00
+
+36/38mm ........................................................................................................................
+
+11.480,00
+
+34/36mm ........................................................................................................................
+
+10.825,00
+
+32/34mm ........................................................................................................................
+
+9.815,00
+
+30/32mm ........................................................................................................................
+
+9.500,00
+
+28/30mm ........................................................................................................................
+
+9.175,00
+
+26/28mm ........................................................................................................................
+
+8.845,00
 
 b) financiamento de até 80% (oitenta por cento) ou aquisição de produto em pluma aos preços e condições acima estipulados.
 
@@ -28,7 +56,37 @@ Art. 2º A fim de descentralizar e desburocratizar as operações de que trata o
 
 Art. 3º As operações a que alude o Art. 1º dêste decreto serão realizadas, de preferência, com os lavradores e suas cooperativas, podendo, todavia, ser estendidas a terceiros, desde que, além de atenderem às disposições decorrentes da Lei nº 4.303, de 23 de dezembro e 1963, de acordo com as percentagens aprovadas pelo Plenário da Comissão de Financiamento da Produção, comprovem mediante apresentação de documento hábil, haver efetuado suas aquisições de algodão em caroço, diretamente aos produtores ou suas cooperativas a preços nunca inferiores às bases seguintes, observadas, na classificação do produto, as especificações baixadas pelo Decreto nº 43.427, de 26 de março de 1958, tomado o tipo “3” ou “Bom” como referência.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Fibras (comprimento comercial)</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38/40mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.950,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36/38mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.730,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34/36mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.500,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32/34mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.155,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30/32mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.040,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28/30mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.925,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26/28mm ........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.815,00</span></p></td></tr></tbody></table>
+Fibras (comprimento comercial)
+
+Cr$
+
+38/40mm ........................................................................................................................
+
+3.950,00
+
+36/38mm ........................................................................................................................
+
+3.730,00
+
+34/36mm ........................................................................................................................
+
+3.500,00
+
+32/34mm ........................................................................................................................
+
+3.155,00
+
+30/32mm ........................................................................................................................
+
+3.040,00
+
+28/30mm ........................................................................................................................
+
+2.925,00
+
+26/28mm ........................................................................................................................
+
+2.815,00
 
 Art. 4º Os ágios e deságios para os tipos de algodão em pluma das classes mencionadas na alínea “a” do Art. 1º dêste Decreto e para os tipos de algodão em caroço superiores ou inferiores aos referidos no Art. 3º dêste Decreto serão estabelecidos em instruções a serem baixadas pela Comissão de Financiamento da Produção.
 

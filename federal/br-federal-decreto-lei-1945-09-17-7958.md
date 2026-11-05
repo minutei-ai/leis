@@ -1,5 +1,3 @@
-###DEL-007958-0-000-17-09-1945@@@
-
 DECRETO-LEI N. 7.958 – DE 17 DE SETEMBRO DE 1945
 
 Institui o Conservatório Normal de Teatro

@@ -1,5 +1,3 @@
-###DEC-056200-0-000-30-04-1965@@@
-
 DECRETO Nº 56.200, DE 30 DE ABRIL DE 1965.
 
 Altera o Regulamento de Promoções para Oficiais da Marinha, decreto nº 42.808, de 13 de dezembro de 1957.

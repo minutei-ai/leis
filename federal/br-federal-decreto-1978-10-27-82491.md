@@ -1,5 +1,3 @@
-###DEC-082491-0-000-27-10-1978@@@
-
 Decreto nº. 82 491, de 27 de outubro de 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia a crédito externo a ser contado pela Companhia Siderúrgica de Tubarão-CST.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097942-0-000-11-07-1989@@@
-
 DECRETO N° 97.942, DE 11 DE JULHO DE 1989
 
 Outorga concessão à RÁDIO E TELEVISÃO IMAGEM LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Paranavaí, Estado do Paraná.

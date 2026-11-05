@@ -309,7 +309,3 @@ Lucas Lopes
 Álvaro Cardoso de Menezes
 
 Jair Negrão de Lima
-
-\=============================
-
-Data da última atualização: 20/06/2011.

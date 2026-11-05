@@ -1,4 +1,5 @@
-DECRETO Nº 10.680, DE 16 DE ABRIL DE 2025<br>
+DECRETO Nº 10.680, DE 16 DE ABRIL DE 2025
+
 \- [Vide Instrução Normativa nº 2/2026](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/sgg/18754/instrucao-normativa-2) - (Regulamento expedido pela SGG).
 
 Estabelece as normas de contratação de soluções de tecnologia da informação e comunicação – TIC pela administração pública direta, autárquica e fundacional do Estado de Goiás.
@@ -17,7 +18,8 @@ Parágrafo único.  Aplicam-se subsidiariamente a este Decreto as normas estad
 
 TÍTULO II
 
-DAS DEFINIÇÕES<br>
+DAS DEFINIÇÕES
+
 \- [Vide Instrução Normativa nº 2/2026](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/sgg/18754/instrucao-normativa-2) - (Regulamento expedido pela SGG).
 
 Art. 2º Além das definições previstas no art. 6º da Lei nº 14.133, de 2021, para os fins deste Decreto também se consideram:
@@ -212,7 +214,8 @@ Art. 14. A participação e a adesão a atas de registro de preços gerenciadas 
 
 Parágrafo único.  As contratações realizadas como dispõe o _caput_ deste artigo poderão ser planejadas por estudo técnico preliminar simplificado, nos termos do art. 14 do [Decreto nº 10.207](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106716), de 2023.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \- [Vide Instrução Normativa nº 2/2026](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/sgg/18754/instrucao-normativa-2) - (Regulamento expedido pela SGG).
 
 DA ANÁLISE PRÉVIA DO PROCESSO DE CONTRATAÇÃO

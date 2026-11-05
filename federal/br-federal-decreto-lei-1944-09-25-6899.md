@@ -1,5 +1,3 @@
-###DEL-006899-0-000-25-09-1944@@@
-
 DECRETO-LEI N. 6.899 – DE 25 DE SETEMBRO DE 1944
 
 Cria a 1ª Companhia Leve de Manutenção

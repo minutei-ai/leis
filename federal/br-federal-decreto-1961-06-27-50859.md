@@ -1,5 +1,3 @@
-###DEC-050859-0-000-27-06-1961@@@
-
 Decreto nº 50.859, de 27 de junho de 1961.
 
 Renova a declaração e utilidade pública a que se refere o Decreto número 36.673 de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Jacaré dos Homens, no Município de Pão de Açúcar, Estado de Alagoas.

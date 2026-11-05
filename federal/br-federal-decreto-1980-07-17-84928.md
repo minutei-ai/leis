@@ -1,5 +1,3 @@
-###DEC-084928-0-000-17-07-1980@@@
-
 Decreto nº 84.928 de 17 de julho de 1980.
 
 Declara perempta a concessão outorgada à Rádio Tupi Sociedade Anônima, atualmente denominada S . A . Rádio Tupi, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

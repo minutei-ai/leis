@@ -1,5 +1,3 @@
-###DEC-006618-0-000-23-10-2008@@@
-
 DECRETO Nº 6.618, DE 23 DE OUTUBRO DE 2008.
 
 Institui a Medalha Marechal Osório - O Legendário e altera o Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares.

@@ -1,5 +1,3 @@
-###DEC-067704-0-000-04-12-1970@@@
-
 DECRETO Nº 67.704, DE 4 DE DEZEMBRO DE 1970.
 
 Concede indulto a sentenciados não reincidentes e dá outras providências.

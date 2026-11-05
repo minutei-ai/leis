@@ -1,5 +1,3 @@
-###DEC-068122-0-000-27-01-1971@@@
-
 Decreto nº 68.122, de 27 de janeiro de 1971.
 
 Concede permissão, em caráter permanente, à empresa Fujiwara Hisato S.A. - Comércio e Indústria, sediada em São Paulo, no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, no período da safra algodoeira (fevereiro a julho), nas suas usinas localizadas nos municípios de Assaí e Umuarama, no Estado do Paraná.

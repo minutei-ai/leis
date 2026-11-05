@@ -1,5 +1,3 @@
-###DEL-005842-0-000-22-09-1943@@@
-
 DECRETO‑LEI N. 5.842 – DE 22 DE SETEMBRO DE 1943
 
 Abre ao Conselho NacionaI de Águas e Energia Elétrica os créditos que especifica

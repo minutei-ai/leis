@@ -1,5 +1,3 @@
-###DEC-052812-0-000-11-11-1963@@@
-
 Decreto nº 52.812, de 11 de novembro de 1963.
 
 Cria função gratificada no Ministério da Saúde.

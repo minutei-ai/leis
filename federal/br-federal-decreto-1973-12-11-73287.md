@@ -1,5 +1,3 @@
-###DEC-073287-0-000-11-12-1973@@@
-
 DECRETO Nº 73.287 - DE 11 DE DEZEMBRO DE 1973
 
 Aprova o Regulamento do Centro de Documentação de Exército, da Secretaria-Geral do Exército do Ministério do Exército, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001376-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.376, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre a responsabilidade solidária de controladores de instituições submetidas aos regimes de que tratam a Lei nº 6.024, de 13 de março de 1974, e o Decreto-lei nº 2.321, de 25 de fevereiro de 1987; sobre a indisponibilidade de seus bens; sobre a responsabilização das empresas de auditoria contábil ou dos auditores contábeis independentes; sobre privatização de instituições cujas ações sejam desapropriadas, na forma do Decreto-lei nº 2.321, de 1987, e dá outras providências.

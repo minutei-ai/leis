@@ -1,5 +1,3 @@
-###DEC-053513-0-000-29-01-1964@@@
-
 DECRETO nº 53.513, de 29 de Janeiro de 1964.
 
 Modifica dispositivos do Decreto número 52.339, de 9 de agôsto de 1963.

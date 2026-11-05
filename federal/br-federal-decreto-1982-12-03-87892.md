@@ -1,5 +1,3 @@
-###DEC-087892-0-000-03-12-1982@@@
-
 Decreto nº 87.892, de 03 de dezembro de 1982.
 
 Concede autorização ao navio norte-americano "KNORR" para realizar em águas brasileiras os serviços que especifica.

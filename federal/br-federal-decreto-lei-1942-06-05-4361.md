@@ -1,5 +1,3 @@
-###DEL-004361-0-000-05-06-1942@@@
-
 DECRETO-LEI N. 4.361 – DE 5 DE JUNHO DE 1942
 
 Altero a redação do art. 2º do decreto-lei n. 2.805, de 22 de novembro de 1940, que instituiu a Comissão Central Pro-Monumento ao Duque de Caxias em São Paulo e dá outras providências

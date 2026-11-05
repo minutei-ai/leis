@@ -1,5 +1,3 @@
-###DEC-084617-0-000-08-04-1980@@@
-
 DECRETO Nº 84.617, DE 08 DE ABRIL DE 1980
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado no Município de São José dos Campos, Estado de São Paulo, necessário ao Ministério da Aeronáutica.

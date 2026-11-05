@@ -1,5 +1,3 @@
-###DEC-047769-0-000-08-02-1960@@@
-
 DECRETO Nº 47.769, DE 8 DE FEVEREIRO DE 1960.
 
 Suprime cargo extinto.

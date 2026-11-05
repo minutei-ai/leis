@@ -1,9 +1,15 @@
-DECRETO Nº 9.690, DE 06 DE JULHO DE  2020<br>
-\- [Revogado pelo Decreto nº 10.715, de 25-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111000/decreto-10715), art. 2º.<br>
-\- [Vide Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218/lei-22457), art. 6º, XX - Altera a denominação da DGPP.<br>
-\- [Vide Decreto nº 10.446, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108693/decreto-22446) - Altera a estrutura administrativa do CBM.<br>
-\- [Vide Decreto nº 10.338, DE 31-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107910/decreto-10338) - Altera a estrutura administrativa da SSP.<br>
-\- [Vide Decreto nº 10.267, de 30-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107196/decreto-10267) - Altera a estrutura administrativa da DGPC.<br>
+DECRETO Nº 9.690, DE 06 DE JULHO DE  2020
+
+\- [Revogado pelo Decreto nº 10.715, de 25-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111000/decreto-10715), art. 2º.
+
+\- [Vide Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218/lei-22457), art. 6º, XX - Altera a denominação da DGPP.
+
+\- [Vide Decreto nº 10.446, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108693/decreto-22446) - Altera a estrutura administrativa do CBM.
+
+\- [Vide Decreto nº 10.338, DE 31-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107910/decreto-10338) - Altera a estrutura administrativa da SSP.
+
+\- [Vide Decreto nº 10.267, de 30-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107196/decreto-10267) - Altera a estrutura administrativa da DGPC.
+
 \- [Vide Decreto nº 9.517, de 23-09-2019](https://admin.legisla.casacivil.go.gov.br/pesquisa_legislacao/72432/decreto-9517) (Regulamento da DGPP)
 
 ~~Aprova o Regulamento da Secretaria de Estado da Segurança Pública e dá outras providências.~~
@@ -18,13 +24,14 @@ DECRETO Nº 9.690, DE 06 DE JULHO DE  2020<br>
 
 ~~Goiânia, 06 de julho de  2020;  132º  da  República.~~
 
-<br>
  
 
-~~RONALDO CAIADO<br>
+~~RONALDO CAIADO
+
 Governador do Estado~~
 
- <br>
+ 
+
  
 
 ~~**REGULAMENTO DA SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**~~
@@ -53,7 +60,8 @@ Governador do Estado~~
 
 ~~c) pelo Corpo de Bombeiros Militar: atividades de defesa civil e exercício do poder de polícia sobre instalações, visando à proteção contra incêndio e pânico ;e~~
 
-~~d) pela Diretoria-Geral de Polícia Penal Diretoria-Geral de Administração Penitenciária: atividades voltadas para o acompanhamento e fiscalização do cumprimento de penas privativas de liberdade em regime de prisão; administração, coordenação, inspeção e fiscalização dos presídios e demais instalações para reclusão; qualificação e profissionalização dos sentenciados e socialização e reintegração dos reeducandos.~~<br>
+~~d) pela Diretoria-Geral de Polícia Penal Diretoria-Geral de Administração Penitenciária: atividades voltadas para o acompanhamento e fiscalização do cumprimento de penas privativas de liberdade em regime de prisão; administração, coordenação, inspeção e fiscalização dos presídios e demais instalações para reclusão; qualificação e profissionalização dos sentenciados e socialização e reintegração dos reeducandos.~~
+
 ~~\- [Denominação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218), art. 6º, XV.~~
 
 ~~TÍTULO III~~
@@ -248,7 +256,8 @@ Governador do Estado~~
 
 ~~1.2. Comando Regional do Corpo de Bombeiros Militar.~~
 
-~~m) Diretoria-Geral de Polícia Penal - DGPP Diretoria-Geral de Administração Penitenciária – DGAP.~~<br>
+~~m) Diretoria-Geral de Polícia Penal - DGPP Diretoria-Geral de Administração Penitenciária – DGAP.~~
+
 ~~\- [Denominação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218), art. 6º, XV.~~
 
 ~~TÍTULO IV~~
@@ -1515,7 +1524,8 @@ Governador do Estado~~
 
 ~~II – subsidiar ações para coibir, reprimir e neutralizar atos criminosos e/ou atentatórios à paz pública em todo o território nacional, interagindo com outros órgãos de inteligência dos estados e da União;~~
 
-~~III – planejar, coordenar e promover operações de buscas referentes às necessidades da Superintendência de Inteligência Integrada e da Diretoria-Geral de Polícia Penal Diretoria-Geral de Administração Penitenciária;~~<br>
+~~III – planejar, coordenar e promover operações de buscas referentes às necessidades da Superintendência de Inteligência Integrada e da Diretoria-Geral de Polícia Penal Diretoria-Geral de Administração Penitenciária;~~
+
 ~~\- [Denominação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218), art. 6º, XV.~~  
 
 ~~IV – monitorar, identificar e acompanhar organizações criminosas e situações de motins, rebeliões e possíveis arrebatamentos de presos para evitar crises e grave perturbação da ordem pública;~~
@@ -3056,8 +3066,10 @@ Governador do Estado~~
 
 ~~CAPÍTULO XI~~
 
-~~DA DIRETORIA-GERAL DE POLÍCIA PENAL~~<br>
-~~\- [Denominação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218), art. 6º, XV.~~<br>
+~~DA DIRETORIA-GERAL DE POLÍCIA PENAL~~
+
+~~\- [Denominação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218), art. 6º, XV.~~
+
 ~~DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA~~
 
 ~~O regulamento será definido em legislação própria.~~

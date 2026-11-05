@@ -1,5 +1,3 @@
-###DEC-001111-0-000-13-04-1994@@@
-
 DECRETO N° 1.111, DE 13 DE ABRIL DE 1994
 
 Promulga o Acordo sobre o Funcionamento do Escritório da Secretaria-Geral da Organização dos Estados Americanos (OEA), suas Obrigações, Privilégios e Imunidades, de 23.2.88.

@@ -1,5 +1,3 @@
-###DEC-078200-0-000-04-08-1976@@@
-
 Decreto nº 78.200, de 4 de agosto de 1976.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado na Cidade de Campanha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-003730-0-000-18-01-2001@@@
-
 DECRETO Nº 3.730, DE 18 DE JANEIRO DE 2001
 
 Distribui os efetivos de Oficiais da Marinha e fixa os percentuais mínimos dos cargos que serão ocupados, exclusivamente, por Oficiais do sexo masculino, para 2001.

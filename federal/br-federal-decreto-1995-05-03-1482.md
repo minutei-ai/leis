@@ -1,7 +1,3 @@
-1
-
-###DEC-001482-0-000-03-05-1995@@@
-
 DECRETO Nº 1.482, DE 3 DE MAIO DE 1995
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 11 de julho de 1994.

@@ -1,5 +1,3 @@
-###DEL-005182-0-000-11-01-1943@@@
-
 DECRETO‑LEI N. 5.182 – DE 11 DE JANEIRO DE 1943
 
 Concede gratificação ao Governador do Território do Acre

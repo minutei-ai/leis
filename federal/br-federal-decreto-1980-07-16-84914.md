@@ -1,5 +1,3 @@
-###DEC-084914-0-000-16-07-1980@@@
-
 Decreto nº 84.914, de 16 de julho de 1980.
 
 Cria, no Território Federal do Amapá, a Reserva Biológica do Lago Piratuba, com os limites que especifica e dá outras providências.

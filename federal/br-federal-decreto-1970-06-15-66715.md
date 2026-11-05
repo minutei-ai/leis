@@ -1,5 +1,3 @@
-###DEC-066715-0-000-15-06-1970@@@
-
 DECRETO Nº 66.715, DE 15 DE JUnHO DE 1970.
 
 Regula a aplicação do artigo 111 do Decreto-lei nº 200, de 25 de fevereiro de 1967.

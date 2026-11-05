@@ -1,5 +1,3 @@
-###DEC-048526-0-000-18-07-1960@@@
-
 DECRETO Nº 48.526, DE 18 DE JULHO DE 1960.
 
 Autoriza a Prefeitura Municipal de Guarapari, no Estado do Espírito Santo, a ampliar suas instalações.

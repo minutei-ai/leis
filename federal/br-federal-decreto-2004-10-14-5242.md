@@ -1,5 +1,3 @@
-###DEC-005242-0-000-14-10-2004@@@
-
 DECRETO Nº 5.242 DE 14 DE OUTUBRO DE 2004
 
 Promulga a Emenda, por troca de Notas, ao Acordo sobre Transportes Aéreos, de 4 de julho de 1947, entre o Governo da República Federativa do Brasil e o Governo da República do Chile, concluída em Brasília, em 3 de dezembro de 1998.
@@ -76,9 +74,12 @@ Nº 02/98
 
 Brasília, 3 de dezembro de 1998
 
-Ao Excelentíssimo Senhor<br>
-Luiz Felipe Lampreia<br>
-Ministro das Relações Exteriores<br>
+Ao Excelentíssimo Senhor
+
+Luiz Felipe Lampreia
+
+Ministro das Relações Exteriores
+
 da República Federativa do Brasil
 
         Excelência,

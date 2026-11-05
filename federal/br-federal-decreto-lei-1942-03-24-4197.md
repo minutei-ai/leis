@@ -1,5 +1,3 @@
-###DEL-004197-0-000-24-03-1942@@@
-
 DECRETO-LEI N. 4.197 – DE 24 DE MARÇO DE 1942
 
 Transfere para o Tesouro Nacional o Cofre de Depósitos Públicos da Recebedoria do Distrito Federal, e dá outras providências.

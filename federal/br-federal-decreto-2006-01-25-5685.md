@@ -1,5 +1,3 @@
-###DEC-005685-0-000-25-01-2006@@@
-
 DECRETO Nº 5.685, DE 25 DE JANEIRO DE 2006.
 
 Institui o Comitê de Regulação e Fiscalização dos Mercados Financeiro, de Capitais, de Seguros, de Previdência e Capitalização - Coremec.

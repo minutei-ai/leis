@@ -1,5 +1,3 @@
-###DEL-009347-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.347 – DE 10 DE JUNHO DE 1946
 
 Prorroga o prazo fixado pelo Decreto-lei nº 8.476, de 27 de Dezembro de 1945, para o restabelecimento dos prazos e garantias da propriedade industrial.

@@ -1,5 +1,3 @@
-###DEL-005955-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.955 – DE 1 DE NOVEMBRO DE 1943
 
 Altera a carreira de Oficial Administrativo do Quadro VI – Parte Permanente, do Ministério da Viação e Obras Públicas, e a de Prático de Engenharia, da Parte Suplementar do mesmo Quadro e Ministério.

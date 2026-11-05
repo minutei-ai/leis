@@ -1,5 +1,3 @@
-###DEL-002100-0-000-28-12-1983@@@
-
 # Decreto-lei nº 2.100, de 28 de dezembro de 1983
 
 Altera o artigo 9º do Decreto-lei nº 1.971, de 30 de novembro de 1982, e dá outras providências.

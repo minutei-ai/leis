@@ -1,5 +1,3 @@
-###DEC-049599-0-000-28-12-1960@@@
-
 DECRETO Nº 49.599, de 28 de dezembro de 1960.
 
 Cria o Serviço de Fiscalização do Sêlo nas Operações Bancárias na Capital do Estado de Minas Gerais.

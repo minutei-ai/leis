@@ -1,5 +1,3 @@
-###DEC-057708-0-000-02-02-1966@@@
-
 decreto nº 57.708, de 2 de fevereiro de 1966.
 
 Autoriza a Cia. de Mineração São Mateus a lavrar calcário no município de Itararé, Estado de São Paulo.

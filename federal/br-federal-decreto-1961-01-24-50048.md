@@ -1,5 +1,3 @@
-###DEC-050048-0-000-24-01-1961@@@
-
 DECRETO Nº 50.048, DE 24 DE Janeiro DE 1961.
 
 Outorga concessão à Rádio Pioneira de Teresina Limitada para estabelecer uma estação de radiodifusão.

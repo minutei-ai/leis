@@ -1,5 +1,3 @@
-###DEC-046128-0-000-27-05-1959@@@
-
 DECRETO Nº 46.128, DE 27 DE MAIO DE 1959.
 
 Extingue e suprime 51 (cinqüenta e um) cargos dos Quadros permanente e Suplementar do Ministério das Relações Exteriores.

@@ -1,5 +1,3 @@
-###DEC-081813-0-000-23-06-1978@@@
-
 Decreto nº 81.813, de 23 de junho de1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem da linha de transmissão de Centrais Elétricas de Santa Catarina S.A. - CELESC no Estado de Santa Catarina.

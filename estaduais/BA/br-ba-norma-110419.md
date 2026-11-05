@@ -32,4 +32,14 @@ ANEXO ÚNICO
 
 TABELA DA CONTRIBUIÇÃO DO ESTADO PARA O CUSTEIO DO FUNDO DE CUSTEIO DA PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO ESTADO DA BAHIA - FUNPREV
 
-<table style="width: 347.3pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="463" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 170.1pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="227"><p class="Tabela-Texto"><span>EXERCÍCIO</span></p></td><td style="width: 177.2pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>PERCENTUAL</span></p></td></tr><tr><td style="width: 170.1pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="227"><p class="Tabela-Texto"><span>2002 a 2004</span></p></td><td style="width: 177.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>15,0%</span></p></td></tr><tr><td style="width: 170.1pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="227"><p class="Tabela-Texto"><span>A partir de 01.01.2005</span></p></td><td style="width: 177.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>24,0%</span></p></td></tr></tbody></table>
+EXERCÍCIO
+
+PERCENTUAL
+
+2002 a 2004
+
+15,0%
+
+A partir de 01.01.2005
+
+24,0%

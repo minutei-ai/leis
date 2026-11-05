@@ -1,5 +1,3 @@
-###DEC-058297-0-000-02-05-1966@@@
-
 DECRETO Nº 58.297, DE 2 DE MAIO DE 1966.
 
 Estabelece normas para execução do censo dos servidores públicos civis da União e das Autarquias.

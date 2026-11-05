@@ -1,5 +1,3 @@
-###DEC-048690-0-000-04-08-1960@@@
-
 DECRETO Nº 48.690, DE 4 DE AGÔSTO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.505, de 15-5-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária á construção do açude público Morrinhos, no Município de Poções, Estado da Bahia.

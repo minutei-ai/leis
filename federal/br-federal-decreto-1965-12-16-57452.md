@@ -1,5 +1,3 @@
-###DEC-057452-0-000-16-12-1965@@@
-
 DECRETO Nº 57.452, DE 16 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Amaro Pinto de Barros a lavrar água mineral, no município de Fortaleza, Estado do Ceará.

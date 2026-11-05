@@ -6,7 +6,8 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1° Fica instituído no Município de Aparecida de Goiânia-GO, o Serviço de Acolhimento em Família Acolhedora, em atendimento das disposições do art. 227, caput, e seu §3º, inciso VI, e §7º, da Constituição Federal de 1988, na Lei Federal nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente (ECA); Lei Federal nº 8.742, de 07 de dezembro de 1993 – que dispõe sobre a lei Orgânica da Assistência Social (LOAS), Política Nacional de Assistência Social (PNAS), a Tipificação Nacional dos Serviços Socioassistenciais (2009), as Orientações Técnica: Serviços de Acolhimento para Crianças e Adolescentes (2012), o Guia de Acolhimento Familiar (2021), a Recomendação Conjunta nº 02 de janeiro de 2024 (CNJ, CNAS, CNMP, MPO, MDS, MDHC, CONANDA), como parte integrante da política de proteção social especial de atendimento à criança e ao adolescente, com vistas a propiciar o acolhimento familiar de crianças e adolescentes afastados do convívio familiar, por decisão judicial.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS FINALIDADES
 
 Art. 2º O Serviço de Acolhimento em Família Acolhedora é vinculado à Secretaria Municipal de Assistência Social – SEMAS, por meio da Proteção Social Especial de Alta Complexidade, e tem por finalidade o atendimento de crianças e adolescentes do Município de Aparecida de Goiânia-GO que tenham seus direitos ameaçados ou violados e que necessitem de proteção na modalidade de acolhimento, sempre por determinação judicial, visando:
@@ -51,7 +52,8 @@ XII- na impossibilidade de reintegração familiar, deve informar no processo qu
 
 XIII- assegurar a articulação entre o Serviço de Acolhimento em Família Acolhedora e o Sistema de Justiça para que as transições ocorram de modo planejado e gradativo, no processo de desligamento da família acolhedora para a reintegração familiar, ou na situação de colocação em família adotiva, com escuta, preparação adequada, respeitando o tempo da criança ou do adolescente.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 ÓRGÃOS ENVOLVIDOS E DOS RECURSOS HUMANOS
 
 Art. 5º São órgãos parceiros envolvidos no funcionamento do Serviço de Acolhimento em Família Acolhedora:
@@ -128,7 +130,8 @@ II- estímulo ao fortalecimento e à manutenção e/ou reconstrução dos víncu
 
 III- priorizar a permanência do grupo de irmãos na mesma família acolhedora.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS REQUISITOS E DA SELEÇÃO DAS FAMÍLIAS
 
 Art. 10 São requisitos para que a família seja considerada apta para o Serviço de Acolhimento em Família Acolhedora:
@@ -155,7 +158,8 @@ c) que todos os membros da família estejam de acordo com o acolhimento.
 
 § 3º Caso a família acolhedora mudar para outro Município, acarretará o desligamento do Servido em Família acolhedora.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA INSCRIÇÃO
 
 Art. 11 A inscrição das famílias interessadas em participar do Serviço de Acolhimento em Família Acolhedora será gratuita e permanente, dentro do prazo de duração designado pela Secretaria Municipal de Assistência Social – SEMAS e realizada por meio do preenchimento de formulário próprio de inscrição, cuja disponibilização, será amplamente divulgada na imprensa oficial e no sítio eletrônico da Prefeitura Municipal de Aparecida de Goiânia-GO, com a apresentação dos documentos, abaixo indicados:
@@ -178,7 +182,8 @@ VII- Declaração de não ter interesse em adoção;
 
 § 2º O documento solicitado no inciso VI, fica restrito aos membros identificados como responsáveis pelo acolhimento ou a critério da análise da Equipe Técnica do Serviço.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA SELEÇÃO
 
 Art. 12 As famílias interessadas devem cumprir os requisitos do art. 10 e 11 desta Lei.
@@ -201,7 +206,8 @@ IV- participação de reuniões de estudo e troca de experiências com todas as 
 
 V- participação em cursos, oficinas e eventos de formação.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 PERÍODO DE ACOLHIMENTO
 
 Art. 15 O período de acolhimento não se deve prolongar por mais de 18 (dezoito) meses, salvo comprovada a necessidade que atenda ao superior interesse da criança, devidamente fundamentada pela autoridade judiciária, conforme previsão do
@@ -230,7 +236,8 @@ II- orientação e supervisão do processo de transitoriedade da medida protetiv
 
 III- acompanhamento psicossocial e técnico da à família acolhedora e da família de origem e/ou extensa que recebeu a criança ou adolescente após o desligamento atendendo suas necessidades.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 RESPONSABILIDADE DA FAMÍLIA ACOLHEDORA
 
 Art. 18 No Serviço de Acolhimento em Família Acolhedora, a criança e o adolescente permanece sob a responsabilidade do serviço e sob a guarda provisória da família acolhedora indicada pela equipe técnica profissional, as responsabilidades assumidas pela família acolhedora são garantidas por meio do Termo de Guarda e Responsabilidade.
@@ -259,7 +266,8 @@ III- por solicitação escrita por parte da família acolhedora;
 
 § 2º A obrigação de assistência material pela família acolhedora ocorre com base na concessão da bolsa-auxílio oferecido pelo Serviço.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA BOLSA-AUXÍLIO
 
 Art. 21 Fica o Executivo Municipal autorizado a conceder às Famílias Acolhedoras, através do membro designado no Termo de Guarda e Responsabilidade, uma Bolsa Auxílio no valor equivalente a 01 (um) salário mínimo vigente por mês durante o período que perdurar o acolhimento.
@@ -278,7 +286,8 @@ Art. 23 A família acolhedora que tenha recebido a Bolsa Auxílio e não tenha c
 
 Art. 24 A família acolhedora prestará serviço de caráter voluntário não gerando, em nenhuma hipótese, vínculo empregatício ou profissional com o Município de Aparecida de Goiânia-GO.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 25 Cada família acolhedora poderá acolher 01 (uma) criança ou adolescente, exceto no caso de grupo de irmãos, desde de que, manifeste disponibilidade.
@@ -301,5 +310,6 @@ Art. 30 Esta Lei entrará em vigor na data de sua publicação, revogando-se exp
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 12 de novembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

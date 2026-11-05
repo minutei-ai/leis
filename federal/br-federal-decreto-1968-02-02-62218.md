@@ -1,5 +1,3 @@
-###DEC-062218-0-000-02-02-1968@@@
-
 DECRETO Nº 62.218, DE 2 DE FEVEREIRO DE 1968.
 
 Delega competência ao Ministro de Estado da Aeronáutica para aprovar, em caráter final, o Plano da Zona de proteção de Aeródromo.

@@ -1,5 +1,3 @@
-###DEC-068108-0-000-25-01-1971@@@
-
 DECRETO Nº 68.108, de 25 de JANEIRO DE 1971.
 
 Altera a composição  do Plenário ao Conselho Nacional do Petróleo.

@@ -1,5 +1,3 @@
-###DEC-075269-0-000-23-01-1975@@@
-
 DECRETO Nº 75.269, DE 23 DE JANEIRO DE 1975
 
 Autoriza o funcionamento da Faculdade de Enfermagem e Obstetrícia de Sobral, mantida pela Fundação Vale do Acaraú - FUVA, com sede na cidade de Sobral, Estado do Ceará.

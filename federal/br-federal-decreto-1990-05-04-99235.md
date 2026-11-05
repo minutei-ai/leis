@@ -1,7 +1,3 @@
-1
-
-###DEC-099235-0-000-04-05-1990@@@
-
 DECRETO N° 99.235, DE 4 DE MAIO DE 1990
 
 Dispõe sobre critérios e diretrizes para elaboração de proposta de Quadro‑Tabela de Lotação Ideal dos Órgãos da Presidência da República, Ministérios Civis, autarquias e fundações e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057722-A-000-02-02-1966@@@
-
 DECRETO Nº 57.722-A, DE 2 DE FEVEREIRO DE 1966.
 
 Alterar em caráter transitório, até a reestruturação do Serviço de Intendência da Marinha do Brasil como decorrência da Reforma Administrativa, a redação do Art. 6º do Regulamento para os Centros de Contrôle de Estoque, aprovado pelo Decreto nº 46.424, de 14 de julho de 1959.

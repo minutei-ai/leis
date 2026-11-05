@@ -1,36 +1,34 @@
-###DEC-042472-0-000-15-10-1957@@@
+**DECRETO Nº42.472, DE 15 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº42.472, DE 15 DE OUTUBRO DE 1957.</strong>
+***Aprova o Regimento do Departamento de Administração.***
 
-<em><strong>Aprova o Regimento do Departamento de Administração.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento de Administração do Ministério de Educação e Cultura, que, assinado pelo respectivo Ministro, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento de Administração do Ministério de Educação e Cultura, que, assinado pelo respectivo Ministro, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de outubro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clóvis Salgado
 
-<strong>REGIMENTO DO DEPARTAMENTO DE ADMINISTRAÇÃO DO MINISTÉRIO DA EDUCAÇÃO E CULTURA</strong>
+**REGIMENTO DO DEPARTAMENTO DE ADMINISTRAÇÃO DO MINISTÉRIO DA EDUCAÇÃO E CULTURA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento de Administração (D.A) do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado, é o órgão central de administração geral que tem por finalidade executar, orientar, promover e superintender as atividades relativas a pessoal, material, orçamento, organização, obras, comunicações, transportes e, ainda, administrar o edifício sede do Ministério.
+**Art**. 1º O Departamento de Administração (D.A) do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado, é o órgão central de administração geral que tem por finalidade executar, orientar, promover e superintender as atividades relativas a pessoal, material, orçamento, organização, obras, comunicações, transportes e, ainda, administrar o edifício sede do Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O D.A. é constituído dos seguintes órgãos:
+**Art**. 2º O D.A. é constituído dos seguintes órgãos:
 
 Divisão do Pessoal (D.P.);
 
@@ -48,17 +46,17 @@ Serviço de Comunicação (S.C.);
 
 Serviço de Transporte (S.T.).
 
-<strong>Art</strong>. 3º O D.A. será dirigido por um Diretor, nomeado em comissão pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 3º O D.A. será dirigido por um Diretor, nomeado em comissão pelo Presidente da República, por indicação do Ministro de Estado.
 
 Parágrafo único. O Diretor do D.A. terá dois assessôres, um secretário e um auxiliar, todos de sua livre escolha.
 
-<strong>Art</strong>. 4º Os Diretores de Divisão serão nomeados, em comissão, pelo Presidente da República, por indicação do Ministro de Estado, mediante proposta do Diretor do D.A.
+**Art**. 4º Os Diretores de Divisão serão nomeados, em comissão, pelo Presidente da República, por indicação do Ministro de Estado, mediante proposta do Diretor do D.A.
 
 § 1º O cargo de Diretor da Divisão de Obras será privativo de engenheiro civil ou arquiteto.
 
 § 2º O Diretor de Pessoal terá dois assessôres, um secretário e um auxiliar, e os demais Diretores de Divisão terão, cada um, um assessor, um secretário e um auxiliar, escolhidos dentre os servidores públicos federais.
 
-<strong>Art</strong>. 5º O Administrador do Serviço de Administração da Sede, o Superintendente do Serviço de Transporte e os Chefes da Seção de Organização e do Serviço de Comunicações, escolhidos dentre servidores públicos federais serão designados e dispensados pelo Diretor do Departamento de Administração.
+**Art**. 5º O Administrador do Serviço de Administração da Sede, o Superintendente do Serviço de Transporte e os Chefes da Seção de Organização e do Serviço de Comunicações, escolhidos dentre servidores públicos federais serão designados e dispensados pelo Diretor do Departamento de Administração.
 
 § 1º Os Secretários, Assessôres e Auxiliares dos Diretores de Divisão do D.A. serão designados e dispensados pelos respectivos Diretores de Divisão.
 
@@ -68,19 +66,19 @@ Parágrafo único. O Diretor do D.A. terá dois assessôres, um secretário e um
 
 § 4º As funções de Chefia das Seções técnicas da D. Ob. serão privativas de engenheiro civil ou arquiteto.
 
-<strong>Art</strong>. 6º Os órgãos que integram o D.A. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor Geral.
+**Art**. 6º Os órgãos que integram o D.A. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da</em>  <em>Divisão do Pessoal</em>
+*Da*  *Divisão do Pessoal*
 
-<strong>Art</strong>. 7º A Divisão de Pessoal (D.P.) tem por finalidade de coordenação sistemática de assuntos relativos aos servidores do M.E.C., assim como a execução e a fiscalização das medidas de caráter administrativo, econômico, financeiro e médico-social que em relação a êles forem adotadas.
+**Art**. 7º A Divisão de Pessoal (D.P.) tem por finalidade de coordenação sistemática de assuntos relativos aos servidores do M.E.C., assim como a execução e a fiscalização das medidas de caráter administrativo, econômico, financeiro e médico-social que em relação a êles forem adotadas.
 
-<strong>Art</strong>. 8º A D.P. compreende:
+**Art**. 8º A D.P. compreende:
 
 I - Seção de Assistência Social (D.P.-1).
 
@@ -108,7 +106,7 @@ VII - Seção de Apuração de Tempo de Serviço (D.P.-7).
 
 VIII - Turma de Administração (D.P.-8).
 
-<strong>Art</strong>. 9º À Seção de Assistência Social (D.P.-1) compete:
+**Art**. 9º À Seção de Assistência Social (D.P.-1) compete:
 
 I - promover a melhoria das condições sociais e a recuperação da saúde física e mental dos servidores do Ministério e de suas famílias;
 
@@ -164,7 +162,7 @@ VI - a execução dos serviços de estatística da Seção, inclusive a coleta d
 
 VII - manter sob sua guarda as publicações especializadas a legislação e a jurisprudência da administração de interêsse da Seção.
 
-<strong>Art</strong>. 10. À Seção de Diretores e Deveres (DP-2) compete:
+**Art**. 10. À Seção de Diretores e Deveres (DP-2) compete:
 
 I - aplicar e conforme o caso, orientar e fiscalizar a aplicação da legislação do pessoal referentes a direitos, vantagens, deveres, responsabilidades e ação disciplinar;
 
@@ -186,7 +184,7 @@ IX - Emitir parecer por determinação do Diretor de Divisão sôbre dúvidas su
 
 X - Instruir os processos de salário-família e de gratificação adicional por tempo de serviço.
 
-<strong>Art</strong>. 11. À Seção de Movimentação (D.P. -3) compete:
+**Art**. 11. À Seção de Movimentação (D.P. -3) compete:
 
 I - Elaborar o expediente relativo a nomeação, admissão, readmissão, reversão, aproveitamento, designação, para função gratificada, posse exercício, remoção, substituição, exoneração, dispensa, disponibilidade, aposentadoria, transferência, rescisão, requisição e permuta.
 
@@ -204,7 +202,7 @@ VII - Propor a criação ou supressão de cargos e funções bem como opinar sô
 
 VIII - Rever periodicamente a lotação numérica e nominal das repartições do Ministério em colaboração com a DP-4 e a Seção de Organização do D.A.
 
-<strong>Art</strong>. 12. À Seção de Cadastro e Acesso (DP-4) compete:
+**Art**. 12. À Seção de Cadastro e Acesso (DP-4) compete:
 
 I - Elaborar o expediente referente a lotação e relotação das repartições do Ministério.
 
@@ -242,7 +240,7 @@ XII - Instruir os recursos que versem sôbre classificação, boletim e lista de
 
 XIII - Organizar e promover a publicação, periodicamente, do “Almanaque do Pessoal”.
 
-<strong>Art</strong>. 13. À Seção Financeira (D.P. -5) compete:
+**Art**. 13. À Seção Financeira (D.P. -5) compete:
 
 I - Organizar e manter em dia a ficha financeira individual dos servidores;
 
@@ -268,7 +266,7 @@ XI - estudar as propostas orçamentárias parciais procedentes das repartições
 
 XII - providenciar a matrícula dos servidores do Ministério no I.P.A.S.E.
 
-<strong>Art</strong>. 14. À Seção de Mecanização (D.P.-6) compete:
+**Art**. 14. À Seção de Mecanização (D.P.-6) compete:
 
 I - executar os seguintes trabalhos mecanográficos;
 
@@ -292,7 +290,7 @@ IV - executar os trabalhos mecanográficos das demais Divisões do D.A.;
 
 V - colaborar nas atividades das demais Seções da D.P., suscetíveis de aperfeiçoamento pela utilização gradativa de processos mecanográficos.
 
-<strong>Art</strong>. 15. À Seção de Apuração de Tempo de Serviço (D.P.-7) compete:
+**Art**. 15. À Seção de Apuração de Tempo de Serviço (D.P.-7) compete:
 
 I - classificar e arquivar as fichas financeiras e cópias de fôlhas de pagamento e de boletins de freqüência que lhe forem enviadas pela Seção Financeira (D.P.-5);
 
@@ -306,7 +304,7 @@ V - requisitar, sempre que necessário os registros de ponto dos órgãos do Min
 
 VI - prestar informações quando solicitadas pelas demais Seções, sôbre os lançamentos efetuados nas fichas financeiras e cópias de fôlhas de pagamento e boletins de freqüência arquivados na Seção.
 
-<strong>Art</strong>. 16. À T.A (D.P.-8) compete:
+**Art**. 16. À T.A (D.P.-8) compete:
 
 I - apurar a freqüência dos servidores da Divisão e elaborar a comunicação mensal de freqüência dos servidores postos à disposição da D.P.;
 
@@ -334,17 +332,17 @@ XIII - prestar ao público informações sôbre o andamento e a solução dos pr
 
 XIV - numerar e expedir a correspondência oficial da Divisão;
 
-XV - organizar o “Boletim do Pessoal” e preparar a matéria a ser publicada no <em>Diário</em> <em>Oficial</em>, relativa a pessoal;
+XV - organizar o “Boletim do Pessoal” e preparar a matéria a ser publicada no *DiárioOficial*, relativa a pessoal;
 
 XVI - prestar às Seções da D.P., em matéria de administração interna, tôda a assistência de que carecem.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Divisão do Material</em>
+*Da Divisão do Material*
 
-<strong>Art</strong>. 17. A Divisão do Material (D.M.) tem por finalidade a coordenação sistemática, a execução, a orientação e a fiscalização das medidas de caráter administrativo, econômico e financeiro, relativas a material, em todos os setores do Ministério.
+**Art**. 17. A Divisão do Material (D.M.) tem por finalidade a coordenação sistemática, a execução, a orientação e a fiscalização das medidas de caráter administrativo, econômico e financeiro, relativas a material, em todos os setores do Ministério.
 
-<strong>Art</strong>. 18. A D.M. compreende:
+**Art**. 18. A D.M. compreende:
 
 I - Seção Administrativa (D M -1);
 
@@ -354,7 +352,7 @@ III - Seção de Fiscalização e Tombamento (D.M.-3).
 
 Parágrafo único. A D.M. manterá almoxarifados e depósitos, subordinados à D.M.-2.
 
-<strong>Art</strong>. 19. À Seção Administrativa (D.M.-1) compete:
+**Art**. 19. À Seção Administrativa (D.M.-1) compete:
 
 I - realizar concorrências e coletas de preços para aquisição ou alienação de material e para execução de serviços, exceto obras e reparos em bens imóveis, em proveito das dependências do Ministério no Distrito Federal;
 
@@ -378,7 +376,7 @@ X - extrair guias de recolhimento de cauções e providenciar o expediente relat
 
 XI - manter o protocolo e o arquivo da Divisão;
 
-<strong>Art</strong>. 20. A Seção de Requisição e Contrôle (DM - 2) compete:
+**Art**. 20. A Seção de Requisição e Contrôle (DM - 2) compete:
 
 I - encaminhar ao D.F.C. as requisições de material necessário ás repartições do M.E.C., cujas verbas sejam movimentadas pela Divisão;
 
@@ -422,7 +420,7 @@ XX - propor ao Diretor a troca, cessão ou venda do material em desuso, existent
 
 XXI - superintender os trabalhos dos almoxarifados e depósitos da Divisão.
 
-<strong>Art</strong>. 21. A Seção de Fiscalização e Tombamento (D.M - 3) compete:
+**Art**. 21. A Seção de Fiscalização e Tombamento (D.M - 3) compete:
 
 I - organizar o registro dos bens móveis, imóveis e semoventes da União, sob a administraçoão das repartições do Ministério e manter atualizadas as contas patrimoniais de cada uma, evidenciando a responsabilidade dos respectivos consignatários e depositários;
 
@@ -440,11 +438,11 @@ VII - examinar os processos referentes à venda de produtos e de material inutil
 
 VIII - orientar e fiscalizar as atividades das repartições do Ministério tocante à organização da escrituração do material e à elaboração dos inventários.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisão de Orçamento</em>
+*Da Divisão de Orçamento*
 
-<strong>Art</strong>. 22. A Divisão de Orçamento (D.O) tem como finalidade:
+**Art**. 22. A Divisão de Orçamento (D.O) tem como finalidade:
 
 I - elaborar a proposta orçamentária do M.E.C.;
 
@@ -460,7 +458,7 @@ VI - administrar e escriturar recursos orçamentários e adicionais controlados 
 
 VII - organizar o cadastro de todos os bens patrimoniais do M.E.C.
 
-<strong>Art</strong>. 23. A.D.O. compreende;
+**Art**. 23. A.D.O. compreende;
 
 Seção de Estudos e Previsão (D.O.-1).
 
@@ -470,7 +468,7 @@ Seção de Contrôle (D.O.-3).
 
 Turma de Administração (D.O.-4).
 
-<strong>Art</strong>. 24. À Seção de Estudos e Previsão (D.O.-1) compete:
+**Art**. 24. À Seção de Estudos e Previsão (D.O.-1) compete:
 
 I - corrigir dados relativos à receita arrecadada e a arrecadar;
 
@@ -492,7 +490,7 @@ IX - preparar e justificar a proposta orçamentária do M.E.C. em face dos progr
 
 X - promover a coordenação dos elementos estatísticos referentes às atividades do M.E.C. e relacionados com a execução orçamentária;
 
-XI - promover estudos sistemáticos, do ponto de vista do custo dos serviços, estabelecendo comparações e observações sôbre trabalhos análogos realizados em outros órgãos com a finalidade de determinar <strong>???????</strong> <strong>???????</strong> <strong>???????</strong>médios e custos específicos que possam servir de base ao estudo orçamentário;
+XI - promover estudos sistemáticos, do ponto de vista do custo dos serviços, estabelecendo comparações e observações sôbre trabalhos análogos realizados em outros órgãos com a finalidade de determinar **?????????????????????**médios e custos específicos que possam servir de base ao estudo orçamentário;
 
 XII - orientar os órgãos do Ministério no preparo das respectivas propostas orçamentárias;
 
@@ -506,7 +504,7 @@ XVI - apreciar os pedidos de créditos adicionais e alterações do orçamento, 
 
 XVII - preparar para remessa ao Tribunal de Contas as tabelas de distribuição e redistribuição dos créditos.
 
-<strong>Art</strong>. 25. À Seção de Execução (D.O.-2) compete:
+**Art**. 25. À Seção de Execução (D.O.-2) compete:
 
 I - administrar e escriturar os créditos orçamentários e adicionais controlados pela Divisão;
 
@@ -522,7 +520,7 @@ VI - acompanhar a execução do Orçamento do Ministério, na parte referente a 
 
 VII - organizar demonstrações da situação orçamentária das repartições e do Ministério, mensais e do exercício.
 
-<strong>Art</strong>. 26. A Seção de Contrôle (D.O.-3) compete:
+**Art**. 26. A Seção de Contrôle (D.O.-3) compete:
 
 I - examinar tendo em vista a respectiva finalidade as prestações de contas resultantes da aplicação dos créditos que devam ser submetidos à apreciação do Ministério de Estado, promovendo as diligências que se tornarem necessárias;
 
@@ -540,7 +538,7 @@ VII - organizar o cadastro de todos os bens patrimoniais do Ministério, requisi
 
 VIII - fornecer, anualmente à Contadora Geral da República os elementos relativos às variações ativas e passivas ocorridas no exercício para inclusão no Balanço Geral da União.
 
-<strong>Art</strong>. 27. À Turma de Administração (D.O.-4) compete:
+**Art**. 27. À Turma de Administração (D.O.-4) compete:
 
 I - executar o serviço mecanográfico da Divisão;
 
@@ -554,17 +552,17 @@ V - promover a aquisição dos materiais necessários aos trabalhadores da Divis
 
 VI - elaborar todo o expediente relativo ao pessoal em exercício na Divisão.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Divisão de Obras</em>
+*Da Divisão de Obras*
 
-<strong>Art</strong>. 28. A Divisão de Obras (D.Ob.) tem por finalidade:
+**Art**. 28. A Divisão de Obras (D.Ob.) tem por finalidade:
 
 I - orientar, promover, executar e fiscalizar as medidas de ordem técnica, administrativa e econômica, concernentes a obras e equipamentos dos imóveis do Ministério, ou por êle administrados;
 
 II - orientar os planos e fiscalizar as obras realizadas em regime de acôrdo e à conta de quaisquer recursos consignados ao Ministério.
 
-<strong>Art</strong>. 29. A. D. Ob. - compreende:
+**Art**. 29. A. D. Ob. - compreende:
 
 I - Seção de Estudos e Projetos (D. Ob-1);
 
@@ -576,7 +574,7 @@ IV - Seção de Recuperação e Depósito de Material (D.Ob-4);
 
 V - Turma de Administração (D.Ob-5);
 
-<strong>Art</strong>. 30.À Seção de Estudos e Projetos (D.Ob-1) compete:
+**Art**. 30.À Seção de Estudos e Projetos (D.Ob-1) compete:
 
 I - fazer o planejamento geral de obras e os respectivos programas de execução;
 
@@ -608,7 +606,7 @@ XIV - classificar, catalogar e arquivar originais e cópias dos desenhos, projet
 
 XV - comunicar por escrito, ao Diretor, qualquer infração de contrato ou ajuste com escritórios ou profissionais na execução de trabalhos técnicos projetos ou cálculos especializados;
 
-<strong>Art</strong>. 31. À Seção de Execução e Fiscalização de Obras (D.O. 2) compete:
+**Art**. 31. À Seção de Execução e Fiscalização de Obras (D.O. 2) compete:
 
 I - fiscalizar as obras novas, as de modificação e acréscimos em edifícios do Ministério ou por êle administrados assegurando o cumprimento dos projetos, detalhes e especificações aprovados pelas autoridades competentes;
 
@@ -630,7 +628,7 @@ IX - propor a admissão em caráter transitório e a dispensa de fiscais auxilia
 
 X - informar o Diretor sôbre o término de obras para efeito das providências necessárias à respectiva aceitação.
 
-<strong>Art</strong>. 32. À Seção de Manutenção e Reparos de Edifícios (D.Ob-3) compete:
+**Art**. 32. À Seção de Manutenção e Reparos de Edifícios (D.Ob-3) compete:
 
 I - realizar obras de conservação e adaptação de pequeno vulto, bem como a manutenção de equipamentos fixos, nos edifícios do Ministério ou por êle administrados;
 
@@ -640,7 +638,7 @@ III - manter fichas individuais de contrôle da produção dos artífices;
 
 IV - controlar, “a posterior”, a execução de ligeiros reparos nos imóveis ou respectivos equipamentos, destinados às dependências do Ministério ou por êle administrados, quando efetuados sob a orientação de dirigentes de repartições ou administradores de edifícios a quem forem delegadas tais atribuições.
 
-<strong>Art</strong>. 33. À Seção de Recuperação e Depósito de Material compete:
+**Art**. 33. À Seção de Recuperação e Depósito de Material compete:
 
 I - receber das repartições do M.E.C. materiais destinados a recuperação, promovendo sua utilização depois de recuperação ou sua baixa, quando imprestável;
 
@@ -662,7 +660,7 @@ IX - colaborar com a D.Ob-4 na organização dos balanços e inventário dos ben
 
 X - manter contrôle dos materiais permanentes entregues a servidores do Ministério, organizando fichário dos responsáveis.
 
-<strong>Art</strong>. 34. À Turma de Administração (D.Ob-5) compete:
+**Art**. 34. À Turma de Administração (D.Ob-5) compete:
 
 I - manter os serviços de protocolo, arquivo, mecanografia e documentação administrativa da D.Ob;
 
@@ -688,21 +686,21 @@ XI - requisitar o material necessário aos serviços de Divisão;
 
 XII - fazer anualmente, o inventário dos bens móveis da D.Ob., bem como o balanço do material de construção em estoque.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção de Organização</em>
+*Da Seção de Organização*
 
-<strong>Art</strong>. 35. A Seção de Organização (S.O.) tem por finalidade proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas do Ministério, bem com sugerir as medidas que julgar necessárias à sua racionalização, e aperfeiçoamento.
+**Art**. 35. A Seção de Organização (S.O.) tem por finalidade proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas do Ministério, bem com sugerir as medidas que julgar necessárias à sua racionalização, e aperfeiçoamento.
 
-<strong>Art</strong>. 36. A S.O., subordinada administrativamente ao D.A. e tecnicamente ao Departamento Administrativo do Serviço Público por intermédio do Serviço de Organização e Métodos, da Divisão de Orçamento e Organização, do mesmo Departamento, exercerá as atribuições constantes do Regimento padrão aprovado pelo Decreto nº 36.757, de 7 de janeiro de 1955.
+**Art**. 36. A S.O., subordinada administrativamente ao D.A. e tecnicamente ao Departamento Administrativo do Serviço Público por intermédio do Serviço de Organização e Métodos, da Divisão de Orçamento e Organização, do mesmo Departamento, exercerá as atribuições constantes do Regimento padrão aprovado pelo Decreto nº 36.757, de 7 de janeiro de 1955.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Do Serviço de Administração da Sede</em>
+*Do Serviço de Administração da Sede*
 
-<strong>Art</strong>. 37. O Serviço de Administração da Sede (S.A.S) tem por finalidade zelar pela conservação, segurança e vigilância do edifício sede do Ministério; manter em funcionamento a rêde telefônica interna e executar os serviços de portaria, tráfego de elevadores e outros da mesma natureza.
+**Art**. 37. O Serviço de Administração da Sede (S.A.S) tem por finalidade zelar pela conservação, segurança e vigilância do edifício sede do Ministério; manter em funcionamento a rêde telefônica interna e executar os serviços de portaria, tráfego de elevadores e outros da mesma natureza.
 
-<strong>Art</strong>. 38. O S.A.S. compreende:
+**Art**. 38. O S.A.S. compreende:
 
 I - Turma de Conservação (S.A.S. -1);
 
@@ -710,13 +708,13 @@ II - Turma de Administração (S.A.S. -2);
 
 III - Portaria (S.A.S.-3).
 
-<strong>Art</strong>. 39. À Turma de Conservação (S.A.S.-1) compete:
+**Art**. 39. À Turma de Conservação (S.A.S.-1) compete:
 
 I - providenciar sôbre a conservação e limpeza do edifício-sede do Ministério, suas instalações, mobiliário, jardins e áreas circunjacentes;
 
 II - manter em perfeitas condições de funcionamento e segurança as instalações elétricas, mecânicas, hidráulicas, bem como as de gás, as de esgôto e as contra fogo.
 
-<strong>Art</strong>. 40. A Turma de Administração (S.A.S. -2) compete:
+**Art**. 40. A Turma de Administração (S.A.S. -2) compete:
 
 I - elaborar todo o expediente relativo  a pessoal, material e orçamento que diga respeito às atividades do Serviço;
 
@@ -734,7 +732,7 @@ VII - manter em funcionamento o serviço telefônico interno do edifício-sede d
 
 VIII - manter em depósito mobiliário para entender às substituições imediatas que se tornarem necessárias nos órgãos instalados no edifício-sede do Ministério.
 
-<strong>Art</strong>. 41. À Portaria (S. A. S.-3) compete:
+**Art**. 41. À Portaria (S. A. S.-3) compete:
 
 I - abrir e fechar as portas do edifício-sede do Ministério nos horários estabelecidos;
 
@@ -748,11 +746,11 @@ V - providenciar o hasteamento da Bandeira Nacional;
 
 VI - controlar o funcionamento dos elevadores do edificio-sede e a escala de serviço dos ascensoristas.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Do Serviço de Comunicações</em>
+*Do Serviço de Comunicações*
 
-<strong>Art</strong>. 42. O Serviço de Comunicações (S.C.) tem por finalidade:
+**Art**. 42. O Serviço de Comunicações (S.C.) tem por finalidade:
 
 I - receber, registrar, classificar, distribuir, expedir e arquivar documentos de intêresse das repartições do Ministério;
 
@@ -762,7 +760,7 @@ III - prestar informações sôbre o andamento de processos e orientar o públic
 
 IV - passar, mediante autorização de autoridade competente, certidões de documentos arquivados.
 
-<strong>Art</strong>. 43. O.S.C. compreende:
+**Art**. 43. O.S.C. compreende:
 
 I - Turma de Registro (S.C. -1);
 
@@ -772,7 +770,7 @@ III - Turma de Administração (S.C -3);
 
 IV - Arquivo Geral (S.C. -4).
 
-<strong>Art</strong>. 44. À Turma de Registro (S.C.-1) compete:
+**Art**. 44. À Turma de Registro (S.C.-1) compete:
 
 I - receber, numerar, classificar, registrar e autuar documentos e encaminhá-los aos órgãos competentes para apreciá-los;
 
@@ -780,9 +778,9 @@ II - registrar o andamento de processos, prestando informações sôbre a respec
 
 III - dar aos interessados conhecimento de decisões proferidas em processo.
 
-<strong>Art</strong>. 45. A Turma de Mecanização (S.C.-2) compete executar todo o serviço de gravação, aproveitamento e arquivamento das chapas correspondentes aos documentos protocolados e imprimir modelos de registro.
+**Art**. 45. A Turma de Mecanização (S.C.-2) compete executar todo o serviço de gravação, aproveitamento e arquivamento das chapas correspondentes aos documentos protocolados e imprimir modelos de registro.
 
-<strong>Art</strong>. 46. À Turma de Administração (S.C.-3) compete:
+**Art**. 46. À Turma de Administração (S.C.-3) compete:
 
 I - elaborar o expediente a cargo do serviço, bem como a escrituração e os registros relativos à administração de pessoal, material e orçamento;
 
@@ -800,7 +798,7 @@ VII - fazer a distribuição das publicações oficiais que lhe forem encaminhad
 
 VIII - manter cópia da correspondência e demais atos oficiais expedidos pelas repartições situadas no edifício sede do Ministério.
 
-<strong>Art</strong>. 47. Ao Arquivo Geral (S.C. -4) compete:
+**Art**. 47. Ao Arquivo Geral (S.C. -4) compete:
 
 I - arquivar processos e outros documentos que, para êsse fim, lhe forem entregues;
 
@@ -814,13 +812,13 @@ V - dar vista de pareceres e despachos exarados em processos arquivados, quando 
 
 VI - conservar sob sua guarda os arquivos recolhidos ao Ministério e relativos de estabelecimentos de ensino extintos, oferecendo os elementos necessários ao exame de históricos escolares.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Do Serviço de Transportes</em>
+*Do Serviço de Transportes*
 
-<strong>Art</strong>. 48. O Serviço de Transportes (S.T.) tem por finalidade facilitar às repartições do Ministério situadas no Distrito Federal os meios de transporte necessários à execução das suas atividades, dentro das condições de aparelhamento de que dispuser.
+**Art**. 48. O Serviço de Transportes (S.T.) tem por finalidade facilitar às repartições do Ministério situadas no Distrito Federal os meios de transporte necessários à execução das suas atividades, dentro das condições de aparelhamento de que dispuser.
 
-<strong>Art</strong>. 49. O S.T. compreende:
+**Art**. 49. O S.T. compreende:
 
 I - Turma de Administração (S.T. -1);
 
@@ -828,7 +826,7 @@ II - Garage (S.T. -2);
 
 III - Oficina (S.T. -3).
 
-<strong>Art</strong>. 50. À Turma de Administração (S.T. -1) compete:
+**Art**. 50. À Turma de Administração (S.T. -1) compete:
 
 I - executar os serviços de administração geral afetos ao S.T.;
 
@@ -856,7 +854,7 @@ XII - coligir dados para o relatório anual do S.T.;
 
 XIII - elaborar a proposta orçamentária do Serviço.
 
-<strong>Art</strong>. 51. À Garage (S.T. -2) compete:
+**Art**. 51. À Garage (S.T. -2) compete:
 
 I - efetuar a guarda, limpeza, lubrificação, abastecimento e conservação dos veículos;
 
@@ -866,17 +864,17 @@ III - receber as partes diárias dos motoristas a fim de controlar a distância 
 
 IV - apresentar, mensalmente, ao Chefe do Serviço de Transportes, uma relação contendo o número de solicitações de saída de veículos, o consumo de combustível e lubrificante, a natureza do serviço prestado, o nome do requisitante e a quilometragem percorrida.
 
-<strong>Art</strong>. 52. À Oficina (S.T. -3) compete:
+**Art**. 52. À Oficina (S.T. -3) compete:
 
 I - executar reparos nas viaturas do Ministério, solicitando à T.A. os materiais necessários à manutenção, em perfeito estado de funcionamento, dos veículos encaminhados à oficina;
 
 II - manter um pequeno estoque de peças para socorro urgente dos veículos sob seu contrôle.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 53. Ao Diretor do D.A. compete:
+**Art**. 53. Ao Diretor do D.A. compete:
 
 I - orientar dirigir e coordenar os trabalhos do D.A.;
 
@@ -924,7 +922,7 @@ XXII - apresentar anualmente ao Ministro de Estado relatórios das atividades do
 
 XXIII - admitir e dispensar o pessoal extranumerário em exercício no D.A., de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 54. Aos Diretores de Divisão aos Chefes da S.O. e do S.C., ao Administrador do S.A.S. e ao Superintendente do S.T. compete:
+**Art**. 54. Aos Diretores de Divisão aos Chefes da S.O. e do S.C., ao Administrador do S.A.S. e ao Superintendente do S.T. compete:
 
 I - administrar os órgãos sob sua direção e representá-los nas relações com terceiros;
 
@@ -978,7 +976,7 @@ XXV - apresentar, anualmente, ao Diretor do D.A. relatório das atividades dos �
 
 § 1º Os Diretores de Divisão poderão, ainda, mediante portaria, delegar competência aos chefes de Seção para encaminhamento, de ordem do Diretor, aos órgãos do M.E.C., dos processos que dependem exclusivamente de medidas que não impliquem, direta ou indiretamente, em recomendações, determinações e pedidos de informações ou providências.
 
-<strong>Art</strong>. 55. Ao Diretor da D.P. compete, ainda:
+**Art**. 55. Ao Diretor da D.P. compete, ainda:
 
 I - autorizar despesas ou emissão de empenhos de requisitar pagamentos, inclusive por exercícios findos, à conta de créditos orçamentários ou adicionais administrados pela D.P.;
 
@@ -1014,7 +1012,7 @@ XVI - tomar as providências que considerar necessárias em face dos resultados 
 
 XVII - promover a organização de cursos de especialização e aperfeiçoamento para servidores do M.E.C., e o respectivo treinamento no trabalho.
 
-<strong>Art</strong>. 56. Ao Diretor da D.M. compete, ainda:
+**Art**. 56. Ao Diretor da D.M. compete, ainda:
 
 I - decidir sôbre as compras de material levadas a efeito por intermédio da D.M.;
 
@@ -1046,7 +1044,7 @@ XIV - aplicar penalidades a fornecedores faltosos;
 
 XV - autorizar a venda de material julgado inservível ao serviço público, de acôrdo com as normas legais em vigor.
 
-<strong>Art</strong>. 57. Ao Diretor da D.O. compete, ainda:
+**Art**. 57. Ao Diretor da D.O. compete, ainda:
 
 I - superintender a elaboração da proposta orçamentária do Ministério;
 
@@ -1070,9 +1068,9 @@ X - tomar as providências que considerar necessárias, em face dos resultados d
 
 XI - interpor perante o Tribunal de Contas recurso e pedidos de reconsideração.
 
-<strong>Art</strong>. 58. Ao Diretor da D. Ob. compete, ainda, assinar contratos para execução de obras e instalação de equipamentos.
+**Art**. 58. Ao Diretor da D. Ob. compete, ainda, assinar contratos para execução de obras e instalação de equipamentos.
 
-<strong>Art</strong>. 59. Aos chefes de unidades componentes dos órgãos do D.A. compete:
+**Art**. 59. Aos chefes de unidades componentes dos órgãos do D.A. compete:
 
 I - distribuir, coordenar, orientar e fiscalizar a execução dos trabalhos de competência da unidade sob sua chefia, propondo à autoridade imediatamente superior as medidas convenientes ao seu desenvolvimento;
 
@@ -1086,13 +1084,13 @@ V - apresentar, anualmente, à autoridade imediatamente superior, relatório das
 
 VI - zelar pela disciplina no recinto do trabalho da unidade sob sua chefia.
 
-<strong>Art</strong>. 60. Ao Encarregado da Garage do S.T. compete, ainda, zelar pela correta apresentação dos motoristas quanto ao uso de uniforme; pelo cumprimento das escalas de serviço estabelecidas e pela conservação das ferramentas e acessórios entregues aos mesmos.
+**Art**. 60. Ao Encarregado da Garage do S.T. compete, ainda, zelar pela correta apresentação dos motoristas quanto ao uso de uniforme; pelo cumprimento das escalas de serviço estabelecidas e pela conservação das ferramentas e acessórios entregues aos mesmos.
 
-<strong>Art</strong>. 61. Ao Encarregado da Oficina (St-3) incumbe, ainda, exercer vigilância sôbre o material utilizado, bem como sôbre o equipamento, ferramentas e utensílios entregues aos mecânicos e demais servidores da Oficina.
+**Art**. 61. Ao Encarregado da Oficina (St-3) incumbe, ainda, exercer vigilância sôbre o material utilizado, bem como sôbre o equipamento, ferramentas e utensílios entregues aos mecânicos e demais servidores da Oficina.
 
-<strong>Art</strong>. 62. Aos Assessôres do Diretor-Geral e dos Diretores de Divisão compete auxiliá-los no exame dos assuntos que forem submetidos à sua decisão e no preparo do despacho do expediente de rotina.
+**Art**. 62. Aos Assessôres do Diretor-Geral e dos Diretores de Divisão compete auxiliá-los no exame dos assuntos que forem submetidos à sua decisão e no preparo do despacho do expediente de rotina.
 
-<strong>Art</strong>. 63. Aos Secretários do Diretor-Geral do D.A. e dos Diretores de Divisão incumbe:
+**Art**. 63. Aos Secretários do Diretor-Geral do D.A. e dos Diretores de Divisão incumbe:
 
 I - atender as pessoas que procurarem o Diretor levando-lhe ao conhecimento o assunto a tratar;
 
@@ -1100,19 +1098,19 @@ II - redigir a correspondência pessoal do Diretor;
 
 III - representar o Diretor, quando para isso designado.
 
-<strong>Art</strong>. 64. Aos Auxiliares de Gabinete incumbe:
+**Art**. 64. Aos Auxiliares de Gabinete incumbe:
 
 I - auxiliar os Assessôres e o Secretário na execução dos trabalhos que lhes competem;
 
 II - executar trabalhos de dactilografia e outros que lhes forem determinados.
 
-<strong>Art</strong>. 65. Aos servidores em exercício no D.A. sem atribuições especificadas neste regimento, compete executar os trabalhos de que forem incumbidos pelo chefe imediato.
+**Art**. 65. Aos servidores em exercício no D.A. sem atribuições especificadas neste regimento, compete executar os trabalhos de que forem incumbidos pelo chefe imediato.
 
-<strong>CAPÏTULO V</strong>
+**CAPÏTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 66. Serão substituídos automaticamente em seus impedimentos eventuais até 30 dias:
+**Art**. 66. Serão substituídos automaticamente em seus impedimentos eventuais até 30 dias:
 
 I - O Diretor do D. A., pelo Diretor de Divisão de sua indicação, designado pelo Ministro de Estado;
 
@@ -1120,10 +1118,10 @@ II - os Diretores de Divisão, o Chefe da Seção de Organização, o Chefe do S
 
 III - os demais ocupantes de funções gratificadas de chefia, por servidores designados pelas mesmas autoridades competentes para designação dos titulares dessas funções.
 
-<strong>Art</strong>. 67. Os Diretores da Divisão, o Administrador do S.A.S., o Chefe do S.C. e o Superintendente do S.T. poderão constituir grupos de trabalho para a execução das atividades afetas às Seções, Setores ou Turmas sob sua direção.
+**Art**. 67. Os Diretores da Divisão, o Administrador do S.A.S., o Chefe do S.C. e o Superintendente do S.T. poderão constituir grupos de trabalho para a execução das atividades afetas às Seções, Setores ou Turmas sob sua direção.
 
-<strong>Art</strong>. 68. Os casos omissos que envolvam matéria regimental serão resolvidos pelo Ministro de Estado.
+**Art**. 68. Os casos omissos que envolvam matéria regimental serão resolvidos pelo Ministro de Estado.
 
 Rio de Janeiro, em 15 de outubro de 1957.
 
-<strong>CLOVIS SALGADO</strong>
+**CLOVIS SALGADO**

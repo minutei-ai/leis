@@ -1,5 +1,3 @@
-###DEL-001592-0-000-21-12-1977@@@
-
 # Decreto-lei nº 1.592, de 21 de dezembro de 1977
 
 Dispõe sobre a implantação do Grupo-Direção e Assistência Intermediárias, do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal e dá outras providências.

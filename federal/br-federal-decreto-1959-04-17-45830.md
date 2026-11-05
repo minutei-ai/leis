@@ -1,5 +1,3 @@
-###DEC-045830-0-000-17-04-1959@@@
-
 DECRETO Nº 45.830, DE 17 DE ABRIL DE 1959.
 
 Dá nova redação ao art. 5º do Decreto nº 42.315, de 20 de setembro de 1957, que regulamenta a Lei nº 3.039, de 20 de dezembro de 1956, na parte relativa às emprêsas de taxi aéreo.

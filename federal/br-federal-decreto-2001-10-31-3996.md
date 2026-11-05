@@ -1,5 +1,3 @@
-###DEC-003996-0-000-31-10-2001@@@
-
 DECRETO Nº 3.996, DE 31 DE OUTUBRO DE 2001
 
 Dispõe sobre a prestação de serviços de certificação digital no âmbito da Administração Pública Federal.

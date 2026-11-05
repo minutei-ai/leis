@@ -1,5 +1,3 @@
-###DEC-077248-0-000-27-02-1976@@@
-
 DECRETO Nº 77.248, DE 27 DE FEVEREIRO DE 1976
 
 Regulamenta as disposições contidas no artigo 157 da Lei nº 5.774, de 23 de dezembro de 1971, que dispõe sobre os militares da Aeronáutica incapacitados para atividades aéreas.

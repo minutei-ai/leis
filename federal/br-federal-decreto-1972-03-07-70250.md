@@ -1,5 +1,3 @@
-###DEC-070250-0-000-07-03-1972@@@
-
 DECRETO Nº 70.250, DE 7 DE MARÇO DE 1972.
 
 Altera o Decreto nº 68.803, de 25 de junho de 1971, que redistribuiu cargos para o Quadro de Pessoal do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEL-004262-0-000-16-04-1942@@@
-
 DECRETO-LEI N. 4.262 – DE 16 DE ABRIL DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de 4.706:000$0, para construção de edifícios

@@ -1,5 +1,3 @@
-###DEC-048339-0-000-21-06-1960@@@
-
 Decreto nº 48.339, de 21 de junho de 1960.
 
 Autoriza o cidadão Brasileiro Raul Gualberto Alvarenga a pesquisar mica no município de Virgolândia, Estado de Minas Gerais.

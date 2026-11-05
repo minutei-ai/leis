@@ -1,5 +1,3 @@
-###MPV-002137-0-006-21-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.137-6, DE 21 DE JUNHO DE 2001
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

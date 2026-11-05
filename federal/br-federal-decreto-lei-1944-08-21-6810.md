@@ -1,5 +1,3 @@
-###DEL-006810-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.810 – DE 21 DE AGÔSTO DE 1944
 
 Prorroga até 31 de dezembro do corrente ano o prazo da isenção de que trata o Decreto-lei nº 6.443, de 27 de abril de 1944

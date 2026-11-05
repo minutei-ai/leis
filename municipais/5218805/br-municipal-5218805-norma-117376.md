@@ -78,7 +78,8 @@ IX – 1 (um) representante do Conselho da Comunidade. 
 
 Parágrafo único. O Conselho Gestor, de caráter deliberativo, é o órgão responsável pela gestão do Fundo Municipal, cabendo-lhe, dentre outras atribuições a serem previstas em regulamento:
 
-I – estabelecer linhas de políticas prioritárias no Município, deliberar sobre editais de<br>
+I – estabelecer linhas de políticas prioritárias no Município, deliberar sobre editais de
+
 chamamento público, critérios de análise de projetos e sistemas de controle, acompanhamento e avaliação das aplicações efetuadas e da correta aplicação realizada à conta dos recursos do Fundo Municipal para políticas penais;
 
 II – elaborar relatório anual de gestão, incluindo dados sobre a quantidade de presos, com classificação por sexo, etnia, faixa etária, escolaridade, atividade de trabalho, regime e duração da prisão entre outros que forem definidos em regulamentos federais e estaduais vinculados à administração penitenciária, com a anonimidade de dados que venham a ser de acesso público, observada a legislação de proteção de dados pessoais;

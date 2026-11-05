@@ -1,6 +1,10 @@
 > **LEI Nº 3.288, DE 26 DE SETEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.228, de 15 de março de 2017, que institui a estrutura da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.228, de 15 de março de 2017, que institui a estrutura da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

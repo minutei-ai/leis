@@ -1,5 +1,3 @@
-###MPV-001977-0-014\-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-14, DE 6 DE abril DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

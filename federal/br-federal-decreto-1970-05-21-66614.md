@@ -1,5 +1,3 @@
-###DEC-066614-0-000-21-05-1970@@@
-
 DECRETO Nº 66.614, DE 21 DE MAIO DE 1970.
 
 Aprova o Estatuto da Universidade Federal do Paraná.

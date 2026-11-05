@@ -1,5 +1,3 @@
-###DEC-079536-0-000-14-04-1977@@@
-
 DECRETO Nº 79.536, DE 14 DE ABRIL DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação e instituição de servidão, as áreas que menciona, do prédio denominado Edifício "Brasul Ourinhos", na Avenida Altino Arantes nº 25, na cidade de Ourinhos, Estado de São Paulo, pela Telecomunicações de São Paulo S. A. - TELESP.

@@ -1,5 +1,3 @@
-###DEC-052440-0-000-03-09-1963@@@
-
 Decreto nº 52.440, de 3 de setembro de 1963.
 
 Aprova o Regimento do Conselho Florestal Federal do Ministério da Agricultura.
@@ -245,8 +243,6 @@ Art. 32. Durante o período em que o Presidente do CFF exercer o seu mandato, se
 Brasília, 3 de setembro de 1963.
 
 Oswaldo Lima Filho
-
-###DEC-052440-0-000-03-09-1963@@@RET01+++
 
 DECRETO Nº 52.440, DE 3 DE SETEMBRO DE 1963.
 

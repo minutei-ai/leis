@@ -1,5 +1,3 @@
-###DEC-086609-0-000-18-11-1981@@@
-
 Decreto nº 86.609, de 18 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO E TELEVISÃO GAZETA DE CARAZINHO LTDA., na cidade de Carazinho, Estado do Rio Grande do Sul.

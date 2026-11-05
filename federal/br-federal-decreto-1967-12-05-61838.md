@@ -1,5 +1,3 @@
-###DEC-061838-0-000-05-12-1967@@@
-
 DECRETO Nº 61.838, DE 5 DE DEZEMBRO DE 1967.
 
 Regula o recrutamento de Médicos, Farmacêuticos e Dentistas para o Quadro de Saúde da Aeronáutica.

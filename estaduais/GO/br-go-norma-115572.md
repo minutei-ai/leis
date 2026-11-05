@@ -8,11 +8,14 @@ Art. 1º Fica concedido a GUILHERME BENEVIDES FARIAS o Título Honorífico de Ci
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
-Goiânia, 18 de junho de 2026; 138º da República.<br>
+Goiânia, 18 de junho de 2026; 138º da República.
+
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
-<br>
-BRUNO PEIXOTO<br>
+DANIEL VILELA
+
+Governador do Estado
+
+BRUNO PEIXOTO
+
 Deputado Estadual

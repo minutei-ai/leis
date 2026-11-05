@@ -1,5 +1,3 @@
-###DEC-064282-0-000-21-03-1969@@@
-
 DECRETO Nº 64.282, DE 21 DE MARÇO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para os Quadros de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio, cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e da extinta Estrada de Ferro de Bragança e dá outras providências.

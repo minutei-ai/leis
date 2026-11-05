@@ -1,5 +1,3 @@
-###DEC-056624-0-000-29-07-1965@@@
-
 DECRETO Nº 56.624, DE 29 DE JULHO DE 1965.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a ampliar seu sistema de transmissão.

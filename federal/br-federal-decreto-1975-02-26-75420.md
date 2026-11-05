@@ -1,5 +1,3 @@
-###DEC-075420-0-000-26-02-1975@@@
-
 DECRETO Nº 75.420, DE 26 DE FEVEREIRO DE 1975
 
 Declara de utilidade pública para fins de desapropriação, área de terra necessária à construção da subestação denominada "Piracicamirim" da Companhia Paulista de Força e Luz - CPFL, Estado de São Paulo.

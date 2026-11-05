@@ -1,5 +1,3 @@
-###DEC-047399-0-000-10-12-1959@@@
-
 DECRETO Nº 47.399, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Nunes de Oliveira a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060585-0-000-11-04-1967@@@
-
 Decreto nº 60.585, de 11 de abril de 1967.
 
 Declara de utilidade pública o “Banco da Providência”, com sede no Rio de Janeiro, Estado da Guanabara.

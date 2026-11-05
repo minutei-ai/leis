@@ -1,5 +1,3 @@
-###DEC-096143-0-000-08-06-1988@@@
-
 DECRETO N° 96.143, DE 08 DE JUNHO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

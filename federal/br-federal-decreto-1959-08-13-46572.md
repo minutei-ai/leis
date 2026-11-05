@@ -1,5 +1,3 @@
-###DEC-046572-0-000-13-08-1959@@@
-
 DECRETO Nº 46.572, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza o Ministério da Aeronáutica a aceitar de terrenos em Uberaba (MG).

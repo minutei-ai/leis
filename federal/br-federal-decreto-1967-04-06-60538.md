@@ -1,5 +1,3 @@
-###DEC-060538-0-000-06-04-1967@@@
-
 Decreto nº 60.538, de 6 de abril de 1967.
 
 Altera o Decreto nº 534, de 23 de janeiro de 1962, que aprovou o Regimento da Secretaria do Comércio do Ministério da Indústria e do Comércio.

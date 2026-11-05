@@ -1,5 +1,3 @@
-###DEC-002499-0-000-16-02-1998@@@
-
 DECRETO Nº 2.499, DE 16 DE FEVEREIRO DE 1998
 
 Promulga o Acordo sobre Serviços Aéreos, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Popular da China, em Pequim, em 11 de julho de 1994.
@@ -328,7 +326,21 @@ Em testemunho do que, os abaixo assinados, devidamente autorizados por seus resp
 
 Feito em Pequim, em 11 de julho de 1994, em dois exemplares originais, nos idiomas português, chinês e inglês, sendo todos os textos igualmente autênticos. No caso de surgir diferença de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:209.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Pelo Governo da República</span></p></td><td style="width:209.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Federativa do Brasil</span></p></td><td style="width:209.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Popular da China</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Lélio Viana Lôbo</span></p></td><td style="width:209.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Chen Guany Yi</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Ministro de Estado da Aeronáutica</span></p></td><td style="width:209.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt">Diretor Geral da Administração Da Aviação Civil da China</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Popular da China
+
+Lélio Viana Lôbo
+
+Chen Guany Yi
+
+Ministro de Estado da Aeronáutica
+
+Diretor Geral da Administração Da Aviação Civil da China
 
 Anexo
 

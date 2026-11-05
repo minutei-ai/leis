@@ -1,5 +1,3 @@
-###DEL-000044-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 44, DE 18 DE NOVEMBRO DE 1966
 
 Altera os limites do mar territorial do Brasil, estabelece uma zona contígua e dá outras providências.

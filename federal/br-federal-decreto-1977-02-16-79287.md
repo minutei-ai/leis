@@ -1,5 +1,3 @@
-###DEC-079287-0-000-16-02-1977@@@
-
 DECRETO Nº 79.287, DE 16 DE FEVEREIRO DE 1977
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 70.025, de janeiro de 1972, o Conselho Nacional de Cinema - CONSINE.

@@ -1,5 +1,3 @@
-###DEC-004553-0-000-27-12-2002@@@
-
 DECRETO N. 4.553 – DE 27 DE DEZEMBRO DE 2002
 
 Dispõe sobre a salvaguarda de dados, informações, documentos e materiais sigilosos de interesse da segurança da sociedade e do Estado, no âmbito da Administração Pública Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000431-0-000-22-01-1969@@@
-
 DECRETO-LEI Nº 431, de 22 de janeiro de 1969
 
 Amplia a representação ministerial no Conselho Deliberativo do Conselho Nacional de Pesquisas.

@@ -1,5 +1,3 @@
-###DEC-057185-0-000-08-11-1965@@@
-
 DECRETO Nº 57.185, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza a Centrais Elétricas do Maranhão S. A. a ampliar suas instalações.

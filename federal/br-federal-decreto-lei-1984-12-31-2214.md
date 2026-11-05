@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/27883604-9350-40be-8042-a2a9c0dc4c89/texto#nowhere)
 
-###DEL-002214-0-000-31-12-1984@@@
-
 # Decreto-lei nº 2.214, dE 31 de DEZEMBRO de 1984
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências.

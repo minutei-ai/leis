@@ -1,5 +1,3 @@
-###DEC-050128-0-000-26-01-1961@@@
-
 decreto nº 50.128, de 26 de janiero de 1961.
 
 Autoriza o cidadão brasileiro Paulo Armando Newlands a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-090607-0-000-04-12-1984@@@
-
 Decreto nº 90.607, de 04 de dezembro de 1984
 
 Renova prazo de concessão outorgada à Agro Industrial Bruno Reidrich S.A. para o aproveitamento da energia hidráulica do Salto do Taió, existente no rio Taió, Município de Taió, Estado de Santa Catarina.

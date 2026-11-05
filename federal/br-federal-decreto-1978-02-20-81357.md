@@ -1,5 +1,3 @@
-###DEC-081357-0-000-20-02-1978@@@
-
 Decreto nº 81.357, de 20 de fevereiro de 1978.
 
 Declara sem efeito o Decreto nº 62.721, de 17 de maio de 1968, que autorizou a Companhia Minas de Jangada S.A. a lavrar minério de ferro nos Municípios de Brumadinho e Betim, Estado de Minas Gerais.

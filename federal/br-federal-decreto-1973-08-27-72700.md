@@ -1,5 +1,3 @@
-###DEC-072700-0-000-27-08-1973@@@
-
 DECRETO Nº 72.700, DE 27 DE AGOSTO DE 1973.
 
 Redistribui cargo, com a respectiva ocupante, para o Quadro de Pessoal do Departamento de Polícia Federal, e dá outras providências.

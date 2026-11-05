@@ -1,5 +1,3 @@
-###DEC-058382-0-000-10-05-1966@@@
-
 DECRETO Nº 58.382, DE 10 DE MAIO DE 1966.
 
 Dispõe quanto à coordenação das atividades de extensão rural.

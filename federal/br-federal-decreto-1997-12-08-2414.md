@@ -1,5 +1,3 @@
-###DEC-002414-0-000-08-12-1997@@@
-
 DECRETO Nº 2.414, DE 8 DE DEZEMBRO DE 1997
 
 Consolida o regulamento da Lei nº 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional - NTN e dá outras providências.

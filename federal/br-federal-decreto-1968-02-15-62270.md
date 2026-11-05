@@ -1,5 +1,3 @@
-###DEC-062270-0-000-15-02-1968@@@
-
 DECRETO Nº 62.270, DE 15 DE FEVEREIRO DE 1968.
 
 Concede a autorização à firma Zapata Overseas Corparations, para operar na plataforma continental brasileira, com uma Unidade Móvel de Perfuração Submarina, denominada “Vinegarron”, de nacionalidade Norte Americana, nos serviços que especifica.

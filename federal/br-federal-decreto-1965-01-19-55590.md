@@ -1,5 +1,3 @@
-###DEC-055590-0-000-19-01-1965@@@
-
 Decreto nº 55.590, de 19 de janeiro de 1965.
 
 Regulamenta a Lei nº 4.495, de 25 de novembro de 1964, e dá outras providências.

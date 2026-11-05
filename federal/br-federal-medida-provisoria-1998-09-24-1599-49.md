@@ -1,5 +1,3 @@
-###MPV-001599-0-049-24-09-1998@@@
-
 medida provisória nº 1.599-49, de 24 de setembro de 1998
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

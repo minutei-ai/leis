@@ -1,40 +1,38 @@
-###DEC-021975-0-000-23-10-1946@@@
+**DECRETO Nº 21.975, DE 23 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.975, DE 23 DE OUTUBRO DE 1946.</strong>
+***Dá ao Patronato Agrícola Artur Bernardes, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores, a denominação de Escola Agrícola Artur Bernardes e aprova o regimento dêste órgão.***
 
-<em><strong>Dá ao Patronato Agrícola Artur Bernardes, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores, a denominação de Escola Agrícola Artur Bernardes e aprova o regimento dêste órgão.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Patronato Agrícola Artur Bernardes, do Serviço de Assistência a Menores do Ministério da Justiça e Negócios Interiores, passa a denominar-se Escola Agrícola Artur Bernardes.
 
-<strong>Art</strong>. 1º O Patronato Agrícola Artur Bernardes, do Serviço de Assistência a Menores do Ministério da Justiça e Negócios Interiores, passa a denominar-se Escola Agrícola Artur Bernardes.
+**Art**. 2º Fica aprovado o regimento da Escola Agrícola Artur Bernardes, que, assinado, pelo Ministro da Justiça e Negócios Interiores, com êste baixa.
 
-<strong>Art</strong>. 2º Fica aprovado o regimento da Escola Agrícola Artur Bernardes, que, assinado, pelo Ministro da Justiça e Negócios Interiores, com êste baixa.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedicto Costa Netto
 
-<strong>REGIMENTO DA ESCOLA AGRÍCOLA ARTUR BERNARDES</strong>
+**REGIMENTO DA ESCOLA AGRÍCOLA ARTUR BERNARDES**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Escola Agrícola Artur Bernardes (E.A.A.B.), órgão executor do Serviço de Assistência a Menores (S.A.M.) do Ministério da Justiça e Negócios Interiores (M.J.N.I.) e diretamente subordinado ao Diretor do referido Serviço, tem por finalidade ajustar menores desvalidos, do sexo masculino, devendo para isso, ministrar-lhes, de acôrdo com as normas expedidas pelo órgão com as normas expedidas pelo órgão Central do S.A.M., o ensino semi-especializado de agricultura, zootecnia e indústrias rurais.
+**Art**. 1º A Escola Agrícola Artur Bernardes (E.A.A.B.), órgão executor do Serviço de Assistência a Menores (S.A.M.) do Ministério da Justiça e Negócios Interiores (M.J.N.I.) e diretamente subordinado ao Diretor do referido Serviço, tem por finalidade ajustar menores desvalidos, do sexo masculino, devendo para isso, ministrar-lhes, de acôrdo com as normas expedidas pelo órgão com as normas expedidas pelo órgão Central do S.A.M., o ensino semi-especializado de agricultura, zootecnia e indústrias rurais.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A. E.A.A.B. compõe-se de:
+**Art**. 2º A. E.A.A.B. compõe-se de:
 
 Setor de Agricultura e Zootecnia (S.A.Z.)
 
@@ -48,17 +46,17 @@ Setor de Disciplina (S.D.)
 
 Secretaria (S)
 
-<strong>Art</strong>. 3º A. E.A.A.B. terá um Diretor.
+**Art**. 3º A. E.A.A.B. terá um Diretor.
 
-<strong>Art</strong>. 4º Os Setores e a Secretaria Terão Chefes designados pelo Diretor da E.A.A.B.
+**Art**. 4º Os Setores e a Secretaria Terão Chefes designados pelo Diretor da E.A.A.B.
 
-<strong>Art</strong>. 5º Os órgãos que integram a E.A.A.B. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram a E.A.A.B. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º Ao S.A.Z. compete promover o ensino teórico-prático de agricultura e zootécnia, devendo para isso:
+**Art**. 6º Ao S.A.Z. compete promover o ensino teórico-prático de agricultura e zootécnia, devendo para isso:
 
 I - Preparar e manter, devidamente cuidados, culturas, sementeiras, videiros, ripados, estufins e parques nas áreas que lhe forem reservadas;
 
@@ -74,7 +72,7 @@ VI - Manter instalações adequadas para os animais de produção e de trabalho;
 
 VII - preparar e manter, devidamente cuidadas, culturas de plantas forrageiras para a alimentação dos animais mencionados no item anterior.
 
-<strong>Art</strong>. 7º Ao S.I.R. compete promover o ensino teórico-prático de indústrias rurais, devendo, para isso:
+**Art**. 7º Ao S.I.R. compete promover o ensino teórico-prático de indústrias rurais, devendo, para isso:
 
 I - Fazer a manipulação industrial de produtos de origem vegetal e animal;
 
@@ -84,7 +82,7 @@ III - Manipular e entregar à Secretaria, para consumo ou venda, as mercadorias 
 
 Parágrafo único. Ao S.I.R. compete, ainda, ministrar aos educandos a prática de trabalhos em madeira, ferro e couro, tendo em vista não só complementar a preparação para as atividades rurais, como também satisfazer a necessidade da própria E.A.A.B.
 
-<strong>Art</strong>. 8º Ao S.E.G. compete:
+**Art**. 8º Ao S.E.G. compete:
 
 I - Ministrar aos educandos o ensino primário fundamental e complementar, de acôrdo com os programas expedidos, pelo órgão Central do S.A.M.;
 
@@ -92,7 +90,7 @@ II - Ministrar a educação física, a educação artística e a educação soci
 
 III - Promover a organização de excursões, de dramatizações, de museus e bibliotecas escolares e demais atividades extra-classe.
 
-<strong>Art</strong>. 9º Ao S.S. compete:
+**Art**. 9º Ao S.S. compete:
 
 I - Assegurar aos educandos tratamento médico e odontológico conveniente;
 
@@ -124,7 +122,7 @@ III - Fornecer lau-dos médicos para efeito de admissão, exercício, licenças 
 
 § 2º Na execução dos serviços a que se refere o parágrafo anterior, o S.S. observará as normas expedidas pela Divisão do Pessoal do D.A. do M.J.N.I.
 
-<strong>Art</strong>. 10. Ao S.D. compete:
+**Art**. 10. Ao S.D. compete:
 
 I - manter a disciplina ativa entre os educandos;
 
@@ -134,7 +132,7 @@ III - cuidar da vigilância diurna e noturna dos edifícios e terrenos da E.A.A.
 
 IV - zelar, com o auxilio dos educandos, pela limpeza e bom estado de conservação das dependências da Escola.
 
-<strong>Art</strong>. 11. À Secretaria compete:
+**Art**. 11. À Secretaria compete:
 
 I - promover a matrícula e demais assentamentos referentes aos menores;
 
@@ -168,9 +166,9 @@ II - velar, permanentemente, pelo bom funcionamento das instalações de água e
 
 § 2º No que concerne às atividades de administração geral a Secretaria deverá funcionar articulada com o D.A. do M.J.N.I., observando as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<strong>Art</strong>. 12. Ao Diretor incumbe:
+**Art**. 12. Ao Diretor incumbe:
 
 I - administrar a Escola;
 
@@ -218,7 +216,7 @@ XXII - determinar os trabalhos a serem realizados pelas oficinas e autorizar a e
 
 XXIII - distribuir os educandos pelas classes e oficinas.
 
-<strong>Art</strong>. 13. Aos Chefes dos Setores e da Secretaria incumbe:
+**Art**. 13. Aos Chefes dos Setores e da Secretaria incumbe:
 
 I - dirigir o respectivo setor de trabalhos;
 
@@ -236,7 +234,7 @@ VII - propor ao Diretor da Escola a antecipação ou prorrogação do período n
 
 VIII - organizar e submeter à aprovação do Diretor da Escola a escala de férias do pessoal que lhe fôr subordinado, bem como as alterações subseqüentes.
 
-<strong>Art</strong>. 14. - Aos Chefes do S.A.Z., do S.I.R. e S.E.G. compete, além do enumerado no artigo anterior:
+**Art**. 14. - Aos Chefes do S.A.Z., do S.I.R. e S.E.G. compete, além do enumerado no artigo anterior:
 
 I - designar, para cada auxiliar de ensino, a classe que irá reger;
 
@@ -248,11 +246,11 @@ IV - superintender e fiscalizar os trabalhos das várias classes e orientar os a
 
 V - comunicar, imediatamente, por escrito, ao S.D., qualquer infração praticada, nas aulas, pelos educandos.
 
-<strong>Art</strong>. 15. - Ao Chefe do S.I.R. compete, ainda, distribuir às oficinas os trabalhos e encomendas autorizados pelo Diretor.
+**Art**. 15. - Ao Chefe do S.I.R. compete, ainda, distribuir às oficinas os trabalhos e encomendas autorizados pelo Diretor.
 
-<strong>Art</strong>. 16. - Ao Chefe do S.S. compete, além do enumerado no artigo 13, informar periòdicamente o Diretor sôbre as condições de saúde dos educandos.
+**Art**. 16. - Ao Chefe do S.S. compete, além do enumerado no artigo 13, informar periòdicamente o Diretor sôbre as condições de saúde dos educandos.
 
-<strong>Art</strong>. 17. - Ao Chefe do S.D. compete, ainda:
+**Art**. 17. - Ao Chefe do S.D. compete, ainda:
 
 I - comunicar, imediatamente, ao Diretor, qualquer ocorrência extraordinária que se verificar na E.A.A.B.;
 
@@ -262,29 +260,29 @@ III - orientar e fiscalizar o trabalho dos inspetores de alunos;
 
 IV - orientar e fiscalizar o trabalho dos guardas.
 
-<strong>Art</strong>. 18. - Aos demais servidores, sem funções especificadas nêste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 18. - Aos demais servidores, sem funções especificadas nêste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 19. - A.E.A.A.B. terá a lotação aprovada em decreto.
+**Art**. 19. - A.E.A.A.B. terá a lotação aprovada em decreto.
 
 Parágrafo único. - Além dos funcionários constantes da lotação, a E.A.A.B. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 20. - O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 20. - O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 21. - O Diretor da E.A.A.B. não fica sujeito a ponto, devendo, porém, observar o horário fixado.
+**Art**. 21. - O Diretor da E.A.A.B. não fica sujeito a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 22. - Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 22. - Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - o Diretor, por um dos Chefes de Setor ou da Secretaria designado, por indicação sua, pelo Diretor do S.A.M.;
 
@@ -292,20 +290,20 @@ II - os Chefes dos Setores e da Secretaria, por servidores designados pelo Diret
 
 Parágrafo único. Haverá, sempre, servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. Mediante instruções de serviço do respectivo Chefe, os Setores e a Secretaria poderão desdobrar-se em turmas.
+**Art**. 23. Mediante instruções de serviço do respectivo Chefe, os Setores e a Secretaria poderão desdobrar-se em turmas.
 
-<strong>Art</strong>. 24. Nenhum servidor poderá fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da E.A.A.B. sem autorização do Diretor do S.A.M.
+**Art**. 24. Nenhum servidor poderá fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da E.A.A.B. sem autorização do Diretor do S.A.M.
 
-<strong>Art</strong>. 25. É vedado aos Mestres e ao pessoal das oficinas a realização, por deliberação própria, de qualquer trabalho de natureza particular.
+**Art**. 25. É vedado aos Mestres e ao pessoal das oficinas a realização, por deliberação própria, de qualquer trabalho de natureza particular.
 
-<strong>Art</strong>. 26. Além dos trabalhos para a Escola, as oficinas do S.I.R. poderão executar trabalhos de encomenda autorizados pelo Diretor.
+**Art**. 26. Além dos trabalhos para a Escola, as oficinas do S.I.R. poderão executar trabalhos de encomenda autorizados pelo Diretor.
 
-<strong>Art</strong>. 27. Excepcionalmente, enquanto não houver número suficiente de menores que preencham os requisitos psico-pedagógicos exigidos pelo ensino a que é destinada, a Escola servirá também para internar, sob diverso regime pedagógico, outros menores que lhe forem encaminhados pelo Órgão Central do S.A.M.
+**Art**. 27. Excepcionalmente, enquanto não houver número suficiente de menores que preencham os requisitos psico-pedagógicos exigidos pelo ensino a que é destinada, a Escola servirá também para internar, sob diverso regime pedagógico, outros menores que lhe forem encaminhados pelo Órgão Central do S.A.M.
 
 Rio de Janeiro, em 23 de outubro de 1946.
 
-<strong>BENEDICTO COSTA NETTO</strong>
+**BENEDICTO COSTA NETTO**

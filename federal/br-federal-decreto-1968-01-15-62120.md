@@ -1,5 +1,3 @@
-###DEC-062120-0-000-15-01-1968@@@
-
 DECRETO Nº 62.120, DE 15 DE JANEIRO DE 1968.
 
 Outorga concessão à Sociedade de Televisão Ajuricaba Ltda., para estabelecer uma estação de radiodifusão de sons e imagens (televisão) em UHF na cidade de Manaus, Estado do Amazonas.

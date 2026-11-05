@@ -1,5 +1,3 @@
-###DEC-079252-0-000-14-02-1977@@@
-
 DECRETO Nº 79.252, DE 14 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários à construção dos oleodutos e gasodutos de Sergipe e Alagoas, linhas de transmissão e adutora, entre os Municípios de Carmópolis e Siriri, no Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-003035-0-000-27-04-1999@@@
-
 DECRETO Nº 3.035, DE 27 DE ABRIL DE 1999.
 
 Delega competência para a prática dos atos que menciona, e dá outras providências.

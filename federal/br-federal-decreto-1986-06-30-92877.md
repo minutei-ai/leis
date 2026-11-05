@@ -1,5 +1,3 @@
-###DEC-092877-0-000-30-06-1986@@@
-
 DECRETO Nº 92.877, DE 30 DE JUNHO DE 1986
 
 Altera disposições do Decreto nº 90.967, de 20 de fevereiro de 1985, que dispõe sobre o provimento dos cargos de DAS na Secretaria da Receita Federal.

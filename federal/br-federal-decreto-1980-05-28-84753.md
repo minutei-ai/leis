@@ -1,5 +1,3 @@
-###DEC-084753-0-000-28-05-1980@@@
-
 Decreto nº 84.753, de 28 de maio de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

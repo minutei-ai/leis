@@ -1,5 +1,3 @@
-###DEL-006727-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.727 – DE 24 DE JULHO DE 1944
 
 Concede pensão especial aos herdeiros de um funcionário da Estrada de Ferro Goiaz

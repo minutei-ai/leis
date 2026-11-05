@@ -1,5 +1,3 @@
-###DEC-049479-0-000-09-12-1960@@@
-
 DECRETO Nº 49.479, DE 9 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Luís Roberto de Carvalho Vidigal a pesquisar feldspato no município de Monte Sião, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060828-0-000-07-06-1967@@@
-
 Decreto nº 60.828, de 7 de junho de 1967.
 
 Dá nova redação ao parágrafo único do artigo 9º do Decreto nº 59.203, de 12 de setembro de 1966, alterado pelo Decreto nº 60.222, de 15 de fevereiro de 1967.

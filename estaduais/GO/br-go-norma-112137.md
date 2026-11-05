@@ -12,50 +12,690 @@ Art. 2º Esta portaria entra em vigor nesta data. GABINETE DO SECRETÁRIO DE EST
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 341.340,34</td><td style=" width:85px;    ">R$ 341.340,34</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.297,90</td><td style=" width:85px;    ">R$ 3.297,90</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 11.330,10</td><td style=" width:85px;    ">R$ 40,83</td><td style=" width:85px;    ">R$ 11.370,93</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.088.198,04</td><td style=" width:85px;    ">R$ 1.603.764,96</td><td style=" width:85px;    ">R$ 6.691.963,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER</b><br>2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROGRAMA ESTADUAL DE INCLUSÃO AO ESPORTE PRO GOIAS ESPORTE</td><td style=" width:85px;    ">27 812 1027 3359</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 520.000,00</td><td style=" width:85px;    ">R$ 2.627.942,24</td><td style=" width:85px;    ">R$ 3.147.942,24</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.627.983,07</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 3.297,90</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 341.340,34</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.603.764,96</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 4.576.386,27</td></tr></tbody></table>
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 341.340,34
+
+R$ 341.340,34
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 3.297,90
+
+R$ 3.297,90
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 11.330,10
+
+R$ 40,83
+
+R$ 11.370,93
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+27130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.088.198,04
+
+R$ 1.603.764,96
+
+R$ 6.691.963,00
+
+**2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER**
+2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROGRAMA ESTADUAL DE INCLUSÃO AO ESPORTE PRO GOIAS ESPORTE
+
+27 812 1027 3359
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 520.000,00
+
+R$ 2.627.942,24
+
+R$ 3.147.942,24
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.627.983,07
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 3.297,90
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 341.340,34
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 1.603.764,96
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 4.576.386,27
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">99 999 9999 9000</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">99</td><td style=" width:85px;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">R$ 3.120.947,00</td><td style=" width:85px;    ">R$ 341.340,34</td><td style=" width:85px;    ">R$ 341.340,34</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.958,64</td><td style=" width:85px;    ">R$ 40,83</td><td style=" width:85px;    ">R$ 40,83</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.068.773,66</td><td style=" width:85px;    ">R$ 3.297,90</td><td style=" width:85px;    ">R$ 3.297,90</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER</b><br>2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNACIONAIS</td><td style=" width:85px;    ">27 813 1054 3360</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNACIONAIS</td><td style=" width:85px;    ">27 813 1054 3360</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 170.000,00</td><td style=" width:85px;    ">R$ 170.000,00</td><td style=" width:85px;    ">R$ 170.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE JOGOS ABERTOS DE GOIÁS</td><td style=" width:85px;    ">27 812 1027 3176</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 257.197,18</td><td style=" width:85px;    ">R$ 257.197,18</td><td style=" width:85px;    ">R$ 257.197,18</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA, AMPLIAÇÃO E MODERNIZAÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS &nbsp;</td><td style=" width:85px;    ">27 451 1027 2279</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA, AMPLIAÇÃO E MODERNIZAÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS &nbsp;</td><td style=" width:85px;    ">27 451 1027 2279</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 19.193,94</td><td style=" width:85px;    ">R$ 19.193,94</td><td style=" width:85px;    ">R$ 19.193,94</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DO ESPORTE COM ALCANCE DE PESSOAS EM SITUAÇÃO DE VULNERABILIDADE SOCIAL</td><td style=" width:85px;    ">27 812 1027 2556</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 230.100,64</td><td style=" width:85px;    ">R$ 230.100,64</td><td style=" width:85px;    ">R$ 230.100,64</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE RUA DO LAZER</td><td style=" width:85px;    ">27 813 1027 3174</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 117.560,40</td><td style=" width:85px;    ">R$ 117.560,40</td><td style=" width:85px;    ">R$ 117.560,40</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ESPORTE E LAZER NOS MUNICÍPIOS</td><td style=" width:85px;    ">27 812 1027 2350</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ESPORTE E LAZER NOS MUNICÍPIOS</td><td style=" width:85px;    ">27 812 1027 2350</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE ATIVIDADES DESPORTIVAS, ARTES MARCIAIS E LAZER PARA ALUNOS</td><td style=" width:85px;    ">27 812 1027 2348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 61.892,35</td><td style=" width:85px;    ">R$ 61.892,35</td><td style=" width:85px;    ">R$ 61.892,35</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DA COPA QUILOMBOLA DE ESPORTES</td><td style=" width:85px;    ">27 812 1027 3175</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 186.800,38</td><td style=" width:85px;    ">R$ 186.800,38</td><td style=" width:85px;    ">R$ 186.800,38</td></tr><tr><td style=" width:85px;    ">PARCERIAS ESCOLARES PARA ATIVIDADES DESPORTIVAS E LAZER</td><td style=" width:85px;    ">27 812 1027 2349</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 42.201,57</td><td style=" width:85px;    ">R$ 42.201,57</td><td style=" width:85px;    ">R$ 42.201,57</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA IDOSOS</td><td style=" width:85px;    ">27 812 1027 2345</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 210.327,24</td><td style=" width:85px;    ">R$ 210.327,24</td><td style=" width:85px;    ">R$ 210.327,24</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA PESSOAS COM DEFICIÊNCIA</td><td style=" width:85px;    ">27 812 1027 2344</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 114.225,74</td><td style=" width:85px;    ">R$ 114.225,74</td><td style=" width:85px;    ">R$ 114.225,74</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS ESPORTIVOS</td><td style=" width:85px;    ">27 812 1027 2342</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 573,74</td><td style=" width:85px;    ">R$ 573,74</td><td style=" width:85px;    ">R$ 573,74</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS &nbsp;</td><td style=" width:85px;    ">27 451 1027 2280</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS &nbsp;</td><td style=" width:85px;    ">27 451 1027 2280</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE RUA DO LAZER</td><td style=" width:85px;    ">27 813 1027 3174</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 16.991,60</td><td style=" width:85px;    ">R$ 16.991,60</td><td style=" width:85px;    ">R$ 16.991,60</td></tr><tr><td style=" width:85px;    ">BOLSA PRO-TÉCNICO</td><td style=" width:85px;    ">27 811 1027 2347</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 40.000,00</td><td style=" width:85px;    ">R$ 40.000,00</td><td style=" width:85px;    ">R$ 40.000,00</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS ESPORTIVOS</td><td style=" width:85px;    ">27 812 1027 2342</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 320.000,00</td><td style=" width:85px;    ">R$ 320.000,00</td><td style=" width:85px;    ">R$ 320.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER PARA GRUPOS MINORITÁRIOS</td><td style=" width:85px;    ">27 812 1027 2343</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 259,58</td><td style=" width:85px;    ">R$ 259,58</td><td style=" width:85px;    ">R$ 259,58</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER NOS MUNICÍPIOS COM MAIOR VULNERABILIDADE</td><td style=" width:85px;    ">27 244 1027 2451</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 700.617,88</td><td style=" width:85px;    ">R$ 700.617,88</td><td style=" width:85px;    ">R$ 700.617,88</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 1.603.764,96</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.603.764,96</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.627.983,07</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 3.297,90</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 341.340,34</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.972.621,31</td></tr></tbody></table>
+RESERVA DE CONTINGÊNCIA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+99 999 9999 9000
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.627.983,07</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 3.297,90</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 341.340,34</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.603.764,96</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 4.576.386,27</td></tr></tbody></table>
+17530161
+
+99
+
+9 - RESERVA DE CONTINGÊNCIA
+
+R$ 3.120.947,00
+
+R$ 341.340,34
+
+R$ 341.340,34
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.958,64
+
+R$ 40,83
+
+R$ 40,83
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 2.068.773,66
+
+R$ 3.297,90
+
+R$ 3.297,90
+
+**2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER**
+2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNACIONAIS
+
+27 813 1054 3360
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNACIONAIS
+
+27 813 1054 3360
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 170.000,00
+
+R$ 170.000,00
+
+R$ 170.000,00
+
+REALIZAÇÃO DE JOGOS ABERTOS DE GOIÁS
+
+27 812 1027 3176
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 257.197,18
+
+R$ 257.197,18
+
+R$ 257.197,18
+
+CONSTRUÇÃO, REFORMA, AMPLIAÇÃO E MODERNIZAÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS
+
+27 451 1027 2279
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+CONSTRUÇÃO, REFORMA, AMPLIAÇÃO E MODERNIZAÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS
+
+27 451 1027 2279
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 19.193,94
+
+R$ 19.193,94
+
+R$ 19.193,94
+
+PROMOÇÃO DO ESPORTE COM ALCANCE DE PESSOAS EM SITUAÇÃO DE VULNERABILIDADE SOCIAL
+
+27 812 1027 2556
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 230.100,64
+
+R$ 230.100,64
+
+R$ 230.100,64
+
+IMPLANTAÇÃO DE RUA DO LAZER
+
+27 813 1027 3174
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 117.560,40
+
+R$ 117.560,40
+
+R$ 117.560,40
+
+PROMOÇÃO DE ESPORTE E LAZER NOS MUNICÍPIOS
+
+27 812 1027 2350
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+PROMOÇÃO DE ESPORTE E LAZER NOS MUNICÍPIOS
+
+27 812 1027 2350
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+DISPONIBILIZAÇÃO DE ATIVIDADES DESPORTIVAS, ARTES MARCIAIS E LAZER PARA ALUNOS
+
+27 812 1027 2348
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 61.892,35
+
+R$ 61.892,35
+
+R$ 61.892,35
+
+REALIZAÇÃO DA COPA QUILOMBOLA DE ESPORTES
+
+27 812 1027 3175
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 186.800,38
+
+R$ 186.800,38
+
+R$ 186.800,38
+
+PARCERIAS ESCOLARES PARA ATIVIDADES DESPORTIVAS E LAZER
+
+27 812 1027 2349
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 42.201,57
+
+R$ 42.201,57
+
+R$ 42.201,57
+
+PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA IDOSOS
+
+27 812 1027 2345
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 210.327,24
+
+R$ 210.327,24
+
+R$ 210.327,24
+
+PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA PESSOAS COM DEFICIÊNCIA
+
+27 812 1027 2344
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 114.225,74
+
+R$ 114.225,74
+
+R$ 114.225,74
+
+AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS ESPORTIVOS
+
+27 812 1027 2342
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 573,74
+
+R$ 573,74
+
+R$ 573,74
+
+MANUTENÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS
+
+27 451 1027 2280
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+MANUTENÇÃO DE ESTÁDIOS, PRAÇAS ESPORTIVAS E GINÁSIOS
+
+27 451 1027 2280
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+IMPLANTAÇÃO DE RUA DO LAZER
+
+27 813 1027 3174
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 16.991,60
+
+R$ 16.991,60
+
+R$ 16.991,60
+
+BOLSA PRO-TÉCNICO
+
+27 811 1027 2347
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 40.000,00
+
+R$ 40.000,00
+
+R$ 40.000,00
+
+AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS ESPORTIVOS
+
+27 812 1027 2342
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 320.000,00
+
+R$ 320.000,00
+
+R$ 320.000,00
+
+PROMOÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER PARA GRUPOS MINORITÁRIOS
+
+27 812 1027 2343
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 259,58
+
+R$ 259,58
+
+R$ 259,58
+
+IMPLEMENTAÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER NOS MUNICÍPIOS COM MAIOR VULNERABILIDADE
+
+27 244 1027 2451
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 700.617,88
+
+R$ 700.617,88
+
+R$ 700.617,88
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 1.603.764,96
+
+**TOTAL**
+
+R$ 1.603.764,96
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.627.983,07
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 3.297,90
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 341.340,34
+
+**TOTAL**
+
+R$ 2.972.621,31
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.627.983,07
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 3.297,90
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 341.340,34
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 1.603.764,96
+
+**TOTAL**
+
+R$ 4.576.386,27

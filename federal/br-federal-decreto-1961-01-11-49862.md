@@ -1,5 +1,3 @@
-###DEC-049862-0-000-11-01-1961@@@
-
 DECRETO Nº 49.862, DE 11 DE JANEIRO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Município de Santo Ângelo, Estado do Rio Grande do Sul, de um terreno necessário ao Ministério da Guerra.

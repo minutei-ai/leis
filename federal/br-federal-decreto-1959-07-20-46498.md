@@ -1,5 +1,3 @@
-###DEC-046498-0-000-20-07-1959@@@
-
 DECRETO Nº 46.498, DE 20 DE JULHO DE 1959.
 
 Outorga a Centrais Elétricas Matogrossense S.A. concessão para o aproveitamento de energia Hidráulica da cachoeira São Domingos, no rio São Domingos, no distrito sede do município de Torixoreu, Estado de Mato Grosso.

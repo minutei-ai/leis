@@ -1,5 +1,3 @@
-###DEC-058153-0-000-04-04-1966@@@
-
 DECRETO Nº 58.153, DE 4 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Eduardo Lins a lavrar calcário no município de Monte Alegre, Estado do Pará.

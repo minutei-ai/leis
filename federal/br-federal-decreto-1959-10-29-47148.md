@@ -1,5 +1,3 @@
-###DEC-047148-0-000-29-10-1959@@@
-
 DECRETO Nº 47.148, DE 29 DE OUTUBRO DE 1959.
 
 Altera a redação do inciso V do art. 9º e do art. 22, do Decreto nº 45.942, de 29 de abril de 1959, que “dispõe sôbre a organização do Departamento de Seguros Privados e Capitalização do IPASE”.

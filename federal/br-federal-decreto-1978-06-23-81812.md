@@ -1,5 +1,3 @@
-###DEC-081812-0-000-23-06-1978@@@
-
 Decreto nº 81.812, de 23 de junho de 1978.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Educação da Universidade de Estadual de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

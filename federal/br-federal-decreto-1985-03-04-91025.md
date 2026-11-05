@@ -1,5 +1,3 @@
-###DEC-091025-0-000-04-03-1985@@@
-
 Decreto nº 91.025, de 04 de março de 1985
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a aumentar o Capital Social de sua subsidiária INTERNOR TRADE INC., com sede em Nova York -EUA.

@@ -1,5 +1,3 @@
-###DEC-071998-0-000-27-03-1973@@@
-
 decreto nº 71.998, de 27 de março de 1973.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.
@@ -27,8 +25,6 @@ Brasília, 27 de março de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 Antônio Dias Leite Júnior
-
-###DEC-071998-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 71.998, DE 27 DE MARÇO DE 1973.
 

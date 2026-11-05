@@ -1,5 +1,3 @@
-###DEC-002501-0-000-18-02-1998@@@
-
 DECRETO Nº 2.501, DE 18 DE FEVEREIRO DE 1998
 
 Fixa alíquota do Imposto sobre Produtos Industrializados e o percentual do crédito presumido compensável com o imposto devido nas saídas de açúcares de cana.

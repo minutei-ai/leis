@@ -1,5 +1,3 @@
-###DEC-065243-0-000-26-09-1969@@@
-
 DECRETO Nº 65.243 - DE 26 DE SETEMBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério do Trabalho e Previdência Social, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional, Companhia Nacional de Navegação Costeira - Autarquia Federal, Serviço de Navegação da Bacia do Prata e Serviço de Navegação da Amazônia e de Administração do Pôrto do Pará, e dá outras providências.

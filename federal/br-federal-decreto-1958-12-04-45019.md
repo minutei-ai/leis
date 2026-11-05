@@ -1,5 +1,3 @@
-###DEC-045019-0-000-04-12-1958@@@
-
 DECRETO Nº 45.019, DE 4 DE DEZEMBRO DE 1958.
 
 Outorga à Companhia Paranaense de Energia Elétrica (COPEL) autorização de estudos, para o aproveitamento de energia hidráulica do rio Tibagi - Alto e Médio, a montante da cidade de Jataìzinho.

@@ -1,5 +1,3 @@
-###DEL-007370-0-000-09-03-1945@@@
-
 DECRETO-LEI N. 7.370 – DE 9 DE MARCO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar de impostos a instituição que menciona

@@ -1,5 +1,3 @@
-###DEC-075811-0-000-02-06-1975@@@
-
 DECRETO Nº 75.811, DE 2 DE JUNHO DE 1975.
 
 Autoriza o funcionamento do curso de Educação Artística, licenciaturas de 1º e 2º graus, como transformação do curso de Desenho e Plástica da Faculdade de Ciências e Letras, mantida pela Fundação Regional Educacional de Avaré, com sede na cidade de Avaré, Estado de São Paulo.

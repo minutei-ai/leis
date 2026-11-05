@@ -1,5 +1,3 @@
-###DEC-082001-0-000-19-07-1978@@@
-
 DECRETO Nº 82.001, DE 19 DEJULHO DE 1978.
 
 Concede reconhecimento às habilitações Supervisão Escolar e Inspeção Escolar do curso de Pedagogia do Instituto de Ciências Sociais de Americana, com sede na cidade de Americana, Estado de São Paulo.

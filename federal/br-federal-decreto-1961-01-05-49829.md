@@ -1,5 +1,3 @@
-###DEC-049829-0-000-05-01-1961@@@
-
 DECRETO Nº 49.829, DE 5 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44154, de 25 de julho de 1958.

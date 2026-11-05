@@ -1,5 +1,3 @@
-###DEC-068482-0-000-06-04-1971@@@
-
 DECRETO Nº 68.482 - DE 6 DE ABRIL DE 1971.
 
 Prorroga prazo de concessão de aproveitamento hidráulico.

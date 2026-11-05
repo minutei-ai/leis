@@ -1,7 +1,3 @@
-1
-
-###DEC-098846-0-000-17-01-1990@@@
-
 DECRETO Nº 98.846, DE 17 DE JANEIRO DE 1990
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Eletricidade de São Paulo S.A. ELETROPAULO, no Estado de São Paulo.

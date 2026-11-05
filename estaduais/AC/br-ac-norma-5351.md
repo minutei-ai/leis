@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.057, de 15 de Dezembro de 2022.](https://legis.ac.gov
 
 > **LEI Nº 3.986, DE 01 DE NOVEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Sistema Estadual de Prevenção e Combate à Tortura – SEPCT.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Sistema Estadual de Prevenção e Combate à Tortura – SEPCT.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -118,7 +122,7 @@ Modificada pela Lei nº [4.057, de 15 de Dezembro de 2022.](https://legis.ac.gov
 
 **~~§ 2º~~** ~~O vice-presidente será eleito pelos demais membros do CEPCT/AC na última sessão ordinária do mês de dezembro, devendo a posse ocorrer na primeira sessão ordinária do ano subsequente, e exercerá mandato fixo de um ano, assegurando-se a alternância entre os representantes do Poder Executivo estadual e os representantes de conselhos de classes profissionais e de organizações da sociedade civil, na forma do regulamento.~~
 
-**§ 2º** O presidente e o vice-presidente serão eleitos pelos demais membros do Comitê Estadual de Prevenção e Combate à Tortura - CEPCT-AC, na última sessão ordinária do mês de dezembro, devendo a posse ocorrer na primeira sessão ordinária do ano subsequente, e exercerão mandato fixo de um ano, assegurando-se a alternância entre os representantes do Poder Executivo e os representantes de conselhos de classes profissionais e de organizações da sociedade civil, na forma do regulamento. (Redação dada pela Lei nº 4.057, de 15/12/2022)<br>
+**§ 2º** O presidente e o vice-presidente serão eleitos pelos demais membros do Comitê Estadual de Prevenção e Combate à Tortura - CEPCT-AC, na última sessão ordinária do mês de dezembro, devendo a posse ocorrer na primeira sessão ordinária do ano subsequente, e exercerão mandato fixo de um ano, assegurando-se a alternância entre os representantes do Poder Executivo e os representantes de conselhos de classes profissionais e de organizações da sociedade civil, na forma do regulamento. (Redação dada pela Lei nº 4.057, de 15/12/2022)
 
 **§ 3º** Haverá um suplente para cada membro titular do CEPCT/AC.
 

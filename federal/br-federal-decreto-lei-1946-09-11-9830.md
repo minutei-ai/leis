@@ -1,5 +1,3 @@
-###DEL-009830-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.830 – DE 11 DE SETEMBRO DE 1946
 
 Altera dispositivo do Decreto-lei número 8.919, de 26 de Janeiro de 1946, e dá outra providências.

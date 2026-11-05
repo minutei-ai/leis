@@ -1,5 +1,3 @@
-###DEC-049594-0-000-28-12-1960@@@
-
 DECRETO Nº 49.594, DE 28 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “Mercúrio”, Companhia Nacional de Seguros.

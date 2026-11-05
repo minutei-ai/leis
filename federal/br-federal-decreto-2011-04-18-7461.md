@@ -1,5 +1,3 @@
-###DEC-007461-0-000-18-04-2011-PUB-01@@@
-
 DECRETO Nº\- 7.461, DE 18 DE ABRIL DE 2011
 
 Dá nova redação ao caput do art. 6º do Decreto nº 7.336, de 19 de outubro de 2010, para prorrogar o prazo de efetivação da transição da gestão do Subsistema de Atenção à Saúde Indígena da Fundação Nacional de Saúde para o Ministério da Saúde.

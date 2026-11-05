@@ -1,5 +1,3 @@
-###DEC-090930-0-000-08-02-1985@@@
-
 Decreto nº 90.930, de 08 de fevereiro de 1985
 
 Outorga concessão à RÁDIO CULTURA DE ARAPIRACA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Arapiraca, Estado de Alagoas.

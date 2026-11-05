@@ -1,7 +1,3 @@
-1
-
-###DEC-095681-0-000-28-01-1988@@@
-
 DECRETO N° 95.681, DE 28 DE JANEIRO DE 1988
 
 Altera a composição do Conselho de Previdência Complementar - CPC, e dá outras providências.

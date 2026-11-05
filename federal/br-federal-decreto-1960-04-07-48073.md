@@ -1,5 +1,3 @@
-###DEC-048073-0-000-07-04-1960@@@
-
 DECRETO Nº 48.073, DE 7 DE ABRIL DE 1960.
 
 Autoriza a Companhia Sul Mineira de Eletricidade a construir uma linha de transmissão.

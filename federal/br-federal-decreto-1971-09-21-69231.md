@@ -1,5 +1,3 @@
-###DEC-069231-0-000-21-09-1971@@@
-
 DECRETO nº 69.231, de 21 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Associação Petrolinense de Amparo à Maternidade e à Infância, com sede em Petrolina, Estado de Pernambuco.

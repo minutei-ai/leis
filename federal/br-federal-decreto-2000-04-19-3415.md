@@ -1,5 +1,3 @@
-###DEC-003415-0-000-19-04-2000@@@
-
 DECRETO Nº 3.415, DE 19 DE ABRIL DE 2000.
 
 Delega competência ao Ministro de Estado da Justiça para a declaração de utilidade pública de sociedades civis, associações e fundações, prevista na Lei nº 91, de 28 de agosto de 1935.

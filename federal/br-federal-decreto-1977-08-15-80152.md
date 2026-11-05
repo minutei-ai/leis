@@ -1,5 +1,3 @@
-###DEC-080152-0-000-15-08-1977@@@
-
 decreto nº 80.152, de 15 de agosto de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação da subestação Vitória II, no Município de Vitória, no Estado de Espírito Santo.

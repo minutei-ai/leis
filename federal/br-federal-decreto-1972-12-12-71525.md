@@ -1,5 +1,3 @@
-###DEC-071525-0-000-12-12-1972@@@
-
 DECRETO Nº 71.525 - DE 12 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade de Administração e Ciências Contábeis "Tibiriçá", (SP).

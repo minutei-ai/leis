@@ -1,5 +1,3 @@
-###DEC-080453-0-000-03-10-1977@@@
-
 DECRETO Nº 80.453, DE 3 DE outubro DE 1977.
 
 Autoriza o registro, em nome da União, do imóvel que menciona situado no Município de Jacaré dos Homens, Estado de Alagoas.

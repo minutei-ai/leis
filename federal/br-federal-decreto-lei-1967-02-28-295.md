@@ -1,5 +1,3 @@
-###DEL-000295-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 295, DE 23 DE FEVEREIRO DE 1967
 
 Cria Comissão Liquidante do Acervo do Conselho Nacional de Economia.

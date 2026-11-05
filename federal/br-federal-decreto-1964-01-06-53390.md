@@ -1,5 +1,3 @@
-###DEC-053390-0-000-06-01-1964@@@
-
 DECRETO Nº 53.390, DE 6 DE JANEIRO DE 1964.
 
 Altera o Regulamento para os Centros de Instrução da Marinha.

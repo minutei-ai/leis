@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208425)<br>
-
 # DECRETO N° 67.895, DE 21 DE AGOSTO DE 2023
 
 ### _Autoriza a outorga de uso, ao Município de Franco da Rocha, de parte de imóvel que especifica, e dá providências correlatas._

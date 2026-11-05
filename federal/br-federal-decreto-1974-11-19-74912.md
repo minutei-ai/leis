@@ -1,5 +1,3 @@
-###DEC-074912-0-000-19-11-1974@@@
-
 DECRETO Nº 74.912, DE 19 DE NOVEMBRO DE 1974.
 
 Outorga a Industrial Papelaria Piraiense S.A. concessão para o aproveitamento hidráulico de um trecho do rio Santa Rosa, no município de Tibagi, Estado do Paraná, para uso exclusivo.

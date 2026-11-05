@@ -1,5 +1,3 @@
-###DEC-085508-0-000-15-12-1980@@@
-
 Decreto nº 85.508, de 15 de dezembro de 1980.
 
 Autoriza a transferência direta, para a Rádio Difusora Boas Novas Ltda., da concessão deferida à Petrópolis Rádio Difusora S. A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Petrópolis, Estado do Rio de Janeiro.

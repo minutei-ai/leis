@@ -1,5 +1,3 @@
-###DEC-050417-0-000-06-04-1961@@@
-
 DECRETO Nº 50.417, DE 6 DE ABRIL DE 1961.
 
 Determina medidas referentes à repressão ao contrabando e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209576)<br>
-
 # DECRETO N° 68.612, DE 15 DE JUNHO DE 2024
 
 ### _Concede a "Medalha do Mérito Turístico" às personalidades que especifica._

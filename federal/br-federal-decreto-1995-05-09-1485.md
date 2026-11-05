@@ -1,7 +1,3 @@
-1
-
-###DEC-001485-0-000-09-05-1995@@@
-
 DECRETO Nº 1.485, DE 9 DE MAIO DE 1995
 
 Dispõe sobre a exclusão de participação acionária da Petrobrás Química S.A. PETROQUISA do Programa Nacional de Desestatização.

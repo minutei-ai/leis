@@ -1,5 +1,3 @@
-###MPV-001830-0-002-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.830-2, DE 27 DE JULHO DE 1999.
 
 Acresce parágrafo ao art. 12 da Lei nº 7.738, de 9 de março de 1989, que baixa normas complementares para execução da Lei nº 7.730, de 31 de janeiro de 1989.

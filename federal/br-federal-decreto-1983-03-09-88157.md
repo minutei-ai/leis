@@ -1,5 +1,3 @@
-###DEC-088157-0-000-09-03-1983@@@
-
 # Decreto nº 88.157, de 09 de MArço de 1983.
 
 Cria a Comissão Marítima Nacional (CoMaNa) e dá outras providências.

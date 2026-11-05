@@ -1,5 +1,3 @@
-###DEL-001941-0-000-31-05-1982@@@
-
 # DECRETO-LEI Nº 1.941, de 31 maio de 1982.
 
 Autoriza o aumento do capital de empresa pública Casa da Moeda do Brasil - CMB, e dá outras providências.

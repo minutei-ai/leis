@@ -1,5 +1,3 @@
-###DEC-057257-0-000-16-11-1965@@@
-
 Decreto nº 57.257, de 16 de novembro de 1965.
 
 Autoriza Alumínio Minas Gerais S.A. a pesquisar bauxita no município de Barão de Cocais, Estado de Minas Gerais.

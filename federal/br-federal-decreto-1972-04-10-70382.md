@@ -1,6 +1,4 @@
-###DEC-070382-0-000-10-04-1972@@@
-
-  DECRETO Nº 70.382, DE 10 DE ABRIL DE 1972.
+DECRETO Nº 70.382, DE 10 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração e Finanças do Norte de Minas, em Montes Claros, Minas Gerais.
 

@@ -1,5 +1,3 @@
-###MPV-002070-0-027-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.070-27, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

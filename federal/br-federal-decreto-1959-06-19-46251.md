@@ -1,5 +1,3 @@
-###DEC-046251-0-000-19-06-1959@@@
-
 Decreto nº 46.251, de 19 de junho de 1959.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal do domínio útil de terreno de marinha que menciona, no Distrito Federal.

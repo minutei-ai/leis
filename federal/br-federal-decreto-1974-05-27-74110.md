@@ -1,5 +1,3 @@
-###DEC-074110-0-000-27-05-1974@@@
-
 DECRETO Nº 74.110, DE 27 DE MAIO DE 1974
 
 Concede reconhecimento ao curso de Administração (habilitação em Administração de Empresas) da Escola de Administração, mantida pela Associação Pró-Ensino Superior em Novo Hamburgo, Rio Grande do Sul.

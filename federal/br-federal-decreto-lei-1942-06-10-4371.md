@@ -1,5 +1,3 @@
-###DEL-004371-0-000-10-06-1942@@@
-
 DECRETO-LEI N. 4.371 – DE 10 DE JUNHO DE 1942
 
 Cria, no Quadro Único do Ministério do Trabalho, Indústria e Comércio, o cargo de Consultor Médico, fixando-lhe as atribuições e dá outras providências

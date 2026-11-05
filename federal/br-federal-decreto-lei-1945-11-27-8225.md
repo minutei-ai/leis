@@ -1,5 +1,3 @@
-###DEL-008225-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.225 – DE 27 DE NOVEMBRO DE 1945
 
 Dispõe sôbre a carreira de Farmacêutico dos Ministério da Educação e Saúde, da Justiça e Negócios Interiores e do Trabalho, Indústria e Comércio, e dá outras providências

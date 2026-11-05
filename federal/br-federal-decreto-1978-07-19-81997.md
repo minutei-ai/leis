@@ -1,5 +1,3 @@
-###DEC-081997-0-000-19-07-1978@@@
-
 Decreto nº 81.997, de 19 de julho de 1978.
 
 Aprova o Regulamento da Diretoria de Engenharia da Aeronáutica e dá outras providências.

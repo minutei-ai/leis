@@ -1,5 +1,3 @@
-###DEC-068815-0-000-28-06-1971@@@
-
 DECRETO Nº 68.815 - DE 28 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Sociedade Vicente Pallotti, com sede em Santa Maria, Estado do Rio Grande do Sul.

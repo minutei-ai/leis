@@ -1,5 +1,3 @@
-###DEC-077736-0-000-01-06-1976@@@
-
 Decreto nº 77.736, de 1º de junho de 1976.
 
 Concede reconhecimento ao curso de Desenho Industrial da Faculdade de Artes Plásticas de Santos, com sede na cidade de Santos, Estado de São Paulo.

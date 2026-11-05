@@ -1,5 +1,3 @@
-###DEC-081037-0-000-15-12-1977@@@
-
 DECRETO Nº 81.037, DE 15 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras, de Ciências, e de Estudos Sociais da Faculdade de Educação de Caxias, Estado do Maranhão.

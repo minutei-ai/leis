@@ -1,5 +1,3 @@
-###DEC-083513-0-000-28-05-1979@@@
-
 decreto nº 83.513, de 28 de maio de 1979.
 
 Concede reconhecimento às habilitações plenas em Artes Plásticas, Artes Cênicas, Desenho e Música, do curso de Educação Artística, das Faculdades Integradas Teresa D'Ávila, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-094152-0-000-30-03-1987@@@
-
 DECRETO Nº 94.152, DE 30 DE MARCO DE 1987.
 
 Regulamenta a Lei nº 7.165, de 14 de dezembro de 1983, que dispõe sobre a fixação e alteração do número de vagas nos cursos superiores de graduação.

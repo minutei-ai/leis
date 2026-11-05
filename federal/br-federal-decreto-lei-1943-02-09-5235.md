@@ -1,5 +1,3 @@
-###DEL-005235-0-000-09-02-1943@@@
-
 DECRETO‑LEI N. 5.235 – DE 9 DE FEVEREIRO DE 1943
 
 Prorroga até 31 de julho da 1943 o prazo previsto no art. 43 do decrelo‑lei n. 4.545, de 31 de julho de 1942

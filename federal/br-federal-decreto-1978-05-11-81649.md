@@ -1,5 +1,3 @@
-###DEC-081649-0-000-11-05-1978@@@
-
 Decreto nº 81.649, de 11 de maio de 1978.
 
 Declara sem efeito os decretos nºs 53.182, de 11 de dezembro de 1963, e 62.621, de 29 de abril de 1968, retificado pelo Decreto nº 64.269, de 21 de março de 1969, que concederam à Companhia de Mineração Rio Acima o direito de lavrar calcário, dolomita, mármore e linhito no Município de Santa Bárbara, Estado de Minas Gerais.

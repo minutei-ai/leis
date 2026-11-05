@@ -1,5 +1,3 @@
-###DEC-083163-0-000-13-02-1979@@@
-
 Decreto nº 83.163, de 13 de fevereiro de1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

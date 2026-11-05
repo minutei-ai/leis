@@ -1,5 +1,3 @@
-###DEL-003804-0-000-06-11-1941@@@
-
 DECRETO-LEI N. 3.804 – DE 6 DE NOVEMBRO DE 1941
 
 Altera as tabelas anexas ao decreto-lei n. 3.550, de 25 de agosto de 1941 e dá outras providências

@@ -1,6 +1,4 @@
-###DEL-005675-0-000-16-07-1943@@@                       
-
-   DECRETO‑LEI N. 5.675 – DE 16 DE JULHO DE 1943    
+DECRETO‑LEI N. 5.675 – DE 16 DE JULHO DE 1943    
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 12.518.263,70. para indenização à Estrada de Ferro Central do Brasil
 

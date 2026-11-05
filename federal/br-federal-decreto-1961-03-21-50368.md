@@ -1,5 +1,3 @@
-###DEC-050368-0-000-21-03-1961@@@
-
 DECRETO Nº 50.368, DE 21 DE MARÇO DE 1961.
 
 Dispõe sôbre o atendimento de educação gratuita a filho menor de ex-combatente e aos órgãos carentes de recurso.

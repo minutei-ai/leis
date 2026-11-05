@@ -1,5 +1,3 @@
-###DEC-003683-0-000-06-12-2000@@@
-
 DECRETO Nº 3.683, DE 6 DE DEZEMBRO DE 2000.
 
 Define os setores da economia considerados prioritários para o desenvolvimento regional, nas áreas de atuação das Agências de Desenvolvimento Regional.

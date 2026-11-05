@@ -1,5 +1,3 @@
-###DEC-006503-0-000-03-07-2008@@@
-
 DECRETO Nº 6.503, DE 3 DE JULHO DE 2008.
 
 Dá nova redação ao inciso XVIII do art. 3º do Decreto nº 2.521, de 20 de março de 1998, que dispõe sobre a exploração, mediante permissão e autorização, de serviços de transporte rodoviário interestadual e internacional de passageiros e dá outras providências.

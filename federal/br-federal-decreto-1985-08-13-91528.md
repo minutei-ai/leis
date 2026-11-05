@@ -1,5 +1,3 @@
-###DEC-091528-0-000-13-08-1985@@@
-
 Decreto nº 91.528, de 13 de agosto de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Guarujá III da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098342-0-000-30-10-1989@@@
-
 DECRETO Nº 98.342, DE 30 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia do Norte do Paraná.

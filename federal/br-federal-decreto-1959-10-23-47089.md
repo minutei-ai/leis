@@ -1,5 +1,3 @@
-###DEC-047089-0-000-23-10-1959@@@
-
 DECRETO Nº 47.089, DE 23 DE OUTUBRO DE 1959.
 
 Altera o nº 9 do artigo 2º e o nº 5 do artigo 11 do Regulamento do Departamento Geral do Pessoal (R-156) aprovado pelo Decreto nº 46.402, de 11 de julho de 1959.

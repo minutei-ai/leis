@@ -1,5 +1,3 @@
-###DEC-048249-0-000-30-05-1960@@@
-
 decreto nº 48.249, de 30 de maio de 1960.
 
 Dispõe sôbre a Faculdade Católica de Filosofia de Curitiba.

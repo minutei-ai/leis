@@ -1,5 +1,3 @@
-###DEC-047824-0-000-04-03-1960@@@
-
 DECRETO Nº 47.824, DE 4 DE MARÇO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Quixeramobim, no Estado do Ceará.

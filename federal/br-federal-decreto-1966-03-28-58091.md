@@ -1,5 +1,3 @@
-###DEC-058091-0-000-28-03-1966@@@
-
 DECRETO Nº 58.091, DE 28 DE MARÇO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Belo Horizonte, Estado de Minas Gerais.

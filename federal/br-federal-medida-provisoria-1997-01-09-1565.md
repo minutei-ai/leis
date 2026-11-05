@@ -1,7 +1,3 @@
-1
-
-###MPV-001565-0-000-09-01-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.565, DE 9 DE JANEIRO DE 1997
 
 Altera a legislação que rege o Salário-Educação, e dá outras providências.

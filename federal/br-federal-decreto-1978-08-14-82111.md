@@ -1,5 +1,3 @@
-###DEC-082111-0-000-14-08-1978@@@
-
 Decreto Nº 82.111, DE 14 DE AGOSTO DE 1978.
 
 Autoriza o registo, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

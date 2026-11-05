@@ -1,5 +1,3 @@
-###DEL-001291-0-000-11-12-1973@@@
-
 # DECRETO-LEI Nº 1.291, DE 11 De DEZEMBRO DE 1973
 
 Prorroga a vigência dos estímulos à exportação de produto manufaturados.

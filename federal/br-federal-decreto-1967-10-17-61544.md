@@ -1,54 +1,52 @@
-###DEC-061544-0-000-17-10-1967@@@
+**DECRETO Nº 61.544, DE 17 DE OUTUBRO DE 1967.**
 
-<strong>DECRETO Nº 61.544, DE 17 DE OUTUBRO DE 1967.</strong>
+***Aprova o Regulamento do Decreto-lei nº 292, de 28 de fevereiro de 1967, que cria a Superintendência do Vale do São Francisco - SUVALE, e extingue a Comissão do Vale do São Francisco.***
 
-<em><strong>Aprova o Regulamento do Decreto-lei nº 292, de 28 de fevereiro de 1967, que cria a Superintendência do Vale do São Francisco - SUVALE, e extingue a Comissão do Vale do São Francisco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Superintendência do Vale do São Francisco - SUVALE, que com êste baixa, assinado pelo Ministro de Estado do Interior.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Superintendência do Vale do São Francisco - SUVALE, que com êste baixa, assinado pelo Ministro de Estado do Interior.
-
-<strong>Art</strong>. 2º O presente decreto entra em vigor na data de sua publicação, revogado o decreto nº 60.510, de 27 de março de 1967, e demais disposições em contrário.
+**Art**. 2º O presente decreto entra em vigor na data de sua publicação, revogado o decreto nº 60.510, de 27 de março de 1967, e demais disposições em contrário.
 
 Brasília, 17deoutubro de 1967; 146º da Independência e 79º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Hélio Beltrão
 
 Antônio Faustino Pôrto Sobrinho
 
-<strong>REGULAMENTO DA SUPERINTENDENCIA DO VALE DO SÃO FRANCISCO - SUVALE</strong>
+**REGULAMENTO DA SUPERINTENDENCIA DO VALE DO SÃO FRANCISCO - SUVALE**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da SUVALE e seus objetivos</em>
+*Da SUVALE e seus objetivos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA SUVALE</em>
+*DA SUVALE*
 
-<strong>Art</strong>. 1º A Superintendência do Vale do São Francisco (SUVALE), entidade autárquica, vinculada ao Ministério do Interior, rege-se pelas normas constantes do Decreto-lei nº 292, de 28 de fevereiro de1967, e dêste Regulamento.
+**Art**. 1º A Superintendência do Vale do São Francisco (SUVALE), entidade autárquica, vinculada ao Ministério do Interior, rege-se pelas normas constantes do Decreto-lei nº 292, de 28 de fevereiro de1967, e dêste Regulamento.
 
 § 1º A Superintendência do Vale do São Francisco tem personalidade jurídica, patrimônio próprio, autonomia administrativa e financeira.
 
 § 2º A Superintendência do Vale do São Francisco tem por objetivos os definidos no art. 5º dêste Regulamento, e como área de atuação, a Bacia do Rio São Francisco.
 
-<strong>Art</strong>. 2º A SUVALE tem sede e fôro no Distrito Federal.
+**Art**. 2º A SUVALE tem sede e fôro no Distrito Federal.
 
 Parágrafo único. Enquanto não ocorrer a instalação dos órgãos centrais da SUVALE no Distrito Federal, manterá ela sua sede provisória no Estado da Guanabara.
 
-<strong>Art</strong>. 3º São extensivos à SUVALE os privilégios da Fazenda Pública quanto à impenhorabilidade de bens, renda ou serviços, aos prazos, cobrança de créditos, uso de ações especiais, juros e custas.
+**Art**. 3º São extensivos à SUVALE os privilégios da Fazenda Pública quanto à impenhorabilidade de bens, renda ou serviços, aos prazos, cobrança de créditos, uso de ações especiais, juros e custas.
 
-<strong>Art</strong>. 4º À SUVALE goza de tôdas as isenções tributárias deferidas aos órgãos e serviços da União.
+**Art**. 4º À SUVALE goza de tôdas as isenções tributárias deferidas aos órgãos e serviços da União.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos objetivos da SUVALE</em>
+*Dos objetivos da SUVALE*
 
-<strong>Art</strong>. 5º A SUVALE, na área de sua atuação, tem por objetivos:
+**Art**. 5º A SUVALE, na área de sua atuação, tem por objetivos:
 
 a) promover o aproveitamento econômico dos recursos naturais;
 
@@ -76,23 +74,23 @@ VI - promover o contrôle e uso das águas, disciplinar a operação conjunta do
 
 VII - Construir, operar e explorar os sistemas elétricos, inclusive usinas situadas nas áreas-programas.
 
-<strong>Art</strong>. 6º Para fins dêste Regulamento, área-programa é aquela que fôr selecionada para efeito do aproveitamento integral de seus fatores de produção.
+**Art**. 6º Para fins dêste Regulamento, área-programa é aquela que fôr selecionada para efeito do aproveitamento integral de seus fatores de produção.
 
-<strong>Art</strong>. 7º As áreas-programas serão selecionadas em função do potencial de recursos naturais e definidas através de resolução do Conselho Diretor da SUVALE, homologada pelo Ministro do Interior, ouvida a SUDENE, sempre que se incluam na região nordestina.
+**Art**. 7º As áreas-programas serão selecionadas em função do potencial de recursos naturais e definidas através de resolução do Conselho Diretor da SUVALE, homologada pelo Ministro do Interior, ouvida a SUDENE, sempre que se incluam na região nordestina.
 
 § 1º A seleção das áreas-programas, para fins de valorização, atenderá a viabilidade de integração dos fatores de produção. As condições de factibilidade, operabilidade e oportunidade definirão seus limites, prioridades e programas.
 
 § 2º A SUVALE somente poderá realizar investimentos em energia elétrica, abastecimento d’água, esgotos sanitários, rodovias, portos e aeroportos, habitação, saúde e educação, nas áreas-programas.
 
-<strong>Art</strong>. 8º No tocante aos planos, programas e projetos que haja de executar no Nordeste a SUVALE adotará as diretrizes estabelecidas pela SUDENE, com observância das disposições da Lei nº 4.869, de 1º de dezembro de1965.
+**Art**. 8º No tocante aos planos, programas e projetos que haja de executar no Nordeste a SUVALE adotará as diretrizes estabelecidas pela SUDENE, com observância das disposições da Lei nº 4.869, de 1º de dezembro de1965.
 
 § 1º Durante a elaboração e execução de projetos para áreas-programas situadas no Nordeste, a SUVALE articular-se-á com a SUDENE, a fim de resguardar a unidade de orientação de política econômica e garantir elevada eficiência para os investimentos governamentais.
 
 § 2º Na área da Bacia de São Francisco, não compreendida no Nordeste, a SUVALE atuará de modo compatível com os planos, programas e projetos executados, em execução ou a serem executados na região nordestina.
 
-<strong>Art</strong>. 9º A SUVALE fica cometida a responsabilidade de execução ou operação em obras e serviços a cargo da extinta Comissão do Vale do São Francisco, na forma prevista nas Disposições Gerais do presente Regulamento (Artigo 54 e 57).
+**Art**. 9º A SUVALE fica cometida a responsabilidade de execução ou operação em obras e serviços a cargo da extinta Comissão do Vale do São Francisco, na forma prevista nas Disposições Gerais do presente Regulamento (Artigo 54 e 57).
 
-<strong>Art</strong>. 10. A SUVALE poderá assistir o agricultor e o pecuarista, através de:
+**Art**. 10. A SUVALE poderá assistir o agricultor e o pecuarista, através de:
 
 a) prestação de serviços técnicos;
 
@@ -122,65 +120,65 @@ f)realização de cursos de capacitação para mão-de-obra.
 
 § 8º O Conselho Diretor, mediante resolução homologada pelo Ministro do Interior, aprovará as condições para a prestação da assistência de que trata êste artigo.
 
-<strong>Art</strong>. 11. Assistência prevista ao agricultor e ao pecuarista, no que se refere a empréstimos, compra e venda de safras e doação de sementes (art.10, letras “<em>c</em>” “<em>d</em>” e “<em>e</em>”) ficará condicionada a declaração do estado de calamidade publica nas áreas de atuação da SUVALE, delimitadas pelo respectivo decreto ou indicadas em planos de emergência aprovados pelo Ministro de Estado.
+**Art**. 11. Assistência prevista ao agricultor e ao pecuarista, no que se refere a empréstimos, compra e venda de safras e doação de sementes (art.10, letras “*c*” “*d*” e “*e*”) ficará condicionada a declaração do estado de calamidade publica nas áreas de atuação da SUVALE, delimitadas pelo respectivo decreto ou indicadas em planos de emergência aprovados pelo Ministro de Estado.
 
 § 1º Toda vez que fôr declarado os estado de calamidade pública, o ato que o fizer abrirá o crédito correspondente em favor da SUVALE, que diretamente, que por delegação da SUDENE, para atender à emergência, segundo plano de aplicação previamente aprovado pelo Conselho Diretor e homologado pelo Ministro do Interior.
 
-§ 2º Somente poderão ser objeto das transações previstas na alínea “<em>d</em>” do artigo 10 as safras que satisfazerem às condições técnicas estabelecidas pela SUVALE, segundo a sua natureza, destinação e facilidade de comercialização.
+§ 2º Somente poderão ser objeto das transações previstas na alínea “*d*” do artigo 10 as safras que satisfazerem às condições técnicas estabelecidas pela SUVALE, segundo a sua natureza, destinação e facilidade de comercialização.
 
-<strong>Art</strong>. 12. A comercialização das safras será preferencialmente realizada através de cooperativas que forem organizadas nas áreas-programas, para atender aos agricultores e criadores nela localizados, nos têrmos do artigo 11.
+**Art**. 12. A comercialização das safras será preferencialmente realizada através de cooperativas que forem organizadas nas áreas-programas, para atender aos agricultores e criadores nela localizados, nos têrmos do artigo 11.
 
-<strong>Art</strong>. 13. O atendimento à assistência de rotina será feito através dos Serviços de Revenda de material Agrícola e de mecanização Agrícola da SUVALE, conforme normas e tarifas aprovadas pelo Conselho Diretor.
+**Art**. 13. O atendimento à assistência de rotina será feito através dos Serviços de Revenda de material Agrícola e de mecanização Agrícola da SUVALE, conforme normas e tarifas aprovadas pelo Conselho Diretor.
 
-<strong>Art</strong>. 14. O arrendamento de que trata a letra “c” do artigo 10, será contratado na forma que dispuserem as instruções a serem baixadas pela SUVALE, aprovadas pelo Conselho Diretor.
+**Art**. 14. O arrendamento de que trata a letra “c” do artigo 10, será contratado na forma que dispuserem as instruções a serem baixadas pela SUVALE, aprovadas pelo Conselho Diretor.
 
 Parágrafo único. Não serão realizados arrendamentos para os quais não seja oferecida caução real ou fidejussória idônea.
 
-<strong>Art</strong>. 15. Os créditos e os recursos oriundos da Carteira de Revenda e do Fundo de Mecanização da lavoura, mencionados respectivamente nas letras “<em>a</em>” e “<em>d</em>” do artigo 17 da Lei nº 2.599 de 13 de setembro de 1955. Existentes na data de publicação do Decreto-lei nº 292, de 28 de fevereiro de 1967, incorporar-se-ão ao patrimônio da SUVALE, devendo as respectivas importâncias ser aplicadas na assistência de que trata êste artigo.
+**Art**. 15. Os créditos e os recursos oriundos da Carteira de Revenda e do Fundo de Mecanização da lavoura, mencionados respectivamente nas letras “*a*” e “*d*” do artigo 17 da Lei nº 2.599 de 13 de setembro de 1955. Existentes na data de publicação do Decreto-lei nº 292, de 28 de fevereiro de 1967, incorporar-se-ão ao patrimônio da SUVALE, devendo as respectivas importâncias ser aplicadas na assistência de que trata êste artigo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos convênios e contratos</em>
+*Dos convênios e contratos*
 
-<strong>Art</strong>. 16. A SUVALE, para execução dos serviços e obras a seu cargo, poderá realizar convênios ou contratos com entidades públicas ou privadas.
+**Art**. 16. A SUVALE, para execução dos serviços e obras a seu cargo, poderá realizar convênios ou contratos com entidades públicas ou privadas.
 
-<strong>Art</strong>. 17. A SUVALE exercera, obrigatoriamente, fiscalização técnica dos serviços e obras executados com seus recursos, expedindo laudo técnico em favor do órgão ou entidade executora.
+**Art**. 17. A SUVALE exercera, obrigatoriamente, fiscalização técnica dos serviços e obras executados com seus recursos, expedindo laudo técnico em favor do órgão ou entidade executora.
 
 § 1º A fiscalização de que trata êste artigo tem por finalidade comprovar a observância das disposições pactuadas com a SUVALE, bem como dos planos, programas, projetos e especificações aprovados, inclusive mediante o confronto das obras e serviços realizados, com os documentos comprobatórios das respectivas despesas.
 
 § 2º Para os fins dêste artigo e ressarcimento das respectivas despesas, poderá a SUVALE cobrar uma taxa de fiscalização e administração expressamente estabelecida em cláusula contratual, limitada a 5% (cinco por cento) do capital que fôr aplicado.
 
-<strong>Art</strong>. 18. A SUVALE poderá aceitar em processo de licitação, para garantia de execução de contratos, caução real ou fidejussória que reputar idônea.
+**Art**. 18. A SUVALE poderá aceitar em processo de licitação, para garantia de execução de contratos, caução real ou fidejussória que reputar idônea.
 
-<strong>Art</strong>. 19. Fica a SUVALE autorizada a reexaminar os acôrdos, contratos ajustes e convênios firmados pela extinta Comissão do Vale do São Francisco, ratificando-os, modificando-os, rescindindo-os ou cancelando-os, conforme se ajustem ou não aos objetivos da autarquia, definidos neste Regulamento.
+**Art**. 19. Fica a SUVALE autorizada a reexaminar os acôrdos, contratos ajustes e convênios firmados pela extinta Comissão do Vale do São Francisco, ratificando-os, modificando-os, rescindindo-os ou cancelando-os, conforme se ajustem ou não aos objetivos da autarquia, definidos neste Regulamento.
 
-<strong>Art</strong>. 20. Independentemente do disposto no artigo 16, podera a SUVALE contratar empresas privadas para a execução de obras e serviços de pequeno porte, temporários ou permanentes, tais como os de reforma ou instalações e outros, na forma do artigo 10, § 7º do Decreto-lei nº 200, de 25 de fevereiro de 1964.
+**Art**. 20. Independentemente do disposto no artigo 16, podera a SUVALE contratar empresas privadas para a execução de obras e serviços de pequeno porte, temporários ou permanentes, tais como os de reforma ou instalações e outros, na forma do artigo 10, § 7º do Decreto-lei nº 200, de 25 de fevereiro de 1964.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos bens da SUVALE</em>
+*Dos bens da SUVALE*
 
-<strong>Art</strong>. 21. A SUVALE poderá alienar bens imóveis, móveis ou semoventes integrantes de seu patrimônio, observadas as prescrições da legislação pertinente, mediante proposta do Superintendente, aprovada pelo Conselho Diretor e homologada pelo Ministro do Interior.
+**Art**. 21. A SUVALE poderá alienar bens imóveis, móveis ou semoventes integrantes de seu patrimônio, observadas as prescrições da legislação pertinente, mediante proposta do Superintendente, aprovada pelo Conselho Diretor e homologada pelo Ministro do Interior.
 
-Parágrafo único. Poderão ser alienados, sem as formalidades previstas neste artigo os bens que por sua natureza ou em virtude de lei, plano ou programa, tiverem essa destinação, em especial os adquiridos com a finalidade do artigo 10, letras “<em>b</em>” “<em>d</em> “e ”<em>e</em>” .
+Parágrafo único. Poderão ser alienados, sem as formalidades previstas neste artigo os bens que por sua natureza ou em virtude de lei, plano ou programa, tiverem essa destinação, em especial os adquiridos com a finalidade do artigo 10, letras “*b*” “*d* “e ”*e*” .
 
-<strong>Art</strong>. 22. Ficam incorporados ao patrimônio da SUVALE todos os bens da União que se encontravam sob a guarda e a administração da extinta Comissão do Vale do São Francisco.
+**Art**. 22. Ficam incorporados ao patrimônio da SUVALE todos os bens da União que se encontravam sob a guarda e a administração da extinta Comissão do Vale do São Francisco.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Administração</em>
+*Da Administração*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Organização administrativa</em>
+*Da Organização administrativa*
 
-<strong>Art</strong>. 23. A SUVALE será dirigida por um Superintendente, nomeado pelo Presidente da República, por indicação do Ministro do interior, sendo livremente demissível, e terá um Conselho Diretor, na forma do disposto neste Regulamento.
+**Art**. 23. A SUVALE será dirigida por um Superintendente, nomeado pelo Presidente da República, por indicação do Ministro do interior, sendo livremente demissível, e terá um Conselho Diretor, na forma do disposto neste Regulamento.
 
 § 1º O Superintendente da SUVALE será auxiliado por um Superintendente-Adjunto, nomeado pelo Presidente da República, por indicação daquele, e livremente demissível.
 
 § 2º O Superintendente-Adjunto será o substituto eventual do Superintendente e desempenhará em caráter permanente, as funções que por êste lhe forem cometidas.
 
-<strong>Art</strong>. 24. A SUVALE terá a seguinte estrutura administrativa:
+**Art**. 24. A SUVALE terá a seguinte estrutura administrativa:
 
 a) Superintendente
 
@@ -190,13 +188,13 @@ c) Unidade Administrativas
 
 d) Unidades Regionais.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Superintendente</em>
+*Do Superintendente*
 
-<strong>Art</strong>. 25. Ao Superintendente incumbe a administração da SUVALE exercendo os poderes e praticando os atos para tanto necessários, com vistas a consecução dos objetivos da autarquia, respeitada a competência do Conselho Diretor.
+**Art**. 25. Ao Superintendente incumbe a administração da SUVALE exercendo os poderes e praticando os atos para tanto necessários, com vistas a consecução dos objetivos da autarquia, respeitada a competência do Conselho Diretor.
 
-<strong>Art</strong>. 26. Compete ao Superintendente:
+**Art**. 26. Compete ao Superintendente:
 
 a) dirigir os serviços da SUVALE, exercendo a supervisão e a cordenação de todos os órgãos da autarquia e baixando os necessários atos;
 
@@ -244,13 +242,13 @@ x) determinar a instauração de inquérito ou processo administrativo e aplicar
 
 z) expedir instruções de serviços, fixar atribuições estabelecer a jornada de trabalho e o expediente da SUVALE.
 
-<strong>Art</strong>. 27 Ao Superintendente da SUVALE é facultado fazer aos titulares de Unidades Administrativas ou Regionais, como instrumento de descentralização administrativa, delegações de competência na forma da lei.
+**Art**. 27 Ao Superintendente da SUVALE é facultado fazer aos titulares de Unidades Administrativas ou Regionais, como instrumento de descentralização administrativa, delegações de competência na forma da lei.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Conselho Diretor</em>
+*Do Conselho Diretor*
 
-<strong>Art</strong>. 28 Ao Conselho Diretor, constituído pelo Superintendente, que o presidirá, pelo Superintendente-Adjunto, pelos Diretores, pelo Procurador e pelo Auditor, compete:
+**Art**. 28 Ao Conselho Diretor, constituído pelo Superintendente, que o presidirá, pelo Superintendente-Adjunto, pelos Diretores, pelo Procurador e pelo Auditor, compete:
 
 I - disciplinar a elaboração dos planos, programas e projetos da SUVALE;
 
@@ -264,7 +262,7 @@ V - aprovar critérios para a contratação de serviços técnicos ou de naturez
 
 VI - aprovar acôrdos, convênios e contratos celebrados pela SUVALE;
 
-VII - aprovar as tabelas numéricas e de remuneração do pessoal a serviço da SUVALE, elaboradas pelo Superintendente, observado o disposto na alínea “<em>p</em>” do art. 26;
+VII - aprovar as tabelas numéricas e de remuneração do pessoal a serviço da SUVALE, elaboradas pelo Superintendente, observado o disposto na alínea “*p*” do art. 26;
 
 VIII - aprovar a alienação de bens integrantes do patrimônio da Autarquia;
 
@@ -276,17 +274,17 @@ XI - apreciar propostas de modificações do presente Regulamento;
 
 XII - aprovar o seu Regimento Interno e o da SUVALE.
 
-<strong>Art</strong>. 29 O Conselho Diretor se reunirá, ordinariamente, pelo menos, uma vez por mês, e decidirá por maioria de votos de seus membros, cabendo ao Superintendente o voto de qualidade, sempre que a matéria em votação não lhe acarrete impedimento por incompatibilidade.
+**Art**. 29 O Conselho Diretor se reunirá, ordinariamente, pelo menos, uma vez por mês, e decidirá por maioria de votos de seus membros, cabendo ao Superintendente o voto de qualidade, sempre que a matéria em votação não lhe acarrete impedimento por incompatibilidade.
 
 § 1º O Conselho Diretor, por iniciativa própria ou mediante convocação do Superintendente, poderá reunir-se extraordinariamente, sempre que assim o exigir a necessidade do serviço.
 
 § 2º Das reuniões do Conselho Diretor, serão lavradas atas, e as decisões serão baixadas em forma de Resolução, assinadas pelo Superintendente e publicadas obrigatoriamente no Boletim de Serviço da Autarquia.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Unidades Administrativas e Regionais</em>
+*Das Unidades Administrativas e Regionais*
 
-<strong>Art</strong>. 30 Integram a administração central da SUVALE, diretamente subordinadas ao Superintendente, com ação de planejamento, orientação, assessoramento, contrôle e fiscalização, nas matérias das respectivas competências, as seguintes Unidades Administrativas:
+**Art**. 30 Integram a administração central da SUVALE, diretamente subordinadas ao Superintendente, com ação de planejamento, orientação, assessoramento, contrôle e fiscalização, nas matérias das respectivas competências, as seguintes Unidades Administrativas:
 
 I - Diretoria de Planejamento e Engenharia - DPE
 
@@ -298,27 +296,27 @@ IV - Procuradoria
 
 V - Auditoria
 
-Parágrafo único. Os dirigentes das Unidades Administrativas, previstas neste artigo e integrantes do Conselho Diretor, na forma do art. 28 dêste Regulamento, serão designados pelo Ministro de Estado, mediante indicação do Superintendente (art. 26 parágrafo único, alínea “<em>a</em>”, do Decreto-lei nº 200 de 25 de fevereiro de 1967).
+Parágrafo único. Os dirigentes das Unidades Administrativas, previstas neste artigo e integrantes do Conselho Diretor, na forma do art. 28 dêste Regulamento, serão designados pelo Ministro de Estado, mediante indicação do Superintendente (art. 26 parágrafo único, alínea “*a*”, do Decreto-lei nº 200 de 25 de fevereiro de 1967).
 
-<strong>Art</strong>. 31 Integram a Administração Regional da SUVALE as agências, as subagências e os escritórios, diretamente subordinados ao Superintendente, recebendo instruções técnicas e administrativas dos Órgãos indicados no artigo anterior.
+**Art**. 31 Integram a Administração Regional da SUVALE as agências, as subagências e os escritórios, diretamente subordinados ao Superintendente, recebendo instruções técnicas e administrativas dos Órgãos indicados no artigo anterior.
 
-<strong>Art</strong>. 32 O Regimento Interno da SUVALE disporá sôbre a estruturação, composição, competência e atribuições de cada um dos Órgãos indicados nos art. 31 e 32, estabelecendo o respectivos organograma, observados os princípios, normas e disposições da lei de Reforma Administrativa (Decreto-lei nº 200, de 25 de fevereiro de 1967).
+**Art**. 32 O Regimento Interno da SUVALE disporá sôbre a estruturação, composição, competência e atribuições de cada um dos Órgãos indicados nos art. 31 e 32, estabelecendo o respectivos organograma, observados os princípios, normas e disposições da lei de Reforma Administrativa (Decreto-lei nº 200, de 25 de fevereiro de 1967).
 
-<strong>Art</strong>. 33 O Superintendente terá um Gabinete dotado da respectiva Chefia e uma Assessoria de Coordenação, e os Diretores, o Auditor e o Procurador terão como auxiliares e substitutos eventuais, respectivamente, os Diretores-Adjuntos, o Auditor-Adjunto e o Procurador-Adjunto, os quais poderão exercer funções de chefia nos respectivos Órgãos.
+**Art**. 33 O Superintendente terá um Gabinete dotado da respectiva Chefia e uma Assessoria de Coordenação, e os Diretores, o Auditor e o Procurador terão como auxiliares e substitutos eventuais, respectivamente, os Diretores-Adjuntos, o Auditor-Adjunto e o Procurador-Adjunto, os quais poderão exercer funções de chefia nos respectivos Órgãos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do pessoal da SUVALE</em>
+*Do pessoal da SUVALE*
 
-<strong>Art</strong>. 34 Os serviços da SUVALE serão atendidos por pessoal contratado sob o regime jurídico da Consolidação das Leis do Trabalho.
+**Art**. 34 Os serviços da SUVALE serão atendidos por pessoal contratado sob o regime jurídico da Consolidação das Leis do Trabalho.
 
-<strong>Art</strong>. 35 O Conselho Diretor aprovará normas gerais de administração para a organização do quadro e fixação dos critérios de admissão, do regime de trabalho e da remuneração do pessoal da SUVALE, que serão observados pelo Superintendente após homologação pelo Ministro do Interior.
+**Art**. 35 O Conselho Diretor aprovará normas gerais de administração para a organização do quadro e fixação dos critérios de admissão, do regime de trabalho e da remuneração do pessoal da SUVALE, que serão observados pelo Superintendente após homologação pelo Ministro do Interior.
 
-<strong>Art</strong>. 36 Ao baixar as normas gerais para remuneração do pessoal SUVALE, o Conselho Diretor levará em conta a natureza do trabalho a ser executado pelo contratado sua qualificação e experiência, e as respectivas condições salariais vigentes no mercado de trabalho, de modo a assegurar padrões que, sem provocar alta no mercado nem inconveniente competição entre órgãos do Govêrno, permitiam à SUVALE concorrer em igualdade de condições, especialmente no que diz respeito à contratação de técnicos.
+**Art**. 36 Ao baixar as normas gerais para remuneração do pessoal SUVALE, o Conselho Diretor levará em conta a natureza do trabalho a ser executado pelo contratado sua qualificação e experiência, e as respectivas condições salariais vigentes no mercado de trabalho, de modo a assegurar padrões que, sem provocar alta no mercado nem inconveniente competição entre órgãos do Govêrno, permitiam à SUVALE concorrer em igualdade de condições, especialmente no que diz respeito à contratação de técnicos.
 
-<strong>Art</strong>. 37 O Superintendente e o Superintendente-Adjunto perceberão, respectivamente, 20% (vinte por cento) e 10% (dez por cento) a mais do maior salário pago pela SUVALE a seus empregados, observada a legislação em vigor.
+**Art**. 37 O Superintendente e o Superintendente-Adjunto perceberão, respectivamente, 20% (vinte por cento) e 10% (dez por cento) a mais do maior salário pago pela SUVALE a seus empregados, observada a legislação em vigor.
 
-<strong>Art</strong>. 38 Os servidores públicos ou autárquicos federais poderão firmar contrato de trabalho com a SUVALE, desde que haja concordância das participações a que pertençam, tornando-se-lhes desde logo aplicáveis, além das disposições dos parágrafos seguintes, mais a do parágrafo 3º do artigo 40, dêste Regulamento.
+**Art**. 38 Os servidores públicos ou autárquicos federais poderão firmar contrato de trabalho com a SUVALE, desde que haja concordância das participações a que pertençam, tornando-se-lhes desde logo aplicáveis, além das disposições dos parágrafos seguintes, mais a do parágrafo 3º do artigo 40, dêste Regulamento.
 
 § 1º Enquanto vigorar o contrato de trabalho, ficará suspensa a vinculação do servidor para com o serviço público para todos os efeitos ressalvado o disposto no parágrafo seguinte.
 
@@ -330,7 +328,7 @@ Parágrafo único. Os dirigentes das Unidades Administrativas, previstas neste a
 
 § 5º Durante a vigência do contrato de trabalho, o funcionário prestará suas contribuições ao I.P.A.S.E., salvo se pertencente ao quadro do pessoal do I.N.P.S., cuja instituição continuará a recolher suas contribuições especiais.
 
-<strong>Art</strong>. 39 O quadro de pessoal da Comissão do Vale do São Francisco é considerado em extinção.
+**Art**. 39 O quadro de pessoal da Comissão do Vale do São Francisco é considerado em extinção.
 
 § 1º A extinção a que se refere êste artigo deverá efetivar-se gradativamente, mediante supressão dos cargos que vagarem, resguardadas às oportunidades de promoção e acesso, observadas as seguintes regras:
 
@@ -346,7 +344,7 @@ II - quando houver possibilidade de acesso, o cargo de classe superior não ser�
 
 § 5º A SUVALE manterá os registros funcionais referentes ao pessoal pertencentes ao quadro em extinção, para todos os efeitos da lei, observadas instruções a serem expedidas pelo Departamento Administrativo do Pessoal Civil.
 
-<strong>Art</strong>. 40 Os servidores a que se refere o artigo 39 passam a prestar serviços à SUVALE, assegurados os direitos e vantagens inerentes à sua condição de servidores públicos federais.
+**Art**. 40 Os servidores a que se refere o artigo 39 passam a prestar serviços à SUVALE, assegurados os direitos e vantagens inerentes à sua condição de servidores públicos federais.
 
 § 1º Os servidores de que trata êste artigo ficarão sujeitos às normas gerais de trabalho que a SUVALE, houver de adotar, observadas as disposições legais pertinentes.
 
@@ -356,17 +354,17 @@ II - quando houver possibilidade de acesso, o cargo de classe superior não ser�
 
 § 4º No cálculo dos proventos da aposentadoria dos servidores públicos ou autárquicos pertencentes ou não no quadro em extinção a que alude o artigo 39, não será considerada nenhuma retribuição decorrente de contrato de trabalho com a SUVALE, ainda mesmo que a aposentadoria venha a ocorrer durante a vigência de um contrato dessa natureza.
 
-<strong>Art</strong>. 41 Os encargos financeiros com o pagamento de remuneração, vencimentos, salários e vantagens do pessoal pertencente ao quadro em extinção, de que trata o artigo 39, correrão por conta do Tesouro Nacional, cumprindo à União consignar dotações orçamentárias específicas em favor da SUVALE, para o atendimento dessa despesa.
+**Art**. 41 Os encargos financeiros com o pagamento de remuneração, vencimentos, salários e vantagens do pessoal pertencente ao quadro em extinção, de que trata o artigo 39, correrão por conta do Tesouro Nacional, cumprindo à União consignar dotações orçamentárias específicas em favor da SUVALE, para o atendimento dessa despesa.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Do regime econômico-financeiro da SUVALE</em>
+*Do regime econômico-financeiro da SUVALE*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das fontes de receita</em>
+*Das fontes de receita*
 
-<strong>Art</strong>. 42 São recursos da SUVALE:
+**Art**. 42 São recursos da SUVALE:
 
 a) as dotações orçamentárias e os créditos adicionais que lhe sejam atribuídos;
 
@@ -390,25 +388,25 @@ j) o produto das taxas de fiscalização e administração a que se refere o art
 
 l) outros recursos previstos em lei.
 
-<strong>Art</strong>. 43 Constituem, ainda, recursos da SUVALE, todos aquêles entregues à extinta Comissão do Vale do São Francisco, ou a ela destinados inclusive os provenientes de convênios ou contratos firmados pela extinta Comissão.
+**Art**. 43 Constituem, ainda, recursos da SUVALE, todos aquêles entregues à extinta Comissão do Vale do São Francisco, ou a ela destinados inclusive os provenientes de convênios ou contratos firmados pela extinta Comissão.
 
 Parágrafo único. Dentro de 60 (sessenta) dias a contar da vigência dêste Regulamento, reverá a SUVALE a aplicação dos recursos de que trata êste artigo, para reaplicá-los em programas adequados a seus específicos objetivos, programas êsses propostos, no referido prazo, pelo Superintendente, e que, depois de aprovados pelo Conselho Diretor, serão levados à homologação pelo Ministro do Interior.
 
-<strong>Art</strong>. 44 Poderá a SUVALE, para acelerar ou garantir a execução de seus planos, contar empréstimos, mediante prévia autorização do Presidente da República.
+**Art**. 44 Poderá a SUVALE, para acelerar ou garantir a execução de seus planos, contar empréstimos, mediante prévia autorização do Presidente da República.
 
 Parágrafo único. Consideram-se aplicação legal dos recursos destinados à SUVALE, a amortização e o pagamento de juros ou comissões provenientes dos empréstimos contraídos na forma dêste artigo, para aplicação em obras ou serviços abrangidos por êsses mesmos recursos.
 
-<strong>Art</strong>. 45 É a SUVALE autorizada a realizar despesas de pronto pagamento até 5 (cinco) vêzes o valor do maior salário-mínimo vigente no País.
+**Art**. 45 É a SUVALE autorizada a realizar despesas de pronto pagamento até 5 (cinco) vêzes o valor do maior salário-mínimo vigente no País.
 
-<strong>Art</strong>. 46 Constituem, também, recursos da SUVALE, os emolumentos que a autarquia houver de cobrar de particulares, por serviços a êstes prestados, calculados nas bases que forem fixadas pelo Superintendente em ato aprovado pelo Conselho Diretor, assim como o produto das vendas, revendas, juros e negociações dos títulos de créditos, a que se referem os §§ 4º, 5º e 6º do art. 10, respeitada a finalidade de sua execução.
+**Art**. 46 Constituem, também, recursos da SUVALE, os emolumentos que a autarquia houver de cobrar de particulares, por serviços a êstes prestados, calculados nas bases que forem fixadas pelo Superintendente em ato aprovado pelo Conselho Diretor, assim como o produto das vendas, revendas, juros e negociações dos títulos de créditos, a que se referem os §§ 4º, 5º e 6º do art. 10, respeitada a finalidade de sua execução.
 
-<strong>Art</strong>. 47 Os recursos da SUVALE, investidos em bens e instalações de entidades públicas ou de emprêsas concessionárias de serviços públicos, serão resgatados, através de reembôlso em espécie ou subscrição de ações.
+**Art**. 47 Os recursos da SUVALE, investidos em bens e instalações de entidades públicas ou de emprêsas concessionárias de serviços públicos, serão resgatados, através de reembôlso em espécie ou subscrição de ações.
 
 § 1º Quando se tratar de investimento em energia elétrica observar-se-á o limite estatuído no art. 113, inciso IV, do Decreto nº 57.617, de 7 de janeiro de 1966, não se aplicando à SUVALE o disposto no art. 161 dêsse mesmo Decreto.
 
 § 2º O reembôlso ou a subscrição de ações ocorrerá quando fôr comprovada a rentabilidade do investimento ou findo o período de carência, na forma prevista nos §§ 5º e 6º do art. 48.
 
-<strong>Art</strong>. 48. O resgate do investimento de que trata o art. 47 será feito no prazo de 10 (dez) anos, contados do término do período de carência, que não poderá ser superior a 5 (cinco) anos, ou da data da comprovação da rentabilidade.
+**Art**. 48. O resgate do investimento de que trata o art. 47 será feito no prazo de 10 (dez) anos, contados do término do período de carência, que não poderá ser superior a 5 (cinco) anos, ou da data da comprovação da rentabilidade.
 
 § 1º Durante o prazo de carência o investimento vencerá juros simples de 6% (seis por cento) ao ano, os quais, ao terminar êsse prazo, serão incorporados ao principal.
 
@@ -422,17 +420,17 @@ Parágrafo único. Consideram-se aplicação legal dos recursos destinados à SU
 
 § 6º A requerimento da SUVALE, o órgão federal competente emitirá certificado de rentabilidade dos recursos investidos na forma do artigo 48, observado, ainda, o disposto nos artigos 124 a 127 do Decreto número 57.617-66, no que fôr pertinente, assim como o Decreto-lei nº 33, de 18 de novembro de 1966, no que diz respeito à subscrição de ações.
 
-<strong>Art</strong>. 49. Os recursos financeiros que lhe forem destinados serão, pela SUVALE mantidos em depósito no Banco do Brasil S.A., enquanto dêles não fizer aplicação aos fins a que se destinam, ressalvadas as hipóteses previstas nos parágrafos seguintes.
+**Art**. 49. Os recursos financeiros que lhe forem destinados serão, pela SUVALE mantidos em depósito no Banco do Brasil S.A., enquanto dêles não fizer aplicação aos fins a que se destinam, ressalvadas as hipóteses previstas nos parágrafos seguintes.
 
 § 1º Na área de atuação da SUDENE, os recursos de que trata êste artigo serão depositados no Banco do Nordeste do Brasil S.A.
 
 § 2º Sempre que, no município onde deva ser movimentado, não existir Agência ou Escritório do Banco do Brasil S.A., o depósito de que trata êste artigo será realizado em outro estabelecimento oficial de crédito.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do orçamento-Programa</em>
+*Do orçamento-Programa*
 
-<strong>Art</strong>. 50. A SUVALE será dotada de um orçamento-programa, anualmente elaborado, aprovado pelo Conselho Diretor e homologado pelo Ministro do Interior, contendo a previsão de tôda a receita e de tôda a despesa da autarquia.
+**Art**. 50. A SUVALE será dotada de um orçamento-programa, anualmente elaborado, aprovado pelo Conselho Diretor e homologado pelo Ministro do Interior, contendo a previsão de tôda a receita e de tôda a despesa da autarquia.
 
 § 1º Nenhuma despesa poderá ser realizada se não estiver prevista no orçamento-programa.
 
@@ -442,34 +440,34 @@ Parágrafo único. Consideram-se aplicação legal dos recursos destinados à SU
 
 § 4º A reformulação do orçamento-programa e do analítico, em ambos os casos dos parágrafos antecedentes deve ser submetida ao Conselho Diretor e à aprovação do Ministro do Interior.
 
-<strong>Art</strong>. 51. Obedecidos os prazos legais, a SUVALE remeterá os balanços do exercício anterior ao Ministério do Interior e, por intermédio dêste, ao Ministério da Fazenda.
+**Art**. 51. Obedecidos os prazos legais, a SUVALE remeterá os balanços do exercício anterior ao Ministério do Interior e, por intermédio dêste, ao Ministério da Fazenda.
 
-<strong>Art</strong>. 52. Para fiel cumprimento do disposto no presente Capítulo, a SUVALE manterá completo serviço de contabilidade patrimonial, financeira e orçamentária.
+**Art**. 52. Para fiel cumprimento do disposto no presente Capítulo, a SUVALE manterá completo serviço de contabilidade patrimonial, financeira e orçamentária.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das disposições gerais e transitórias</em>
+*Das disposições gerais e transitórias*
 
-<strong>Art</strong>. 53. A SUVALE procederá ao levantamento das obras e serviços iniciados pela extinta Comissão do Vale do São Francisco, que não se incluam nos objetivos indicados no art. 5º dêste Regulamento.
+**Art**. 53. A SUVALE procederá ao levantamento das obras e serviços iniciados pela extinta Comissão do Vale do São Francisco, que não se incluam nos objetivos indicados no art. 5º dêste Regulamento.
 
 Parágrafo único. O levantamento a que se refere êste artigo deverá ser ultimado de modo a permitir que, até 28 de fevereiro de 1969, seja transferida a outros órgãos da administração pública federal, estadual ou municipal a responsabilidade pela execução dos referidos serviços e obras.
 
-<strong>Art</strong>. 54. As atividades e projetos da extinta Comissão do Vale do São Francisco, em execução ou em desenvolvimento, e excluídos dos objetivos da SUVALE, não sofrerão solução de continuidade, até que se concluam as transferências de que trata o artigo seguinte.
+**Art**. 54. As atividades e projetos da extinta Comissão do Vale do São Francisco, em execução ou em desenvolvimento, e excluídos dos objetivos da SUVALE, não sofrerão solução de continuidade, até que se concluam as transferências de que trata o artigo seguinte.
 
 Parágrafo único. Serão assegurados às atividades e projetos acima referidos, os recursos financeiros necessários à sua continuidade pela SUVALE ou pelos órgãos aos quais ficarem afetos.
 
-<strong>Art</strong>. 55. Não serão executados pela SUVALE as atividades ou projetos não iniciados pela extinta Comissão do Vale do São Francisco e que não se enquadrem nos objetivos previstos no artigo 5º dêste Regulamento, embora providos de recursos orçamentários.
+**Art**. 55. Não serão executados pela SUVALE as atividades ou projetos não iniciados pela extinta Comissão do Vale do São Francisco e que não se enquadrem nos objetivos previstos no artigo 5º dêste Regulamento, embora providos de recursos orçamentários.
 
 Parágrafo único. Sempre que existirem organismos públicos competentes e interessados na execução dessas atividades ou projetos, a SUVALE, através de convênio, a êles fará delegação dos recursos orçamentários disponíveis.
 
-<strong>Art</strong>. 56. Ressalvada a necessidade excepcional de contratação de técnicos especializados, reconhecida expressamente pelo Presidente da República, nenhuma admissão de pessoal será feita na Autarquia sem que se verifique, previamente, no centro de redistribuição de pessoal a existência de servidor que possua a qualificação exigida (art. 99 § 5º, do Decreto-lei nº 200, de 25 de fevereiro de 1967).
+**Art**. 56. Ressalvada a necessidade excepcional de contratação de técnicos especializados, reconhecida expressamente pelo Presidente da República, nenhuma admissão de pessoal será feita na Autarquia sem que se verifique, previamente, no centro de redistribuição de pessoal a existência de servidor que possua a qualificação exigida (art. 99 § 5º, do Decreto-lei nº 200, de 25 de fevereiro de 1967).
 
-<strong>Art</strong>. 57. Até que sejam implantadas as Unidades Regionais, os trabalhos técnicos e administrativos continuarão sendo executados, sem solução de continuidade, pelos Distritos, Residências, Postos de Veterinária e de Irrigação, Colônias, Escritórios de Representação e Núcleos da extinta Comissão do Vale do São Francisco.
+**Art**. 57. Até que sejam implantadas as Unidades Regionais, os trabalhos técnicos e administrativos continuarão sendo executados, sem solução de continuidade, pelos Distritos, Residências, Postos de Veterinária e de Irrigação, Colônias, Escritórios de Representação e Núcleos da extinta Comissão do Vale do São Francisco.
 
-<strong>Art</strong>. 58. A medida que forem sendo instaladas as Unidades Regionais a que se refere a letra “<em>d</em>” do artigo 24, observarão elas os órgãos operacionais da extinta Comissão do Vale do São Francisco, considerados em extinção progressiva, dêles recebendo todo o pessoal, serviços e encargos.
+**Art**. 58. A medida que forem sendo instaladas as Unidades Regionais a que se refere a letra “*d*” do artigo 24, observarão elas os órgãos operacionais da extinta Comissão do Vale do São Francisco, considerados em extinção progressiva, dêles recebendo todo o pessoal, serviços e encargos.
 
-<strong>Art</strong>. 59. Os órgãos executivos da extinta Comissão do Vale do São Francisco, instalados fora da sede da SUVALE e que ainda se encontrem em funcionamento, poderão, independentemente da instalação das Unidades Regionais nos respectivos locais, ser fundidos, transformados ou extintos, sempre que isto fôr julgado conveniente e necessário aos interêsses da SUVALE.
+**Art**. 59. Os órgãos executivos da extinta Comissão do Vale do São Francisco, instalados fora da sede da SUVALE e que ainda se encontrem em funcionamento, poderão, independentemente da instalação das Unidades Regionais nos respectivos locais, ser fundidos, transformados ou extintos, sempre que isto fôr julgado conveniente e necessário aos interêsses da SUVALE.
 
-<strong>Art</strong>. 60. Compete ao Conselho Diretor examinar e ratificar, quando fôr o caso, os atos praticados pelo Superintendente, com fundamento no Decreto nº 60.510, de 27 de março de 1967.
+**Art**. 60. Compete ao Conselho Diretor examinar e ratificar, quando fôr o caso, os atos praticados pelo Superintendente, com fundamento no Decreto nº 60.510, de 27 de março de 1967.
 
-<strong>ANTÔNIO FAUSTINO PÔRTO SOBRINHO.</strong>
+**ANTÔNIO FAUSTINO PÔRTO SOBRINHO.**

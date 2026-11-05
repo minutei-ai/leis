@@ -1,18 +1,16 @@
-###DEC-063164-0-000-26-08-1968@@@
+**DECRETO Nº 63.164, DE 26 DE AGÔSTO DE 1968.**
 
-<strong>DECRETO Nº 63.164, DE 26 DE AGÔSTO DE 1968.</strong>
+***Dispõe sôbre exploração e pesquisa na plataforma submarina do Brasil, nas águas do mar territorial, e nas águas interiores e dá outras providências.***
 
-<em><strong>Dispõe sôbre exploração e pesquisa na plataforma submarina do Brasil, nas águas do mar territorial, e nas águas interiores e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**CAPÍTULO I**
 
-<strong>CAPÍTULO I</strong>
+*Da licença e Fiscalização de Exploração ou de Pesquisa na Plataforma Submarina do Brasil, nas Águas do Mar Territorial e Águas interiores.*
 
-<em>Da licença e Fiscalização de Exploração ou de Pesquisa na Plataforma Submarina do Brasil, nas Águas do Mar Territorial e Águas interiores.</em>
-
-<strong>Art</strong>. 1º A exploração e pesquisa na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores, não proibidas pela Constituição ou por legislação específica devem obedecer às seguintes prescrições:
+**Art**. 1º A exploração e pesquisa na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores, não proibidas pela Constituição ou por legislação específica devem obedecer às seguintes prescrições:
 
 a) quando realizadas por qualquer órgão público, autárquico, entidade paraestatal, ou por pessoas físicas ou jurídicas brasileiras contratadas por ditos órgãos ou entidades, dependem de audiência prévia do Ministério da Marinha, para resguardo dos aspectos de Segurança da Navegação e Polícia Naval;
 
@@ -20,23 +18,23 @@ b) quando realizadas por entidades privadas, ou por pessoa física ou jurídica 
 
 c) quando realizadas por estrangeiros (pessoa física ou jurídica, organização governamental ou privada), por iniciatica própria ou por contrato dependem de autorização do Presidente da República, em processo que será iniciado e encaminhado como disposto no artigo 6º desse Decreto.
 
-<strong>Art</strong>. 2º Em qualquer dos casos previstos no Artigo anterior, as atividades de exploração e pesquisa na plataforma submarina nas águas do mar territorial e nas águas interiores, ficarão sob o contrôle do Ministério da Marinha, no que diz respeito aos aspectos da Polícia Naval e da Segurança da Navegação.
+**Art**. 2º Em qualquer dos casos previstos no Artigo anterior, as atividades de exploração e pesquisa na plataforma submarina nas águas do mar territorial e nas águas interiores, ficarão sob o contrôle do Ministério da Marinha, no que diz respeito aos aspectos da Polícia Naval e da Segurança da Navegação.
 
 Parágrafo único. Os resultados das atividades de exploração e pesquisa a que se refere êste artigo, deverão ser levados ao conhecimento do Ministério da Marinha, para aproveitamento do que, por êle, fôr julgado necessário.
 
-<strong>Art</strong>. 3º Para os efeitos dêste Decreto, considera-se plataforma submarina a parcela de território nacional incluída entre os bens da União pelo disposto no art. 4º, item III, da Constituição do Brasil, e de acôrdo com os tratados e convenções internacionais ratificados pelo Brasil.
+**Art**. 3º Para os efeitos dêste Decreto, considera-se plataforma submarina a parcela de território nacional incluída entre os bens da União pelo disposto no art. 4º, item III, da Constituição do Brasil, e de acôrdo com os tratados e convenções internacionais ratificados pelo Brasil.
 
 Parágrafo único. As expressões “plataforma submarina”, “plataforma continental” e “plataforma continental submarina”, são equivalentes para exprimir o objeto do presente Decreto.
 
-<strong>Art</strong>. 4º Sob a denominação de “pesquisa”, englobam-se tôdas as atividades, na plataforma continental submarina ou em águas do mar territorial ou interiores, referentes a filmagem e gravação para fins científicos, estudo ou investigação limnográfica, oceanográfica, e de  prospecção.
+**Art**. 4º Sob a denominação de “pesquisa”, englobam-se tôdas as atividades, na plataforma continental submarina ou em águas do mar territorial ou interiores, referentes a filmagem e gravação para fins científicos, estudo ou investigação limnográfica, oceanográfica, e de  prospecção.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos Pedidos de Licença</em>
+*Dos Pedidos de Licença*
 
-<strong>Art</strong>. 5º Os pedidos de licença, ou de audiência prévia do Ministério da Marinha por parte de qualquer órgão público, autarquia entidade para estatal, entidade privada pessoa física ou jurídica brasileiras para execução de exploração ou pesquisa na plataforma submarina do Brasil nas águas do mar territorial e interiores, deverão ser enviadas ao Ministério da Marinha, com antecedência mínima de sessenta (60) dias do início previsto para o programa dos trabalhos.
+**Art**. 5º Os pedidos de licença, ou de audiência prévia do Ministério da Marinha por parte de qualquer órgão público, autarquia entidade para estatal, entidade privada pessoa física ou jurídica brasileiras para execução de exploração ou pesquisa na plataforma submarina do Brasil nas águas do mar territorial e interiores, deverão ser enviadas ao Ministério da Marinha, com antecedência mínima de sessenta (60) dias do início previsto para o programa dos trabalhos.
 
-<strong>Art</strong>. 6º Os pedidos de licença para executar exploração ou pesquisa por estrangeiros na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores deverão obedecer ao seguinte encaminhamento:
+**Art**. 6º Os pedidos de licença para executar exploração ou pesquisa por estrangeiros na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores deverão obedecer ao seguinte encaminhamento:
 
 I - A entidade estrangeira pessoa física ou jurídica responsável pela pretendida exploração ou pesquisa na plataforma submarina brasileira nas águas do mar territorial e nas águas interiores, deverá encaminhar o competente pedido de licença à Representação Diplomática Brasileira junto ao Govêrno do respectivo país com a antecedência mínima de cento e oitenta (180) dias, antes da partida dos exploradores de seus países de origem, conforme discriminado no artigo 8º a seguir;
 
@@ -48,9 +46,9 @@ IV - O Ministério da Marinha terá o prazo de trinta (30) dias úteis, a partir
 
 Parágrafo único. O estrangeiro residente no Brasil, que desejar efetuar pesquisas a que se referem êste Decreto, deverá dirigir solicitação para tal ao Ministério da Marinha, com antecedência mínima de sessenta (60) dias do início previsto para o programa dos trabalhos.
 
-<strong>Art</strong>. 7º No caso de expedições de exploração ou pesquisa, constituída por brasileiros e estrangeiros os participantes brasileiros atenderão ao disposto no art. 5º e os estrangeiros, às disposições do art. 6º, separadamente.
+**Art**. 7º No caso de expedições de exploração ou pesquisa, constituída por brasileiros e estrangeiros os participantes brasileiros atenderão ao disposto no art. 5º e os estrangeiros, às disposições do art. 6º, separadamente.
 
-<strong>Art</strong>. 8º Os pedidos de licença ou de audiência prévia do Ministério da Marinha, a que se referem os artigos 5º e 6º, devem especificar, de modo obrigatório:
+**Art**. 8º Os pedidos de licença ou de audiência prévia do Ministério da Marinha, a que se referem os artigos 5º e 6º, devem especificar, de modo obrigatório:
 
 I - Nome da entidade responsável pela exploração ou pela pesquisa e suas anteriores atividades;
 
@@ -88,13 +86,13 @@ XVII - Compromissos assumidos pela entidade responsável pelos trabalhos, de cum
 
 Parágrafo único. As representantes Diplomáticas brasileiras no exterior só encaminharão pedidos de licença quando cumpridas as exigências prescritas neste artigo.
 
-<strong>Art</strong>. 9º As autoridades navais deverão levar em consideração, ao opinarem sôbre a concessão de tais licenças, os pareceres que, sob o ponto-de-vista técnico-científico, poderão ser solicitados a Órgãos Oficiais científicos do País.
+**Art**. 9º As autoridades navais deverão levar em consideração, ao opinarem sôbre a concessão de tais licenças, os pareceres que, sob o ponto-de-vista técnico-científico, poderão ser solicitados a Órgãos Oficiais científicos do País.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Fiscalização</em>
+*Da Fiscalização*
 
-<strong>Art</strong>. 10. A fiscalização da Exploração e da pesquisa citadas neste Decreto será exercida por intermédio de observadores indicados pelo Ministério da Marinha e por outros Ministérios interessados, para acompanharem, parcial ou totalmente, os trabalhos autorizados. Qualquer autoridade naval sediada em portos nacionais ou navegando sôbre a plataforma submarina, em águas interiores ou do mar territorial, poderá tomar a iniciativa de exercer tal fiscalização, quando necessário.
+**Art**. 10. A fiscalização da Exploração e da pesquisa citadas neste Decreto será exercida por intermédio de observadores indicados pelo Ministério da Marinha e por outros Ministérios interessados, para acompanharem, parcial ou totalmente, os trabalhos autorizados. Qualquer autoridade naval sediada em portos nacionais ou navegando sôbre a plataforma submarina, em águas interiores ou do mar territorial, poderá tomar a iniciativa de exercer tal fiscalização, quando necessário.
 
 § 1º O Conselho Nacional de Pesquisas por solicitação do Ministério da Marinha, indicará cientistas ou técnicos nacionais para acompanhar os trabalhos em causa correndo as despesas de transporte por conta do Ministério da Marinha.
 
@@ -102,25 +100,25 @@ Parágrafo único. As representantes Diplomáticas brasileiras no exterior só e
 
 § 3º Os observadores e fiscais designados encaminharão ao Ministério da Marinha relatórios circunstanciados sôbre as técnicas empregadas, atividades e pesquisas efetuadas.
 
-<strong>Art</strong>. 11. Competirá ao Ministério da Marinha, para efeitos de garantia do cumprimento das disposições dêste Decreto, a fiscalização das atividades exercidas na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores, apreendendo quaisquer embarcações que, nos locais acima indicados estejam efetuando explorações ou pesquisas sem autorização dada por quem de direito.
+**Art**. 11. Competirá ao Ministério da Marinha, para efeitos de garantia do cumprimento das disposições dêste Decreto, a fiscalização das atividades exercidas na plataforma submarina do Brasil, nas águas do mar territorial e nas águas interiores, apreendendo quaisquer embarcações que, nos locais acima indicados estejam efetuando explorações ou pesquisas sem autorização dada por quem de direito.
 
 § 1º Aquêles que forem encontrados realizando pesquisas ou explorações não autorizadas ficarão sujeitos às sanções previstas na legislação brasileira.
 
 § 2º O material relativo à exploração e pesquisa não autorizadas será apreendido e ficará à disposição do Ministério da Marinha que decidirá do seu destino, ouvidos, quando couber, outros órgãos interessados.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 12. As licenças e a fiscalização de pesquisas científicas no território nacional, não previstas neste Decreto, continuarão a ser atribuição do Conselho Nacional de Pesquisas, nos têrmos do Decreto nº 62.203, de 31 de janeiro de 1968.
+**Art**. 12. As licenças e a fiscalização de pesquisas científicas no território nacional, não previstas neste Decreto, continuarão a ser atribuição do Conselho Nacional de Pesquisas, nos têrmos do Decreto nº 62.203, de 31 de janeiro de 1968.
 
-<strong>Art</strong>. 13 O prazo mencionado no art. 6º inciso I só será exigido para os casos em que a partida dos exploradores e pesquisadores estrangeiros de seus países de origem se realizar após 6 de dezembro de 1968, devendo, contudo, a documentação exigida no seu artigo 8º ser encaminhada ao Ministério da Marinha com antecedência mínima de (30) dias.
+**Art**. 13 O prazo mencionado no art. 6º inciso I só será exigido para os casos em que a partida dos exploradores e pesquisadores estrangeiros de seus países de origem se realizar após 6 de dezembro de 1968, devendo, contudo, a documentação exigida no seu artigo 8º ser encaminhada ao Ministério da Marinha com antecedência mínima de (30) dias.
 
-<strong>Art</strong>. 14 Êste Decreto entrará em vigor na data de sua publicação, revogados o Decreto nº 62.837 de 6 de junho de 1968, e demais disposições em contrário.
+**Art**. 14 Êste Decreto entrará em vigor na data de sua publicação, revogados o Decreto nº 62.837 de 6 de junho de 1968, e demais disposições em contrário.
 
 Brasília, 26 de agôsto de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademaker Grünewald
 

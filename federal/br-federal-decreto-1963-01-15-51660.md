@@ -1,5 +1,3 @@
-###DEC-051660-0-000-15-01-1963@@@
-
 DECRETO Nº 51.660, DE 15 DE JANEIRO DE 1963.
 
 Cria funções gratificadas na Seção de Segurança Nacional do Ministério da Aviação e Obras Publicas.

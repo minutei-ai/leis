@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/36184)<br>
-
 # LEI COMPLEMENTAR N° 322, DE 13 DE MAIO DE 1983
 
 ### _Acrescenta parágrafo único ao artigo 274 da Lei n.° 10.261, de 28 de outubro de 1968._

@@ -1,5 +1,3 @@
-###DEC-066699-0-000-12-06-1970@@@
-
 DECRETO Nº 66.699, DE 12 DE JUNHO DE 1970.
 
 Declara caduco o Decreto nº 27.597 de 15 de dezembro de 1949.

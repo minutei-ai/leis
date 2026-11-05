@@ -1,5 +1,3 @@
-###DEC-067975-0-000-29-12-1970@@@
-
 Decreto nº 67.975, de 29 de dezembro de 1970.
 
 Declara caduco o Decreto nº 22.271, de 5.3.1947.

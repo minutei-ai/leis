@@ -1,5 +1,3 @@
-###DEC-064682-0-000-12-06-1969@@@
-
 DECRETO Nº 64.682, DE 12 DE JUNHO DE 1969.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à Operação externa a ser contratada pela Centrais Elétricas de São Paulo S.A. CESP.

@@ -1,5 +1,3 @@
-###DEC-050740-0-000-07-06-1961@@@
-
 DECRETO Nº 50.740, DE 7 DE JUNHO DE 1961.
 
 Cria a Comissão de Amparo à Produção Agropecuária e dá outras providências.

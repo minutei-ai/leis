@@ -1,5 +1,3 @@
-###DEC-064458-0-000-05-05-1969@@@
-
 Decreto nº 64.458, de 5 de maio de 1969.
 
 Autoriza estrangeira a adquirir direitos sôbre fração ideal de terreno de marinha e acrescido, no Estado da Guanabara.

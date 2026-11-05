@@ -1,5 +1,3 @@
-###DEC-061280-0-000-04-09-1967@@@
-
 decreto nº 61.280, de 4 de setembro de 1967.
 
 Autoriza o cidadão brasileiro Edgard Lins Cavalcanti a lavrar água mineral, no Município de São Benedito do Sul, no Estado de Pernambuco.

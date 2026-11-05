@@ -1,7 +1,3 @@
-1
-
-###DEC-000022-0-000-04-02-1991@@@
-
 DECRETO Nº 22, DE 4 DE FEVEREIRO DE 1991.
 
 Dispõe sobre o processo administrativo de demarcação das terras indígenas e dá outras providências.

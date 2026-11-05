@@ -1,7 +1,3 @@
-1
-
-###DEC-095742-0-000-22-02-1988@@@
-
 DECRETO N° 95.742, DE 22 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo Comercial n° 17-B, do Setor da Indústria de Aparelhos Elétricos, Mecânicos e Térmicos de Uso Doméstico, entre o Brasil e a Argentina.

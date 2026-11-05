@@ -1,7 +1,3 @@
-1
-
-###DEC-095744-0-000-23-02-1988@@@
-
 DECRETO N° 95.744, DE 23 DE FEVEREIRO DE 1988
 
 Aprova o Regulamento do Serviço Especial de Televisão por Assinatura - TVA.

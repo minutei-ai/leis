@@ -1,5 +1,3 @@
-###MPV-001918-0-000-23-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.918, de 23 de agosto de 1999.
 
 Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, e de dívidas para com o Fundo de Defesa da Economia Cafeeira - FUNCAFÉ, instituído pelo Decreto-Lei nº 2.295, de 21 de novembro de 1986, que foram reescalonadas no exercício de 1997, e dá outras providências.

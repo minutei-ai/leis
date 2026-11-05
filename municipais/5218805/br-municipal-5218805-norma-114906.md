@@ -12,7 +12,8 @@ Art. 1º A Lei Complementar nº. 3.633/1998 passa a vigorar com as seguintes alt
 
 “...................................................................................................
 
-Art. 6º-C Havendo interesse público em área privada, o Município poderá, ao invés de promover a sua desapropriação, propor ao proprietário a doação da área com o encargo de servir como antecipação de parte de área institucional, área verde e sistema viário, conforme o caso, em futuro parcelamento do solo.<br>
+Art. 6º-C Havendo interesse público em área privada, o Município poderá, ao invés de promover a sua desapropriação, propor ao proprietário a doação da área com o encargo de servir como antecipação de parte de área institucional, área verde e sistema viário, conforme o caso, em futuro parcelamento do solo.
+
 § 1º A área doada na forma deste artigo será compensada proporcionalmente quando da implantação do empreendimento.
 
 § 2º Caso o proprietário não promova ou desista do parcelamento do solo, ficará a doação consolidada no patrimônio público municipal, sem reversão de domínio ou pagamento de qualquer indenização por parte do Município.

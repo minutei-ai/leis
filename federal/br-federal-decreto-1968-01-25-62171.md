@@ -1,5 +1,3 @@
-###DEC-062171-0-000-25-01-1968@@@
-
 DECRETO Nº 62.171, DE 25 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Irmandade da Santa Casa de Misericórdia de Lorena”, com sede em Lorena, Estado de São Paulo.

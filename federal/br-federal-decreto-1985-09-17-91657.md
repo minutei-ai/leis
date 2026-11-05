@@ -1,5 +1,3 @@
-###DEC-091657-0-000-17-09-1985@@@
-
 Decreto nº 91.657, de 17 de setembro de 1985
 
 Altera a redação do artigo 15 do Decreto nº 83.700, de 05 de julho de 1979, e do artigo 4º do Decreto nº 88.626, de 16 de agosto de 1983, e dá outras providências.

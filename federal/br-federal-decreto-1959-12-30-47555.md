@@ -1,5 +1,3 @@
-###DEC-047555-0-000-30-12-1959@@@
-
 Decreto nº 47.555, de 30 de dezembro de 1959.
 
 Concede à Companhia Brasileira de Chumbo - Cobrac - autorização para funcionar como emprêsa de mineração.

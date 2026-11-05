@@ -1,5 +1,3 @@
-###DEL-009300-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.300 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 109.585,20, para contribuição do Brasil à Côrte Permanente de Arbitragem.

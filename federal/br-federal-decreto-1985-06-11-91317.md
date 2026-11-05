@@ -1,5 +1,3 @@
-###DEC-091317-0-000-11-06-1985@@@
-
 Decreto nº 91.317, de 11 de junho de 1985
 
 Dispõe sobre a suspensão temporária de vigência do Decreto nº 90.959, de 14 de fevereiro de 1985, prorroga o prazo de regulamentação e dá outras providências.

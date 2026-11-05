@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209456)<br>
-
 # DECRETO N° 68.526, DE 16 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 457+000m e 467+000m da Rodovia SP-284, no Município de Paraguaçu Paulista, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-068785-0-000-21-06-1971@@@
-
 DECRETO Nº 68.785 - DE 21 DE JUNHO DE 1971.
 
 Dispõe sôbre o aproveitamento de funcionários públicos do extinto Departamento dos Correios e Telégrafos na Emprêsa Brasileira de Correios e Telégrafos e dá outras providências.

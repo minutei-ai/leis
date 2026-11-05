@@ -1,5 +1,3 @@
-###DEC-056066-0-000-26-04-1965@@@
-
 DECRETO Nº 56.066, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Companhia Metalúrgica Barbará a instalar uma usina termoelétrica para uso exclusivo.

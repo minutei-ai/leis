@@ -1,5 +1,3 @@
-###DEC-047290-0-000-25-11-1959@@@
-
 DECRETO Nº 47.290, DE 25 DE NOVEMBRO DE 1959.
 
 Cria uma comissão para seleção dos bens a serem transferidos para as instituições de previdência social.

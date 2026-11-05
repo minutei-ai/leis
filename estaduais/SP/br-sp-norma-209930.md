@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209930)<br>
-
 # DECRETO N° 68.838, DE 05 DE SETEMBRO DE 2024
 
 ### _Homologa sumariamente, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Palestina, que declarou Situação de Emer­gência em áreas do Município._

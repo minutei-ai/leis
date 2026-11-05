@@ -1,5 +1,3 @@
-###DEC-071356-0-000-10-11-1972@@@
-
 DECRETO Nº 71.356 - DE 10 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Instituto de Ciências Humanas de Uberaba - MG

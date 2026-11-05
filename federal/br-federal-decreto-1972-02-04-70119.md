@@ -1,5 +1,3 @@
-###DEC-070119-0-000-04-02-1972@@@
-
 Decreto Nº 70.119, DE 4 DE FEVEREIRO DE 1972.
 
 Acrescenta parágrafo ao artigo 4º do Decreto nº 67.227, de 21 de setembro de 1970, que estabeleceu prioridades para uma política de valorização da ação sindical.

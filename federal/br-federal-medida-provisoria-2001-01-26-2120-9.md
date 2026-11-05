@@ -1,5 +1,3 @@
-###MPV-002120-0-009-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.120-9, DE 26 DE JANEIRO DE 2001
 
 Institui o Fundo Nacional de Segurança Pública - FNSP, e dá outras providências.

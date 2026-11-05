@@ -1,5 +1,3 @@
-###DEC-045181-0-000-31-12-1958@@@
-
 DECRETO Nº 45.181, DE 31 DE DEZEMBRO DE 1958.
 
 Outorga à Prefeitura Municipal de Picui, Estado da Paraíba, concessão para distribuir energia elétrica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099385-0-000-12-07-1990@@@
-
 DECRETO Nº 99.385, DE 12 DE JULHO DE 1990
 
 Prorroga os trabalhos de garimpagem na localidade de Serra Pelada e dá outras providências.

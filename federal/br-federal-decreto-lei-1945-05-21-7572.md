@@ -1,5 +1,3 @@
-###DEL-007572-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.572 – DE 21 DE MAIO DE 1945
 
 Dispõe sôbre os proventos de inatividade do funcionário que menciona

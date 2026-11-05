@@ -1,5 +1,3 @@
-###DEC-093857-0-000-22-12-1986@@@
-
 DECRETO Nº 93.857, DE 22 DE DEZEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Pedagogia da Fundação de Ensino do Pólo Geoeducacional do Vale do Itajaí.

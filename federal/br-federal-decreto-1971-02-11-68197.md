@@ -1,5 +1,3 @@
-###DEC-068197-0-000-11-02-1971@@@
-
 decreto nº 68.197, de 11 de Fevereiro de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a SE de Iporá, município de mesmo nome até a SE de Israelândia, no município de Israelândia, no Estado de Goiás.

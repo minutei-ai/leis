@@ -1,5 +1,3 @@
-###DEC-061476-0-000-05-10-1967@@@
-
 DECRETO Nº 61.476, DE 5 DE OUTUBRO DE 1967.
 
 Altera dispositivos do Regulamento de Continências, Honras e Sinais de Respeito das Fôrças Armadas, aprovado pelo Decreto nº 8.736, de 10 de fevereiro de 1942.

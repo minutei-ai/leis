@@ -1,5 +1,3 @@
-###DEL-007448-0-000-09-04-1945@@@
-
 DECRETO-LEI N. 7.448 – DE 9 DE ABRIL DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 50.000. 000,00 para o financiamento da Caixa de Crédito Cooperativo

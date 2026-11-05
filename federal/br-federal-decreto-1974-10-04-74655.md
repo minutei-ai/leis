@@ -1,5 +1,3 @@
-###DEC-074655-0-000-04-10-1974@@@
-
 DECRETO Nº 74.655, DE 04 DE OUTUBRO DE 1974.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Filosofia, Ciências e Letras de Sorocaba, mantida pela Fundação Dom Aguirre, com sede na Cidade de Sorocaba, Estado de São Paulo.

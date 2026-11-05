@@ -1,6 +1,10 @@
 > **LEI Nº 3.687, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a prorrogação de prazo para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a prorrogação de prazo para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -19,8 +23,6 @@
 **III -** a reabertura do prazo para pagamento com a redução prevista no § 2º do art. 10 da Lei Complementar nº 114, de 30 de dezembro de 2002. 
 
 **Art. 3º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco-Acre, 7 de janeiro de 2021, 133º da República, 119º do Tratado de Petrópolis e 60º do Estado do Acre.
 

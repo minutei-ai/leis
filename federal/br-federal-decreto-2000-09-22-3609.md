@@ -1,5 +1,3 @@
-###DEC-003609-0-000-22-09-2000@@@
-
 DECRETO Nº 3.609, DE 22 DE SETEMBRO DE 2000.
 
 Exclui produto da Lista Básica de Exceções à Tarifa Externa Comum, e dá outras providências.

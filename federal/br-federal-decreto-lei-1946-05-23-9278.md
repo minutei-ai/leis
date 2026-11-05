@@ -1,5 +1,3 @@
-###DEL-009278-0-000-23-05-1946@@@
-
 DECRETO-LEI  N. 9.278 – 23 DE MAIO DE 1946
 
 Dá nova redação aos parágrafos 2º e 3º do art. 6º do Decreto-lei número 8.121, de 22 de Outubro de 1945, modificado pelo Decreto-lei  nº 8.546, de 3 de Janeiro de 1946.

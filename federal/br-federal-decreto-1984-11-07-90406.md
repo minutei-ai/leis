@@ -1,5 +1,3 @@
-###DEC-090406-0-000-07-11-1984@@@
-
 Decreto nº 90.406, de 07 de novembro de 1984
 
 Altera a denominação da Medalha do Mérito na Alimentação Escolar e dá outras providências.

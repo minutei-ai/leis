@@ -16,66 +16,808 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DE LEITOS PSIQUIÁTRICOS</td><td style=" width:85px;    ">10 301 1043 2507</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 993.122,05</td><td style=" width:85px;    ">R$ 993.122,05</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 5.636.447,28</td><td style=" width:85px;    ">R$ 5.636.447,28</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3261-AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA - AGRODEFESA &nbsp;</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 24.269,00</td><td style=" width:85px;    ">R$ 260.044,05</td><td style=" width:85px;    ">R$ 284.313,05</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.234.000,00</td><td style=" width:85px;    ">R$ 1.234.000,00</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">BOLSA ESTUDO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 1008 2549</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.890.537,18</td><td style=" width:85px;    ">R$ 5.906.807,00</td><td style=" width:85px;    ">R$ 7.797.344,18</td></tr><tr><td style=" width:85px;    ">BOLSA ESTUDO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 1008 2548</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.866.778,40</td><td style=" width:85px;    ">R$ 6.205.000,00</td><td style=" width:85px;    ">R$ 8.071.778,40</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+COFINANCIAMENTO DE LEITOS PSIQUIÁTRICOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 781.498,00</td><td style=" width:85px;    ">R$ 781.498,00</td></tr></tbody></table>
+10 301 1043 2507
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 13.364.973,10</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 1.234.000,00</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 781.498,00</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.636.447,28</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 21.016.918,38</td></tr></tbody></table>
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 993.122,05
+
+R$ 993.122,05
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 5.636.447,28
+
+R$ 5.636.447,28
+
+**3261-AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA - AGRODEFESA  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 24.269,00
+
+R$ 260.044,05
+
+R$ 284.313,05
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.234.000,00
+
+R$ 1.234.000,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+BOLSA ESTUDO - ENSINO MEDIO
+
+12 362 1008 2549
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.890.537,18
+
+R$ 5.906.807,00
+
+R$ 7.797.344,18
+
+BOLSA ESTUDO - ENSINO FUNDAMENTAL
+
+12 361 1008 2548
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.866.778,40
+
+R$ 6.205.000,00
+
+R$ 8.071.778,40
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 781.498,00
+
+R$ 781.498,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 13.364.973,10
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.234.000,00
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 781.498,00
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 5.636.447,28
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 21.016.918,38
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 49.964.188,16</td><td style=" width:85px;    ">R$ 993.122,05</td><td style=" width:85px;    ">R$ 993.122,05</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.636.447,28</td><td style=" width:85px;    ">R$ 5.636.447,28</td><td style=" width:85px;    ">R$ 5.636.447,28</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3261-AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA - AGRODEFESA &nbsp;</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROMOVER A SANIDADE DA PROD. AGROPEC., A IDONEID. DOS PROD. E INSUM. E A MANUT. DOS STATUS ZOOFITOSSANITÁRIOS</td><td style=" width:85px;    ">20 609 1035 2412</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 820,00</td><td style=" width:85px;    ">R$ 820,00</td><td style=" width:85px;    ">R$ 820,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">20 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 46.734,45</td><td style=" width:85px;    ">R$ 39.214,04</td><td style=" width:85px;    ">R$ 39.214,04</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">20 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 20.000,00</td></tr><tr><td style=" width:85px;    ">PROMOVER A SANIDADE DA PROD. AGROPEC., A IDONEID. DOS PROD. E INSUM. E A MANUT. DOS STATUS ZOOFITOSSANITÁRIOS</td><td style=" width:85px;    ">20 609 1035 2412</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 133.874,56</td><td style=" width:85px;    ">R$ 129.840,01</td><td style=" width:85px;    ">R$ 129.840,01</td></tr><tr><td style=" width:85px;    ">GESTÃO DE EDUCAÇÃO SANITÁRIA DESENVOLVIDAS PELA AGRODEFESA</td><td style=" width:85px;    ">20 609 1035 2414</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA SOLUÇÃO DE ATENDIMENTO DIGITAL E OFERTA DE SERVIÇOS ÁGEIS E INTELIGENTES AOS CIDADÃOS</td><td style=" width:85px;    ">20 609 1048 2413</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 60.170,00</td><td style=" width:85px;    ">R$ 60.170,00</td><td style=" width:85px;    ">R$ 60.170,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS ESPECIAIS GERAIS</td><td style=" width:85px;    ">28 846 0100 7104</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.560.188,81</td><td style=" width:85px;    ">R$ 1.234.000,00</td><td style=" width:85px;    ">R$ 1.234.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE PRÉDIO PÚBLICO</td><td style=" width:85px;    ">12 122 1008 3131</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES</td><td style=" width:85px;    ">12 368 1008 2283</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS</td><td style=" width:85px;    ">12 126 1008 2546</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 135.800,00</td><td style=" width:85px;    ">R$ 135.800,00</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.579,00</td><td style=" width:85px;    ">R$ 1.579,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 200.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 214.000,00</td><td style=" width:85px;    ">R$ 214.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 238.457,86</td><td style=" width:85px;    ">R$ 1.070.000,00</td><td style=" width:85px;    ">R$ 1.070.000,00</td></tr><tr><td style=" width:85px;    ">PUBLICIDADE DE UTILIDADE PÚBLICA</td><td style=" width:85px;    ">12 131 1008 3119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 972,00</td><td style=" width:85px;    ">R$ 307.000,00</td><td style=" width:85px;    ">R$ 307.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS</td><td style=" width:85px;    ">12 126 1008 2546</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,17</td><td style=" width:85px;    ">R$ 30.101,00</td><td style=" width:85px;    ">R$ 30.101,00</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">GESTÃO DA INICIATIVA ALFAMAIS GOIÁS</td><td style=" width:85px;  height:19px;   ">12 368 1008 2480</td><td style=" width:85px;  height:19px;   ">15000100</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;  height:19px;   ">R$ 79,83</td><td style=" width:85px;  height:19px;   ">R$ 6.028.000,00</td><td style=" width:85px;  height:19px;   ">R$ 6.028.000,00</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 23.287,00</td><td style=" width:85px;    ">R$ 23.287,00</td></tr><tr><td style=" width:85px;    ">ALFAMAIS GOIÁS - EDUCAÇÃO INFANTIL - KIT ESCOLAR</td><td style=" width:85px;    ">12 365 1008 2479</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 652.040,00</td><td style=" width:85px;    ">R$ 652.040,00</td></tr><tr><td style=" width:85px;    ">ALFAMAIS GOIAS - EDUCAÇÃO INFANTIL - PROFISSIONAL BENEFICIADO COM BOLSA</td><td style=" width:85px;    ">12 365 1008 2545</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.460.000,00</td><td style=" width:85px;    ">R$ 1.460.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 368 1008 2474</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 56.186,50</td><td style=" width:85px;    ">R$ 1.550.000,00</td><td style=" width:85px;    ">R$ 1.550.000,00</td></tr><tr><td style=" width:85px;    ">ALFAMAIS GOIÁS - ENSINO FUNDAMENTAL I - PROFISSIONAL BENEFICIADO COM BOLSA</td><td style=" width:85px;    ">12 361 1008 2478</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 420.000,00</td><td style=" width:85px;    ">R$ 420.000,00</td></tr></tbody></table>
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+10 302 1043 2516
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2534</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.950.000,00</td><td style=" width:85px;    ">R$ 781.498,00</td><td style=" width:85px;    ">R$ 781.498,00</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+50
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 13.364.973,10</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 1.234.000,00</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 781.498,00</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.636.447,28</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 21.016.918,38</td></tr></tbody></table>
+3 - OUTRAS DESPESAS CORRENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 49.964.188,16
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 13.364.973,10</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 1.234.000,00</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 781.498,00</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.636.447,28</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 21.016.918,38</td></tr></tbody></table>
+R$ 993.122,05
+
+R$ 993.122,05
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+25010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.636.447,28
+
+R$ 5.636.447,28
+
+R$ 5.636.447,28
+
+**3261-AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA - AGRODEFESA  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROMOVER A SANIDADE DA PROD. AGROPEC., A IDONEID. DOS PROD. E INSUM. E A MANUT. DOS STATUS ZOOFITOSSANITÁRIOS
+
+20 609 1035 2412
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 820,00
+
+R$ 820,00
+
+R$ 820,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+20 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 46.734,45
+
+R$ 39.214,04
+
+R$ 39.214,04
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+20 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 20.000,00
+
+R$ 20.000,00
+
+R$ 20.000,00
+
+PROMOVER A SANIDADE DA PROD. AGROPEC., A IDONEID. DOS PROD. E INSUM. E A MANUT. DOS STATUS ZOOFITOSSANITÁRIOS
+
+20 609 1035 2412
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 133.874,56
+
+R$ 129.840,01
+
+R$ 129.840,01
+
+GESTÃO DE EDUCAÇÃO SANITÁRIA DESENVOLVIDAS PELA AGRODEFESA
+
+20 609 1035 2414
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO DA INICIATIVA SOLUÇÃO DE ATENDIMENTO DIGITAL E OFERTA DE SERVIÇOS ÁGEIS E INTELIGENTES AOS CIDADÃOS
+
+20 609 1048 2413
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 60.170,00
+
+R$ 60.170,00
+
+R$ 60.170,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ENCARGOS ESPECIAIS GERAIS
+
+28 846 0100 7104
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.560.188,81
+
+R$ 1.234.000,00
+
+R$ 1.234.000,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO DE PRÉDIO PÚBLICO
+
+12 122 1008 3131
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES
+
+12 368 1008 2283
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS
+
+12 126 1008 2546
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 135.800,00
+
+R$ 135.800,00
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.579,00
+
+R$ 1.579,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15000100
+
+90
+
+5 - INVERSÕES FINANCEIRAS
+
+R$ 0,00
+
+R$ 200.000,00
+
+R$ 200.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 214.000,00
+
+R$ 214.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 238.457,86
+
+R$ 1.070.000,00
+
+R$ 1.070.000,00
+
+PUBLICIDADE DE UTILIDADE PÚBLICA
+
+12 131 1008 3119
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 972,00
+
+R$ 307.000,00
+
+R$ 307.000,00
+
+GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS
+
+12 126 1008 2546
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,17
+
+R$ 30.101,00
+
+R$ 30.101,00
+
+GESTÃO DA INICIATIVA ALFAMAIS GOIÁS
+
+12 368 1008 2480
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 79,83
+
+R$ 6.028.000,00
+
+R$ 6.028.000,00
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 23.287,00
+
+R$ 23.287,00
+
+ALFAMAIS GOIÁS - EDUCAÇÃO INFANTIL - KIT ESCOLAR
+
+12 365 1008 2479
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 652.040,00
+
+R$ 652.040,00
+
+ALFAMAIS GOIAS - EDUCAÇÃO INFANTIL - PROFISSIONAL BENEFICIADO COM BOLSA
+
+12 365 1008 2545
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.460.000,00
+
+R$ 1.460.000,00
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 368 1008 2474
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 56.186,50
+
+R$ 1.550.000,00
+
+R$ 1.550.000,00
+
+ALFAMAIS GOIÁS - ENSINO FUNDAMENTAL I - PROFISSIONAL BENEFICIADO COM BOLSA
+
+12 361 1008 2478
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 420.000,00
+
+R$ 420.000,00
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2534
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.950.000,00
+
+R$ 781.498,00
+
+R$ 781.498,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 13.364.973,10
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.234.000,00
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 781.498,00
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 5.636.447,28
+
+**TOTAL**
+
+R$ 21.016.918,38
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 13.364.973,10
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.234.000,00
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 781.498,00
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 5.636.447,28
+
+**TOTAL**
+
+R$ 21.016.918,38

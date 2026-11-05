@@ -1,5 +1,3 @@
-###DEC-079140-0-000-18-01-1977@@@
-
 DECRETO Nº 79.140, DE 18 DE JANEIRO DE 1977.
 
 Concede reconhecimento às habilitações em Publicidade e Propaganda e em Relações Públicas, do curso de Comunicação Social, da Universidade Federal do Paraná.

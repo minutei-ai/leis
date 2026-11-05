@@ -1,5 +1,3 @@
-###DEL-003722-0-000-16-10-1941@@@
-
 DECRETO-LEI N. 3.722 – DE 16 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 200:000$0, para obras

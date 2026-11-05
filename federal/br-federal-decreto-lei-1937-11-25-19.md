@@ -1,5 +1,3 @@
-###DEL-000019-0-000-25-11-1937@@@
-
 DECRETO-LEI N. 19 – DE 25 DE NOVEMBRO DE 1937
 
 Revoga o decreto n. 23.771, de 20 de janeiro de 1933, que nomea coronel da, 2ª classe da reserva de 1ª linha o Dr. Pedro Ernesto Baptista, para o Corpo de Saúde

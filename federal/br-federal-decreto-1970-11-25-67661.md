@@ -1,5 +1,3 @@
-###DEC-067661-0-000-25-11-1970@@@
-
 DECRETO Nº 67.661, DE 25 DE NOVEMBRO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Comunicação de Santos - SP.

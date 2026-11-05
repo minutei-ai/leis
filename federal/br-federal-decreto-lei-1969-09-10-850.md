@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7f73b4b0-0565-49dc-95ce-e6b7c009aa27/texto#nowhere)
 
-###DEL-000850-0-000-10-09-1969@@@
-
 DECRETO-LEI Nº 850, DE 10 DE sETEMBRO DE 1969
 
 Dá nova redação a dispositivos do Decreto-lei nº 37, de 18 de novembro de 1966, que dispõe sôbre o Impôsto de Importação e reorganiza os serviços aduaneiros.

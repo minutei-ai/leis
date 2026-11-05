@@ -1,5 +1,3 @@
-###DEL-004491-0-000-17-07-1942@@@
-
 DECRETO-LEI N. 4.491 – DE 17 DE JULHO DE 1942
 
 Cria a Companhia Independente de Fronteiras, com sede em Brasilia (Território do Acre)

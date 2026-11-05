@@ -1,5 +1,3 @@
-###DEL-004542-0-000-31-07-1942@@@
-
 DECRETO-LEI N. 4.542 – DE 31 DE JULHO DE 1942
 
 Altera sem aumento de despesa o atual orçamento do Ministério da Aeronáutica

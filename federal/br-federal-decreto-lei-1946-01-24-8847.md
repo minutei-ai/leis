@@ -1,5 +1,3 @@
-###DEL-008847-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.847 – DE 24 DE JANEIRO DE 1946
 
 Reorganiza o Departamento Nacional de Obras de Saneamento e dá outras providências.

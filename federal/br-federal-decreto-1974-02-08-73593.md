@@ -1,5 +1,3 @@
-###DEC-073593-0-000-08-02-1974@@@
-
 DECRETO nº 73.593, de 8 de Fevereiro de 1974.
 
 Define a estrutura básica da Secretaria-Geral (SG) do Ministério das Minas e Energia e dá outras providências.

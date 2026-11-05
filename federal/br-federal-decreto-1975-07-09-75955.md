@@ -1,5 +1,3 @@
-###DEC-075955-0-000-09-07-1975@@@
-
 DECRETO Nº 75.955, DE 9 DE JUlhO DE 1975.
 
 Autoriza o Serviço de Patrimônio da União a aceitar doação de imóveis em Salvador - BA, destinados ao Ministério do Exército.

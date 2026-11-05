@@ -1,5 +1,3 @@
-###DEC-069906-0-000-07-01-1972@@@
-
 DECRETO Nº 69.906, DE 7 DE JANEIRO DE 1972.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originários da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

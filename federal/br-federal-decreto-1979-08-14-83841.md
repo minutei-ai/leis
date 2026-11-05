@@ -1,5 +1,3 @@
-###DEC-083841-0-000-14-08-1979@@@
-
 DECRETO Nº 83.841, DE 14 DE AGOSTO DE 1979.
 
 Delega competência ao Ministro das Minas e Energia para concessão de lavra ou declaração de sua caducidade.

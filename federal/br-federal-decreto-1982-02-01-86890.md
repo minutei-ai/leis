@@ -1,5 +1,3 @@
-###DEC-086890-0-000-01-02-1982@@@
-
 Decreto nº 86.890, de 01 de fevereiro de 1982.
 
 Fixa, para o exercício de 1982, o limite global de importações através da Zona Franca de Manaus e dá outras providências.

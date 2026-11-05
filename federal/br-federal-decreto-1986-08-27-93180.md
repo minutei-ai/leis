@@ -1,5 +1,3 @@
-###DEC-093180-0-000-27-08-1986@@@
-
 DECRETO Nº 93.180, DE 27 DE AGOSTO DE 1986
 
 Dispõe sobre a realização de expedições científicas no Brasil e dá outras providências.

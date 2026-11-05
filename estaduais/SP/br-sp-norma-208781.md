@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208781)<br>
-
 # DECRETO N° 68.066, DE 09 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos, bem como a obras de melhoria, no trecho entre os km 238,47m e 268,69m da Rodovia Lázaro Cordeiro de Campos, SP-147, no Município de Bofete, e dá providências correlatas._

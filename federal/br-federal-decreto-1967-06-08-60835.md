@@ -1,5 +1,3 @@
-###DEC-060835-0-000-08-06-1967@@@
-
 DECRETO Nº 60.835, DE 8 DE JUNHO DE 1967.
 
 Abre, pelo Ministério dos Transportes, o crédito especial de NCr$450.000,00, para o fim que especifica.

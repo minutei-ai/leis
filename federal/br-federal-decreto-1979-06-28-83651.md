@@ -1,5 +1,3 @@
-###DEC-083651-0-000-28-06-1979@@@
-
 Decreto nº 83.651, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade Bandeirante de Filosofia, Ciências e Letras, na cidade de Bragança Paulista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004134-0-000-26-02-1942@@@
-
 DECRETO-LEI N. 4.134 – DE 26 DE FEVEREIRO DE 1942
 
 Estabelece prazo para a execução da reorganização da Recebedoria do Distrito Federal (R. D. F.)

@@ -1,5 +1,3 @@
-###DEC-053896-0-000-27-04-1964@@@
-
 Decreto nº 53.896, de 27 de abril de 1964.
 
 Determina a intervenção federal na Rede Ferroviária Federal Sociedade Anônima e suas subsidiárias.

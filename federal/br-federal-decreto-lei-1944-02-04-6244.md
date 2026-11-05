@@ -1,5 +1,3 @@
-###DEL-006244-0-000-04-02-1944@@@
-
 DECRETO-LEI N. 6.244 – DE 4 DE FEVEREIRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Venerável Ordem Terceira da Imaculada Conceição” do pagamento do imposto que menciona

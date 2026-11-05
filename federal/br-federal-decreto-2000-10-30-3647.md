@@ -1,5 +1,3 @@
-###DEC-003647-0-000-30-10-2000@@@
-
 Decreto nº 3.647, de 30 de outubro de 2000.
 
 Dispõe sobre o Imposto de Exportação indente sobre os produtos que menciona.

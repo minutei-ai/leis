@@ -1,5 +1,3 @@
-###DEL-003716-0-000-15-10-1941@@@
-
 DECRETO-LEi N. 3.716 – DE 15 DE OUTUBRO DE 1941
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Agricultura

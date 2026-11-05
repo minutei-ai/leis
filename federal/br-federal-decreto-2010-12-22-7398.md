@@ -1,5 +1,3 @@
-###DEC-007398-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.398, DE 22 DE DEZEMBRO DE 2010
 
 Promulga a Quarta Emenda ao Convênio Constitutivo do Fundo Monetário Internacional.

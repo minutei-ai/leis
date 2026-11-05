@@ -1,5 +1,3 @@
-###DEC-060919-0-000-30-06-1967@@@
-
 decreto nº 60.919, de 30 de junho de 1967.
 
 Retifica o enquadramento do pessoal da Universidade Federal do Rio de Janeiro beneficiado pelo parágrafo único do art. 23 da Lei nº 4.069, de 11 de junho de 1962.

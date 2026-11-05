@@ -1,5 +1,3 @@
-###DEC-055275-0-000-22-12-1964@@@
-
 DECRETO Nº 55.275, DE 22 DE DEZEMBRO DE 1964.
 
 Cria o “Fundo de Financiamento para Aquisição de Máquinas e Equipamentos Industriais - FINAME” e dá outras providências.
@@ -103,8 +101,6 @@ Otávio Gouveia de Bulhões
 Daniel Faraco
 
 Roberto de Oliveira Campos
-
-###DEC-055275-0-000-22-12-1964@@@RET01+++
 
 DECRETO Nº 55.275, DE 22 DE DEZEMBRO DE 1964.
 

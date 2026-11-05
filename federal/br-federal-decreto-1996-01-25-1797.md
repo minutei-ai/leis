@@ -1,5 +1,3 @@
-###DEC-001797-0-000-25-01-1996@@@
-
 DECRETO Nº 1.797, DE 25 DE JANEIRO DE 1996
 
 Dispõe sobre a execução do Acordo de Alcance Parcial para a Facilitação do Transporte de Produtos Perigosos, entre Brasil, Argentina, Paraguai e Uruguai, de 30 de dezembro de 1994.

@@ -1,5 +1,3 @@
-###DEC-077980-0-000-07-07-1976@@@
-
 DECRETO Nº 77.980, DE 7 DE JULHO DE 1976
 
 Extingue a Campanha de Formação de Meteorologistas instituída pelo Decreto nº 49.305, de 21 de novembro de 1960, e dá outras providências.

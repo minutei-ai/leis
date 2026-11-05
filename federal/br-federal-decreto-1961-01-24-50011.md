@@ -1,5 +1,3 @@
-###DEC-050011-0-000-24-01-1961@@@
-
 decreto nº 50.011, de 24 de janeiro de 1961.
 
 Autoriza a emprêsa de mineração Dragagens de Ouro Ltda., a pesquisar ouro nos municípios de Diamantina, Gouveia e Conceição do Mato Dentro, Estado de Minas Gerais.

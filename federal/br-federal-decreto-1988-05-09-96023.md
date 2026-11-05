@@ -1,5 +1,3 @@
-###DEC-096023-0-000-09-05-1988@@@
-
 DECRETO N° 96.023, DE 09 DE MAIO DE 1988
 
 Dispõe sobre a transferência do Programa Nacional de Melhoramento da Cana-de-Açúcar - PLANALSUCAR, do Ministério da Indústria e do Comércio, para o Ministério da Agricultura, e dá outras providências.

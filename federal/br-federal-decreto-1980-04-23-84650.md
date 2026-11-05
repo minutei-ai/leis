@@ -1,5 +1,3 @@
-###DEC-084650-0-000-23-04-1980@@@
-
 DECRETO Nº 84.650, DE 23 DE ABRIL DE 1980.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Parambú, no Estado do Ceará, compreendidos na área prioritária de reforma agrária fixada pelo Decreto nº 60.465, de 14 de março de 1967, com prazo de intervenção governamental sucessivamente prorrogado até a data de 31 de dezembro de 1983.

@@ -1,5 +1,3 @@
-###DEC-050238-0-000-28-01-1961@@@
-
 Decreto Nº 50.238, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Companhia de Rádio e Televisão Sul do Brasil para estabelecer uma estação de radiotelevisão.

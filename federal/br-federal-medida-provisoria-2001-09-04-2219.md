@@ -1,5 +1,3 @@
-###MPV-002219-0-000-04-09-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.219, DE 4 DE SETEMBRO DE 2001
 
  Estabelece princípios gerais da Política Nacional do Cinema, cria o Conselho Superior do Cinema e a Agência Nacional do Cinema - ANCINE, institui o Programa de Apoio ao Desenvolvimento do Cinema Nacional - PRODECINE, autoriza a criação de Fundos de Financiamento da Indústria Cinematográfica Nacional - FUNCINES, altera a legislação sobre a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional e dá outras providências.
@@ -708,32 +706,184 @@ Art. 33, inciso I:
 
 a)MERCADO DE SALAS DE EXIBIÇÃO (exceto obra publicitária)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de até 15 minutos</span></p></td><td style="width:126.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 300,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração a 15 minutos e até 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 700,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração a 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 3.000,00</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica de até 15 minutos
+
+R$ 300,00
+
+- Obra cinematográfica ou videofonográfica de duração a 15 minutos e até 50 minutos
+
+R$ 700,00
+
+- Obra cinematográfica ou videofonográfica de duração a 50 minutos
+
+R$ 3.000,00
 
 b)MERCADO DE VÍDEO DOMÉSTICOS, EM QUALQUER SUPORTE (exceto obra publicitária)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de até 15 minutos</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:126.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 300,00</span></p></td></tr><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica com duração superior a 15 minutos e até 50 minutos</span></p></td><td style="width:126.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 700,00</span></p></td></tr><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica Com duração a 50 minutos ou conjunto de obras audiovisuais de cada Metragem e/ou médio metragem gravadas num mesmo suporte com duração superior a 50 minutos</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 3.000,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:18pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span style="font-family:'Times New Roman'">-</span></span><span style="font:7pt 'Times New Roman'; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 750,000</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica de até 15 minutos
+
+R$ 300,00
+
+- Obra cinematográfica ou videofonográfica com duração superior a 15 minutos e até 50 minutos
+
+R$ 700,00
+
+- Obra cinematográfica ou videofonográfica Com duração a 50 minutos ou conjunto de obras audiovisuais de cada Metragem e/ou médio metragem gravadas num mesmo suporte com duração superior a 50 minutos
+
+R$ 3.000,00
+
+-          Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)
+
+R$ 750,000
 
 c) MERCADO DE SERVIÇOS DE RADIODIFUSÃO DE SONS E IMAGEM (exceto obra publicitária)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de até 15 minutos</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:126.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 300,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a 15 minutos e até 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 700,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 3.000,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 750,00</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica de até 15 minutos
+
+R$ 300,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a 15 minutos e até 50 minutos
+
+R$ 700,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos
+
+R$ 3.000,00
+
+- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)
+
+R$ 750,00
 
 d) MERCADO DE SERVIÇOS DE COMUNICAÇÃO ELETRÔNICA DE MASSA POR ASSINATURA (exceto obra publicitária)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de até 15 minutos</span></p></td><td style="width:126.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 200,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a 15 minutos e até 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 500,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 2.000,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)</span></p></td><td style="width:126.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 450,00</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica de até 15 minutos
+
+R$ 200,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a 15 minutos e até 50 minutos
+
+R$ 500,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos
+
+R$ 2.000,00
+
+- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)
+
+R$ 450,00
 
 e)OUTRO MERCADOS (exceto obra publicitária)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de até 15 minutos</span></p></td><td style="width:98.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 300,00</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a15 minutos e até</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">50 minutos</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 700,00</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 3.000,00</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 750,00</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica de até 15 minutos
+
+R$ 300,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a15 minutos e até  50 minutos
+
+R$ 700,00
+
+- Obra cinematográfica ou videofonográfica de duração superior a 50 minutos
+
+R$ 3.000,00
+
+- Obra cinematográfica ou videofonográfica seriada (por capítulo ou episódio)
+
+R$ 750,00
 
 Art. 33, inciso II
 
 OBRA CINEMATOGRÁFICA OU VIDEOFONOGRÁFICA PARA EXIBIÇÃO PARA EXIBIÇÃO EM CADA SEGMENTO DE MERCADO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica publicitária com duração de até 15 minutos</span></p></td><td style="width:98.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 50.000,00</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica publicitária com duração superior a 15 minutos e até 30 segundos</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 70.000,00</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Obra cinematográfica ou videofonográfica publicitária com duração superior a 30 minutos</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p style="margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">R$ 100.000,00</span></p></td></tr></tbody></table>
+- Obra cinematográfica ou videofonográfica publicitária com duração de até 15 minutos
+
+R$ 50.000,00
+
+- Obra cinematográfica ou videofonográfica publicitária com duração superior a 15 minutos e até 30 segundos
+
+R$ 70.000,00
+
+- Obra cinematográfica ou videofonográfica publicitária com duração superior a 30 minutos
+
+R$ 100.000,00
 
 ANEXO II
 
 Quadro de cargos comissionados da ANCINE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DIREÇÃO</span></p></td><td style="width:98.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CD-I</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CD-II</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">GERÊNCIA EXECUTIVA</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CGE-I</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CGE-II</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CGE-III</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CGE-IV</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">ASSESSORIA</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CA-I</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CA-II</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CA-III</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">ASSISTÊNCIA</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CAS-I</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CAS-II</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">TÉCNICOS</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CCT-V</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CCT-IV</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CCT-III</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CCT-II</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CCT-I</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td></tr><tr><td style="width:336.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="text-transform:none">TOTAL</span></p></td><td style="width:98.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">126</span></p></td></tr></tbody></table>
+DIREÇÃO
+
+CD-I
+
+1
+
+CD-II
+
+3
+
+GERÊNCIA EXECUTIVA
+
+CGE-I
+
+4
+
+CGE-II
+
+12
+
+CGE-III
+
+10
+
+CGE-IV
+
+6
+
+ASSESSORIA
+
+CA-I
+
+8
+
+CA-II
+
+6
+
+CA-III
+
+6
+
+ASSISTÊNCIA
+
+CAS-I
+
+8
+
+CAS-II
+
+8
+
+TÉCNICOS
+
+CCT-V
+
+8
+
+CCT-IV
+
+12
+
+CCT-III
+
+10
+
+CCT-II
+
+12
+
+CCT-I
+
+12
+
+TOTAL
+
+126

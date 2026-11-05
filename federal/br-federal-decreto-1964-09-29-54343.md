@@ -1,5 +1,3 @@
-###DEC-054343-0-000-29-09-1964@@@
-
 Decreto nº 54.343, de 29 de setembro de 1964.
 
 Autoriza a Companhia Nacional de Energia Elétrica a vender unidade geradora no município de Borborema, Estado de São Paulo.

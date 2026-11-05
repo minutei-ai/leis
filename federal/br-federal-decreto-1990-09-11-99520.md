@@ -1,7 +1,3 @@
-1
-
-###DEC-099520-0-000-11-09-1990@@@
-
 DECRETO N° 99.520, DE 11 DE SETEMBRO DE 1990
 
 Institui o Diploma do Mérito Nacional de Alfabetização.

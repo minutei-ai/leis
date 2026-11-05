@@ -1,5 +1,3 @@
-###DEC-082032-0-000-25-07-1978@@@
-
 Decreto nº 82.032, de 25 de julho de 1978
 
 Concede à Industria de Calcários Caçapava Ltda. o direito de lavrar dolomito calcítico no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

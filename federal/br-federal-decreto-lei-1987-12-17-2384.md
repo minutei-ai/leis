@@ -1,7 +1,3 @@
-1
-
-###DEL-002384-0-000-17-12-1987@@@
-
 # DECRETO-LEI Nº 2.384, DE 17 DE DEZEMBRO DE 1987.
 
 Revoga o art. 12 do Decreto-lei nº 138, de 2 de fevereiro de 1967, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049477-0-000-09-12-1960@@@
-
 DECRETO Nº 49.477, DE 9 DE DEZEMBRO DE 1960.
 
 Cria o Consulado-Geral do Brasil em Copenhague.

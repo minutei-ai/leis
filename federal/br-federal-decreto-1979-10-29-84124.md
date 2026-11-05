@@ -1,5 +1,3 @@
-###DEC-084124-0-000-29-10-1979@@@
-
 Decreto nº 84.124, de 29 de outubro de 1979.
 
 Concede autorização para funcionar como empresa de energia elétrica à Empresa de Energia Elétrica de Mato Grosso do Sul S.A. - ENERSUL.

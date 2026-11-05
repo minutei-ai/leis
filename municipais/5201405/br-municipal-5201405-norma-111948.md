@@ -86,7 +86,8 @@ Aparecida de Goiânia, 11 de dezembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO I
@@ -103,6 +104,6 @@ ANEXO II
 
 (Altera o Item 5 da Tabela I do Anexo IV da LC nº 46/2011)
 
-<table class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td colspan="4" style=" width:642px;    "><b>CÓDIGO TRIBUTÁRIO MUNICIPAL – ANEXO IV</b> <b>TABELA I</b></td></tr><tr><td colspan="4" style=" width:642px;     "><b>TAXA DE SERVIÇOS URBANOS</b></td></tr><tr><td colspan="4" style=" width:642px;    ">Fundamento legal: artigo 195</td></tr><tr><td colspan="4" style=" width:642px;     "><b>TAXA DE SERVIÇOS URBANOS – SERVIÇOS DE REMOÇÃO E DEPÓSITO DO LIXO, </b><b>ROÇAGEM, LIMPEZA DE IMÓVEIS</b></td></tr><tr><td style=" width:160px;    "><b>ITEM</b></td><td style=" width:160px;    "><b>ESPECIFICAÇÃO</b></td><td style=" width:160px;    "><b>LANÇAMENTO</b></td><td style=" width:160px;    "><b>VALOR DO SERVIÇO</b></td></tr><tr><td style=" width:160px;    ">..................</td><td style=" width:160px;    ">.....................</td><td style=" width:160px;    ">..................</td><td style=" width:160px;    ">.................</td></tr><tr><td style=" width:160px;    "><b>5</b></td><td style=" width:160px;    ">Roçagem/limpeza de terrenos baldios – por m²</td><td style=" width:160px;    ">Por m² executado no ano</td><td style=" width:160px;    ">0,31 UVFA</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">**CÓDIGO TRIBUTÁRIO MUNICIPAL – ANEXO IVTABELA I**</td></tr><tr><td colspan="4">**TAXA DE SERVIÇOS URBANOS**</td></tr><tr><td colspan="4">Fundamento legal: artigo 195</td></tr><tr><td colspan="4">**TAXA DE SERVIÇOS URBANOS – SERVIÇOS DE REMOÇÃO E DEPÓSITO DO LIXO, ROÇAGEM, LIMPEZA DE IMÓVEIS**</td></tr><tr><td>**ITEM**</td><td>**ESPECIFICAÇÃO**</td><td>**LANÇAMENTO**</td><td>**VALOR DO SERVIÇO**</td></tr><tr><td>..................</td><td>.....................</td><td>..................</td><td>.................</td></tr><tr><td>**5**</td><td>Roçagem/limpeza de terrenos baldios – por m²</td><td>Por m² executado no ano</td><td>0,31 UVFA</td></tr></tbody></table>
 
 ” (NR)

@@ -1,5 +1,3 @@
-###DEC-004226-0-000-13-05-2002@@@
-
 DECRETO Nº 4.226, DE 13 DE MAIO DE 2002
 
 Cria o Conselho Nacional de Promoção do Direito à Alimentação - CNPDA, e dá outras providências.

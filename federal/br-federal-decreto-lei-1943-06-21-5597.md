@@ -1,5 +1,3 @@
-###DEL-005597-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5.597 – DE 21 DE JUNHO DE 1943
 
 Torna extensivas aos militares da Aeronáutica as vantagens de que tratam os decretos‑lei ns. 4.819, de 8 de outubro de 1942 e 5.479, de 12 de maio de 1942

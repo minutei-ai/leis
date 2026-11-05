@@ -1,5 +1,3 @@
-###DEC-051062-0-000-27-07-1961@@@
-
 DECRETO Nº 51.062, DE 27 DE JULHO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra, em Sta. Cruz, Estado da Guanabara.

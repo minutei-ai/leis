@@ -1,5 +1,3 @@
-###DEC-051165-0-000-08-08-1961@@@
-
 DECRETO Nº 51.165, DE 8 DE AGôSTO DE 1961.
 
 Institui o Dia do Atleta.

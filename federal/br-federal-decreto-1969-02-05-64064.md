@@ -1,5 +1,3 @@
-###DEC-064064-0-000-05-02-1969@@@
-
 DECRETO Nº 64.064, DE 5 DE FEVEREIRO DE 1969.
 
 Regulamenta a execução do Decreto-lei nº 284, de 28 de fevereiro de 1967.

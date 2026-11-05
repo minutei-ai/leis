@@ -2,7 +2,8 @@ LEI Nº 1.029 DE 14 DE AGOSTO DE 1958
 
 Cria o Município de Ibotirama, desmembrado do de Paratinga.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.629](javascript: openDoc\() de 04 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade do Velho Chico, na forma da Lei 12.057/2011, a saber: Barra, Bom Jesus da Lapa, Carinhanha, Feira da Mata, Ibotirama, Igaporã, Malhada, Matina, Morpará, Muquém do São Francisco, Oliveira dos Brejinhos, Paratinga, Riacho de Santana, Serra do Ramalho e Sítio do Mato.
 
 &a
@@ -83,4 +84,4 @@ ONDE SE LÊ: lugar Melancia;
 
 LEIA-SE: lugar Melancias.
 
-* * *
+ *

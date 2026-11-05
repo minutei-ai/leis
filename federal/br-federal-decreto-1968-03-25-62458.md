@@ -1,5 +1,3 @@
-###DEC-062458-0-000-25-03-1968@@@
-
 DECRETO Nº 62.458, de 25 de marÇo de 1968.
 
 Regulamenta o Capítulo VIII (Títulos I e II), do Decreto-lei nº 221, de 28.2.67 - Isenções Gerais e Incentivos para Investimentos na Indústria Pesqueira.

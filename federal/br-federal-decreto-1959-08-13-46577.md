@@ -1,5 +1,3 @@
-###DEC-046577-0-000-13-08-1959@@@
-
 DECRETO Nº 46.577, DE 13 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro José Dias Bicalho a pesquisar mica no município de Coroaci, Estado de Minas Gerais.

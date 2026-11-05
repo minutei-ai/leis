@@ -1,5 +1,3 @@
-###DEC-083669-0-000-02-07-1979@@@
-
 Decreto nº 83.669, de 02 de julho de 1979.
 
 Autoriza o funcionamento das habilitações Supervisão Escolar e Orientação Educacional do curso de Pedagogia da Faculdade de Educação de Monte Aprazível, em Monte Aprazível, São Paulo.

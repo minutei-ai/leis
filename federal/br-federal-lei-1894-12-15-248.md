@@ -1,18 +1,16 @@
-###LEI-000248-0-000-15-12-1894@@@
+**LEI N. 248 – DE 15 DE DEZEMBRO DE 1894**
 
-<strong>LEI N. 248 – DE 15 DE DEZEMBRO DE 1894</strong>
-
-<em><strong>Altera as disposições do art. 7º relativas á organisação do Conselho Municipal do Districto Federal e regula o processo para as eleições de que trata o art. 83 da lei n. 85 de 20 de setembro de 1892.</strong></em>
+***Altera as disposições do art. 7º relativas á organisação do Conselho Municipal do Districto Federal e regula o processo para as eleições de que trata o art. 83 da lei n. 85 de 20 de setembro de 1892.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decreta e eu sancciono a lei seguinte:
 
-<strong>Art.</strong> 1º As eleições de que trata a lei n 85 de 20 de setembro de 1892, art. 83, regular-se-hão pelas seguintes disposições:
+**Art.** 1º As eleições de que trata a lei n 85 de 20 de setembro de 1892, art. 83, regular-se-hão pelas seguintes disposições:
 
-<strong>Art.</strong> 2º Cada um dos tres actuaes districtos eleitoraes em que, pelo decreto n. 153 de 3 de agosto de 1893, se acha dividido o Districto Federal, elegerá para o Conselho Municipal a terça parte dos membros deste.
+**Art.** 2º Cada um dos tres actuaes districtos eleitoraes em que, pelo decreto n. 153 de 3 de agosto de 1893, se acha dividido o Districto Federal, elegerá para o Conselho Municipal a terça parte dos membros deste.
 
-<strong>Art.</strong> 3º A eleição para membros do Conselho Municipal será feita no primeiro domingo do mez de dezembro que preceder ao dia designado (7 de janeiro) para a renovação do mesmo Conselho. O Prefeito expedirá, para esse fim as ordens necessarias.
+**Art.** 3º A eleição para membros do Conselho Municipal será feita no primeiro domingo do mez de dezembro que preceder ao dia designado (7 de janeiro) para a renovação do mesmo Conselho. O Prefeito expedirá, para esse fim as ordens necessarias.
 
 § 1º Para a eleição, cada eleitor votará em cinco nomes escriptos em uma unica cedula.
 
@@ -28,36 +26,36 @@ Faço saber que o Congresso Nacional decreta e eu sancciono a lei seguinte:
 
 § 7º O processo da apuração dos votos será duplo e simultaneo, um para cada turno. A apuração de primeiro nome de cada cedula, para formar o primeiro turno, será escripta por um único mesario.
 
-<strong>Art.</strong> 4º Para a organisação das secções, mesas, votação e mais trabalhos eleitoraes, prevalecerão, a titulo permanente, as disposições dos arts. 61 e seguintes da lei n. 85 de 20 de setembro de 1892, modificada sómente na parte em que são abrogadas pela presente lei.
+**Art.** 4º Para a organisação das secções, mesas, votação e mais trabalhos eleitoraes, prevalecerão, a titulo permanente, as disposições dos arts. 61 e seguintes da lei n. 85 de 20 de setembro de 1892, modificada sómente na parte em que são abrogadas pela presente lei.
 
-<strong>Art.</strong> 5º As nomeações de eleitores para mesarios e as designações dos edificios para funccionarem as mesas eleitoraes, serão pelos pretores communicadas por officio ao Prefeito e a cada um dos nomeados e publicadas por editaes e pela imprensa.
+**Art.** 5º As nomeações de eleitores para mesarios e as designações dos edificios para funccionarem as mesas eleitoraes, serão pelos pretores communicadas por officio ao Prefeito e a cada um dos nomeados e publicadas por editaes e pela imprensa.
 
 § 1.º Na falta ou omissão dos pretores, o Prefeito fará, as alludidas nomeações e designações.
 
 § 2º Ao Prefeito incumbe a remessa ao pretor, com urgencia, dos livros, urnas e mais objectos necessarios ao Serviço eleitoral.
 
-<strong>Art.</strong> 6º Na falta absoluta de mesarios até ás 9 horas do dia designado, os eleitores presentes acclamarão um de entre si para presidir a eleição, e este convidará mais quatro eleitores para mesarios, os quaes funccionario até terminar o processo eleitoral.
+**Art.** 6º Na falta absoluta de mesarios até ás 9 horas do dia designado, os eleitores presentes acclamarão um de entre si para presidir a eleição, e este convidará mais quatro eleitores para mesarios, os quaes funccionario até terminar o processo eleitoral.
 
-<strong>Art.</strong> 7º A votação e apuração deverão ficar terminadas até ás 5 horas da tarde. A confecção da acta poderá prolongar-se, sem interrupção, o tempo necessario para a conclusão dos trabalhos.
+**Art.** 7º A votação e apuração deverão ficar terminadas até ás 5 horas da tarde. A confecção da acta poderá prolongar-se, sem interrupção, o tempo necessario para a conclusão dos trabalhos.
 
-<strong>Art.</strong> 8º Os trabalhos da apuração geral deverão principiar ás 10 horas da manhã; findos elles, lavrar-se-ha, em livre proprio, uma acta diaria circumstanciada, que contenha o nome de todos os cidadãos votados em cada districto para cada um dos dous turnos pela ordem numerica de votação, de accordo com o disposto no art. 3º e seus paragraphos. No ultimo dia lavrar-se-ha uma acta geral resumida, que será enviada ao Tribunal Civil, onde ficará archivada; della se extrahirá uma cópia para ser remettida á secretaria do Governo Municipal.
+**Art.** 8º Os trabalhos da apuração geral deverão principiar ás 10 horas da manhã; findos elles, lavrar-se-ha, em livre proprio, uma acta diaria circumstanciada, que contenha o nome de todos os cidadãos votados em cada districto para cada um dos dous turnos pela ordem numerica de votação, de accordo com o disposto no art. 3º e seus paragraphos. No ultimo dia lavrar-se-ha uma acta geral resumida, que será enviada ao Tribunal Civil, onde ficará archivada; della se extrahirá uma cópia para ser remettida á secretaria do Governo Municipal.
 
-<strong>Art.</strong> 9º A cada um dos intendentes eleitos dirigirá, o pretor presidente um officio communicando-lhe o resultado da apuração na parte que lhe disser respeito.
+**Art.** 9º A cada um dos intendentes eleitos dirigirá, o pretor presidente um officio communicando-lhe o resultado da apuração na parte que lhe disser respeito.
 
-<strong>Art.</strong> 10. A. posse terá logar logo que estejam reconhecidos dous terços, pelo menos, dos intendentes eleitos e será dada pelo anterior Conselho de Intendencia ou, na sua falta, pelo Prefeito.
+**Art.** 10. A. posse terá logar logo que estejam reconhecidos dous terços, pelo menos, dos intendentes eleitos e será dada pelo anterior Conselho de Intendencia ou, na sua falta, pelo Prefeito.
 
-<strong>Art.</strong> 11 Os membros do Conselho Municipal servirão por dous annos.
+**Art.** 11 Os membros do Conselho Municipal servirão por dous annos.
 
-<strong>Art.</strong> 12. O mandato de cada Conselho terminará sempre no dia 7 de janeiro posterior ao segundo anno, qualquer que seja o dia da posse.
+**Art.** 12. O mandato de cada Conselho terminará sempre no dia 7 de janeiro posterior ao segundo anno, qualquer que seja o dia da posse.
 
-<strong>Art.</strong> 13. As vagas que occorrerem serão preenchidas pelos supplentes mais votados no primeiro turno de cada districto por onde se der a vaga.
+**Art.** 13. As vagas que occorrerem serão preenchidas pelos supplentes mais votados no primeiro turno de cada districto por onde se der a vaga.
 
-<strong>Art.</strong> 14. Além dos mencionados no art. 4º da lei n. 85 de 20 de setembro de 1892, são incompativeis: 1º, os delegados de hygiene e inspectores escolares que exercerem esses cargos dentro de seis mezes anteriores á eleição; 2º, os aposentados em cargos municipaes e federaes.
+**Art.** 14. Além dos mencionados no art. 4º da lei n. 85 de 20 de setembro de 1892, são incompativeis: 1º, os delegados de hygiene e inspectores escolares que exercerem esses cargos dentro de seis mezes anteriores á eleição; 2º, os aposentados em cargos municipaes e federaes.
 
-<strong>Art.</strong> 15. Ficam revogadas as disposições em contrario.
+**Art.** 15. Ficam revogadas as disposições em contrario.
 
 Capital Federal, 15 de dezembro de 1894, 6º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Dr. Antonio Gonçalves Ferreira.

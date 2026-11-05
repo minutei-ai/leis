@@ -1,5 +1,3 @@
-###DEC-081282-0-000-31-01-1978@@@
-
 Decreto nº 81.282, de 31 de janeiro de 1978
 
 Concede reconhecimento aos cursos de Matemática, de Ciências Biológicas, de Estudos Sociais, de Pedagogia e de Letras, da Faculdade de Filosofia, Ciências e Letras de Volta Redonda, Estado do Rio de Janeiro.

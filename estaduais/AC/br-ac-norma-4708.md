@@ -1,6 +1,10 @@
 > **LEI Nº 3.764, DE 19 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece diretrizes para a implantação e regulamentação do serviço de Assistência Farmacêutica no âmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece diretrizes para a implantação e regulamentação do serviço de Assistência Farmacêutica no âmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

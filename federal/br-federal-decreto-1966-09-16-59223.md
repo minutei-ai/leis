@@ -1,5 +1,3 @@
-###DEC-059223-0-000-16-09-1966@@@
-
 DECRETO Nº 59.223, DE 16 DE SETEMBRO DE 1966.
 
 Cria a Brasão de Armas para a Biblioteca do Exército.
@@ -23,8 +21,6 @@ Brasília, 16 de setembro de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Ademar de Queiroz
-
-###DEC-059223-0-000-16-09-1966@@@RET01+++
 
 Decreto nº 59.223, de 16 de setembro de 1966.
 

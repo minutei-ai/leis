@@ -1,5 +1,3 @@
-###DEC-090042-0-000-13-08-1984@@@
-
 Decreto nº 90.042, de 13 de agosto de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Península do Cavernoso", situado no Município de Guarapuava, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária fixada pelo Decreto nº 90.041, de 13 de agosto de 1984.

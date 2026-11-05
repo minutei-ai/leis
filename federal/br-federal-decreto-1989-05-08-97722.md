@@ -1,7 +1,3 @@
-1
-
-###DEC-097722-0-000-08-05-1989@@@
-
 DECRETO N° 97.722, DE 08 DE MAIO DE 1989
 
 Dispõe sobre a Comissão Brasileira de Atividades Espaciais - COBAE, alterando o Decreto n° 68.099, de 20 de janeiro de 1971, e o Regulamento aprovado pelo Decreto n° 76.596, de 14 de novembro de 1975, e dá outras providências.

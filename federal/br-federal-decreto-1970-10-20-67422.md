@@ -1,5 +1,3 @@
-###DEC-067422-0-000-20-10-1970@@@
-
 DECRETO Nº 67.422, DE 20 DE OUTUBRO DE 1970.
 
 Autorizado o Ministro de Estado ao Exército a antecipar o licenciamento dos conscritos incorporados no 2º B Rv, em 1970.

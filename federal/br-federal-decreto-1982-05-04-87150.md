@@ -1,5 +1,3 @@
-###DEC-087150-0-000-04-05-1982@@@
-
 DECRETO Nº 87.150, DE 04 DE MAIO DE 1982.
 
 Extingue o Núcleo da Diretoria de Material Bélico da Aeronáutica, criado e ativado pelo Decreto nº 84.626, de 09 de abril de 1980.

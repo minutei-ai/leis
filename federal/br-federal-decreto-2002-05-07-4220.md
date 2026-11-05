@@ -1,5 +1,3 @@
-###DEC-004220-0-000-07-05-2002@@@
-
 DECRETO Nº 4.220, DE 7 DE MAIO DE 2002
 
 Acresce dispositivo ao Regulamento da Agência Nacional de Vigilância Sanitária, aprovado pelo Decreto nº 3.029, de 16 de abril de 1999.

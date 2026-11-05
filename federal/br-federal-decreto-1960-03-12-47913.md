@@ -1,5 +1,3 @@
-###DEC-047913-0-000-12-03-1960@@@
-
 DECRETO Nº 47.913, DE 12 DE MARÇO DE 1960.
 
 Transfere função de extranumerário-mensalista.

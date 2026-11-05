@@ -18,22 +18,28 @@ QUADRO 1
 
 **SUPLEMENTAÇÃO**
 
-<table class="tablepoct" style="width:678px; border-collapse:collapse" width="678"><tbody><tr><td colspan="8" style=" width:100%;     ">&nbsp; <b>400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</b> <b>401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</b></td></tr><tr><td style=" width:16%;     ">&nbsp; <b>ESPECIFICAÇÃO</b></td><td style=" width:6%;     ">&nbsp; <b>AÇÃO</b></td><td style=" width:9%;     ">&nbsp; <b>FONTE</b></td><td style=" width:13%;     ">&nbsp; <b>MODALIDADE</b></td><td style=" width:11%;     ">&nbsp; <b>GRUPO</b></td><td style=" width:16%;     "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:14%;     "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;     ">&nbsp; <b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:16%;     ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td style=" width:6%;     ">02 061 4100 4139</td><td style=" width:9%;     ">15000100</td><td style=" width:13%;     ">90</td><td style=" width:11%;     ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:16%;     ">R$ 68.540.974,08</td><td style=" width:14%;     ">R$ 8.954.845,37</td><td style=" width:12%;     ">R$ 77.495.819,45</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">&nbsp; **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**</td></tr><tr><td>&nbsp; **ESPECIFICAÇÃO**</td><td>&nbsp; **AÇÃO**</td><td>&nbsp; **FONTE**</td><td>&nbsp; **MODALIDADE**</td><td>&nbsp; **GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>&nbsp; **SALDO ATUALIZADO**</td></tr><tr><td>FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td>02 061 4100 4139</td><td>15000100</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 68.540.974,08</td><td>R$ 8.954.845,37</td><td>R$ 77.495.819,45</td></tr></tbody></table>
 
 **TOTAL A SUPLEMENTAR POR FONTE: R$ 8.954.845,37**
 
-<table class="tablepoct" style="width:678px; border-collapse:collapse; border:none" width="678"><tbody><tr><td style=" width:87%;     ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:12%;     ">R$ 8.954.845,37</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 8.954.845,37
 
 QUADRO 2
 
 **REDUÇÃO**
 
-<table class="tablepoct" style="width:678px; border-collapse:collapse" width="678"><tbody><tr><td colspan="8" style=" width:100%;     ">&nbsp; <b>400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</b> <b>401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</b></td></tr><tr><td style=" width:18%;     ">&nbsp; <b>ESPECIFICAÇÃO</b></td><td style=" width:10%;     ">&nbsp; <b>AÇÃO</b></td><td style=" width:10%;     ">&nbsp; <b>FONTE</b></td><td style=" width:11%;     ">&nbsp; <b>MODALIDADE</b></td><td style=" width:11%;     ">&nbsp; <b>GRUPO</b></td><td style=" width:12%;     "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;     ">&nbsp; <b>VALOR BLOQUEADO</b></td><td style=" width:12%;     ">&nbsp; <b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:18%;     ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TJGO</td><td style=" width:10%;     ">09 272 0200 7206</td><td style=" width:10%;     ">15000100</td><td style=" width:11%;     ">90</td><td style=" width:11%;     ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;     ">R$ 3.489.828,07</td><td style=" width:12%;     ">R$ 3.489.828,07</td><td style=" width:12%;     ">R$ 3.489.828,07</td></tr><tr><td style=" width:18%;     ">ENCARGOS JUDICIÁRIOS DO TJ</td><td style=" width:10%;     ">28 846 0100 7108</td><td style=" width:10%;     ">15000100</td><td style=" width:11%;     ">90</td><td style=" width:11%;     ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;     ">R$ 21.327.670,90</td><td style=" width:12%;     ">R$ 5.436.137,30</td><td style=" width:12%;     ">R$ 5.436.137,30</td></tr><tr><td style=" width:18%;     ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td style=" width:10%;     ">02 061 4100 4139</td><td style=" width:10%;     ">&nbsp; 15000100</td><td style=" width:11%;     ">&nbsp; 90</td><td style=" width:11%;     ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;     ">&nbsp; R$ 44.060,00</td><td style=" width:12%;     ">&nbsp; R$ 28.880,00</td><td style=" width:12%;     ">&nbsp; R$ 28.880,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">&nbsp; **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**</td></tr><tr><td>&nbsp; **ESPECIFICAÇÃO**</td><td>&nbsp; **AÇÃO**</td><td>&nbsp; **FONTE**</td><td>&nbsp; **MODALIDADE**</td><td>&nbsp; **GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>&nbsp; **VALOR BLOQUEADO**</td><td>&nbsp; **VALOR A REDUZIR**</td></tr><tr><td>ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TJGO</td><td>09 272 0200 7206</td><td>15000100</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 3.489.828,07</td><td>R$ 3.489.828,07</td><td>R$ 3.489.828,07</td></tr><tr><td>ENCARGOS JUDICIÁRIOS DO TJ</td><td>28 846 0100 7108</td><td>15000100</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 21.327.670,90</td><td>R$ 5.436.137,30</td><td>R$ 5.436.137,30</td></tr><tr><td>FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td>02 061 4100 4139</td><td>&nbsp; 15000100</td><td>&nbsp; 90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>&nbsp; R$ 44.060,00</td><td>&nbsp; R$ 28.880,00</td><td>&nbsp; R$ 28.880,00</td></tr></tbody></table>
 
 **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 8.954.845,37**
 
-<table class="tablepoct" style="width:678px; border-collapse:collapse; border:none" width="678"><tbody><tr><td style=" width:87%;     ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:12%;     ">R$ 8.954.845,37</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 8.954.845,37
 
 **TOTAL POR FONTE: R$ 8.954.845,37**
 
-<table class="tablepoct" style="width:678px; border-collapse:collapse; border:none" width="678"><tbody><tr><td style=" width:87%;     ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:12%;     ">R$ 8.954.845,37</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 8.954.845,37

@@ -1,5 +1,3 @@
-###DEC-084635-0-000-15-04-1980@@@
-
 decreto nº 84.635, de 15 de abril de 1980.
 
 Considera prioritárias e de caráter urgente as obras de ampliação do sistema viário de acesso ao Santuário Nacional de Nossa Senhora Aparecida.

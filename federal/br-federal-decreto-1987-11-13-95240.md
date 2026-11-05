@@ -1,5 +1,3 @@
-###DEC-095240-0-000-13-11-1987@@@
-
 DECRETO N° 95.240, DE 13 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Letras de Fátima do Sul, em Mato Grosso do Sul.

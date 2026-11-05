@@ -1,5 +1,3 @@
-###DEC-000107-0-000-29-04-1991@@@
-
 DECRETO Nº 107, DE 29 DE ABRIL DE 1991.
 
 Regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-078334-0-000-30-08-1976@@@
-
 DECRETO Nº 78.334, DE 30 DE AGOSTO DE 1976.
 
 Concede à Tungstênio do Brasil Minérios e Metais Ltda. o direito de lavar scheelita nos Municípios de Currais Novos e Acari, Estado do Rio Grande do Norte.

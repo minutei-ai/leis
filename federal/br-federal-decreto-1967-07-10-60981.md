@@ -1,5 +1,3 @@
-###DEC-060981-0-000-10-07-1967@@@
-
 DECRETO Nº 60.981, DE 10 DE JULHO DE 1967.
 
 Autoriza a cessão do terreno que menciona, situado no Município de Barureri, Estado de São Paulo.

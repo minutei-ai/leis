@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b2387f6d-329f-4e33-ac10-dff06144780f/texto#nowhere)
 
-###DEL-000897-0-000-26-09-1969@@@
-
 DECRETO-LEI Nº 897, DE 26 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Fazenda crédito suplementar de NCr$250.000.000,00, para o fim que especifica.

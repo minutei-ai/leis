@@ -1,5 +1,3 @@
-###DEC-079217-0-000-08-02-1977@@@
-
 DECRETO Nº 79.217, DE 8 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Economia e Finanças do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-002940-0-000-18-01-1999@@@
-
 DECRETO Nº 2.940, DE 18 DE JANEIRO DE 1999.
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

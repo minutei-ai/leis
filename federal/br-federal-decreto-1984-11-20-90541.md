@@ -1,5 +1,3 @@
-###DEC-090541-0-000-20-11-1984@@@
-
 Decreto nº 90.541, de 20 de novembro de 1984
 
 Autoriza o funcionamento do curso de Pedagogia da Associação Pró-Ensino Superior dos Campos de Cima da Serra.

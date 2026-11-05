@@ -1,5 +1,3 @@
-###DEC-056949-0-000-01-10-1965@@@
-
 decreto nº 56.949, de 1 de outubro de 1965.
 
 Autoriza E. Aranha & Cia. a pesquisar água mineral, no Município de Duas Estradas, Estado do Paraíba.

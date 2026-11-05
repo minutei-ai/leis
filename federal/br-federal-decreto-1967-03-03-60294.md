@@ -1,5 +1,3 @@
-###DEC-060294-0-000-03-03-1967@@@
-
 DECRETO Nº 60.294, DE 3 DE MARÇO DE 1967.
 
 Faculta a oficiais do Exército optarem pela Arma de Comunicações, nas condições que menciona.

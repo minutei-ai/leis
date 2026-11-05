@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211177)<br>
-
 # DECRETO N° 69.690, DE 08 DE JULHO DE 2025
 
 ### _Cria a Faculdade de Tecnologia - FATEC de Porto Ferreira, no Município de Porto Ferreira, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._

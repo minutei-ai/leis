@@ -1,5 +1,3 @@
-###DEC-050378-0-000-25-03-1961@@@
-
 DECRETO Nº 50.378, DE 25 DE MARÇO DE 1961.
 
 Regula a comercialização do papel de imprensa adquirido anteriormente à instrução nº 204 da Superintendência da Moeda e do Crédito.

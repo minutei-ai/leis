@@ -1,5 +1,3 @@
-###DEC-094711-0-000-31-07-1987@@@
-
 DECRETO Nº 94.711, DE 31 DE JULHO DE 1987.
 
 Dispõe sobre a Comissão de Coordenação do Transporte Aéreo Civil - COTAC do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-064378-0-000-22-04-1969@@@
-
 DECRETO Nº 64.378, DE 22 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Instituto Espírita "Paulo de Tarso", com sede em Ribeirão Prêto, Estado de São Paulo.

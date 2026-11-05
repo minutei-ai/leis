@@ -1,5 +1,3 @@
-###DEC-004716-0-000-30-05-2003@@@
-
 DECRETO Nº 4.716, DE 30 DE MAIO DE 2003.
 
        Dispõe sobre a execução do Trigésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e da República do Chile, de 18 de março de 2003.
@@ -20,7 +18,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 30 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 ACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 35 CELEBRADO ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE

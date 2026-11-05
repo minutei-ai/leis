@@ -1,14 +1,12 @@
-###DEC-038299-0-000-12-12-1955@@@
+**DECRETO Nº 38.299, DE 12 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.299, DE 12 DE DEZEMBRO DE 1955.</strong>
+***Altera o Regulamento de Uniformes para a Marinha do Brasil.***
 
-<em><strong>Altera o Regulamento de Uniformes para a Marinha do Brasil.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição.
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição.
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento de Uniformes para Marinha do Brasil, aprovado pelo Decreto número 34.868, de 31 de dezembro de 1953, para fim de acrescentar-lhe, Nos arts. 2.4.1, 4.3.1. e 5.4.1, o seguinte:
+**Art**. 1º Fica alterado o Regulamento de Uniformes para Marinha do Brasil, aprovado pelo Decreto número 34.868, de 31 de dezembro de 1953, para fim de acrescentar-lhe, Nos arts. 2.4.1, 4.3.1. e 5.4.1, o seguinte:
 
 “Art. 2.4.1 - ..............................................................................................................................
 
@@ -72,10 +70,10 @@ b) Juntamente com a barreta, colocado acima dela a uma distâncias de 5 cm nos u
 
 ...........................................................................................................................................................
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 12 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Antônio Alves Câmara

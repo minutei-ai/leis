@@ -1,14 +1,12 @@
-###DEC-021942-0-000-14-10-1946@@@
+**DECRETO Nº 21.942, DE 14 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.942, DE 14 DE OUTUBRO DE 1946.</strong>
+***Declara de utilidade pública e autoriza a desapropriação das diversas áreas contidas na faixa de terreno necessária à construção e manutenção da linha de transmissão a ser construída entre a usina de Salesópolis da “Companhia Fôrça e Luz Norte de São Paulo” e a sub-estação de Jacareí de “The São Paulo Tramway, Light and Power Company, Limited”, cuja construção foi outorgada pelo Decreto número 20.939, de 8 de abril de 1946.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação das diversas áreas contidas na faixa de terreno necessária à construção e manutenção da linha de transmissão a ser construída entre a usina de Salesópolis da “Companhia Fôrça e Luz Norte de São Paulo” e a sub-estação de Jacareí de “The São Paulo Tramway, Light and Power Company, Limited”, cuja construção foi outorgada pelo Decreto número 20.939, de 8 de abril de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras *a* e *b* do Código de Águas, e nos arts. 3º e 5º da letra *h*, e 15,do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º,do Decreto-lei nº 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras <em>a</em> e <em>b</em> do Código de Águas, e nos arts. 3º e 5º da letra <em>h</em>, e 15,do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º,do Decreto-lei nº 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam consideradas de utilidade pública, nos têrmos dos artigos 3º e 5º, letra <em>h</em>, e 15 de Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º, do Decreto-lei nº 4.152, de 6 de março de 1942, e de acôrdo com as plantas apresentadas e aprovadas pelo Ministro da Agricultura, as seguintes áreas de terras necessárias à construção e manutenção da linha de transmissão a ser construída entre a usina de Salesópolis, da Companhia Fôrça e luz Norte de São Paulo”, e a sub-estação de Jacareí, de propriedade de “<em>The São Paulo Tramway, Light and Power Company, Limited</em>”, de acôrdo com a autorização outorgada pelo Decreto número 20.939, de 8 de abril de 1946:
+**Art**. 1º Ficam consideradas de utilidade pública, nos têrmos dos artigos 3º e 5º, letra *h*, e 15 de Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do artigo 1º, do Decreto-lei nº 4.152, de 6 de março de 1942, e de acôrdo com as plantas apresentadas e aprovadas pelo Ministro da Agricultura, as seguintes áreas de terras necessárias à construção e manutenção da linha de transmissão a ser construída entre a usina de Salesópolis, da Companhia Fôrça e luz Norte de São Paulo”, e a sub-estação de Jacareí, de propriedade de “*The São Paulo Tramway, Light and Power Company, Limited*”, de acôrdo com a autorização outorgada pelo Decreto número 20.939, de 8 de abril de 1946:
 
 1\) área de 499 (quatrocentos e noventa e nove) metros quadrados, de propriedade atribuída a Pedro ou Paulino Fróes de Oliveira;
 
@@ -136,12 +134,12 @@
 
 63\) área de 2.805,5 (dois mil oitocentos e cinco e meio) metros quadrados, de propriedade atribuída a Olinda Amélia da Silva.
 
-<strong>Art</strong>. 2º Fica “<em>The São Paulo Tramway, Light and Power Company, Limited</em>”, autorizada a promover a desapropriação das referidas terras, com o caráter de urgência, na forma do disposto no art. 15 do citado Decreto-lei nº 3.365.
+**Art**. 2º Fica “*The São Paulo Tramway, Light and Power Company, Limited*”, autorizada a promover a desapropriação das referidas terras, com o caráter de urgência, na forma do disposto no art. 15 do citado Decreto-lei nº 3.365.
 
-<strong>Art</strong>. 3º O presente decreto, entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente decreto, entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Junior

@@ -1,5 +1,3 @@
-###DEC-050450-0-000-12-04-1961@@@
-
 (\*) Decreto Nº 50.450, DE 12 DE ABRIL DE 1961.
 
 Regula a projeção de películas cinematográficas e a propaganda comercial através das emissoras de televisão e dá outras providências.

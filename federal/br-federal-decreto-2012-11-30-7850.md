@@ -1,5 +1,3 @@
-###DEC-007850-0-000-30-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.850, DE 30 DE NOVEMBRO DE 2012
 
 Regulamenta a Medida Provisória nº 579, de 11 de setembro de 2012, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais, sobre a modicidade tarifária.

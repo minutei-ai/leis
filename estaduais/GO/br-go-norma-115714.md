@@ -36,8 +36,10 @@ Goiânia, 22 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-BIA DE LIMA<br>
+BIA DE LIMA
+
 Deputada Estadual

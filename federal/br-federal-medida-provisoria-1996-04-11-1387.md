@@ -1,7 +1,3 @@
-1
-
-###MPV-001387-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.387, DE 11 DE ABRIL DE 1996.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

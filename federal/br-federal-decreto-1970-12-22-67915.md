@@ -1,5 +1,3 @@
-###DEC-067915-0-000-22-12-1970@@@
-
 DECRETO Nº 67.915, DE 22 DE DEZEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Aeronáutica, cargos originários do  extinto Serviço de Navegação da Amazônia e Administração do Pôrto do Pará.

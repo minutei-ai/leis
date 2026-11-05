@@ -1,5 +1,3 @@
-###DEC-084129-0-000-29-10-1979@@@
-
 Decreto nº 84.129, de 29 de outubro de 1979.
 
 Altera a composição do Conselho Diretor do Fundo de Participação PIS/PASEP, a que se refere o artigo 9º do Decreto nº 78.276, de 17 de agosto de 1976.

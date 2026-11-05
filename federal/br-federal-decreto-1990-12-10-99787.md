@@ -1,7 +1,3 @@
-1
-
-###DEC-099787-0-000-10-12-1990@@@
-
 # DECRETO N° 99.787, DE 10 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor do Paraguai (Acordo nº 3), entre o Brasil e o Paraguai.

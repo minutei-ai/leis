@@ -1,5 +1,3 @@
-###DEC-066669-0-000-08-06-1970@@@
-
 DECRETO Nº 66.669, DE 8 DE JUNHO DE 1970.
 
 Retifica o enquadramento de funcionários do Departamento Nacional de Obras de Saneamento, amparados pelo parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962, aprovado pelo Decreto nº 65.619, de 23 de outubro de 1969, e dá outras providências.

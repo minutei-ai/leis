@@ -1,5 +1,3 @@
-###DEC-047432-0-000-15-12-1959@@@
-
 DECRETO Nº 47.432 ,DE 15 DE Dezembro DE 1959.
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação que o Govêrno do Estado da Bahia, referendada pela Assembléia Legislativa Estadual, fez de um imóvel destinado à construção da Base Naval de Aratu.

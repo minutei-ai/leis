@@ -1,5 +1,3 @@
-###DEC-078970-0-000-16-12-1976@@@
-
 DECRETO Nº 78.970, DE 16 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia de Itabuna, com sede na cidade de Itabuna, Estado da Bahia.

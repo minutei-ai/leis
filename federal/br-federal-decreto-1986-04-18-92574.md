@@ -1,5 +1,3 @@
-###DEC-092574-0-000-18-04-1986@@@
-
 DECRETO Nº 92.574, DE 18 DE ABRIL DE 1986
 
 Autoriza a Oxford S.A. - Indústria e Comércio - OSAICO, com sede no Município de São Bento do Sul, Estado de Santa Catarina, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.

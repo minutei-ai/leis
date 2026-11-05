@@ -1,5 +1,3 @@
-###DEC-048521-0-000-14-07-1960@@@
-
 DECRETO Nº 48.521, DE 14 DE JULHO DE 1960.
 
 Cria o Consulado Honorário do Brasil em New Bedford, Estados Unidos da América.

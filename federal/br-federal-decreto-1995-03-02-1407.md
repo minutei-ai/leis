@@ -1,7 +1,3 @@
-1
-
-###DEC-001407-0-000-02-03-1995@@@
-
 DECRETO N° 1.407, DE 2 DE MARÇO DE 1995
 
 Dá nova redação ao caput do art. 1° do Decreto n° 410, de 30 de dezembro de 1991, que dispõe sobre as condições de suprimento de álcool etílico para as indústrias alcoolquímicas da Região Nordeste.

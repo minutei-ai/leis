@@ -1,5 +1,3 @@
-###DEC-007205-0-000-10-06-2010@@@
-
 DECRETO Nº 7.205, DE 10 DE JUNHO DE 2010.
 
 Dispõe sobre o modelo de concessão para exploração do Aeroporto de São Gonçalo do Amarante.

@@ -1,5 +1,3 @@
-###DEC-004856-0-000-09-10-2003@@@
-
 DECRETO Nº 4.856, DE 9 DE OUTUBRO DE 2003
 
 Prorroga o prazo das concessões outorgadas às empresas VARIG S.A. - Viação Aérea Rio-Grandense e VASP - Viação Aérea São Paulo S.A., para a execução de serviços aéreos e dá outras providências.

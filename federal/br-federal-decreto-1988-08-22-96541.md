@@ -1,5 +1,3 @@
-###DEC-096541-0-000-22-08-1988@@@
-
 DECRETO N° 96.541, DE 22 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Educação Física das Faculdades Metropolitanas Unidas.

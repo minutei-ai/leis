@@ -1,5 +1,3 @@
-###DEC-060942-0-000-05-07-1967@@@
-
 DECRETO Nº 60.942, DE 5 DE JULHO DE 1967.
 
 Concede à sociedade Southern Territories Limited autorização para continuar a funcionar na República do Brasil.

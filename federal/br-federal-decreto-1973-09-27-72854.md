@@ -1,5 +1,3 @@
-###DEC-072854-0-000-27-09-1973@@@
-
 decreto nº 72.854, de 27 de setembro de 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

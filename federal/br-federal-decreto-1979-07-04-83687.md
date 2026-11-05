@@ -1,5 +1,3 @@
-###DEC-083687-0-000-04-07-1979@@@
-
 Decreto nº 83.687, de 04 de julho de 1979.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Casimiro de Abreu, Estado do Rio de Janeiro.

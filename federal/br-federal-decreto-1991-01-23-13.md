@@ -1,7 +1,3 @@
-1
-
-###DEC-000013-0-000-23-01-1991@@@
-
 DECRETO N° 13, DE 23 DE JANEIRO DE 1991.
 
 Dispõe sobre o número de dias letivos e sobre a carga horária do ensino fundamental.

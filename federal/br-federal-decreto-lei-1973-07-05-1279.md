@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f7f246f-9164-4037-939c-a2b00b11f193/texto#nowhere)
 
-###DEL-001279-0-000-05-07-1973@@@
-
 # DECRETO-LEI Nº 1.279, DE 5 DE JULhO DE 1973
 
 Altera o artigo 1º, do Decreto-lei nº 343, de 28 de dezembro de 1967, e dá outras providências.

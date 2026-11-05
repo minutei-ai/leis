@@ -1,5 +1,3 @@
-###DEC-049010-0-000-04-10-1960@@@
-
 DECRETO Nº 49.010, DE 4 DE OUTUBRO DE 1960.
 
 Concede à Sociedade Extrativa de Minérios da Ribeira Limitada, autorbização para funcionar como emprêsa de mineração.

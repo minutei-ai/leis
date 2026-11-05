@@ -1,7 +1,3 @@
-1
-
-###DEC-001704-0-000-17-11-1995@@@
-
 DECRETO Nº 1.704, DE 17 DE NOVEMBRO DE 1995.
 
 Dispõe sobre a execução do Protocolo Adicional sobre Infrações e Sanções ao Acordo de Alcance Parcial sobre Transporte Internacional Terrestre, entre Brasil, Argentina, Bolívia, Chile, Paraguai, Peru e Uruguai, de 15 de  abril de 1994.

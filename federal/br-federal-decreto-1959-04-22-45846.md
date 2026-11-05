@@ -1,5 +1,3 @@
-###DEC-045846-0-000-22-04-1959@@@
-
 DECRETO Nº 45.846, DE 22 DE ABRIL DE 1959.
 
 Declara públicas de uso comum do domínio do Estado do Paraná, as águas do rio “Vermelho”.

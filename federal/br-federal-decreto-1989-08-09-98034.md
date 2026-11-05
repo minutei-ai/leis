@@ -1,7 +1,3 @@
-1
-
-###DEC-098034-0-000-09-08-1989@@@
-
 DECRETO N° 98.034, DE 9 DE AGOSTO DE 1989
 
 Outorga concessão à TELEVISÃO PIRAPITINGA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Catalão, Estado de Goiás.

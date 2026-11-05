@@ -1,5 +1,3 @@
-###DEC-047788-0-000-10-02-1960@@@
-
 DECRETO Nº 47.788, DE 10 DE FEVEREIRO DE 1960.
 
 Constitui um Grupo de Trabalho incumbido de estudar a situação econômica da Bacia Hidrográfica do Rio Jequitinhonha e propor as medidas necessárias a seu desenvolvimento.

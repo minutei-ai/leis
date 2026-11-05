@@ -1,5 +1,3 @@
-###DEC-090883-0-000-31-01-1985@@@
-
 DECRETO Nº 90.883, DE 31 DE JANEIRO DE 1985
 
 Dispõe sobre a implantação da Área de Proteção Ambiental de Guaraqueçaba, no Estado do Paraná, e dá outras providências.

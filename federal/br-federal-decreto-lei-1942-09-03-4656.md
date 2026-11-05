@@ -1,5 +1,3 @@
-###DEL-004656-0-000-03-09-1942@@@
-
 DECRETO-LEI N. 4.656 – DE 3 DE SETEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de 800:000$0, à verba que especifica

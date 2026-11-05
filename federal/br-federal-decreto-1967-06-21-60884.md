@@ -1,5 +1,3 @@
-###DEC-060884-0-000-21-06-1967@@@
-
 decreto nº 60.884, de 21 de junho de 1967.
 
 Declara de utilidade pública, para desapropriação, imóvel situado à Rua Paula Gomes, números 293-295, na cidade de Curitiba, Estado do Paraná.

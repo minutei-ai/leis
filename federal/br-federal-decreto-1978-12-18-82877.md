@@ -1,5 +1,3 @@
-###DEC-082877-0-000-18-12-1978@@@
-
 Decreto nº 82.877 de 18 de dezembro de 1978
 
 Altera o Decreto nº 80.228, de 25 de agosto de 1977, e dá outras providências.

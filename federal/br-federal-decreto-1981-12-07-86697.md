@@ -1,5 +1,3 @@
-###DEC-086697-0-000-07-12-1981@@@
-
 Decreto nº 86.697, de 07 de dezembro de 1981
 
 Altera o art. 1º do Decreto nº 84.606, de 31 de março de 1980, que declara de interesse social, para fins de desapropriação, os imóveis rurais que compõem a "Gleba Scatolin", situados no Município de Vila Bela da Santíssima Trindade, no Estado de Mato Grosso, compreendidos na área prioritária de reforma agrária de que trata o Decreto nº 84.605, de 31 de março de 1980.

@@ -1,5 +1,3 @@
-###DEC-069502-0-000-05-11-1971@@@
-
 DECRETO Nº 69.502 - de 5 DE novembro DE 1971
 
 Dispõe sôbre o registro, a padronização e a inspeção de produtos vegetais e animais, inclusive os destinados à alimentação humana, e dà outras providências.

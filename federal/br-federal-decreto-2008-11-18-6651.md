@@ -1,5 +1,3 @@
-###DEC-006651-0-000-18-11-2008@@@
-
 DECRETO Nº 6.640, DE 18 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Região Administrativa Especial de Hong Kong da República Popular da China sobre Isenção Parcial de Vistos, firmado em Brasília, em 20 de outubro de 2005.

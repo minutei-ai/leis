@@ -1,5 +1,3 @@
-###DEC-065227-0-000-26-09-1969@@@
-
 DECRETO Nº 65.227 - DE 26 DE SETEMBRO DE 1969.
 
 Inclui servidor no enquadramento de pessoal amparado pela Lei nº 4.069, de 11 de junho de 1962, do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

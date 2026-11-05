@@ -1,5 +1,3 @@
-###DEC-056832-0-000-03-09-1965@@@
-
 DECRETO Nº 56.832, DE 3 DE SETEMBRO DE 1965.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

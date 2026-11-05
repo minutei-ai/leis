@@ -1,5 +1,3 @@
-###DEL-007803-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.803 – DE 30 DE JULHO DE 1945
 
 Abre ao Ministério do Trabalho Indústria e Comércio o crédito suplementar de Cr$ 12.000.000,00.

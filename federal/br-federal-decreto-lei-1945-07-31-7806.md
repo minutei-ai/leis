@@ -1,5 +1,3 @@
-###DEL-007806-0-000-31-07-1945@@@
-
 DECRETO-LEI N. 7.806 – DE 31 DE JULHO DE 1945
 
 Autoriza a aquisição de imóvel em Belém, Estado do Pará

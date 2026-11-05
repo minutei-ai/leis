@@ -1,5 +1,3 @@
-###DEL-009571-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.571 – DE 12 DE AGÔSTO DE 1946
 
 Modifica o Decreto-lei n.º 7.833, de 6 de Agôsto de 1945.

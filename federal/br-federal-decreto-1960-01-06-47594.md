@@ -1,5 +1,3 @@
-###DEC-047594-0-000-06-01-1960@@@
-
 DEcreto nº 47.594, de 6 de janeiro de 1960.
 
 Concede autorização à Cooperativa de Crédito Circulista, com sede na Capital do Estado de São Paulo, para modificar seu estatuto social.

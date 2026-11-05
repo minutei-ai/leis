@@ -1,5 +1,3 @@
-###DEC-062196-0-000-31-01-1968@@@
-
 DECRETO Nº 62.196, DE 31 DE JANEIRO DE 1968.
 
 Aprova os Estatutos da Fundação Nacional do Índio.

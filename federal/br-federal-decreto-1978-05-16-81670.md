@@ -1,5 +1,3 @@
-###DEC-081670-0-000-16-05-1978@@@
-
 Decreto nº 81.670, de 16 de maio de 1978.
 
 Autoriza a cessão, sob o forma de utilização gratuita, da área de terra que menciona, situada no Município e Comarca de Iguapé no Estado de São Paulo, destinada às instalação de Estação de Rádio, pela Telecomunicações de São Paulo S. A. - TELESP.

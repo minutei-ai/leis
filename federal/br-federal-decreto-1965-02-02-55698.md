@@ -1,5 +1,3 @@
-###DEC-055698-0-000-02-02-1965@@@
-
 DECRETO Nº 55.698, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza a Sociedade de Mineração Ceramite Ltda, a lavrar caulim, no município de Mar de Espanha, Estado de Minas Gerais.

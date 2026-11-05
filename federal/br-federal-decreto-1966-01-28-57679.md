@@ -1,5 +1,3 @@
-###DEC-057679-0-000-28-01-1966@@@
-
 DECRETO Nº 57.679, DE 28 DE JANEIRO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno em Feira de Santana - BA, destinado ao Ministério da Guerra.

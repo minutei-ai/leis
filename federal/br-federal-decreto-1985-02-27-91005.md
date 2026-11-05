@@ -1,5 +1,3 @@
-###DEC-091005-0-000-27-02-1985@@@
-
 Decreto nº 91.005, de 27 dE fevEREIRO de 1985
 
 Transfere estabelecimentos de Ensino Agrícola subordinados à Universidade Federal de Santa Maria para a Coordenação Nacional do Ensino Agropecuário e dá outras providências.

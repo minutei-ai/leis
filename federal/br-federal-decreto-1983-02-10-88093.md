@@ -1,5 +1,3 @@
-###DEC-088093-0-000-10-02-1983@@@
-
 Decreto nº 88.093, de 10 de fevereiro de 1983.
 
 Transfere ao DEPARTAMENTO DE COMUNICAÇÃO SOCIAL - DECOM, autarquia vinculada à Secretaria de Estado Extraordinária de Comunicação Social, concessão outorgada a FUNDAÇÃO CULTURAL DO ESPÍRITO SANTO, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Vitória, Estado do Espírito Santo.

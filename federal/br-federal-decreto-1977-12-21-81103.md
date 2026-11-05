@@ -1,5 +1,3 @@
-###DEC-081103-0-000-21-12-1977@@@
-
 DECRETO Nº 81.103, DE 21 DE DEZEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

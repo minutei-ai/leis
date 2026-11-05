@@ -1,7 +1,3 @@
-1
-
-###MPV-001242-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.242, DE 14 DE DEZEMBRO DE 1995.
 
 Acresce parágrafo ao art. 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitação e contratos da Administração Pública e dá outras providências.

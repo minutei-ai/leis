@@ -1,5 +1,3 @@
-###DEC-075207-0-000-10-01-1975@@@
-
 DECRETO Nº 75.207, DE 10 DE JANEIRO DE 1975.
 
 Regulamenta a Lei nº 6.136, de 7 de novembro de 1974, que inclui o salário-maternidade entre as prestações da Previdência Social.

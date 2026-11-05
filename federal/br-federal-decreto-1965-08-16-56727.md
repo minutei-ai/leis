@@ -1,5 +1,3 @@
-###DEC-056727-0-000-16-08-1965@@@
-
 DECRETO Nº 56.727, DE 16 DE AGôSTO DE 1965.
 
 Abre ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$660.814 (seiscentos e sessenta mil, oitocentos e quatorze cruzeiros) para atender a pagamentos com exercícios findos a funcionários (salário, ajuda de custo, diárias, etc.), e a firmas por fornecimento de material e serviços prestados.

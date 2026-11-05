@@ -1,5 +1,3 @@
-###DEC-003423-0-000-20-04-2000@@@
-
 DECRETO Nº 3.423, DE 20 DE ABRIL DE 2000.
 
 Promulga o Acordo de Comércio e Cooperação Econômica entre o Governo da República Federativa do Brasil e o Governo da República da Eslovênia, celebrado em Liubiana, em 16 de junho de 1997.
@@ -128,4 +126,20 @@ O presente Acordo poderá ser emendado por ambas as Partes Contratantes nos term
 
 Feito em Liubliana, em 16 de junho de 1997, em dois exemplares originais, na línguas portuguesa, eslovena e inglesa, sendo ambos os textos igualmente autênticos. Em caso de diferença de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativo do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Affonso Celso Ouro Preto</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Embaixador</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República da Eslovênia</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Vojka Ravbar</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Secretária de Estado do Ministério de Relações Econômicas</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativo do Brasil
+
+Affonso Celso Ouro Preto
+
+Embaixador
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da Eslovênia
+
+Vojka Ravbar
+
+Secretária de Estado do Ministério de Relações Econômicas
+
+</td></tr></tbody></table>

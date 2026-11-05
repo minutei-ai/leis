@@ -1,5 +1,3 @@
-###DEC-046704-0-000-24-08-1959@@@
-
 DECRETO Nº 46.704, DE 24 DE AGÔSTO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóveis que faz ao Ministério da Guerra a Municipalidade de Santa Cruz do Sul, no Estado do Rio Grande do Sul.

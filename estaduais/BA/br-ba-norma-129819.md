@@ -42,7 +42,33 @@ Art. 3º - O art. 22 da Lei nº 11.357, de 06 de janeiro de 2009, passa a vigora
 
 § 2º - Observado o recolhimento mínimo de 18 (dezoito) contribuições mensais e de pelo menos 02 (dois) anos de casamento ou união estável até a data do óbito do instituidor segurado, o tempo de duração da pensão por morte devida aos beneficiários previstos no § 1º do art. 13 desta Lei será calculado de acordo com sua expectativa de sobrevida àquela data, conforme tabela abaixo:
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.2pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">Duração do benefício de pensão por morte (em anos)</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">55</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">3</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">51</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">6</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">48</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">10</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">38</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">15</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">35</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">20</p></td></tr><tr><td style="width: 177.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="236"><p class="Tabela-Texto">E(x) 35</p></td><td style="width: 148.8pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm .5pt 0cm .5pt; height: 15.75pt;" valign="top" width="198"><p class="Tabela-Texto">vitalíc</p></td></tr></tbody></table>
+Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))
+
+Duração do benefício de pensão por morte (em anos)
+
+55
+
+3
+
+51
+
+6
+
+48
+
+10
+
+38
+
+15
+
+35
+
+20
+
+E(x) 35
+
+vitalíc
 
 § 3º - Para efeito do disposto no § 2º deste artigo, a expectativa de sobrevida será obtida a partir da Tábua Completa de Mortalidade - ambos os sexos - construída pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, vigente no momento do óbito do segurado instituidor.
 

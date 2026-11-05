@@ -1,5 +1,3 @@
-###DEL-005495-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.495 – DE 17 DE MAIO DE 1943
 
 Extingue a 14ª Companhia de Engenhos, da 14ª Divisão de Infantaria

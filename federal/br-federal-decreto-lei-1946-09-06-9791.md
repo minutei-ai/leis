@@ -1,5 +1,3 @@
-###DEL-009791-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.791 – DE 6 DE SETEMBRO DE 1946
 
 Considera reformado na graduação e com o sôldo de suboficial um sargento ajudante.

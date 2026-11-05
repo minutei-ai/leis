@@ -1,5 +1,3 @@
-###DEC-071620-0-000-27-12-1972@@@
-
 DECRETO Nº 71.620 - DE 27 DE DEZEMBRO DE 1972
 
 Retifica Decreto que redistribuiu cargo, com o respectivo ocupante, do Ministério da Saúde para o Departamento Nacional de Obras de Saneamento.

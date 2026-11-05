@@ -1,5 +1,3 @@
-###DEC-062322-0-000-29-02-1968@@@
-
 decreto nº 62.322, de 29 de fevereiro de 1968.
 
 Cria o “Centro de Reparos Navais Almirante Cox” e dá outras providências.

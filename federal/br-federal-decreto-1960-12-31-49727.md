@@ -1,5 +1,3 @@
-###DEC-049727-0-000-31-12-1960@@@
-
 Decreto nº 49.727, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos de The Commercial Union Assurance Company Limited.

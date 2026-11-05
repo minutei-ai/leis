@@ -1,5 +1,3 @@
-###DEC-094417-0-000-10-06-1987@@@
-
 DECRETO Nº 94.417, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada à FUNDAÇÃO CULTURAL E EDUCACIONAL SANTO AFONSO - RÁDIO EDUCADORA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Coronel Fabriciano, Estado de Minas Gerais.

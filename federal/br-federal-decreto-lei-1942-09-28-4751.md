@@ -1,5 +1,3 @@
-###DEL-004751-0-000-28-09-1942@@@
-
 DECRETO-LEI N. 4.751 – DE 28 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito suplementar de réis 535:000$0, à verba que especifica

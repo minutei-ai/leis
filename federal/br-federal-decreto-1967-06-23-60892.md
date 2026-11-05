@@ -1,5 +1,3 @@
-###DEC-060892-0-000-23-06-1967@@@
-
 DECRETO nº 60.892, DE 23 DE JUNHO DE 1967.
 
 Altera o Decreto nº 60.642, de 27 de abril de 1967, que criou o Grupo Consultivo da Indústria Siderúrgica, para incluir no mesmo o representante da Secretaria-Geral do Conselho de Segurança Nacional.

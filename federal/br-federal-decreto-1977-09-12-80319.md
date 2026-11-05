@@ -1,5 +1,3 @@
-###DEC-080319-0-000-12-09-1977@@@
-
 DECRETO Nº 80.319, DE 12 DE SETEMBRO DE 1977.
 
 Concede reconhecimento às habilitações dos cursos de Letras e de Estudos Sociais, ministrados pela Faculdade de Filosofia, Ciências e Letras de Umuarama, mantida pela Associação Paranaense de Ensino e Cultura, com sede na cidade de Umuarama, Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208902)<br>
-
 # DECRETO N° 68.156, DE 09 DE DEZEMBRO DE 2023
 
 ### _Regulamenta a Lei n° 10.294, de 20 de abril de 1999, que dispõe sobre a proteção e defesa do usuário do serviço público do Estado e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 1° -** Este decreto regulamenta os procedimentos para a participação, a proteção e a defesa dos direitos do usuário de serviços públicos da Administração Pública estadual, previstos na [Lei n° 10.294, de 20 de abril de 1999](https://www.al.sp.gov.br/norma/7863).
@@ -37,10 +36,12 @@ e) solicitação de providências: pedido para adoção de providências por par
 
 II - decisão administrativa final: ato administrativo por meio do qual o órgão ou a entidade da administração pública se posiciona sobre a manifestação, com apresentação de solução ou comunicação quanto à sua impossibilidade.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Sistema de Ouvidoria do Poder Executivo
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Estrutura e Objetivos
 
 **Artigo 4° -** Fica instituído o Sistema de Ouvidoria do Poder Executivo, com a finalidade de desenvolver as atividades de ouvidoria realizadas pelos órgãos e pelas entidades a que se refere o artigo 2° deste decreto, que contará com a seguinte estrutura:
@@ -69,7 +70,8 @@ IV - acompanhar a implementação e monitorar o cumprimento da Carta de Serviço
 
 **Artigo 6° -** A unidade setorial de ouvidoria do Sistema de Ouvidoria do Poder Executivo será diretamente subordinada ao dirigente máximo do órgão ou da entidade a que se refere o artigo 2° deste decreto.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Órgão Central do Sistema de Ouvidoria do Poder Executivo
 
 **Artigo 7° -** A Controladoria Geral do Estado, por meio da Coordenadoria de Ouvidoria e Defesa do Usuário do Serviço Público, como órgão central do Sistema de Ouvidoria do Poder Executivo, tem as seguintes atribuições:
@@ -98,7 +100,8 @@ XI - coordenar as atividades que exijam ações integradas das unidades setoriai
 
 **Parágrafo único -** Os prestadores de serviços públicos mencionados nos incisos II e III do artigo 2° deste decreto poderão aderir ao sistema informatizado a que se refere o inciso IV deste artigo.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Unidades Setoriais de Ouvidoria
 
 **Artigo 8° -** As unidades setoriais do Sistema de Ouvidoria do Poder Executivo estão sujeitas à orientação normativa e supervisão técnica do órgão central, sem prejuízo da subordinação administrativa ao órgão ou entidade ao qual pertencem.
@@ -155,7 +158,8 @@ II - informar as unidades setoriais de ouvidoria sobre alterações de procedime
 
 III - instar as unidades setoriais de ouvidoria, sempre que necessário, a se manifestarem em atividades que interfiram nos interesses dos usuários dos serviços públicos.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DOS OUVIDORES
 
 **Artigo 13 -** O Ouvidor tem as seguintes competências:
@@ -188,10 +192,12 @@ VI - elaborar relatórios gerenciais das manifestações recebidas pela Ouvidori
 
 **§ 7° -** O Ouvidor deverá zelar pela integralidade dos registros das manifestações, documentos e informações gerados em decorrência das atividades da ouvidoria, sendo vedada a exclusão, alteração ou eliminação destes, observada a legislação aplicável.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DOS PROCEDIMENTOS
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DO RECEBIMENTO, DA ANÁLISE E DA RESPOSTA DE MANIFESTAÇÕES
 
 **Artigo 15 -** Fica instituída a Plataforma Integrada de Ouvidoria e Acesso à Informação a que se refere o inciso IV do artigo 7° deste decreto, sistema informatizado por meio do qual as manifestações serão preferencialmente apresentadas.
@@ -246,7 +252,8 @@ III - a sugestão ou solicitação recebida à autoridade responsável pela pres
 
 **Artigo 24 -** Os procedimentos de que trata este decreto são gratuitos.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DA PROTEÇÃO DOS DADOS
 
 **Artigo 25 -** A identidade do manifestante é informação protegida nos termos do artigo 31 da Lei federal n° 12.527, de 18 de novembro de 2011, sendo as ouvidorias responsáveis por:
@@ -257,7 +264,8 @@ II - adotar, desde o recebimento de denúncias, medidas para a proteção das in
 
 **Parágrafo único -** Será dado, no que couber, o mesmo tratamento da denúncia, ao requerimento de que trata o artigo 18 da [Lei n° 10.294, de 20 de abril de 1999](https://www.al.sp.gov.br/norma/7863), que der entrada na unidade de ouvidoria.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DA CARTA DE SERVIÇOS AO USUÁRIO
 
 **Artigo 26 -** Os órgãos e as entidades públicos de que trata este decreto, que prestam atendimento aos usuários dos serviços públicos, direta ou indiretamente, deverão elaborar e divulgar Carta de Serviços ao Usuário, no âmbito de sua esfera de competência.
@@ -306,7 +314,8 @@ DA CARTA DE SERVIÇOS AO USUÁRIO
 
 12\. outras informações julgadas de interesse dos usuários.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 DA AVALIAÇÃO DOS SERVIÇOS PÚBLICOS
 
 **Artigo 27 -** Os órgãos e entidades públicos abrangidos por este decreto deverão avaliar os serviços prestados, nos seguintes aspectos:
@@ -331,7 +340,8 @@ V - medidas adotadas para melhoria e aperfeiçoamento da prestação dos serviç
 
 **Artigo 28 -** Os órgãos e entidades públicos que contratarem empresas para a pesquisa de satisfação devem observar as disposições do [Decreto n° 63.061, de 15 de dezembro de 2017](https://www.al.sp.gov.br/norma/184528).
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 DO CONSELHO DE USUÁRIOS DE SERVIÇOS PÚBLICOS
 
 **Artigo 29 -** Sem prejuízo de outros meios de participação dos usuários no acompanhamento da prestação e na avaliação dos serviços públicos, cada órgão ou entidade a que se refere o artigo 2° deste decreto criará um Conselho de Usuários de Serviços Públicos.
@@ -360,7 +370,8 @@ III - acompanhar e auxiliar na avaliação da atuação das ouvidorias do Sistem
 
 **Artigo 33 -** Ato da Controladoria Geral do Estado estabelecerá as diretrizes para as ações de estímulo à participação dos usuários nos conselhos de usuários de serviços públicos.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 DO PORTAL DA TRANSPARÊNCIA ESTADUAL
 
 **Artigo 34 -** O Portal da Transparência Estadual tem por finalidade a centralização e divulgação de dados relevantes referentes à transparência na gestão e ao controle social do Poder Executivo.
@@ -401,7 +412,8 @@ XII - manual de navegação, glossário, perguntas frequentes, denúncia eletrô
 
 **Artigo 37 -** Os órgãos e entidades da Administração Pública que mantêm informações no Portal da Transparência Estadual deverão seguir as diretrizes e orientações estabelecidas pela Controladoria Geral do Estado.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 38 -** O Controlador Geral do Estado poderá, mediante resolução:

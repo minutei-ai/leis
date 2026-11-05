@@ -1,5 +1,3 @@
-###DEC-072389-0-000-22-06-1973@@@
-
 DECRETO Nº 72.389, DE 22 DE JUNHO DE 1973.
 
 Aprova o Regulamento da Diretoria de Obras de Cooperação, do Departamento de Engenharia e Comunicações do Ministério do Exército, e dá outras  providências.

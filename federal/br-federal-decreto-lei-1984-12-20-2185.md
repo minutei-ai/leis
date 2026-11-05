@@ -1,5 +1,3 @@
-###DEL-002185-0-000-20-12-1984@@@
-
 # Decreto-lei nº 2.185, de 20 de dezembro de 1984.
 
 Dispõe sobre a isenção da Taxa de Melhoramento dos Portos.

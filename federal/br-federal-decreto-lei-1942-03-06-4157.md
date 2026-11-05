@@ -1,5 +1,3 @@
-###DEL-004157-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.157 – DE 6 DE MARÇO DE 1942
 
 Cria a função gratificada de Secretário do Chefe da Divisão do Pessoal Civil do Ministério da Marinha

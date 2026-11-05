@@ -1,5 +1,3 @@
-###DEC-007949-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N° 7.949, DE 12 DE MARÇO DE 2013
 
 Revoga o Decreto nº 5.357, de 31 de janeiro de 2005, que promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Romênia sobre Cooperação no Campo da Sanidade Veterinária, celebrado em Brasília, em 25 de julho de 2000.

@@ -1,5 +1,3 @@
-###DEC-055060-0-000-24-11-1964@@@
-
 DECRETO Nº 55.060, DE 24 DE NOVEMBRO DE 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito extraordinário de Cr$1.000.000,00 (um bilhão de cruzeiros), para o fim que especifica.

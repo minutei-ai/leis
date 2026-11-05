@@ -1,5 +1,3 @@
-###DEC-050961-0-000-15-07-1961@@@
-
 DECRETO Nº 50.961, DE 15 DE JULHO DE 1961.
 
 Dispõe sôbre depósitos bancários das instituições de previdência, em condições especiais, ou vinculados à prestação de serviço.

@@ -1,14 +1,12 @@
-###DEC-042745-0-000-04-12-1957@@@
+**DECRETO Nº 42.745, DE 4 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.745, DE 4 DE DEZEMBRO DE 1957.</strong>
+***Modifica os Regulamentos Geral e da Ajudância-Geral da Polícia Militar do Distrito Federal aprovados pelos Decretos ns 41.095 e 41.720, respectivamente, de 7 de março de 1957 e de 25 de junho de 1957.***
 
-<em><strong>Modifica os Regulamentos Geral e da Ajudância-Geral da Polícia Militar do Distrito Federal aprovados pelos Decretos ns 41.095 e 41.720, respectivamente, de 7 de março de 1957 e de 25 de junho de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 10, item III, 12, item II, 13, item V, 72, parágrafo único, 73, item I, §§ 1º e 2º, 154,191,192, §§ 1º e 4º 193, itens II e III, 194, 195, letra <em>b</em>, do item I e letras <em>b</em> e <em>d</em> do item II e 196 do Regulamento Geral da polícia Militar do Distrito Federal, aprovado pelo Decreto nº 41.095, de 7 de março de 1957, passam a vigorar com as seguintes redações, acréscimos e supressões:
+**Art**. 1º Os arts. 10, item III, 12, item II, 13, item V, 72, parágrafo único, 73, item I, §§ 1º e 2º, 154,191,192, §§ 1º e 4º 193, itens II e III, 194, 195, letra *b*, do item I e letras *b* e *d* do item II e 196 do Regulamento Geral da polícia Militar do Distrito Federal, aprovado pelo Decreto nº 41.095, de 7 de março de 1957, passam a vigorar com as seguintes redações, acréscimos e supressões:
 
 “Art.10 .....................................................................................................................................
 
@@ -98,12 +96,12 @@ II - ter a seu cargo o registro de que tratam a lei e o Regulamento de Promoçõ
 
 III - organizar e manter atualizados os almanaques dos oficiais, subtenentes e sargentos da Corporação.”
 
-<strong>Art</strong>. 2º Ficam suprimidos os itens III do art. 9º e V do art. 13 do Regulamento da Ajudância-Geral, aprovado pelo Decreto nº 41.720, de 25 de junho de 1957.
+**Art**. 2º Ficam suprimidos os itens III do art. 9º e V do art. 13 do Regulamento da Ajudância-Geral, aprovado pelo Decreto nº 41.720, de 25 de junho de 1957.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 4 de dezembro de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico da Aguiar Salles

@@ -1,5 +1,3 @@
-###DEC-080142-0-000-11-08-1977@@@
-
 DECRETO Nº 80.142 , DE 11 DE AGOSTO DE 1977.
 
 Altera o Regulamento de Movimentação do Pessoal Militar do Exército (R-50), aprovado pelo Decreto número 75.910, de 26 de junho de 1975, e dá outras providências.

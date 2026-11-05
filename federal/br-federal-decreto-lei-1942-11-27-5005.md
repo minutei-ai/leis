@@ -1,5 +1,3 @@
-###DEL-005005-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.005 – DE 27 DE NOVEMBRO DE 1942
 
 Extingue no Ministério da Aeronáutica a Subdiretoria do Ensino, transferindo suas atribuições para o Estado Maior da Aeronáutica

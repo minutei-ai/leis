@@ -1,7 +1,3 @@
-1
-
-###MPV-001518-0-000-19-09-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.518, DE 19 DE SETEMBRO DE 1996.
 
 Altera a legislação que rege o Salário-Educação, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098953-0-000-15-02-1990@@@
-
 DECRETO N° 98.953, DE 15 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO CULTURA DE PAULO AFONSO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Paulo Afonso, Estado da Bahia.

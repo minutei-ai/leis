@@ -40,8 +40,10 @@ Art. 9º. Ficam revogadas as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 24 dias do mês de agosto de 2009.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

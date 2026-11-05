@@ -1,5 +1,3 @@
-###DEC-073808-0-000-12-03-1974@@@
-
 DECRETO Nº 73.808, DE 12 DE MARÇO DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

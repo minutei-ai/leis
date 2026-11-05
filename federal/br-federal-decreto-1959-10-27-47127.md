@@ -1,5 +1,3 @@
-###DEC-047127-0-000-27-10-1959@@@
-
 decreto nº 47.127, de 27 de outubro de 1959.
 
 Autoriza a emprêsa de mineração Pires, Comércio S.A. a pesquisar argila no município de Capanema, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-047775-0-000-09-02-1960@@@
-
 DECRETO Nº 47.775, DE 9 DE FEVEREIRO DE 1960.
 
 Cria cargos no Quadro do Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

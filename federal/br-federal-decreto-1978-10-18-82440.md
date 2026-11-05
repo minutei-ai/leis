@@ -1,5 +1,3 @@
-###DEC-082440-0-000-18-10-1978@@@
-
 Decreto nº 82.440, de 18 de outubro de 1978
 
 Transfere para FURNAS - Centrais Elétricas S.A. os direitos concedidos à Centrais Elétricas Matogrossenses S.A. - CEMAT por força do Decreto nº 74 616, de 25 de setembro de 1974.

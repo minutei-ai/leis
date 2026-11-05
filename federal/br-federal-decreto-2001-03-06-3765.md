@@ -1,5 +1,3 @@
-###DEC-003765-0-000-06-03-2001@@@
-
 DECRETO Nº 3.765, DE 6 DE MARÇO DE 2001
 
 Acresce parágrafo ao art. 88 do Decreto nº 70.274, de 9 de março de 1972, que aprova as normas do cerimonial público e a ordem geral de precedência.

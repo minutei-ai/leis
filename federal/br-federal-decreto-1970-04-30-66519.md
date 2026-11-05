@@ -1,5 +1,3 @@
-###DEC-066519-0-000-30-04-1970@@@
-
 DECRETO Nº 66.519, DE 30 DE ABRIL DE 1970.
 
 Declara de utilidade pública a Sociedade Civil Mantenedora da Escola Técnica de Comércio de São José dos Campos com sede em São José dos Campos, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000627-0-000-07-08-1992@@@
-
 DECRETO N° 627, DE 7 DE AGOSTO DE 1992
 
 Dá nova redação ao art. 175 do Decreto n° 57.654, de 20 de janeiro de 1966.

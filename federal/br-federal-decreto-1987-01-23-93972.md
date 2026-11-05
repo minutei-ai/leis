@@ -1,5 +1,3 @@
-###DEC-093972-0-000-23-01-1987@@@
-
 DECRETO Nº 93.972, DE 23 DE JANEIRO DE 1987
 
 Dispõe sobre o Centro de Pesquisa e Desenvolvimento para a Segurança das Comunicações (CEPESC), sua autonomia administrativa e financeira limitada e dá outras providências.

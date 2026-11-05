@@ -1,5 +1,3 @@
-###DEC-082926-0-000-21-12-1978@@@
-
 Decreto nº 82.926, de 21 de dezembro de 1978.
 
 Autoriza a permuta de imóveis que menciona, situados no Distrito Federal.

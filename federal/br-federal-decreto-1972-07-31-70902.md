@@ -1,5 +1,3 @@
-###DEC-070902-0-000-31-07-1972@@@
-
 DECRETO Nº 70.902, DE 31 DE JULHO DE 1972.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar argila no município de Caaporã, Estado da Paraíba.

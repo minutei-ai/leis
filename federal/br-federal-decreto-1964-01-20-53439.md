@@ -1,5 +1,3 @@
-###DEC-053439-0-000-20-01-1964@@@
-
 DECRETO Nº 53.439, DE 20 DE JANEIRO DE 1964.
 
 Autoriza Mineração Pato do Brasil Ltda a pesquisar diamantes no município de Gilbués, Estado do Piauí.

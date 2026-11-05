@@ -1,5 +1,3 @@
-###DEL-001536-0-000-13-04-1977@@@
-
 # DECRETO-LEI Nº 1.536, DE 13 DE ABRIL DE 1977
 
 Reajusta os vencimentos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

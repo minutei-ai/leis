@@ -1,5 +1,3 @@
-###DEC-071272-0-000-30-10-1972@@@
-
 DECRETO Nº 71.272 - DE 30 DE OUTUBRO DE 1972.
 
 Autoriza a transferência direita, para a Fundação Cristã Espírita Cultural Paulo de Tarso, da concessão outorgada à Organização Rádio Copacabana Ltda., referente a uma estação de radiodifusão sonora em onda média.

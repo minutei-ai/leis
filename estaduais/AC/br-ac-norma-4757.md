@@ -1,6 +1,10 @@
 > **LEI Nº 3.774, DE 11 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina Sgto. PM Jossimar da Costa Moreira, o 8º Batalhão da Polícia Militar do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina Sgto. PM Jossimar da Costa Moreira, o 8º Batalhão da Polícia Militar do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

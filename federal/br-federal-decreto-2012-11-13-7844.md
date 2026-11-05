@@ -1,5 +1,3 @@
-###DEC-007844-0-000-13-11-2012-PUB-01@@@
-
 DECRETO Nº\- 7.844, DE 13 DE NOVEMBRO DE 2012
 
 Regulamenta o art. 103-B da Lei nº 11.196, de 21 de novembro de 2005.

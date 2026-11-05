@@ -1,5 +1,3 @@
-###DEC-060222-0-000-16-02-1967@@@
-
 DECRETO Nº 60.222, DE 16 DE FEVEREIRO DE 1967.
 
 Dá nova redação ao art. 9º do Decreto nº 59.203, de 12 de setembro de 1966, que regulamenta a Lei de Promoções dos oficiais da Ativa da Aeronáutica.

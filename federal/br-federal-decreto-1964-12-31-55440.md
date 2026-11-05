@@ -1,5 +1,3 @@
-###DEC-055440-0-000-31-12-1964@@@
-
 DECRETO Nº 55.440, DE 31 DE dezembro DE 1964.
 
 Concede à Minérios do Brasil Ltda. autorização para funcionar como emprêsa de mineração.

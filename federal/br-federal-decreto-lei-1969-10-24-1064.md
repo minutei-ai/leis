@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/49c2f162-5d7f-4bca-8284-b47ed1d5733f/texto#nowhere)
 
-###DEL-001064-0-000-24-10-1969@@@
-
 DECRETO-LeI Nº 1.064, DE 24 DE OUTUBRO DE 1969
 
 Altera a relação do art. 302 do Código Eleitoral e dá outras providências.

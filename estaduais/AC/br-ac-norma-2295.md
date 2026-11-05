@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.510, de 20 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.514, DE 29 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fundo Estadual de Segurança Pública - FUNDESEG e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fundo Estadual de Segurança Pública - FUNDESEG e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -177,8 +181,6 @@ Do Fundo Estadual de Segurança Pública – FUNDESEG
 **VI** - manter arquivo, com informações claras e específicas, das ações, dos programas e dos projetos desenvolvidos, conservando em boa guarda os documentos correspondentes; e
 
 **VII** - manter organizados os demonstrativos de contabilidade e escrituração do fundo. 
-
-<br>
 
 **Art. 12.** O FUNDESEG terá contabilidade própria, compatível com o sistema adotado pelo Estado, e obedecerá às normas da administração financeira estadual.
 

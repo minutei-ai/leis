@@ -1,5 +1,3 @@
-###DEC-055834-0-000-12-03-1965@@@
-
 DECRETO Nº 55.834, DE 12 DE MARÇO DE 1965.
 
 Torna insubsistente o Decreto nº 1.863, de 11 de dezembro de 1962 e dá nova redação ao Art. 5º do Decreto nº 37.406, de 31 de maio de 1955, modificado pelo de nº 95, de 31 de outubro de 1961.

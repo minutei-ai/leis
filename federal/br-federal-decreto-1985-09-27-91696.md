@@ -1,5 +1,3 @@
-###DEC-091696-0-000-27-09-1985@@@
-
 Decreto nº 91.696, de 27 de setembro de 1985
 
 Dispõe sobre a autonomia administrativa e financeira do Conselho Nacional dos Direitos da Mulher - CNDM, de que trata a Lei nº 7.353, de 29 de agosto de 1985, e dá outras providências.

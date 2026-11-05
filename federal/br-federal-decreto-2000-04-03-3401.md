@@ -1,5 +1,3 @@
-###DEC-003401-0-000-03-04-2000@@@
-
 Decreto nº 3.401, de 3 de abril de 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização, do Banco do Estado do Amazonas S.A., e dá outras providências.

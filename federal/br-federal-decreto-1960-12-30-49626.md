@@ -1,5 +1,3 @@
-###DEC-049626-0-000-30-12-1960@@@
-
 DECRETO Nº 49.626, DE 30 DE DEZEMBRO DE 1960.
 
 Concede à Oreclone Mineração e Metalúrgica Limitada autorização para funcionar como emprêsa de mineração.

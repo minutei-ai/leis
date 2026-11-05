@@ -1,5 +1,3 @@
-###DEC-081482-0-000-29-03-1978@@@
-
 Decreto nº 81.482, de 29 de março de 1978.
 
 Concede à Mineração Urandí S. A. o direito de lavrar minério de manganês no Município de Caetité, Estado da Bahia.

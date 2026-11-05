@@ -1,5 +1,3 @@
-###DEL-008410-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.410 – DE 20 DE DEZEMBRO DE 1945
 
 Altera a carreira de Escrivão de Polícia do Ministério da Justiça e Negócios Interiores

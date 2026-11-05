@@ -1,5 +1,3 @@
-###DEC-075107-0-000-20-12-1974@@@
-
 DECRETO Nº 75.107, DE 20 DE DEZEMBRO DE 1974.
 
 Autoriza o registro, nome da União Federal, do imóvel que menciona, situado no Estado da Guanabara.

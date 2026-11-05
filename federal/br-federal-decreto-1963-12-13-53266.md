@@ -1,5 +1,3 @@
-###DEC-053266-0-000-13-12-1963@@@
-
 decreto nº 53.266, de 13 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Joaquim Pozes Pereira a pesquisar calcário em município de Campos, Estado do Rio.

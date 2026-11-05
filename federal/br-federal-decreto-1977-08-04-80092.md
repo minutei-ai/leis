@@ -1,5 +1,3 @@
-###DEC-080092-0-000-04-08-1977@@@
-
 DECRETO Nº 80.092, DE 4 DE AGOSTO DE 1977.
 
 Concede reconhecimento ao curso de Artes Práticas, da Faculdade de Filosofia, Ciências e Letras de Ijuí, com sede na cidade de Ijuí, Estado de Rio Grande do Sul.

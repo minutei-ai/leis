@@ -1,5 +1,3 @@
-###DEC-075608-0-000-15-04-1975@@@
-
 DECRETO Nº 75.608, DE 15 DE ABRIL DE 1975.
 
 Cria, no Departamento Nacional de Portos e Vias Navegáveis (DNPVN), A Administração da Hidrovia Lagoa dos Patos-Jacuí-Ibicuí (AHSUL), que liga o Porto do Rio Grande ao Rio Uruguai, na fronteira do Brasil com a Argentina, compreendida no Plano Nacional de Viação.

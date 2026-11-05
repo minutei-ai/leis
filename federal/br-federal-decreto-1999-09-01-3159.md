@@ -1,5 +1,3 @@
-###DEC-003159-0-000-01-09-1999@@@
-
 DECRETO Nº 3.159, DE 1º SETEMBRO DE 1999.
 
 Altera dispositivos do Decreto de 21 de agosto de 1997, que cria o Conselho Interministerial do Açúcar e do Álcool - CIMA, e dá outras providências.

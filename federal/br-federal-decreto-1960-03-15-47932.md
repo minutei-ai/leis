@@ -1,5 +1,3 @@
-###DEC-047932-0-000-15-03-1960@@@
-
 DECRETO Nº 47.932, DE 15 DE MARÇO DE 1960.
 
 Retifica o Decreto nº 47.531, de 29 de dezembro de 1959.

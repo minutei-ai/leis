@@ -1,5 +1,3 @@
-###DEC-081643-0-000-10-05-1978@@@
-
 Decreto nº 81.643, de 10 de maio de 1978.
 
 Aprova a incorporação de bens ao Patrimônio da Empresa Brasileira de Radiodifusão - RADIOBRÁS.

@@ -1,5 +1,3 @@
-###DEC-054584-0-000-26-10-1964@@@
-
 DECRETO Nº 54.584, DE 26 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Nossa Senhora do Socorro, Estado de Sergipe, concessão para distribuir energia elétrica.

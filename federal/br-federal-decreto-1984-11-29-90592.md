@@ -1,5 +1,3 @@
-###DEC-090592-0-000-29-11-1984@@@
-
 Decreto nº 90.592, de 29 de novembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Alcalis do Rio Grande do Norte S.A. -ALCANORTE.

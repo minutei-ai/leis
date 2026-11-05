@@ -1,5 +1,3 @@
-###DEC-056106-0-000-26-04-1965@@@
-
 DECRETO Nº 56.106, DE 26 DE ABRIL DE 1965.
 
 Retifica o art. 1º do Decreto número 43.803, de 23 de maio de 1958.

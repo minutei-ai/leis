@@ -1,5 +1,3 @@
-###DEC-050944-0-000-13-07-1961@@@
-
 DECRETO Nº 50.944, DE 13 DE JULHO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado de São Paulo.

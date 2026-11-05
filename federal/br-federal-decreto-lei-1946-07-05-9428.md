@@ -1,5 +1,3 @@
-###DEL-009428-0-000-05-07-1946@@@
-
 DECRETO-LEI N. 9.428 – DE 5 DE JULHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a constituir hipotecas e anticreses como garantia de determinados empréstimos.

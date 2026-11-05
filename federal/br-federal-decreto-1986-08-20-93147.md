@@ -1,5 +1,3 @@
-###DEC-093147-0-000-20-08-1986@@@
-
 DECRETO Nº 93.147, DE 20 DE AGOSTO DE 1986
 
 Homologa a demarcação da terra indígena que menciona, no Estado de Mato Grosso.

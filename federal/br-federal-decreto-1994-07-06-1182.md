@@ -1,7 +1,3 @@
-1
-
-###DEC-001182-0-000-06-07-1994@@@
-
 DECRETO N° 1.182, DE 6 DE JULHO DE 1994
 
 Dá nova redação ao inciso IX do Art. 1° do Decreto n° 702, de 22 de dezembro de 1992, alterado pelos Decretos n° 1.113, de 19 de abril de 1994, n° 1.126, de 2 de maio de 1994 e n° 1.140, de 12 de maio de 1994.

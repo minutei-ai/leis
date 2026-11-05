@@ -1,7 +1,3 @@
-1
-
-###DEC-001643-0-000-25-09-1995@@@
-
 DECRETO Nº 1.643, DE 25 DE SETEMBRO DE 1995.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Trabalho e dá outras providências.

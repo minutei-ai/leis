@@ -1,5 +1,3 @@
-###DEC-071599-0-000-22-12-1972@@@
-
 DECRETO Nº 71.599 - DE 22 DE DEZEMBRO DE 1972
 
 Concede indulto a setenciados primários e dá outras providências.

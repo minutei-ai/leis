@@ -1,5 +1,3 @@
-###DEC-056169-0-000-28-04-1965@@@
-
 decreto nº 56.169, de 28 de abril de 1965.
 
 Outorga à Centrais Elétricas do Pará S.A. concessão para distribuir energia elétrica.

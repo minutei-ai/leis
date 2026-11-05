@@ -1,5 +1,3 @@
-###DEC-044921-0-000-01-12-1958@@@
-
 DECRETO Nº 44.921, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro José Ferreira de Souza Pena a pesquisar mica no município de Poté, Estado de Minas Gerais.

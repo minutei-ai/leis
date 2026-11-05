@@ -1,5 +1,3 @@
-###DEC-052608-0-000-02-10-1963@@@
-
 Decreto Nº 52.608, DE 2 DE OUTUBRO DE 1963.
 
 Transfere da Companhia Hidro-Elétrica Resplendor S.A. para a Prefeitura Municipal de Resplendor a concessão para produzir e distribuir energia elétrica.

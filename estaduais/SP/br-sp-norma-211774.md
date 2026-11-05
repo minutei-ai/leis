@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211774)<br>
-
 # DECRETO N° 70.061, DE 05 DE NOVEMBRO DE 2025
 
 ### _Regulamenta a Lei Complementar n° 1.419, de 27 de dezembro de 2024, estabelece a organização do Sistema de Ética e Responsabilização Paulista (SER Paulista), institui a Rede Estadual de Suporte à Ética e à Responsabilização (Rede SER) e a Base Unificada de Dados Disciplinares do Estado de São Paulo (BUDD-SP), altera o Decreto n° 68.157, de 9 de dezembro de 2023, e o Decreto n° 69.183, de 18 de dezembro de 2024, e dá outras providências._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto estabelece o modelo de governança das atividades correcionais no Poder Executivo do Estado de São Paulo, que será implementado por meio da:
@@ -49,10 +48,12 @@ VI - processo de acreditação: procedimento de natureza avaliativa, conduzido e
 
 VII - titular de unidade setorial: agente público responsável por coordenar e gerir o exercício das atribuições da unidade setorial e manter interlocução direta com o Órgão Central do Sistema de Ética e Responsabilização Paulista.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Sistema de Ética e Responsabilização Paulista
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Objetivos e da Estrutura
 
 **Artigo 4° -** O Sistema de Corregedoria a que se refere o § 1° do artigo 2° da [Lei Complementar n° 1.419, de 27 de dezembro de 2024](https://www.al.sp.gov.br/norma/210421), denominado Sistema de Ética e Responsabilização Paulista (SER Paulista), fica instituído no âmbito do Poder Executivo, com os objetivos de:
@@ -79,7 +80,8 @@ II - como unidades setoriais, as unidades dos órgãos e das entidades do Poder 
 
 III - como unidades autônomas, as corregedorias próprias da Procuradoria Geral do Estado, da Polícia Militar, da Polícia Civil, da Polícia Penal e da Fiscalização Tributária.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Órgão Central
 
 **Artigo 6° -** Compete ao Órgão Central do Sistema de Ética e Responsabilização Paulista:
@@ -152,7 +154,8 @@ XXI - consolidar e dar transparência aos dados e informações do Sistema de É
 
 XXII - representar o Sistema de Ética e Responsabilização Paulista em sua articulação com demais instituições e fóruns relacionados à matéria correcional.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Unidades Setoriais
 
 **Artigo 7° -** São unidades setoriais do Sistema de Ética e Responsabilização Paulista:
@@ -281,7 +284,8 @@ IV - orientações acerca dos canais e dos procedimentos de recebimento de notí
 
 V - "banner" com acesso direto ao portal de transparência de informações correcionais do Estado de São Paulo, a que se refere o inciso XXI do artigo 6° deste decreto.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Unidades Autônomas
 
 **Artigo 17 -** As unidades autônomas atuarão coordenadamente com o Órgão Central do Sistema de Ética e Responsabilização Paulista a fim de promover a racionalização, a regulação e o desenvolvimento dos instrumentos de controle e avaliação que impactem o exercício de suas competências previstas em lei, bem como a consolidação e a transparência dos dados de natureza disciplinar do Estado.
@@ -290,7 +294,8 @@ Das Unidades Autônomas
 
 **§ 2° -** Sem prejuízo do disposto no "caput", as unidades autônomas não se sujeitam à supervisão técnica do Órgão Central do Sistema de Ética e Responsabilização Paulista.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Rede Estadual de Suporte à Ética e à Responsabilização
 
 **Artigo 18 -** Fica criada a Rede Estadual de Suporte à Ética e à Responsabilização (Rede SER), com a finalidade de integrar as ações destinadas à troca de informações, harmonização e melhoria regulatória, de governança e de gestão das atividades correcionais no Estado de São Paulo.
@@ -305,7 +310,8 @@ Da Rede Estadual de Suporte à Ética e à Responsabilização
 
 **Artigo 21 -** A governança e a forma de estruturação e de atuação da Rede SER serão definidas por meio de Regimento Interno aprovado pelos seus membros e publicado pela sua coordenação.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Base Unificada de Dados Disciplinares do Estado de São Paulo
 
 **Artigo 22 -** Fica instituída a Base Unificada de Dados Disciplinares do Estado de São Paulo (BUDD.SP), sob a responsabilidade da Controladoria Geral do Estado.
@@ -328,7 +334,8 @@ Da Base Unificada de Dados Disciplinares do Estado de São Paulo
 
 **Parágrafo único -** A incompatibilidade para nova investidura do apenado com demissão ou demissão a bem do serviço público deverá ser observada por ocasião da investidura em função ou emprego público.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 27 -** Os órgãos e entidades da Administração Pública estadual que, na data da entrada em vigor deste decreto, possuírem setor com atribuição equivalente à de unidade setorial do Sistema de Ética e Responsabilização Paulista, deverão, no prazo de 90 (noventa) dias, adotar as providências mencionadas no § 2° do artigo 12 deste decreto.

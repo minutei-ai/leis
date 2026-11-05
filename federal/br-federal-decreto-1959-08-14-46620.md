@@ -1,5 +1,3 @@
-###DEC-046620-0-000-14-08-1959@@@
-
 DECRETO Nº 46.620, de 14 de agÔsto de 1959.
 
 Autoriza a Petróleo Brasileiro S.A. - Petrobrás - a constituir linhas de subtransmissão e subestações para os campos de D. João e Candeias, no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-073397-0-000-31-12-1973@@@
-
 DECRETO Nº 73.397 - DE 31 de Dezembro de 1973
 
 Concede permissão, em caráter permanente, à Eletroteno Indústrias Plásticas S.A., com sede em São Paulo, para funcionar, no seu estabelecimento industrial situado em Vila Elcior, Km 38, da estrada de ferro Santos Jundiaí, no Município de Santo André, Estado de São Paulo, nos setores de: produção, manutenção, laboratório e serviço contra incêndio, aos domingos e nos dias feriados civis e religiosos.

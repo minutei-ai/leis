@@ -1,5 +1,3 @@
-###DEC-002160-0-000-20-02-1997@@@
-
 DECRETO Nº 2.160, DE 20 DE FEVEREIRO DE1997
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre Brasil e Peru, de 10 de dezembro de 1996.

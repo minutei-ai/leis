@@ -1,5 +1,3 @@
-###DEC-051483-0-000-05-06-1962@@@
-
 DECRETO Nº 51.483, DE 5 DE JUNHO DE 1962.
 
 Revoga Decretos que aprovaram Regulamentos do Exército, substituídos de acôrdo com o art. 12 da Lei número 2.851, de 25 de agôsto de 1956, Parágrafo único do art. 2º do Decreto nº 46.214, de 12 de julho de 1959 e art. 158 do Decreto número 42.911, de 27 de dezembro de 1957.

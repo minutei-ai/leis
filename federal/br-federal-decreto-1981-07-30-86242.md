@@ -1,5 +1,3 @@
-###DEC-086242-0-000-30-07-1981@@@
-
 Decreto nº 86.242, de 30 de julho de 1981
 
 Dá nova redação a dispositivos do Decreto nº 85.354, de 12 de novembro de 1980, que dispõe sobre a Categoria Funcional de Agente de Vigilância do Grupo-Outras Atividades de Nível Médio.

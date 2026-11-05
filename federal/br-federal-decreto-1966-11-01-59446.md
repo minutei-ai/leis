@@ -1,5 +1,3 @@
-###DEC-059446-0-000-01-11-1966@@@
-
 DECRETO Nº 59.446, DE 1º DE NOVEMBRO DE 1966.
 
 Autoriza estrangeiro a adquirir o domínio útil do terreno que menciona, situado no Estado da Guanabara.

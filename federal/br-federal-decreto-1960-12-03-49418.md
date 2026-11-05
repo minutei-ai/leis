@@ -1,5 +1,3 @@
-###DEC-049418-0-000-03-12-1960@@@
-
 DECRETO Nº 49.418, DE 3 DE DEZEMBRO DE 1960.
 
 Ratifica a concessão do Serviço de loterias do Estado do Ceará feita pelo respectivo Governo a firma “Empresa Comercial Escol Ltda”, e da Outras providenciais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001700-0-000-14-11-1995@@@
-
 DECRETO Nº 1.700, DE 14 DE NOVEMBRO DE 1995.
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 30 de dezembro de 1994.

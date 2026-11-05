@@ -1,5 +1,3 @@
-###DEC-078722-0-000-12-11-1976@@@
-
 DECRETO Nº 78.722, de 12 de novembro de 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Econômicos de Bauru, com sede na cidade de Bauru, Estado de São Paulo.

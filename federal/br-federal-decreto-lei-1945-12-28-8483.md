@@ -1,5 +1,3 @@
-###DEL-008483-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.483 – DE 28 DE DEZEMBRO DE 1945
 
 Transforma a função de Assistente Jurídico, referência XXI, da T.N.M. da Inspetoria Federal de Obras Contra as Sêcas no cargo isolado de Assistente Jurídico– D. N. O. C. S., padrão L, do Quadro I – Parte Permanente do Ministério da Viação e Obras Públicas.

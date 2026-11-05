@@ -1,5 +1,3 @@
-###DEC-081492-0-000-29-03-1978@@@
-
 Decreto nº 81.492, de 29 de março de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Urutaí, estado de Goiás.

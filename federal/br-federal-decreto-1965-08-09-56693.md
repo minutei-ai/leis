@@ -1,5 +1,3 @@
-###DEC-056693-0-000-09-08-1965@@@
-
 DECRETO Nº 56.693, DE 9 DE AGÔSTO DE 1965.
 
 Autoriza a Usina Queiroz Júnior S.A. - Indústria Siderúrgica a pesquisar minério de ferro, no município de Ouro Prêto, Estado de Minas Gerais.

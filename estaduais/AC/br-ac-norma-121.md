@@ -1,6 +1,10 @@
 > **LEI Nº 3.629, DE 26 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado do Acre a utilizar os imóveis referidos no Decreto nº 992, de 17 de fevereiro de 2011, para fins de integralização de aumento de capital social na Administradora da Zona de Processamento de Exportação do Acre S/A AZPE/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado do Acre a utilizar os imóveis referidos no Decreto nº 992, de 17 de fevereiro de 2011, para fins de integralização de aumento de capital social na Administradora da Zona de Processamento de Exportação do Acre S/A AZPE/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

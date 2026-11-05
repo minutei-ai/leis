@@ -18,8 +18,6 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação, porém seus ef
 
 Goiânia, 14 de maio de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

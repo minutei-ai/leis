@@ -1,5 +1,3 @@
-###DEC-046161-0-000-05-06-1959@@@
-
 DECRETO Nº 46.161, DE 5 DE JUNHO DE 1959.
 
 Declara caduco o título de concessão outorgada à Companhia Fôrça e Luz de Abaeté, com sede na cidade de Abaeté, Estado de Minas Gerais, pelo Decreto nº 21.943, de 14 de outubro de 1946.

@@ -1,5 +1,3 @@
-###DEC-070006-0-000-20-01-1972@@@
-
 Decreto nº 70.006, de 20 de Janeiro de 1972.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e à infância, com sede em Rolândia, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-082560-0-000-01-11-1978@@@
-
 Decreto n.º 82.560, de 01 de novembro de 1978
 
 Concede à Refinação de Talco Pará de Minas Ltda. o direito de lavrar agalmatolito no Município de Pará de Minas, Estado de Minas Gerais.

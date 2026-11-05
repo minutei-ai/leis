@@ -1,5 +1,3 @@
-###DEC-088577-0-000-02-08-1983@@@
-
 Decreto nº 88.577, de 02 de agosto de 1983
 
 Renova por 10 (dez) anos, a concessão outorgada à RÁDIO DIFUSORA DE PONTA GROSSA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ponta Grossa, Estado do Paraná.

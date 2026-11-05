@@ -1,5 +1,3 @@
-###DEL-006972-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.972 – DE 19 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 670.000,00, à verba que especifica

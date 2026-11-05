@@ -1,5 +1,3 @@
-###DEL-003471-0-000-26-07-1941@@@
-
 DECRETO-LEI N. 3.471 – DE 26 DE JULHO DE 1941
 
 Homologa o acordo de limites entre os Estados de Minas Gerais e Rio de Janeiro

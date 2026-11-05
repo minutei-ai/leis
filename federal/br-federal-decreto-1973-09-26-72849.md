@@ -1,5 +1,3 @@
-###DEC-072849-0-000-26-09-1973@@@
-
 DECRETO Nº 72.849, DE 26 de SETEMBRO DE 1973.
 
 Altera, em cumprimento de decisão judicial, enquadramento de funcionário do Ministério da Indústria e do Comércio e dá outras providências.

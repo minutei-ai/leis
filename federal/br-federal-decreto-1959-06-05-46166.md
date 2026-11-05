@@ -1,5 +1,3 @@
-###DEC-046166-0-000-05-06-1959@@@
-
 DECRETO Nº 46.166, DE 5 DE JUNHO DE 1959.
 
 Outorga à Prefeitura Municipal de Bonfim concessão para o aproveitamento  de energia hidrelétrica da cachoeira do Caquende, no rio Macaúbas, no distrito de Piedade dos Gerias, município de Bonfim , Estado de Minas Gerais.

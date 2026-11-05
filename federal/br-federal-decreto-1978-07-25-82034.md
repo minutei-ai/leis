@@ -1,5 +1,3 @@
-###DEC-082034-0-000-25-07-1978@@@
-
 Decreto nº 82.034, de 25 de julho de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube Fluminense Ltda., posteriormente denominada Rádio Mauá Grande Rio Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de São João de Meriti, Estado do Rio de Janeiro.

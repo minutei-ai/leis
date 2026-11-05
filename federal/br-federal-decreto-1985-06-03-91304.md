@@ -1,5 +1,3 @@
-###DEC-091304-0-000-03-06-1985@@@
-
 decreto nº 91.304, de 03 de junho de 1985
 
 Dispõe sobre a implantação de área de proteção ambiental nos Estados de Minas Gerais, Rio de Janeiro e São Paulo, e dá outras providências.

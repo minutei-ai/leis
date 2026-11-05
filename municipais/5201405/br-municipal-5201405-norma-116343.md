@@ -6,12 +6,14 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PRESI
 
 Art. 1º. Todos os estabelecimentos comerciais do tipo bares, distribuidora de bebidas, supermercados, postos de combustíveis, boates e similares, instalados no Município de Aparecida de Goiânia, que vendam bebidas alcoólicas, deverão providenciar a instalação de circuito interno e externo de câmeras de monitoramento e vigilância.
 
-Parágrafo Único – As especificações técnicas dos equipamentos de captação de imagem e armazenamento de dados serão definidos por decreto.<br>
+Parágrafo Único – As especificações técnicas dos equipamentos de captação de imagem e armazenamento de dados serão definidos por decreto.
+
 (Redação alterada pela Lei Ordinária nº 3.462, de 21 de março de 2019).
 
 ~~Parágrafo único. O circuito que se refere o caput deste artigo deverá possuir resolução nítida de imagens (HD ou superior) e tecnologia suficiente para armazenamento de mídia durante o período mínimo de 06 (seis) meses, não podendo ainda existir “ponto cego” na captura de imagens.~~
 
-Art. 2º - O sistema de monitoramento deverá estar em pleno e ininterrupto funcionamento para obtenção e/ou renovação de alvará, sendo ainda o sistema de Monitoramento condição para permanência das atividades do estabelecimento.<br>
+Art. 2º - O sistema de monitoramento deverá estar em pleno e ininterrupto funcionamento para obtenção e/ou renovação de alvará, sendo ainda o sistema de Monitoramento condição para permanência das atividades do estabelecimento.
+
 (Redação alterada pela Lei Ordinária nº 3.462, de 21 de março de 2019).
 
 ~~Art. 2º. O sistema de monitoramento deverá estar em pleno funcionamento para obtenção ou renovação de alvará.~~
@@ -34,5 +36,6 @@ Art. 5º. Esta lei entra em vigor 90 (noventa) dias após a data da sua publica�
 
 Câmara Municipal de Aparecida de Goiânia, aos sete dias do mês de junho de dois mil e dezesseis.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito

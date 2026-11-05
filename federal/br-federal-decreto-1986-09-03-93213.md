@@ -1,5 +1,3 @@
-###DEC-093213-0-000-03-09-1986@@@
-
 DECRETO Nº 93.213, DE 03 DE SETEMBRO DE 1986
 
 Institui o Cadastro Nacional do Pessoal Civil - CNPC, e dá outras providências.

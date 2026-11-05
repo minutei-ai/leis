@@ -1,5 +1,3 @@
-###DEC-086070-0-000-04-06-1981@@@
-
 Decreto nº 86.070, de 04 de junho de 1981.
 
 Altera o Decreto nº 84.355, de 31 de dezembro de 1979, que regulamenta o ingresso e a promoção no Quadro Auxiliar de Oficiais e dá outras providências (RIPQAO).

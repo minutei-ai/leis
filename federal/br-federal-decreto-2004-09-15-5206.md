@@ -1,5 +1,3 @@
-###DEC-005206-0-000-15-09-2004@@@
-
 DECRETO Nº 5.206 DE 15 DE SETEMBRO DE 2004
 
 Regulamenta a Gratificação de Desempenho de Atividades de Informação \- GDAI, no âmbito da Agência Brasileira de Inteligência \- ABIN, e dá outras providências.

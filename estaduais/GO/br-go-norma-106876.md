@@ -16,17 +16,16 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 30 de março de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-"ANEXO ÚNICO<br>
-<br>
-**CRONOGRAMA PARA A UTILIZAÇÃO DAS LEIS FEDERAIS Nº 8.666, DE 1993,**<br>
+"ANEXO ÚNICO
+
+**CRONOGRAMA PARA A UTILIZAÇÃO DAS LEIS FEDERAIS Nº 8.666, DE 1993,**
+
 **Nº 10.520, DE 2002, E Nº 12.462, DE 2011, ARTS. 1º a 47-A**
 
 | Rito  | Descrição  | Prazo para a assinatura da Requisição de Despesas ou da Solicitação de Bens e Serviços  | Prazo para a publicação no COMPRASNET.GO | Prazo para a publicação do aviso ou da ratificação no Diário Oficial do Estado  |

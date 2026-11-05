@@ -1,5 +1,3 @@
-###DEC-076535-0-000-03-11-1975@@@
-
 DECRETO Nº 76.535, DE 3 DE NOVEMBRO DE 1975.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União para operação de crédito externo que menciona.

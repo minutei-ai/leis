@@ -1,5 +1,3 @@
-###DEC-068728-0-000-09-06-1971@@@
-
 DECRETO Nº 68.728 - DE 9 DE JUNHO DE 1971.
 
 Provê sôbre a política do livro técnico e do livro didático e dá outras providências.

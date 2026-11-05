@@ -1,5 +1,3 @@
-###DEC-052216-0-000-02-07-1963@@@
-
 DECRETO Nº 52.216, DE 2 DE JULHO DE 1963.
 
 Dá nova redação ao art. 3º do Decreto 51.717, de 18 de fevereiro de 1963, que dá nova redação à Seção I do Capítulo 1º do Regimento dos Orgãos da Presidência da República, aprovado pelo Decreto nº 23.822 de 10 de Outubro de 1947.

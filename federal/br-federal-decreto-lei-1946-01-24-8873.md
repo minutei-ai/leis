@@ -1,5 +1,3 @@
-###DEL-008873-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.873 – DE 24 JANEIRO DE 1946
 
 Modifica o Decreto-lei nº 6.170, de  janeiro de 1944.

@@ -1,5 +1,3 @@
-###DEL-002134-0-000-26-06-1984@@@
-
 # decreto-lei nº 2.134, de 26 de junho de 1984
 
 Prorroga o prazo de vigência de incentivos fiscais previstos na legislação do imposto de renda e dá outras providências.

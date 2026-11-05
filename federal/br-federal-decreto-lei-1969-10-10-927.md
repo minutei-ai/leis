@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/322073e6-55f8-4247-b862-806e03d471fa/texto#nowhere)
 
-###DEL-000927-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 927, DE 10 DE OUTUBRO DE 1969
 
 Altera a composição do Plenário do Conselho Nacional do Petróleo, e da outras providências.

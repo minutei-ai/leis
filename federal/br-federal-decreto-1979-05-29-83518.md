@@ -1,5 +1,3 @@
-###DEC-083518-0-000-29-05-1979@@@
-
 Decreto nº 83.518, de 29 de maio de 1979.
 
 Institui Grupo de Trabalho destinado a estudar e propor medidas para formulação de uma política florestal para a Amazônia brasileira.

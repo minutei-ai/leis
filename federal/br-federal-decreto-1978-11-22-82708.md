@@ -1,5 +1,3 @@
-###DEC-082708-0-000-22-11-1978@@@
-
 DECRETO Nº 82.708, DE 22 DE NOVENBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

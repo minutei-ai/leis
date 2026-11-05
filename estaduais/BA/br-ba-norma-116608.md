@@ -6,7 +6,8 @@ Dispõe sobre promoções de oficiais da ativa da Polícia Militar da Bahia e d�
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 GENERALIDADES
 
 Art. 1º - Esta Lei estabelece os critérios e as condições que asseguram ao oficial da ativa da Polícia Militar da Bahia o acesso na hierarquia policial-militar, mediante promoção, de forma seletiva, gradual e sucessiva.
@@ -17,32 +18,38 @@ Art. 3º - forma gradual e sucessiva da promoção resultará de um planejamento
 
 Parágrafo único - O planejamento assim realizado deverá assegurar um fluxo de carreira regular e equilibrado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS CRITÉRIOS DE PROMOÇÕES
 
 Art. 4º - As promoções obedecerão aos seguintes critérios:
 
-Redação do art. 4º de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação do art. 4º de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "Art. 4º - As promoções são efetuadas pelos critérios de:"
 
 I - antiguidade;
 
-Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "a) antiguidade;"
 
 II merecimento;
 
-Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "b) merecimento;"
 
 III- bravura;
 
-Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "c) por bravura;"
 
 IV "post-mortem";
 
-Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "d) "post-mortem";
 
 V - mérito intelectual, na forma do disposto no § 2º, do artigo 11, desta Lei.
@@ -73,12 +80,14 @@ c) para vaga de Coronel, somente pelo critério de merecimento.
 
 Parágrafo único - Quando o oficial PM concorrer à promoção por ambos os critérios, o preenchimento da vaga de antiguidades poderá ser feito pelo critério de merecimento, sem prejuízo do cômputo das futuras quotas de merecimento.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS CONDIÇÕES BÁSICAS
 
 Art. 11 - O ingresso na carreira de Oficial Policial-Militar é feito no posto inicial, assim considerado na legislação peculiar a cada Quadro, satisfeitas as exigências legais.
 
-Redação do art. 11 de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação do art. 11 de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "Art. 11 - O ingresso na carreira de oficial PM é feito no posto inicial, assim considerado na legislação peculiar de cada quadro, satisfeitas as exigências legais. Parágrafo único - A ordem hierárquica de colocação do oficial PM no posto inicial resulta da ordem de classificação em curso, concurso ou estágio."
 
 § 1º - A ordem hierárquica de colocação do Oficial PM no posto inicial resulta da ordem de classificação em curso, concurso ou estágio.
@@ -109,13 +118,16 @@ c) conceito moral.
 
 § 1º - É, ainda, condição essencial ao ingresso no Quadro de Acesso para promoção ao posto de Coronel QOPM, o exercício de função arregimentada, como oficial superior, por 24 (vinte e quatro) meses, consecutivos ou não, sendo pelo menos 12 (doze) meses, no exercício de cargo de Comando, Chefia, Direção ou Coordenação de Organização Policial Militar ou Direção e Assessoramento Superior, exercido na atividade policial militar ou de natureza policial militar no âmbito da Administração Pública Estadual.
 
-Redação de acordo com o [art. 3º da Lei nº 7.984, de 17 de dezembro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7984-de-17-de-dezembro-de-2001#LO_7_984_Art__3) .<br>
+Redação de acordo com o [art. 3º da Lei nº 7.984, de 17 de dezembro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7984-de-17-de-dezembro-de-2001#LO_7_984_Art__3) .
+
 Redação anterior de acordo com o [art. 29 da Lei nº 4.613, de 27 de novembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4613-de-27-de-novembro-de-1985#LO_4_613_Art__29) , que acresceu este parágrafo ao art. 14: "§ 1º - É, ainda, condição essencial ao ingresso no Quadro de Acesso para promoção ao posto de Coronel do QOPM o exercício de função arregimentada, como oficial superior, por 24 (vinte e quatro) meses, consecutivos ou não, sendo pelo menos 12 (doze) meses no Comando de Unidade Operacional ou Estabelecimento Policial-Militar de Ensino com autonomia administrativa."
 
 § 2º - o regulamento da presente Lei definirá e discriminará as condições de acesso e os procedimentos para a avaliação dos conceitos profissional e moral, só podendo ser reduzidas as condições de interstício e de serviço arregimentado previstas nesta Lei pelo Comando Geral da Polícia Militar, quando justificado o acesso pela necessidade do serviço Policial Militar.
 
-Parágrafo único renomeado como § 1º pelo [art. 29 da Lei nº 4.613, de 27 de novembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4613-de-27-de-novembro-de-1985#LO_4_613_Art__29) .<br>
-Redação do Parágrafo único do art. 14 de acordo com o [art. 1º da Lei nº 4.194, de 12 de dezembro de 1983](https://www.legislabahia.ba.gov.br/documentos/lei-no-4194-de-12-de-dezembro-de-1983#LO_4_194_Art__1) .<br>
+Parágrafo único renomeado como § 1º pelo [art. 29 da Lei nº 4.613, de 27 de novembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4613-de-27-de-novembro-de-1985#LO_4_613_Art__29) .
+
+Redação do Parágrafo único do art. 14 de acordo com o [art. 1º da Lei nº 4.194, de 12 de dezembro de 1983](https://www.legislabahia.ba.gov.br/documentos/lei-no-4194-de-12-de-dezembro-de-1983#LO_4_194_Art__1) .
+
 Redação original: "Parágrafo único - O regulamento da presente Lei definirá e discriminará as condições de acesso e os procedimentos para a avaliação dos conceitos profissional e moral."
 
 Art. 15 - O oficial PM agregado, quando no desempenho de cargo policial-militar, ou considerado de natureza policial-militar, concorrerá à promoção, por qualquer dos critérios, sem prejuízo do número de concorrentes regularmente estipulados.
@@ -136,7 +148,8 @@ c) for absolvido ou impronunciado no processo a que estiver respondendo, quando 
 
 d) for justificado em Conselho de Justificação.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PROCESSAMENTO DAS PROMOÇÕES
 
 Art. 18 - O ato de promoção é consubstanciado por decreto do Governador do Estado.
@@ -171,19 +184,22 @@ b) como dispuzer a lei, no caso de aumento de efetivo.
 
 § 4º - Será provida mediante promoção a vaga decorrente de agregação que ocorra em virtude de nomeação para cargo considerado de natureza policial militar, prevista no [inciso I, do artigo 82, da Lei nº 3.933, de 06 de novembro de 1981](https://www.legislabahia.ba.gov.br/documentos/lei-no-3933-de-06-de-novembro-de-1981#LO_3_933_Art__82_I) , exceto quanto àquela relativa a policial-militar designado para cargo de autoridade policial civil, da estrutura da Polícia Civil da Bahia".
 
-Redação do § 4º de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .<br>
+Redação do § 4º de acordo com o [art. 1º da Lei nº 4.425, de 09 de abril de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4425-de-09-de-abril-de-1985#LO_4_425_Art__1) .
+
 Redação original: "§ 4º - Não serão providas mediante promoção as vagas decorrentes de agregação que ocorra em virtude de nomeação para cargo considerado de natureza policial-militar, prevista no [artigo 82, inciso I, da Lei nº 3.933, de 06 de novembro de 1981](https://www.legislabahia.ba.gov.br/documentos/lei-no-3933-de-06-de-novembro-de-1981#LO_3_933_Art__82_I) ."
 
 § 5º - Não preenche vaga o oficial PM que, estando agregado, venha a ser promovido e continue na mesma situação.
 
 Art. 20 - As promoções serão efetuadas, por antigüidade ou merecimento, sempre que verificada a existência de vagas.
 
-Redação de acordo com o [art. 1º da Lei nº 6.419, de 02 de novembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6419-de-02-de-setembro-de-1992#LO_6_419_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 6.419, de 02 de novembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6419-de-02-de-setembro-de-1992#LO_6_419_Art__1) .
+
 Redação original: "Art. 20 - As promoções serão efetuadas, anualmente, por antiguidade ou por merecimento, nos dias 17 de fevereiro, 02 de julho e 15 de novembro, para as vagas abertas e publicadas oficialmente, até os dias 28 de janeiro, 12 de junho e 26 de outubro, respectivamente, bem como para as decorrentes de promoções para essas vagas."
 
 Parágrafo único - A antigüidade no posto, no caso de promoção, é contada a partir da data do respectivo ato, ressalvados os casos de descontos de tempo não computável, de acordo com a legislação vigente, bem como promoção "post-mortem", por bravura e em ressarcimento de preterição, quando poderá ser estabelecida outra data.
 
-Redação de acordo com o [art. 1º da Lei nº 6.419, de 02 de novembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6419-de-02-de-setembro-de-1992#LO_6_419_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 6.419, de 02 de novembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6419-de-02-de-setembro-de-1992#LO_6_419_Art__1) .
+
 Redação original: "Parágrafo único - A antiguidade no posto, no caso de promoção, é contada a partir da data do respectivo ato, ressalvados os casos de descontos de tempo não computável, de acordo com a legislação vigente, bem como promoção "post-mortem", por bravura e em ressarcimento de preterição, quando poderá ser estabelecida outra data."
 
 Art. 21 - A promoção por antiguidade far-se-á na seqüência do respectivo Quadro de Acesso.
@@ -226,7 +242,8 @@ c) em acidente de serviço ou em conseqüência de doença, moléstia ou enfermi
 
 § 4º - No caso de falecimento do oficial, a promoção por bravura exclui a promoção "post-mortem" que resulte das consequências do ato de bravura.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DOS QUADROS DE ACESSO
 
 Art. 27 - Quadros de Acesso são relações de oficiais organizadas por postos para as promoções por antiguidade ou merecimento - Quadro de Acesso por Antiguidade (QAA) e Quadro de Acesso por Merecimento (QAM), previstos nos [artigos 5º](https://www.legislabahia.ba.gov.br/documentos/lei-no-3955-de-07-de-dezembro-de-1981#LO_3_955_Art__5) e [6º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-3955-de-07-de-dezembro-de-1981#LO_3_955_Art__6) .
@@ -237,7 +254,8 @@ Art. 27 - Quadros de Acesso são relações de oficiais organizadas por postos p
 
 a) a eficiência revelada no desempenho de cargos e comissões;
 
-Redação da alínea "a" de acordo com o [art. 29 da Lei nº 4.613, de 27 de novembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4613-de-27-de-novembro-de-1985#LO_4_613_Art__29) .<br>
+Redação da alínea "a" de acordo com o [art. 29 da Lei nº 4.613, de 27 de novembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4613-de-27-de-novembro-de-1985#LO_4_613_Art__29) .
+
 Redação aoriginal: "a) a eficiência revelada no desempenho de cargos e comissões, e não a natureza intrínseca destes, nem o tempo de exercício nesses cargos e comissões;"
 
 b) a potencialidade para o desempenho de cargos mais elevados;
@@ -308,7 +326,8 @@ Parágrafo único - Para ser incluído ou reincluído no Quadro de Acesso por Me
 
 Art. 31 - O oficial que, no posto, deixar de figurar por 3 (três) vezes, consecutivas ou não, em Quadro de Acesso por Merecimento (QAM), por ter sido considerado com mérito insuficiente, se em cada vez integrou o QAM oficial mais moderno, é considerado inabilitado para a promoção ao posto imediato pelo critério de merecimento.
 
-Redação de acordo com o [art. 2º da Lei nº 4.192, de 07 de dezembro de 1983](https://www.legislabahia.ba.gov.br/documentos/lei-no-4192-de-07-de-dezembro-de-1983#LO_4_192_art__2) .<br>
+Redação de acordo com o [art. 2º da Lei nº 4.192, de 07 de dezembro de 1983](https://www.legislabahia.ba.gov.br/documentos/lei-no-4192-de-07-de-dezembro-de-1983#LO_4_192_art__2) .
+
 Redação original: "Art. 31 - O oficial que, no posto, deixar de figurar por três vezes, consecutivas ou não, em Quadro de Acesso por Merecimento (QAM), se em cada um deles integrou oficial mais moderno, é considerado inabilitado para a promoção ao posto imediato pelo critério de merecimento."
 
 Art. 32 - Considera-se não habilitado o oficial para o acesso, em caráter definitivo, somente quando estiver no caso do [parágrafo 2º do artigo 29](https://www.legislabahia.ba.gov.br/documentos/lei-no-3955-de-07-de-dezembro-de-1981#LO_3_955_Art__29_P_2) .
@@ -317,7 +336,8 @@ Art. 33 - O oficial promovido indevidamente passará à situação de excedente.
 
 Parágrafo único - Esse oficial contará antiguidade e receberá o número que lhe competir na escala hierárquica, quando a vaga a ser preenchida corresponder ao critério pelo qual deveria ser promovido, desde que satisfaça os requisitos para a promoção.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 34 - Ao Aspirante-a-Oficial PM aplicam-se os dispositivos desta Lei no que lhe for pertinente.

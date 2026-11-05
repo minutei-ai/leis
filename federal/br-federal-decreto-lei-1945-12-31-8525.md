@@ -1,5 +1,3 @@
-###DEL-008525-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.525 – DE 31 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento do Plano de Obras e Equipamentos para o corrente exercício.

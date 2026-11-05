@@ -1,5 +1,3 @@
-###DEC-003500-0-000-09-06-2000@@@
-
 DECRETO Nº 3.500, DE 9 DE JUNHO DE 2000.
 
 Dispõe sobre a Comissão Nacional de Classificação CONCLA, e dá outras providências.

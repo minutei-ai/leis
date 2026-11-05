@@ -1,5 +1,3 @@
-###DEC-091153-0-000-15-03-1985@@@
-
 DECRETO Nº 91.153, DE 15 DE MARÇO DE 1985
 
 Introduz alterações no Estatuto da Caixa Econômica Federal - CEF, aprovado pelo Decreto nº 81.171, de 3 de janeiro de 1978, e dá outras providências.

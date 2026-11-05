@@ -1,5 +1,3 @@
-###DEC-076522-0-000-03-11-1975@@@
-
 DECRETO Nº 76.522, DE 3 DE NOVEMBRO DE 1975.
 
 Autoriza a Rádio Difusora Carioca Ltda. a aumentar a potência diurna de sua estação de radiodifusão sonora em onda média, na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, de 0,25/0,25 KW para 5,0/0,25kW, permanecendo na mesma freqüência de 720 kHz.

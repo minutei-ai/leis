@@ -1,5 +1,3 @@
-###DEL-006076-0-000-08-12-1943@@@
-
 DECRETO‑LEI N. 6.076 – DE 8 DE DEZEMBRO DE 1943
 
 Altera o artigo 2º do decreto‑lei n. 5.361, de 30 de março de 1943

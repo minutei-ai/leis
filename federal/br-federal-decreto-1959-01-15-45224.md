@@ -1,5 +1,3 @@
-###DEC-045224-0-000-15-01-1959@@@
-
 DECRETO Nº 45.224, DE 15 DE JANEIRO DE 1959.
 
 Amplia a zona de concessão da Companhia Energia Elétrica da Bahia, e da outras providências.

@@ -1,5 +1,3 @@
-###DEL-003697-0-000-09-10-1941@@@
-
 DECRETO-LEI N. 3.697 – DE 9 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 19:806$0, para pagamento de diaristas

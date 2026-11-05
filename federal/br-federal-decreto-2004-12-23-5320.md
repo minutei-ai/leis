@@ -1,5 +1,3 @@
-###DEC-005320-0-000-23-12-2004@@@
-
 DECRETO Nº 5.320 DE 23 DE DEZEMBRO DE 2004
 
 Dá nova redação ao § 3º do art. 1º do Decreto nº 4.969, de 30 de janeiro de 2004, e fixa o percentual da subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, para o exercício fiscal do ano de 2005.

@@ -1,5 +1,3 @@
-###DEC-054630-0-000-27-10-1964@@@
-
 DECRETO Nº 54.630, DE 27 DE OUTUBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da Nova América Companhia de Seguros Gerais, relativa ao aumento do capital social.

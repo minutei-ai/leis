@@ -1,5 +1,3 @@
-###DEC-060348-0-000-09-03-1967@@@
-
 decreto nº 60.348, de 9 de março de 1967.
 
 Fixa, para o ano de 1967, valôres das gratificações da categoria “B” e das indenizações de representação estabelecidas no Código de Vencimentos dos Militares, de conformidade com as alterações prescritas na Lei nº 4.863, de 29 de novembro de 1965.

@@ -56,4 +56,4 @@ Brasília, 18 de junho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Tereza Cristina Corrêa da Costa Dias<br>
+Tereza Cristina Corrêa da Costa Dias

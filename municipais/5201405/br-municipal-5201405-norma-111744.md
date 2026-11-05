@@ -50,20 +50,24 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 25 de setembro de 2018
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-ANEXO I<br>
+ANEXO I
+
 (Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)
 
-<table><tbody><tr><td style="text-align: center;"><strong>CARGO</strong></td><td style="text-align: center;"><strong>VALOR DA GRATIFICAÇÃO</strong></td><td style="text-align: center;"><strong>QUANTITATIVO</strong></td></tr><tr><td style="text-align: center;">Auxiliar em Saúde - Agente de Combate a Endemias</td><td style="text-align: center;">R$ 825,00</td><td style="text-align: center;">35</td></tr></tbody></table>
+<table><tbody><tr><td style="text-align: center;">**CARGO**</td><td style="text-align: center;">**VALOR DA GRATIFICAÇÃO**</td><td style="text-align: center;">**QUANTITATIVO**</td></tr><tr><td style="text-align: center;">Auxiliar em Saúde - Agente de Combate a Endemias</td><td style="text-align: center;">R$ 825,00</td><td style="text-align: center;">35</td></tr></tbody></table>
 
 (Redação acrescentada pela Lei Complementar nº 244, de 23 de outubro de 2025)
 
-ANEXO II<br>
-(Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)<br>
-<br>
-Agente de Combate às Endemias – Supervisor Atribuições<br>
+ANEXO II
+
+(Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)
+
+Agente de Combate às Endemias – Supervisor Atribuições
+
  
 
 I – supervisionar a execução dos aspectos técnicos e operacionais do controle das endemias;

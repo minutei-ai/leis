@@ -1,5 +1,3 @@
-###DEC-080644-0-000-27-10-1977@@@
-
 DECRETO Nº 80.644, DE 27 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, a área de terra que menciona, a ser desmembrada de maior porção do imóvel situado na Avenida São Paulo sem número, Município de Mongaguá, Comarca de Itanhaém, Estado de são Paulo, pela Telecomunicações de São Paulo S.A. TELESP.

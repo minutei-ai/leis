@@ -1,5 +1,3 @@
-###DEC-053567-0-000-19-02-1964@@@
-
 DECRETO Nº 53.567, DE 19 DE FEVEREIRO DE 1964.
 
 Organização das Fôrças Terrestres e dos Órgãos Territoriais em Tempo de paz.

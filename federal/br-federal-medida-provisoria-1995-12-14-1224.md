@@ -1,7 +1,3 @@
-1
-
-###MPV-001224-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.224, DE 14 DE  DEZEMBRO  DE 1995.
 
 Altera as Leis nºs 8.019, de 11 de abril de 1990, e 8.212, de 24 de julho de 1991, e dá outras providências.

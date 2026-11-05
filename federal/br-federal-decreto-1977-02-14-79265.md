@@ -1,5 +1,3 @@
-###DEC-079265-0-000-14-02-1977@@@
-
 DECRETO Nº 79 265, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Educação Jacobina, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###MPV-001943-0-057-21-09-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-57, DE 21 de setembro DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

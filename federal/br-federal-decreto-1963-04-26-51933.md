@@ -1,5 +1,3 @@
-###DEC-051933-0-000-26-04-1963@@@
-
 DECRETO Nº 51.933, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Júlio Lourenço de Souza, a comprar pedras preciosas.

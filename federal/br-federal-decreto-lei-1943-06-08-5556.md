@@ -1,5 +1,3 @@
-###DEL-005556-0-000-08-06-1943@@@
-
 DECRETO-LEI N. 5.556 – DE 8 DE JUNHO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito especial dei Cr$ 45.000,00 para despesas com os funcionários da Polícia Civil do Distrito Federal, designados para prestar serviços no estrangeiro

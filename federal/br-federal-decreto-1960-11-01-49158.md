@@ -1,5 +1,3 @@
-###DEC-049158-0-000-01-11-1960@@@
-
 DECRETO Nº 49.158, DE 1º DE Novembro DE 1960.
 
 Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.

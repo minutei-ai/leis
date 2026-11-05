@@ -1,5 +1,3 @@
-###DEC-074252-0-000-03-07-1974@@@
-
 DECRETO Nº 74.252 - DE 3 DE JULHO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, de uma área de terreno urbano, sem benfeitorias, a ser desmembrada de maior porção, destinada à instalação de uma central telefônica, situada no Subdistrito de Tucuruvi, Cidade de São Paulo, Estado de São Paulo, pela Telecomunicações de São Paulo S.A.- TELESP.

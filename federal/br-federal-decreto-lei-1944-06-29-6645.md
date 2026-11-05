@@ -1,5 +1,3 @@
-###DEL-006645-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.645 – DE 29 DE JUNHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 750.055,00 para cobertura do "déficit" ‘verificado no exercício de 1943 na exploração dos serviços da "Companhia Italiana dei Cavi Telegrafici Sottomarini"

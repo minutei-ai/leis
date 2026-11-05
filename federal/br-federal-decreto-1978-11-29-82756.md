@@ -1,5 +1,3 @@
-###DEC-082756-0-000-29-11-1978@@@
-
 Decreto nº 82.756, de 29 de novembro de 1978.
 
 Altera o Decreto nº 74.602, de 24 de setembro de 1974, que concede reconhecimento aos cursos de Letras, de Geografia, de História Natural, de Matemática e de Pedagogia da Fundação Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado de Mato Grosso.

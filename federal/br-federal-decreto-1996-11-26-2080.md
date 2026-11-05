@@ -1,7 +1,3 @@
-1
-
-###DEC-002080-0-000-26-11-1996@@@
-
 DECRETO Nº 2.080, DE 26 DE NOVEMBRO DE 1996.
 
 Dá nova redação ao art. 8° do Decreto nº 87.497, de 18 de agosto de 1982, que regulamenta a Lei nº 6.494, de 7 de dezembro de 1977, que dispõe sobre os estágios de estudantes de estabelecimentos de ensino superior e de ensino profissionalizante do 2° Grau e Supletivo.

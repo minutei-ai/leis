@@ -1,5 +1,3 @@
-###DEC-057302-0-000-22-11-1965@@@
-
 Decreto nº 57.302, de 22 de novembro de 1965.
 
 Dá nova redação a dispositivos do Regulamento para a Formação de Oficiais Engenheiros e Técnicos Navais, aprovado pelo Decreto número 52.163, de 28 de junho de 1963.

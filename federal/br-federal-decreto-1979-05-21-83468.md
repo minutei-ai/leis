@@ -1,5 +1,3 @@
-###DEC-083468-0-000-21-05-1979@@@
-
 Decreto nº 83.468, de 21 de maio de 1979.
 
 Autoriza o funcionamento da habilitação em Formação de Psicólogo, no curso de Psicologia, da Faculdade de Filosofia, Ciências e Letras Tuiuti, em Curitiba, Paraná.

@@ -1,5 +1,3 @@
-###DEL-003599-0-000-06-09-1941@@@
-
 DECRETO-LEI N. 3.599 – DE 6 DE SETEMBRO DE 1941
 
 Dispõe sobre a nomenclatura das estações ferroviárias do País

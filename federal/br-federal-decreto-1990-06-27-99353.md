@@ -1,7 +1,3 @@
-1
-
-###DEC-099353-0-000-27-06-1990@@@
-
 DECRETO Nº 99.353, DE 27 DE JUNHO DE 1990
 
 Dispõe sobre a coordenação e supervisão do Programa Grande Carajás e dá outras providências.

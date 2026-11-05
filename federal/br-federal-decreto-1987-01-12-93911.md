@@ -1,5 +1,3 @@
-###DEC-093911-0-000-12-01-1987@@@
-
 DECRETO Nº 93.911, DE 12 DE JANEIRO DE 1987
 
 Regulamenta a fixação e o reajustamento de encargos educacionais e a composição das Comissões de Encargos Educacionais de que trata o Decreto-lei nº 532, de 16 de abril de 1969.

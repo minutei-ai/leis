@@ -1,5 +1,3 @@
-###DEC-059120-0-000-24-08-1966@@@
-
 decreto nº 59.120, de 24 de agôsto de 1966.
 
 Suprime cargo extinto.

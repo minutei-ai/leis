@@ -1,5 +1,3 @@
-###DEC-076846-0-000-17-12-1975@@@
-
 DECRETO Nº 76.846, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Elétrica da Faculdade de Engenharia de Bauru, com sede na cidade de Bauru, Estado de São Paulo.

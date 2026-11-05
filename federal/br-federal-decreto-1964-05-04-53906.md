@@ -1,5 +1,3 @@
-###DEC-053906-0-000-04-05-1964@@@
-
 DECRETO Nº 53.906, DE 4 DE MAIO DE 1964.
 
 Revoga o Decreto nº 53.081, de 4 de Dezembro de 1963.

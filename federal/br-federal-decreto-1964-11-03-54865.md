@@ -1,5 +1,3 @@
-###DEC-054865-0-000-03-11-1964@@@
-
 DECRETO Nº 54.865, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Annuciato a pesquisar calcário, no município de Guapiara, Estado de São Paulo.

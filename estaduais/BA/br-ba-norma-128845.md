@@ -4,7 +4,8 @@ Institui o Regime de Previdência Complementar, no âmbito do Estado da Bahia, f
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO REGIME DE PREVIDÊNCIA COMPLEMENTAR
 
 **Art. 1º** - Fica instituído, no âmbito do Estado da Bahia, o Regime de Previdência Complementar a que se referem os §§ 14, 15 e 16 do art. 40 da Constituição da República Federativa do Brasil.
@@ -35,21 +36,26 @@ Inciso IX acrescido pela Lei nº 14.481 de 31 de agosto de 2022.
 
 **§ 3º** - Os servidores e os membros referidos no § 2º deste artigo, com remuneração superior ao limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social, serão automaticamente inscritos no respectivo plano de benefícios a partir da data de entrada em exercício no cargo, desde que tenham ingressado no serviço público a partir do prazo fixado no § 1º deste artigo, ou sejam oriundos do serviço público em outro ente da Federação que tenha instituído o Regime de Previdência Complementar.
 
-Redação de acordo com a Lei nº 13.718 de 16 de março de 2017<br>
+Redação de acordo com a Lei nº 13.718 de 16 de março de 2017
+
 Redação original " § 3º "A adesão do servidor ao Regime de Previdência Complementar dependerá de prévia e expressa opção a um dos planos de benefícios acessíveis ao participante oferecidos pelo novo regime.
 
 **§ 4º** - Também poderão, mediante livre, prévia e expressa opção, aderir ao Regime de Previdência Complementar de que trata este artigo os titulares de cargo ou emprego referidos no § 2º deste artigo, que tenham ingressado no serviço público em data anterior à publicação, pelo órgão fiscalizador, da autorização de aplicação do regulamento do plano de benefícios da entidade a que se refere o art. 4º desta Lei, ou da data da contratação prevista no § 8º do mesmo art. 4º.
 
 **§ 5º** - O prazo para a opção de que trata o § 4º será de 132 (cento e trinta e dois) meses, contado a partir da data estabelecida no § 1º, ambos deste artigo.
 
-Redação de acordo com a Lei 14.807 de 26 de dezembro de 2024.<br>
-Redação anterior de acordo com a Lei nº 14.481 de 31 de agosto de 2022 : "§ 5º - O prazo para a opção de que trata o § 4º será de 96 (noventa e seis) meses, contado a partir da data estabelecida no § 1º, todos deste artigo."<br>
-Redação anterior de acordo com a Lei nº 13.815 de 21 de dezembro de 2017: "§ 5º - O prazo para a opção de que trata o § 4º será de 72 (setenta e dois) meses, contados a partir da data estabelecida no § 1º, todos deste artigo."<br>
+Redação de acordo com a Lei 14.807 de 26 de dezembro de 2024.
+
+Redação anterior de acordo com a Lei nº 14.481 de 31 de agosto de 2022 : "§ 5º - O prazo para a opção de que trata o § 4º será de 96 (noventa e seis) meses, contado a partir da data estabelecida no § 1º, todos deste artigo."
+
+Redação anterior de acordo com a Lei nº 13.815 de 21 de dezembro de 2017: "§ 5º - O prazo para a opção de que trata o § 4º será de 72 (setenta e dois) meses, contados a partir da data estabelecida no § 1º, todos deste artigo."
+
 Redação original: "§ 5º - O prazo para a opção de que trata o § 4º será de até 12 (doze) meses, contados a partir da data estabelecida no § 1º, todos deste artigo."
 
 **§ 6º** - O exercício da opção a que se refere o § 4º deste artigo é irrevogável e irretratável, não sendo devida, pelos órgãos e entidades da Administração Pública Estadual, qualquer contrapartida referente ao valor da contribuição previdenciária que tenha incidido sobre a parcela da remuneração superior ao limite máximo de benefícios do Regime Geral da Previdência Social, no período anterior à adesão, ressalvado o disposto no art. 2º-A desta Lei.
 
-Redação de acordo com a Lei nº 14.807 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei nº 14.807 de 26 de dezembro de 2024.
+
 Redação original " § 6º - "O exercício da opção a que se refere o § 4º deste artigo é irrevogável e irretratável, não sendo devida, pelos órgãos e entidades da Administração Pública Estadual, qualquer contrapartida referente ao valor da contribuição previdenciária que tenha incidido sobre a parcela da remuneração superior ao limite máximo de benefícios do Regime Geral da Previdência Social, no período anterior à adesão."
 
 **§ 7º** - As condições para a adesão e as características dos planos serão definidas em regulamento.
@@ -64,7 +70,8 @@ Redação original " § 6º - "O exercício da opção a que se refere o § 4º 
 
 **§ 10** - Na hipótese prevista no § 9º deste artigo, a contribuição aportada pelo patrocinador será devolvida à respectiva fonte pagadora no mesmo prazo da devolução da contribuição aportada pelo participante, deduzidas as despesas administrativas e as relativas aos benefícios de risco.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação anterior de acordo com a Lei 13.718, de 16 de março de 2017 que acrescentou o § 10 ao art. 1º: "§ 10 - Na hipótese prevista no § 9º deste artigo, a contribuição aportada pelo patrocinador será devolvida à respectiva fonte pagadora no mesmo prazo da devolução da contribuição aportada pelo participante."
 
 **§ 11** - O cancelamento da inscrição previsto no § 8º deste artigo não constitui resgate.
@@ -95,7 +102,8 @@ Redação anterior de acordo com a Lei 13.718, de 16 de março de 2017 que acres
 
 **§ 2º** - A opção a que se refere o inciso II do _caput_ deste artigo implica renúncia irrevogável e irretratável aos direitos decorrentes das regras previdenciárias anteriores, não sendo devida pelo Regime Próprio de Previdência dos Servidores do Estado da Bahia, por meio dos Poderes Executivo, Legislativo e Judiciário, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público do Estado da Bahia e da Defensoria Pública do Estado da Bahia, qualquer contrapartida ou devolução referente ao valor dos descontos já efetuados sobre base de contribuição acima do limite previsto no _caput_ deste artigo, ressalvado o disposto no art. 2º-A desta Lei.
 
-Redação de acordo com a Lei nº 14.807 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei nº 14.807 de 26 de dezembro de 2024.
+
 Redação original "§2º - "A opção a que se refere o inciso II deste artigo implica renúncia irrevogável e irretratável aos direitos decorrentes das regras previdenciárias anteriores, não sendo devida pelo Regime Próprio de Previdência dos Servidores do Estado da Bahia, por meio dos Poderes Executivo, Legislativo e Judiciário, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público do Estado da Bahia e da Defensoria Pública do Estado da Bahia, qualquer contrapartida ou devolução referente ao valor dos descontos já efetuados sobre base de contribuição acima do limite previsto no caput deste artigo."
 
 **Art. 2º-A** - É assegurado aos servidores e membros referidos no inciso II do _caput_ do art. 2º desta Lei o direito a benefício especial, custeado pelo Estado da Bahia e calculado na forma deste artigo, sendo consideradas as contribuições recolhidas ao Regime Próprio de Previdência do Estado da Bahia, da União, dos demais Estados, do Distrito Federal e dos Municípios até a adesão ao Regime de Previdência Complementar instituído por esta Lei.
@@ -140,26 +148,32 @@ Tt = 455, para o servidor titular de cargo efetivo, membro do Poder Judiciário,
 
 **a)** o Estado da Bahia, por meio dos Poderes Executivo, Judiciário e Legislativo, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público do Estado da Bahia e da Defensoria Pública do Estado da Bahia, suas autarquias, fundações estatais de direito público, empresas públicas e sociedades de economia mista;
 
-Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.<br>
+Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.
+
 Redação original: a)   "o Estado da Bahia, por meio dos Poderes Executivo, Judiciário e Legislativo, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público do Estado da Bahia e da Defensoria Pública do Estado da Bahia, suas autarquias e fundações estatais de direito público do Estado da Bahia;"
 
 **b)** a entidade prevista no art. 4º desta Lei;
 
 **c)**    os demais entes da Federação, suas autarquias, fundações, empresas públicas e sociedades de economia mista, mediante prévia autorização do Conselho Deliberativo da PREVBAHIA, desde que firmem convênio de adesão e venham a aderir ao plano de benefícios previdenciários administrado pela PREVBAHIA;
 
-Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.<br>
-Redação original: c)    "os demais entes da Federação, suas autarquias e fundações, mediante prévia autorização do Conselho Deliberativo da PREVBAHIA, desde que firmem convênio de adesão e venham a aderir ao plano de benefícios previdenciários administrado pela referida entidade;'<br>
+Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.
+
+Redação original: c)    "os demais entes da Federação, suas autarquias e fundações, mediante prévia autorização do Conselho Deliberativo da PREVBAHIA, desde que firmem convênio de adesão e venham a aderir ao plano de benefícios previdenciários administrado pela referida entidade;'
+
 Alínea "c" acrescida pela Lei nº 13.815 de 21 de dezembro de 2017.
 
 **II -**      participante: o servidor público titular de cargo efetivo dos entes da Federação, inclusive o membro do Poder Judiciário, do Ministério Público, da Defensoria Pública, do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios, o empregado público e o empregado da PREVBAHIA, que aderir aos planos de benefícios por ela administrados;
 
-Redação de acordo com a Lei nº Lei nº 14.481 de 31 de agosto de 2022.<br>
-Redação anterior de acordo com a Lei nº 13.815 de 21 de dezembro de 2017: "II - participante: o servidor público titular de cargo efetivo dos entes da Federação, inclusive o membro do Poder Judiciário, do Ministério Público, da Defensoria Pública e do Tribunal de Contas, bem como o empregado da PREVBAHIA, que aderir aos planos de benefícios por ela administrados; "<br>
+Redação de acordo com a Lei nº Lei nº 14.481 de 31 de agosto de 2022.
+
+Redação anterior de acordo com a Lei nº 13.815 de 21 de dezembro de 2017: "II - participante: o servidor público titular de cargo efetivo dos entes da Federação, inclusive o membro do Poder Judiciário, do Ministério Público, da Defensoria Pública e do Tribunal de Contas, bem como o empregado da PREVBAHIA, que aderir aos planos de benefícios por ela administrados; "
+
 Redação original: "II - participante: a pessoa física definida no art. 1º, § 2º, desta Lei, que aderir ao plano de benefícios administrado pela PREVBAHIA;"
 
 **III -**    participante sem patrocínio: o participante que, por quaisquer das razões especificadas na legislação, optar por contribuir para o Regime de Previdência Complementar de que trata esta Lei sem que haja contrapartida por parte do patrocinador, inclusive aqueles previstos no § 12 do art. 1º desta Lei;
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "III - participante sem patrocínio: o participante que, por quaisquer das razões especificadas na legislação, optar por contribuir para o Regime de Previdência Complementar de que trata esta Lei sem que haja contrapartida por parte do patrocinador;"
 
 **IV -**     assistido: o participante ou seu beneficiário em gozo de benefício de prestação continuada;
@@ -188,10 +202,12 @@ Inciso XIII acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
 Parágrafo Único acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA CRIAÇÃO DE ENTIDADE
 
 **Art. 4º** - Fica o Poder Executivo autorizado a criar entidade fechada de Previdência Complementar, de natureza estatal, denominada Fundação de Previdência Complementar dos Servidores Públicos do Estado da Bahia - PREVBAHIA, com a finalidade de administrar e executar plano de benefícios de caráter previdenciário, nos termos das Leis Complementares Federais nos 108 e 109, de 29 de maio de 2001, vinculada à Secretaria da Administração do Estado da Bahia - SAEB.
@@ -210,12 +226,14 @@ DA CRIAÇÃO DE ENTIDADE
 
 **§ 7º** - A PREVBAHIA deverá publicar, anualmente, na Imprensa Oficial do Estado ou em sítio oficial da Entidade, os seus demonstrativos contábeis, atuariais, financeiros e de benefícios, sem prejuízo do fornecimento de informações aos participantes e assistidos do plano de benefícios previdenciários, ao órgão regulador e fiscalizador das entidades fechadas de previdência complementar, na forma das Leis Complementares Federais nos 108 e 109, de 29 de maio de 2001, à Assembleia Legislativa do Estado da Bahia, ao Tribunal de Contas do Estado da Bahia e ao Ministério Público do Estado da Bahia.
 
-Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.<br>
+Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.
+
 Redação original: "§ 7º- "A PREVBAHIA deverá publicar, anualmente, na Imprensa Oficial do Estado e em sítio oficial da Administração Pública, os seus demonstrativos contábeis, atuariais, financeiros e de benefícios, sem prejuízo do fornecimento de informações aos participantes e assistidos do plano de benefícios previdenciários, ao órgão regulador e fiscalizador das entidades fechadas de previdência complementar, na forma das Leis Complementares Federais nºs 108 e 109, de 29 de maio de 2001, à Assembleia Legislativa do Estado da Bahia, ao Tribunal de Contas do Estado da Bahia e ao Ministério Público do Estado da Bahia. "
 
 **§ 8º** - Independentemente da criação da entidade fechada de Previdência Complementar a que se refere o _caput_ deste artigo, fica o Poder Executivo autorizado a contratar, na forma que dispuser a legislação federal e as normas regulamentares respectivas, a vinculação do Regime de Previdência Complementar, de que trata esta Lei, aos planos de benefícios que vierem a ser instituídos, de âmbito nacional, para agregar os participantes do regime de previdência complementar de Estados e Municípios, bem como da administração do regime de previdência complementar do Estado da Bahia.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA ORGANIZAÇÃO DA FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DOS SERVIDORES PÚBLICOS DO ESTADO DA BAHIA - PREVBAHIA
 
 **Art. 5º** - A estrutura organizacional da entidade de que trata esta Lei será constituída de Conselho Deliberativo, Conselho Fiscal e Diretoria Executiva, observadas as disposições da Lei Complementar Federal nº 108, de 29 de maio de 2001.
@@ -224,26 +242,30 @@ DA ORGANIZAÇÃO DA FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DOS SERVIDORES PÚBL
 
 **§ 2º** - O Conselho Deliberativo terá composição paritária entre o patrocinador Estado da Bahia e os participantes e assistidos e será integrado por 06 (seis) membros.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 2º - O Conselho Deliberativo terá composição paritária e será integrado por 06 (seis) membros."
 
 **§ 3º** - A Presidência do Conselho Deliberativo será exercida entre os membros indicados pelo patrocinador Estado da Bahia, na forma prevista no Estatuto da PREVBAHIA
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 3º - A Presidência do Conselho Deliberativo será exercida entre os membros indicados pelos patrocinadores, na forma prevista no Estatuto da PREVBAHIA."
 
 **§ 4º** - O Conselho Fiscal é o órgão de controle interno da PREVBAHIA.
 
 **§ 5º** - O Conselho Fiscal terá composição paritária entre o patrocinador Estado da Bahia e os participantes e assistidos e será integrado por 04 (quatro) membros.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 5º - O Conselho Fiscal terá composição paritária e será integrado por 04 (quatro) membros."
 
 **§ 6º** - A Presidência do Conselho Fiscal será exercida pelos membros dentre aqueles indicados pelos participantes e assistidos, na forma prevista no Estatuto da PREVBAHIA.
 
 **§ 7º** - Os membros dos Conselhos Deliberativo e Fiscal, representantes do patrocinador Estado da Bahia, serão designados pelo Governador do Estado da Bahia.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 7º - Os membros do Conselho Deliberativo e do Conselho Fiscal, representantes do patrocinador, serão designados pelo Governador do Estado."
 
 **§ 8º** - A escolha dos representantes dos participantes e assistidos nos Conselhos Deliberativo e Fiscal dar-se-á por meio de eleição direta entre seus pares, conforme regulamento eleitoral a ser expedido pela PREVBAHIA.
@@ -258,10 +280,12 @@ Redação original: "§ 7º - Os membros do Conselho Deliberativo e do Conselho 
 
 **§ 1º** - Os membros da Diretoria Executiva, em número máximo de 04 (quatro), serão nomeados pelo Conselho Deliberativo, mediante indicação do Governador do Estado da Bahia.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º - Os membros da Diretoria Executiva, em número máximo de 04 (quatro), serão nomeados pelo Conselho Deliberativo, mediante indicação do Governador do Estado."
 
-**§ 2º** - Compete ao Conselho Deliberativo, mediante decisão fundamentada, a exoneração de membros da Diretoria Executiva, observando-se o disposto no Estatuto<br>
+**§ 2º** - Compete ao Conselho Deliberativo, mediante decisão fundamentada, a exoneração de membros da Diretoria Executiva, observando-se o disposto no Estatuto
+
 da PREVBAHIA.
 
 **Art. 8º** \- Aos membros da Diretoria Executiva será vedado:
@@ -278,12 +302,14 @@ da PREVBAHIA.
 
 **Art. 9º** - A PREVBAHIA poderá criar, por ato de seu Conselho Deliberativo, observado o disposto no Estatuto e Regimento Interno, Comitês de Assessoramento Técnico, de caráter consultivo, para cada plano de benefícios por ela administrado, com as atribuições de apresentar propostas e sugestões quanto à gestão da entidade e sua política de investimentos e à situação financeira e atuarial dos respectivos planos de benefícios e de formular recomendações prudenciais a elas relacionadas.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "Art. 9º - A PREVBAHIA poderá criar, por ato de seu Conselho Deliberativo, observado o disposto no Estatuto e Regimento Interno, Comitês de Assessoramento Técnico, de caráter consultivo, com as atribuições de apresentar propostas e sugestões quanto à gestão da entidade e sua política de investimentos e à situação financeira e atuarial dos respectivos planos de benefícios e de formular recomendações prudenciais a elas relacionadas."
 
 **§ 1º** - A composição dos Comitês de Assessoramento Técnico terá representação paritária entre os patrocinadores e os participantes e assistidos, na forma definida no Estatuto.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º - A composição dos Comitês de Assessoramento Técnico terá representação paritária entre os patrocinadores e os participantes e assistidos, sendo estes últimos indicados pelo Conselho Deliberativo."
 
 **§ 2º** - Os membros dos Comitês de Assessoramento Técnico não serão remunerados.
@@ -316,7 +342,8 @@ Art. 9º-B acrescido pela Lei nº 14.481 de 31 de agosto de 2022.
 
 **Art. 10** - Os requisitos previstos nos incisos I a IV do art. 20 da Lei Complementar Federal nº 108/2001 aplicam-se a todos os membros da Diretoria Executiva, do Conselho Deliberativo, do Conselho Fiscal e dos Comitês de Assessoramento Técnico.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA GESTÃO DOS RECURSOS GARANTIDORES
 
 **Art. 11** - A gestão das aplicações dos recursos da PREVBAHIA poderá ser própria, por entidade autorizada e credenciada ou mista.
@@ -331,7 +358,8 @@ DA GESTÃO DOS RECURSOS GARANTIDORES
 
 **§ 2º** - A definição da composição e dos percentuais máximos de cada modalidade de gestão constará na política de investimentos dos planos de benefícios a ser fixada, anualmente, pelo Conselho Deliberativo.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 12** - A Diretoria Executiva editará ato próprio com normas gerais para a seleção e a contratação de gestores de recursos, de pessoas jurídicas especializadas na custódia de valores mobiliários, serviços jurídicos, consultorias atuariais, auditorias externas independentes e serviços de tecnologia da informação, dando publicidade às mesmas.
@@ -348,14 +376,16 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 1º** - A contribuição normal do patrocinador Estado da Bahia para o plano de benefícios não poderá exceder a contribuição individual dos participantes, ficando limitada ao percentual máximo de 8,5% (oito inteiros e cinco décimos por cento), conforme previsto no art. 26 desta Lei.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º - A contribuição normal do patrocinador para o plano de benefícios não poderá exceder a contribuição individual dos participantes, ficando limitada ao percentual máximo de 8,5 % (oito inteiros e cinco décimos por cento), conforme previsto no art. 26 desta Lei."
 
 **§ 2º** - O patrocinador, conforme disposto no inciso I do art. 3º desta Lei, será responsável pelo recolhimento de suas contribuições e das contribuições descontadas dos participantes a ele vinculados, e pelo posterior repasse à PREVBAHIA, observado o disposto no convênio de adesão e no regulamento do plano de benefícios.
 
 **§ 3º** - As contribuições do patrocinador e dos participantes deverão ser recolhidas, mensalmente, à PREVBAHIA, até o último dia útil do mês a que se referir.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 3º - As contribuições do patrocinador e dos participantes deverão ser recolhidas, mensalmente, à PREVBAHIA, até o segundo dia útil do mês subsequente."
 
 **§ 4º** - Se, apesar de recair em dia útil, o termo final do prazo coincidir com dia em que não haja expediente bancário, este será automaticamente prorrogado para o dia útil imediatamente posterior ao vencimento.
@@ -364,30 +394,36 @@ Redação original: "§ 3º - As contribuições do patrocinador e dos participa
 
 **Art. 17** - Sem prejuízo de responsabilização e das demais penalidades previstas nesta Lei e na legislação aplicável, as contribuições recolhidas com atraso estarão sujeitas à atualização e aos acréscimos, nos termos do regulamento do respectivo plano de benefícios.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "Art. 17 - Sem prejuízo de responsabilização e das demais penalidades previstas nesta Lei e na legislação aplicável, as contribuições recolhidas com atraso sujeitar-se-ão à atualização e aos acréscimos segundo os índices e taxas utilizadas para efeito de correção dos tributos estaduais."
 
 **§ 1º** -  Ultrapassado o prazo previsto no § 3º do art. 15 desta Lei, a Secretaria da Fazenda do Estado da Bahia poderá, desde que oficiada pelo dirigente máximo da PREVBAHIA, fazer a retenção da contribuição devida até o limite do valor principal, mais os encargos.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º - Ultrapassado o prazo previsto no art. 16 desta Lei, a Secretaria da Fazenda poderá, desde que oficiada pelo dirigente máximo da PREVBAHIA, fazer a retenção da contribuição devida até o limite do valor principal, mais os encargos."
 
 **§ 2º** - A Secretaria da Fazenda do Estado da Bahia poderá, ainda, ao liberar os recursos para o pagamento da folha de pessoal dos órgãos e entidades dos Poderes do Estado da Bahia, reter o valor correspondente às contribuições para o plano e repassá-las, diretamente, à PREVBAHIA.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 2º - A Secretaria da Fazenda poderá, ainda, ao liberar os recursos para o pagamento da folha de pessoal dos órgãos e entidades dos Poderes do Estado, reter o valor correspondente às contribuições para o plano e repassá-las, diretamente, à PREVBAHIA. "
 
 **§ 3º** - O agente público que der causa à omissão ficará sujeito à apuração das responsabilidades previstas nas normas legais vigentes.
 
 **Art. 18** - Os valores a serem repassados à PREVBAHIA, a título de contribuição do patrocinador Estado da Bahia, deverão ser executados com recursos orçamentários de cada um dos órgãos ou entidades da Administração Pública Estadual, indicados no § 2º do art. 1º desta Lei.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "Art. 18 - Os valores a serem repassados à PREVBAHIA, a título de contribuição do patrocinador, deverão ser executados com recursos orçamentários de cada um dos órgãos ou entidades da Administração Pública Estadual, indicados no § 2º do art. 1º desta Lei."
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS PLANOS DE BENEFÍCIOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS LINHAS GERAIS DOS PLANOS DE BENEFÍCIOS
 
 **Art. 19** - Os planos de benefícios serão criados por ato do Conselho Deliberativo, conforme disposto no regimento da PREVBAHIA.
@@ -432,7 +468,8 @@ III - com o patrimônio dos patrocinadores.
 
 Art. 22-B acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA MANUTENÇÃO E DA FILIAÇÃO
 
 **Art. 23** - Poderá permanecer filiado ao respectivo plano de benefícios o participante:
@@ -447,7 +484,8 @@ DA MANUTENÇÃO E DA FILIAÇÃO
 
 **§ 1º** - No caso do inciso I deste artigo, o recolhimento das contribuições será disciplinado pelo regulamento do plano de benefícios.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º -  No caso do inciso I deste artigo, o patrocinador arcará com a sua contribuição somente no caso de a cessão implicar ônus para a origem, devendo o órgão ou entidade do destino, na hipótese de cessão com ônus para si, arcar com a contribuição do patrocinador e recolher a contribuição do participante, repassando para a PREVBAHIA até o dia 10 (dez) do mês seguinte ao da competência."
 
 **§ 2º** - No caso do inciso II deste artigo, o patrocinador arcará com a sua contribuição somente quando o afastamento ou a licença se der sem prejuízo do recebimento da remuneração do participante, devendo este, nos demais casos, optar pelo autopatrocínio, conforme regras do seu plano de benefícios.
@@ -456,21 +494,24 @@ Redação original: "§ 1º -  No caso do inciso I deste artigo, o patrocinador
 
 **§ 4º** - O regulamento do plano de benefícios disciplinará as regras para a manutenção do custeio do plano de benefícios, observada a legislação aplicável.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO PARTICIPANTE SEM PATROCÍNIO
 
 **Art. 24** - Considera-se participante sem patrocínio aquele que, por receber remuneração inferior ao valor do maior benefício pago pelo Regime Geral de Previdência Social, por não mais manter vínculo com o patrocinador ao qual esteve originalmente vinculado ou por qualquer outra razão especificada em lei não tem direito à contrapartida do patrocinador e opta por contribuir para o Regime de Previdência Complementar de que trata esta Lei.
 
 **Parágrafo único -** O participante sem patrocínio não contribuirá para o Fundo de Cobertura dos Benefícios Não-Programados e o plano de benefícios poderá prever a contratação externa dos benefícios decorrentes dos eventos de invalidez e morte ao qual o participante poderá, facultativamente, aderir.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DA BASE DE CÁLCULO
 
 **Art. 25** - As contribuições do patrocinador e do participante incidirão sobre a parcela da remuneração que exceder o valor máximo de benefícios do Regime Geral da Previdência Social, observado o disposto no inciso XI do art. 37 da Constituição da República Federativa do Brasil, como limite para a base de contribuição.
 
 **§ 1º** - Os abrangidos pelo disposto no art. 1º desta Lei, cuja remuneração seja inferior ao valor do maior benefício pago pelo Regime Geral de Previdência Social, poderão optar por contribuir para plano de benefícios administrado pela PREVBAHIA sem a contribuição do patrocinador, sendo que a base de cálculo será definida no plano de custeio.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 1º -  Os abrangidos pelo disposto no art. 1º desta Lei, cuja remuneração seja inferior ao valor do maior benefício pago pelo Regime Geral de Previdência Social poderão optar por contribuir para a PREVBAHIA sem a contribuição do patrocinador, sendo que a base de cálculo será definida no plano de custeio."
 
 **§ 2º** - Os planos de benefícios poderão prever a possibilidade do participante contribuir com alíquota maior do que a definida originalmente para o plano, observando-se que a contribuição do patrocinador não acompanhará o percentual facultativo de contribuição.
@@ -491,21 +532,24 @@ Redação original: "§ 1º -  Os abrangidos pelo disposto no art. 1º desta Le
 
 **§ 2º** - Além da contribuição normal de que trata o _caput_ deste artigo, o regulamento poderá admitir o aporte de contribuições facultativas, na forma prevista no § 2º do art. 6º da Lei Complementar Federal nº 108, de 29 de maio de 2001, sem aporte correspondente do patrocinador.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "§ 2º - Além da contribuição normal de que trata o caput deste artigo, o regulamento poderá admitir o aporte de contribuições facultativas, na forma prevista no art. 6º, § 2º, da Lei Complementar Federal nº 109, de 29 de maio de 2001, sem aporte correspondente do patrocinador. "
 
 **§ 3º** \- O percentual máximo a incidir sobre a remuneração dos servidores dos demais entes da Federação que aderirem a plano de benefícios administrado pela PREVBAHIA deverá ser definido em lei do respectivo ente.
 
 § 3º acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DAS DISPOSIÇÕES ESPECIAIS
 
 **Art. 27** - O plano de custeio previsto no art. 18, da Lei Complementar Federal nº 109, de 29 de maio de 2001, discriminará o percentual mínimo da contribuição do participante e do patrocinador, conforme o caso, para cada um dos benefícios previstos no plano de benefícios previdenciários, observado o disposto no art. 6º da Lei Complementar Federal nº 108, de 29 de maio de 2001, e o art. 25, § 2º, da presente Lei.
 
 **Parágrafo único -** Caberá ao regulamento dos planos de benefícios definir o plano de custeio referido no _caput_ deste artigo e os benefícios não programados, assegurados, no mínimo, os benefícios decorrentes dos eventos de invalidez ou morte, que deverão ser contratados com empresa seguradora.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "Parágrafo único - Caberá ao regulamento dos planos de benefícios definir o plano de custeio referido no caput deste artigo, como também definir os benefícios não programados, assegurados, no mínimo, os benefícios decorrentes dos eventos de invalidez ou morte, que poderão ser contratados externamente ou assegurados pelo próprio plano de benefícios previdenciários complementares, mediante a instituição de Fundo de Cobertura dos Benefícios Não-Programados, observado, em todo caso, o art. 24 e seu parágrafo único, desta Lei."
 
 **Art. 28** - A PREVBAHIA manterá o controle das reservas constituídas em nome do participante, registrando contabilmente as contribuições deste e as do patrocinador.
@@ -564,7 +608,8 @@ Art. 29-D acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
 Art. 29-E acrescido pela Lei nº 13.815 de 21 de dezembro de 2017.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO CONTROLE E DA FISCALIZAÇÃO
 
 **Art. 30** - A supervisão e fiscalização da PREVBAHIA e de seus planos de benefícios previdenciários compete ao órgão fiscalizador das entidades fechadas de previdência complementar.
@@ -575,12 +620,14 @@ DO CONTROLE E DA FISCALIZAÇÃO
 
 **Art. 31** - Aplica-se, no âmbito da PREVBAHIA, o regime disciplinar previsto no Capítulo VII, da Lei Complementar Federal nº 109, de 29 de maio de 2001.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 32** - Fica o Estado da Bahia autorizado, em caráter excepcional, no ato de criação da PREVBAHIA, a promover o aporte de até R$20.000.000,00 (vinte milhões de reais), para cobertura de despesas administrativas ou de benefícios de risco.
 
-Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.<br>
+Redação de acordo com a Lei nº 14.481 de 31 de agosto de 2022.
+
 Redação original: "Art. 32  - Fica o Estado da Bahia autorizado, em caráter excepcional, no ato de criação da PREVBAHIA, a promover o aporte de até R$20.000.000,00 (vinte milhões de reais), a título de adiantamento de contribuição, para cobertura de despesas administrativas e/ou de benefícios de risco. "
 
 **Art. 33** - Fica o Poder Executivo autorizado a proceder às alterações orçamentárias que se fizerem necessárias em decorrência desta Lei.
@@ -597,7 +644,8 @@ Redação original: "Art. 32  - Fica o Estado da Bahia autorizado, em caráter 
 
 **II -**      a cessão de servidores efetivos dos órgãos e entidades da Administração Pública dos entes da Federação.
 
-Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.<br>
+Redação de acordo com a Lei nº 13.815 de 21 de dezembro de 2017.
+
 Redação original: "II - a cessão de servidores efetivos dos órgãos e entidades da Administração Pública do Estado da Bahia."
 
 **§ 2º** - O pessoal contratado e cedido na forma do § 1º do presente artigo será progressivamente substituído na medida do preenchimento dos empregos pelos aprovados em concursos públicos.

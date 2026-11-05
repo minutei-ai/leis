@@ -1,5 +1,3 @@
-###DEC-084097-0-000-16-10-1979@@@
-
 Decreto nº 84.097, de 16 de outubro de 1979.
 
 Altera a redação do "caput" do artigo 13, do Decreto nº 79.046, de 27 de dezembro de 1976, que dispõe sobre a aplicação dos incentivos fiscais para o desenvolvimento florestal do País.

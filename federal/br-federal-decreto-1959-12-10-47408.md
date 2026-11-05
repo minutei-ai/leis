@@ -1,5 +1,3 @@
-###DEC-047408-0-000-10-12-1959@@@
-
 DECRETO Nº 47.408, DE 10 DE DEZEMBRO DE 1959.
 
 Altera o Decreto nº 33.515, de 11-8-1953.

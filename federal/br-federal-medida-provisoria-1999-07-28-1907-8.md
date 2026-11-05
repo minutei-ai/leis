@@ -1,5 +1,3 @@
-###MPV-001907-0-008-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.907-8, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

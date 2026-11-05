@@ -1,7 +1,3 @@
-1
-
-###DEC-000530-0-000-20-05-1992@@@
-
 # DECRETO N° 530, DE 20 DE MAIO DE 1992
 
 Cria a Floresta Nacional de Ipanema.

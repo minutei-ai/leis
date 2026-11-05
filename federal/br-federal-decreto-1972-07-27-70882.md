@@ -1,5 +1,3 @@
-###DEC-070882-0-000-27-07-1972@@@
-
 DECRETO Nº 70.882, DE 27 DE JULHO DE 1972.
 
 Dispõe sobre o programa intensivo de Preparação de Mão-de-Obra - PIPMO e dá outras providências.

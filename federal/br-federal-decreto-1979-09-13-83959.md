@@ -1,5 +1,3 @@
-###DEC-083959-0-000-13-09-1979@@@
-
 DECRETO Nº 83.959, DE 13 DE SETEMBRO DE1979.
 
 Autoriza o Instituto Nacional de Colonização e Reforma e Agrária - INCRA a doar o imóvel que menciona.

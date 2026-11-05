@@ -1,5 +1,3 @@
-###DEC-061614-0-000-31-10-1967@@@
-
 Decreto nº 61.614, de 31 de outubro de 1967.
 
 Adota medidas tendentes à supressão do uso do nome de repartições públicas, autarquias e sociedades de economia mista, no apêlo público para a participação em consórcios ou fundos mútuos.

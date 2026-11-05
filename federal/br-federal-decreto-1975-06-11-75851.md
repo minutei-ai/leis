@@ -1,5 +1,3 @@
-###DEC-075851-0-000-11-06-1975@@@
-
 DECRETO Nº 75.851, DE 11 DE JUNHO DE 1975
 
 Concede reconhecimento ao curso de Zootecnia da Universidade Federal de Santa Maria, Estado do Rio Grande do Sul.

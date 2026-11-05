@@ -1,5 +1,3 @@
-###DEC-050283-0-000-20-02-1961@@@
-
 DECRETO Nº 50.283, DE 20 DE FEVEREIRO DE 1961.
 
 Autoriza o Serviço do patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Monte Santo de Minas, estado de Minas Gerais.

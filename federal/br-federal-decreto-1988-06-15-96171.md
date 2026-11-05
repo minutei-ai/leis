@@ -1,5 +1,3 @@
-###DEC-096171-0-000-15-06-1988@@@
-
 DECRETO N° 96.171, DE 15 DE JUNHO DE 1988
 
 Outorga concessão a TV PAJUÇARA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Maceió, Estado de Alagoas.

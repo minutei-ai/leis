@@ -1,5 +1,3 @@
-###DEC-074160-0-000-07-06-1974@@@
-
 DECRETO nº 74.160, de 7 de junho de 1974.
 
 Autoriza o funcionamento dos cursos de História, de Geografia, de Ciências Biológicas (licenciatura) e de Letras (habilitações em Português-Francês e em Português-Inglês) da Faculdade de Filosofia, Ciências e Letras de Jales, mantida pela Associação Educacional de Jales, Estado de São Paulo.

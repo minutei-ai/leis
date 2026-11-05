@@ -1,5 +1,3 @@
-###DEC-066969-0-000-28-07-1970@@@
-
 DECRETO Nº 66.969, DE 28 DE JULHO DE 1970.
 
 Autoriza o funcionamento do Curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Três Corações, no Estado de Minas Gerais.

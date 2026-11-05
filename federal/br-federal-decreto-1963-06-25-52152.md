@@ -1,5 +1,3 @@
-###DEC-052152-0-000-25-06-1963@@@
-
 DECRETO Nº 52.152, DE 25 DE JUNHO de 1963.
 
 Assegura ao algodão em pluma da região setentrional do País da safra de 1963-64, a garantia de preços mínimos.
@@ -12,7 +10,39 @@ Art. 1º Fica assegurada ao algodão em pluma da região setentrional do País d
 
 a) preços para o algodão em pluma, base FOB, por arrôba de 15 quilos líquidos acondicionado em fardos com a densidade média de 600 quilos por metro cúbico, do tipo 3 das especificações aprovadas pelo Decreto número 43.427, de 26 de março de 1958, pôsto armazéns adequados dos portos da região:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Fibras</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(comprimento comercial)</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38/40mm .................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.111,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36/38mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.926,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34/36mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.843,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32/34mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.667,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30/32mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.611,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28/30mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.463,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26/28mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.444,00</span></p></td></tr></tbody></table>
+Fibras
+
+(comprimento comercial)
+
+Cr$
+
+38/40mm .................................................................................................................
+
+5.111,00
+
+36/38mm ..................................................................................................................
+
+4.926,00
+
+34/36mm ..................................................................................................................
+
+4.843,00
+
+32/34mm ..................................................................................................................
+
+4.667,00
+
+30/32mm ..................................................................................................................
+
+4.611,00
+
+28/30mm ..................................................................................................................
+
+4.463,00
+
+26/28mm ..................................................................................................................
+
+4.444,00
 
 b) financiamento de 80% (oitenta por cento) ou aquisição do produto em pluma aos preços e condições acima estipulados.
 
@@ -28,7 +58,7 @@ Art. 2º As operações a que alude o art. 1º dêste decreto serão realizadas 
 
 Algodão em carôço do tipo 3 ou “Bom” das especificações baixadas pelo Decreto nº 43.427, de 26-3-58:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:431.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(Por arrôba de 15 quilos)</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Fibras</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38/40mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.345,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36/38mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.296,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34/36mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.274,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32/34mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.228,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30/32mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.213,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28/30mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.714,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26/28mm ..................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.170,00</span></p></td><td style="vertical-align:top"></td></tr><tr style="height:0pt"><td style="width:372.05pt"></td><td style="width:66.45pt"></td><td style="width:0.05pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> (Por arrôba de 15 quilos) </td></tr><tr><td> Fibras </td><td> Cr$ </td><td></td></tr><tr><td> 38/40mm .................................................................................................................. </td><td> 1.345,00 </td><td></td></tr><tr><td> 36/38mm .................................................................................................................. </td><td> 1.296,00 </td><td></td></tr><tr><td> 34/36mm .................................................................................................................. </td><td> 1.274,00 </td><td></td></tr><tr><td> 32/34mm .................................................................................................................. </td><td> 1.228,00 </td><td></td></tr><tr><td> 30/32mm .................................................................................................................. </td><td> 1.213,00 </td><td></td></tr><tr><td> 28/30mm .................................................................................................................. </td><td> 1.714,00 </td><td></td></tr><tr><td> 26/28mm .................................................................................................................. </td><td> 1.170,00 </td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 Parágrafo único. Para os tipos de algodão em carôço superiores ou inferiores aos mencionados neste artigo serão estabelecidos ágios e deságios correspondentes aos que forem adotados para o algodão em pluma, na forma prevista no referido § 3º do artigo 1º dêste decreto.
 
@@ -45,8 +75,6 @@ João Goulart
 Carlos Alberto de Carvalho Pinto
 
 Oswaldo Lima Filho
-
-###DEC-052152-0-000-25-06-1963@@@RET01+++
 
 DECRETO Nº 52.152, DE 25 DE JUNHO DE 1963.
 

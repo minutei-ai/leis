@@ -1,5 +1,3 @@
-###DEC-002158-0-000-20-02-1997@@@
-
 DECRETO Nº 2.158, DE 20 DE FEVEREIRO DE 1997
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre Brasil, Argentina, Paraguai e Uruguai, como Estados Partes do MERCOSUL, e Chile, de 18 de novembro de 1996.

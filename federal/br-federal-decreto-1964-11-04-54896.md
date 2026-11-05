@@ -1,5 +1,3 @@
-###DEC-054896-0-000-04-11-1964@@@
-
 DECRETO Nº 54.896, DE 4 DE Novembro DE 1964.
 
 Autoriza a Indústria de Mármores Italva Ltda, a lavrar mármore, no município de Campos, Estado do Rio de Janeiro.

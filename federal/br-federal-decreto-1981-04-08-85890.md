@@ -1,5 +1,3 @@
-###DEC-085890-0-000-08-04-1981@@@
-
 Decreto nº 85.890, de 08 de abril de 1981.
 
 Outorga à Centrais Elétricas Matogrossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do rio Apiacás, no Município de Alta Floresta, Estado de Mato Grosso.

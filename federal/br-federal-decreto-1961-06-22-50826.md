@@ -1,5 +1,3 @@
-###DEC-050826-0-000-22-06-1961@@@
-
 DECRETO Nº 50.826, DE 22 DE JUNHO DE 1961.
 
 Altera a redação do art. 5º do Decreto nº 49.495, de 10 de dezembro de 1960, que aprova o Quadro de Pessoal da Caixa Econômica Federal de Brasília.

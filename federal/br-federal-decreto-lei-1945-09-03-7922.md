@@ -1,5 +1,3 @@
-###DEL-007922-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.922 – DE 3 DE SETEMBRO DE 1945
 
 Dispõe sôbre a carreira de Agrônomo Fitossanitarista, do Quadro Permanente do Ministério da Agricultura

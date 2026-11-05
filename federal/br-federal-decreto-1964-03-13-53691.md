@@ -1,5 +1,3 @@
-###DEC-053691-0-000-13-03-1964@@@
-
 DECRETO Nº 53.691, DE 13 DE março DE 1964.
 
 Prorroga vigência do Decreto número 193, de 20 de novembro de 1961.

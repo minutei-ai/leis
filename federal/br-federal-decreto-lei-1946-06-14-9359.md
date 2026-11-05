@@ -1,5 +1,3 @@
-###DEL-009359-0-000-14-06-1946@@@
-
 DECRETO-LEI Nº 9.359, DE 14 DE JUNHO DE 1946
 
 Isenta do impôsto de renda as indenizações recebidas pelos empregados do Departamento Nacional do Café.

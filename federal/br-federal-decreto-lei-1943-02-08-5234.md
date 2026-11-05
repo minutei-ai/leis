@@ -1,5 +1,3 @@
-###DEL-005234-0-000-08-02-1943@@@
-
 DECRETO‑LEI N. 5.234 – DE 8 DE FEVEIRO DE 1943
 
 Modifica o art. 1° do decreto n. 5.481, de 25 de junho de 1928

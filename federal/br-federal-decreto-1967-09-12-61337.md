@@ -1,5 +1,3 @@
-###DEC-061337-0-000-12-09-1967@@@
-
 decreto nº 61.337, de 12 de setembro de 1967.
 
 Cria a Comissão de Planejamento e Coordenação de Combate ao Contrabando (COPLANC).

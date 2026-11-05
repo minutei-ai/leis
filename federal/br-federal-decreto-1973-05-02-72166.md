@@ -1,5 +1,3 @@
-###DEC-072166-0-000-02-05-1973@@@
-
 DECRETO Nº 72.166, DE 2 DE MAIO DE 1973.
 
 Autoriza o funcionamento dos cursos de Letras e Matemática da Escola Superior de Educação, mantida pela Fundação Educacional do Norte Catarinense, Mafra, Estado de Santa Catarina.

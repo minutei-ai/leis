@@ -1,5 +1,3 @@
-###DEC-079426-0-000-23-03-1977@@@
-
 DECRETO Nº 79426 , DE 23 DE MARÇO DE 1977.
 
 Concede à Mineração Rio do Norte S.A. O direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

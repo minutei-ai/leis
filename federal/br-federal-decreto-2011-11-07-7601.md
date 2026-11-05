@@ -1,5 +1,3 @@
-###DEC-007601-0-000-07-11-2011-PUB-01@@@
-
 DECRETO Nº 7.601, DE 7 DE NOVEMBRO DE 2011
 
 Estabelece a aplicação de margem de preferência nas licitações realizadas no âmbito da administração pública federal para aquisição de produtos de confecções, calçados e artefatos, para fins do disposto no art. 3º da Lei nº 8.666, de 21 de junho de 1993.

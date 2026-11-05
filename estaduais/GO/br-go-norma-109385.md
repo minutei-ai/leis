@@ -78,8 +78,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de agosto de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

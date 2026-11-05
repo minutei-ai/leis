@@ -1,5 +1,3 @@
-###DEC-076839-0-000-17-12-1975@@@
-
 DECRETO nº 76.839, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis e de Administração de Empresas "Camilo Castelo Branco", com sede na cidade de São Paulo, Estado de São Paulo.

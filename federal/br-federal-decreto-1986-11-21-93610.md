@@ -1,5 +1,3 @@
-###DEC-093610-0-000-21-11-1986@@@
-
 DECRETO Nº 93.610, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a incorporação da ÁLCALIS DO RIO GRANDE DO NORTE S.A. pela CIA NACIONAL DE ALCALIS  S.A., e dá outras providências.

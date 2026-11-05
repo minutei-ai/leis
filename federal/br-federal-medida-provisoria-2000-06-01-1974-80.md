@@ -1,5 +1,3 @@
-###MPV-001974-0-080-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-80, DE 1 de junho DE 2000.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

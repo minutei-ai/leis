@@ -1,5 +1,3 @@
-###DEC-049507-0-000-12-12-1960@@@
-
 DECRETO Nº 49.507, de 12 de dezembro de 1960.
 
 Autoriza M.I.L. - Mineração Ita Limitada a lavrar quartzito no município de São Bernardo do Campo, Estado de São Paulo.

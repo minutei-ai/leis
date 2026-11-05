@@ -1,5 +1,3 @@
-###DEC-079797-0-000-08-06-1977@@@
-
 DECRETO Nº 79.797, DE 8 DE JUNHO DE 1977
 
 Regulamenta o exercício das profissões de guardador e lavador autônomo da veículos automotores, a que se refere a Lei nº 6.242, de 23 de setembro de 1975, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003854-0-000-29-06-2001@@@
-
 DECRETO Nº 3.854, DE 29 DE JUNHO DE 2001
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 11 de abril de 2001.
@@ -296,7 +294,7 @@ ANEXO
 <tr><td>29182990</td><td>Outros</td><td></td><td></td><td>90</td><td></td><td>60</td><td></td><td>90/50</td><td>60</td><td>*</td></tr>
 <tr><td>29189090</td><td>Outros</td><td></td><td></td><td>70/60</td><td></td><td>70</td><td></td><td>60/50</td><td></td><td>*</td></tr>
 <tr><td>29211100</td><td>Mono-, di - ou trimetilamina e seus sais</td><td></td><td></td><td>20</td><td></td><td></td><td></td><td>60</td><td></td><td></td></tr>
-<tr><td>29213090</td><td>Outros</td><td></td><td></td><td><span style="text-transform:uppercase">30</span></td><td></td><td></td><td></td><td>30</td><td></td><td>*</td></tr>
+<tr><td>29213090</td><td>Outros</td><td></td><td></td><td>30</td><td></td><td></td><td></td><td>30</td><td></td><td>*</td></tr>
 <tr><td>29214310</td><td>Toluidinas</td><td></td><td></td><td>30</td><td></td><td></td><td></td><td>30</td><td></td><td>*</td></tr>
 <tr><td>29225090</td><td>Outros</td><td></td><td></td><td>30</td><td></td><td></td><td></td><td>30</td><td></td><td>*</td></tr>
 <tr><td>29239000</td><td>Outros</td><td></td><td></td><td>30</td><td></td><td></td><td></td><td>30</td><td></td><td>*</td></tr>
@@ -561,105 +559,426 @@ ANEXO
 
 2\. Observe as Preferências Outorgadas pelo Brasil
 
-<table>
-<tr><td>NALADI/SH</td><td>OBSERVAÇÃO</td></tr>
-<tr><td>11029090</td><td>PER: de "kiwicha" e " quinua"</td></tr>
-<tr><td>11062090</td><td>PER: de "maca"</td></tr>
-<tr><td>11063090</td><td>PER: farinha de "lúcuma"</td></tr>
-<tr><td>11071010</td><td>COL. EQU. VEN: Por um [azo de 24 meses a cevada poderá ser não Originária</td></tr>
-<tr><td>11072010</td><td>COL. EQU. VEN: Por um [azo de 24 meses a cevada poderá ser não originária</td></tr>
-<tr><td>12119099</td><td>PER: 100% de unha de gato; maca, sangue de grau, "hercampuri", "pasuchaca", "chancapiedra" e 60% resto do item</td></tr>
-<tr><td>13019019</td><td>PER: borracha de "tara"</td></tr>
-<tr><td>14041090</td><td>PER: 100% "tara" em ' e 50% resto do item</td></tr>
-<tr><td>15119000</td><td>PER: monteiga de palma</td></tr>
-<tr><td>19011090</td><td>PER: a base de "kiwicha" e quinua"</td></tr>
-<tr><td>19019090</td><td>PER: a base de "kiwicha" e " quinua</td></tr>
-<tr><td>20019090</td><td>PER: 100% de alcachofra e 50% resto do item</td></tr>
-<tr><td>25031010</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo 1, Artigo Primeiro, letra e), da (Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.</td></tr>
-<tr><td>26020090</td><td>COL PER: 1(X)% bióxido de manganês natural e 50% resto do item</td></tr>
-<tr><td>Capitulo 27</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matériaI de expedição direta.</td></tr>
-<tr><td>28020000</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capitulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição dição direta</td></tr>
-<tr><td>28332990</td><td>PER: 100% sulfato de chumbo e 70% resto do item</td></tr>
-<tr><td>29155000</td><td>COL: sais</td></tr>
-<tr><td>29171990</td><td>COL: ácido fumárico</td></tr>
-<tr><td>29173990</td><td>PER: ftalato dibásico de chumbo</td></tr>
-<tr><td>29182990</td><td>PER: aloto de propila e ácido gático</td></tr>
-<tr><td>29189090</td><td>PER: 70% tiratricol e 60% resto do item</td></tr>
-<tr><td>29213090</td><td>PER: dicicloexilamina</td></tr>
-<tr><td>29214310</td><td>PER: oto-toluidina</td></tr>
-<tr><td>29225090</td><td>PER: cloridrato de fenilefrina</td></tr>
-<tr><td>29239000</td><td>PER: sal quaternária de amônio (QUAB)</td></tr>
-<tr><td>29242990</td><td>PER: 60% lidocaína base/cloridrato/ prilocaína base/cloridrato e 35% resto do item</td></tr>
-<tr><td>38159000</td><td>COL: 70% catalisadores para craqueamento de petróleo e 60% resto do item</td></tr>
-<tr><td>72052900</td><td>PER: 70% pó de ferro e 50% resto do item</td></tr>
-<tr><td>74071010</td><td>PER: 100% de cobre não ligado, de 6,5 mm de diâmetro e 81% resto do item</td></tr>
-</table>
+NALADI/SH
+
+OBSERVAÇÃO
+
+11029090
+
+PER: de "kiwicha" e " quinua"
+
+11062090
+
+PER: de "maca"
+
+11063090
+
+PER: farinha de "lúcuma"
+
+11071010
+
+COL. EQU. VEN: Por um [azo de 24 meses a cevada poderá ser não Originária
+
+11072010
+
+COL. EQU. VEN: Por um [azo de 24 meses a cevada poderá ser não originária
+
+12119099
+
+PER: 100% de unha de gato; maca, sangue de grau, "hercampuri", "pasuchaca", "chancapiedra" e 60% resto do item
+
+13019019
+
+PER: borracha de "tara"
+
+14041090
+
+PER: 100% "tara" em ' e 50% resto do item
+
+15119000
+
+PER: monteiga de palma
+
+19011090
+
+PER: a base de "kiwicha" e quinua"
+
+19019090
+
+PER: a base de "kiwicha" e " quinua
+
+20019090
+
+PER: 100% de alcachofra e 50% resto do item
+
+25031010
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo 1, Artigo Primeiro, letra e), da (Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.
+
+26020090
+
+COL PER: 1(X)% bióxido de manganês natural e 50% resto do item
+
+Capitulo 27
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matériaI de expedição direta.
+
+28020000
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capitulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição dição direta
+
+28332990
+
+PER: 100% sulfato de chumbo e 70% resto do item
+
+29155000
+
+COL: sais
+
+29171990
+
+COL: ácido fumárico
+
+29173990
+
+PER: ftalato dibásico de chumbo
+
+29182990
+
+PER: aloto de propila e ácido gático
+
+29189090
+
+PER: 70% tiratricol e 60% resto do item
+
+29213090
+
+PER: dicicloexilamina
+
+29214310
+
+PER: oto-toluidina
+
+29225090
+
+PER: cloridrato de fenilefrina
+
+29239000
+
+PER: sal quaternária de amônio (QUAB)
+
+29242990
+
+PER: 60% lidocaína base/cloridrato/ prilocaína base/cloridrato e 35% resto do item
+
+38159000
+
+COL: 70% catalisadores para craqueamento de petróleo e 60% resto do item
+
+72052900
+
+PER: 70% pó de ferro e 50% resto do item
+
+74071010
+
+PER: 100% de cobre não ligado, de 6,5 mm de diâmetro e 81% resto do item
 
 3\. Observação às Preferência Outorgadas Pela Comunicação Andina
 
-<table>
-<tr><td>NALADI/SH</td><td>OBSERVAÇÃO</td></tr>
-<tr><td>11071010</td><td>COL EQU VEN: Por um [azo de 24 meses a cevada poderá ser não originária</td></tr>
-<tr><td>11072010</td><td>COL EQU VEN: Por um prazo de 24 meses, a cevada poderá ser não originária²</td></tr>
-<tr><td>12119099</td><td>PER: 60% de unha de gato, maca, sangue de grau, "hercampuri", "pasuchaca", "chancapiedra" e 50% resto do item</td></tr>
-<tr><td>14041090</td><td>PER: "tara" em pó</td></tr>
-<tr><td>15119000</td><td>PER: manteiga de palma</td></tr>
-<tr><td>20019090</td><td>PER: 50% de alcachofra e 15% resto do item</td></tr>
-<tr><td>21069029</td><td>EQU: 40% preparações compostas para bebidas em recipientes que contenham. em peco, mais de 1 kg e menos de 5% e açúcar seco e 20% resto dó item</td></tr>
-<tr><td>25031010</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realiza por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se undamenta no Capítulo 1, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.</td></tr>
-<tr><td>26020090</td><td>COL: 80%, PER: 100% bióxido de manganês natural- COL PER: 40% resto do item</td></tr>
-<tr><td>Capitulo 27</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.</td></tr>
-<tr><td>28020000</td><td>VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso. a produção do bem deve ser realizada por empresas nacionais ou mistas das Pares Signatárias. O presente requisito específico de origem se fundamenta no Capítulo 1, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.</td></tr>
-<tr><td>29155000</td><td>COL: sais</td></tr>
-<tr><td>29171990</td><td>COL: 20% ácido fumárico e 60% resto do item</td></tr>
-<tr><td>29173990</td><td>PER: ftalato dibásico de chumbo</td></tr>
-<tr><td>29182990</td><td>PER: 90% 1) Pentaeritritol-tetrakis-3-(3,5-ditere-4-hidroxifenil) propionato; 2) Propionato-3-(3,5.ditertbutil-4-hidroxifenil de octadecila e 50% resto do item</td></tr>
-<tr><td>29189090</td><td>COL, VEM: Exceto esteres do ácido 2,4-diclorofenoxiacético (2,4-D). PER: 60% tiratricol e 50°k testo do item</td></tr>
-<tr><td>29209090</td><td>VEN: Tris 2 4-diterobutilfenf fosfito</td></tr>
-<tr><td>29213090</td><td>PER: dicicloexilamina</td></tr>
-<tr><td>29214310</td><td>PER: oito-toluidina</td></tr>
-<tr><td>29225090</td><td>PER: cloridrato de fenilefrina</td></tr>
-<tr><td>29239000</td><td>PER: sal quatemario de amônio (QUAB)</td></tr>
-<tr><td>29242990</td><td>PER: lidocaína</td></tr>
-<tr><td>29303090</td><td>PER: monossulfeto de tetrametiltiourama</td></tr>
-<tr><td>38159000</td><td>COL: 60% catalisadores ara cr ueantento de petróleo e 40% resto do item</td></tr>
-<tr><td>39129090</td><td>PER: 50% celulose microcristalina e 40% reto do item</td></tr>
-<tr><td>54024900</td><td>COL: 100% de poliuretano y 50% resto do item. PER: de poliuretano</td></tr>
-<tr><td>72052900</td><td>PER: 50% de ferro e 30% resto do irem</td></tr>
-<tr><td>84378000</td><td>VEN: 70% ara a moagem de cereais (NANDINA 84378011) e 50% resto do item</td></tr>
-</table>
+NALADI/SH
+
+OBSERVAÇÃO
+
+11071010
+
+COL EQU VEN: Por um [azo de 24 meses a cevada poderá ser não originária
+
+11072010
+
+COL EQU VEN: Por um prazo de 24 meses, a cevada poderá ser não originária²
+
+12119099
+
+PER: 60% de unha de gato, maca, sangue de grau, "hercampuri", "pasuchaca", "chancapiedra" e 50% resto do item
+
+14041090
+
+PER: "tara" em pó
+
+15119000
+
+PER: manteiga de palma
+
+20019090
+
+PER: 50% de alcachofra e 15% resto do item
+
+21069029
+
+EQU: 40% preparações compostas para bebidas em recipientes que contenham. em peco, mais de 1 kg e menos de 5% e açúcar seco e 20% resto dó item
+
+25031010
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realiza por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se undamenta no Capítulo 1, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.
+
+26020090
+
+COL: 80%, PER: 100% bióxido de manganês natural- COL PER: 40% resto do item
+
+Capitulo 27
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso, a produção do bem deve ser realizada por empresas nacionais ou mistas das Partes Signatárias. O presente requisito específico de origem se fundamenta no Capítulo I, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.
+
+28020000
+
+VEN: Serão considerados originários sempre que utilizadas matérias-primas das Partes Signatárias, mesmo quando o processo de refinação seja realizado fora de seus respectivos territórios. Neste último caso. a produção do bem deve ser realizada por empresas nacionais ou mistas das Pares Signatárias. O presente requisito específico de origem se fundamenta no Capítulo 1, Artigo Primeiro, letra e), da Resolução 78 da ALADI e constitui uma exceção às disposições da mencionada Resolução em matéria de expedição direta.
+
+29155000
+
+COL: sais
+
+29171990
+
+COL: 20% ácido fumárico e 60% resto do item
+
+29173990
+
+PER: ftalato dibásico de chumbo
+
+29182990
+
+PER: 90% 1) Pentaeritritol-tetrakis-3-(3,5-ditere-4-hidroxifenil) propionato; 2) Propionato-3-(3,5.ditertbutil-4-hidroxifenil de octadecila e 50% resto do item
+
+29189090
+
+COL, VEM: Exceto esteres do ácido 2,4-diclorofenoxiacético (2,4-D). PER: 60% tiratricol e 50°k testo do item
+
+29209090
+
+VEN: Tris 2 4-diterobutilfenf fosfito
+
+29213090
+
+PER: dicicloexilamina
+
+29214310
+
+PER: oito-toluidina
+
+29225090
+
+PER: cloridrato de fenilefrina
+
+29239000
+
+PER: sal quatemario de amônio (QUAB)
+
+29242990
+
+PER: lidocaína
+
+29303090
+
+PER: monossulfeto de tetrametiltiourama
+
+38159000
+
+COL: 60% catalisadores ara cr ueantento de petróleo e 40% resto do item
+
+39129090
+
+PER: 50% celulose microcristalina e 40% reto do item
+
+54024900
+
+COL: 100% de poliuretano y 50% resto do item. PER: de poliuretano
+
+72052900
+
+PER: 50% de ferro e 30% resto do irem
+
+84378000
+
+VEN: 70% ara a moagem de cereais (NANDINA 84378011) e 50% resto do item
 
 4\. Requisição Específico de Origem
 
-<table>
-<tr><td>NALADI/SH</td><td>País que deve cumprir o requisito de origem</td><td>Requisição Específico de Origem</td></tr>
-<tr><td>52053310</td><td>Peru e Brasil</td><td>Fiação nas partes signatárias</td></tr>
-<tr><td>52053390</td><td>Peru e Brasil</td><td>Fiação nas artes signatárias</td></tr>
-<tr><td>52053490</td><td>Peru e Brasil</td><td>Fiação nas artes signatárias</td></tr>
-<tr><td>52053590</td><td>Peru e Brasil</td><td>Fiação nas artes signatárias</td></tr>
-<tr><td>54075200</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>54075400</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas artes signatárias</td></tr>
-<tr><td>54076000</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55121900</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas artes signatárias</td></tr>
-<tr><td>55132100</td><td>Peru e Brasil</td><td>Tecidos ; partir de fios elaborados nas artes signatárias</td></tr>
-<tr><td>55132200</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55132900</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55133100</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55133900</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias;</td></tr>
-<tr><td>55134100</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55142200</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55144200</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>55151300</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58012100</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58012300</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58012400</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58012500</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58013500</td><td>Peru e Brasil</td><td>Tecidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>58019000</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>61012000</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>61022000</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>61079100</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>61121100</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>62034300</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-<tr><td>62046300</td><td>Peru e Brasil</td><td>Produzidos a partir de fios elaborados nas partes signatárias</td></tr>
-</table>
+NALADI/SH
+
+País que deve cumprir o requisito de origem
+
+Requisição Específico de Origem
+
+52053310
+
+Peru e Brasil
+
+Fiação nas partes signatárias
+
+52053390
+
+Peru e Brasil
+
+Fiação nas artes signatárias
+
+52053490
+
+Peru e Brasil
+
+Fiação nas artes signatárias
+
+52053590
+
+Peru e Brasil
+
+Fiação nas artes signatárias
+
+54075200
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+54075400
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas artes signatárias
+
+54076000
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55121900
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas artes signatárias
+
+55132100
+
+Peru e Brasil
+
+Tecidos ; partir de fios elaborados nas artes signatárias
+
+55132200
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55132900
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55133100
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55133900
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias;
+
+55134100
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55142200
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55144200
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+55151300
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58012100
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58012300
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58012400
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58012500
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58013500
+
+Peru e Brasil
+
+Tecidos a partir de fios elaborados nas partes signatárias
+
+58019000
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+61012000
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+61022000
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+61079100
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+61121100
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+62034300
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias
+
+62046300
+
+Peru e Brasil
+
+Produzidos a partir de fios elaborados nas partes signatárias

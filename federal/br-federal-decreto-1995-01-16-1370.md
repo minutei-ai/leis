@@ -1,7 +1,3 @@
-1
-
-###DEC-001370-0-000-16-01-1995@@@
-
 DECRETO N° 1.370, DE 16 DE JANEIRO DE 1995
 
 Dispõe sobre a execução de Ata de Retificação do Vigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 12 de setembro de 1994.

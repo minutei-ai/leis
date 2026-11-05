@@ -1,5 +1,3 @@
-###DEC-068263-0-000-18-02-1971@@@
-
 DECRETO Nº 68.263, DE 18 DE FEVEREIRO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Saúde e dá outras providências.

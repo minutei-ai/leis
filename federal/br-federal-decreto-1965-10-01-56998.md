@@ -1,5 +1,3 @@
-###DEC-056998-0-000-01-10-1965@@@
-
 DECRETO Nº 56.998, DE 1º DE OUTUbRO DE 1965.
 
 Revoga o Decreto nº 4.533, de 17 de agôsto de 1939.

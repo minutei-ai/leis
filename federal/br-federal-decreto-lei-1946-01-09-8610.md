@@ -1,5 +1,3 @@
-###DEL-008610-0-000-09-01-1946@@@
-
 DECRETO-LEI N. 8.610 – DE 9 DE JANEIRO DE 1946
 
 Dispõe sôbre a carreira de Motorista do Quadro Suplementar do Ministério da Educação e Saúde.

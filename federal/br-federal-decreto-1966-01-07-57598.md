@@ -1,5 +1,3 @@
-###DEC-057598-0-000-07-01-1966@@@
-
 Decreto nº 57.598, de 7 de janeiro de 1966.
 
 Fixa os preços mínimos básicos para o algodão, arroz, feijão, farinha de mandioca, milho e sisal, da região nordestina, da safra 1966-67.

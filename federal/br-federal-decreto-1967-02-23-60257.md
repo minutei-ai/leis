@@ -1,5 +1,3 @@
-###DEC-060257-0-000-23-02-1967@@@
-
 DECRETO Nº 60.257, DE 23 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública a “Sociedade dos Surdos-Mudos do Rio Grande do Sul”, com sede em Pôrto Alegre, no Estado do Rio Grande do Sul.

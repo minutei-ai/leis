@@ -1,30 +1,28 @@
-###DEC-029812-0-000-26-07-1951@@@
+**DECRETO Nº 29.812, DE 26 DE JULHO DE 1951.**
 
-<strong>DECRETO Nº 29.812, DE 26 DE JULHO DE 1951.</strong>
+***Aprova o Regulamento para o Gabinete do Ministro da Guerra.***
 
-<em><strong>Aprova o Regulamento para o Gabinete do Ministro da Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Newton Estillac Leal, Ministro de Estado da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Newton Estillac Leal, Ministro de Estado da Guerra.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de julho de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Newton Estillac Leal
 
-<strong>REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA</strong>
+**REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Gabinete do Ministro tem por finalidade:
+**Art**. 1º O Gabinete do Ministro tem por finalidade:
 
 \- Auxiliar o Ministro no estudo submetidos à sua decisão;
 
@@ -34,11 +32,11 @@ Newton Estillac Leal
 
 \- Tratar das questões relativas a Relações Públicas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O Gabinete se compõe de:
+**Art**. 2º O Gabinete se compõe de:
 
 A) - Chefia de Gabinete
 
@@ -46,7 +44,7 @@ B) - Divisões
 
 C) - Consultoria jurídica
 
-<strong>Art</strong>. 3º A Chefia do Gabinete compreende:
+**Art**. 3º A Chefia do Gabinete compreende:
 
 a) Chefe do Gabinete: Coronel do Q. E. M. A.
 
@@ -78,7 +76,7 @@ c) Serviços Auxiliares, compreendendo:
 
 Parágrafo único. - Funcionará anexa ao Gabinete, uma Sala de Imprensa, integrada pelos jornalistas acreditados junto ao mesmo.
 
-<strong>Art</strong>. 4º As Divisões, em número de seis, são:
+**Art**. 4º As Divisões, em número de seis, são:
 
 a) 1ª Divisão: Pessoal;
 
@@ -92,15 +90,15 @@ e) 5ª Divisão: Administração - Economia e Finanças;
 
 f) 6ª Divisão: Relações Públicas.
 
-<strong>Art</strong>. 5º A Consultoria, dependente diretamente do Ministro, será constituída por um consultor Jurídico e um Assistente.
+**Art**. 5º A Consultoria, dependente diretamente do Ministro, será constituída por um consultor Jurídico e um Assistente.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
 A) - Da Chefia do Gabinete
 
-<strong>Art</strong>. 6º Ao Chefe do Gabinete compete:
+**Art**. 6º Ao Chefe do Gabinete compete:
 
 a) Dirigir e coordenar os trabalhos do Gabinete, de modo a assegurar perfeita execução das ordens emanadas do Ministro;
 
@@ -122,7 +120,7 @@ i) Desempenhar, na forma prescrita pelo art. 22 do R. A. E., as funções de Age
 
 Parágrafo único. Do exercício do seu cargo, o chefe do Gabinete tem atribuições de Comandante de Corpo para com o pessoal do Gabinete.
 
-<strong>Art</strong>. 7º - Aos Serviços Administrativos, compete:
+**Art**. 7º - Aos Serviços Administrativos, compete:
 
 a) Seção Administrativa (Fiscalização Administrativa) - Almoxarifado e Tesouraria;
 
@@ -144,7 +142,7 @@ d) Contingente:
 
 \- Execução dos serviços que lhes são peculiares.
 
-<strong>Art</strong>. 8º Aos Serviços Auxiliares, compete:
+**Art**. 8º Aos Serviços Auxiliares, compete:
 
 a) Seção de Expediente:
 
@@ -164,7 +162,7 @@ a) Seção de Expediente:
 
 \- Manter em dia a coleção dos atos oficiais expedidos inclusive os decretos, completando-a com indices e outros elementos que facilitam a busca;
 
-\- Organizar o Expediente relativo aos atos oficiais que devem ser divulgados no ‘’<em>Diário oficia</em>l’’ ou Imprensa;
+\- Organizar o Expediente relativo aos atos oficiais que devem ser divulgados no ‘’*Diário oficia*l’’ ou Imprensa;
 
 \- Organizar, nos períodos fixados na legislação, o Beletim de Merecimento dos Funcionários do Gabinete.
 
@@ -200,9 +198,9 @@ b) Seção de Tranmissões (Estação Radiotelegráfica do Gabinete);
 
 c) Das Divisões
 
-<strong>Art</strong>. 9º As divisões são órgãos que auxiliam o Ministro no estado dos assuntos de sua atribuição funcional.
+**Art**. 9º As divisões são órgãos que auxiliam o Ministro no estado dos assuntos de sua atribuição funcional.
 
-<strong>Art</strong>. 10. Aos Chefes de Divisão compete:
+**Art**. 10. Aos Chefes de Divisão compete:
 
 a) Responder perante o Chefe do Gabinete pelo funcionamento dos serviços em suas Divisões;
 
@@ -216,11 +214,11 @@ e) Submeter à consideração do Chefe de Gabinete, de acôrdo com as normas est
 
 f) Conferir e autenticar todos os documentos expedidos pela Divisão;
 
-<strong>Art</strong>. 11. Aos adjuntos das Divisões incube:
+**Art**. 11. Aos adjuntos das Divisões incube:
 
 Executar os encargos que lhe sejam atribuídos pelos Chefes de Divisão.
 
-<strong>Art</strong>. 12. Às Divisões compete:
+**Art**. 12. Às Divisões compete:
 
 a) 1ª Divisão-Pessoal
 
@@ -326,13 +324,13 @@ Desportos.
 
 Proclamação e Ordens do Dia.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS PRESCRIÇÕES DIVERSAS</em>
+*DAS PRESCRIÇÕES DIVERSAS*
 
 A) Das Disposições Gerais
 
-<strong>Art</strong>. 13. Os Chefes de Divisões e respectivos adjuntos e o Chefe dos Serviços Auxiliares do Gabinete devem pertencer ao Q.E.M.A.
+**Art**. 13. Os Chefes de Divisões e respectivos adjuntos e o Chefe dos Serviços Auxiliares do Gabinete devem pertencer ao Q.E.M.A.
 
 Parágrafo único. Excetuam-se:
 
@@ -340,49 +338,49 @@ a) o Chefe da 4ª Divisão e respectivos adjuntos, que deverão pertencer ao Q.P
 
 b) o Chefe da 5ª Divisão e respectivos adjuntos, que deverão pertencer ao Q.I.R
 
-<strong>Art</strong>. 14. O Chefe dos Serviços Administrativos será do Q.S.G.
+**Art**. 14. O Chefe dos Serviços Administrativos será do Q.S.G.
 
-<strong>Art</strong>. 15. O Chefe de Gabinete dispõe de um adjunto como seu auxiliar, do Q.E.N.A ou Q.S.G.
+**Art**. 15. O Chefe de Gabinete dispõe de um adjunto como seu auxiliar, do Q.E.N.A ou Q.S.G.
 
-<strong>Art</strong>. 16. O Chefe dos Serviços Administrativos do Gabinete é também, o Chefe da Seção Administrativa.
+**Art**. 16. O Chefe dos Serviços Administrativos do Gabinete é também, o Chefe da Seção Administrativa.
 
-<strong>Art</strong>. 17. O Chefe dos Serviços Auxiliares de Gabinete é, também, o Chefe da Seção de Expediente.
+**Art**. 17. O Chefe dos Serviços Auxiliares de Gabinete é, também, o Chefe da Seção de Expediente.
 
-<strong>Art</strong>. 18. As funções de Chefe de Divisão do Gabinete e as de Chefe dos Serviços Auxiliares são desempenhados por Tenentes-Coronéis.
+**Art**. 18. As funções de Chefe de Divisão do Gabinete e as de Chefe dos Serviços Auxiliares são desempenhados por Tenentes-Coronéis.
 
-<strong>Art</strong>.19. A função de Chefe da Seção Administrativa (Fiscal Administrativo) é desempenhada por Tenente - Coronel ou Major
+**Art**.19. A função de Chefe da Seção Administrativa (Fiscal Administrativo) é desempenhada por Tenente - Coronel ou Major
 
-<strong>Art</strong>. 20. A Seção de Transmissões é chefiada por um oficial do Q. A. O., oriundo do Quadro de Radiotelegrafistas do Exército.
+**Art**. 20. A Seção de Transmissões é chefiada por um oficial do Q. A. O., oriundo do Quadro de Radiotelegrafistas do Exército.
 
 Parágrafo único. A Estação Radiotelegrafistas, privativas do Ministro e seu gabinete, é constituída por pessoal do Quadro de Radiotelegrafistas do Exército, fixado de acôrdo com as necessidades do serviço. Tecnicamente está subordinada à Diretoria de Transmissões.
 
-<strong>Art</strong>. 21. O Serviço de Transporte do Gabinete é chefiado por um oficial do Q. A. G., de preferência possuidor do curso de Motomecanização.
+**Art**. 21. O Serviço de Transporte do Gabinete é chefiado por um oficial do Q. A. G., de preferência possuidor do curso de Motomecanização.
 
-<strong>Art</strong>. 22. O Correio do Gabinete é chefiado por um oficial do Q. A. O.
+**Art**. 22. O Correio do Gabinete é chefiado por um oficial do Q. A. O.
 
-<strong>Art</strong>. 23. São ‘’Oficiais de Gabinete’’ todos os oficiais em serviço no Gabinete, assim como o oficial Administrativos que trata do pessoal civil.
+**Art**. 23. São ‘’Oficiais de Gabinete’’ todos os oficiais em serviço no Gabinete, assim como o oficial Administrativos que trata do pessoal civil.
 
-<strong>Art</strong>. 24. O Ministro fixará, anualmente, o efetivo do pessoal militar de seu gabinete de acôrdo com as necessidades do serviço.
+**Art**. 24. O Ministro fixará, anualmente, o efetivo do pessoal militar de seu gabinete de acôrdo com as necessidades do serviço.
 
 O número de funcionários civis será fixado na lotação numérica aprovada pelo Presidente da República.
 
 Os extranuméricos serão os constantes das respectivas tabelas.
 
-<strong>Art</strong>. 25. O pessoal militar e civil do Gabinete aí serve em caráter transitório, podendo o Ministro substituí-lo ou mantê-lo em parte ou totalmente.
+**Art**. 25. O pessoal militar e civil do Gabinete aí serve em caráter transitório, podendo o Ministro substituí-lo ou mantê-lo em parte ou totalmente.
 
-<strong>Art</strong>. 26 .O Consultor Jurídico faz parte do Gabinete conforme a legislação em vigor, em caráter permanente ou em comissão.
+**Art**. 26 .O Consultor Jurídico faz parte do Gabinete conforme a legislação em vigor, em caráter permanente ou em comissão.
 
-<strong>Art</strong>. 27. O Chefe de Gabinete, mediante normas fixadas pelo Ministro, organizará Instruções Particulares quando necessárias, para execução dêste Regulamento.
+**Art**. 27. O Chefe de Gabinete, mediante normas fixadas pelo Ministro, organizará Instruções Particulares quando necessárias, para execução dêste Regulamento.
 
-<strong>Art</strong>. 28. Aos servidores civis, em exercício no Gabinete e órgãos anexos, serão abonados gratificações de representação, fixadas pelo Ministro.
+**Art**. 28. Aos servidores civis, em exercício no Gabinete e órgãos anexos, serão abonados gratificações de representação, fixadas pelo Ministro.
 
-<strong>Art</strong>. 29. Os uniformes dos contínuos, serventes e motoristas são fornecidos, gratuitamente, pelo Exército.
+**Art**. 29. Os uniformes dos contínuos, serventes e motoristas são fornecidos, gratuitamente, pelo Exército.
 
-<strong>Art</strong>. 30. Os representantes da Imprensa, acreditados no Ministério da Guerra, entender-se ão diretamente com o Chefe do Gabinete e com o Chefe da 6ª Divisão.
+**Art**. 30. Os representantes da Imprensa, acreditados no Ministério da Guerra, entender-se ão diretamente com o Chefe do Gabinete e com o Chefe da 6ª Divisão.
 
 B) - Das substituições
 
-<strong>Art</strong>. 31. Por conveniência do serviço as substituições temporárias, no Gabinete, serão feitas:
+**Art**. 31. Por conveniência do serviço as substituições temporárias, no Gabinete, serão feitas:
 
 a) O chefe de Gabinete, pelo Chefe de Divisão, do Q. E. M. A, mais antigo.
 
@@ -392,6 +390,6 @@ c) O Chefe dos Serviços Administrativos e dos Serviços Auxiliares, por Oficiai
 
 Rio de Janeiro, 26 de julho de 1951.
 
-<strong>GENERAL NEWTON ESTILLAC LEAL</strong>
+**GENERAL NEWTON ESTILLAC LEAL**
 
 Ministro da Guerra

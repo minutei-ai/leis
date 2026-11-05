@@ -1,5 +1,3 @@
-###DEC-078316-0-000-26-08-1976@@@
-
 Decreto nº 78.316, de 26 de agosto de 1976.
 
 Concede reconhecimento aos cursos de Administração, da Faculdade de Administração e Ciências Contábeis Tibiriçá, com sede na cidade de São Paulo, Estado de São Paulo.

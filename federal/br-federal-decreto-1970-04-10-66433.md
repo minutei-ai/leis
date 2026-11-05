@@ -1,5 +1,3 @@
-###DEC-066433-0-000-10-04-1970@@@
-
 DECRETO Nº 66.433, DE 10 DE ABRIL DE 1970.
 
 Modifica a redação do artigo 95, do Regulamento do Código Nacional do Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

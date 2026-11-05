@@ -1,5 +1,3 @@
-###DEC-002184-0-000-24-03-1997@@@
-
 DECRETO Nº 2.184, DE 24 DE MARÇO DE 1997
 
 Regulamenta o art. 2º da Lei nº 9.277, de 10 de maio de 1996, que autoriza a União a delegar aos Municípios ou Estados da Federação a exploração dos portos federais.

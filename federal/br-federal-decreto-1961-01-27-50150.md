@@ -1,5 +1,3 @@
-###DEC-050150-0-000-27-01-1961@@@
-
 Decreto nº 50.150, de 27 de janeiro de 1961.
 
 Outorga concessão à Sociedades Rádio Cultura São Vicente Limitada para instalar uma estação radiodifusora.

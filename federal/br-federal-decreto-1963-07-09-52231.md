@@ -1,5 +1,3 @@
-###DEC-052231-0-000-09-07-1963@@@
-
 DECRETO Nº 52.231, DE 09 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Alberto Freire de Carvalho a pesquisar minério de manganês no município de Conceição do Mato Dentro , Estado de Minas Gerais.

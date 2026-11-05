@@ -1,5 +1,3 @@
-###DEC-073129-0-000-09-11-1973@@@
-
 DECRETO Nº 73.129 - DE 9 DE NOVEMBRO DE 1973
 
 Revoga o artigo 26, do Regulamento aprovado pelo Decreto nº 40.359, de 16 de novembro de 1956.

@@ -1,5 +1,3 @@
-###DEL-008046-0-000-06-10-1945@@@
-
 DECRETO-LEI N. 8.046 – DE 6 DE OUTUBRO DE 1945
 
 Ao Ministério da Agricultura o crédito especial de Cr$ 400.000,00 quatrocentos mil cruzeiros) destinado Instituto Agronômico, do Norte para aquisição e instalação de geradores elétricos.

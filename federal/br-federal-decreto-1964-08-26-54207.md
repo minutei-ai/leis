@@ -1,5 +1,3 @@
-###DEC-054207-0-000-26-08-1964@@@
-
 DECRETO Nº 54.207, DE 26 DE AGÔSTO DE 1964.
 
 Dá nova redação ao parágrafo 4º do artigo 224 do Regulamento para o Tráfego Marítimo, baixado pelo Decreto nº 5.798 de 11 de junho de 1940, alterado pelo de nº 50.114 de 26 de janeiro de 1961.

@@ -1,5 +1,3 @@
-###DEL-001397-0-000-19-03-1975@@@
-
 # DECreto-LEI Nº 1.397, DE 19 DE MARÇO DE 1975
 
 Autoriza o Tesouro Nacional a subscrever ações da Siderurgia Brasileira S.A. - SIDERBRÁS, e dá outras providências.

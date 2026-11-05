@@ -1,5 +1,3 @@
-###DEC-077694-0-000-27-05-1976@@@
-
 Decreto nº 77.694 - de 27 de maio de 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Trabalhista Ltda., cuja denominação foi, posteriormente, alterada para Rádio Tiradentes Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Belo Horizonte, Estado de Minas Gerais.

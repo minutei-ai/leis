@@ -1,5 +1,3 @@
-###DEC-007833-0-000-29-10-2010-PUB-01@@@
-
 DECRETO Nº 7.833, DE 29 DE OUTUBRO DE 2012
 
 Altera o Decreto nº 2.867, de 8 de dezembro de 1998, que dispõe sobre a repartição de recursos provenientes do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Vias Terrestres - DPVAT.

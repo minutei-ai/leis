@@ -1,5 +1,3 @@
-###DEC-066412-0-000-03-04-1970@@@
-
 DECRETO Nº 66.412, DE 3 DE ABRIL DE 1970.
 
 Decreta intervenção federal no Município de Jardim Alegre, Estado do Paraná, e dá outras providências.

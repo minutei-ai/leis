@@ -1,5 +1,3 @@
-###DEC-052725-0-000-22-10-1963@@@
-
 DECRETO Nº 52.725, DE 22 DE OUTUBRO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica, Rio Grande do Sul, a construir linhas de transmissão e subestações do sistema de Candiota.

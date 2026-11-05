@@ -1,7 +1,3 @@
-1
-
-###DEL-000545-0-000-18-04-1969@@@
-
 DECRETO-LEI Nº 545,DE 18 DE ABRIL DE 1969
 
 Dá nova redação ao § 3º do art. 19, do Decreto-lei nº 401, de 30.12.68.

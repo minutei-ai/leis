@@ -1,5 +1,3 @@
-###DEC-089054-0-000-24-11-1983@@@
-
 Decreto nº 89.054, de 24 de novembro de 1983
 
 Autoriza o funcionamento de curso superior, em Palmas, Estado do Paraná.

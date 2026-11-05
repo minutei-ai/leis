@@ -1,5 +1,3 @@
-###DEC-083269-0-000-12-03-1979@@@
-
 Decreto nº 83 269, de 12 de março de 1979
 
 Altera os artigos 136 a 144 do Decreto nº 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica.

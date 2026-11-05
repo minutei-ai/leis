@@ -1,7 +1,3 @@
-1
-
-###DEC-098145-0-000-15-09-1989@@@
-
 DECRETO Nº 98.145, DE 15 DE SETEMBRO DE 1989
 
 Aprova o Plano de Levantamento da Plataforma Continental Brasileira, e dá outras providencias.

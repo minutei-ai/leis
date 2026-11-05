@@ -1,5 +1,3 @@
-###DEC-051915-A-000-26-04-1963@@@
-
 DECRETO Nº 51.915-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica - COPEL - a permutar lotes urbanos com a Prefeitura Municipal de Campo Mourão.

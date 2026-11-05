@@ -16,48 +16,263 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL &nbsp;PARA PMGO</td><td style=" width:85px;    ">06 181 1051 2355</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 61.727,00</td><td style=" width:85px;    ">R$ 61.727,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2902 - POLÍCIA MILITAR</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL &nbsp;PARA PMGO</td><td>06 181 1051 2355</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 61.727,00</td><td>R$ 61.727,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 208.180,00</td><td style=" width:85px;    ">R$ 208.180,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>06 122 4200 4243</td><td>17530161</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 0,00</td><td>R$ 208.180,00</td><td>R$ 208.180,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE AMPLIAÇÃO DA EFICIÊNCIA E DA QUALIDADE DAS FINANÇAS, DO PLANEJ. E DO GASTO PÚBLICO</td><td style=" width:85px;    ">04 121 1048 2591</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">20</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.430.185,71</td><td style=" width:85px;    ">R$ 700.000,00</td><td style=" width:85px;    ">R$ 5.130.185,71</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE SISTEMÁTICA DE MODERNIZAÇÃO E INOVAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA</td><td style=" width:85px;    ">04 122 1048 2595</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 15.229.247,93</td><td style=" width:85px;    ">R$ 1.500.000,00</td><td style=" width:85px;    ">R$ 16.729.247,93</td></tr><tr><td style=" width:85px;    ">SOLUÇÕES DE TI</td><td style=" width:85px;    ">04 122 1048 2588</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 14.958.131,99</td><td style=" width:85px;    ">R$ 400.000,00</td><td style=" width:85px;    ">R$ 15.358.131,99</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO DA INICIATIVA DE AMPLIAÇÃO DA EFICIÊNCIA E DA QUALIDADE DAS FINANÇAS, DO PLANEJ. E DO GASTO PÚBLICO</td><td>04 121 1048 2591</td><td>15000100</td><td>20</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 4.430.185,71</td><td>R$ 700.000,00</td><td>R$ 5.130.185,71</td></tr><tr><td>IMPLANTAÇÃO DE SISTEMÁTICA DE MODERNIZAÇÃO E INOVAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA</td><td>04 122 1048 2595</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 15.229.247,93</td><td>R$ 1.500.000,00</td><td>R$ 16.729.247,93</td></tr><tr><td>SOLUÇÕES DE TI</td><td>04 122 1048 2588</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 14.958.131,99</td><td>R$ 400.000,00</td><td>R$ 15.358.131,99</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS</td><td style=" width:85px;    ">19 126 1049 2487</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 58.036.508,84</td><td style=" width:85px;    ">R$ 6.000.000,00</td><td style=" width:85px;    ">R$ 64.036.508,84</td></tr><tr><td style=" width:85px;    ">PLANO ESTADUAL E OBSERVATÓRIO DE CIDADES INTELIGENTES</td><td style=" width:85px;    ">15 451 1003 3368</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.825.504,00</td><td style=" width:85px;    ">R$ 467.000,00</td><td style=" width:85px;    ">R$ 2.292.504,00</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA</td><td style=" width:85px;    ">15 751 1029 3280</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 750.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**4000 - SECRETARIA-GERAL DE GOVERNO** 4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>MANUTENÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS</td><td>19 126 1049 2487</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 58.036.508,84</td><td>R$ 6.000.000,00</td><td>R$ 64.036.508,84</td></tr><tr><td>PLANO ESTADUAL E OBSERVATÓRIO DE CIDADES INTELIGENTES</td><td>15 451 1003 3368</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 1.825.504,00</td><td>R$ 467.000,00</td><td>R$ 2.292.504,00</td></tr><tr><td>IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA</td><td>15 751 1029 3280</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 500.000,00</td><td>R$ 250.000,00</td><td>R$ 750.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DO TURISMO ATRAVÉS DA TRANSFERÊNCIA ESPECIAL PARA MUNICÍPIOS GOIANOS</td><td style=" width:85px;    ">23 695 1028 2469</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">40</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PROMOÇÃO DO TURISMO ATRAVÉS DA TRANSFERÊNCIA ESPECIAL PARA MUNICÍPIOS GOIANOS</td><td>23 695 1028 2469</td><td>15000100</td><td>40</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 1.000.000,00</td><td>R$ 1.000.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.378.727,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 208.180,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 10.586.907,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.378.727,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 208.180,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 10.586.907,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MUNIÇÃO PELA PM</td><td style=" width:85px;    ">06 181 1051 2358</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.341.129,00</td><td style=" width:85px;    ">R$ 61.727,00</td><td style=" width:85px;    ">R$ 61.727,00</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
 
-<table align="center" class="Table"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.512.000,00</td><td style=" width:85px;    ">R$ 208.180,00</td><td style=" width:85px;    ">R$ 208.180,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 136.590.634,71</td><td style=" width:85px;    ">R$ 2.600.000,00</td><td style=" width:85px;    ">R$ 2.600.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS</td><td style=" width:85px;    ">19 126 1049 3283</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 40.065.830,68</td><td style=" width:85px;    ">R$ 6.000.000,00</td><td style=" width:85px;    ">R$ 6.000.000,00</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS</td><td style=" width:85px;    ">15 451 1049 3345</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.594.152,16</td><td style=" width:85px;    ">R$ 467.000,00</td><td style=" width:85px;    ">R$ 467.000,00</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA</td><td style=" width:85px;    ">15 751 1029 3280</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PARTICIPAÇÃO EM FEIRAS, EVENTOS E AÇÕES TURÍSTICAS</td><td style=" width:85px;    ">23 695 1028 2430</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 12.815.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+AQUISIÇÃO DE MUNIÇÃO PELA PM
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.378.727,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 208.180,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 10.586.907,00</td></tr></tbody></table>
+06 181 1051 2358
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.378.727,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 208.180,00</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 10.586.907,00</td></tr></tbody></table>
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.341.129,00
+
+R$ 61.727,00
+
+R$ 61.727,00
+
+**2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.512.000,00
+
+R$ 208.180,00
+
+R$ 208.180,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 136.590.634,71
+
+R$ 2.600.000,00
+
+R$ 2.600.000,00
+
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GAB. DA SECRETARIA GERAL DE GOVERNO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS
+
+19 126 1049 3283
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 40.065.830,68
+
+R$ 6.000.000,00
+
+R$ 6.000.000,00
+
+IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS
+
+15 451 1049 3345
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.594.152,16
+
+R$ 467.000,00
+
+R$ 467.000,00
+
+IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA
+
+15 751 1029 3280
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 500.000,00
+
+R$ 250.000,00
+
+R$ 250.000,00
+
+**4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PARTICIPAÇÃO EM FEIRAS, EVENTOS E AÇÕES TURÍSTICAS
+
+23 695 1028 2430
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 12.815.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.378.727,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 208.180,00
+
+**TOTAL**
+
+R$ 10.586.907,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.378.727,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 208.180,00
+
+**TOTAL**
+
+R$ 10.586.907,00

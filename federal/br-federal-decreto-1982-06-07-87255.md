@@ -1,5 +1,3 @@
-###DEC-087255-0-000-07-06-1982@@@
-
 Decreto nº 87.255, de 07 de junho de 1982
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado nos Municípios de Turmalina e Populina, no Estado de São Paulo, constituído de parte da "Fazenda Santa Rita" e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 87.254, de 07 de junho de 1982.

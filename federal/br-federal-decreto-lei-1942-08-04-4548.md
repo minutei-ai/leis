@@ -1,5 +1,3 @@
-###DEL-004548-0-000-04-08-1942@@@
-
 DECRETO-LEI N. 4.548 – DE 4 DE AGOSTO DE 1942
 
 Regula a situação do pessoal convocado para a prestação de serviço militar e dá outras providências

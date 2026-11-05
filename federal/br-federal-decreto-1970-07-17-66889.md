@@ -1,5 +1,3 @@
-###DEC-066889-0-000-17-07-1970@@@
-
 DECRETO Nº 66.889, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 27.393, de 3 de novembro de 1949.

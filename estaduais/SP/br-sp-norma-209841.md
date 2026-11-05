@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209841)<br>
-
 # DECRETO N° 68.771, DE 14 DE AGOSTO DE 2024
 
 ### _Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 6 de outubro de 2024, em primeiro turno, e 27 de outubro de 2024, em segundo turno, se houver._

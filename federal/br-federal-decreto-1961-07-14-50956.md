@@ -1,5 +1,3 @@
-###DEC-050956-0-000-14-07-1961@@@
-
 DECRETO Nº 50.956, de 14 DE Julho DE 1961.
 
 Torna sem efeito o Decreto nº 50.051, de 24 de janeiro de 1961, que transferiu cargos, da Parte Suplementar para a Parte Permanente, no Quadro de Pessoal ao Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

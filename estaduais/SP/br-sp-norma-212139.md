@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212139)<br>
-
 # DECRETO N° 70.313, DE 29 DE DEZEMBRO DE 2025
 
 ### _Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975._

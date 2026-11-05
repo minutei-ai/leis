@@ -1,5 +1,3 @@
-###DEC-046550-0-000-07-08-1959@@@
-
 DECRETO Nº 46.550, DE 7 DE AGôSTO DE 1959.
 
 Concede a Sociedade navegação e Representações Sulnorte Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

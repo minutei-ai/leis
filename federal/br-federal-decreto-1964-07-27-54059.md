@@ -1,5 +1,3 @@
-###DEC-054059-0-000-27-07-1964@@@
-
 DECRETO Nº 54.059, DE 27 DE JULHO DE 1964.
 
 Dispõe sôbre o regime de trabalho dos ocupantes de cargos em comissão e de funções gratificadas, previsto no § 1º do artigo 1º da Lei nº 4.345, de 26 de junho de 1964.-

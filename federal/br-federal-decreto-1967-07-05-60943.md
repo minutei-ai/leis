@@ -1,5 +1,3 @@
-###DEC-060943-0-000-05-07-1967@@@
-
 Decreto nº 60.943, de 5 de julho de 1967.
 
 Dispõe sôbre a concessão de estímulos às indústrias do papel e das artes gráficas e dá outras providências.

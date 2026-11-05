@@ -1,7 +1,3 @@
-1
-
-###DEC-099425-0-000-30-07-1990@@@
-
 DECRETO Nº 99.425, DE 30 DE JULHO DE 1990
 
 Regulamenta a Lei nº 7.963, de 21 de dezembro de 1989, que concede compensação pecuniária, a titulo de beneficio, ao militar temporário das Forcas Armadas, por ocasião de seu licenciamento.

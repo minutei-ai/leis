@@ -1,5 +1,3 @@
-###DEC-096945-0-000-13-10-1988@@@
-
 DECRETO Nº 96.945, DE 13 DE OUTUBRO DE 1988
 
 Delega competência ao Procurador-Geral da República para os atos que menciona.

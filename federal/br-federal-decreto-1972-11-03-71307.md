@@ -1,5 +1,3 @@
-###DEC-071307-0-000-03-11-1972@@@
-
 DECRETO Nº 71.307, DE 3 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.

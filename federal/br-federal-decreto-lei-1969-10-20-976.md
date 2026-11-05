@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6621e7f5-d339-4e41-872e-7e531ae65d93/texto#nowhere)
 
-###DEL-000976-0-000-20-10-1969@@@
-
 DECRETO-LEI Nº 976, DE 20 DE OUTUBRO DE 1969
 
 Dá nova redação ao § 1º do artigo 1º do Decreto-lei nº 359, de 17 de dezembro de 1968.

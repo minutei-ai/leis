@@ -1,5 +1,3 @@
-###DEC-054406-0-000-10-10-1964@@@
-
 DECRETO Nº 54.406, DE 10 DE OUTUBRO DE 1964.
 
 Retifica o art. 1º do Decreto número 48.317, de 20 de junho de 1960.

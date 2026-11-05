@@ -1,5 +1,3 @@
-###DEC-066124-0-000-27-01-1970@@@
-
 DECRETO Nº 66.124, DE 27 DE JANEIRO DE 1970.
 
 Regulamenta a aplicação do Fundo Especial de Conservação e Segurança do Tráfego, de que trata o Decreto-lei nº 512, de 21 de março de 1969.

@@ -1,5 +1,3 @@
-###DEC-004068-0-000-27-12-2001@@@
-
 DECRETO Nº 4.068, DE 27 DE DEZEMBRO DE 2001.
 
 Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais, para 2002, e dá outras providências.

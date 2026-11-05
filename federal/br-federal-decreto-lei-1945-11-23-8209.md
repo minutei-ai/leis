@@ -1,5 +1,3 @@
-###DEL-008209-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.209 – DE 23 DE NOVEMBRO DE 1945
 
 Estendo aos servidores que menciona, da Prefeitura do distrito Federal, as vantagens do Decreto nº 17905, de 27 de fevereiro de 1945.

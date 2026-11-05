@@ -1,5 +1,3 @@
-###DEC-054805-0-000-03-11-1964@@@
-
 DECRETO Nº 54.805, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Niels Erik Hedeager a pesquisar água mineral, no município de Mairiporã, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-004104-0-000-28-01-2002@@@
-
 DECRETO Nº 4.104, DE 28 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução do Trigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 11 de dezembro de 2001.

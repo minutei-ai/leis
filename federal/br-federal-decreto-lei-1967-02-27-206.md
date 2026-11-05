@@ -1,5 +1,3 @@
-###DEL-000206-0-000-27-02-1967@@@
-
 dECRETO-LEI Nº 206, DE 27 DE fevereiro DE 1967
 
 Dispõe sôbre a Escola de Enfermagem Alfredo Pinto e dá outras providências.

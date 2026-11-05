@@ -1,5 +1,3 @@
-###DEC-084248-0-000-28-11-1979@@@
-
 Decreto nº 84.248, de 28 de novembro de 1979
 
 Regulamenta a inclusão dos cargos e empregos integrantes da categoria funcional de Tradutor do Grupo de Outras Atividades de Nível Médio na categoria funcional de Tradutor e Intérprete do Grupo Outras Atividades de Nível Superior.

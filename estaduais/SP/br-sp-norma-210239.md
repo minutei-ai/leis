@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210239)<br>
-
 # DECRETO N° 69.049, DE 14 DE NOVEMBRO DE 2024
 
 ### _Autoriza a abertura de licitação para a concessão patrocinada da prestação do serviço público de transporte de passageiros sobre trilhos das Linhas 11-Coral, 12-Safira e 13-Jade da Rede de Trens Metropolitanos do Estado de São Paulo, incluindo a prestação do serviço "Expresso Aeroporto", conforme o projeto denominado "Lote Alto Tietê", aprova o respectivo regulamento e dá providências correlatas._
@@ -76,19 +74,22 @@ Marco Antonio Assalve
 
 Rafael Antonio Cren Benini
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o Decreto n° 69.049, de 14 de novembro de 2024
 
 #### REGULAMENTO DA CONCESSÃO DO SERVIÇO PÚBLICO DE TRANSPORTE DE PASSAGEIROS SOBRE TRILHOS DAS LINHAS 11-CORAL, 12-SAFIRA E 13-JADE DA REDE DE TRENS METROPOLITANOS DO ESTADO DE SÃO PAULO, INCLUINDO O SERVIÇO "EXPRESSO AEROPORTO"
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar, complementarmente ao contrato e aos seus anexos, a prestação do serviço público de transporte de passageiros sobre trilhos das Linhas 11-Coral, 12-Safira e 13-Jade da Rede de Trens Metropolitanos do Estado de São Paulo.
 
 **Parágrafo único -** Dentre os serviços objeto da concessão patrocinada está contemplado, inclusive, o serviço "Expresso Aeroporto", que se utiliza da infraestrutura das linhas concedidas e está integrado ao sistema metroferroviário, ligando as Estações Palmeiras-Barra Funda e Aeroporto-Guarulhos.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da concessão compreende:
@@ -111,7 +112,8 @@ VIII - a elaboração dos projetos necessários, obtenção de autorizações, l
 
 **Artigo 3° -** O prazo da concessão será de 25 (vinte e cinco) anos, contados a partir da data de eficácia, a ocorrer conforme os eventos definidos em contrato.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Obrigações da Concessionária
 
 **Artigo 4° -** São deveres da Concessionária, durante o prazo da concessão, dentre outros previstos no contrato e na legislação pertinente:
@@ -132,7 +134,8 @@ VII - manter regularmente escriturados os seus livros e registros contábeis e o
 
 VIII - cooperar e apoiar no desenvolvimento das atividades de acompanhamento e de fiscalização do Poder Concedente e da ARTESP, nos termos do contrato.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e Obrigações do Poder Concedente
 
 **Artigo 5° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações contratualmente previstos, observadas as atribuições conferidas à ARTESP, nos termos do contrato e da legislação aplicável:
@@ -157,7 +160,8 @@ IX - assegurar o cumprimento das obrigações contratuais, preservando os seus d
 
 X - aplicar as penalidades legais e contratuais.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e das Obrigações dos Passageiros
 
 **Artigo 6° -** Os passageiros têm direito à adequada prestação dos serviços, devendo a Concessionária e seus agentes observar as seguintes diretrizes:
@@ -234,7 +238,8 @@ V - pagar tarifa.
 
 **Artigo 10 -** Sem prejuízo de outras formas previstas na legislação, a participação dos passageiros no acompanhamento da prestação e na avaliação dos serviços será feita por meio de Conselhos de Usuários, nos moldes do artigo 18 da Lei federal n° 13.460, de 26 de junho de 2017, e do contrato.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Da Fiscalização dos Serviços e do Atendimento ao Regulamento
 
 **Artigo 11 -** A prestação dos serviços e o atendimento ao disposto no presente regulamento estarão sujeitos à fiscalização, ao controle e à regulação da ARTESP, nos termos do contrato, observado o disposto no artigo 5° das Disposições Transitórias da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
@@ -245,7 +250,8 @@ Da Fiscalização dos Serviços e do Atendimento ao Regulamento
 
 **§ 2° -** Representante do Poder Legislativo será convidado a participar da comissão de que trata o "caput" deste artigo.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Remuneração
 
 **Artigo 13 -** Constituem remuneração da Concessionária, nos termos do contrato e anexos:
@@ -256,15 +262,18 @@ II - aporte, devido em função de investimentos efetivamente realizados, na for
 
 III - outras fontes provenientes de receitas alternativas, complementares, acessórias, ou de projetos associados, inclusive a exploração do licenciamento do direito de atribuição de nomes comerciais agregados aos nomes das estações.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Da Prestação do Serviço Concedido
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 14 -** O serviço público de transporte de passageiros será prestado em conformidade com as políticas do Poder Concedente relativas ao transporte coletivo metroferroviário.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Serviço de Transporte
 
 **Artigo 15 -** O serviço público de transporte de passageiros será prestado, conforme estabelecido neste regulamento, aos passageiros portadores de títulos de viagem válidos e que tenham passado pelos bloqueios, observadas as disposições do contrato e deste regulamento.
@@ -279,7 +288,8 @@ Do Serviço de Transporte
 
 **Artigo 20 -** A Concessionária deverá estabelecer horários especiais de funcionamento para atender, nos Municípios abrangidos pelas linhas concedidas, a eventos geradores de alta demanda, sejam eles programados ou eventuais, assim como quando do estabelecimento de programação operacional de horários especiais da rede metroferroviária, decorrentes de situações similares determinadas pelo Poder Concedente.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Utilização do Serviço de Transporte
 
 **Artigo 21 -** A Concessionária deverá manter canais de relacionamento com os passageiros, bem como manter em local visível os respectivos modos de acesso, inclusive os disponibilizados pelo Poder Concedente e pela ARTESP.
@@ -290,7 +300,8 @@ Da Utilização do Serviço de Transporte
 
 **Artigo 24 -** As crianças e os adolescentes menores de 16 (dezesseis) anos poderão se utilizar dos serviços somente quando acompanhadas de pessoa responsável por sua segurança, entre as designadas pela legislação de regência, ou mediante autorização judicial expressa.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Passageiro
 
 **Artigo 25 -** A entrada ou permanência, nas dependências da prestação dos serviços, será interditada a pessoas que possam causar perigo, incômodo ou prejuízos à continuidade dos serviços, tais como:
@@ -347,10 +358,12 @@ XXI - transportar animais em desacordo com o previsto na [Lei n° 16.930, de 24 
 
 XXII - pedir esmolas.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Dos Títulos de Viagem
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Ingresso na Área Paga das Estações
 
 **Artigo 27 -** Em todas as estações haverá, pelo menos, um ponto de venda de títulos de viagem, aberto durante todo o período de funcionamento dos serviços, onde estarão afixadas informações relativas às tarifas praticadas.
@@ -363,20 +376,24 @@ Do Ingresso na Área Paga das Estações
 
 **Artigo 31 -** Ocorrendo a apreensão de título de viagem falso, a Concessionária tomará, em face do portador, as medidas legais cabíveis.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Gratuidades
 
 **Artigo 32 -** A Concessionária garantirá acesso ao serviço público de transporte de passageiros àquele que tenha direito a transporte gratuito, nos termos da legislação e normas vigentes.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Liberação de Bloqueios
 
 **Artigo 33 -** Quando ocorrerem motivos que comprometam a segurança pública, a Concessionária liberará os bloqueios para entrada de passageiros e providenciará os devidos registros da ocorrência.
 
-#### CAPÍTULO X<br>
+#### CAPÍTULO X
+
 Segurança do Transporte
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Segurança Pública
 
 **Artigo 34 -** A Concessionária organizará e manterá Corpo de Segurança Operacional próprio, com a missão de cumprir as disposições operacionais contidas nas normas referentes ao sistema metroferroviário e nos anexos ao contrato, que atuará em todas as estações, subestações, vias, pátios e trens utilizados para a prestação dos serviços, adotando medidas de natureza técnica, administrativa, de segurança e educativa, destinadas a:
@@ -393,7 +410,8 @@ V - conservar e manter as condições de higiene; e
 
 VI - assegurar o cumprimento da ordem em suas dependências.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Corpo de Segurança e suas Atribuições
 
 **Artigo 35 -** Para o exercício de suas funções, o Corpo de Segurança Operacional deverá receber curso básico de habilitação e treinamentos específicos de atualização operacional.
@@ -402,7 +420,8 @@ Do Corpo de Segurança e suas Atribuições
 
 **Artigo 37 -** Os equipamentos utilizados pelo Corpo de Segurança Operacional, cuja finalidade básica é garantir a segurança dos passageiros e dos empregados na prestação dos serviços, deverão ser aprovados pelo Poder Concedente, diretamente ou através de prepostos especialmente designados.
 
-#### CAPÍTULO XI<br>
+#### CAPÍTULO XI
+
 Das Disposições Finais
 
 **Artigo 38 -** A Concessionária somente poderá operar em desconformidade com este regulamento em emergências resultantes de força maior ou caso fortuito, nos termos definidos no contrato, devidamente identificados e justificados, sem prejuízo da adoção das medidas de mitigação aos eventos extraordinários.

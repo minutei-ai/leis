@@ -1,5 +1,3 @@
-###DEC-072800-0-000-14-09-1973@@@
-
 DECRETO Nº 72.800, DE 14 DE SETEMBRO DE 1973.
 
 Dispõe sobre a destinação de recursos dos fundos especiais federais de apoio à infra-estrutura urbana nas diferentes regiões e a realização de financiamentos ou prestação de garantia pelas instituições financeiras federais, com o mesmo objetivo.

@@ -1,5 +1,3 @@
-###DEC-075254-0-000-21-01-1975@@@
-
 DECRETO Nº 75.254, DE 21 DE JANEIRO DE 1975.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Sociedade Triângulo Mineiro Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Uberaba, Estado de Minas Gerais.

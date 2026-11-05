@@ -1,5 +1,3 @@
-###DEL-002686-0-000-23-10-1940@@@ 
-
 DECRETO-LEI N. 2.686 – DE 23 DE OUTUBRO DE 1940
 
 Altera, sem aumento de despesa, o Orçamento Geral da União, em vigor, na parte referente ao Ministério da Fazenda

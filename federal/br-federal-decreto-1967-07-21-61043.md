@@ -1,5 +1,3 @@
-###DEC-061043-0-000-21-07-1967@@@
-
 decreto nº 61.043, de 21 de julho de 1967.
 
 Declara de utilidade pública a “Escola Agrícola Dom Bosco”, com sede em Silvânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-007005-0-000-31-10-1944@@@
-
 DECRETO-LEI N. 7.005  – DE 31 DE OUTUBRO DE 1944
 
 Dispõe sôbre a escala-padrão de salários dos extranumerários-mensalistas da União

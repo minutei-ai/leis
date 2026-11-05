@@ -1,5 +1,3 @@
-###DEC-094966-0-000-25-09-1987@@@
-
 DECRETO Nº 94.966, DE 25 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "RIACHO DAS LAGES", classificado no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situado no Município de Aracoiaba, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

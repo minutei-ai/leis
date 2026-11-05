@@ -1,5 +1,3 @@
-###DEC-056285-0-000-14-05-1965@@@
-
 Decreto nº 56.285, de 14 de maio de 1965.
 
 Altera o Decreto nº 52.693, de 15 de outubro de 1963.

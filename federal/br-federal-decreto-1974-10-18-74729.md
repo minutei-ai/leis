@@ -1,5 +1,3 @@
-###DEC-074729-0-000-18-10-1974@@@
-
 DECRETO Nº 74.729, DE 18 DE OUTUBRO DE 1974.
 
 Altera os Decretos nºs 72.561, de 31 de julho de 1973, e 72.578, de 7 de agosto de 1973, que confiscam bens da Companhia Paulista de Celulose "Copase" e da Fábrica de Papel Carioca S. A., e dá outras providências.

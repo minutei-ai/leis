@@ -1,5 +1,3 @@
-###DEC-057832-0-000-17-02-1966@@@
-
 DECRETO Nº 57.832, DE 17 DE FEVEREIRO DE 1966.
 
 Retifica o Parágrafo único do art. 47, do Decreto nº 57.426, de 14 de dezembro de 1965.

@@ -1,5 +1,3 @@
-###DEC-049824-0-000-05-01-1961@@@
-
 DECRETO Nº 49.824, DE 5 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 43.964, de 4 de julho de 1958.

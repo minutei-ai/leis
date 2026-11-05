@@ -1,7 +1,3 @@
-1
-
-###DEC-095666-0-000-26-01-1988@@@
-
 DECRETO N° 95.666, DE 26 DE JANEIRO DE 1988
 
 Outorga CONCESSÃO À RÁDIO DIFUSORA DE BAMBUÍ OM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bambui, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-084394-0-000-16-01-1980@@@
-
 DECRETO Nº 84.394, DE 16 DE JANEIRO DE 1980
 
 Dispõe sobre a transformação das Representações das Delegacias Regionais do Ministério da Educação e Cultura e dá outras providências.

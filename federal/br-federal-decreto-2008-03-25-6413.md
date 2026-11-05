@@ -1,5 +1,3 @@
-###DEC-006413-0-000-25-03-2008@@@
-
 DECRETO Nº 6.413, DE 25 DE MARÇO DE 2008.
 
 Dispõe sobre a exclusão, do Programa Nacional de Desestatização - PND, de empresas controladas pela União, responsáveis pela administração de portos marítimos e fluviais, e dá outras providências.
@@ -39,5 +37,3 @@ LUIZ INÁCIO LULA DA SILVA
 Ivan João Guimarães Ramalho
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 26.3.2008

@@ -1,5 +1,3 @@
-###DEL-001583-0-000-18-11-1977@@@
-
 # DECRETO-LEI Nº 1.583, de 18 de novembro de 1977
 
 Dispõe sobre a incidência do Imposto Único Sobre Lubrificantes e Combustíveis Líquidos e Gasosos no álcool etílico para fins carburantes.

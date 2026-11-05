@@ -1,5 +1,3 @@
-###DEC-046130-0-000-02-06-1959@@@
-
 DECRETO Nº 46.130, DE 2 DEJUNHO DE 1959.
 
 Aprova o Regulamento sôbre o alojamento das tripulações da Marinha Mercante.

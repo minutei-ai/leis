@@ -1,5 +1,3 @@
-###DEC-064585-0-000-27-05-1969@@@
-
 decreto nº 64.585, de 27 de maio de 1969.
 
 Declara de utilidade pública o Instituto Santa Úrsula, com sede no Estado da Guanabara.

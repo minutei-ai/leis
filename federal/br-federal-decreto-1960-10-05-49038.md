@@ -1,5 +1,3 @@
-###DEC-049038-0-000-05-10-1960@@@
-
 DECRETO Nº 49.038, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Celso Santos a pesquisar galena no município de Altamira, Estado do Paraná.

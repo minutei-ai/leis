@@ -1,5 +1,3 @@
-###DEC-071349-0-000-09-11-1972@@@
-
 DECRETO Nº 71.349 - DE 9 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.

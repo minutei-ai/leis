@@ -1,5 +1,3 @@
-###DEC-056016-0-000-23-04-1965@@@
-
 DECRETO Nº 56.016, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Jacob Algayer a lavrar água mineral, no município de Cornélio Procópio - Estado do Paraná.

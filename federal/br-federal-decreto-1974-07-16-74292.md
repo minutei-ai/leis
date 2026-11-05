@@ -1,5 +1,3 @@
-###DEC-074292-0-000-16-07-1974@@@
-
 DECRETO Nº 74.292 - DE 16 DE JULHO DE 1974
 
 Autoriza o funcionamento do Curso de Letras da Faculdade de Ciências, Letras e Educação de Presidente Prudente, mantida pela Associação Prudentina de Educação e Cultura, com sede na cidade de Presidente Prudente, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098013-0-000-02-08-1989@@@
-
 DECRETO Nº 98.013, DE 2 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado RAPOSA/VÁRZEA DA CRUZ, classificado como latifúndio por exploração, situado no Município de Santa Quitéria, no Estado do Ceará, compreendido na zona prioritária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088754-0-000-26-09-1983@@@
-
 Decreto nº 88.754, de 26 de setembro de 1983
 
 Outorga concessão à REDE AMAZONENSE DE COMUNICAÇÃO LIMITADA, para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Maués, Estado do Amazonas.

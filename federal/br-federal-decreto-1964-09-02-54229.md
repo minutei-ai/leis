@@ -1,5 +1,3 @@
-###DEC-054229-0-000-02-09-1964@@@
-
 DECRETO Nº 54.229, DE 2 DE SETEMBRO DE 1964.
 
 Autoriza a Companhia de Mineração e Agricultura do São Francisco - “Cominag” a lavrar magnesita no município de Sento Sé, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-005699-0-000-27-07-1943@@@
-
 DECRETO‑LEI N. 5.699 – DE 27 DE JULHO DE 1943
 
 Determina a liquidação das firmas Theodor Wille & Cia. e Herm. Stoltz & Cia, existentes no Brasil, e dá outras providências

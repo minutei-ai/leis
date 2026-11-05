@@ -1,12 +1,13 @@
 LEI Nº 20.846, DE 02 DE SETEMBRO DE 2020
 
-Institui a Política Estadual de Atendimento ao Cidadão.<br>
+Institui a Política Estadual de Atendimento ao Cidadão.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Institui a Política Estadual de Atendimento ao Cidadão e cria o Programa SIMPLIFICA GOIÁS.~~
 
-<br>
-\- [Vide Decreto nº 10.287, de 10-07-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107467). - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba") , de 16 de fevereiro de 2023, na área de inovação da gestão e dos serviços públicos, revigora e renomeia com TransformaGOV a Rede de Transformação dos Serviços Públicos prevista para o Poder Executivo estadual pela [Lei estadual nº 20.846](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103353 "Abrir Lei Ordinária nº 20846, de 2020 em nova aba") , de 2 de setembro de 2020, também institui o Observatório de Inovação em Políticas Públicas do Estado de Goiás e o Hub Goiás.<br>
+\- [Vide Decreto nº 10.287, de 10-07-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107467). - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba") , de 16 de fevereiro de 2023, na área de inovação da gestão e dos serviços públicos, revigora e renomeia com TransformaGOV a Rede de Transformação dos Serviços Públicos prevista para o Poder Executivo estadual pela [Lei estadual nº 20.846](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103353 "Abrir Lei Ordinária nº 20846, de 2020 em nova aba") , de 2 de setembro de 2020, também institui o Observatório de Inovação em Políticas Públicas do Estado de Goiás e o Hub Goiás.
+
 \- [Vide Decreto nº 10.850, de 7-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112053). - Regulamenta o Conselho de Usuários dos Serviços Públicos do Estado de Goiás, conforme dispõe a Lei nº 20.846, de 2 de setembro de 2020.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba"), decreta e eu sanciono a seguinte Lei:
@@ -91,7 +92,8 @@ III – promover o debate e a troca de experiências sobre as boas práticas de 
 
 IV – coordenar a jornada de transformação dos serviços públicos com foco na promoção da gestão integrada e simplificada para a entrega de valor ao cidadão.
 
-Parágrafo único. A Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da Secretaria de Estado da Administração – SEAD, fica responsável pelo fiel cumprimento e pela operacionalização dos incisos I a IV do caput deste artigo, por meio da Superintendência da Gestão do Atendimento ao Cidadão e da Superintendência Central de Transformação Pública.<br>
+Parágrafo único. A Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da Secretaria de Estado da Administração – SEAD, fica responsável pelo fiel cumprimento e pela operacionalização dos incisos I a IV do caput deste artigo, por meio da Superintendência da Gestão do Atendimento ao Cidadão e da Superintendência Central de Transformação Pública.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Parágrafo único. A Subsecretaria de Administração e Desburocratização da Gestão Pública, da Secretaria de Estado da Administração, fica responsável pelo fiel cumprimento e pela operacionalização dos incisos I a IV do caput, por meio da Superintendência de Gestão do Atendimento ao Cidadão e da Superintendência Central de Transformação da Gestão Pública.~~
@@ -222,16 +224,20 @@ Do Conselho de Usuários dos Serviços Públicos do Estado de Goiás
 
 Art. 11. Fica criado o Conselho de Usuários dos Serviços Públicos do Estado de Goiás, subordinado à Secretaria de Estado da Administração, de caráter consultivo, com o objetivo de contemplar a participação dos usuários no acompanhamento da prestação e na avaliação dos serviços públicos oferecidos por órgãos e entidades subordinados a esta Lei, a ser regulamentado por meio de decreto.
 
-§ 1° O Conselho de Usuários dos Serviços Públicos do Estado de Goiás deverá ser criado com observância dos critérios de representatividade e pluralidade das partes interessadas.<br>
+§ 1° O Conselho de Usuários dos Serviços Públicos do Estado de Goiás deverá ser criado com observância dos critérios de representatividade e pluralidade das partes interessadas.
+
 \- [Acrescido pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
-§ 2° As demandas e as manifestações dos usuários referentes à prestação dos serviços públicos que forem encaminhadas via Sistema de Ouvidoria do Estado de Goiás servirão ao Conselho de Usuários dos Serviços Públicos do Estado de Goiás para as discussões e as sugestões de melhoria na prestação dos serviços e nos programas e canais de atendimento ao cidadão.<br>
+§ 2° As demandas e as manifestações dos usuários referentes à prestação dos serviços públicos que forem encaminhadas via Sistema de Ouvidoria do Estado de Goiás servirão ao Conselho de Usuários dos Serviços Públicos do Estado de Goiás para as discussões e as sugestões de melhoria na prestação dos serviços e nos programas e canais de atendimento ao cidadão.
+
 \- [Acrescido pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
-§ 3º Os instrumentos e a metodologia que subsidiam o Conselho de Usuários dos Serviços Públicos do Estado de Goiás serão definidos em decreto regulamentador mediante a proposta da SEAD e da Controladoria-Geral do Estado.<br>
+§ 3º Os instrumentos e a metodologia que subsidiam o Conselho de Usuários dos Serviços Públicos do Estado de Goiás serão definidos em decreto regulamentador mediante a proposta da SEAD e da Controladoria-Geral do Estado.
+
 \- [Acrescido pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
-§ 4º Os integrantes que compuserem o Conselho de Usuários dos Serviços Públicos do Estado de Goiás não serão remunerados.<br>
+§ 4º Os integrantes que compuserem o Conselho de Usuários dos Serviços Públicos do Estado de Goiás não serão remunerados.
+
 \- [Transformado em § 4° com nova redação pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Parágrafo único. Os integrantes que compuserem o Conselho de Usuários dos Serviços Públicos do Estado de Goiás não serão remunerados.~~
@@ -266,208 +272,270 @@ Do Portal Único do Cidadão
 
 Art. 13. Todos os serviços aos usuários oferecidos pelo Estado de Goiás deverão ser disponibilizados no Portal Único do Cidadão, canal que deverá portar todos os serviços constantes da Carta de Serviços ao Usuário, bem como quaisquer informações relevantes ao cidadão, inclusive solicitações e agendamentos de atendimentos.
 
-§ 1º O Portal Único do Cidadão será mantido pela Secretaria-Geral de Governo – SGG, com a possibilidade de os órgãos e as entidades transferirem seus serviços e conteúdos virtuais para esse canal.<br>
+§ 1º O Portal Único do Cidadão será mantido pela Secretaria-Geral de Governo – SGG, com a possibilidade de os órgãos e as entidades transferirem seus serviços e conteúdos virtuais para esse canal.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 1° O Portal Único do Cidadão será mantido pela Secretaria de Estado de Desenvolvimento e Inovação, com a possibilidade de os órgãos e as entidades migrarem os seus serviços e os conteúdos virtuais para esse canal.~~
 
-§ 2º O Portal Único do Cidadão fará uso do Login Único do Cidadão, fornecido pelo Governo Estadual ou pelo Federal, para o acesso às informações restritas de forma segura.<br>
+§ 2º O Portal Único do Cidadão fará uso do Login Único do Cidadão, fornecido pelo Governo Estadual ou pelo Federal, para o acesso às informações restritas de forma segura.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 2° O Portal Único do Cidadão fará uso do Login Único do Cidadão, fornecido pelo Governo Federal, para permitir acesso às informações restritas de forma segura.~~
 
 § 3° A Carta de Serviços ao Usuário, a que se refere o caput, está estabelecida conforme art. 7° da Lei federal no 13.460, de 2017, e regulamentada pelo [Decreto estadual n° 9.574](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72488), de 5 de dezembro de 2019.
 
-§ 4º Os órgãos e as entidades da administração estadual deverão, gradativamente, mover todos os serviços a que se refere o caput deste artigo para o Portal Único do Cidadão. <br>
+§ 4º Os órgãos e as entidades da administração estadual deverão, gradativamente, mover todos os serviços a que se refere o caput deste artigo para o Portal Único do Cidadão. 
+
 \- [Transformado em § 4º  pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Parágrafo único. Os órgãos e as entidades da administração pública estadual deverão, gradativamente, mover todos os serviços a que se refere o o caput para o Portal Único do Cidadão.~~
 
-~~CAPÍTULO II~~<br>
+~~CAPÍTULO II~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 ~~DO SIMPLIFICA GOIÁS~~
 
-~~Art. 14. O Programa SIMPLIFICA GOIÁS, visando a facilidade de acesso aos serviços públicos e o resgate de maior confiança neles, além do aumento da competitividade do Estado e dos benefícios aos cidadãos e à sociedade, compreende um conjunto de ações coordenadas para:~~<br>
+~~Art. 14. O Programa SIMPLIFICA GOIÁS, visando a facilidade de acesso aos serviços públicos e o resgate de maior confiança neles, além do aumento da competitividade do Estado e dos benefícios aos cidadãos e à sociedade, compreende um conjunto de ações coordenadas para:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – promover uma gestão integrada e simplificada;~~<br>
+~~I – promover uma gestão integrada e simplificada;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – amadurecer a gestão dos órgãos e das entidades estaduais;~~<br>
+~~II – amadurecer a gestão dos órgãos e das entidades estaduais;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~III – diminuir gastos;~~<br>
+~~III – diminuir gastos;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IV – ampliar a prestação dos serviços pelo meio digital; e~~<br>
+~~IV – ampliar a prestação dos serviços pelo meio digital; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~V – reduzir as estruturas burocráticas em favor dos cidadãos e das empresas de todos os portes.~~<br>
+~~V – reduzir as estruturas burocráticas em favor dos cidadãos e das empresas de todos os portes.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 1º São responsáveis pela definição e pela execução das ações do Programa SIMPLIFICA GOIÁS os seguintes órgãos da administração direta: Secretaria de Estado da Administração, Secretaria de Estado de Desenvolvimento e Inovação e Secretaria de Estado da Casa Civil.~~<br>
+~~§ 1º São responsáveis pela definição e pela execução das ações do Programa SIMPLIFICA GOIÁS os seguintes órgãos da administração direta: Secretaria de Estado da Administração, Secretaria de Estado de Desenvolvimento e Inovação e Secretaria de Estado da Casa Civil.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 2 º O Programa SIMPLIFICA GOIÁS deve seguir as diretrizes estabelecidas no art. 7° desta Lei.~~<br>
+~~§ 2 º O Programa SIMPLIFICA GOIÁS deve seguir as diretrizes estabelecidas no art. 7° desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~Seção I~~<br>
+~~Seção I~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 ~~Dos objetivos gerais do SIMPLIFICA GOIÁS~~
 
-~~Art. 15. São objetivos gerais do programa SIMPLIFICA GOIÁS:~~<br>
+~~Art. 15. São objetivos gerais do programa SIMPLIFICA GOIÁS:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – orientar e instrumentalizar os órgãos da administração pública estadual para a oferta de serviços mais ágeis, simples e resolutivos aos cidadãos e às empresas;~~<br>
+~~I – orientar e instrumentalizar os órgãos da administração pública estadual para a oferta de serviços mais ágeis, simples e resolutivos aos cidadãos e às empresas;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – reduzir o custo do atendimento;~~<br>
+~~II – reduzir o custo do atendimento;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~III – reduzir filas de atendimento;~~<br>
+~~III – reduzir filas de atendimento;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IV – promover inovação, melhoria e celeridade nos processos e nas rotinas administrativas;~~<br>
+~~IV – promover inovação, melhoria e celeridade nos processos e nas rotinas administrativas;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~V – obter inteligência a partir dos dados e das informações no âmbito da gestão dos processos corporativos do Estado para a tomada de decisões;~~<br>
+~~V – obter inteligência a partir dos dados e das informações no âmbito da gestão dos processos corporativos do Estado para a tomada de decisões;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VI – inovar, padronizar, instrumentalizar e normatizar os processos e as rotinas referentes às áreas centrais e setoriais de compras, suprimentos e gestão de contratos governamentais, frotas, materiais e patrimônio mobiliário e imobiliário;~~<br>
+~~VI – inovar, padronizar, instrumentalizar e normatizar os processos e as rotinas referentes às áreas centrais e setoriais de compras, suprimentos e gestão de contratos governamentais, frotas, materiais e patrimônio mobiliário e imobiliário;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VII – implantar nas unidades setoriais as rotinas e as normas definidas, conforme os incisos IV e VI;~~<br>
+~~VII – implantar nas unidades setoriais as rotinas e as normas definidas, conforme os incisos IV e VI;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VIII – promover a melhoria dos serviços estabelecidos nas cartas de serviços dos órgãos e das entidades, conforme diretrizes estabelecidas nesta Lei;~~<br>
+~~VIII – promover a melhoria dos serviços estabelecidos nas cartas de serviços dos órgãos e das entidades, conforme diretrizes estabelecidas nesta Lei;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IX – promover a evolução dos órgãos e das entidades da administração pública estadual quanto a gestão e prestação de serviços;~~<br>
+~~IX – promover a evolução dos órgãos e das entidades da administração pública estadual quanto a gestão e prestação de serviços;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~X – promover a digitalização dos serviços conforme inciso VIII;~~<br>
+~~X – promover a digitalização dos serviços conforme inciso VIII;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~XI – implantar o Portal Único do Cidadão;~~<br>
+~~XI – implantar o Portal Único do Cidadão;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~XII – integrar dados e informações referentes aos cidadãos e às empresas;~~<br>
+~~XII – integrar dados e informações referentes aos cidadãos e às empresas;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~XIII – implantar tecnologias inovadoras para melhor atendimento às necessidades dos cidadãos; e~~<br>
+~~XIII – implantar tecnologias inovadoras para melhor atendimento às necessidades dos cidadãos; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~XIV – desburocratizar processos e normas.~~<br>
+~~XIV – desburocratizar processos e normas.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º. 
 
-~~§ 1 º As ações para o alcance dos objetivos definidos nos incisos I a IX serão implementadas pela Secretaria de Estado da Administração, por meio da Subsecretaria de Administração e Desburocratização da Gestão Pública e respectivas unidades básicas subordinadas, conforme diretrizes estabelecidas nos arts. 1° a 23 desta Lei.~~<br>
+~~§ 1 º As ações para o alcance dos objetivos definidos nos incisos I a IX serão implementadas pela Secretaria de Estado da Administração, por meio da Subsecretaria de Administração e Desburocratização da Gestão Pública e respectivas unidades básicas subordinadas, conforme diretrizes estabelecidas nos arts. 1° a 23 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 2 º As ações para o alcance dos objetivos definidos nos incisos X a XIII serão implementadas pela Secretaria de Estado de Desenvolvimento e Inovação, conforme diretrizes estabelecidas nos arts. 24 e 25 desta Lei.~~ <br>
+~~§ 2 º As ações para o alcance dos objetivos definidos nos incisos X a XIII serão implementadas pela Secretaria de Estado de Desenvolvimento e Inovação, conforme diretrizes estabelecidas nos arts. 24 e 25 desta Lei.~~ 
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 3 º As ações para o alcance do objetivo a que se refere o inciso XIV serão implementadas pela Secretaria de Estado da Casa Civil, conforme diretrizes estabelecidas nos arts. 26 a 36 desta Lei.~~<br>
+~~§ 3 º As ações para o alcance do objetivo a que se refere o inciso XIV serão implementadas pela Secretaria de Estado da Casa Civil, conforme diretrizes estabelecidas nos arts. 26 a 36 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 4 º Os instrumentos, as metodologias e os indicadores que subsidiam a evolução da maturidade de gestão, bem como da evolução da maturidade da prestação dos serviços pelos órgãos e pelas entidades da administração pública estadual serão definidos em decreto regulamentador mediante proposta da Secretaria de Estado da Administração, da Secretaria de Estado de Desenvolvimento e Inovação e da Secretaria de Estado da Casa Civil, conforme diretrizes estabelecidas nos arts. 16 e 17 desta Lei.~~<br>
+~~§ 4 º Os instrumentos, as metodologias e os indicadores que subsidiam a evolução da maturidade de gestão, bem como da evolução da maturidade da prestação dos serviços pelos órgãos e pelas entidades da administração pública estadual serão definidos em decreto regulamentador mediante proposta da Secretaria de Estado da Administração, da Secretaria de Estado de Desenvolvimento e Inovação e da Secretaria de Estado da Casa Civil, conforme diretrizes estabelecidas nos arts. 16 e 17 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 ~~Seção II~~
 
-\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.<br>
+\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.
+
 ~~Do Índice de Maturidade da Gestão – IMG e do Índice de Maturidade dos Serviços – IMS~~
 
-~~Art. 16. Ficam criados, no âmbito do Programa SIMPLIFICA GOIÁS, os indicadores:~~<br>
+~~Art. 16. Ficam criados, no âmbito do Programa SIMPLIFICA GOIÁS, os indicadores:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – Índice de Maturidade da Gestão – IMG, com o objetivo de aferir a maturidade e a evolução da gestão nos órgãos e nas entidades da administração pública estadual; e~~<br>
+~~I – Índice de Maturidade da Gestão – IMG, com o objetivo de aferir a maturidade e a evolução da gestão nos órgãos e nas entidades da administração pública estadual; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – Índice de Maturidade dos Serviços – IMS, com o objetivo de aferir a maturidade e a evolução da prestação dos serviços pela administração pública estadual.~~<br>
+~~II – Índice de Maturidade dos Serviços – IMS, com o objetivo de aferir a maturidade e a evolução da prestação dos serviços pela administração pública estadual.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 1º O IMG e o IMS serão estruturados e gerenciados pela Secretaria de Estado da Administração, por meio da Subsecretaria de Administração e Desburocratização da Gestão Pública e respectivas unidades básicas subordinadas.~~<br>
+~~§ 1º O IMG e o IMS serão estruturados e gerenciados pela Secretaria de Estado da Administração, por meio da Subsecretaria de Administração e Desburocratização da Gestão Pública e respectivas unidades básicas subordinadas.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 2 º A metodologia e o regramento para medição e gerenciamento do IMG serão estabelecidos por meio de decreto regulamentador mediante proposta da Secretaria de Estado da Administração.~~<br>
+~~§ 2 º A metodologia e o regramento para medição e gerenciamento do IMG serão estabelecidos por meio de decreto regulamentador mediante proposta da Secretaria de Estado da Administração.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 3º A metodologia e o regramento para medição e gerenciamento do IMS serão estabelecidos por meio de decreto regulamentador mediante proposta da Secretaria de Estado da Administração e da Secretaria de Estado de Desenvolvimento e Inovação.~~<br>
+~~§ 3º A metodologia e o regramento para medição e gerenciamento do IMS serão estabelecidos por meio de decreto regulamentador mediante proposta da Secretaria de Estado da Administração e da Secretaria de Estado de Desenvolvimento e Inovação.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 ~~Seção III~~
 
-\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.<br>
+\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.
+
 ~~Do Plano de Melhoria SIMPLIFICA GOIÁS – PMS~~
 
-~~Art. 17. Os órgãos e as entidades abrangidos pelo SIMPLIFICA GOIÁS deverão elaborar o seu plano setorial de melhoria da gestão e dos serviços públicos prestados, denominado PLANO DE MELHORIA SIMPLIFICA GOIÁS – PMS, contendo, no mínimo, as ações setoriais para:~~<br>
+~~Art. 17. Os órgãos e as entidades abrangidos pelo SIMPLIFICA GOIÁS deverão elaborar o seu plano setorial de melhoria da gestão e dos serviços públicos prestados, denominado PLANO DE MELHORIA SIMPLIFICA GOIÁS – PMS, contendo, no mínimo, as ações setoriais para:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – gestão da Rede Setorial de Transformação dos Serviços Públicos;~~<br>
+~~I – gestão da Rede Setorial de Transformação dos Serviços Públicos;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – gestão da Estrutura Organizacional do órgão;~~<br>
+~~II – gestão da Estrutura Organizacional do órgão;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~III – gestão da Cadeia de Valor e da Arquitetura de Processos;~~<br>
+~~III – gestão da Cadeia de Valor e da Arquitetura de Processos;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IV – gestão da Carta de Serviços ao Usuário, de acordo com o art. 13 desta Lei;~~<br>
+~~IV – gestão da Carta de Serviços ao Usuário, de acordo com o art. 13 desta Lei;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~V – melhoria dos serviços que entregam valor ao cidadão;~~<br>
+~~V – melhoria dos serviços que entregam valor ao cidadão;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VI – digitalização dos serviços, com prioridade àqueles transformados conforme inciso V acima;~~<br>
+~~VI – digitalização dos serviços, com prioridade àqueles transformados conforme inciso V acima;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VII – revisão normativa dos processos e dos serviços previstos nos incisos V e VI, se couber;~~<br>
+~~VII – revisão normativa dos processos e dos serviços previstos nos incisos V e VI, se couber;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VIII – implantação de ações visando o alcance dos objetivos estabelecidos nos incisos I a XIV do art. 15; e~~<br>
+~~VIII – implantação de ações visando o alcance dos objetivos estabelecidos nos incisos I a XIV do art. 15; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IX – implantação de ações visando o incremento setorial dos indicadores previstos no art. 16 desta Lei.~~<br>
+~~IX – implantação de ações visando o incremento setorial dos indicadores previstos no art. 16 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 1 º As demais ações serão definidas conforme as necessidades de melhoria de gestão identificadas em cada pasta.~~<br>
+~~§ 1 º As demais ações serão definidas conforme as necessidades de melhoria de gestão identificadas em cada pasta.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 2º O PMS será construído de forma integrada pelo órgão ou pela entidade com a orientação da Secretaria de Estado da Administração, da Secretaria de Estado de Desenvolvimento e Inovação e da Secretaria de Estado da Casa Civil, sob coordenação da primeira.~~<br>
+~~§ 2º O PMS será construído de forma integrada pelo órgão ou pela entidade com a orientação da Secretaria de Estado da Administração, da Secretaria de Estado de Desenvolvimento e Inovação e da Secretaria de Estado da Casa Civil, sob coordenação da primeira.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 3º As ações de transformação digital constantes do PMS do órgão ou da entidade deverão estar em consonância com as diretrizes da Estratégia Brasileira para a Transformação Digital, regulamentada pelo Decreto federal no 9.319, de 21 de março de 2018.~~<br>
+~~§ 3º As ações de transformação digital constantes do PMS do órgão ou da entidade deverão estar em consonância com as diretrizes da Estratégia Brasileira para a Transformação Digital, regulamentada pelo Decreto federal no 9.319, de 21 de março de 2018.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 4 º A metodologia e o regramento para elaboração, implementação, avaliação e melhoria do PMS, pelas unidades setoriais, serão definidos de forma integrada pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil, sob a coordenação da primeira e normatizada em decreto.~~<br>
+~~§ 4 º A metodologia e o regramento para elaboração, implementação, avaliação e melhoria do PMS, pelas unidades setoriais, serão definidos de forma integrada pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil, sob a coordenação da primeira e normatizada em decreto.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 ~~Seção IV~~
 
-\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.<br>
+\- Revogado pela [Lei nº 23.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157 "Abrir Lei Ordinária nº 23584, de 2025 em nova aba"), de 19-8-2025, art. 4º.
+
 ~~Da Governança do SIMPLIFICA GOIÁS~~
 
-~~Art. 18. São instâncias de governança do programa SIMPLIFICA GOIÁS:~~<br>
+~~Art. 18. São instâncias de governança do programa SIMPLIFICA GOIÁS:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – a Secretaria de Estado da Administração;~~<br>
+~~I – a Secretaria de Estado da Administração;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – a Secretaria de Estado de Desenvolvimento e Inovação;~~<br>
+~~II – a Secretaria de Estado de Desenvolvimento e Inovação;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~III – a Secretaria de Estado da Casa Civil;~~<br>
+~~III – a Secretaria de Estado da Casa Civil;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IV – os titulares dos órgãos e das entidades do Poder Executivo estadual;~~<br>
+~~IV – os titulares dos órgãos e das entidades do Poder Executivo estadual;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~V – a Rede de Transformação dos Serviços Públicos, conforme arts. 22 e 23 desta Lei; e~~<br>
+~~V – a Rede de Transformação dos Serviços Públicos, conforme arts. 22 e 23 desta Lei; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VI – o Conselho de Usuários dos Serviços Públicos do Estado de Goiás, conforme art. 11 desta Lei.~~<br>
+~~VI – o Conselho de Usuários dos Serviços Públicos do Estado de Goiás, conforme art. 11 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 CAPÍTULO III
@@ -480,7 +548,8 @@ Seção I
 
 Da Jornada de Transformação dos Serviços Públicos
 
-Art. 20 A transformação dos serviços nos órgãos e nas entidades da administração pública estadual será executada pela Jornada de Transformação dos Serviços Públicos, definida pela SEAD, pela SGG e pela Secretaria de Estado da Casa Civil – CASA CIVIL.<br>
+Art. 20 A transformação dos serviços nos órgãos e nas entidades da administração pública estadual será executada pela Jornada de Transformação dos Serviços Públicos, definida pela SEAD, pela SGG e pela Secretaria de Estado da Casa Civil – CASA CIVIL.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Art. 20. A transformação dos serviços nos órgãos e nas entidades da administração pública estadual será executada por meio da Jornada de Transformação dos Serviços Públicos definida pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil.~~
@@ -509,7 +578,8 @@ IX – melhorar a interação do Estado com o cidadão; e
 
 X – resgatar a confiança do cidadão no serviço público.
 
-Parágrafo único. Os procedimentos para a implantação da Jornada de Transformação dos Serviços Públicos nos órgãos e nas entidades serão regulamentados pela SEAD, pela SGG e pela CASA CIVIL.<br>
+Parágrafo único. Os procedimentos para a implantação da Jornada de Transformação dos Serviços Públicos nos órgãos e nas entidades serão regulamentados pela SEAD, pela SGG e pela CASA CIVIL.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Parágrafo único. Os procedimentos para a implantação da Jornada de Transformação dos Serviços Públicos nos órgãos e nas entidades serão regulamentados pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil.~~
@@ -518,43 +588,56 @@ Seção II
 
 Da Rede de Transformação dos Serviços Públicos
 
-~~Art. 22. Para a constante melhoria dos serviços públicos e do atendimento ao cidadão, os órgãos e as entidades atuarão de forma integrada, em formato de rede, visando a transformação aprimorada dos serviços públicos que são prestados aos cidadãos.~~<br>
+~~Art. 22. Para a constante melhoria dos serviços públicos e do atendimento ao cidadão, os órgãos e as entidades atuarão de forma integrada, em formato de rede, visando a transformação aprimorada dos serviços públicos que são prestados aos cidadãos.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~Art. 23. São objetivos gerais da Rede de Transformação dos Serviços Públicos:~~<br>
+~~Art. 23. São objetivos gerais da Rede de Transformação dos Serviços Públicos:~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~I – identificar um panorama geral e descrever os diferentes atores e instituições que se inter-relacionam, direta ou indiretamente, com os serviços que entregam valor ao cidadão;~~<br>
+~~I – identificar um panorama geral e descrever os diferentes atores e instituições que se inter-relacionam, direta ou indiretamente, com os serviços que entregam valor ao cidadão;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~II – refletir sobre problemas e soluções relacionados à prestação dos serviços públicos de maneira colaborativa e integrada;~~<br>
+~~II – refletir sobre problemas e soluções relacionados à prestação dos serviços públicos de maneira colaborativa e integrada;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~III – aumentar a efetividade das equipes setoriais;~~<br>
+~~III – aumentar a efetividade das equipes setoriais;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~IV – promover a comunicação efetiva para que os responsáveis pela entrega de valor ao cidadão atuem sempre conectados e integrados;~~<br>
+~~IV – promover a comunicação efetiva para que os responsáveis pela entrega de valor ao cidadão atuem sempre conectados e integrados;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~V – traçar estratégias comuns que potencializem as interações entre todos os que entregam valor e serviços públicos ao cidadão;~~<br>
+~~V – traçar estratégias comuns que potencializem as interações entre todos os que entregam valor e serviços públicos ao cidadão;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VI – promover a integração das áreas responsáveis por processos de negócio e tecnologia da informação setoriais;~~<br>
+~~VI – promover a integração das áreas responsáveis por processos de negócio e tecnologia da informação setoriais;~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VII – fortalecer e desenvolver os agentes de transformação para uma gestão integrada e simplificada que entregue valor ao cidadão; e~~<br>
+~~VII – fortalecer e desenvolver os agentes de transformação para uma gestão integrada e simplificada que entregue valor ao cidadão; e~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~VIII – promover ações que estimulem o aperfeiçoamento do Estado e das políticas públicas de atendimento ao cidadão.~~<br>
+~~VIII – promover ações que estimulem o aperfeiçoamento do Estado e das políticas públicas de atendimento ao cidadão.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 1° Todos os órgãos e as entidades subordinados a esta Lei passam a compor a Rede de Transformação dos Serviços Públicos.~~<br>
+~~§ 1° Todos os órgãos e as entidades subordinados a esta Lei passam a compor a Rede de Transformação dos Serviços Públicos.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 2° As atividades para o fortalecimento da Rede de Transformação dos Serviços Públicos serão definidas pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil, coordenados pela primeira.~~<br>
+~~§ 2° As atividades para o fortalecimento da Rede de Transformação dos Serviços Públicos serão definidas pela Secretaria de Estado da Administração, pela Secretaria de Estado de Desenvolvimento e Inovação e pela Secretaria de Estado da Casa Civil, coordenados pela primeira.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
-~~§ 3° Os papéis, as responsabilidades e as formas de atuação da Rede de Transformação dos Serviços Públicos serão definidos em normativa específica.~~<br>
+~~§ 3° Os papéis, as responsabilidades e as formas de atuação da Rede de Transformação dos Serviços Públicos serão definidos em normativa específica.~~
+
 \- [Revogado pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157), art. 4º.
 
 Seção III
@@ -573,7 +656,8 @@ III – o fortalecimento de boas práticas de gestão; e
 
 IV – o auxílio mútuo entre os entes públicos e a sociedade.
 
-§ 2º Fica a Superintendência Central de Transformação Pública, da Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, responsável pela coordenação imediata do TransformaLab.<br>
+§ 2º Fica a Superintendência Central de Transformação Pública, da Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, responsável pela coordenação imediata do TransformaLab.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 2° Estabelece-se que a Superintendência Central de Transformação da Gestão Pública, da Subsecretaria de Administração e Desburocratização da Gestão Pública, será responsável pela coordenação imediata do TransformaLab.~~
@@ -586,7 +670,8 @@ Art. 25. Compete aos órgãos e às entidades abrangidos por esta Lei promover a
 
 Parágrafo único. A transformação digital obriga a administração pública a promover, no âmbito de seus canais de atendimento, a inclusão digital daqueles que, por quaisquer motivos, estejam à margem da utilização das novas tecnologias para servir-se dos serviços públicos.
 
-Art. 26. A transformação digital, nos órgãos e nas entidades do Poder Executivo estadual, ocorrerá de forma gradativa, com a prioridade à digitalização dos serviços transformados, conforme as diretrizes estabelecidas nesta Lei, e terá como objetivos:<br>
+Art. 26. A transformação digital, nos órgãos e nas entidades do Poder Executivo estadual, ocorrerá de forma gradativa, com a prioridade à digitalização dos serviços transformados, conforme as diretrizes estabelecidas nesta Lei, e terá como objetivos:
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Art. 26. A transformação digital, no âmbito dos órgãos e das entidades do Poder Executivo estadual, será coordenada pela Secretaria de Estado de Desenvolvimento e Inovação, ocorrerá de forma gradativa, com prioridade à digitalização dos serviços transformados, conforme diretrizes estabelecidas nesta Lei, e terá como objetivos:~~
@@ -611,7 +696,8 @@ VII – aprimorar a administração pública por meio da geração de informaç�
 
 § 3° A disponibilidade de canal de atendimento digital para a prestação dos serviços públicos não substitui outros meios de atendimento necessários à natureza e às necessidades dos usuários.
 
-§ 4º Fica a SGG responsável por garantir que todos os aplicativos móveis sejam publicados na conta do Estado de Goiás nas plataformas definidas por esse órgão.<br>
+§ 4º Fica a SGG responsável por garantir que todos os aplicativos móveis sejam publicados na conta do Estado de Goiás nas plataformas definidas por esse órgão.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157),.
 
 ~~§ 4° Fica a Secretaria de Desenvolvimento e Inovação responsável por garantir que todos os aplicativos móveis sejam publicados na conta do Estado de Goiás nas respectivas plataformas definidas pela Secretaria.~~
@@ -620,30 +706,36 @@ VII – aprimorar a administração pública por meio da geração de informaç�
 
 CAPÍTULO V
 
-DO PROGRAMA REVISA LEGAL GOIÁS<br>
+DO PROGRAMA REVISA LEGAL GOIÁS
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~DO REVISA GOIÁS~~
 
-Art. 27. Fica instituído o Programa Revisa Legal Goiás, coordenado pela CASA CIVIL, para promover a participação popular no processo normativo goiano, especialmente com a revisão de normas e a sugestão de melhorias na legislação estadual.<br>
+Art. 27. Fica instituído o Programa Revisa Legal Goiás, coordenado pela CASA CIVIL, para promover a participação popular no processo normativo goiano, especialmente com a revisão de normas e a sugestão de melhorias na legislação estadual.
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 27. Fica instituído o Programa Revisa Goiás, sob responsabilidade da Secretaria de Estado da Casa Civil, com o objetivo de racionalizar a estrutura normativa no Estado de Goiás por meio de seu permanente monitoramento e avaliação.~~
 
-~~§ 1° Os critérios e a periodicidade de monitoramento e avaliação, no âmbito do Revisa Goiás, serão regulamentados por decreto proposto pela Secretaria de Estado da Casa Civil.~~<br>
+~~§ 1° Os critérios e a periodicidade de monitoramento e avaliação, no âmbito do Revisa Goiás, serão regulamentados por decreto proposto pela Secretaria de Estado da Casa Civil.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, I.
 
-~~§ 2° O Programa Revisa Goiás deve seguir as diretrizes estabelecidas no art. 7° desta Lei.~~<br>
+~~§ 2° O Programa Revisa Goiás deve seguir as diretrizes estabelecidas no art. 7° desta Lei.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, I.
 
 Seção I
 
-Das diretrizes do Programa Revisa Legal Goiás<br>
+Das diretrizes do Programa Revisa Legal Goiás
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Das diretrizes do Revisa Goiás~~
 
-Art. 28. São diretrizes do Programa Revisa Legal Goiás:<br>
+Art. 28. São diretrizes do Programa Revisa Legal Goiás:
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 28. São diretrizes do Revisa Goiás:~~
@@ -656,7 +748,8 @@ III – o acolhimento: prática e atitude de respeito na prestação de serviço
 
 IV – a transparência: efetivo acompanhamento pela sociedade da execução das políticas públicas.
 
-Art. 29. O Programa Revisa Legal Goiás tem como objetivos:<br>
+Art. 29. O Programa Revisa Legal Goiás tem como objetivos:
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 29. O programa Revisa Goiás tem como objetivos:~~
@@ -665,153 +758,198 @@ I – identificar dispositivos legais ou regulamentares que estabeleçam exigên
 
 II – fomentar melhorias no ambiente de negócio e, com isso, ampliar a capacidade competitiva e a produtividade do Estado, tornando-o mais atrativo a empreendimentos;
 
-III – promover a escuta ativa da sociedade civil organizada e da sociedade em geral sobre as necessidades de cada segmento;<br>
+III – promover a escuta ativa da sociedade civil organizada e da sociedade em geral sobre as necessidades de cada segmento;
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~III – promover a escuta ativa da sociedade civil organizada para questionamentos sobre a necessidade de cada segmento; e~~
 
-~~IV – instituir permanentemente a avaliação de impacto normativo como requisito obrigatório na elaboração de proposituras legais e regulatórias de iniciativa do Poder Executivo estadual.~~<br>
+~~IV – instituir permanentemente a avaliação de impacto normativo como requisito obrigatório na elaboração de proposituras legais e regulatórias de iniciativa do Poder Executivo estadual.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, II.
 
-§ 1º A CASA CIVIL instituirá a comissão técnica que analisará, em decorrência do Programa Revisa Legal Goiás, as propostas de revisão de leis, decretos e demais normas integrantes do ordenamento jurídico do Estado de Goiás.<br>
+§ 1º A CASA CIVIL instituirá a comissão técnica que analisará, em decorrência do Programa Revisa Legal Goiás, as propostas de revisão de leis, decretos e demais normas integrantes do ordenamento jurídico do Estado de Goiás.
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~§ 1° A Secretaria de Estado da Casa Civil instituirá comissão técnica responsável pela revisão de leis, decretos e demais normas que integram o ordenamento jurídico do Estado de Goiás.~~
 
-~~§ 2° A Secretaria de Estado da Casa Civil manterá repositório público de dados sobre os atos normativos elaborados pelos órgãos da administração pública, direta, autárquica e fundacional.~~<br>
+~~§ 2° A Secretaria de Estado da Casa Civil manterá repositório público de dados sobre os atos normativos elaborados pelos órgãos da administração pública, direta, autárquica e fundacional.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, II.
 
-~~§ 3° O repositório previsto no § 2° será vinculado ao sistema informatizado Legisla Goiás, que terá a atribuição de elaborar pesquisas, estudos e relatórios para o aperfeiçoamento dos atos normativos legais e infralegais.~~<br>
+~~§ 3° O repositório previsto no § 2° será vinculado ao sistema informatizado Legisla Goiás, que terá a atribuição de elaborar pesquisas, estudos e relatórios para o aperfeiçoamento dos atos normativos legais e infralegais.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, II.
 
-~~§ 4° O sistema Legisla Goiás, de responsabilidade da Secretaria de Estado da Casa Civil, será regulamentado por decreto.~~<br>
+~~§ 4° O sistema Legisla Goiás, de responsabilidade da Secretaria de Estado da Casa Civil, será regulamentado por decreto.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, II.
 
-Art. 30. O Programa Revisa Legal Goiás será operacionalizado por sistema eletrônico para a consulta e a participação social na gestão normativa.<br>
+Art. 30. O Programa Revisa Legal Goiás será operacionalizado por sistema eletrônico para a consulta e a participação social na gestão normativa.
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 30. Fica a Secretaria de Estado da Casa Civil responsável por criar, regulamentar e manter uma sistemática de validação de normas, com critérios de revisão, revogação ou manutenção delas, para órgãos e entidades da administração direita e indireta interessados.~~
 
-§ 1º O sistema indicado no caput deverá permitir ao usuário identificar normas e sugerir a revisão, a manutenção ou a revogação delas.<br>
+§ 1º O sistema indicado no caput deverá permitir ao usuário identificar normas e sugerir a revisão, a manutenção ou a revogação delas.
+
 \- [Acrescido pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
-§ 2º As sugestões populares serão encaminhadas à análise pela comissão indicada no § 1º do art. 29 desta Lei.<br>
+§ 2º As sugestões populares serão encaminhadas à análise pela comissão indicada no § 1º do art. 29 desta Lei.
+
 \- [Acrescido pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
-§ 3º Os dados estatísticos de participação social poderão ser disponibilizados no sítio eletrônico do Programa Revisa Legal Goiás.<br>
+§ 3º Os dados estatísticos de participação social poderão ser disponibilizados no sítio eletrônico do Programa Revisa Legal Goiás.
+
 \- [Acrescido pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
-Art. 31. O Poder Executivo estadual, por intermédio da CASA CIVIL, poderá firmar convênios e parcerias com entidades civis, organizações sociais e universidades no âmbito do Programa Revisa Legal Goiás.<br>
+Art. 31. O Poder Executivo estadual, por intermédio da CASA CIVIL, poderá firmar convênios e parcerias com entidades civis, organizações sociais e universidades no âmbito do Programa Revisa Legal Goiás.
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 31. O Poder Executivo estadual, por intermédio da Secretaria de Estado da Casa Civil, poderá firmar convênios e parcerias com entidades civis, organizações sociais e universidades no âmbito do Revisa Goiás.~~
 
-Art. 31-A. A CASA CIVIL avaliará a pertinência e a adequação das propostas recebidas e providenciará o devido encaminhamento delas, conforme orienta o [Decreto nº 10.805](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111470 "Abrir Decreto Numerado nº 10805, de 2025 em nova aba"), de 28 de outubro de 2025, ou seu sucessor.<br>
+Art. 31-A. A CASA CIVIL avaliará a pertinência e a adequação das propostas recebidas e providenciará o devido encaminhamento delas, conforme orienta o [Decreto nº 10.805](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111470 "Abrir Decreto Numerado nº 10805, de 2025 em nova aba"), de 28 de outubro de 2025, ou seu sucessor.
+
 \- [Acrescido pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
-~~Art. 32. O Revisa Goiás abrange atos normativos:~~<br>
+~~Art. 32. O Revisa Goiás abrange atos normativos:~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~I – legais; e~~<br>
+~~I – legais; e~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~II – infralegais.~~<br>
+~~II – infralegais.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 1° Na hipótese do inciso I, o relatório com parecer pela revogação ou com recomendação de alteração ou unificação normativa deverá ser encaminhado ao órgão ou à entidade que o propôs, respeitada a iniciativa legislativa.~~<br>
+~~§ 1° Na hipótese do inciso I, o relatório com parecer pela revogação ou com recomendação de alteração ou unificação normativa deverá ser encaminhado ao órgão ou à entidade que o propôs, respeitada a iniciativa legislativa.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 2° No caso do inciso II, a racionalização do ato avaliado será encaminhada pela Secretaria de Estado da Casa Civil ao respectivo órgão ou entidade da administração pública para que, após a análise técnica e jurídica, manifeste-se sobre a possível alteração ou revogação de diploma ou, ainda, a unificação de diplomas semelhantes em um único ato.~~<br>
+~~§ 2° No caso do inciso II, a racionalização do ato avaliado será encaminhada pela Secretaria de Estado da Casa Civil ao respectivo órgão ou entidade da administração pública para que, após a análise técnica e jurídica, manifeste-se sobre a possível alteração ou revogação de diploma ou, ainda, a unificação de diplomas semelhantes em um único ato.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 3° Os atos normativos infralegais serão classificados como passíveis de revogação expressa, análise e submissão pelas Secretarias de Estado.~~<br>
+~~§ 3° Os atos normativos infralegais serão classificados como passíveis de revogação expressa, análise e submissão pelas Secretarias de Estado.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-Art. 33. A CASA CIVIL regulamentará o Programa Revisa Legal Goiás, para estabelecer e detalhar os procedimentos do funcionamento dele.<br>
+Art. 33. A CASA CIVIL regulamentará o Programa Revisa Legal Goiás, para estabelecer e detalhar os procedimentos do funcionamento dele.
+
 \- [Redação dada pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957).
 
 ~~Art. 33. Os relatórios produzidos pelo Revisa Goiás serão fundamentados e conterão:~~
 
-~~I – a indicação dos atos normativos semelhantes, contraditórios e conflitantes, com manifestação pela revogação expressa ou recomendação pela unificação ou alteração;~~<br>
+~~I – a indicação dos atos normativos semelhantes, contraditórios e conflitantes, com manifestação pela revogação expressa ou recomendação pela unificação ou alteração;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, III.
 
-~~II – a indicação de medida a ser adotada em relação aos atos normativos identificados como redundantes, inválidos, revogados, contraditórios, conflitantes e/ou obscuros; e~~<br>
+~~II – a indicação de medida a ser adotada em relação aos atos normativos identificados como redundantes, inválidos, revogados, contraditórios, conflitantes e/ou obscuros; e~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, III.
 
-~~III – os atos sujeitos a alteração deverão ser submetidos à avaliação de impacto normativo.~~<br>
+~~III – os atos sujeitos a alteração deverão ser submetidos à avaliação de impacto normativo.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, III.
 
-~~Seção II~~<br>
+~~Seção II~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
 ~~Da avaliação de impacto normativo~~
 
-~~Art. 34. A avaliação de impacto normativo é um instrumento analítico que permite ao decisor político escolhas normativas devidamente fundamentadas, com apresentação em relatório ou exposição de motivos, e pode ser:~~<br>
+~~Art. 34. A avaliação de impacto normativo é um instrumento analítico que permite ao decisor político escolhas normativas devidamente fundamentadas, com apresentação em relatório ou exposição de motivos, e pode ser:~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~I – legislativa: aplicável a projetos de emenda constitucional e lei ordinária ou complementar; e~~<br>
+~~I – legislativa: aplicável a projetos de emenda constitucional e lei ordinária ou complementar; e~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~II – regulatória: aplicável a proposituras de natureza infralegal, como decretos, resoluções e portarias.~~<br>
+~~II – regulatória: aplicável a proposituras de natureza infralegal, como decretos, resoluções e portarias.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~Art. 35. A avaliação de impacto legislativo no âmbito do Revisa Goiás deve observar:~~<br>
+~~Art. 35. A avaliação de impacto legislativo no âmbito do Revisa Goiás deve observar:~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~I – a delimitação do problema que o ato normativo deverá equacionar, com a descrição de sua natureza e extensão, além da localização de possíveis impactos econômicos, sociais e ambientais;~~<br>
+~~I – a delimitação do problema que o ato normativo deverá equacionar, com a descrição de sua natureza e extensão, além da localização de possíveis impactos econômicos, sociais e ambientais;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~II – a identificação dos interessados e das populações afetadas;~~<br>
+~~II – a identificação dos interessados e das populações afetadas;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~III – a definição dos objetivos, dos gerais aos específicos ou operacionais, a serem alcançados com o ato normativo proposto;~~<br>
+~~III – a definição dos objetivos, dos gerais aos específicos ou operacionais, a serem alcançados com o ato normativo proposto;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~IV – o estabelecimento prévio de metas claras e graduais, também de prazos;~~<br>
+~~IV – o estabelecimento prévio de metas claras e graduais, também de prazos;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~V – a análise com a estimativa dos custos sociais, econômicos, financeiro-orçamentários e administrativos decorrentes da vigência do ato normativo;~~<br>
+~~V – a análise com a estimativa dos custos sociais, econômicos, financeiro-orçamentários e administrativos decorrentes da vigência do ato normativo;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~VI – a apresentação de opções normativas para alcançar os objetivos, por via legislativa ou regulatória, considerando eventuais restrições constitucionais, jurídicas e técnicas;~~<br>
+~~VI – a apresentação de opções normativas para alcançar os objetivos, por via legislativa ou regulatória, considerando eventuais restrições constitucionais, jurídicas e técnicas;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~VII – a elaboração da propositura normativa com base em critérios de transparência, eficácia, eficiência e efetividade;~~<br>
+~~VII – a elaboração da propositura normativa com base em critérios de transparência, eficácia, eficiência e efetividade;~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~VIII – a apresentação de alternativas potencialmente válidas para a propositura normativa; e~~<br>
+~~VIII – a apresentação de alternativas potencialmente válidas para a propositura normativa; e~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~IX – a previsão de monitoramento contínuo e avaliação periódica, com critérios claros e objetivos, conforme as metas previamente definidas.~~<br>
+~~IX – a previsão de monitoramento contínuo e avaliação periódica, com critérios claros e objetivos, conforme as metas previamente definidas.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 1° A avaliação de impacto normativo não inibe o decisor político, mas instrui o ato decisório.~~<br>
+~~§ 1° A avaliação de impacto normativo não inibe o decisor político, mas instrui o ato decisório.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 2° A revisão de atos legais ou infralegais que versem sobre políticas públicas deverá, necessariamente, ser precedida de avaliação de impacto normativo.~~<br>
+~~§ 2° A revisão de atos legais ou infralegais que versem sobre políticas públicas deverá, necessariamente, ser precedida de avaliação de impacto normativo.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~Art. 36. A Secretaria de Estado da Casa Civil instituirá uma comissão técnica para a elaboração de diretrizes de avaliação de impacto legislativo e regulatório das proposituras de iniciativa do Poder Executivo estadual.~~<br>
+~~Art. 36. A Secretaria de Estado da Casa Civil instituirá uma comissão técnica para a elaboração de diretrizes de avaliação de impacto legislativo e regulatório das proposituras de iniciativa do Poder Executivo estadual.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~Parágrafo único. A comissão descrita no caput deverá construir parâmetros de estruturação normativa a partir de fundamentos da legística, particularmente quanto à elaboração de políticas públicas, e produzir um manual de avaliação de impacto normativo no âmbito do Poder Executivo estadual.~~<br>
+~~Parágrafo único. A comissão descrita no caput deverá construir parâmetros de estruturação normativa a partir de fundamentos da legística, particularmente quanto à elaboração de políticas públicas, e produzir um manual de avaliação de impacto normativo no âmbito do Poder Executivo estadual.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~Seção III~~<br>
+~~Seção III~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
 ~~Da participação social na gestão normativa~~
 
-~~Art. 37. A Secretaria de Estado da Casa Civil manterá sistema eletrônico para consulta e participação social na gestão normativa no âmbito do Revisa Goiás.~~<br>
+~~Art. 37. A Secretaria de Estado da Casa Civil manterá sistema eletrônico para consulta e participação social na gestão normativa no âmbito do Revisa Goiás.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 1° O sistema indicado no caput deverá permitir ao usuário identificar normas e apresentar sugestões pela revisão, manutenção e revogação.~~<br>
+~~§ 1° O sistema indicado no caput deverá permitir ao usuário identificar normas e apresentar sugestões pela revisão, manutenção e revogação.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 2° As sugestões populares serão encaminhadas à comissão instituída no § 1° do art. 29 desta Lei para análise.~~<br>
+~~§ 2° As sugestões populares serão encaminhadas à comissão instituída no § 1° do art. 29 desta Lei para análise.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
-~~§ 3° Os dados estatísticos de participação social poderão compor o repositório mencionado no § 2° do art. 29 desta Lei.~~<br>
+~~§ 3° Os dados estatísticos de participação social poderão compor o repositório mencionado no § 2° do art. 29 desta Lei.~~
+
 \- [Revogado pela Lei nº 23.972, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111957), art. 2º, IV.
 
 CAPÍTULO VI
@@ -850,7 +988,8 @@ I – os terminais de atendimento eletrônico EXPRESSO nas Unidades Vapt Vupt ou
 
 II – os Balcões EXPRESSO de atendimento expresso nas Unidades Vapt Vupt ou em outras localidades;
 
-III – o Portal Único do Cidadão, denominado Portal EXPRESSO Web, conforme art. 13 desta Lei; e<br>
+III – o Portal Único do Cidadão, denominado Portal EXPRESSO Web, conforme art. 13 desta Lei; e
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~III – o Portal Único do Cidadão, conforme art. 13 desta Lei; e~~
@@ -859,7 +998,8 @@ IV – outros canais de atendimento previstos no art. 12 desta Lei.
 
 § 1° Os canais de atendimento estabelecidos nos incisos I e II deste artigo ficam subordinados administrativamente à Secretaria de Estado da Administração, a quem cabe a sua regulamentação.
 
-§ 2º Cabe à SGG a definição tecnológica do Portal Único do Cidadão, mantido por ela e referenciado no inciso III deste artigo.<br>
+§ 2º Cabe à SGG a definição tecnológica do Portal Único do Cidadão, mantido por ela e referenciado no inciso III deste artigo.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 2° Cabe à Secretaria de Estado de Desenvolvimento e Inovação a definição tecnológica do Portal Único do Cidadão, mantido por ela e referenciado no inciso III deste artigo.~~
@@ -912,14 +1052,16 @@ Art. 48. Os órgãos ou as entidades de quaisquer dos Poderes da União, do Esta
 
 Art. 49. O atendimento nos canais do EXPRESSO será realizado por servidores lotados na Secretaria de Estado da Administração e nas unidades de atendimento específicas de órgãos e entidades que implantarem esses canais.
 
-§ 1º Os atendentes serão designados e qualificados pela SEAD, por meio da Subsecretaria de Inovação da Gestão e dos Serviços Públicos, via Superintendência de Gestão do Atendimento ao Cidadão, apoiada pela Diretoria-Executiva da Escola de Governo.<br>
+§ 1º Os atendentes serão designados e qualificados pela SEAD, por meio da Subsecretaria de Inovação da Gestão e dos Serviços Públicos, via Superintendência de Gestão do Atendimento ao Cidadão, apoiada pela Diretoria-Executiva da Escola de Governo.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 1° Os atendentes serão designados e qualificados pela Secretaria de Estado da Administração, por meio da Subsecretaria de Administração e Desburocratização da Gestão Pública, via a Superintendência de Gestão do Atendimento ao Cidadão, apoiada pela Superintendência da Escola de Governo.~~
 
 § 2° O requisito mínimo de escolaridade para intermediar o atendimento nos canais do EXPRESSO é nível médio completo.
 
-§ 3º As competências, habilidades, experiência mínima, capacitação e treinamento necessários para intermediar o atendimento nos canais do EXPRESSO seguirão as diretrizes definidas pela Subsecretaria de Inovação da Gestão e dos Serviços Públicos, via Superintendência de Gestão do Atendimento ao Cidadão, por ato do titular da SEAD.<br>
+§ 3º As competências, habilidades, experiência mínima, capacitação e treinamento necessários para intermediar o atendimento nos canais do EXPRESSO seguirão as diretrizes definidas pela Subsecretaria de Inovação da Gestão e dos Serviços Públicos, via Superintendência de Gestão do Atendimento ao Cidadão, por ato do titular da SEAD.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~§ 3° As competências, habilidades, experiência mínima, capacitação e treinamento necessários para intermediar o atendimento nos canais do EXPRESSO seguirão as diretrizes definidas pela Subsecretaria de Administração e Desburocratização da Gestão Pública, via a Superintendência de Gestão do Atendimento ao Cidadão, por meio de ato do Secretário de Estado da Administração.~~
@@ -936,7 +1078,8 @@ II – realizam o atendimento nos Balcões EXPRESSO de Atendimento Expresso ao C
 
 III – estejam lotados na Unidade Central Digital EXPRESSO, vinculada à Gerência de Tecnologia da Superintendência de Gestão Integrada, até o limite de 25 servidores; ou
 
-IV – estejam lotados na Superintendência de Gestão do Atendimento ao Cidadão e na Gerência de Infraestrutura e Manutenção Predial da Superintendência de Gestão Integrada, nesta última, até o limite de 20 (vinte) servidores.<br>
+IV – estejam lotados na Superintendência de Gestão do Atendimento ao Cidadão e na Gerência de Infraestrutura e Manutenção Predial da Superintendência de Gestão Integrada, nesta última, até o limite de 20 (vinte) servidores.
+
 \-  [Redação dada pela Lei no 21.239, de 12-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104775).
 
 ~~IV – estejam lotados na Superintendência de Gestão do Atendimento ao Cidadão.~~
@@ -1003,7 +1146,8 @@ CAPÍTULO VIII
 
 DAS DISPOSIÇÕES FINAIS
 
-Art. 60. Ficam a SEAD, a SGG e a CASA CIVIL responsáveis pelo fiel cumprimento e pela operacionalização desta Lei.<br>
+Art. 60. Ficam a SEAD, a SGG e a CASA CIVIL responsáveis pelo fiel cumprimento e pela operacionalização desta Lei.
+
 \- [Redação dada pela Lei nº 23.584, de 19-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111157).
 
 ~~Art. 60. Ficam a Secretaria de Estado da Administração, a Secretaria de Estado de Desenvolvimento e Inovação e a Secretaria de Estado da Casa Civil responsáveis pelo fiel cumprimento e operacionalização desta Lei.~~
@@ -1018,5 +1162,6 @@ Goiânia, 2 de setembro de 2020; 132° da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

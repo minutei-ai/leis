@@ -1,5 +1,3 @@
-###DEC-007932-0-000-19-02-2013-PUB-01@@@
-
 DECRETO Nº 7.932, DE 19 DE FEVEREIRO DE 2013
 
 Altera o Estatuto Social da Empresa Brasil de Comunicação, aprovado pelo Decreto nº 6.689, de 11 de dezembro de 2008.

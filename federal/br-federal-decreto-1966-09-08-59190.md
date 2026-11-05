@@ -1,5 +1,3 @@
-###DEC-059190-0-000-08-09-1966@@@
-
 DECRETO Nº 59.190, de 8 de setembro de 1966.
 
 Dispõe sobre a adição de álcool anidro à gasolina automotiva consumida no País e dá outras providências.

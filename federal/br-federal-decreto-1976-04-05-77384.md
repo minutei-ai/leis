@@ -1,5 +1,3 @@
-###DEC-077384-0-000-05-04-1976@@@
-
 decreto nº 77.384 - de 5 de abril de 1976
 
 Autoriza o Banco Central do Brasil a contratar empréstimo, no valor de US$ 18.000.000,00, em favor da República do Chile.

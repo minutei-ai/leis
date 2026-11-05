@@ -1,5 +1,3 @@
-###DEC-080479-0-000-03-10-1977@@@
-
 Decreto Nº 80.479, de 3 de outubro de 1977.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação, Ciências e Letras "Dom Domênico", com sede na cidade de Guarujá, Estado de São Paulo.

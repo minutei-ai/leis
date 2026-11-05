@@ -1,5 +1,3 @@
-###DEC-083128-0-000-05-02-1979@@@
-
 Decreto nº 83.128, de 05 de fevereiro de 1979.
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa.

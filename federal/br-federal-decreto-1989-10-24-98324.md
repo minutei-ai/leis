@@ -1,7 +1,3 @@
-1
-
-###DEC-098324-0-000-24-10-1989@@@
-
 DECRETO Nº 98.324, DE 24 DE OUTUBRO DE 1989
 
 Dispõe sobre o expediente, nas repartições públicas federais, no dia 2 de novembro de 1989.

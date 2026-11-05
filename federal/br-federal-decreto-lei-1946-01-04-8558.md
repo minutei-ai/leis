@@ -1,5 +1,3 @@
-###DEL-008558-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.558 – DE 4 DE JANEIRO DE 1946
 
 Cria cargos isolados de provimento efetivo, no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086346-0-000-08-09-1981@@@
-
 decreto nº 86.346, de 08 de setembro de 1981.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural que menciona, situado no Município de São José do Cedro, Estado de Santa Catarina, compreendido na área prioritária de reforma agrária fixado pelo Decreto nº 69.411, de 22 de outubro de 1971, ampliada pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

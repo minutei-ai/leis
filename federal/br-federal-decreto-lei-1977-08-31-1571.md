@@ -1,5 +1,3 @@
-###DEL-001571-0-000-31-08-1977@@@
-
 # DECRETO-LEI Nº 1.571, DE 31 DE AGOSto DE 1977
 
 Faculta, para fins de imposto de renda, adoção de coeficiente de depreciação acelerada de vagões, terminais, ramais e desvios ferroviários.

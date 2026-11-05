@@ -1,5 +1,3 @@
-###DEC-092153-0-000-16-12-1985@@@
-
 Decreto nº 92.153, de 16 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São Pedro", compreendido na referida área, no Município de Guaíba, no Estado do Rio Grande do Sul.

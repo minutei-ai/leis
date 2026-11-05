@@ -1,5 +1,3 @@
-###DEC-079997-0-000-20-07-1977@@@
-
 Decreto nº 79.997, de 20 de julho de 1977
 
 Abre à Justiça do Trabalho, em favor do Tribunal Superior do Trabalho, o crédito suplementar de Cr$ 1.302.000,00, para reforço de dotações consignadas no vigente Orçamento.

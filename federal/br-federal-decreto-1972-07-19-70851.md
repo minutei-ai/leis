@@ -1,5 +1,3 @@
-###DEC-070851-0-000-19-07-1972@@@
-
 DECRETO Nº 70.851, DE 19 DE JULHO DE 1972.
 
 Cria a Secretaria de Tecnologia Industrial, no Ministério da Indústria e do Comércio, e dá outras providências.

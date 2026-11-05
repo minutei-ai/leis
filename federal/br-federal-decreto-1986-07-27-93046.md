@@ -1,5 +1,3 @@
-###DEC-093046-0-000-27-07-1986@@@
-
 DECRETO Nº 93.046, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Ibiti", situado no Município de Itararé, no Estado de São Paulo, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

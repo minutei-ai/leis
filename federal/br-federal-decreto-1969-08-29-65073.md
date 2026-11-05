@@ -1,5 +1,3 @@
-###DEC-065073-0-000-29-08-1969@@@
-
 DECRETO Nº 65.073 - DE 29 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública o Hospital São Vicente de Paulo, com sede em Mantena, Estado de Minas Gerais.

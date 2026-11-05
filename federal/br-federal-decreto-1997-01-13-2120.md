@@ -1,5 +1,3 @@
-###DEC-002120-0-000-13-01-1997@@@
-
 DECRETO Nº 2.120, DE 13 DE JANEIRO DE 1997
 
 Dá nova redação aos arts. 5º, 6º, 10 e 11 do Decreto nº 99.274, de 6 de junho de 1990, que regulamenta as Leis nºs 6.902, de 27 de abril de 1981, e 6.938, de 31 de agosto de 1981.

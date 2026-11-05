@@ -1,5 +1,3 @@
-###DEC-086568-0-000-11-11-1981@@@
-
 Decreto nº 86.568, de 11 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Trombetas da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ.

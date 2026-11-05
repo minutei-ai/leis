@@ -1,5 +1,3 @@
-###DEC-064226-0-000-19-03-1969@@@
-
 DECRETO Nº 64.226, DE 19 de MARÇO DE 1969.
 
 Dispõe sôbre promoção de Agentes Fiscais, da Secretaria da Receita Federal do Ministério da Fazenda.

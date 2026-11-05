@@ -1,5 +1,3 @@
-###DEL-009586-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.586 – DE 16 DE AGÔSTO DE 1946
 
 Transfere a sede do 5º Distrito Naval

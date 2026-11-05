@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209626)<br>
-
 # DECRETO N° 68.648, DE 25 DE JUNHO DE 2024
 
 ### Institui, junto à Secretaria de Desenvolvimento Econômico, o Programa Estadual de Desenvolvimento das Cadeias Produtivas Locais - Programa SP Produz e dá providências correlatas.
@@ -122,7 +120,8 @@ Fraide Barrêto Sales  
 
 Andrezza Rosalém Vieira              
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o artigo 9° do Decreto n°  68.648, de 25 de junho de 2024    
 
 (A ser utilizado para celebração de parcerias com entidades que não se enquadrem no conceito de Organização da Sociedade Civil, contido no art. 2°, I, da Lei federal n° 13.019, de 31 de julho de 2014)    
@@ -291,7 +290,8 @@ Nome:  
 
 CPF:  
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 9° do Decreto n° 68.648, de 25 de junho de 2024    
 
 (A ser utilizado para celebração de parcerias com entidades que se enquadrem no conceito de Organização da Sociedade Civil contido no art. 2°, I, da Lei federal n° 13.019, de 2014)

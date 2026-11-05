@@ -1,5 +1,3 @@
-###DEC-074178-0-000-12-06-1974@@@
-
 DECRETO nº 74.178, de 12 de junho de 1974.
 
 Concede à empresa Société Nationale pour la Recherche, la Production, le Transport, la Transformation et la Commercialisation des Hydrocarbures - SONATRACH autorização para funcionar na República Federativa do Brasil.

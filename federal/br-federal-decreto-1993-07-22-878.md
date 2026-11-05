@@ -1,7 +1,3 @@
-1
-
-###DEC-000878-0-000-22-07-1993@@@
-
 DECRETO N° 878, DE 22 DE JULHO DE 1993
 
 Altera o Decreto n° 70.198, de 24 de fevereiro de 1972, que regulamenta a tarifa de utilização de faróis.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098184-0-000-27-09-1989@@@
-
 DECRETO Nº 98.184, DE 27 DE SETEMBRO DE 1989
 
 Prorroga o prazo a que se refere o art. 1º do Decreto nº 97.885, de 28 de junho de 1989, que cria Comissão Interministerial para o fim que indica, e dá outras providências.

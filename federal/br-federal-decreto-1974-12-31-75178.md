@@ -1,5 +1,3 @@
-###DEC-075178-0-000-31-12-1974@@@
-
 DECRETO Nº 75.178, DE 31 DE DEZEMBRO DE 1974.
 
 Concede à Mineração Catalão de Goiás S.A., o direito de lavrar nióbio no Município de Ouvidor, Estado de Goiás.

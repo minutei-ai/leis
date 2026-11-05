@@ -1,5 +1,3 @@
-###DEC-049385-0-000-30-11-1960@@@
-
 DECRETO Nº 49.385, DE 30 DE NOVEMBRO DE 1960.
 
 Altera os Decretos Nºs. 48.279 de 9 de junho de 1960 e 48.864 de 18 agôsto de 1960.

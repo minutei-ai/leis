@@ -1,5 +1,3 @@
-###DEL-007311-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.311 – DE 8 DE FEVEREIRO DE 1945
 
 Cria, no Ministério da Fazenda, os Cursos de Aperfeiçoamento, e dá outras providências

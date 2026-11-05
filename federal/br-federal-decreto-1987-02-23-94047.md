@@ -1,5 +1,3 @@
-###DEC-094047-0-000-23-02-1987@@@
-
 DECRETO Nº 94.047, DE 23 DE FEVEREIRO DE 1987.
 
 Outorga concessão ao SISTEMA CLUBE DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tuntum, Estado do Maranhão.

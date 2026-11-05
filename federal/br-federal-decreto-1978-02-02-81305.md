@@ -1,5 +1,3 @@
-###DEC-081305-0-000-02-02-1978@@@
-
 Decreto nº 81 305, de 2 de fevereiro de 1978.
 
 Concede a João Salgueiro - Firma Individual o direito de lavrar calcário dolomítico no Município de Rio Pardo, Estado do Rio Grande do Sul.

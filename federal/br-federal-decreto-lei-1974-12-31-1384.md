@@ -1,5 +1,3 @@
-###DEL-001384-0-000-31-12-1974@@@
-
 # dECRETO-LEI Nº 1.384, DE 31 DE DEZEMBRO DE 1974
 
 Reajusta os vencimentos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000613-0-000-04-06-1969@@@
-
 DECRETO-LEI Nº 613, DE 4 DE JUNHO DE 1969
 
 Autoriza a reversão de imóvel ao Estado da Bahia

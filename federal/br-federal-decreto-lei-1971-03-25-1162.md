@@ -1,5 +1,3 @@
-###DEL-001162-0-000-25-03-1971@@@
-
 # DECRETO-LEI Nº 1.162, De 25 de MARÇO DE 1971
 
 Dispõe sôbre a subscrição pública de ações do Banco da Amazônia Sociedade Anônima.

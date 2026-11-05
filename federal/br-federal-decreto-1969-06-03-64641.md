@@ -1,5 +1,3 @@
-###DEC-064641-0-000-03-06-1969@@@
-
 DECRETO Nº 64.641, DE 3 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 17.033, de 1 de novembro de 1944.

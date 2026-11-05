@@ -1,5 +1,3 @@
-###DEC-081119-0-000-23-12-1977@@@
-
 Decreto nº 81.119, de 23 de dezembro de 1977.
 
 Autoriza a concessão de garantia da União a operação de crédito externo a serem contratadas pela Companhia do Metropolitano do Rio de Janeiro - METRÔ.

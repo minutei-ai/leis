@@ -1,5 +1,3 @@
-###DEC-062530-0-000-16-04-1968@@@
-
 DECRETO Nº 62.530, DE 16 DE ABRIL DE 1968.
 
 Concede permissão à S.A.I.R.F. Matarazzo (Sociedade Anônima Industrias F. Matarazzo), com fábrica de Papel e Papelão Belenzinho, na Capital de São Paulo, à Rua Intendência nº 177, para funcionar com seu setor de purificação e alvejamento, incluídas as operações químicas propriamente ditas e a de supervisão e manutenção, aos domingos e nos feriados civis e religiosos.

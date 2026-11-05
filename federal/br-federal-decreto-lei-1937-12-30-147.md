@@ -1,5 +1,3 @@
-###DEL-000147-0-000-30-12-1937@@@
-
 DECRETO-LEI N. 147 – DE 30 DE DEZEMBRO DE 1937
 
 Concede subvenção ao Aero Clube do Brasil e ao Aero Clube de São Paulo

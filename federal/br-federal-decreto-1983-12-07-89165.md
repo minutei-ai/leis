@@ -1,5 +1,3 @@
-###DEC-089165-0-000-07-12-1983@@@
-
 Decreto nº 89.165, de 7 de dezembro de 1983
 
 Altera dispositivo do Decreto nº 71.246, de 13 de outubro de 1972, que cria o Conselho Superior de Economia e Finanças da Aeronáutica.

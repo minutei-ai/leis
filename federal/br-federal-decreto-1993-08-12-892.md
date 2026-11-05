@@ -1,7 +1,3 @@
-1
-
-###DEC-000892-0-000-12-08-1993@@@
-
 DECRETO N° 892, DE 12 DE AGOSTO DE 1993
 
 Define orientação para o processo de implantação do Sistema de Vigilância da Amazônia.

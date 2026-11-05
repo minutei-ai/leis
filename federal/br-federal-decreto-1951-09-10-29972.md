@@ -1,20 +1,18 @@
-###DEC-029972-0-000-10-09-1951@@@
+**DECRETO DE 29.972, DE 10 DE SETEMBRO DE 1951.**
 
-<strong>DECRETO DE 29.972, DE 10 DE SETEMBRO DE 1951.</strong>
+***Outorga a Sabino Gomes Cardoso concessão para o aproveitamento de energia hidráulica da cachoeira Bicuiba, existente no Rio Glória, Distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Sabino Gomes Cardoso concessão para o aproveitamento de energia hidráulica da cachoeira Bicuiba, existente no Rio Glória, Distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º E’ outorgada a Sabino Gomes Cardoso concessão para o aproveitamento progressivo da energia hidráulica da cahoeira Bicuiba, existente no Rio Glória, Distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.
+**Art**. 1º E’ outorgada a Sabino Gomes Cardoso concessão para o aproveitamento progressivo da energia hidráulica da cahoeira Bicuiba, existente no Rio Glória, Distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga da derivação e a potência da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à proução, transmissão e distribuição de energia elétrica paar serviço público, de utilidade pública e para comércio de energia elétrica no povoado de Fervedouro, distrito de Alvorada, e no distrito de São Francisco da Glória excetuada a sede respectiva, ambos esses distritos pertencentes ao município de Carangola, Estado de Minas Gerais.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional daa Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,30 +98,30 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere este artigo poderão ser prorrogadas por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a renumerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a renumerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art.180 do Código de Águas.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art.180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutensão da integridade do capital a que se refere o art.4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutensão da integridade do capital a que se refere o art.4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêste fundo, que se denominará reserva de renovação, será realizada por cota especial, que inccidirá sôbre as tarifas, sob forma de percentagem. Esta cota será determinada tendo-se em vista aduração média do material e cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em fundação exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art.6º.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em fundação exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art.6º.
 
 § 1º O concessionário poderá recorrer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de Minas Gerais não se opõe a utilização dos bens objeto da reversão.
 
 § 2º O concessionário deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contando com a data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contando com a data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10. Ficam revogados o Decreto nº 28.528, de 22 de agôsto de 1950, e outras disposições em contrário.
+**Art**. 10. Ficam revogados o Decreto nº 28.528, de 22 de agôsto de 1950, e outras disposições em contrário.
 
 Rio de Janeiro, 10 de setembro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

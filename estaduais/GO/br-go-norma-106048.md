@@ -98,8 +98,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação, porém produz efei
 
 Goiânia, 6 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

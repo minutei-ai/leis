@@ -1,5 +1,3 @@
-###DEC-084428-0-000-24-01-1980@@@
-
 DECRETO Nº 84.428, DE 24 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado do Amazonas.

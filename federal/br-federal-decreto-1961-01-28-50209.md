@@ -1,5 +1,3 @@
-###DEC-050209-0-000-28-01-1961@@@
-
 DECRETO Nº 50.209, DE 28 DE JANEIRO DE 1961.
 
 Altera, por necessidade de serviço, a lotação de repartições do Ministério do Trabalho, Indústria e Comércio.

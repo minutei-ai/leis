@@ -1,5 +1,3 @@
-###DEC-005608-0-000-08-12-2005@@@
-
 DECRETO Nº 5.608, DE 8 DE DEZEMBRO DE 2005.
 
 Altera o Anexo XI do Decreto no 5.379, de 25 de fevereiro de 2005, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2005, e dá outras providências.
@@ -24,7 +22,11 @@ ANEXO
 
  Programações selecionadas nos termos do § 3o do art. 16 da Lei no 10.934, de 11 de agosto de 2004 (LDO-2005)
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:441pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Órgão / Unidade Orçamentária / Função / Subfunção / Programa / Localizador de Gastos</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:441pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top">
+
+Órgão / Unidade Orçamentária / Função / Subfunção / Programa / Localizador de Gastos
+
+</td></tr></tbody></table>
 
 39000 Ministério dos Transportes
 

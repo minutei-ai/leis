@@ -1,5 +1,3 @@
-###DEC-051078-0-000-31-07-1961@@@
-
 Decreto Nº 51.078, DE 31 DE JULHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 37.130, de 4 de abril de 1955, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Choró, no município de Quixada, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-056464-0-000-15-06-1965@@@
-
 DECRETO Nº 56.464, DE 15 DE JUNHO DE 1965.
 
 Dispõe sôbre o aproveitamento do pessoal da Companhia Urbanizadora da Nova Capital do Brasil, a que se refere o art. 40 da Lei número 4.242, de 17 de julho de 1963, e dá outras providências.

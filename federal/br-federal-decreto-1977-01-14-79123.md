@@ -1,5 +1,3 @@
-###DEC-079123-0-000-14-01-1977@@@
-
 DECRETO Nº 79.123, DE 14 DE JANEIRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

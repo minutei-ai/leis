@@ -1,5 +1,3 @@
-###DEC-048153-0-000-06-05-1960@@@
-
 DECRETO Nº 48.153, DE 6 DE MAIO DE 1960.
 
 Revoga o Decreto que concedeu à sociedade anônima Jones & Laughlin International Company, autorização para funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-086955-0-000-18-02-1982@@@
-
 Decreto nº 86.955, de 18 de fevereiro de 1982
 
 Regulamenta a Lei nº 6.894, de 16 de dezembro de 1980, alterada pela Lei nº 6.934, de 13 de julho de 1981, que dispõe sobre a inspeção e a fiscalização da produção e do comércio de fertilizantes, corretivos, inoculantes, estimulantes ou biofertilizantes destinados à agricultura, e pelo Decreto-lei nº 1.899, de 1981, que institui taxas relativas às atividades do Ministério da Agricultura.
@@ -200,7 +198,25 @@ Art. 25 - Ocorrendo divergência entre os resultados obtidos, pelos peritos ser�
 
 § 1º - Para os fertilizantes que contenham nitrogênio, fósforo e potássio, os resultados obtidos pelos peritos serão considerados divergentes, quando as diferenças encontradas excederem, em relação aos teores dos nutrientes, os seguintes valores unitários:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">TEORES</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">N, P</span><span style="font-family:'Times New Roman'; font-size:0.8em; vertical-align:-2pt">2</span><span style="font-family:'Times New Roman'"> O</span><span style="font-family:'Times New Roman'; font-size:0.8em; vertical-align:-2pt">5</span><span style="font-family:'Times New Roman'"> ou K</span><span style="font-family:'Times New Roman'; font-size:0.8em; vertical-align:-2pt">2</span><span style="font-family:'Times New Roman'">O</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Até 5</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">± 0,30</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 5 e até 10</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">± 0,60</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 10 e até 25</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">± 0,80</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 25</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">± 1,00</span></p></td></tr></tbody></table>
+TEORES
+
+N, P2 O5 ou K2O
+
+Até 5
+
+± 0,30
+
+acima de 5 e até 10
+
+± 0,60
+
+acima de 10 e até 25
+
+± 0,80
+
+acima de 25
+
+± 1,00
 
 § 2º - Em se tratando de corretivos de acidez, alcalinidade e salinidade, os resultados serão considerados divergentes quando as diferenças excederem a 0,5 (meia unidade).
 
@@ -216,7 +232,27 @@ Art. 28 - Serão considerados como indícios de fraude ou adulteração os resul
 
 I - quanto aos fertilizantes e corretivos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 0 a 4,9</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 60% por componente;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 5 a 9,9</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 50% por componente;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 10 a 19,9</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 40% por componente;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 20 a 39,9</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">30% por componente;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 40</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">25% por componente;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">pela soma dos componentes - 30%;</span></p></td><td style="width:209.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+de 0 a 4,9
+
+- 60% por componente;
+
+de 5 a 9,9
+
+- 50% por componente;
+
+de 10 a 19,9
+
+- 40% por componente;
+
+de 20 a 39,9
+
+30% por componente;
+
+acima de 40
+
+25% por componente;
+
+pela soma dos componentes - 30%;
 
 II - quanto aos inoculantes:
 
@@ -388,11 +424,43 @@ b) dos macronutrientes secundários e micronutrientes quando comercializados em 
 
 c) dos macronutrientes secundários e micronutrientes quando comercializados isoladamente:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">DEFICIÊNCIA (%)</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">MULTA (MVR)</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10,1 a 25</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20 a 50</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">25,1 a 50</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50 a 150</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 50</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">150 a 1.000</span></p></td></tr></tbody></table>
+DEFICIÊNCIA (%)
+
+MULTA (MVR)
+
+10,1 a 25
+
+20 a 50
+
+25,1 a 50
+
+50 a 150
+
+acima de 50
+
+150 a 1.000
 
 d)dos corretivos de acidez:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">DEFICIÊNCIA (%)</span></p></td><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">MULTA (MVR)</span></p></td></tr><tr><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10,1 a 25 da soma dos óxidos ou 21,1 a 35 do óxido de magnésio</span></p></td><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10 a 20</span></p></td></tr><tr><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">25,1 a 40 da soma dos óxidos ou 35,1 a 50 do óxido de magnésio</span></p></td><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20 a 50</span></p></td></tr><tr><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">40,1 a 50 da soma dos óxidos ou acima de 50 do óxido de magnésio</span></p></td><td style="width:212.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50 a 150</span></p></td></tr><tr><td style="width:212.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 50 da soma dos óxidos e acima de 50 do óxido de magnésio</span></p></td><td style="width:212.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">150 a 1.000</span></p></td></tr></tbody></table>
+DEFICIÊNCIA (%)
+
+MULTA (MVR)
+
+10,1 a 25 da soma dos óxidos ou 21,1 a 35 do óxido de magnésio
+
+10 a 20
+
+25,1 a 40 da soma dos óxidos ou 35,1 a 50 do óxido de magnésio
+
+20 a 50
+
+40,1 a 50 da soma dos óxidos ou acima de 50 do óxido de magnésio
+
+50 a 150
+
+acima de 50 da soma dos óxidos e acima de 50 do óxido de magnésio
+
+150 a 1.000
 
 e) dos corretivos de alcalinidade e salinidade e do poder de neutralização dos corretivos de acidez: 20 (vinte) a 100 (cem) MVR;
 
@@ -400,15 +468,65 @@ f) do inoculante amestrado no comércio, com teor abaixo de dez milhões de cél
 
 g) do inoculante amestrado na indústria;
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">CONCENTRAÇÃO DE CÉLULAS VIÁVEIS DE RIZÓBIO POR GRAMA DE PRODUTO</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">MULTA</span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp; </span><span style="font-family:'Times New Roman'">(MVR)</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a cem milhões e até setenta milhões</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10 a 20</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a setenta e até quarenta milhões</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20 a 50</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a quarenta e até dez milhões</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50 a 100</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a dez milhões</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">100 a 1.000</span></p></td></tr></tbody></table>
+CONCENTRAÇÃO DE CÉLULAS VIÁVEIS DE RIZÓBIO POR GRAMA DE PRODUTO
+
+MULTA  (MVR)
+
+inferior a cem milhões e até setenta milhões
+
+10 a 20
+
+inferior a setenta e até quarenta milhões
+
+20 a 50
+
+inferior a quarenta e até dez milhões
+
+50 a 100
+
+inferior a dez milhões
+
+100 a 1.000
 
 h)da granulometria dos produtos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">GRANULOMETRIA</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">MULTA</span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp; </span><span style="font-family:'Times New Roman'">(MVR)</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a 100 e até 90% das especificações</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20 a 50</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a 90 e até 70</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50 a 100</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">inferior a 70</span></p></td><td style="width:211.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">100 a 1.000</span></p></td></tr></tbody></table>
+GRANULOMETRIA
+
+MULTA  (MVR)
+
+inferior a 100 e até 90% das especificações
+
+20 a 50
+
+inferior a 90 e até 70
+
+50 a 100
+
+inferior a 70
+
+100 a 1.000
 
 i) da matéria orgânica dos fertilizantes orgânicos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">DEFICIÊNCIA %</span></p></td><td style="width:211.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">MULTA</span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp; </span><span style="font-family:'Times New Roman'">(MVR)</span></p></td></tr><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">superior a 10 e até 25</span></p></td><td style="width:211.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10 a 20</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">superior a 25 e até 35</span></p></td><td style="width:211.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20 a 50</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">superior a 35 e até 50</span></p></td><td style="width:211.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50 a 100</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">superior a 50</span></p></td><td style="width:211.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">100 a 1.000</span></p></td></tr></tbody></table>
+DEFICIÊNCIA %
+
+MULTA  (MVR)
+
+superior a 10 e até 25
+
+10 a 20
+
+superior a 25 e até 35
+
+20 a 50
+
+superior a 35 e até 50
+
+50 a 100
+
+superior a 50
+
+100 a 1.000
 
 j) da relação C/N, pH e umidade dos fertilizantes orgânicos: 20 (vinte) a 100 (cem) MVR;
 
@@ -500,7 +618,25 @@ c) quando houver reincidência da infração prevista nos artigos 46 e47.
 
 § 1º - Para efeito da aplicação da pena prevista na letra a, do ítem I, será observada a seguinte proporção:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">CONCENTRAÇÃO DO ELEMENTO EM %</span></p></td><td style="width:211.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">DEFICIÊNCIA EM %</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">até 5</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">50</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 5,1 a 10</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">40</span></p></td></tr><tr><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">de 10,1 a 20</span></p></td><td style="width:211.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">30</span></p></td></tr><tr><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">acima de 20</span></p></td><td style="width:211.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">25</span></p></td></tr></tbody></table>
+CONCENTRAÇÃO DO ELEMENTO EM %
+
+DEFICIÊNCIA EM %
+
+até 5
+
+50
+
+de 5,1 a 10
+
+40
+
+de 10,1 a 20
+
+30
+
+acima de 20
+
+25
 
 § 2º - A suspensão do registro não poderá ser superior:
 

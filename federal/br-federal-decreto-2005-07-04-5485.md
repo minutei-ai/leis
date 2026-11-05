@@ -1,5 +1,3 @@
-###DEC-005485-0-000-04-07-2005@@@
-
 DECRETO N o 5.485, DE 4 DE JULHO DE 2005
 
 Dá nova redação aos arts. 2 o e 3 o do Decreto n o 4.878, de 18 de novembro de 2003, que dispõe sobre a composição do Conselho Nacional de Saúde - CNS.

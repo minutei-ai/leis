@@ -1,5 +1,3 @@
-###DEL-003074-0-000-22-02-1941@@@
-
 DECRETO-LEI N. 3.074 – DE 22 DE FEVEREIRO DE 1941
 
 Unifica os Quadros do Serviço Rádio do Exército (Q.S.R.R.) e de Rádio Operadores Regionais (Q.R.O.R.) e dá outras providências

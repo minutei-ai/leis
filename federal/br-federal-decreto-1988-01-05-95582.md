@@ -1,7 +1,3 @@
-1
-
-###DEC-095582-0-000-05-01-1988@@@
-
 DECRETO N° 95.582, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO NOVOS TEMPOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ceará-Mirim, Estado do Rio Grande do Norte.

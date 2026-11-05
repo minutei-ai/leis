@@ -1,5 +1,3 @@
-###DEC-004973-0-000-30-01-2004@@@
-
 DECRETO Nº 4.973,  DE 30 DE JANEIRO DE 2004.
 
 Dispõe sobre a execução do Quadragésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 25 de junho de 2003.

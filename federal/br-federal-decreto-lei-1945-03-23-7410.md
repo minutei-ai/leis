@@ -1,5 +1,3 @@
-###DEL-007410-0-000-23-03-1945@@@
-
 DECRETO-LEI N. 7.410 – DE 23 DE MARÇO DE 1945
 
 Dispõe sôbre a concessão de ajuda de custo, transporte e diárias aos funcionários diplomáticos e consulares e dá outras providências

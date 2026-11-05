@@ -1,5 +1,3 @@
-###DEC-079663-0-000-05-05-1977@@@
-
 Decreto nº 79.663, de 5 de maio de 1977.
 
 Delega competência ao Ministro da Educação e Cultura para baixar os atos que especifica.

@@ -1,5 +1,3 @@
-###DEC-064994-0-000-14-08-1969@@@
-
 DECRETO Nº 64.994 - de 14 de Agôsto de 1969.
 
 Autoriza o Ministério da Fazenda a conceder a garantia do Tesouro Nacional a operação que específica.

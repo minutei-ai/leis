@@ -1,5 +1,3 @@
-###DEL-006110-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.110 – DE 16 DE DEZEMBRO DE 1943
 
 Dá nova redação ao art. 486, da Consolidação das Leis do Trabalho e deter­mina outras providências

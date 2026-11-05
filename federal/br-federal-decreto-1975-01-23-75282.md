@@ -1,5 +1,3 @@
-###DEC-075282-0-000-23-01-1975@@@
-
 DECRETO Nº 75.282, DE 23 DE JANEIRO DE 1975.
 
 Autoriza o aterro e a cessão, sob o regime de aforamento, dos terrenos que menciona, situados em Salvador, no Estado da Bahia.

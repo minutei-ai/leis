@@ -1,7 +1,3 @@
-1
-
-###MPV-000736-0-000-30-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 736, DE 30 DE NOVEMBRO DE 1994.
 
 Dispõe sobre a venda de veículos populares.

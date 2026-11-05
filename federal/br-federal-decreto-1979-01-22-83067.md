@@ -1,5 +1,3 @@
-###DEC-083067-0-000-22-01-1979@@@
-
 DECRETO Nº 83.067, DE 22 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Medicina Veterinária, ministrado pela Escola de Medicina Veterinária do Maranhão, com sede na cidade de São Luís, Estado do Maranhão.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3fc5582e-dc8d-4fd0-b8f0-67b9b35c9a3d/texto#nowhere)
 
-###DEL-000799-0-000-28-08-1969@@@
-
 DECRETO-LEI Nº 799, DE 28 DE AGôSTO DE 1969
 
 Reorganiza o Conselho Nacional de Transportes e dá outras providências.

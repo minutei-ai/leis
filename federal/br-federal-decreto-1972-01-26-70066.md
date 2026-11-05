@@ -1,5 +1,3 @@
-###DEC-070066-0-000-26-01-1972@@@
-
 DECRETO Nº 70.066, DE 26 DE JANEiRO DE 1972.
 
 Dispõe sobre o Programa Nacional de Teleducação (PRONTEL) e dá outras providências.

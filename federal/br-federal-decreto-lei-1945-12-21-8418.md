@@ -1,5 +1,3 @@
-###DEL-008418-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.418 – DE 21 DE DEZEMBRO DE 1945
 
 Isenta do pagamento de laudêmio a transferência de aforamento de terreno acrescido de marinha, que menciona, e do edifício nêle construído.

@@ -1,5 +1,3 @@
-###DEC-052155-0-000-25-06-1963@@@
-
 decreto nº 52.155, de 25 de junho de 1963.
 
 Fixa o preço básico mínimo para o financiamento ou aquisição de soja para o ano agrícola de 1963-64, extensivo aos remanescentes da produção - 1962-63.
@@ -29,8 +27,6 @@ joão goulart
 Carlos Alberto de Carvalho Pinto
 
 Oswaldo Lima Filho
-
-###DEC-052155-0-000-25-06-1963@@@RET01+++
 
 Decreto nº 52.155, de 25 de junho de 1963.
 

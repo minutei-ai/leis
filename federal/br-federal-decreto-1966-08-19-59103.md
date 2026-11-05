@@ -1,5 +1,3 @@
-###DEC-059103-0-000-19-08-1966@@@
-
 DECRETO Nº 59.103, DE 19 DE AGÔSTO DE 1966.
 
 Concede à Royal Exchange Assurance, autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

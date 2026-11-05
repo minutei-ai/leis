@@ -1,5 +1,3 @@
-###DEC-076208-0-000-04-09-1975@@@
-
 Decreto nº 76.208 - de 4 de setembro de 1975
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Ituverava, com sede na cidade de Ituverava, Estado de São Paulo.

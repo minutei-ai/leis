@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f1483f0-abf1-4365-a725-9fae534eb39c/texto#nowhere)
 
-###DEL-000533-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 533, DE 17 DE ABRIL DE 1969
 
 Autoriza o Govêrno do Estado da Guanabara a contrair empréstimo externo com a fiança do Banco do Estado da Guanabara S.A.

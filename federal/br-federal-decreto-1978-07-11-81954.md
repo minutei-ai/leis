@@ -1,5 +1,3 @@
-###DEC-081954-0-000-11-07-1978@@@
-
 Decreto nº 81.954, de 11 de julho de 1978.
 
 Concede à Sylvestre Souza & Cia. Ltda. o direito de lavrar calcário no Município de Pedro Leopoldo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-079364-0-000-09-03-1977@@@
-
 decreto nº 79.364, de 9 de março de 1977.
 
 Concede à Companhia de Cimento Portland Diamante, o direito de lavrar calcário e argila, no Município de Corinto, Estado de Minas Gerais.

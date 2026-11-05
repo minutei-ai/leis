@@ -1,5 +1,3 @@
-###LCP-000057-0-000-18-12-1987@@@
-
 # LEI COMPLEMENTAR Nº 57, DE 18 DE DEZEMBRO DE 1987
 
 Altera dispositivos da Lei Complementar nº 48, de 10 de dezembro de 1984.

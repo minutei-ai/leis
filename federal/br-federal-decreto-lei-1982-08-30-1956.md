@@ -1,5 +1,3 @@
-###DEL-001956-0-000-30-08-1982@@@
-
 # DEcreto-lei nº 1.956, de 30 de agosto de 1982
 
 Autoriza o Conselho Interministerial do Programa Grande Carajás a conceder isenção ou redução do Imposto de Importação e do Imposto sobre Produtos Industrializados.

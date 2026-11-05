@@ -1,5 +1,3 @@
-###DEC-057940-0-000-10-03-1966@@@
-
 DECRETO Nº 57.940, DE 10 DE MARÇO DE 1966.
 
 Revoga o Regulamento das Escolas Preparatórias (R-114), aprovado pelo Decreto nº 18.732 de 28 de maio de 1945 e dá outras providências.

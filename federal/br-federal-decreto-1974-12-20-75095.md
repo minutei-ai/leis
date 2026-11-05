@@ -1,5 +1,3 @@
-###DEC-075095-0-000-20-12-1974@@@
-
 DECRETO nº 75.095, DE 20 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a reclassificação de cargos integrantes do Quadro de Pessoal da Universidade Federal da Bahia, bem como o enquadramento de seus atuais ocupantes.

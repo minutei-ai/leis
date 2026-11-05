@@ -1,5 +1,3 @@
-###DEC-049688-0-000-31-12-1960@@@
-
 DECRETO Nº 49.688, DE 31 DE Dezembro DE 1960.
 
 Autoriza o Departamento de Águas e Energia da Secretaria de Viação e Obras Publicas do Estado de Alagoas a instalar um grupo diesel elétrico.

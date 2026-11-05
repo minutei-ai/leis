@@ -1,5 +1,3 @@
-###DEC-056430-0-000-08-06-1965@@@
-
 Decreto nº 56.430, de 8 de junho de 1965.
 
 Autoriza o cidadão brasileiro Walter Johann Dreyer a pesquisar bauxita, no município de Itanhandu, Estado de Minas Gerais.

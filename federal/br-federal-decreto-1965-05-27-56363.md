@@ -1,5 +1,3 @@
-###DEC-056363-0-000-27-05-1965@@@
-
 DECRETO Nº 56.363, DE 27 DE MAIO DE 1965.
 
 Acrescenta a letra “I’ ao art. 27 e dá nova redação ao nº 9, do art. 32, do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951 e alterado pelo de nº 51.961, de 26 de abril de 1963 (RUPE) e torna insubsistente o Decreto número 55.763, de 17 de fevereiro de 1965.

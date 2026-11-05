@@ -1,5 +1,3 @@
-###DEC-045313-0-000-27-01-1959@@@
-
 DECRETO Nº 45.313, DE 27 DE JANEIRO DE 1959.
 
 Concede à Pedrex Limitada autorização para funcionar como emprêsa de Mineração.

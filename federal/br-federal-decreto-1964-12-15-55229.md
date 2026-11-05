@@ -1,5 +1,3 @@
-###DEC-055229-0-000-15-12-1964@@@
-
 Decreto Nº 55.229, DE 15 DE DEZEMBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros Aliança Brasileira, relativa ao aumento do capital social.

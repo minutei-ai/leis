@@ -1,5 +1,3 @@
-###DEC-052968-0-000-26-11-1963@@@
-
 Decreto nº 52.968, de 26 de novembro de 1963.
 
 Autoriza a Carbonífera Criciúma Ltda. a lavrar carvão mineral no município de Criciúma, Estado de Santa Catarina.

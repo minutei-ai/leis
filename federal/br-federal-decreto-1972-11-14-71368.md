@@ -1,5 +1,3 @@
-###DEC-071368-0-000-14-11-1972@@@
-
 DECRETO Nº 71.368 - DE 14 DE NOVEMBRO DE 1972.
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal do Ministério da Agricultura para o da Superintendência Nacional do Abastecimento, e dá outras providências.

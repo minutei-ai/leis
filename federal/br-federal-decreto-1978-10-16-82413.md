@@ -1,5 +1,3 @@
-###DEC-082413-0-000-16-10-1978@@@
-
 Decreto nº 82 413 de 16 de outubro de 1978
 
 Concede reconhecimento aos cursos de Serviço Social e de Educação Física, ministrados pela Universidade Estadual de Ponta Grossa, com sede na cidade de Ponta Grossa, Estado do Paraná.

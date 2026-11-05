@@ -1,5 +1,3 @@
-###DEC-092344-0-000-29-01-1986@@@
-
 DECRETO Nº 92.344, DE 29 DE JANEIRO DE 1986
 
 Institui o Programa de Irrigação do Nordeste - PROINE e dá outras providências.

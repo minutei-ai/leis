@@ -1,5 +1,3 @@
-###DEC-003483-0-000-23-05-2000@@@
-
 DECRETO Nº 3.483, DE 23 DE MAIO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.096, de 25 de junho de 1999.

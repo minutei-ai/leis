@@ -1,5 +1,3 @@
-###DEC-064122-0-000-19-02-1969@@@
-
 DECRETO Nº 64.122, DE 19 DE FEVEREIRO DE 1969.
 
 Altera o artigo 25 do Regimento da Secretaria de Estado das Relações Exteriores, aprovado pelo Decreto nº 12.343, de 5 de maio de 1943.

@@ -1,5 +1,3 @@
-###DEC-090798-0-000-10-01-1985@@@
-
 Decreto nº 90.798, de 10 de janeiro de 1985.
 
 Declara de utilidade pública, para fins  de desapropriação, áreas de terra necessárias à implantação das subestações Reginópolis e Pongaí da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

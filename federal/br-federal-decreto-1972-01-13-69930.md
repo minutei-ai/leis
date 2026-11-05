@@ -1,5 +1,3 @@
-###DEC-069930-0-000-13-01-1972@@@
-
 DECRETO Nº 69.930, DE 13 DE JANEIRO DE 1972.
 
 Redistribui, com o receptivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

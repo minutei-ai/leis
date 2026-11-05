@@ -1,5 +1,3 @@
-###DEC-067685-0-000-30-11-1970@@@
-
 DECRETO Nº 67.685, DE 30 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Fundação Norte Fluminense de Desenvolvimento Regional, com sede em Campos, Estado do Rio de Janeiro.

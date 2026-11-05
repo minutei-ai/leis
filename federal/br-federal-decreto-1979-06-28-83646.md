@@ -1,5 +1,3 @@
-###DEC-083646-0-000-28-06-1979@@@
-
 Decreto nº 83.646, de 28 de junho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Várzea Grande, Estado de Mato Grosso.

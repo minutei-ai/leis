@@ -12,7 +12,8 @@ Art. 1º - Fica concedida à viúva do Juiz de Direito Jonas de Carvalho Gomes, 
 
 Art. 2º  - As despesas decorrentes da abertura do presente crédito correrão por conta da verba 3.05.08 - 1.6.21.1, do orçamento vigente.
 
-Redação de acordo com a Lei nº 1.943, de 26 de agosto de 1963.<br>
+Redação de acordo com a Lei nº 1.943, de 26 de agosto de 1963.
+
 Redação original: "Art. 2º - O Poder Executivo fica autorizado a abrir, no corrente exercício, na Secretaria da Fazenda, o necessário crédito à conta da Consignação 1.6.00 - sub-consignação 8.07.4-1.6.21, do Orçamento em vigor." 
 
 Art. 3º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
@@ -27,4 +28,4 @@ Joel Muniz
 
 Luciano Soares
 
-* * *
+ *

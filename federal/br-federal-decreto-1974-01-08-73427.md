@@ -1,5 +1,3 @@
-###DEC-073427-0-000-08-01-1974@@@
-
 DECRETO Nº 73.427, DE 8 DE JANEIRO DE 1974.
 
 Retifica redistribuição de cargo, com a respectiva ocupante.

@@ -1,5 +1,3 @@
-###DEC-055233-0-000-16-12-1964@@@
-
 DECRETO Nº 55.233, DE 16 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Raul Finazzi a lavrar argila, nos municípios de Itapira e Mogi Mirim, no Estado de São Paulo.

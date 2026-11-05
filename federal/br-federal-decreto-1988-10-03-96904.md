@@ -1,5 +1,3 @@
-###DEC-096904-0-000-03-10-1988@@@
-
 DECRETO N° 96.904, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a estrutura básica da Superintendência de Seguros Priva dos  SUSEP e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-060026-0-000-11-01-1967@@@
-
 Decreto nº 60.026, de 11 de janeiro de 1967.
 
 Autoriza Isaac Arditti & Cia. Ltda. a lavrar minério de manganês, no município de Miguel Calmon, Estado da Bahia.

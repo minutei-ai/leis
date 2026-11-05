@@ -1,5 +1,3 @@
-###DEC-007945-0-000-07-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.945, DE 7 DE MARÇO DE 2013
 
 Altera os Decretos nº 5.163, de 30 de julho de 2004 e nº 7.891, de 23 de janeiro de 2013.

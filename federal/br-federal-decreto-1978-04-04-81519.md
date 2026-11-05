@@ -1,5 +1,3 @@
-###DEC-081519-0-000-04-04-1978@@@
-
 Decreto nº 81.519, de 04 de abril de 1978.
 
 Regulamenta a Lei nº 6.511, de 19 de dezembro de 1977, que dispõe sobre os Prêmios Literários Nacionais.

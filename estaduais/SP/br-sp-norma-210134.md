@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210134)<br>
-
 # DECRETO N° 68.987, DE 21 DE OUTUBRO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Combatente Luiz Caetano de Moura", instituída pela Associação dos Ex-Combatentes da FEB Região Bragantina, e dá providências correlatas._

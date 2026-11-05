@@ -1,5 +1,3 @@
-###MPV-002181-0-043-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.181‑43, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

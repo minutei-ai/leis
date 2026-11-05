@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69368)
-
 # LEI Nº 12.472, DE 26 DE DEZEMBRO DE 2006
 
 ### _Dispõe sobre o subsídio dos Deputados Estaduais no exercício financeiro de 2007_

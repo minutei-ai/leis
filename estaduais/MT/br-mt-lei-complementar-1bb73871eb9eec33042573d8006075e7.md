@@ -1,12 +1,12 @@
-**LEI COMPLEMENTAR N° 305, DE 17 DE JANEIRO DE 2008.**<br>
-<br>
-. Autor: Poder Executivo<br>
-. Publicada no DOE de 17.01.2008, p. 5.<br>
+**LEI COMPLEMENTAR N° 305, DE 17 DE JANEIRO DE 2008.**
+
+. Autor: Poder Executivo
+
+. Publicada no DOE de 17.01.2008, p. 5.
+
 . Alterou LC [266](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/d796b7eb31f912bb04257264005c41e0?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20266%2C%20DE%2029)
 
 **Altera a** [**Lei Complementar nº 111**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0988c5946037a9c804256beb006b4f51?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20111%2F02)**, de 1º de julho de 2002, criando a Subprocuradoria-Geral de Gestão de Pessoal, e dá outras providências.**
-
-<br>
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO,** tendo em vista o que dispõe o Art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
@@ -42,11 +42,10 @@ I - representar o Estado em qualquer instância ou juízo, como autor, réu ou t
 
 (...)
 
-<br>
-“**Seção IX**<br>
+“**Seção IX**
+
 **Da Subprocuradoria-Geral de Gestão de Pessoal**
 
-<br>
 Art. 24–B À Subprocuradoria-Geral de Gestão de Pessoal compete:
 
 I – desempenhar, no Estado de Mato Grosso e relativamente às demandas de sua competência, as atribuições da Subprocuradoria-Geral Judicial e da Subprocuradoria-Geral Administrativa, emitindo pareceres em processos que versem sobre o regime jurídico e previdenciário dos servidores públicos estaduais ativos e inativos;
@@ -135,25 +134,44 @@ X – ao pagamento, ao Procurador do Estado em efetivo exercício, de auxílio-t
 
 Palácio Paiaguás, em Cuiabá, 17 de janeiro de 2008, 187º da Independência e 120º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CARLOS BRITO DE LIMA<br>
-ORESTES TEODORO DE OLIVEIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-EDMILSON JOSÉ DOS SANTOS<br>
-JOÃO ANTÔNIO CUIABANO MALHEIROS<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-NELDO EGON WEIRICH<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-PEDRO JAMIL NADAF<br>
-VILCEU FRANCISCO MARCHETTI<br>
-SÁGUAS MORAES SOUZA<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-AUGUSTINHO MORO<br>
-LUIS HENRIQUE CHAVES DALDEGAN<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CARLOS BRITO DE LIMA
+
+ORESTES TEODORO DE OLIVEIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+EDMILSON JOSÉ DOS SANTOS
+
+JOÃO ANTÔNIO CUIABANO MALHEIROS
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+NELDO EGON WEIRICH
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+PEDRO JAMIL NADAF
+
+VILCEU FRANCISCO MARCHETTI
+
+SÁGUAS MORAES SOUZA
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+AUGUSTINHO MORO
+
+LUIS HENRIQUE CHAVES DALDEGAN
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FRANCISCO TARQUÍNIO DALTRO

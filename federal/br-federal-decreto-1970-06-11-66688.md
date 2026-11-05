@@ -1,5 +1,3 @@
-###DEC-066688-0-000-11-06-1970@@@
-
 DECRETO Nº 66.688, DE 11 DE JUNHO DE 1970.
 
 Declara de utilidade pública o Instituto Brasileiro de Investigações Cárdio-Vasculares - I.B.I.C., com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-002833-0-000-29-10-1998@@@
-
 DECRETO Nº 2.833, DE 29 DE OUTUBRO DE 1998
 
 Promulga o Acordo de Cooperação Técnica, Científica e Tecnológica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República de El Salvador, em 20 de maio de 1986.
@@ -144,4 +142,20 @@ Em testemunho do que, os abaixo-assinados, devidamente autorizados por seus resp
 
 Feito em Brasília, aos 20 dias do mês de maio de 1986, em dois originais nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:201.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República de El Salvador</span></p></td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Roberto de Abreu Sodré</span></p></td><td style="width:201.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ricardo Acevedo Peralta</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:201.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República de El Salvador
+
+</td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Roberto de Abreu Sodré
+
+</td><td style="width:201.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ricardo Acevedo Peralta
+
+</td></tr></tbody></table>

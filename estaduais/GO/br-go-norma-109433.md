@@ -2868,8 +2868,6 @@ Art. 244. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 2 de setembro de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

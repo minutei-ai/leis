@@ -1,5 +1,3 @@
-###DEC-056754-0-000-19-08-1965@@@
-
 DECRETO Nº 56.754, DE 19 DE AGÔSTO DE 1965.
 
 Efetivo das turmas da Escola de Comando e Estado-Maior da Aeronáutica, para o ano de 1966.

@@ -1,5 +1,3 @@
-###DEC-048844-0-000-12-08-1960@@@
-
 DECRETO Nº 48.844, DE 12 DE Agôsto de 1960.
 
 Outorga ao Govêrno Do Estado do Paraná, concessão para distribuir energia elétrica.

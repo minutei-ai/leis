@@ -1,5 +1,3 @@
-###DEC-052976-0-000-26-11-1963@@@
-
 decreto nº 52.976, de 26 de novembro de 1963.
 
 Concede à Mineração São João Limitada, autorização para funcionar como emprêsa de mineração.

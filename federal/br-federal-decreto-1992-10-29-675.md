@@ -1,7 +1,3 @@
-1
-
-###DEC-000675-0-000-29-10-1992@@@
-
 DECRETO N° 675, DE 29 DE OUTUBRO DE 1992
 
 Dispõe sobre a execução orçamentária e financeira dos órgãos transformados e dos criados pela Medida Provisória n° 309, de 16 de outubro de 1992, e dá outras providências.

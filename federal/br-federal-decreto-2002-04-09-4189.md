@@ -1,5 +1,3 @@
-###DEC-004189-0-000-09-04-2002@@@
-
 DECRETO Nº 4.189, DE 9 DE ABRIL DE 2002
 
 Acresce parágrafo ao art. 5º do Decreto n980, de 11 de novembro de 1993, que dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União a agentes políticos e servidores públicos federais.

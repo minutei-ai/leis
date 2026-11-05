@@ -1,5 +1,3 @@
-###DEC-094031-0-000-16-02-1987@@@
-
 DECRETO Nº 94.031, DE 16 DE FEVEREIRO DE 1987.
 
 Dispõe sobre a inclusão da Indústria Aeronáutica Neiva S.A. no Programa de Privatização.

@@ -1,5 +1,3 @@
-###DEC-070311-0-000-22-03-1972@@@
-
 DECRETO Nº 70.311, DE 22 DE MARÇO DE 1972.
 
 Retifica o Decreto nº 69.978, de 20 de janeiro de 1972, que declarou de utilidade pública a Escola de Aperfeiçoamento da Aeronáutica Civil, com sede no Rio de Janeiro, Estado da Guanabara.

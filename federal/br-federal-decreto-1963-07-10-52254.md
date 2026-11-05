@@ -1,5 +1,3 @@
-###DEC-052254-0-000-10-07-1963@@@
-
 DECRETO Nº 52.254, DE 10 DE JULHO DE 1963.
 
 Declara de utilidade pública a Associação Brasileira de Leprologia, com sede no Estado da Guanabara.

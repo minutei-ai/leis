@@ -1,5 +1,3 @@
-###DEC-056444-0-000-09-06-1965@@@
-
 DECRETO Nº 56.444, DE 9 DE JUNHO DE 1965.
 
 Concede à The Tokio Marine & Fire Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

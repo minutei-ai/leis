@@ -1,5 +1,3 @@
-###DEC-047680-0-000-20-01-1960@@@
-
 DECRETO Nº 47.680, DE 20 DE JANEIRO DE 1960.
 
 Declara de utilidade pública diversas área de terra marginais ao rio Piracicaba, situadas no distrito de Antônio Dias, município do mesmo nome, Estado de Minas Gerais, e autoriza a Companhia Aços Especiais Itabira a promover as respectivas desapropriações.

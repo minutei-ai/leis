@@ -1,5 +1,3 @@
-###DEC-096550-0-000-23-08-1988@@@
-
 DECRETO N° 96.550, DE 23 DE AGOSTO DE 1988
 
 Revoga o Decreto N° 75.834, de 9 de junho de 1976, que aprova o Regulamento do Centro de Sinalização Náutica e Reparos Almirante Moraes Rego.

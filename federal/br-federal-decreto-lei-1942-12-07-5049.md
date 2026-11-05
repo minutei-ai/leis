@@ -1,5 +1,3 @@
-###DEL-005049-0-000-07-12-1942@@@
-
 DECRETO-LEI N. 5.049 – DE 7 DE DEZEMBRO DE 1942
 
 Dispõe sobre a concessão de ajuda de custo

@@ -1,5 +1,3 @@
-###DEC-094568-0-000-08-07-1987@@@
-
 DECRETO N° 94.568, DE 8 DE JULHO DE 1987
 
 Declara de ocupação indígena e homologa a demarcação administrativa da área de terra que menciona, no Estado de São Paulo, e dá outras providências.

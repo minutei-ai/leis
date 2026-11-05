@@ -1,5 +1,3 @@
-###DEC-001811-0-000-08-02-1996@@@
-
 DECRETO Nº 1.811, DE 08 DE FEVEREIRO DE 1996.
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Alcance Parcial nº 21, entre Brasil e Cuba, de 20 de dezembro de 1995.

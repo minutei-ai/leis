@@ -1,5 +1,3 @@
-###MPV-001922-0-001-04-11-1999@@@
-
 medida provisória nº 1.922-1, de 4 de novembro de 1999.
 
 Cria o Fundo de Aval para a Geração de Emprego e Renda - FUNPROGER, altera o art. 11 da Lei nº 9.365, de 16 de dezembro de 1996, e dá outras providências.

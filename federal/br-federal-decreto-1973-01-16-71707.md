@@ -1,5 +1,3 @@
-###DEC-071707-0-000-16-01-1973@@@
-
 DECRETO Nº 71.707, DE 16 DE JANEIRO DE 1973.
 
 Reorganiza o Departamento Geral de Serviços do Ministério do Exército e dá outras providências.

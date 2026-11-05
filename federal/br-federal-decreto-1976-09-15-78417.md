@@ -1,5 +1,3 @@
-###DEC-078417-0-000-15-09-1976@@@
-
 DECRETO Nº 78.417, DE 15 DE SETEMBRO DE 1976.
 
 Concede à Indústria Cerâmica Imbituba S.A. o direito de lavrar caulim e areia quartzosa no Município de Laguna, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-078092-0-000-19-07-1976@@@
-
 DECRETO Nº 78.092, DE 19 DE JULHO DE 1976.
 
 Concede reconhecimento nos cursos de Letras de Desenho e Plástica e de Geografia da Faculdade de Ciências e Letras de Ourinhos com sede na cidade de Ourinhos, Estado de São Paulo.

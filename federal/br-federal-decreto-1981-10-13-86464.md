@@ -1,5 +1,3 @@
-###DEC-086464-0-000-13-10-1981@@@
-
 Decreto nº 86.464, de 13 de outubro de 1981.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.820, de 22 de dezembro de 1971, o Conselho de Administração da Superintendência Nacional da Marinha Mercante SUNAMAM, do Ministério dos Transportes.

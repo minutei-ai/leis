@@ -1,5 +1,3 @@
-###DEC-054955-0-000-06-11-1964@@@
-
 DECRETO Nº 54.955, DE 6 DE NOVEMBRO DE 1964.
 
 Dispõe sôbre a arrecadação da contribuição de um por cento devida pelas emprêsas ao Banco Nacional da Habitação, e dá outras providências.

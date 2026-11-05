@@ -1,5 +1,3 @@
-###DEL-004530-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.530 – DE 30 DE JULHO DE 1942
 
 Veda a remessa dos processos administrativos a Juizo, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-099657-0-000-26-10-1990@@@
-
 DECRETO Nº 99.657, DE 26 DE OUTUBRO DE 1990
 
 Acrescenta artigo e parágrafo único ao Decreto nº 98.816, de 11 de janeiro de 1990, que regulamenta a Lei nº 7.802, de 11 de julho de 1989, que dispõe sobre agrotóxicos, seus componentes e afins, e dá outras providências.

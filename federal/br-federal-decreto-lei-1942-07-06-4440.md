@@ -1,5 +1,3 @@
-###DEL-004440-0-000-06-07-1942@@@
-
 DECRETO-LEI N. 4.440 – DE 6 DE JULHO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 752:000$0, para indenização ao Lloyd Brasileiro

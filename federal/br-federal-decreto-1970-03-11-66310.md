@@ -1,5 +1,3 @@
-###DEC-066310-0-000-11-03-1970@@@
-
 DECRETO Nº 66.310 - DE 11 DE MARÇO DE 1970
 
 Declara de utilidade pública a Junta Executiva do VIII Congresso Eucarístico Nacional, com sede em Brasília, Distrito Federal.

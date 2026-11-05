@@ -1,5 +1,3 @@
-###DEC-060600-0-000-20-04-1967@@@
-
 Decreto nº 60.600, de 20 de Abril de 1967.
 
 Concede autorização para o funcionamento da Faculdade de Medicina do Rio Grande.

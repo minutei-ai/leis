@@ -1,5 +1,3 @@
-###DEL-007578-0-000-23-05-1945@@@
-
 DECRETO-LEI N. 7.578 – DE 23 DE MAIO DE 1945
 
 Fixa a divisão administrativa e judiciária do Território Federal do Amapá

@@ -1,5 +1,3 @@
-###DEL-006424-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.424 – DE 14 DE ABRIL DE 1944
 
 Manda escriturar as taxas telegráficas que menciona no Fundo Nacional de Ensino Primário

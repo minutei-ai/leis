@@ -1,5 +1,3 @@
-###DEC-061138-0-000-07-08-1967@@@
-
 Decreto nº 61.138, de 7 de agôsto de 1967.
 
 Dá nova redação ao art. 1º do Decreto nº 60.741, de 23 de maio de 1967.

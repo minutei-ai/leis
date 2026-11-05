@@ -1,5 +1,3 @@
-###DEC-059378-0-000-12-10-1966@@@
-
 Decreto nº 59.378, de 12 de outubro de 1966.
 
 Altera o Regulamento da Escola de Especialistas de Aeronáutica

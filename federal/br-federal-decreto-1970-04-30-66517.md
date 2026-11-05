@@ -1,5 +1,3 @@
-###DEC-066517-0-000-30-04-1970@@@
-
 DECRETO Nº 66.517, DE 30 DE ABRIL DE 1970.
 
 Concede reconhecimento a Curso de Assistente Social.

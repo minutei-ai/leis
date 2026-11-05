@@ -1,5 +1,3 @@
-###MPV-000041-0-000-20-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 41, DE 20 DE JUNHO DE 2002
 
 Altera a Lei nº 10.147, de 21 de dezembro de 2000, que dispõe sobre a incidência da contribuição para os Programas de Integração Social e de Formação do Patrimônio - PIS-Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, nas operações de venda dos produtos que especifica, e dá outras providências.

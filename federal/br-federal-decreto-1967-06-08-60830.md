@@ -1,5 +1,3 @@
-###DEC-060830-0-000-08-06-1967@@@
-
 Decreto nº 60.830, de 8 de junho de 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar no País, neste descritos e consignados à emprêsa “Produtos Elétricos S.A”, de Recife - Pernambuco.
@@ -14,7 +12,87 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar no País, a seguir descritos e consignados à emprêsa “Produtos Elétricos S.A.”, de Recife - Pernambuco.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM – ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Máquina automática para enrolamento em camadas, tipo AM 100, montada sôbre uma plataforma de 1.400 x 500mm, com motor trifásico de 220/380V, 1.400rpm, instalação elétrica, cabeçote móvel com centro vivo, mancal extremo, conduzível à manivela, freio de recuo, contador digital de 5 algarismos, o qual desliga a máquina automàticamente após haver atingido um número especificado de voltas ....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.952</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>2. Acessórios especiais</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Guia fio a DM 104 ................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>215</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Placa de referência ..............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>28</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Armação ...............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>97</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Empreagem com pedal ........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dispositivo de diminuição .....................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>161</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Jôgo de 3 buchas com mandíbulas, completo .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>69</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Extensão de cavaiete para 3 ou maios enrolamentos simultâneos</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>134</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>3. Desenrolador de fio</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo AFA para fios de 0,08-0,35mm </span><span style="font-family:Symbol"></span><span> ..................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>476</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo AFU para fios de 0,12-0,80mm </span><span style="font-family:Symbol"></span><span>..................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>476</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tomada para adaptação de vários desenroladores de fio tipos FS 58, AFA ou AFU Adaptador p/2 desenroladores de fios, tipo FS 50 AFA ou AFU .................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">22</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TOTAL .................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.701</span></p></td></tr></tbody></table>
+ITEM – ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Máquina automática para enrolamento em camadas, tipo AM 100, montada sôbre uma plataforma de 1.400 x 500mm, com motor trifásico de 220/380V, 1.400rpm, instalação elétrica, cabeçote móvel com centro vivo, mancal extremo, conduzível à manivela, freio de recuo, contador digital de 5 algarismos, o qual desliga a máquina automàticamente após haver atingido um número especificado de voltas ....................................................................................................
+
+1
+
+1.952
+
+2. Acessórios especiais
+
+Guia fio a DM 104 ................................................................................
+
+8
+
+215
+
+Placa de referência ..............................................................................
+
+1
+
+28
+
+Armação ...............................................................................................
+
+1
+
+97
+
+Empreagem com pedal ........................................................................
+
+1
+
+22
+
+Dispositivo de diminuição .....................................................................
+
+1
+
+161
+
+Jôgo de 3 buchas com mandíbulas, completo .....................................
+
+1
+
+69
+
+Extensão de cavaiete para 3 ou maios enrolamentos simultâneos
+
+1
+
+134
+
+3. Desenrolador de fio
+
+Tipo AFA para fios de 0,08-0,35mm  ..................................................
+
+8
+
+476
+
+Tipo AFU para fios de 0,12-0,80mm ..................................................
+
+8
+
+476
+
+Tomada para adaptação de vários desenroladores de fio tipos FS 58, AFA ou AFU Adaptador p/2 desenroladores de fios, tipo FS 50 AFA ou AFU .................................................................................................
+
+1
+
+22
+
+TOTAL .................................................................................................
+
+-
+
+3.701
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria fica sua similaridade, para efeito de isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1959, do Senhor Ministro da Fazenda.
 

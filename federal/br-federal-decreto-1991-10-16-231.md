@@ -1,7 +1,3 @@
-1
-
-###DEC-000231-0-000-16-10-1991@@@
-
 DECRETO Nº 231, DE 16 DE OUTUBRO DE 1991
 
 Dá nova redação ao art. 38 do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963.

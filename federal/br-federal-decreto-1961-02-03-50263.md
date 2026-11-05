@@ -1,5 +1,3 @@
-###DEC-050263-0-000-03-02-1961@@@
-
 DECRETO Nº 50.263, DE 3 DE FEVEREIRO DE 1961.
 
 Revoga concessões outorgadas para funcionamento de estações de radiodifusão e televisão.

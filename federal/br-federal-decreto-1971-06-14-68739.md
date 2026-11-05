@@ -1,5 +1,3 @@
-###DEC-068739-0-000-14-06-1971@@@
-
 DECRETO Nº 68.739 - DE 14 DE JUNHO DE 1971.
 
 Concede reconhecimento ao Instituto de Psicologia da Universidade Católica de Campinas, SP.

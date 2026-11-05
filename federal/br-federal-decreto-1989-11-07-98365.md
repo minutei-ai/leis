@@ -1,7 +1,3 @@
-1
-
-###DEC-098365-0-000-07-11-1989@@@
-
 DECRETO Nº 98.365, DE 07 DE NOVEMBRO DE 1989
 
 Dá nova redação ao item VII, do artigo 1º, do Decreto nº 90.893, de 4 de fevereiro de 1985, que dispõe sobre delegação de competência.

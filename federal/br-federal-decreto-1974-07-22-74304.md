@@ -1,5 +1,3 @@
-###DEC-074304-0-000-22-07-1974@@@
-
 DECRETO Nº 74.304 - DE 22 DE JULHO DE 1974.
 
 Prorroga ate 31 de dezembro de 1974 o prazo a que alude o artigo 6º do Decreto nº 74.175, de 12 de junho de 1974, e dá outras providencias.

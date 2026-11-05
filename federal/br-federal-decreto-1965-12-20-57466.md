@@ -1,5 +1,3 @@
-###DEC-057466-0-000-20-12-1965@@@
-
 DECRETO Nº 57.466, DE 20 DE DEZEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Rio Branco, relativa ao aumento do Capital Social.

@@ -1,5 +1,3 @@
-###DEC-045119-0-000-26-12-1958@@@
-
 DECRETO Nº 45.119, DE 26 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública e autoriza a desapropriação de imóveis necessários aos Serviço do Exército Nacional.

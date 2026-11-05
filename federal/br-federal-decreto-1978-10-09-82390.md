@@ -1,5 +1,3 @@
-###DEC-082390-0-000-09-10-1978@@@
-
 Decreto n.º 82.390, de 09 de outubro de 1978
 
 Concede autorização ao "WOODS HOLE OCEANOGRAPHIC INSTITUTION" para realizar, no mar territorial do Brasil, os serviços que especifica.

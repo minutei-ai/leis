@@ -1,5 +1,3 @@
-###DEL-003646-0-000-23-09-1941@@@
-
 DECRETO-LEI N. 3.646 – DE 23 DE SETEMBRO DE 1941
 
 Torna sem aplicação 20:000$0 em dotação orçamentária do Ministério da Justiça e Negócios Interiores e abre crédito suplementar de idêntica importância

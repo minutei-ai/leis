@@ -1,5 +1,3 @@
-###DEC-068583-0-000-04-05-1971@@@
-
 Decreto Nº 68.583 - DE 4 DE MAIO DE 1971.
 
 Altera o artigo 8º e revoga o artigo 9º e seus parágrafos do Regimento da Ordem do Mérito do Trabalho, aprovado pelo Decreto nº 62.819, de 4 de junho de 1968.

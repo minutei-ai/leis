@@ -1,7 +1,9 @@
 LEI Nº 7.816 DE 04 DE JUNHO DE 2001
 
-Ver também:<br>
-Lei nº [11.170](https://www.legislabahia.ba.gov.br/documentos/lei-no-11170-de-26-de-agosto-de-2008) , de 26 de agosto de 2008 - Dispõe sobre as Carreiras dos Servidores do Poder Judiciário do Estado da Bahia; altera as Leis nos 5.516, de 17 de novembro de 1989, 6.355, de 30 de dezembro de 1991, 6.955, de 04 de junho de 1996, 7.816, de 04 de junho de 2001, 7.885, de 23 de agosto de 2001, 8.977, de 12 de janeiro 2004, 9.653, de 09 de setembro de 2005, 10.555, de 13 de abril de 2007, e dá outras providências.<br>
+Ver também:
+
+Lei nº [11.170](https://www.legislabahia.ba.gov.br/documentos/lei-no-11170-de-26-de-agosto-de-2008) , de 26 de agosto de 2008 - Dispõe sobre as Carreiras dos Servidores do Poder Judiciário do Estado da Bahia; altera as Leis nos 5.516, de 17 de novembro de 1989, 6.355, de 30 de dezembro de 1991, 6.955, de 04 de junho de 1996, 7.816, de 04 de junho de 2001, 7.885, de 23 de agosto de 2001, 8.977, de 12 de janeiro 2004, 9.653, de 09 de setembro de 2005, 10.555, de 13 de abril de 2007, e dá outras providências.
+
 Lei nº [10.400](https://www.legislabahia.ba.gov.br/documentos/lei-no-10400-de-23-de-outubro-de-2006) , de 23 de outubro de 2006. Altera dispositivos da Lei nº [3.731](https://www.legislabahia.ba.gov.br/documentos/lei-no-3731-de-22-de-novembro-de-1979) , de 22 de novembro de 1979, da Lei nº [6.947](https://www.legislabahia.ba.gov.br/documentos/lei-no-6947-de-26-de-abril-de-1996) , de 26 de abril de 1996, da Lei nº [7.816](https://www.legislabahia.ba.gov.br/documentos/lei-no-7816-de-04-de-junho-de-2001) , de 04 de junho de 2001, e da Lei nº [7.885](https://www.legislabahia.ba.gov.br/documentos/lei-no-7885-de-23-de-agosto-de-2001) , de 23 de agosto de 2001; modifica a estrutura organizacional administrativa e de cargos em comissão do Poder Judiciário e dá outras providências.
 
 Converte em vantagem pessoal a gratificação de estímulo à eficiência dos servidores do Poder Judiciário e dá outras providências.
@@ -56,4 +58,4 @@ Ana Benvinda Teixeira Lage
 
 Secretária da Administração
 
-* * *
+ *

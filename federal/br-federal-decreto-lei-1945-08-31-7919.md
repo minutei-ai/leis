@@ -1,5 +1,3 @@
-###DEL-007919-0-000-31-08-1945@@@
-
 DECRETO-LEI N. 7.919 – DE 31 DE AGÔSTO DE 1945
 
 Dispõe sôbre a prestação de serviço extraordinário na Imprensa Nacional.

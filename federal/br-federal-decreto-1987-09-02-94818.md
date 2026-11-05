@@ -1,5 +1,3 @@
-###DEC-094818-0-000-02-09-1987@@@
-
 DECRETO N° 94.818, DE 2 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Educação de Joaçaba, Estado de Santa Catarina.

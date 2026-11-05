@@ -1,5 +1,3 @@
-###DEC-006869-0-000-04-06-2009@@@
-
 DECRETO Nº 6.869, DE 4 DE JUNHO DE 2009.
 
 Dispõe sobre a coordenação e articulação dos órgãos federais, bem como sobre os níveis de proteção dos navios e das instalações portuárias, da adoção de medidas de proteção aos navios e instalações portuárias, e institui a Rede de Alarme e Controle dos Níveis de Proteção de Navios e Instalações Portuárias, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-001570-0-000-09-08-1977@@@
-
 # Decreto-LEI Nº 1.570, de 9 DE AGOSTO DE 1977
 
 Extingue a cobrança dos emolumentos consulares sobre os documentos referentes ao transporte internacional de pessoas ou mercadorias.

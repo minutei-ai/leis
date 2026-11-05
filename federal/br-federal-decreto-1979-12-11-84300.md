@@ -1,5 +1,3 @@
-###DEC-084300-0-000-11-12-1979@@@
-
 Decreto nº 84.300, de 11 de dezembro de 1979.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

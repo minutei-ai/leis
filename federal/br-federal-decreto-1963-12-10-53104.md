@@ -1,5 +1,3 @@
-###DEC-053104-0-000-10-12-1963@@@
-
 DECRETO Nº 53.104, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 48.609, de 25 de julho de 1960.

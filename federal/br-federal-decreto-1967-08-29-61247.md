@@ -1,5 +1,3 @@
-###DEC-061247-0-000-29-08-1967@@@
-
 DECRETO Nº 61.247, DE 29 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel sediado no Município de Recife, Estado de Pernambuco.

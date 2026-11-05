@@ -4,7 +4,8 @@ Institui a Política Municipal de Habitação e Regularização Fundiária, e d�
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNIICIPAL SANCIONO A SEGUINTE LEI:
 
-CAPITULO I<br>
+CAPITULO I
+
 POLÍTICA MUNICIPAL DE HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
 
 Art. 1º - Fica instituída, no âmbito do Município de Aparecida de Goiânia, a Política Municipal de Habitação e Regularização Fundiária Urbana (PMHRF), sob a responsabilidade da Secretária Executiva de Habitação e Regularização Fundiária, ou do órgão que vier a lhe substituir.
@@ -21,10 +22,12 @@ II - Regularização Fundiária Urbana;
 
 III - Remanejamento e Recuperação de Áreas de Risco.
 
-CAPITULO II<br>
+CAPITULO II
+
 PROVISÃO E REQUALIFICAÇÃO HABITACIONAL
 
-Seção I<br>
+Seção I
+
 Da Provisão Habitacional
 
 Art. 4º - É responsabilidade do Município de Aparecida de Goiânia, em cooperação com a União e o Estado de Goiás, promover e executar programas de construção de moradias populares atendendo as necessidades da população, segundo critérios específicos de melhoria das condições habitacionais.
@@ -51,7 +54,8 @@ X – fará o levantamento e a atualização constante das áreas privadas pass�
 
 Parágrafo único: Para a implementação da PMHRF será sempre garantido prioridade para as famílias residentes em áreas de risco ou insalubres ou que tenham sido desabrigadas; famílias com mulheres responsáveis pela unidade familiar, comprovada por autodeclaração; famílias de que façam parte pessoas com deficiência ou doença grave, comprovada com a apresentação de laudo médico; e pessoas idosas. E garantido o direito social de habitação também às famílias constituídas por casais homoafetivos.
 
-Seção II<br>
+Seção II
+
 Da Requalificação Habitacional
 
 Art. 6º - Para a implementação da PMHRF, com o objetivo de requalificação das unidades habitacionais já existentes, o Município de Aparecida de Goiânia, observada a disponibilidade orçamentária e financeira:
@@ -72,8 +76,10 @@ Art. 15 - Esta lei entrará em vigor na data de sua publicação e revoga todas 
 
 Gabinete do Município de Aparecida Goiânia-GO, 21 de março de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

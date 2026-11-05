@@ -1,5 +1,3 @@
-###DEC-054648-0-000-29-10-1964@@@
-
 decreto nº 54.648, de 29 de outubro de 1964.
 
 Declara de utilidade pública a Sociedade Humanitária 1º de Dezembro (Hospital Português), com sede em São Luiz, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-093086-0-000-07-08-1986@@@
-
 DECRETO Nº 93.086, DE 07 DE AGOSTO DE 1986
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

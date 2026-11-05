@@ -1,5 +1,3 @@
-###DEC-057616-0-000-07-01-1966@@@
-
 DECRETO Nº 57.616, DE 7 DE JANEIRO DE 1966.
 
 Prorroga o prazo previsto no artigo 2º do Decreto nº 56.851, de 10 de setembro de 1965.

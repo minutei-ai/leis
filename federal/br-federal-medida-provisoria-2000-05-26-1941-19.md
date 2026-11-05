@@ -1,5 +1,3 @@
-###MPV-001941-0-019-26-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-19, de 26 de maio de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

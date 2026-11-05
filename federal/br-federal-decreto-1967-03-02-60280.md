@@ -1,5 +1,3 @@
-###DEC-060280-0-000-02-03-1967@@@
-
 DECRETO Nº 60.280, DE 2 DE MARÇO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Metroplitana Companhia de Seguros, relativa ao aumento do capital social.

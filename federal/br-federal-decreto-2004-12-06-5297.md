@@ -1,5 +1,3 @@
-###DEC-005297-0-000-06-12-2004@@@
-
 DECRETO Nº 5.297 DE 6 DE DEZEMBRO DE 2004
 
 Dispõe sobre os coeficientes de redução das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na produção e na comercialização de biodiesel, sobre os termos e as condições para a utilização das alíquotas diferenciadas, e dá outras providências.

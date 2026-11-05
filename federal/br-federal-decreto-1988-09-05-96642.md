@@ -1,5 +1,3 @@
-###DEC-096642-0-000-05-09-1988@@@
-
 DECRETO N° 96.642, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão à SOCIEDADE DE RADIODIFUSÃO GUARAÍ LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Guaraí, Estado de Goiás.

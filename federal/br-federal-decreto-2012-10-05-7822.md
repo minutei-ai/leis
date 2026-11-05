@@ -1,5 +1,3 @@
-###DEC-007822-0-000-05-10-2012-PUB-01@@@
-
 DECRETO Nº  7.822, DE 5 DE OUTUBRO DE 2012
 
 Altera dispositivos dos Decretos nº 3.446, de 4 de maio de 2000, que aprova o Regulamento da Ordem do Mérito Aeronáutico, e nº 4.263, de 10 de junho de 2002, que dispõe sobre a criação da Ordem do Mérito da Defesa.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001577-0-000-02-08-1995@@@
-
 DECRETO Nº 1.577, DE 02 DE AGOSTO DE 1995.
 
 Dá nova redação ao art. 3º do Decreto nº 74.557, de 12 de setembro de 1974, que cria a Comissão Interministerial para os Recursos do Mar (CIRM).

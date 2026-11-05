@@ -1,5 +1,3 @@
-###DEC-058352-0-000-04-05-1966@@@
-
 DECRETO Nº 58.352, DE 4 DE MAIO DE 1966.
 
 Altera a letra “d” do artigo 1º do Decreto nº 51.891, de 8 de abril de 1963.

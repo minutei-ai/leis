@@ -1,5 +1,3 @@
-###DEC-070530-0-000-16-05-1972@@@
-
 DECRETO Nº 70.530, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública o Ginásio Nossa Senhora das Graças, com sede em Areado, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-071652-0-000-02-01-1973@@@
-
 DECRETO Nº 71.652, DE 2 DE JANEIRO DE 1973.
 
 Extingue o Grupo Nacional de Desenvolvimento das Construções Escolares e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.507, DE 08 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Obriga as empresas de telefonia fixa, móvel, internet e TV por assinatura, a cancelarem a multa contratual de fidelidade quando o consumidor comprovar que perdeu o vínculo empregatício após a adesão do contrato.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Obriga as empresas de telefonia fixa, móvel, internet e TV por assinatura, a cancelarem a multa contratual de fidelidade quando o consumidor comprovar que perdeu o vínculo empregatício após a adesão do contrato.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

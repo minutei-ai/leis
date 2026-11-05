@@ -1,5 +1,3 @@
-###DEC-080179-0-000-17-08-1977@@@
-
 DECRETO Nº 80.179, DE 17 DE AGOSTO DE 1977.
 
 Altera dispositivos do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940, e alterado pelos Decretos nºs 50.114, de 26 de janeiro de 1961, 50.330, de 10 de março de 1961, 2.080, de 17 de janeiro de 1963, 60.313, de 7 de março de 1967, 62.179, de 25 de janeiro de 1968, 73.176, de 20 de novembro de 1973, 74.105, de 24 de maio de 1974 e 76.401, de 8 de outubro de 1975.

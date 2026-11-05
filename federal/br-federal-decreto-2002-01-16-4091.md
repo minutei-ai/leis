@@ -1,5 +1,3 @@
-###DEC-004091-0-000-16-01-2002@@@
-
 DECRETO Nº 4.091, DE 16 DE JANEIRO DE 2002.
 
 Distribui os efetivos de Oficiais da Marinha e fixa os percentuais mínimos dos cargos que serão ocupados, exclusivamente, por Oficiais do sexo masculino, para 2002.

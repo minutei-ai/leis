@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208573)<br>
-
 # LEI N° 17.767, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 201/2022, da Deputada Professora Bebel - PT)

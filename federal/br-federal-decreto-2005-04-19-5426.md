@@ -1,5 +1,3 @@
-###DEC-005426-0-000-19-04-2005@@@
-
 DECRETO Nº 5.426 DE 19 DE ABRIL DE 2005
 
 Altera o inciso II do art. 4º do Decreto nº 93.188, de 29 de agosto de 1986, e dá outras providências.

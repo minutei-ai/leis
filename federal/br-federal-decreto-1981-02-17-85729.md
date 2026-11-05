@@ -1,5 +1,3 @@
-###DEC-085729-0-000-17-02-1981@@@
-
 Decreto nº 85.729, de 17 de fevereiro de 1981.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios de Niterói e Rio do Janeiro, Estado do Rio de Janeiro e Recife, Estado de Pernambuco.

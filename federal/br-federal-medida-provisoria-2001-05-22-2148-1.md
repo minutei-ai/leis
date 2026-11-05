@@ -1,5 +1,3 @@
-###MPV-002148-0-001-22-05-2001@@@
-
 MEDIDA PROVISÓRIA  Nº 2.148-1, DE 22 DE MAIO DE 2001.
 
 Cria e instala a Câmara de Gestão da Crise de Energia Elétrica, do Conselho de Governo, estabelece diretrizes para programas de enfrentamento da crise de energia elétrica e dá outras providências.

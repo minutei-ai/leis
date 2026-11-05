@@ -1,5 +1,3 @@
-###DEC-072807-0-000-14-09-1973@@@
-
 DECRETO Nº 72.807, DE 14 DE SETEMBRO DE 1973
 
 Torna sem efeito aproveitamento de disponíveis no Quadro Único de Pessoal da Universidade Federal da Bahia.

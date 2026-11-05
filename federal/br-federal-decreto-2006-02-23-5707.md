@@ -1,5 +1,3 @@
-###DEC-005707-0-000-23-02-2006@@@
-
 DECRETO Nº 5.707, DE 23 DE FEVEREIRO DE 2006.
 
 Institui a Política e as Diretrizes para o Desenvolvimento de Pessoal da administração pública federal direta, autárquica e fundacional, e regulamenta dispositivos da Lei no 8.112, de 11 de dezembro de 1990.

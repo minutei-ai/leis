@@ -1,5 +1,3 @@
-###MPV-001897-0-054-26-10-1999@@@
-
 medida provisória nº 1.897-54, de 26 de outubro de 1999.
 
 Altera a legislação referente ao adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante FMM, e dá outras providências.

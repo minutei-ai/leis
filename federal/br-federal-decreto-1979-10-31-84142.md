@@ -1,5 +1,3 @@
-###DEC-084142-0-000-31-10-1979@@@
-
 Decreto nº 84.142, de 31 de outubro de 1979.
 
 Autoriza o funcionamento do curso de Formação de Tecnólogos em Processamento de Dados, da Faculdade de Ciências Contábeis e Administração "Guerreiro Brito", com sede na cidade do Rio de Janeiro.

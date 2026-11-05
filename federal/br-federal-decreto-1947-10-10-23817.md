@@ -1,12 +1,10 @@
-###DEC-023817-0-000-10-10-1947@@@
+**DECRETO Nº 23.817, DE 10DE OUTUBRO DE 1947**
 
-<strong>DECRETO Nº 23.817, DE 10</strong> <strong>DE OUTUBRO DE 1947</strong>
+***Retifica o artigo único do Decreto n.º 23.493, de 12 de agôsto de 1947***
 
-<em><strong>Retifica o artigo único do Decreto n.º 23.493, de 12 de agôsto de 1947</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica retificado o artigo único do  Decreto n.º 23.493, de 12 de agôsto de 1947, que passa a ter a seguinte redação:
 
@@ -14,6 +12,6 @@ Artigo único. Fica retificado o artigo único do  Decreto n.º 23.493, de 12 d
 
 Rio de Janeiro, 10 de outubro de 1947, 126.º da Independência e 59.º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clovis Pestana.

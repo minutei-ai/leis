@@ -1,5 +1,3 @@
-###DEC-002849-0-000-27-11-1998@@@
-
 DECRETO Nº 2.849, DE 27 DE NOVEMBRO DE 1998
 
 Prorroga o prazo de remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

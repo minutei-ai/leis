@@ -1,5 +1,3 @@
-###DEC-048573-0-000-22-07-1960@@@
-
 DECRETO Nº 48.573, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Almir Leal a pesquisar areias ilmeníticas, no município de Tutóia, Estado do Maranhão.

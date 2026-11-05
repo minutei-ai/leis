@@ -1,7 +1,3 @@
-1
-
-###DEC-000007-0-000-15-01-1991@@@
-
 DECRETO Nº 7, DE 15 DE JANEIRO DE 1991.
 
 Fixa as proporções, referentes ao ano‑base de 1990, a serem observadas para promoção obrigatória de Oficiais das Armas, Quadros e Serviços do Exército.

@@ -1,5 +1,3 @@
-###DEC-062263-0-000-14-02-1968@@@
-
 DECRETO Nº 62.263, DE 14 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada na BR-285 (Rodovia Ijuí-Panambi e Caràzinho-Passo Fundo).

@@ -1,5 +1,3 @@
-###DEL-008189-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.189 – DE 20 DE NOVEMBRO DE 1945
 
 Concede pensão especial a Júlia prudente de Morais, filha de Prudente José de Morais Barros, ex-Presidente da República.

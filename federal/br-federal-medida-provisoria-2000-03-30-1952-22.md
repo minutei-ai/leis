@@ -1,5 +1,3 @@
-###MPV-001952-0-022-30-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.952-22, DE 30 de março DE 2000.
 
 Altera a Consolidação das Leis do Trabalho - CLT, para dispor sobre o trabalho a tempo parcial, a suspensão do contrato de trabalho e o programa de qualificação profissional, modifica as Leis nºs 6.321, de 14 de abril de 1976, 6.494, de 7 de dezembro de 1977, 7.998, de 11 de janeiro de 1990, e 9.601, de 21 de janeiro de 1998, e dá outras providências.

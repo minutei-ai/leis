@@ -1,5 +1,3 @@
-###DEL-009885-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.885 – DE 16 DE SETEMBRO DE 1946
 
 Dispõe sôbre a readmissão e a aposentadoria de Ana de Azevedo Lomonaco.

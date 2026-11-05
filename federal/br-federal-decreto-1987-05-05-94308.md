@@ -1,5 +1,3 @@
-###DEC-094308-0-000-05-05-1987@@@
-
 DECRETO Nº 94.308, DE 5 DE MAIO DE 1987.
 
 Dá nova redação ao artigo 1º do Decreto nº 88.619, de 16 de agosto de 1983.

@@ -1,5 +1,3 @@
-###DEC-048433-0-000-27-06-1960@@@
-
 DECRETO Nº 48.433, DE 27 DE JUNHO DE 1960.
 
 Autoriza o Patrimônio da União a fazer a cessão de uma área de terreno em Conselheiro Lafaiete, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-083658-0-000-28-06-1979@@@
-
 Decreto nº 83.658, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Fundação Universidade do Rio Grande, com sede na cidade do Rio Grande; Estado do Rio Grande do Sul.

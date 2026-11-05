@@ -1,5 +1,3 @@
-###DEC-002784-0-000-18-09-1998@@@
-
 DECRETO Nº 2.784, DE 18 DE SETEMBRO DE 1998
 
 Regulamenta o art. 45 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre as consignações em folha de pagamento dos servidores públicos civis, dos aposentados e dos pensionistas da administração pública federal direta, autárquica e fundacional do Poder Executivo da União.

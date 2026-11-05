@@ -1,5 +1,3 @@
-###DEC-050540-0-000-04-05-1961@@@
-
 DECRETO Nº 50.540, DE 4 DE MAIO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Bonito Grande, do Município de Bonito, Estado de Pernambuco.

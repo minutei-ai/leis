@@ -1,5 +1,3 @@
-###DEL-003255-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.255 – DE 9 DE MAIO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Conselho Federal de Comércio Exterior

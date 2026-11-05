@@ -1,5 +1,3 @@
-###DEC-055236-0-000-17-12-1964@@@
-
 DECRETO Nº 55.236, DE 17 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre os preços básicos mínimos para operações de financiamento e aquisição de feijão e de amendoim e dá outras providências.

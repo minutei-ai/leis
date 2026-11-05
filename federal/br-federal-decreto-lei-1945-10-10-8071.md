@@ -1,5 +1,3 @@
-###DEL-008071-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.071 – DE 10 DE OUTUBRO DE 1945
 
 Dispõe sôbre o registro de diplomas expedidos pela extinta Escola Superior de Mecânica e Eletricidade de São Paulo.

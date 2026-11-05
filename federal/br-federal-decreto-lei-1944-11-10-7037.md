@@ -1,5 +1,3 @@
-###DEL-007037-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.037 – DE 10 DE  NOVEMBRO DE 1944
 
 Dispõe sôbre a remuneração mínina dos que trabalham em atividades jonalísticas e dá outras providências

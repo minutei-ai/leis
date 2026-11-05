@@ -1,5 +1,3 @@
-###DEC-054975-0-000-11-11-1964@@@
-
 DECRETO Nº 54.975, DE 11 DE NOVEMBRO DE 1964.
 
 Estende ao Banco Nacional da Habitação o disposto no § 1º do artigo 424 do Decreto nº 48.959-A, de 19 de setembro de 1960.

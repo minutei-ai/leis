@@ -1,5 +1,3 @@
-###DEC-050471-0-000-17-04-1961@@@
-
 DECRETO Nº 50.471, DE 17 DE ABRIL DE 1961.
 
 Revoga o Decreto que concedeu à Sociedade Imperial Comércio e Navegação Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

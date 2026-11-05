@@ -1,5 +1,3 @@
-###DEC-093866-0-000-23-12-1986@@@
-
 DECRETO Nº 93.866, DE 23 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel denominado ''Pip Nuck'', situado no Município de Nova Venécia, no Estado do Espírito Santo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.618, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073373-0-000-26-12-1973@@@
-
 DECRETO Nº 73.373 - DE 26 DE DEZEMBRO DE 1973
 
 Transfere funcionários, com os respectivos cargos, do Quadro de Pessoal em extinção da Fundação IBGE para o Quadro de Pessoal do Tribunal Marítimo.

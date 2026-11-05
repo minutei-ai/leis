@@ -1,5 +1,3 @@
-###DEC-066246-0-000-20-02-1970@@@
-
 Decreto nº 66.246 - de 20 de fevereiro de 1970
 
 Declara de utilidade pública a Associação Beneficente de Canoas, Estado do Rio Grande do Sul.

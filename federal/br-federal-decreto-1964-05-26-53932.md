@@ -1,5 +1,3 @@
-###DEC-053932-0-000-26-05-1964@@@
-
 DECRETO Nº 53.932, DE 26 DE MAIO DE 1964.
 
 Altera dispositivos dos Decretos nºs 29.741, de 11 de julho de 1951, 50.737, de 7 e junho de 1961, 51.146, de 5 de agôsto de 1961, 49.355, de 28 de novembro de 1960, 51.405, de 6 de fevereiro de 1962, 52.456 de 16 de setembro de 1963, e 53.325 de 18 de dezembro de 1963, reunindo num só órgão a CAPES, COSUPI e PROTEC.

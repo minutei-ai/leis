@@ -1,5 +1,3 @@
-###DEC-061270-0-000-04-09-1967@@@
-
 DECRETO Nº 61.270, DE 4 DE SETEMBRO DE 1967.
 
 Concede à sociedade E. C. de Witt & Co. Ltd., autorização para continuar a funcionar no Brasil.

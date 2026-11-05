@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51044)
-
 # LEI Nº 11.726, DE 25 DE MAIO DE 2004
 
 ## ( PL 437/2003 - Rodolfo Costa e Silva)

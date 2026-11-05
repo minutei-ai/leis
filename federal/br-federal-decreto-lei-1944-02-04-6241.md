@@ -1,5 +1,3 @@
-###DEL-006241-0-000-04-02-1944@@@
-
 DECRETO-LEI N. 6.241 – DE 4 DE FEVEREIRO DE 1944
 
 Determina a distribuição de crédito à Tesouraria do Ministério da Educação e Saúde

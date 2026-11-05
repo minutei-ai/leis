@@ -1,5 +1,3 @@
-###DEC-094798-0-000-24-08-1987@@@
-
 DECRETO N° 94.798, DE 24 DE AGOSTO DE 1987
 
 Altera disposições do Decreto n° 94.575, de 09 de julho de 1987.

@@ -2,9 +2,10 @@ LEI Nº 21.810, DE 14 DE MARÇO DE 2023
 
 Institui o Programa Dignidade e dá outras providências.
 
-<br>
-\- [Vide Decreto nº 10.832](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111750/decreto-10832), de 09-12-2025 - Prorroga a vigência do Programa Dignidade para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.592](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110119), de 10-12-2024 - Prorroga a vigência do Programa Dignidade para o exercício de 2025.<br>
+\- [Vide Decreto nº 10.832](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111750/decreto-10832), de 09-12-2025 - Prorroga a vigência do Programa Dignidade para o exercício de 2026.
+
+\- [Vide Decreto nº 10.592](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110119), de 10-12-2024 - Prorroga a vigência do Programa Dignidade para o exercício de 2025.
+
 \- [Vide Decreto nº 10.374](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108288/decreto-10374), de 27-12-2023 - Prorroga a vigência do Programa Dignidade para o exercício de 2024.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -47,9 +48,12 @@ Art. 7º A Secretaria de Estado de Desenvolvimento Social – SEDS será respons
 
 Art. 8º Para a execução do programa de que trata esta Lei, serão utilizados recursos oriundos do Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS.
 
-Art. 9º O Programa Dignidade durará 12 (doze) meses e poderá ser prorrogado por decreto do Chefe do Poder Executivo, conforme a avaliação do programa e a disponibilidade orçamentária e financeira.<br>
-\- [Vide Decreto nº 10.832](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111750/decreto-10832), de 09-12-2025 - Prorroga a vigência do Programa Dignidade para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.592](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110119), de 10-12-2024 - Prorroga a vigência do Programa Dignidade para o exercício de 2025.<br>
+Art. 9º O Programa Dignidade durará 12 (doze) meses e poderá ser prorrogado por decreto do Chefe do Poder Executivo, conforme a avaliação do programa e a disponibilidade orçamentária e financeira.
+
+\- [Vide Decreto nº 10.832](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111750/decreto-10832), de 09-12-2025 - Prorroga a vigência do Programa Dignidade para o exercício de 2026.
+
+\- [Vide Decreto nº 10.592](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110119), de 10-12-2024 - Prorroga a vigência do Programa Dignidade para o exercício de 2025.
+
 \- [Vide Decreto nº 10.374](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108288/decreto-10374), de 27-12-2023 - Prorroga a vigência do Programa Dignidade para o exercício de 2024.
 
 Parágrafo único. A SEDS terá até 12 (doze) meses a partir da publicação desta Lei para iniciar a execução do programa.

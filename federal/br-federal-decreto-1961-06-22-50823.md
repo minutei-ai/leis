@@ -1,5 +1,3 @@
-###DEC-050823-0-000-22-06-1961@@@
-
 DECRETO Nº 50.823, DE 22 DE JUNHO DE 1961.
 
 Transfere a sede do 2º Batalhão de Carros de Combate (2º BCC) de DEODORO - GB para Marquês de Valença - RJ.

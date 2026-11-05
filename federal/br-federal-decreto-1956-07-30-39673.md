@@ -1,14 +1,12 @@
-###DEC-039673-0-000-30-07-1956@@@
+**DECRETO Nº 39.673, DE 30 DE JULHO DE 1956.**
 
-<strong>DECRETO Nº 39.673, DE 30 DE JULHO DE 1956.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias à construção da linha de transmissão de que trata o Decreto nº 36.318 de 8 de outubro de 1954, e autoriza a São Paulo Light and Power Company, Limited, a promover a desapropriação das mesmas.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias à construção da linha de transmissão de que trata o Decreto nº 36.318 de 8 de outubro de 1954, e autoriza a São Paulo Light and Power Company, Limited, a promover a desapropriação das mesmas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as seguintes áreas de terra destinadas à passagem da linha de transmissão de que trata o Decreto nº 36.318 de 8 de outubro de 1854, entre a estação terminal de São Caetano e subestação da S.A. Indústrias Reunidas Francisco Matarazzo, cuja planta nº 336.849 foi aprovada pelo Diretor Geral do Departamento Nacional da Produção Mineral do Ministério da Agricultura:
+**Art**. 1º São declaradas de utilidade pública as seguintes áreas de terra destinadas à passagem da linha de transmissão de que trata o Decreto nº 36.318 de 8 de outubro de 1854, entre a estação terminal de São Caetano e subestação da S.A. Indústrias Reunidas Francisco Matarazzo, cuja planta nº 336.849 foi aprovada pelo Diretor Geral do Departamento Nacional da Produção Mineral do Ministério da Agricultura:
 
 1 - Área de 166,00m² (cento e sessenta e seis metros quadrados) de propriedade atribuída ao Instituto de Aposentadoria e Pensões dos Industriários.
 
@@ -34,14 +32,14 @@
 
 12 - Área de 112,70m² (cento e doze metros e setenta centímetros quadrados) de propriedade atribuída a Indústrias Reunidas Francisco Matarazzo S.A.
 
-<strong>Art</strong>. 2º Fica autorizada a <em>São Paulo Light end Power Company Limited</em>, a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a *São Paulo Light end Power Company Limited*, a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de julho de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

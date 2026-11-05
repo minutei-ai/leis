@@ -1,5 +1,3 @@
-###DEL-005486-0-000-14-05-1943@@@
-
 DECRETO‑LEI N. 5.486 – DE 14 DE MAIO DE 1943
 
 Faculta a revenda do trigo nacional adquirido na forma do decreto‑lei  n. 4.953, de 13‑11‑942

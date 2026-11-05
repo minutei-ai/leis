@@ -1,5 +1,3 @@
-###DEL-008100-0-000-17-10-1945@@@
-
 DECRETO-LEI N. 8.100 – DE 17 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.437.735,00, para pagamento de dividas decorrentes de requisições

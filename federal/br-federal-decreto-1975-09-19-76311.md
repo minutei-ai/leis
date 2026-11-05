@@ -1,5 +1,3 @@
-###DEC-076311-0-000-19-09-1975@@@
-
 DECRETO Nº 76.311 - DE 19 DE SETEMBRO DE 1975
 
 Dispõe sobre a intervenção em área indígena, localizada no Território Federal de Roraima, e dá outras providências.

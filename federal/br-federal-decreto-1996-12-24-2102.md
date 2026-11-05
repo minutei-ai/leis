@@ -1,7 +1,3 @@
-1
-
-###DEC-002102-0-000-24-12-1996@@@
-
 DECRETO Nº 2.102, DE 24 DE DEZEMBRO DE 1996.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 1.547, de 3 de julho de 1995.

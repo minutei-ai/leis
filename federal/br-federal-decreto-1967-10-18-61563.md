@@ -1,5 +1,3 @@
-###DEC-061563-0-000-18-10-1967@@@
-
 DECRETO nº 61.563, DE 18 DE OUTUBRO DE 1967.
 
 Altera o regulamento da Diretoria de Rotas Aéreas.

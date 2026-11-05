@@ -1,6 +1,10 @@
 > **LEI Nº 3.908, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica instituída e incluída no calendário de eventos oficiais a semana estadual de valorização do professor.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica instituída e incluída no calendário de eventos oficiais a semana estadual de valorização do professor.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

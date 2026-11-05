@@ -1,5 +1,3 @@
-###MPV-001862-0-070-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.862-70, DE 25 DE AGOSTO DE 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.
@@ -34,7 +32,8 @@ III - Notas do Tesouro Nacional - NTN, emitidas preferencialmente para financiam
 
 Parágrafo único. Além dos títulos referidos neste artigo, poderão ser emitidos certificados, qualificados no ato da emissão, preferencialmente para operações com finalidades específicas definidas em lei.
 
-Art. 3º Os títulos da dívida pública serão emitidos adotando-se uma das seguintes formas, ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAsCAYAAAA5KtvpAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADhElEQVR4nO2YS0gbQRzGp1AorRahl9YkBmIC8RFBoaCHBgJGEfFgL0orlBw8eKkPMCdF1EMVBBUP0pvi+4VGyVU8iEZJNeADFaUqUkVExKaioPTrzNgNyZJEJZFkYz74mJ3J7Oz8Zv87mRlCgqcXSUlJn3Q6nTM+Pv5Gq9UuaTQaKJXKpbS0tBtadkHLfqpUKqjV6snU1FTIZLJTes8xrQP622RycjLkcvkv+ttpSkrKd9rmR+pY6mdB7GdQ9DwjI+NLXV3d797eXkxMTGB0dBRDQ0OwWCzo6enh6fDwMEZGRjzKBgYGMDY2hvHxcfT19fGyubk5mEwmZGVl/aFtf6V+GWpAsV7l5ORM2mw2GAwGnJ2dcej6+nowpaen87StrQ1dXV0eZZWVlZiZmcHu7i4KCwt5GRsohUKB9vZ20LZt1G9DDShWrNFotDJgh8OB6+trnJyccAgmu93O04ODAxwdHXmUbW9v8wG6vLzE6uoqL1tcXERiYqIA/INaHmpAsVzAwdDa2hrY9/8f2E4tCzWgWB7AVquVh7Rglvem/f197OzsYHZ2ltdbWFiQJnBTUxP/fgWzvDex8Gf3sO+a1RscHJQmcElJCZ+ABLN8RIc0C1U2YQlm+YgGDlSSA+7s7OT/uYJZPqKB+/v7+UQkmOUjGjhQSQ5Yr9fzpeNDXVVVJU1gcUjf19PT09IEFk9a3tzYaEZeHnG5peUbpqampAlcUFDAd02+3NpqQHPze5SVEVRXE54ajR9QW1srTeCVlRW+bPTmrS0HOjq0cDoJXZTc+vycoLSUIDc3l++cJAcsXlq6u7xcie5ugr09BhiH7Ow3WF8nKCoidA9M+JpacsD+ZLGY6O6J0H0woeH9jlpB3zwDJdDpJArsb/NweLhEQVS4uiJ0O0gwP09wcUFQXEyQmZmJjY0N6QGLv2GWd1d+vh4NDa9peBPU1BCeajRxroGRHLB4lmZ5sdjRjnsdp9Ppa6UVlkc8rkO8YEgEHJaHeK5j2uXlZWxubgZks9mMioqKsD6mZeIH8Wq12sneTiCOiYlBQkLCX9rmZ3ILG3YH8VFFjGhsIdye+ah9CgVwyCTAukOza8He8u5l4rbuuk/8XHE9b/0JqnwB+7v2BeCv094G56HPCIp8vb2HduauemEB7KsT94W/T1j6GsyQveHHlCQ7HYieHHBUUUUVVVRRPUH9A1zK2pGo/J7iAAAAAElFTkSuQmCC)<br>
+Art. 3º Os títulos da dívida pública serão emitidos adotando-se uma das seguintes formas, ![](../assets/md-inline/8aae70c107a9d4a11396744e28eb9cd8ac04e206e6e066f10952702901d124e9.png)
+
 a ser definida pelo Ministro de Estado da Fazenda:
 
 I - oferta pública, com a realização de leilões, podendo ser colocados ao par, com ágio ou deságio;

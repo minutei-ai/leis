@@ -1,5 +1,3 @@
-###DEC-072750-0-000-05-09-1973@@@
-
 DECRETO Nº 72.750, DE 5 DE SETEMBRO DE 1973.
 
 Concede à Argical - Comércio e Mineração Ltda., o direito de lavrar dolomito no Município de Laranjal Paulista, Estado de São Paulo.

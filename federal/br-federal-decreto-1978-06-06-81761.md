@@ -1,5 +1,3 @@
-###DEC-081761-0-000-06-06-1978@@@
-
 Decreto nº 81.761, de 06 de junho de 1978.
 
 Concede reconhecimento aos cursos de Ciências Sociais, e de Letras, ministradas pela Universidade de Fortaleza, da Fundação Educacional Edson Queiroz, com sede na cidade de Fortaleza, Estado do Ceará.

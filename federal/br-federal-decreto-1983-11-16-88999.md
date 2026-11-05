@@ -1,5 +1,3 @@
-###DEC-088999-0-000-16-11-1983@@@
-
 DECreto nº 88.999, de 16 de novembro de 1983
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.

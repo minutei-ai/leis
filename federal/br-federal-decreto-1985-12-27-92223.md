@@ -1,5 +1,3 @@
-###DEC-092223-0-000-27-12-1985@@@
-
 DeCREto nº 92.223, de 27 de Dezembro de 1985.
 
 Altera dispositivos do Decreto nº 90.079, de 16 de agosto de 1984, que "dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências"

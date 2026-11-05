@@ -24,5 +24,6 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando a
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 14 de agosto de 2024.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

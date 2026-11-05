@@ -1,5 +1,3 @@
-###DEC-070571-0-000-19-05-1972@@@
-
 DECRETO Nº 70.571, DE 19 DE MAIO DE 1972.
 
 Declara de utilidade pública o "Lar Santa Maria Goretti - Bom Pastor", com sede em Caruaru, Estado de Pernambuco.

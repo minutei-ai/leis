@@ -1,5 +1,3 @@
-###DEC-051123-0-000-02-08-1961@@@
-
 DECRETO Nº 51.123, DE 2 DE AGÔSTO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Riograndense de Seguros.

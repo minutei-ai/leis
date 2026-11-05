@@ -16,20 +16,38 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.039,90</td><td style=" width:85px;    ">R$ 6.016.962,44</td><td style=" width:85px;    ">R$ 6.024.002,34</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>CONTRIBUIÇÕES AO PASEP</td><td>28 846 0100 7102</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 7.039,90</td><td>R$ 6.016.962,44</td><td>R$ 6.024.002,34</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 6.016.962,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 6.016.962,44</td></tr></tbody></table>
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 6.016.962,44
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 6.016.962,44
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS ESPECIAIS GERAIS</td><td style=" width:85px;    ">28 846 0100 7104</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.029.704,25</td><td style=" width:85px;    ">R$ 4.029.704,25</td><td style=" width:85px;    ">R$ 4.029.704,25</td></tr><tr><td style=" width:85px;    ">ENCARGOS JUDICIÁRIOS</td><td style=" width:85px;    ">28 846 0100 7105</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.400.000,00</td><td style=" width:85px;    ">R$ 1.987.258,19</td><td style=" width:85px;    ">R$ 1.987.258,19</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1704 - ENCARGOS ESPECIAIS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>ENCARGOS ESPECIAIS GERAIS</td><td>28 846 0100 7104</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 4.029.704,25</td><td>R$ 4.029.704,25</td><td>R$ 4.029.704,25</td></tr><tr><td>ENCARGOS JUDICIÁRIOS</td><td>28 846 0100 7105</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 4.400.000,00</td><td>R$ 1.987.258,19</td><td>R$ 1.987.258,19</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 6.016.962,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 6.016.962,44</td></tr></tbody></table>
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 6.016.962,44
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 6.016.962,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 6.016.962,44</td></tr></tbody></table>
+**TOTAL**
+
+R$ 6.016.962,44
+
+**TOTAL POR FONTE**
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 6.016.962,44
+
+**TOTAL**
+
+R$ 6.016.962,44

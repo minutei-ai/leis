@@ -1,5 +1,3 @@
-###DEC-069395-0-000-21-10-1971@@@
-
 DECRETO Nº 69.395 -de 21 DE OUTUBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e do Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002082-0-040-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.082-40, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a instituição de sociedades de crédito ao microempreendedor, altera dispositivos das Leis nº 6.404, de 15 de dezembro de 1976, 8.029, de 12 de abril de 1990, e 8.934, de 18 de novembro de 1994, e dá outras providências.

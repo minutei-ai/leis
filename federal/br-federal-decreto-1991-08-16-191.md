@@ -1,5 +1,3 @@
-###DEC-000191-0-000-16-08-1991@@@
-
 DECRETO Nº 191, DE 16 DE AGOSTO DE 1991
 
 Regulamenta, para a Aeronáutica, a lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

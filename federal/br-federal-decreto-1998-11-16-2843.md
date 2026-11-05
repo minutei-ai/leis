@@ -1,5 +1,3 @@
-###DEC-002843-0-000-16-11-1998@@@
-
 DECRETO Nº 2.843, DE 16 DE NOVEMBRO DE 1998.
 
 Regulamenta a Lei nº 9.092, de 12 de setembro de 1995, que destina a renda líquida de um teste da Loteria Esportiva Federal à Federação Nacional das APAEs e dá outras providências.

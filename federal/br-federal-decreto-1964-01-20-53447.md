@@ -1,5 +1,3 @@
-###DEC-053447-0-000-20-01-1964@@@
-
 DECRETO Nº 53.447, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Maclovis Murilo Lopes a pesquisar mica, no município de Espera Feliz, Estado de Minas Gerais.

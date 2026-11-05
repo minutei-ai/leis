@@ -1,5 +1,3 @@
-###DEC-065232-0-000-26-09-1969@@@
-
 DECRETO Nº 65.232 - DE 26 DE SETEMBRO DE 1969.
 
 Concede autorização à Federação dos Trabalhadores nas indústrias do Vestuário do Estado do Rio Grande do Sul, para filiar-se a Federação Interamericana dos Trabalhadores na Indústria Têxtil e do Vestuário.

@@ -18,5 +18,6 @@ Art. 5º - Esta lei entra em vigor na data de sua publicação.
 
 Art. 6º - Revogam-se as disposições em contrário.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

@@ -1,5 +1,3 @@
-###DEC-062297-0-000-22-02-1968@@@
-
 Decreto Nº 62.297, DE 22 de fevereiro de 1968.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Juipiá - Município de Três Lagoas, Estado de Mato Grosso até o sistema da Usina de Avanhandava, município de Avanhandava, no Estado de São Paulo.

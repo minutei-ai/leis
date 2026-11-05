@@ -1,5 +1,3 @@
-###DEC-064599-0-000-29-05-1969@@@
-
 DECRETO Nº 64.599, DE 29 DE MAIO DE 1969.
 
 Declara de utilidade pública o Ambulatório São Roque, com sede em Campinas, Estado de São Paulo

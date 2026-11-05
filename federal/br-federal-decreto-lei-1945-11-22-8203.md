@@ -1,5 +1,3 @@
-###DEL-008203-0-000-22-11-1945@@@
-
 DECRETO-LEI N. 8.203 – DE 22 NOVEMBRO DE 1945
 
 Torna extensivo aos servidores da Prefeitura do Distrito Federal o abono de emergência concedido aos servidores  civis e militares da União

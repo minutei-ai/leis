@@ -173,7 +173,3 @@ Instituto Estadual de Florestas – IEF
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Assessoria Jurídica Assessor Jurídico 01 1,43418 Assessoria de Programas Estratégicos Assessor-Chefe 01 1,43418 Assessoria de Coordenação Operacional Assessor-Chefe 01 1,43418 Gabinete Chefe de Gabinete 01 1,43418 Diretoria de Pesca e Biodiversidade Diretor 01 1,57298 Diretoria de Desenvolvimento Florestal Sustentável Diretor 01 1,57298 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Diretoria de Monitoramento e Controle Diretor 01 1,57298 Diretoria Geral Diretor-Geral 01 1,85057 Auditoria Seccional Auditor Seccional 01 1,43418
-
-\=======================================================================
-
-Data da última atualização: 18/8/2026.

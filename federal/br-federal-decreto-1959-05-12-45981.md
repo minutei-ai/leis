@@ -1,5 +1,3 @@
-###DEC-045981-0-000-12-05-1959@@@
-
 DECRETO Nº 45.981, DE 12 DE MAIO DE 1959.
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito extraordinário de Cr$ 10.000.000,00.

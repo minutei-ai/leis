@@ -1,7 +1,3 @@
-1
-
-###DEC-098994-0-000-02-03-1990@@@
-
 DECRETO Nº 98.994, DE 2 DE MARÇO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “QUIGUAY”, também conhecido por “FAZENDA SOSSEGO DO QUIGUAY”, situado no Município de Ponte Serrada, Estado de Santa Catarina, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002666-0-000-10-07-1998@@@
-
 DECRETO Nº 2.666, DE 10 DE JULHO DE 1998
 
 Altera dispositivos do Decreto nº 2.548, de 15 de abril de 1998, que aprova o Regimento Interno e o Quadro Demonstrativo dos Cargos de Direção e Funções Gratificadas das Escolas Agrotécnicas Federais, e dá outras providências.

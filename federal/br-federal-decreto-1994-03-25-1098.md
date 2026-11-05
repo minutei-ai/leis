@@ -1,5 +1,3 @@
-###DEC-001098-0-000-25-03-1994@@@
-
 DECRETO N° 1.098, de 25 DE MARÇO DE 1994
 
 Aprova o Regimento Interno do Conselho Nacional de Segurança Alimentar (Consea) e dá nova redação ao parágrafo único do art. 3° do Decreto n° 807, de 24 de abril de 1993.

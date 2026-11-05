@@ -1,5 +1,3 @@
-###DEC-084597-0-000-26-03-1980@@@
-
 decreto nº 84.597, de 26 de março de 1980
 
 Revoga o Decreto nº 45.420, de 12 de fevereiro de 1959.

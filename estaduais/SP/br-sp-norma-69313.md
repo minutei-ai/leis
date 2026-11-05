@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69313)
-
 # LEI Nº 12.424, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 35/2004, do Deputado Valdomiro Lopes - PSB)

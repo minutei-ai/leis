@@ -1,5 +1,3 @@
-###DEC-071833-0-000-12-02-1973@@@
-
 DECRETO Nº 71.833, DE 12 DE FEVEREIRO DE 1973.
 
 Concede autorização á Companhia Construtora Norberto Odebrecht S.A. - Comércio e Indústria com sede em Salvador, Estado da Bahia, para operar em água brasileiras com as embarcações especializadas "TLC-9" "A-CAPITOL", "Raymond IB" e "Raymand IV", de nacionalidade Norte-Americana, nos serviços que específica.

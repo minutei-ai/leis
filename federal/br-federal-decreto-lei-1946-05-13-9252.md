@@ -1,5 +1,3 @@
-###DEL-009252-0-000-13-05-1946@@@
-
 DECRETO-LEI N. 9.252 – DE 13 DE MAIO DE 1946
 
 Altera a redação do art. 8º do Decreto-lei nº 8.854, de 24 da Janeiro de 1946.

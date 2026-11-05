@@ -1,5 +1,3 @@
-###DEC-053053-0-000-02-12-1963@@@
-
 Decreto nº 53.053, de 2 de dezembro de 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cascavel, Estado do Paraná.

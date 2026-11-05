@@ -1,5 +1,3 @@
-###DEC-054855-0-000-03-11-1964@@@
-
 DECRETO Nº 54.855, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Mineração Rondônia Ltda, a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

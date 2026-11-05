@@ -1,5 +1,3 @@
-###DEC-004520-0-000-16-12-2002@@@
-
 DECRETO N. 4.520 – DE 16 DE DEZEMBRO DE 2002
 
 Dispõe sobre a publicação do Diário Oficial da União e do Diário da Justiça pela Imprensa Nacional da Casa Civil da Presidência da República, e dá outras providências.

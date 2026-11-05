@@ -1,5 +1,3 @@
-###DEC-091021-0-000-27-02-1985@@@
-
 DECRETO Nº 91.021, DE 27 DE FEVEREIRO DE 1985
 
 Outorga concessão à RÁDIO E TELEVISÃO O NORTE LIMITADA, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de João Pessoa, Estado da Paraíba.

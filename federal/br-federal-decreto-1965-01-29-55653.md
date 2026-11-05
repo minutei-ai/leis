@@ -1,5 +1,3 @@
-###DEC-055653-0-000-29-01-1965@@@
-
 decreto nº 55.653, de 29 de janeiro de 1965.
 
 Autoriza a Química Industrial Barra do Piraí S. A. a pesquisar caulim no município de Itabirito, Estado de Minas Gerais.

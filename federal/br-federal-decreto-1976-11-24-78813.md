@@ -1,5 +1,3 @@
-###DEC-078813-0-000-24-11-1976@@@
-
 DECRETO Nº 78.813, DE 24 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Fisioterapia e Terapia Ocupacional, do Centro de Ciências da Saúde, da Universidade de Fortaleza.

@@ -1,5 +1,3 @@
-###DEC-070159-0-000-17-02-1972@@@
-
 DECRETO Nº 70.159, DE 17 DE FEVEREIRO DE 1972.
 
 Dá nova redação a dispositivo do Decreto nº 53.937, de 29 de maio de 1964, alterado pelos de números 54.383, de 6 de outubro de 1964, 64.490, de 12 de maio de 1969, e 65.582, de 21 de outubro de 1969, que fixa a lotação de Adidos e Adjuntos de Adido Naval, do Exército e Aeronáutico junto às representações diplomáticas no exterior e dá outras providência.

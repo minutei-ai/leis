@@ -1,5 +1,3 @@
-###DEC-075408-0-000-25-02-1975@@@
-
 DECRETO nº 75.408, de 25 de Fevereiro de 1975.
 
 Dispõe sobre a representação do  Governo Federal nas reuniões a que se refere o artigo 2º da Lei Complementar n.º 24, de 7 de janeiro de 1975.

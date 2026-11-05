@@ -1,5 +1,3 @@
-###DEC-091818-0-000-22-10-1985@@@
-
 Decreto nº 91.818, de 22 de outubro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

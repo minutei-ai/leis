@@ -1,5 +1,3 @@
-###DEC-071585-0-000-20-12-1972@@@
-
 DECRETO Nº 71.585 - DE 20 DE DEZEMBRO DE 1972
 
 Concede autorização à empresa Amsterdamsche Ballast Bagger en Grond (Amsterdam Ballast Dredgino) N.V., para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, com a draga "Humber River", de nacionalidade inglesa, em substituição à draga "Prins Der Nederlander", nos serviços de dragagem do canal de acesso ao Terminal Marítimo Almirante Barroso, no Estado de São Paulo.

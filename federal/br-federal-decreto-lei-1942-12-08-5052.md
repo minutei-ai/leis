@@ -1,5 +1,3 @@
-###DEL-005052-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.052 – DE 8 DE DEZEMBRO DE 1942
 
 Orça a Receita e fixa a Despesa do Distrito Federal para exercício de 1943

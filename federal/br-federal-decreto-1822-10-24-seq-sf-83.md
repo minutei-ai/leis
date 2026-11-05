@@ -1,5 +1,3 @@
-###DEC-000000-0-083-24-10-1822@@@
-
 DECRETO - DE 24 DE OUTUBRO DE 1822
 
 Manda que o Batalhão da Brigada da Marinha se denomine - Batalhão de Artilharia da Marinha do Rio de Janeiro.

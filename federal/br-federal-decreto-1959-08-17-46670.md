@@ -1,5 +1,3 @@
-###DEC-046670-0-000-17-08-1959@@@
-
 DECRETO Nº 46.670, DE 17 DE AGÔSTO DE 1959.
 
 Dá nova redação ao Decreto número 45.633, de 25 de março de 1959.

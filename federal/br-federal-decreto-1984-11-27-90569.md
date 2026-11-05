@@ -1,5 +1,3 @@
-###DEC-090569-0-000-27-11-1984@@@
-
 Decreto nº 90.569, de 27 de novembro de 1984
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Ciências Aplicadas "Sagrado Coração", em Linhares, Espírito Santo.

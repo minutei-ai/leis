@@ -1,5 +1,3 @@
-###DEC-071524-0-000-12-12-1972@@@
-
 Decreto nº 71.524 - de 12 de dezembro de 1972
 
 Concede reconhecimento da Faculdade de Química Industrial, de Ribeirão Preto, São Paulo.

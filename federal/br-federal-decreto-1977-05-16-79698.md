@@ -1,5 +1,3 @@
-###DEC-079698-0-000-16-05-1977@@@
-
 DECRETO Nº 79.698, DE 16 DE MAIO DE 1977.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto número 68.419, de 25 de março de 1971.

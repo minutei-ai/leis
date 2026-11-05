@@ -1,5 +1,3 @@
-###DEL-000614-0-000-06-06-1969@@@
-
 DECRETO-LEI Nº 614, DE 6 DE JUNHO DE 1969
 
 Altera dispositivos do Decreto-lei número 403, de 30-12-68, sôbre tributação de títulos de renda fixa; do Decreto-lei nº 401, de 30-12-68,sôbre impôsto sôbre a renda e proventos de qualquer natureza; e da Lei nº 4.728, de 14-7-65, na parte relativa a debêntures conversíveis em ações.

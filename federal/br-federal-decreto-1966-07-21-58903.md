@@ -1,5 +1,3 @@
-###DEC-058903-0-000-21-07-1966@@@
-
 DECRETO Nº 58.903, DE 21 DE JULHO DE 1966.
 
 Concede à Gesso Reicos Limitada autorização para continuar a funcionar como emprêsa de mineração.

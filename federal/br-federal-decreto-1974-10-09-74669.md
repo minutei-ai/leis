@@ -1,5 +1,3 @@
-###DEC-074669-0-000-09-10-1974@@@
-
 decreto nº 74.669, de 9 de outubro de 1974.
 
 Autoriza o funcionamento do curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º Grau, do Centro de Formação de Professores de Disciplinas Especializadas, mantido pelo Instituto Noroestino de Trabalho, Educação e Cultura, com sede na cidade de Araçatuba, Estado de São Paulo.

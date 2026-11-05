@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f13659f-edd9-4b2c-aef6-acb849476ffb/texto#nowhere)
 
-###DEL-001000-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.000, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a execução dos serviços concernentes aos registros públicos estabelecidos pelo Código Civil e legislação posterior.

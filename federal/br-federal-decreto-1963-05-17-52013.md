@@ -1,5 +1,3 @@
-###DEC-052013-0-000-17-05-1963@@@
-
 DECRETO Nº 52.013, DE 17 DE MAIO DE 1963.
 
 Altera o disposto no Decreto nº 51.883, de 2 de abril de 1963.

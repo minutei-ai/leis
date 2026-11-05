@@ -1,5 +1,3 @@
-###DEC-070129-0-000-07-02-1972@@@
-
 DECRETO Nº 70.129, DE 7 DE FEVEREIRO DE 1972.
 
 Fixa a retribuição do Presidente da Fundação Serviços de Saúde Pública e a gratificação dos membros da Junta de Controle, do Ministério da Saúde.

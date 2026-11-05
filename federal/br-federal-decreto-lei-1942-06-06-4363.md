@@ -1,5 +1,3 @@
-###DEL-004363-0-000-06-06-1942@@@
-
 DECRETO-LEI N. 4.363 – DE 6 DE JUNHO DE 1942
 
 Concede à Companhia Siderúrgica Nacional isenção de direitos de importação para consumo e demais taxas aduaneiras

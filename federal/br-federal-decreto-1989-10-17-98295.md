@@ -1,7 +1,3 @@
-1
-
-###DEC-098295-0-000-17-10-1989@@@
-
 DECRETO N° 98.295, DE 17 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias de um imóvel rural, situada no Município de Castro, Estado do Paraná, destinada à instalação de Estação Telefônica da Telecomunicações do Paraná S.A. - TELEPAR, e dá outras providências.

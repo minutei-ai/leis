@@ -1,5 +1,3 @@
-###DEL-000388-0-000-26-12-1968@@@
-
 DECRETO-Lei Nº 388, dE 26 DE DEZEMBRO DE 1968
 
 Cria dois cargos de Juiz do Trabalho Substituto na Justiça do Trabalho da Oitava Região, em Belém, Estado do Pará.

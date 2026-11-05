@@ -1,5 +1,3 @@
-###DEC-095274-0-000-20-11-1987@@@
-
 DECRETO N° 95.274, DE 20 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA ITACUTIARA, BREJINHO e BREJO GRANDE", classificado como latifúndio por exploração, situado no Município de Barra, Estado da Bahia, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1.986, e dá outras providências,

@@ -1,5 +1,3 @@
-###DEC-054772-0-000-30-10-1964@@@
-
 DECRETO Nº 54.772, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Thomaz de Aquino Pereira a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

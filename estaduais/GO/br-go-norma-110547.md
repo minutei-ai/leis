@@ -58,26 +58,41 @@ ANEXO I
 
 | Nº | FUNÇÃO TEMPORÁRIA | QUANTITATIVO | CARGA HORÁRIA SEMANAL | VENCIMENTO | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Assessor Jurídico | 7 | 40 horas | R$ 5.062,21 | 1 – auxiliar no assessoramento jurídico da pasta quanto à elaboração de minutas de ajustes em geral, contratos e convênios, termos de fomento de transferências de benefícios às entidades filantrópicas;  <br>
-2 – auxiliar na elaboração de atos normativos e diretrizes das políticas públicas de assistência social, de prestação de contas de recursos utilizados de fontes estaduais e federais;  <br>
-3 – auxiliar na instrução dos processos em consonância às normas aplicáveis;  <br>
+| 1 | Assessor Jurídico | 7 | 40 horas | R$ 5.062,21 | 1 – auxiliar no assessoramento jurídico da pasta quanto à elaboração de minutas de ajustes em geral, contratos e convênios, termos de fomento de transferências de benefícios às entidades filantrópicas;  
+
+2 – auxiliar na elaboração de atos normativos e diretrizes das políticas públicas de assistência social, de prestação de contas de recursos utilizados de fontes estaduais e federais;  
+
+3 – auxiliar na instrução dos processos em consonância às normas aplicáveis;  
+
 4 – auxiliar na interpretação de orientações jurídicas e decisões judiciais, também na prestação de orientações jurídicas à população assistida pelos programas e pelas ações da pasta; e   5 – realizar atividades correlatas. | Diploma de conclusão de ensino superior em Direito expedido por instituição devidamente reconhecida pelo Ministério da Educação – MEC. |
-| 2 | Administrativo de Nível Superior | 26 | 40 horas | R$ 5.062,21 | 1 – apoiar técnica e operacionalmente a execução de programas e projetos;  <br>
-2 – atender o público;  <br>
-3 – realizar atividades de planejamento, gerenciamento, supervisão e serviços técnicos administrativos, digitação, arquivo, organização de material, banco de dados, redação; e  <br>
+| 2 | Administrativo de Nível Superior | 26 | 40 horas | R$ 5.062,21 | 1 – apoiar técnica e operacionalmente a execução de programas e projetos;  
+
+2 – atender o público;  
+
+3 – realizar atividades de planejamento, gerenciamento, supervisão e serviços técnicos administrativos, digitação, arquivo, organização de material, banco de dados, redação; e  
+
 4 – realizar atividades correlatas. | Diploma de conclusão de ensino superior expedido por instituição devidamente reconhecida pelo MEC. |
-| 3 | Engenheiro Civil | 1 | 40 horas | R$ 8.000,00 | 1 – auxiliar na elaboração de projetos de obras e reformas, termos de referência, estudos, pesquisas, gerenciamento e avaliação de projetos;  <br>
-2 – verificar a adoção de efetivas ações preventivas ou corretivas;  <br>
-3 – realizar medições de serviços executados;  <br>
-4 – auxiliar na gestão de contratos de obras e reformas;  <br>
-5 – elaborar estudos e tabelas;  <br>
-6 – elaborar, gerenciar e fiscalizar obras, reformas e ampliações; e  <br>
+| 3 | Engenheiro Civil | 1 | 40 horas | R$ 8.000,00 | 1 – auxiliar na elaboração de projetos de obras e reformas, termos de referência, estudos, pesquisas, gerenciamento e avaliação de projetos;  
+
+2 – verificar a adoção de efetivas ações preventivas ou corretivas;  
+
+3 – realizar medições de serviços executados;  
+
+4 – auxiliar na gestão de contratos de obras e reformas;  
+
+5 – elaborar estudos e tabelas;  
+
+6 – elaborar, gerenciar e fiscalizar obras, reformas e ampliações; e  
+
 7 – realizar atividades correlatas. | Diploma de conclusão de ensino superior em Engenharia Civil expedido por instituição devidamente reconhecida pelo MEC. |
-| 4 | Intérprete de Libras | 1 | 40 horas | R$ 5.062,21 | 1 – facilitar a comunicação entre surdos e ouvintes, surdos e surdos, surdos e surdos-cegos, surdos-cegos e ouvintes, por meio do uso da Língua Brasileira de Sinais – LIBRAS para a língua oral e vice-versa, nos diversos contextos da comunicação social;  <br>
-2 – apoiar a implementação de acessibilidade aos serviços e às atividades-fim; e  <br>
+| 4 | Intérprete de Libras | 1 | 40 horas | R$ 5.062,21 | 1 – facilitar a comunicação entre surdos e ouvintes, surdos e surdos, surdos e surdos-cegos, surdos-cegos e ouvintes, por meio do uso da Língua Brasileira de Sinais – LIBRAS para a língua oral e vice-versa, nos diversos contextos da comunicação social;  
+
+2 – apoiar a implementação de acessibilidade aos serviços e às atividades-fim; e  
+
 3 – realizar atividades correlatas. | Diploma de conclusão de ensino superior em Letras e/ou Libras, e/ou Exame de Proficiência em Tradução e Interpretação de Libras – Língua Portuguesa expedido por instituição devidamente reconhecida pelo MEC. |
 | 5 | Profissional de Recreação | 1 | 40 horas | R$ 5.062,21 | 1 – planejar, elaborar, coordenar, supervisionar, executar, acompanhar e avaliar planos, programas e projetos de educação física;   2 – ministrar aulas de educação física, esportivas e de lazer aos adolescentes em cumprimento de medidas socioeducativas nas unidades do sistema socioeducativo; e   3 – realizar atividades correlatas. | Diploma de conclusão de ensino superior em Educação Física expedido por instituição devidamente reconhecida pelo MEC. |
-| 6 | Técnico da Área de Saúde | 5 | 40 horas | R$ 3.037,33 | 1 – promover e executar atendimento de auxiliar de enfermagem aos adolescentes em cumprimento de medidas socioeducativas nas unidades do sistema socioeducativo; e  <br>
+| 6 | Técnico da Área de Saúde | 5 | 40 horas | R$ 3.037,33 | 1 – promover e executar atendimento de auxiliar de enfermagem aos adolescentes em cumprimento de medidas socioeducativas nas unidades do sistema socioeducativo; e  
+
 2 – realizar atividades correlatas. | Formação técnica em Técnico de Enfermagem ou Auxiliar de Enfermagem com diploma expedido por instituição devidamente reconhecida pelo MEC. |
 | **Total** |          **41** |
 
@@ -94,33 +109,57 @@ DAS ATRIBUIÇÕES E DOS REQUISITOS
 | ITEM | FUNÇÃO TEMPORÁRIA | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- |
 | ......... | ..................................... | ............................................................................. | ........................................... |
-| 103 | Analista Social – Pleno | 1 – participar do desenvolvimento de planos e projetos específicos à área de desenvolvimento social, bem como de sua implementação;  <br>
-2 – elaborar relatórios e pareceres técnicos;  <br>
-3 – pesquisar, analisar, interpretar, planejar, implantar, coordenar e controlar trabalhos nos campos de distribuição de benefícios sociais;  <br>
-4 – consolidar e analisar dados e informações de beneficiários de sistema(s) de assistência social;  <br>
-5 – acompanhar contratos, serviços terceirizados e de Organizações Sociais;  <br>
-6 – assessorar e consultar em atividades que envolvam a aplicação de recursos públicos voltados à área social;  <br>
-7 – apoiar técnica e operacionalmente na execução de programas, projetos e ações de governança institucional do órgão; e  <br>
-8 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de Ensino Superior em qualquer área do conhecimento, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele;  <br>
-2 – registro regular no conselho profissional, conforme definido em edital;  <br>
-3 – tempo de experiência, conforme definido em edital; e  <br>
+| 103 | Analista Social – Pleno | 1 – participar do desenvolvimento de planos e projetos específicos à área de desenvolvimento social, bem como de sua implementação;  
+
+2 – elaborar relatórios e pareceres técnicos;  
+
+3 – pesquisar, analisar, interpretar, planejar, implantar, coordenar e controlar trabalhos nos campos de distribuição de benefícios sociais;  
+
+4 – consolidar e analisar dados e informações de beneficiários de sistema(s) de assistência social;  
+
+5 – acompanhar contratos, serviços terceirizados e de Organizações Sociais;  
+
+6 – assessorar e consultar em atividades que envolvam a aplicação de recursos públicos voltados à área social;  
+
+7 – apoiar técnica e operacionalmente na execução de programas, projetos e ações de governança institucional do órgão; e  
+
+8 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de Ensino Superior em qualquer área do conhecimento, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele;  
+
+2 – registro regular no conselho profissional, conforme definido em edital;  
+
+3 – tempo de experiência, conforme definido em edital; e  
+
 4 – disponibilidade para realizar viagens. |
-| 104 | Intérprete de Libras | 1 – facilitar a comunicação entre surdos e ouvintes, surdos e surdos, surdos e surdos-cegos, surdos-cegos e ouvintes, por meio do uso da Língua Brasileira de Sinais – LIBRAS para a língua oral e vice-versa, nos diversos contextos da comunicação social;  <br>
-2 – apoiar na implementação de acessibilidade aos serviços e às atividades-fim do órgão ou da entidade; e  <br>
-3 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de Ensino Superior em qualquer área do conhecimento, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele; e  <br>
+| 104 | Intérprete de Libras | 1 – facilitar a comunicação entre surdos e ouvintes, surdos e surdos, surdos e surdos-cegos, surdos-cegos e ouvintes, por meio do uso da Língua Brasileira de Sinais – LIBRAS para a língua oral e vice-versa, nos diversos contextos da comunicação social;  
+
+2 – apoiar na implementação de acessibilidade aos serviços e às atividades-fim do órgão ou da entidade; e  
+
+3 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de Ensino Superior em qualquer área do conhecimento, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele; e  
+
 2 – certificado de conclusão de Exame de Proficiência em Tradução e Interpretação de Libras – Língua Portuguesa, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele. |
-| 105 | Recreador | 1 – planejar, elaborar, coordenar, supervisionar, executar, acompanhar e avaliar planos, programas e projetos de educação física voltados a divertir, integrar e proporcionar o bem-estar do público, infantil e/ou adulto, nos diversos tipos de situações e locais;  <br>
-2 – promover atividades lúdicas, desportivas e culturais; e  <br>
+| 105 | Recreador | 1 – planejar, elaborar, coordenar, supervisionar, executar, acompanhar e avaliar planos, programas e projetos de educação física voltados a divertir, integrar e proporcionar o bem-estar do público, infantil e/ou adulto, nos diversos tipos de situações e locais;  
+
+2 – promover atividades lúdicas, desportivas e culturais; e  
+
 3 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de Ensino Superior em Educação Física, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele. |
-| 106 | Técnico de Enfermagem | 1 – assistir o enfermeiro no planejamento, na programação, na orientação e na supervisão das atividades de assistência de enfermagem;  <br>
-2 – prestar cuidados diretos de enfermagem a pacientes;  <br>
-3 – atuar na prevenção e no controle das doenças transmissíveis em geral em programas de vigilância epidemiológica;  <br>
-4 – realizar atividades de prevenção e controle sistemático da infecção hospitalar;  <br>
-5 – prevenir e controlar sistematicamente danos físicos que possam ser causados a pacientes durante a assistência de saúde;  <br>
-6 – participar dos programas e das atividades de assistência integral à saúde individual e de grupos específicos;  <br>
-7 – participar dos programas de higiene e segurança do trabalho e de prevenção de acidentes e de doenças profissionais e do trabalho; e  <br>
-8 – realizar atividades correlatas. | 1 – diploma de conclusão do Ensino Médio, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele;  <br>
-2 – diploma de conclusão de curso técnico em Enfermagem, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele; e  <br>
+| 106 | Técnico de Enfermagem | 1 – assistir o enfermeiro no planejamento, na programação, na orientação e na supervisão das atividades de assistência de enfermagem;  
+
+2 – prestar cuidados diretos de enfermagem a pacientes;  
+
+3 – atuar na prevenção e no controle das doenças transmissíveis em geral em programas de vigilância epidemiológica;  
+
+4 – realizar atividades de prevenção e controle sistemático da infecção hospitalar;  
+
+5 – prevenir e controlar sistematicamente danos físicos que possam ser causados a pacientes durante a assistência de saúde;  
+
+6 – participar dos programas e das atividades de assistência integral à saúde individual e de grupos específicos;  
+
+7 – participar dos programas de higiene e segurança do trabalho e de prevenção de acidentes e de doenças profissionais e do trabalho; e  
+
+8 – realizar atividades correlatas. | 1 – diploma de conclusão do Ensino Médio, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele;  
+
+2 – diploma de conclusão de curso técnico em Enfermagem, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele; e  
+
 3 – registro regular no conselho profissional. |
 
 ” (NR)

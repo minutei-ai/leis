@@ -1,14 +1,12 @@
-###DEC-063571-0-000-07-11-1968@@@
+**DECRETO Nº 63.571, DE 7 DE NOVEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.571, DE 7 DE NOVEMBRO DE 1968.</strong>
+***Altera a composição e o quorum do Conselho Nacional de Seguros Privados.***
 
-<em><strong>Altera a composição e o quorum do Conselho Nacional de Seguros Privados.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 83, item II, da Constituição e de acôrdo com o disposto no art. 146, parágrafo único, alínea *b*, do Decreto-lei nº 200, de 25 de fevereiro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 83, item II, da Constituição e de acôrdo com o disposto no art. 146, parágrafo único, alínea <em>b</em>, do Decreto-lei nº 200, de 25 de fevereiro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Conselho Nacional de Seguros Privados (CNSP) será integrado:
+**Art**. 1º O Conselho Nacional de Seguros Privados (CNSP) será integrado:
 
 I - pelos seguintes Ministros de Estado, ou seus representantes:
 
@@ -40,15 +38,15 @@ IV - por 3 (três) representantes da iniciativa privada, nomeados pelo President
 
 § 4º Qualquer dos membros a que se refere o item IV dêste artigo perderá seu mandato, se deixar de comparecer, sem motivo justificado, a 3 (três) sessões ordinárias consecutivas ou a 6 (seis) interpoladas, durante um exercício.
 
-<strong>Art</strong>. 2º O CNPS deliberará por maioria de votos, com o quorum mínimo de 7 (sete) membros.
+**Art**. 2º O CNPS deliberará por maioria de votos, com o quorum mínimo de 7 (sete) membros.
 
-<strong>Art</strong>. 3º A SUSEP proverá os serviços de Secretaria do CNSP, sob o contrôle dêste.
+**Art**. 3º A SUSEP proverá os serviços de Secretaria do CNSP, sob o contrôle dêste.
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 7 de novembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Antônio Delfim Netto
 

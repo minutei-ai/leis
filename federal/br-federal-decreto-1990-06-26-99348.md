@@ -1,7 +1,3 @@
-1
-
-###DEC-099348-0-000-26-06-1990@@@
-
 DECRETO Nº 99.348, DE 26 DE JUNHO DE 1990
 
 Cria Grupo de Trabalho com o objetivo de avaliar a legislação relativa à poluição hídrica causada pelo derrame de óleo e substâncias nocivas e apresentar propostas.

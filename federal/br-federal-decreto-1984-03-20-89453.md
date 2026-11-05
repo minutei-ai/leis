@@ -1,5 +1,3 @@
-###DEC-089453-0-000-20-03-1984@@@
-
 dEcretO nº 89.453, dE 20 de março de 1984
 
 Autoriza o funcionamento do curso de Estatística da Fundação Brasileira de Educação, Estado do Rio de Janeiro.

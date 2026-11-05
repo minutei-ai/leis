@@ -1,5 +1,3 @@
-###DEC-070983-0-000-15-08-1972@@@
-
 DECRETO Nº 70.983, DE 15 DE AGOSTO DE 1972.
 
 Estabelece normas para os programas de fabricação da indústria automotiva e da indústria de tratores.

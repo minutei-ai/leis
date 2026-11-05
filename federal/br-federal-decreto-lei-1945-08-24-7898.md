@@ -1,5 +1,3 @@
-###DEL-007898-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.898 – DE 24 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 1.401.600,00 à verba que especifica.

@@ -1,5 +1,3 @@
-###DEL-002942-0-000-13-01-1941@@@
-
 DECRETO-LEI N. 2.942 – DE 13 DE JANEIRO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 1.900:000$0 para instalação da Justiça do Trabalho e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004502-0-000-09-12-2002@@@
-
 DECRETO Nº 4.502, DE 9 DE DEZEMBRO DE 2002
 
 Aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército - R-68.

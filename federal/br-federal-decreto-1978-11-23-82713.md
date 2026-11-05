@@ -1,5 +1,3 @@
-###DEC-082713-0-000-23-11-1978@@@
-
 Decreto nº 82.713, de 23 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Mineração e Usina Wigg S.A. pelo Decreto nº 55.459, de 05 de janeiro de 1965.

@@ -1,5 +1,3 @@
-###DEC-084128-0-000-29-10-1979@@@
-
 Decreto nº 84.128, de 29 de outubro de 1979.
 
 Dispõe sobre o controle de recursos e dispêndios de empresas estatais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002749-0-000-26-08-1998@@@
-
 DECRETO Nº 2.749, DE 26 DE AGOSTO DE 1998
 
 Dá nova redação ao § 5º do art. 3º do Decreto nº 2.093, de 11 de dezembro de 1996, que cria o Grupo Executivo para a Redução de Acidentes de Trânsito.

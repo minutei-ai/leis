@@ -1,5 +1,3 @@
-###DEC-094501-0-000-19-06-1987@@@
-
 DECRETO N° 94.501, DE 19 DE JUNHO DE 1987.
 
 Outorga concessão à Rádio Rio Balsas Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Balsas, Estado do Maranhão.

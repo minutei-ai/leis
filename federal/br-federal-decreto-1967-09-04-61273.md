@@ -1,5 +1,3 @@
-###DEC-061273-0-000-04-09-1967@@@
-
 DECRETO Nº 61.273, DE 4 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada a passagem de linha de transmissão que se estenderá desde a subestação da Central Elétrica de Furnas S.A. no município de Poços de Caldas, Estado de Minas Gerais, até a subestação da Usina Carioba, no município de Americana, Estado de São Paulo.

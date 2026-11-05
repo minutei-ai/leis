@@ -1,5 +1,3 @@
-###DEC-095188-0-000-10-11-1987@@@
-
 DECRETO N° 95.188, DE 10 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "SERINGAL NAZARETH”", classificado como latifúndio por exploração, situado no Município de Manoel Urbano, Estado do Acre, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92,676, de 19 de maio de 1986, e dá outras providências.

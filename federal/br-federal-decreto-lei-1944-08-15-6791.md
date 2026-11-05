@@ -1,5 +1,3 @@
-###DEL-006791-0-000-15-08-1944@@@
-
 DECRETO-LEI N. 6.791 – DE 15 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Educação e Saúde, o crédito suplementar que especifica

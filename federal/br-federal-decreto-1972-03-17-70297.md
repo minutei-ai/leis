@@ -1,5 +1,3 @@
-###DEC-070297-0-000-17-03-1972@@@
-
 DECRETO Nº 70.297, DE 17 DE MARÇO DE 1972.
 
 Revoga os decretos que concederam à Companhia Brunswick do Brasil S.A. autorização para funcionar na República Federativa do Brasil.

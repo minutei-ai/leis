@@ -1,7 +1,3 @@
-1
-
-###DEC-099067-0-000-08-03-1990@@@
-
 DECRETO Nº 99.067, DE 8 DE MARÇO DE 1990
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco -CODEVASF, área de terra localizada no município de Santana, Estado da Bahia.

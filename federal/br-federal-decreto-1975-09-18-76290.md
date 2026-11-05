@@ -1,5 +1,3 @@
-###DEC-076290-0-000-18-09-1975@@@
-
 DECRETO Nº 76.290 - DE 18 DE SETEMBRO DE 1975
 
 Eleva as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e gasosos.

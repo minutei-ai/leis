@@ -1,5 +1,3 @@
-###DEC-068357-0-000-16-03-1971@@@
-
 Decreto nº 68.357, de 16 de março de 1971.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal da Bahia, aprovado pelo Decreto nº 61.710, de 21 de novembro de 1967, e alterado pelos Decretos números 65.196, de 19 de setembro de 1969 e 66.448, de 15 de abril de 1970, e dá outras providências.

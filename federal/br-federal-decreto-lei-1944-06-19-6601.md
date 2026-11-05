@@ -1,5 +1,3 @@
-###DEL-006601-0-000-19-06-1944@@@
-
 DECRETO-LEI N. 6.601 – DE 19 DE Junho DE 1944
 
 Autoriza o aumento de capital da Companhia Siderúrgica Nacional e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-075813-0-000-03-06-1975@@@
-
 DECRETO Nº 75.813, DE 3 DE JUNHO DE 1975.
 
 Declara de utilidade pública para fins de desapropriação, uma área de terra urbana, sem benfeitorias, destinada à instalação de uma estação rádio, situada na cidade de Bauru, Estado de São Paulo, pela Telecomunicações de São Paulo S.A. - TELESP.

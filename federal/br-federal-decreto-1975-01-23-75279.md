@@ -1,5 +1,3 @@
-###DEC-075279-0-000-23-01-1975@@@
-
 Decreto nº 75.279, de 23 de janeiro de 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, respectivamente, nos Estados do Rio Grande do Sul e Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-009475-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.475 – DE 15 DE JULHO DE 1946
 
 Retifica o Decreto--lei n.º 8.655, de 14 de Janeiro de 1946

@@ -1,5 +1,3 @@
-###DEC-005597-0-000-28-11-2005@@@
-
 DECRETO Nº 5.597, DE 28 DE NOVEMBRO DE 2005.
 
 Regulamenta o acesso de consumidores livres às redes de transmissão de energia elétrica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091293-0-000-31-05-1985@@@
-
 DECRETO Nº 91.293 DE 31 DE MAIO DE 1985
 
 Dispõe sobre a transferência, para Brasília, do Conselho Administrativo de Defesa Econômica (CADE).

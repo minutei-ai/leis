@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209321)<br>
-
 # DECRETO N° 68.458, DE 18 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação de faixas adicionais entre os km 180 e 194 da Rodovia SP-310, no Município de Rio Claro, e dá providências correlatas._

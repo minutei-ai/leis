@@ -1,5 +1,3 @@
-###DEC-083337-0-000-16-04-1979@@@
-
 decreto nº 83.337, de 16 de abril de 1979.
 
 Altera o Decreto nº 82.047, de 01 de agosto de 1978, que regulamenta para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972 (Lei de Promoções dos Oficiais da Ativa das Forças Armadas).

@@ -1,5 +1,3 @@
-###DEC-054469-0-000-14-10-1964@@@
-
 decreto nº 54.469, de 14 de outubro de 1964.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica.

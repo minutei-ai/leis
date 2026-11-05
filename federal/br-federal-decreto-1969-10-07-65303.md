@@ -1,5 +1,3 @@
-###DEC-065303-0-000-07-10-1969@@@
-
 DECRETO Nº 65.303 - DE 7 DE OUTUBRO DE 1969.
 
 Concede à Companhia Nacional de Cimento Portland o direito de lavrar gipsita, nos municípios de Camamu e Maraú, no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-003326-0-000-03-06-1941@@@
-
 DECRETO-LEI N. 3.326 – DE 3 DE JUNHO DE 1941
 
 Dispõe sobre o transporte de malas postais e dá outras providências.

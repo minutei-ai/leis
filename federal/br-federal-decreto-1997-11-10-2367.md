@@ -1,5 +1,3 @@
-###DEC-002367-0-000-10-11-1997@@@w
-
 DECRETO Nº 2.367, DE 10 DE NOVEMBRO DE 1997
 
 Transforma, na Polícia Militar do Distrito Federal, a 6º Companhia de Polícia Militar Independente em 9º Batalhão de Polícia Militar, e dá outras providências.

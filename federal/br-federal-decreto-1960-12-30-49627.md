@@ -1,5 +1,3 @@
-###DEC-049627-0-000-30-12-1960@@@
-
 DECRETO Nº 49.627, DE 30 DE DEZEMBRO DE 1960.
 
 Concede à Mineração Abel S.A. autorização para continuar a funcionar como emprêsa de mineração.

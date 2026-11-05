@@ -1,6 +1,10 @@
 > **LEI Nº 3.683, DE 31 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.642, de 21 de julho de 2020, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2021, a fim de alterar a Meta de Resultado primário e alterar e acrescer os programas que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.642, de 21 de julho de 2020, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2021, a fim de alterar a Meta de Resultado primário e alterar e acrescer os programas que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

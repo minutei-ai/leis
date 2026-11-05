@@ -1,5 +1,3 @@
-###DEC-058371-0-000-09-05-1966@@@
-
 DECRETO Nº 58.371, de 9 de maio de 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 47.891, de 9 de março de 1960, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Araras”, Estado do Ceará.

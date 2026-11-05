@@ -1,14 +1,12 @@
-###DEC-020442-0-000-22-01-1946@@@
+**DECRETO Nº 20.442, DE 22 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.442, DE 22 DE JANEIRO DE 1946.</strong>
+***Introduz alteração no texto do Regulamento aprovado pelo decreto número 1.918, de 27 de agôsto de 1937.***
 
-<em><strong>Introduz alteração no texto do Regulamento aprovado pelo decreto número 1.918, de 27 de agôsto de 1937.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a vigorar com a redação a seguir indicada os dispositivos abaixo mencionados do Regulamento aprovado pelo Decreto número 1.918, de 27 de Agôsto de 1937:
+**Art**. 1º Passam a vigorar com a redação a seguir indicada os dispositivos abaixo mencionados do Regulamento aprovado pelo Decreto número 1.918, de 27 de Agôsto de 1937:
 
 “Art. 147. A justificação será cessada perante pessoa especialmente designada.
 
@@ -64,11 +62,11 @@ IV - com perda total dos vencimentos, do décimo terceiro ao vigésimo quarto m�
 
 c) até um ano, com perda total dos vencimentos, para tratar de seus interêsses.
 
-§ 1º Nas hipóteses das alíneas <em>a</em> e <em>b</em>, a licença só será concedida após o exame médico e, na da alínea <em>c</em>, a critério do Presidente do Instituto.
+§ 1º Nas hipóteses das alíneas *a* e *b*, a licença só será concedida após o exame médico e, na da alínea *c*, a critério do Presidente do Instituto.
 
 § 2º O período de gozo de licença não será computado no tempo de serviço do funcionário.
 
-§ 3º Considera-se computado nos vencimentos integrais a que alude a alínea <em>a</em>, inciso 1º; funcionário fizer jus como associados.
+§ 3º Considera-se computado nos vencimentos integrais a que alude a alínea *a*, inciso 1º; funcionário fizer jus como associados.
 
 Art. 165. Será declarado avulso no Quadro de pessoal do Instituto, o funcionário que, contado mais de cinco anos de exercício efetivo, assim o requerer.
 
@@ -76,12 +74,12 @@ Parágrafo único. O funcionário declarado avulso perde os direitos decorrentes
 
 Art. 166. O funcionário terá direito, anualmente a férias com vencimentos integrais, em número de dias consecutivos, fixados, até o máximo de vinte, proporcionalmente ao tempo de serviço no ano anterior.”
 
-<strong>Art</strong>. 2º Fica revogado artigo 31 do citado Regulamento.
+**Art**. 2º Fica revogado artigo 31 do citado Regulamento.
 
-<strong>Art</strong>. 3º Êste decreto, revogadas as disposições em contrário, entrará em vigor na data da sua publicação.
+**Art**. 3º Êste decreto, revogadas as disposições em contrário, entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, 22 de Janeiro de 1946, 125.º da Independência e 58.º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. Carneiro de Mendonça

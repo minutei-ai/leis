@@ -1,7 +1,3 @@
-1
-
-###DEL-002466-0-000-01-09-1988@@@
-
 # DECRETO‑LEI N° 2.466, DE 1° DE SETEMBRO DE 1988
 
 Dispõe sobre a destinação do produto da alienação dos imóveis residenciais da União, no Distrito Federal.

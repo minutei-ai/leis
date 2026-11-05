@@ -1,5 +1,3 @@
-###DEC-090212-0-000-24-09-1984@@@
-
 DECRETO Nº 90.212, DE 24 DE SETEMBRO DE 1984
 
 Altera dispositivo do Regulamento para o Quadro de Oficiais Temporários do Ministério da Aeronáutica, aprovado pelo Decreto nº 85.866, de 1º de abril de 1981.

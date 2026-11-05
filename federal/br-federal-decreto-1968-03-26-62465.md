@@ -1,5 +1,3 @@
-###DEC-062465-0-000-26-03-1968@@@
-
 DECRETO Nº 62.465, DE 26 DE MARÇO DE 1968.
 
 Regulamenta a importação e desembaraço, nas Alfândegas, das máquinas e maquinismos que, pela periculosidade inerente a seu uso, devam ser munidos de guarda protetora contra acidentes, nos têrmos da Lei número 5.280, de 27 de abril de 1967.

@@ -1,5 +1,3 @@
-###DEC-097069-0-000-18-11-1988@@@
-
 DECRETO N° 97.069, DE 18 DE NOVEMBRO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

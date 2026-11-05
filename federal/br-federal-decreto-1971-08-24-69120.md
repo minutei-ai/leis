@@ -1,5 +1,3 @@
-###DEC-069120-0-000-24-08-1971@@@
-
 DECRETO Nº 69.120, DE 24 DE AGÔSTO DE 1971.
 
 Autorização para funcionamento dos Cursos de Psicologia, Ciências Sociais, Ciências Biológicas, Física e Química, todos de 2º ciclo, da Faculdade de Filosofia, Ciências e Letras "Farias Brito", SP.

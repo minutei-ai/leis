@@ -1,5 +1,3 @@
-###DEC-069712-0-000-07-12-1971@@@
-
 DECRETO Nº 69.712 - DE 7 DE DEZEMBRO DE 1971
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

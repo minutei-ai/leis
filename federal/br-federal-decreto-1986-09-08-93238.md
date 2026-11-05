@@ -1,5 +1,3 @@
-###DEC-093238-0-000-08-09-1986@@@
-
 DECRETO Nº 93.238, DE 8 DE SETEMBRO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia Hidro Elétrica do São Francisco - CHESF, áreas de terras situadas nos Estados de Pernambuco e Bahia, destinadas a Projetos Especiais de Irrigação e necessárias ao reassentamento de parte da população a ser atingida pelo Reservatório de Itaparica, no rio São Francisco, nos Estados de Pernambuco e da Bahia.

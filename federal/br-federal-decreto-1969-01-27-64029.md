@@ -1,5 +1,3 @@
-###DEC-064029-0-000-27-01-1969@@@
-
 DECRETO Nº 64.029, DE 27 DE JANEIRO DE 1969.
 
 Retifica o Decreto nº62.294-68.

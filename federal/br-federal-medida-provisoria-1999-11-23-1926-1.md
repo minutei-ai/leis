@@ -1,5 +1,3 @@
-###MPV-001926-0-001-23-11-1999@@@
-
 MEDIDA PROVISÓRIA N° 1.926-1, DE 23 DE NOVEMBRO DE 1999.
 
 Altera dispositivos da Lei n° 9.615, de 24 de março de 1998, institui a Taxa de Autorização do Bingo, e dá outras providências.

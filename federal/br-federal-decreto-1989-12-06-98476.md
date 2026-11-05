@@ -1,7 +1,3 @@
-1
-
-###DEC-098476-0-000-06-12-1989@@@
-
 DECRETO Nº 98.476, DE 06 DE DEZEMBRO DE 1989
 
 Outorga concessão a TELEVISÃO LONDRINA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Londrina, Estado do Paraná.

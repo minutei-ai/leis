@@ -1,5 +1,3 @@
-###DEC-053931-0-000-26-05-1964@@@
-
 DECRETO Nº 53.931, DE 26 DE MAIO DE 1964.
 
 Suspende pelo prazo de seis meses a “Associação de Marinheiro e Fuzileiros Navais do Brasil”.

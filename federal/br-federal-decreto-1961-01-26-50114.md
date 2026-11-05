@@ -1,5 +1,3 @@
-###DEC-050114-0-000-26-01-1961@@@
-
 DECRETO Nº 50.114, DE 26 DE JANEIRO DE 1961.
 
 Altera a denominação do Regulamento que baixou com o Decreto número 5.798, de 11 de junho de 1940, para denominá-lo Regulamento para o Tráfego Marítimo, e torna insubsistentes seus Capítulos I, II, IV, V, e VII do Título I.

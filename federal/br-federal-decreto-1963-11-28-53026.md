@@ -1,5 +1,3 @@
-###DEC-053026-0-000-28-11-1963@@@
-
 DECRETO Nº 53.026, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Hernani Guerra Lage a pesquisar minério de ferro no município de Rio Piracicaba, Estado de Minas Gerais.

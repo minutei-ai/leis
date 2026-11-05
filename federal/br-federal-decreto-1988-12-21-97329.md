@@ -1,5 +1,3 @@
-###DEC-097329-0-000-21-12-1988@@@
-
 DECRETO Nº 97.329, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Letras de Dourados, Estado do Mato Grosso do Sul.

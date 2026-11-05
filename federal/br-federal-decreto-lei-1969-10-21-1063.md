@@ -1,7 +1,3 @@
-1
-
-###DEL-001063-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.063, DE 21 DE OUTUBRO DE 1969
 
 Estabelece, de acôrdo com a Emenda Constitucional nº 1, de 17 de outubro de 1969, casos de inelegibilidades e dá outras providências.
@@ -229,8 +225,6 @@ AURÉLIO DE LYRA TAVARES
 MÁRCIO DE SOUZA E MELLO
 
 Luís Antonio da Gama e Silva
-
-###DEL-001063-0-000-21-10-1969@@@REP01+++
 
 (\*) DECRETO-LEI Nº 1063, DE 21 DE OUTUBRO DE 1969
 

@@ -412,21 +412,26 @@ VI – 7 de abril de 2020, quanto aos CFOPs 2.453, 2.454 e 2.455, todos do Anexo
 
 VII – 17 de abril de 2020, quanto aos arts. 77, 78 e 79, todos do Anexo XIII do RCTE; e
 
-VIII – 4 de setembro de 2023, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.<br>
+VIII – 4 de setembro de 2023, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.
+
 \- [Redação dada pelo Decreto nº 10.165, de 10-11-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106325/decreto-10165).
 
-VIII – 4 de setembro de 2023, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.<br>
+VIII – 4 de setembro de 2023, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.
+
 \- [Redação dada pelo Decreto nº 10.165, de 10-11-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106325/decreto-10165).
 
-~~~~VIII – 5 de setembro de 2022, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.~~~~<br>
+VIII – 5 de setembro de 2022, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 3º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003)
 
-VIII – 5 de setembro de 2022, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.<br>
+VIII – 5 de setembro de 2022, quanto ao inciso II do § 3º do art. 167– S– F do RCTE.
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 3º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003)
 
 VIII – 1º de setembro de 2020, quanto ao inciso II do § 3º do art. 167-S-F do RCTE.
 
 Goiânia, 22 de setembro de 2020; 132º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

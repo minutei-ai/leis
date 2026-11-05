@@ -1,5 +1,3 @@
-###DEC-059134-0-000-25-08-1966@@@
-
 DECRETO Nº 59.134, DE 25 DE AGÔSTO DE 1966.
 
 Autoriza Plumbum S.A. Industria Brasileira de Mineração a pesquisar chumbo, no município de Adrianópolis, Estado do Paraná.

@@ -18,7 +18,8 @@ Superfície: 467,50 m²
 
 Transcrição nº: 2.290, do CRI de Aparecida de Goiânia-GO
 
-Descrição: Lote 01, da quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, esquina com a Rua Carioca, em Aparecida de Goiânia-GO<br>
+Descrição: Lote 01, da quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, esquina com a Rua Carioca, em Aparecida de Goiânia-GO
+
 (Redação alterada pelo Decreto "N" Nº 160, de 20 de março de 2024).
 
 ~~Lote 11, quadra 02, do loteamento Setor Jardim Luz~~
@@ -39,7 +40,8 @@ Superfície: 467,50 m²
 
 Transcrição nº: 2.300, do CRI de Aparecida de Goiânia-GO
 
-Descrição: Lote 10, da Quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, esquina com a Rua São João, em Aparecida de Goiânia-GO <br>
+Descrição: Lote 10, da Quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, esquina com a Rua São João, em Aparecida de Goiânia-GO 
+
 (Redação alterada pelo Decreto "N" Nº 160, de 20 de março de 2024).
 
 ~~Lote 12, quadra 02, do loteamento Setor Jardim Luz~~
@@ -60,7 +62,8 @@ Superfície: 420,00 m²
 
 Transcrição nº: 2.301, do CRI de Aparecida de Goiânia-GO
 
-Descrição: Lote 11, da Quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, em Aparecida de Goiânia-GO<br>
+Descrição: Lote 11, da Quadra 01, do Loteamento denominado Jardim Luz, situado na Rua Damasco, em Aparecida de Goiânia-GO
+
 (Redação alterada pelo Decreto "N" Nº 160, de 20 de março de 2024).
 
 ~~Lote 13, quadra 02, do loteamento Setor Jardim Luz~~ 
@@ -81,7 +84,8 @@ Superfície: 420,00 m²
 
 Transcrição nº: 2.302, do CRI de Aparecida de Goiânia-GO
 
-Descrição: Lote 12, da Quadra 01, do Loteamento Jardim Luz, situado na Rua Damasco, em Aparecida de Goiânia-GO<br>
+Descrição: Lote 12, da Quadra 01, do Loteamento Jardim Luz, situado na Rua Damasco, em Aparecida de Goiânia-GO
+
 (Redação alterada pelo Decreto "N" Nº 160, de 20 de março de 2024).
 
 ~~Lote 14, quadra 02, do loteamento Setor Jardim Luz~~ 
@@ -104,5 +108,6 @@ Aparecida de Goiânia, aos 01 de novembro de 2012.
 
  
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal

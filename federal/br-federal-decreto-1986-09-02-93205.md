@@ -1,5 +1,3 @@
-###DEC-093205-0-000-02-09-1986@@@
-
 DECRETO Nº 93.205, DE 02 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à formação do reservatório da usina hidrelétrica de Itaparica, da Companhia Hidro Elétrica do São Francisco - CHESF, nos estados de Pernambuco e Bahia.

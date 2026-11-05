@@ -1,5 +1,3 @@
-###MPV-001673-0-030-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.673-30, DE 27 DE AGOSTO DE 1998
 
 Altera a legislação do imposto de renda e dá outras providências.

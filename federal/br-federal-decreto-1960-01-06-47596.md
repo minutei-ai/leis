@@ -1,5 +1,3 @@
-###DEC-047596-0-000-06-01-1960@@@
-
 Decreto nº 47.596, de 6 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Irineu Felisberto a pesquisar minério de manganês nos municípios de Alegre e Iuna, Estado do Espírito Santo.

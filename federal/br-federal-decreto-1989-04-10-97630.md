@@ -1,5 +1,3 @@
-###DEC-097630-0-000-10-04-1989@@@
-
 DECRETO N° 96.630, DE 10 DE ABRIL DE 1989
 
 Cria, no Estado do Amapá, a Floresta Nacional do Amapá, com limites que especifica, e dá outras providências.

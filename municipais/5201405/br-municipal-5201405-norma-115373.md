@@ -20,5 +20,6 @@ Art. 5° Esta lei entra em vigor na data de sua publicação, revogando a Lei n�
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 24 dias do mês de Novembro de 2022
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

@@ -1,5 +1,3 @@
-###DEC-081241-0-000-23-01-1978@@@
-
 Decreto nº 81.241, de 23 de janeiro de 1978.
 
 Cria o Grupo Coordenador da Relação Anual das Informações Sociais-RAIS, instituída pelo Decreto nº 76.900, de 23 de dezembro de 1975, e dá outras providências.

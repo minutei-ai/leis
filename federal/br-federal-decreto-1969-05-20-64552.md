@@ -1,5 +1,3 @@
-###DEC-064552-0-000-20-05-1969@@@
-
 DECRETO Nº 64.552, DE 20 DE MAIO DE 1969.
 
 Declara de utilidade pública a Associação do Sanatório Sírio, com sede em São Paulo, Estado de São Paulo.

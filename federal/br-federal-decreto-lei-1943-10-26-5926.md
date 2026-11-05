@@ -1,5 +1,3 @@
-###DEL-005926-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.926 – DE 26 DE OUTUBRO DE 1943
 
 Cria novas Juntas de Conciliação e Julgamento e dá outras providências
@@ -36,7 +34,37 @@ Art. 4º Ficam criados, no Quadro Único do Ministério do Trabalho, indústria 
 
 Art. 5º Ficam criadas, no Quadro Único do Ministério do Trabalho, Indústria e Comércio, as seguintes funções gratificadas:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Petrópolis............</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Campos...............</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Santos.................</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Sorocaba.............</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Campinas............</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Jundiaí ................</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento de Juiz de Fora........</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Presidente da Junta de Conciliação e Julgamento Rio Grande...............</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.400,00 anuais</span></p></td></tr></tbody></table>
+1 – Presidente da Junta de Conciliação e Julgamento de Petrópolis............
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Campos...............
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Santos.................
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Sorocaba.............
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Campinas............
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Jundiaí ................
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento de Juiz de Fora........
+
+Cr$ 2.400,00 anuais
+
+1 – Presidente da Junta de Conciliação e Julgamento Rio Grande...............
+
+Cr$ 2.400,00 anuais
 
 Art. 6º Êste decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

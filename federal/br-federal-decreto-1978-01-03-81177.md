@@ -1,5 +1,3 @@
-###DEC-081177-0-000-03-01-1978@@@
-
 Decreto nº 81.177, de 3 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Engenharia Elétrica, da Faculdade de Engenharia de Joinville, com sede na cidade de Joinville, Estado de Santa Catarina.

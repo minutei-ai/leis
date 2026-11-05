@@ -1,5 +1,3 @@
-###DEC-061817-0-000-01-12-1967@@@
-
 DECRETO Nº 61.817, DE 1 DE DEZEMBRO DE 1967.
 
 Veda a exportação de sangue humano, de seus componentes e derivados e fixa critérios de destinação.

@@ -1,5 +1,3 @@
-###DEC-094920-0-000-22-09-1987@@@
-
 DECRETO N° 94.920, DE 22 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Fundação Educacional Regional Jaraguaense.

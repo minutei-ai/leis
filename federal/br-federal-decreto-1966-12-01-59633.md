@@ -1,5 +1,3 @@
-###DEC-059633-0-000-01-12-1966@@@
-
 decreto nº 59.633, de 1º de dezembro de 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxa e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “SIBRA” Eletrosiderúrgica Brasileira S.A.”, de Salvador (Bahia).
@@ -14,7 +12,257 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “SIBRA - Eletrosiderúrgica Brasileira S.A.”, de Salvador (BA):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:62.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1. Forno monofásico, 1.800kva, de redução direta de minério para a produção do ferro-ligas, com os seguintes componentes: ...................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1 - Prensas de barras de bronze</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2 - Barras de cobre eletrolítico usinados</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3 - Ponte de bronze (união das barras flexíveis)</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4 - Condutores flexíveis de cobre eletrolítico</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5 - Placa de bronze refrigerado para fixação dos flexíveis;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>6 - “T” de bronze com sua placa de conexão ao tensor;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>7 - Tensor do “T” com isolador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>8 - Canos condutores de cobre eletrolíticos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>9 - Contatos:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) contatos de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) aro porta contato com bucha, parafuso e arruelas;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) cunho de bronze do contato;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>d) grilete de aço para união dos contatos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>e) tirante de aço para suporte dos contatos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>f) anel de aço fundido para suporte dos tirantes;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>10 - Barras de cobre eletrolítico;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>11 - Ponte de bronze (união das barras de cobre às de bronze);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12 - Barras de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>13 - Ponte de bronze-ligação-parelela;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>14 - Camisa externa;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>15 - Aro separado, entre as camisas externo e intermediário;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>16 - Camisa intermediária;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>17 - Aro separador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>18 - Sistema de sustentação:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) anel superior de sustentação com sistema de drenagem;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) anel interior de sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) barras perfuradas de conexão;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>d) barras perfuradas, de guia e sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>e) colunas de sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>f) proteção de madeira.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>19 - Elemento isolador</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>20 - Subconjunto do eixo de carga;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>21 - Roldanas;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>22 - Tambores;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>23 - Eixo de 70mm;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>24 - Mancais e apoio do conjunto;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>25 - Redutores;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>26 - Parafuso com porca de fº.fº.;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>27 - Eletrodo inferior grande fº.fº.;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>28 - Eletrodo inferior pequeno fº.fº.;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>29 - Materiais isoladores diversos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>30 - Parafusos, porcas, arruelas e rebites.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2. Forno trifásico 5.400kva, de redução direta de minério para a produção de ferro-ligas, com os seguintes componentes:....................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1 - Prensa de barras de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2 - Barras de cobre eletrolítico usinados;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3 - Ponte de bronze (união das barras de cobre aos flexíveis);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4 - Condutores flexíveis de cobre eletrolítico de 120 x 2 x 3.200 (mm);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5 - Placas de bronze refrigerado para fixação dos flexíveis;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>6 - “T” de bronze com sua placa de conexão ao tensor;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>7 - Tensor do T, com isolador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>8 - Canos condutores de cobre eletrolítico 44 x 24;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>9 - Contatos:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) contatos de bronze com parafusos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) aro, bucha, parafuso e arruelas do porta contato;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) cunha de bronze do contato;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>d) grilhete de aço para uniâo dos contatos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>e) tirante de aço para suporte dos contatos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>f) anel de aço fundido para suporte dos tirantes;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>10 - Barras de cobre eletrolítico;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>11 - Ponte centro estrêla;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12 - Barras</span><span style="-aw-import:spaces">&nbsp; </span><span>de bronze do centro estrêla;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>13 - Camisa externa de 1.000mm de comprimento;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>14 - Aro separador entre as camisas 43 - 45;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>15 - Camisa intermediária de 2.975mm de comprimento;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>16 - Aro separador entre camisas;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>17 - Sistema de Sustentação:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) anel superior de sustentação com sistema de frenagem;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) anel inferior de sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) barras perfuradas de conexão;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>d) barras perfuradas de guia e sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>e) colunas de sustentação;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>f) proteção de madeira.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>18 - Elemento isolador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>19 - Subconjunto do eixo de carga;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>20 - Roldanas de 160mm e 251mm;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>21 - Tambores;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>22 - Eixos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>23 - Mancais e apôio do conjunto;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>24 - Redutores;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>25 - Materiais isoladores diversos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>26 - Parafusos, porcas, arruelas e rebites;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Transformador de carga-transformador GRASSI, em banho de azeite, auto refrigerado, núcleos de chapa de ferro silício, arrolamentos formados por bobinas cilíndricas concêntricas, tanque sem radiadores de refrigeração, indicador de nível de azeite, válvula de segurança, rodas de transporte, adaptável ao movimento em direção longitudinal ou transversal, execução segundo normas VDE/RET, tipo WOI especial - fases I frec. 60 Hz; conexão monofásica especial reconectável para modificar a tensão do secundário. Potência de regime permanente 1.800 KVA; tensão primária 13.800 V; tensão secundária ou vazio; 59, 4 V nominal e 30.400 amp. De intensidade secundária. Intensidade primária: 130, 5amp. A potência construtiva é de aproximadamente 2.600 KVA. Por meio de pontes sôbre a tampa pode-se obter tensões secundárias de 83-73, 2 - 65,5 e 48 V ...........................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4. Forno de calcinação da Antracita, com os seguintes componentes:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1 - Prensa barra de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2 - Barras de cobre eletrolítico;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3 - Ponte de bronze (união barras cobre aos flexíveis);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4 - Condutores flexíveis de cobre eletrolítico;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5 - Placa de bronze para fixação das barras de cobre;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>6 - Placa de bronze para fixação dos flexíveis;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>7 - “T” de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>8 - Placa de conexão ao tensor do “T”;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>9 - Tensor do “T” com isolador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>10 - Canos condutores de cobre eletrolítico;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>11 - Contatos de bronze com parafusos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12 - Cunha de bronze do contato;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>13 - Barras de cobre-segmento conectado ao transformador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>14 - Barras de cobre-segmento intermediário;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>15 - Barras de cobre-segmento conectado ao lado;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>16 - Placas de bronze;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>17 - Barras de conexão (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>18 - Elemento isolador;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>19 - Subconjunto do eixo de carga (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>20 - Roldanas (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>21 - Tambores (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>22 - Eixo;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>23 - Mancais (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>24 - Redutor;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>25 - Eletrodo inferior (conjunto);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>26 - Materiais isoladores diversos (conjunto);</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>27 - Parafusos, porcas, arruelas e rebites (conjunto);</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>13</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:62.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>224.163,72</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>532.244,70</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>348.947,43</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14.336,67</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ..................................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:62.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.119.692,52</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1. Forno monofásico, 1.800kva, de redução direta de minério para a produção do ferro-ligas, com os seguintes componentes: ...................
+
+1 - Prensas de barras de bronze
+
+2 - Barras de cobre eletrolítico usinados
+
+3 - Ponte de bronze (união das barras flexíveis)
+
+4 - Condutores flexíveis de cobre eletrolítico
+
+5 - Placa de bronze refrigerado para fixação dos flexíveis;
+
+6 - “T” de bronze com sua placa de conexão ao tensor;
+
+7 - Tensor do “T” com isolador;
+
+8 - Canos condutores de cobre eletrolíticos;
+
+9 - Contatos:
+
+a) contatos de bronze;
+
+b) aro porta contato com bucha, parafuso e arruelas;
+
+c) cunho de bronze do contato;
+
+d) grilete de aço para união dos contatos;
+
+e) tirante de aço para suporte dos contatos;
+
+f) anel de aço fundido para suporte dos tirantes;
+
+10 - Barras de cobre eletrolítico;
+
+11 - Ponte de bronze (união das barras de cobre às de bronze);
+
+12 - Barras de bronze;
+
+13 - Ponte de bronze-ligação-parelela;
+
+14 - Camisa externa;
+
+15 - Aro separado, entre as camisas externo e intermediário;
+
+16 - Camisa intermediária;
+
+17 - Aro separador;
+
+18 - Sistema de sustentação:
+
+a) anel superior de sustentação com sistema de drenagem;
+
+b) anel interior de sustentação;
+
+c) barras perfuradas de conexão;
+
+d) barras perfuradas, de guia e sustentação;
+
+e) colunas de sustentação;
+
+f) proteção de madeira.
+
+19 - Elemento isolador
+
+20 - Subconjunto do eixo de carga;
+
+21 - Roldanas;
+
+22 - Tambores;
+
+23 - Eixo de 70mm;
+
+24 - Mancais e apoio do conjunto;
+
+25 - Redutores;
+
+26 - Parafuso com porca de fº.fº.;
+
+27 - Eletrodo inferior grande fº.fº.;
+
+28 - Eletrodo inferior pequeno fº.fº.;
+
+29 - Materiais isoladores diversos;
+
+30 - Parafusos, porcas, arruelas e rebites.
+
+2. Forno trifásico 5.400kva, de redução direta de minério para a produção de ferro-ligas, com os seguintes componentes:....................
+
+1 - Prensa de barras de bronze;
+
+2 - Barras de cobre eletrolítico usinados;
+
+3 - Ponte de bronze (união das barras de cobre aos flexíveis);
+
+4 - Condutores flexíveis de cobre eletrolítico de 120 x 2 x 3.200 (mm);
+
+5 - Placas de bronze refrigerado para fixação dos flexíveis;
+
+6 - “T” de bronze com sua placa de conexão ao tensor;
+
+7 - Tensor do T, com isolador;
+
+8 - Canos condutores de cobre eletrolítico 44 x 24;
+
+9 - Contatos:
+
+a) contatos de bronze com parafusos;
+
+b) aro, bucha, parafuso e arruelas do porta contato;
+
+c) cunha de bronze do contato;
+
+d) grilhete de aço para uniâo dos contatos;
+
+e) tirante de aço para suporte dos contatos;
+
+f) anel de aço fundido para suporte dos tirantes;
+
+10 - Barras de cobre eletrolítico;
+
+11 - Ponte centro estrêla;
+
+12 - Barras  de bronze do centro estrêla;
+
+13 - Camisa externa de 1.000mm de comprimento;
+
+14 - Aro separador entre as camisas 43 - 45;
+
+15 - Camisa intermediária de 2.975mm de comprimento;
+
+16 - Aro separador entre camisas;
+
+17 - Sistema de Sustentação:
+
+a) anel superior de sustentação com sistema de frenagem;
+
+b) anel inferior de sustentação;
+
+c) barras perfuradas de conexão;
+
+d) barras perfuradas de guia e sustentação;
+
+e) colunas de sustentação;
+
+f) proteção de madeira.
+
+18 - Elemento isolador;
+
+19 - Subconjunto do eixo de carga;
+
+20 - Roldanas de 160mm e 251mm;
+
+21 - Tambores;
+
+22 - Eixos;
+
+23 - Mancais e apôio do conjunto;
+
+24 - Redutores;
+
+25 - Materiais isoladores diversos;
+
+26 - Parafusos, porcas, arruelas e rebites;
+
+3. Transformador de carga-transformador GRASSI, em banho de azeite, auto refrigerado, núcleos de chapa de ferro silício, arrolamentos formados por bobinas cilíndricas concêntricas, tanque sem radiadores de refrigeração, indicador de nível de azeite, válvula de segurança, rodas de transporte, adaptável ao movimento em direção longitudinal ou transversal, execução segundo normas VDE/RET, tipo WOI especial - fases I frec. 60 Hz; conexão monofásica especial reconectável para modificar a tensão do secundário. Potência de regime permanente 1.800 KVA; tensão primária 13.800 V; tensão secundária ou vazio; 59, 4 V nominal e 30.400 amp. De intensidade secundária. Intensidade primária: 130, 5amp. A potência construtiva é de aproximadamente 2.600 KVA. Por meio de pontes sôbre a tampa pode-se obter tensões secundárias de 83-73, 2 - 65,5 e 48 V ...........................................................................
+
+4. Forno de calcinação da Antracita, com os seguintes componentes:
+
+1 - Prensa barra de bronze;
+
+2 - Barras de cobre eletrolítico;
+
+3 - Ponte de bronze (união barras cobre aos flexíveis);
+
+4 - Condutores flexíveis de cobre eletrolítico;
+
+5 - Placa de bronze para fixação das barras de cobre;
+
+6 - Placa de bronze para fixação dos flexíveis;
+
+7 - “T” de bronze;
+
+8 - Placa de conexão ao tensor do “T”;
+
+9 - Tensor do “T” com isolador;
+
+10 - Canos condutores de cobre eletrolítico;
+
+11 - Contatos de bronze com parafusos;
+
+12 - Cunha de bronze do contato;
+
+13 - Barras de cobre-segmento conectado ao transformador;
+
+14 - Barras de cobre-segmento intermediário;
+
+15 - Barras de cobre-segmento conectado ao lado;
+
+16 - Placas de bronze;
+
+17 - Barras de conexão (conjunto);
+
+18 - Elemento isolador;
+
+19 - Subconjunto do eixo de carga (conjunto);
+
+20 - Roldanas (conjunto);
+
+21 - Tambores (conjunto);
+
+22 - Eixo;
+
+23 - Mancais (conjunto);
+
+24 - Redutor;
+
+25 - Eletrodo inferior (conjunto);
+
+26 - Materiais isoladores diversos (conjunto);
+
+27 - Parafusos, porcas, arruelas e rebites (conjunto);
+
+3
+
+3
+
+13
+
+1
+
+224.163,72
+
+532.244,70
+
+348.947,43
+
+14.336,67
+
+TOTAL ..................................................................................................
+
+-
+
+1.119.692,52
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

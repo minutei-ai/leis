@@ -1,5 +1,3 @@
-###DEC-047008-0-000-13-10-1959@@@
-
 DECRETO Nº 47.008, DE 13 DE OUTUBRO DE 1959.
 
 Autoriza a Sociedade Anônima Mármores Brasileiros “Sambra” a lavrar mármore no município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

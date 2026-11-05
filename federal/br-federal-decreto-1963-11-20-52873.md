@@ -1,5 +1,3 @@
-###DEC-052873-0-000-20-11-1963@@@
-
 decreto nº 52.873, de 20 de novembro de 1963.
 
 Declara de utilidade pública a Escola Santa Madalena Sofia, com sede no Estado da Guanabara.

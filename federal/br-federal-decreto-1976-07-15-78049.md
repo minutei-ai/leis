@@ -1,5 +1,3 @@
-###DEC-078049-0-000-15-07-1976@@@
-
 DECRETO Nº 78.049, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras e de Ciências da Faculdade de Filosofia, Ciências e Letras de Alfenas, com sede na Cidade de Alfenas, Estado de Minas Gerais.

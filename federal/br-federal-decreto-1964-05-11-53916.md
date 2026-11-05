@@ -1,5 +1,3 @@
-###DEC-053916-0-000-11-05-1964@@@
-
 decreto nº 53.916, de 11 de maio de 1964.
 
 Dá a denominação de Batalhão Tibúrcio ao 3º Batalhão de Caçadores.

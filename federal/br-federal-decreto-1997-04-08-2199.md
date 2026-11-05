@@ -1,5 +1,3 @@
-###DEC-002199-0-000-08-04-1997@@@
-
 DECRETO Nº 2.199, DE 8 DE ABRIL DE 1997
 
 Promulga o Acordo-Quadro sobre Cooperação em Pesquisa Científica e Desenvolvimento Tecnológico, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha, em Brasília, em 20 de março de 1996.

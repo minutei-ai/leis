@@ -1,5 +1,3 @@
-###DEC-003995-0-000-31-10-2001@@@
-
 DECRETO Nº 3.995, DE 31 DE OUTUBRO DE 2001
 
 Altera e acresce dispositivos à Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários, nas matérias reservadas a decreto.

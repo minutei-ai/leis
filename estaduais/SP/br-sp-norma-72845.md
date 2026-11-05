@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72845)
-
 # LEI Nº 12.658, DE 11 DE JULHO DE 2007
 
 ## (Projeto de lei nº 353/2006, do Deputado Campos Machado - PTB)

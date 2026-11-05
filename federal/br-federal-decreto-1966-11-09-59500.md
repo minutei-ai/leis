@@ -1,5 +1,3 @@
-###DEC-059500-0-000-09-11-1966@@@
-
 DECRETO Nº 59.500, DE 9 DE NOVEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Inter-Americana, Companhia de Seguros Gerais, relativa ao aumento do capital social.

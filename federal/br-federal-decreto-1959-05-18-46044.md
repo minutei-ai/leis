@@ -1,5 +1,3 @@
-###DEC-046044-0-000-18-05-1959@@@
-
 DECRETO Nº 46.044, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Carl Roderich Raeder a pesquisar ilmeníta no Município de Paranaguá, Estado do Paraná.

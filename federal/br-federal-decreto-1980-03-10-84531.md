@@ -1,5 +1,3 @@
-###DEC-084531-0-000-10-03-1980@@@
-
 Decreto nº 84.531, de 10 de março de 1980.
 
 Declara luto oficial.

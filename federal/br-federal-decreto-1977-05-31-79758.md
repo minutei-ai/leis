@@ -1,5 +1,3 @@
-###DEC-079758-0-000-31-05-1977@@@
-
 DECRETO Nº 79.758, DE 31 DE MAIO DE 1977.
 
 Dispõe sobre o ingresso nas Categorias Funcionais do Grupo-Tributação, Arrecadação e Fiscalização e dá outras providências.

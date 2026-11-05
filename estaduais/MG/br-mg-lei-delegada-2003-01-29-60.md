@@ -293,7 +293,3 @@ CARGOS DE PROVIMENTO EM COMISSÃO
 CLASSE DE CARGOS CÓDIGO SÍMBOLO Nº DE CARGOS Diretor II DS-3 F9A 04 Assessor Especial AS-4 F9A 11 Assessor Especial de Informática AS-9 F9A 01 Diretor I DS-2 F8B 08 Superintendente Regional da Fazenda DS-1 F8B 09 Assessor III AS-3 F7B 13 Assessor II AS-2 F7A 40 Auditor Fiscal EX-12 F6B 20 Coordenador de Fiscalização CH-20 F6B 49 Chefe de Posto de Fiscalização/1º nível CH-15 F7A 10 Chefe de Posto de Fiscalização/2º nível CH-16 F6B 23 Chefe de Posto de Fiscalização/3º nível CH-17 F6A 10 Inspetor Regional EX-3 F6A 23 Assessor I AS-1 F5B 74 Assessor de Orientação Tributária AS-5 F5B 05 Delegado Fiscal/1º nível CH-10 F7B 09 Delegado Fiscal/2º nível CH-11 F7A 15 Chefe de Administração Fazendária/1º nível CH-12 F6B 08 Chefe de Administração Fazendária/2º nível CH-13 F5B 58 Chefe de Administração Fazendária/3º nível CH-14 F4B 83 Gerente de Área III CH-18 F7B 19 Gerente de Área II CH-19 F7A 24 Gerente de Área I CH-23 F5A 130 Assessor Técnico Fazendário AS-10 F6A 16 Assessor Fazendário I AS-6 F4C 14 Assessor Fazendário II AS-7 F4A 08 Assessor Fazendário III AS-8 F5A 29 Coordenador CH-25 F4A 24 TOTAL 737
 
 (Vide art. 22 da Lei nº 16.192, de 23/6/2006.)
-
-\============================
-
-Data da última atualização: 26/09/2011.

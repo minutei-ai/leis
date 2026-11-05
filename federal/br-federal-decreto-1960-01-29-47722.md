@@ -1,5 +1,3 @@
-###DEC-047722-0-000-29-01-1960@@@
-
 DECRETO Nº 47.722, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro José Inácio da Silveira a pesquisar mica-xisto no município de Rio Pomba, Estado da Minas Gerais.

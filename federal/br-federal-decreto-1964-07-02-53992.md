@@ -1,5 +1,3 @@
-###DEC-053992-0-000-02-07-1964@@@
-
 DECRETO Nº 53.992, DE 2 DE JULHO DE 1964.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Econômicas de Alegrete, Estado do Rio Grande do Sul.

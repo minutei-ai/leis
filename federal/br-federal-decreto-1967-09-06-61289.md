@@ -1,5 +1,3 @@
-###DEC-061289-0-000-06-09-1967@@@
-
 DECRETO Nº 61.289, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de Passos”, com sede em Passos, Estados de Minas Gerais.

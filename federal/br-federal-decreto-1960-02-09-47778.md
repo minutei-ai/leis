@@ -1,5 +1,3 @@
-###DEC-047778-0-000-09-02-1960@@@
-
 decreto nº 47.778, de 9 de fevereiro de 1960.
 
 Declara de utilidade pública a Santa Casa da Misericórdia de Belo Horizonte, com sede na Capital do Estado de Minas Gerais.

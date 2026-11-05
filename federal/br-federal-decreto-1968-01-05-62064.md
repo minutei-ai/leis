@@ -1,5 +1,3 @@
-###DEC-062064-0-000-05-01-1968@@@
-
 DECRETO Nº 62.064, DE 5 DE JANEIRO DE 1968.
 
 Altera e retifica a redação do Decreto nº 46.609, de 14 de agôsto de 1959, para incluir a área do Decreto nº 45.723, de 6 de abril de 1959.

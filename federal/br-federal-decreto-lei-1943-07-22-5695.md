@@ -1,5 +1,3 @@
-###DEL-005695-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.695 – DE 22 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 27.750,00, à verba que especifica

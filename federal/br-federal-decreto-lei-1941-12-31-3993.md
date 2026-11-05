@@ -1,5 +1,3 @@
-###DEL-003993-0-000-31-12-1941@@@+++
-
 DECRETO‑LEI Nº 3.993 – DE 31 DEZEMBRO DE 1941
 
 Modifica as escalas de salário do pessoal extranumerário mensalista.

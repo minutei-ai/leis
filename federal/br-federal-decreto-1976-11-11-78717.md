@@ -1,5 +1,3 @@
-###DEC-078717-0-000-11-11-1976@@@
-
 DECRETO Nº 78.717, DE 11 DE NOVEMBRO DE 1976.
 
 Outorga à Companhia Fabril Mascarenhas concessão para o aproveitamento hidráulico de um trecho do rio do Peixe, no Estado de Minas Gerais, para uso exclusivo.

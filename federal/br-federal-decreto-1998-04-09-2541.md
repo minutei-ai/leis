@@ -1,5 +1,3 @@
-###DEC-002541-0-000-09-04-1998@@@
-
 DECRETO Nº 2.541, DE 9 DE ABRIL DE 1998
 
 Altera a denominação da Diretoria de Recuperação do Ministério do Exército.

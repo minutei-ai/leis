@@ -1,6 +1,7 @@
 LEI Nº 4.452 DE 09 DE MAIO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.636](https://www.legislabahia.ba.gov.br/documentos/lei-no-12636-de-10-de-janeiro-de-2013#LO%2012.636)  de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Extremo Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Alcobaça, Caravelas, Ibirapoã, Itamaraju, Itanhém, Jucuruçu, Lajedão, Medeiros Neto, Mucuri, Nova Viçosa, Prado, Teixeira de Freitas e Vereda. 
 
 Cria o Município de Teixeira de Freitas, desmembrado dos de Alcobaça e Caravelas, e dá outras providências.
@@ -25,8 +26,10 @@ começa no ponto de encontro do divisor de águas entre as bacias dos rios Itanh
 
 Começa no divisor de águas das bacias dos Rios Itanhém e Peruípe, no ponto fronteiro ao deságuo do córrego da Serraria do Rio Itanhém, daí em linha reta até o ponto de cruzamento do córrego do Mutum com a BR-101, daí em linha reta ao divisor entre as bacias dos Rios Itanhém e Peruípe, no ponto fronteiro à foz do córrego Cachoeira do Mato, no Rio Itanhém, ponto este localizado na Fazenda Japonesa, no KM-23 da Estrada que liga Teixeira de Freitas/Medeiros Neto.
 
-Redação de acordo com a Lei nº 5.853, de 20 de julho de 1990.<br>
-Redação original: "Com o Município de Caravelas:<br>
+Redação de acordo com a Lei nº 5.853, de 20 de julho de 1990.
+
+Redação original: "Com o Município de Caravelas:
+
 começa no divisor de águas da bacia dos rios Itanhém e Peruípe, no ponto fronteiro ao desague do córrego da Serraria no rio Itanhém, daí em linha reta até o ponto de cruzamento do córrego do Mutum com a BR-101, daí acompanha o córrego do Mutum no sentido Noroeste, até a sua confluência no ponto fronteiro do Km 11, da estrada que liga Teixeira de Freitas a Medeiros Neto, daí em linha reta até o Km 11 da mencionada estrada e daí seguindo a mesma estrada no sentido Teixeira de Freitas/Medeiros Neto até o marco fronteiro à Foz Japonesa, no Km 23.
 
 Art. 2º - O Município de Teixeira de Freitas compor-se-á dos Distritos de Teixeira de Freitas (sede) e Cachoeira do Mato e terá as seguintes divisas: começa no desague do córrego da Serraria no rio Itanhém, descendo por este até o desague do córrego Cachoeira do Mato.

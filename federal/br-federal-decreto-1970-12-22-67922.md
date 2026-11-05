@@ -1,5 +1,3 @@
-###DEC-067922-0-000-22-12-1970@@@
-
 DECRETO Nº 67.922, DE 22 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão estabelecida entre a usina de Uru, localizada no município de Itaberaí, e o município de Itapuranga, ambos no Estado de Goiás.

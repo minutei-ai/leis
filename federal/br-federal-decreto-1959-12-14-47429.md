@@ -1,5 +1,3 @@
-###DEC-047429-0-000-14-12-1959@@@
-
 Decreto nº 47.429, de 14 de dezembro de 1959.
 
 Altera a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

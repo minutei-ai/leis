@@ -1,5 +1,3 @@
-###DEC-054473-0-000-14-10-1964@@@
-
 DECRETO Nº 54.473, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Newton Costa a pesquisar corindon, no município de Vitória da Conquista, Estado da Bahia.

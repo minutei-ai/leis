@@ -1,5 +1,3 @@
-###DEC-047695-0-000-21-01-1960@@@
-
 DECRETO Nº 47.695, DE 21 DE JANEIRO DE 1960.
 
 Declara de utilidade pública a Federação Espírita Brasileira, com sede no Distrito Federal.

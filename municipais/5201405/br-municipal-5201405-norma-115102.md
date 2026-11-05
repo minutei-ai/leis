@@ -12,5 +12,6 @@ Art. 3º Esta Lei produzirá seus efeitos a partir de 01 de maio de 2023.
 
 Câmara Municipal de Aparecida de Goiânia, 12 de junho de 2023.
 
-ANDRÉ LUIS CARLOS DA SILVA<br>
+ANDRÉ LUIS CARLOS DA SILVA
+
 Presidente da Câmara

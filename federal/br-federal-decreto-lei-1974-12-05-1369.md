@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a4802756-b52c-42d1-ad0c-14fa89393e55/texto#nowhere)
 
-###DEL-001369-0-000-05-12-1974@@@
-
 # DECRETO-LEI Nº 1.369, de 5 de DEZEMBRO DE 1974
 
 Fixa normas para remessa de recursos em moeda estrangeira e pagamento de despesas no exterior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009323-0-000-06-06-1946@@@
-
 DECRETO-LEI N. 9.323 – DE 6 DE JUNHO DE 1946
 
 Dispõe sôbre a equiparação da Universidade do Paraná e aprova os respectivos Estatutos.

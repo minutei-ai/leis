@@ -1,5 +1,3 @@
-###DEC-075167-0-000-31-12-1974@@@
-
 Decreto nº 75.167, de 31 de dezembro de 1974.
 
 Autoriza o funcionamento da licenciatura plena do curso de Letras da Faculdade de Filosofia, Ciência e Letras de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-003269-0-000-14-05-1941@@@
-
 DECRETO-LEI N. 3.269 – DE 14 DE MAIO DE 1941
 
 Regula a concessão de pensão especial aos herdeiros dos militares.

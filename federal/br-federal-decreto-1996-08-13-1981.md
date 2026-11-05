@@ -1,5 +1,3 @@
-###DEC-001981-0-000-13-08-1996@@@
-
 DECRETO Nº 1.981, DE 13 DE AGOSTO DE 1996.
 
 Cria a Câmara de Política Social, do Conselho de Governo.

@@ -1,5 +1,3 @@
-###DEC-003549-0-000-21-07-2000@@@
-
 DECRETO Nº 3.549, DE 21 DE JULHO DE 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado da Israel sobre Isenção de Vistos para Titulares de Passaportes Nacionais, Válidos, celebrado em Brasília, em 1º de setembro de 1999.
@@ -94,4 +92,14 @@ O presente Acordo está sujeito a aprovação ou ratificação, conforme as form
 
 Feito em Brasília, em 1º de setembro de 1999, que corresponde ao dia 20 de ELUL de 5759, em dois exemplares originais, nos idiomas português, hebraico e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em sua versão inglesa.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo do Estado de Israel</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Yaacov Keinan</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo do Estado de Israel
+
+Luiz Felipe Lampreia
+
+Yaacov Keinan
+
+Ministro de Estado das Relações Exteriores
+
+Embaixador

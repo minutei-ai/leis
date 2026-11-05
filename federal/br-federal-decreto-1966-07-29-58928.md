@@ -1,5 +1,3 @@
-###DEC-058928-0-000-29-07-1966@@@
-
 DECRETO Nº 58.928, DE 29 DE JULHO DE 1966.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

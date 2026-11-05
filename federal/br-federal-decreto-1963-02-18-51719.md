@@ -1,5 +1,3 @@
-###DEC-051719-0-000-18-02-1963@@@
-
 DECRETO Nº 51.719, DE 18 DE FEVEREIRO DE 1963.
 
 Regula o uso de entidade classificadora nacional pelos órgãos e emprêsas governamentais.

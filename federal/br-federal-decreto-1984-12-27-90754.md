@@ -1,5 +1,3 @@
-###DEC-090754-0-000-27-12-1984@@@
-
 # Decreto nº 90.754, de 27 de dezembro de 1984.
 
 Dispõe sobre a organização e o funcionamento do Conselho Nacional de Informática e Automação e dá outras providências.

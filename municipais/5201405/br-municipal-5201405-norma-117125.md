@@ -38,5 +38,6 @@ Art. 6º - Esta lei entra em vigor na data de sua publicação, revogadas as dis
 
 Gabinete do Presidente da Câmara Municipal de Aparecida de Goiânia, aos 22 dias do mês de Dezembro do ano de 2014.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 PRESIDENTE

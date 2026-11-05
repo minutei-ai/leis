@@ -1,5 +1,3 @@
-###DEC-077850-0-000-16-06-1976@@@
-
 DECRETO Nº 77.850, DE 16 DE JUNHO DE 1976.
 
 Dispõe sobre enquadramento de servidores integrantes do Quadro de Pessoal do Ministério da Saúde, em decorrência de sentença judiciais.

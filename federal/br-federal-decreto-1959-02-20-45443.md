@@ -1,5 +1,3 @@
-###DEC-045443-0-000-20-02-1959@@@
-
 decreto nº 45.443, de 20 de fevereiro de 1959.
 
 Concede o abandono provisório aos servidores do Departamento Nacional de Estradas de Rodagem.

@@ -42,133 +42,64 @@ BIANCA FERREIRA TEIXEIRA
 
 **SÍMBOLOS, VALORES E QUANTITATIVOS DA GRATIFICAÇÃO DE EXERCÍCIO DE DEFESA CIVIL**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:6.0pt;background:white;border-collapse:collapse;border:
- none"><tbody><tr><td width="235" style="width:176.45pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SÍMBOLOS DA GRATIFICAÇÃO</span></p></td><td width="217" style="width:162.75pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR (R$)</span></p></td><td width="216" style="width:162.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE</span></p></td></tr><tr><td width="235" style="width:176.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GEDC-1</span></p></td><td width="217" style="width:162.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.600,00</span></p></td><td width="216" style="width:162.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td></tr><tr><td width="235" style="width:176.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GEDC-2</span></p></td><td width="217" style="width:162.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.800,00</span></p></td><td width="216" style="width:162.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">47</span></p></td></tr><tr><td width="452" colspan="2" style="width:339.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Total</span></p></td><td width="216" style="width:162.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:6.0pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">60</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> SÍMBOLOS DA GRATIFICAÇÃO </td><td> VALOR (R$) </td><td> QUANTIDADE </td></tr><tr><td> GEDC-1 </td><td> 2.600,00 </td><td> 13 </td></tr><tr><td> GEDC-2 </td><td> 1.800,00 </td><td> 47 </td></tr><tr><td colspan="2"> Total </td><td> 60 </td></tr></tbody></table>
 
 **ANEXO II**
 
 **QUANTITATIVO DE GRATIFICAÇÕES DE EXERCÍCO NA CASA MILITAR EXTINTAS, POR POSTO E GRADUAÇÃO:**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="651" style="width:488.3pt;margin-left:4.5pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr style="height:3.6pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:3.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PATENTE</span></p></td><td width="334" style="width:250.55pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:3.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTITATIVO DE VAGAS EXTINTAS</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CORONEL</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TENENTE CORONEL</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MAJOR</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAPITÃO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1º TENENTE</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2º TENENTE</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SUBTENENTE</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1º SARGENTO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2º SARGENTO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3º SARGENTO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">11</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CABO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SOLDADO</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr><tr style="height:14.25pt"><td width="317" style="width:237.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="334" style="width:250.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">36</span></p></td></tr></tbody></table>
+PATENTE
+
+QUANTITATIVO DE VAGAS EXTINTAS
+
+CORONEL
+
+1
+
+TENENTE CORONEL
+
+2
+
+MAJOR
+
+7
+
+CAPITÃO
+
+1
+
+1º TENENTE
+
+-
+
+2º TENENTE
+
+-
+
+SUBTENENTE
+
+2
+
+1º SARGENTO
+
+3
+
+2º SARGENTO
+
+6
+
+3º SARGENTO
+
+11
+
+CABO
+
+3
+
+SOLDADO
+
+-
+
+TOTAL
+
+36

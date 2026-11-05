@@ -1,5 +1,3 @@
-###DEC-006398-0-000-13-03-2008@@@
-
 DECRETO Nº 6.398, DE 13 DE MARÇO DE 2008.
 
 Promulga o Acordo de Cooperação Mútua entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai para Combater o Tráfego de Aeronaves Envolvidas com Atividades Ilícitas Transnacionais, celebrado em Montevidéu, em 14 de setembro de 2004.
@@ -22,11 +20,7 @@ Brasília, 13 de março de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no DOU de 14.3.2008
-
-ACORDO DE COOPERAÇÃO MÚTUA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+Samuel Pinheiro Guimaraes NetoACORDO DE COOPERAÇÃO MÚTUA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
 
 E O GOVERNO DA REPÚBLICA ORIENTAL DO URUGUAI PARA COMBATER O TRÁFEGO
 

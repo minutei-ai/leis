@@ -1,5 +1,3 @@
-###DEC-068138-0-000-29-01-1971@@@
-
 DECRETO Nº 68.138, de 29 de janeiro de 1971.
 
 Declara a caducidade dos decretos que menciona.

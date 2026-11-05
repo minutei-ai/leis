@@ -1,5 +1,3 @@
-###DEC-072761-0-000-06-09-1973@@@
-
 DECRETO Nº 72.761, DE 6 DE SETEMBRO DE 1973.
 
 Concede á MINEBRA - Minérios Brasileiros S.A. - Mineração e Industrialização o direito de lavrar barita no Município de Seabra, Estado da Bahia.

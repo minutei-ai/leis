@@ -12,23 +12,25 @@ Art. 2º - Fica o Poder Executivo autorizado a vincular, em favor da Caixa Econ�
 
 Art. 3º - Para efeitos do disposto no [artigo 40 e seu parágrafo único](https://www.legislabahia.ba.gov.br/documentos/lei-no-3122-de-03-de-julho-de-1973#CE1967_Emenda_2_Art__40_P__UNICO) combinados com o [§ 3º do artigo 35 da Constituição do Estado](https://www.legislabahia.ba.gov.br/documentos/lei-no-3122-de-03-de-julho-de-1973#CE1967_Emenda_2_Art__35_P_3) , os Orçamentos Estaduais dos exercícios de 1975 a 1979 consignarão dotações nos valores a seguir indicados, para acorrer aos serviços de resgate do principal e juros advindos da contratação do empréstimo a que se refere esta lei:
 
-<table border="1" cellspacing="0" cellpadding="0" width="246" style="width:184.3pt;
- margin-left:113.4pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1975<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$ 14.707.624<quebra></quebra></span></p></td></tr><tr><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1976<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$ 17.106.194<quebra></quebra></span></p></td></tr><tr><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1977<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$ 19.226.005<quebra></quebra></span></p></td></tr><tr><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1978<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$ 22.614.790<quebra></quebra></span></p></td></tr><tr><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1979<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$ 28.680.904<quebra></quebra></span></p></td></tr></tbody></table>
+1975<quebra></quebra>
+
+Cr$ 14.707.624<quebra></quebra>
+
+1976<quebra></quebra>
+
+Cr$ 17.106.194<quebra></quebra>
+
+1977<quebra></quebra>
+
+Cr$ 19.226.005<quebra></quebra>
+
+1978<quebra></quebra>
+
+Cr$ 22.614.790<quebra></quebra>
+
+1979<quebra></quebra>
+
+Cr$ 28.680.904<quebra></quebra>
 
 Parágrafo único - As parcelas supra indicadas sofrerão, anualmente, a atualização necessária decorrente da incorporação dos valores correspondentes à correção monetária calculada conforme os índices que vierem a ser utilizados para a correção das Obrigações Reajustáveis do Tesouro Nacional.
 

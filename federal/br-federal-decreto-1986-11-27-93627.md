@@ -1,5 +1,3 @@
-###DEC-093627-0-000-27-11-1986@@@
-
 DECRETO Nº 93.627, DE 27 DE NOVEMBRO DE 1986.
 
 Cria a Embaixada do Brasil na República de Vanuatu.

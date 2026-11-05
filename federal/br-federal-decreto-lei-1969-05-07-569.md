@@ -1,5 +1,3 @@
-###DEL-000569-0-000-07-05-1969@@@
-
 DECRETO-LEI Nº 569, DE 7 DE MAIO DE 1969
 
 Concede isenção fiscal a emprêsas siderúrgicas e dá outras providências.

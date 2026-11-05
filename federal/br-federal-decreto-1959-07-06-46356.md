@@ -1,5 +1,3 @@
-###DEC-046356-0-000-06-07-1959@@@
-
 DECRETO Nº 46.356, DE 6 DE JULHO DE 1959.
 
 Suprime cargo extinto.

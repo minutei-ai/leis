@@ -1,5 +1,3 @@
-###DEC-080309-0-000-09-09-1977@@@
-
 DECRETO Nº 80.309, DE 9 DE SETEMBRO DE 1977.
 
 Concede à EMIL - Empresa de Minérios Independência Limitada o direito de lavrar mármore no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

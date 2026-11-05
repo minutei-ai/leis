@@ -1,5 +1,3 @@
-###DEL-001345-0-000-19-09-1974@@@
-
 # DECRETO-LEI Nº 1.345, DE 19 DE SETEMBRO DE 1974
 
 Prorroga prazo para uso das opções previstas no artigo 4º do Decreto-lei nº 880, de 18 de setembro de 1969

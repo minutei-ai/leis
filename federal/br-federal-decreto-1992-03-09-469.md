@@ -1,7 +1,3 @@
-1
-
-###DEC-000469-0-000-09-03-1992@@@
-
 DECRETO N° 469, DE 9 DE MARÇO DE 1992
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica (Acordo n° 14), celebrado entre Brasil e Argentina.

@@ -1,5 +1,3 @@
-###DEC-053024-0-000-27-11-1963@@@
-
 DECRETO Nº 53.024, de 27 de novembro de 1963.
 
 Altera o decreto nº 51.814 de 8 de março de 1962 que estabeleceu normas de execução financeira para o exercício de 1963 tendo em vista o estado de calamidade pública verificado no Rio Grande do Sul.

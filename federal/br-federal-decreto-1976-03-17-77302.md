@@ -1,5 +1,3 @@
-###DEC-077302-0-000-17-03-1976@@@
-
 DECRETO Nº 77.302, DE 17 DE MARÇO DE 1976.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas da Faculdade de Ciências Econômicas e Administrativas de Botucatu, com sede na cidade de Botucatu, Estado de São Paulo.

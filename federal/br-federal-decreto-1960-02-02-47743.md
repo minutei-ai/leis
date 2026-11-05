@@ -1,5 +1,3 @@
-###DEC-047743-0-000-02-02-1960@@@
-
 decreto nº 47.743, de 3 de fevereiro de 1960.
 
 Regulamenta dispositivo da Lei nº 20.370, de 9 de dezembro de 1854, no que respeita a subtenentes e sargentos.

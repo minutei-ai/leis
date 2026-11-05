@@ -1,5 +1,3 @@
-###DEC-005407-0-000-31-03-2005@@@
-
 DECRETO Nº 5.407 DE 31 DE MARÇO DE 2005
 
 Dá nova redação aos incisos II e III do art. 1º do Decreto nº 3.762, de 5 de março de 2001, que regulamenta a Gratificação de Desempenho de Atividade do Ciclo de Gestão, a Gratificação de Desempenho de Atividade de Auditoria de Valores Mobiliários, a Gratificação de Desempenho de Atividade de Auditoria de Seguros Privados, a Gratificação de Desempenho de Atividade de Ciência e Tecnologia e a Gratificação de Desempenho de Atividade de Fiscalização Agropecuária.

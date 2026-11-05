@@ -1,5 +1,3 @@
-###DEC-064340-0-000-10-04-1969@@@
-
 DECRETO Nº 64.340, DE 10 DE ABRIL DE 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terrenos que menciona, situados no Estado de Santa Catarina.

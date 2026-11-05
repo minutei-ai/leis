@@ -1,5 +1,3 @@
-###DEC-003309-0-000-24-12-1999@@@
-
 DECRETO Nº 3.309, DE 24 DE DEZEMBRO DE 1999.
 
 Revoga o Decreto nº 2.096, de 17 de dezembro de 1996, que disciplina a inscrição de despesas em Restos a Pagar.

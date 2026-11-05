@@ -1,7 +1,3 @@
-1
-
-###DEC-095816-0-000-10-03-1988@@@
-
 DECRETO N° 95.816, DE 10 DE MARÇO DE 1988
 
 Dispõe sobre a transferência da Coordenadoria para Integração da Pessoa Portadora de Deficiência - CORDE para a estrutura básica da Secretaria de Administração Pública da Presidência da República - SEDAP, e dá outras providências.

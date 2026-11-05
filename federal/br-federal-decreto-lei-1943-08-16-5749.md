@@ -1,5 +1,3 @@
-###DEL-005749-0-000-16-08-1943@@@
-
 DECRETO‑LEI N. 5.749 – DE 16 DE AGÔSTO DE 1943
 
 Altera a contagem de antiguidade de pôsto

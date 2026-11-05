@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209087)<br>
-
 # DECRETO N° 68.316, DE 26 DE JANEIRO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Franco da Rocha, de parte do imóvel que especifica, e dá providências correlatas._

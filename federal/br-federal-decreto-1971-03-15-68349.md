@@ -1,5 +1,3 @@
-###DEC-068349-0-000-15-03-1971@@@
-
 DECRETO Nº 68.349, DE 15 DE MARÇO DE 1971.
 
 Retifica o artigo 1º do Decreto número 64.314, de 7 de abril de 1969.

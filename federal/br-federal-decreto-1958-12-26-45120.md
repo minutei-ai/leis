@@ -1,5 +1,3 @@
-###DEC-045120-0-000-26-12-1958@@@
-
 decreto nº45.120, de 26 de dezembro de 1958.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito negociada pela Companhia Urbanizadora da Nova Capital do Brasil.

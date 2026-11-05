@@ -1,5 +1,3 @@
-###DEC-091310-0-000-05-06-1985@@@
-
 DECRETO nº 91.310, de 05 dE junho de 1985
 
 Autoriza o funcionamento do curso superior de Tecnologia em Construção Civil da Faculdade de Engenharia São Paulo.

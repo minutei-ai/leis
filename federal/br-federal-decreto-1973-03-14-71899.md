@@ -1,5 +1,3 @@
-###DEC-071899-0-000-14-03-1973@@@
-
 DECRETO Nº 71.899, DE 14 DE MARÇO DE 1973.
 
 Dá nova redação ao artigo 8º do Decreto nº 71.236, de 11 de outubro de 1972, que dispõe sobre o Grupo - Serviço Auxiliares.

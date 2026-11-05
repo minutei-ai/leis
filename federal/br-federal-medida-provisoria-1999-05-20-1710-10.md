@@ -1,5 +1,3 @@
-###MPV-001710-0-010-20-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.710-10, DE 20 DE MAIO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

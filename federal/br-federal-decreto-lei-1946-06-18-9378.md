@@ -1,5 +1,3 @@
-###DEL-009378-0-000-18-06-1946@@@
-
 DECRETO-LEI N. 9.378 – DE 18 DE JUNHO DE 1946
 
 Estabelece as bases de organização do Salão Nacional de Belas Artes.

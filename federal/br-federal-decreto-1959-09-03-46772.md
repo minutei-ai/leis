@@ -1,5 +1,3 @@
-###DEC-046772-0-000-03-09-1959@@@
-
 DECRETO Nº 46.772, DE 3 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Gilberto Azevedo Chaves a pesquisar fosforita, no município de Igarassú, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-000104-0-000-22-04-1991@@@
-
 DECRETO Nº 104, DE 22 DE ABRIL DE 1991.
 
 Aprova novo Estatuto Social da empresa pública Banco Nacional de Desenvolvimento Econômico e Social (BNDES).

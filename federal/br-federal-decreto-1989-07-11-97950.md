@@ -1,7 +1,3 @@
-1
-
-###DEC-097950-0-000-11-07-1989@@@
-
 DECRETO N° 97.950, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA DOIS RIACHOS”, constituído pelos lotes n°s 36, 37, 39, 54, 55, 56, 57, 61, 63 e 64, do Loteamento Dois Riachos, classificado como latifúndio por exploração, situado no Município de Arapoema, Estado do Tocantins, compreendido na zona prioritária fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

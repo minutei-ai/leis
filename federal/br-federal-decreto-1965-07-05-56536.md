@@ -1,5 +1,3 @@
-###DEC-056536-0-000-05-07-1965@@@
-
 Decreto nº 56.536, de 5 de julho de 1965.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

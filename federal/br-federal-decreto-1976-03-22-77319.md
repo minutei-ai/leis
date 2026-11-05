@@ -1,5 +1,3 @@
-###DEC-077319-0-000-22-03-1976@@@
-
 Decreto nº 77.319, de 22 de março de 1976.
 
 Aprova os Estatutos da Fundação Centro Nacional de Segurança, Higiene e Medicina do Trabalho e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047258-0-000-17-11-1959@@@
-
 DECRETO Nº 47.258, DE 17 DE NOVEMBRO DE 1959.
 
 Altera a redação do art. 138, do Regulamento do Ensino Industrial, aprovado pelo Decreto nº 47.038, de 16 de outubro de 1959.

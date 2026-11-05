@@ -1,7 +1,3 @@
-1
-
-###DEC-098841-0-000-17-01-1990@@@
-
 DECRETO Nº 98.841, DE 17 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Comunicação Social da Faculdade de Comunicação Social da Federação das Escolas Superiores do ABC.

@@ -1,5 +1,3 @@
-###DEC-048525-0-000-15-07-1960@@@
-
 DECRETO N. 48.525 – DE 15 DE JULHO DE 1960
 
 Concede autorização para funcionamento de curso.

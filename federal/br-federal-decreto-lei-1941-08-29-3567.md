@@ -1,5 +1,3 @@
-###DEL-003567-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.567 – DE 29 DE AGOSTO DE 1941
 
 Autoriza a aquisição de três lotes de terreno em Florianópolis, Estado de Santa Catarina, para serventia do 14º     B. C.

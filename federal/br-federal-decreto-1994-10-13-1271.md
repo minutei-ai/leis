@@ -1,7 +1,3 @@
-1
-
-###DEC-001271-0-000-13-10-1994@@@
-
 DECRETO Nº 1.271, DE 13 DE OUTUBRO DE 1994
 
 Dá nova redação aos arts. 24, caput, 35 e 40, caput, do regulamento da Ordem do Mérito Militar, aprovado pelo Decreto nº 92.493, de 25 de março de 1986.

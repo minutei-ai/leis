@@ -1,5 +1,3 @@
-###DEC-004864-0-000-24-10-2003@@@
-
 DECRETO Nº 4.864,  DE 24 DE OUTUBRO DE 2003.
 
 Acresce e revoga dispositivos do Decreto no 3.420, de 20 de abril de 2000, que dispõe sobre a criação do Programa Nacional de Florestas - PNF.       
@@ -148,5 +146,6 @@ Parágrafo único. Os membros do Grupo Executivo de Implementação do PNF serã
 
         Brasília, 24 de outubro de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
 Marina Silva

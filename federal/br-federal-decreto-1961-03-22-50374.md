@@ -1,5 +1,3 @@
-###DEC-050374-0-000-22-03-1961@@@
-
 DECRETO Nº 50.374, DE 22 DE MARÇO DE 1961.
 
 Cria o Consulado Honorário do Brasil em Múrcia, Espanha.

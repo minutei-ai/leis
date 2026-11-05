@@ -1,5 +1,3 @@
-###DEC-046806-0-000-11-09-1959@@@
-
 DECRETO Nº 46.806, de 11 de setembro de 1959.
 
 Altera o Regulamento-Geral da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 41.095, de 7 de março de1957, e dá outras providências.

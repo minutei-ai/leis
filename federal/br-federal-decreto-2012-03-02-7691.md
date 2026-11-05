@@ -1,5 +1,3 @@
-###DEC-007691-0-000-02-03-2012-PUB-01@@@
-
 DECRETO Nº 7.691, DE 2 DE MARÇO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções Gratificadas e das Funções Comissionadas do Fundo Nacional de Desenvolvimento da Educação - FNDE, e remaneja cargos em comissão.

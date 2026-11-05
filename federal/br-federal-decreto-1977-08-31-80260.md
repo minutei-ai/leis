@@ -1,5 +1,3 @@
-###DEC-080260-0-000-31-08-1977@@@
-
 Decreto nº 80.260, de 31 de agosto de 1977.
 
 Concede à Construtora e Mineradora Megaó Ltda. o direito de lavrar calcário no Município de Surubim, Estado de Pernambuco.

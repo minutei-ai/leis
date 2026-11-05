@@ -1,5 +1,3 @@
-###DEC-006456-0-000-13-05-2008@@@
-
 DECRETO Nº 6.456, DE 13 DE MAIO DE 2008.
 
 Dispõe sobre a criação da Medalha “Heróis de 58” e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 13 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Orlando Silva de JesusJúnior
-
-Este texto não substitui o publicado no DOU de 14.5.2008

@@ -1,34 +1,32 @@
-###DEC-065611-0-000-23-10-1969@@@
+**DECRETO Nº 65.611, DE 23 DE OUTUBRO DE 1969.**
 
-<strong>DECRETO Nº 65.611, DE 23 DE OUTUBRO DE 1969.</strong>
+***Aprova o Regulamento para a Diretoria de Portos e Costas.***
 
-<em><strong>Aprova o Regulamento para a Diretoria de Portos e Costas.</strong></em>
+**OS MINISTROS DA MARINHA DE GUERRA, DO EXÉRCITO E DA AERONÁUTICA MILITAR**, usando das atribuições que lhes confere o Artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição e considerando o disposto no Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha,
 
-<strong>OS MINISTROS DA MARINHA DE GUERRA, DO EXÉRCITO E DA AERONÁUTICA MILITAR</strong>, usando das atribuições que lhes confere o Artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição e considerando o disposto no Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha,
+**DECRETAM:**
 
-<strong>DECRETAM:</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Diretoria de Portos e Costas que a êste acompanha, assinado pelo Ministro da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Diretoria de Portos e Costas que a êste acompanha, assinado pelo Ministro da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 23 de outubro de 1969; 148 da  Independência e 81º da  República.
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 AURÉLIO DE LYRA TAVARES
 
 MÁRCIO DE SOUZA E MELLO
 
-<strong>REGULAMENTO PARA A DIRETORIA DE PORTOS E COSTAS</strong>
+**REGULAMENTO PARA A DIRETORIA DE PORTOS E COSTAS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Fins</em>
+*Dos Fins*
 
-<strong>Art</strong>. 1º A Diretoria de Portos e Costas (DPC), criada com o nome de Inspetoria de Portos e Costas pelo Decreto nº 6.509, 11 de junho de 1907, reorganizada pelo Decreto número 10.798, de 11 de março de 1914, denominada Diretoria de Portos e Costas, com as mesmas atribuições anteriores, pelo Decreto nº 16.237, de 5 de dezembro de 1923, denominada Diretoria de Marinha Mercante pelo Decreto nº 20.829, de 21 de dezembro de 1931, denominação ratificada pelo Decreto nº 24.581, de 5 de julho de 1934, novamente denominada Diretoria de Portos e Costas pela Lei número 1.658 de 4 de agôsto de 1952, e reorganizada pelo Decreto nº 62.860, de 18 de junho de 1968, é o Órgão integrante do sistema de apoio do Ministério da Marinha responsável pelas funções logísticas pertinentes e que tem por finalidade planejar, dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com a Marinha Mercante, quanto à praticagem, segurança das embarcações e instalações portuárias, bem como formação, habilitação e qualificação do pessoal da Marinha Mercante e da indústria de construção naval civil.
+**Art**. 1º A Diretoria de Portos e Costas (DPC), criada com o nome de Inspetoria de Portos e Costas pelo Decreto nº 6.509, 11 de junho de 1907, reorganizada pelo Decreto número 10.798, de 11 de março de 1914, denominada Diretoria de Portos e Costas, com as mesmas atribuições anteriores, pelo Decreto nº 16.237, de 5 de dezembro de 1923, denominada Diretoria de Marinha Mercante pelo Decreto nº 20.829, de 21 de dezembro de 1931, denominação ratificada pelo Decreto nº 24.581, de 5 de julho de 1934, novamente denominada Diretoria de Portos e Costas pela Lei número 1.658 de 4 de agôsto de 1952, e reorganizada pelo Decreto nº 62.860, de 18 de junho de 1968, é o Órgão integrante do sistema de apoio do Ministério da Marinha responsável pelas funções logísticas pertinentes e que tem por finalidade planejar, dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com a Marinha Mercante, quanto à praticagem, segurança das embarcações e instalações portuárias, bem como formação, habilitação e qualificação do pessoal da Marinha Mercante e da indústria de construção naval civil.
 
-<strong>Art</strong>. 2º para a execução de sua finalidade, cabe à DPC:
+**Art**. 2º para a execução de sua finalidade, cabe à DPC:
 
 I - Fiscalizar, no que concerne à Segurança Nacional, e de acôrdo com os compromissos internacionais assumidos, as atividades das Marinhas Mercantes Nacional e Estrangeiras;
 
@@ -66,13 +64,13 @@ XVII - Elaborar instituições sôbre as embarcações submersas ou encalhadas q
 
 XVIII - Manter intercâmbio com Entidades Públicas ou Privadas afins.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da</em>  <em>Organização</em>
+*Da*  *Organização*
 
-<strong>Art</strong>. 3º A DPC é subordinada à Diretoria-Geral de Navegação.
+**Art**. 3º A DPC é subordinada à Diretoria-Geral de Navegação.
 
-<strong>Art</strong>. 4º A DPC dirigida por um Diretor (DPC-01) auxiliado por um Vice-Diretor (DPC-02), e por um Gabinete (DPC-03), assessorado por um Conselho Técnico (DPC-04) e uma Assessoria Jurídica (DPC-05), compreende cinco Departamentos, a saber:
+**Art**. 4º A DPC dirigida por um Diretor (DPC-01) auxiliado por um Vice-Diretor (DPC-02), e por um Gabinete (DPC-03), assessorado por um Conselho Técnico (DPC-04) e uma Assessoria Jurídica (DPC-05), compreende cinco Departamentos, a saber:
 
 I - Departamento de Planejamento (DPC-10);
 
@@ -86,11 +84,11 @@ V- Departamento de Intendência (DPC-50).
 
 Parágrafo único. A DPC dispõe ainda de uma Secretaria (DPC-06), subordinada ao Vice-Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 5º A DPC dispõe do seguinte pessoal:
+**Art**. 5º A DPC dispõe do seguinte pessoal:
 
 I - Um (1) Oficial General, da ativa, do Corpo da Armada - Diretor;
 
@@ -114,24 +112,24 @@ X - Pessoal civil de outra origem, admitindo de acôrdo com a legislação em vi
 
 Parágrafo único. O pessoal será nomeado ou designado de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 6º o Regimento Interno da Diretoria de Portos e Costas preverá as suas funções gratificadas a fim de serem criadas na conformidade com a legislação em vigor.
+**Art**. 6º o Regimento Interno da Diretoria de Portos e Costas preverá as suas funções gratificadas a fim de serem criadas na conformidade com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 7º Êste Regulamento será completado por um Regimento Interno, que deverá ser elaborado e aprovado de acôrdo com as normas em vigor.
+**Art**. 7º Êste Regulamento será completado por um Regimento Interno, que deverá ser elaborado e aprovado de acôrdo com as normas em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das</em>  <em>Distribuições Transitórias</em>
+*Das*  *Distribuições Transitórias*
 
-<strong>Art</strong>. 8º Dentro de noventa (90) dias, contados a partir da data da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Diretor-Geral de Navegação submeterá à apreciação do Ministro da Marinha, via Diretoria-Geral do Pessoal da Marinha e Estado-Maior da Armada, o projeto de Regimento Interno elaborado pela Diretoria de Portos e Costas.
+**Art**. 8º Dentro de noventa (90) dias, contados a partir da data da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Diretor-Geral de Navegação submeterá à apreciação do Ministro da Marinha, via Diretoria-Geral do Pessoal da Marinha e Estado-Maior da Armada, o projeto de Regimento Interno elaborado pela Diretoria de Portos e Costas.
 
-<strong>Art</strong>. 9º O Diretor de Portos e Costas fica autorizado a baixar os atos necessários à adoção das disposições do presente Regulamento até que seja aprovado o Regimento Interno.
+**Art**. 9º O Diretor de Portos e Costas fica autorizado a baixar os atos necessários à adoção das disposições do presente Regulamento até que seja aprovado o Regimento Interno.
 
 Rio de Janeiro, GB., 23 de outubro de 1969.
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 Ministro da Marinha

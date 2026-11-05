@@ -1,5 +1,3 @@
-###DEC-064309-0-000-07-04-1969@@@
-
 DECRETO Nº 64.309, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Círculo Operário Caxiense, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

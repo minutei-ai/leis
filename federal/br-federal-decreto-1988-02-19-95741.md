@@ -1,7 +1,3 @@
-1
-
-###DEC-095741-0-000-19-02-1988@@@
-
 DECRETO N° 95.741, DE 19 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Psicologia das Faculdades Integradas Estácio de Sá, no Rio de Janeiro.

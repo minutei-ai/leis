@@ -1,7 +1,3 @@
-1
-
-###DEC-001660-0-000-05-10-1995@@@
-
 DECRETO Nº 1.660, DE 5 DE OUTUBRO DE 1995.
 
 Altera o art. 8º do Decreto nº 980, de 11 de novembro de 1993, que dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União a agentes políticos e servidores públicos federais.

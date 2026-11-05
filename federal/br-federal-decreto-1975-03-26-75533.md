@@ -1,5 +1,3 @@
-###DEC-075533-0-000-26-03-1975@@@
-
 DECRETO Nº 75.533, DE 26 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais do Instituto de Ensino Superior Santo André, com sede na cidade de Santo André, Estado de São Paulo.

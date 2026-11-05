@@ -1,5 +1,3 @@
-###DEL-002937-0-000-09-01-1941@@@
-
 DECRETO-LEI N. 2.937 – DE 9 DE JANEIRO DE 1941
 
 Dispõe sobre o provimento de vagas nas Administrações dos Institutos de Aposentadorias e Pensões referidos no decreto-lei número 2.755, de 7 de novembro de 1940.

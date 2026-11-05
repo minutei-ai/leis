@@ -1,5 +1,3 @@
-###DEC-081059-0-000-19-12-1977@@@
-
 Decreto nº 81.059, de 19 de dezembro de 1977.
 
 Concede à Mineração Itapó Ltda. o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

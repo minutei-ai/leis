@@ -1,7 +1,3 @@
-1
-
-###DEC-098820-0-000-12-01-1990@@@
-
 DECRETO Nº 98.820, DE 12 DE JANEIRO DE 1990
 
 Aprova o Regulamento de Administração do Exército (RAE)-(R-3).

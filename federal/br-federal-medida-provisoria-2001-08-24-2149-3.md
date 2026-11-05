@@ -1,5 +1,3 @@
-###MPV-002149-0-003-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.149-3, DE 24 DE AGOSTO DE 2001
 
 Autoriza a criação de mecanismo de compensação destinado a viabilizar a manutenção de preços constantes para o gás natural, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-001886-0-000-29-04-1996@@@
-
 DECRETO Nº 1.886, DE 29 DE ABRIL DE 1996.
 
 Regulamenta disposições da Lei n° 8.630, de 25 de fevereiro de 1993, e dá outras providências.

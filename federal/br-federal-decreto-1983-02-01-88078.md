@@ -1,5 +1,3 @@
-###DEC-088078-0-000-01-02-1983@@@
-
 DECRETO nº 88.078, de 01 de fevereiro de 1983.
 
 Aprova alteração introduzida no Estatuto da Companhia de Pesquisa de Recursos Minerais - C.P.R.M.

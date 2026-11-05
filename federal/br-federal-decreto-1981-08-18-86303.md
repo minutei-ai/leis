@@ -1,5 +1,3 @@
-###DEC-086303-0-000-18-08-1981@@@
-
 Decreto nº 86.303, de 18 de agosto de 1981
 
 Revoga o Decreto nº 62.120, de 15 de janeiro de 1968, que outorga concessão à SOCIEDADE DE TELEVISÃO AJURICABA LTDA., para estabelecer estação de radiodifusão de sons e imagens na cidade de Manaus, Estado do Amazonas.

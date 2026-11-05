@@ -1,5 +1,3 @@
-###DEC-045409-0-000-12-02-1959@@@
-
 DECRETO Nº 45.409, DE 12 DE FEVEREIRO DE 1959.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Rio Grande do Sul a instalar um grupo diesel elétrico.

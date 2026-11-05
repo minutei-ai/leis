@@ -1,5 +1,3 @@
-###DEC-007340-0-000-21-10-2010-PUB-01@@@
-
 DECRETO Nº 7.340, DE 21 DE OUTUBRO DE 2010.
 
 Institui o Plano de Desenvolvimento Regional Sustentável - PDRS do Xingu, o seu Comitê Gestor e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096476-0-000-08-08-1988@@@
-
 DECRETO N° 96.476, DE 8 DE AGOSTO DE 1988
 
 Revoga o Decreto n° 81.757, de 5 de junho de 1978, que aprovou o Regulamento da Estação Naval do Rio de Janeiro

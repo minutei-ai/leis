@@ -1,5 +1,3 @@
-###DEL-008033-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.033 – DE 4 DE OUTUBRO DE 1945
 
 Altera dispositivos do Decreto-lei número 7.888, de 21 de agôsto de 1943.

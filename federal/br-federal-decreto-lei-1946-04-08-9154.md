@@ -1,5 +1,3 @@
-###DEL-009154-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.154 – DE 8 DE ABRIL DE 1946
 
 Autoriza a realização de segundo concurso de habilitação nos estabelecimentos de ensino superior.

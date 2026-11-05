@@ -1,5 +1,3 @@
-###DEC-005823-0-000-29-06-2006@@@
-
 DECRETO Nº 5.823, DE 29 DE JUNHO DE 2006.
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Elétrico Interligado Nacional - SIN, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação das respectivas concessões, e dá outras providências.
@@ -43,5 +41,3 @@ LUIZ INÁCIO LULA DA SILVA
            Luiz Fernando Furlan
 
            Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

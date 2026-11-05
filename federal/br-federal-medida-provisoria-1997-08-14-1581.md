@@ -1,5 +1,3 @@
-###MPV-001581-0-000-14-08-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.581, DE 14 DE AGOSTO DE 1997
 
 Autoriza a União a adquirir ações da Companhia Energética de Alagoas - CEAL, pertencentes ao Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-004576-0-000-15-01-2003@@@
-
 DECRETO N. 4.576 –  DE 15 DE JANEIRO DE 2003
 
 Altera os arts. 4º, 5º e 6º do Regulamento do Quadro de Oficiais Especialistas da Aeronáutica (QOEA), aprovado pelo Decreto nº 2.996, de 23 de março de 1999.

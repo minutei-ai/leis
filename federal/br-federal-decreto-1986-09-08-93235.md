@@ -1,5 +1,3 @@
-###DEC-093235-0-000-08-09-1986@@@
-
 DECRETO Nº 93.235, DE 08 DE SETEMBRO DE 1986
 
 Altera alíquotas de Imposto sobre Produtos Industrializados incidente sobre os Produtos que especifica.

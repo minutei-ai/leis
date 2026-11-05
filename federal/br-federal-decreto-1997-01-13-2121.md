@@ -1,5 +1,3 @@
-###DEC-002121-0-000-13-01-1997@@@
-
 DECRETO Nº 2.121, DE 13 DE JANEIRO DE 1997
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

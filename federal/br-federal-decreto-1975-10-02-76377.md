@@ -1,5 +1,3 @@
-###DEC-076377-0-000-02-10-1975@@@
-
 DECRETO Nº 76.377, DE 2 DE OUTUBRO De 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Ciências e Letras Plínio Augusto do Amaral, com sede na Cidade de Amparo - Estado de São Paulo.

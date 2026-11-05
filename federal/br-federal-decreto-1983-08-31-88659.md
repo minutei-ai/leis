@@ -1,5 +1,3 @@
-###DEC-088659-0-000-31-08-1983@@@
-
 Decreto nº 88.659, de 31 de agosto de 1983
 
 Dispõe sobre o limite do Capital Autorizado da COMPANHIA RIO-GRANDENSE DE NITROGENADOS - CRN.

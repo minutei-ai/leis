@@ -1,5 +1,3 @@
-###DEC-062034-0-000-29-12-1967@@@
-
 DECRETO Nº 62.034, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Mineração e Usina Wigg S.A. a lavrar minérios de ferro manganês e dolomita, no município de Itabirito, Estado de Minas Gerais.

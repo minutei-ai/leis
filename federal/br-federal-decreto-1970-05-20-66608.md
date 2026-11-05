@@ -1,5 +1,3 @@
-###DEC-066608-0-000-20-05-1970@@@
-
 DECRETO Nº 66.608, DE 20 DE MAIO DE 1970.
 
 Extingue o Núcleo do Serviço de Informações da Aeronáutica e cria o Centro de Informações de Segurança da Aeronáutica, aprova seu Regulamento e dá outras providências.

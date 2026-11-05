@@ -1,5 +1,3 @@
-###DEC-060869-0-000-19-06-1967@@@
-
 DECRETO Nº 60.869, DE 19 DE JUNHO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que especifica, necessário à Universidade Federal do Rio Grande do Sul, vinculada ao Ministério da Educação e Cultura.

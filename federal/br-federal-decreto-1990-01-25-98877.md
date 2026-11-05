@@ -1,7 +1,3 @@
-1
-
-###DEC-098877-0-000-25-01-1990@@@
-
 DECRETO Nº 98.877, DE 25 DE JANEIRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Tremembé, da ELETROPAULO Eletricidade de São Paulo S.A.  no Estado de São Paulo.

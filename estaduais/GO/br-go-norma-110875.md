@@ -25,7 +25,8 @@ SUPLEMENTAÇÃO
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
 | CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA | 10 302 1043 3348 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 10.588.537,00 | R$ 9.147.648,64 | R$ 19.736.185,64 |
 
-|   **4000 - SECRETARIA-GERAL DE GOVERNO**<br>
+|   **4000 - SECRETARIA-GERAL DE GOVERNO**
+
 **4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
@@ -33,7 +34,7 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 10.817.648,64
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align: justify;">R$ 10.817.648,64</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 10.817.648,64</td></tr></tbody></table>
 
 QUADRO 2
 
@@ -44,7 +45,8 @@ REDUÇÃO
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO A PROGRAMAR** |   **VALOR BLOQUEADO** |   **VALOR A REDUZIR** |
 | CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MINEIROS | 10 302 1043 3349 | 15000100 | 50 | 4 - INVESTIMENTOS | R$ 10.000.000,00 | R$ 9.147.648,64 | R$ 9.147.648,64 |
 
-|   **4000 - SECRETARIA-GERAL DE GOVERNO**<br>
+|   **4000 - SECRETARIA-GERAL DE GOVERNO**
+
 **4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO A PROGRAMAR** |   **VALOR BLOQUEADO** |   **VALOR A REDUZIR** |
@@ -52,8 +54,8 @@ REDUÇÃO
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 10.817.648,64
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align: justify;">R$ 10.817.648,64</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 10.817.648,64</td></tr></tbody></table>
 
 TOTAL POR FONTE: R$ 10.817.648,64
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align: justify;">R$ 10.817.648,64</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 10.817.648,64</td></tr></tbody></table>

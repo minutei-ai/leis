@@ -1,5 +1,3 @@
-###DEL-006190-0-000-08-01-1944@@@
-
 DECRETO-LEI N. 6.190 – DE 8 DE JANEIRO DE 1944
 
 Autoriza medida para atender às dificuldades da lavoura cafeeira dos Estados de São Paulo o Paraná em conseqüência das sêcas e geadas

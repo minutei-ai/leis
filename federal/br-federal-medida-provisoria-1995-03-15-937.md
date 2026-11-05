@@ -1,7 +1,3 @@
-1
-
-###MPV-000937-0-000-15-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 937, DE 15 DE MARÇO DE 1995
 
 Estabelece normas para outorga e prorrogação das concessões e permissões de serviços públicos, e dá outras providências.

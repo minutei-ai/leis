@@ -1,7 +1,3 @@
-1
-
-###DEC-098168-0-000-22-09-1989@@@
-
 DECRETO Nº 98.168, DE 22 DE SETEMBRO DE 1989
 
 Abre ao Ministério da Justiça e ao Senado Federal, em favor de diversas Unidades Orçamentárias, o crédito especial de NCz$ 363.852,00, para reforço de dotações consignadas no vigente Orçamento.

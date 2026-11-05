@@ -1,5 +1,3 @@
-###DEC-052394-0-000-22-08-1963@@@
-
 DECRETO Nº 52.394, DE 22 DE AGÔSTO DE 1963.
 
 Autoriza a Companhia Hidrelétrica do Vale do Paraíba a montar usina termelétrica.

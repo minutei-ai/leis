@@ -1,5 +1,3 @@
-###MPV-002073-0-034-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.073-34, DE 22 DE FEVEREIRO DE 2001
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

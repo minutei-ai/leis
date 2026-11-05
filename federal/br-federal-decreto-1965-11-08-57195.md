@@ -1,5 +1,3 @@
-###DEC-057195-0-000-08-11-1965@@@
-
 DECRETO Nº 57.195, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro João Sattim a pesquisar feldspato e quartzo, no município de Socorro - Estado de São Paulo.

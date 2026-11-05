@@ -1,7 +1,3 @@
-1
-
-###MPV-000980-0-000-25-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 980, DE 25 DE ABRIL DE 1995
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

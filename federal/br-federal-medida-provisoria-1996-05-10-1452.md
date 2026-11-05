@@ -1,7 +1,3 @@
-1
-
-###MPV-001452-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.452, DE 10 DE MAIO DE 1996
 
 Dá novo redação aos arts.24, 26 e 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitação e contratos da Administração Pública e dá outras providências.

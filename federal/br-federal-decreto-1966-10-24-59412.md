@@ -1,5 +1,3 @@
-###DEC-059412-0-000-24-10-1966@@@
-
 Decreto nº 59.412, de 24 de outubro de 1966.
 
 Dispõe sôbre a aplicação do disposto nos arts. 26, 37 e 38 do Decreto-lei nº 5, de 4 de abril de 1966, às emprêsas mineradoras e exportadoras de minério de ferro, a que se refere o Decreto nº 55.282, de 22 de dezembro de 1964, e dá outras providências.

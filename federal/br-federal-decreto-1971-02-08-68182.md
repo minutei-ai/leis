@@ -1,5 +1,3 @@
-###DEC-068182-0-000-08-02-1971@@@
-
 DECRETO Nº 68.182, DE 8 DE FEVEREIRO DE 1971.
 
 Redistribui, com o respectivo ocupante o cargo do Ministério dos Transportes, para o Departamento Nacional de Estradas de Rodagem, e dá outras providências.

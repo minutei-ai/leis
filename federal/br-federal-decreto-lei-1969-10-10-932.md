@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2a01b7fd-87d8-4415-8d70-2c663fe50bb0/texto#nowhere)
 
-###DEL-000932-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 932, DE 10 DE OUTUBRO DE 1969
 
 Dispõe sôbre os Impostos sôbre Serviços e Circulação de Mercadorias e dá outras providências.

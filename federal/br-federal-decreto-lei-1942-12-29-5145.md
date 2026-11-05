@@ -1,5 +1,3 @@
-###DEL-005145-0-000-29-12-1942@@@
-
 DECRETO-LEI N. 5.145 – DE 29 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 23.212,00 (vinte e três mil duzentos e doze cruzeiros), para pagamento das vantagens (Pessoal) que indica

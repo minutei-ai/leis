@@ -1,5 +1,3 @@
-###DEC-066270-0-000-26-02-1970@@@
-
 DECRETO Nº 66.270 - DE 26 DE FEVEREIRO DE 1970
 
 Concede à emprêsa Immobiliare Casa Latina-Societá per Azioni autorização para continuar a funcionar na República Federativa do Brasil.

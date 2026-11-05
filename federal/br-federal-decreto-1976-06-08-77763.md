@@ -1,5 +1,3 @@
-###DEC-077763-0-000-08-06-1976@@@
-
 DECRETO N.º 77.763, DE 8 DE JUNHO DE 1976.
 
 Autoriza a transferência direta para a Rede Gaúcha - Zero Hora de Comunicações Ltda. da concessão outorgada à Rádio Clube Metrópole Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Canoas, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-009740-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.740 – DE 5 DE SETEMBRO DE 1946
 
 Faz reduções no Orçamento Geral da República para 1946

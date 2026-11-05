@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212863)<br>
-
 # DECRETO N° 70.775, DE 04 DE AGOSTO DE 2026
 
 ### _Dá nova redação ao item 4 do § 4° do artigo 4° do Decreto n° 63.456, de 5 de junho de 2018._

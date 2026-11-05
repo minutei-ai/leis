@@ -1,5 +1,3 @@
-###DEC-070555-0-000-17-05-1972@@@
-
 DECRETO Nº 70.555, DE 17 DE MAIO DE 1972
 
 Redistribui, com os respectivos ocupantes, para o Ministério do Trabalho e Previdência Social, cargos do Ministério da Justiça, e dá outras providências.

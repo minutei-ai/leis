@@ -14,7 +14,8 @@ II – crédito não tributário favorecido: o montante obtido pela soma dos val
 
 § 2º O sujeito passivo do crédito tributário favorecido, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 27 de dezembro de 2024.
 
-§ 3º O sujeito passivo do crédito não tributário favorecido, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 31 de julho de 2025.<br>
+§ 3º O sujeito passivo do crédito não tributário favorecido, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 31 de julho de 2025.
+
 \- [Redação dada pela Lei nº 23.387, de 30-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110642/lei-23387).
 
 ~~§ 3º O sujeito passivo do crédito não tributário favorecido, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 30 de abril de 2025.~~
@@ -111,7 +112,7 @@ ANEXO ÚNICO
 
 COEFICIENTES DE FINANCIAMENTO PARA A APURAÇÃO DO VALOR FIXO DAS PARCELAS
 
-| Número de parcelas | Percentual de redução da atualização monetária e da multa moratória | **Coeficiente do cálculo do valor das parcelas mensais** ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAtCAIAAABkn3G9AAACLUlEQVRoBe2ZQXaEIAxAXXXX1+0s+l6XXKB38Rq9iVfoLTzOHIU+AsSAiTOVoDg6m4EQSH4CAtrZc/y6c2DaBc6x7/DXjxCP+2BQ5ApBXCdWYEzLgsQJkNEIVlRN14mOMCrPKfFIcmHwMrGqMZ7TJdAM95mfYBpnrtNIJapTeW/OOJtnUVAWbMApmZjLQYIZPlo+rcVHj0sSVuacyjmkw6ka49cnmAO6kKowV1VNUyaurGpsgZOzfViZOidkgS7YruveszpTlVQ+bx/p0YTpyxnIdwt1zkYzfnE2mpiVbl35XBm4hW6qG8WCHa5ps3zG5/BWp8YMdhtOD2mMqXxlzeBIdTPOfvR3m5fOpw/sKdantVc+yTqqVdxmfZ5r3tbK1TPjluaTXlLDVeJtdqW4fWein69MwF05Ziolj+pSzmdi2YLOxdlCFvR80MinuP+7BnKxF/UAB1vdki9ZimxwijnBPf59pnMYMRf0cseSfnnjynoZp3deOJ8Td3k9J8U40NMS9oRC34c3RCVJLuYUz+fAFly7D4bREzmxq+P0oQDRFJR/Z7WM05tDtxLrmBSUTnpQovtjFoXYN/6Hd+XtcCKAGX7p6gTWiXOKz+Q6bY188b85TswddzuhJE7R1VlOVDwCJ3yVmTAe3ssQzn/PgZ5tcZIkJkXiZSJ/VFnbb2lcjeeQOH46MUW1rMFhlmwh2XC+WpWTtbiP8OLcJ+61rNLN+qXLtQLY2LhnWZ9/UveOCDkik1cAAAAASUVORK5CYII=) |
+| Número de parcelas | Percentual de redução da atualização monetária e da multa moratória | **Coeficiente do cálculo do valor das parcelas mensais** ![](../../assets/md-inline/3955168a593d2581ed7650558aadbb064308ae127cd7e7901d37c8bc57d217f0.png) |
 | --- | --- | --- |
 | 2 | 97,95 | 1,0100000000 |
 | 3 | 97,91 | 0,5075124378 |

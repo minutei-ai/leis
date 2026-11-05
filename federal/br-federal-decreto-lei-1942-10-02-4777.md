@@ -1,5 +1,3 @@
-###DEL-004777-0-000-02-10-1942@@@
-
 DECRETO-LEI N. 4.777 – DE 2 DE OUTUBRO DE 1942
 
 Manda agregar o oficial sujeito a processo

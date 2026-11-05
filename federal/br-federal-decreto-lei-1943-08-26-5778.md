@@ -1,5 +1,3 @@
-###DEL-005778-0-000-26-08-1943@@@
-
 DECRETO–LEI N. 5.778 – DE 26 DE AGÔSTO DE 1943
 
 Abre ao Conselho Nacional de Águas e Energia Elétrica o crédito suplementar de Cr$ 3.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-045082-0-000-22-12-1958@@@
-
 DECRETO Nº 45.082, DE 22 DE DEZEMBRO DE 1958.
 
 Concede prorrogação de prazo de validade de carta-patente do Banco do Rio Grande do Sul S.A.

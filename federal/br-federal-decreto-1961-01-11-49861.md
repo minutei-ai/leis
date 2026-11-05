@@ -1,5 +1,3 @@
-###DEC-049861-0-000-11-01-1961@@@
-
 DECRETO Nº 49.861, DE 11 DE JANEIRO DE 1961.
 
 Prorroga a concessão outorgada à Companhia Rádio Internacional do Brasil, para executar os serviços radiotelefônico público internacional e público restrito internacional.

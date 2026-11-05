@@ -1,5 +1,3 @@
-###DEC-003182-0-000-23-09-1999@@@
-
 DECRETO Nº 3.182, DE 23 DE SETEMBRO DE 1999.
 
 Regulamenta a Lei 9.786, de 8 de fevereiro de 1999, que dispões sobre o ensino no Exército Brasileiro e dá outras providências.

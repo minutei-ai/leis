@@ -1,5 +1,3 @@
-###DEC-062307-0-000-23-02-1968@@@
-
 DECRETO Nº 62.307, DE 23 DE FEVEREIRO DE 1968.
 
 Altera a redação dos arts. 4º e 5º do Decreto nº 57.456, de 17 de dezembro de 1965, que determina a elaboração do Plano de Estatística da Previdência Social.

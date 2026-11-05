@@ -1,5 +1,3 @@
-###DEL-008711-0-000-17-01-1946@@@
-
 DECRETO-LEI N.  8.711 – DE 17 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 1.932.000.00 para a manutenção e funcionamento da Policlínica de Pescadores.

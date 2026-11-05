@@ -1,5 +1,3 @@
-###DEC-007666-0-000-11-01-2012-PUB-01@@@
-
 DECRETO Nº 7.666, DE 11 DE JANEIRO DE 2012
 
 Promulga o Acordo-Quadro de Cooperação no Campo Educacional entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel, firmado no Rio de Janeiro, em 6 de agosto de 2008.

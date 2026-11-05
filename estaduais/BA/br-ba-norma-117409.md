@@ -8,7 +8,8 @@ Art. 1º - Ficam sujeitos à correção monetária, no exercício em curso, os v
 
 Parágrafo único - O produto da correção monetária prevista neste artigo, que se processará de acordo com índices legalmente admitidos, respeitará o limite de Cz$1.200.000.000,00 (hum bilhão e duzentos milhões de cruzados).
 
-Redação de acordo com a Lei nº [4.764](https://www.legislabahia.ba.gov.br/documentos/lei-no-4764-de-28-de-dezembro-de-1987#LO_4_764) , de 28 de dezembro de 1987.<br>
+Redação de acordo com a Lei nº [4.764](https://www.legislabahia.ba.gov.br/documentos/lei-no-4764-de-28-de-dezembro-de-1987#LO_4_764) , de 28 de dezembro de 1987.
+
 Redação original: "Parágrafo único - O produto da correção monetária prevista neste artigo, que se processará de acordo com índices legalmente admitidos, respeitará o limite de Cz$400.000.000,00 (quatrocentos milhões de cruzados)."
 
 Art. 2º - Ao DESENBANCO caberá transferir os valores apurados, segundo as prescrições do artigo anterior, à Secretaria da Fazenda, para aplicação em:
@@ -19,7 +20,8 @@ Art. 2º - Ao DESENBANCO caberá transferir os valores apurados, segundo as pres
 
 Art. 3º - Fica o Poder Executivo autorizado a abrir no Orçamento Estadual vigente, créditos suplementares até o limite de Cz$1.200.000.000,00 (hum bilhão e duzentos milhões de cruzados) com a finalidade de atender às despesas indicadas no artigo anterior.
 
-Redação de acordo com a Lei nº 4.764, de 28 de dezembro de 1987.<br>
+Redação de acordo com a Lei nº 4.764, de 28 de dezembro de 1987.
+
 Redação original: "Art. 3º - Fica o Poder Executivo autorizado a abrir, no Orçamento Estadual vigente, créditos suplementares até o limite de Cz$400.000.000,00 (quatrocentos milhões de cruzados) com a finalidade de atender às despesas indicadas no artigo anterior."
 
 Art. 4º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.

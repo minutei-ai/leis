@@ -1,5 +1,3 @@
-###DEC-047390-0-000-10-12-1959@@@
-
 DECRETO Nº 47.390 DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza Mineração Matheus Leme Limitada a pesquisar argila no município de São Simão, Estado de São Paulo.

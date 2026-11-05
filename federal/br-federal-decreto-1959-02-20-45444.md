@@ -1,5 +1,3 @@
-###DEC-045444-0-000-20-02-1959@@@
-
 decreto nº 45.444, de 20 de fevereiro de 1959.
 
 Concede o abono provisório aos Banco Nacional de Crédito Cooperativo.

@@ -1,5 +1,3 @@
-###DEL-006732-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.732 – DE 24 DE JULHO DE 1944
 
 Dispõe sôbre a finalidade e funcionamento da Biblioteca Nacional e dá outras providências

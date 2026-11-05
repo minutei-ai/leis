@@ -1,5 +1,3 @@
-###DEC-057070-0-000-15-10-1965@@@
-
 Decreto nº 57.070, de 15 de outubro de 1965.
 
 Autoriza S/A de Cimento, Mineração e Cabotagem “Cimimar” a pesquisar gipsita, no município de Missão Velha, Estado do Ceará.

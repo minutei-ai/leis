@@ -1,5 +1,3 @@
-###DEC-082055-0-000-01-08-1978@@@
-
 Decreto nº 82.055, de 01 de agosto de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Flórida Paulista II, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

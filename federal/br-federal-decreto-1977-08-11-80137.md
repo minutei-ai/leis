@@ -1,5 +1,3 @@
-###DEC-080137-0-000-11-08-1977@@@
-
 DECRETO Nº 80.137, de 11 de agosto de 1977.
 
 Suspende a execução da Lei número 8.106, de 14 de maio de 1976, do Estado de Goiás.

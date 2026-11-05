@@ -1,5 +1,3 @@
-###DEC-076391-0-000-06-10-1975@@@
-
 DECRETO Nº 76.391, DE 6 DE OUTUBRO DE 1975.
 
 Modifica a redação do item V aditado pelo Decreto nº 68.762, de 16 de junho de 1971 e acrescenta o item VI do artigo 1º do Decreto nº 67.113, de 26 de agosto de 1970.

@@ -1,5 +1,3 @@
-###DEL-001311-0-000-11-02-1974@@@
-
 # DECRETO-LEI Nº 1.311, DE 11 DE FEVEREIRO DE 1974
 
 Altera a redação da alínea c do item I e do item II do artigo 4º, do artigo 5º, e do § 1º do artigo 12 do Decreto-lei nº 1.142, de 30 de dezembro de 1970.

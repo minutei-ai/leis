@@ -1,5 +1,3 @@
-###DEL-003777-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.777 – DE 30 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 750:000$0, para aquisição de material

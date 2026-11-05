@@ -1,5 +1,3 @@
-###DEC-074963-0-000-25-11-1974@@@
-
 DECRETO Nº 74.963, DE 25 DE NOVEMBRO DE 1974
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Umuarama, mantida pela Associação Paranaense de Ensino e Cultura - APEC, com sede na cidade de Umuarama, Estado do Paraná.

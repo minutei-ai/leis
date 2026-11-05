@@ -50,8 +50,6 @@ II – 21 de julho de 2022, quanto aos arts. 1º e 4º.
 
 Goiânia, 6 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

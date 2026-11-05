@@ -1,5 +1,3 @@
-###DEC-086871-0-000-25-01-1982@@@
-
 Decreto 86.871, de 25 de janeiro de 1982.
 
 Declara de utilidade pública as instituições que menciona.

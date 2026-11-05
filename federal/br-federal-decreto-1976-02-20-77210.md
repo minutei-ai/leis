@@ -1,5 +1,3 @@
-###DEC-077210-0-000-20-02-1976@@@
-
 Decreto nº 77.210, de 20 de fevereiro de 1976
 
 Regulamenta a Lei nº 5.939, de 19 de novembro de 1973, que dispõe sobre a concessão de benefícios pelo Instituto Nacional de Previdência Social ao jogador profissional de futebol e dá outras providências.

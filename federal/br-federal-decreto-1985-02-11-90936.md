@@ -1,5 +1,3 @@
-###DEC-090936-0-000-11-02-1985@@@
-
 Decreto nº 90.936, de 11 de fevereiro de 1985
 
 Dispõe sobre capital Autorizado o limite do COPESUL - Companhia Petroquímica do Sul.

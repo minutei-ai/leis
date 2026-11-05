@@ -124,12 +124,14 @@ i) Gerência da Secretaria-Geral; e
 
 j) Superintendência de Gestão Integrada:
 
-1\. Gerência de Gestão e Desenvolvimento de Pessoas;<br>
+1\. Gerência de Gestão e Desenvolvimento de Pessoas;
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~1\. Gerência de Gestão Institucional;~~
 
-~~2\. Gerência de Tecnologia;~~<br>
+~~2\. Gerência de Tecnologia;~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, I.
 
 3\. Gerência de Execução Orçamentária e Financeira;
@@ -140,19 +142,24 @@ j) Superintendência de Gestão Integrada:
 
 6\. Gerência de Apoio Administrativo e Logístico;
 
-7\. Gerência de Planejamento e Modernização Institucional;<br>
+7\. Gerência de Planejamento e Modernização Institucional;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-k) Superintendência de Tecnologia da Informação:<br>
+k) Superintendência de Tecnologia da Informação:
+
 \- [Acrescida pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-1\. Gerência de Sistemas e Inovação; e<br>
+1\. Gerência de Sistemas e Inovação; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-2\. Gerência de Infraestrutura e Serviços; e<br>
+2\. Gerência de Infraestrutura e Serviços; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-l) Gerência da Assistência Policial Militar.<br>
+l) Gerência da Assistência Policial Militar.
+
 \- [Acrescida pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 II – Corregedoria-Geral; e
@@ -521,14 +528,16 @@ Art. 30. Compete ao NCD:
 
 I – receber, cadastrar e distribuir, por meio do CORA, as comunicações processuais eletrônicas endereçadas ao Estado de Goiás;
 
-II – estabelecer, em parceria com a Superintendência de Tecnologia da Informação, regras de distribuição automática de processos já cadastrados;<br>
+II – estabelecer, em parceria com a Superintendência de Tecnologia da Informação, regras de distribuição automática de processos já cadastrados;
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~II – estabelecer, em parceria com a Gerência de Tecnologia, regras de distribuição automática de processos já cadastrados;~~
 
 III – deﬁnir, com as cheﬁas das procuradorias especializadas e setoriais, das gerências e das coordenações, os critérios de cadastramento de processos eletrônicos, com a máxima padronização dos campos “resumo” e “assunto”;
 
-IV – apresentar periodicamente à Superintendência de Tecnologia da Informação, à Coordenação-Geral e à Subprocuradoria-Geral do Contencioso propostas e demandas de aperfeiçoamento das ferramentas de tramitação interna de comunicações processuais e de integração com os sistemas eletrônicos dos órgãos do Poder Judiciário;<br>
+IV – apresentar periodicamente à Superintendência de Tecnologia da Informação, à Coordenação-Geral e à Subprocuradoria-Geral do Contencioso propostas e demandas de aperfeiçoamento das ferramentas de tramitação interna de comunicações processuais e de integração com os sistemas eletrônicos dos órgãos do Poder Judiciário;
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~IV – apresentar periodicamente à Gerência de Tecnologia, à Coordenação– Geral e à Subprocuradoria-Geral do Contencioso propostas e demandas de aperfeiçoamento das ferramentas de tramitação interna de comunicações processuais e de integração com os sistemas eletrônicos dos órgãos do Poder Judiciário;~~
@@ -941,12 +950,14 @@ DA SUPERINTENDÊNCIA DE GESTÃO INTEGRADA
 
 Art. 49. Compete à Superintendência de Gestão Integrada:
 
-I – coordenar as atividades de gestão de pessoas e de patrimônio, a execução da contabilidade orçamentária, financeira e patrimonial, os serviços administrativos e o planejamento, bem como prestar suporte operacional às demais atividades da PGE, sem prejuízo às atribuições da Coordenação-Geral;<br>
+I – coordenar as atividades de gestão de pessoas e de patrimônio, a execução da contabilidade orçamentária, financeira e patrimonial, os serviços administrativos e o planejamento, bem como prestar suporte operacional às demais atividades da PGE, sem prejuízo às atribuições da Coordenação-Geral;
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~I – coordenar as atividades de gestão de pessoas e do patrimônio, a execução da contabilidade orçamentária, financeira e patrimonial, os serviços administrativos, o planejamento e a tecnologia da informação, além de dar suporte operacional às demais atividades da PGE, sem prejuízo à atuação da Coordenação– Geral;~~
 
-~~II – dispor a infraestrutura necessária à implementação de sistemas informatizados que suportem as atividades da PGE;~~<br>
+~~II – dispor a infraestrutura necessária à implementação de sistemas informatizados que suportem as atividades da PGE;~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, II.
 
 III – prover os recursos materiais e os serviços necessários ao perfeito funcionamento da PGE;
@@ -975,12 +986,14 @@ XIV – encarregar-se de competências correlatas.
 
 Parágrafo único. Além das competências constantes do _caput_ deste artigo, a Superintendência de Gestão Integrada organiza, coordena e supervisiona as seguintes unidades:
 
-I – Gerência de Gestão e Desenvolvimento de Pessoas;<br>
+I – Gerência de Gestão e Desenvolvimento de Pessoas;
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~I – Gerência de Gestão Institucional;~~
 
-~~II – Gerência de Tecnologia;<br>
+~~II – Gerência de Tecnologia;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, II.
 
 III – Gerência de Execução Orçamentária e Financeira;
@@ -991,72 +1004,92 @@ V – Gerência de Contabilidade;
 
 VI – Gerência de Apoio Administrativo e Logístico; e
 
-VII – Gerência de Planejamento e Modernização Institucional.<br>
+VII – Gerência de Planejamento e Modernização Institucional.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 **Seção I**
 
-**Da Gerência de Gestão e Desenvolvimento de Pessoas**<br>
+**Da Gerência de Gestão e Desenvolvimento de Pessoas**
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~Seção I~~
 
 ~~Da Gerência de Gestão Institucional~~
 
-Art. 50. Compete à Gerência de Gestão e Desenvolvimento de Pessoas:<br>
+Art. 50. Compete à Gerência de Gestão e Desenvolvimento de Pessoas:
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~Art. 50. Compete à Gerência de Gestão Institucional:~~
 
-~~I – colaborar com o Núcleo Estratégico da Consultoria-Geral e com a Coordenação-Geral na elaboração e na implementação de políticas, planos, iniciativas, programas, projetos e ações na PGE relacionados com os instrumentos governamentais de planejamento;~~<br>
+~~I – colaborar com o Núcleo Estratégico da Consultoria-Geral e com a Coordenação-Geral na elaboração e na implementação de políticas, planos, iniciativas, programas, projetos e ações na PGE relacionados com os instrumentos governamentais de planejamento;~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~II – promover o alinhamento dos instrumentos de planejamento da PGE aos instrumentos governamentais de planejamento em consonância com as diretrizes do Núcleo Estratégico da Consultoria-Geral e da Coordenação-Geral;<br>
+~~II – promover o alinhamento dos instrumentos de planejamento da PGE aos instrumentos governamentais de planejamento em consonância com as diretrizes do Núcleo Estratégico da Consultoria-Geral e da Coordenação-Geral;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~III – exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;<br>
+~~III – exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~IV – coordenar a execução das atividades setoriais relacionadas à unidade central de planejamento, em alinhamento e compatibilização com as diretrizes e os macroprocessos de orçamento, de gestão estratégica e de projetos da PGE;<br>
+~~IV – coordenar a execução das atividades setoriais relacionadas à unidade central de planejamento, em alinhamento e compatibilização com as diretrizes e os macroprocessos de orçamento, de gestão estratégica e de projetos da PGE;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~V – acompanhar a gestão de portfólio, programas e projetos para a governança e o reporte da situação das suas iniciativas adotadas;<br>
+~~V – acompanhar a gestão de portfólio, programas e projetos para a governança e o reporte da situação das suas iniciativas adotadas;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~VI – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;<br>
+~~VI – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~VII – coordenar a elaboração de diagnóstico situacional da PGE, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;<br>
+~~VII – coordenar a elaboração de diagnóstico situacional da PGE, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~VIII – apoiar o processo de planejamento governamental quanto aos assuntos de interesse da PGE, inclusive o ciclo do PPA e da proposta orçamentária anual, em consonância com as diretrizes da unidade central de planejamento;<br>
+~~VIII – apoiar o processo de planejamento governamental quanto aos assuntos de interesse da PGE, inclusive o ciclo do PPA e da proposta orçamentária anual, em consonância com as diretrizes da unidade central de planejamento;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~IX – apoiar os processos de revisão do planejamento setorial;<br>
+~~IX – apoiar os processos de revisão do planejamento setorial;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~X – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da PGE, respeitados os limites financeiros aplicáveis;<br>
+~~X – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da PGE, respeitados os limites financeiros aplicáveis;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XI – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da PGE;<br>
+~~XI – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da PGE;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XII – subsidiar o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;<br>
+~~XII – subsidiar o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XIII – assessorar a definição de diretrizes, metas e prioridades organizacionais;<br>
+~~XIII – assessorar a definição de diretrizes, metas e prioridades organizacionais;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XIV – supervisionar a carteira de projetos e investimentos estratégicos da PGE;<br>
+~~XIV – supervisionar a carteira de projetos e investimentos estratégicos da PGE;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XV – coordenar e realizar as rotinas de monitoramento físico e financeiro dos programas e dos projetos, em conjunto com as áreas finalísticas responsáveis, para a correta vinculação das informações pertinentes;<br>
+~~XV – coordenar e realizar as rotinas de monitoramento físico e financeiro dos programas e dos projetos, em conjunto com as áreas finalísticas responsáveis, para a correta vinculação das informações pertinentes;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XVI – apoiar o alinhamento e a adequação do plano de contratações anual, desenvolvido pela Secretaria de Estado da Administração – SEAD, ao ciclo do planejamento;<br>
+~~XVI – apoiar o alinhamento e a adequação do plano de contratações anual, desenvolvido pela Secretaria de Estado da Administração – SEAD, ao ciclo do planejamento;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~XVII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;<br>
+~~XVII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
 XVIII – gerir o planejamento e o dimensionamento da força de trabalho, o levantamento do perfil profissional e comportamental, o banco de talentos dos servidores e os processos de alocação e realocação na PGE, exceto aqueles relativos à competência da Coordenação-Geral;
@@ -1121,133 +1154,174 @@ XLVII – encaminhar processos devidamente instruídos com a documentação pert
 
 XLVIII – cumprir as orientações definidas no laudo médico pericial referente à capacidade laborativa residual e às adequações necessárias no ambiente de trabalho no processo de reabilitação profissional;
 
-~~XLIX – atender tempestivamente as orientações, as diretrizes e as solicitações da unidade central de transformação da gestão e dos serviços públicos e das unidades vinculadas à gerência, bem como aplicar esses conteúdos;<br>
+~~XLIX – atender tempestivamente as orientações, as diretrizes e as solicitações da unidade central de transformação da gestão e dos serviços públicos e das unidades vinculadas à gerência, bem como aplicar esses conteúdos;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~L – manter atualizado o cadastro dos componentes da Rede de Inovação do Estado de Goiás e suas sub– redes;<br>
+~~L – manter atualizado o cadastro dos componentes da Rede de Inovação do Estado de Goiás e suas sub– redes;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LI – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, com a promoção da melhoria contínua da entrega eficiente e eficaz de valor;<br>
+~~LI – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, com a promoção da melhoria contínua da entrega eficiente e eficaz de valor;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;<br>
+~~LII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LIII – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;<br>
+~~LIII – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LIV – reportar, tempestivamente, à respectiva unidade central de inovação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;~~<br>
+~~LIV – reportar, tempestivamente, à respectiva unidade central de inovação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LV – identificar e priorizar processos, inclusive os de trabalho e serviços públicos para ações de simplificação;<br>
+~~LV – identificar e priorizar processos, inclusive os de trabalho e serviços públicos para ações de simplificação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LVI – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;<br>
+~~LVI – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LVII – propor a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisão nas ações de transformação pública;<br>
+~~LVII – propor a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisão nas ações de transformação pública;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-~~LVIII – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas unidades vinculadas à gerência; e<br>
+~~LVIII – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas unidades vinculadas à gerência; e
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, IV.
 
-LIX – enviar à unidade central de gestão e desenvolvimento de pessoas as minutas dos contratos de gestão e de terceirização de pessoal para a análise prévia e as informações para a prestação de contas gerencial referentes à substituição de servidores ou empregados do quadro próprio ou à execução de atividades finalísticas da PGE para a manifestação; e<br>
+LIX – enviar à unidade central de gestão e desenvolvimento de pessoas as minutas dos contratos de gestão e de terceirização de pessoal para a análise prévia e as informações para a prestação de contas gerencial referentes à substituição de servidores ou empregados do quadro próprio ou à execução de atividades finalísticas da PGE para a manifestação; e
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~LIX – encarregar-se de competências correlatas.~~
 
-LX – encarregar-se de competências correlatas.<br>
+LX – encarregar-se de competências correlatas.
+
 [\- Acrescido pelo Decreto nº 10.959, de 17-7-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273)
 
-Parágrafo único.  A Gerência de Gestão e Desenvolvimento de Pessoas fica subordinada técnica e normativamente à Subsecretaria de Gestão e Desenvolvimento de Pessoas, da Secretaria de Estado da Administração – SEAD, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, quanto às competências de gestão e desenvolvimento de pessoas.<br>
+Parágrafo único.  A Gerência de Gestão e Desenvolvimento de Pessoas fica subordinada técnica e normativamente à Subsecretaria de Gestão e Desenvolvimento de Pessoas, da Secretaria de Estado da Administração – SEAD, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, quanto às competências de gestão e desenvolvimento de pessoas.
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~Parágrafo único. A Gerência de Gestão Institucional fica subordinada técnica e normativamente, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, à:~~
 
-~~I – Secretaria de Estado de Economia – ECONOMIA, quanto às competências de Planejamento; e~~<br>
+~~I – Secretaria de Estado de Economia – ECONOMIA, quanto às competências de Planejamento; e~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, III.
 
-~~II – SEAD, quanto às competências de gestão e desenvolvimento de pessoas e transformação da gestão e dos serviços públicos.~~<br>
+~~II – SEAD, quanto às competências de gestão e desenvolvimento de pessoas e transformação da gestão e dos serviços públicos.~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, III.
 
-~~Seção II<br>
+~~Seção II
+
 ~~\- [Revogada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
 ~~Da Gerência de Tecnologia~~
 
-~~Art. 51. Compete à Gerência de Tecnologia:~~<br>
+~~Art. 51. Compete à Gerência de Tecnologia:~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~I – cumprir as obrigações e as diretrizes definidas pela unidade central de tecnologia da informação e comunicação;<br>
+~~I – cumprir as obrigações e as diretrizes definidas pela unidade central de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~II – conduzir ou participar das contratações de produtos e serviços de tecnologia da informação e comunicação;<br>
+~~II – conduzir ou participar das contratações de produtos e serviços de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~III – desenvolver o plano anual de contratação de tecnologia da informação e comunicação alinhado à respectiva unidade central;<br>
+~~III – desenvolver o plano anual de contratação de tecnologia da informação e comunicação alinhado à respectiva unidade central;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~IV – reportar periodicamente à unidade central de tecnologia da informação e comunicação as ações de sua responsabilidade;<br>
+~~IV – reportar periodicamente à unidade central de tecnologia da informação e comunicação as ações de sua responsabilidade;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~V – desenvolver e disponibilizar sistemas e serviços na estrutura computacional definida pela unidade central de tecnologia da informação e comunicação;<br>
+~~V – desenvolver e disponibilizar sistemas e serviços na estrutura computacional definida pela unidade central de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~VI – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;<br>
+~~VI – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~VII – implantar e manter as redes locais de comunicação e os _links_ de dados;<br>
+~~VII – implantar e manter as redes locais de comunicação e os _links_ de dados;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~VIII – implantar e manter a política de cibersegurança do Estado, em articulação com o Núcleo de Inovação e Inteligência;<br>
+~~VIII – implantar e manter a política de cibersegurança do Estado, em articulação com o Núcleo de Inovação e Inteligência;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~IX – gerir as redes, os _links_ e os recursos de comunicação de dados, os _links_ de dados e os recursos existentes disponibilizados na nuvem privada estadual;<br>
+~~IX – gerir as redes, os _links_ e os recursos de comunicação de dados, os _links_ de dados e os recursos existentes disponibilizados na nuvem privada estadual;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~X – gerenciar os ativos e os serviços de rede de dados e infraestrutura de tecnologia da informação e comunicação;<br>
+~~X – gerenciar os ativos e os serviços de rede de dados e infraestrutura de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XI – prestar suporte técnico aos usuários;<br>
+~~XI – prestar suporte técnico aos usuários;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XII – prover mecanismos para a governança de dados;<br>
+~~XII – prover mecanismos para a governança de dados;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XIII – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial, em articulação com o Núcleo de Inovação e Inteligência;<br>
+~~XIII – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial, em articulação com o Núcleo de Inovação e Inteligência;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XIV – integrar os dados institucionais/corporativos ao repositório estadual de grandes volumes de dados estadual ( _Big Data_ Estadual);<br>
+~~XIV – integrar os dados institucionais/corporativos ao repositório estadual de grandes volumes de dados estadual ( _Big Data_ Estadual);
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XV – gerir os bancos de dados, os dados mestres, os _data marts_ e o catálogo de dados sob a responsabilidade da PGE;<br>
+~~XV – gerir os bancos de dados, os dados mestres, os _data marts_ e o catálogo de dados sob a responsabilidade da PGE;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XVI – promover o compartilhamento e a reusabilidade dos dados corporativos;<br>
+~~XVI – promover o compartilhamento e a reusabilidade dos dados corporativos;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XVII – apoiar as equipes de sistemas na elaboração da modelagem dos dados nos projetos;<br>
+~~XVII – apoiar as equipes de sistemas na elaboração da modelagem dos dados nos projetos;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XVIII – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidas pela unidade central de tecnologia da informação e comunicação;<br>
+~~XVIII – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidas pela unidade central de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XIX – dar suporte às unidades administrativas na utilização de soluções de tecnologia da informação e comunicação;<br>
+~~XIX – dar suporte às unidades administrativas na utilização de soluções de tecnologia da informação e comunicação;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XX – manter a padronização dos conteúdos dos canais próprios de comunicação digital, _sites_ e redes digitais;<br>
+~~XX – manter a padronização dos conteúdos dos canais próprios de comunicação digital, _sites_ e redes digitais;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XXI – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalho e rotinas com a aplicação dos padrões de desenvolvimento de produtos e soluções;<br>
+~~XXI – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalho e rotinas com a aplicação dos padrões de desenvolvimento de produtos e soluções;
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XXII – transformar digitalmente os serviços oferecidos com a utilização das práticas de Governo Digital; e<br>
+~~XXII – transformar digitalmente os serviços oferecidos com a utilização das práticas de Governo Digital; e
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~XXIII – encarregar-se de competências correlatas.<br>
+~~XXIII – encarregar-se de competências correlatas.
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
-~~Parágrafo único. A Gerência de Tecnologia fica subordinada técnica e normativamente à Subsecretaria de Tecnologia da Informação, da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada.<br>
+~~Parágrafo único. A Gerência de Tecnologia fica subordinada técnica e normativamente à Subsecretaria de Tecnologia da Informação, da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada.
+
 ~~\- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, V.
 
 Seção III
@@ -1354,15 +1428,18 @@ XVIII – enviar à unidade central de gestão e desenvolvimento de pessoas as m
 
 XIX – encarregar-se de competências correlatas.
 
-Parágrafo único.  A Gerência de Compras Governamentais fica subordinada técnica e normativamente à Superintendência Central de Compras e Contratos, da SEAD, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada.<br>
+Parágrafo único.  A Gerência de Compras Governamentais fica subordinada técnica e normativamente à Superintendência Central de Compras e Contratos, da SEAD, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada.
+
 \- [Redação dada pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 ~~Parágrafo único. A Gerência de Compras Governamentais fica subordinada técnica e normativamente, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, à:~~
 
-~~I – Superintendência Central de Compras e Contratos, da SEAD, quanto às competências constantes dos incisos I a XVII do _caput_ deste artigo; e~~<br>
+~~I – Superintendência Central de Compras e Contratos, da SEAD, quanto às competências constantes dos incisos I a XVII do _caput_ deste artigo; e~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, VI.
 
-~~II – Subsecretaria de Gestão e Desenvolvimento de Pessoas, da SEAD, quanto à competência constante do inciso XVIII do _caput_ deste artigo.~~<br>
+~~II – Subsecretaria de Gestão e Desenvolvimento de Pessoas, da SEAD, quanto à competência constante do inciso XVIII do _caput_ deste artigo.~~
+
 \- [Revogado pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273), art. 2º, VI.
 
 Seção V
@@ -1559,288 +1636,380 @@ LXXV – encarregar-se de competências correlatas.
 
 **Seção VII**
 
-**Da Gerência de Planejamento e Modernização Institucional**<br>
+**Da Gerência de Planejamento e Modernização Institucional**
+
 \- [Acrescida pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Art. 55-A. Compete à Gerência de Planejamento e Modernização Institucional:<br>
+Art. 55-A. Compete à Gerência de Planejamento e Modernização Institucional:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – colaborar com o Núcleo Estratégico da Consultoria-Geral e com a Coordenação-Geral na elaboração e na implementação de políticas, planos, iniciativas, programas, projetos e ações na PGE relacionados com os instrumentos governamentais de planejamento;<br>
+I – colaborar com o Núcleo Estratégico da Consultoria-Geral e com a Coordenação-Geral na elaboração e na implementação de políticas, planos, iniciativas, programas, projetos e ações na PGE relacionados com os instrumentos governamentais de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – promover o alinhamento dos instrumentos de planejamento da PGE aos instrumentos governamentais de planejamento, conforme as diretrizes do Núcleo Estratégico da Consultoria-Geral e da Coordenação-Geral;<br>
+II – promover o alinhamento dos instrumentos de planejamento da PGE aos instrumentos governamentais de planejamento, conforme as diretrizes do Núcleo Estratégico da Consultoria-Geral e da Coordenação-Geral;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;<br>
+III – exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IV – coordenar a execução das atividades setoriais relacionadas à unidade central de planejamento, em alinhamento às diretrizes e aos macroprocessos de orçamento, de gestão estratégica e de projetos da PGE, também em compatibilização com eles;<br>
+IV – coordenar a execução das atividades setoriais relacionadas à unidade central de planejamento, em alinhamento às diretrizes e aos macroprocessos de orçamento, de gestão estratégica e de projetos da PGE, também em compatibilização com eles;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-V – acompanhar a gestão de portfólio, programas e projetos, para assegurar a governança e o reporte da situação das iniciativas em execução;<br>
+V – acompanhar a gestão de portfólio, programas e projetos, para assegurar a governança e o reporte da situação das iniciativas em execução;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VI – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;<br>
+VI – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VII – coordenar a elaboração de diagnóstico situacional da PGE, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;<br>
+VII – coordenar a elaboração de diagnóstico situacional da PGE, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VIII – apoiar o processo de planejamento governamental quanto aos assuntos de interesse da PGE, inclusive o ciclo do PPA e da proposta orçamentária anual, conforme as diretrizes da unidade central de planejamento;<br>
+VIII – apoiar o processo de planejamento governamental quanto aos assuntos de interesse da PGE, inclusive o ciclo do PPA e da proposta orçamentária anual, conforme as diretrizes da unidade central de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IX – apoiar os processos de revisão do planejamento setorial;<br>
+IX – apoiar os processos de revisão do planejamento setorial;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-X – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da PGE, respeitados os limites financeiros aplicáveis;<br>
+X – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da PGE, respeitados os limites financeiros aplicáveis;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XI – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da PGE;<br>
+XI – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XII – subsidiar o processo de prestação de contas integradas, conforme as diretrizes dos órgãos de controle;<br>
+XII – subsidiar o processo de prestação de contas integradas, conforme as diretrizes dos órgãos de controle;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIII – assessorar a definição de diretrizes, metas e prioridades organizacionais da PGE;<br>
+XIII – assessorar a definição de diretrizes, metas e prioridades organizacionais da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIV – supervisionar a carteira de projetos e investimentos estratégicos da PGE;<br>
+XIV – supervisionar a carteira de projetos e investimentos estratégicos da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XV – coordenar e realizar as rotinas de monitoramento físico e financeiro dos programas e dos projetos, em conjunto com as áreas finalísticas responsáveis, para a correta vinculação das informações pertinentes;<br>
+XV – coordenar e realizar as rotinas de monitoramento físico e financeiro dos programas e dos projetos, em conjunto com as áreas finalísticas responsáveis, para a correta vinculação das informações pertinentes;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XVI – apoiar o alinhamento e a adequação do plano de contratações anual desenvolvido pela SEAD ao ciclo do planejamento;<br>
+XVI – apoiar o alinhamento e a adequação do plano de contratações anual desenvolvido pela SEAD ao ciclo do planejamento;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XVII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;<br>
+XVII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XVIII – atender tempestivamente às orientações, às diretrizes e às solicitações da unidade central de transformação da gestão e dos serviços públicos e das unidades vinculadas à própria gerência, bem como aplicar esses conteúdos;<br>
+XVIII – atender tempestivamente às orientações, às diretrizes e às solicitações da unidade central de transformação da gestão e dos serviços públicos e das unidades vinculadas à própria gerência, bem como aplicar esses conteúdos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIX – manter atualizado o cadastro dos componentes da Rede de Inovação do Estado de Goiás e suas sub-redes;<br>
+XIX – manter atualizado o cadastro dos componentes da Rede de Inovação do Estado de Goiás e suas sub-redes;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XX – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, com a promoção da melhoria contínua da entrega eficiente e eficaz de valor;<br>
+XX – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, com a promoção da melhoria contínua da entrega eficiente e eficaz de valor;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXI – gerir o cadastro de unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;<br>
+XXI – gerir o cadastro de unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXII – gerir e coordenar a identificação e a atualização de serviços da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;<br>
+XXII – gerir e coordenar a identificação e a atualização de serviços da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXIII – reportar, tempestivamente, à respectiva unidade central de inovação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;<br>
+XXIII – reportar, tempestivamente, à respectiva unidade central de inovação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXIV – identificar e priorizar processos, inclusive os de trabalho e serviços públicos, para ações de simplificação;<br>
+XXIV – identificar e priorizar processos, inclusive os de trabalho e serviços públicos, para ações de simplificação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXV – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;<br>
+XXV – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXVI – propor a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisões nas ações de transformação pública;<br>
+XXVI – propor a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisões nas ações de transformação pública;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXVII – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos e pelas unidades vinculadas à própria gerência;<br>
+XXVII – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos e pelas unidades vinculadas à própria gerência;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXVIII – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implantação do Programa de Compliance Público do Estado de Goiás; e<br>
+XXVIII – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implantação do Programa de Compliance Público do Estado de Goiás; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XXIX – encarregar-se de competências correlatas.<br>
+XXIX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Parágrafo único. A Gerência de Planejamento e Modernização Institucional, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, fica subordinada técnica e normativamente:<br>
+Parágrafo único. A Gerência de Planejamento e Modernização Institucional, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, fica subordinada técnica e normativamente:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – à Secretaria de Estado da Economia – ECONOMIA, quanto às competências de planejamento;<br>
+I – à Secretaria de Estado da Economia – ECONOMIA, quanto às competências de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – à SEAD, quanto às competências de transformação da gestão e dos serviços públicos;<br>
+II – à SEAD, quanto às competências de transformação da gestão e dos serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – à CGE, quanto às competências do Programa de Compliance Público do Estado de Goiás.<br>
+III – à CGE, quanto às competências do Programa de Compliance Público do Estado de Goiás.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 CAPÍTULO II
 
-DA SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO<br>
+DA SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Art. 55-B. Compete à Superintendência de Tecnologia da Informação:<br>
+Art. 55-B. Compete à Superintendência de Tecnologia da Informação:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – cumprir as obrigações e as diretrizes definidas pela unidade central de tecnologia da informação e comunicação;<br>
+I – cumprir as obrigações e as diretrizes definidas pela unidade central de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – conduzir ou participar das contratações de produtos e serviços de tecnologia da informação e comunicação;<br>
+II – conduzir ou participar das contratações de produtos e serviços de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – desenvolver o plano anual de contratação de tecnologia da informação e comunicação alinhado à respectiva unidade central;<br>
+III – desenvolver o plano anual de contratação de tecnologia da informação e comunicação alinhado à respectiva unidade central;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IV – reportar periodicamente à unidade central de tecnologia da informação e comunicação as ações de sua responsabilidade;<br>
+IV – reportar periodicamente à unidade central de tecnologia da informação e comunicação as ações de sua responsabilidade;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-V – prover mecanismos para a governança de dados;<br>
+V – prover mecanismos para a governança de dados;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VI – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial;<br>
+VI – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VII – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidos no portfólio;<br>
+VII – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidos no portfólio;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VIII – dar suporte às unidades administrativas na utilização de soluções de tecnologia da informação e comunicação;<br>
+VIII – dar suporte às unidades administrativas na utilização de soluções de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IX – manter a padronização dos conteúdos dos canais próprios de comunicação digital, sites e redes digitais;<br>
+IX – manter a padronização dos conteúdos dos canais próprios de comunicação digital, sites e redes digitais;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-X – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalhos e rotinas, com a aplicação dos padrões de desenvolvimento de produtos e soluções;<br>
+X – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalhos e rotinas, com a aplicação dos padrões de desenvolvimento de produtos e soluções;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XI – transformar digitalmente os serviços oferecidos com a utilização das boas práticas de Governo Digital;<br>
+XI – transformar digitalmente os serviços oferecidos com a utilização das boas práticas de Governo Digital;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XII – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;<br>
+XII – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIII – dispor a infraestrutura necessária à implementação dos sistemas informatizados que suportam as atividades da PGE; e<br>
+XIII – dispor a infraestrutura necessária à implementação dos sistemas informatizados que suportam as atividades da PGE; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIV – encarregar-se de competências correlatas.<br>
+XIV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-§ 1º A Superintendência de Tecnologia da Informação e as suas respectivas unidades ficam subordinadas técnica e normativamente à Subsecretaria de Tecnologia da Informação, da Secretaria de Estado de Ciência, Tecnologia e Inovação, sem prejuízo à subordinação administrativa ao Gabinete da Procuradoria-Geral do Estado.<br>
+§ 1º A Superintendência de Tecnologia da Informação e as suas respectivas unidades ficam subordinadas técnica e normativamente à Subsecretaria de Tecnologia da Informação, da Secretaria de Estado de Ciência, Tecnologia e Inovação, sem prejuízo à subordinação administrativa ao Gabinete da Procuradoria-Geral do Estado.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-§ 2º Além das competências constantes no caput deste artigo, a Superintendência de Tecnologia da Informação organiza, coordena e supervisiona as seguintes unidades:<br>
+§ 2º Além das competências constantes no caput deste artigo, a Superintendência de Tecnologia da Informação organiza, coordena e supervisiona as seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – Gerência de Sistemas e Inovação; e<br>
+I – Gerência de Sistemas e Inovação; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – Gerência de Infraestrutura e Serviços.<br>
+II – Gerência de Infraestrutura e Serviços.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 **Seção I**
 
-**Da Gerência de Sistemas de Inovação**<br>
+**Da Gerência de Sistemas de Inovação**
+
 \- [Acrescida pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Art. 55-C. Compete à Gerência de Sistemas de Inovação:<br>
+Art. 55-C. Compete à Gerência de Sistemas de Inovação:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – desenvolver e disponibilizar sistemas e serviços na estrutura computacional definida pela unidade central de tecnologia da informação e comunicação;<br>
+I – desenvolver e disponibilizar sistemas e serviços na estrutura computacional definida pela unidade central de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalho e rotinas com a aplicação dos padrões de desenvolvimento de produtos e soluções;<br>
+II – conceber, desenvolver, implantar e sustentar soluções tecnológicas para a informatização dos processos de trabalho e rotinas com a aplicação dos padrões de desenvolvimento de produtos e soluções;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidas pela unidade central de tecnologia da informação e comunicação;<br>
+III – utilizar normas e padrões de acessibilidade, usabilidade, experiência do usuário, produtos e soluções definidas pela unidade central de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IV – pesquisar novas tecnologias que possam ser aplicadas à PGE nas suas diversas áreas administrativas e operacionais;<br>
+IV – pesquisar novas tecnologias que possam ser aplicadas à PGE nas suas diversas áreas administrativas e operacionais;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-V – transformar digitalmente os serviços oferecidos com a utilização das práticas de Governo Digital;<br>
+V – transformar digitalmente os serviços oferecidos com a utilização das práticas de Governo Digital;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VI – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial, em articulação com o Núcleo de Inovação e Inteligência;<br>
+VI – promover a inovação, a disseminação do conhecimento, a alfabetização de dados, o uso da inteligência analítica, da ciência de dados e da inteligência artificial, em articulação com o Núcleo de Inovação e Inteligência;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VII – desenvolver ferramentas que possam produzir conhecimentos e informações preditivas tanto para a gestão como para as diversas áreas operacionais;<br>
+VII – desenvolver ferramentas que possam produzir conhecimentos e informações preditivas tanto para a gestão como para as diversas áreas operacionais;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VIII – gerenciar a equipe de desenvolvimento e manutenção de software e os prestadores de serviços relacionados ao desenvolvimento e à inovação de softwares;<br>
+VIII – gerenciar a equipe de desenvolvimento e manutenção de software e os prestadores de serviços relacionados ao desenvolvimento e à inovação de softwares;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IX – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;<br>
+IX – monitorar e evidenciar a execução dos projetos de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-X – assistir as equipes de sistemas na elaboração da modelagem dos dados nos projetos;<br>
+X – assistir as equipes de sistemas na elaboração da modelagem dos dados nos projetos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XI – integrar os dados institucionais ou corporativos ao repositório de grandes volumes de dados (Big Data estadual);<br>
+XI – integrar os dados institucionais ou corporativos ao repositório de grandes volumes de dados (Big Data estadual);
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XII – gerir os bancos de dados, os dados mestres, os data marts e o catálogo de dados sob a responsabilidade da PGE;<br>
+XII – gerir os bancos de dados, os dados mestres, os data marts e o catálogo de dados sob a responsabilidade da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIII – promover o compartilhamento e a reusabilidade dos dados corporativos;<br>
+XIII – promover o compartilhamento e a reusabilidade dos dados corporativos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XIV – dar suporte às unidades administrativas da PGE na utilização de soluções de tecnologia da informação e comunicação; e<br>
+XIV – dar suporte às unidades administrativas da PGE na utilização de soluções de tecnologia da informação e comunicação; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-XV – encarregar-se de competências correlatas.<br>
+XV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 **Seção II**
 
-**Da Gerência de Infraestrutura e Serviços**<br>
+**Da Gerência de Infraestrutura e Serviços**
+
 \- [Acrescida pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Art. 55-D.  Compete à Gerência de Infraestrutura e Serviços:<br>
+Art. 55-D.  Compete à Gerência de Infraestrutura e Serviços:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – gerenciar os ativos e os serviços de rede de dados e infraestrutura de tecnologia da informação e comunicação;<br>
+I – gerenciar os ativos e os serviços de rede de dados e infraestrutura de tecnologia da informação e comunicação;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – implantar e manter a política de cibersegurança do Estado, em articulação com o Núcleo de Inovação e Inteligência;<br>
+II – implantar e manter a política de cibersegurança do Estado, em articulação com o Núcleo de Inovação e Inteligência;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – planejar, especificar, implementar e manter os servidores de aplicação e os demais serviços baseados nos sistemas operacionais suportados no ambiente corporativo;<br>
+III – planejar, especificar, implementar e manter os servidores de aplicação e os demais serviços baseados nos sistemas operacionais suportados no ambiente corporativo;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IV – definir e coordenar o gerenciamento de requisições e incidentes de TI da PGE, conforme as melhores práticas;<br>
+IV – definir e coordenar o gerenciamento de requisições e incidentes de TI da PGE, conforme as melhores práticas;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-V – atender às solicitações de reposição e manutenção de equipamentos corporativos de TI na PGE, além de manter o estoque desses equipamentos;<br>
+V – atender às solicitações de reposição e manutenção de equipamentos corporativos de TI na PGE, além de manter o estoque desses equipamentos;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VI – coordenar a gestão dos ativos de TI da PGE;<br>
+VI – coordenar a gestão dos ativos de TI da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VII – prestar suporte técnico aos usuários da PGE; e<br>
+VII – prestar suporte técnico aos usuários da PGE; e
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 CAPÍTULO III
 
-GERÊNCIA DA ASSISTÊNCIA POLICIAL MILITAR<br>
+GERÊNCIA DA ASSISTÊNCIA POLICIAL MILITAR
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-Art. 55-E.  Compete à Gerência da Assistência Policial Militar, da PGE:<br>
+Art. 55-E.  Compete à Gerência da Assistência Policial Militar, da PGE:
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-I – apoiar as atividades de segurança;<br>
+I – apoiar as atividades de segurança;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-II – garantir a segurança pessoal do Procurador-Geral do Estado;<br>
+II – garantir a segurança pessoal do Procurador-Geral do Estado;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-III – participar das atividades de controle de acesso às dependências do prédio-sede da PGE;<br>
+III – participar das atividades de controle de acesso às dependências do prédio-sede da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-IV – auxiliar a segurança geral e a movimentação de autoridades em solenidades e outros eventos institucionais;<br>
+IV – auxiliar a segurança geral e a movimentação de autoridades em solenidades e outros eventos institucionais;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-V – colaborar com as atividades de inteligência e contrainteligência da PGE;<br>
+V – colaborar com as atividades de inteligência e contrainteligência da PGE;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VI – assessorar a PGE nas relações com os órgãos de segurança pública estadual;<br>
+VI – assessorar a PGE nas relações com os órgãos de segurança pública estadual;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VII – apoiar a interlocução da PGE com a Polícia Militar para o fornecimento de informações e documentos necessários ao adequado exercício da representação judicial nas ações de interesse da corporação e de seus integrantes;<br>
+VII – apoiar a interlocução da PGE com a Polícia Militar para o fornecimento de informações e documentos necessários ao adequado exercício da representação judicial nas ações de interesse da corporação e de seus integrantes;
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
-VIII – desempenhar atividades correlatas compatíveis com as atribuições previstas no Regimento Interno da Assistência Policial Militar, na PGE.<br>
+VIII – desempenhar atividades correlatas compatíveis com as atribuições previstas no Regimento Interno da Assistência Policial Militar, na PGE.
+
 \- [Acrescido pelo Decreto nº 10.959, de 17-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116273).
 
 TÍTULO VIII

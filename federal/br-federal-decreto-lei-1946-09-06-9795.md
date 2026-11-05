@@ -1,5 +1,3 @@
-###DEL-009795-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.795 – DE 6 DE SETEMBRO DE 1946
 
 Altera o plano geral de uniformes para os oficiais e praças da Aeronáutica.

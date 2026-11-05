@@ -1,5 +1,3 @@
-###DEC-077840-0-000-16-06-1976@@@
-
 DECRETO Nº 77.840, DE 16 DE JUNHO DE 1976.
 
 Declara sem efeito o Decreto número 62.054, de 5 de janeiro de 1968, que concede a Salim Cesar Curi o direito de lavrar columbita.

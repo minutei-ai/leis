@@ -1,7 +1,3 @@
-1
-
-###MPV-001068-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.068, DE 29 DE JULHO DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

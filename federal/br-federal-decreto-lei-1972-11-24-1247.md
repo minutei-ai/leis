@@ -1,5 +1,3 @@
-###DEL-001247-0-000-24-11-1972@@@
-
 # DECRETO-LEI Nº 1.247, DE 24 DE NOVEMBRO DE 1972
 
 Autoriza o Tesouro Nacional a subscrever aumento do capital do Banco do Brasil S.A. e dá outras providências.

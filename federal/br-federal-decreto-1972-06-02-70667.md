@@ -1,5 +1,3 @@
-###DEC-070667-0-000-02-06-1972@@@
-
 Decreto nº 70.667, De 2 de Junho de 1972.
 
 Torna sem efeito aproveitamento, na Universidade Federal de Alagoas de disponível do Departamento Nacional de Obras contra as secas e dá outras providências.

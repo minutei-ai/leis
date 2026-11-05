@@ -1,5 +1,3 @@
-###DEC-053226-0-000-12-12-1963@@@
-
 Decreto nº 53.226, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Clemente Bortolotti a lavrar feldspato no município de Socorro, Estado de São Paulo.

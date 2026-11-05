@@ -1,5 +1,3 @@
-###DEC-067796-0-000-10-12-1970@@@
-
 DECRETO Nº 67.796, de 10 de dezembro de 1970.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências

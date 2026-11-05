@@ -1,5 +1,3 @@
-###DEC-055897-0-000-05-04-1965@@@
-
 DECRETO Nº 55.897, DE 5 DE ABRIL DE 1965.
 
 Aprova as instituições Gerais para a Representação do Brasil na Junta Inteiramente de Defesa.

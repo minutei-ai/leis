@@ -1,5 +1,3 @@
-###DEC-092637-0-000-09-05-1986@@@
-
 DECRETO Nº 92.637, DE 9 DE MAIO DE 1986
 
 Renova prazo de concessão outorgada à Prefeitura Municipal de Ijuí, no Município de ljuí, Estado do Rio Grande do Sul, objeto do Decreto nº 31.444, de 11 de setembro de 1952, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001281-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.281, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,14 +1,12 @@
-###DEC-023067-0-000-12-05-1947@@@
+**DECRETO Nº 23.067, dE 12 DE maio DE 1947.**
 
-<strong>DECRETO Nº 23.067, dE 12 DE maio DE 1947.</strong>
+***Altera o Regimento do Departamento Nacional da Propriedade Industrial, do Ministério do Trabalho, Indústria e Comércio.***
 
-<em><strong>Altera o Regimento do Departamento Nacional da Propriedade Industrial, do Ministério do Trabalho, Indústria e Comércio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**Decreta:**
 
-<strong>Decreta:</strong>
-
-<strong>Art</strong>. 1º Passam a ter a seguinte redação os dispositivos abaixo, do Regimento do Departamento Nacional da Propriedade Industrial, do Ministério do Trabalho, Indústria e Comércio, aprovado pelo Decreto número 20.536, de 26 de janeiro de 1946:
+**Art**. 1º Passam a ter a seguinte redação os dispositivos abaixo, do Regimento do Departamento Nacional da Propriedade Industrial, do Ministério do Trabalho, Indústria e Comércio, aprovado pelo Decreto número 20.536, de 26 de janeiro de 1946:
 
 Art. 6º À Divisão Jurídica compete:
 
@@ -44,12 +42,12 @@ IV - dirimir as questões que se suscitarem em tôrno da classificação e denom
 
 V - proceder a busca e ao exame de anterioridades, não só entre as invenções constantes do Arquivo do Departamento, como também em livros, revistas, catáloogs e quaisquer outras fontes idôneas."
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de maio de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Morvan Figueiredo

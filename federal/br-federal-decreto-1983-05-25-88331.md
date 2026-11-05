@@ -1,5 +1,3 @@
-###DEC-088331-0-000-25-05-1983@@@
-
 Decreto nº 88.331, de 25 de maio de 1983.
 
 Concede autorização à SWISSAIR - SOCIÉTÉ ANONYME SUISSE POUR LA NAVIGATION AÉRIENNE, para continuar a funcionar no Brasil e dá outras providências.

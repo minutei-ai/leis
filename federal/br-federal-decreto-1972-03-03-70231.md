@@ -1,5 +1,3 @@
-###DEC-070231-0-000-03-03-1972@@@
-
 DECRETO Nº 70.231, DE 3 DE MARÇO DE 1972.
 
 Dispõe sobre a revisão do cadastro rural de que trata o artigo 46 do Estatuto da Terra e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070364-0-000-04-04-1972@@@
-
 DECRETO Nº 70.364, DE 4 DE ABRIL DE 1972
 
 Declara de utilidade pública o "Lar das Meninas", com sede em americana, Estado de São Paulo.

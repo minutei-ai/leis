@@ -1,5 +1,3 @@
-###DEC-093076-0-000-06-08-1986@@@
-
 DECRETO Nº 93.076, DE 06 DE AGOSTO DE 1986
 
 Cria Comissão Interministerial incumbida de propor a reformulação do Conselho Nacional de Saúde.

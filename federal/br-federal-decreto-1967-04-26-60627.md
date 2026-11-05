@@ -1,5 +1,3 @@
-###DEC-060627-0-000-26-04-1967@@@
-
 DECRETO Nº 60.627, DE 26 DE ABRIL DE 1967.
 
 Altera o Decreto nº 55.168, de 9 de dezembro de 1964, que, por sua vez, alterou o de nº 54.585, de 26 de outubro de 1964, o qual retificou o enquadramento da Caixa Econômica Federal de Brasília.

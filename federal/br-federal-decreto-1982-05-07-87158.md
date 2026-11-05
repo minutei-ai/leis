@@ -1,5 +1,3 @@
-###DEC-087158-0-000-07-05-1982@@@
-
 DECRETO Nº 87.158, de 7 de maio de 1982.
 
 Dispõe sobre o Programa Nacional de Desburocratização e dá outras providências.

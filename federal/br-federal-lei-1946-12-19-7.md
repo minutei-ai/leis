@@ -1,14 +1,12 @@
-###LEI-000007-0-000-19-12-1946@@@
+**LEI Nº 7, DE 19 DE DEZEMBRO DE 1946**
 
-<strong>LEI Nº 7, DE 19 DE DEZEMBRO DE 1946</strong>
+***Disciplina o sistema de promoções nos cursos superiores.***
 
-<em><strong>Disciplina o sistema de promoções nos cursos superiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+**Art**. 1º Até que sejam fixadas as diretrizes gerais de educação, as promoções, em primeira e segunda época, dos alunos dos estabelecimentos de ensino superior, obedecerão ao prescrito na legislação anterior ao Decreto-lei nº 8.342, de 10 de Dezembro de 1945, naquilo em que não contrariar a presente Lei.
 
-<strong>Art</strong>. 1º Até que sejam fixadas as diretrizes gerais de educação, as promoções, em primeira e segunda época, dos alunos dos estabelecimentos de ensino superior, obedecerão ao prescrito na legislação anterior ao Decreto-lei nº 8.342, de 10 de Dezembro de 1945, naquilo em que não contrariar a presente Lei.
-
-<strong>Art</strong>. 2º Para poder ser promovido, o aluno, além de satisfazer às demais exigências regulamentares e regimentais, prestará, nas épocas fixadas em lei, duas provas parciais e uma prova final.
+**Art**. 2º Para poder ser promovido, o aluno, além de satisfazer às demais exigências regulamentares e regimentais, prestará, nas épocas fixadas em lei, duas provas parciais e uma prova final.
 
 § 1º A média igual ou superior a sete (7), nas provas parciais, isenta o aluno de prova final.
 
@@ -18,12 +16,12 @@
 
 § 4º As notas serão tomadas em seus valores exatos.
 
-<strong>Art</strong>. 3º Os alunos das escolas superiores, matriculados no ano de 1946 e que não tiveram freqüência, poderão prestar exame, em segunda época, constante de prova escrita e oral e hão de compreender a matéria de todo o programa, ainda que não totalmente explicada, podendo as provas a juízo do professor, versar sôbre um ou mais pontos. A prova oral não terá limite de tempo.
+**Art**. 3º Os alunos das escolas superiores, matriculados no ano de 1946 e que não tiveram freqüência, poderão prestar exame, em segunda época, constante de prova escrita e oral e hão de compreender a matéria de todo o programa, ainda que não totalmente explicada, podendo as provas a juízo do professor, versar sôbre um ou mais pontos. A prova oral não terá limite de tempo.
 
-<strong>Art</strong>. 4º Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 19 de Dezembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani Bittencourt

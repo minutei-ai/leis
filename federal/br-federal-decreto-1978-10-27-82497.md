@@ -1,5 +1,3 @@
-###DEC-082497-0-000-27-10-1978@@@
-
 Decreto nº 82 497, de 27 de outubro de 1978
 
 Retifica a concessão de lavra outorgada à Empresa Lindoyana de Águas Minerais Limitada pelo Decreto nº 66.632, de 26 de maio de 1970.

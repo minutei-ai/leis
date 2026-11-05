@@ -1,5 +1,3 @@
-###DEL-007400-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.400 – DE 19 DE MARÇO DE 1945
 
 Cria a carreira de Arquivista no Quadro I – Parte Permanente – do Ministério da Viação e Obras Públicas.

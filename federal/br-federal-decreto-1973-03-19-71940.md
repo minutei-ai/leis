@@ -1,5 +1,3 @@
-###DEC-071940-0-000-19-03-1973@@@
-
 DECRETO Nº 71.940, DE 19 DE MARÇO DE 1973.
 
 Retifica o artigo 1º do Decreto número 63.926, de 30 de dezembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-044962-0-000-01-12-1958@@@
-
 DECRETO Nº 44.962, DE 01 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Manif Zacharias a pesquisar carvão mineral no município de jaguaruna, Estado de Santa Catarina.

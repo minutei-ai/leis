@@ -1,5 +1,3 @@
-###DEC-007749-0-000-08-06-2012-PUB-01@@@
-
 DECRETO N° 7.749, DE 8 DE JUNHO DE 2012
 
 Altera o Regulamento da Ordem do Mérito Naval, aprovado pelo Decreto n° 3.400, de 3 de abril de 2000.

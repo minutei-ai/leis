@@ -1,5 +1,3 @@
-###DEC-056394-0-000-03-06-1965@@@
-
 decreto nº 56.394, de 3 de junho de 1965.
 
 Concede à Industria e Comércio de Mineração Brasil Central S.A. autorização para funcionar como emprêsa de mineração.

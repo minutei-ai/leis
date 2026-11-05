@@ -1,5 +1,3 @@
-###DEC-045038-0-000-05-12-1958@@@
-
 decreto nº 45.038, de 5 de dezembro de 1958.
 
 declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, área de terreno e benfeitorias situada entre Pesqueira e Salgueiro, necessária ao prolongamento da Estrada de Ferro Central de Pernambuco.

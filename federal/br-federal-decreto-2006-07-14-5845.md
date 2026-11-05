@@ -1,5 +1,3 @@
-###DEC-005845-0-000-14-07-2006@@@
-
 DECRETO Nº 5.845, DE 14 DE JULHO DE 2006.
 
 Promulga o Acordo de Cooperação Cultural e Educacional entre o Governo da República Federativa do Brasil e o Governo da República da Estônia, celebrado em Brasília, em 9 de novembro de 2000.
@@ -24,11 +22,7 @@ Brasília, 14 de julho  de 2006; 185º da Independência e 118º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 17.7.2006
-
-ACORDO DE COOPERAÇÃO CULTURAL E EDUCACIONAL ENTRE O GOVERNO DA
+        Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO CULTURAL E EDUCACIONAL ENTRE O GOVERNO DA
 
 REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ESTÔNIA
 

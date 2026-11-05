@@ -1,5 +1,3 @@
-###DEL-005947-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.947 – DE 29 DE OUTUBRO DE 1943
 
 Autoriza a aquisição de imóveis em Niterói, Estado do Rio de janeiro

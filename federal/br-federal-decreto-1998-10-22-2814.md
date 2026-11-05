@@ -1,5 +1,3 @@
-###DEC-002814-0-000-22-10-1998@@@
-
 DECRETO Nº 2.814, DE 22 DE OUTUBRO DE 1998
 
 Regulamenta o art. 99 da Lei nº 9.504, de 30 de setembro de 1997, para efeito de ressarcimento fiscal pela propaganda eleitoral gratuita relativa às eleições de 4 de outubro de 1998.

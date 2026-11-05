@@ -1,5 +1,3 @@
-###DEC-046891-0-000-24-09-1959@@@
-
 DECRETO Nº 46.891, DE 24 DE SETEMBRO DE 1959.
 
 Concede permissão à firma Filene, S. A. - Fios Têxteis Industriais (Seção de preparação de fio de nylon pelo processo Helanca), com sede em São Paulo, Capital, para funcionar aos domingos e nos feriados civis e religiosos.

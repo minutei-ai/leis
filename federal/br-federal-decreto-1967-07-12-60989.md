@@ -1,5 +1,3 @@
-###DEC-060989-0-000-12-07-1967@@@
-
 DECRETO Nº 60.989, DE 12 DE JULHO DE 1967.
 
 Altera o Regulamento-Geral dos Transportes, aprovado pelo Decreto nº 51.613, de 8 de março de 1963.

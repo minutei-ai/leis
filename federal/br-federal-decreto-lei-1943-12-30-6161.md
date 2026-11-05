@@ -1,5 +1,3 @@
-###DEL-006161-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.161 – DE 30 DE DEZEMBRO DE 1943
 
 Altera a redação do art. 2º do decreto‑lei n. 5.273, de 23 de fevereiro de 1943

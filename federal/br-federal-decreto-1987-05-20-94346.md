@@ -1,5 +1,3 @@
-###DEC-094346-0-000-20-05-1987@@@
-
 DECRETO Nº 94.346, DE 20 DE MAIO DE 1987.
 
 Revoga o Decreto nº 27.354, de 21 de outubro de 1949.

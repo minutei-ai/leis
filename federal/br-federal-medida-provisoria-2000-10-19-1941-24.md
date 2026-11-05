@@ -1,5 +1,3 @@
-###MPV-001941-0-024-19-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-24, de 19 de outubro de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

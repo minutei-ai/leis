@@ -1,5 +1,3 @@
-###DEC-078272-0-000-17-08-1976@@@
-
 DECRETO Nº 78.272, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia Metalúrgica, da Escola de Engenharia Industrial Metalúrgica, com sede na cidade de Volta Redonda, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-047714-0-000-29-01-1960@@@
-
 DECRETO Nº 47.714, DE 29 DE JANEIRO DE 1960.
 
 Autoriza a execução de obras de emergência no Estado da Bahia, em regiões assoladas pela sêca.

@@ -1,5 +1,3 @@
-###DEC-066677-0-000-09-06-1970@@@
-
 DECRETO Nº 66.677, DE 9 DE JUNHO DE 1970.
 
 Aprova o enquadramento de professor fundador da Faculdade de Direito da Universidade Federal do Rio Grande do Norte, em cargo de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar - do Ministério da Educação e Cultura.

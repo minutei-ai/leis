@@ -1,5 +1,3 @@
-###DEC-084253-0-000-29-11-1979@@@
-
 Decreto nº 84.253, de 29 de novembro de 1979.
 
 Concede a autorização ao R/V OCEANUS para realizar, no mar territorial do Brasil, os serviços que especifica.

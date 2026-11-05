@@ -1,5 +1,3 @@
-###DEC-067275-0-000-25-09-1970@@@
-
 DECRETO Nº 67.275, DE 25 DE SETEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério do Exército, cargo originário do Ministério dos Transportes.

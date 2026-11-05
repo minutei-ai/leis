@@ -1,5 +1,3 @@
-###DEL-009212-0-000-29-04-1946@@@
-
 DECRETO-LEI N. 9.212 – DE 29 DE ABRIL DE 1946
 
 Retifica o Decreto-lei nº 8.855, de 24 de Janeiro de 1946 é dá outras providências.

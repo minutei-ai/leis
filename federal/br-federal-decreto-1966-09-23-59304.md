@@ -1,5 +1,3 @@
-###DEC-059304-0-000-23-09-1966@@@
-
 DECRETO Nº 59.304, DE 23 DE SETEMBRO DE 1966.
 
 Concede à Minerbrás - Consórcio de Minérios do Brasil Ltda., autorização para funcionar como emprêsa de mineração.

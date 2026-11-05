@@ -137,7 +137,3 @@ Danilo de Castro
 Paulo de Tarso Almeida Paiva
 
 Fuad Noman Jorge Filho
-
-\-------------------------------------------------
-
-Data da última atualização: 19/10/2026.

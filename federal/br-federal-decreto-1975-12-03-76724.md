@@ -1,5 +1,3 @@
-###DEC-076724-0-000-03-12-1975@@@
-
 DECRETO nº 76.724, de 3 de Dezembro de 1975.
 
 Autoriza o funcionamento do curso de licenciatura em Ciências da Faculdade de Ciências e Letras de Bragança Paulista, com sede na Cidade de Bragança Paulista, Estado de São Paulo.

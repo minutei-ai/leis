@@ -1,5 +1,3 @@
-###DEC-092185-0-000-20-12-1985@@@
-
 Decreto nº 92.185, de 20 de dezembro de 1985
 
 Proibe as atividades de caça comercial da baleia no Brasil, a partir de 1º de janeiro de 1986, por um período de cinco anos.

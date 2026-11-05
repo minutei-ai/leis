@@ -1,5 +1,3 @@
-###DEC-050313-0-000-04-03-1961@@@
-
 DECRETO Nº 50.313, de 04 DE março DE 1961.
 
 Oficializa o XII Congresso Internacional de Urologia.

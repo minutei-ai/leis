@@ -1,5 +1,3 @@
-###DEL-007061-0-000-21-11-1944@@@
-
 DECRETO-LEI N. 7.061 – DE 21 DE NOVEMBRO DE 1944
 
 Prorroga até 30 de junho de 1945 o prazo da isenção de que tratam os Decretos-leis ns. 6.198, de 13 de janeiro, 6.443, de 27 de abril, e 6.810, de 21 de agôsto, todos de 1944

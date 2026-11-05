@@ -1,5 +1,3 @@
-###DEL-003333-0-000-06-06-1941@@@
-
 DECRETO-LEI N. 3.333 – DE 6 DE JUNHO DE 1941
 
 Dá nova organização ao Curso de Saúde Pública a que se refere o Decreto-lei n. 2.243, de 29 de maio de 1940

@@ -1,5 +1,3 @@
-###MPV-002213-0-001-30-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.213-1, DE 30 DE AGOSTO DE 2001
 
  Institui o Programa Bolsa-Renda para atendimento à população atingida pelos efeitos da estiagem, incluída nos municípios localizados na Região Nordeste e no norte do Estado de Minas Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-044994-0-000-03-12-1958@@@
-
 Decreto nº 44.994, de 3 de dezembro de 1958.
 
 Transfere de Sebastião Pereira da Silva para a Prefeitura Municipal de Coimbra a concessão para a produção e fornecimento de energia elétrica aos distritos de Coimbra e Cajuri, municípios de Coimbra e Viçosa, Estado de Minas Gerais.

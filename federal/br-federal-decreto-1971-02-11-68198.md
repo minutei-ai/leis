@@ -1,5 +1,3 @@
-###DEC-068198-0-000-11-02-1971@@@
-
 DECRETO nº 68.198, de 11 de Fevereiro de 1971.
 
 Extingue a Comissão Especial de Bolsas de Alimentação, instituída pelo Decreto nº 62.532, de 16 de abril de 1968 e dá outras providências.

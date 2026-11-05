@@ -1,7 +1,3 @@
-1
-
-###DEC-099508-0-000-05-09-1990@@@
-
 DECRETO Nº 99.508, DE 5 DE SETEMBRO DE 1990
 
 Dispõe sobre as exportações e importações de açúcar, álcool, mel rico e mel residual.

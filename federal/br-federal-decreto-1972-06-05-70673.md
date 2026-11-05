@@ -1,5 +1,3 @@
-###DEC-070673-0-000-05-06-1972@@@
-
 Decreto nº 70.673, de 5 de junho de 1972.
 
 Altera o Regulamento aprovado pelo Decreto nº 61.934, de 22 de dezembro de 1967, que dispõe sobre o exercício da profissão de Técnico de Administração, e dá outras providências.

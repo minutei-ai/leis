@@ -1,7 +1,3 @@
-1
-
-###DEC-000839-0-000-18-06-1993@@@
-
 DECRETO N° 839, DE 18 DE JUNHO DE 1993
 
 Dispõe sobre o Fundo instituído pelo Decreto‑Lei n° 1.437, de 17 de dezembro de 1975, e dá outras providências.

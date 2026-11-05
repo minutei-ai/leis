@@ -1,5 +1,3 @@
-###DEC-049406-0-000-02-12-1960@@@
-
 DECRETO Nº 49.406, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza a Liz S.A., Comércio e Beneficiamento de Calcário a pesquisar calcário, no Município de Laranjeiras, Estado de Sergipe.

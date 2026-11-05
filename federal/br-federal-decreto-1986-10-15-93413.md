@@ -1,5 +1,3 @@
-###DEC-093413-0-000-15-10-1986@@@
-
 DECRETO Nº 93.413, DE 15 DE OUTUBRO DE 1986.
 
 Promulga a Convenção nº 148 sobre a Proteção dos Trabalhadores Contra os Riscos Profissionais Devidos à Contaminação do Ar, ao Ruído e às Vibrações no Local de Trabalho.

@@ -1,5 +1,3 @@
-###DEC-078733-0-000-17-11-1976@@@
-
 DECRETO Nº 78.733, DE 17 DE NOVEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

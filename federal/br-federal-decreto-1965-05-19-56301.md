@@ -1,5 +1,3 @@
-###DEC-056301-0-000-19-05-1965@@@
-
 DECRETO Nº 56.301, de 19 de maio de 1965.
 
 Declara de utilidade pública a “Sociedade Beneficente Hospital Beatriz Ramos”, com sede em Indaial, Estado de Santa Catarina.

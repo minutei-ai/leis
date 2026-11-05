@@ -1,5 +1,3 @@
-###DEC-056093-0-000-26-04-1965@@@
-
 decreto nº 56.093, de 26 de abril de 1965.
 
 Concede à Companhia Industrial Fluminense autorização para funcionar como emprêsa de mineração.

@@ -36,17 +36,22 @@ Gabinete do Prefeito do Municipal e Aparecida de Goiânia, Estado de Goiás, aos
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretario de Governo e Integração Institucional
 
-RODRIGO GONZAGA CALDAS<br>
+RODRIGO GONZAGA CALDAS
+
 Secretario de Desenvolvimento Urbano
 
-MARIO JOSÉ VILELA<br>
+MARIO JOSÉ VILELA
+
 Secretario de Infraestrutura e Obras
 
-FABIO CAMARGO<br>
+FABIO CAMARGO
+
 Secretario de Meio Ambiente

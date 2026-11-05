@@ -1,5 +1,3 @@
-###DEC-078109-0-000-22-07-1976@@@
-
 DECRETO Nº 78.109, DE 22 DE JULHO DE 1976.
 
 Declara sem efeito a interdição de parte da área a que se refere o Decreto nº 73.562, de 24 de janeiro de 1974, e dá outras providências.

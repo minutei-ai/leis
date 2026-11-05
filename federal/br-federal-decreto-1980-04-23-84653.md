@@ -1,5 +1,3 @@
-###DEC-084653-0-000-23-04-1980@@@
-
 Decreto nº 84.653, de 23 de abril de 1980
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras com benfeitorias situadas nos lugares denominados, respectivamente, Fazenda Cataratas e Fazenda Itapiry, integrantes do perímetro abrangido pelo Decreto nº 1.035, de 10.01.1939 que criou o Parque Nacional do Iguaçu, no Estado do Paraná.

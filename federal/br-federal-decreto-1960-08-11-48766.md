@@ -1,5 +1,3 @@
-###DEC-048766-0-000-11-08-1960@@@
-
 DECRETO Nº 48.766, DE 11 DE AGÔSTO DE 1960.
 
 Revoca o Decreto nº 8.746, de 12 de fevereiro de 1942.

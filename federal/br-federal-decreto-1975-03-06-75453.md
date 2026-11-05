@@ -1,5 +1,3 @@
-###DEC-075453-0-000-06-03-1975@@@
-
 decreto nº 75.453, de 6 de março de 1975.
 
 Concede à INEL - Industrial Extrativa Ltda., o direito de lavrar silex no Município de Gravatal, Estado de Santa Catarina.

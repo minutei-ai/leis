@@ -1,5 +1,3 @@
-###DEC-077573-0-000-11-05-1976@@@
-
 DECRETO Nº 77.573, DE 11 DE MAIO DE 1976
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, do Instituto Superior de Estudos Sociais, com sede na cidade de Duque de Caxias, Estado do Rio de Janeiro.

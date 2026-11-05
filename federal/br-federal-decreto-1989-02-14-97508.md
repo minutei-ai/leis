@@ -1,5 +1,3 @@
-###DEC-097508-0-000-14-02-1989@@@
-
 DECRETO N° 97.508, DE 14 DE FEVEREIRO DE 1989
 
 Dispõe sobre a aplicação do Decreto n° 97.460, de 16 de janeiro de 1989.

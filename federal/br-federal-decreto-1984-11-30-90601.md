@@ -1,5 +1,3 @@
-###DEC-090601-0-000-30-11-1984@@@
-
 Decreto nº 90.601, de 30 de novembro de 1984.
 
 Altera a redação dos Arts. 9º e 17 do Estatuto da Fundação Joaquim Nabuco-FUNDAJ.

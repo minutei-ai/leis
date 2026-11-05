@@ -1,5 +1,3 @@
-###DEC-076028-0-000-25-07-1975@@@
-
 DECRETO Nº 76.028 - DE 25 DE JULHO DE 1975.
 
 Concede reconhecimento ao Curso de Oceanologia, da Universidade do Rio Grande, com sede na cidade de Rio Grande, Estado do Rio Grande do Sul.

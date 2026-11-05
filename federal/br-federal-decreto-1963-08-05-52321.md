@@ -1,5 +1,3 @@
-###DEC-052321-0-000-05-08-1963@@@
-
 DECRETO Nº 52.321, de 5 de agôsto de 1963.
 
 Cria a Ordem de Mérito Desportivo Universitário.

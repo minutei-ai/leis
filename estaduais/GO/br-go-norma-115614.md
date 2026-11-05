@@ -33,7 +33,7 @@ QUADRO 1
 
 QUADRO 2
 
-<table style="width: 500px;"><tbody><tr><td colspan="8" style="text-align: center;"><strong>REDUÇÃO</strong></td></tr><tr><td colspan="8" style="text-align: center;"><strong>2850-FUNDO ESTADUAL DE SAÚDE - FES</strong></td></tr><tr><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>AÇÃO</strong></td><td><strong>FONTE</strong></td><td><strong>MODALIDADE</strong></td><td><strong>GRUPO</strong></td><td><strong>SALDO A PROGRAMAR</strong></td><td><strong>VALOR BLOQUEADO</strong></td><td><strong>VALOR A REDUZIR</strong></td></tr><tr><td>GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td>10 302 1043 2516</td><td>15000100</td><td>50</td><td>4 - INVESTIMENTOS</td><td>R$ 79.089.439,81</td><td>R$ 11.336.581,85</td><td>R$ 11.336.581,85</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td>10 302 1043 2516</td><td>15000100</td><td>50</td><td>4 - INVESTIMENTOS</td><td>R$ 79.089.439,81</td><td>R$ 11.336.581,85</td><td>R$ 11.336.581,85</td></tr></tbody></table>
 
 | **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
 | --- |

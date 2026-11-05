@@ -1,5 +1,3 @@
-###DEC-055740-0-000-08-02-1965@@@
-
 Decreto nº 55.740, de 8 de fevereiro de 1965.
 
 Declara Luto Oficial.

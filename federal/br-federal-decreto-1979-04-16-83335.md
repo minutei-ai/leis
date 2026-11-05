@@ -1,5 +1,3 @@
-###DEC-083335-0-000-16-04-1979@@@
-
 DECRETO Nº 83.335, DE 16 DE ABRIL DE 1979.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, Estado de São Paulo.

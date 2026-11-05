@@ -1,5 +1,3 @@
-###DEL-002810-0-000-29-11-1940@@@
-
 DECRETO-LEI N. 2.810 – DE 29 DE NOVEMBRO DE 1940
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 295;000$0 à verba que especifica

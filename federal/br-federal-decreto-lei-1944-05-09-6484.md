@@ -1,5 +1,3 @@
-###DEL-006484-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.484 – DE 9 DE MAIO DE 1944
 
 Cria a 1a Companhia Independente de Infantaria tipo especial

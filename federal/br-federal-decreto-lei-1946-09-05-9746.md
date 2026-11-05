@@ -1,5 +1,3 @@
-###DEL-009746-0-000-05-09-1946@@@
-
 DECRETO-LEI  N. 9.746 – DE 5 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 892.050,00 para despesas da Administração do Pôrto de Laguna

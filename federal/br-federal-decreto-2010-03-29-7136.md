@@ -1,5 +1,3 @@
-###DEC-007136-0-000-29-03-2010@@@
-
 DECRETO Nº 7.136, DE 29 DE MARÇO DE 2010.
 
 Altera a denominação da Missão do Brasil junto às Comunidades Europeias para Missão do Brasil junto à União Europeia.

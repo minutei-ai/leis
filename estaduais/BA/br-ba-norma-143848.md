@@ -4,10 +4,12 @@ Reestrutura os Ofícios Extrajudiciais do Estado da Bahia, e dá outras providê
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I<br>
+TÍTULO I
+
 DA ORGANIZAÇÃO DOS OFÍCIOS EXTRAJUDICIAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Serviços notariais e de registro são os de organização técnica e administrativa, destinados a garantir publicidade, autenticidade, segurança e eficácia dos atos jurídicos, exercidos em caráter privado, por delegação do Poder Público, nos termos do _caput_ do artigo 236 da Constituição Federal, regulamentado pela Lei Federal nº 8.935, de 18 de novembro de 1994, com as atribuições do delegatário delimitadas pela Lei Federal nº 6.015, de 31 de dezembro de 1973, pela Lei Federal nº 8.935, de 18 de novembro de 1994, pela Lei Federal nº 9.492, de 10 de setembro de 1997, e demais legislações extravagantes.
@@ -44,7 +46,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Parágrafo único -** Assim que o Município se enquadre nas faixas populacionais  previstas nos arts. 6º a 12 desta Lei, deverá o Tribunal de Justiça, no prazo máximo de 30 (trinta) dias úteis, promover a reclassificação.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS MUNICÍPIOS COM POPULAÇÃO DE ATÉ 40.000 (QUARENTA MIL) HABITANTES
 
 **Art. 5º** - Nos Municípios de Comarcas instaladas ou não instaladas com população de até 40.000 (quarenta mil) habitantes haverá uma única serventia extrajudicial para os serviços notariais e de registro, denominada Serventia Extrajudicial do Ofício Único, que acumulará as atribuições especializadas existentes.
@@ -57,7 +60,8 @@ DOS MUNICÍPIOS COM POPULAÇÃO DE ATÉ 40.000 (QUARENTA MIL) HABITANTES
 
 **§ 4**º - A reestruturação das serventias, tal como prevista neste artigo, observará os critérios estabelecidos no art. 13 desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 40.000 (QUARENTA MIL) HABITANTES ATÉ 70.000 (SETENTA MIL) HABITANTES
 
 **Art. 6º** - No Município com Comarca instalada ou de Comarca não instalada que possua população de 40.000 (quarenta mil) habitantes até 70.000 (setenta mil) habitantes, haverá 02 (duas) serventias extrajudiciais, sendo que o Primeiro Ofício agregará as especialidades de Registro de Imóveis, Hipotecas, Títulos e Documentos e Civil das Pessoas Jurídicas, e o Segundo Ofício agregará as especialidades de Registro Civil das Pessoas Naturais, Tabelionato de Notas e Tabelionato de Protesto de Títulos.
@@ -66,7 +70,8 @@ DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 40.000 (QUARENTA MIL) HABITANTES ATÉ
 
 **§ 2**º - A reestruturação das serventias, tal como prevista neste artigo, observará os critérios estabelecidos no art. 13 desta Lei.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 70.000 (SETENTA MIL) ATÉ 180.000 (CENTO E OITENTA MIL) HABITANTES
 
 **Art. 7º** - Nos Municípios sedes de Comarcas instaladas que possuam população superior a 70.000 (setenta mil) habitantes até 100.000 (cem mil) habitantes, haverá 03 (três) serventias extrajudiciais, sendo que o Primeiro Ofício agregará as especialidades de Registro de Imóveis e Hipotecas e Registro de Títulos e Documentos e Civil das Pessoas Jurídicas, o Segundo Ofício agregará as especialidades de Registro Civil das Pessoas Naturais, e o Terceiro Ofício agregará as especialidades de Tabelionato de Notas e Tabelionato de Protesto de Títulos.
@@ -79,7 +84,8 @@ DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 70.000 (SETENTA MIL) ATÉ 180.000 (CE
 
 **Art. 8º** - Nos Municípios sedes de Comarcas instaladas que possuem população superior a 100.000 (cem mil) habitantes até 180.000 (cento e oitenta mil) habitantes haverá 04 (quatro) serventias extrajudiciais, sendo 01 (um) Tabelionato de Notas, 01 (um) Tabelionato de Protestos, 01 (um) Registro de Imóveis e Hipotecas, Títulos e Documentos e Civil das Pessoas Jurídicas e 01 (um) Registro Civil das Pessoas Naturais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 180.000 (CENTO E OITENTA MIL) HABITANTES ATÉ 250.000 (DUZENTOS E CINQUENTA MIL) HABITANTES
 
 **Art. 9º** - Nos municípios sede de Comarcas instaladas que possuem população superior a 180.000 (cento e oitenta mil) habitantes até 250.000 (duzentos e cinquenta mil) habitantes haverá 05 (cinco) serventias extrajudiciais, sendo 02 (dois) Tabelionatos de Notas, 01 (um) Tabelionato de Protesto de Títulos, 01 (um) Ofício de Registro de Imóveis e Hipotecas, Títulos e Documentos e Civil das Pessoas Jurídicas e 01 (um) Ofício de Registro Civil das Pessoas Naturais.
@@ -90,7 +96,8 @@ DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 180.000 (CENTO E OITENTA MIL) HABITAN
 
 **§ 3**º - No município sede da Comarca de Itabuna, ocorrendo a vacância de um dos três Tabelionatos de Notas situados na Sede, o acervo será remetido ao Tabelionato de Notas remanescente mais antigo.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 250.000 (DUZENTOS E CINQUENTA MIL) HABITANTES ATÉ 500.000 (QUINHENTOS MIL) HABITANTES
 
 **Art. 10** - Nos municípios sedes de Comarcas instaladas que possuem população superior a 250.000 (duzentos e cinquenta mil) habitantes até 500.000 (quinhentos mil) habitantes haverá 07 (sete) serventias extrajudiciais, sendo 02 (dois) Tabelionatos de Notas, 01 (um) Tabelionato de Protesto de Títulos, 02 (dois) Ofícios de Registro de Imóveis e Hipotecas, 01 (um) Ofício de Registro de Títulos e Documentos e Civil das Pessoas Jurídicas, e 01 (um) Ofício de Registro Civil das Pessoas Naturais.
@@ -101,14 +108,16 @@ DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 250.000 (DUZENTOS E CINQUENTA MIL) HA
 
 **§ 3**º - No Município sede de Comarca instalada de Vitória da Conquista, ocorrendo a vacância de um dos três Tabelionatos de Notas situados na Sede, o acervo será remetido ao Tabelionato de Notas remanescente mais antigo.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 500.000 (QUINHENTOS MIL) HABITANTES ATÉ 1.500.000 (UM MILHÃO E QUINHENTOS MIL) HABITANTES
 
 **Art. 11** - Nos Municípios sedes de Comarcas instaladas que possuem população superior a 500.000 (quinhentos mil) habitantes até 1.500.000 (um milhão e quinhentos mil) habitantes haverá 09 (nove) serventias extrajudiciais, sendo 03 (três) Tabelionatos de Notas, 01 (um) Tabelionato de Protesto de Títulos, 02 (dois) Ofícios de Registro de Imóveis e Hipotecas, 01 (um) Ofício de Registro de Títulos e Documentos e Civil das Pessoas Jurídicas, e 02 (dois) Ofícios de Registro Civil das Pessoas Naturais.
 
 **Parágrafo único -** Em vagando um dos 02 (dois) Ofícios de Registro Civil das Pessoas Naturais, a ele integrar-se-á a serventia com titular de Registro Civil de Pessoas Naturais com Tabelionato de Notas de distrito administrativo do Município de Feira de Santana com data de criação mais antiga e que estiver com circunscrição mais próxima, o que será apurado, neste último caso, utilizando-se o critério de deslocamento territorial terrestre.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 1.500.000 (UM MILHÃO E QUINHENTOS MIL) HABITANTES
 
 **Art. 12** - Nos Municípios sedes de Comarcas instaladas que possuem população superior 1.500.000 (um milhão e quinhentos mil) habitantes haverá 32 (trinta e duas) serventias extrajudiciais, sendo 13 (treze) Tabelionatos de Notas, 04 (quatro) Tabelionatos de Protesto de Títulos, 06 (seis) Ofícios de Registro de Imóveis, 02 (dois) Ofícios de Registro de Títulos e Documentos e Civil das Pessoas Jurídicas, e 07 (sete) Ofícios de Registro Civil das Pessoas Naturais, organizados da seguinte forma:
@@ -191,7 +200,8 @@ DOS MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 1.500.000 (UM MILHÃO E QUINHENTOS MI
 
 **§ 7**º - Assim que atingida a configuração aqui estabelecida para os Registros de Imóveis, as serventias remanescentes daquela especialidade serão renumeradas de 01 (um) a 06 (seis), utilizando-se como critério a data de instalação das mesmas.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS DA ORGANIZAÇÃO DOS SERVIÇOS NOTARIAIS E REGISTRAIS
 
 **Art. 13** - A reestruturação das serventias, tal como prevista nos arts. 6º a 12 desta Lei, será levada a efeito observando-se os seguintes critérios, de cumprimento obrigatório, sucessivo e subsidiário:
@@ -256,18 +266,22 @@ DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS DA ORGANIZAÇÃO DOS SERVIÇOS NOTARIAI
 
 **Art. 19** - As disposições de organização dos ofícios extrajudiciais contrárias ao disposto nessa Lei ficam revogadas pelas disposições deste Livro.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO PESSOAL DOS SERVIÇOS EXTRAJUDICIAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 20** - O exercício da atividade notarial e de registro, pelos titulares e prepostos em atividade, é incompatível com o da advocacia, o da intermediação de seus serviços ou o de qualquer cargo, emprego ou função públicos, ainda que em comissão.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS NOTÁRIOS E OFICIAIS DE REGISTRO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Outorga, da Investidura, do Exercício
 
 **Art. 21** - Nos títulos de outorga da delegação, serão certificados pelas Corregedorias de Justiça a data da investidura e, pela Corregedoria Permanente, a data de início do exercício.
@@ -294,7 +308,8 @@ Da Outorga, da Investidura, do Exercício
 
 **§ 4**º - A ineficácia mencionada neste artigo afeta apenas a nova delegação, sem revigorar a antiga, nos casos de titulares que prestam novo concurso.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Substituição do Titular nos Casos de Ausências e Impedimentos Circunstanciais
 
 **Art. 28** - Em caso de ausência e impedimento circunstanciais, o delegado será substituído pelas pessoas a seguir indicadas, na seguinte ordem:
@@ -315,7 +330,8 @@ Da Substituição do Titular nos Casos de Ausências e Impedimentos Circunstanci
 
 **§ 3**º - A designação será feita por Portaria editada pelo Juiz Corregedor Permanente, que será remetida à Corregedoria de Justiça competente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Extinção e Vacância da Delegação e da Designação de Interino
 
 **Art. 30** - Extingue-se a delegação outorgada a notário ou oficial de registro por:
@@ -396,7 +412,8 @@ Da Extinção e Vacância da Delegação e da Designação de Interino
 
 **Art. 35** - Os responsáveis interinamente por delegações vagas de notas e de registro lançarão no Livro Registro Diário da Receita e da Despesa o valor da renda líquida excedente a 90,25% (noventa inteiros e vinte e cinco centésimos por cento) dos subsídios de Ministro do Supremo Tribunal Federal, que depositarem à disposição do Fundo Especial de Compensação, indicando a data do depósito e a conta em que realizado, nos termos da regulamentação específica das Corregedorias de Justiça.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS PREPOSTOS
 
 **Art. 36** - Os notários e os oficiais de registro poderão, para o desempenho de suas funções, contratar escreventes, dentre eles escolhendo os substitutos, e auxiliares como empregados, com remuneração livremente ajustada e sob o regime da legislação do trabalho.
@@ -411,7 +428,8 @@ DOS PREPOSTOS
 
 **Art. 39** - Os escreventes poderão praticar somente os atos que o notário ou o oficial de registro autorizar.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS AFASTAMENTOS
 
 **Art. 40** - O notário ou registrador que se afastar da serventia, por mais de 15 (quinze) dias, comunicará ao Juiz Corregedor Permanente, informando, ainda, a data de previsão de retorno e seu respectivo substituto.
@@ -422,10 +440,12 @@ DOS AFASTAMENTOS
 
 **Parágrafo único -** O reinício do exercício será comunicado ao Juiz Corregedor Permanente e à Corregedoria de Justiça competente, nos mesmos termos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO REGIME DISCIPLINAR
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Disposições Gerais
 
 **Art. 42** - Somente os titulares e interinos da delegação estão sujeitos ao poder censório-disciplinar das Corregedorias Permanentes e das Corregedorias de Justiça.
@@ -468,7 +488,8 @@ Das Disposições Gerais
 
 **Art. 55** - O indicado para responder como interventor por delegação do serviço extrajudicial de notas e de registro deverá declarar, sob pena de responsabilidade, que não se insere nas hipóteses de vedação ao nepotismo, previstas nos incisos III e IV do art. 33 desta Lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Penas
 
 **Art. 56** - Os notários e oficiais de registro sujeitam-se às seguintes penas disciplinares:
@@ -495,7 +516,8 @@ Das Penas
 
 **Art. 62** - O Regimento Interno das Corregedorias de Justiça poderá dispor sobre normas procedimentais acerca da responsabilidade dos atos proferidos nas serventias extrajudiciais, respeitadas as normas previstas na Lei Federal nº 8.935, de 18 de novembro de 1994.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Reabilitação
 
 **Art. 63** - A reabilitação alcançará as penas disciplinares de repreensão, multa e suspensão.
@@ -516,7 +538,8 @@ Da Reabilitação
 
 **Art. 67** - A reabilitação perderá sua eficácia se o reabilitado sofrer nova condenação.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da Revisão
 
 **Art. 68** - Admitir-se-á, a qualquer tempo, a revisão de punição disciplinar de que não caiba mais recurso, se surgirem fatos ou circunstâncias ainda não apreciados, ou vícios insanáveis de procedimento, que possam justificar redução ou anulação da pena aplicada.
@@ -533,7 +556,8 @@ Da Revisão
 
 **Art. 74** - Julgada procedente a revisão, será declarada sem efeito a penalidade aplicada.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 75** - O inciso IV do art. 19 da Lei nº [12.352](https://www.legislabahia.ba.gov.br/documentos/lei-no-12352-de-08-de-setembro-de-2011), de 08 de setembro de 2011, passa a vigorar com a seguinte redaçao:
@@ -558,148 +582,4 @@ Afonso Bandeira Florence
 
 Secretário da Casa Civil
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:305.1pt;border-collapse:collapse;border:none" width="407"><tbody><tr style="height:11.35pt"><td colspan="2" style="width:305.1pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="407"><p class="Tabela-Texto" style="margin-top:6.85pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">ANEXO ÚNICO</span></p></td></tr><tr style="height:11.35pt"><td colspan="2" style="width:305.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="407"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">MUNICÍPIO</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">1</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Acajutiba</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">2</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Alcobaça</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">3</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">América Dourada</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">4</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Angical</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">5</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Aporá</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">6</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Aurelino Leal</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">7</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Barro Preto</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">8</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Botuporã</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">9</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Caldeirão Grande</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">10</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Canavieiras</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">11</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Cocos</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">12</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Conceição da Feira</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">13</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Correntina</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">14</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Formosa do Rio Preto</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">15</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Glória</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">16</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Ibicuí</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">17</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Ibirapitanga</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">18</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Ichu</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">19</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Inhambupe</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">20</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Itapitanga</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">21</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Itaquara</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">22</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Itiruçu</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">23</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Jaguaripe</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">24</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Jiquiriçá</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">25</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Licínio de Almeida</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">26</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Malhada</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">27</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Maraú</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">28</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Mucugê</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">29</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Nilo Peçanha</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">30</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Nova Canaã</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">31</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Nova Fátima</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">32</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Pé de Serra</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">33</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Potiraguá</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">34</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Presidente Dutra</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">35</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Quixabeira</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">36</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Riachão das Neves</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">37</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Rio de Contas</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">38</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Santa Luzia</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">39</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">São Desidério</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">40</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">São Domingos</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">41</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">São Gabriel</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">42</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">São José do Jacuípe</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">43</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Serra do Ramalho</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">44</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Sítio do Mato</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">45</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Souto Soares</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">46</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Teodoro Sampaio</span></p></td></tr><tr style="height:11.35pt"><td style="width:64.1pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" width="85"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">47</span></p></td><td style="width:241.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" width="321"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Wanderley</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> ANEXO ÚNICO </td></tr><tr><td colspan="2"> MUNICÍPIO </td></tr><tr><td> 1 </td><td> Acajutiba </td></tr><tr><td> 2 </td><td> Alcobaça </td></tr><tr><td> 3 </td><td> América Dourada </td></tr><tr><td> 4 </td><td> Angical </td></tr><tr><td> 5 </td><td> Aporá </td></tr><tr><td> 6 </td><td> Aurelino Leal </td></tr><tr><td> 7 </td><td> Barro Preto </td></tr><tr><td> 8 </td><td> Botuporã </td></tr><tr><td> 9 </td><td> Caldeirão Grande </td></tr><tr><td> 10 </td><td> Canavieiras </td></tr><tr><td> 11 </td><td> Cocos </td></tr><tr><td> 12 </td><td> Conceição da Feira </td></tr><tr><td> 13 </td><td> Correntina </td></tr><tr><td> 14 </td><td> Formosa do Rio Preto </td></tr><tr><td> 15 </td><td> Glória </td></tr><tr><td> 16 </td><td> Ibicuí </td></tr><tr><td> 17 </td><td> Ibirapitanga </td></tr><tr><td> 18 </td><td> Ichu </td></tr><tr><td> 19 </td><td> Inhambupe </td></tr><tr><td> 20 </td><td> Itapitanga </td></tr><tr><td> 21 </td><td> Itaquara </td></tr><tr><td> 22 </td><td> Itiruçu </td></tr><tr><td> 23 </td><td> Jaguaripe </td></tr><tr><td> 24 </td><td> Jiquiriçá </td></tr><tr><td> 25 </td><td> Licínio de Almeida </td></tr><tr><td> 26 </td><td> Malhada </td></tr><tr><td> 27 </td><td> Maraú </td></tr><tr><td> 28 </td><td> Mucugê </td></tr><tr><td> 29 </td><td> Nilo Peçanha </td></tr><tr><td> 30 </td><td> Nova Canaã </td></tr><tr><td> 31 </td><td> Nova Fátima </td></tr><tr><td> 32 </td><td> Pé de Serra </td></tr><tr><td> 33 </td><td> Potiraguá </td></tr><tr><td> 34 </td><td> Presidente Dutra </td></tr><tr><td> 35 </td><td> Quixabeira </td></tr><tr><td> 36 </td><td> Riachão das Neves </td></tr><tr><td> 37 </td><td> Rio de Contas </td></tr><tr><td> 38 </td><td> Santa Luzia </td></tr><tr><td> 39 </td><td> São Desidério </td></tr><tr><td> 40 </td><td> São Domingos </td></tr><tr><td> 41 </td><td> São Gabriel </td></tr><tr><td> 42 </td><td> São José do Jacuípe </td></tr><tr><td> 43 </td><td> Serra do Ramalho </td></tr><tr><td> 44 </td><td> Sítio do Mato </td></tr><tr><td> 45 </td><td> Souto Soares </td></tr><tr><td> 46 </td><td> Teodoro Sampaio </td></tr><tr><td> 47 </td><td> Wanderley </td></tr></tbody></table>

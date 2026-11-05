@@ -1,5 +1,3 @@
-###DEC-059341-0-000-30-09-1966@@@
-
 DECRETO Nº 59.341, DE 30 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Vitor Nunes da Silva pesquisar diamantes nos municípios de Datas e Presidente Kubitschek, Estado  de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-087250-0-000-07-06-1982@@@
-
 Decreto nº 87.250, de 07 de junho de 1982
 
 Declara de utilidade pública, para fins de desapropriação, a área compreendida, pelos imóveis sitos, respectivamente, nas ruas Alexandre Mackenzie, 78, 82 e 84, Camerino 82/84 e Senador Pompeu, 99, localizados na cidade do Rio de Janeiro, Estado do Rio de Janeiro, destinados à construção de um prédio onde será instalada a Região de Operações Centro Leste, integrante do Sistema Nacional de Telecomunicações, naquela cidade, a cargo da Empresa Brasileira de Telecomunicações S.A. - EMBRATEL.

@@ -1,5 +1,3 @@
-###DEC-071609-0-000-22-12-1972@@@
-
 DECRETO Nº 71.609 - DE 22 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras São Manuel, mantida pela Instituição Toledo de Ensino, com sede em São Paulo.

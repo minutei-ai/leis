@@ -1,5 +1,3 @@
-###DEC-074437-0-000-20-08-1974@@@
-
 DECRETO Nº 74.437, DE 20 DE AGOSTO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras da Lavras, mantida pela Fundação de Filosofia, Ciências e Letras, com sede na cidade de Lavras, Estado de Minas Gerais.

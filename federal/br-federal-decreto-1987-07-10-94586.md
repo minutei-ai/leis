@@ -1,5 +1,3 @@
-###DEC-094586-0-000-10-07-1987@@@
-
 DECRETO N° 94.586, DE 10 DE JULHO DE 1987
 
 Autoriza a transferência direta da concessão outorgada à SOCIEDADE RADIODIFUSORA PASSO REAL LTDA., para a Rádio Meridional Ltda.

@@ -1,5 +1,3 @@
-###DEC-080505-0-000-06-10-1977@@@
-
 DECRETO Nº 80.505, DE 6 DE OUTUBRO DE 1977.
 
 Autoriza estrangeiro a adquirir direitos sobre o imóvel que menciona, no Estado do Rio de Janeiro

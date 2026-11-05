@@ -1,5 +1,3 @@
-###DEC-076470-0-000-16-10-1975@@@
-
 Decreto nº 76.470, de 16 de outubro de 1975.
 
 Cria o Programa Nacional de Conservação dos Solos - P.N.C.S., e dá outras providências.

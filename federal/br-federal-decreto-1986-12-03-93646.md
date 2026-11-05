@@ -1,5 +1,3 @@
-###DEC-093646-0-000-03-12-1986@@@
-
 DECRETO Nº 93.646, DE 3 DE DEZEMBRO DE 1986
 
 Altera o Regulamento do IPI aprovado pelo Decreto nº 87.981, de 23 de dezembro de 1982.

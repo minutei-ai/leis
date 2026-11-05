@@ -1,5 +1,3 @@
-###DEC-047250-0-000-17-11-1959@@@
-
 DECRETO Nº 47.250, DE 17 DE NOVEMBRO DE 1959.
 
 Outorga concessão à Rádio Mirador Limitada para instalar uma estação radiodifusora.

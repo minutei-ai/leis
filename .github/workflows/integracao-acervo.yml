@@ -1,0 +1,30 @@
+name: Integração do acervo
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  integration:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dependências de conversão e verificação
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends poppler-utils python3-venv ripgrep
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3 pypdf==6.7.0
+      - name: Reconstruir exportação tipada e inventários do tree integrado
+        run: |
+          "$RUNNER_TEMP/venv/bin/python" scripts/cobertura_nacional.py export-acervo --no-resume
+          "$RUNNER_TEMP/venv/bin/python" scripts/cobertura_nacional.py generate
+          "$RUNNER_TEMP/venv/bin/python" scripts/cobertura_nacional.py verify
+      - name: Todos os testes dos lotes integrados
+        run: |
+          "$RUNNER_TEMP/venv/bin/python" -m unittest discover -s tests -v

@@ -1,5 +1,3 @@
-###DEC-005160-0-000-28-07-2004@@@
-
 DECRETO Nº 5.160 DE 28 DE JULHO DE 2004
 
 Promulga o Acordo de Cooperação Financeira relativo aos projetos "Projetos Demonstrativos Grupo A \- PD/A \- Subprograma Mata Atlântica" (PN 2001.6657.9) e "Amazonian Regional Protected Áreas \- ARPA" (PN 2002.6551.2), celebrado em Brasília, em 10 de junho de 2003, entre a República Federativa do Brasil e a República Federal da Alemanha.

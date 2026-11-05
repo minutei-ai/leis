@@ -1,5 +1,3 @@
-###DEC-005429-0-000-19-04-2005@@@
-
 DECRETO Nº 5.429 DE 19 DE ABRIL DE 2005
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 21 de dezembro de 2004.

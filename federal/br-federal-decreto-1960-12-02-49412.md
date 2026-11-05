@@ -1,5 +1,3 @@
-###DEC-049412-0-000-02-12-1960@@@
-
 DECRETO Nº 49.412, DE 2 DE dezembro DE 1960.
 
 Fixa mandato para os membros do Conselho Administrativo da Caixa de Crédito da Pesca.

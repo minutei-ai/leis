@@ -1,5 +1,3 @@
-###DEC-002594-0-000-15-05-1998@@@
-
 DECRETO Nº 2.594, DE 15 DE MAIO DE 1998
 
 Regulamenta a Lei nº 9.491, de 9 de setembro de 1997, que dispõe sobre o Programa Nacional de Desestatização e dá outras providências.

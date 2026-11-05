@@ -1,14 +1,12 @@
-###DEC-034983-0-000-28-01-1954@@@
+**DECRETO Nº 34.983, DE 28 DE JANEIRO DE 1954.**
 
-<strong>DECRETO Nº 34.983, DE 28 DE JANEIRO DE 1954.</strong>
+***Aprova alterações introduzidas nos Estatutos da “Colonial Companhia Nacional Seguros Gerais”***
 
-<em><strong>Aprova alterações introduzidas nos Estatutos da “Colonial Companhia Nacional Seguros Gerais”</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam aprovadas as alterações introduzidas nos Estatutos da “Colonial, Companhia Nacional de Seguros Gerais”, com sede nesta capital, autorizada a funcionar pelo Decreto-lei nº 14.499, de 11 de janeiro de 1944, conforme deliberação da Assembléia Geral Extraordinária, realizada em 15 de janeiro de 1953, mediante as seguintes condições:
+**Art**. 1º Ficam aprovadas as alterações introduzidas nos Estatutos da “Colonial, Companhia Nacional de Seguros Gerais”, com sede nesta capital, autorizada a funcionar pelo Decreto-lei nº 14.499, de 11 de janeiro de 1944, conforme deliberação da Assembléia Geral Extraordinária, realizada em 15 de janeiro de 1953, mediante as seguintes condições:
 
 I - A redação do artigo 7º, passará a ser:
 
@@ -20,10 +18,10 @@ II - O artigo 8º vigorará com a mesma redação do artigo 9º, dos Estatutos a
 
 III - As alterações consignadas nas cláusulas precedentes deverão ser aprovadas em Assembléia Geral Extraordinária, dentro do prazo de 60 (sessenta) dias, contados da data da publicação dêste Decreto.
 
-<strong>Art</strong>. 2º A sociedade continuará integralmente sujeita às leis e regulamentos vigentes, ou que venham a vigorar, sôbre o objeto da autorização a que alude aquele Decreto.
+**Art**. 2º A sociedade continuará integralmente sujeita às leis e regulamentos vigentes, ou que venham a vigorar, sôbre o objeto da autorização a que alude aquele Decreto.
 
 Rio de Janeiro, em 28 de janeiro de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Goulart

@@ -1,5 +1,3 @@
-###DEL-005945-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.945 – DE 28 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 100.000,00, à verba que especifica
@@ -20,7 +18,15 @@ S/c. nº 25 – Substituições
 
 04 – Diretoria Geral da Fazenda Nacional
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>06 – Serviço do Pessoal.........................................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">100.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+06 – Serviço do Pessoal.........................................................................................&nbsp;
+
+</td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+100.000,00
+
+</td></tr></tbody></table>
 
 Art. 2º Êste decreto‑lei entra em vigor na data da sua publicação.
 

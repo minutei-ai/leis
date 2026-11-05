@@ -1,7 +1,3 @@
-1
-
-###DEC-001320-0-000-30-11-1994@@@
-
 DECRETO Nº 1.320, DE 30 DE NOVEMBRO DE 1994
 
 Promulga o Tratado de Auxílio Mútuo em Matéria Penal, entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa, de 07.05.91.

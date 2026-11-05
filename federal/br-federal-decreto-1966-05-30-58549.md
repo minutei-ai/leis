@@ -1,5 +1,3 @@
-###DEC-058549-0-000-30-05-1966@@@
-
 DECRETO Nº 58.549, DE 30 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Mário José Teixeira a pesquisar água mineral no município de Itaboraí, Estado do Rio de Janeiro.

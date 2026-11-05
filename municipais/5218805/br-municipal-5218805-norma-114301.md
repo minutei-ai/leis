@@ -1,9 +1,7 @@
 LEI COMPLEMENTAR Nº  5.801, DE 16 DE JUNHO DE 2010.
 
-<br>
 Altera a [Lei n. 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170 "Abrir Lei Ordinária nº 3968, de 2000 em nova aba")/2000.
 
-<br>
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

@@ -1,5 +1,3 @@
-###DEL-008824-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.824 – DE 24 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a transferir, gratuitamente, ao Patrimônio da União, para o fim especial de instalação do Serviço Nacional de Câncer, o domínio pleno do imóvel que menciona, com as benfeitorias existentes, e dá outras providências

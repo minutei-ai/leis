@@ -1,5 +1,3 @@
-###DEC-049052-0-000-05-10-1960@@@
-
 DECRETO Nº 49.052, DE 5 DE OUTUBRO DE 1960.
 
 Renova o Decreto nº 44.019, de 8 de julho de 1958.

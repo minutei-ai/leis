@@ -1,5 +1,3 @@
-###DEC-074025-0-000-08-05-1974@@@
-
 DECRETO Nº 74.025, DE 8 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, dois lotes de terrenos urbanos na Quadra "M" do loteamento "Vila Carmary", na localidade denominada Posse, 1º Distrito do Município de Nova Iguaçu, Estado do Rio de Janeiro, destinados à construção de Centro Telefônico Automático, pela Companhia Telefônica Brasileira - CTB.

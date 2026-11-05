@@ -1,5 +1,3 @@
-###DEC-083803-0-000-31-07-1979@@@
-
 DECRETO Nº 83.803, DE 31 DE JULHO DE 1979.
 
 Concede à MIRASA - Mineração Ribeiro de Andrade S.A. o direito de lavrar diatomita no Município de Maxaranguape, Estado do Rio Grande do Norte.

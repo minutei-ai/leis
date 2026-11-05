@@ -1,5 +1,3 @@
-###DEL-004327-0-000-22-05-1942@@@
-
 DECRETO-LEI N. 4.327 – DE 22 DE MAIO DE 1942
 
 Dispõe sobre o uso da denominação “conhaque”

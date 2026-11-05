@@ -1,5 +1,3 @@
-###DEC-064180-0-000-07-03-1969@@@
-
 DECRETO Nº 64.180, DE 7 DE MARÇO DE 1969.
 
 Altera a redação do art. 17 do Decreto nº 807, de 30 de março de 1962, e dá outras providências.

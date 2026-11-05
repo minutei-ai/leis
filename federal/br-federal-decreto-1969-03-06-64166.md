@@ -1,5 +1,3 @@
-###DEC-064166-0-000-06-03-1969@@@
-
 DECRETO Nº 64.166, DE 6 DE MARÇO DE 1969.
 
 Autoriza a transferências de área.

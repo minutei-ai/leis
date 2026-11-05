@@ -1,5 +1,3 @@
-###DEC-068371-0-000-18-03-1971@@@
-
 DECRETO Nº 68.371, DE 18 DE MARÇO DE 1971.
 
 Altera a redação do artigo 3º, do Decreto nº 56.452, de 9 de junho de 1965.

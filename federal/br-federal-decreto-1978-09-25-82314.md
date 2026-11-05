@@ -1,5 +1,3 @@
-###DEC-082314-0-000-25-09-1978@@@
-
 Decreto nº 82.314 de 25 de setembro de 1978
 
 Concede reconhecimento ao curso de Psicologia da Universidade Católica de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-088467-0-000-04-07-1983@@@
-
 Decreto nº 88.467, de 04 dejulho de 1983
 
 Outorga à Centrais Elétricas Mato-grossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do rio Poxoréo, no Município de Poxoréo, Estado de Mato Grosso.

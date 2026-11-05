@@ -1,5 +1,3 @@
-###DEC-079050-0-000-27-12-1976@@@
-
 Decreto nº 79.050, de 27 de dezembro de 1976.
 
 Concede autorização à empresa FOREX NEPTUNE para executar trabalhos de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

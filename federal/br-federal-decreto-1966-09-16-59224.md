@@ -1,5 +1,3 @@
-###DEC-059224-0-000-16-09-1966@@@
-
 DECRETO Nº 59.224, DE 16 DE SETEMBRO DE 1966.
 
 Aprova O Regimento Interno da Seção de Segurança Nacional do Ministério das Minas e Energia.

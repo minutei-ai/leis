@@ -1,5 +1,3 @@
-###DEC-091565-0-000-23-08-1985@@@
-
 Decreto nº 91.565, de 23 de agosto de 1985
 
 Revoga a concessão outorgada à RÁDIO MUNDIAL S/A, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Petrópolis, Estado do Rio de Janeiro.

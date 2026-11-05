@@ -1,5 +1,3 @@
-###DEC-066770-0-000-24-06-1970@@@
-
 Decreto nº 66.770 - de 24 de junho de 1970
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Itajubá, da Fundação Universidade de Itajubá, na cidade do mesmo nome, Estado de Minas Gerais.

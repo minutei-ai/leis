@@ -1,5 +1,3 @@
-###DEC-060419-0-000-11-03-1967@@@
-
 DECRETO Nº 60.419, de 11 de Março de 1967.
 
 Transfere do Ministério das Minas e Energia para Companhia Paranaense de Energia Elétrica - COPEL - a concessão para produzir, transmitir e distribuir energia elétrica nos distritos de Guaíra, e Dr. Oliveira Castro, município de Guaíra, Estado do Paraná.

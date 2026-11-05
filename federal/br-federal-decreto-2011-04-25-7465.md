@@ -1,5 +1,3 @@
-###DEC-007465-0-000-25-04-2011-PUB-01@@@
-
 DECRETO Nº 7.465, DE 25 DE ABRIL DE 2011
 
 Transfere a Secretaria do Conselho de  Desenvolvimento Econômico e Social da Secretaria de Relações Institucionais para a Secretaria de Assuntos Estratégicos da Presidência da República e altera a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Secretaria de Relações Institucionais e da Secretaria de Assuntos Estratégicos da Presidência da República.

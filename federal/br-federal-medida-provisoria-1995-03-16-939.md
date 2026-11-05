@@ -1,7 +1,3 @@
-1
-
-###MPV-000939-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 939, DE 16 DE MARÇO DE 1995
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

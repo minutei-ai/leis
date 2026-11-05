@@ -1,5 +1,3 @@
-###DEC-049131-0-000-20-10-1960@@@
-
 DECRETO Nº 49.131, DE 20 DE OUTUBRO DE 1960.
 
 Cria a Comissão de Preparação Pré-Olimpica.

@@ -1,5 +1,3 @@
-###DEC-050433-0-000-10-04-1961@@@
-
 DECRETO Nº 50.433, DE 10 DE ABRIL DE 1961.
 
 Aprova o Regimento do Instituto Joaquim Nabuco.

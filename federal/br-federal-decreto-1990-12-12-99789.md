@@ -1,7 +1,3 @@
-1
-
-###DEC-099789-0-000-12-12-1990@@@
-
 # DECRETO N° 99.789, DE 12 DE DEZEMBRO DE 1990
 
 Promulga o Convênio de Defesa Fitossanitária, entre o Governo da República Federativa do Brasil e o Governo da Espanha.

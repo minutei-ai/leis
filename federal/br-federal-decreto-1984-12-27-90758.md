@@ -1,5 +1,3 @@
-###DEC-090758-0-000-27-12-1984@@@
-
 Decreto nº 90.758, de 27 de dezembro de 1984.
 
 Reajusta os valores da Gratificação pela Representação de Gabinete e os de Indenização de Representação.

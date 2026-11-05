@@ -1,5 +1,3 @@
-###DEL-008244-0-000-28-11-1945@@@
-
 DECRETO-LEI N. 8.244 – DE 28 DE NOVEMBRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 464.806,00, para atender aos gastos iniciais da Organização Internacional Provisória de Aviação Civil.

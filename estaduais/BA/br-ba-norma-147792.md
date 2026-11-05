@@ -64,7 +64,8 @@ Angelo Mario Cerqueira de Almeida
 
 Secretário de Desenvolvimento Econômico
 
-Felipe da Silva Freitas<br>
+Felipe da Silva Freitas
+
 Secretário de Justiça e Direitos Humanos
 
 Bruno Gomes Monteiro
@@ -111,19 +112,22 @@ Vivaldo Góis de Oliveira
 
 Secretário da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura
 
-Osni Cardoso de Araújo<br>
+Osni Cardoso de Araújo
+
 Secretário de Desenvolvimento Rural
 
 Marcus Vinicius Di Flora
 
 Secretário de Comunicação Social
 
-Giulliana Brito do Espírito Santo Mercuri<br>
+Giulliana Brito do Espírito Santo Mercuri
+
 Secretária de Turismo em exercício
 
 Fabya dos Reis Santos
 
 Secretária de Assistência e Desenvolvimento Social
 
-José Carlos Souto de Castro Filho<br>
+José Carlos Souto de Castro Filho
+
 Secretário de Administração Penitenciária e Ressocialização

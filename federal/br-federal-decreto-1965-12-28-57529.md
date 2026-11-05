@@ -1,5 +1,3 @@
-###DEC-057529-0-000-28-12-1965@@@
-
 decreto nº 57.529, de 28 de dezembro de 1965.
 
 Concede á Compagnie D’Assurances Générales Contre l’Incendie et les Explosions autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

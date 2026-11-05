@@ -1,5 +1,3 @@
-###MPV-001769-0-052-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.769-52, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

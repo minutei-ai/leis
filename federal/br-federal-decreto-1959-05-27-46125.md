@@ -1,5 +1,3 @@
-###DEC-046125-0-000-27-05-1959@@@
-
 DECRETO Nº 46.125, de 27 de maio de 1959.
 
 Baixa normas  para o aproveitamento definitivo dos servidores de que trata a Lei nº 125º, de 24 de outubro de 1947.

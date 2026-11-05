@@ -1,5 +1,3 @@
-###DEC-064517-0-000-15-05-1969@@@
-
 DECRETO Nº 64.517, DE 15 DE MAio DE 1969.
 
 Altera o Decreto nº 57.272, de 16 de novembro de 1965, que define a conceituação de Acidente em Serviço e dá outras providências.

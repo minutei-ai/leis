@@ -1,5 +1,3 @@
-###DEC-080959-0-000-07-12-1977@@@
-
 DECRETO Nº 80.959, DE 07 DE DEZEMBRO DE 1977.
 
 Concede à Companhia de Mineração Serra da Farofa-CEFAR, o direito de lavrar minério de ferro nos Municípios de Brumadinho e Igarapé, Estado de Minas Gerais .

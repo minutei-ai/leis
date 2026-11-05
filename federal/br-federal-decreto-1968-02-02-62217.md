@@ -1,5 +1,3 @@
-###DEC-062217-0-000-02-02-1968@@@
-
 DECRETO Nº 62.217, DE 2 DE FEVEREIRO DE 1968.
 
 Altera o Regulamento para o Corpo de Oficiais da Reserva do Exército, aprovado pelo Decreto nº 41.475, de 8 de maio de 1957, e alterado pelos de ns 52.209, de 2 de julho de 1963 e 60.272, de 24 de fevereiro de 1967.

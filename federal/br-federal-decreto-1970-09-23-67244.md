@@ -1,5 +1,3 @@
-###DEC-067244-0-000-23-09-1970@@@
-
 decreto nº 67.244, de 23 de setembro de 1970.
 
 Declara caduco o Decreto nº 27.822, de 24 de fevereiro de 1950.

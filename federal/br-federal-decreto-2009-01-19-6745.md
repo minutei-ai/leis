@@ -1,5 +1,3 @@
-###DEC-006745-0-000-19-01-2009@@@
-
 DECRETO Nº 6.745, DE 19 DE JANEIRO DE 2009.
 
 Dá nova redação ao art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983.

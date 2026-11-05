@@ -1,5 +1,3 @@
-###DEC-080657-0-000-01-11-1977@@@
-
 DECRETO Nº 80.657, DE 01 DE novembro DE 1977.
 
 Concede à Indústria Catarinense de Adubos e Mineração Ltda. o direito de lavrar conchas calcárias no Município de Imbituba, Estado de Santa Catarina.

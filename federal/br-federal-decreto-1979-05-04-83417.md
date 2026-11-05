@@ -1,5 +1,3 @@
-###DEC-083417-0-000-04-05-1979@@@
-
 DECRETO Nº 83.417, DE 04 DE MAIO DE 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

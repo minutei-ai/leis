@@ -1,5 +1,3 @@
-###DEC-085533-0-000-16-12-1980@@@
-
 DECRETO Nº 85.533, DE 16 DE DEZEMBRO DE 1980.
 
 Extingue o 1º Batalhão de Fronteira no Ministério do Exército e dá outras providências.

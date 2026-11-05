@@ -1,7 +1,3 @@
-1
-
-###DEC-001604-0-000-24-08-1995@@@
-
 DECRETO Nº 1.604, DE 24 DE AGOSTO DE 1995
 
 Reduz as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que indica.

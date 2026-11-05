@@ -161,7 +161,3 @@ Instituto de Pesos e Medidas do Estado de Minas Gerais – IPEM
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Assessoria Jurídica Assessor Jurídico 01 1,01800 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,20286 Diretoria Técnica Diretor 01 1,20286 Diretoria Geral Diretor-Geral 01 1,43418 Auditoria Seccional Auditor Seccional 01 0,54200
-
-\======================================================================
-
-Data da última atualização: 18/8/2026.

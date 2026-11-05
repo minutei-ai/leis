@@ -1,5 +1,3 @@
-###DEC-073673-0-000-18-02-1974@@@
-
 DECRETO Nº 73.673, DE 18 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento dos cursos de Letras (licenciatura plena), de Matemática, de Ciências Sociais e de Estudos Sociais (licenciatura de 1º Grau) da Faculdade de Ciências e Letras "Teresa Martin", mantida pelo Instituto Educacional "Teresa Martin", com sede na Cidade de São Paulo, Estado de São Paulo.

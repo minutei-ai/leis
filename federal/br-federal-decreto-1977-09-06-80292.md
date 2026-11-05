@@ -1,5 +1,3 @@
-###DEC-080292-0-000-06-09-1977@@@
-
 DECRETo Nº 80.292, DE 6 DE SETEmBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à "Companhia de Mineração" Novalimense pelo Decreto nº 41.326, de 10 de abril de 1957.

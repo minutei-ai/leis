@@ -1,5 +1,3 @@
-###MPV-001771-0-024-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-24, DE 11 DE MARÇO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

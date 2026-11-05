@@ -1,5 +1,3 @@
-###DEL-004149-0-000-05-03-1942@@@
-
 DECRETO-LEI N. 4.149 – DE 5 DE MARÇO DE 1942
 
 Dispõe  sobre cessão de terrenos

@@ -1,7 +1,3 @@
-1
-
-###DEC-099005-0-000-02-03-1990@@@
-
 DECRETO Nº 99.005, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Econômicas de São Luís.

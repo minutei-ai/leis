@@ -1,5 +1,3 @@
-###DEC-002324-0-000-10-09-1997@@@
-
 DECRETO Nº 2.324, DE 10 DE SETEMBRO DE 1997
 
 Dá nova redação aos arts. 64 e 65 do Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto nº 90.608, de 4 de dezembro de 1984.

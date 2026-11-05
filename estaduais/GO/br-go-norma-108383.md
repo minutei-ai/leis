@@ -146,7 +146,8 @@ II – os incisos IV e V: aceleradores.
 
 § 9º A concessão da evolução funcional ocorrerá por ato do titular do órgão de origem, após a validação pela comissão de que trata o § 8º.
 
-§ 10. Os critérios para a aferição dos requisitos estabelecidos no § 2º deste artigo, a metodologia do Sistema de Pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos, até 180 (cento e oitenta) dias da publicação desta Lei, por decreto do Chefe do Poder Executivo, após manifestação técnica do Órgão Central de Gestão de Pessoal, inclusive suas alterações.<br>
+§ 10. Os critérios para a aferição dos requisitos estabelecidos no § 2º deste artigo, a metodologia do Sistema de Pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos, até 180 (cento e oitenta) dias da publicação desta Lei, por decreto do Chefe do Poder Executivo, após manifestação técnica do Órgão Central de Gestão de Pessoal, inclusive suas alterações.
+
 **\- [Vide Lei nº 23.241, de 21-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110405), Art. 1º, V** - Dispõe sobre a prorrogação de prazos indicados nas Leis que especifica. 
 
 CAPÍTULO IV

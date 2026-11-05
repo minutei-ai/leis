@@ -1,5 +1,3 @@
-###DEC-070009-0-000-20-01-1972@@@
-
 DECRETO Nº 70.009, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Patronato Sousa Carvalho, com sede em Ipu, Estado do Ceará.

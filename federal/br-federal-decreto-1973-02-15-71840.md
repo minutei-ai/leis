@@ -1,5 +1,3 @@
-###DEC-071840-0-000-15-02-1973@@@
-
 Decreto nº 71.840, de 15 de fevereiro de 1973.
 
 Concede reconhecimento ao curso de Direito, mantido pela Fundação Universidade de Itaúna, Itaúna, Minas Gerais.

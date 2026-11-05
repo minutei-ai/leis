@@ -1,5 +1,3 @@
-###DEC-075590-0-000-10-04-1975@@@
-
 DECRETO Nº 75.590, DE 10 DE ABRIL DE 1975.
 
 Concede reconhecimento aos cursos de Administração, de Ciências Contábeis, de Matemática, de Química e de Pedagogia da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

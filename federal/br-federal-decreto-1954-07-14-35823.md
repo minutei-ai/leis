@@ -1,14 +1,12 @@
-###DEC-035823-0-000-14-07-1954@@@
+**DECRETO Nº 35.823, DE 14 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.823, DE 14 DE JULHO DE 1954.</strong>
+***Cria a estandarte distintivo para a 5.º Regimento de Infantaria - “Regimento Itororó”.***
 
-<em><strong>Cria a estandarte distintivo para a 5.º Regimento de Infantaria - “Regimento Itororó”.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o estandarte distintivo para a 5º Regimento de Infantaria - “Regimento Itororó”, de acôrdo com o modêlo que êste acompanha, obedecendo às seguintes características:
+**Art**. 1º Fica criado o estandarte distintivo para a 5º Regimento de Infantaria - “Regimento Itororó”, de acôrdo com o modêlo que êste acompanha, obedecendo às seguintes características:
 
 Campo de verde, com três faixas centrais, senda a primeira de vermelho, igual a 1/15 da altura de campo; a segunda de branco, igual a 3/15 da altura e terceira de azul celeste, igual a 1/15 da altura do campo.
 
@@ -22,10 +20,10 @@ Franja de ouro ao redor. Laço militar das côres nacionais, com a inscrição d
 
 Dimensões: 0,80 x 1,10m.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de julho de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Zenóbio da Costa

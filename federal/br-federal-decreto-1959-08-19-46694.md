@@ -1,5 +1,3 @@
-###DEC-046694-0-000-19-08-1959@@@
-
 DECRETO Nº 46.694, DE 19 DE AGÔSTO DE 1959.
 
 Autoriza liberação de créditos contidos no Plano de Economia do Ministério da Aeronáutica.
@@ -20,7 +18,77 @@ Subconsignação:
 
 7\) Diretamente em convênio com DNER ou outro órgão do Govêrno Federal ou colaboração com Estado, a ampliação e pavimentação de pistas, pátios, construção de estação de passageiros e obras de acesso dos seguintes aeroportos:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aracaju...............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Anápolis.............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bagé...................................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Belém.................................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Campina Grande................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Campos..............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carolina..............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fortaleza............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>João Pessoa......................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Goiânia...............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maringá..............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Parnaíba............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelotas...............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Recife.................................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Teresina.............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Uberaba.............................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Uberlândia..........................................................................................</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">10.000.000,00</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:124.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>175.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+Aracaju...............................................................................................
+
+5.000.000,00
+
+Anápolis.............................................................................................
+
+5.000.000,00
+
+Bagé...................................................................................................
+
+5.000.000,00
+
+Belém.................................................................................................
+
+10.000.000,00
+
+Campina Grande................................................................................
+
+5.000.000,00
+
+Campos..............................................................................................
+
+5.000.000,00
+
+Carolina..............................................................................................
+
+10.000.000,00
+
+Fortaleza............................................................................................
+
+20.000.000,00
+
+João Pessoa......................................................................................
+
+10.000.000,00
+
+Goiânia...............................................................................................
+
+15.000.000,00
+
+Maringá..............................................................................................
+
+10.000.000,00
+
+Parnaíba............................................................................................
+
+15.000.000,00
+
+Pelotas...............................................................................................
+
+10.000.000,00
+
+Recife.................................................................................................
+
+10.000.000,00
+
+Teresina.............................................................................................
+
+20.000.000,00
+
+Uberaba.............................................................................................
+
+10.000.000,00
+
+Uberlândia..........................................................................................
+
+10.000.000,00
+
+175.000.000,00
 
 Art. 2º O Ministério da Fazenda promoverá as providências necessárias à liberação das parcelas a que se refere o artigo anterior.
 

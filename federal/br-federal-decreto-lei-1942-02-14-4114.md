@@ -1,5 +1,3 @@
-###DEL-004114-0-000-14-02-1942@@@
-
 DECRETO-LEI N. 4.114 – DE 14 DE FEVEREIRO DE 1942
 
 Dispõe sobre questões de trabalho dos extra numerários de empresas de propriedade do Governo Federal ou por este administradas e dá outras providências

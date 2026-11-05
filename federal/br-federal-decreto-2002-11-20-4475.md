@@ -1,5 +1,3 @@
-###DEC-004475-0-000-20-11-2002@@@
-
 DECRETO Nº 4.475, DE 20 DE NOVEMBRO DE 2002
 
 Dispõe sobre a instituição, pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES, de Programa Emergencial e Excepcional de Apoio às Concessionárias de Serviço Público de Geração e aos Produtores Independentes de Energia Elétrica, e dá outras providências.

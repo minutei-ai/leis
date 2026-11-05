@@ -1,5 +1,3 @@
-###DEC-096387-0-000-21-07-1988@@@
-
 DECRETO N° 96.387, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia do Centro de Ciências Sociais Aplicadas das Faculdades Integradas de Uberaba.

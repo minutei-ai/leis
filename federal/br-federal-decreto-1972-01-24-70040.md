@@ -1,5 +1,3 @@
-###DEC-070040-0-000-24-01-1972@@@
-
 DECRETO Nº 70.040, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Casa dos Meninos de Petrópolis, com sede em Petrópolis, Estado do Rio de Janeiro.

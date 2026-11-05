@@ -1,14 +1,12 @@
-###DEC-034637-0-000-17-11-1953@@@
+**DECRETO Nº 34.637, DE 17 DE NOVEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.637, DE 17 DE NOVEMBRO DE 1953.</strong>
+***Declara de utilidade pública diversas áreas de terras, que serão inundadas com a ampliação da barragem da usina “Carioca”, e autoriza a Companhia Industrial Paraense S.A. de Pará de Minas, a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terras, que serão inundadas com a ampliação da barragem da usina “Carioca”, e autoriza a Companhia Industrial Paraense S.A. de Pará de Minas, a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade públicas as seguintes áreas de terras, que serão inundadas em consequência do levantamento da barragem da usina Carioca, localizadas no município de Pará de Minas, e constantes da planta aprovada pelo Ministro da Agricultura;
+**Art**. 1º Ficam declaradas de utilidade públicas as seguintes áreas de terras, que serão inundadas em consequência do levantamento da barragem da usina Carioca, localizadas no município de Pará de Minas, e constantes da planta aprovada pelo Ministro da Agricultura;
 
 1\) área de cento e cinquenta e sete mil novecentos e vinte cinco (157.925,00) metros quadrados, de propriedade atribuída a Amires Cecílio dos Santos, localizada a montante da Cachoeira do Rosário, a margem esquerda do Rio São João;
 
@@ -30,14 +28,14 @@
 
 10\) área de cento e cinquenta e cinco mil e quatrocentos e trinta e dois (155.432,00) metros quadrados, de propriedade atribuída a José Marcelino dos Santos ou de sua espôsa Etelvina Caetano dos Santos, localizada a montante da Cachoeira do Rosário, a margem direita do rio São João;
 
-<strong>Art</strong>. 2º Fica autorizada a Companhia Industrial Paraense S.A. a promover a desapropriação das referidas áreas de terras, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Companhia Industrial Paraense S.A. a promover a desapropriação das referidas áreas de terras, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de novembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

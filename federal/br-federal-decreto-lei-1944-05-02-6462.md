@@ -1,5 +1,3 @@
-###DEL-006462-0-000-02-05-1944@@@
-
 DECRETO-LEI N. 6.462 – DE 2 DE MAIO DE 1944
 
 Eleva os direitos aduaneiros sôbre a importação de lâminas de vidro branco, lisas, e dá outras providências

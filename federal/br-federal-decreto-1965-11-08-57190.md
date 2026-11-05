@@ -1,5 +1,3 @@
-###DEC-057190-0-000-08-11-1965@@@
-
 DECRETO Nº 57.190, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Peter Gert Adler a pesquisar galena e baritina no município de Alenquer, Estado do Pará.

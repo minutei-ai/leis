@@ -1,5 +1,3 @@
-###DEC-070582-0-000-22-05-1972@@@
-
 Decreto nº 70.582, de 22 de maio de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, parte de um lote de terreno urbano, destinado à instalação da estação Central de Telex da cidade de Fortaleza, Estado do Ceará, pela EMBRATEL.

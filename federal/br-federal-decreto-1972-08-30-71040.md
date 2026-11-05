@@ -1,5 +1,3 @@
-###DEC-071040-0-000-30-08-1972@@@
-
 DECRETO Nº 71.040, DE 30 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Comunicação do Instituto Metodista de Ensino Superior, com sede na cidade de São Bernardo do Campo, S.P.

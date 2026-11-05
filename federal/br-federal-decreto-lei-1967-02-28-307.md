@@ -1,5 +1,3 @@
-###DEL-000307-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 307, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza a abertura de crédito especial para concessão de recursos financeiros ao Estado da Bahia.

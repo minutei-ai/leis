@@ -1,5 +1,3 @@
-###DEC-075819-0-000-04-06-1975@@@
-
 DECRETO N.º 75.819, DE 4 DE JUNHO DE 1975.
 
 Prorroga o prazo de execução dos Programas de Pesquisas Tecnológicas e de Estudos Técnico-Econômicos da Comissão Executiva do Sul do Ministério da Indústria e do Comércio e dá outras providências.

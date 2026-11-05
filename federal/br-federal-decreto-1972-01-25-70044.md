@@ -1,5 +1,3 @@
-###DEC-070044-0-000-25-01-1972@@@
-
 DECRETO Nº 70.044, DE 25 DE JANEIRO DE 1972.
 
 Aprova o Regulamento para o Corpo de Fuzileiro Navais e dá outras providências.

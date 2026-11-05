@@ -1,5 +1,3 @@
-###DEC-055139-0-000-04-12-1964@@@
-
 decreto nº 55.139, de 4 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Arlindo Angelo de Souza a pesquisar bentonita no município de Sacramento, Estado de Minas Gerais.

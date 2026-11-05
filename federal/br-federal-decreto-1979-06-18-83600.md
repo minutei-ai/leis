@@ -1,5 +1,3 @@
-###DEC-083600-0-000-18-06-1979@@@
-
 Decreto nº 83.600, de 18 de junho de 1979.
 
 Dispõe sobre organização e preparo da Mobilização dos Transportes Terrestres de interesse militar para utilização em situações de emergências ou guerra.

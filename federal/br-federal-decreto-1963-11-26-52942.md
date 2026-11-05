@@ -1,5 +1,3 @@
-###DEC-052942-0-000-26-11-1963@@@
-
 DECRETO Nº 52.942, DE 26 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 46.473, de 20 de julho de 1959.

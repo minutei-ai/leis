@@ -6,11 +6,139 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições legais, faço sabe
 
 Art. 1º - São fixados os seguintes valores para a escala de vencimentos do pessoal civil do Poder Executivo:
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.5pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>NIVEL</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>VALOR</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>01</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>80,000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>02</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>81,000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>03</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>82.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>04</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>84.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>05</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>86.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>06</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>88.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>07</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>90.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>08</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>93.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>09</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>97.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>10</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>103.200</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>11</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>109.700</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>12</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>116.100</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>13</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>122.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>14</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>129.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>15</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>138.700</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>16</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>148.300</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>17</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>167.700</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>18</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>225.800</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>18</span><sup><span>A</span></sup></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>396.300</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>18B</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>402.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>18C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>410.000</span></p></td></tr></tbody></table>
+NIVEL
+
+VALOR
+
+01
+
+80,000
+
+02
+
+81,000
+
+03
+
+82.500
+
+04
+
+84.000
+
+05
+
+86.000
+
+06
+
+88.000
+
+07
+
+90.000
+
+08
+
+93.000
+
+09
+
+97.000
+
+10
+
+103.200
+
+11
+
+109.700
+
+12
+
+116.100
+
+13
+
+122.500
+
+14
+
+129.000
+
+15
+
+138.700
+
+16
+
+148.300
+
+17
+
+167.700
+
+18
+
+225.800
+
+18<sup>A</sup>
+
+396.300
+
+18B
+
+402.500
+
+18C
+
+410.000
 
 Art. 2º - São fixados para as séries de classe de Fiscal de Rendas, Agente Fiscal Auxiliar, Guarda Fiscal e classe singular de Auditor Fiscal, os seguintes valores de referência de vencimentos:
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.5pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>REFERÊNCIA</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>VALOR</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>I</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>294.300</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>II</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>376.800</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>III</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>461.200</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>IV</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>517.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>V</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>551.200</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>VI</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>586.200</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>VII</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>623.700</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>VIII</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>663.700</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>IX</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>705.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>X</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>750.000</span></p></td></tr></tbody></table>
+REFERÊNCIA
+
+VALOR
+
+I
+
+294.300
+
+II
+
+376.800
+
+III
+
+461.200
+
+IV
+
+517.500
+
+V
+
+551.200
+
+VI
+
+586.200
+
+VII
+
+623.700
+
+VIII
+
+663.700
+
+IX
+
+705.000
+
+X
+
+750.000
 
 Art. 3º - Com os novos níveis de vencimentos estabelecidos no artigo 1º desta Lei, fica absorvida a vantagem relativa à gratificação especial a que se referia o [artigo 60 da Lei nº 1.613, de 12 de janeiro de 1962](https://www.legislabahia.ba.gov.br/documentos/lei-no-1613-de-12-de-janeiro-de-1962#LO_1_613_Art__60) , que assim, se suprime.
 
@@ -20,15 +148,153 @@ Art. 5º - Mantém-se inalteradas nos seus valores absolutos atuais as gratifica
 
 Art. 6º - Fica aprovada a seguinte tabela de soldo para os oficiais e praças da Polícia Militar:
 
-<table style="width: 269.3pt; margin-left: 78.0pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="359" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 205.5pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Coronel</span></p></td><td style="width: 63.8pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>430.300</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Tenente Coronel</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>375.500</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Major</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>344.500</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Capital</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>305.100</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1º Tenente</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>258.000</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>2º Tenente</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>227.100</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Aspirante a Oficial ou Sub-Tenente</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>187.800</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1º Sargento</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>156.700</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>2º Sargento</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>137.500</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>3º Sargento</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>131.400</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Cabo</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>86.500</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Soldado de Categoria Especial ou de 1ª.º Classe</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>82.500</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Soldado Mobilizável ou de 2ª Classe</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>80.000</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Soldado Recruta</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>66.000</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Aluno de 1º Ciclo</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>121.400</span></p></td></tr><tr><td style="width: 205.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>Aluno de 2º Ciclo</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>137.500</span></p></td></tr></tbody></table>
+Coronel
+
+430.300
+
+Tenente Coronel
+
+375.500
+
+Major
+
+344.500
+
+Capital
+
+305.100
+
+1º Tenente
+
+258.000
+
+2º Tenente
+
+227.100
+
+Aspirante a Oficial ou Sub-Tenente
+
+187.800
+
+1º Sargento
+
+156.700
+
+2º Sargento
+
+137.500
+
+3º Sargento
+
+131.400
+
+Cabo
+
+86.500
+
+Soldado de Categoria Especial ou de 1ª.º Classe
+
+82.500
+
+Soldado Mobilizável ou de 2ª Classe
+
+80.000
+
+Soldado Recruta
+
+66.000
+
+Aluno de 1º Ciclo
+
+121.400
+
+Aluno de 2º Ciclo
+
+137.500
 
 Art. 7º - São fixados os valores dos símbolos dos cargos em comissão a que se refere o Anexo IV da Lei nº 2.321, de 11 de abril de 1966, na discriminação seguinte:
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.5pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>1C</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>687.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>2C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>662.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>3C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>637.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>4C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>612.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>5C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>587.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>6C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>562.500</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>7C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>525.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>8C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>450.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>9C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>375.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>10C</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>300.000</span></p></td></tr></tbody></table>
+1C
+
+687.500
+
+2C
+
+662.500
+
+3C
+
+637.500
+
+4C
+
+612.500
+
+5C
+
+587.500
+
+6C
+
+562.500
+
+7C
+
+525.000
+
+8C
+
+450.000
+
+9C
+
+375.000
+
+10C
+
+300.000
 
 Art. 8º - São fixados os seguintes valores para o símbolo das funções gratificadas, de acordo com o disposto no [artigo 175, da Lei nº 2.323, de 11 de abril de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2323-de-11-de-abril-de-1966#LO_2_323_Art__175) .
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.5pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>10 F</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>530.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>09 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>480.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>08 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>450.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>07 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>430.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>06 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>400.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>05 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>320.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>04 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>270.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>03 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>220.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>02 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>180.000</span></p></td></tr><tr><td style="width: 120.5pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="161"><p class="Tabela-Texto"><span>01 F</span></p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>150.000</span></p></td></tr></tbody></table>
+10 F
+
+530.000
+
+09 F
+
+480.000
+
+08 F
+
+450.000
+
+07 F
+
+430.000
+
+06 F
+
+400.000
+
+05 F
+
+320.000
+
+04 F
+
+270.000
+
+03 F
+
+220.000
+
+02 F
+
+180.000
+
+01 F
+
+150.000
 
 Art. 9º - O enquadramento das funções gratificadas criadas pelos regimentos de cada Secretaria de Estado e demais órgãos da Administração Estadual, nos símbolos fixados no artigo anterior, será feito por decreto, obedecendo-se aos critérios estabelecidos no [Anexo I](https://www.legislabahia.ba.gov.br/documentos/lei-no-2426-de-03-de-janeiro-de-1967#lo_2_426_ANEXO_I) desta Lei.
 
@@ -134,7 +400,41 @@ ANEXO II
 
 TABELA DE CORRESPONDÊNCIA
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.45pt; border: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>SÍMBOLO ANTIGO</span></p></td><td style="width: 106.35pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>SIMBOLO PROPOSTO</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161">&nbsp;</td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>9F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161">&nbsp;</td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>8F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG7</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>7F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG6</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>6F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG5</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>5F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>4F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG3</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>3F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG2</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>2F</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG1</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>1F</span></p></td></tr></tbody></table>
+SÍMBOLO ANTIGO
+
+SIMBOLO PROPOSTO
+
+9F
+
+8F
+
+FG7
+
+7F
+
+FG6
+
+6F
+
+FG5
+
+5F
+
+FG
+
+4F
+
+FG3
+
+3F
+
+FG2
+
+2F
+
+FG1
+
+1F
 
 ANEXO III
 
@@ -142,9 +442,61 @@ SECRETARIA DE EDUCAÇÃO E CULTURA
 
 TABELA DE CARGOS EM COMISSÃO
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.45pt; border: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 1</span></p></td><td style="width: 106.35pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>300.000</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 2</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>375.000</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 3</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>450.000</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 4</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>525.000</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 5</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>562.500</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 6</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>612.000</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>CC - 7</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>637.500</span></p></td></tr></tbody></table>
+CC - 1
 
-<table style="width: 8.0cm; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="302" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 120.45pt; border: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 1</span></p></td><td style="width: 106.35pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>11.300</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 2</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>22.600</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 3</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>33.900</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 4</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>45.200</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 5</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>56.400</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 6</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>67.700</span></p></td></tr><tr><td style="width: 120.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="161"><p class="Tabela-Texto"><span>FG - 7</span></p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="142"><p class="Tabela-Texto"><span>79.000</span></p></td></tr></tbody></table>
+300.000
+
+CC - 2
+
+375.000
+
+CC - 3
+
+450.000
+
+CC - 4
+
+525.000
+
+CC - 5
+
+562.500
+
+CC - 6
+
+612.000
+
+CC - 7
+
+637.500
+
+FG - 1
+
+11.300
+
+FG - 2
+
+22.600
+
+FG - 3
+
+33.900
+
+FG - 4
+
+45.200
+
+FG - 5
+
+56.400
+
+FG - 6
+
+67.700
+
+FG - 7
+
+79.000
 
 RETIFICAÇÃO
 
@@ -158,4 +510,4 @@ No artigo 8º; ONDE SE LÊ: disposto no atrigo 175; LEIA-SE: disposto no artigo 
 
 No artigo 11º; parágrafo único; ONDE SE LÊ: aplicar; LEIA-SE: aplica.
 
-* * *
+ *

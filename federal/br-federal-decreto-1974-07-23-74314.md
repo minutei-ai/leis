@@ -1,5 +1,3 @@
-###DEC-074314-0-000-23-07-1974@@@
-
 DECRETO Nº 74.314 - de 23 de julho de 1974.
 
 Altera o Decreto nº 73.897, de 5 de abril de 1974, que autorizou o funcionamento da Escola Superior de Artes Santa Marcelina, mantida pela Associação Colégio dos Anjos com sede na cidade de São Paulo, Estado de São Paulo.

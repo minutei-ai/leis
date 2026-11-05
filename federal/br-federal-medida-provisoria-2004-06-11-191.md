@@ -1,5 +1,3 @@
-###MPV-000191-0-000-11-06-2004@@@
-
 MEDIDA PROVISÓRIA Nº 191, DE 11 DE JUNHO 2004
 
 Dá nova redação aos arts. 1º e 2º da Lei nº 8.010, de 29 de março de 1990, e acrescenta a alínea "f" ao inciso I do art. 2º da Lei nº 8.032, de 12 de abril de 1990, que dispõem sobre importações de bens destinados a pesquisa científica e tecnológica e suas respectivas isenções ou reduções de impostos.

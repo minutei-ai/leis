@@ -1,5 +1,3 @@
-###MPV-001925-0-006-30-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.925-6, de 30 de março de 2000.
 
 Dispõe sobre a Cédula de Crédito Bancário.

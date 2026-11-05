@@ -1,5 +1,3 @@
-###DEC-060521-0-000-31-03-1967@@@
-
 DECRETO Nº 60.521, DE 31 DE MARÇO DE 1967.
 
 Estabelece a Estrutura Básica da Organização do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEL-006011-0-000-19-11-1943@@@
-
 DECRETO‑LEI N. 6.011 – DE 19 DE NOVEMBRO DE 1943
 
 Constitue reservas de calcáreo conchífero e de turfa na região da Lagoa de Araruama, Estado do Rio de janeiro, para a indústria da soda e dá outras providências

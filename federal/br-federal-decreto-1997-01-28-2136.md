@@ -1,5 +1,3 @@
-###DEC-002136-0-000-28-01-1997@@@
-
 DECRETO Nº 2.136, DE 28 DE JANEIRO DE 1997
 
 Altera a redação dos arts. 54 e 55 do Decreto nº 2.070, de 13 de novembro de 1996.

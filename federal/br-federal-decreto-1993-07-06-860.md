@@ -1,7 +1,3 @@
-1
-
-###DEC-000860-0-000-06-07-1993@@@
-
 # DECRETO N° 860, DE 6 DE JULHO DE 1993
 
 Dispõe sobre a organização e o funcio­namento do Conselho Nacional do Traba­lho, e dá outras providências.

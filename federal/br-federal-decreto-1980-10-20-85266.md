@@ -1,5 +1,3 @@
-###DEC-085266-0-000-20-10-1980@@@
-
 Decreto nº 85.266, de 20 de outubro de 1980.
 
 Dispõe sobre a atualização dos valores monetários dos seguros obrigatórios a que se refere o Decreto nº 61.867, de 7 de dezembro de 1967.

@@ -1,5 +1,3 @@
-###DEC-051272-0-000-25-08-1961@@@
-
 DECRETO Nº 51.272, DE 25 DE AGÔSTO DE 1961.
 
 Outorga à Prefeitura Municipal de Oliveira, Estado de Minas Gerais, concessão para distribuir energia elétrica no distrito de Morro do Ferro, município de Oliveira, Estado de Minas Grais.

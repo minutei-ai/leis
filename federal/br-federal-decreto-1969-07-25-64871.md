@@ -1,5 +1,3 @@
-###DEC-064871-0-000-25-07-1969@@@
-
 DECRETO Nº 64.871 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 31.145, de 18 de julho de1952.

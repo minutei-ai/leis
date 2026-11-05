@@ -1,5 +1,3 @@
-###DEC-054927-0-000-04-11-1964@@@
-
 DECRETO Nº 54.927, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Gonçalves dos Santos a pesquisar areia quartzosa no município de Itabirito, Estado de Minas Gerais.

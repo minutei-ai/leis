@@ -1,5 +1,3 @@
-###DEC-079228-0-000-08-02-1977@@@
-
 DECRETO Nº 79.228, DE 8 DE FEVEREIRO DE 1977.
 
 Concede autorização às Companhias Shell Exploration Services (Brazil) B.V., Pecten Brazil Company e Enserch Americas Inc. para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

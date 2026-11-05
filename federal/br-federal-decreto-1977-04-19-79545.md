@@ -1,5 +1,3 @@
-###DEC-079545-0-000-19-04-1977@@@
-
 DECRETO Nº 79545, DE 19 DE ABRIL DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Formosa, Estado de Goiás.

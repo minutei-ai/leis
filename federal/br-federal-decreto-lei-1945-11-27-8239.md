@@ -1,5 +1,3 @@
-###DEL-008239-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.239 – DE 27 DE NOVEMBRO DE  1945
 
 Revoga dispositivos do Decreto-lei número 3.969 de 23 de dezembro de 1941 e do Decreto n. 7847, de 16 de setembro de 1941.

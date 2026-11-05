@@ -1,5 +1,3 @@
-###DEC-084552-0-000-11-03-1980@@@
-
 DECRETO Nº 84.552, DE 11 DE MARÇO DE 1980
 
 Concede autorização à CITCO RIO PETROLEUM CORPORATION, CHEVRON MARANHÃO PETROLEUM COMPANY, UNIONOIL MARANHÃO LTD. e CANAM OFFSHORE LIMITED para operarem no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S A. - PETROBRÁS.

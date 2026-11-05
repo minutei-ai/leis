@@ -1,5 +1,3 @@
-###DEC-070828-0-000-13-07-1972@@@
-
 DECRETO Nº 70.828, DE 13 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Escola de Engenharia, mantida pela Associação Universitária Veiga de Almeida - Rio de Janeiro - GB.

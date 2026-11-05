@@ -1,5 +1,3 @@
-###DEC-092098-0-000-09-12-1985@@@
-
 Decreto nº 92.098, de 09 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Grossos", compreendido na referida área, no Município de Canindé, no Estado do Ceará, e dá outras providências.

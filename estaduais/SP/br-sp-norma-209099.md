@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209099)<br>
-
 # DECRETO N° 68.326, DE 06 DE FEVEREIRO DE 2024
 
 ### _Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas._

@@ -351,7 +351,3 @@ Denominação do cargo Quantitativo Código Vencimento (em reais) Diretor-Geral 
 II.2 – Quantitativo de cargos de provimento em comissão do Grupo de Direção e Assessoramento – DAI
 
 Espécie/nível Quantitativo de cargos Valor (em DAI-unitário) DAI-1 6 6,00 DAI-4 6 9,60 DAI-17 10 42,00 DAI-20 11 66,00 DAI-24 5 40,00 Total 38 163,60
-
-\==================================================
-
-Data da última atualização: 17/8/2026.

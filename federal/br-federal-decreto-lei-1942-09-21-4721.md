@@ -1,5 +1,3 @@
-###DEL-004721-0-000-21-09-1942@@@
-
 DECRETO-LEI N. 4.721 – DE 21 DE SETEMBRO DE 1942
 
 Prorroga o prazo de que trata o art. 2º do decreto-lei n. 4.503, de 21 de julho de 1942

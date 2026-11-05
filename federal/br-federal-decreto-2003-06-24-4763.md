@@ -1,5 +1,3 @@
-###DEC-004763-0-000-24-06-2003@@@
-
 DECRETO Nº 4.763, DE 24 DE JUNHO DE 2003. <http://legislacao.planalto.gov.br/legislacao.nsf/Viw\_Identificacao/DEC%204.763-2003?OpenDocument>
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Comissão de Valores Mobiliários, e dá outras providências.       

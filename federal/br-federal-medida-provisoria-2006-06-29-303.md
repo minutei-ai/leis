@@ -1,5 +1,3 @@
-###MPV-000303-0-000-29-06-2006@@@
-
 MEDIDA PROVISÓRIA Nº 303, DE 29 DE JUNHO DE 2006.
 
 Dispõe sobre parcelamento de débitos junto à Secretaria da Receita Federal, à Procuradoria-Geral da Fazenda Nacional e ao Instituto Nacional do Seguro Social nas condições que especifica e altera a legislação tributária federal.
@@ -274,11 +272,7 @@ LUIZ INÁCIO LULA DA SILVA
 
        Guido Mantega
 
-        Nelson Machado
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006 e retificado no D.O.U de 5.7.2006 (Edição Extra)
-
-                                                   RETIFICAÇÃO
+        Nelson MachadoRETIFICAÇÃO
 
 MEDIDA PROVISÓRIA Nº 303, DE 29 DE JUNHO DE 2006.
 

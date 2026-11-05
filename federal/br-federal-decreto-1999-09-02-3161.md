@@ -1,5 +1,3 @@
-###DEC-003161-0-000-02-09-1999@@@
-
 DECRETO Nº 3.161, DE 2 DE SETEMBRO DE 1999.
 
 Institui o regime aduaneiro especial de exportação e de importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural – REPETRO.

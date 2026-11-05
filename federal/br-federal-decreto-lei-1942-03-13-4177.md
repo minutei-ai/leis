@@ -1,5 +1,3 @@
-###DEL-004177-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.177 – DE 13 DE MARÇO DE 1942
 
 Dispõe sobre a arrecadação da taxa cobrada, em virtude do decreto-lei n. 2.300, de 10-6-40, sobre a tonelada de sal, e das quotas de amortização do financiamento desse produto, efetuado pelo Banco do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005022-0-000-23-03-2004@@@
-
 DECRETO Nº 5.022,  DE 23 DE MARÇO DE 2004.
 
 Acresce inciso ao art. 3o do Decreto no 4.766, de 26 de junho de 2003, que regulamenta a criação da Câmara de Regulação do Mercado de Medicamentos - CMED.

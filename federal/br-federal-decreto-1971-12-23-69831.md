@@ -1,5 +1,3 @@
-###DEC-069831-0-000-23-12-1971@@@
-
 DECRETO Nº 69.831 - DE 23 DE DEZEMBRO DE 1971
 
 Declara a caducidade dos decretos que menciona.

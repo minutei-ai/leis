@@ -1,5 +1,3 @@
-###DEC-097027-0-000-01-11-1988@@@
-
 DECRETO N° 97.027, DE 1° DE NOVEMBRO DE 1988
 
 Altera dispositivo do Regulamento para os Quadros de Oficiais Auxiliares da Marinha, aprovado pelo Decreto n° 94.136, de 24 de março de 1987.

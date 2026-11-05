@@ -1,5 +1,3 @@
-###DEC-086766-0-000-22-12-1981@@@
-
 Decreto nº 86.766, de 22 de dezembro de 1981
 
 Dispõe sobre o aumento de capital do Banco de Roraima S. A.

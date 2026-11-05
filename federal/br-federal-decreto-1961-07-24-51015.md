@@ -1,5 +1,3 @@
-###DEC-051015-0-000-24-07-1961@@@
-
 DECRETO Nº 51.015, DE 24 DE JULHO DE 1961.
 
 Atribui à Comissão de Amparo à Produção Agropecuária a função de coordenadora dos Grupos de Trabalho constituídos com objetivos relacionados diretamente com a produção agropecuária e dá outras providências.

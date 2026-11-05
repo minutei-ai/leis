@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3b4e222f-9f17-4c52-8160-46788d95ebf4/texto#nowhere)
 
-###DEL-000759-0-000-12-08-1969@@@
-
 DECRETO-LEI Nº 759, De 12 De AGÔSTo DE 1969
 
 Autoriza o Poder Executivo a constituir a emprêsa pública Caixa Econômica Federal e dá outras providências.

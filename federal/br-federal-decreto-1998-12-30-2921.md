@@ -1,5 +1,3 @@
-###DEC-002921-0-000-30-12-1998@@@
-
 DECRETO Nº 2.921, DE 30 DE DEZEMBRO DE 1998.
 
 Prorroga a validade da inscrição em Restos a Pagar de Programas a cargo do Ministério do Planejamento e Orçamento.

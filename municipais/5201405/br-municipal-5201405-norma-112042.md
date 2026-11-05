@@ -4,7 +4,8 @@ Institui o Regime de Previdência Complementar no âmbito do Município de Apare
 
 FAÇO SABER QUE A CAMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO REGIME DE PREVIDÊNCIA COMPLEMENTAR
 
 Art. 1º. Fica instituído, no âmbito do Município de Aparecida de Goiânia-Goiás, o Regime de Previdência Complementar – RPC, a que se referem os §§ 14, 15 e 16 do artigo 40 da Constituição Federal.
@@ -29,10 +30,12 @@ Parágrafo único. O exercício da opção a que se refere o caput deste artigo 
 
 Art. 6º. O Regime de Previdência Complementar de que trata o art. 1º será oferecido por meio de adesão a plano de benefícios já existente ou plano próprio em entidade de previdência complementar.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PLANO DE BENEFÍCIOS
 
-Seção I<br>
+Seção I
+
 Das Linhas Gerais do Plano de Benefícios
 
 Art. 7º. O plano de benefícios previdenciário estará descrito em regulamento, observadas as disposições das pertinentes Leis Complementares, e dos normativos decorrentes desses diplomas legais, e deverá ser oferecido, obrigatoriamente, a todos os servidores e membros do Município de Aparecida de Goiânia - Goiás de que trata o art. 3º desta Lei.
@@ -49,7 +52,8 @@ II - sejam estruturados unicamente com base em reserva acumulada em favor do par
 
 § 3º O plano de que trata o caput deste artigo poderá prever cobertura de sobrevivência do assistido, desde que contratada junto à sociedade seguradora.
 
-Seção II<br>
+Seção II
+
 Do Patrocinador
 
 Art. 9º. O Município de Aparecida de Goiânia - Goiás é o responsável pelo aporte de contribuições e pelas transferências das contribuições descontadas dos seus servidores ao plano de benefícios previdenciário, observado o disposto nesta Lei, no convênio de adesão e no regulamento.
@@ -72,7 +76,8 @@ V – as diretrizes com relação às condições de retirada de patrocínio ou 
 
 VI – o compromisso da entidade de previdência complementar de informar a todos os patrocinadores vinculados ao plano de benefícios sobre o inadimplemento de patrocinador em prazo superior a noventa dias no pagamento ou repasse de contribuições ou quaisquer obrigações, sem prejuízo das demais providências cabíveis.
 
-Seção III<br>
+Seção III
+
 Dos Participantes
 
 Art. 11. Podem se inscrever como participantes do Plano de Benefícios todos os servidores e membros do Município de Aparecida de Goiânia - Goiás.
@@ -105,15 +110,18 @@ Art. 13. Os servidores e membros referidos no art. 3º desta Lei, com remuneraç
 
 § 5º Sem prejuízo ao prazo para manifestação da ausência de interesse em aderir ao plano de benefícios, fica assegurado ao participante o direito de requerer, a qualquer tempo, o cancelamento de sua inscrição, nos termos do regulamento do plano de benefícios.
 
-Seção IV<br>
+Seção IV
+
 Das Contribuições
 
 Art. 14 As contribuições do patrocinador e do participante incidirão sobre a base de cálculo das contribuições ao RPPS estabelecidas na Lei Complementar Municipal nº 010 de 20 de junho de 2005 que exceder o limite máximo dos benefícios pagos pelo Regime Geral de Previdência Social, observado o disposto no inciso XI do art. 37 da Constituição Federal.
 
-~~§ 1º A alíquota da contribuição do participante será por ele definida, observado o disposto no regulamento do plano de benefícios.~~<br>
+~~§ 1º A alíquota da contribuição do participante será por ele definida, observado o disposto no regulamento do plano de benefícios.~~
+
 (Revogado pela Lei Complementar nº 235, de 22 de agosto de 2024).
 
-~~§ 2º Os participantes poderão realizar contribuições facultativas ou adicionais, de caráter voluntário, sem contrapartida do Patrocinador, na forma do regulamento do plano de benefícios<br>
+~~§ 2º Os participantes poderão realizar contribuições facultativas ou adicionais, de caráter voluntário, sem contrapartida do Patrocinador, na forma do regulamento do plano de benefícios
+
 ~~(Revogado pela Lei Complementar nº 235, de 22 de agosto de 2024).
 
 Art. 15. O patrocinador somente se responsabilizará por realizar contribuições em contrapartida às contribuições normais dos participantes que atendam, concomitantemente, às seguintes condições:
@@ -126,7 +134,8 @@ II - recebam subsídios ou remuneração que exceda o limite máximo a que se re
 
 parágrafo único do art. 1º desta Lei.
 
-§ 2° A contribuição do patrocinador será paritária à do participante, observadas as condições do § 1° deste artigo e no disposto no regulamento do plano de benefícios ou no contrato, ao percentual de 8,5% (oito inteiros e cinco décimos por cento), sobre a parcela que exceder o limite máximo a que se refere o parágrafo único do art. 1° desta Lei.<br>
+§ 2° A contribuição do patrocinador será paritária à do participante, observadas as condições do § 1° deste artigo e no disposto no regulamento do plano de benefícios ou no contrato, ao percentual de 8,5% (oito inteiros e cinco décimos por cento), sobre a parcela que exceder o limite máximo a que se refere o parágrafo único do art. 1° desta Lei.
+
 (Redação alterada pela Lei Complementar nº 235, de 22 de agosto de 2024).
 
 ~~§ 2º Observadas as condições previstas no § 1º deste artigo e no disposto no regulamento do plano de benefícios, a contribuição do de caráter obrigatório e mensal, correspondente a 100% (cem) por cento das respectivas contribuições básicas, no limite da alíquota definida no artigo 80, § 2°, I, da Lei Complementar n° 010, de 20 de junho de 2005, com alterações posteriores.~~
@@ -139,7 +148,8 @@ parágrafo único do art. 1º desta Lei.
 
 Art. 16. A entidade de previdência complementar administradora do plano de benefícios manterá controle individual das reservas constituídas em nome do participante e registro das contribuições deste e dos patrocinadores.
 
-Seção V<br>
+Seção V
+
 Do Processo de Seleção da Entidade
 
 Art. 17. A escolha da entidade de previdência responsável pela administração do Plano de Benefícios será precedida de processo seletivo conduzido com impessoalidade, publicidade e transparência e que contemple requisitos de qualificação técnica e economicidade indispensáveis à garantia da boa gestão dos planos de benefícios.
@@ -148,7 +158,8 @@ Art. 17. A escolha da entidade de previdência responsável pela administração
 
 § 2º O processo seletivo poderá ser realizado em cooperação com outros Municípios ou Estado de Goiás desde que seja demonstrado o efetivo cumprimento dos requisitos estabelecidos no caput deste artigo.
 
-Seção VI<br>
+Seção VI
+
 Do Acompanhamento do Regime de Previdência Complementar
 
 Art. 18. O Poder Executivo deverá instituir um Comitê de Assessoramento de Previdência Complementar (CAPC) nos termos da legislação vigente e na forma regulamentada pelo Município de Aparecida de Goiânia – Goiás:
@@ -161,7 +172,8 @@ Art. 18. O Poder Executivo deverá instituir um Comitê de Assessoramento de Pre
 
 §4º Os membros do CAPC deverão ter formação superior completa, e atender aos requisitos técnicos mínimos e experiência profissional definidos em regulamento pelo Município de Aparecida de Goiânia - Goiás na forma do caput.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 19. As nomeações de novos servidores de cargo efetivo e membros do Município de Aparecida de Goiânia - Goiás que possuam o subsídio ou a remuneração do cargo acima dos valores do limite máximo estabelecido para os benefícios de aposentadorias e pensões do Regime Geral de Previdência Social, ficam condicionadas ao início da vigência do Regime de Previdência Complementar previsto na forma do art. 3º desta Lei.
@@ -174,8 +186,10 @@ Art. 21. Esta Lei entra em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO, 16 DE DEZEMBRO DE 2021.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-FABIO PASSAGLIA<br>
+FABIO PASSAGLIA
+
 Secretário de Governo

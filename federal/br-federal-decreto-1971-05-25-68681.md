@@ -1,5 +1,3 @@
-###DEC-068681-0-000-25-05-1971@@@
-
 DECRETO Nº 68.681 - DE 25 DE MAIO DE 1971.
 
 Autoriza a contratação de operação de crédito externo para financiamento parcial de programas de educação, e dá outras providências.

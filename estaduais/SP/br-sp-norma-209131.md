@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209131)<br>
-
 # DECRETO N° 68.359, DE 29 DE FEVEREIRO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de São Paulo, do imóvel que especifica, e dá providências correlatas._

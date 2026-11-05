@@ -1,5 +1,3 @@
-###DEC-050500-0-000-26-04-1961@@@
-
 DECRETO Nº 50.500, DE 26 DE ABRIL DE 1961.
 
 Prorroga por 45 dias o prazo a que se refere o art. 2º do Decreto número 50.323, de 7 de março de 1961.

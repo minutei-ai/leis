@@ -1,7 +1,3 @@
-1
-
-###MPV-001208-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.208, DE 24 DE NOVEMBRO DE 1995.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, e dá outras providências.

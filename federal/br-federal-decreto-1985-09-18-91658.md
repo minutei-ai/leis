@@ -1,5 +1,3 @@
-###DEC-091658-0-000-18-09-1985@@@
-
 Decreto nº 91.658, de 18 de setembro de 1985
 
 Dispõe sobre a estrutura básica ao Ministério das Relações Exteriores, e dá outras providências.

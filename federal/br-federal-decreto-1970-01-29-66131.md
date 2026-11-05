@@ -1,5 +1,3 @@
-###DEC-066131-0-000-29-01-1970@@@
-
 decreto nº 66.131 - de 29 de janeiro de 1970
 
 Designa os cargos privativos de Oficial-General em tempo de paz.

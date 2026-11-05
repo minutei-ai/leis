@@ -1,5 +1,3 @@
-###DEL-005753-0-000-17-08-1943@@@
-
 DECRETO‑LEI N. 5.753 – DE 17 DE AGôSTO DE 1943
 
 Reserva lote de terreno pertencente ao Domínio da União no Distrito Federal

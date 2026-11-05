@@ -1,5 +1,3 @@
-###DEC-073880-0-000-01-04-1974@@@
-
 DECRETO Nº 73.880, DE 1 DE ABRIL DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

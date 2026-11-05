@@ -1,5 +1,3 @@
-###DEC-066195-0-000-11-02-1970@@@
-
 DECRETO Nº 66.195 - DE 11 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública o Colégio Dom Bosco, com sede em Rio do Sul, Estado de Santa Catarina.

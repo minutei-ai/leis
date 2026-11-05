@@ -1,5 +1,3 @@
-###DEC-048660-0-000-04-08-1960@@@
-
 DECRETO Nº 48.660, de 4 DE AGôSTO DE 1960.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$13.231.950,578,10, para o fim que especifica.

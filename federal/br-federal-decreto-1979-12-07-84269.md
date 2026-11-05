@@ -1,5 +1,3 @@
-###DEC-084269-0-000-07-12-1979@@@
-
 Decreto nº 84.269, de 07 de dezembro de 1979.
 
 Fixa, para o exercício de 1980, o limite global de Importação, através da Zona Franca de Manaus, e dá outras providências.

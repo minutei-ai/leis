@@ -1,5 +1,3 @@
-###DEC-074706-0-000-17-10-1974@@@
-
 DECRETA Nº 74.706, DE 17 DE OUTUBRO DE 1974.
 
 Institui a Fundação Universidade Federal do Acre, e aprova o respectivo Estatuto.

@@ -1,5 +1,3 @@
-###DEC-091150-0-000-15-03-1985@@@
-
 DECRETO Nº 91.150, DE 15 DE MARÇO DE 1985
 
 Transfere a Secretaria Central de Controle Interno (SECIN) e a Comissão de Coordenação do Controle Interno (INTERCON) para o Ministério da Fazenda, e dá outras providências.

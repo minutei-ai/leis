@@ -1,5 +1,3 @@
-###DEC-070292-0-000-15-03-1972@@@
-
 Decreto nº 70.292, de 15 de março de 1972.
 
 Dá nova redação ao artigo 1º do Decreto nº 64.027, de 27 de janeiro de 1969 que declara de utilidade pública para fins de desapropriação o imóvel que menciona, necessário ao Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEL-000573-0-000-08-05-1969@@@
-
 DECRETO-LEI Nº 573, DE 8 DE MAIO DE 1969
 
 Cria o cargo de Vice-Reitor da Universidade Federal do Ceará.

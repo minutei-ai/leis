@@ -1,5 +1,3 @@
-###DEC-071931-0-000-19-03-1973@@@
-
 Decreto Nº 71.931, DE 19 DE MARÇO DE 1973.
 
 Concede a Cristais Hering S.A. o direto de lavrar arenito e areia quartzosa no Município de Lontras, Estado de Santa Catarina.

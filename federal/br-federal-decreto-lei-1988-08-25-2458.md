@@ -1,7 +1,3 @@
-1
-
-###DEL-002458-0-000-25-08-1988@@@
-
 # DECRETO‑LEI Nº 2.458, DE 25 DE AGOSTO DE 1988
 
 Altera a legislação do imposto de renda na fonte incidente sobre os rendimentos distribuídos pelos fundos de aplicações de curto prazo.

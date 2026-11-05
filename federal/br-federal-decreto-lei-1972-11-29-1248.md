@@ -1,5 +1,3 @@
-###DEL-001248-0-000-29-11-1972@@@
-
 # DECRETO-LEI Nº 1.248, DE 29 DE NOVEMbRO DE 1972
 
 Dispõe sobre o tratamento tributário das operações de compra de mercadorias no mercado interno, para o fim específico da exportação, e dá outras providências.

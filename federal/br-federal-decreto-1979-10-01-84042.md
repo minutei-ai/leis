@@ -1,5 +1,3 @@
-###DEC-084042-0-000-01-10-1979@@@
-
 Decreto nº 84.042, de 1º de outubro de 1979.
 
 Autoriza o aumento da potência diurna da Rádio Educadora de Dois Vizinhos Ltda, na cidade de Dois Vizinhos, Estado do Paraná.

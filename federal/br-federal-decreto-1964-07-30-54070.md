@@ -1,5 +1,3 @@
-###DEC-054070-0-000-30-07-1964@@@
-
 DECRETO Nº 54.070, DE 30 DE Julho DE 1964.
 
 Outorga concessão à Rádio Congonhas Difusora Limitada.

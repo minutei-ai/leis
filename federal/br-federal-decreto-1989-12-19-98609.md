@@ -1,7 +1,3 @@
-1
-
-###DEC-098609-0-000-19-12-1989@@@
-
 DECRETO Nº 98.609, DE 19 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Letras, das Faculdades Integradas da Católica de Brasília.

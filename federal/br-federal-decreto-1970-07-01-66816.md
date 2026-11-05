@@ -1,5 +1,3 @@
-###DEC-066816-0-000-01-07-1970@@@
-
 DECRETO Nº 66.816, DE 1º DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Ministério da Educação e Cultura, cargo originário do Quadro único do Pessoal da Universidade Federal do Rio Grande do Norte.

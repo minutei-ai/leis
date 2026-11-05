@@ -1,7 +1,3 @@
-1
-
-###DEC-095627-0-000-13-01-1988@@@
-
 DECRETO N° 95.627, DE 13 DE JANEIRO DE 1988
 
 Renova a concessão outorgada à RÁDIO JORNAL SUL DE MINAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bueno Brandão, Estado de Minas Gerais.

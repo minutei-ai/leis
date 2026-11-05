@@ -1,5 +1,3 @@
-###DEC-091817-0-000-22-10-1985@@@
-
 Decreto nº 91.817, de 22 de outubro de 1985
 
 Renova a concessão outorgada à RÁDIO GRANDE BELO HORIZONTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pedro Leopoldo, Estado de Minas Gerais.

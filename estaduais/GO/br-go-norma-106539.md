@@ -18,8 +18,10 @@ Art. 1º A [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 § 2º Na hipótese de que trata o inciso II do _caput_ deste artigo, caso o referido somatório ultrapasse o limite fixado no inciso XI do art. 37 da Constituição federal, a parcela excedente da verba correspondente ao exercício do cargo de provimento em comissão pelo agente público titular de cargo de provimento efetivo ou emprego permanente ou ainda pelo militar titular de posto ou graduação terá natureza indenizatória.” (NR)
 
-~~Art. 2º Será devido aos ocupantes dos cargos em comissão discriminados nos incisos deste artigo o pagamento de verba indenizatória, com o percentual máximo de:~~<br>
-\- [Declarado Inconstitucional pelo STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).<br>
+~~Art. 2º Será devido aos ocupantes dos cargos em comissão discriminados nos incisos deste artigo o pagamento de verba indenizatória, com o percentual máximo de:~~
+
+\- [Declarado Inconstitucional pelo STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).
+
 \- [Redação dada pela Lei nº 21.788, de 19-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106709/lei-21788).
 
 ~~Art. 2º Será devido ao ocupante de cargo comissionado que não for titular de cargo público de provimento efetivo o pagamento de verba indenizatória, com o percentual máximo de:~~
@@ -34,7 +36,8 @@ II – 40% (quarenta por cento) do valor atribuído aos cargos em comissão com 
 
 § 3º O recebimento da verba indenizatória de que trata este artigo, que não impede a percepção de outras parcelas de natureza indenizatória instituídas por normas específicas, poderá ser vinculado ao cumprimento de atividades e metas de gestão, a serem definidas por regulamento.
 
-§ 4º O servidor público ocupante de cargo de provimento efetivo e de cargo em comissão relacionado nos incisos deste artigo poderá optar pela percepção da verba indenizatória neles prevista ou pela percepção da remuneração nos termos do § 2º do art. 61 da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, conforme o caso.<br>
+§ 4º O servidor público ocupante de cargo de provimento efetivo e de cargo em comissão relacionado nos incisos deste artigo poderá optar pela percepção da verba indenizatória neles prevista ou pela percepção da remuneração nos termos do § 2º do art. 61 da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, conforme o caso.
+
 \- [Acrescido pela Lei nº 21.788, de 19-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106709/lei-21788).
 
 Art. 3º O parágrafo único do art. 59 da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, passa a ser o § 1º.
@@ -53,8 +56,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO ÚNICO<br>
-<br>
+ANEXO ÚNICO
+
 “ANEXO III
 
 | ITEM | DESCRIÇÃO | ÓRGÃO | TOTAL ANUAL |

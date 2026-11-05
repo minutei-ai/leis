@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.784, de 13 de Outubro de 2021.](https://legis.ac.gov.
 
 > **LEI Nº 3.729, DE 15 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Estadual Auxilio do bem, destinado a famílias em situação de vulnerabilidade social decorrente da pandemia da covid-19, e as entidades não governamentais que executam o serviço de acolhimento institucional cadastradas no Sistema de Cadastro do SUAS-CadSUAS e no Cadastro Nacional de Entidades de Assistência Social – CNEAS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Estadual Auxilio do bem, destinado a famílias em situação de vulnerabilidade social decorrente da pandemia da covid-19, e as entidades não governamentais que executam o serviço de acolhimento institucional cadastradas no Sistema de Cadastro do SUAS-CadSUAS e no Cadastro Nacional de Entidades de Assistência Social – CNEAS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -55,8 +59,6 @@ Modificada pela Lei nº [3.784, de 13 de Outubro de 2021.](https://legis.ac.gov.
 **§ 4º** Os benefícios serão concedidos, mensalmente, dentro do exercício vigente, enquanto houver disponibilidade orçamentária e financeira estabelecida pelo programa, e conforme cronograma estabelecido pela Secretaria de Estado de Assistência Social, de Direitos Humanos e de Políticas para as Mulheres – SEASDHM para a entrega mensal das informações que serão prestadas pelos municípios e pelas unidades de acolhimento. (Redação dada pela Lei nº 3.784, de 13/10/2021)
 
 **§ 5º** Os benefícios serão disponibilizados por meio de cartão magnético a ser utilizado exclusivamente em estabelecimentos credenciados.
-
-<br>
 
 **§ 6º** Serão acrescidos ao benefício estabelecido no § 1º deste artigo, valores que poderão ser cumulativos, conforme as seguintes variáveis: (Incluído pela Lei nº 3.784, de 13/10/2021)
 

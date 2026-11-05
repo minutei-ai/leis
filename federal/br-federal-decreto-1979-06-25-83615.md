@@ -1,5 +1,3 @@
-###DEC-083615-0-000-25-06-1979@@@
-
 Decreto nº 83.615, de 25 de junho de 1979.
 
 Altera os Decretos nºs 72.823, de 21 de setembro de 1973, e 81.315, de 8 de fevereiro de 1978, modificado pelo Decreto nº 81.806, de 23 de junho de 1978.

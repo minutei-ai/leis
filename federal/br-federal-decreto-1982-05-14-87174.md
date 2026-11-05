@@ -1,5 +1,3 @@
-###DEC-087174-0-000-14-05-1982@@@
-
 Decreto nº 87.174, de 14 de maio de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural, situado no Município de Santa Helena, no Estado do Paraná, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

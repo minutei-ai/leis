@@ -1,5 +1,3 @@
-###DEC-049576-0-000-22-12-1960@@@
-
 decreto nº 49.576, de 22 de dezembro de 1960.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à ampliação das instalações da Faculdade de Ciências Econômicas da universidade do Rio Grande do Sul.

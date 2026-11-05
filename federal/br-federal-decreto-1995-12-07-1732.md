@@ -1,7 +1,3 @@
-1
-
-###DEC-001732-0-000-07-12-1995@@@
-
 DECRETO N° 1.732, DE 7 DE DEZEMBRO DE 1995
 
 Consolida o regulamento da Lei n° 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional - NTN e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068640-0-000-21-05-1971@@@
-
 DECRETO Nº 68.640 - DE 21 DE MAIO DE 1971.
 
 Aproveita, no Quadro de Pessoal do Ministério do Trabalho e Previdência Social, servidor em disponibilidade, e dá outras providências.

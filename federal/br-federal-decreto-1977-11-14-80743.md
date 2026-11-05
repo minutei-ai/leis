@@ -1,5 +1,3 @@
-###DEC-080743-0-000-14-11-1977@@@
-
 DECRETO Nº 80.743, DE 14 DE NOVEMBRO DE 1977.
 
 Outorga concessão à Rádio Educadora de Porteirinha Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Porteirinha, Estado de Minas Gerais.

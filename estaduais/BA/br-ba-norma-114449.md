@@ -1,7 +1,9 @@
 LEI Nº 1.721 DE 16 DE JULHO DE 1962
 
-Ver também:<br>
-Lei nº 13.558 de 10 de maio de 2016 - Atualiza, com base na Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luís Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.<br>
+Ver também:
+
+Lei nº 13.558 de 10 de maio de 2016 - Atualiza, com base na Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luís Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.
+
 Lei nº [12.637](javascript: openDoc\()  de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Bacia do Rio Corrente, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Brejolândia, Canápolis, Cocos, Coribe, Correntina, Jaborandi, Santa Maria da Vitória, Santana, São Félix do Coribe, Serra Dourada e Tabocas do Brejo Velho.  
 
 Cria o Município de Brejolândia, desmembrado do de Tabocas do Brejo Velho.
@@ -54,4 +56,4 @@ Governador
 
 Ademar Martinelli Braga
 
-* * *
+ *

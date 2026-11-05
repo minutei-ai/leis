@@ -1,5 +1,3 @@
-###DEL-005506-0-000-20-05-1943@@@
-
 DECRETO-LEI N. 5.506 – DE 20 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 532.400,00, para, atender às despesas com o funcionamento da Comissão de Defesa Eco­nômica.

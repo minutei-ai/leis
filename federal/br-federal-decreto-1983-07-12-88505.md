@@ -1,5 +1,3 @@
-###DEC-088505-0-000-12-07-1983@@@
-
 Decreto nº 88.505, de 12 de julho de 1983.
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

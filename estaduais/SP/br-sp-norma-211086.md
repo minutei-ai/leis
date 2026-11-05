@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211086)<br>
-
 # LEI N° 18.155, DE 19 DE JUNHO DE 2025
 
 ## (Projeto de lei n° 914/2024, dos Deputados Dr. Eduardo Nóbrega - PODE, Gil Diniz - PL)

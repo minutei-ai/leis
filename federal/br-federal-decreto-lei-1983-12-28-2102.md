@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6ae00e5e-e7a0-44fc-bb51-ff4fc17b4b76/texto#nowhere)
 
-###DEL-002102-0-000-28-12-1983@@@
-
 # Decreto-lei nº 2.102, de 28 de dezembro de 1983.
 
 Altera disposições do Decreto lei nº 651, de 26 de agosto de 1938.

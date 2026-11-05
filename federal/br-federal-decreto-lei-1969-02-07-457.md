@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/05b40225-141c-4e77-89bd-e5b9dc5aba22/texto#nowhere)
 
-###DEL-000457-0-000-07-02-1969@@@
-
 Decreto-Lei Nº 457, de 7 de FEVEREIRO DE 1969
 
 Estende aos casos de enriquecimento ilícito previstos no Ato Complementar nº 42, de 27 de Janeiro de 1969, a competência da Comissão Geral de Investigações, criada pelo Decreto-lei nº 359, de 17 de dezembro de 1968.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211901)<br>
-
 # DECRETO N° 70.132, DE 29 DE NOVEMBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Guarani D'Oeste, que declarou Situação de Emergência em áreas do Município._

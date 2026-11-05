@@ -1,5 +1,3 @@
-###DEC-003132-0-000-09-08-1999@@@
-
 DECRETO Nº 3.132, DE 9 DE AGOSTO DE 1999.
 
 Dispõe sobre o Sistema de Acompanhamento Legislativo - SIAL e dá outras providências.

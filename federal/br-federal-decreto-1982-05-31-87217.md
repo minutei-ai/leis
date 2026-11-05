@@ -1,5 +1,3 @@
-###DEC-087217-0-000-31-05-1982@@@
-
 Decreto nº 87.217, de 31 de maio de 1982
 
 Inclui representante do Ministério da Educação e Cultura na Comissão Nacional para Assuntos Antárticos.

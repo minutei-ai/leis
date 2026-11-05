@@ -1,5 +1,3 @@
-###DEC-072984-0-000-19-10-1973@@@
-
 Decreto nº 72.984, de 19 de outubro de 1973.
 
 Declara sem efeito o Decreto número 27.439, de 16 de novembro de 1949

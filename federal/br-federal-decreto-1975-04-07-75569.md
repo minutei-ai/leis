@@ -1,5 +1,3 @@
-###DEC-075569-0-000-07-04-1975@@@
-
 DECRETO Nº 75.569, DE 7 DE ABRIL DE 1975.
 
 Dispõe sobre a estrutura básica da Comissão Nacional de Energia Nuclear (CNEN) e dá outras providências.

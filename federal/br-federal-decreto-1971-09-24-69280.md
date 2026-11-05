@@ -1,5 +1,3 @@
-###DEC-069280-0-000-24-09-1971@@@
-
 DECRETO Nº 69.280, de 24 de setembro de 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras "Plínio Augusto do Amaral", mantida pela Fundação Educacional de Amparo, no Estado de São Paulo - SP.

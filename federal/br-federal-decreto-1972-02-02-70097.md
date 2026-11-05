@@ -1,5 +1,3 @@
-###DEC-070097-0-000-02-02-1972@@@
-
 Decreto Nº 70.097, de 2 de Fevereiro de 1972.
 
 Concede reconhecimento à Faculdade de Agronomia da Universidade de Passo Fundo, RS.

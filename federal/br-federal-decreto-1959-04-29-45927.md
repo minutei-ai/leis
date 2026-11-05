@@ -1,5 +1,3 @@
-###DEC-045927-0-000-29-04-1959@@@
-
 Decreto nº 45.927, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Jesulindo Almeida a pesquisar quartzo no município de São João do Paraíso, Estado de Minas Gerais.

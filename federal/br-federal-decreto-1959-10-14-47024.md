@@ -1,5 +1,3 @@
-###DEC-047024-0-000-14-10-1959@@@
-
 DECRETO Nº 47.024, DE 14 DE OUTUBRO DE 1959.
 
 Concede reconhecimento ao Curso de Bacharelado da Faculdade de Direito da Universidade Machenzie.

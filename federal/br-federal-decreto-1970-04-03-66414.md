@@ -1,5 +1,3 @@
-###DEC-066414-0-000-03-04-1970@@@
-
 DECRETO Nº 66.414, DE 3 DE ABRIL DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Superintendência Nacional da Marinha Mercante, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional, Companhia Nacional de Navegação Costeira - Autarquia Federal e Serviços de Navegação da Amazônia e Administração do Porto do Pará, e dá outras providências.

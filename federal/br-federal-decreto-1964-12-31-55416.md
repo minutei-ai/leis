@@ -1,5 +1,3 @@
-###DEC-055416-0-000-31-12-1964@@@
-
 DECRETO Nº 55.416, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Geneses José Martins a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

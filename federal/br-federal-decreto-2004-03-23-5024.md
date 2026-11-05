@@ -1,5 +1,3 @@
-###DEC-005024-0-000-23-03-2004@@@
-
 DECRETO Nº 5.024,  DE 23 DE MARÇO DE 2004.
 
 Acresce parágrafo ao art. 3º do Decreto nº 4.582, de 30 de janeiro de 2003, que regulamenta o funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA, dá outras providências.

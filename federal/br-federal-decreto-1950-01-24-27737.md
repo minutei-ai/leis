@@ -1,20 +1,18 @@
-###DEC-027737-0-000-24-01-1950@@@
+**DECRETO Nº 27.737, DE 24 DE JANEIRO DE 1950.**
 
-<strong>DECRETO Nº 27.737, DE 24 DE JANEIRO DE 1950.</strong>
+***Outorga ao Estado do Paraná, ou emprêsa que organizar, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Bacaetava, situada no rio Tacaniça, município e rio Branco do Sul, Estado do Paraná.***
 
-<em><strong>Outorga ao Estado do Paraná, ou emprêsa que organizar, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Bacaetava, situada no rio Tacaniça, município e rio Branco do Sul, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Bacaetava, situada no rio Tacaniça, município de rio Branco do Sul, Estado do Paraná.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Bacaetava, situada no rio Tacaniça, município de rio Branco do Sul, Estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga da derivação e a potência da etapa inicial, bem como das subseqüentes, a medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviços públicos, serviços de utilidade pública e para comércio de energia no município de Rio Branco do Sul.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não cumpriu as disposições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não cumpriu as disposições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -90,7 +88,7 @@ g) Sistema de distribuição:
 
 h) Planta e corte dos edifícios da casa de fôrça, das subestações e da disposição da aparelhagem de transmissão e de distribuição.
 
-i) <em>Diagrama geral do sistema</em>, desde os geradores até a disposição das linhas secundárias, com as suas características gerais.
+i) *Diagrama geral do sistema*, desde os geradores até a disposição das linhas secundárias, com as suas características gerais.
 
 j) Especificações do equipamento elétrico utilizado.
 
@@ -100,24 +98,24 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º Às tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revisas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º Às tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revisas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá ás renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá ás renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêste fundo, que se denominará reserva de renovação, será realizada por cota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta cota será determinada, tendo-se em visa a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Até seis (6) meses antes do término do prazo da concessão, o Estado do Paraná deverá requerer ao Govêrno Federal a sua renovação entendendo-se, se o não fizer, que não pretende continuar como concessionário.
+**Art**. 7º Até seis (6) meses antes do término do prazo da concessão, o Estado do Paraná deverá requerer ao Govêrno Federal a sua renovação entendendo-se, se o não fizer, que não pretende continuar como concessionário.
 
-<strong>Art</strong>. 8º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 8º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de janeiro de 1950, 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

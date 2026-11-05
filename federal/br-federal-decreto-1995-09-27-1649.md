@@ -1,7 +1,3 @@
-1
-
-###DEC-001649-0-000-27-09-1995@@@
-
 DECRETO Nº 1.649, DE 27 DE SETEMBRO DE 1995.
 
 Altera dispositivos do Regimento Interno do Conselho Monetário Nacional - CMN, aprovado pelo Decreto nº 1.307, de 9 de novembro de 1994.
@@ -14,7 +10,8 @@ Art. 1º Os arts. 2º, 5º, 10, 16 e 23 do Regimento Interno do Conselho Monetá
 
 Nacional, aprovado pelo Decreto nº 1.307, de 9 de novembro de 1994, passam a vigorar com as seguintes alterações:
 
-"Art. 2º O CMN é integrado pelos seguintes membros:<br>
+"Art. 2º O CMN é integrado pelos seguintes membros:
+
 I - Ministro de Estado da Fazenda, na qualidade de Presidente;
 
 II - Ministro de Estado do Planejamento e Orçamento;

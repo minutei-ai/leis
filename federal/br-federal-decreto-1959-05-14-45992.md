@@ -1,5 +1,3 @@
-###DEC-045992-0-000-14-05-1959@@@
-
 Decreto nº 45.992, de 14 de maio de 1959.
 
 Autoriza a concessão de suprimento de recursos à Comissão de Marinha Mercante e dá outras providências.

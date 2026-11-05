@@ -1,5 +1,3 @@
-###DEC-082213-0-000-04-09-1978@@@
-
 Decreto nº 82.213, de 04 de setembro de 1978.
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras, ministrados pela Faculdade de Educação, Ciências e Letras de São Gonçalo, com sede na cidade de São Gonçalo, Estado do Rio de Janeiro.

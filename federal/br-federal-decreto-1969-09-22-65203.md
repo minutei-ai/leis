@@ -1,5 +1,3 @@
-###DEC-065203-0-000-22-09-1969@@@
-
 DECRETO Nº 65.203 - DE 22 DE SETEMBRO DE 1969.
 
 Modifica o Decreto nº 65.016, de 18 de agôsto de 1969.

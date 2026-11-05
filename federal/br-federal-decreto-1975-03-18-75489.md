@@ -1,5 +1,3 @@
-###DEC-075489-0-000-18-03-1975@@@
-
 Decreto Nº 75.489, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação e Ciências Humanas "Prof. Laerte de Carvalho", mantida pelo Centro de Estudos Unificados Bandeirante, com sede na cidade de Santos, Estado de São Paulo.

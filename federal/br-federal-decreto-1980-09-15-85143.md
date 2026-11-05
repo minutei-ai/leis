@@ -1,5 +1,3 @@
-###DEC-085143-0-000-15-09-1980@@@
-
 Decreto nº 85.143, de 15 de setembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS - imóveis constituídos de terras e benfeitorias, que menciona.

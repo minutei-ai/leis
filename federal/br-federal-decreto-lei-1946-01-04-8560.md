@@ -1,5 +1,3 @@
-###DEL-008560-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.560 – DE 4 DE JANEIRO DE 1946
 
 Inclui na Parte Suplementar do Quadro III do Ministério da Viação e Obras Públicas os extranumerarios do Departamento dos Correios e Telégrafos que desempenham serviços de caráter permanente e dà outras providências.

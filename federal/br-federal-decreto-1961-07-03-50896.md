@@ -1,5 +1,3 @@
-###DEC-050896-0-000-03-07-1961@@@
-
 DECReTO Nº 50.896, DE 3 DE JULHO DE 1961.
 
 Autoriza estrageiros a adquirirem, em transferência de aforamento, a fração ideal do domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

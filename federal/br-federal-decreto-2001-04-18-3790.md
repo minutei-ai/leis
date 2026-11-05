@@ -1,5 +1,3 @@
-###DEC-003790-0-000-18-04-2001@@@
-
 DECRETO Nº 3.790, DE 18 DE ABRIL DE 2001.
 
 Dá nova redação ao art. 23 do Decreto n~~º~~ 71.733, de 18 de janeiro de 1973, que regulamenta a Lei n~~º~~ 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior.

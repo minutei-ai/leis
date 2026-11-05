@@ -1,5 +1,3 @@
-###DEL-005372-0-000-02-04-1943@@@
-
 DECRETO‑LEI N. 5.372 – DE 2 DE ABRIL DE  1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 250.000 cruzeiros para pagamento de auxílio especial e de indenizações

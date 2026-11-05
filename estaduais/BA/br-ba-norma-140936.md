@@ -66,7 +66,8 @@ Tereza Cristina Paim Xavier Carvalho
 
 Secretária da Saúde em exercício
 
-Nelson Souza Leal<br>
+Nelson Souza Leal
+
 Secretário de Desenvolvimento Econômico
 
 Carlos Martins Marques de Santana

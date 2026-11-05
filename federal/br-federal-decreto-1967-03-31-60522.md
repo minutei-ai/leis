@@ -1,5 +1,3 @@
-###DEC-060522-0-000-31-03-1967@@@
-
 DECRETO Nº 60.522, DE 31 DE MARÇO DE 1967.
 
 Concede indulto a sentenciados e comuta penas.

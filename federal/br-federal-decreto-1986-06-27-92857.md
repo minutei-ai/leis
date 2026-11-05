@@ -1,5 +1,3 @@
-###DEC-092857-0-000-27-06-1986@@@
-
 DECRETO Nº 92.857, DE 27 DE JUNHO DE 1986
 
 Cria, no Ministério da Aeronáutica, o Instituto de Aviação Civil e dá outras providências.

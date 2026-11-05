@@ -1,5 +1,3 @@
-###DEC-007099-0-000-04-02-2010@@@
-
 DECRETO Nº 7.099, DE 4 DE FEVEREIRO DE 2010.
 
 Regulamenta, para a Aeronáutica, a Lei no 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

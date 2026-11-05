@@ -1,5 +1,3 @@
-###DEC-070045-0-000-25-01-1972@@@
-
 DECRETO Nº 70.045, DE 25 DE JANEIRO DE 1972.
 
 Dispõe sobre a transferência pelo Banco do Brasil S.A., de contribuições arrecadados pelo INPS para o FUNRURAL.

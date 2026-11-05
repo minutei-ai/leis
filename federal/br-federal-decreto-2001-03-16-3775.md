@@ -1,5 +1,3 @@
-###DEC-003775-0-000-16-03-2001@@@
-
 DECRETO Nº 3.775, DE 16 DE MARÇO DE 2001
 
 Regulamenta o art. 80 do Ato das Disposições Constitucionais Transitórias, para efeito da incidência do adicional da alíquota da Contribuição Provisória sobre a Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF).

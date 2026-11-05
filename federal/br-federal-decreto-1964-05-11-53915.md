@@ -1,5 +1,3 @@
-###DEC-053915-0-000-11-05-1964@@@
-
 DECRETO Nº 53.915, DE 11 DE MAIO DE 1964.
 
 Altera a redação dos arts. 3º, 12, 13, 14 e 29 do Decreto nº 51.872, de 1º de abril de 1963.
@@ -61,8 +59,6 @@ Art. 2º O Presente decreto entrará em vigor na data de sua publicação.
 Brasília, 11 de maio de 1964; 143º da Independência e 76º da República.
 
 H. CASTELLO BRANCO
-
-###DEC-053915-0-000-11-05-1964@@@ret01+++
 
 decreto nº 53.915, de 11 de maio de 1964.
 

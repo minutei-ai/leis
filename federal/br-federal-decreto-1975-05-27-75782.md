@@ -1,5 +1,3 @@
-###DEC-075782-0-000-27-05-1975@@@
-
 Decreto Nº 75.782, DE 27 DE MAIO DE 1975
 
 Autoriza a cessão, sob o regime de aforamento, do imóvel que menciona, situado no Município de Fortaleza, Estado do Ceará.

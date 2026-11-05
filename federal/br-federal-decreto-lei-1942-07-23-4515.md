@@ -1,5 +1,3 @@
-###DEL-004515-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.515 – DE 23 DE JULHO DE 1942
 
 Abre ao Ministério da Agricultura o crédito suplementar de 80:000$0, à verba que especifica

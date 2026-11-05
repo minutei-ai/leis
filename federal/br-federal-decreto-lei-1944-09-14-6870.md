@@ -1,5 +1,3 @@
-###DEL-006870-0-000-14-09-1944@@@
-
 DECRETO-LEI N. 6.870 – DE 14 DE SETEMBRO DE 1944
 
 Desapropria os terrenos de pouso explorados como aeroportos em virtude da concessão outorgada pelo Decreto-lei nº 272, de 12 de fevereiro de 1938, as benfeitorias e instalações nêles existentes e dá outras providências

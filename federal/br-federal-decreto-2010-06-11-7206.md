@@ -1,5 +1,3 @@
-###DEC-007206-0-000-11-06-2010@@@
-
 DECRETO Nº 7.206, DE 11 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Yaren, na República de Nauru, cumulativa com a Embaixada em Camberra

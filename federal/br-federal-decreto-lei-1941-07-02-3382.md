@@ -1,5 +1,3 @@
-###DEL-003382-0-000-02-07-1941@@@
-
 DECRETO-LEI N. 3.382 – DE 2 DE JULHO DE 1941
 
 Autoriza o Departamento Federal de Compras a ultimar os processos de fornecimento à Estrada de Ferro Central do Brasil, iniciados antes da vigência do decreto-lei n. 3.306, de 24 de maio de 1941.

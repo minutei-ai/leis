@@ -1,5 +1,3 @@
-###DEC-051319-0-000-02-09-1961@@@
-
 DECRETO Nº 51.319, DE 2 DE SETEMBRO DE 1961.
 
 Determina sejam ministradas aulas sôbre a Constituição Federal em estabelecimentos de ensino de grau médio.

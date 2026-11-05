@@ -1,5 +1,3 @@
-###DEL-007237-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.237 – DE 8 JANEIRO DE 1945
 
 Prorroga vigência do crédito especial aberto pelo Decreto-lei nº 5.695, de 22 de julho de 1943

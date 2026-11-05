@@ -71,7 +71,6 @@ Art. 5º As despesas são fixadas no mesmo valor da previsão das receitas em R$
 
 Art. 6º As despesas serão realizadas com observância da programação constante dos quadros que integram esta lei, apresentando os seguintes desdobramentos:
 
-<br>
                             I - CATEGORIA ECONÔMICA 
 
 | CATEGORIA ECONÔMICA | VALOR |
@@ -134,24 +133,36 @@ Art. 6º As despesas serão realizadas com observância da programação constan
 
 Art. 8º Fica autorizado o Poder Executivo a contratar operações de crédito, por antecipação da receita, das receitas correntes estimadas, observando o art. 167, inciso III, da Constituição Federal, e os limites fixados pelo Senado Federal, conforme prevê Lei Municipal.
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DOS CRÉDITOS ADICIONAIS DE NATUREZA SUPLEMENTAR**
 
- Art. 9º O Poder Executivo, no interesse da Administração, poderá abrir, na vigência deste Orçamento, os créditos adicionais suplementares, que se fizerem necessários, mediante utilização dos recursos definidos no § 1º, incisos I, II, III e IV, e §§ 2º e 4º, do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, até o limite de 40% (quarenta por cento) do total das despesas fixadas nesta Lei, para atender a insuficiência das dotações orçamentárias dos órgãos da Administração.<br>
-Art. 10. O limite autorizado no art. 9º desta lei não será onerado quando o crédito se destinar a suprir a insuficiência das dotações de pessoal e encargos sociais, inativos e pensionistas, dívida pública Municipal, débitos constantes de precatórios judiciais, despesas de exercícios anteriores e despesas à conta de receitas vinculadas, até o limite de 40% (quarenta por cento).<br>
-Art. 11. O excesso de arrecadação eventualmente apurado, relativamente aos recursos do Tesouro Municipal, exceto os vinculados e aqueles oriundos de operações de créditos e convênios destinar-se-á, integralmente, à recomposição das dotações orçamentárias previstas na presente lei.<br>
+ Art. 9º O Poder Executivo, no interesse da Administração, poderá abrir, na vigência deste Orçamento, os créditos adicionais suplementares, que se fizerem necessários, mediante utilização dos recursos definidos no § 1º, incisos I, II, III e IV, e §§ 2º e 4º, do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, até o limite de 40% (quarenta por cento) do total das despesas fixadas nesta Lei, para atender a insuficiência das dotações orçamentárias dos órgãos da Administração.
+
+Art. 10. O limite autorizado no art. 9º desta lei não será onerado quando o crédito se destinar a suprir a insuficiência das dotações de pessoal e encargos sociais, inativos e pensionistas, dívida pública Municipal, débitos constantes de precatórios judiciais, despesas de exercícios anteriores e despesas à conta de receitas vinculadas, até o limite de 40% (quarenta por cento).
+
+Art. 11. O excesso de arrecadação eventualmente apurado, relativamente aos recursos do Tesouro Municipal, exceto os vinculados e aqueles oriundos de operações de créditos e convênios destinar-se-á, integralmente, à recomposição das dotações orçamentárias previstas na presente lei.
+
 Parágrafo único. O percentual a que se refere o art. 9º desta lei passará a incidir sobre o valor acrescido pelos créditos adicionais abertos na forma deste artigo.
 
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DAS DISPOSIÇÕES GERAIS**
 
-Art. 12. Fica o Poder Executivo autorizado a estabelecer normas complementares pertinentes à execução do orçamento e, no que couber, adequá-lo as disposições da Constituição Federal e da Lei Orgânica Municipal, compreendendo também a programação financeira para o exercício de 2026.<br>
-Art. 13. Ficam agregados aos orçamentos do Município os valores e indicativos constantes nos anexos desta lei.<br>
-Art. 14. Todos os valores recebidos pelas unidades da administração direta, autarquias e dos fundos, deverão para sua movimentação, ser registrados nos respectivos orçamentos, devendo ser consolidados ao Orçamento Geral do Município.<br>
-Parágrafo único. Excluem-se do disposto neste artigo os casos em que por força de lei, normas especiais ou exigências do ente repassador, o registro deva ser feito por meio do grupo extraorçamentária.<br>
-Art. 15. Fica o Poder Executivo autorizado a atualizar os valores das Receitas nos anexos da Lei de Diretrizes Orçamentária – LDO para o exercício de 2026, conforme memória de cálculo anexo a esta lei.<br>
-Art. 16. Fica o Poder Executivo autorizado a desdobrar o elemento de despesa no nível da fonte de recurso, através de decreto próprio.<br>
-Art. 17. Esta lei entrará em vigor em 1º de janeiro de 2026.<br>
+Art. 12. Fica o Poder Executivo autorizado a estabelecer normas complementares pertinentes à execução do orçamento e, no que couber, adequá-lo as disposições da Constituição Federal e da Lei Orgânica Municipal, compreendendo também a programação financeira para o exercício de 2026.
+
+Art. 13. Ficam agregados aos orçamentos do Município os valores e indicativos constantes nos anexos desta lei.
+
+Art. 14. Todos os valores recebidos pelas unidades da administração direta, autarquias e dos fundos, deverão para sua movimentação, ser registrados nos respectivos orçamentos, devendo ser consolidados ao Orçamento Geral do Município.
+
+Parágrafo único. Excluem-se do disposto neste artigo os casos em que por força de lei, normas especiais ou exigências do ente repassador, o registro deva ser feito por meio do grupo extraorçamentária.
+
+Art. 15. Fica o Poder Executivo autorizado a atualizar os valores das Receitas nos anexos da Lei de Diretrizes Orçamentária – LDO para o exercício de 2026, conforme memória de cálculo anexo a esta lei.
+
+Art. 16. Fica o Poder Executivo autorizado a desdobrar o elemento de despesa no nível da fonte de recurso, através de decreto próprio.
+
+Art. 17. Esta lei entrará em vigor em 1º de janeiro de 2026.
+
 Gabinete do Prefeito de Rio Verde, aos 15 de dezembro de 2025.
 
 WELLINGTON SOARES CARRIJO FILHO

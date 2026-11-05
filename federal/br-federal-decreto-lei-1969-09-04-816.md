@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3ae21915-e3c2-40c6-96bc-aa472bc6666f/texto#nowhere)
 
-###DEL-000816-0-000-04-09-1969@@@
-
 DECRETO-LEI Nº 816, DE 4 De SeteMBRO DE 1969
 
 Aprova a Convenção sôbre Exposições Internacionais de 1928 emendada pelos Protocolos de 1948 e 1966.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ce500193-a436-4061-9d49-f0a12def0111/texto#nowhere)
 
-###DEL-001771-0-000-20-02-1980@@@
-
 # Decreto-lei nº 1.771, de 20 de fevereiro de 1980
 
 Estende a gratificação instituída pelo Decreto-lei nº 1.714, de 21 de novembro de 1979, aos integrantes da Polícia Rodoviária Federal.

@@ -1,5 +1,3 @@
-###MPV-001592-0-000-15-10-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.592, DE 15 DE OUTUBRO DE 1997
 
 Extingue a Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077052-0-000-19-01-1976@@@
-
 DECRETO Nº 77.052, DE 19 DE JANEIRO DE 1976.
 
 Dispõe sobre a fiscalização sanitária das condições de exercício de profissões e ocupações técnicas e auxiliares, relacionadas diretamente com a saúde.

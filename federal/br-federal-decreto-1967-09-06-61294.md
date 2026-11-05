@@ -1,5 +1,3 @@
-###DEC-061294-0-000-06-09-1967@@@
-
 DECRETO Nº 61.294, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública o “Instituto Santa Úrsula” com sede em São Paulo, Estado de São Paulo.

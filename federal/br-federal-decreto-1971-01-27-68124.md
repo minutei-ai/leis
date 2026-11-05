@@ -1,5 +1,3 @@
-###DEC-068124-0-000-27-01-1971@@@
-
 DECRETO Nº 68.124, DE 27 DE JANEIRO DE 1971.
 
 Suspende a intervenção federal nos Municípios de Olinda, Salgadinho, Nova Iguaçu, São João de Meriti, Baião, Itu, Nova Londrina, Rolândia, Jardim Alegre, Ipatinga, Viçosa, Timóteo, Sabará e Lauro de Freitas.

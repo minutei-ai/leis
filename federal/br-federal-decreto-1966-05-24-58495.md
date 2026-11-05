@@ -1,5 +1,3 @@
-###DEC-058495-0-000-24-05-1966@@@
-
 Decreto nº 58.495, de 24 de maio de 1966.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito que menciona.

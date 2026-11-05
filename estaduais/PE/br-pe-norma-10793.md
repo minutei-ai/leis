@@ -46,312 +46,247 @@ ANTÔNIO CÉSAR CAÚLA REIS
 
 **COMPOSIÇÃO DO EFETIVO DO POLÍCIA MILITAR DE PERNAMBUCO**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="100%" style="width:100.0%;border:solid black 1.0pt"><tbody><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1 – OFICIAIS</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANTITATIVO</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1 Quadro de Oficiais Policiais Militares (QOPM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.462(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1 Coronel PM (Cel. PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">36</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.2 Tenente-Coronel PM (Ten Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">81 (NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.3. Major PM (Maj PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">240(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.4. Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">360(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.5 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">342(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.6 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">403(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2 Quadro de Oficiais de Saúde (QOS)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">297</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1. Quadro de Oficiais Médicos (QOM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">155</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.1 Coronel PM (Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.2 Tenente Coronel PM (Ten Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">13</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.3 Major PM (Maj. PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">14</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.4 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">24</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.5 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">51</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.1.6 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">51</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2. Quadro de Oficiais Dentistas (QOD)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">103</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.1 Coronel PM (Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.2 Tenente Coronel PM (Ten Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">6(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.3 Major PM (Maj. PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">12(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.4 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">19(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.5 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">30(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.2.6 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">35</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. 2.3. Quadro de Oficiais Farmacêuticos (QOF)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">31</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.1 Coronel PM (Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.2 Tenente Coronel PM (Ten Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.3 Major PM (Maj PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.4 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">6</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.5 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.3.6 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4 Quadro de Oficiais de Veterinária (QOV)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4.1 Tenente Coronel PM (Ten Cel PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4.2. Major PM (Maj. PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4.3 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4.4 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2.4.5 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.3. Quadro de Capelães Policiais Militares (QCPM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.3.1 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.4. Quadro de Oficiais Músicos (QOMus)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.4.1 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.4.2 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.4.3 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.5. Quadro de Oficiais de Administração (QOA)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">482</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.5.1 Major PM (Maj PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">30</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.5.2 Capitão PM (Cap PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">60</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.5.3 1º Tenente PM (1º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">120</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.5.4 2º Tenente PM (2º Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">272</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2 – PRAÇAS</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2. 1 Qualificação Policial Militar Geral (QPMG)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">23.754 (NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.1 Subtenente PM (Sub Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">182(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.2 1º Sargento PM (1º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">626(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.3 2º Sargento PM (2º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.350(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.4 3º Sargento PM (3º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.740(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.5 Cabo PM (Cb PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">5.705(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.1.6 Soldado PM (Sd PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">14.151</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.2. Qualificação Policial Militar Particular (QPMP)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">138</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.2.1 Subtenente PM (Sub Ten PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">15(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.2.2 1º Sargento PM (1º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">35(NR)</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.2.3 2º Sargento PM (2º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">30</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.2.4 3º Sargento PM (3º Sgtº PM)</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">58</span></p></td></tr><tr><td width="71%" valign="top" style="width:71.08%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TOTAL DE EFETIVO</span></p></td><td width="28%" valign="top" style="width:28.44%;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">26.137 (NR)</span></p></td></tr></tbody></table>
+1 – OFICIAIS
+
+QUANTITATIVO
+
+1.1 Quadro de Oficiais Policiais Militares (QOPM)
+
+1.462(NR)
+
+1.1.1 Coronel PM (Cel. PM)
+
+36
+
+1.1.2 Tenente-Coronel PM (Ten Cel PM)
+
+81 (NR)
+
+1.1.3. Major PM (Maj PM)
+
+240(NR)
+
+1.1.4. Capitão PM (Cap PM)
+
+360(NR)
+
+1.1.5 1º Tenente PM (1º Ten PM)
+
+342(NR)
+
+1.1.6 2º Tenente PM (2º Ten PM)
+
+403(NR)
+
+1.2 Quadro de Oficiais de Saúde (QOS)
+
+297
+
+1.2.1. Quadro de Oficiais Médicos (QOM)
+
+155
+
+1.2.1.1 Coronel PM (Cel PM)
+
+2
+
+1.2.1.2 Tenente Coronel PM (Ten Cel PM)
+
+13
+
+1.2.1.3 Major PM (Maj. PM)
+
+14
+
+1.2.1.4 Capitão PM (Cap PM)
+
+24
+
+1.2.1.5 1º Tenente PM (1º Ten PM)
+
+51
+
+1.2.1.6 2º Tenente PM (2º Ten PM)
+
+51
+
+1.2.2. Quadro de Oficiais Dentistas (QOD)
+
+103
+
+1.2.2.1 Coronel PM (Cel PM)
+
+1
+
+1.2.2.2 Tenente Coronel PM (Ten Cel PM)
+
+6(NR)
+
+1.2.2.3 Major PM (Maj. PM)
+
+12(NR)
+
+1.2.2.4 Capitão PM (Cap PM)
+
+19(NR)
+
+1.2.2.5 1º Tenente PM (1º Ten PM)
+
+30(NR)
+
+1.2.2.6 2º Tenente PM (2º Ten PM)
+
+35
+
+1. 2.3. Quadro de Oficiais Farmacêuticos (QOF)
+
+31
+
+1.2.3.1 Coronel PM (Cel PM)
+
+1
+
+1.2.3.2 Tenente Coronel PM (Ten Cel PM)
+
+3
+
+1.2.3.3 Major PM (Maj PM)
+
+3
+
+1.2.3.4 Capitão PM (Cap PM)
+
+6
+
+1.2.3.5 1º Tenente PM (1º Ten PM)
+
+9
+
+1.2.3.6 2º Tenente PM (2º Ten PM)
+
+9
+
+1.2.4 Quadro de Oficiais de Veterinária (QOV)
+
+8
+
+1.2.4.1 Tenente Coronel PM (Ten Cel PM)
+
+1
+
+1.2.4.2. Major PM (Maj. PM)
+
+1
+
+1.2.4.3 Capitão PM (Cap PM)
+
+2
+
+1.2.4.4 1º Tenente PM (1º Ten PM)
+
+2
+
+1.2.4.5 2º Tenente PM (2º Ten PM)
+
+2
+
+1.3. Quadro de Capelães Policiais Militares (QCPM)
+
+1
+
+1.3.1 Capitão PM (Cap PM)
+
+1
+
+1.4. Quadro de Oficiais Músicos (QOMus)
+
+3
+
+1.4.1 Capitão PM (Cap PM)
+
+1
+
+1.4.2 1º Tenente PM (1º Ten PM)
+
+1
+
+1.4.3 2º Tenente PM (2º Ten PM)
+
+1
+
+1.5. Quadro de Oficiais de Administração (QOA)
+
+482
+
+1.5.1 Major PM (Maj PM)
+
+30
+
+1.5.2 Capitão PM (Cap PM)
+
+60
+
+1.5.3 1º Tenente PM (1º Ten PM)
+
+120
+
+1.5.4 2º Tenente PM (2º Ten PM)
+
+272
+
+2 – PRAÇAS
+
+2. 1 Qualificação Policial Militar Geral (QPMG)
+
+23.754 (NR)
+
+2.1.1 Subtenente PM (Sub Ten PM)
+
+182(NR)
+
+2.1.2 1º Sargento PM (1º Sgtº PM)
+
+626(NR)
+
+2.1.3 2º Sargento PM (2º Sgtº PM)
+
+1.350(NR)
+
+2.1.4 3º Sargento PM (3º Sgtº PM)
+
+1.740(NR)
+
+2.1.5 Cabo PM (Cb PM)
+
+5.705(NR)
+
+2.1.6 Soldado PM (Sd PM)
+
+14.151
+
+2.2. Qualificação Policial Militar Particular (QPMP)
+
+138
+
+2.2.1 Subtenente PM (Sub Ten PM)
+
+15(NR)
+
+2.2.2 1º Sargento PM (1º Sgtº PM)
+
+35(NR)
+
+2.2.3 2º Sargento PM (2º Sgtº PM)
+
+30
+
+2.2.4 3º Sargento PM (3º Sgtº PM)
+
+58
+
+TOTAL DE EFETIVO
+
+26.137 (NR)
 
                                                                                                                                                       ”
 
@@ -361,136 +296,6 @@ ANTÔNIO CÉSAR CAÚLA REIS
 
       **COMPOSIÇÃO DO EFETIVO DO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="100%" style="width:100.0%;border:solid black 1.0pt"><tbody><tr><td width="469" colspan="2" valign="top" style="width:351.75pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. OFICIAIS</span></p></td></tr><tr><td width="469" colspan="2" valign="top" style="width:351.75pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coronel BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">12 &nbsp; &nbsp;</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tenente Coronel BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">34(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Major BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">70(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Capitão BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">107(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1° Tenente BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">90</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2º Tenente BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">66</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Total</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">379&nbsp; &nbsp;</span></p></td></tr><tr><td width="469" colspan="2" valign="top" style="width:351.75pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Major BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">07(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Capitão BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">25(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1º Tenente BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">45(NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2° Tenente BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">76</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TOTAL</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">153 (NR)</span></p></td></tr><tr><td width="469" colspan="2" valign="top" style="width:351.75pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2. PRAÇAS</span></p></td></tr><tr><td width="469" colspan="2" valign="top" style="width:351.75pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUALIFICAÇÃO BOMBEIRO MILITAR GERAL (QBMG-1)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Subtenente BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">50 (NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1º Sargento BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">220 (NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2° Sargento BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">295 (NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3° Sargento BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">340 (NR)</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Cabo BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">640</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Soldado BM</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2930</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Total</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.475</span></p></td></tr><tr><td width="271" valign="top" style="width:203.25pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TOTAL GERAL DO EFETIVO</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">5.007 (NR)</span></p></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> 1. OFICIAIS </td></tr><tr><td colspan="2" valign="top"> 1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM) </td></tr><tr><td valign="top"> Coronel BM </td><td valign="top"> 12 &nbsp; &nbsp; </td></tr><tr><td valign="top"> Tenente Coronel BM </td><td valign="top"> 34(NR) </td></tr><tr><td valign="top"> Major BM </td><td valign="top"> 70(NR) </td></tr><tr><td valign="top"> Capitão BM </td><td valign="top"> 107(NR) </td></tr><tr><td valign="top"> 1° Tenente BM </td><td valign="top"> 90 </td></tr><tr><td valign="top"> 2º Tenente BM </td><td valign="top"> 66 </td></tr><tr><td valign="top"> Total </td><td valign="top"> 379&nbsp; &nbsp; </td></tr><tr><td colspan="2" valign="top"> 1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM) </td></tr><tr><td valign="top"> Major BM </td><td valign="top"> 07(NR) </td></tr><tr><td valign="top"> Capitão BM </td><td valign="top"> 25(NR) </td></tr><tr><td valign="top"> 1º Tenente BM </td><td valign="top"> 45(NR) </td></tr><tr><td valign="top"> 2° Tenente BM </td><td valign="top"> 76 </td></tr><tr><td valign="top"> TOTAL </td><td valign="top"> 153 (NR) </td></tr><tr><td colspan="2" valign="top"> 2. PRAÇAS </td></tr><tr><td colspan="2" valign="top"> QUALIFICAÇÃO BOMBEIRO MILITAR GERAL (QBMG-1) </td></tr><tr><td valign="top"> Subtenente BM </td><td valign="top"> 50 (NR) </td></tr><tr><td valign="top"> 1º Sargento BM </td><td valign="top"> 220 (NR) </td></tr><tr><td valign="top"> 2° Sargento BM </td><td valign="top"> 295 (NR) </td></tr><tr><td valign="top"> 3° Sargento BM </td><td valign="top"> 340 (NR) </td></tr><tr><td valign="top"> Cabo BM </td><td valign="top"> 640 </td></tr><tr><td valign="top"> Soldado BM </td><td valign="top"> 2930 </td></tr><tr><td valign="top"> Total </td><td valign="top"> 4.475 </td></tr><tr><td valign="top"> TOTAL GERAL DO EFETIVO </td><td valign="top"> 5.007 (NR) </td></tr></tbody></table>
 
                                                                                                                                             ”

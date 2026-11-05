@@ -1,5 +1,3 @@
-###DEC-056210-0-000-30-04-1965@@@
-
 DECRETO Nº 56.210, DE 30 DE ABRIL DE 1965.
 
 Altera os Decretos ns. 51.450. de 2 de abril de 1962 e 51.569, de 18 de outubro de 1962, para restabelecer a classificação nos níveis 17 e 18, da série de classes de Fiscal de Previdência, código P-2.108, do Quadro Permanente do Instituto de Aposentadoria e Pensão dos Industriários.

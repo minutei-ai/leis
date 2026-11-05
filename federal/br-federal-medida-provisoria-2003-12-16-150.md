@@ -1,5 +1,3 @@
-###MPV-000150-0-000-16-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 150, DE 16 DE DEZEMBRO 2003.
 
 Altera a Lei nº 10.188, de 12 de fevereiro de 2001, que institui o Programa de Arrendamento Residencial e dá outras providências.

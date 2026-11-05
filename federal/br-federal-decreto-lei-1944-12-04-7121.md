@@ -1,5 +1,3 @@
-###DEL-007121-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.121 – DE 4 DE DEZEMBRO DE 1944
 
 Trasnsfere a Escola Técnica de Niterói para a cidade de Campos, Estado do Rio de Janeiro, e a ela incorpora a Escola Industrial  de Campos

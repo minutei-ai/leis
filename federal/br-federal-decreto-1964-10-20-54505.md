@@ -1,5 +1,3 @@
-###DEC-054505-0-000-20-10-1964@@@
-
 Decreto nº 54.505, de 20 de outubro de 1964.
 
 Exclui do Ministério da Indústria e Comércio os cargos da série de classes de Inspetor de Indústria e Comércio, com os respectivos ocupantes, e dá outras providências.

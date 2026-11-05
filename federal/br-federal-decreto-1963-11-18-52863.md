@@ -1,5 +1,3 @@
-###DEC-052863-0-000-18-11-1963@@@
-
 decreto nº 52.863, de 18 de novembro de 1963.
 
 Exclui do Plano de Contenção de Despesas a importância de Cr$3.876.000.000,00, do orçamento da Superintendência do Desenvolvimento do Nordeste.

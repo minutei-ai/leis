@@ -1,7 +1,3 @@
-1
-
-###DEC-001484-0-000-09-05-1995@@@
-
 DECRETO Nº 1.484, DE 9 DE MAIO DE 1995
 
 Dá nova redação ao caput do art. 3º do Decreto nº 1.264, de 11 de outubro de 1994, que cria a Comissão Nacional de Classificação (Concla).

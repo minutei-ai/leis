@@ -1,5 +1,3 @@
-###DEC-053654-0-000-04-03-1964@@@
-
 DECRETO Nº 53.654, DE 4 DE MARÇO DE 1964.
 
 Autoriza o Ministério das Minas e Energia, por intermédio da Divisão de Fomento da Produção Mineral, a adquirir imóvel no Estado do Rio Grande do Sul.

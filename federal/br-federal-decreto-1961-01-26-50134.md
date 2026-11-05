@@ -1,5 +1,3 @@
-###DEC-050134-0-000-26-01-1961@@@
-
 DECRETO Nº 50.134, DE 26 DE JANEIRO DE 1961.
 
 Retifica o artigo. 1º do Decreto número 46.641, de 17 de agôsto de 1959.

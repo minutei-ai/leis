@@ -1,5 +1,3 @@
-###DEC-046718-0-000-25-08-1959@@@
-
 Decreto nº 46.718, de 25 de agôsto de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “A Fortaleza” Companhia Nacional de Seguros.

@@ -1,5 +1,3 @@
-###DEL-002954-0-000-16-01-1941@@@
-
 DECRETO-LEI N. 2.954 – DE 16 DE JANEIRO DE 1941
 
 Altera os arts. 1º e 2º do decreto-lei 2.158, de 30 de abril de 1940

@@ -1,5 +1,3 @@
-###DEC-061070-0-000-26-07-1967@@@
-
 DECRETO Nº 61.070, DE 26 DE JULHO DE 1967.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica no Distrito de Paranagi, Município de Sertaneja, Estado do Paraná.

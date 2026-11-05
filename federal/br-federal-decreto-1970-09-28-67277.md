@@ -1,5 +1,3 @@
-###DEC-067277-0-000-28-09-1970@@@
-
 DECRETO Nº 67.277 - DE 28 DE SETEMBRO DE 1970
 
 Redistribui, como respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio cargo originário do Ministério dos Transportes.

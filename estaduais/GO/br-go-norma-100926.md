@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de janeiro de 2020, 132º da República.
 
-<br>
-
 RONALDO RAMOS CAIADO
 
 (D.O. de 16-01-2020)

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/1941)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2003/compilacao-lei-11386-27.05.2003.html)
 
 # LEI N° 11.386, DE 27 DE MAIO DE 2003
@@ -9,18 +8,30 @@
 
 ### _~~Institui a "Semana de Conscientização sobre a Importância do Ácido Fólico para Mulheres na Faixa Etária de 10 a 40 anos"~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
-~~Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:~~<br>
-~~Artigo 1.° - Fica instituída a "Semana de Conscientização sobre a Importância do Ácido Fólico para Mulheres na Faixa Etária de 10 a 40 anos", a se realizar, anualmente, na primeira semana do mês de outubro.~~<br>
-~~Parágrafo único - O evento de que trata o "caput" integrará o Calendário Oficial do Estado.~~<br>
-~~Artigo 2.° - O Poder Executivo, por meio da Secretaria da Saúde, regulamentará esta lei no prazo de 90 (noventa) dias.~~<br>
-~~Artigo 3.° - Esta lei entra em vigor na data de sua publicação.~~<br>
-~~Palácio dos Bandeirantes, 27 de maio de 2003.~~<br>
-~~GERALDO ALCKMIN~~<br>
-~~Luiz Roberto Barradas Barata~~<br>
-~~Secretário da Saúde~~<br>
-~~Arnaldo Madeira~~<br>
-~~Secretário-Chefe da Casa Civil~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
+~~Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:~~
+
+~~Artigo 1.° - Fica instituída a "Semana de Conscientização sobre a Importância do Ácido Fólico para Mulheres na Faixa Etária de 10 a 40 anos", a se realizar, anualmente, na primeira semana do mês de outubro.~~
+
+~~Parágrafo único - O evento de que trata o "caput" integrará o Calendário Oficial do Estado.~~
+
+~~Artigo 2.° - O Poder Executivo, por meio da Secretaria da Saúde, regulamentará esta lei no prazo de 90 (noventa) dias.~~
+
+~~Artigo 3.° - Esta lei entra em vigor na data de sua publicação.~~
+
+~~Palácio dos Bandeirantes, 27 de maio de 2003.~~
+
+~~GERALDO ALCKMIN~~
+
+~~Luiz Roberto Barradas Barata~~
+
+~~Secretário da Saúde~~
+
+~~Arnaldo Madeira~~
+
+~~Secretário-Chefe da Casa Civil~~
+
 ~~Publicada na Assessoria Técnico-Legislativa, aos 27 de maio de 2003.~~
 
 Revogada.

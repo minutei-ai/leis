@@ -1,7 +1,3 @@
-1
-
-###DEC-000701-0-000-16-12-1992@@@
-
 DECRETO N° 701, DE 16 DE DEZEMBRO DE 1992
 
 Dispõe sobre a composição das Diretorias e dos Conselhos de Administração. Fiscal e Curador das entidades estatais que menciona.

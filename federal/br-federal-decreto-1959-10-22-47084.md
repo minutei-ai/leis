@@ -1,5 +1,3 @@
-###DEC-047084-0-000-22-10-1959@@@
-
 DECRETO Nº 47.084, DE 22 DE OUTUBRO DE 1959.
 
 Autoriza a Companhia Elétrica Caiuá a alienar dois grupos termelétricos e acessórios, instalados em Presidente Prudente, Estado de São Paulo.

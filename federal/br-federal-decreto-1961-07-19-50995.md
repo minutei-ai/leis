@@ -1,5 +1,3 @@
-###DEC-050995-0-000-19-07-1961@@@
-
 decreto nº 50.995 de 19 de juLho de 1961.
 
 Declara públicas, de uso comum do domínio do Estado de Minas Gerais, as águas do rio Rubim do Norte.

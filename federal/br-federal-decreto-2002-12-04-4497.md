@@ -1,5 +1,3 @@
-###DEC-004497-0-000-04-12-2002@@@
-
 DECRETO Nº 4.497, DE 4 DE DEZEMBRO DE 2002
 
 Altera o art. 17 do Decreto nº 2.134, de 24 de janeiro de 1997, que dispõe sobre a categoria dos documentos públicos sigilosos e o acesso a eles, e dá outras providências.

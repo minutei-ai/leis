@@ -1,5 +1,3 @@
-###DEC-056081-0-000-26-04-1965@@@
-
 Decreto nº 56.081, de 26 de abril de 1965.
 
 Autoriza a Mineração Lageado Limitada a pesquisar Galena, no município de Cêrro Azul, Estado do Paraná.

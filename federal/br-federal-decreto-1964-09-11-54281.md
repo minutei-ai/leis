@@ -1,5 +1,3 @@
-###DEC-054281-0-000-11-09-1964@@@
-
 DECRETO Nº 54.281, DE 11 DE SETEMBRO DE 1964.
 
 Revoga o Decreto de declaração de utilidade pública, para fins de desapropriação de imóvel na Cidade de São Paulo.

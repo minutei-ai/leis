@@ -1,5 +1,3 @@
-###DEL-002189-0-000-26-12-1984@@@
-
 # Decreto-lei nº 2.189, de 26 de dezembro de 1984.
 
 Dispõe sobre a transformação de gratificação deferida aos Engenheiros Agrônomos do Ministério da Agricultura e dá outras providências.

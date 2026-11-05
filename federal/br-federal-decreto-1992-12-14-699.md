@@ -1,7 +1,3 @@
-1
-
-###DEC-000699-0-000-14-12-1992@@@
-
 DECRETO N° 699, DE 14 DE DEZEMBRO DE 1992
 
 Dispõe sobre a apostila de atos administrativos.

@@ -1,5 +1,3 @@
-###DEC-072037-0-000-30-03-1973@@@
-
 DECRETO Nº 72.037, DE 30 DE MARÇO DE 1973.
 
 Declara sem efeito o Decreto número 43.161, de 3 de fevereiro de 1958.

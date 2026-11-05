@@ -1,7 +1,3 @@
-1
-
-###DEC-097723-0-000-08-05-1989@@@
-
 DECRETO N° 97.723, DE 08 DE MAIO DE 1989
 
 Altera o Decreto n° 91.632, de 6 de setembro de 1985, que altera o artigo 4° do De­creto n° 90.725, de 19 de dezembro de 1984, que institui a Comissão Assessora de Assuntos Científicos e Tecnológicos das Forças Armadas - COMASSE.

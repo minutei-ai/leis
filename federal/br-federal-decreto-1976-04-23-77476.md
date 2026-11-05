@@ -1,5 +1,3 @@
-###DEC-077476-0-000-23-04-1976@@@
-
 DECRETO Nº 77.476 - DE 23 DE ABRIL DE 1976
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Campina Grande-PB, destinado ao Ministério do Exército.

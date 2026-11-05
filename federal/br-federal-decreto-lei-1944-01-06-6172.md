@@ -1,5 +1,3 @@
-###DEL-006172-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.172 – DE 6 DE JANEIRO DE 1944
 
 Concedo isenção de direitos, durante cento e oitenta  dias, para importação de sulfanilamidas, seus derivados e respectivas preparações e de vitaminas, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-078601-0-000-21-10-1976@@@
-
 DECRETO Nº 78.601, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Arquitetura da Faculdade de Arquitetura e Urbanismo Silva e Souza, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

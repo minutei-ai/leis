@@ -1,5 +1,3 @@
-###DEC-059017-0-000-08-08-1966@@@
-
 DECRETO Nº 59.017, DE 8 DE AGÔSTO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do prédio e terreno do antigo Mercado Público, sito à rua João Pessoa nº 374, na cidade de Santarém, Estado do Pará.

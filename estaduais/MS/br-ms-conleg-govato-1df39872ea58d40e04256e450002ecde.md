@@ -6,20 +6,26 @@ Declara de Utilidade Pública o Centro Espírita Beneficente União do Vegetal, 
 
 Publicada no Diário Oficial nº 2.608, de 26 de julho de 1989.
 
-O **Governador do Estado de Mato Grosso do Sul**, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica declarado de Utilidade Pública o Centro Espírita<br>
-Beneficente União do Vegetal, com sede na cidade de Campo Grande-<br>
-MS.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 25 de julho de 1989.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
-Governador<br>
-<br>
-ROBERTO ORRO<br>
+O **Governador do Estado de Mato Grosso do Sul**, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica declarado de Utilidade Pública o Centro Espírita
+
+Beneficente União do Vegetal, com sede na cidade de Campo Grande-
+
+MS.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 25 de julho de 1989.
+
+MARCELO MIRANDA SOARES
+
+Governador
+
+ROBERTO ORRO
+
 Secretário de Estado de Justiça

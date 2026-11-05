@@ -1,5 +1,3 @@
-###DEC-005357-0-000-31-01-2005@@@
-
 DECRETO Nº 5.357 DE 31 DE JANEIRO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Romênia sobre Cooperação no Campo da Veterinária, celebrado em Brasília, em 25 de julho de 2000.

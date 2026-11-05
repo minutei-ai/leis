@@ -1,5 +1,3 @@
-###DEC-051878-0-000-02-04-1963@@@
-
 DECRETO Nº 51.878, DE 2 DE ABRIL DE 1963.
 
 Outorga à “Espírito Santo Centrais Elétricas S.A.” - Escelsa - concessão para o aproveitamento da energia hidráulica da queda d’água denominada Cachoeira da Fumaça, existente no rio Braço Norte Direito situado no Município de Alegre, Estado do Espírito Santo.

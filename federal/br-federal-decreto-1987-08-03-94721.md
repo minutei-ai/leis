@@ -1,5 +1,3 @@
-###DEC-094721-0-000-03-08-1987@@@
-
 DECRETO Nº 94.721, DE 3 DE AGOSTO DE 1987.
 
 Concede, ao Instituto Brasileiro de Relações do Trabalho - IBRART, a prerrogativa sindical constante da alínea d do artigo 513 da Consolidação das Leis do Trabalho.

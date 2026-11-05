@@ -1,5 +1,3 @@
-###DEC-052997-0-000-27-11-1963@@@
-
 Decreto nº 52.997, de 27 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Carlos Alexandre Nestler a pesquisar água mineral, no município de Atibaia, Estado de São Paulo.

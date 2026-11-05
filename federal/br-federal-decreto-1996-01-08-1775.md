@@ -1,5 +1,3 @@
-###DEC-001775-0-000-08-01-1996@@@
-
 DECRETO Nº 1.775, DE 8 DE JANEIRO DE 1996
 
 Dispõe sobre o procedimento administrativo de demarcação das terras indígenas e dá outras providências.

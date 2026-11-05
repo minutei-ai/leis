@@ -1,7 +1,3 @@
-1
-
-###DEC-099194-0-000-27-03-1990@@@
-
 DECRETO N° 99.194, DE 27 DE MARÇO DE 1990
 
 Institui Grupo de Trabalho, sob a coordenação da Secretaria de Assuntos Estratégicos da Presidência da República.

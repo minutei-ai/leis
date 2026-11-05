@@ -1,5 +1,3 @@
-###DEC-054965-0-000-10-11-1964@@@
-
 DECRETO Nº 54.965, DE 10 DE NOVEMBRO DE 1964.
 
 Fixa as sedes das Coordenadorias Regionais do Ministério da Agricultura.

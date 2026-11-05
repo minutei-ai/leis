@@ -1,5 +1,3 @@
-###DEC-049144-0-000-26-10-1960@@@
-
 DECRETO Nº 49.144, DE 26 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão a adquirir o lote de terreno nacional interior que menciona, situado no Estado da Guanabara.

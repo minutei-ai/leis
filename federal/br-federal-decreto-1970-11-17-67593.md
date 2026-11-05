@@ -1,5 +1,3 @@
-###DEC-067593-0-000-17-11-1970@@@
-
 Decreto Nº 67.593, DE 17 DE NOVEMBRO DE 1970.
 
 Retifica o Decreto nº 61.583, de 20 de outubro de 1967, que aprovou o Quadro Único de Pessoal da Universidade Federal Rural do Rio de Janeiro.

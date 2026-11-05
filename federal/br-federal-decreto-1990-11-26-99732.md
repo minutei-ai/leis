@@ -1,5 +1,3 @@
-###DEC-099732-0-000-26-11-1990@@@
-
 DECRETO Nº 99.732, DE 26 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução do Acordo de Alcance Parcial entre o Brasil e Cuba.
@@ -21,8 +19,6 @@ Brasília, 26 de novembro de 1990; 169º da Independência e 102º da República
 FERNANDO COLLOR
 
 Francisco Rezek
-
-###DEC-099732-0-000-26-11-1990@@@RET01+++
 
 # DECRETO N.° 99.732, DE 26 DE NOVEMBRO DE 1990
 

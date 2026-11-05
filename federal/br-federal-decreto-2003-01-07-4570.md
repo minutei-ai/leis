@@ -1,5 +1,3 @@
-###DEC-004570-0-000-07-01-2003@@@
-
 DECRETO Nº 4.570, DE 7 DE JANEIRO DE 2003.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria-Geral da Presidência da República, e dá outras providências.

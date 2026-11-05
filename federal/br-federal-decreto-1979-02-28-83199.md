@@ -1,5 +1,3 @@
-###DEC-083199-0-000-28-02-1979@@@
-
 Decreto nº 83.199, de 28 de fevereiro de 1979
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nas Cidades de Niterói e do Rio de Janeiro, Estado do Rio de Janeiro e São Vicente, Estado de São Paulo.

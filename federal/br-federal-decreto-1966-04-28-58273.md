@@ -1,5 +1,3 @@
-###DEC-058273-0-000-28-04-1966@@@
-
 DECRETO Nº 58.273, DE 28 DE ABRIL DE 1966.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona no Estado do Rio de Janeiro.

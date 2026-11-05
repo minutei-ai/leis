@@ -1,5 +1,3 @@
-###DEC-047934-0-000-15-03-1960@@@
-
 DECRETO Nº 47.934, DE 15 DE MARÇO DE 1960.
 
 Dá nova redação ao art. 4º do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954.

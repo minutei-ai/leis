@@ -1,5 +1,3 @@
-###DEC-053973-0-000-19-06-1964@@@
-
 decreto nº 53.973, de 19 de junho de 1964.
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$28.270.000.000,00 para o fim que menciona.
@@ -29,8 +27,6 @@ h. castello branco
 Octávio Gouveia de Bulhões
 
 Juarez Távora
-
-###DEC-053973-0-000-19-06-1964@@@RET01+++
 
 decreto nº 53.973, de 19 de junho de 1964.
 

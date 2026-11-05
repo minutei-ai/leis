@@ -1,5 +1,3 @@
-###DEC-084477-0-000-12-02-1980@@@
-
 Decreto nº 84.477, de 12 de fevereiro de 1980
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Ciências da Saúde "Farias Brito", em Guarulhos, Estado de São Paulo.

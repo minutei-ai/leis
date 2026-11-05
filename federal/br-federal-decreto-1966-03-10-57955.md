@@ -1,5 +1,3 @@
-###DEC-057955-0-000-10-03-1966@@@
-
 DECRETO Nº 57.955, de 10 de março de 1966.
 
 Autoriza o cidadão brasileiro Francisco Vieira de Barros a pesquisar xisto argiloso no município de Piedade, Estado de São Paulo.

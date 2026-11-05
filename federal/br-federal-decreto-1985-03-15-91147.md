@@ -1,5 +1,3 @@
-###DEC-091147-0-000-15-03-1985@@@
-
 DECRETO Nº 91.147, DE 15 DE MARÇO DE 1985.
 
 Dispõe sobre a vinculação do Departamento Administrativo do Serviço Público (DASP).

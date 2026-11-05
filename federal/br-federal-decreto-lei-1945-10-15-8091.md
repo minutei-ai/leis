@@ -1,5 +1,3 @@
-###DEL-008091-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.091 – DE 15 DE OUTUBRO DE 1945
 
 Concede melhoria de reforma a um oficial da Armada

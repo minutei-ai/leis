@@ -1,7 +1,3 @@
-1
-
-###DEC-001539-0-000-27-06-1995@@@
-
 DECRETO Nº 1.539, DE 27 DE JUNHO DE 1995
 
 Altera o Decreto nº 1.510, de 1º de junho de 1995, que incluiu a Companhia Vale do Rio Doce - CVRD no Programa Nacional de Desestatização - PND.

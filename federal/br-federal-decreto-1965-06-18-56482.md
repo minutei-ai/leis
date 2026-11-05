@@ -1,5 +1,3 @@
-###DEC-056482-0-000-18-06-1965@@@
-
 DECRETO Nº 56.482, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública o “Instituto Maria”, com sede em Juiz de Fora, Estado de Minas Gerais.

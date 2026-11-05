@@ -1,11 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184786)
-
 # DECRETO Nº 63.121, DE 27 DE DEZEMBRO DE 2017
 
 ### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com obras de arte comercializadas na Feira Internacional de Arte de São Paulo - SP Arte e dá outras providências_
 
-GERALDO ALCKMIN, Governador do Estado de São Paulo,  no uso de suas atribuições legais e tendo em vista o disposto nos Convênios ICMS-1, de 6 de fevereiro de 2013, e 107, de 02 de outubro de 2015,<br>
-Decreta:<br>
+GERALDO ALCKMIN, Governador do Estado de São Paulo,  no uso de suas atribuições legais e tendo em vista o disposto nos Convênios ICMS-1, de 6 de fevereiro de 2013, e 107, de 02 de outubro de 2015,
+
+Decreta:
+
 **Artigo 1º -** Ficam isentas do ICMS as seguintes operações internas com obras de arte comercializadas na Feira Internacional de Arte de São Paulo - SP Arte, a ser realizada na cidade de São Paulo, pelo período de até 7 (sete) dias consecutivos, no ano de 2018:
 
 I - desembaraço aduaneiro decorrente de importação do exterior e saídas de obras de arte destinadas à comercialização na SP Arte;

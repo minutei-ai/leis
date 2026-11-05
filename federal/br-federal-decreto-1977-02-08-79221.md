@@ -1,5 +1,3 @@
-###DEC-079221-0-000-08-02-1977@@@
-
 DECRETO Nº 79.221, DE 8 DE FEVEREIRO DE 1977.
 
 Altera dispositivo do Decreto número 78.342 de 1976, de 31 de agosto de 1976, que concedeu reconhecimento aos cursos de Letras, de Ciências, de Estudos Sociais e de Ciências Econômicas, da Fundação Educacional de São Gabriel, com sede na cidade de São Gabriel, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-067521-0-000-09-11-1970@@@
-
 DECRETO Nº 67.521, DE 9 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 34.859 de 30 de dezembro de 1953.

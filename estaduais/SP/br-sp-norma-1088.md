@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/1088)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/compilacao-lei-11255-04.11.2002.html)
 
 # LEI N° 11.255, DE 04 DE NOVEMBRO DE 2002
@@ -15,7 +14,8 @@
 
 ~~Artigo 1.° - Ficam todos os técnicos em prótese dentária, estabelecidos no Estado de São Paulo, obrigados a afixarem em seus laboratórios, de modo visível, informação expressa ao consumidor, quanto à proibição legal de realizarem quaisquer procedimentos odontológicos clínicos ou cirúrgicos a pacientes, bem como ao seu dever de prestarem, apenas, serviços inerentes a seu mister, destinados aos dentistas, e sob a orientação profissional destes.~~
 
-~~Parágrafo único - O cartaz de que trata o "caput" deverá ser impresso em campo não inferior à área de 0,60m x 0,30m (sessenta centímetros por trinta centímetros) e conter, obrigatoriamente, os seguintes dizeres:~~<br>
+~~Parágrafo único - O cartaz de que trata o "caput" deverá ser impresso em campo não inferior à área de 0,60m x 0,30m (sessenta centímetros por trinta centímetros) e conter, obrigatoriamente, os seguintes dizeres:~~
+
 ~~"Aos técnicos em prótese dentária é terminantemente proibido o exercício da odontologia clínica e cirúrgica, cujo desempenho profissional é de competência e responsabilidade exclusivas dos cirurgiões-dentistas. De acordo com o Artigo 4.° da Lei federal n. 6.710, de 5 de novembro de 1979, é vedado ao técnico em prótese dentária:~~
 
 ~~**I** - prestar, sob qualquer forma, assistência direta aos pacientes;~~

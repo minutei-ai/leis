@@ -1,5 +1,3 @@
-###DEC-060033-0-000-11-01-1967@@@
-
 Decreto nº 60.033, de 11 de Janeiro de 1967.
 
 Concede à Pedreira Vigné Ltda. autorização para funcionar como emprêsa de mineração.

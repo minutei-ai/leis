@@ -1,5 +1,3 @@
-###DEC-058896-0-000-20-07-1966@@@
-
 DECRETO Nº 58.896, de 20 de julho de 1966.
 
 Autoriza o cidadão brasileiro Ermelino Matarazzo a pesquisar calcário, no município de Arcos, Estado de Minas Gerais.

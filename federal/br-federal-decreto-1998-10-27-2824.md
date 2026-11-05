@@ -1,5 +1,3 @@
-###DEC-002824-0-000-27-10-1998@@@
-
 DECRETO Nº 2.824, DE 27 DE OUTUBRO DE 1998
 
 Aprova o Regimento Interno do Conselho de Recursos do Sistema Nacional de Seguros Privados, de Previdência Privada Aberta e de Capitalização.

@@ -1,5 +1,3 @@
-###DEC-082615-0-000-08-11-1978@@@
-
 decreto nº 82.615, de 08 de novembro de 1978.
 
 Cria o Centro de Mísseis e Armas Submarinas da Marinha (CSMASM), extingue o Centro de Armamento da Marinha (CAM) e o Centro de Mísseis da Marinha (CMisM), e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000220-0-000-01-10-2004@@@
-
 MEDIDA PROVISÓRIA Nº 220, DE 1º DE OUTUBRO DE 2004
 
 Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, no âmbito do Poder Executivo Federal, e dá nova redação a dispositivos das Leis nºs 10.438, de 26 de abril de 2002, e 10.683, de 28 de maio de 2003.

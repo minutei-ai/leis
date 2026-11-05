@@ -1,5 +1,3 @@
-###DEC-076768-0-000-11-12-1975@@@
-
 DECRETO Nº 76.768, DE 11 DE DEZEMBRO DE 1975.
 
 Altera dispositivo do Cerimonial da Marinha do Brasil, aprovado pelo Decreto nº 43.807, de 27 de maio de 1958, alterado pelos Decretos números 61.048, de 21 de julho de 1967, 62.522, de 15 de abril de 1968 e 65.840, de 11 de dezembro de 1969.

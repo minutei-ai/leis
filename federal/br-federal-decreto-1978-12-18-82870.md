@@ -1,5 +1,3 @@
-###DEC-082870-0-000-18-12-1978@@@
-
 Decreto nº 82.870, de 18 de dezembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessária à implantação da subestação de Pirangi da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

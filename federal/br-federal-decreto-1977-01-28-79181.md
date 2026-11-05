@@ -1,5 +1,3 @@
-###DEC-079181-0-000-28-01-1977@@@
-
 DECRETO Nº 79.181, DE 28 DE JANEIRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-003991-0-000-30-12-1941@@@
-
 DECRETO‑LEI Nº 3.991 – DE 30 DE DEZEMBRO DE 1941
 
 Revoga o decreto‑lei nº 3.427, de 16 de julho de 1941 e dá outras providências.

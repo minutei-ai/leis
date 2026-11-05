@@ -1,5 +1,3 @@
-###DEC-078193-0-000-03-08-1976@@@
-
 DECRETO nº 78.193, de 3 de agosto de 1976.
 
 Autoriza o aterro da área em mar, que menciona, situado na Cidade e Estado do Rio de Janeiro.

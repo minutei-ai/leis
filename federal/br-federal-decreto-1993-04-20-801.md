@@ -1,5 +1,3 @@
-###DEC-000801-0-000-20-04-1993@@@
-
 DECRETO N° 801, DE 20 DE ABRIL DE 1992
 
 Dispõe sobre a vinculação das entidades integrantes da Administração Pública Federal indireta aos órgãos da Presidência da República e aos Ministérios.

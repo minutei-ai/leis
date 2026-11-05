@@ -1,5 +1,3 @@
-###DEC-004778-0-000-11-07-2003@@@
-
 DECRETO Nº 4.778, DE 11 DE JULHO DE 2003.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo a República da Namíbia sobre Cooperação Naval, de 3 de dezembro de 2001.
@@ -22,14 +20,11 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 11 de julho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
  
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 14.7.2003
-
- ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DA REPÚBLICA DA NAMÍBIA SOBRE COOPERAÇÃO NAVAL
 
@@ -139,7 +134,26 @@ ARTIGO XVI
 
         Feito em Windhoek, em 3 de dezembro de 2001, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="width:473.25pt; margin-bottom:0pt"><tbody><tr><td style="width:246pt; padding:3pt; vertical-align:top"><p class="NormalWeb" style="margin-bottom:10pt; font-size:12pt"><span>________________</span><span>______________</span></p><p class="NormalWeb" style="margin-top:10pt; font-size:12pt"><span style="font-family:'Arial                   '">PELO GOVERNO DA REPÚ</span><span style="font-family:'Arial                   '">BLICA</span><br><span style="font-family:'Arial                   '">FEDERATIVA DO BRASIL</span><br><span style="font-family:'Arial                   '">Orlando Galvê</span><span style="font-family:'Arial                   '">as Oliveira</span><br><span style="font-family:'Arial                   '">Embaixador</span></p></td><td style="width:203.25pt; padding:3pt; vertical-align:top"><p class="NormalWeb" style="margin-bottom:10pt; font-size:12pt"><span>_______________________________</span></p><p class="NormalWeb" style="margin-top:10pt; font-size:12pt"><span style="font-family:'Arial                   '">PELO GOVERNO DA REPÚ</span><span style="font-family:'Arial                   '">BLICA</span><br><span style="font-family:'Arial                   '">DA NAMÍ</span><span style="font-family:'Arial                   '">BIA</span><br><span style="font-family:'Arial                   '">Erastus Negonga</span><br><span style="font-family:'Arial                   '">Secretá</span><span style="font-family:'Arial                   '">rio-Permanente do Ministé</span><span style="font-family:'Arial                   '">rio</span><br><span style="font-family:'Arial                   '">da Defesa</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="width:473.25pt; margin-bottom:0pt"><tbody><tr><td style="width:246pt; padding:3pt; vertical-align:top">
+
+______________________________
+
+PELO GOVERNO DA REPÚBLICA
+FEDERATIVA DO BRASIL
+Orlando Galvêas Oliveira
+Embaixador
+
+</td><td style="width:203.25pt; padding:3pt; vertical-align:top">
+
+_______________________________
+
+PELO GOVERNO DA REPÚBLICA
+DA NAMÍBIA
+Erastus Negonga
+Secretário-Permanente do Ministério
+da Defesa
+
+</td></tr></tbody></table>
 
 A P Ê N D I C E
 

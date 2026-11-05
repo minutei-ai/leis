@@ -1,5 +1,3 @@
-###DEC-054743-0-000-30-10-1964@@@
-
 DECRETO Nº 54.743, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Joaquim Zacarias Vieira a pesquisar amianto, no município de Itapaci, Estado de Goiás.

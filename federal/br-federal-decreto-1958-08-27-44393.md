@@ -1,14 +1,12 @@
-###DEC-044393-0-000-27-08-1958@@@
+**DECRETO Nº 44.393, DE 27 DE AGÔSTO 1958.**
 
-<strong>DECRETO Nº 44.393, DE 27 DE AGÔSTO 1958.</strong>
+***Altera dispositivos do Regimento do Serviço de Economia Rural, do Ministério da Agricultura.***
 
-<em><strong>Altera dispositivos do Regimento do Serviço de Economia Rural, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 2º, 8º, 10 e 12 do Regulamento do Serviço de Economia Rural, aprovado pelo Decreto nº 4.440, de 26 de julho de 1939, passam a vigorar com a seguinte redação:
+**Art**. 1º Os artigos 2º, 8º, 10 e 12 do Regulamento do Serviço de Economia Rural, aprovado pelo Decreto nº 4.440, de 26 de julho de 1939, passam a vigorar com a seguinte redação:
 
 “Art. 2º O Serviço de Economia Rural é constituído dos seguintes órgãos:
 
@@ -184,7 +182,7 @@ c) remeter regularmente, ao Diretor do S.E.R., e à D.O. os boletins de renda;
 
 d) lavrar autos de fraude e infração e aplicar multas, de acôrdo com o que determina a lei;
 
-e) exercer as atribuições constantes das alíneias <em>b, d, f</em> e <em>g</em> do art. 11 dêste Regimento;
+e) exercer as atribuições constantes das alíneias *b, d, f* e *g* do art. 11 dêste Regimento;
 
 f) aplicar ao pessoal que lhe fôr subordinado penas disciplinares, inclusive a de suspensão por 10 dias, representando à autoridade superior quando a penalidade não couber na sua alçada;
 
@@ -194,7 +192,7 @@ a) dirigir e fiscalizar os trabalhos a cargo do Pôsto;
 
 b) remeter, diàriamente, à repartição arrecadadora a guia de recolhimento das taxas arrecadadas;
 
-c) exercer as atribuições constantes das alíneas <em>b, d, f, e g</em>, do art. 11 dêste Regimento.
+c) exercer as atribuições constantes das alíneas *b, d, f, e g*, do art. 11 dêste Regimento.
 
 V - Da Portaria:
 
@@ -202,12 +200,12 @@ a) determinar as escalas de serviço e fiscalizar normalmente a execução dos t
 
 b) fiscalizar o uso dos uniformes dos contínuos, serventes e mensageiros”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de agôsto de 1958; 137º da independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Paulo Fróes da Cruz

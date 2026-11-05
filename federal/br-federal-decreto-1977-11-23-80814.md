@@ -1,5 +1,3 @@
-###DEC-080814-0-000-23-11-1977@@@
-
 Decreto nº 80.814, de 23 de noVembro de 1977.
 
 Declara sem efeito o Decreto nº 40.653, de 28 de dezembro de 1956, que autorizou o cidadão brasileiro Armando João Caropreso a lavrar argila e associados no Município de São Paulo, Estado de São Paulo.

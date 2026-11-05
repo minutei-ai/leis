@@ -1,5 +1,3 @@
-###DEC-096459-0-000-02-08-1988@@@
-
 DECRETO N° 96.459, DE 2 DE AGOSTO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

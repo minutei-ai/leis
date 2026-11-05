@@ -1,5 +1,3 @@
-###DEC-069282-0-000-24-09-1971@@@
-
 DECRETO Nº 69.282, DE 24 DE SETEMBRO DE 1971.
 
 Regulamenta os incentivos à exportação previstos no Decreto-lei número 1.189, de 24 de setembro de 1971 e dá outras providências.

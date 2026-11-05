@@ -1,5 +1,3 @@
-###DEC-068915-0-000-13-07-1971@@@
-
 DECRETO Nº 68.915, DE 13 DE JULHO DE 1971.
 
 Autorização para funcionamento da Faculdade de Filosofia, Ciências e Letras "Carlos Queiroz", com os cursos de Pedagogia e Letras - São Paulo.

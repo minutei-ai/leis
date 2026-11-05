@@ -1,5 +1,3 @@
-###DEL-005710-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.710 – DE 29 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 242.973,00, para  obras de reparos e remodelações no edifício da Alfândega de Santos

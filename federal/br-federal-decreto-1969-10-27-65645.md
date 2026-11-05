@@ -1,14 +1,12 @@
-###DEC-065645-0-000-27-10-1969@@@
+**DECRETO Nº 65.645, DE 27 DE OUTUBRO DE 1969.**
 
-<strong>DECRETO Nº 65.645, DE 27 DE OUTUBRO DE 1969.</strong>
+***Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.***
 
-<em><strong>Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.</strong></em>
+**OS MINISTROS DA MARINHA DE GUERRA**, **DO EXÉRCITO E DA AERONÁUTICA MILITAR**, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição, e tendo em vista o disposto no artigo 99, § 2º, do Decreto-lei número 200, de 25 de fevereiro de 1967,
 
-<strong>OS MINISTROS DA MARINHA DE GUERRA</strong>, <strong>DO EXÉRCITO E DA AERONÁUTICA MILITAR</strong>, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição, e tendo em vista o disposto no artigo 99, § 2º, do Decreto-lei número 200, de 25 de fevereiro de 1967,
+**DECRETAM:**
 
-<strong>DECRETAM:</strong>
-
-<strong>Art</strong>. 1º Ficam redistribuídos no Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, com os respectivos cargos do Quadro Pessoal - Parte Suplementar do Ministério dos Transportes os servidores autárquicos:
+**Art**. 1º Ficam redistribuídos no Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, com os respectivos cargos do Quadro Pessoal - Parte Suplementar do Ministério dos Transportes os servidores autárquicos:
 
 I - Originários do extinto Lloyd Brasileiro - Patrimônio Nacional:
 
@@ -98,15 +96,15 @@ NCr$309,60
 
 4\. Edilson Garcia da Silva
 
-<strong>Art</strong>. 2º O Ministério dos Transportes remeterá ao Órgão de Pessoal do Conselho Nacional de Pesquisas, no prazo de 30 (trinta) dias a contar da publicação dêste Decreto, os assentamentos individuais dos funcionários movimentados por fôrça do disposto neste ato.
+**Art**. 2º O Ministério dos Transportes remeterá ao Órgão de Pessoal do Conselho Nacional de Pesquisas, no prazo de 30 (trinta) dias a contar da publicação dêste Decreto, os assentamentos individuais dos funcionários movimentados por fôrça do disposto neste ato.
 
-<strong>Art</strong>. 3º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento, venha a ser considerada nula, ilegal ou contrária às normas legais ou administrativas aplicáveis à espécie.
+**Art**. 3º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento, venha a ser considerada nula, ilegal ou contrária às normas legais ou administrativas aplicáveis à espécie.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 27 de outubro de 1969; 148º da Independência e 81º da República.
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 Aurélio de Lyra Tavares
 

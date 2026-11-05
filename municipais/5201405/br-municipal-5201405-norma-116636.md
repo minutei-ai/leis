@@ -1,6 +1,5 @@
 LEI Nº 3.432, DE 17 DE SETEMBRO DE 2018
 
-<br>
 Dispõe sobre denominação da Praça Marlucia Terezinha de Jesus Alves, no Jardim Tropical.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
@@ -11,8 +10,10 @@ Art. 2º Esta lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 17 de setembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil

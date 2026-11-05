@@ -1,5 +1,3 @@
-###DEC-077373-0-000-01-04-1976@@@
-
 DECRETO Nº 77.373 - DE 1º DE ABRIL DE 1976
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operações de crédito externo a serem contratadas pela ARSA - Aeroportos do Rio de Janeiro S.A.

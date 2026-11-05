@@ -1,5 +1,3 @@
-###DEC-045273-0-000-23-01-1959@@@
-
 decreto nº 45.273, de 23 de janeiro de 1959.
 
 Suprime cargos, no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio.

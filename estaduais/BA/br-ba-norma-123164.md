@@ -904,10 +904,14 @@ Parágrafo único - Os agentes, quanto obstados, poderão requisitar força poli
 
 II - O valor correspondente até 20% (vinte por cento) dos recursos destinados à gestão e preservação do meio ambiente e dos recursos hídricos, na forma prevista no inciso III, do art. 1º, da Lei Estadual nº 9.281, de 07 de outubro de 2004, referente às compensações financeiras previstas no § 1º do art. 20 da Constituição Federal."
 
-Retificado no D.O.E. 26.06.2013.<br>
-No art. 4º da Lei nº 12.377, de 28 de dezmbro de 2011, publicado no Diário Oficial do Estado de 29 de dezembro de 2011:<br>
-ONDE SE LÊ: "...Art. 33...<br>
-II - na forma prevista no inciso I, do art. 1º, da Lei Estadual nº 9.281..." <br>
+Retificado no D.O.E. 26.06.2013.
+
+No art. 4º da Lei nº 12.377, de 28 de dezmbro de 2011, publicado no Diário Oficial do Estado de 29 de dezembro de 2011:
+
+ONDE SE LÊ: "...Art. 33...
+
+II - na forma prevista no inciso I, do art. 1º, da Lei Estadual nº 9.281..." 
+
 LEIA-SE: "... II - na forma prevista no inciso III, do art. 1º, da Lei Estadual nº 9.281..."
 
 "Art. 46-A - O CONERH terá a seguinte estrutura:

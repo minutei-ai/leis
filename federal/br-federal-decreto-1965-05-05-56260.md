@@ -1,5 +1,3 @@
-###DEC-056260-0-000-05-05-1965@@@
-
 DECRETO Nº 56.260, DE 5 DE MAIO DE 1965.
 
 Dá nova redação ao art. 2° do Decreto n° 55.643, de 27 de janeiro de 1965.

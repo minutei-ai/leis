@@ -23,7 +23,6 @@ CUMPRA-SE e PUBLIQUE-SE.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em GOIÂNIA, aos 24 dias do mês de abril de 2023.
 
-<br>
+SELENE PERES PERES NUNES
 
-SELENE PERES PERES NUNES<br>
 Secretária de Estado da Economia, interina

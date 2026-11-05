@@ -1,5 +1,3 @@
-###DEC-053577-0-000-21-02-1964@@@
-
 decreto nº 53.577, de 21 de fevereiro de 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$500.000.000,00 (quinhentos milhões de cruzeiros) para atender à integralização de ações da Siderúrgica de Santa Catarina S. A.

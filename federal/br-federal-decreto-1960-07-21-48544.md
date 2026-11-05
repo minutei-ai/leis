@@ -1,5 +1,3 @@
-###DEC-048544-0-000-21-07-1960@@@
-
 DECRETO Nº 48.544, DE 21 DE JULHO DE 1960.
 
 Autoriza a cidadã brasileira Francisca Silveira da Cunha a pesquisar minério de estanho, cobre e chumbo, no município de Santo Amaro da Imperatriz, Estado de Santa Catarina.

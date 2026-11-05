@@ -1,5 +1,3 @@
-###DEC-056770-0-000-20-08-1965@@@
-
 decreto nº 56.770, de 20 de Agôsto de 1965.
 
 Autoriza o cidadão brasileiro Sebastião Biazzo a pesquisar argila, no município de Casa Branca, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-095499-0-000-16-12-1987@@@
-
 DECRETO Nº 95.499, DE 16 DE DEZEMBRO DE 1987
 
 Revoga a concessão outorgada à RÁDIO PROGRESSO DE SOUZA LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Souza, Estado da Paraíba.

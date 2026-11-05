@@ -1,5 +1,3 @@
-###DEC-086861-0-000-19-01-1982@@@
-
 Decreto nº 86.861, de 19 de janeiro de 1982
 
 Outorga à DESTILARIA AQUARIUS S.A. concessão para o aproveitamento da energia hidráulica de um trecho do rio Correntes, no Município de Pedro Gomes, Estado de Mato Grosso do Sul, para uso exclusivo.

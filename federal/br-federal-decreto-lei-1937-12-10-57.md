@@ -1,5 +1,3 @@
-###DEL-000057-0-000-10-12-1937@@@
-
 DECRETO-LEI N. 57 – DE 10 DE DEZEMBRO DE 1937
 
 Transfere à Associação “Lar Proletário” a propriedade e a posse de terrenos da União no Distrito Federal

@@ -1,5 +1,3 @@
-###DEC-083393-0-000-02-05-1979@@@
-
 DECRETO Nº 83.393, DE 02 DE MAIO DE 1979.
 
 Concede reconhecimento ao curso de Odontologia, da Faculdade de Odontologia de Governador Valadares, em Governador Valadares, Minas Gerais.

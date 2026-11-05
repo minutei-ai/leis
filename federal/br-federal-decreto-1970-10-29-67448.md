@@ -1,5 +1,3 @@
-###DEC-067448-0-000-29-10-1970@@@
-
 decreto nº 67.448, de 29 de outubro de 1970.
 
 Autorização para o funcionamento de Cursos do Instituto de Tecnologia de Governador Valadares, MG.

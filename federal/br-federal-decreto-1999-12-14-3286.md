@@ -1,5 +1,3 @@
-###DEC-003286-0-000-14-12-1999@@@
-
 DECRETO Nº 3.286, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Banco do Estado do Ceará S. A. - BEC e do Banco do Estado de Goiás S. A. - BEG.

@@ -1,5 +1,3 @@
-###DEC-064835-0-000-18-07-1969@@@
-
 decreto nº 64.835 - de 18 de julho de 1969.
 
 Declara caduco o Decreto número 15.734 de 31 de Julho  de 1969.

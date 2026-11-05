@@ -1,5 +1,3 @@
-###DEC-060679-0-000-03-05-1967@@@
-
 DECRETO Nº 60.679, DE 3 DE MAIO DE 1967.
 
 Institui o Fundo de Refinamento da Marinha Mercante e dá outras providências.

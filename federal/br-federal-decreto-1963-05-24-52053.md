@@ -1,5 +1,3 @@
-###DEC-052053-0-000-24-05-1963@@@
-
 DECRETO Nº 52.053, DE 24 DE MAIO DE 1963.
 
 Dispõe sôbre a oficialização da I Conferência Interamericana para o Ensino da Física e a II Conferência Internacional sôbre Física na Educação Geral.

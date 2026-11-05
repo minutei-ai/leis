@@ -1,5 +1,3 @@
-###DEC-085619-0-000-06-01-1981@@@
-
 Decreto nº 85.619, de 06 de janeiro de 1981
 
 Autoriza o aumento de potência da RÁDIO NOSSA SENHORA DA LUZ LTDA., na cidade de Clevelândia, - Estado do Paraná.

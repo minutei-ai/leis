@@ -1,5 +1,3 @@
-###DEC-081307-0-000-03-02-1978@@@
-
 Decreto nº 81.307, de 03 de fevereiro de 1978.
 
 Revoga dispositivos do Decreto nº 77.790, de 9 de junho de 1976.

@@ -1,5 +1,3 @@
-###DEC-045051-0-000-15-12-1958@@@
-
 Decreto nº 45.051, de 15 de dezembro de 1958.
 
 Concede à sociedade anônima Ford Motor do Brasil S.A. autorização para continuar a funcionar na República.

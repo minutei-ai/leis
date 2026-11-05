@@ -1,5 +1,3 @@
-###DEL-006857-0-000-06-09-1944@@@
-
 DECRETO-LEI N. 6.857 – DE 6 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 10.000,00, à verba que especifica.

@@ -1,5 +1,3 @@
-###DEC-007225-0-000-01-07-2010@@@
-
 DECRETO Nº 7.225, DE 1º DE JULHO DE 2010.
 
 Promulga o Protocolo de Assunção sobre Compromisso com a Promoção e a Proteção dos Direitos Humanos do Mercosul, assinado em Assunção, em 20 de junho de 2005
@@ -116,4 +114,20 @@ A República do Paraguai será depositária do presente Protocolo e dos respecti
 
 FEITO na cidade de Assunção, República do Paraguai, aos dezenove dias do mês de junho de dois mil e cinco, em um original, nos idiomas espanhol e português, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:200.65pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">__________________________ RAFAEL BIELSA Pela República Argentina</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;</span></p></td><td style="width:224.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________________________ CELSO LUIZ NUNES AMORIM Pela República Federativa do Brasil</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;</span></p></td></tr><tr><td style="width:200.65pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">__________________________ LEILA RACHID Pela República do Paraguai</span></p></td><td style="width:224.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">__________________________ REINALDO GARGANO Pela República Oriental do Uruguai</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:200.65pt; vertical-align:top">
+
+__________________________ RAFAEL BIELSA Pela República Argentina&nbsp;&nbsp;
+
+</td><td style="width:224.55pt; vertical-align:top">
+
+_________________________ CELSO LUIZ NUNES AMORIM Pela República Federativa do Brasil&nbsp;&nbsp;
+
+</td></tr><tr><td style="width:200.65pt; vertical-align:top">
+
+__________________________ LEILA RACHID Pela República do Paraguai
+
+</td><td style="width:224.55pt; vertical-align:top">
+
+__________________________ REINALDO GARGANO Pela República Oriental do Uruguai
+
+</td></tr></tbody></table>

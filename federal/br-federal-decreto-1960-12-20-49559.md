@@ -1,5 +1,3 @@
-###DEC-049559-0-000-20-12-1960@@@
-
 DECRETO Nº 49.559, DE 20 DE Dezembro DE 1960.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$500.000,00 para atender às comemorações, em 1958, do centenário da imprensa interior do Estado de São Paulo.

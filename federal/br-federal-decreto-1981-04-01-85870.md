@@ -1,5 +1,3 @@
-###DEC-085870-0-000-01-04-1981@@@
-
 Decreto nº 85.870, de 01 de abril de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

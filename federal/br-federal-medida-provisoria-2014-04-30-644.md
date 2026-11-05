@@ -8,7 +8,41 @@ Art. 1º O imposto sobre a renda incidente sobre os rendimentos de pessoas físi
 
 Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>Base de Cálculo (R$)</span></p></td><td style="width:142.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>Alíquota (%)</span></p></td><td style="width:142.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>Parcela a Deduzir do IR (R$)</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>Até 1.868,22</span></p></td><td style="width:142.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>-</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>-</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>De 1.868,23 até 2.799,86</span></p></td><td style="width:142.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>7,5</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>140,12</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>De 2.799,87 até 3.733,19</span></p></td><td style="width:142.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>15</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>350,11</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>De 3.733,20 até 4.664,68</span></p></td><td style="width:142.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>22,5</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>630,10</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>Acima de 4.644,68</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>27,5</span></p></td><td style="width:142.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>863,33</span></p></td></tr></tbody></table>
+Base de Cálculo (R$)
+
+Alíquota (%)
+
+Parcela a Deduzir do IR (R$)
+
+Até 1.868,22
+
+-
+
+-
+
+De 1.868,23 até 2.799,86
+
+7,5
+
+140,12
+
+De 2.799,87 até 3.733,19
+
+15
+
+350,11
+
+De 3.733,20 até 4.664,68
+
+22,5
+
+630,10
+
+Acima de 4.644,68
+
+27,5
+
+863,33
 
 Parágrafo único. O imposto sobre a renda anual devido incidente sobre os rendimentos de que trata o caput deste artigo será calculado de acordo com tabela progressiva anual correspondente à soma das tabelas progressivas mensais vigentes nos meses de cada ano-calendário.
 

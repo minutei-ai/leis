@@ -1,5 +1,3 @@
-###DEC-046870-0-000-16-09-1959@@@
-
 decreto nº 46.870, de 16 de setembro de 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Serviço de Estatística da Produção do Ministério da Agricultura, para a Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

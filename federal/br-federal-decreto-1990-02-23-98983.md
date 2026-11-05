@@ -1,7 +1,3 @@
-1
-
-###DEC-098983-0-000-23-02-1990@@@
-
 DECRETO Nº 98.983, DE 23 DE FEVEREIRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas  DNOCS, área de terra, abrangida pela bacia hidráulica e faixa seca do Açude Público “CASTANHÃO”, nos Municípios de Alto Santo, Jaguaribara, Jaguaretama e Jaguaribe, Estado do Ceará, e dá outras providências.

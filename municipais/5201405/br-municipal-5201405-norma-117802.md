@@ -10,15 +10,41 @@ Art. 1º - Ficam remembrados e desmembrados o Lote 14 da Quadra 65 e a Alameda S
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMOVEIS</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">Lote 14 Quadra 65</td><td style="text-align:center">451,50</td></tr><tr><td style="text-align:center">Alameda Santos Dumont Parte 2</td><td>1.966,64</td></tr></tbody></table>
+IMOVEIS
+
+ÁREA (m²)
+
+Lote 14 Quadra 65
+
+451,50
+
+Alameda Santos Dumont Parte 2
+
+1.966,64
 
 SITUAÇÃO INTERMEDIÁRIA/REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">Alameda Santos Dumont Parte 2/14</td><td style="text-align:center">2.418,14</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+Alameda Santos Dumont Parte 2/14
+
+2.418,14
 
 SITUAÇÃO PROPOSTA/DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEIS</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">Alameda Santos Dumont Parte 2/14A</td><td style="text-align:center">975,64</td></tr><tr><td style="text-align:center">Alameda Santos Dumont Parte 2/14B</td><td style="text-align:center">1.442,50</td></tr></tbody></table>
+IMÓVEIS
+
+ÁREA (m²)
+
+Alameda Santos Dumont Parte 2/14A
+
+975,64
+
+Alameda Santos Dumont Parte 2/14B
+
+1.442,50
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2019.073.952, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -26,8 +52,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 02 de fevereiro de 2023.
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JULIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana<br>
+JULIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana

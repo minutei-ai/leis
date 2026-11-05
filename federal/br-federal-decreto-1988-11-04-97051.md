@@ -1,5 +1,3 @@
-###DEC-097051-0-000-04-11-1988@@@
-
 DECRETO Nº 97.051, DE 4 DE NOVEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Licenciatura Plena em Educação Física e do curso superior de Tecnologia em Processamento de Dados.

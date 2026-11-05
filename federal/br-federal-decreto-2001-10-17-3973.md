@@ -1,5 +1,3 @@
-###DEC-003973-0-000-17-10-2001@@@
-
 DECRETO Nº 3.973, DE 17 DE OUTUBRO DE 2001
 
 Dispõe sobre a organização dos empregos públicos criados pela Lei nº 10.225, de 15 de maio de 2001, no Quadro de Pessoal do Hospital das Forças Armadas.

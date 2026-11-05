@@ -1,7 +1,3 @@
-1
-
-###DEL-002351-0-000-07-08-1987@@@
-
 # DECRETO-LEI Nº 2.351, DE 7 DE AGOSTO DE 1987
 
 Institui o Piso Nacional de Salários e o Salário Mínimo de Referência, e dá outras providências.

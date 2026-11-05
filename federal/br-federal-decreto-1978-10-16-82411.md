@@ -1,5 +1,3 @@
-###DEC-082411-0-000-16-10-1978@@@
-
 Decreto n.º 82 411, de 16 de outubro de 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia para operação externa que menciona.

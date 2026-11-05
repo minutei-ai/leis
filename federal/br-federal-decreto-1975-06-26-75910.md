@@ -1,5 +1,3 @@
-###DEC-075910-0-000-26-06-1975@@@
-
 DECRETO Nº 75.910, de 26 DE JUNHO DE 1975.
 
 Aprova o Regulamento de Movimentação do Pessoal Militar do Exército. (R-50)

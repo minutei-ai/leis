@@ -1,5 +1,3 @@
-###DEC-076105-0-000-11-08-1975@@@
-
 Decreto nº 76.105 - de 11 de agosto de 1975
 
 Torna sem efeito aproveitamento de disponível do Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e cassa a disponibilidade do mesmo.

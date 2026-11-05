@@ -1,5 +1,3 @@
-###DEC-064638-0-000-03-06-1969@@@
-
 DECRETO Nº 64.638, DE 3 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 36.380, de 23 de outubro de 1954.

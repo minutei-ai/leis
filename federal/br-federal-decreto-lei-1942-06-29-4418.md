@@ -1,5 +1,3 @@
-###DEL-004418-0-000-29-06-1942@@@
-
 DECRETO-LEI N. 4.418 – DE 29 DE JUNHO DE 1942
 
 Cria a função gratificada de Secretário do Diretor da Colônia Penal Cândido Mendes.

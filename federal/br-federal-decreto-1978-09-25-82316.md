@@ -1,5 +1,3 @@
-###DEC-082316-0-000-25-09-1978@@@
-
 Decreto nº 82 316, de 25 de setembro de 1978
 
 Altera o Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 72.699, de 27 de agosto de 1973.

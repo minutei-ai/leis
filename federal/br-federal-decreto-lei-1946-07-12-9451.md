@@ -1,5 +1,3 @@
-###DEL-009451-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.451 – DE 12 DE JULHO DE 1946
 
 Aposenta o Doutor Augusto de La Rocque e dá outras providências.

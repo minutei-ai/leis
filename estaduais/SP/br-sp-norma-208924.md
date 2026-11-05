@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208924)<br>
-
 # DECRETO N° 68.166, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação do Serviço de Atendimento ao Usuário - SAU13, no km 365+530m da Rodovia SP-294, no Município de Piratininga, e dá providências correlatas._

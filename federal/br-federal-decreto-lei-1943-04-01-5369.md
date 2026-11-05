@@ -1,5 +1,3 @@
-###DEL-005369-0-000-01-04-1943@@@
-
 DECRETO‑LEI N. 5.369 – DE 1 DE ABRIL DE 1943
 
 Altera, enquanto durar o estado de beligerância, a cobrança da taxa de arma­zenagem interna, nos portos do país

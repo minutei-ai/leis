@@ -1,5 +1,3 @@
-###DEC-064258-0-000-21-03-1969@@@
-
 DECRETO Nº 64.258, DE 21 DE MARÇO DE 1969.
 
 Revoga os Decretos nºs 35.624 de 7 de junho de 1954, 41.758 de 3 de julho de 1957, 44.643 de 17 de outubro de 1958, outorga concessão para produzir, transmitir e fornecer energia elétrica e dá outras providências.

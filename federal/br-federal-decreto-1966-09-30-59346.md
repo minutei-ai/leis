@@ -1,5 +1,3 @@
-###DEC-059346-0-000-30-09-1966@@@
-
 DECRETO Nº 59.346, DE 30 DE SETEMBRO DE 1966.
 
 Declara de utilidade pública a “Associação Casa da Criança de Santos”, com sede em Santos, Estado de São Paulo.

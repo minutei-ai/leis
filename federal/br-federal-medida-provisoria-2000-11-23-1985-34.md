@@ -1,5 +1,3 @@
-###MPV-001985-0-034-23-11-2000@@@
-
 MEDIDA PROVISÓRIA N. 1.985-34 – DE 23 DE NOVEMBRO DE 2000
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

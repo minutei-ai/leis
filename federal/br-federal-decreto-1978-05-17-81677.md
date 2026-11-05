@@ -1,5 +1,3 @@
-###DEC-081677-0-000-17-05-1978@@@
-
 Decreto nº 81.677, de 17 de maio de 1978.
 
 Aprova o Regulamento do Centro de Documentação e Histórico da Aeronáutica e dá outras providências.

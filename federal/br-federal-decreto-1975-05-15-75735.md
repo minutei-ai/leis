@@ -1,5 +1,3 @@
-###DEC-075735-0-000-15-05-1975@@@
-
 DECRETO Nº 75.735, DE 15 DE MAIO DE 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita do terreno que menciona, situado no Município de São Francisco do Sul, Estado de Santa Catarina.

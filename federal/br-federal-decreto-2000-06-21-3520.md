@@ -1,5 +1,3 @@
-###DEC-003520-0-000-21-06-2000@@@
-
 DECRETO Nº 3.520, DE 21 DE JUNHO DE 2000.
 
 Dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Política Energética - CNPE e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092096-0-000-09-12-1985@@@
-
 Decreto nº 92.096, de 09 de dezembro de 1985.
 
 Dispõe sobre a concessão e atualização das pensões especiais e dá outras providências.

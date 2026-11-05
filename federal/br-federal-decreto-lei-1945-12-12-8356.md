@@ -1,5 +1,3 @@
-###DEL-008356-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.356 – DE 12 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a manifestação do pensamento por meio da radiodifusão.

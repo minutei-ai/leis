@@ -1,5 +1,3 @@
-###DEC-081025-0-000-12-12-1977@@@
-
 DECRETO Nº 81.025, DE 12 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Ciências Econômicas da Sociedade Unificada de Ensino Superior Augusto Motta, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

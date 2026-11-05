@@ -1,5 +1,3 @@
-###DEC-047130-0-000-27-10-1959@@@
-
 decreto nº 47.130, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Pedro Heitor Dante Violani a pesquisar caulim no município de Campo Largo, Estado do Paraná.

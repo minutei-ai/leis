@@ -1,5 +1,3 @@
-###DEC-049159-0-000-01-11-1960@@@
-
 DECRETO Nº 49.159, DE 1º DE Novembro DE 1960.
 
 Dispõe sôbre a execução do parágrafo único do art. 65 da Lei nº 3.780 de 12 de julho de 1960.

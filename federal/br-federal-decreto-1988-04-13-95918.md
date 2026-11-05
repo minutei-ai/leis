@@ -1,5 +1,3 @@
-###DEC-095918-0-000-13-04-1988@@@
-
 DECRETO N° 95.918, DE 13 DE ABRIL 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PIASSAVA”, classificado como “latifúndio por exploração”, situado no Município de Belmonte, Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

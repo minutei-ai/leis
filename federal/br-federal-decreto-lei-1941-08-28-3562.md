@@ -1,5 +1,3 @@
-###DEL-003562-0-000-28-08-1941@@@
-
 DECRETO-LEI N. 3.562 – DE 28 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de 120:000$0, à verba que especifica

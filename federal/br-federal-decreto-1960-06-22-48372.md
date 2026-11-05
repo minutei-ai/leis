@@ -1,5 +1,3 @@
-###DEC-048372-0-000-22-06-1960@@@
-
 DECRETO Nº 48.372, DE 22 DE JUNHO DE 1960.
 
 Concede à SOMIPAL S.A. - Indústria Paulista de Minérios autorização para continuar a funcionar como emprêsa de mineração.

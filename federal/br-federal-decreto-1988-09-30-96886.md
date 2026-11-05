@@ -1,5 +1,3 @@
-###DEC-096886-0-000-30-09-1988@@@
-
 DECRETO N° 96.886, DE 30 DE SETEMBRO DE 1988
 
 Outorga concessão à FUNDAÇÃO EDUCATIVA PIO XII DE RADIODIFUSÃO, para executar serviços de radiodifusão de sons e imagens {televisão) na Cidade de Juiz de Fora, Estado de Minas Gerais.

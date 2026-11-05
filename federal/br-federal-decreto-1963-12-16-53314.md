@@ -1,5 +1,3 @@
-###DEC-053314-0-000-16-12-1963@@@
-
 DECRETO Nº 53.314, DE 16 DE DEZEMBRO DE 1963.
 
 Altera o Regulamento para o Tráfego marítimo (Decreto nº 50.114, de 26 de janeiro de 1961) para o fim de dar nova redação ao art. 147, acrescentar parágrafo único ao artigo 290, transformar o parágrafo único do art. 403 e acrescentar § 2º ao mesmo artigo.

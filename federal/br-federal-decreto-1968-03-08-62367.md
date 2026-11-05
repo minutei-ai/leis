@@ -1,5 +1,3 @@
-###DEC-062367-0-000-08-03-1968@@@
-
 decreto nº 62.367, de 8 de março de 1963.
 
 Declara de utilidade pública o “Colégio Salesiano Santa Rosa” com sede em Niterói, Estado do Rio de Janeiro.

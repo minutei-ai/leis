@@ -1,5 +1,3 @@
-###DEC-060743-0-000-24-05-1967@@@
-
 Decreto nº 60.743, de 24 de maio de 1967.
 
 Declara de utilidade pública a “Congregação das Religiosas do SS. Sacramento do Brasil”, com sede em Salvador, Estado da Bahia.

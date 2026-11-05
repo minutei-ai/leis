@@ -1,5 +1,3 @@
-###DEC-053070-0-000-03-12-1963@@@
-
 DECRETO Nº 53.070, DE 3 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público “Brumado” no Município de Rio de Contas, no Estado da Bahia.

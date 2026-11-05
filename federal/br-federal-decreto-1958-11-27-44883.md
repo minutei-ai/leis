@@ -1,5 +1,3 @@
-###DEC-044883-0-000-27-11-1958@@@
-
 DECRETO Nº 44.883, DE 27 DE NOVEMBRO DE 1958.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-menslista da Escola de Aeronáutica para a do Depósito Central de Intendência.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099844-0-000-18-12-1990@@@
-
 # DECRETO N° 99.844, DE 18 DE DEZEMBRO DE 1990
 
 Promulga o Convênio Comercial entre o Governo da República Federativa do Brasil e o Governo da República de Cuba.

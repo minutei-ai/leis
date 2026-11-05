@@ -1,5 +1,3 @@
-###DEC-073493-0-000-17-01-1974@@@
-
 decreto nº 73.493, de 17 de janeiro de 1974.
 
 Concede reconhecimento ao curso de Agrimensura da Escola de Engenharia Eletro-Mecânica da Bahia, mantida pela Sociedade Civil Escola de Engenharia Eletro-Mecânica da Bahia, com sede na Cidade de Salvador, Estado da Bahia.

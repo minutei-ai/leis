@@ -1,5 +1,3 @@
-###DEC-051924-B-000-26-04-1963@@@
-
 DECRETO Nº 51.924-B, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Abineres Moura Telles a pesquisar calcário, no município de Formosa, Estado de Goiás.

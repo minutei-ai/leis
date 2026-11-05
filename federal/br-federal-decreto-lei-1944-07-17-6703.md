@@ -1,5 +1,3 @@
-###DEL-006703-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.703 – DE 17 DE JULHO DE 1944
 
 Cria uma Contadoria Seccional junto à Delegacia do Tesouro Brasileiro no exterior

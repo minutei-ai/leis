@@ -1,5 +1,3 @@
-###DEC-085682-0-000-30-01-1981@@@
-
 Decreto Nº 85.682, de 30 de janeiro de 1981
 
 Dá nova redação ao artigo 1º do Decreto nº 85.009, de 07 de agosto de 1980, de interesse da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

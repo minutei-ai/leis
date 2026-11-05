@@ -1,5 +1,3 @@
-###DEC-071156-0-000-26-09-1972@@@
-
 DECRETO Nº 71.156, DE 26 DE SETEMBRO DE 1972.
 
 Concede reconhecimento ao Curso de Letras da Universidade de Brasília - DF.

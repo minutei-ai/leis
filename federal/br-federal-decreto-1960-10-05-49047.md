@@ -1,5 +1,3 @@
-###DEC-049047-0-000-05-10-1960@@@
-
 DECRETO Nº 49.047, DE 5 DE OUTUBRO DE 1960.
 
 Renova o Decreto nº 43.375, de 12 de março de 1958.

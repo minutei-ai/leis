@@ -1,7 +1,3 @@
-1
-
-###DEC-098435-0-000-23-11-1989@@@
-
 DECRETO Nº 98.435, DE 23 DE NOVEMBRO DE 1989
 
 Renova a concessão outorgada à RADIODIFUSORA DE CÁCERES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cáceres, Estado do Mato Grosso.

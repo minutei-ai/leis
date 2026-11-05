@@ -1,5 +1,3 @@
-###DEC-083002-0-000-10-01-1979@@@
-
 Decreto nº 83 002, de 10 de janeiro de 1979
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Dourados, Estado de Mato Grosso.

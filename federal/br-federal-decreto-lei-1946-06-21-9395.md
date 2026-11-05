@@ -1,5 +1,3 @@
-###DEL-009395-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.395 – DE 21 DE JUNHO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 4.158,00 para atender ao pagamento de salários devidos a Esmael da Silva Machado.

@@ -1,5 +1,3 @@
-###DEC-090513-0-000-14-11-1984@@@
-
 Decreto nº 90.513, de 14 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da LIGHT - Serviços de Eletricidade S.A.

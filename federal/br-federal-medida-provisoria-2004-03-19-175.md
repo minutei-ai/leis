@@ -1,5 +1,3 @@
-###MPV-000175-0-000-19-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 175, DE 19 DE MARÇO 2004.
 
 Acresce parágrafo ao art. 2º da Lei nº 10.150, de 21 de dezembro de 2000, que dispõe sobre a novação de dívidas e responsabilidades do Fundo de Compensação de Variações Salariais - FCVS, e dá outras providências.

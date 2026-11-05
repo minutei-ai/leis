@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=182924)
-
 # DECRETO Nº 62.796, DE 23 DE AGOSTO DE 2017
 
 ### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de implantação de dispositivos em desnível no km 33+400m e km 40+100m da SP-461, Rodovia Deputado Roberto Rollemberg, localizadas nos Municípios de Birigui e Brejo Alegre, e dá providência correlatas_
@@ -28,10 +26,16 @@ Palácio dos Bandeirantes, 23 de agosto de 2017
 
 GERALDO ALCKMIN
 
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 23 de agosto de 2017.

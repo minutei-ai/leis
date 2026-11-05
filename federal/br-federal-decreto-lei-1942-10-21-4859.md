@@ -1,5 +1,3 @@
-###DEL-004859-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.859 – DE 21 DE OUTUBRO DE 1942
 
 Cria uma Secção de Subsistência no Serviço de Alimentação da Previdência Social, e dá outras providências

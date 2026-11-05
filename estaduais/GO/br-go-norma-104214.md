@@ -12,7 +12,8 @@ Art. 2º Os órgãos que integram o Comitê Estadual de Gestão de Incêndios Fl
 
 Art. 3º Fica autorizada, em razão da declaração de situação de emergência ambiental, a adoção de medidas à contratação, por prazo determinado, de pessoal para o atendimento de necessidade temporária de excepcional interesse público, nos termos do inciso VI, alínea “c”, do art. 2º da Lei estadual nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020.
 
-Art. 4º Fica suspenso, em todo o território estadual, enquanto vigorar este Decreto, o uso de fogo na vegetação, ressalvados os casos expressamente autorizados pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável.<br>
+Art. 4º Fica suspenso, em todo o território estadual, enquanto vigorar este Decreto, o uso de fogo na vegetação, ressalvados os casos expressamente autorizados pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável.
+
 [\- Redação dada pelo Decreto nº 9.927, de 23-08-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104266/decreto-9927)
 
 ~~Art. 4º Ficam suspensos em todo o território estadual, enquanto vigorar este Decreto, a permissão e o uso de fogo na vegetação.~~
@@ -28,8 +29,6 @@ Art. 6º Os órgãos e as entidades do Poder Executivo estadual promoverão a co
 Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 20 de julho de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

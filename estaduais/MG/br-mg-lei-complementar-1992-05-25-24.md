@@ -55,7 +55,3 @@ Evandro de Pádua Abreu
 Kemil Kumaira
 
 Octávio Elísio Alves de Brito
-
-\-------------------------------------------------
-
-Data da última atualização: 26/10/2004.

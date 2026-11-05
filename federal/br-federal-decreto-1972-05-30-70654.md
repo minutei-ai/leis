@@ -1,5 +1,3 @@
-###DEC-070654-0-000-30-05-1972@@@
-
 decreto nº 70.654, de 30 de maio de 1972.
 
 Redistribui, com o respectivo ocupante, para o Departamento Nacional de Estradas de Rodagem, cargo do Ministério das Relações Exteriores, e dá outras providências.

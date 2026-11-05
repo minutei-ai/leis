@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cdc31c2c-9c90-43cb-ac1f-dace2889179a/texto#nowhere)
 
-###DEL-001954-0-000-16-08-1982@@@
-
 # DECRETO Nº 1.954, DE 16 DE AGOSTO DE 1982.
 
 Altera dispositivos do Decreto-lei nº 1.135, de 3 de dezembro de 1970, que dispõe sobre a organização, a competência e o funcionamento do Conselho de Segurança Nacional.

@@ -1,22 +1,20 @@
-###DEC-025665-0-000-14-10-1948@@@
+**DECRETO Nº 25.665, DE 14 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.665, DE 14 DE OUTUBRO DE 1948.</strong>
+***Concedo à sociedade anônima “Booth & Company (London) Limited” autorização para continuar a funcionar na República sob a denominação de “Booth (Brazil) Limited”.***
 
-<em><strong>Concedo à sociedade anônima “Booth & Company (London) Limited” autorização para continuar a funcionar na República sob a denominação de “Booth (Brazil) Limited”.</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** atendendo ao que requereu a sociedade anônima “Booth & Company “London) Limited”, autorizada a funcionar na República  pelo Decreto número 11.525, de 17 de março de 1945,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> atendendo ao que requereu a sociedade anônima “Booth & Company “London) Limited”, autorizada a funcionar na República  pelo Decreto número 11.525, de 17 de março de 1945,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade anônima “Booth & Company (London) Limited”, com sede na Inglaterra, autorização para continuar a funcionar no país sob a denominação de “Booth (Brazil) Limited” em virtude da alteração introduzida no seu certificado de incorporação aprovada em assembléia geral extraordinária de seus acionistas e realizada a 26 de fevereiro de 1948, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 14 de outubro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 J. O. Lima Pereira.
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 25.665, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 25.665, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 14 de outubro de 1948.
 
-<strong>J. O. LIMA PEREIRA</strong>
+**J. O. LIMA PEREIRA**

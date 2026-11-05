@@ -1,5 +1,3 @@
-###DEL-001924-0-000-20-01-1982@@@
-
 # Decreto-lei nº 1.924, de 20 de janeiro de 1982
 
 Destina ao Comitê Olímpico Brasileiro a renda líquida de um dos concursos de prognósticos esportivos nos anos em que não são realizados Jogos Olímpicos ou Jogos Pan-Americanos.

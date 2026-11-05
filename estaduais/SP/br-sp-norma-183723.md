@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183723)
-
 # DECRETO Nº 62.889, DE 20 DE OUTUBRO DE 2017
 
 ### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2018 e o percentual de desconto para pagamento antecipado_
@@ -162,12 +160,18 @@ Palácio dos Bandeirantes, 20 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Tiago Antonio Morais<br>
-Chefe de Gabinete, Respondendo pelo Expediente da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Tiago Antonio Morais
+
+Chefe de Gabinete, Respondendo pelo Expediente da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 20 de outubro de 2017.
 
 OFÍCIO GS-CAT Nº 937/2017
@@ -198,7 +202,10 @@ Helcio Tokeshi
 
 Secretário da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

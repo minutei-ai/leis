@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209807)<br>
-
 # DECRETO N° 68.746, DE 05 DE AGOSTO DE 2024
 
 ### _Altera a destinação de parte do imóvel de que trata o Decreto n° 52.303, de 25 de outubro de 2007, localizado no Município de Ubatuba._

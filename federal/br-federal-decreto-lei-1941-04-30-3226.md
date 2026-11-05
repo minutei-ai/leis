@@ -1,5 +1,3 @@
-###DEL-003226-0-000-30-04-1941@@@
-
 DECRETO-LEI N. 3.226 – DE 30 DE ABRIL DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 400 :000$0 destinado a atender a despesas decorrentes da instalação da justiça do Trabalho

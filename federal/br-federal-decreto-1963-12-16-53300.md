@@ -1,5 +1,3 @@
-###DEC-053300-0-000-16-12-1963@@@
-
 DECRETO Nº 53.300, DE 16 DE DEZEMBRO dE 1963
 
 Autoriza a cidadã brasileira Selma Rosa Corradini a pesquisar Areia Quartzosa e Argila, no município de Descalvado, Estado de São Paulo

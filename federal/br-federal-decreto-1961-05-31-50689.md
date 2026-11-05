@@ -1,5 +1,3 @@
-###DEC-050689-0-000-31-05-1961@@@
-
 decreto nº 50.689, de 31 de maio de 1961.
 
 Outorga ao Govêrno do Estado de Pernambuco concessão para distribuir energia elétrica.

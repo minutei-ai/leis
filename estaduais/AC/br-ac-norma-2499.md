@@ -2,7 +2,7 @@ Modificada pela Lei nº [3.288, de 26 de Setembro de 2017.](https://legis.ac.gov
 
 > **LEI Nº 3.228, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a estrutura da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Institui a estrutura da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -19,8 +19,6 @@ Modificada pela Lei nº [3.288, de 26 de Setembro de 2017.](https://legis.ac.gov
 **Art. 1º** Esta lei dispõe sobre a estrutura da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil.
 
 **Parágrafo único.** Aplicam-se as disposições desta lei às carreiras em extinção de auxiliar de perito criminal, agente de telecomunicação policial civil e motorista oficial da polícia civil, os quais restam equiparados, para todos os fins, ao cargo de agente de polícia, inclusive para efeitos financeiros. (Incluído pela Lei nº 3.288, de 26/09/2017)
-
-<br>
 
 **Art. 2º** Os cargos da carreira dos agentes, escrivães, peritos papiloscopistas e auxiliares de necropsia da polícia civil, de natureza técnica, cientifica e multidisciplinar, serão providos por concurso público, exigida a formação em curso superior reconhecido pelo ministério da Educação – MEC, bons antecedentes e o gozo de conceito social incontestável.
 
@@ -196,8 +194,6 @@ Modificada pela Lei nº [3.288, de 26 de Setembro de 2017.](https://legis.ac.gov
 
 **Art. 17.** Aos servidores abrangidos por este plano serão aplicadas, de forma subsidiária, as disposições da Lei nº 2.250, de 21 de dezembro de 2009. (Redação dada pela Lei nº 3.288, de 26/09/2017)
 
-<br>
-
 **Art. 18.** As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias consignadas ao Poder Executivo.
 
 **Art. 19.** Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros a partir de 1º de julho de 2017.
@@ -208,37 +204,249 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 
 Governador do Estado do Acre
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO ÚNICO**
  
 **TABELA DE VENCIMENTOS**
 A partir de 1º de julho de 2017
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Agente de Polícia</span></p></td><td><p><span>Agente Oficial de Polícia</span></p></td><td><p><span>Agente Inspetor de Polícia</span></p></td><td><p><span>Agente Inspetor Especial de Polícia</span></p></td><td><p><span>Agente Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>3.627,18</span></p></td><td valign="top"><p><span>4.503,13</span></p></td><td valign="top"><p><span>4.984,40</span></p></td><td valign="top"><p><span>5.463,02</span></p></td><td valign="top"><p><span>6.074,96</span></p></td></tr></tbody></table>
+**Classe I**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Escrivão de Polícia</span></p></td><td><p><span>Escrivão Oficial de Polícia</span></p></td><td><p><span>Escrivão Inspetor de Polícia</span></p></td><td><p><span>Escrivão Inspetor Especial de Polícia</span></p></td><td><p><span>Escrivão Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>3.627,18</span></p></td><td valign="top"><p><span>4.503,13</span></p></td><td valign="top"><p><span>4.984,40</span></p></td><td valign="top"><p><span>5.463,02</span></p></td><td valign="top"><p><span>6.074,96</span></p></td></tr></tbody></table>
+**Classe II**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Perito Papiloscopista</span></p></td><td><p><span>Perito Papiloscopista Oficial de Polícia</span></p></td><td><p><span>Perito Papiloscopista Inspetor de Polícia</span></p></td><td><p><span>Perito Papiloscopista Inspetor Especial de Polícia</span></p></td><td><p><span>Perito Papiloscopista Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>3.627,18</span></p></td><td valign="top"><p><span>4.503,13</span></p></td><td valign="top"><p><span>4.984,40</span></p></td><td valign="top"><p><span>5.463,02</span></p></td><td valign="top"><p><span>6.074,96</span></p></td></tr></tbody></table>
+**Classe III**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Auxiliar de Necropsia</span></p></td><td><p><span>Auxiliar de Necropsia Oficial de Polícia</span></p></td><td><p><span>Auxiliar de Necropsia Inspetor de Polícia</span></p></td><td><p><span>Auxiliar de Necropsia<span>&nbsp;Inspetor Especial de Polícia</span></span></p></td><td><p><span>Auxiliar de Necropsia Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>3.627,18</span></p></td><td valign="top"><p><span>4.503,13</span></p></td><td valign="top"><p><span>4.984,40</span></p></td><td valign="top"><p><span>5.463,02</span></p></td><td valign="top"><p><span>6.074,96</span></p></td></tr></tbody></table>
+**Classe IV**
+
+**Classe V**
+
+Agente de Polícia
+
+Agente Oficial de Polícia
+
+Agente Inspetor de Polícia
+
+Agente Inspetor Especial de Polícia
+
+Agente Comissário de Polícia
+
+3.627,18
+
+4.503,13
+
+4.984,40
+
+5.463,02
+
+6.074,96
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Escrivão de Polícia
+
+Escrivão Oficial de Polícia
+
+Escrivão Inspetor de Polícia
+
+Escrivão Inspetor Especial de Polícia
+
+Escrivão Comissário de Polícia
+
+3.627,18
+
+4.503,13
+
+4.984,40
+
+5.463,02
+
+6.074,96
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Perito Papiloscopista
+
+Perito Papiloscopista Oficial de Polícia
+
+Perito Papiloscopista Inspetor de Polícia
+
+Perito Papiloscopista Inspetor Especial de Polícia
+
+Perito Papiloscopista Comissário de Polícia
+
+3.627,18
+
+4.503,13
+
+4.984,40
+
+5.463,02
+
+6.074,96
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Auxiliar de Necropsia
+
+Auxiliar de Necropsia Oficial de Polícia
+
+Auxiliar de Necropsia Inspetor de Polícia
+
+Auxiliar de Necropsia Inspetor Especial de Polícia
+
+Auxiliar de Necropsia Comissário de Polícia
+
+3.627,18
+
+4.503,13
+
+4.984,40
+
+5.463,02
+
+6.074,96
 
 A partir de 1º de julho de 2018
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Agente de Polícia</span></p></td><td><p><span>Agente Oficial de Polícia</span></p></td><td><p><span>Agente Inspetor de Polícia</span></p></td><td><p><span>Agente Inspetor Especial de Polícia</span></p></td><td><p><span>Agente Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>5.000,00</span></p></td><td valign="top"><p><span>6.050,00</span></p></td><td valign="top"><p><span>7.100,00</span></p></td><td valign="top"><p><span>8.150,00</span></p></td><td valign="top"><p><span>9.200,00</span></p></td></tr></tbody></table>
+**Classe I**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Escrivão de Polícia</span></p></td><td><p><span>Escrivão Oficial de Polícia</span></p></td><td><p><span>Escrivão Inspetor de Polícia</span></p></td><td><p><span>Escrivão Inspetor Especial de Polícia</span></p></td><td><p><span>Escrivão Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>5.000,00</span></p></td><td valign="top"><p><span>6.050,00</span></p></td><td valign="top"><p><span>7.100,00</span></p></td><td valign="top"><p><span>8.150,00</span></p></td><td valign="top"><p><span>9.200,00</span></p></td></tr></tbody></table>
+**Classe II**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Perito Papiloscopista</span></p></td><td><p><span>Perito Papiloscopista Oficial de Polícia</span></p></td><td><p><span>Perito Papiloscopista Inspetor de Polícia</span></p></td><td><p><span>Perito Papiloscopista Inspetor Especial de Polícia</span></p></td><td><p><span>Perito Papiloscopista Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>5.000,00</span></p></td><td valign="top"><p><span>6.050,00</span></p></td><td valign="top"><p><span>7.100,00</span></p></td><td valign="top"><p><span>8.150,00</span></p></td><td valign="top"><p><span>9.200,00</span></p></td></tr></tbody></table>
+**Classe III**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe V</strong></span></p></td></tr><tr><td><p><span>Auxiliar de Necropsia</span></p></td><td><p><span>Auxiliar de Necropsia Oficial de Polícia</span></p></td><td><p><span>Auxiliar de Necropsia Inspetor de Polícia</span></p></td><td><p><span>Auxiliar de Necropsia<span>&nbsp;Inspetor Especial de Polícia</span></span></p></td><td><p><span>Auxiliar de Necropsia Comissário de Polícia</span></p></td></tr><tr><td valign="top"><p><span>5.000,00</span></p></td><td valign="top"><p><span>6.050,00</span></p></td><td valign="top"><p><span>7.100,00</span></p></td><td valign="top"><p><span>8.150,00</span></p></td><td valign="top"><p><span>9.200,00</span></p></td></tr></tbody></table>
+**Classe IV**
+
+**Classe V**
+
+Agente de Polícia
+
+Agente Oficial de Polícia
+
+Agente Inspetor de Polícia
+
+Agente Inspetor Especial de Polícia
+
+Agente Comissário de Polícia
+
+5.000,00
+
+6.050,00
+
+7.100,00
+
+8.150,00
+
+9.200,00
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Escrivão de Polícia
+
+Escrivão Oficial de Polícia
+
+Escrivão Inspetor de Polícia
+
+Escrivão Inspetor Especial de Polícia
+
+Escrivão Comissário de Polícia
+
+5.000,00
+
+6.050,00
+
+7.100,00
+
+8.150,00
+
+9.200,00
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Perito Papiloscopista
+
+Perito Papiloscopista Oficial de Polícia
+
+Perito Papiloscopista Inspetor de Polícia
+
+Perito Papiloscopista Inspetor Especial de Polícia
+
+Perito Papiloscopista Comissário de Polícia
+
+5.000,00
+
+6.050,00
+
+7.100,00
+
+8.150,00
+
+9.200,00
+
+**Classe I**
+
+**Classe II**
+
+**Classe III**
+
+**Classe IV**
+
+**Classe V**
+
+Auxiliar de Necropsia
+
+Auxiliar de Necropsia Oficial de Polícia
+
+Auxiliar de Necropsia Inspetor de Polícia
+
+Auxiliar de Necropsia Inspetor Especial de Polícia
+
+Auxiliar de Necropsia Comissário de Polícia
+
+5.000,00
+
+6.050,00
+
+7.100,00
+
+8.150,00
+
+9.200,00

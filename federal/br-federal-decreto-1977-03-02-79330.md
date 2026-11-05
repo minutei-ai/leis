@@ -1,5 +1,3 @@
-###DEC-079330-0-000-02-03-1977@@@
-
 DECRETO Nº 79.330, DE 2 DE MARÇO DE 1977.
 
 Outorga concessão à Rádio Televisão Vanguarda Ltda., para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Cornélio Procópio Estado do Paraná.

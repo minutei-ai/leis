@@ -107,6 +107,16 @@ Procurador-Geral
 
 **"**
 
-<table style="width: 500px;"><tbody><tr><td style="width: 216px; text-align: center;">ÓRGÃO/ENTIDADE EXTINTO OU INCORPORADO</td><td style="width: 240px; text-align: center;">ÓRGÃO/ENTIDADE SUCESSOR, CRIADO OU MANTIDO</td></tr><tr><td style="width: 216px; text-align: center;">..................................................</td><td style="width: 240px; text-align: center;">..................................................</td></tr><tr><td style="width: 216px; text-align: center;">&nbsp;</td><td style="width: 240px; text-align: center;">Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA</td></tr><tr><td style="width: 216px; text-align: center;">&nbsp;</td><td style="width: 240px; text-align: center;">..................................................</td></tr></tbody></table>
+ÓRGÃO/ENTIDADE EXTINTO OU INCORPORADO
+
+ÓRGÃO/ENTIDADE SUCESSOR, CRIADO OU MANTIDO
+
+..................................................
+
+..................................................
+
+Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA
+
+..................................................
 
 ” (NR)

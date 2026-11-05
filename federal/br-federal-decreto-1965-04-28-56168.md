@@ -1,5 +1,3 @@
-###DEC-056168-0-000-28-04-1965@@@
-
 decreto nº 56.168, de 28 de abril de 1965.
 
 Concede à Cia. Tamanduá Mineradora Citam autorização para funcionar como emprêsa de mineração.

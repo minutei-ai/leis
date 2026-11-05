@@ -1,5 +1,3 @@
-###DEC-073926-0-000-10-04-1974@@@
-
 DECRETO Nº 73.926, DE 10 DE ABRIL 1974.
 
 Concede à Cia. Aços Especiais Itabira (ACESITA) o direito de lavrar quartzito no Município de Timóteo, Estado de Minas Gerais.

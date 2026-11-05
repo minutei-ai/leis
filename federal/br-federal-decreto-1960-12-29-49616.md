@@ -1,5 +1,3 @@
-###DEC-049616-0-000-29-12-1960@@@
-
 DECRETO N. 49.616 – DE 29 DE DEZEMBRO DE 1960
 
 Declara de utilidade pública o Circulo Operário Põrto Alegrense (C.O.P.A.), com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

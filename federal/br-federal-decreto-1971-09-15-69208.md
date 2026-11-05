@@ -1,5 +1,3 @@
-###DEC-069208-0-000-15-09-1971@@@
-
 DECRETO Nº 69.208, DE 15 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Associação de Caridade Hospital São João de Meriti, com sede em São João de Meriti, Estado do Rio de Janeiro.

@@ -405,160 +405,30 @@ PL-AP2
 
 **ANEXO IV**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="381" style="width:285.65pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:15.75pt"><td width="381" colspan="2" valign="bottom" style="width:285.65pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Comissão de Licitação</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRESIDENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 4.472,68</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO TITULAR</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.130,88</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO SUPLENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.236,35</span></p></td></tr><tr style="height:15.75pt"><td width="381" colspan="2" valign="bottom" style="width:285.65pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Comissão Permanente de Pregão</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PREGOEIRO</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 4.472,68</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">EQUIPE DE APOIO</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.236,35</span></p></td></tr><tr style="height:15.75pt"><td width="381" colspan="2" valign="bottom" style="width:285.65pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;Comissão de Avaliação de Desempenho</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRESIDENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO TITULAR</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO SUPLENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.330,31</span></p></td></tr><tr style="height:15.75pt"><td width="381" colspan="2" valign="bottom" style="width:285.65pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Junta Médica</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRESIDENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO TITULAR</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO SUPLENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.330,31</span></p></td></tr><tr style="height:15.75pt"><td width="381" colspan="2" valign="bottom" style="width:285.65pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;Comissão de Avaliação Especial de Desempenho</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRESIDENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO TITULAR</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.862,40</span></p></td></tr><tr style="height:15.75pt"><td width="289" valign="bottom" style="width:216.9pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MEMBRO SUPLENTE</span></p></td><td width="92" valign="bottom" style="width:68.75pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.330,31</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="bottom"> Comissão de Licitação </td></tr><tr><td valign="bottom"> PRESIDENTE </td><td valign="bottom"> R$ 4.472,68 </td></tr><tr><td valign="bottom"> MEMBRO TITULAR </td><td valign="bottom"> R$ 3.130,88 </td></tr><tr><td valign="bottom"> MEMBRO SUPLENTE </td><td valign="bottom"> R$ 2.236,35 </td></tr><tr><td colspan="2" valign="bottom"> Comissão Permanente de Pregão </td></tr><tr><td valign="bottom"> PREGOEIRO </td><td valign="bottom"> R$ 4.472,68 </td></tr><tr><td valign="bottom"> EQUIPE DE APOIO </td><td valign="bottom"> R$ 2.236,35 </td></tr><tr><td colspan="2" valign="bottom"> &nbsp;Comissão de Avaliação de Desempenho </td></tr><tr><td valign="bottom"> PRESIDENTE </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO TITULAR </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO SUPLENTE </td><td valign="bottom"> R$ 1.330,31 </td></tr><tr><td colspan="2" valign="bottom"> Junta Médica </td></tr><tr><td valign="bottom"> PRESIDENTE </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO TITULAR </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO SUPLENTE </td><td valign="bottom"> R$ 1.330,31 </td></tr><tr><td colspan="2" valign="bottom"> &nbsp;Comissão de Avaliação Especial de Desempenho </td></tr><tr><td valign="bottom"> PRESIDENTE </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO TITULAR </td><td valign="bottom"> R$ 1.862,40 </td></tr><tr><td valign="bottom"> MEMBRO SUPLENTE </td><td valign="bottom"> R$ 1.330,31 </td></tr></tbody></table>
 
 **ANEXO V**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="389" style="width:292.05pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:15.75pt"><td width="389" colspan="3" valign="bottom" style="width:292.05pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GRATIFICAÇÕES - POLICIAL MILITAR</span></p></td></tr><tr style="height:15.75pt"><td width="389" colspan="3" valign="bottom" style="width:292.05pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">OFICIAIS</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PATENTE</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">INCENTIVO</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">REPRESENT.</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - CAPITÃO</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.648,42</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 11.049,42</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - MAJOR</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.648,42</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 11.049,42</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - TENENTE</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.648,42</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 11.049,42</span></p></td></tr><tr style="height:15.75pt"><td width="389" colspan="3" valign="bottom" style="width:292.05pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DEMAIS MILITARES</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PATENTE</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">INCENTIVO</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">REPRESENT.</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - SUB TENENTE</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.040,05</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.523,58</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - SARGENTO</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.040,05</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.523,58</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - CABO</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.431,31</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.051,48</span></p></td></tr><tr style="height:15.75pt"><td width="190" valign="bottom" style="width:142.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PM - SOLDADO</span></p></td><td width="96" valign="bottom" style="width:72.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.431,31</span></p></td><td width="103" valign="bottom" style="width:77.35pt;padding:0cm 0cm 0cm 0cm;
-  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.051,48</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="bottom"> GRATIFICAÇÕES - POLICIAL MILITAR </td></tr><tr><td colspan="3" valign="bottom"> OFICIAIS </td></tr><tr><td valign="bottom"> PATENTE </td><td valign="bottom"> INCENTIVO </td><td valign="bottom"> REPRESENT. </td></tr><tr><td valign="bottom"> PM - CAPITÃO </td><td valign="bottom"> R$ 3.648,42 </td><td valign="bottom"> R$ 11.049,42 </td></tr><tr><td valign="bottom"> PM - MAJOR </td><td valign="bottom"> R$ 3.648,42 </td><td valign="bottom"> R$ 11.049,42 </td></tr><tr><td valign="bottom"> PM - TENENTE </td><td valign="bottom"> R$ 3.648,42 </td><td valign="bottom"> R$ 11.049,42 </td></tr><tr><td colspan="3" valign="bottom"> DEMAIS MILITARES </td></tr><tr><td valign="bottom"> PATENTE </td><td valign="bottom"> INCENTIVO </td><td valign="bottom"> REPRESENT. </td></tr><tr><td valign="bottom"> PM - SUB TENENTE </td><td valign="bottom"> R$ 2.040,05 </td><td valign="bottom"> R$ 2.523,58 </td></tr><tr><td valign="bottom"> PM - SARGENTO </td><td valign="bottom"> R$ 2.040,05 </td><td valign="bottom"> R$ 2.523,58 </td></tr><tr><td valign="bottom"> PM - CABO </td><td valign="bottom"> R$ 1.431,31 </td><td valign="bottom"> R$ 1.051,48 </td></tr><tr><td valign="bottom"> PM - SOLDADO </td><td valign="bottom"> R$ 1.431,31 </td><td valign="bottom"> R$ 1.051,48 </td></tr></tbody></table>
 
 **ANEXO VI**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="479" style="width:359.35pt;background:white;border-collapse:collapse;
- border:none;margin-left:4.8pt;margin-right:4.8pt"><tbody><tr style="height:28.8pt"><td width="383" style="width:287.55pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="96" style="width:71.8pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
-
  (Redação alterada pelo art. 3º da [Lei nº 17.719, de 1º de abril de 2022](https://legis.alepe.pe.gov.br/?lo177192022).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="479" style="width:359.35pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:28.8pt"><td width="383" style="width:287.55pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gratificação de que trata a&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue"><a href="https://legis.alepe.pe.gov.br/?lo123222003"><span style="color:blue">Lei nº 12.322, de 6 de janeiro 2003</span></a></span></p></td><td width="96" style="width:71.8pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.041,80</span></p></td></tr><tr style="height:28.8pt"><td width="383" style="width:287.55pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gratificações de que tratam os arts. 2º e 3º da&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue"><a href="https://legis.alepe.pe.gov.br/?lo133282007"><span style="color:blue">Lei nº 13.328, de 26 de outubro de 2007</span></a></span></p></td><td width="96" style="width:71.8pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 1.322,93</span></p></td></tr><tr style="height:28.8pt"><td width="383" style="width:287.55pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gratificação de que trata o art. 2º da&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue"><a href="https://legis.alepe.pe.gov.br/?lo133642007"><span style="color:blue">Lei nº 13.364, de 14 de dezembro de 2007</span></a></span></p></td><td width="96" style="width:71.8pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 4.167,19</span></p></td></tr><tr style="height:28.8pt"><td width="383" style="width:287.55pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gratificação de que trata o art. 2º da&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue"><a href="https://legis.alepe.pe.gov.br/?lo166152019"><span style="color:blue">Lei nº 16.615, de 9 de julho de 2019</span></a>.</span></p></td><td width="96" style="width:71.8pt;padding:0cm 0cm 0cm 0cm;height:28.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 3.648,41</span></p></td></tr></tbody></table>
+Gratificação de que trata a [Lei nº 12.322, de 6 de janeiro 2003](https://legis.alepe.pe.gov.br/?lo123222003)
+
+R$ 1.041,80
+
+Gratificações de que tratam os arts. 2º e 3º da [Lei nº 13.328, de 26 de outubro de 2007](https://legis.alepe.pe.gov.br/?lo133282007)
+
+R$ 1.322,93
+
+Gratificação de que trata o art. 2º da [Lei nº 13.364, de 14 de dezembro de 2007](https://legis.alepe.pe.gov.br/?lo133642007)
+
+R$ 4.167,19
+
+Gratificação de que trata o art. 2º da [Lei nº 16.615, de 9 de julho de 2019](https://legis.alepe.pe.gov.br/?lo166152019).
+
+R$ 3.648,41
 
 (Vide o art. 2° da [Lei n° 18.140, de 20 de janeiro de 2023](https://legis.alepe.pe.gov.br/?lo181402023) – as gratificações de que tratam a [Lei nº 12.322, de 6 de janeiro 2003](https://legis.alepe.pe.gov.br/?lo123222003) passam a ter o mesmo valor fixado para as gratificações de que tratam os arts. 2º e 3º da [Lei nº 13.328, de 26 de outubro de 2007](https://legis.alepe.pe.gov.br/?lo133282007). )

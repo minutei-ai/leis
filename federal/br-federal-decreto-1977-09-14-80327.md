@@ -1,5 +1,3 @@
-###DEC-080327-0-000-14-09-1977@@@
-
 DECRETO Nº 80.327, DE 14 DE SETEMBRO DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nas Cidades do Rio de Janeiro e de Niterói, no Estado do Rio de Janeiro.

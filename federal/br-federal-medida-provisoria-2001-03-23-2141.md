@@ -1,5 +1,3 @@
-###MPV-002141-0-000-23-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.141, DE 23 DE MARÇO DE 2001
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências.

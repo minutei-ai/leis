@@ -1,5 +1,3 @@
-###DEC-057830-0-000-17-02-1966@@@
-
 DECRETO Nº 57.830, DE 17 DE FEVEREIRO DE 1966.
 
 Declara da utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Estado do Rio de Janeiro.

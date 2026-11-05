@@ -1,5 +1,3 @@
-###DEC-053922-0-000-19-05-1964@@@
-
 decreto nº 53.922, de 19 de maio de 1964.
 
 Extingue a Comissão Coordenadora de Construção do Tronco Principal do Sul.

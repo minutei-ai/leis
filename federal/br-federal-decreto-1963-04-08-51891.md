@@ -1,14 +1,12 @@
-###DEC-051891-0-000-08-04-1963@@@
+**DECRETO Nº 51.891, DE 8 DE ABRIL DE 1963.**
 
-<strong>DECRETO Nº 51.891, DE 8 DE ABRIL DE 1963.</strong>
+***Designa as funções privativas dos diferentes postos e Quadros do Corpo de Oficiais da Aeronáutica.***
 
-<em><strong>Designa as funções privativas dos diferentes postos e Quadros do Corpo de Oficiais da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o inciso I do art. 87, da Constituição Federal e tendo em vista o disposto em o art. 16, da Lei nº 2.999, de 11 de dezembro de 1956, que fixou os efetivos dos Quadros do Corpo de Oficiais da Aeronáutica,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o inciso I do art. 87, da Constituição Federal e tendo em vista o disposto em o art. 16, da Lei nº 2.999, de 11 de dezembro de 1956, que fixou os efetivos dos Quadros do Corpo de Oficiais da Aeronáutica,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São funções privativas de Oficiais Generais do Quadro de Oficiais Aviadores:
+**Art**. 1º São funções privativas de Oficiais Generais do Quadro de Oficiais Aviadores:
 
 a) do pôsto de Tenente-Brigadeiro-do-Ar:
 
@@ -74,7 +72,7 @@ Chefe do Gabinete do Ministro da Aeronáutica;
 
 Comandante da Guarnição de Aeronáutica de Brasília.
 
-<strong>Art</strong>. 2º São funções privativas de Oficiais Generais do Quadro de Oficiais-Intendentes:
+**Art**. 2º São funções privativas de Oficiais Generais do Quadro de Oficiais-Intendentes:
 
 a) do pôsto de Major-Brigadeiro:
 
@@ -84,7 +82,7 @@ b) do Pôsto de Brigadeiro ou Coronel:
 
 Subdiretores da -Diretoria de Intendência.
 
-<strong>Art</strong>. 3º São funções privativas de Oficiais Generais do Quadro de Oficiais-Médicos:
+**Art**. 3º São funções privativas de Oficiais Generais do Quadro de Oficiais-Médicos:
 
 a) do Pôsto de Major-Brigadeiro:
 
@@ -98,12 +96,12 @@ Diretor do Instituto de Seleção, Contrôle e Pesquisa;
 
 Subdiretores da Diretoria de Saúde da Aeronáutica.
 
-<strong>Art</strong>. 4º As demais funções privativas dos Quadros de Oficiais da Aeronáutica, não previstas nos artigos precedentes, serão aquelas previstas nos Regulamentos em vigor, ou Tabelas de Organização e Lotação (TOL) dos Órgãos e Estabelecimentos citados nos artigos anteriores e suas Unidades subordinadas.
+**Art**. 4º As demais funções privativas dos Quadros de Oficiais da Aeronáutica, não previstas nos artigos precedentes, serão aquelas previstas nos Regulamentos em vigor, ou Tabelas de Organização e Lotação (TOL) dos Órgãos e Estabelecimentos citados nos artigos anteriores e suas Unidades subordinadas.
 
-<strong>Art</strong>. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, DF., 8 de abril de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART.</strong>
+**JOÃO GOULART.**
 
 Reynaldo de Carvalho Filho.

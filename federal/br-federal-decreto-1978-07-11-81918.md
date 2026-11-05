@@ -1,5 +1,3 @@
-###DEC-081918-0-000-11-07-1978@@@
-
 Decreto nº 81.918, de 11 de julho de 1978
 
 Concede à Mineradora Montita Ltda. o direito de lavrar cianita no Município de Pirenópolis, Estado de Goiás.

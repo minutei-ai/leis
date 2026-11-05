@@ -38,108 +38,13 @@ GERALDO JÚLIO DE MELLO FILHO
 
 PAULO HENRIQUE SARAIVA CÂMARA
 
-<br>
-
 ANEXO I
 
 “ANEXO ÚNICO DA [LEI Nº 13.232, DE 23 DE MAIO DE 2007](https://legis.alepe.pe.gov.br/?lo132322007)
 
 COMPOSIÇÃO DO EFETIVO DO CORPO DE BOMBEIRO MILITAR DE PERNAMBUCO
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:2.85pt;border-collapse:collapse;border:none"><tbody><tr><td width="600" colspan="2" valign="top" style="width:450.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1. OFICIAIS</span></p></td></tr><tr><td width="600" colspan="2" valign="top" style="width:450.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  12.0pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.1 ..................................................................................................................................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">......................................................................................................</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">........................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM)</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">MAJOR BM</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">03</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">CAPITÃO BM</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">16</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1º TENENTE BM</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">23</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2° TENENTE BM</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">21</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">63</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. PRAÇAS</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="600" colspan="2" valign="top" style="width:450.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">..................................................................................................................................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:2.0pt;margin-bottom:
-  0cm;margin-left:2.0pt;margin-bottom:.0001pt;line-height:12.0pt;text-autospace:
-  none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL GERAL DO EFETIVO</span></p></td><td width="176" valign="top" style="width:132.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">4891</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> 1. OFICIAIS </td></tr><tr><td colspan="2" valign="top"> 1.1 .................................................................................................................................................. </td></tr><tr><td valign="top"> ...................................................................................................... </td><td valign="top"> ........................................ </td></tr><tr><td valign="top"> 1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM) </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> MAJOR BM </td><td valign="top"> 03 </td></tr><tr><td valign="top"> CAPITÃO BM </td><td valign="top"> 16 </td></tr><tr><td valign="top"> 1º TENENTE BM </td><td valign="top"> 23 </td></tr><tr><td valign="top"> 2° TENENTE BM </td><td valign="top"> 21 </td></tr><tr><td valign="top"> TOTAL </td><td valign="top"> 63 </td></tr><tr><td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. PRAÇAS </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> .................................................................................................................................................. </td></tr><tr><td valign="top"> TOTAL GERAL DO EFETIVO </td><td valign="top"> 4891 </td></tr></tbody></table>
 
 ANEXO II
 
@@ -147,185 +52,82 @@ ANEXO ÚNICO DA [LEI Nº 13.233, DE 23 DE MAIO DE 2007](https://legis.alepe.pe.g
 
 COMPOSIÇÃO DO EFETIVO DA POLÍCIA MILITAR DE PERNAMBUCO
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:2.85pt;border-collapse:collapse;border:none"><tbody><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1 – OFICIAIS</span></p></td><td width="175" valign="top" style="width:131.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;QUANTITATIVO</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.1.................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">.................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">......................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">.................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2 Quadro de Oficiais de Saúde</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">200</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">......................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">.................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2.4 Quadro de Oficiais de Veterinária (QOV)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">06</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2.4.1 Tenente Coronel PM (Ten Cel PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">01</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2.4.2 Major PM (Maj PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">01</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2.4.3 Capitão PM (Cap PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">02</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span lang="ES-TRAD" style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.2.4.4 1º Tenente PM&nbsp; (1º Ten PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">02</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">......................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.5. Quadro de Oficiais de Administração (QOA)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 195</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.5.1. Major PM (Maj PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">06</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.5.2. Capitão PM (Cap PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span lang="ES-TRAD" style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.5.3. 1º Tenente PM (1º Ten PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span lang="ES-TRAD" style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">64</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span lang="ES-TRAD" style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.5.4. 2º Tenente PM (2º Ten PM)</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span lang="ES-TRAD" style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">89</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">......................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">.................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">2 – PRAÇAS</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">......................................................................................................</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">.................................</span></p></td></tr><tr><td width="424" valign="top" style="width:318.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:center;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">TOTAL DE EFETIVO</span></p></td><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 2.85pt 0cm 2.85pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:2.0pt;
-  margin-bottom:0cm;margin-left:2.0pt;margin-bottom:.0001pt;text-align:right;
-  line-height:12.0pt;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30.349</span></p></td></tr></tbody></table>
+1 – OFICIAIS
+
+QUANTITATIVO
+
+1.1.................................................................................................
+
+.................................
+
+......................................................................................................
+
+.................................
+
+1.2 Quadro de Oficiais de Saúde
+
+200
+
+......................................................................................................
+
+.................................
+
+1.2.4 Quadro de Oficiais de Veterinária (QOV)
+
+06
+
+1.2.4.1 Tenente Coronel PM (Ten Cel PM)
+
+01
+
+1.2.4.2 Major PM (Maj PM)
+
+01
+
+1.2.4.3 Capitão PM (Cap PM)
+
+02
+
+1.2.4.4 1º Tenente PM  (1º Ten PM)
+
+02
+
+......................................................................................................
+
+................................
+
+1.5. Quadro de Oficiais de Administração (QOA)
+
+195
+
+1.5.1. Major PM (Maj PM)
+
+06
+
+1.5.2. Capitão PM (Cap PM)
+
+36
+
+1.5.3. 1º Tenente PM (1º Ten PM)
+
+64
+
+1.5.4. 2º Tenente PM (2º Ten PM)
+
+89
+
+......................................................................................................
+
+.................................
+
+2 – PRAÇAS
+
+......................................................................................................
+
+.................................
+
+TOTAL DE EFETIVO
+
+30.349
 
 ”

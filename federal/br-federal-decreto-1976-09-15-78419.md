@@ -1,5 +1,3 @@
-###DEC-078419-0-000-15-09-1976@@@
-
 DECRETO Nº 78.419, DE 15 DE SETEMBRO DE 1976.
 
 Retifica a concessão de lavra outorgada à CIVA - Companhia Vale do Amazonas, pelo Decreto nº 76.983, de 5 de janeiro de 1976.

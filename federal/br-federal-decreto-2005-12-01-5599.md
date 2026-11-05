@@ -1,5 +1,3 @@
-###DEC-005599-0-000-01-12-2005@@@
-
 DECRETO Nº 5.599, DE 1º DE DEZEMBRO DE 2005.
 
 Dispõe sobre a elevação à categoria de Consulado-Geral do Consulado do Brasil em Caiena, Guiana Francesa.

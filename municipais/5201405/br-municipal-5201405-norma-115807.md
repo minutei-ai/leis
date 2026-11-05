@@ -27,4 +27,4 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 04 de julho de 2024.
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>POLLYANA OLIVEIRA BORGES</strong> Secretária de Governo</td><td style="text-align:center"><strong>JÚLIO CÉSAR CHAGAS MENDES</strong> Secretário de Planejamento e Regulação Urbana</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td style="text-align:center">**POLLYANA OLIVEIRA BORGES** Secretária de Governo</td><td style="text-align:center">**JÚLIO CÉSAR CHAGAS MENDES** Secretário de Planejamento e Regulação Urbana</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-082247-0-000-11-09-1978@@@
-
 Decreto nº 82.247, de 11 de setembro de 1978.
 
 Revoga os Decretos nºs 45.648, de 25 de março de 1959 e 46.769, de 3 de setembro de 1959, que dispõem sobre o Regulamento da Base "Almirante Castro e Silva".

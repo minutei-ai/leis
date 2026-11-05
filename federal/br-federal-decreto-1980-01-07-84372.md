@@ -1,5 +1,3 @@
-###DEC-084372-0-000-07-01-1980@@@
-
 Decreto nº 84.372, de 7 de janeiro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

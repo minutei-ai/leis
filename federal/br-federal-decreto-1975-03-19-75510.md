@@ -1,5 +1,3 @@
-###DEC-075510-0-000-19-03-1975@@@
-
 Decreto nº 75.510, de 19 de março de 1975.
 
 Estabelece as normas para a fixação de tarifas incidentes sobre o uso da água nos projetos de irrigação e dá outras providências.

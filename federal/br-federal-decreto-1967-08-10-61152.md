@@ -1,5 +1,3 @@
-###DEC-061152-0-000-10-08-1967@@@
-
 DECRETO Nº 61.152, DE 10 DE AGÔSTO DE 1967.
 
 Declaro de utilidade pública a “Irmandade de Caridade do Senhor Bom dos Passos” com sede em Rio Pardo, Estado do Rio Grande do Sul.

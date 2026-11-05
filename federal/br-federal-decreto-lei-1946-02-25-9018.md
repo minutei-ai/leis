@@ -1,5 +1,3 @@
-###DEL-009018-0-000-25-02-1946@@@
-
 DECRETO-LEI N. 9.018 – DE 25 DE FEVEREIRO DE 1946
 
 Extingue a Divisão de Ensino Primário, do Departamento Nacional de Educação, do Ministério da Educação e Saúde, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007453-0-000-18-03-2011-PUB-01@@@
-
 DECRETO Nº 7.453, DE 18 DE MARÇO DE 2011
 
 Altera o Anexo ao Decreto nº 6.129, de 20 de junho de 2007, que dispõe sobre a vinculação das entidades integrantes da administração pública federal indireta.

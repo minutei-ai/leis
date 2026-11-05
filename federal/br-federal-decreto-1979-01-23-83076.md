@@ -1,5 +1,3 @@
-###DEC-083076-0-000-23-01-1979@@@
-
 Decreto nº 83.076 de 23 de janeiro de1979
 
 Concede reconhecimento à habilitação em Biologia, do curso de Ciências, ministrado pelo Instituto Superior de Ciências, Letras e Artes, com sede na cidade de Três Corações, Estado de Minas Gerais.

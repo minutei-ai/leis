@@ -1,5 +1,3 @@
-###DEC-096590-0-000-25-08-1988@@@
-
 DECRETO N° 96.590, DE 25 DE AGOSTO DE 1988
 
 Outorga Concessão à RADIO ATIVIDADE DE DIFUSÃO CHAPADA DOS GUIMARÃES LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Chapada dos Guimarães, Estado de Mato Grosso.

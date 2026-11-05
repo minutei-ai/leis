@@ -1,5 +1,3 @@
-###DEC-061601-0-000-24-10-1967@@@
-
 Decreto nº 61.601, de 24 de outubro de 1967.
 
 Declara de utilidade pública a “Vila dos Velhinhos de Sorocaba” com sede em Sorocaba, Estado de São Paulo.

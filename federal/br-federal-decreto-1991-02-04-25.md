@@ -1,5 +1,3 @@
-###DEC-000025-0-000-04-02-1991@@@
-
 DECRETO Nº 25, DE 4 DE FEVEREIRO DE 1991.
 
 Dispõe sobre programas e projetos para assegurar a auto-sustentação dos povos indígenas.

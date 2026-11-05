@@ -1,5 +1,3 @@
-###DEC-045977-0-000-11-05-1959@@@
-
 DECRETO Nº 45.977, DE 11 DE maio DE 1959.
 
 Concede reconhecimento ao curso de auxiliar de enfermagem da Escola de Auxiliares de Enfermagem do Hospital dos Servidores do Estado.

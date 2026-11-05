@@ -1,5 +1,3 @@
-###DEC-055986-0-000-22-04-1965@@@
-
 Decreto Nº 55.986, DE 22 DE ABRIL DE 1965.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 22 de abril de 1965; 144º da Independência e 77º da República.
 H. Castello branco
 
 Mauro Thibau
-
-###DEC-055986-0-000-22-04-1965@@@RET01+++
 
 DECRETO Nº 55.986, dE 22 DE ABRIL DE 1965.
 

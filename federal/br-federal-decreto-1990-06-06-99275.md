@@ -1,7 +1,3 @@
-1
-
-###DEC-099275-0-000-06-06-1990@@@
-
 DECRETO Nº 99.275, DE 6 DE JUNHO DE 1990
 
 Dispõe sobre a criação da Árie - Área de Relevante Interesse Ecológico Cerrado Pé-de-Gigante, no Município de Santa Rita do Passa-Quatro, Estado de São Paulo.

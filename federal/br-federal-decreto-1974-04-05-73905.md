@@ -1,5 +1,3 @@
-###DEC-073905-0-000-05-04-1974@@@
-
 decreto nº 73.905, de 5 de abril de 1974
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação de Jussara, no Município de Jussara, Estado de Goiás.

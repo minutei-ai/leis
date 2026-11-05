@@ -1,5 +1,3 @@
-###DEC-083425-0-000-08-05-1979@@@
-
 Decreto nº 83.425 de 08 de maio de 1979.
 
 Altera o Estatuto da Empresa Pública, Banco Nacional do Desenvolvimento Econômico (BNDE) e dá outras providências.

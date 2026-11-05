@@ -1,5 +1,3 @@
-###DEC-085524-0-000-16-12-1980@@@
-
 Decreto nº 85.524, de 16 de dezembro de 1980.
 
 Aprova o Estatuto da Fundação Centro de Formação do Servidor Público - FUNCEP.

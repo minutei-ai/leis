@@ -1,5 +1,3 @@
-###DEC-072986-0-000-19-10-1973@@@
-
 DECRETO Nº 72.986, DE 19 DE OUTUBRO DE 1973.
 
 Exclui servidores do Ministério da Fazenda do regime de disponibilidade e dá outras providências.

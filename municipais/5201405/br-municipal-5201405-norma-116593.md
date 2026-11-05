@@ -72,11 +72,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 06 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-CLEOMAR DE SOUSA ROCHA<br>
-Secretário de Ciência, Tecnologia e Inovação<br>
+CLEOMAR DE SOUSA ROCHA
+
+Secretário de Ciência, Tecnologia e Inovação

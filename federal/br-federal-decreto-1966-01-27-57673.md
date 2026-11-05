@@ -1,5 +1,3 @@
-###DEC-057673-0-000-27-01-1966@@@
-
 decreto nº 57.673, de 27 de janeiro de 1966.
 
 Aprova alterações introduzidas nos Estatutos da Satélite Companhia de Seguros Gerais inclusive aumento do capital social.

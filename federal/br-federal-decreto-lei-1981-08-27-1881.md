@@ -1,7 +1,3 @@
-1
-
-###DEL-001881-0-000-27-08-1981@@@
-
 # DecretO-lei nº 1.881, de 27 de agosto de 1981
 
 Altera a Lei nº 5.172, de 25 de outubro de 1966, cria a Reserva do Fundo de Participação dos Municípios - FPM a dá outras providências.
@@ -18,7 +14,53 @@ Art. 1º Os §§ 2º e 4º do artigo 91 da Lei nº 5.172, de 25 de outubro de 19
 
 § 2º - A distribuição da parcela a que se refere o item II deste artigo, deduzido o percentual referido no artigo 3º do Decreto-lei que estabelece a redação deste parágrafo, far-se-á atribuindo-se a cada Município um coeficiente individual de participação determinado na forma seguinte:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Categoria do Município, segundo seu número de habitantes</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Coeficiente</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>a) Até 16.980</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Pelos primeiros 10.188</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,6</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Para cada 3.396, ou fração excedente, mais</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,2</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>b) Acima de 16.980 até 50.940</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Pelos primeiros 16.980</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1,0</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Para cada 6.792 ou fração excedente, mais</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,2</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>c) Acima de 50.940 até 101,880</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Pelos primeiros 50.940</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2,0</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Para cada 10.188 ou fração excedente, mais</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,2</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>d) Acima de 101.880 até 156.216</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Pelos primeiros 101.880</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3,0</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Para cada 13.584 ou fração excedente, mais</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,2</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>e) Acima de 156.216</span></p></td><td style="width:154.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>4,0</span></p></td></tr></tbody></table>
+Categoria do Município, segundo seu número de habitantes
+
+Coeficiente
+
+a) Até 16.980
+
+Pelos primeiros 10.188
+
+0,6
+
+Para cada 3.396, ou fração excedente, mais
+
+0,2
+
+b) Acima de 16.980 até 50.940
+
+Pelos primeiros 16.980
+
+1,0
+
+Para cada 6.792 ou fração excedente, mais
+
+0,2
+
+c) Acima de 50.940 até 101,880
+
+Pelos primeiros 50.940
+
+2,0
+
+Para cada 10.188 ou fração excedente, mais
+
+0,2
+
+d) Acima de 101.880 até 156.216
+
+Pelos primeiros 101.880
+
+3,0
+
+Para cada 13.584 ou fração excedente, mais
+
+0,2
+
+e) Acima de 156.216
+
+4,0
 
 § 4º - Os limites das faixas de número de habitantes previstos no deste artigo serão reajustados sempre que, por meio de recenseamento demográfico geral, seja conhecida oficialmente a população total do País, estabelecendo-se novos limites na proporção do aumento percentual daquela população, tendo por referência o recenseamento imediatamente anterior”.
 
@@ -32,7 +74,27 @@ Parágrafo único A sua distribuição será proporcional a um coeficiente indiv
 
 a) fator representativo da população, assim estabelecido:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Percentual da População de cada Município</span><span style="-aw-import:spaces">&nbsp; </span><span>beneficiário em relação à do conjunto</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>FATOR</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Até 2%</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Mais de 2% até 5%</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Pelos primeiros 2%</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Cada 0,5% ou fração excedente, mais</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0,5</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Mais de 5%</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5</span></p></td></tr></tbody></table>
+Percentual da População de cada Município  beneficiário em relação à do conjunto
+
+FATOR
+
+Até 2%
+
+2
+
+Mais de 2% até 5%
+
+Pelos primeiros 2%
+
+2
+
+Cada 0,5% ou fração excedente, mais
+
+0,5
+
+Mais de 5%
+
+5
 
 b) fator representativo do inverso da renda “per capita” do respectivo Estado, de conformidade com o disposto no artigo 90 da Lei nº 5.172, de 25 de fevereiro de 1966.
 

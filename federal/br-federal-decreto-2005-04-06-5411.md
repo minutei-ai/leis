@@ -1,5 +1,3 @@
-###DEC-005411-0-000-06-04-2005@@@
-
 DECRETO Nº 5.411 DE 6 DE ABRIL DE 2005
 
 Autoriza a integralização de cotas no Fundo Garantidor de Parcerias Público-Privadas - FGP, mediante ações representativas de participações acionárias da União em sociedades de economia mista disponíveis para venda e dá outras providências.

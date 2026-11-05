@@ -1,5 +1,3 @@
-###DEC-061492-0-000-09-10-1967@@@
-
 DECRETO Nº 61.492, DE 9 DE OUTUBRO DE 1967.
 
 Cria, no Ministério da Indústria e do Comércio, Comissão Especial com a incumbência de promover estudos e adotar medidas executivas para cumprimento de disposições do Decreto-lei nº 257, de 28 de fevereiro de 1967.

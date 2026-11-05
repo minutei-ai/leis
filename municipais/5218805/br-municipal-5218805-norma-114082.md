@@ -18,12 +18,14 @@ Art. 1º Altera a redação dos artigos 1º, 2º, 3º, 4º e 5º, da Lei nº 5.7
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação, revoga disposições em contrário.
 
-Gabinete do Prefeito de Rio Verde, aos 17 de novembro de 2025.<br>
+Gabinete do Prefeito de Rio Verde, aos 17 de novembro de 2025.
+
  
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral<br>
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral

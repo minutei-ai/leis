@@ -1,5 +1,3 @@
-###DEC-071287-0-000-31-10-1972@@@
-
 DECRETO Nº 71.287 - DE 31 DE OUTUBRO DE 1972.
 
 Retifica decreto de aproveitamento, no Quadro de Pessoal do Ministério da Marinha, de disponível pertencente ao Instituto Nacional de Previdência Social, e dá outras providências.

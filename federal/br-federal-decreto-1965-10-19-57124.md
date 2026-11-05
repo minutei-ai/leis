@@ -1,5 +1,3 @@
-###DEC-057124-0-000-19-10-1965@@@
-
 DECRETO Nº 57.124, DE 19 DE OUTUBRO DE 1965.
 
 Concede reconhecimento à Faculdade Estadual de Filosofia de Jacarezinho, no Estado do Paraná.

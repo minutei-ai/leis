@@ -1,5 +1,3 @@
-###DEC-053762-0-000-19-03-1964@@@
-
 DECRETO Nº 53.762, DE 19 DE MARÇO DE 1964.
 
 Regulamento para o Corpo de Oficiais da Reserva do Exército, aprovado pelo Decreto nº 41.475, de 8 de maio de 1957 (Alteração).

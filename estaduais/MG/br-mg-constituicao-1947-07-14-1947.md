@@ -1343,7 +1343,3 @@ Uriel de Rezende Alvim
 Xenofonte Mercadante
 
 Wilson João Beraldo
-
-\===================
-
-Data da última atualização: 3/8/2017.

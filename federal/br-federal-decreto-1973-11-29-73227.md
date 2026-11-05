@@ -1,5 +1,3 @@
-###DEC-073227-0-000-29-11-1973@@@
-
 DECRETO Nº 73.227 - DE 29 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para efeitos de desapropriação, a área que menciona, situada na cidade do Rio de Janeiro, Estado da Guanabara, necessária ao Ministério da Marinha, para ampliação das instalações do Centro Médico Naval Marcílio Dias.

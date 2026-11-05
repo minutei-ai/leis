@@ -1,5 +1,3 @@
-###DEC-049634-0-000-30-12-1960@@@
-
 DECRETO Nº 49.634, DE 30 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Oscar Chiarelli a pesquisar argila refratária no município de Mogi-Guaçu, Estado de São Paulo.

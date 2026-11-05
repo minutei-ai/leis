@@ -1,5 +1,3 @@
-###DEC-097025-0-000-31-10-1988@@@
-
 DECRETO N° 97.025, DE 31 DE OUTUBRO DE 1988
 
 RDeajusta o valor do Salário Mínimo de Referência.

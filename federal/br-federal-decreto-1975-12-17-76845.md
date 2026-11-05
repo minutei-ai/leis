@@ -1,5 +1,3 @@
-###DEC-076845-0-000-17-12-1975@@@
-
 decreto nº 76.845, de 17 de dezembro de 1975
 
 Concede reconhecimento aos cursos de Engenharia Civil de Engenharia Elétrica e de Engenharia de Operação, da Escola de Engenharia Veiga de Almeida, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

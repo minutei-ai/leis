@@ -1,5 +1,3 @@
-###DEL-007530-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.530 – DE 7 DE MAIO DE 1945
 
 Estabelece a data para cessação de vantagens aos militares e assemelhados, de que tratam os Decretos-leis na. 6.497, de 13-V-1944 e 7.270, de 25 de janeiro de 1945.

@@ -1,5 +1,3 @@
-###DEC-005418-0-000-13-04-2005@@@
-
 DECRETO Nº 5.418 DE 13 DE ABRIL DE 2005
 
 Cria condições para a realização no Brasil da 40a Assembléia Geral do Centro Interamericano de Administrações Tributárias - CIAT.

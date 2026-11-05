@@ -1,5 +1,3 @@
-###DEC-054804-0-000-03-11-1964@@@
-
 decreto nº 54.804, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Ricardo Coimbra de Almeida Brennand a pesquisar caulim, no município de Parelhas, Estado do Rio Grande do Norte.

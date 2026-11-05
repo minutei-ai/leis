@@ -1,5 +1,3 @@
-###DEL-007272-0-000-25-01-1945@@@
-
 DECRETO-LEI N. 7.272 – DE 25 DE JANEIRO DE 1945
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 7.794.397,20 para o fim que especifica

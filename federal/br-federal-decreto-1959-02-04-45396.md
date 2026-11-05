@@ -1,5 +1,3 @@
-###DEC-045396-0-000-04-02-1959@@@
-
 DECRETO Nº 45.396, DE 4 DE FEVEREIRO DE 1959.
 
 Amplia a zona de fornecimento a cargo do Govêrno do Estado do Rio de Janeiro, no Município de Cabo Frio, e dá outras providências.

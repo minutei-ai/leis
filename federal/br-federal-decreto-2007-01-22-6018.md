@@ -1,5 +1,3 @@
-###DEC-006018-0-000-22-01-2007@@@
-
 DECRETO Nº 6.018, DE 22 DE JANEIRO DE 2007.
 
 Regulamenta a Medida Provisória no 353, de 22 de janeiro de 2007, que dispõe sobre o término do processo de liquidação e a extinção da Rede Ferroviária Federal S.A. - RFFSA, altera dispositivos da Lei no 10.233, de 5 de junho de 2001, e dá outras providências.
@@ -211,5 +209,3 @@ Paulo Sérgio Oliveira Passo
 João Bernardo de Azevedo Bringel
 
 Álvaro Augusto Ribeiro Costa
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

@@ -1,5 +1,3 @@
-###DEC-057077-0-000-15-10-1965@@@
-
 DECRETO Nº 57.077, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza a Lapidação Szheer Limitada a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-068594-0-000-06-05-1971@@@
-
 DECRETO Nº 68.594 - DE 6 DE MAIO DE 1971.
 
 Altera o Regulamento do Ministério da Agricultura.

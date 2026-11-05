@@ -1,5 +1,3 @@
-###DEL-003711-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.711 – DE 14 DE OUTUBRO DE 1941
 
 Autoriza doação de imovel tombado pelo Serviço do Patrimônio Histórico e Artístico Nacional

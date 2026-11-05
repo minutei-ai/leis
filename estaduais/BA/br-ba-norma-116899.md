@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica criado, vinculado à Secretaria da Indústria, Comércio e Mineração, o Centro Industrial do Subaé - CIS, autarquia com personalidade jurídica de direito público, autonomia administrativa e financeira, patrimônio próprio, sede e foro na Cidade de Feira de Santana.
 
-Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.<br>
+Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.
+
 Redação original: "Art. 1º - Fica criado, vinculado à Secretaria da Indústria, Comércio e Turismo, o Centro Industrial do Subaé - CIS, autarquia com personalidade jurídica de direito público, autonomia administrativa e financeira, patrimônio próprio, sede e foro na Cidade de Feira de Santana."
 
 Parágrafo único - A área de jurisdição do CIS será definida pelo Poder Executivo, em estrita observância à legislação específica, objetivando a ordenação da implantação do Distrito Industrial de Feira de Santana.
@@ -15,7 +16,8 @@ Art. 2º - O CIS gozará sempre de todas as franquias, isenções e privilégios
 
 Art. 3º - O Centro Industrial do Subaé - CIS tem por finalidade prover a infraestrutura básica de localização industrial e comercial, referente à urbanização, transporte, energia, abastecimento de água e esgotos, estimular a implantação de empresas do setor industrial, comercial e prestadoras de serviços e correlatos, promover a alienação de lotes de terrenos para estes fins, em harmonia com as diretrizes da política de desenvolvimento da União, do Estado e dos Municípios sob sua égide, competindo-lhe:
 
-Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.<br>
+Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.
+
 Redação original: "Art. 3º - O Centro Industrial do Subaé - CIS tem por finalidade prover a infra-estrutura básica de localização industrial referente à urbanização, transporte, energia, abastecimento de água e esgotos, estimular a implantação de indústrias e promover a alienação de lotes de terrenos para fins industriais e correlatos, em harmonia com as diretrizes da política de desenvolvimento da União, do Estado e do Município de Feira de Santana, competindo-lhe:"
 
 I - executar, rever e atualizar o Plano Diretor do Distrito Industrial de Feira de Santana;
@@ -34,14 +36,16 @@ VI - promover e executar obras e serviços necessários à implantação e funci
 
 VII - alienar, a qualquer título, ou arrendar imóveis integrantes do seu patrimônio, objetivando a política de expansão industrial, comercial e de prestação de serviços;
 
-Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.<br>
+Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.
+
 Redação original: "VII - alienar, a qualquer título, ou arrendar imóveis integrantes do seu patrimônio, objetivando a política de expansão industrial;"
 
 VIII - fiscalizar a utilização das áreas que alienar, proteger as que se encontram desocupadas e administrar as de uso comum;
 
 IX - executar a política de promoção industrial e de facilidades locacionais e estudar as oportunidades de investimentos na área sob a sua jurisdição, em observância às diretrizes estabelecidas pela Secretaria da Indústria, Comércio e Mineração;
 
-Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.<br>
+Redação de acordo com a Lei nº 12.366, de 07 de dezembro de 2011.
+
 Redação original: "IX - executar a política de promoção industrial e de facilidades locacionais e estudar as oportunidades de investimentos industriais, na área sob a sua jurisdição, em observância às diretrizes estabelecidas pela Secretaria da Indústria, Comércio e Turismo;"
 
 X - exercer outras atividades correlatas.

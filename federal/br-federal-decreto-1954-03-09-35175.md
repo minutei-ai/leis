@@ -1,16 +1,14 @@
-###DEC-035175-0-000-09-03-1954@@@
+**DECRETO Nº 35.175, DE 9 DE MARÇO DE 1954.**
 
-<strong>DECRETO Nº 35.175, DE 9 DE MARÇO DE 1954.</strong>
+***Altera o regulamento do Serviço de Saúde do Exército.***
 
-<em><strong>Altera o regulamento do Serviço de Saúde do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - O artigo 5º do Regulamento do Serviço de Saúde do Exército, aprovado por Decreto número 32.090, de 14 de janeiro de 1953, passa a ter a seguinte redação:
 
-<strong>Art</strong>. 1º - O artigo 5º do Regulamento do Serviço de Saúde do Exército, aprovado por Decreto número 32.090, de 14 de janeiro de 1953, passa a ter a seguinte redação:
-
-<strong>Art</strong>. 5º O suprimento de material de saúde necessário ao cumprimento das missões atribuídas ao SSE, cabe ao órgão geral de direção - A Diretoria Geral de Saúde - por intermédio dos órgãos de produção e de estocagem dêsse material, a saber:
+**Art**. 5º O suprimento de material de saúde necessário ao cumprimento das missões atribuídas ao SSE, cabe ao órgão geral de direção - A Diretoria Geral de Saúde - por intermédio dos órgãos de produção e de estocagem dêsse material, a saber:
 
 1 - Instituto de Biologia do Exército.
 
@@ -50,10 +48,10 @@
 
 3 - Pelos fornecimentos necessários as Unidades e Estabelecimentos, e pelas suas substituições.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de março de 1954; 133º da Independência e 66º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Zenóbio da Costa

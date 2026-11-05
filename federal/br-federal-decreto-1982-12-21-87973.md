@@ -1,5 +1,3 @@
-###DEC-087973-0-000-21-12-1982@@@
-
 DECRETO Nº 87.973, DE 21 de dezembro de 1982
 
 Concede à AÇOS FINOS PIRATINI S.A. autorização para proceder a aumento do seu capital social.

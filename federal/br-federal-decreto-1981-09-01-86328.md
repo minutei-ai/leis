@@ -1,5 +1,3 @@
-###DEC-086328-0-000-01-09-1981@@@
-
 DECRETO Nº 86.328, DE 1º de setembro de 1.981.
 
 Declara luto oficial.

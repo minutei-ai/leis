@@ -1,5 +1,3 @@
-###MPV-001744-0-011-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.744-11, DE 11 DE MARÇO DE 1999
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

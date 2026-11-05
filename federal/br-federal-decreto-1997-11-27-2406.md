@@ -1,5 +1,3 @@
-###DEC-002406-0-000-27-11-1997@@@
-
 DECRETO Nº 2.406, DE 27 DE NOVEMBRO DE 1997
 
 Regulamenta a Lei nº 8.948, de 8 de dezembro de 1994, e dá outras providências.

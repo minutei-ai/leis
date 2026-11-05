@@ -1,7 +1,3 @@
-1
-
-###DEC-085829-0-000-20-03-1981@@@
-
 Decreto nº 85.829, de 20 de março de 1981.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO SOCIEDADE DA BAHIA S.A., para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Salvador, Estado da Bahia.

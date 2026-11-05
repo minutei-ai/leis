@@ -1,4 +1,5 @@
-LEI Nº 23.407, DE 13 DE MAIO DE 2025.<br>
+LEI Nº 23.407, DE 13 DE MAIO DE 2025.
+
 \- [Declarada Inconstitucional na ADI nº 5416832-58-2025](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18713)
 
 ~~Dispõe sobre a obrigatoriedade do tratamento de lixiviado (chorume) de aterros sanitários (urbanos e industriais) no âmbito do Estado de Goiás e dá outras providências.~~

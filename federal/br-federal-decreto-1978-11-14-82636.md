@@ -1,5 +1,3 @@
-###DEC-082636-0-000-14-11-1978@@@
-
 Decreto nº 82.636, de 14 de novembro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Magé, Estado do Rio de Janeiro.

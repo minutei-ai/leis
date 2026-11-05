@@ -1,5 +1,3 @@
-###DEL-003129-0-000-20-03-1941@@@
-
 DECRETO-LEI N. 3.129 – DE 20 DE MARÇO DE 1941
 
 Revoga a lei n. 474, de 10 de agosto de 1937

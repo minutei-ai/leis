@@ -1,5 +1,3 @@
-###DEC-084545-0-000-11-03-1980@@@
-
 decreto de 84.545, de 11 de março de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGT - Serviços de Eletricidade S.A, no Estado de São Paulo.

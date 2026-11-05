@@ -1,5 +1,3 @@
-###DEC-007018-0-000-27-11-2009@@@
-
 DECRETO Nº 7.018, DE 27 DE NOVEMBRO DE 2009.
 
 Dá nova redação e inclui artigo ao Anexo I do Decreto no 5.417, de 13 de abril de 2005, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Comando da Marinha, do Ministério da Defesa.

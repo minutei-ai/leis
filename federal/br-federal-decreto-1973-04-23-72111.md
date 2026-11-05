@@ -1,5 +1,3 @@
-###DEC-072111-0-000-23-04-1973@@@
-
 Decreto nº 72.111, de 23 de abril de 1973.
 
 Autoriza o aterro, pelo Estado do Espírito Santo, de uma área de mar localizada na parte Norte do litoral do Município de Vitória e a cessão, sob o regime de aforamento, dos terrenos que menciona.

@@ -1,4 +1,5 @@
-DECRETO Nº 10.598, DE 11 DE DEZEMBRO DE 2024<br>
+DECRETO Nº 10.598, DE 11 DE DEZEMBRO DE 2024
+
 \- [Vide Lei nº 20.756, de 28-1-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979/lei-20756), art. 66, II - Competência para movimentação (disposição) de servidor.   
 
 Delega competência ao Secretário de Estado da Administração para a prática dos atos que especifica e revoga o [Decreto nº 9.380](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71578), de 8 de janeiro de 2019.

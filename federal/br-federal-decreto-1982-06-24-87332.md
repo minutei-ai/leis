@@ -1,5 +1,3 @@
-###DEC-087332-0-000-24-06-1982@@@
-
 Decreto nº 87.332, de 24 de junho de 1982
 
 Autoriza o aumento de potência da SOCIEDADE RÁDIO CULTURA DE DORES DO INDAIÁ, LTDA., na cidade de Dores de Indaiá, Estado de Minas Gerais.

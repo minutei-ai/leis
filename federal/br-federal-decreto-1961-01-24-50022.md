@@ -1,5 +1,3 @@
-###DEC-050022-0-000-24-01-1961@@@
-
 DECRETO Nº 50.022, DE 24 DE JANEIRO DE 1961.
 
 Concede a Sociedade de Fertilizantes Calcários Ltda. - Fercal autorização para funcionar como empresa de mineração.

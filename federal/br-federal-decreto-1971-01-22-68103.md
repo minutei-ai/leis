@@ -1,5 +1,3 @@
-###DEC-068103-0-000-22-01-1971@@@
-
 DECRETO Nº 68.103, DE 22 DE JANEIRO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados na cidade de Ilhéus, no Estado da Bahia.

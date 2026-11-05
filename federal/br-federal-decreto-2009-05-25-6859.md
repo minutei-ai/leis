@@ -1,5 +1,3 @@
-###DEC-006859-0-000-25-05-2009@@@
-
 DECRETO Nº 6.859, DE 25 DE MAIO DE 2009.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República de Botsuana, assinado em Brasília, em 26 de julho de 2005.

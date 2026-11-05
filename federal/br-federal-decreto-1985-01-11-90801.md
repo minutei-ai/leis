@@ -1,5 +1,3 @@
-###DEC-090801-0-000-11-01-1985@@@
-
 DECRETO Nº 90.801, DE 11 DE JANEIRO DE 1985
 
 Estabelece procedimentos para a entrada no Brasil e o sobrevôo de seu território por aeronaves civis estrangeiras que não estejam em serviços aéreos regulares.

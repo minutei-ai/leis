@@ -1,5 +1,3 @@
-###DEC-001153-0-000-08-06-1994@@@
-
 DECRETO Nº 1.153, DE 8 DE JUNHO DE 1994
 
 Dispõe sobre a constituição da Comissão Especial e das Subcomissões Setoriais de Anistia, de que trata o art. 5º da Lei nº 8.878, de 11 de maio de 1994.

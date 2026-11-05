@@ -1,5 +1,3 @@
-###DEC-073946-0-000-16-04-1974@@@
-
 DECRETO Nº 73.946, DE 16 DE ABRIL DE 1974
 
 Concede reconhecimento a Faculdade de Filosofia, Ciências e Letras de Bebedouro, com os cursos de Pedagogia, Letras, Ciências Sociais, Estudos sociais e Matemática, com sede na cidade de Bebedouro, Estado de São Paulo.

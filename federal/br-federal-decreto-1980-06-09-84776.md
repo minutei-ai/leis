@@ -1,5 +1,3 @@
-###DEC-084776-0-000-09-06-1980@@@
-
 Decreto nº 84.776, de 09 de junho de 1980.
 
 Adapta o Estatuto da Fundação Serviços de Saúde, vinculada ao Ministério da Saúde, às disposições da Lei nº 6.733, de 4 de dezembro de 1979.

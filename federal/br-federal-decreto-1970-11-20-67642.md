@@ -1,5 +1,3 @@
-###DEC-067642-0-000-20-11-1970@@@
-
 DECRETO Nº 67.642, DE 20 DE NOVEMBRO DE 1970.
 
 Transfere a sede do 3º B Com Ex, de Rio Negro - PR, para Bento Gonçalves - RS.

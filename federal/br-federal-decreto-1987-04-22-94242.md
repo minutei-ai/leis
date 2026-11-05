@@ -1,5 +1,3 @@
-###DEC-094242-0-000-22-04-1987@@@
-
 DECRETO Nº 94.242, DE 22 DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Aleixo", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Boa Viagem, Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

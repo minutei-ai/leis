@@ -1,5 +1,3 @@
-###DEC-051320-0-000-02-09-1961@@@
-
 DECRETO Nº 51.320, DE 2 DE SETEMBRO DE 1961.
 
 Dispõe sôbre o expediente da repartições e o horário do trabalho do funcionalismo.

@@ -1,5 +1,3 @@
-###DEC-084936-0-000-21-07-1980@@@
-
 Decreto nº 84.936, de 21 de julho de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de subtransmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

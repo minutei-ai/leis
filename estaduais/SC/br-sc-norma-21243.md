@@ -26,6 +26,30 @@ ANEXO ÚNICO
 
 BENS PÚBLICOS – INTERMUNICÍPIOS
 
-<table><tbody><tr><td><p>.......</p></td><td><p>................................................................................................</p></td><td><p>............................</p></td></tr><tr><td><p></p></td><td><p>LAURO MÜLLER E TREVISO</p></td><td><p>LEI ORIGINAL Nº</p></td></tr><tr><td><p>1</p></td><td><p>Denomina Franklin Locatelli o trecho da Rodovia SC-446 compreendido entre o Município de Lauro Müller (km 0,000 – Entroncamento com a SC-390) e a localidade de Barro Branco (km 3,000).</p></td><td><p></p></td></tr><tr><td><p>2</p></td><td><p>Denomina Luiz Tadeu Librelato o trecho da Rodovia SC-446 compreendido entre a localidade de Barro Branco (Km 3,000), no Município de Lauro Müller, e o Município de Treviso.</p></td><td><p>13.909, de 2006</p></td></tr><tr><td><p>.......</p></td><td><p>................................................................................................</p></td><td><p>............................</p></td></tr></tbody></table>
+.......
+
+................................................................................................
+
+............................
+
+LAURO MÜLLER E TREVISO
+
+LEI ORIGINAL Nº
+
+1
+
+Denomina Franklin Locatelli o trecho da Rodovia SC-446 compreendido entre o Município de Lauro Müller (km 0,000 – Entroncamento com a SC-390) e a localidade de Barro Branco (km 3,000).
+
+2
+
+Denomina Luiz Tadeu Librelato o trecho da Rodovia SC-446 compreendido entre a localidade de Barro Branco (Km 3,000), no Município de Lauro Müller, e o Município de Treviso.
+
+13.909, de 2006
+
+.......
+
+................................................................................................
+
+............................
 
 ” (NR)

@@ -1,5 +1,3 @@
-###DEC-045137-0-000-29-12-1958@@@
-
 decreto nº 45.137, de 29 de dezembro de 1958.
 
 Autoriza a Cia. Catarinense de Cimento Portland a pesquisar calcário, no município de Camboriú, Estado de Santa Catarina.

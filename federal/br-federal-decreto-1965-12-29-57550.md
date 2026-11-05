@@ -1,5 +1,3 @@
-###DEC-057550-0-000-29-12-1965@@@
-
 DECRETO Nº 57.550, DE 29 DE DEZEMBRO DE 1965.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão e subestação abaixadora.

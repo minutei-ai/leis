@@ -1,5 +1,3 @@
-###DEL-001376-0-000-12-12-1974@@@
-
 # DECRETO-LEI Nº 1.376, DE 12 DE DEZEMBRO DE 1974
 
 Dispõe sobre a criação de Fundos de Investimento, altera a Legislação do Imposto sobre a Renda relativa a incentivos fiscais e dá outras providências.

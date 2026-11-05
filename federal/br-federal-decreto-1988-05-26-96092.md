@@ -1,5 +1,3 @@
-###DEC-096092-0-000-26-05-1988@@@
-
 DECRETO N° 96.092, DE 26 DE MAIO DE 1988
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas de Patos de Minas, em Minas Gerais.

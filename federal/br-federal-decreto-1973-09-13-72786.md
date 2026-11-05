@@ -1,5 +1,3 @@
-###DEC-072786-0-000-13-09-1973@@@
-
 DECRETO 72.786, DE 13 DE SETEMBRO DE 1973.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos municípios de rio Paraíba, campos Altos e São Gotardo, no Estado de Minas Gerais, compreendidos na área prioritária de emergência, para fins de Reforma Agrária de que trata o Decreto nº 72.381, de 19 de junho de 1973.

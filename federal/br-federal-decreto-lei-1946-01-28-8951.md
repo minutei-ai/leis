@@ -1,5 +1,3 @@
-###DEL-008951-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.951 – DE 28 DE JANEIRO DE 1946
 
 Dispõe sôbre depósito judicial  e dá outras providências.

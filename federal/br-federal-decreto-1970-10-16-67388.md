@@ -1,5 +1,3 @@
-###DEC-067388-0-000-16-10-1970@@@
-
 decreto nº 67.388, de 16 de outubro de 1970.
 
 Declara caduco o decreto nº 40.377 de 19 de novembro de 1956.

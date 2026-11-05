@@ -1,5 +1,3 @@
-###DEL-004014-0-000-13-01-1942@@@
-
 DECRETO-LEI N. 4.014 - DE 13 DE JANEIRO DE 1942
 
 Dispõe sobre as atividades de despachantes aduaneiros e dá outras providências
@@ -44,7 +42,45 @@ Parágrafo único. A indicação do substituto, feita por meio de requerimento a
 
 Art. 9º O número de despachantes aduaneiros será o seguinte:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Rio de Janeiro</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">200</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Santos</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">150</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Recife, Baía e Porto Alegre</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Belem</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Rio Grande</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Manaus, Fortaleza e Paranaguá</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Maceió</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Maranhão, Paraíba, Vitória, São Francisco, Florianópolis e Pelotas</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Natal</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parnaiba, Aracajú, Santana do Livramento, Uruguaiana e Corumbá</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6</span></p></td></tr></tbody></table>
+Rio de Janeiro
+
+200
+
+Santos
+
+150
+
+Recife, Baía e Porto Alegre
+
+50
+
+Belem
+
+40
+
+Rio Grande
+
+30
+
+Manaus, Fortaleza e Paranaguá
+
+20
+
+Maceió
+
+15
+
+Maranhão, Paraíba, Vitória, São Francisco, Florianópolis e Pelotas
+
+10
+
+Natal
+
+8
+
+Parnaiba, Aracajú, Santana do Livramento, Uruguaiana e Corumbá
+
+6
 
 Parágrafo único. Cada Mesa de Rendas Alfandegada poderá ter até dois despachantes.
 
@@ -146,15 +182,77 @@ Art. 42. As comissões que competirem aos despachantes aduaneiros serão calcula
 
 a) Taxas fixas por despacho até o valor de 1:000$0, pela fatura comercial:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">I - Bilhetes de amostra sem valor mercantil</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10$0</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">II - Despachos até o valor de 100$0</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10$0</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">III - Idem de mais de 100$0 até 250$0</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15$0</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">IV - Idem de mais de 250$0 até 500$0 (uma adição)</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20$0</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">V - Idem de mais de 500$0 até 750$0 (uma adição)</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25$0</span></p></td></tr><tr><td style="width:451.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">VI - Idem de mais de 750$0 até 1:000$0 (uma adição)</span></p></td><td style="width:27.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30$0</span></p></td></tr></tbody></table>
+I - Bilhetes de amostra sem valor mercantil
+
+10$0
+
+II - Despachos até o valor de 100$0
+
+10$0
+
+III - Idem de mais de 100$0 até 250$0
+
+15$0
+
+IV - Idem de mais de 250$0 até 500$0 (uma adição)
+
+20$0
+
+V - Idem de mais de 500$0 até 750$0 (uma adição)
+
+25$0
+
+VI - Idem de mais de 750$0 até 1:000$0 (uma adição)
+
+30$0
 
 b) Taxas a partir do valor excedente de 1:000$0, pela fatura comercial:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 1:000$0 até 2:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 2:000$0 até 3:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 3:000$0 até 4:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">45$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho de valor de mais de 4:000$0 até 5:000$0 (uma adição)</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 5:000$0 até 6:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 6:000$0 até 7:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">60$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 7:000$0 até 8:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">65$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 8:000$0 até 9:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">70$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 9:000$0 até 10:000$0 (uma adição)</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">75$0</span></p></td></tr></tbody></table>
+Despacho do valor de mais de 1:000$0 até 2:000$0 (uma adição)
+
+35$0
+
+Despacho do valor de mais de 2:000$0 até 3:000$0 (uma adição)
+
+40$0
+
+Despacho do valor de mais de 3:000$0 até 4:000$0 (uma adição)
+
+45$0
+
+Despacho de valor de mais de 4:000$0 até 5:000$0 (uma adição)
+
+50$0
+
+Despacho do valor de mais de 5:000$0 até 6:000$0 (uma adição)
+
+55$0
+
+Despacho do valor de mais de 6:000$0 até 7:000$0 (uma adição)
+
+60$0
+
+Despacho do valor de mais de 7:000$0 até 8:000$0 (uma adição)
+
+65$0
+
+Despacho do valor de mais de 8:000$0 até 9:000$0 (uma adição)
+
+70$0
+
+Despacho do valor de mais de 9:000$0 até 10:000$0 (uma adição)
+
+75$0
 
 Observar-se-á esta tabela seguidamente, cobrando-se sempre, por 1:000$0 ou fração excedente, mais 5$0 até 200:000$0.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:442.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 200:000$0 até 300:000$0</span></p></td><td style="width:36.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1:500$0</span></p></td></tr><tr><td style="width:442.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despacho do valor de mais de 300:000$0 até 500:000$0</span></p></td><td style="width:36.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3:000$0</span></p></td></tr></tbody></table>
+Despacho do valor de mais de 200:000$0 até 300:000$0
+
+1:500$0
+
+Despacho do valor de mais de 300:000$0 até 500:000$0
+
+3:000$0
 
 Cobrar-se-á mais 5$0 por adição excedente à primeira, alem das importâncias acima declaradas, a contar da taxa de 20$0. Nenhuma remuneração receberá mais o despachante, alem da importância de 3:000$0, por despacho e, em nenhuma hipótese, poderá receber, por despacho, remuneração superior a 50% dos direitos.
 
@@ -162,11 +260,21 @@ A remuneração sobre os despachos livres e com redução de direitos e sobre os
 
 c) Taxas para os despachos de trânsito, reembarque e baldeação:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 100 volumes, cada despacho</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Por dezena de volumes excedentes</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5$0</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Despachos de moedas e dinheiro, por volume</span></p></td><td style="width:28.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25$0</span></p></td></tr></tbody></table>
+Até 100 volumes, cada despacho
+
+30$0
+
+Por dezena de volumes excedentes
+
+5$0
+
+Despachos de moedas e dinheiro, por volume
+
+25$0
 
 d) Taxas para as mercadorias transportadas por cabotagem:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:485.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">I - Exportação</span></p></td></tr><tr><td style="width:448.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Por marca de volumes incluida em cada despacho, até 10 volumes</span></p></td><td style="width:29.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5$0</span></p></td></tr><tr><td style="width:448.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">De mais de 10 volumes</span></p></td><td style="width:29.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8$0</span></p></td></tr><tr><td colspan="2" style="width:485.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">II - Importação</span></p></td></tr><tr><td style="width:448.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Por marca de volumes constantes da guia até o valor de 1:000$0</span></p></td><td style="width:29.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4$0</span></p></td></tr><tr><td style="width:448.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Por conto de réis ou fração excedente, mais</span></p></td><td style="width:29.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5$0</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> I - Exportação </td></tr><tr><td> Por marca de volumes incluida em cada despacho, até 10 volumes </td><td> 5$0 </td></tr><tr><td> De mais de 10 volumes </td><td> 8$0 </td></tr><tr><td colspan="2"> II - Importação </td></tr><tr><td> Por marca de volumes constantes da guia até o valor de 1:000$0 </td><td> 4$0 </td></tr><tr><td> Por conto de réis ou fração excedente, mais </td><td> 5$0 </td></tr></tbody></table>
 
 Observação - Essa comissão não poderá exceder a quantia de 100$0.
 

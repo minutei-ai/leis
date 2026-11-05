@@ -1,6 +1,10 @@
 > **LEI Nº 3.115, DE 29 DE DEZEMBRO DE 2015**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera e acresce dispositivos à Lei n. 1.632, de 7 de março de 2005, que “Assegura aos professores da rede estadual de ensino que tenham cumprido o tempo mínimo de exercício no magistério para fins de aposentadoria a opção de exercer atividades fora da sala de aula.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera e acresce dispositivos à Lei n. 1.632, de 7 de março de 2005, que “Assegura aos professores da rede estadual de ensino que tenham cumprido o tempo mínimo de exercício no magistério para fins de aposentadoria a opção de exercer atividades fora da sala de aula.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

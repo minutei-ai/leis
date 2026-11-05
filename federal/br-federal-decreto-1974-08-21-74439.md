@@ -1,5 +1,3 @@
-###DEC-074439-0-000-21-08-1974@@@
-
 decreto nº 74.439 - de 21 de agosto de 1974.
 
 Estabelece normas para o acompanhamento da execução orçamentária pelas Inspetorias Seccionais de Finanças e dá outras providências.

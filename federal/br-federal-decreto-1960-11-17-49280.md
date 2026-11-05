@@ -1,5 +1,3 @@
-###DEC-049280-0-000-17-11-1960@@@
-
 DECRETO Nº 49.280, DE 17 DE NOVEMBRO DE 1960.
 
 Transfere, sem argumento de despesa função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura, que menciona.

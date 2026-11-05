@@ -1,5 +1,3 @@
-###DEL-005294-0-000-02-03-1943@@@
-
 DECRETO‑LEI N. 5.294 – De 2 De março de 1943
 
 Orça a receita a fixa a despesa para execução no exercício de 1943 do "Plano Especial do Obras Públicas e Aparelhamento da Defesa Nacional"
@@ -12,7 +10,43 @@ Art. 1º A execução do "Plano Especial de Obras Públicas e Aparelhamento da D
 
                                                                                                                                                   Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taxa sobre as operações cambiais..........................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>350.000.000,00</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lucro das operações bancárias em que o Tesouro tenha coparticipação...............</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>215.000.000,00</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cambiais produzidas pelo ouro remetido para o exterior</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>______</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Produto de obrigações do Tesouro Nacional (decreto-lei n. 1059, de 19-1-1939)...</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>______</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Juro das contas especiais do "Plano" abertas no Banco do Brasil..........................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25.000.000,00</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f)</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Saldo presumivel do exercício de 1942...................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000.000,00</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:361.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:95.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>600.000.000,00</span></p></td></tr></tbody></table>
+a)
+
+Taxa sobre as operações cambiais..........................................................................
+
+350.000.000,00
+
+b)
+
+Lucro das operações bancárias em que o Tesouro tenha coparticipação...............
+
+215.000.000,00
+
+c)
+
+Cambiais produzidas pelo ouro remetido para o exterior
+
+______
+
+d)
+
+Produto de obrigações do Tesouro Nacional (decreto-lei n. 1059, de 19-1-1939)...
+
+______
+
+e)
+
+Juro das contas especiais do "Plano" abertas no Banco do Brasil..........................
+
+25.000.000,00
+
+f)
+
+Saldo presumivel do exercício de 1942...................................................................
+
+10.000.000,00
+
+600.000.000,00
 
 Parágrafo único. A arrecadação que porventura se efetuar neste exercício em consequência da venda de ouro para obtenção de cambiais e da colo­cação de obrigações que forem emitidas ex‑vi do disposto no decreto‑lei n. 1.059, do 19 de janeiro de 1939, será computada nas rubricas respectivas (c ou d) que figuraram sem estimativa na discriminação deste artigo, em virtude de  não ser provavel a utilização, no corrente ano, de tais recursos, previstos, todavia, na lei institucional do "Plano".
 
@@ -20,7 +54,67 @@ Art. 2º Fica aberto o crédito especial de seiscentos milhões de cruzeiros (Cr
 
                                                                                                                                                    Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>1 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Conselho Nacional do Petróleo.............................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>15.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>2 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Aeronáutica......................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>30.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>3 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Agricultura........................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>25.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>4 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Educação e Saude..........................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>20.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>5 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Fazenda...........................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>215.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>6 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Guerra..............................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>50.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>7 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Justiça e Negócios Interiores...........................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>10.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>8 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Marinha............................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>50.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>9 –</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Viação e Obras Públicas..................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>120.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 –</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Siderurgia Nacional...............................................................................................</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp; </span><span>65.000.000,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:95.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>600.000.000,00</span></p></td></tr></tbody></table>
+1 –
+
+Conselho Nacional do Petróleo.............................................................................
+
+15.000.000,00
+
+2 –
+
+Ministério da Aeronáutica......................................................................................
+
+30.000.000,00
+
+3 –
+
+Ministério da Agricultura........................................................................................
+
+25.000.000,00
+
+4 –
+
+Ministério da Educação e Saude..........................................................................
+
+20.000.000,00
+
+5 –
+
+Ministério da Fazenda...........................................................................................
+
+215.000.000,00
+
+6 –
+
+Ministério da Guerra..............................................................................................
+
+50.000.000,00
+
+7 –
+
+Ministério da Justiça e Negócios Interiores...........................................................
+
+10.000.000,00
+
+8 –
+
+Ministério da Marinha............................................................................................
+
+50.000.000,00
+
+9 –
+
+Ministério da Viação e Obras Públicas..................................................................
+
+120.000.000,00
+
+10 –
+
+Siderurgia Nacional...............................................................................................
+
+65.000.000,00
+
+600.000.000,00
 
 Art. 3º O presente decreto‑lei entra em vigor desde 1 de janeiro de 1943, revogadas as disposições em contrário.
 

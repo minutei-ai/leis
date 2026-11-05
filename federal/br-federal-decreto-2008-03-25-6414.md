@@ -1,5 +1,3 @@
-###DEC-006414-0-000-25-03-2008@@@
-
 DECRETO Nº 6.414, DE 25 DE MARÇO DE 2008.
 
 Promulga o Acordo de Cooperação Cultural e Educacional entre o Governo da República Federativa do Brasil e o Governo da República Helênica, celebrado em Atenas, em 27 de março de 2003.

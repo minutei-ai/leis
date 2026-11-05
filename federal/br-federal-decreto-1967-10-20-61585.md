@@ -1,5 +1,3 @@
-###DEC-061585-0-000-20-10-1967@@@
-
 DECRETO Nº 61.585, DE 20 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública o “Educandário Nossa Senhora de Lourdes” com sede em Brusque, Estado de Santa Catarina.

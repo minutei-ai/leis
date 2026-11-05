@@ -1,5 +1,3 @@
-###DEL-003062-0-000-18-02-1941@@@
-
 DECRETO-LEI N. 3.062 – DE 18 DE FEVEREIRO DE 1941
 
 Extingue um cargo de professor catedrático, padrão M, da cadeira de canto da Escola Nacional de Música da Universidade do Brasil, do Quadro I do Ministério da Educação e Saude

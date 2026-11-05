@@ -1,5 +1,3 @@
-###MPV-002128-0-011-22-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº  2.128‑11, DE 22 DE JUNHO DE 2001
 
 Altera a legislação do imposto sobre a renda no que se refere aos incentivos fiscais de isenção e de redução, define diretrizes para os incentivos fiscais de aplicação de parcela do imposto sobre a renda nos Fundos de Investimentos Regionais, e dá outras providências.

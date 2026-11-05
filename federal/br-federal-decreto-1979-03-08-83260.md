@@ -1,5 +1,3 @@
-###DEC-083260-0-000-08-03-1979@@@
-
 Decreto nº 83.260, de 08 de março de 1979
 
 Autoriza a Fundação Universidade Federal do Mato Grosso a permutar imóveis de sua propriedade, situados em Cuiabá, por uma área de terra com 34.4863 ha. confinante com o campus universitário.

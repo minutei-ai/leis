@@ -1,5 +1,3 @@
-###DEL-005302-0-000-04-03-1943@@@
-
 DECRETO‑LEI N. 5.302 – DE 4 DE MARÇO DE 1943
 
 Abre ao Ministério da Educação e Saude o crédito especial de Cr$ 280.956,00 para despesa da Direção Nacional da Juventude Brasileira

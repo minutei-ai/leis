@@ -1,5 +1,3 @@
-###DEC-074047-0-000-13-05-1974@@@
-
 DECRETO Nº 74.047, DE 13 DE MAIO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Coxim - MT, destinado ao Ministério do Exército.

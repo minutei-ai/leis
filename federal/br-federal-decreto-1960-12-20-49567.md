@@ -1,5 +1,3 @@
-###DEC-049567-0-000-20-12-1960@@@
-
 DECRETO Nº 49.567, DE 20 DE DEzEMBRO DE 1960.
 
 Veda transferência de funções com os respectivos ocupantes.

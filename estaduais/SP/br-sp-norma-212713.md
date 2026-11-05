@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212713)<br>
-
 # LEI N° 18.478, DE 09 DE JUNHO DE 2026
 
 ## (Projeto de lei n° 1206/2023, do Deputado Itamar Borges – MDB)

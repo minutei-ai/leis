@@ -1,5 +1,3 @@
-###DEC-050423-0-000-08-04-1961@@@
-
 Decreto Nº 50.423, DE 8 DE ABRIL DE 1961.
 
 Dispõe sôbre ensino primário gratuito para os servidores de emprêsas industriais, comerciais e agrícolas.

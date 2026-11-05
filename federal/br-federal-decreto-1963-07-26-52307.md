@@ -1,5 +1,3 @@
-###DEC-052307-0-000-26-07-1963@@@
-
 DECRETO Nº 52.307, DE 26 DE JULHO DE 1963.
 
 Suspende os efeitos do art. 11 do Decreto nº 51.979, de 30 de abril de 1963.

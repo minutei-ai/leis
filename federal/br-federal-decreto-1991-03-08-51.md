@@ -1,5 +1,3 @@
-###DEC-000051-0-000-08-03-1991@@@
-
 DECRETO Nº 51, DE 08 DE MARÇO DE 1991.
 
 Dispõe sobre filme nacional, autenticação de videofonograma e dá outras providências .

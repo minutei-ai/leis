@@ -1,5 +1,3 @@
-###DEL-004011-0-000-12-01-1942@@@
-
 DECRETO-LEI N. 4.011 – DE 12 DE JANEIRO DE 1942
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 15.382:870$6, para completar o pagamento do capital invertido pelo Estado de Minas Gerais na Rede Mineira de Viação

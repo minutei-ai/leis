@@ -1,5 +1,3 @@
-###DEL-004645-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.645 – DE 2 DE SETEMBRO DE 1942
 
 Fixa os padrões de vencimentos dos cargos de tesoureiro, ajudante de tesoureiro, conferente de valores e dá outras providências

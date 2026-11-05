@@ -1,5 +1,3 @@
-###DEC-048859-0-000-13-08-1960@@@
-
 DECRETO Nº 48.859, DE 13 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública e autoriza a desapropriação do imóvel necessário ao Ministério da Guerra.

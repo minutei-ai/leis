@@ -1,5 +1,3 @@
-###DEC-086311-0-000-24-08-1981@@@
-
 DECRETO Nº 86.311, DE 24 DE AGOSTO DE 1981
 
 Autoriza a ULTRAFÉRTIL S.A. - INDÚSTRIA E COMÉRCIO DE FERTILIZANTES a proceder ao aumento do limite do seu capital social.

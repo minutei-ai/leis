@@ -1,5 +1,3 @@
-###DEC-078524-0-000-30-09-1976@@@
-
 DECRETO Nº 78.524, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Estudos Sociais de 1º grau parcelado, de Letras, de Ciências e de Formação de Professores de Disciplinas Especializadas de 2º grau, da Fundação Universidade Estadual de Maringá, com sede na cidade de Maringá, Estado do Paraná.

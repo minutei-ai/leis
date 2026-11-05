@@ -1,5 +1,3 @@
-###DEC-048943-0-000-14-09-1960@@@
-
 Decreto nº 48.943, de 14 de setembro de 1960.
 
 Dá nova redação ao artigo 2º do Regulamento para o Arsenal de Marinha do Rio de Janeiro.

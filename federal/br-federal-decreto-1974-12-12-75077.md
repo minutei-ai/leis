@@ -1,5 +1,3 @@
-###DEC-075077-0-000-12-12-1974@@@
-
 DECRETO Nº 75.077, DE 12 DE DEZEMBRO DE 1974
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do Terreno que menciona, situado no Estado de Mato Grosso.

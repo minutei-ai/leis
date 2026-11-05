@@ -1,5 +1,3 @@
-###DEC-050523-0-000-03-05-1961@@@
-
 DECRETO Nº 50.523, DE 03 DE MAIO DE 1961.
 
 Extingue a Comissão de Simplificação Burocrática e dá outras providências.

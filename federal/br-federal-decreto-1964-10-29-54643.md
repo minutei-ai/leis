@@ -1,5 +1,3 @@
-###DEC-054643-0-000-29-10-1964@@@
-
 DECRETO Nº 54.643, de 29 de outubro de 1964.
 
 Declara de utilidade pública a União Norte Brasileiro da Igreja Adventista do Sétimo Dia, com sede em Belém, Estado do Pará.

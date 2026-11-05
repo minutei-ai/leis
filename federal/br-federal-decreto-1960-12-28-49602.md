@@ -1,5 +1,3 @@
-###DEC-049602-0-000-28-12-1960@@@
-
 DECRETO Nº 49.602, DE 28 DE DEZEMBRO DE 1960.
 
 Autoriza o Govêrno do Estado do Maranhão a pesquisar calcário, no Município de Codó, Estado do Maranhão.

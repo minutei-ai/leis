@@ -1,5 +1,3 @@
-###DEC-093150-0-000-21-08-1986@@@
-
 DECRETO Nº 93.150, DE 21 DE AGOSTO DE 1986
 
 Renova a concessão outorgada à RÁDIO CLUBE DE SANTARÉM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santarém, Estado do Pará.

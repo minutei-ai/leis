@@ -1,5 +1,3 @@
-###DEC-076096-0-000-07-08-1975@@@
-
 DECRETO Nº 76.096 - DE 7 DE AGOSTO DE 1975
 
 Modifica o Regulamento de Passaportes (Decreto nº 3.345, de 30 de novembro de 1938).

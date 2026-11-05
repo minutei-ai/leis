@@ -1,5 +1,3 @@
-###DEC-000000-0-000-05-02-1823@@@
-
 DECRETO - DE 5 DE FEVEREIRO DE 1823
 
 Marca o vencimento dos empregados da Administração das diversas rendas arrecadadas na Mesa do Consulado desta Côrte.
@@ -12,4 +10,14 @@ Martim Francisco Ribeiro de Andrada.
 
 Por decretos da mesma data foram nomeados mais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:426.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Escrivão com o vencimento de....................................................................................................</span></p></td><td style="width:48.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1:000$000</span></p></td></tr><tr><td style="width:426.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Thesoureiro com..........................................................................................................................</span></p></td><td style="width:48.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1:000$000</span></p></td></tr><tr><td style="width:426.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4 Escripturarios cada um com.........................................................................................................</span></p></td><td style="width:48.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">300$000</span></p></td></tr></tbody></table>
+O Escrivão com o vencimento de....................................................................................................
+
+1:000$000
+
+O Thesoureiro com..........................................................................................................................
+
+1:000$000
+
+4 Escripturarios cada um com.........................................................................................................
+
+300$000

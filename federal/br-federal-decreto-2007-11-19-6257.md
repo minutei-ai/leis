@@ -1,5 +1,3 @@
-###DEC-006257-0-000-19-11-2007@@@
-
 DECRETO Nº 6.257, DE 19 DE NOVEMBRO DE 2007.
 
 Dá nova redação aos arts. 4º e 5º do Decreto no 6.042, de 12 de fevereiro de 2007, que altera o Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, disciplina a aplicação, acompanhamento e avaliação do Fator Acidentário de Prevenção - FAP e do Nexo Técnico Epidemiológico.
@@ -30,11 +28,7 @@ Brasília, 19 de novembro de 2007; 186º da Independência e 119º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 20.11.2007
-
-REPUBLICAÇÃO
+Luiz MarinhoREPUBLICAÇÃO
 
 DECRETO No- 6.257, DE 19 DE NOVEMBRO DE 2007(\*)
 

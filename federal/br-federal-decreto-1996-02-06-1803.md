@@ -1,5 +1,3 @@
-###DEC-001803-0-000-06-02-1996@@@
-
 DECRETO N° 1.803, DE 6 DE FEVEREIRO DE 1996
 
 Altera dispositivos do Decreto n° 980, de 11 de novembro de 1993, que dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União a agentes políticos e servidores públicos federais.

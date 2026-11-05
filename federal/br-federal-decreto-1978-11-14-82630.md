@@ -1,5 +1,3 @@
-###DEC-082630-0-000-14-11-1978@@@
-
 Decreto nº 82.630, de 14 de novembro de 1978.
 
 Retifica a concessão de lavra outorgada à Companhia Brasileira de Alumínio pelo Decreto nº 79.363, de 09 de março de 1977.

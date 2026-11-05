@@ -1,5 +1,3 @@
-###DEL-009310-0-000-29-05-1946@@@
-
 DECRETO-LEI N. 9.310 – DE 29 DE MAIO DE 1946
 
 Dispõe sôbre a execução de obras na adutora do Ribeirão das Lajes e dá outras providências.

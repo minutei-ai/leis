@@ -1,5 +1,3 @@
-###DEL-002038-0-000-29-06-1983@@@
-
 # Decreto-lei nº 2.038, de 29 de jUnho de 1983
 
 Altera dispositivos do Decreto-lei nº 1.958, de 9 de setembro de 1982, que trata da comprovação da inexistência de débito para com a Previdência Social.

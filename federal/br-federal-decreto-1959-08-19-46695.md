@@ -1,5 +1,3 @@
-###DEC-046695-0-000-19-08-1959@@@
-
 DECRETO Nº 46.695, DE 19 DE AGôSTO DE 1959.
 
 Abre ao Poder Judiciário - Supremo Tribunal Federal - o credito especial de Cr$7.736.400,00 (sete milhões, setecentos e trinta e seis mil e quatrocentos cruzeiros), para o fim que especifica.

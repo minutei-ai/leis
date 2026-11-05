@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130323)
-
 # EMENDA CONSTITUCIONAL Nº 2, DE 21 DE FEVEREIRO DE 1995
 
 A Mesa da Assembléia Legislativa do Estado de São Paulo, nos termos do § 3º do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:

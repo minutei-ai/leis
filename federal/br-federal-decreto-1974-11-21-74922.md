@@ -1,5 +1,3 @@
-###DEC-074922-0-000-21-11-1974@@@
-
 DECRETO Nº 74.922, DE 21 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Direito do Vale do Rio Doce, mantida pela Sociedade Civil Cultura e Educação, com sede na cidade de Governador Valadares, Estado de Minas Gerais.

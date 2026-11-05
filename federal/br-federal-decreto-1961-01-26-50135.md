@@ -1,5 +1,3 @@
-###DEC-050135-0-000-26-01-1961@@@
-
 DECRETO Nº 50.135, DE 26 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Celso Santos a pesquisar minério de manganês no município de Saúde, Estado da Bahia.

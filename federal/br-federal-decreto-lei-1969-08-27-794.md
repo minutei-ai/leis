@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1a0d4220-4179-4c1a-9187-efe6b454896d/texto#nowhere)
 
-###DEL-000794-0-000-27-08-1969@@@
-
 DECRETO-LEi Nº 794, DE 27 DE AGôSTO DE 1969
 
 Autoriza a União a constituir emprêsas para exploração de portos, terminais e vias navegáveis e dá outras providências

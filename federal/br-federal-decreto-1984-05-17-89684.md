@@ -1,5 +1,3 @@
-###DEC-089684-0-000-17-05-1984@@@
-
 Decreto nº 89.684, de 17 de maio de 1984
 
 Cria a Base Aérea de Porto Velho e dá outras providências.

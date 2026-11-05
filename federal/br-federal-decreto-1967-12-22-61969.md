@@ -1,5 +1,3 @@
-###DEC-061969-0-000-22-12-1967@@@
-
 Decreto nº 61.969, de 22 de dezembro de 1967.
 
 Delega competência ao Ministro da Fazenda para nomeação de membros dos Conselhos de Contribuintes e Superior de Tarifa.

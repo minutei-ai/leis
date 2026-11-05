@@ -1,5 +1,3 @@
-###DEC-068898-0-000-09-07-1971@@@
-
 DECRETO Nº 68.898, DE 9 de JULHO DE 1971.
 
 Estende aos serviços auxiliares da emprêsa Vulcan Material Plástico Sociedade Anônima, sediada no Estado da Guanabara, permissão, em caráter permanente, para funcionar aos domingos e nos dias feriados civis e religiosos.

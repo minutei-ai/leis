@@ -1,5 +1,3 @@
-###DEC-074662-0-000-08-10-1974@@@
-
 DECRETO nº 74.662, DE 8 DE OUTUBRO DE 1974.
 
 Autoriza ao Governo do Estado do Rio Grande do Sul, através da Secretaria de Educação e Cultura, a instalar uma estação de radiodifusão de sons e imagens (televisão), com fins exclusivamente educativos, na cidade de Porto Alegre, mediante convênio a ser celebrado com o Ministério das Comunicações.

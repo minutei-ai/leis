@@ -1,5 +1,3 @@
-###DEC-059073-0-000-12-08-1966@@@
-
 DECRETO Nº 59.073, DE 12 DE AGÔStO DE 1966.
 
 Autoriza o cidadão brasileiro Itagyba Mattos a pesquisar água mineral no município de Santa Fé do sul, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076386-0-000-02-10-1975@@@
-
 DECRETO Nº 76.386, DE 2 DE OUTUBRO DE 1975.
 
 Dispõe sobre a Estrutura Básica do Ministério do Trabalho e, dá outras providências.

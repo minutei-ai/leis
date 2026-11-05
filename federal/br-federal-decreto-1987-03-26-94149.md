@@ -1,5 +1,3 @@
-###DEC-094149-0-000-26-03-1987@@@
-
 DECRETO Nº 94.149, DE 26 DE MARÇO DE 1987.
 
 Autoriza o Banco do Nordeste do Brasil S/A a aumentar o seu capital.

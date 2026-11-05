@@ -1,5 +1,3 @@
-###DEC-080954-0-000-07-12-1977@@@
-
 Decreto Nº 80.954, de 07 de dezembro de 1977.
 
 Concede à Mineração Vale do Jacurici S/A., o direito de lavrar cromita no Município de Queimadas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-046628-0-000-17-08-1959@@@
-
 DECRETO Nº 46.628, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza a Emprêsa Elétrica de Mongaguá a ampliar a capacidade de suas instalações produtoras.

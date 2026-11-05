@@ -1,5 +1,3 @@
-###DEC-070296-0-000-17-03-1972@@@
-
 Decreto nº 70.296, de 17 de março de 1972.
 
 Altera os artigos 1º e 2º do Decreto nº 47.446, de 17 de dezembro de 1959 e dá outras providências.

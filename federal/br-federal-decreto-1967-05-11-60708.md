@@ -1,5 +1,3 @@
-###DEC-060708-0-000-11-05-1967@@@
-
 Decreto nº 60.708, de 11 de maio de 1967.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil da fração ideal de terreno de marinha que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-000585-0-000-26-06-1992@@@
-
 DECRETO N° 585, DE 26 DE JUNHO DE 1992
 
 Promulga o Acordo, por troca de Notas, sobre a Gratuidade Parcial da Execução das Cartas Rogatórias em Matéria Penal, entre o Governo da República Federativa do Brasil e o Governo da República Francesa .

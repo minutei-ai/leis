@@ -1,5 +1,3 @@
-###DEL-008055-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.055 – DE 8 DE OUTUBRO DE 1945
 
 Incorpora ao patrimônio nacional os terrenos remanescentes das desapropriações realizadas pela Companhia Docas da Bahia.

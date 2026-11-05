@@ -1,5 +1,3 @@
-###DEC-003597-0-000-12-09-2000@@@
-
 DECRETO Nº 3.597  DE 12 DE SETEMBRO DE 2000.
 
 Promulga a Convenção 182 e a Recomendação 190 da Organização Internacional do Trabalho (OIT) sobre a proibição das Piores Formas de Trabalho Infantil e a Ação Imediata para sua Eliminação, concluídas em Genebra, em 17 de junho de 1999.

@@ -1,5 +1,3 @@
-###DEC-061830-0-000-05-12-1967@@@
-
 Decreto nº 61.830, de 5 de Dezembro de 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que Despesas de Custeio se estenderá desde a subestação de Guajará, no município de Nossa Senhora do Socorro até a subestação de Estância, no município de Estância, Estado do Sergipe.

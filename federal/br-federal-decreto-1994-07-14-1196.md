@@ -1,7 +1,3 @@
-1
-
-###DEC-001196-0-000-14-07-1994@@@
-
 DECRET0 N° 1.196, DE 14 DE JULH0 DE 1994
 
 Dispõe sobre a gestão e administração do Fundo Nacional para a Criança e o Adolescente (FNCA), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078318-0-000-26-08-1976@@@
-
 Decreto nº 78.318, de 26 de agosto de 1976.
 
 Concede reconhecimento ao curso de Enfermagem, licenciatura, da Escola de Enfermagem Alfredo Pinto, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

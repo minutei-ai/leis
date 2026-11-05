@@ -1,5 +1,3 @@
-###MPV-001738-0-022-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.738-22, DE 6 DE MAIO DE 1999
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

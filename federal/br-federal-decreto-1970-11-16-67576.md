@@ -1,5 +1,3 @@
-###DEC-067576-0-000-16-11-1970@@@
-
 DECRETO Nº 67.576, DE 16 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Liga da Defesa Nacional, com sede no Estado da Guanabara.

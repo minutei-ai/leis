@@ -1,5 +1,3 @@
-###DEC-080189-0-000-17-08-1977@@@
-
 DECRETO Nº 80.189, DE 17 DE AGOSTO DE 1977.
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 21.437.200,00, para reforço de dotações consignadas no vigente Orçamento.

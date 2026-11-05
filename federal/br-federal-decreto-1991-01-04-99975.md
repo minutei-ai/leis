@@ -1,7 +1,3 @@
-1
-
-###DEC-099975-0-000-04-01-1991@@@
-
 DECRETO Nº 99.975, DE 4 DE JANEIRO DE 1991.
 
 Outorga à Italmagnésio Nordeste S.A. concessão para o aproveitamento da energia hidráulica do Rio do Sono e de um trecho do ribeirão das Gaitas, nos Municípios de João Pinheiro e Buritizeiro, Estado de Minas Gerais.

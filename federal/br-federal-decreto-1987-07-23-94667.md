@@ -1,5 +1,3 @@
-###DEC-094667-0-000-23-07-1987@@@
-
 DECRETO Nº 94.667, DE 23 DE JULHO DE 1987.
 
 Dispõe sobre a realização de despesa com pessoal e encargos sociais, proíbe o ingresso de servidores na Administração Federal, e dá outras providências.

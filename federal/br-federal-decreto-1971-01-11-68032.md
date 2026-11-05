@@ -1,5 +1,3 @@
-###DEC-068032-0-000-11-01-1971@@@
-
 DECRETO Nº 68.032, DE 11 DE JANEIRO DE 1971.
 
 Revoga o Decreto nº 63.239, de 12 de setembro de 1968.

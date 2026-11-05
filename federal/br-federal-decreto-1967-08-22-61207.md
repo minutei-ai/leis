@@ -1,5 +1,3 @@
-###DEC-061207-0-000-22-08-1967@@@
-
 DECRETO Nº 61.207, DE 22 DE AGÔSTO DE 1967.
 
 Abre ao Ministério da Agricultura o crédito especial de NCr$6.000.000,00 (seis milhões de cruzeiros novos) em favor do Instituto Brasileiro do Desenvolvimento Floresta criado pelo Decreto-lei nº 289 de 28 de fevereiro de 1967.

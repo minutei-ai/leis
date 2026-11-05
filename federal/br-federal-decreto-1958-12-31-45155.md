@@ -1,5 +1,3 @@
-###DEC-045155-0-000-31-12-1958@@@
-
 DECRETO Nº 45.155, de 31 DE DEZEMBRO DE 1958.
 
 Concede a “Indumar” Industrial Mármore Ltda. a autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-004299-0-000-11-07-2002@@@
-
 DECRETO Nº 4.299, DE 11 DE JULHO DE 2002
 
 Dispõe sobre a execução, no Território Nacional das sanções contra a Libéria, estabelecidas pela Resolução 1408 (2002) do Conselho de Segurança das Nações Unidas.

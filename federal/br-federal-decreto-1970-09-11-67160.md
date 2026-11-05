@@ -1,5 +1,3 @@
-###DEC-067160-0-000-11-09-1970@@@
-
 DECRETO Nº 67.160, DE 11 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linhas de transmissão estabelecidas entre as cidades de Petrolina de Goiás e Jaraguá e entre esta última e a de São Francisco de Goiás no Estado de Goiás.

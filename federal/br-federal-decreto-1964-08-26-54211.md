@@ -1,5 +1,3 @@
-###DEC-054211-0-000-26-08-1964@@@
-
 DECRETO Nº 54.211, DE 26 DE AGÔSTO DE 1964.
 
 Renova concessão de serviço de radiodifusão da Rádio Sociedade da Bahia S.A.

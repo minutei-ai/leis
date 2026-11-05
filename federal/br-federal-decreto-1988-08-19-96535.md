@@ -1,5 +1,3 @@
-###DEC-096535-0-000-19-08-1988@@@
-
 DECRETO N° 96.535, DE 19 DE AGOSTO 1988
 
 Outorga concessão à TELEVISÃO IVAI LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Londrina, Estado do Paraná.

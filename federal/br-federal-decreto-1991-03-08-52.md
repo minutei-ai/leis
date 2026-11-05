@@ -1,5 +1,3 @@
-###DEC-000052-0-000-08-03-1991@@@
-
 DECRETO Nº 52, DE 08 DE MARÇO DE 1991.
 
 Promulga o Protocolo concernente à Emenda ao Acordo de Comércio e Paga­mentos, de 5 de junho de 1975, entre o Governo da República Federativa do Brasil e o Governo da Romênia.

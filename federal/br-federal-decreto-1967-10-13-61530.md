@@ -1,5 +1,3 @@
-###DEC-061530-0-000-13-10-1967@@@
-
 DECRETO Nº 61.530, DE 13 DE OUTUBRO DE 1967.
 
 Abre ao Tribunal Superior do Trabalho, o crédito suplementar de NCr$287.817,50 (duzentos e oitenta e sete mil, oitocentos e onze cruzeiros novos e cinqüenta centavos) para refôrço de dotações orçamentárias.

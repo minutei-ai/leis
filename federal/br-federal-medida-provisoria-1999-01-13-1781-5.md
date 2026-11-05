@@ -1,5 +1,3 @@
-###MPV-001781-0-005-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.781-5, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre o Programa de Revitalização de Cooperativas de Produção Agropecuária - RECOOP, autoriza a criação do Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP, e dá outras providências.

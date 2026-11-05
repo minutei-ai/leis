@@ -1,5 +1,3 @@
-###DEC-068211-0-000-11-02-1971@@@
-
 DECRETO Nº 68.211, DE 11 DE FEVEREIRO DE 1971.
 
 Concede à Marminas S.A. o direito de lavrar mármore, no município de Juazeiro, Estado da Bahia.

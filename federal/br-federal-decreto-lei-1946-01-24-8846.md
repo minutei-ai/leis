@@ -1,5 +1,3 @@
-###DEL-008846-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.846 – DE 24 DE JANEIRO DE 1946
 
 Altera a redação do § 4º do art. 14, do Decreto-lei nº 8.512, de 31 de Dezembro de 1945.

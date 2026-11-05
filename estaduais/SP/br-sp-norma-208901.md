@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208901)<br>
-
 # DECRETO N° 68.155, DE 09 DE DEZEMBRO DE 2023
 
 ### _Regulamenta, em âmbito estadual, a Lei federal n° 12.527, de 18 de novembro de 2011, que dispõe sobre o acesso a informações, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto regulamenta a Lei federal n° 12.527, de 18 de novembro de 2011, para disciplinar os procedimentos de acesso a informações no âmbito dos órgãos e entidades da Administração Pública estadual.
@@ -59,10 +58,12 @@ XIV - reclassificação: alteração, pela autoridade competente, da classifica�
 
 XV - tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Acesso à Informação
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 4° -** Cabe aos órgãos e entidades de que trata o artigo 1° deste decreto:
@@ -113,7 +114,8 @@ VIII - informações sobre serviços prestados em órgãos e entidades, seus mei
 
 **§ 6° -** O agente público que, no âmbito do atendimento a um pedido de acesso a informação, detectar extravio da informação solicitada, deverá representar tal fato à autoridade competente, para as medidas cabíveis.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Serviço de Informação ao Cidadão
 
 **Artigo 6° -** Os órgãos e entidades da Administração Pública estadual deverão manter Serviços de Informações ao Cidadão - SIC, que atuarão de forma coordenada com as Unidades Setoriais de Ouvidoria, dispondo de local com condições apropriadas, infraestrutura tecnológica e equipe capacitada para:
@@ -136,7 +138,8 @@ V - produzir informações gerenciais, em articulação com a Unidade de Gestão
 
 **Artigo 8° -** O Controlador Geral do Estado editará norma complementar estabelecendo prazo para os órgãos e entidades providenciarem a implementação e demais aspectos operacionais do módulo de acesso à informação da Plataforma Integrada de Ouvidoria e Acesso à Informação.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Comissão de Avaliação de Documentos e Acesso
 
 **Artigo 9° -** As Comissões de Avaliação de Documentos de Arquivo, a que se referem os Decretos n° 29.838, de 18 de abril de 1989, e n° 48.897, de 27 de agosto de 2004, instituídas nos órgãos e entidades da Administração Pública Estadual, denominam-se Comissões de Avaliação de Documentos e Acesso - CADA.
@@ -151,7 +154,8 @@ III - propor o destino final das informações desclassificadas, indicando aquel
 
 **Artigo 11 -** As informações classificadas em grau secreto ou ultrassecreto serão consideradas de guarda permanente.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Atribuições do Ouvidor Setorial
 
 **Artigo 12 -** Cabe ao ouvidor, nas unidades setoriais dos órgãos ou entidades:
@@ -168,7 +172,8 @@ V - coordenar o fornecimento das informações necessárias ao processo de dispo
 
 **Parágrafo único -** O dirigente máximo do órgão ou entidade deverá, se necessário, designar agentes públicos para apoiar a Unidade Setorial de Ouvidoria, com vistas ao integral e adequado cumprimento das disposições deste decreto.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Pedido
 
 **Artigo 13 -** O pedido de informações deverá ser apresentado por meio da Plataforma Integrada de Ouvidoria e Acesso à Informação, presencialmente ao Serviço de Informações ao Cidadão - SIC do órgão ou entidade ou por qualquer meio legítimo que contenha a identificação do interessado e a especificação da informação requerida.
@@ -209,7 +214,8 @@ III - comunicar que não possui a informação, indicando, se for do seu conheci
 
 **Artigo 18 -** É direito do interessado obter o inteiro teor de decisão de negativa de acesso.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Dos Recursos
 
 **Artigo 19 -** No caso de indeferimento do pedido de acesso à informação ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias a contar de sua ciência.
@@ -238,7 +244,8 @@ Dos Recursos
 
 **§ 2° -** Negado o acesso à informação pela Comissão Estadual de Acesso à Informação, a solicitação será arquivada.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Divulgação de Informações em Transparência Ativa
 
 **Artigo 22 -** Cabe aos órgãos e entidades da Administração Pública estadual promover, independentemente de requerimentos, a divulgação, em seção específica de seus respectivos sítios oficiais na Internet, de informações de interesse coletivo ou geral, relativas a seus campos funcionais ou escopos institucionais.
@@ -259,10 +266,12 @@ II - classificados e respectivos graus de sigilo, com identificação para refer
 
 **Artigo 25 -** A Controladoria Geral do Estado disponibilizará, em área específica do Portal da Transparência do Estado de São Paulo, informações sobre acesso à informação, contendo, no mínimo, orientações, normas relacionadas, painel de indicadores, teor de decisões de recursos de acesso à informação.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das restrições de acesso
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 26 -** Estão sujeitas, no âmbito da Administração Pública estadual, à restrição de acesso, as informações:
@@ -281,7 +290,8 @@ III - relacionadas à pessoa natural identificada ou identificável, desde que r
 
 **§ 2° -** As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas não poderão ser objeto de restrição de acesso.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Classificação de Informações Quanto ao Grau de Sigilo
 
 **Artigo 28 -** São consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto, passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam:
@@ -372,7 +382,8 @@ III - no grau de reservado, das autoridades referidas nos incisos I e II deste a
 
 **Artigo 34 -** A decisão da desclassificação, reclassificação ou redução do prazo de sigilo de informações classificadas deverá constar das capas dos processos, se houver, e de campo apropriado no Termo de Classificação da Informação - TCI.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Informações Pessoais
 
 **Artigo 35 -** O tratamento de informações pessoais deve ser feito de forma transparente, com respeito à intimidade, vida privada, honra, imagem, liberdades e garantias individuais.
@@ -403,7 +414,8 @@ Das Informações Pessoais
 
 **Artigo 36 -** As operações de tratamento de informações pessoais necessárias ao cumprimento deste decreto destinam-se ao atendimento da finalidade pública de garantia de acesso à informação, em consonância com o artigo 23 da Lei federal n 13.709, de 14 de agosto de 2018.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Tratamento de Informações Classificadas em Grau de Sigilo
 
 **Artigo 37 -** O tratamento de informações classificadas em grau de sigilo observará medidas especiais de segurança, técnicas e administrativas, aptas a protegê-las de acessos não autorizados e de incidentes de vazamento ou de ilícitos de destruição, perda, alteração, comunicação ou difusão.
@@ -444,7 +456,8 @@ II - proceder ao registro do documento no sistema de gestão documental do órg�
 
 **Parágrafo único -** Os extratos referidos no "caput" deste artigo limitar-se-ão ao seu respectivo número, ao ano de edição e à sua ementa, redigidos por agente público credenciado, de modo a não comprometer o sigilo.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Da Credencial de Segurança
 
 **Artigo 46 -** As credenciais de segurança referentes aos graus de sigilo previstos no artigo 29 deste decreto serão classificadas nos graus ultrassecreto, secreto ou reservado.
@@ -459,7 +472,8 @@ Da Credencial de Segurança
 
 **§ 4° -** O compromisso referido no § 1° deste artigo persistirá enquanto durar o sigilo dos documentos a que os agentes públicos tiveram acesso.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Comissão Estadual de Acesso à Informação
 
 **Artigo 48 -** Fica instituída, junto à Controladoria Geral do Estado, a Comissão Estadual de Acesso à Informação - CEAI.
@@ -538,7 +552,8 @@ IV - solicitar, aos órgãos competentes, as informações necessárias ao desen
 
 **Artigo 55 -** A Comissão Estadual de Acesso à Informação - CEAI aprovará, por maioria absoluta, as alterações de seu regimento interno.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Entidades Privadas sem Fins Lucrativos
 
 **Artigo 56 -** As entidades privadas sem fins lucrativos que receberem recursos públicos estaduais para realização de ações de interesse público deverão, sem prejuízo das obrigações específicas decorrentes do instrumento jurídico firmado, dar publicidade às seguintes informações:
@@ -561,7 +576,8 @@ V - dispositivo de acesso rápido ao Portal da Transparência do Estado de São 
 
 **Artigo 57 -** Os pedidos de informação referentes aos convênios, contratos, termos de parcerias, acordos, ajustes ou instrumentos congêneres previstos no artigo 56 deste decreto deverão ser apresentados diretamente aos órgãos e entidades responsáveis pelo repasse de recursos.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Responsabilidades
 
 **Artigo 58 -** É dever dos órgãos e entidades da Administração Pública estadual controlar o acesso e a divulgação de informações restritas sob sua custódia, assegurando proteção contra perda, alteração, acesso, transmissão e divulgação não autorizados.
@@ -608,7 +624,8 @@ V - declaração de inidoneidade para licitar ou contratar com a Administração
 
 **§ 3° -** A aplicação da sanção prevista no inciso V do "caput" deste artigo é de competência exclusiva da autoridade máxima do órgão ou entidade pública.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Disposições Finais
 
 **Artigo 63 -** Cabe à Controladoria Geral do Estado:

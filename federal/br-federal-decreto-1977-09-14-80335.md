@@ -1,5 +1,3 @@
-###DEC-080335-0-000-14-09-1977@@@
-
 DECRETO Nº 80.335, DE 14 DE SETEMBRO DE 1977.
 
 Autoriza a transformação dos cursos de Ciências, e de Matemática em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras, "Tibiriçá", com sede na cidade de São Paulo, Estado de São Paulo.

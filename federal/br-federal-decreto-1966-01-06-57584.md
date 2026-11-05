@@ -1,5 +1,3 @@
-###DEC-057584-0-000-06-01-1966@@@
-
 decreto nº 57.584, de 6 de janeiro de 1966.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$750.000.000.000, para o fim que especifica.

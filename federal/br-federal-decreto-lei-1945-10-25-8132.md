@@ -1,5 +1,3 @@
-###DEL-008132-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.132 – DE 25 DE OUTUBRO DE 1945
 
 Cede ao Govêrno do Estado de Mato Grosso o imóvel que menciona

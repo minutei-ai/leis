@@ -1,5 +1,3 @@
-###DEC-052144-0-000-25-06-1963@@@
-
 Decreto Nº 52.144, DE 25 DE JUNHO DE 1963.
 
 Acrescenta parágrafo no art. 4º do Decreto nº 48.921, de 8 de setembro de 1960.

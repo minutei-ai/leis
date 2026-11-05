@@ -1,5 +1,3 @@
-###DEL-003798-0-000-05-11-1941@@@
-
 DECRETO-LEI N. 3.798 – DE 5 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito especial de 4.389:317$8, para pagamento de transporte.

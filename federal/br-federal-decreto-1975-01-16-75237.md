@@ -1,5 +1,3 @@
-###DEC-075237-0-000-16-01-1975@@@
-
 DECRETO Nº 75.237, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Medicina de Teresópolis, mantida pela Fundação Educacional Serra dos Órgãos, com sede na cidade de Teresópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-047679-0-000-20-01-1960@@@
-
 Decreto nº 47.679, de 20 de janeiro de 1960.
 
 Transfere de José Bernadino de Carvalho para a Prefeitura Municipal de Madre de Deus de Minas a concessão para a produção e fornecimento de energia elétrica aos municípios de Madre de Deus de Minas e Piedade do Rio Grande, Estado de Minas Gerais.

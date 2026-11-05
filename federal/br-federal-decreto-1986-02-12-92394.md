@@ -1,5 +1,3 @@
-###DEC-092394-0-000-12-02-1986@@@
-
 DECRETO Nº 92.394, DE 12 DE FEVEREIRO DE 1986
 
 Institui o Serviço Nacional de Protocolo - SENAPRO, e dá outras providências.

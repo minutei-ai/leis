@@ -1,5 +1,3 @@
-###DEC-070254-0-000-07-03-1972@@@
-
 decreto nº 70.254, de 7 de março de 1972.
 
 Declara de interesse social, para fins de desapropriação para reforma agrária a área rural que menciona, situada no município de Sobradinho, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-009316-0-000-03-06-1946@@@
-
 DECRETO-LEI N. 9.316 – DE 3 DE JUNHO DE 1946
 
 Dispõe sôbre a eleição para o preenchimento de vaga de Senador pelo Estado de São Paulo.

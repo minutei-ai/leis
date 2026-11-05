@@ -1,5 +1,3 @@
-###DEC-046740-0-000-26-08-1959@@@
-
 DECRETO Nº 46.740, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar minerais de silimanita no município de Carmo da Mata, Estado de Minas Gerais.

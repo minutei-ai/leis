@@ -1,5 +1,3 @@
-###DEC-075209-0-000-13-01-1975@@@
-
 DECRETO Nº 75.209, DE 13 DE JANEIRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias situados nos Municípios de Angra dos Reis, Mangaratiba, Itaguaí, Nova Iguaçu e Duque de Caxias, no Estado do Rio de Janeiro.

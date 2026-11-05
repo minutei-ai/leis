@@ -1,5 +1,3 @@
-###DEC-088426-0-000-21-06-1983@@@
-
 Decreto nº 88.426, de 21 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Catanduva II, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

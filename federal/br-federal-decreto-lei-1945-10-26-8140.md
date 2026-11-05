@@ -1,5 +1,3 @@
-###DEL-008140-0-000-26-10-1945@@@
-
 DECRETO-LEI N. 8.140 – DE 26 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 4.943,60 para pagamento de fornecimentos feitos em 1934 e 1935.

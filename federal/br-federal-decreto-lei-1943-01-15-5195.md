@@ -1,5 +1,3 @@
-###DEL-005195-0-000-15-01-1943@@@
-
 DECRETO‑LEI N. 5.195 – DE 15 DE JANEIRO DE 1943
 
 Concede indulto a sorteados insubmissos dá outras providências

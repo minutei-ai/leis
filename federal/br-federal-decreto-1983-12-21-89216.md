@@ -1,5 +1,3 @@
-###DEC-089216-0-000-21-12-1983@@@
-
 Decreto nº 89.216, de 21 de dezembro de 1983
 
 Autoriza o aumento do capital social da Rede Federal de Armazéns Gerais Ferroviários S.A. - AGEF.

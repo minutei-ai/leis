@@ -102,7 +102,8 @@ Art. 4º A [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 Art. 5º A [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, passa a vigorar com as seguintes alterações:
 
-“Art. 14. A Função Comissionada de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI e a Gratificação de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI passam a ter as funções e os valores constantes do Anexo III desta Lei.<br>
+“Art. 14. A Função Comissionada de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI e a Gratificação de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI passam a ter as funções e os valores constantes do Anexo III desta Lei.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 § 1º Aplica-se o disposto no _caput_ deste artigo ao militar que atue como Gestor Escolar de Colégio Estadual da Polícia Militar de Goiás.
@@ -113,14 +114,16 @@ Art. 5º A [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 ...................................................................................................................................
 
-§ 5º Nos casos em que o servidor possuir qualquer outra vantagem pecuniária referente ao exercício das funções de direção, chefia, supervisão, assessoramento ou secretariado, ele não fará jus à Gratificação de Dedicação Plena e Integral – GDPI, à Função Comissionada de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI ou à Gratificação de Secretário Escolar e Coordenador Administrativo Financeiro dos Centros de Ensino em Período Integral – GRATSECAF-CEPI.<br>
+§ 5º Nos casos em que o servidor possuir qualquer outra vantagem pecuniária referente ao exercício das funções de direção, chefia, supervisão, assessoramento ou secretariado, ele não fará jus à Gratificação de Dedicação Plena e Integral – GDPI, à Função Comissionada de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI ou à Gratificação de Secretário Escolar e Coordenador Administrativo Financeiro dos Centros de Ensino em Período Integral – GRATSECAF-CEPI.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 ..........................................................................................................................” (NR)
 
 “Art. 15-A. As especificações e os critérios de pagamento das funções comissionadas do grupo Gestor Escolar e das gratificações do grupo Secretário Escolar e Coordenador Administrativo Financeiro estão previstos na [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 6 de junho de 2018.” (NR)
 
-“Art. 15-B. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a Função Comissionada Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCESECAF-CEPI.<br>
+“Art. 15-B. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a Função Comissionada Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCESECAF-CEPI.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 § 1º As funções comissionadas de que trata este artigo são as previstas na Tabela 7 da alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos da GRATSECAF-CEPI.
@@ -271,7 +274,8 @@ IV – a Gratificação Educacional de Secretário do Centro de Estudo e Pesquis
 
 ...................................................................................................................................
 
-VI – a Gratificação Educacional do Colégio Estadual em Período Integral ~~Centro de Ensino em Período Integral~~ – GRATSECAF-CEPI será concedida ao servidor pelo desempenho na função de Secretário e Coordenador Administrativo Financeiro, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência.<br>
+VI – a Gratificação Educacional do Colégio Estadual em Período Integral ~~Centro de Ensino em Período Integral~~ – GRATSECAF-CEPI será concedida ao servidor pelo desempenho na função de Secretário e Coordenador Administrativo Financeiro, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 ..........................................................................................................................” (NR)
@@ -464,7 +468,8 @@ ANEXO I
 | 29 | GRATSECAF | 1.401 a 1.450 | 1.375,00 | 1.265,00 | 1.320,00 | 1.375,00 |
 | 30 | GRATSECAF | 1.451 em diante | 1.402,50 | 1.292,50 | 1.347,50 | 1.402,50 |
 
-| TABELA 3 – FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 3 – FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **FC fixo** | **FC variável-1** | **FC variável-2** | **FC variável-3** |
@@ -472,7 +477,8 @@ ANEXO I
 | 2 | FCEGE-CEPI | 201 a 400 | 1.750,00 | 1.550,00 | 1.650,00 | 1.750,00 |
 | 3 | FCEGE-CEPI | 401 em diante | 2.000,00 | 1.800,00 | 1.900,00 | 2.000,00 |
 
-| TABELA 4 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 4 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **GRAT fixo** | **GRAT variável-1** | **GRAT variável-2** | **GRAT variável-3** |
@@ -488,7 +494,8 @@ ANEXO II
 
 “ANEXO III
 
-| TABELA 1 – FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 1 – FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **FC fixo** | **FC variável-1** | **FC variável-2** | **FC variável-3** |
@@ -496,7 +503,8 @@ ANEXO II
 | 2 | FCEGE-CEPI | 201 a 400 | 1.750,00 | 1.550,00 | 1.650,00 | 1.750,00 |
 | 3 | FCEGE-CEPI | 401 em diante | 2.000,00 | 1.800,00 | 1.900,00 | 2.000,00 |
 
-| TABELA 2 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL  ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 2 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL  ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **GRAT fixo** | **GRAT variável-1** | **GRAT variável-2** | **GRAT variável-3** |
@@ -623,7 +631,8 @@ GRATIFICAÇÕES EDUCACIONAIS
 | 29 | GRATSECAF | 1.401 a 1.450 | 1.375,00 | 1.265,00 | 1.320,00 | 1.375,00 |
 | 30 | GRATSECAF | 1.451 em diante | 1.402,50 | 1.292,50 | 1.347,50 | 1.402,50 |
 
-| TABELA 5 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 5 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **GRAT fixo** | **GRAT variável-1** | **GRAT variável-2** | **GRAT variável-3** |

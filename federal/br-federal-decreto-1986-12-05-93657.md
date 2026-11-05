@@ -1,5 +1,3 @@
-###DEC-093657-0-000-05-12-1986@@@
-
 DECRETO Nº 93.657, DE 5 DE DEZEMBRO DE 1986
 
 Revoga o Decreto nº 93.018, de 27 de julho de 1986.

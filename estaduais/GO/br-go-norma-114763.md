@@ -12,11 +12,14 @@ Goiânia, 21 de maio de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-KARLOS CABRAL<br>
+KARLOS CABRAL
+
 Deputado Estadual
 
-JOSÉ MACHADO<br>
+JOSÉ MACHADO
+
 Deputado Estadual

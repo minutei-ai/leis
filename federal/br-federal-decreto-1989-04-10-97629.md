@@ -1,7 +1,3 @@
-1
-
-###DEC-097629-0-000-10-04-1989@@@
-
 DECRETO N° 97.629, DE 10 DE ABRIL DE 1989
 
 Cria, no Estado do Amazonas, a Floresta Nacional de Tefé, com os limitantes que especifica, e dá outras providências.

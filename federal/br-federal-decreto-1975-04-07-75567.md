@@ -1,5 +1,3 @@
-###DEC-075567-0-000-07-04-1975@@@
-
 DECRETO Nº 75.567, DE 7 DE ABRILDE 1975.
 
 Concede à empresa Yacimientos Petrolíferos Fiscales Bolivianos autorização para funcionar na República Federativa do Brasil

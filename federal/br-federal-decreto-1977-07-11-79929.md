@@ -1,5 +1,3 @@
-###DEC-079929-0-000-11-07-1977@@@
-
 decreto nº 79.929, de 11 de julho de 1977
 
 Autoriza a Universidade Federal do Rio de Janeiro a alienar bem imóvel de sua propriedade e dá outras providências.

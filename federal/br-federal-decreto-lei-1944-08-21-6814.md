@@ -1,5 +1,3 @@
-###DEL-006814-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.814 – DE 21 DE AGÔSTO DE 1944
 
 Classifica as Bases Aéreas e dá outras providências

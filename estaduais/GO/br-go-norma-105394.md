@@ -12,8 +12,6 @@ Art. 2º Este decreto entrará em vigor 120 dias após a sua publicação.
 
 Goiânia, 12 de abril de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -174,12 +172,14 @@ Art. 8º Todo equídeo de Goiás destinado ao trânsito intraestadual, interesta
 
 § 1º Somente equideocultores com equídeos identificados e com exames negativos válidos lançados pelos laboratórios cadastrados poderão emitir e-GTA via _web_ ou ter Passaporte Equestre.
 
-§ 2º Serão isentos da identificação individual, bem como da apresentação do exame de AIE, equídeos de Goiás destinados ao trânsito intraestadual com a finalidade ‘Atendimento Veterinário’, caso em que o estabelecimento de destino deverá estar previamente cadastrado na AGRODEFESA e na PGA, respectivamente.<br>
+§ 2º Serão isentos da identificação individual, bem como da apresentação do exame de AIE, equídeos de Goiás destinados ao trânsito intraestadual com a finalidade ‘Atendimento Veterinário’, caso em que o estabelecimento de destino deverá estar previamente cadastrado na AGRODEFESA e na PGA, respectivamente.
+
 \- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~§ 2º Serão isentos da identificação individual, bem como da apresentação dos exames de AIE e/ou Mormo, equídeos de Goiás destinados ao trânsito intraestadual com a finalidade "Atendimento Veterinário", caso em que o estabelecimento de destino deverá estar previamente cadastrado na AGRODEFESA e na PGA, respectivamente.~~
 
-§ 3º Os equídeos menores de 6 (seis) meses de idade são isentos da apresentação do exame de AIE, mas deverão estar identificados individualmente em caso de trânsito e acompanhados de suas mães com exames negativos válidos.<br>
+§ 3º Os equídeos menores de 6 (seis) meses de idade são isentos da apresentação do exame de AIE, mas deverão estar identificados individualmente em caso de trânsito e acompanhados de suas mães com exames negativos válidos.
+
 \- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~§ 3º Os equídeos menores de 6 meses de idade são isentos da apresentação de exames de AIE e/ou Mormo, mas deverão estar identificados individualmente em caso de trânsito e acompanhados de suas mães com exames negativos válidos.~~
@@ -206,14 +206,16 @@ Art. 11. Todo equídeo deverá ser identificado individualmente antes da coleta 
 
 § 2º Os dados e a resenha gráfica do animal no SIDAGO deverão ser conferidos a cada coleta de amostras para diagnóstico de AIE e/ou Mormo, podendo ser atualizados a critério do MVH requisitante, observando sempre as alterações possíveis de ocorrer no animal.
 
-§ 3º Os exames vinculados à resenha alterada perderão automaticamente sua validade, e o MVH deverá realizar nova coleta de material para o diagnóstico de AIE.<br>
+§ 3º Os exames vinculados à resenha alterada perderão automaticamente sua validade, e o MVH deverá realizar nova coleta de material para o diagnóstico de AIE.
+
 \- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~§ 3º Os exames vinculados à resenha alterada perderão automaticamente sua validade, e o MVH deverá realizar nova coleta de material para diagnóstico de AIE e/ou Mormo.~~
 
 § 4º A resenha deverá descrever fielmente o equídeo coletado e, caso o MVH verifique divergência na resenha gravada no SIDAGO, esse profissional deverá primeiramente corrigi-la para posteriormente proceder à coleta de material com o encaminhamento da requisição ao laboratório cadastrado.
 
-§ 5º É vedado ao MVH encaminhar material para o diagnóstico de AIE referente à mesma coleta e ao mesmo exame para diferentes laboratórios, bem como, por interesse próprio ou do equideocultor, coletar o animal que já tenha resultado diferente de negativo em exame anterior.<br>
+§ 5º É vedado ao MVH encaminhar material para o diagnóstico de AIE referente à mesma coleta e ao mesmo exame para diferentes laboratórios, bem como, por interesse próprio ou do equideocultor, coletar o animal que já tenha resultado diferente de negativo em exame anterior.
+
 \- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~§ 5º É vedado ao MVH encaminhar material para diagnóstico de AIE e/ou Mormo referente à mesma coleta e ao mesmo exame para diferentes laboratórios, bem como, por interesse próprio ou do equideocultor, coletar o animal que já tenha resultado diferente de negativo em exame anterior.~~
@@ -284,7 +286,8 @@ Art. 19. Equideocultores com saldo de animais identificados individualmente e co
 
 Parágrafo único. O equideocultor não será obrigado a identificar todos os equídeos de sua exploração pecuária para obter a permissão de movimentação dos que estiverem identificados.
 
-Art. 20. Para o trânsito intraestadual, o equideocultor ficará isento de anexar os exames negativos para AIE, também o atestado de vacinação contra a influenza equina, caso opte pelo uso do Passaporte Equestre.<br>
+Art. 20. Para o trânsito intraestadual, o equideocultor ficará isento de anexar os exames negativos para AIE, também o atestado de vacinação contra a influenza equina, caso opte pelo uso do Passaporte Equestre.
+
 \- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~Art. 20. Para o trânsito intraestadual, o equideocultor ficará isento de anexar os exames negativos para AIE e Mormo, também o atestado de vacinação contra a influenza equina, caso opte pelo uso do Passaporte Equestre.~~
@@ -303,8 +306,9 @@ Art. 22. Para o trânsito intraestadual de equídeos, o equideocultor poderá op
 
 § 3º Animais com mais de um _microchip_ implantado não terão direito ao Passaporte Equestre.
 
-§ 4º O Passaporte Equestre terá a validade de 1 (um) ano, porém seu uso estará condicionado à validade dos exames de AIE, também do atestado de vacinação contra a influenza equina.<br>
-\- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)<br>
+§ 4º O Passaporte Equestre terá a validade de 1 (um) ano, porém seu uso estará condicionado à validade dos exames de AIE, também do atestado de vacinação contra a influenza equina.
+
+\- [Redação dada pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 ~~§ 4º O Passaporte Equestre terá validade de um ano, porém seu uso estará condicionado à validade dos exames de AIE e Mormo, também do atestado de vacinação contra a influenza equina.~~
 
@@ -312,7 +316,8 @@ Art. 22. Para o trânsito intraestadual de equídeos, o equideocultor poderá op
 
 § 6º O Passaporte Equestre será um documento eletrônico emitido via APP-SIDAGO.
 
-§ 7º O exame sorológico de Mormo é facultativo.<br>
+§ 7º O exame sorológico de Mormo é facultativo.
+
 \- [Acrescido pelo Decreto nº 10.436, de 9-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108657)
 
 CAPÍTULO VIII

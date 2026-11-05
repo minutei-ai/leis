@@ -1,5 +1,3 @@
-###DEC-083219-0-000-01-03-1979@@@
-
 Decreto nº 83.219, de 1º de março de 1979
 
 Autoriza a conversão dos cursos de Ciências e de Matemática, em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras de Penápolis, com sede na cidade de Penápolis, Estado de São Paulo.

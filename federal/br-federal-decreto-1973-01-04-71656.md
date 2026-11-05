@@ -1,5 +1,3 @@
-###DEC-071656-0-000-04-01-1973@@@
-
 DECRETO nº 71.656, DE 4 DE JANEIRO DE 1973.
 
 Concede reconhecimento da Faculdade de Medicina de Jundiaí, Estado de São Paulo

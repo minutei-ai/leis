@@ -1,5 +1,3 @@
-###DEL-001106-0-000-16-06-1970@@@
-
 # DECRETO-LEI Nº 1.106, DE 16 DE JUNHO DE 1970
 
 Cria o Programa de Integração Nacional, altera a legislação do impôsto de renda das pessoas jurídicas na parte referente a incentivos fiscais e dá outras providências.

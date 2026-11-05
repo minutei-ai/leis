@@ -1,5 +1,3 @@
-###DEC-058113-0-000-30-03-1966@@@
-
 Decreto nº 58.113, de 30 de março de 1966.
 
 Autoriza a cessão de terreno federal, sob a forma de utilização gratuita do terreno que menciona à Rêde Ferroviária Federal S. A.

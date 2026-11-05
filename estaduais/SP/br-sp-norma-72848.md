@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72848)
-
 # LEI Nº 12.661, DE 11 DE JULHO DE 2007
 
 ## (Projeto de lei nº 423/2006, da Deputada Maria Lúcia Amary - PSDB)

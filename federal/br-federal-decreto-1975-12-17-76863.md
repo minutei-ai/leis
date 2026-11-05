@@ -1,5 +1,3 @@
-###DEC-076863-0-000-17-12-1975@@@
-
 DECRETO Nº 76.863, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Matemática, da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

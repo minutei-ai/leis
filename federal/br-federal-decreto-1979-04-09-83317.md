@@ -1,5 +1,3 @@
-###DEC-083317-0-000-09-04-1979@@@
-
 Decreto nº 83.317, de 09 de abril de 1979.
 
 Dispõe sobre o cargo de Vice-Diretor da Diretoria de Engenharia Naval.

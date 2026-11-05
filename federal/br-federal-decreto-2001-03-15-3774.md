@@ -1,5 +1,3 @@
-###DEC-003774-0-000-15-03-2001@@@
-
 DECRETO Nº 3.774, DE 15 DE MARÇO DE 2001
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Saúde, e dá outras providências.
@@ -566,840 +564,3134 @@ ANEXO II
 
 a) QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTÉRIO DA SAÚDE
 
-<table>
-<tr><td></td><td>CARGOS/ FUNÇÕES Nº</td><td>DENOMINAÇÃO CARGO/FUNÇÃO</td><td>NE/ DAS/ FG</td></tr>
-<tr><td>UNIDADES</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>7</td><td></td><td>102.5</td></tr>
-<tr><td></td><td></td><td>Assessor Especial do Ministro</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Assessor Especial de Controle</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>102.5</td></tr>
-<tr><td></td><td></td><td>Interno</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td></td><td></td><td>Diretor de Programa</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.4</td></tr>
-<tr><td></td><td></td><td>Assessor do Ministro</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>GABINETE DO MINISTRO</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral do Gabinete do Ministro</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>30</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>15</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>21</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Assessoria de Assuntos Internacionais de Saúde</td><td></td><td>Chefe de Assessoria</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Assessoria de Comunicação Social</td><td></td><td>Chefe de Assessoria</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Assessoria Parlamentar</td><td></td><td>Chefe de Assessoria</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Assessoria de Relações Públicas e Cerimonial</td><td></td><td>Chefe de Assessoria</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>NE</td></tr>
-<tr><td>SECRETARIA-EXECUTIVA</td><td></td><td>Secretário-Executivo</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.4</td></tr>
-<tr><td></td><td></td><td>Assessor do Sec.- Executivo</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>9</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.5</td></tr>
-<tr><td></td><td></td><td>Diretor de Programa</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor de Projeto</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>10</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Gabinete</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>18</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>10</td><td></td><td>FG-3</td></tr>
-<tr><td>SUBSECRETARIA DE ASSUNTOS</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>ADMINISTRATIVOS</td><td></td><td>Subsecretário</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>10</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>8</td><td></td><td>FG-3</td></tr>
-<tr><td>Coordenação-Geral de Modernização e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Desenvolvimento Institucional</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-3</td></tr>
-<tr><td>Coordenação-Geral de Documentação e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Informação</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>9</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Centro de Microfilmagem e Digitalização</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>11</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>7</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Recursos Humanos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Informação</td><td></td></tr>
-<tr><td></td><td>29</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Gerente</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Central de Atendimento de Pessoal</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>23</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Recursos Logísticos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>15</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>11</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>20</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>7</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-3</td></tr>
-<tr><td>SUBSECRETARIA DE PLANEJAMENTO E</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>ORÇAMENTO</td><td></td><td>Subsecretário</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Subsecretário-Adjunto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Planejamento</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Orçamento e Finanças</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>12</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>3</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>5</td><td></td><td>FG-3</td></tr>
-<tr><td>DEPARTAMENTO DE INFORMÁTICA DO</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>SUS - DATASUS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Centro Tecnológico de Informática</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Gerente de Produto</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Fomento e Cooperação</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Técnica</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Gerente de Produto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Sistemas Internos de</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Gestão</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Gerente de Produto</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Informações e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Tecnologia</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Gerente de Produto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>DIRETORIA-EXECUTIVA DO FUNDO</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>NACIONAL DE SAÚDE</td><td></td><td>Diretor-Executivo</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Gerente de Projeto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Contratos e Convênios</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td>Coordenação-Geral de Execução Orçamentária,</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Financeira e Contábil</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>FG-2</td></tr>
-<tr><td>Coordenação-Geral de Acompanhamento e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Prestação de Contas de Contratos e Convênios</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-2</td></tr>
-<tr><td>NÚCLEOS ESTADUAIS</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>30</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>46</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>85</td><td></td><td>FG-1</td></tr>
-<tr><td>DEPARTAMENTO DE PROGRAMAS</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>ESTRATÉGICOS EM SAÚDE</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-2</td></tr>
-<tr><td>Coordenação-Geral de Elaboração de Programas</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Estratégicos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td>Coordenação-Geral de Gestão de Programas e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Projetos</td><td></td><td>Coodenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td>DEPARTAMENTO NACIONAL</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>DE AUDITORIA DO SUS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Gerente de Projeto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Assistente de Projeto</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Diretoria-Adjunta</td><td></td><td>Diretor-Adjunto</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Auditoria</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>3</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td>Coordenação-Geral de Desenvolvimento,</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Normatização e Cooperação Técnica</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>CONSULTORIA JURÍDICA</td><td></td><td>Consultor Jurídico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>4</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Assuntos Jurídicos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td><span style="color:#0000ff">1</span></td><td></td><td><span style="color:#0000ff">101.2</span></td></tr>
-<tr><td><span style="color:#0000ff">Divisão</span></td><td></td><td><span style="color:#0000ff">Chefe</span></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td>Coordenação-Geral de Acompanhamento</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Jurídico</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td>SECRETARIA DE ASSISTÊNCIA À</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.6</td></tr>
-<tr><td>SAÚDE</td><td></td><td>Secretário</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.4</td></tr>
-<tr><td></td><td></td><td>Assessor do Secretário</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>9</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>8</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.5</td></tr>
-<tr><td></td><td></td><td>Diretor de Programa</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Gerente de Projeto</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>3</td><td></td><td>FG-3</td></tr>
-<tr><td>Coordenação-Geral de Planejamento e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Informações Gerenciais</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Gabinete</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td>DEPARTAMENTO DE SISTEMAS</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>E REDES ASSISTÊNCIAIS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>7</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Atenção Especializada</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Organização e Regulação</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>da Assistência</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Sistemas</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>de Alta Complexidade</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td>Coordenação-Geral do Sistema Nacional</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>de Transplantes</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Gestão Hospitalar</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Instituto</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Hospital</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>11</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>11</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>FG-3</td></tr>
-<tr><td>DEPARTAMENTO DE</td><td></td><td></td><td></td></tr>
-<tr><td>DESCENTRALIZAÇÃO</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>DA GESTÃO DA ASSISTÊNCIA</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Programação</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Assistencial</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Acompanhamento e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Apoio Técnico à Gestão Estadual</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td>Coordenação-Geral de Acompanhamento e</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Apoio Técnico à Gestão Municipal</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>DEPARTAMENTO DE CONTROLE E</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>AVALIAÇÃO DE SISTEMAS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td>Coordenação-Geral de Sistemas de Informação</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Ambulatorial e Hospitalar</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>9</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Gestão de Sistemas</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>12</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Controle e Avaliação</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Suporte Operacional</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>dos Sistemas</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>INSTITUTO NACIONAL DE CÂNCER</td><td></td><td>Diretor-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td>Gabinete</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.3</td></tr>
-<tr><td>Hospital</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Centro</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>36</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>37</td><td></td><td>101.1</td></tr>
-<tr><td>Serviço</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>46</td><td></td><td>FG-1</td></tr>
-<tr><td><span style="text-transform:uppercase"><strong>Seção</strong></span></td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.6</td></tr>
-<tr><td>SECRETARIA DE POLÍTICAS DE SAÚDE</td><td></td><td>Secretário</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.5</td></tr>
-<tr><td></td><td></td><td>Diretor Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.4</td></tr>
-<tr><td></td><td></td><td>Assessor do Secretário</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Gabinete</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>14</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-3</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.2</td></tr>
-<tr><td>Divisão</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>21</td><td></td><td>FG-1</td></tr>
-<tr><td>Coordenação-Geral de Planejamento,</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Informação e Avaliação de Ações Estratégicas</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>Coordenação-Geral da Política de Recursos</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Humanos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>DEPARTAMENTO DE ATENÇÃO</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>BÁSICA</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>DEPARTAMENTO DE AÇÕES</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>PROGRAMÁTICAS ESTRATÉGICAS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>13</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.2</td></tr>
-<tr><td></td><td></td><td>Gerente de Equipe</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>DEPARTAMENTO DE CIÊNCIA E</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>TECNOLOGIA EM SAÚDE</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td></td><td></td><td>Gerente Técnico</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td>SECRETARIA DE GESTÃO DE</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.6</td></tr>
-<tr><td>INVESTIMENTOS EM SAÚDE</td><td></td><td>Secretário</td><td></td></tr>
-<tr><td></td><td>5</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.5</td></tr>
-<tr><td></td><td></td><td>Diretor de Programa</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Gabinete</td><td></td><td>Chefe</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>6</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>DIRETORIA DE PROJETOS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Supervisor Técnico</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Economia da Saúde</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td>Coordenação-Geral de Planejamento de</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Investimentos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Coordenação-Geral de Orçamentos Públicos</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td>DIRETORIA DE GERENCIAMENTO DE</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.5</td></tr>
-<tr><td>INVESTIMENTOS</td><td></td><td>Diretor</td><td></td></tr>
-<tr><td></td><td>3</td><td></td><td>101.4</td></tr>
-<tr><td></td><td></td><td>Gerente de Projeto</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.3</td></tr>
-<tr><td></td><td></td><td>Assessor</td><td></td></tr>
-<tr><td>CONSELHO NACIONAL DE SAÚDE</td><td></td><td></td><td></td></tr>
-<tr><td>Coordenação-Geral do Conselho Nacional de</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>101.4</td></tr>
-<tr><td>Saúde</td><td></td><td>Coordenador-Geral</td><td></td></tr>
-<tr><td></td><td>2</td><td></td><td>101.3</td></tr>
-<tr><td>Coordenação</td><td></td><td>Coordenador</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.2</td></tr>
-<tr><td></td><td></td><td>Assistente</td><td></td></tr>
-<tr><td></td><td>4</td><td></td><td>102.1</td></tr>
-<tr><td></td><td></td><td>Auxiliar</td><td></td></tr>
-<tr><td></td><td>1</td><td></td><td>FG-1</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-2</td></tr>
-<tr><td></td><td>2</td><td></td><td>FG-3</td></tr>
-</table>
+CARGOS/ FUNÇÕES Nº
+
+DENOMINAÇÃO CARGO/FUNÇÃO
+
+NE/ DAS/ FG
+
+UNIDADES
+
+7
+
+102.5
+
+Assessor Especial do Ministro
+
+1
+
+Assessor Especial de Controle
+
+102.5
+
+Interno
+
+1
+
+101.5
+
+Diretor de Programa
+
+6
+
+102.4
+
+Assessor do Ministro
+
+5
+
+102.3
+
+Assessor
+
+1
+
+101.5
+
+GABINETE DO MINISTRO
+
+Chefe
+
+5
+
+102.2
+
+Assistente
+
+3
+
+102.1
+
+Auxiliar
+
+1
+
+101.4
+
+Coordenação-Geral do Gabinete do Ministro
+
+Coordenador-Geral
+
+8
+
+102.1
+
+Auxiliar
+
+4
+
+101.2
+
+Divisão
+
+Chefe
+
+3
+
+101.1
+
+Serviço
+
+Chefe
+
+30
+
+FG-1
+
+15
+
+FG-2
+
+21
+
+FG-3
+
+1
+
+101.4
+
+Assessoria de Assuntos Internacionais de Saúde
+
+Chefe de Assessoria
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+6
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+2
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Assessoria de Comunicação Social
+
+Chefe de Assessoria
+
+1
+
+101.3
+
+Coordenação
+
+Coordenador
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+6
+
+101.1
+
+Serviço
+
+Chefe
+
+2
+
+FG-1
+
+2
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Assessoria Parlamentar
+
+Chefe de Assessoria
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+3
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+1
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Assessoria de Relações Públicas e Cerimonial
+
+Chefe de Assessoria
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+4
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+1
+
+NE
+
+SECRETARIA-EXECUTIVA
+
+Secretário-Executivo
+
+6
+
+102.4
+
+Assessor do Sec.- Executivo
+
+8
+
+102.3
+
+Assessor
+
+6
+
+102.2
+
+Assistente
+
+9
+
+102.1
+
+Auxiliar
+
+2
+
+101.5
+
+Diretor de Programa
+
+4
+
+101.4
+
+Supervisor Técnico
+
+3
+
+101.4
+
+Supervisor de Projeto
+
+6
+
+FG-1
+
+10
+
+FG-2
+
+1
+
+101.4
+
+Gabinete
+
+Chefe
+
+1
+
+101.3
+
+Gerente Técnico
+
+2
+
+102.2
+
+Assistente
+
+8
+
+102.1
+
+Auxiliar
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+4
+
+FG-1
+
+18
+
+FG-2
+
+10
+
+FG-3
+
+SUBSECRETARIA DE ASSUNTOS
+
+1
+
+101.5
+
+ADMINISTRATIVOS
+
+Subsecretário
+
+1
+
+101.4
+
+Supervisor Técnico
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+6
+
+102.1
+
+Auxiliar
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+4
+
+FG-1
+
+10
+
+FG-2
+
+8
+
+FG-3
+
+Coordenação-Geral de Modernização e
+
+1
+
+101.4
+
+Desenvolvimento Institucional
+
+Coordenador-Geral
+
+1
+
+101.3
+
+Gerente Técnico
+
+1
+
+102.2
+
+Assistente
+
+4
+
+102.1
+
+Auxiliar
+
+3
+
+101.3
+
+Coordenação
+
+Coordenador
+
+3
+
+101.2
+
+Gerente de Equipe
+
+8
+
+101.1
+
+Auxiliar Técnico
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+4
+
+FG-3
+
+Coordenação-Geral de Documentação e
+
+1
+
+101.4
+
+Informação
+
+Coordenador-Geral
+
+2
+
+101.1
+
+Auxiliar Técnico
+
+1
+
+102.1
+
+Auxiliar
+
+3
+
+101.3
+
+Coordenação
+
+Coordenador
+
+4
+
+101.2
+
+Divisão
+
+Chefe
+
+9
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+101.2
+
+Centro de Microfilmagem e Digitalização
+
+Chefe
+
+2
+
+101.1
+
+Serviço
+
+Chefe
+
+11
+
+FG-1
+
+7
+
+FG-2
+
+1
+
+101.4
+
+Coordenação-Geral de Recursos Humanos
+
+Coordenador-Geral
+
+3
+
+102.2
+
+Assistente
+
+1
+
+101.3
+
+Gerente Técnico
+
+6
+
+101.2
+
+Gerente de Informação
+
+29
+
+101.1
+
+Gerente
+
+5
+
+101.3
+
+Coordenação
+
+Coordenador
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+8
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+101.1
+
+Central de Atendimento de Pessoal
+
+Chefe
+
+23
+
+FG-1
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Recursos Logísticos
+
+Coordenador-Geral
+
+2
+
+102.3
+
+Assessor
+
+15
+
+102.1
+
+Auxiliar
+
+5
+
+101.3
+
+Coordenação
+
+Coordenador
+
+11
+
+101.2
+
+Divisão
+
+Chefe
+
+6
+
+101.1
+
+Serviço
+
+Chefe
+
+20
+
+FG-1
+
+7
+
+FG-2
+
+4
+
+FG-3
+
+SUBSECRETARIA DE PLANEJAMENTO E
+
+1
+
+101.5
+
+ORÇAMENTO
+
+Subsecretário
+
+1
+
+101.4
+
+Subsecretário-Adjunto
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.1
+
+Auxiliar
+
+6
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Planejamento
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+101.1
+
+Auxiliar Técnico
+
+4
+
+102.1
+
+Auxiliar
+
+4
+
+101.3
+
+Gerente Técnico
+
+6
+
+101.2
+
+Gerente de Equipe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+4
+
+FG-1
+
+1
+
+101.4
+
+Coordenação-Geral de Orçamento e Finanças
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+4
+
+101.3
+
+Coordenação
+
+Coordenador
+
+4
+
+101.2
+
+Gerente de Equipe
+
+12
+
+101.1
+
+Auxiliar Técnico
+
+1
+
+FG-1
+
+3
+
+FG-2
+
+5
+
+FG-3
+
+DEPARTAMENTO DE INFORMÁTICA DO
+
+1
+
+101.5
+
+SUS - DATASUS
+
+Diretor
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+2
+
+FG-1
+
+1
+
+101.4
+
+Centro Tecnológico de Informática
+
+Chefe
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+3
+
+101.2
+
+Gerente de Equipe
+
+3
+
+101.1
+
+Gerente de Produto
+
+8
+
+FG-1
+
+Coordenação-Geral de Fomento e Cooperação
+
+1
+
+101.4
+
+Técnica
+
+Coordenador-Geral
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+4
+
+101.2
+
+Gerente de Equipe
+
+2
+
+101.1
+
+Gerente de Produto
+
+1
+
+FG-1
+
+Coordenação-Geral de Sistemas Internos de
+
+1
+
+101.4
+
+Gestão
+
+Coordenador-Geral
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+6
+
+101.2
+
+Gerente de Equipe
+
+3
+
+101.1
+
+Gerente de Produto
+
+5
+
+FG-1
+
+Coordenação-Geral de Informações e
+
+1
+
+101.4
+
+Tecnologia
+
+Coordenador-Geral
+
+2
+
+101.2
+
+Gerente de Equipe
+
+4
+
+101.1
+
+Gerente de Produto
+
+1
+
+FG-1
+
+DIRETORIA-EXECUTIVA DO FUNDO
+
+1
+
+101.5
+
+NACIONAL DE SAÚDE
+
+Diretor-Executivo
+
+1
+
+101.4
+
+Gerente de Projeto
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+1
+
+FG-2
+
+1
+
+101.4
+
+Coordenação-Geral de Contratos e Convênios
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+3
+
+101.2
+
+Divisão
+
+Chefe
+
+6
+
+101.1
+
+Serviço
+
+Chefe
+
+2
+
+FG-2
+
+Coordenação-Geral de Execução Orçamentária,
+
+1
+
+101.4
+
+Financeira e Contábil
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+3
+
+101.3
+
+Coordenação
+
+Coordenador
+
+6
+
+101.2
+
+Divisão
+
+Chefe
+
+8
+
+101.1
+
+Serviço
+
+Chefe
+
+3
+
+FG-2
+
+Coordenação-Geral de Acompanhamento e
+
+1
+
+101.4
+
+Prestação de Contas de Contratos e Convênios
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+4
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-2
+
+NÚCLEOS ESTADUAIS
+
+1
+
+102.1
+
+Auxiliar
+
+30
+
+101.2
+
+Divisão
+
+Chefe
+
+46
+
+101.1
+
+Serviço
+
+Chefe
+
+85
+
+FG-1
+
+DEPARTAMENTO DE PROGRAMAS
+
+1
+
+101.5
+
+ESTRATÉGICOS EM SAÚDE
+
+Diretor
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+101.1
+
+Auxiliar Técnico
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+4
+
+FG-1
+
+1
+
+FG-2
+
+Coordenação-Geral de Elaboração de Programas
+
+1
+
+101.4
+
+Estratégicos
+
+Coordenador-Geral
+
+1
+
+101.3
+
+Gerente Técnico
+
+1
+
+101.2
+
+Gerente de Equipe
+
+1
+
+102.1
+
+Auxiliar
+
+Coordenação-Geral de Gestão de Programas e
+
+1
+
+101.4
+
+Projetos
+
+Coodenador-Geral
+
+1
+
+101.3
+
+Gerente Técnico
+
+1
+
+101.2
+
+Gerente de Equipe
+
+1
+
+102.1
+
+Auxiliar
+
+DEPARTAMENTO NACIONAL
+
+1
+
+101.5
+
+DE AUDITORIA DO SUS
+
+Diretor
+
+1
+
+101.4
+
+Gerente de Projeto
+
+1
+
+101.3
+
+Gerente Técnico
+
+1
+
+102.2
+
+Assistente
+
+1
+
+101.2
+
+Assistente de Projeto
+
+2
+
+FG-1
+
+1
+
+101.4
+
+Diretoria-Adjunta
+
+Diretor-Adjunto
+
+1
+
+101.2
+
+Gerente de Equipe
+
+2
+
+101.1
+
+Auxiliar Técnico
+
+6
+
+FG-1
+
+1
+
+101.3
+
+Coordenação
+
+Coordenador
+
+2
+
+101.1
+
+Auxiliar Técnico
+
+2
+
+FG-1
+
+1
+
+101.4
+
+Coordenação-Geral de Auditoria
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+1
+
+FG-1
+
+3
+
+101.3
+
+Coordenação
+
+Coordenador
+
+3
+
+101.2
+
+Gerente de Equipe
+
+3
+
+101.1
+
+Auxiliar Técnico
+
+Coordenação-Geral de Desenvolvimento,
+
+1
+
+101.4
+
+Normatização e Cooperação Técnica
+
+Coordenador-Geral
+
+1
+
+102.2
+
+Assistente
+
+1
+
+FG-1
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+2
+
+101.1
+
+Auxiliar Técnico
+
+1
+
+101.5
+
+CONSULTORIA JURÍDICA
+
+Consultor Jurídico
+
+2
+
+102.2
+
+Assistente
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+3
+
+101.1
+
+Serviço
+
+Chefe
+
+5
+
+FG-1
+
+4
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Assuntos Jurídicos
+
+Coordenador-Geral
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+Coordenação-Geral de Acompanhamento
+
+1
+
+101.4
+
+Jurídico
+
+Coordenador-Geral
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+2
+
+101.2
+
+Divisão
+
+Chefe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+SECRETARIA DE ASSISTÊNCIA À
+
+1
+
+101.6
+
+SAÚDE
+
+Secretário
+
+1
+
+102.4
+
+Assessor do Secretário
+
+1
+
+102.3
+
+Assessor
+
+9
+
+102.2
+
+Assistente
+
+8
+
+102.1
+
+Auxiliar
+
+2
+
+101.5
+
+Diretor de Programa
+
+5
+
+101.4
+
+Gerente de Projeto
+
+2
+
+FG-1
+
+2
+
+FG-2
+
+3
+
+FG-3
+
+Coordenação-Geral de Planejamento e
+
+1
+
+101.4
+
+Informações Gerenciais
+
+Coordenador-Geral
+
+4
+
+102.2
+
+Assistente
+
+2
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+1
+
+FG-2
+
+1
+
+FG-3
+
+1
+
+101.4
+
+Gabinete
+
+Chefe
+
+2
+
+102.3
+
+Assessor
+
+2
+
+102.1
+
+Auxiliar
+
+2
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+2
+
+FG-2
+
+DEPARTAMENTO DE SISTEMAS
+
+1
+
+101.5
+
+E REDES ASSISTÊNCIAIS
+
+Diretor
+
+1
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+7
+
+102.1
+
+Auxiliar
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Atenção Especializada
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+Coordenação-Geral de Organização e Regulação
+
+1
+
+101.4
+
+da Assistência
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+Coordenação-Geral de Sistemas
+
+1
+
+101.4
+
+de Alta Complexidade
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+2
+
+102.1
+
+Auxiliar
+
+Coordenação-Geral do Sistema Nacional
+
+1
+
+101.4
+
+de Transplantes
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+101.4
+
+Coordenação-Geral de Gestão Hospitalar
+
+Coordenador-Geral
+
+2
+
+102.3
+
+Assessor
+
+3
+
+102.2
+
+Assistente
+
+3
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+FG-1
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+1
+
+101.3
+
+Coordenação
+
+Coordenador
+
+1
+
+102.2
+
+Assistente
+
+4
+
+102.1
+
+Auxiliar
+
+4
+
+101.2
+
+Divisão
+
+Chefe
+
+2
+
+FG-2
+
+2
+
+101.3
+
+Instituto
+
+Diretor
+
+2
+
+101.3
+
+Hospital
+
+Diretor
+
+11
+
+101.2
+
+Divisão
+
+Chefe
+
+11
+
+101.1
+
+Serviço
+
+Chefe
+
+6
+
+FG-3
+
+DEPARTAMENTO DE
+
+DESCENTRALIZAÇÃO
+
+1
+
+101.5
+
+DA GESTÃO DA ASSISTÊNCIA
+
+Diretor
+
+2
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+2
+
+FG-1
+
+Coordenação-Geral de Programação
+
+1
+
+101.4
+
+Assistencial
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+Coordenação-Geral de Acompanhamento e
+
+1
+
+101.4
+
+Apoio Técnico à Gestão Estadual
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+Coordenação-Geral de Acompanhamento e
+
+1
+
+101.4
+
+Apoio Técnico à Gestão Municipal
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+DEPARTAMENTO DE CONTROLE E
+
+1
+
+101.5
+
+AVALIAÇÃO DE SISTEMAS
+
+Diretor
+
+1
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+1
+
+FG-1
+
+1
+
+101.1
+
+Serviço
+
+Chefe
+
+Coordenação-Geral de Sistemas de Informação
+
+1
+
+101.4
+
+Ambulatorial e Hospitalar
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+9
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+2
+
+FG-2
+
+1
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Gestão de Sistemas
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+6
+
+102.2
+
+Assistente
+
+12
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+2
+
+FG-2
+
+2
+
+FG-3
+
+1
+
+101.4
+
+Coordenação-Geral de Controle e Avaliação
+
+Coordenador-Geral
+
+2
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+Coordenação-Geral de Suporte Operacional
+
+1
+
+101.4
+
+dos Sistemas
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+1
+
+101.5
+
+INSTITUTO NACIONAL DE CÂNCER
+
+Diretor-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.1
+
+Auxiliar
+
+1
+
+101.3
+
+Gabinete
+
+Chefe
+
+5
+
+101.3
+
+Coordenação
+
+Coordenador
+
+3
+
+101.3
+
+Hospital
+
+Diretor
+
+2
+
+101.3
+
+Centro
+
+Chefe
+
+36
+
+101.2
+
+Divisão
+
+Chefe
+
+37
+
+101.1
+
+Serviço
+
+Chefe
+
+46
+
+FG-1
+
+**Seção**
+
+Chefe
+
+1
+
+101.6
+
+SECRETARIA DE POLÍTICAS DE SAÚDE
+
+Secretário
+
+2
+
+101.5
+
+Diretor Técnico
+
+1
+
+102.4
+
+Assessor do Secretário
+
+1
+
+101.4
+
+Supervisor Técnico
+
+1
+
+101.4
+
+Gabinete
+
+Chefe
+
+2
+
+102.2
+
+Assistente
+
+14
+
+102.1
+
+Auxiliar
+
+2
+
+FG-1
+
+1
+
+FG-3
+
+1
+
+101.2
+
+Divisão
+
+Chefe
+
+21
+
+FG-1
+
+Coordenação-Geral de Planejamento,
+
+1
+
+101.4
+
+Informação e Avaliação de Ações Estratégicas
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+102.2
+
+Assistente
+
+Coordenação-Geral da Política de Recursos
+
+1
+
+101.4
+
+Humanos
+
+Coordenador-Geral
+
+1
+
+101.3
+
+Gerente Técnico
+
+1
+
+102.3
+
+Assessor
+
+3
+
+102.2
+
+Assistente
+
+DEPARTAMENTO DE ATENÇÃO
+
+1
+
+101.5
+
+BÁSICA
+
+Diretor
+
+3
+
+101.4
+
+Supervisor Técnico
+
+4
+
+101.3
+
+Gerente Técnico
+
+3
+
+101.2
+
+Gerente de Equipe
+
+1
+
+102.2
+
+Assistente
+
+DEPARTAMENTO DE AÇÕES
+
+1
+
+101.5
+
+PROGRAMÁTICAS ESTRATÉGICAS
+
+Diretor
+
+4
+
+101.4
+
+Supervisor Técnico
+
+13
+
+101.3
+
+Gerente Técnico
+
+2
+
+101.2
+
+Gerente de Equipe
+
+6
+
+102.2
+
+Assistente
+
+DEPARTAMENTO DE CIÊNCIA E
+
+1
+
+101.5
+
+TECNOLOGIA EM SAÚDE
+
+Diretor
+
+2
+
+101.4
+
+Supervisor Técnico
+
+2
+
+101.3
+
+Gerente Técnico
+
+1
+
+102.2
+
+Assistente
+
+SECRETARIA DE GESTÃO DE
+
+1
+
+101.6
+
+INVESTIMENTOS EM SAÚDE
+
+Secretário
+
+5
+
+102.1
+
+Auxiliar
+
+2
+
+101.5
+
+Diretor de Programa
+
+1
+
+101.4
+
+Gabinete
+
+Chefe
+
+3
+
+102.3
+
+Assessor
+
+2
+
+102.2
+
+Assistente
+
+6
+
+FG-1
+
+1
+
+101.5
+
+DIRETORIA DE PROJETOS
+
+Diretor
+
+1
+
+101.4
+
+Supervisor Técnico
+
+2
+
+102.3
+
+Assessor
+
+1
+
+101.4
+
+Coordenação-Geral de Economia da Saúde
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+Coordenação-Geral de Planejamento de
+
+1
+
+101.4
+
+Investimentos
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+1
+
+101.4
+
+Coordenação-Geral de Orçamentos Públicos
+
+Coordenador-Geral
+
+1
+
+102.3
+
+Assessor
+
+DIRETORIA DE GERENCIAMENTO DE
+
+1
+
+101.5
+
+INVESTIMENTOS
+
+Diretor
+
+3
+
+101.4
+
+Gerente de Projeto
+
+4
+
+102.3
+
+Assessor
+
+CONSELHO NACIONAL DE SAÚDE
+
+Coordenação-Geral do Conselho Nacional de
+
+1
+
+101.4
+
+Saúde
+
+Coordenador-Geral
+
+2
+
+101.3
+
+Coordenação
+
+Coordenador
+
+4
+
+102.2
+
+Assistente
+
+4
+
+102.1
+
+Auxiliar
+
+1
+
+FG-1
+
+2
+
+FG-2
+
+2
+
+FG-3
 
 b) QUADRO RESUMO DE CUSTOS DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRA-TIFICADAS DO MINISTÉRIO DA SAÚDE
 
-<table>
-<tr><td>CÓDIGO</td><td>DAS-UNITÁRIO</td><td></td><td>SITUAÇÃO ATUAL</td><td></td><td>SITUAÇÃO NOVA</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>QTDE</td><td>VALOR TOTAL</td><td>QTDE</td><td>VALOR TOTAL</td></tr>
-<tr><td>DAS 101.6</td><td>6,52</td><td></td><td>3</td><td>19,56</td><td>3</td><td>19,56</td></tr>
-<tr><td>DAS 101.5</td><td>4,94</td><td></td><td>22</td><td>108,68</td><td>26</td><td>128,44</td></tr>
-<tr><td>DAS 101.4</td><td>3,08</td><td></td><td>80</td><td>246,40</td><td>78</td><td>240,24</td></tr>
-<tr><td>DAS 101.3</td><td>1,24</td><td></td><td>91</td><td>112,84</td><td>92</td><td>114,08</td></tr>
-<tr><td>DAS 101.2</td><td>1,11</td><td></td><td>158</td><td>175,38</td><td>174</td><td>193,14</td></tr>
-<tr><td>DAS 101.1</td><td>1,00</td><td></td><td>289</td><td>289,00</td><td>253</td><td>253,00</td></tr>
-<tr><td>DAS 102.5</td><td>4,94</td><td></td><td>7</td><td>34,58</td><td>8</td><td>39,52</td></tr>
-<tr><td>DAS 102.4</td><td>3,08</td><td></td><td>17</td><td>52,36</td><td>14</td><td>43,12</td></tr>
-<tr><td>DAS 102.3</td><td>1,24</td><td></td><td>57</td><td>70,68</td><td>56</td><td>69,44</td></tr>
-<tr><td>DAS 102.2</td><td>1,11</td><td></td><td>85</td><td>94,35</td><td>91</td><td>101,01</td></tr>
-<tr><td>DAS 102.1</td><td>1,00</td><td></td><td>144</td><td>144,00</td><td>141</td><td>141,00</td></tr>
-<tr><td>SUBTOTAL (1)</td><td></td><td></td><td>953</td><td>1.347,83</td><td>936</td><td>1.342,55</td></tr>
-<tr><td>FG-1</td><td></td><td>0,31</td><td>302</td><td>93,62</td><td>325</td><td>100,75</td></tr>
-<tr><td>FG-2</td><td></td><td>0,24</td><td>102</td><td>24,48</td><td>103</td><td>24,72</td></tr>
-<tr><td>FG-3</td><td></td><td>0,19</td><td>103</td><td>19,57</td><td>92</td><td>17,48</td></tr>
-<tr><td>SUBTOTAL (2)</td><td></td><td></td><td>507</td><td>137,67</td><td>520</td><td>142,95</td></tr>
-<tr><td>TOTAL</td><td></td><td></td><td>1.460</td><td>1.485,50</td><td>1.456</td><td>1.485,50</td></tr>
-</table>
+CÓDIGO
+
+DAS-UNITÁRIO
+
+SITUAÇÃO ATUAL
+
+SITUAÇÃO NOVA
+
+QTDE
+
+VALOR TOTAL
+
+QTDE
+
+VALOR TOTAL
+
+DAS 101.6
+
+6,52
+
+3
+
+19,56
+
+3
+
+19,56
+
+DAS 101.5
+
+4,94
+
+22
+
+108,68
+
+26
+
+128,44
+
+DAS 101.4
+
+3,08
+
+80
+
+246,40
+
+78
+
+240,24
+
+DAS 101.3
+
+1,24
+
+91
+
+112,84
+
+92
+
+114,08
+
+DAS 101.2
+
+1,11
+
+158
+
+175,38
+
+174
+
+193,14
+
+DAS 101.1
+
+1,00
+
+289
+
+289,00
+
+253
+
+253,00
+
+DAS 102.5
+
+4,94
+
+7
+
+34,58
+
+8
+
+39,52
+
+DAS 102.4
+
+3,08
+
+17
+
+52,36
+
+14
+
+43,12
+
+DAS 102.3
+
+1,24
+
+57
+
+70,68
+
+56
+
+69,44
+
+DAS 102.2
+
+1,11
+
+85
+
+94,35
+
+91
+
+101,01
+
+DAS 102.1
+
+1,00
+
+144
+
+144,00
+
+141
+
+141,00
+
+SUBTOTAL (1)
+
+953
+
+1.347,83
+
+936
+
+1.342,55
+
+FG-1
+
+0,31
+
+302
+
+93,62
+
+325
+
+100,75
+
+FG-2
+
+0,24
+
+102
+
+24,48
+
+103
+
+24,72
+
+FG-3
+
+0,19
+
+103
+
+19,57
+
+92
+
+17,48
+
+SUBTOTAL (2)
+
+507
+
+137,67
+
+520
+
+142,95
+
+TOTAL
+
+1.460
+
+1.485,50
+
+1.456
+
+1.485,50
 
 ANEXO III
 
 REMANEJAMENTO DE CARGOS
 
-<table>
-<tr><td>CÓDIGO</td><td>DAS-UNITÁRIO</td><td></td><td>DA SEGES/MP P/ O MS (a)</td><td></td><td>DO MS P/ A SEGES /MP (b)</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>QTDE.</td><td>VALOR TOTAL</td><td>QTDE.</td><td>VALOR TOTAL</td></tr>
-<tr><td>DAS 101.5</td><td>4,94</td><td></td><td>4</td><td>19,76</td><td>-</td><td>-</td></tr>
-<tr><td>DAS 101.4</td><td>3,08</td><td></td><td>-</td><td>-</td><td>2</td><td>6,16</td></tr>
-<tr><td>DAS 101.3</td><td>1,24</td><td></td><td>1</td><td>1,24</td><td>-</td><td>-</td></tr>
-<tr><td>DAS 101.2</td><td>1,11</td><td></td><td>16</td><td>17,76</td><td>-</td><td>-</td></tr>
-<tr><td>DAS 101.1</td><td>1,00</td><td></td><td>-</td><td>-</td><td>36</td><td>36,00</td></tr>
-<tr><td>DAS 102.5</td><td>4,94</td><td></td><td>1</td><td>4,94</td><td>-</td><td>-</td></tr>
-<tr><td>DAS 102.4</td><td>3,08</td><td></td><td>-</td><td>-</td><td>3</td><td>9,24</td></tr>
-<tr><td>DAS 102.3</td><td>1,24</td><td></td><td>-</td><td>-</td><td>1</td><td>1,24</td></tr>
-<tr><td>DAS 102.2</td><td>1,11</td><td></td><td>6</td><td>6,66</td><td>-</td><td>-</td></tr>
-<tr><td>DAS 102.1</td><td>1,00</td><td></td><td>-</td><td>-</td><td>3</td><td>3,00</td></tr>
-<tr><td>SUBTOTAL 1</td><td></td><td></td><td>28</td><td>50,36</td><td>45</td><td>55,64</td></tr>
-<tr><td>FG-1</td><td></td><td>0,31</td><td>23</td><td>7,13</td><td>-</td><td>-</td></tr>
-<tr><td>FG-2</td><td></td><td>0,24</td><td>1</td><td>0,24</td><td>-</td><td>-</td></tr>
-<tr><td>FG-3</td><td></td><td>0,19</td><td>-</td><td>-</td><td>11</td><td>2,09</td></tr>
-<tr><td>SUBTOTAL 2</td><td></td><td></td><td>24</td><td>7,37</td><td>11</td><td>2,09</td></tr>
-<tr><td>TOTAL (1+2)</td><td></td><td></td><td>52</td><td>57,73</td><td>56</td><td>57,73</td></tr>
-<tr><td>Saldo do Remanejamento (a - b)</td><td></td><td></td><td>-4</td><td>0,00</td><td>-</td><td>-</td></tr>
-</table>
+CÓDIGO
+
+DAS-UNITÁRIO
+
+DA SEGES/MP P/ O MS (a)
+
+DO MS P/ A SEGES /MP (b)
+
+QTDE.
+
+VALOR TOTAL
+
+QTDE.
+
+VALOR TOTAL
+
+DAS 101.5
+
+4,94
+
+4
+
+19,76
+
+-
+
+-
+
+DAS 101.4
+
+3,08
+
+-
+
+-
+
+2
+
+6,16
+
+DAS 101.3
+
+1,24
+
+1
+
+1,24
+
+-
+
+-
+
+DAS 101.2
+
+1,11
+
+16
+
+17,76
+
+-
+
+-
+
+DAS 101.1
+
+1,00
+
+-
+
+-
+
+36
+
+36,00
+
+DAS 102.5
+
+4,94
+
+1
+
+4,94
+
+-
+
+-
+
+DAS 102.4
+
+3,08
+
+-
+
+-
+
+3
+
+9,24
+
+DAS 102.3
+
+1,24
+
+-
+
+-
+
+1
+
+1,24
+
+DAS 102.2
+
+1,11
+
+6
+
+6,66
+
+-
+
+-
+
+DAS 102.1
+
+1,00
+
+-
+
+-
+
+3
+
+3,00
+
+SUBTOTAL 1
+
+28
+
+50,36
+
+45
+
+55,64
+
+FG-1
+
+0,31
+
+23
+
+7,13
+
+-
+
+-
+
+FG-2
+
+0,24
+
+1
+
+0,24
+
+-
+
+-
+
+FG-3
+
+0,19
+
+-
+
+-
+
+11
+
+2,09
+
+SUBTOTAL 2
+
+24
+
+7,37
+
+11
+
+2,09
+
+TOTAL (1+2)
+
+52
+
+57,73
+
+56
+
+57,73
+
+Saldo do Remanejamento (a - b)
+
+-4
+
+0,00
+
+-
+
+-

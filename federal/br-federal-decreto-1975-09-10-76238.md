@@ -1,5 +1,3 @@
-###DEC-076238-0-000-10-09-1975@@@
-
 DECRETO Nº 76.238 - DE 10 DE SETEMBRO DE 1975
 
 Transfere a Fundação Rádio Mauá, a autorização outorgada ao Ministério do Interior para, através do Governo do Território Federal de Roraima , instalar, na cidade de Boa Vista, uma estação de radiodifusão sonora em onda média, com fins exclusivamente educativos.

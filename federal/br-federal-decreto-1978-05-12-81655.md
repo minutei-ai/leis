@@ -1,5 +1,3 @@
-###DEC-081655-0-000-12-05-1978@@@
-
 Decreto nº 81.655, de 12 de maio de 1978.
 
 Concede reconhecimento aos cursos de Biblioteconomia e de Formação de Professores de Disciplinas especializadas, da Universidade Rio Grande, com sede na cidade do Rio Grande, Estado do Rio Grande do Sul.

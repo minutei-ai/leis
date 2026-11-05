@@ -1,5 +1,3 @@
-###DEC-050507-0-000-26-04-1961@@@
-
 DECRETO Nº 50.507, DE 26 DE ABRIL DE 1961.
 
 Concede nacionalização à sociedade anônima ENO - SCOTT & BOWNE (BRAZIL) LIMITED, sob a denominação de Laboratórios Beecham Sociedade Anônima.

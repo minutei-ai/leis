@@ -1,5 +1,3 @@
-###DEC-072857-0-000-27-09-1973@@@
-
 DECRETO Nº 72.857, DE 27 DE SETEMBRO DE 1973
 
 Torna sem efeito redistribuição de cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

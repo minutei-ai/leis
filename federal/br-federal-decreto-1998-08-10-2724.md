@@ -1,5 +1,3 @@
-###DEC-002724-0-000-10-08-1998@@@
-
 DECRETO Nº 2.724, DE 10 DE AGOSTO DE 1998
 
 Promulga a Emenda ao Artigo XVII (f) do Acordo Relativo à Organização Internacional de Telecomunicações por Satélite (INTELSAT), de 20 de agosto de 1971, aprovada em 26 de outubro de 1994.

@@ -1,5 +1,3 @@
-###DEC-002973-0-000-26-02-1999@@@
-
 DECRETO Nº 2.973, DE 26 DE FEVEREIRO DE 1999.
 
 Define os critérios e as condições para a assunção, pela União, das obrigações dos Municípios, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066678-0-000-09-06-1970@@@
-
 decreto nº 66.678, de 9 de junho de 1970.
 
 Retifica o Decreto nº 60.986, de 11 de junho de 1967, que aprovou o Quadro Único de Pessoal da Universidade Federal de Juiz de Fora.

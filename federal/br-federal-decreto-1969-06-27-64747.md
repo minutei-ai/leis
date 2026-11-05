@@ -1,5 +1,3 @@
-###DEC-064747-0-000-27-06-1969@@@
-
 DECRETO Nº 64.747, DE 27 DE JUNHO DE 1969.
 
 Concede autorização à organização "Atlantic Oceanographic Laboratories of the Environmental Science Services Administration" - ESSA - A.O.L, para operar na Plataforma Continental Brasileira, efetuando as pesquisas que especifica.

@@ -1,5 +1,3 @@
-###DEL-003747-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.747 – DE 23 DE OUTUBRO DE 1941
 
 Altera a redação do art. 42 do decreto-lei n. 3.200, de 19 de abril de 1941

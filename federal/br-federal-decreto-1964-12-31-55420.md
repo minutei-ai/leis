@@ -1,5 +1,3 @@
-###DEC-055420-0-000-31-12-1964@@@
-
 DECRETO Nº 55.420, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Sebastião Dias de Souza a pesquisar mica e pedras coradas, no município de Mendes Pimentel, Estado de Minas Gerais.

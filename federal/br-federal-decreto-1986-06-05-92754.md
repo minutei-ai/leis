@@ -1,5 +1,3 @@
-###DEC-092754-0-000-05-06-1986@@@
-
 DECRETO Nº 92.754, DE 05 DE JUNHO DE 1986
 
 Institui Grupo de Trabalho Interministerial para realizar estudos relativos à implementação de Estação Ecológica na área onde se localiza a Central Nuclear de Angra dos Reis, e dá outras providências.

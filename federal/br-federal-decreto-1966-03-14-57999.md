@@ -1,5 +1,3 @@
-###DEC-057999-0-000-14-03-1966@@@
-
 Decreto nº 57.999, de 14 de março de 1966.
 
 Autoriza o cidadão brasileiro Pedro Maria de Oliveira a pesquisar feldspato, quartzo e caulim no município de Socorro, Estado de São Paulo.

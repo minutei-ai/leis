@@ -1,5 +1,3 @@
-###DEC-088576-0-000-02-08-1983@@@
-
 Decreto nº 88.576, de 02 de agosto de 1983
 
 FUNDAÇÃO CULTURAL DE ARATIBA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Aratiba, Estado do Rio Grande do Sul.Renova por 10 (dez) anos a concessão outorgada à

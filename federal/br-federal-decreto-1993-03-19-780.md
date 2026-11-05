@@ -1,7 +1,3 @@
-1
-
-###DEC-000780-0-000-19-03-1993@@@
-
 DECRETO N° 780, DE 19 DE MARÇO DE 1993 
 
 Dá nova redação aos arts. 1°, 2° e 6°, do Decreto n° 99.532, de 19 de setembro de 1990, que dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial (CONMETRO).

@@ -1,5 +1,3 @@
-###DEC-093271-0-000-18-09-1986@@@
-
 DECRETO Nº 93.271, DE 18 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação Mogi Mirim III, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

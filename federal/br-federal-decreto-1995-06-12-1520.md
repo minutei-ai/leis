@@ -1,7 +1,3 @@
-1
-
-###DEC-001520-0-000-12-06-1995@@@
-
 # DECRETO Nº 1.520, DE 12 DE JUNHO DE 1995.
 
 Dispõe sobre a vinculação, competências e composição da Comissão Técnica Nacional de Biossegurança (CTNBio), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055047-0-000-23-11-1964@@@
-
 DECRETO Nº 55.047, DE 23 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública para fins de desapropriação, imóvel destinado à proteção de monumentos histórico e paisagístico, em Parati Estado do Rio de Janeiro.

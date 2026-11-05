@@ -1,5 +1,3 @@
-###DEC-054578-0-000-26-10-1964@@@
-
 DECRETO Nº 54.578, DE 26 DE OUTUBRO DE 1964.
 
 Transforma o Consulado Privativo do Brasil em Paso de los Libres (Republica Argentina) em Consulado de Carreira.

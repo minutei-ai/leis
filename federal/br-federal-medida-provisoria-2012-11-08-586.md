@@ -1,5 +1,3 @@
-###MPV-000586-0-000-08-11-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 586, DE 8 DE NOVEMBRO DE 2012
 
 Dispõe sobre o apoio técnico e financeiro da União aos entes federados no âmbito do Pacto Nacional pela Alfabetização na Idade Certa, e dá outras providências.

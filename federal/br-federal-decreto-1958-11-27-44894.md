@@ -1,5 +1,3 @@
-###DEC-044894-0-000-27-11-1958@@@
-
 decreto nº 44.894, de 27 de novembro de 1958.
 
 Concede equiparação ao Curso de Iniciação Agrícola da Escola Agrícola “Assis Brasil”.

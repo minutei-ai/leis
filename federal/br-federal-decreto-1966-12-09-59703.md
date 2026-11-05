@@ -1,5 +1,3 @@
-###DEC-059703-0-000-09-12-1966@@@
-
 DECRETO Nº 59.703, DE 9 DE DEZEMBRO DE 1966.
 
 Altera os arts. 4º e 6º do Decreto nº 58.193, de 14 de abril de 1966, modificado pelos Decretos ns. 58.250 e 58.664, respectivamente de 25 de abril de 1966 e 16.6.66.
@@ -41,8 +39,6 @@ Octavio Bulhões
 Severo Fagundes Gomes
 
 Paulo Egydio Martins
-
-###DEC-059703-0-000-09-12-1966@@@RET01+++
 
 DECRETO Nº 59.703, de 9 DE DEZEMBRO DE 1966.
 

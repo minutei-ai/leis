@@ -1,5 +1,3 @@
-###DEC-077594-0-000-12-05-1976@@@
-
 DECRETO Nº 77.594 - DE 12 DE MAIO DE 1976
 
 Retifica a concessão de lavra outorgada a Antônio Pinheiro Dias pelo Decreto nº 62.160, de 19 de janeiro de 1968.

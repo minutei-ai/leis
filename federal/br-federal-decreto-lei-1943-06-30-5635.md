@@ -1,5 +1,3 @@
-###DEL-005635-0-000-30-06-1943@@@
-
 DECRETO‑LEI N.  5.635 – DE 30 DE JUNHO DE 1943
 
 Dispõe sobre a não realização, em 1943, da sessão ordinária dos Conselhos Nacionais de Geografia e de Estatística

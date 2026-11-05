@@ -1,5 +1,3 @@
-###MPV-001789-0-006-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.789-6, DE 17 DE JUNHO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

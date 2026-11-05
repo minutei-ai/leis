@@ -1,5 +1,3 @@
-###DEC-058792-0-000-12-07-1966@@@
-
 DECRETO Nº 58.792, DE 12 DE JULHO DE 1966.
 
 Concede autorização à Fábrica de Artefatos de Latex “São Roque” para funcionamento contínuo, na forma estabelecida neste Decreto.

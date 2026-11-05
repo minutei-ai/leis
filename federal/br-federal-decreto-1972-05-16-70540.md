@@ -1,5 +1,3 @@
-###DEC-070540-0-000-16-05-1972@@@
-
 DECRETO Nº 70.540, DE 16 DE MAIO DE 1972.
 
 Autoriza a utilização, na forma que menciona, pela Prefeitura Municipal de Cabo Frio, de área da União situada naquele Município.

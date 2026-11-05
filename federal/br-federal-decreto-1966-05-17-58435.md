@@ -1,5 +1,3 @@
-###DEC-058435-0-000-17-05-1966@@@
-
 DECRETO Nº 58.435, DE 17 DE MAIO DE 1966.
 
 Autoriza a Olinkraft Celulose e Papel Limitada a instalar um turbo gerador para uso exclusivo.

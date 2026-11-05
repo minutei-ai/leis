@@ -1,5 +1,3 @@
-###DEC-057717-0-000-02-02-1966@@@
-
 DECRETO Nº 57.717, DE 2 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Vitalino Pagliato a pesquisar calcário no município de Guapiara, Estado de São Paulo.

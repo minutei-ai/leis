@@ -1,5 +1,3 @@
-###DEC-077757-0-000-08-06-1976@@@
-
 DECRETO Nº 77.757, DE 8 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Reviera Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Goiânia, Estado de Goiás.

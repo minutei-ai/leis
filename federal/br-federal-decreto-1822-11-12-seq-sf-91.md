@@ -1,5 +1,3 @@
-###DEC-000000-0-091-12-11-1822@@@
-
 DECRETO - DE 12 DE NOVEMBRO DE 1822
 
 Manda cobrar direitos das mercadorias estrangeiras reembarcadas da Bahia, durante a occupação das tropas Portuguezas, e determina que a dídiva contrahida pelo Brigadeiro Ignácio Luiz Madeira de Mello não seja paga pelas rendas da Província.

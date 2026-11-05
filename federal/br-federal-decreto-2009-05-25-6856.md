@@ -1,5 +1,3 @@
-###DEC-006856-0-000-25-05-2009@@@
-
 DECRETO Nº 6.856, DE 25 DE MAIO DE 2009.
 
 Regulamenta o art. 206-A da Lei no 8.112, de 11 de dezembro de 1990 - Regime Jurídico Único, dispondo sobre os exames médicos periódicos de servidores.

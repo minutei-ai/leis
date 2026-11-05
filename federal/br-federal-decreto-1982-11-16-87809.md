@@ -1,5 +1,3 @@
-###DEC-087809-0-000-16-11-1982@@@
-
 Decreto nº 87.809, de 16 de novembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidra Elétrica do São Francisco - CHESF, no Estado da Bahia.

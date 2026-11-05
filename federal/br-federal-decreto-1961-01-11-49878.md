@@ -1,5 +1,3 @@
-###DEC-049878-0-000-11-01-1961@@@
-
 DECRETO N.º 49.878, DE 11 DE janeiro DE 1961.
 
 Concede autorização para funcionamento de cursos.

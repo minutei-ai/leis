@@ -1,5 +1,3 @@
-###DEC-046644-0-000-17-08-1959@@@
-
 DECRETO Nº 46.644, DE 17 DE AGôSTO DE 1959.
 
 Autoriza a cidadã brasileira Amélia Franco de Cerqueira a pesquisar calcário no município de Prados, Estado de Minas Gerais.

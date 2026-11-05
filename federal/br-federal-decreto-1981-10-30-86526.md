@@ -1,5 +1,3 @@
-###DEC-086526-0-000-30-10-1981@@@
-
 DECRETO Nº 86.526, DE 30 DE OUTUBRO DE 1981
 
 Renova por 15 (quinze) anos, a concessão outorgada à TELEVISÃO ANHANGUERA S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Goiânia, Estado de Goiás.

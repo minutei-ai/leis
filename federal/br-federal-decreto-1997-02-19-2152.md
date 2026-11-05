@@ -1,5 +1,3 @@
-###DEC-002152-0-000-19-02-1997@@@
-
 DECRETO Nº 2.152, DE 19 DE FEVEREIRO DE 1997
 
 Promulga o Acordo de Cooperação Cultural e Educacional, entre o Governo de República Federativa do Brasil e o Governo da República da Turquia.

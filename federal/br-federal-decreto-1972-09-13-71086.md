@@ -1,5 +1,3 @@
-###DEC-071086-0-000-13-09-1972@@@
-
 DECRETO Nº 71.086, DE 13 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de Mato Grosso.

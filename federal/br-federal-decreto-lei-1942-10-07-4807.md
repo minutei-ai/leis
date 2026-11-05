@@ -1,5 +1,3 @@
-###DEL-004807-0-000-07-10-1942@@@
-
 DECRETO-LEI N. 4.807 – DE 7 DE OUTUBRO DE 1942
 
 Cria a Comissão de Defesa Econômica, e dá outras providências

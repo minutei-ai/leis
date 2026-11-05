@@ -1,5 +1,3 @@
-###DEC-077346-0-000-29-03-1976@@@
-
 DECRETO Nº 77.346, DE 29 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Agronomia, da Universidade de Brasília, com sede na Cidade de Brasília, Distrito Federal.

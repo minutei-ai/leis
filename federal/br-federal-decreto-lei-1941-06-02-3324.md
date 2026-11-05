@@ -1,5 +1,3 @@
-###DEL-003324-0-000-02-06-1941@@@
-
 DECRETO-LEI N. 3.324 – DE 2 DE JUNHO DE 1941
 
 Dispõe sobre a criação de uma Contadoria Seccional e uma Delegação do Tribunal de Contas junto ao Ministério da Aeronáutica.

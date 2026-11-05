@@ -1,7 +1,3 @@
-1
-
-###DEL-002328-0-000-05-05-1987@@@
-
 # DECRETO-LEI Nº 2.328, DE 5 DE MAIO DE 1987
 
 Extingue o Grupo Executivo das Terras do Araguaia-Tocantins - GETAT, e dá outras providências.

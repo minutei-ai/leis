@@ -1,5 +1,3 @@
-###DEC-002839-0-000-06-11-1998@@@
-
 DECRETO Nº 2.839, DE 6 DE NOVEMBRO DE 1998
 
 Dispõe sobre o cadastramento, controle e acompanhamento integrado das ações judiciais e o cumprimento das respectivas decisões pelos órgãos da Advocacia-Geral da União, procuradorias e departamentos jurídicos das autarquias e das fundações públicas e órgãos do SIPEC.

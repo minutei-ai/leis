@@ -1,5 +1,3 @@
-###DEC-054189-0-000-24-08-1964@@@
-
 DECRETO Nº 54.189, DE 24 DE AGÔSTO DE 1964.
 
 Atribui ao 1º Batalhão Ferroviário a missão que menciona e dá outras providências.

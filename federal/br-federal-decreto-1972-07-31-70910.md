@@ -1,5 +1,3 @@
-###DEC-070910-0-000-31-07-1972@@@
-
 DECRETO Nº 70.910, de 31 de julho de 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno, feita pela Municipalidade de Belém, Pará, para construção e instalação do Museu Naval do Pará.

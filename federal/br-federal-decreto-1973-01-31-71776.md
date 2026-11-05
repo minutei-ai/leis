@@ -1,5 +1,3 @@
-###DEC-071776-0-000-31-01-1973@@@
-
 DECRETO Nº 71.776, DE 31 DE JANEIRO DE 1973.
 
 Concede a Benedito Ferreira Lopes o direito de lavrar caulim e argila no município de Biritiba-Mirim - Estado de São Paulo.

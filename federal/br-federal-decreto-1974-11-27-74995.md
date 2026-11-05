@@ -1,5 +1,3 @@
-###DEC-074995-0-000-27-11-1974@@@
-
 DECRETO Nº 74.995, DE 27 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Colon Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Joinville, Estado de Santa Catarina.

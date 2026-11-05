@@ -1,5 +1,3 @@
-###MPV-000132-0-000-20-10-2003@@@
-
 MEDIDA PROVISÓRIA Nº 132, DE 20 DE OUTUBRO 2003.
 
 Cria o Programa Bolsa Família e dá outras providências.

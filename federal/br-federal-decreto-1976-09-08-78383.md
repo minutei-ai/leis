@@ -1,5 +1,3 @@
-###DEC-078383-0-000-08-09-1976@@@
-
 Decreto nº 78.383, de 8 de setembro de 1976.
 
 Estabelece prazos para a apresentação das contas das entidades de âmbito federal de que tratam os artigos 7º e 8º da Lei nº 6.223, de 14 de julho de 1975.

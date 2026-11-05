@@ -22,7 +22,8 @@ JOSÉ FRANCISCO DE MELO CAVALCANTI NETO
 
 ERNANI VARJAL MEDICIS PINTO
 
-**ANEXO I<br>
+**ANEXO I
+
 PROTOCOLO DE INTENÇÕES DO CONSÓRCIO INTERESTADUAL SOBRE O CLIMA - CONSÓRCIO BRASIL VERDE**
 
 Os Estados do ACRE, ALAGOAS, AMAPÁ, AMAZONAS, BAHIA, CEARÁ, ESPÍRITO SANTO, GOIÁS, MARANHÃO, MATO GROSSO, MATO GROSSO DO SUL, MINAS GERAIS, PARÁ, PARAÍBA, PARANÁ, PERNAMBUCO, PIAUÍ, RIO DE JANEIRO, RIO GRANDE DO NORTE, RIO GRANDE DO SUL, RONDÔNIA, RORAIMA, SANTA CATARINA, SÃO PAULO, SERGIPE, TOCANTINS e o DISTRITO FEDERAL, subscritores deste Protocolo,
@@ -59,10 +60,12 @@ RESOLVEM:
 
 Celebrar o presente PROTOCOLO DE INTENÇÕES a ser submetido pelos Poderes Executivos de cada Estado e do Distrito Federal ao respectivo Poder Legislativo, observadas as disposições da Lei Federal nº 11.107, de 2005, e do Decreto Federal nº 6.017, de 2007.
 
-**TÍTULO I<br>
+**TÍTULO I
+
 DAS DISPOSIÇÕES INICIAIS**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DO CONSORCIAMENTO**
 
 CLÁUSULA PRIMEIRA - DOS SUBSCRITORES
@@ -143,7 +146,8 @@ O Protocolo de Intenções, após sua ratificação mediante leis aprovadas por,
 
 § 6º A alteração do Contrato de Consórcio dependerá de instrumento aprovado pela Assembleia Geral, cuja eficácia será condicionada à ratificação, mediante lei, por todos os consorciados.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA DENOMINAÇÃO, PRAZO E SEDE**
 
 CLÁUSULA TERCEIRA - DA DENOMINAÇÃO E NATUREZA JURÍDICA
@@ -170,7 +174,8 @@ CLÁUSULA SÉTIMA - DA REPRESENTATIVIDADE
 
 O Consórcio fica autorizado a representar os entes consorciados perante outras esferas de Governo, no que respeita a assuntos de interesse comum, nos termos de deliberação tomada em Assembleia Geral em cada caso.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DOS OBJETIVOS, FINALIDADES, ATRIBUIÇÕES E PRINCÍPIOS**
 
 CLÁUSULA OITAVA - DOS OBJETIVOS
@@ -299,10 +304,12 @@ CLÁUSULA DÉCIMA PRIMEIRA - DOS PRINCÍPIOS
 
 O CONSÓRCIO BRASIL VERDE observará os princípios da administração pública previstos na Constituição Federal, devendo pautar as suas ações pela integração, colaboração, compartilhamento, coordenação e articulação, privilegiando a utilização de métodos extrajudiciais de solução de conflitos.
 
-**TÍTULO II<br>
+**TÍTULO II
+
 DA ORGANIZAÇÃO DO CONSÓRCIO**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS**
 
 CLÁUSULA DÉCIMA SEGUNDA - DOS ESTATUTOS
@@ -349,10 +356,12 @@ IV  - Núcleo de Controle Interno e Externo: órgão responsável pelo monitor
 
 V  - Núcleo de Assuntos Internacionais: órgão responsável pela articulação de parcerias e pela inserção internacional do Consórcio.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DA ASSEMBLEIA GERAL**
 
-**Seção I<br>
+**Seção I
+
 Do Funcionamento**
 
 CLÁUSULA DÉCIMA QUARTA - DA ASSEMBLEIA GERAL
@@ -387,7 +396,8 @@ CLÁUSULA DÉCIMA OITAVA - DO QUÓRUM DE DELIBERAÇÃO
 
 O quórum de deliberação será constituído pela maioria simples dos presentes, salvo em relação às matérias que exijam quórum qualificado nos termos deste instrumento ou dos estatutos
 
-**Seção II<br>
+**Seção II
+
 Das Competências**
 
 CLÁUSULA DÉCIMA NONA - DAS COMPETÊNCIAS
@@ -442,7 +452,8 @@ X. homologar a indicação do Secretário Executivo.
 
 § 3º As competências da Assembleia Geral arroladas nesta cláusula não impedem que outras lhes sejam atribuídas pelos estatutos.
 
-**Seção III<br>
+**Seção III
+
 Da Eleição e da Destituição do Presidente e do Conselho de Administração**
 
 CLÁUSULA VIGÉSIMA - DA ELEIÇÃO DO PRESIDENTE
@@ -475,7 +486,8 @@ Em qualquer Assembleia Geral poderá ser votada a destituição do Presidente do
 
 § 7º Rejeitada a moção de censura, nenhuma outra poderá ser apreciada na mesma Assembleia e nos 180 (cento e oitenta) dias seguintes.
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DA PRESIDÊNCIA**
 
 CLÁUSULA VIGÉSIMA SEGUNDA - DA COMPETÊNCIA
@@ -500,7 +512,8 @@ I. interino das funções da Presidência, inclusive para evitar inelegibilidad
 
 II.  em substituição ou em sucessão das funções da Presidência, nos casos em que o Presidente não mais exercer a Chefia do Poder Executivo do ente consorciado.
 
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DOS COORDENADORES REGIONAIS POR BIOMA**
 
 CLÁUSULA VIGÉSIMA TERCEIRA - DA NATUREZA E ATRIBUIÇÕES
@@ -511,7 +524,8 @@ Cada Bioma do País (Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampas e Pan
 
 § 2º Os estatutos poderão prever outras atribuições aos Coordenadores Regionais por Bioma.
 
-**CAPÍTULO VI<br>
+**CAPÍTULO VI
+
 DA SECRETARIA EXECUTIVA**
 
 CLÁUSULA VIGÉSIMA QUARTA - DA NOMEAÇÃO
@@ -554,7 +568,8 @@ X.  promover a publicação de atos e contratos do Consórcio, quando essa pro
 
 § 2º A delegação prevista no § 1º dependerá de ato escrito e publicado no sítio que o Consórcio mantiver na internet.
 
-**CAPÍTULO VII<br>
+**CAPÍTULO VII
+
 DO CONSELHO CONSULTIVO**
 
 CLÁUSULA VIGÉSIMA SEXTA - DA NATUREZA E ATRIBUIÇÕES
@@ -567,13 +582,16 @@ CLÁUSULA VIGÉSIMA SÉTIMA - DA COMPOSIÇÃO
 
 Os estatutos disporão sobre a composição do Conselho Consultivo, bem como a forma da escolha de seus integrantes, dentre os representantes de entidades não governamentais, com notável saber técnico e reputação ilibada.
 
-**TÍTULO III<br>
+**TÍTULO III
+
 DA GESTÃO ADMINISTRATIVA DO CONSÓRCIO**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DOS RECUROS HUMANOS**
 
-**Seção I<br>
+**Seção I
+
 Dos Empregados em Comissão**
 
 CLÁUSULA VIGÉSIMA OITAVA - DOS EMPREGOS COMISSIONADOS
@@ -590,7 +608,8 @@ A remuneração dos empregados públicos observará o limite previsto no artigo 
 
 Parágrafo único. O exercício das funções de Presidente e de membro do Conselho de Administração, bem como participação dos representantes na Assembleia Geral e em outras atividades do Consórcio, não serão remunerados, sendo considerado serviço público relevante.
 
-**Seção II<br>
+**Seção II
+
 Contratação de Pessoal**
 
 CLÁUSULA TRIGÉSIMA - DA CONTRATAÇÃO DE PESSOAL
@@ -607,7 +626,8 @@ Somente admitir-se-á contratação por tempo determinado para atender à necess
 
 Parágrafo único. Caracterizam-se como casos de contratação por tempo determinado as situações de necessidade temporária de excepcional interesse público, previstos em lei específica do Estado líder.
 
-**Seção III<br>
+**Seção III
+
 Da Cessão de Servidores ou de Empregados Públicos pelos Entes Associados**
 
 CLÁUSULA TRIGÉSIMA SEGUNDA - DA CESSÃO DE SERVIDORES OU DE EMPREGADOS PÚBLICOS
@@ -620,10 +640,12 @@ O Consórcio Público poderá ser integrado por servidores ou empregados públic
 
 § 3º Na hipótese de o ente federativo consorciado assumir o ônus da cessão do servidor ou do empregado público, tais pagamentos poderão ser contabilizados com os créditos hábeis à compensação com obrigações previstas no contrato de rateio, mediante aprovação na Assembleia Geral.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DOS CONTRATOS, DA INTEGRIDADE E DA TRANSPARÊNCIA**
 
-**Seção I<br>
+**Seção I
+
 Dos Contratos**
 
 CLÁUSULA TRIGÉSIMA TERCEIRA - DAS AQUISIÇÕES DE BENS E SERVIÇOS
@@ -634,7 +656,8 @@ CLÁUSULA TRIGÉSIMA QUARTA- DO REGISTRO DE PREÇOS
 
 Os entes consorciados poderão aderir a Registro de Preços realizado pelo Consórcio.
 
-**Seção II<br>
+**Seção II
+
 Da Integridade e da Transparência**
 
 CLÁUSULA TRIGÉSIMA QUINTA - DA INTEGRIDADE
@@ -647,7 +670,8 @@ Qualquer cidadão, independente de demonstração de interesse, tem o direito de
 
 Parágrafo único. O Consórcio deverá implantar procedimentos destinados a assegurar o direito fundamental de acesso à informação em conformidade com os princípios básicos da administração pública e com as diretrizes do art. 3º da Lei Federal nº 12.527, de 18 de novembro de 2011.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DA GESTÃO ASSOCIADA**
 
 CLÁUSULA TRIGÉSIMA SÉTIMA - DA GESTÃO ASSOCIADA
@@ -690,7 +714,8 @@ X.  a elaboração de planos de redução dos custos dos serviços prestados p
 
 Parágrafo único. Os Chefes dos Poderes Executivos poderão estabelecer novos projetos relacionados aos assuntos de interesse comum, desde que haja a aprovação pela Assembleia Geral.
 
-**TÍTULO IV<br>
+**TÍTULO IV
+
 DA GESTÃO ECONÔMICA E FINANCEIRA**
 
 **CAPÍTULO I**
@@ -717,7 +742,8 @@ CLÁUSULA QUADRAGÉSIMA SEGUNDA - DA RESPONSABILIDADE SUBSIDIÁRIA
 
 Os entes consorciados respondem somente de forma subsidiária pelas obrigações do Consórcio.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA CONTABILIDADE**
 
 CLÁUSULA QUADRAGÉSIMA TERCEIRA - DA SEGREGAÇÃO CONTÁBIL
@@ -730,14 +756,16 @@ I.  o investido e arrecadado em cada serviço, inclusive os valores de eventua
 
 II. a situação patrimonial, especialmente a parcela de valor dos bens vinculados aos serviços que tenha sido amortizada pelas receitas emergentes da prestação de serviços.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DOS INSTRUMENTOS DE PARCERIA**
 
 CLÁUSULA QUADRAGÉSIMA QUARTA - DA CELEBRAÇÃO DE INSTRUMENTOS DE PARCERIA PARA O RECEBIMENTO DE RECURSOS
 
 A celebração, pelo Consórcio, de convênios, acordos, ajustes e outros instrumentos congêneres observará as normas de direito público aplicáveis à espécie.
 
-**TÍTULO V<br>
+**TÍTULO V
+
 DA SAÍDA DO CONSORCIADO**
 
 **CAPÍTULO I**
@@ -782,7 +810,8 @@ Os estatutos estabelecerão o procedimento administrativo para a aplicação da 
 
 § 3º Da decisão do órgão que decretar a exclusão caberá Pedido de Reconsideração dirigido à Assembleia Geral, o qual não terá efeito suspensivo.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DA ALTERAÇÃO E DA EXTINÇÃO DO CONTRATO DE CONSÓRCIO PÚBLICO**
 
 CLÁUSULA QUADRAGÉSIMA OITAVA - DA EXTINÇÃO
@@ -795,10 +824,12 @@ A extinção do contrato de Consórcio dependerá de instrumento aprovado pela A
 
 § 3º Com a extinção, o pessoal cedido ao Consórcio retornará aos seus órgãos e entidades de origem e os empregados públicos do Consórcio terão seus contratos de trabalho automaticamente rescindidos.
 
-**TÍTULO VI<br>
+**TÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS**
 
 CLÁUSULA QUADRAGÉSIMA NONA- DO REGIME JURÍDICO
@@ -823,10 +854,12 @@ CLÁUSULA QUINQUAGÉSIMA PRIMEIRA - DA EXIGIBILIDADE
 
 Quando adimplente com suas obrigações, qualquer ente federativo consorciado é parte legítima para exigir o pleno cumprimento das cláusulas previstas neste contrato.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DAS DISPOSIÇÕES TRANSITÓRIAS**
 
-**Seção I<br>
+**Seção I
+
 Da Elaboração dos Estatutos**
 
 CLÁUSULA QUINQUAGÉSIMA SEGUNDA - DA ASSEMBLEIA ESTATUINTE
@@ -853,7 +886,8 @@ CLÁUSULA QUINQUAGÉSIMA TERCEIRA - DO MANDATO DO PRIMEIRO PRESIDENTE
 
 O primeiro Presidente terá mandato até o dia 31 de dezembro de 2022.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DA REPRESENTAÇÃO JUDICIAL E ASSESSORAMENTO JURÍDICO**
 
 CLÁUSULA QUINQUAGÉSIMA QUARTA
@@ -870,133 +904,144 @@ Eventuais controvérsias sobre este instrumento serão dirimidas perante o Supre
 
 Vitória, 25 de janeiro de 2022.
 
-Gladson de Lima Cameli<br>
+Gladson de Lima Cameli
+
 Governador do Estado do Acre
 
-José Renan Vasconcelos Calheiros Filho<br>
+José Renan Vasconcelos Calheiros Filho
+
 Governador do Estado de Alagoas
 
-Antônio Waldez Góes da Silva<br>
+Antônio Waldez Góes da Silva
+
 Governador do Estado do Amapá
 
-Wilson Miranda Lima<br>
+Wilson Miranda Lima
+
 Governador do Estado do Amazonas
 
-Rui Costa dos Santos<br>
+Rui Costa dos Santos
+
 Governador do Estado da Bahia
 
-Camilo Sobreira de Santana<br>
+Camilo Sobreira de Santana
+
 Governador do Estado do Ceará
 
-Ibaneis Rocha Barros Junior<br>
+Ibaneis Rocha Barros Junior
+
 Governador do Distrito Federal
 
-José Renato Casagrande<br>
+José Renato Casagrande
+
 Governador do Estado do Espírito Santo
 
-Ronaldo Ramos Caiado<br>
+Ronaldo Ramos Caiado
+
 Governador do Estado de Goiás
 
-Flávio Dino de Castro e Costa<br>
+Flávio Dino de Castro e Costa
+
 Governador do Estado do Maranhão
 
-Mauro Mendes Ferreira<br>
+Mauro Mendes Ferreira
+
 Governador do Estado do Mato Grosso
 
-Reinaldo Azambuja Silva<br>
+Reinaldo Azambuja Silva
+
 Governador do Estado de Mato Grosso do Sul
 
-Romeu Zema Neto<br>
+Romeu Zema Neto
+
 Governador do Estado de Minas Gerais
 
-Helder Zahluth Barbalho<br>
+Helder Zahluth Barbalho
+
 Governador do Estado do Pará
 
-João Azevêdo Lins Filho<br>
+João Azevêdo Lins Filho
+
 Governador do Estado da Paraíba
 
-Carlos Roberto Massa Júnior<br>
+Carlos Roberto Massa Júnior
+
 Governador do Estado do Paraná
 
-Paulo Henrique Saraiva Câmara<br>
+Paulo Henrique Saraiva Câmara
+
 Governador do Estado de Pernambuco
 
-José Wellington Barroso de Araújo Dias<br>
+José Wellington Barroso de Araújo Dias
+
 Governador do Estado do Piauí
 
-Cláudio Bomfim de Castro e Silva<br>
+Cláudio Bomfim de Castro e Silva
+
 Governador do Estado do Rio de Janeiro
 
-Maria de Fátima Bezerra<br>
+Maria de Fátima Bezerra
+
 Governadora do Estado do Rio Grande do Norte
 
-Eduardo Figueiredo Cavalheiro Leite<br>
+Eduardo Figueiredo Cavalheiro Leite
+
 Governador do Estado do Rio Grande do Sul
 
-Marcos José Rocha dos Santos<br>
+Marcos José Rocha dos Santos
+
 Governador do Estado de Rondônia
 
-Antonio Oliverio Garcia de Almeida<br>
+Antonio Oliverio Garcia de Almeida
+
 Governador do Estado de Roraima
 
-Carlos Moisés da Silva<br>
+Carlos Moisés da Silva
+
 Governador do Estado de Santa Catarina
 
-João Agripino da Costa Doria Junior<br>
+João Agripino da Costa Doria Junior
+
 Governador do Estado de São Paulo
 
-Belivaldo Chagas Silva<br>
+Belivaldo Chagas Silva
+
 Governador do Estado de Sergipe
 
-Mauro Carlesse<br>
+Mauro Carlesse
+
 Governador do Estado do Tocantins
 
-**ANEXO II<br>
+**ANEXO II
+
 QUADRO DOS EMPREGOS EM COMISSÃO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:33.85pt"><td width="174" valign="top" style="width:130.2pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Empregos comissionados</span></p></td><td width="148" valign="top" style="width:111.35pt;border:inset black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:33.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:28.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quantidade</span></p></td><td width="177" valign="top" style="width:132.65pt;border:inset black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:33.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:27.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Remuneração</span></p></td></tr><tr style="height:8.9pt"><td width="174" valign="top" style="width:130.2pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:8.9pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Secretário Executivo</span></p></td><td width="148" valign="top" style="width:111.35pt;padding:0cm 0cm 0cm 0cm;
-  height:8.9pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td><td width="177" valign="top" style="width:132.65pt;padding:0cm 0cm 0cm 0cm;
-  height:8.9pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:27.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 19.500,00</span></p></td></tr><tr style="height:7.45pt"><td width="174" valign="top" style="width:130.2pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:7.45pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Diretor</span></p></td><td width="148" valign="top" style="width:111.35pt;padding:0cm 0cm 0cm 0cm;
-  height:7.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p></td><td width="177" valign="top" style="width:132.65pt;padding:0cm 0cm 0cm 0cm;
-  height:7.45pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:27.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 17.500,00</span></p></td></tr><tr style="height:4.55pt"><td width="174" valign="top" style="width:130.2pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:4.55pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assessor</span></p></td><td width="148" valign="top" style="width:111.35pt;padding:0cm 0cm 0cm 0cm;
-  height:4.55pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8</span></p></td><td width="177" valign="top" style="width:132.65pt;padding:0cm 0cm 0cm 0cm;
-  height:4.55pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:27.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 15.500,00</span></p></td></tr><tr style="height:7.15pt"><td width="174" valign="top" style="width:130.2pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:7.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.5pt;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista Técnico</span></p></td><td width="148" valign="top" style="width:111.35pt;padding:0cm 0cm 0cm 0cm;
-  height:7.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:27.75pt;
-  margin-bottom:0cm;margin-left:28.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">10</span></p></td><td width="177" valign="top" style="width:132.65pt;padding:0cm 0cm 0cm 0cm;
-  height:7.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:27.75pt;margin-bottom:
-  0cm;margin-left:27.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 12.500,00</span></p></td></tr></tbody></table>
+Empregos comissionados
+
+Quantidade
+
+Remuneração
+
+Secretário Executivo
+
+1
+
+R$ 19.500,00
+
+Diretor
+
+1
+
+R$ 17.500,00
+
+Assessor
+
+8
+
+R$ 15.500,00
+
+Analista Técnico
+
+10
+
+R$ 12.500,00

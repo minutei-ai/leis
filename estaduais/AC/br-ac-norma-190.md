@@ -1,6 +1,10 @@
 > **LEI Nº 3.633, DE 26 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a comunicação pelos condomínios residenciais aos órgãos de segurança pública, sobre a ocorrência ou de indícios de violência doméstica e familiar contra mulher, criança, adolescente ou idoso, em seus interiores, quando houver registro da violência no livro de ocorrências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a comunicação pelos condomínios residenciais aos órgãos de segurança pública, sobre a ocorrência ou de indícios de violência doméstica e familiar contra mulher, criança, adolescente ou idoso, em seus interiores, quando houver registro da violência no livro de ocorrências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -23,8 +27,6 @@
 **Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 Rio Branco-Acre, 26 de maio de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
-
-<br>
 
 **Gladson de Lima Cameli**
 

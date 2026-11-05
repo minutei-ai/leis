@@ -1,7 +1,3 @@
-1
-
-###MPV-000798-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 798, DE 30 DE DEZEMBRO DE 1994
 
 Concede novo prazo para conclusão do inventário do Instituto Nacional de Assistência Médica da Previdência Social (Inamps), extinto pela Lei nº 8.689, de 27 de julho de 1993.

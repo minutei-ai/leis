@@ -1,5 +1,3 @@
-###DEC-076633-0-000-18-11-1975@@@
-
 Decreto nº 76633, de 18 de novembro de 1975.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União para operação de crédito externo que menciona.

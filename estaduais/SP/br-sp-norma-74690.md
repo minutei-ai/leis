@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/74690)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12780-30.11.2007.html)
 
 # LEI N° 12.780, DE 30 DE NOVEMBRO DE 2007
@@ -15,7 +14,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DA EDUCAÇÃO AMBIENTAL
 
 **Artigo 1° -** Fica instituída a Política Estadual de Educação Ambiental.
@@ -132,10 +132,12 @@ h) câmaras técnicas;
 
 i) comissões.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DA POLÍTICA ESTADUAL DE EDUCAÇÃO AMBIENTAL
 
-#### Seção I<br>
+#### Seção I
+
 Das Disposições Gerais
 
 **Artigo 10 -** A Política Estadual de Educação Ambiental envolve em sua esfera de ação instituições educacionais públicas e privadas dos sistemas de ensino, órgãos públicos do Estado e Municípios, organizações não-governamentais, demais instituições como Redes de Educação Ambiental, Núcleos de Educação Ambiental, Coletivos Jovens de Meio Ambiente, Coletivos Educadores e outros coletivos organizados, Comvidas, fóruns, colegiados, câmaras técnicas e comissões.
@@ -192,7 +194,8 @@ IV - o atendimento da demanda dos diversos segmentos da sociedade no que diz res
 
 6 - o estímulo e apoio à montagem e integração de redes de banco de dados e imagens, para apoio às ações enumeradas nos itens de 1 a 5.
 
-#### Seção II<br>
+#### Seção II
+
 Da Educação Ambiental Formal
 
 **Artigo 14 -** Entende-se por Educação Ambiental formal no âmbito escolar, aquela desenvolvida no campo curricular das instituições escolares públicas, privadas e comunitárias de ensino englobando:
@@ -251,7 +254,8 @@ II - vetado.
 
 **Parágrafo único -** vetado.
 
-#### Seção III<br>
+#### Seção III
+
 Educação Ambiental Não Formal
 
 **Artigo 21 -** Entende-se por Educação Ambiental não formal as ações e práticas educativas voltadas à sensibilização, conscientização, mobilização e formação coletiva para proteção e defesa do meio ambiente e melhoria da qualidade da vida.
@@ -294,7 +298,8 @@ XVII - a formação em Educação Ambiental para os membros das instâncias de c
 
 XVIII - a adoção de parâmetros e de indicadores de melhoria da qualidade da vida e do meio ambiente nos programas e projetos de Educação Ambiental em todos os níveis de atuação.
 
-#### Seção IV<br>
+#### Seção IV
+
 Do Sistema de Referências para Educação Ambiental
 
 **Artigo 23 -** vetado.
@@ -303,10 +308,12 @@ Do Sistema de Referências para Educação Ambiental
 
 **Artigo 25 -** vetado.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DA EXECUÇÃO DA POLÍTICA ESTADUAL DE EDUCAÇÃO AMBIENTAL
 
-#### Seção I<br>
+#### Seção I
+
 Da Estruturação, Funcionamento e Atribuições
 
 **Artigo 26 -** vetado.
@@ -351,7 +358,8 @@ V - vetado;
 
 VI - vetado.
 
-#### Seção II<br>
+#### Seção II
+
 Dos Recursos Financeiros
 
 **Artigo 30 -** vetado.
@@ -372,7 +380,8 @@ III - vetado.
 
 **Artigo 34 -** vetado.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 35 -** vetado.

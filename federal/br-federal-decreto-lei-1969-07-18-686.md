@@ -1,5 +1,3 @@
-###DEL-000686-0-000-18-07-1969@@@
-
 DECRETO-LEI Nº 686, DE 18 DE JULHO DE 1969
 
 Transfere cargo do Ministério da Marinha, para o Estado-Maior das Fôrças Armadas.

@@ -1,5 +1,3 @@
-###DEC-058248-0-000-22-04-1966@@@
-
 DECRETO Nº 58.248, DE 22 DE ABRIL DE 1966.
 
 Cria, no Ministério da Indústria e do Comércio, a Comissão Consultiva da Política Industrial e Comercial.

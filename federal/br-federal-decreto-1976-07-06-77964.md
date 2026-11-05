@@ -1,5 +1,3 @@
-###DEC-077964-0-000-06-07-1976@@@
-
 DECRETO Nº 77.964, DE 6 DE JULHO DE 1976.
 
 Declara a caducidade da concessão outorgada a Benito de Aguiar Costa, para lavrar caulim no Município de Paraíba do Sul, Estado do Rio de Janeiro.

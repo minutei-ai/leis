@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f33de8af-bc8c-4e35-8d87-9e168e2f0124/texto#nowhere)
 
-###DEL-000244-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 244, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a indústria de construção naval.

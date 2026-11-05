@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212036)<br>
-
 # DECRETO N° 70.230, DE 19 DE DEZEMBRO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Pacaembu, que declarou Situação de Emergência em áreas do Município._

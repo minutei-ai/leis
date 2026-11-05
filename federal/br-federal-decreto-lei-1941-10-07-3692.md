@@ -1,5 +1,3 @@
-###DEL-003692-0-000-07-10-1941@@@
-
 DECRETO-LEI N. 3.692 – DE 7 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 4:600$0 à verba que especifica

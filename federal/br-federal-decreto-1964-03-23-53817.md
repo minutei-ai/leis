@@ -1,5 +1,3 @@
-###DEC-053817-0-000-23-03-1964@@@
-
 decreto nº 53.817, de 23 de março de 1964.
 
 Dá nova redação aos artigos 4º e 6º do Decreto nº 42.466, de 14 de outubro de 1957.

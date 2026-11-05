@@ -1,5 +1,3 @@
-###DEC-067731-0-000-08-12-1970@@@
-
 DECRETO Nº 67.731, DE 8 DE DEZEMBRO DE 1970.
 
 Revoga o Decreto nº 64.112 de 13 de fevereiro de 1969, que declarou de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Niterói, Estado do Rio de Janeiro.

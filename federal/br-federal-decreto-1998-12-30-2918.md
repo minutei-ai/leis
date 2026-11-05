@@ -1,5 +1,3 @@
-###DEC-002918-0-000-30-12-1998@@@
-
 DECRETO Nº 2.918, DE 30 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a dispensa de caução de créditos oriundos da novação de dívidas do Fundo de Compensação de Variações Salariais - FCVS.

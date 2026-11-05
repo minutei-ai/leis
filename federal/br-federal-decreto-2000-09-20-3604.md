@@ -1,5 +1,3 @@
-###DEC-003604-0-000-20-09-2000@@@
-
 DECRETO Nº 3.604, DE 20 DE SETEMBRO DE 2000.
 
 Aprova a Consolidação do Estatuto da Companhia de Desenvolvimento dos Vales de São Francisco e do Parnaíba - CODEVASF.

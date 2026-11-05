@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.087, de 16 de Março de 2023.](https://legis.ac.gov.b
 
 > **LEI Nº 3.736, DE 26 DE MAIO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa de Cooperação e o Código Sinal Vermelho no Estado, visando o combate e a prevenção a violência contra a mulher.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa de Cooperação e o Código Sinal Vermelho no Estado, visando o combate e a prevenção a violência contra a mulher.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -14,8 +18,6 @@ Modificada pela Lei nº [4.087, de 16 de Março de 2023.](https://legis.ac.gov.b
 
 **§ 1º** O Código Sinal Vermelho constitui forma de combate e prevenção a violência contra a mulher, por meio de um sinal vermelho, sinalizando o pedido de socorro e ajuda, expondo a mão com uma marca em seu centro, na forma de um X, feita preferencialmente com batom vermelho e, em caso de impossibilidade, com caneta ou outro material acessível, se possível na cor vermelha, a ser mostrado com a mão aberta, para clara comunicação do pedido. (Renumerado pela Lei nº 4.087, de 16/03/2023)
 
-<br>
-
 **§ 2º** Para os fins de que trata esta lei, considera-se ainda fato ensejador de imediato auxílio, por parte do estabelecimento ou repartição, situação na qual a mulher se sinta em risco nas dependências do local. (Redação dada pela Lei nº 4.087, de 16/03/2023)
 
 **~~Art. 2°~~** ~~O protocolo básico e mínimo do programa do que trata esta lei consiste em que, ao identificar o pedido de socorro e ajuda, conforme descrito no parágrafo único do art. 1º, ou ao ouvir o código sinal vermelho, o atendente de farmácias, repartições públicas e instituições privadas, portarias de condomínios, hotéis, pousadas, bares, restaurantes, lojas comerciais, administração de **shopping center** ou supermercados, proceda a coleta do nome da vítima, seu endereço ou telefone, e ligue imediatamente para o número 190 (Polícia Militar).~~
@@ -26,19 +28,11 @@ Modificada pela Lei nº [4.087, de 16 de Março de 2023.](https://legis.ac.gov.b
 
 **Parágrafo único.** Em caso de necessidade de acionamento de força policial, a vítima será conduzida, de forma sigilosa e discreta, a local reservado no estabelecimento ou repartição, para aguardar a chegada da autoridade de segurança pública, para adoção das medidas cabíveis. (Redação dada pela Lei nº 4.087, de 16/03/2023)
 
-<br>
-
 **Art. 2º-A** As repartições públicas e instituições privadas descritas no art. 2º poderão identificar, por qualquer outro meio, situações de risco não sinalizadas com o Código Sinal Vermelho e adotar medidas de auxílio à vítima. (Incluído pela Lei nº 4.087, de 16/03/2023)
-
-<br>
 
 **§ 1º** Na situação prevista no **caput**, a critério da vítima, o estabelecimento ou repartição promoverá seu acompanhamento em segurança até o próprio veículo ou outro meio de transporte. (Incluído pela Lei nº 4.087, de 16/03/2023)
 
-<br>
-
 **§ 2º** Caso se identifique situação de violência que demande o acionamento de força policial, será adotado o protocolo de que trata o art. 2º. (Incluído pela Lei nº 4.087, de 16/03/2023)
-
-<br>
 
 **Art. 2º-B** Quando requisitado pelas autoridades competentes, as repartições públicas e instituições privadas disponibilizarão os registros de filmagem necessários para apuração dos fatos. (Incluído pela Lei nº 4.087, de 16/03/2023)
 

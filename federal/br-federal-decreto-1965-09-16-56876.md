@@ -1,5 +1,3 @@
-###DEC-056876-0-000-16-09-1965@@@
-
 DECRETO Nº 56.876, DE 16 DE SETEMBRO DE 1965.
 
 Outorga concessão à Universidade Federal de Goiás, Estado de Goiás, para instalar uma emissora de radiodifusão de sons.

@@ -1,5 +1,3 @@
-###DEC-059315-0-000-28-09-1966@@@
-
 DECRETO Nº 59.315, DE 28 DE SETEMBRO DE 1966.
 
 Altera a denominação de estabelecimento de ensino.

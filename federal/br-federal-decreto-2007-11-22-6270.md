@@ -1,5 +1,3 @@
-###DEC-006270-0-000-22-11-2007@@@
-
 DECRETO Nº 6.270, DE 22 DE NOVEMBRO DE 2007.
 
 Promulga a Convenção no 176 e a Recomendação no 183 da Organização Internacional do Trabalho (OIT) sobre Segurança e Saúde nas Minas, adotadas em Genebra, em 22 de junho de 1995, pela 85a Sessão da Conferência Internacional do Trabalho.
@@ -24,11 +22,7 @@ Brasília, 22 de novembro de 2007; 186º da Independência e 119º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.11.2007
-
-CONVENÇÃO 176 SOBRE SEGURANÇA E SAÚDE NAS MINAS
+Celso Luiz Nunes AmorimCONVENÇÃO 176 SOBRE SEGURANÇA E SAÚDE NAS MINAS
 
 A Conferência Geral da Organização Internacional do Trabalho, convocada em Genebra pelo Conselho de Administração da Repartição Internacional do Trabalho e reunida nessa cidade em 6 de junho de 1995, em sua Octogésima Segunda Reunião;
 

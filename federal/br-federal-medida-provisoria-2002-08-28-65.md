@@ -1,5 +1,3 @@
-###MPV-000065-0-000-28-08-2002@@@
-
 MEDIDA PROVISÓRIA N 65, DE 28 DE AGOSTO DE 2002
 
 Regulamenta o art. 8 do Ato das Disposições Constitucionais Transitórias e dá outras providências.

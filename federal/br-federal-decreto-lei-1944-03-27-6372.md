@@ -1,5 +1,3 @@
-###DEL-006372-0-000-27-03-1944@@@
-
 DECRETO-LEI N. 6.372 – DE 27 DE MARÇO DE 1944
 
 Abre, sem aumento de despesa, créditos suplementares ao Ministério da Educação e Saúde, e dá outras providências

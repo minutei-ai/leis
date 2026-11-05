@@ -1,14 +1,12 @@
-###DEC-026029-0-000-14-12-1948@@@
+**DECRETO Nº 26.029, DE 14 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 26.029, DE 14 DE DEZEMBRO DE 1948.</strong>
+***Outorga ao Govêrno do Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica nas bacias dos rios Cachoeira e Capivari, situados, respectivamente, nos municípios de Antonina e Bocaiuva, Estado do Paraná.***
 
-<em><strong>Outorga ao Govêrno do Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica nas bacias dos rios Cachoeira e Capivari, situados, respectivamente, nos municípios de Antonina e Bocaiuva, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra b, do Código de Águas (Decreto n. 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra b, do Código de Águas (Decreto n. 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Govêrno do Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica nas bacias dos rios Cachoeira e Capivari, situados, respectivamente nos municípios de Antonina e bocaiúva, Estado do Paraná.
+**Art**. 1.º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Govêrno do Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica nas bacias dos rios Cachoeira e Capivari, situados, respectivamente nos municípios de Antonina e bocaiúva, Estado do Paraná.
 
 § 1.º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar a descarga e a potência concedidas.
 
@@ -16,7 +14,7 @@
 
 § 3.º O aproveitamento inicial será o da Central hidroelétrica do Cotia e constará da utilização das águas do rio São Sebastião, Cachoeira, Conceição do Meio, Cotia e Saci, que coletadas serão lançadas no rio Bairro Alto, afluente do Cachoeira, e objetivará a instalação de 4 grupos hidroelétricos de 7.500 HP cada um, aproximadamente.
 
-<strong>Art</strong>. 2.º Sob pena de caducidade do presente título, o concessionário obriga-se a:
+**Art**. 2.º Sob pena de caducidade do presente título, o concessionário obriga-se a:
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura dentro de trinta (30) dias após a sua publicação.
 
@@ -62,28 +60,28 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3.º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
+**Art**. 3.º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6.º O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário em função de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 6.º O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário em função de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7.º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acordo com o disposto no art. 180 do Código de Águas.
+**Art**. 7.º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acordo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8.º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 8.º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição desse fundo, que se denominará reserva de renovação será realizada por quotas especiais que incidirão sobre as tarifas sob forma de percentagem. Estas quotas serão determinadas, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá  que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9.º Até seis (6) meses antes do término do prazo da concessão o Estado do Paraná devera requerer ao Govêrno Federal a renovação ou desistência da mesma.
+**Art**. 9.º Até seis (6) meses antes do término do prazo da concessão o Estado do Paraná devera requerer ao Govêrno Federal a renovação ou desistência da mesma.
 
-<strong>Art</strong>. 10. O presente Decreto entrará em vigor na data da sua publicação.\]
+**Art**. 10. O presente Decreto entrará em vigor na data da sua publicação.\]
 
-<strong>Art</strong>. 11. Revogam-se as disposições em contrário.
+**Art**. 11. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de dezembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

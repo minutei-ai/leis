@@ -1,5 +1,3 @@
-###DEC-071795-0-000-01-02-1973@@@
-
 Decreto nº 71.795, de 1 de fevereiro de 1973.
 
 Concede a Amável Soares o direito de lavrar mica no município de Nacip Raydan, Estado de Minas Gerais.

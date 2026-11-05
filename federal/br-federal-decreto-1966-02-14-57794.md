@@ -1,5 +1,3 @@
-###DEC-057794-0-000-14-02-1966@@@
-
 DECRETO Nº 57.794, DE 14 DE FEVEREIRO DE 1966.
 
 Autoriza Guilherme Luiz do Nascimento, a comprar pedras preciosas.

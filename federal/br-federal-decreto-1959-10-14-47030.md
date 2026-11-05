@@ -1,5 +1,3 @@
-###DEC-047030-0-000-14-10-1959@@@
-
 DECRETO Nº 47.030, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza a Companhia Paulista de Eletricidade a alienar um grupo termoelétrico, instalado em São Carlos, Estado de São Paulo.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.122, DE 11 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Estadual de Contratação de Jovem Aprendiz – Jovens em Ação, pela Administração Direta e Indireta do Estado</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Estadual de Contratação de Jovem Aprendiz – Jovens em Ação, pela Administração Direta e Indireta do Estado
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

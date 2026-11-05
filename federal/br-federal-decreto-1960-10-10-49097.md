@@ -1,5 +1,3 @@
-###DEC-049097-0-000-10-10-1960@@@
-
 Decreto nº 49.097, de 10 de outubro de 1960.
 
 Concede a Serviços Marítimos Camuyrano S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

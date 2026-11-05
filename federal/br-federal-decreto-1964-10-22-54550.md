@@ -1,5 +1,3 @@
-###DEC-054550-0-000-22-10-1964@@@
-
 DECRETO Nº 54.550, DE 22 DE OUTUBRO DE 1964.
 
 Autoriza Francisco Vieira Caixeta, a comprar pedras preciosas.

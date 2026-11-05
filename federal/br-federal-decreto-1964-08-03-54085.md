@@ -1,5 +1,3 @@
-###DEC-054085-0-000-03-08-1964@@@
-
 DECRETO Nº 54.085, De 3 De Agôsto De 1964.
 
 Retifica quadro de pessoal do Ministério da Agricultura e dá outras providências.

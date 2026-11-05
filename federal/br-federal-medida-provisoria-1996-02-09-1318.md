@@ -1,7 +1,3 @@
-1
-
-###MPV-001318-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.318, DE 9 DE FEVEREIRO DE 1996.
 
 Acresce parágrafo ao art. 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitação e contratos da Administração Pública e dá outras providências.

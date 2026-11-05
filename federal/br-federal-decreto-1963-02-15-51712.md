@@ -1,5 +1,3 @@
-###DEC-051712-0-000-15-02-1963@@@
-
 DECRETO Nº 51.712, DE 15 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia da Cidade de Maceió, com sede em Maceió, Estado de Alagoas.

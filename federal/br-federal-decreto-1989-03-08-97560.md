@@ -1,7 +1,3 @@
-1
-
-###DEC-097560-0-000-08-03-1989@@@
-
 # DECRETO N° 97.560, DE 8 DE MARÇO DE 1989
 
 Promulga o Acordo que define procedimentos para a restituição de veículos roubados ou furtados, no Brasil ou no Paraguai, e localizados no território da outra Parte, celebrado entre os Governos da República Federativa do Brasil e da República do Paraguai.

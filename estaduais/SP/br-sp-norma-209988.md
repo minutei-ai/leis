@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209988)<br>
-
 # DECRETO N° 68.873, DE 14 DE SETEMBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as faixas de terra necessárias à implantação de rede coletora de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro Aricanduva, no Município de São Paulo, e dá providências correlatas._

@@ -1,6 +1,10 @@
 > **LEI Nº 4.367, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a regulamentação do art. 75 da Lei Complementar nº 39, de 29 de dezembro de 1993, e revoga a Lei nº 1.199, de 12 de julho de 1996.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a regulamentação do art. 75 da Lei Complementar nº 39, de 29 de dezembro de 1993, e revoga a Lei nº 1.199, de 12 de julho de 1996.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -29,8 +33,6 @@
 **I -** dos adicionais de insalubridade e periculosidade;
 
 **II -** dos adicionais de insalubridade e periculosidade regidos por esta Lei e de vantagens que remunerem ou indenizem o exercício de atribuições insalubres ou perigosas próprias do cargo.
-
-<br>
 
 **Parágrafo único.** O servidor que fizer jus, ao mesmo tempo, ao adicional de insalubridade e ao adicional de periculosidade regidos por esta Lei, deve perceber percentual único, de acordo com critérios definidos em Decreto.
 

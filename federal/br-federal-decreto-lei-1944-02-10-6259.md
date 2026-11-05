@@ -1,5 +1,3 @@
-###DEL-006259-0-000-10-02-1944@@@
-
 DECRETO-LEI N. 6.259 – DE 10 DE FEVEREIRO DE 1944
 
 Dispõe sôbre o serviço de loterias, e dá outras providências

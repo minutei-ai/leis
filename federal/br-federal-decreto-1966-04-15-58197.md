@@ -1,5 +1,3 @@
-###DEC-058197-0-000-15-04-1966@@@
-
 DECRETO Nº 58.197, DE 15 DE ABRIL DE 1966.
 
 Regulamenta a criação e funcionamento das Cooperativas Integrais de Reforma Agrária - CIRA - instituídas pelo art. 79 (Seção V do Capítulo III do Título da Lei nº 4.504, de 30 de novembro de 1964 - Estatuto da Terra.

@@ -1,5 +1,3 @@
-###DEC-070648-0-000-29-05-1972@@@
-
 DECRETO Nº 70.648, DE 29 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento de disponível do Ministério da Fazenda no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

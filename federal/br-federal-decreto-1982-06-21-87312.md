@@ -1,5 +1,3 @@
-###DEC-087312-0-000-21-06-1982@@@
-
 Decreto Nº 87.312, de 21 de junho 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A.-CELESC, no Estado de Santa Catarina.

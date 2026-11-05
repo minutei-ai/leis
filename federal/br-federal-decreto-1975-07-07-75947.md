@@ -1,5 +1,3 @@
-###DEC-075947-0-000-07-07-1975@@@
-
 DECRETO Nº 75.947 - DE 7 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade "Auxilium" de Filosofia, Ciências e Letras, mantida pela Inspetoria Imaculada Auxiliadora, com sede na Cidade de Lins, Estado de São Paulo.

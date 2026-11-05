@@ -1,5 +1,3 @@
-###DEC-065469-0-000-21-10-1969@@@
-
 DECRETO Nº 65.469 - DE 21 DE OUTUBRO DE 1969.
 
 Dá nova redação a dispositivo do Regulamento aprovado pelo Decreto nº 42.251, de 1957 e alterado pelo Decreto nº 60.170-67.

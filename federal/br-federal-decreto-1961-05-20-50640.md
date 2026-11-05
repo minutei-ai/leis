@@ -1,5 +1,3 @@
-###DEC-050640-0-000-20-05-1961@@@
-
 DECRETO Nº 50.640, DE 20 DE MAIO DE 1961.
 
 Dispõe sôbre a aplicação da Lei número 1.081, de 13 de abril de 1950.

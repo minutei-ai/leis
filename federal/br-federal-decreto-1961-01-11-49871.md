@@ -1,5 +1,3 @@
-###DEC-049871-0-000-11-01-1961@@@
-
 DECRETO Nº 49.871, DE 11 DE JANEIRO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno no município de Santarém, Estado do Pará.

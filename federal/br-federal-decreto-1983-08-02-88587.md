@@ -1,5 +1,3 @@
-###DEC-088587-0-000-02-08-1983@@@
-
 Decreto nº 88.587, de 02 de AGOSTO de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estação de microondas de Barra Mansa e sua estrada de acesso, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

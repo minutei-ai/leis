@@ -1,5 +1,3 @@
-###DEC-048371-0-000-22-06-1960@@@
-
 DECRETO Nº 48.371, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Cesar Impiglia a pesquisar caulim no município de Itapecerica da Serra, Estado de São Paulo.

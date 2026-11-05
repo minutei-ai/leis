@@ -1,5 +1,3 @@
-###DEC-052633-0-000-08-10-1963@@@
-
 DECRETO Nº 52.633, DE 8 DE OUTUBRO DE 1963.
 
 Incorpora ao Departamento de Promoção Agropecuária o acervo e o pessoal da extinta Comissão de Desenvolvimento do Planalto de Ibiapaba.

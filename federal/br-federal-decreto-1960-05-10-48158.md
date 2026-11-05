@@ -1,5 +1,3 @@
-###DEC-048158-0-000-10-05-1960@@@
-
 DECRETO Nº 48.158, DE 10 DE MAIO DE 1960.
 
 Autoriza a Emprêsa de Mineração Taquaral Ltda., a pesquisar água mineral, no município de Uberaba, Estado de Minas Gerais.

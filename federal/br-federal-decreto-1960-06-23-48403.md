@@ -1,5 +1,3 @@
-###DEC-048403-0-000-23-06-1960@@@
-
 DECRETO Nº 48.403, DE 23 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro José Feliciano Baptista Netto, a lavrar mármore no município de Corumbá, Estado de Mato Grosso.

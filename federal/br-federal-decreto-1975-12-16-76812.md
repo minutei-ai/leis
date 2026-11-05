@@ -1,5 +1,3 @@
-###DEC-076812-0-000-16-12-1975@@@
-
 DECRETO Nº 76.812, DE 16 DE DEZEMBRO DE 1975.
 
 Transfere a sede da 4ª Companhia de Polícia do Exército, cria a 3ª Companhia de Guardas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096412-0-000-26-07-1988@@@
-
 DECRETO N° 96.412, DE 26 DE JULHO DE 1988
 
 Transfere a outorga concedida à RÁDIO ALVORADA LTDA. para executar serviço de radiodifusão sonora em onda média, na cidade de Monção (MA), para a Cidade de Zé Doca (MA)

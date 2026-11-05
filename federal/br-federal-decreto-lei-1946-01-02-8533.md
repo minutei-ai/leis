@@ -1,5 +1,3 @@
-###DEL-008533-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.533 – DE 2 DE JANEIRO DE 1946
 
 Subordina diretamente ao Ministro, sem aumento de despesa, a Biblioteca adstrita ao Departamento de Administração do Ministério da Educação e Saúde, e dá outras providências.

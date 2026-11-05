@@ -1,5 +1,3 @@
-###DEL-003119-0-000-17-03-1941@@@
-
 DECRETO-LEI N. 3.119 – DE 17 DE MARÇO DE 1941
 
 Declara vinculada ao Ministério da Viação a Comissão de Marinha Mercante

@@ -1,5 +1,3 @@
-###DEC-083538-0-000-04-06-1979@@@
-
 DECRETO Nº 83.538, DE 04 DE JUNHO DE 1979
 
 Cria, no Ministério da Aeronáutica, o 1º Esquadrão do Décimo Primeiro Grupo de Aviação e dá outras providências.

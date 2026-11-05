@@ -1,5 +1,3 @@
-###DEL-009691-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.691 – DE 2 DE SETEMBRO DE 1946
 
 Dispõe sôbre arrolamento e inventário do material do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

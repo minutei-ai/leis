@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/267f72d8-4272-41bc-8065-40dda9c41844/texto#nowhere)
 
-###DEL-001307-0-000-16-01-1974@@@
-
 # DECRETO-LEI Nº 1.307, DE 16 DE jANEIRO DE 1974
 
 Dispõe sobre a aplicação dos recursos derivados dos incentivos fiscais, deduzidos do Imposto de Renda, e dá outras providências.

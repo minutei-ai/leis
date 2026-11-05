@@ -1,5 +1,3 @@
-###DEC-047638-0-000-15-01-1960@@@
-
 decreto nº 47.638, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Francisco Pereira França Filho a pesquisar mica e quartzo no município de Santa Maria de Suaçuí, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-007749-0-000-17-07-1945@@@
-
 DECRETO-LEI N. 7.749 – DE 17 DE JULHO DE 1945
 
 Modifica a denominação e reestrutura a carreira de Médico Clínico, do Quadro Permanente do Ministério da Fazenda.

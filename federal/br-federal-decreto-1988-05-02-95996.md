@@ -1,5 +1,3 @@
-###DEC-095996-0-000-02-05-1988@@@
-
 DECRETO N° 95.996, DE 02 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO DANÚBIO AZUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Izabel do Oeste, Estado do Paraná.

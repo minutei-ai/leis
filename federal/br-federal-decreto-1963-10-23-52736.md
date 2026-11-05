@@ -1,5 +1,3 @@
-###DEC-052736-0-000-23-10-1963@@@
-
 Decreto Nº 52.736, DE 23 DE OUTUBRO DE 1963.
 
 Transfere da Emprêsa Hidrelétrica Nacional para a Prefeitura Municipal de Santa Rita de Jacutinga, concessão para produzir, transmitir e distribuir energia elétrica no município de Santa Rita de Jacutinga, Estado de Minas Gerais e no distrito de Santo Isabel do Rio Prêto, município de Valença, Estado do Rio de Janeiro.

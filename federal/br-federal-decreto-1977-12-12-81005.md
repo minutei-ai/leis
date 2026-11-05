@@ -1,5 +1,3 @@
-###DEC-081005-0-000-12-12-1977@@@
-
 DECRETO Nº 81.005, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à Construções e Comércio Camargo Corrêa S.A. o direito de lavrar calcário no Município de Apiaí, Estado de São Paulo.

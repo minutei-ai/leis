@@ -1,5 +1,3 @@
-###DEC-064383-0-000-22-04-1969@@@
-
 DECRETO Nº 64.383, DE 22 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação Bauru-Sul até a subestação da Centrais Elétricas de São Paulo S.A., no Município de Bauru, no Estado de São Paulo.

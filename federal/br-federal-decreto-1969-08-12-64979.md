@@ -1,5 +1,3 @@
-###DEC-064979-0-000-12-08-1969@@@
-
 DECRETO Nº 64.979 - DE 12 DE AGÔSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Conselho Nacional de Telecomunicações, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

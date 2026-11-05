@@ -1,7 +1,3 @@
-1
-
-###DEC-099167-0-000-13-03-1990@@@
-
 DECRETO Nº 99.167, DE 13 DE MARÇO DE 1990
 
 Regulamenta a Lei nº 7.976 de 27 de dezembro de 1989, que dispõe sobre o refi­nanciamento, pela União, da divida externa de responsabilidade dos Estados, do Distri­to Federal, dos Municípios e de suas enti­dades da administração indireta.

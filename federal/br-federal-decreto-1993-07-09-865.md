@@ -1,7 +1,3 @@
-1
-
-###DEC-000865-0-000-09-07-1993@@@
-
 DECRETO N° 865, DE 9 DE JULHO DE 1993
 
 Dá nova redação aos arts. 4º e 6º do Regulamento para o Quadro de Oficiais Temporários do Ministério da Aeronáutica, aprovado pelo Decreto nº 85.866, de 1º de abril de 1981.

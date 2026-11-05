@@ -1,7 +1,3 @@
-1
-
-###DEC-001080-0-000-08-03-1994@@@
-
 # DECRETO N° 1.080, DE 8 DE MARÇO DE 1994
 
 Regulamenta o Fundo Especial para Calamidades Públicas (Funcap) e dá outras providências.

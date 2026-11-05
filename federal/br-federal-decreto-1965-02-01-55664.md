@@ -1,5 +1,3 @@
-###DEC-055664-0-000-01-02-1965@@@
-
 DECRETO Nº 55.664, DE 1º DE FEVEREIRO DE 1965.
 
 Concede reconhecimento a curso do Conservatório Musical “Mãe de Deus”, de Londrina, Estado do Paraná.

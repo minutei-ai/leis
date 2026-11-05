@@ -1,5 +1,3 @@
-###DEC-051933-B-000-26-04-1963@@@
-
 Decreto nº 51.933-B, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Ayres Ramos de Castro, a comprar pedras preciosas.

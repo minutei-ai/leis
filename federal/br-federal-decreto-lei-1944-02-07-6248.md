@@ -1,5 +1,3 @@
-###DEL-006248-0-000-07-02-1944@@@
-
 DECRETO-LEI N. 6.248 – DE 7 DE FEVEREIRO DE 1944
 
 Dispõe sôbre a gratificação de função na concessão de licença

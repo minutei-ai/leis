@@ -1,5 +1,3 @@
-###DEC-044963-0-000-01-12-1958@@@
-
 DECRETO Nº 44.963, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Lourival Pinheiro Ferreira a pesquisar minério de ouro no município de Itaiatuba, Estado do Pará.

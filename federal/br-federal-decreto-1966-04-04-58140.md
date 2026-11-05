@@ -1,5 +1,3 @@
-###DEC-058140-0-000-04-04-1966@@@
-
 Decreto Nº 58.140, DE 4 DE ABRIL DE 1966.
 
 Declara de utilidade pública, a “Associação dos Cegos de Juiz de Fora”, com sede em Juiz de Fora, Estado de Minas Gerais.

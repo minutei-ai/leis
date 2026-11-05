@@ -1,5 +1,3 @@
-###DEC-073085-0-000-06-11-1973@@@
-
 DECRETO Nº 73.085 - DE 6 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de Sergipe.

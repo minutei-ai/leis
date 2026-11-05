@@ -1,5 +1,3 @@
-###DEC-046293-0-000-29-06-1959@@@
-
 Decreto nº 46.293, de 29 de junho de 1959.
 
 Concede à Corrêa & Pereira Ltda., autorização para funcionar como emprêsa de mineração.

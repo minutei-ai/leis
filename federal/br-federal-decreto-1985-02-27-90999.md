@@ -1,5 +1,3 @@
-###DEC-090999-0-000-27-02-1985@@@
-
 DECRETO Nº 90.999, DE 27 DE FEVEREIRO DE 1985.
 
 Altera o Decreto nº 88.810, de 4 de outubro de 1983, que dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Seberi, Estado do Rio Grande do Sul.

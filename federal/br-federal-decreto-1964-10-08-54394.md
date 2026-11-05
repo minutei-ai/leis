@@ -1,5 +1,3 @@
-###DEC-054394-0-000-08-10-1964@@@
-
 DECRETO Nº 54.394, DE 8 DE OUTUBRO DE 1964.
 
 Autoriza o Departamento Nacional de Obras Contras as Sêcas, a instalar uma usina hidrelétrica, no açude Boqueirão de Cabaceiras, Estado da Paraíba.

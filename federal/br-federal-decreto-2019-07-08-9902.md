@@ -26,7 +26,8 @@ III - uma unidade da amostra para a análise de desempate ou perícia de desempa
 
 § 1º O disposto no caput não se aplica aos casos em que a constituição das três unidades para fins de amostra inviabilize, prejudique ou seja desnecessária para a realização da análise do produto ou bebida.
 
-§ 2º Ato do Ministro de Estado da Agricultura, Pecuária e Abastecimento estabelecerá os critérios para a definição da necessidade de constituição de três unidades para fins de amostra.<br>
+§ 2º Ato do Ministro de Estado da Agricultura, Pecuária e Abastecimento estabelecerá os critérios para a definição da necessidade de constituição de três unidades para fins de amostra.
+
      § 3º O disposto neste artigo não se aplica à análise de que trata o art. 93." (NR)
 
 "Art. 96. O interessado que não concordar com o resultado da análise de fiscalização poderá requerer análise pericial ou perícia de contraprova, exceto na hipótese de que trata o § 1º do art. 92.

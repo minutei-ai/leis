@@ -1,5 +1,3 @@
-###DEC-056948-0-000-01-10-1965@@@
-
 DECRETO Nº 56.948, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Sinésio Borges a pesquisar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

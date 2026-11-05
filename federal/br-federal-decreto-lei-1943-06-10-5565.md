@@ -1,5 +1,3 @@
-###DEL-005565-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5.565 – DE 10 JUNHO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cru­zeiros 150.000,00, à verba que especifica

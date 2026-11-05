@@ -1,5 +1,3 @@
-###DEL-001513-0-000-29-12-1976@@@
-
 # DECRETO-LEI Nº 1.513, DE 29 DE DEZEMBRO DE 1976
 
 Dispõe sobre a incidência do Empréstimo Compulsório em favor da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

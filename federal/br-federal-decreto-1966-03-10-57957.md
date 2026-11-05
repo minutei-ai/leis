@@ -1,5 +1,3 @@
-###DEC-057957-0-000-10-03-1966@@@
-
 DECRETO Nº 57.957, de 10 de março de 1966.
 
 Concede a Macedo & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

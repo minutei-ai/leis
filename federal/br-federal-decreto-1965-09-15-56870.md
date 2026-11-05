@@ -1,5 +1,3 @@
-###DEC-056870-0-000-15-09-1965@@@
-
 DECRETO Nº 56.870, DE 15 De SETEMBRO DE 1965.
 
 Concede reconhecimento aos cursos da Escola de Sociologia e Política da Pontifícia Universidade Católica do Rio de Janeiro.

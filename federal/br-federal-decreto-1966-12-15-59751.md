@@ -1,5 +1,3 @@
-###DEC-059751-0-000-15-12-1966@@@
-
 DECRETO N° 59.751, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza Mineralite S. A., Mineração, Exportação e Importação a lavrar feldspato, no município de São Luiz de Paraitinga, no Estado de São Paulo.

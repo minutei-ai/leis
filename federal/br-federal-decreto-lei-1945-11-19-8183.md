@@ -1,5 +1,3 @@
-###DEL-008183-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.183 – DE 19 DE NOVEMBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 179.250,00, para despesas com a, Delegação do Brasil à Conferência Técnica Preparatória sôbre questões marítimas.

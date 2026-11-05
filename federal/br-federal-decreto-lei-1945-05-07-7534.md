@@ -1,5 +1,3 @@
-###DEL-007534-0-000-07-05-1945@@@
-
 DECRETO-LEI 7.534 – DE 7 DE MAIO DE 1945
 
 Suprime a cota especial incidente nos algodões da safra de 1941-42, e fixa em trinta centavos, por quilo, a que incide nos algodões da safra de 1942-43

@@ -1,5 +1,3 @@
-###DEC-007735-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N° 7.735, DE 25 DE MAIO DE 2012
 
 Fixa os quantitativos por níveis das Funções Comissionadas do Banco Central, de que trata a Lei n° 9.650, de 27 de maio de 1998.

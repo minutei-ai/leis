@@ -1,7 +1,3 @@
-1
-
-###DEC-098828-0-000-15-01-1990@@@
-
 DECRETO N° 98.828, DE 15 DE JANEIRO DE 1990
 
 Homologa a demarcação da terra indígena, que menciona, no Estado da Bahia

@@ -1,5 +1,3 @@
-###DEC-069019-0-000-04-08-1971@@@
-
 DECRETO Nº 69.019, DE 4 DE AGÔSTO DE 1971.
 
 Autorização para funcionamento da Escola de Educação Física do Instituto Pôrto Alegre - IPA - com os cursos de Licenciatura e Técnica Desportiva, RGS.

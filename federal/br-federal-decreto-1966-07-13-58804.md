@@ -1,5 +1,3 @@
-###DEC-058804-0-000-13-07-1966@@@
-
 decreto nº 58.804, de 13 de julho de 1966.
 
 inclui funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Viação e Obras Públicas.

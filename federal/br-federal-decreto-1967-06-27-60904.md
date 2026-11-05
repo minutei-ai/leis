@@ -1,5 +1,3 @@
-###DEC-060904-0-000-27-06-1967@@@
-
 Decreto nº 60.904, de 27 de junho de 1967.
 
 Declara de utilidade pública o “Instituto Regional de Desenvolvimento do Amapá”, com sede na Cidade de Macapá, Território Federal do Amapá.
@@ -15,8 +13,6 @@ Brasília, 27 de junho de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Luís Antônio da Gama e Silva
-
-###DEC-060904-0-000-27-06-1967@@@RET01+++
 
 DECRETO Nº 60.904, DE 27 DE JUNHO DE 1967.
 

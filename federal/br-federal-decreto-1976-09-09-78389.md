@@ -1,5 +1,3 @@
-###DEC-078389-0-000-09-09-1976@@@
-
 Decreto nº 78.389, de 9 de setembro de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

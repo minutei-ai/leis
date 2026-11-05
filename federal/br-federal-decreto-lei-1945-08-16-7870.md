@@ -1,5 +1,3 @@
-###DEL-007870-0-000-16-08-1945@@@
-
 DECRETO-LEI N. 7.870 – DE 16 DE AGÔSTO DE 1945
 
 Concede à Caixa de Crédito Cooperativo, isenção de tributos federais, estaduais e municipais e dá outras providências.

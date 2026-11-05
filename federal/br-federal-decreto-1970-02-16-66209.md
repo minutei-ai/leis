@@ -1,5 +1,3 @@
-###DEC-066209-0-000-16-02-1970@@@
-
 DECREtO Nº 66.209 - DE 16 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a "Prelazia de Parintins", com sede em Parintins, Estado do Amazonas.

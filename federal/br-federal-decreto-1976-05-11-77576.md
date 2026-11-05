@@ -1,5 +1,3 @@
-###DEC-077576-0-000-11-05-1976@@@
-
 DECRETO Nº 77.576, DE 11 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação, Ciências e Letras Notre Dame, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -12,8 +12,10 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogando-se as
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de Junho do ano de 2011.
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal
 
-Eli de Faria<br>
+Eli de Faria
+
 Secretário Executivo

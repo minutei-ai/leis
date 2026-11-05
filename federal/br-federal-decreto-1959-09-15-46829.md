@@ -1,5 +1,3 @@
-###DEC-046829-0-000-15-09-1959@@@
-
 DECRETO Nº 46.829, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Carlos Kampmann a pesquisar minério de ferro no município de Tijucas do Sul, Estado do Paraná.

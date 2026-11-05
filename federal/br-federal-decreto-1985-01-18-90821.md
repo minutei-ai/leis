@@ -1,5 +1,3 @@
-###DEC-090821-0-000-18-01-1985@@@
-
 DECRETO Nº 90.821, DE 18 DE JANEIRO DE 1985
 
 Autoriza o funcionamento do curso de Administração das Faculdades Associadas do Ipiranga.

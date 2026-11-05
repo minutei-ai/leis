@@ -1,4 +1,5 @@
-DECRETO Nº 950, DE 24 DE FEVEREIRO DE 2025<br>
+DECRETO Nº 950, DE 24 DE FEVEREIRO DE 2025
+
 (Revogado pelo Decreto nº 2.037, de 25 de agosto de 2025).
 
 ~~Dispõe sobre o remembramento e desmembramento de imóveis no Município de Aparecida de Goiânia.~~
@@ -21,7 +22,8 @@ DECRETO Nº 950, DE 24 DE FEVEREIRO DE 2025<br>
 
  
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO ÚNICO~~

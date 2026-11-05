@@ -1,5 +1,3 @@
-###DEC-074607-0-000-25-09-1974@@@
-
 DECRETO Nº 74.607, DE 25 DE SETEMBRO DE 1974.
 
 Dispõe sobre a criação do Programa de Pólos Agropecuárias e Agrominerais da Amazônia (POLAMAZÔNIA).

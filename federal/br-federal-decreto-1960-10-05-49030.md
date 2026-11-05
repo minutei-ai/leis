@@ -1,5 +1,3 @@
-###DEC-049030-0-000-05-10-1960@@@
-
 DECRETO Nº 49.030, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza a Cia. Química Industrial “CIL” a lavrar calcário e baritina no município de Guapiára, Estado de São Paulo.

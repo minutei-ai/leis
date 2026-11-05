@@ -1,5 +1,3 @@
-###DEL-004410-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.410 – DE 25 DE JUNHO DE 1942
 
 Cria, em Belo Horizonte, um Gabinete do Laboratório da Produção Mineral do Departamento Nacional da Produção Mineral, do Ministério da Agricultura.

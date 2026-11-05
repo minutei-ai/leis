@@ -1,5 +1,3 @@
-###DEC-086643-0-000-24-11-1981@@@
-
 Decreto nº 86.643, de 24 de novembro de 1981
 
 Concede indulto, reduz penas, e dá outras providências.

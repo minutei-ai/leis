@@ -1,5 +1,3 @@
-###DEC-090139-0-000-31-08-1984@@@
-
 DECRETO nº 90.139, de 31 de agosto de 1984
 
 Autoriza o funcionamento do curso de Nutrição da Associação Salgado de Oliveira de Educação e Cultura.

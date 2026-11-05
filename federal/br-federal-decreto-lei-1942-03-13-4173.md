@@ -1,5 +1,3 @@
-###DEL-004173-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.173 – DE 13 DE MARÇO DE 1942
 
 Dispõe sobre a utilização de créditos abertos aos Ministérios Militares.

@@ -1,5 +1,3 @@
-###DEC-064028-0-000-27-01-1969@@@
-
 Decreto nº 64.028, de 27 de janeiro de 1969.
 
 Transfere cargos da extinta Comissão do Vale do São Francisco para o Ministério da Agricultura.

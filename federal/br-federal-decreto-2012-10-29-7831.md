@@ -1,5 +1,3 @@
-###DEC-007831-0-000-29-10-2012-REJ-01@@@
-
 DECRETO Nº 7.831, DE 29 DE OUTUBRO DE 2012
 
 Dispõe sobre a execução do Septuagésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (70PAACE2), assinado entre a República Federativa do Brasil e a República Oriental do Uruguai.

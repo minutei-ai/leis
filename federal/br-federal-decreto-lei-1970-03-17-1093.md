@@ -1,5 +1,3 @@
-###DEL-001093-0-000-17-03-1970@@@
-
 # Decreto-lei nº 1.093, de 17 de março de 1970
 
 Dá nova redação ao artigo 43 do Decreto-lei nº 200, de 25 de fevereiro de 1967, alterado pelo Decreto-lei nº 900, de 29 de setembro de 1969.

@@ -1,5 +1,3 @@
-###DEC-085430-0-000-01-12-1980@@@
-
 DECRETO Nº 85.430, 01 DE DEZEMBRO DE 1980.
 
 Dá nova redação a dispositivos do Decreto nº 83.527, de 30 de maio de 1979, que regulamenta a Lei nº 6.592, de 17 de novembro de 1978, que concede amparo aos ex-combatentes julgados incapazes definitivamente para o serviço militar.

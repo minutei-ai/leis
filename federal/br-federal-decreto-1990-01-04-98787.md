@@ -1,7 +1,3 @@
-1
-
-###DEC-098787-0-000-04-01-1990@@@
-
 DECRETO Nº 98.787, DE 4 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Vigésimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 (Acordo nº 1), entre o Brasil e a Argentina.

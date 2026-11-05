@@ -1,7 +1,3 @@
-1
-
-###DEC-097504-0-000-10-02-1989@@@
-
 # DECRETO Nº 97.504, DE 10 DE FEVEREIRO DE 1989
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Fisioterapia de Patrocínio.

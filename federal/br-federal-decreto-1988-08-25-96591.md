@@ -1,5 +1,3 @@
-###DEC-096591-0-000-25-08-1988@@@
-
 DECRETO N° 96.591, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO ELDORADO DE NATAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Natal, Estado do Rio Grande do Norte.

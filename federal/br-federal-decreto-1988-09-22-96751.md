@@ -1,5 +1,3 @@
-###DEC-096751-0-000-22-09-1988@@@
-
 DECRETO N° 96.751, DE 22 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO BOM CONSELHO LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Bom Conselho, Estado de Pernambuco.

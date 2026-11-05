@@ -1,5 +1,3 @@
-###DEC-047949-0-000-18-03-1960@@@
-
 Decreto nº 47.949, de 18 de março de 1960.
 
 Considera de interêsse militar as funções exercidas na SUDENE por Oficiais do Exército, Engenheiros Militares.

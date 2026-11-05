@@ -1,5 +1,3 @@
-###DEC-074332-0-000-29-07-1974@@@
-
 DECRETO Nº 74.332 - DE 29 DE JULHO DE 1974.
 
 Dá nova redação a dispositivos do Decreto nº 60.076, de 16 de janeiro de 1967, que regulamenta o Decreto-lei nº 18, de 24 de agosto de 1966, alterado pelos Decreto-lei nº 78, de 8 de dezembro de 1966, e Lei número 5.929, de 30 de outubro de 1973, que dispõe sobre o exercício da profissão de aeronauta.

@@ -1,5 +1,3 @@
-###DEC-054713-0-000-29-10-1964@@@
-
 DECRETO Nº 54.713, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Djahy Farina Romero a pesquisar caulim no município de Magé, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-061181-A-000-21-08-1967@@@
-
 DECRETO Nº 61.181A, DE 21 DE AGôSTO DE 1967.
 
 Declara caduco o Decreto nº 34.472, de 4 de novembro de 1953.

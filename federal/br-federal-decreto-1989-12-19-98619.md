@@ -1,7 +1,3 @@
-1
-
-###DEC-098619-0-000-19-12-1989@@@
-
 DECRETO N° 98.619, DE 19 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública a CASA DA CRIANÇA IRMÃ ÂNGELA e outras entidades.

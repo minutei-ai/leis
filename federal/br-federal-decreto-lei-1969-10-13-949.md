@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/92b2af86-edbb-4ebc-b963-9678b53a386c/texto#nowhere)
 
-###DEL-000949-0-000-13-10-1969@@@
-
 Decreto-lei nº 949, de 13 de outubro de 1969
 
 Dispõe sôbre aplicações de recursos pelo BNH nas operações de financiamento para Saneamento e dá outras providências.

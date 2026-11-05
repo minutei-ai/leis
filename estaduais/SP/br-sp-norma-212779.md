@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212779)<br>
-
 # DECRETO N° 70.709, DE 22 DE JUNHO DE 2026
 
 ### _Regulamenta a Lei n° 18.368, de 15 de dezembro de 2025, que dispõe sobre a execução e a organização do Sistema Único de Assistência Social no Estado de São Paulo._
@@ -8,10 +6,12 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Proteção Social e Gestão do Sistema Único de Assistência Social
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** A Política de Assistência Social no Estado de São Paulo será organizada, coordenada e gerida pelo Poder Executivo, por meio da Secretaria de Desenvolvimento Social, em articulação com os municípios, observados os princípios da descentralização político-administrativa, da cooperação federativa e do comando único em cada esfera de governo.
@@ -42,7 +42,8 @@ XI - coordenar a vigilância socioassistencial, em âmbito estadual, para a prod
 
 XII - coordenar, apoiar tecnicamente e monitorar a gestão do Cadastro Único e dos sistemas de informação socioassistenciais, promovendo a capacitação dos Municípios e a análise qualificada dos dados, sendo de responsabilidade municipal o cadastramento e a atualização das informações dos usuários.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Ofertas Socioassistenciais
 
 **Artigo 3° -** A proteção social no âmbito do SUAS será organizada pela Secretaria de Desenvolvimento Social conforme as seguintes ofertas:
@@ -101,7 +102,8 @@ III - promover a articulação dos programas e projetos com os serviços e benef
 
 **Artigo 9° -** A Secretaria de Desenvolvimento Social apoiará a articulação dos programas voltados à pessoa idosa e à pessoa com deficiência com o Benefício de Prestação Continuada - BPC, de modo a assegurar proteção social integrada e ampliação do acesso a direitos.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Unidades de Referência de Assistência Social
 
 **Artigo 10 -** O Centro de Referência de Assistência Social - CRAS é a unidade pública municipal localizada preferencialmente em territórios com maiores índices de vulnerabilidade, desproteção social e risco social, destinada à proteção social básica e à promoção da atenção direta ao indivíduo e sua família e exerce, principalmente, as seguintes funções:
@@ -118,15 +120,18 @@ II - oferta do Serviço de Proteção e Atendimento Integral à Família - PAIF.
 
 **Parágrafo único -** O Centro POP tem por finalidade promover a articulação intersetorial da rede socioassistencial com as demais políticas públicas e serviços essenciais, assegurando atenção especializada e continuada à população em situação de rua.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Gestão do SUAS
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Da Abrangência da Gestão
 
 **Artigo 13 -** A gestão do SUAS compreende o conjunto de funções essenciais e articuladas destinadas a assegurar a organização, a coordenação, o planejamento e a execução da vigilância socioassistencial, a gestão financeira e orçamentária, a regulação do SUAS, a gestão do trabalho e a educação permanente, o controle e a participação social, o monitoramento e a avaliação.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Vigilância Socioassistencial
 
 **Artigo 14 -** A vigilância socioassistencial, uma função da política de assistência social, tem por objetivo produzir, sistematizar, analisar e disseminar informações sobre padrões de qualidade das ofertas de serviços socioassistenciais, a cobertura das demandas e a identificação de situações de risco e vulnerabilidade social, de famílias, indivíduos e de situações agravadas em razão de circunstâncias de vida no território.
@@ -153,7 +158,8 @@ IV - disseminar informações e conhecimentos produzidos, de forma acessível e 
 
 **Artigo 16 -** O PMASweb constitui sistema oficial estadual de registro, consolidação, consulta e disponibilização de informações relativas aos Planos Municipais de Assistência Social, destinado a subsidiar o planejamento, o monitoramento, a vigilância socioassistencial, o cofinanciamento e o controle social da política de assistência social.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Da Gestão do Trabalho
 
 **Artigo 17 -** A gestão do trabalho no SUAS compreende o planejamento, a organização e a execução de ações voltadas à valorização do trabalhador e à estruturação dos processos de trabalho institucional, em cada esfera de governo.
@@ -190,7 +196,8 @@ Da Gestão do Trabalho
 
 **Artigo 18 -** As iniciativas do âmbito da gestão do trabalho destinam-se ao aprimoramento das ofertas e da gestão da assistência social, desenvolvidas pelos trabalhadores estaduais e municipais, devendo contemplar a da rede direta e indireta.
 
-#### SUBSEÇÃO IV<br>
+#### SUBSEÇÃO IV
+
 Da Educação Permanente
 
 **Artigo 19 -** Entende-se por educação permanente, para os fins deste decreto, o conjunto articulado de ações educativas, formativas, reflexivas e organizativas, desenvolvidas de forma coletiva pela gestão pública, orientadas ao desenvolvimento de competências, capacidades e habilidades das equipes profissionais e ao aprendizado contínuo dos trabalhadores.
@@ -223,15 +230,18 @@ V - as contribuições dos trabalhadores, gestores, instâncias de pactuação e
 
 **Parágrafo único -** Os eixos, diretrizes, princípios, prioridades, instrumentos, metodologias, critérios, bem como os mecanismos de monitoramento e avaliação da gestão do trabalho e da educação permanente no âmbito do SUAS no Estado de São Paulo serão definidos por meio de resolução específica.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Conselho Estadual de Assistência Social - CONSEAS
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Natureza, da Vinculação e da Finalidade do CONSEAS
 
 **Artigo 25 -** O Conselho Estadual de Assistência Social de São Paulo - CONSEAS é órgão colegiado, de caráter permanente, deliberativo e paritário entre poder público e sociedade civil, vinculado à Secretaria de Desenvolvimento Social, com a finalidade de formular, acompanhar, avaliar e controlar a política estadual de assistência social, em conformidade com o Sistema Único de Assistência Social.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Composição
 
 **Artigo 26 -** O CONSEAS será composto por 18 (dezoito) membros titulares e seus respectivos suplentes, nomeados pelo Governador do Estado, observada a seguinte composição:
@@ -286,7 +296,8 @@ c) sindicatos de trabalhadores da política de assistência social.
 
 **Parágrafo único -** A base territorial e a composição social das organizações legalmente constituídas a que se referem os incisos II, III e IV deste artigo devem constar no respectivo estatuto social.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Processo de Eleição dos Representantes da Sociedade Civil
 
 **Artigo 27 -** Os representantes da sociedade civil, titulares e suplentes, serão eleitos em processo conduzido pelo CONSEAS, por meio de procedimento definido em ato próprio, preferencialmente realizado por meio eletrônico, assegurada ampla participação, ficando o mandato vinculado à organização que representam.
@@ -301,12 +312,14 @@ III - organizações de Trabalhadores do SUAS.
 
 **Parágrafo único -** O processo de eleição deverá observar critérios de transparência, publicidade, representatividade, alternância e igualdade de participação, e será regulamentado por ato do CONSEAS.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Vedações
 
 **Artigo 29 -** O conselheiro que já tenha sido reconduzido uma vez não poderá retornar ao CONSEAS em mandato subsequente, mesmo que representando outro segmento, órgão governamental ou qualquer outra representação.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Dos Requisitos, dos Impedimentos, da Perda de Mandato e da Vacância
 
 **Artigo 30 -** São requisitos para ser conselheiro titular ou suplente do CONSEAS:
@@ -359,10 +372,12 @@ III - perda do mandato.
 
 **Parágrafo único -** Ocorrendo a vacância do mandato de conselheiro titular, o respectivo suplente assumirá automaticamente a titularidade pelo período remanescente do mandato.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Da Estrutura do CONSEAS
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Disposições Gerais
 
 **Artigo 35 -** O CONSEAS possui a seguinte estrutura:
@@ -375,14 +390,16 @@ III - Secretaria Executiva.
 
 **Artigo 36 -** A sessão do Conselho será instalada com a presença da maioria absoluta dos seus membros.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Presidência
 
 **Artigo 37 -** O CONSEAS será presidido por um de seus membros, eleito dentre seus integrantes, para mandato de 1 (um) ano, permitida uma única recondução.
 
 **Parágrafo único -** Fica assegurada a alternância entre representantes do poder público e da sociedade civil na Presidência do CONSEAS.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Da Mesa Diretora
 
 **Artigo 38 -** A Mesa Diretora do CONSEAS será eleita anualmente, dentre seus membros titulares, em sessão em que esteja presente a maioria de seus membros.
@@ -391,7 +408,8 @@ Da Mesa Diretora
 
 **Artigo 40 -** Fica assegurada a alternância, a cada mandato, entre representantes do poder público e da sociedade civil no exercício de todas as funções da Mesa Diretora.
 
-#### SUBSEÇÃO IV<br>
+#### SUBSEÇÃO IV
+
 Da Secretaria Executiva
 
 **Artigo 41 -** O CONSEAS contará com uma Secretaria Executiva, responsável pelo apoio ao funcionamento do Conselho.
@@ -418,7 +436,8 @@ VIII - apoiar o planejamento das atividades do Conselho, incluindo o planejament
 
 IX - exercer outras atribuições correlatas necessárias ao adequado funcionamento do CONSEAS, conforme disposto em seu Regimento Interno ou por deliberação do Plenário.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Das Competências, Comissões de Trabalho e Funcionamento do CONSEAS
 
 **Artigo 43 -** Compete ao CONSEAS, nos termos do artigo 21 da [Lei n° 18.368, de 15 de dezembro de 2025](https://www.al.sp.gov.br/norma/212016), e observadas as normas do SUAS:
@@ -475,7 +494,8 @@ XIV - promover o processo de escolha dos representantes da sociedade civil no CO
 
 **§ 6° -** A participação de ouvintes e o uso da palavra observarão os critérios e procedimentos definidos no Regimento Interno do CONSEAS.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Dos Deveres do Conselheiro
 
 **Artigo 47 -** O conselheiro do CONSEAS exerce função pública relevante, não remunerada e equiparada, para fins legais, ao exercício de função pública, sendo responsável por seus atos e omissões.
@@ -492,7 +512,8 @@ IV - preservar o sigilo de informações quando exigido;
 
 V - declarar conflitos de interesse.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Comissão Intergestores Bipartite – CIB/SP
 
 **Artigo 49 -** A Comissão Intergestores Bipartite do Estado de São Paulo - CIB/SP é instância de negociação e pactuação entre o Estado e os Municípios, no âmbito do SUAS, quanto aos aspectos operacionais da Política de Assistência Social.
@@ -571,10 +592,12 @@ III - Câmara Técnica.
 
 **§ 3° -** As deliberações da CIB/SP observarão o disposto em seu Regimento Interno.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Financiamento
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 54 -** Fica a Secretaria de Desenvolvimento Social autorizada a efetuar a execução financeira dos recursos financeiros consignados no Fundo Estadual de Assistência Social - FEAS, nos termos da legislação de regência, para pessoa física ou jurídica de direito público ou privado nacional ou internacional, na seguinte conformidade:
@@ -613,7 +636,8 @@ X - contribuições voluntárias;
 
 XI - outros recursos que lhe forem destinados por lei.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Sistema de Transferência Fundo A Fundo
 
 **Artigo 56 -** Para fins de liberação dos recursos do FEAS, os Municípios beneficiários deverão comprovar a efetiva instituição e funcionamento de:
@@ -630,7 +654,8 @@ III - Plano de Assistência Social, aprovado pelo respectivo Conselho de Assist�
 
 **Artigo 57 -** Os planos municipais têm ciclo de planejamento quadrienal com atualização anual e os prazos para registro das informações contidas nestes instrumentos no sistema PMASweb deverão ser pactuados pela CIB/SP.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Critérios de Cofinanciamento
 
 **Artigo 58 -** Os critérios técnicos e regras de proteção da distribuição e repasse dos recursos do FEAS aos fundos municipais serão regulamentados em ato da Secretaria de Desenvolvimento Social e submetido à deliberação pelo CONSEAS e à pactuação pela CIB/SP.
@@ -641,7 +666,8 @@ Dos Critérios de Cofinanciamento
 
 **Artigo 61 -** Os critérios de cofinanciamento e os mecanismos de ajuste serão objeto de monitoramento contínuo pela Secretaria de Desenvolvimento Social.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Utilização dos Recursos
 
 **Artigo 62 -** Os recursos transferidos aos municípios destinam-se ao financiamento total ou parcial dos seguintes blocos de financiamento:
@@ -690,7 +716,8 @@ X - o monitoramento de sua rede socioassistencial.
 
 **Artigo 69 -** Os recursos financeiros repassados para proteção básica e especial pelo FEAS podem ser utilizados para custeio e investimento, cujos critérios de repasse, pactuados pela CIB e aprovados pelo CONSEAS, serão estabelecidos por Resolução a ser editada pelo Secretário de Desenvolvimento Social.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Monitoramento, Fiscalização e Avaliação
 
 **Artigo 70 -** Compete à Secretaria de Desenvolvimento Social coordenar, monitorar e avaliar a aplicação dos recursos do FEAS repassados aos FMAS, acompanhar a execução das ações cofinanciadas, solicitar diretamente aos municípios informações e documentos necessários para o desempenho destas atividades.
@@ -701,14 +728,16 @@ Do Monitoramento, Fiscalização e Avaliação
 
 **Artigo 73 -** O monitoramento, fiscalização e avaliação da aplicação dos recursos do FEAS repassados aos FMAS será realizado por meio de indicadores e diretrizes como aquelas estabelecidas pelo Plano Plurianual - PPA e pelo PEAS, e poderão ser realizados de forma descentralizada pelas unidades regionais da Secretaria de Desenvolvimento Social.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Da Reprogramação
 
 **Artigo 74 -** O saldo dos recursos financeiros repassados pelo FEAS aos FMAS poderá ser reprogramado para utilização no exercício subsequente, no mesmo bloco de financiamento, condicionada a execução das ofertas planejadas e registradas no PMASWEB, mediante aprovação do respectivo CMAS e parecer do gestor estadual, no âmbito de cada bloco de financiamento.
 
 **Parágrafo único -** Os prazos, procedimentos e fluxos para análise, aprovação, registro e operacionalização da reprogramação serão definidos em ato da Secretaria de Desenvolvimento Social.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Da Prestação de Contas
 
 **Artigo 75 -** A prestação de contas dos recursos financeiros advindos do FEAS deve ser realizada por meio de sistema eletrônico, instituído por ato da Secretaria de Desenvolvimento Social, integrado ao sistema PMASweb.
@@ -765,7 +794,8 @@ VIII - em caso de desistência na utilização do recurso em razão da não part
 
 **Artigo 80 -** A veracidade das informações lançadas eletronicamente em sistema disponibilizado para prestação de contas é de responsabilidade de seus declarantes, que deverão manter arquivados em boa ordem e conservação, pelo prazo exigido pela legislação vigente para fins de fiscalização, auditoria, monitoramento e controle, os documentos comprobatórios das despesas realizadas com recursos do FEAS, devidamente identificados e à disposição da Secretaria de Desenvolvimento Social e dos órgãos de monitoramento e controle interno e externo.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 81 -** Este decreto e sua disposição transitória entram em vigor na data de sua publicação, ficando revogadas as disposições em contrário, em especial o [Decreto n° 40.743, de 29 de março de 1996](https://www.al.sp.gov.br/norma/10537), e o [Decreto n° 64.728, de 27 de dezembro de 2019](https://www.al.sp.gov.br/norma/192845).

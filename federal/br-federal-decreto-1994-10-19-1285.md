@@ -1,7 +1,3 @@
-1
-
-###DEC-001285-0-000-19-10-1994@@@
-
 DECRETO N° 1.285, DE 19 DE OUTUBRO DE 1994
 
 Dispõe sobre a realização de concurso público para o provimento de cargos da Categoria Funcional de Fiscal do Trabalho.

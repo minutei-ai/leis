@@ -1,5 +1,3 @@
-###DEC-071999-0-000-27-03-1973@@@
-
 DECRETO Nº 71.999, DE 27 DE MARçO DE 1973
 
 Concede a Mineração Satélite Limitada o direito de lavrar fluorita no Município de Pedras, Grandes, Estado de Santa Catarina.

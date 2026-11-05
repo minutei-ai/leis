@@ -1,5 +1,3 @@
-###DEC-072961-0-000-19-10-1973@@@
-
 DECRETO Nº 72.961, de 19 de Outubro de 1973.
 
 Autoriza o DNER a modificar a denominação da Empresa de Construção e Exploração da Ponte Presidente Costa e Silva e dá outras providências.

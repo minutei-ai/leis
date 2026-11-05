@@ -1,5 +1,3 @@
-###DEC-071328-0-000-07-11-1972@@@
-
 DECRETO Nº 71.328, DE 7 DE NOVEMBRO DE 1972.
 
 Concede autorização à Companhia Crestware International, Inc.. para operar no mar territorial do Brasil a embarcação de perfuração "Topper III", de nacionalidade norte-americana, nos serviços que especifica.

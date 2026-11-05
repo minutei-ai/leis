@@ -1,5 +1,3 @@
-###DEC-067449-0-000-29-10-1970@@@
-
 DECRETO Nº 67.449, DE 29 DE OUTUBRO DE 1970.
 
 Outorga concessão à Empresa de Telecomunicações do Maranhão S.A. - TELMA - para explorar os serviços de telefonia público urbano e interurbano do Estado do Maranhão.

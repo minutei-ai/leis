@@ -1,5 +1,3 @@
-###DEC-074152-0-000-06-06-1974@@@
-
 DECRETO Nº 74.152, DE 6 DE JUNHO DE 1974.
 
 Revoga o parágrafo único, do artigo 1º, do Decreto nº 63.472, de 23 de outubro de 1968.

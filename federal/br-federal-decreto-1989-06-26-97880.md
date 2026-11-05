@@ -1,7 +1,3 @@
-1
-
-###DEC-097880-0-000-26-06-1989@@@
-
 DECRETO N° 97.880, DE 26 DE JUNHO DE 1989
 
 Restabelece os prazos fixados no art. 5° do Decreto n° 97.383, de 22 de dezembro de 1988, e no art. 24 do Estatuto da Fundação Cultural Palmares - FCP, e dá outras providências.

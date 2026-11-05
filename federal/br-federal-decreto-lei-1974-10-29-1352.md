@@ -1,5 +1,3 @@
-###DEL-001352-0-000-29-10-1974@@@
-
 # DECRETO-LEI Nº 1.352, DE 29 DE OUTUBRO DE 1974
 
 Inclui gratificação no Anexo II do Decreto-lei nº 1.341, de 22 de agosto de 1974.

@@ -1,5 +1,3 @@
-###DEC-068694-0-000-01-06-1971@@@
-
 DECRETO Nº 68.694 - DE 1º DE JUNHO DE 1971.
 
 Declara de utilidade pública a Associação Protetora da Infância - A.P.I. com sede em Pôrto Alegre, Estado do Rio Grande Do Sul.

@@ -1,5 +1,3 @@
-###DEC-054928-0-000-04-11-1964@@@
-
 DECRETO Nº 54.928, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Benedito Moreira Curimbaba, a pesquisar bauxita, no município de Caldas, Estado de Minas Gerais.

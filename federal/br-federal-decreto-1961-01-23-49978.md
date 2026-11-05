@@ -1,5 +1,3 @@
-###DEC-049978-0-000-23-01-1961@@@
-
 DECRETO Nº 49.978, DE 23 DE JANEIRO DE 1961.
 
 Estabelece as taxas e anuidades a que se refere a Lei n° 2.800, de 18 de junho de 1956.

@@ -1,5 +1,3 @@
-###DEC-064671-0-000-10-06-1969@@@
-
 DECRETO Nº 64.671, DE 10 DE JUNHO DE 1969.
 
 Altera o Quadro Único de Pessoal da Escola Federal de Minas de Ouro Prêto, e dá outras providências.

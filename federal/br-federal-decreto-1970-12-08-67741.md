@@ -1,5 +1,3 @@
-###DEC-067741-0-000-08-12-1970@@@
-
 DECRETO Nº 67.741, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à F Galvão Cesar, firma individual, o direito de lavrar água mineral, no município de Passa Quatro, Estado de Minas Gerais.

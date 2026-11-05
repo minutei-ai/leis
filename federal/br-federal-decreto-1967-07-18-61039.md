@@ -1,5 +1,3 @@
-###DEC-061039-0-000-18-07-1967@@@
-
 DECRETO N° 61.039, DE 18 DE JULHO DE 1967.
 
 Declara luto oficial pelo falecimento do ex-Presidente da República, Marechal Humberto de Alencar Castello Branco, e dá outras providências.

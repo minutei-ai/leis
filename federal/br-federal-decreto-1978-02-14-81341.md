@@ -1,5 +1,3 @@
-###DEC-081341-0-000-14-02-1978@@@
-
 Decreto nº 81.341, de 14 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Irati, Estado do Paraná.

@@ -1,27 +1,41 @@
 Decreto Numerado n° 9.769 / 2020           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><img src="/assets/brasao_goias.gif"><font color="#808000" size="2" face="Arial"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
 
-**DECRETO No** **9.769, DE 21 DE DEZEMBRO DE 2020.<br>
+&nbsp;
+
+</td></tr><tr><td width="100%">
+
+<img src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
+
+</td></tr></tbody></table>
+
+**DECRETO No9.769, DE 21 DE DEZEMBRO DE 2020.
+
 **\- [Revogado pelo Decreto no 10.441, de 15-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108680/decreto-10441).
 
-~~<br>
-Dispõe sobre a organização do Conselho Estadual do Meio Ambiente – CEMAm.~~<br>
+~~
+
+Dispõe sobre a organização do Conselho Estadual do Meio Ambiente – CEMAm.~~
+
  
 
 ~~O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, com fundamento no art. 41, inciso I, da [Lei estadual no 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, e tendo em vista o que consta do Processo no 202000017008788,~~
 
 **~~D E C R E T A:~~**
 
-~~CAPÍTULO I<br>
-<br>
+~~CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES~~
 
 ~~Art. 1o O Conselho Estadual do Meio Ambiente – CEMAm, previsto no art. 41, inciso I, da [Lei estadual no 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, e no art. 5o do [Decreto estadual no 9.568](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72482/decreto-9568), de 28 de novembro de 2019, rege-se por este Decreto e demais normas aplicáveis.~~
 
 ~~Art. 2o O CEMAm é órgão colegiado e normativo nas matérias cujas competências lhe sejam atribuídas por leis específicas e integra a estrutura básica da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD.~~
 
-~~CAPÍTULO II~~<br>
+~~CAPÍTULO II~~
+
  
 
 ~~DA FINALIDADE E DAS COMPETÊNCIAS DO CEMAm~~
@@ -90,7 +104,8 @@ DISPOSIÇÕES PRELIMINARES~~
 
 ~~XXXI – outras competências que venham a ser estabelecidas em leis específicas.~~
 
-~~CAPÍTULO III~~<br> 
+~~CAPÍTULO III~~
+ 
 
 ~~DA ESTRUTURA DO CEMAm~~
 
@@ -176,12 +191,14 @@ DISPOSIÇÕES PRELIMINARES~~
 
 ~~Parágrafo único. Poderão fazer parte das câmaras técnicas instituições não representadas no Conselho Estadual do Meio Ambiente, desde que relacionadas com sua finalidade, garantida a maioria de vagas para os membros com assento no Colegiado.~~
 
-~~CAPÍTULO IV~~<br>
+~~CAPÍTULO IV~~
+
  
 
 ~~DAS COMPETÊNCIAS DAS UNIDADES DO CEMAm~~
 
-**~~Seção I~~<br>** 
+**~~Seção I~~
+** 
 
 **~~Da Presidência~~**
 
@@ -207,7 +224,8 @@ DISPOSIÇÕES PRELIMINARES~~
 
 ~~IX – exercer outras atividades correlatas.~~
 
-**~~Seção II~~<br>** 
+**~~Seção II~~
+** 
 
 **~~Do Plenário~~**
 
@@ -221,13 +239,15 @@ DISPOSIÇÕES PRELIMINARES~~
 
 ~~IV – instituir grupos de trabalho para discussão e proposição de políticas na sua área de competência.~~
 
-**~~Seção III~~<br>** 
+**~~Seção III~~
+** 
 
 **~~Das Câmaras Técnicas Especializadas Permanentes e Temporárias~~**
 
 ~~Art. 12. As Câmaras Técnicas Especializadas são unidades encarregadas de analisar e propor resoluções no âmbito das competências que lhe forem designadas pelo Plenário, podendo instituir grupos de trabalho específicos.~~
 
-**~~Seção IV~~<br>** 
+**~~Seção IV~~
+** 
 
 **~~Da Secretaria-Executiva~~**
 
@@ -245,7 +265,8 @@ DISPOSIÇÕES PRELIMINARES~~
 
 ~~VI – exercer outras atividades correlatas.~~
 
-~~CAPÍTULO V~~<br>
+~~CAPÍTULO V~~
+
  
 
 ~~DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS~~
@@ -282,7 +303,8 @@ DISPOSIÇÕES PRELIMINARES~~
 
 **Goiânia, 21 de dezembro de 2020; 132o da República.**
 
-**RONALDO CAIADO<br>
+**RONALDO CAIADO
+
 **Governador do Estado
 
-_\- [Este texto não substitui o publicado no D.O. de 22-12-2020](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18475)__._
+_\- [

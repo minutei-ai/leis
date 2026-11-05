@@ -1,5 +1,3 @@
-###DEC-057601-0-000-07-01-1966@@@
-
 DECRETO Nº 57.601, DE 7 DE JANEIRO DE 1966.
 
 Retifica o Decreto nº 53.554, de 7 de fevereiro de 1964, da Universidade de Juiz de Fora.

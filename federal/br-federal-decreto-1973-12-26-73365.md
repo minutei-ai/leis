@@ -1,5 +1,3 @@
-###DEC-073365-0-000-26-12-1973@@@
-
 DECRETO Nº 73.365 - DE 26 DE DEZEMBRO DE 1973
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado do Paraná.

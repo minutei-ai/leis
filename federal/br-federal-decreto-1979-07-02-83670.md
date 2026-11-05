@@ -1,5 +1,3 @@
-###DEC-083670-0-000-02-07-1979@@@
-
 Decreto nº 83.670, de 02 de julho de 1979
 
 Autoriza o funcionamento do curso de Turismo, da Faculdade de Turismo Embaixador PASCHOAL CARLOS MAGNO.

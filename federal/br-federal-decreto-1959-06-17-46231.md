@@ -1,5 +1,3 @@
-###DEC-046231-0-000-17-06-1959@@@
-
 DECRETO Nº 46.231, DE 17 DE JUNHO DE 1959.
 
 Torna insubsistente o Decreto número 45.647, de 25 de março de 1959.

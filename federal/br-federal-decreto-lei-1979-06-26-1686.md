@@ -1,5 +1,3 @@
-###DEL-001686-0-000-26-06-1979@@@
-
 # Decreto-lei nº 1.686, de 26 de junho de 1979
 
 Altera alíquotas do IPI incidente sobre os produtos que especifica e dá outras providências.

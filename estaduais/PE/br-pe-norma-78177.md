@@ -54,73 +54,44 @@ ATRIBUIÇÕES: Planejar e exercer a docência em regência de classes, em difere
 
 **ANEXO II**
 
-**QUANTITATIVO DE VAGAS DO** **GRUPO OCUPACIONAL MAGISTÉRIO EM MÚSICA**
+**QUANTITATIVO DE VAGAS DOGRUPO OCUPACIONAL MAGISTÉRIO EM MÚSICA**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="540" style="width:405.0pt;border-collapse:collapse"><tbody><tr style="height:36.5pt"><td width="321" style="width:241.0pt;border:solid windowtext 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:36.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CARGO</span></p></td><td width="219" style="width:164.0pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:36.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE</span></p></td></tr><tr style="height:37.5pt"><td width="321" style="width:241.0pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor de Música - Nível Superior</span></p></td><td width="219" style="width:164.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">207</span></p></td></tr><tr style="height:37.5pt"><td width="321" style="width:241.0pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor de Música - Nível Médio-Técnico</span></p></td><td width="219" style="width:164.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">22</span></p></td></tr></tbody></table>
+CARGO
+
+QUANTIDADE
+
+Professor de Música - Nível Superior
+
+207
+
+Professor de Música - Nível Médio-Técnico
+
+22
 
 **ANEXO III**
 
-**QUANTITATIVO DE VAGAS DOS CARGOS DO GRUPO OCUPACIONAL** **MAGISTÉRIO PÚBLICO PARA EDUCAÇÃO ESPECIAL**
+**QUANTITATIVO DE VAGAS DOS CARGOS DO GRUPO OCUPACIONALMAGISTÉRIO PÚBLICO PARA EDUCAÇÃO ESPECIAL**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="591" style="width:443.5pt;border-collapse:collapse"><tbody><tr style="height:36.5pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:36.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CARGOS</span></p></td><td width="138" style="width:103.25pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:36.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE</span></p></td></tr><tr style="height:37.5pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor Intérprete de Língua Brasileira de Sinais - Nível Superior</span></p></td><td width="138" style="width:103.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">296</span></p></td></tr><tr style="height:37.5pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor Intérprete de Língua Brasileira de Sinais - Nível Médio</span></p></td><td width="138" style="width:103.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">134</span></p></td></tr><tr style="height:37.5pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor Instrutor de Língua Brasileira de Sinais - Nível Médio</span></p></td><td width="138" style="width:103.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:37.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">89</span></p></td></tr><tr style="height:19.0pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:19.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor Brailista - Nível Superior</span></p></td><td width="138" style="width:103.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:19.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">118</span></p></td></tr><tr style="height:19.0pt"><td width="454" style="width:340.25pt;border:solid windowtext 1.0pt;border-top:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:19.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Professor Brailista - Nível Médio</span></p></td><td width="138" style="width:103.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:19.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">54</span></p></td></tr></tbody></table>
+CARGOS
+
+QUANTIDADE
+
+Professor Intérprete de Língua Brasileira de Sinais - Nível Superior
+
+296
+
+Professor Intérprete de Língua Brasileira de Sinais - Nível Médio
+
+134
+
+Professor Instrutor de Língua Brasileira de Sinais - Nível Médio
+
+89
+
+Professor Brailista - Nível Superior
+
+118
+
+Professor Brailista - Nível Médio
+
+54

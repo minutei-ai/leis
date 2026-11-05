@@ -1,5 +1,3 @@
-###DEC-076784-0-000-15-12-1975@@@
-
 DECRETO Nº 76.784, DE 15 DE DEZEMBRO DE 1975.
 
 Prorroga a vigência de reduções das alíquotas do Imposto sobre Produtos Industrializados relativos aos têxteis.

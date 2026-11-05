@@ -1,5 +1,3 @@
-###DEC-054145-0-000-19-08-1964@@@
-
 decreto nº 54.145, de 19 de agôsto de 1964.
 
 Regulamenta as disposições dos artigos 3º, 5º e 6º da Lei nº 4.357, de 16 de julho de 1964.

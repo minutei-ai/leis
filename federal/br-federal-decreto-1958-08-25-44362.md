@@ -1,14 +1,12 @@
-###DEC-044362-0-000-25-08-1958@@@
+**DECRETO Nº 44.362, DE 25 DE AGÔSTO 1958.**
 
-<strong>DECRETO Nº 44.362, DE 25 DE AGÔSTO 1958.</strong>
+***Modifica artigos do Regulamento da Escola de Formação de oficiais da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 29.363, de 19 de março de 1951.***
 
-<em><strong>Modifica artigos do Regulamento da Escola de Formação de oficiais da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 29.363, de 19 de março de 1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 69, 71, alínea <em>f</em>, 72, alínea <em>h</em>, e 81 do Regulamento da Escola de Formação de Oficiais da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 29.363, de 19 de março de 1951, passam a vigorar com a seguinte redação:
+**Art**. 1º Os artigos 69, 71, alínea *f*, 72, alínea *h*, e 81 do Regulamento da Escola de Formação de Oficiais da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 29.363, de 19 de março de 1951, passam a vigorar com a seguinte redação:
 
 “Art. 69. O ingresso na Escola de Formação de oficiais far-se-á mediante concurso, devendo os candidatos possuir o Curso Colegial completo (2º ciclo do Ensino Secundário) ou equivalente, reconhecido pelo Ministério da Educação e Cultura na forma da legislação em vigor”.
 
@@ -32,10 +30,10 @@ b) Inglês e, por opção do candidato, Francês ou Espanhol (tradução de um t
 
 III - Física e química - quatro questões, sendo duas de Física e duas de Química (1 prática e 1 teórica), tôdas sôbre assuntos de programa oficial da 3ª série do Curso Colegial”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 25 de agôsto de 1958; 137º da Independência e 70º da república.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Cyrillo Júnior

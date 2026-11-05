@@ -1,5 +1,3 @@
-###DEC-056097-0-000-26-04-1965@@@
-
 Decreto nº 56.097, de 26 de abril de 1965.
 
 Concede à Sociedade de Mineração do Fundão Ltda., autorização para funcionar como emprêsa de mineração.

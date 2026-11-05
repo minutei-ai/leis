@@ -1,5 +1,3 @@
-###DEC-068786-0-000-21-06-1971@@@
-
 DECRETO Nº 68.786 - DE 21 DE JUNHO DE 1971.
 
 Modifica o Estatuto da emprêsa pública Banco Nacional de Desenvolvimento Econômico.

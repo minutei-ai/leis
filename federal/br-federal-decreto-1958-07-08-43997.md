@@ -1,14 +1,12 @@
-###DEC-043997-0-000-08-07-1958@@@
+**DECRETO Nº 43.997, DE 8 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 43.997, DE 8 DE JULHO DE 1958.</strong>
+***Dá nova redação ao art. 96 do Decreto nº 42.820, de 16 de dezembro de 1957.***
 
-<em><strong>Dá nova redação ao art. 96 do Decreto nº 42.820, de 16 de dezembro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 96, do Decreto número 42.820, de 16 de dezembro de 1957, passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 96, do Decreto número 42.820, de 16 de dezembro de 1957, passa a vigorar com a seguinte redação:
 
 “Nos têrmos do art. 15 da Lei nº 2.115, de 29 de dezembro de 1953, sòmente subsistirão e produzirão efeitos jurídicos as licenças concedidas antes da vigência da Instrução nº 70, quando se referirem a importação de mercadorias ali mencionadas e desde que assegurada a cobertura cambial prevista no citado artigo.
 
@@ -18,10 +16,10 @@
 
 § 3º Apuradas as contas na forma do parágrafo anterior, serão adotadas pelo Poder Executivo as providências necessárias à definitiva liquidação do acervo.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 8 de julho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucas Lopes

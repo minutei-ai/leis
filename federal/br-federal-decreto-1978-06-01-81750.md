@@ -1,5 +1,3 @@
-###DEC-081750-0-000-01-06-1978@@@
-
 decreto nº 81.750, de 1º de junho de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora Coronel Fabriciano Ltda. para que a "Fundação Cultural e Educacional Santo Afonso" - Rádio Educadora passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Coronel Fabriciano, Estado de Minas Gerais.

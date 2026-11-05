@@ -1,5 +1,3 @@
-###DEC-098550-0-000-14-12-1989@@@
-
 DECRETO Nº 98.550, DE 14 DE DEZEMBRO DE 1989
 
 Dá nova redação ao art. 2° do Decreto n° 74.685 de 14 de outubro de 1974.

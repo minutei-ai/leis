@@ -2,7 +2,8 @@ LEI Nº 5.041, DE 20 DE SETEMBRO DE 2005.
 
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170).
 
- <br>
+ 
+
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
 Art. 1º Ficam alterados os  artigos 34 e 144 da [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Funcionários do Município, passando sua redação a assim se apresentar:

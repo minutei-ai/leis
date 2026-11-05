@@ -1,5 +1,3 @@
-###LEI-000000-E-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Dá nova fórma aos Governos das Provincias, creando para cada uma dellas um Presidente e Conselho.

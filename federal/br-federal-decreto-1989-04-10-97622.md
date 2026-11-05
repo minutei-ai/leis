@@ -1,7 +1,3 @@
-1
-
-###DEC-097622-0-000-10-04-1989@@@
-
 DECRETO N° 97.622, DE 10 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis, no Rio de Janeiro.

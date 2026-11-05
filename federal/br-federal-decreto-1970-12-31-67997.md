@@ -1,5 +1,3 @@
-###DEC-067997-0-000-31-12-1970@@@
-
 DECRETO Nº 67.997, DE 31 DE DEZEMBRO de 1970.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terreno situado no Município de Ituporanga, no Estado de Santa Catarina.

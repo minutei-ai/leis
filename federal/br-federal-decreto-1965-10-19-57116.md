@@ -1,5 +1,3 @@
-###DEC-057116-0-000-19-10-1965@@@
-
 decreto nº 57.116, de 19 de outubro de 1965.
 
 Torna sem efeito o Decreto nº 45.140, de 30 de dezembro de 1958.

@@ -1,5 +1,3 @@
-###DEC-085985-0-000-06-05-1981@@@
-
 Decreto nº 85.985, de 06 de maio de 1981.
 
 Promulga a Convenção Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda.
@@ -486,7 +484,9 @@ Em testemunho do que, os abaixo-assinados, para isso devidamente autorizados, as
 
 Feito em duplicata, em Roma, no dia três de outubro de 1978 nas línguas portuguesa, italiana e inglesa, sendo todos os textos igualmente autênticos, exceto em caso de dúvida, quando prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa Italiana:</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+Pelo Governo da República Federativa Italiana:
 
 PROTOCOLO ADICIONAL
 
@@ -542,4 +542,10 @@ Em testemunho do que, os abaixo-assinados, devidamente autorizados, assinaram o 
 
 Feito em duplicata em Roma, em 3 de outubro de 1978 nas línguas portuguesa, italiana e inglesa, sendo todos os textos igualmente autênticos, exceto em caso de dúvida, quando prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Italiana:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Mario Gibson Barboza</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Franco Maria Malfatti</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+Pelo Governo da República Italiana:
+
+a) Mario Gibson Barboza
+
+b) Franco Maria Malfatti

@@ -1,5 +1,3 @@
-###DEC-072561-0-000-31-07-1973@@@
-
 DECRETO Nº 72.561, de 31 de julho de 1973
 
 Confisca bem de propriedade da Companhia Paulista de Celulose "COPASE", e dá outras providências.

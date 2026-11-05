@@ -1,5 +1,3 @@
-###DEC-076193-0-000-02-09-1975@@@
-
 DECRETO Nº 76.193 - DE 2 DE SETEMBRO DE 1975
 
 Cassa a autorização de funcionamento da Faculdade de Pedagogia e Estudos Sociais de Praia Grande, na Cidade de Praia Grande, Estado de São Paulo.

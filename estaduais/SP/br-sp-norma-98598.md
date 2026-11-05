@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=98598)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2008/compilacao-lei.complementar-1056-23.07.2008.html)
 
 # LEI COMPLEMENTAR Nº 1.056, DE 23 DE JULHO DE 2008

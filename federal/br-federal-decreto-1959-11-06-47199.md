@@ -1,5 +1,3 @@
-###DEC-047199-0-000-06-11-1959@@@
-
 DECRETO Nº 47.199, DE 06 DE novembro DE 1959.
 
 Autoriza o cidadão brasileiro José Pedro a pesquisar quartzo no município de Itapecerica da Serra, Estado de São Paulo.

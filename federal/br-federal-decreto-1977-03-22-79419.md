@@ -1,5 +1,3 @@
-###DEC-079419-0-000-22-03-1977@@@
-
 Decreto nº 79 419, de 22 de março de 1977.
 
 Concede reconhecimento ao curso de Administração, das Faculdades Integradas Bennett, com sede no Estado do Rio de Janeiro, Estado do Rio de Janeiro.

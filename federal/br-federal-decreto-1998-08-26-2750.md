@@ -1,5 +1,3 @@
-###DEC-002750-0-000-26-08-1998@@@
-
 DECRETO Nº 2.750, DE 26 DE AGOSTO DE 1998
 
 Promulga o Acordo para Cooperação nos Usos Pacíficos da Energia Nuclear, celebrado entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia, em Brasília, em 15 de setembro de 1994.
@@ -162,4 +160,14 @@ Entrada em Vigor, Validade e Emendas
 
 Feito em Brasília, em 15 de setembro de 1994, em dois exemplares originais, nos idiomas português, russo e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência nos textos deste Acordo, sua versão em inglês prevalecerá.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Federação da Rússia</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Celso L. N. Amorim</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Viktor N. Mikhailov</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro da Energia Atômica</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da Federação da Rússia
+
+Celso L. N. Amorim
+
+Viktor N. Mikhailov
+
+Ministro de Estado das Relações Exteriores
+
+Ministro da Energia Atômica

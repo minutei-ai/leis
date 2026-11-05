@@ -1,5 +1,3 @@
-###DEC-072343-0-000-08-06-1973@@@
-
 decreto nº 72.343, de 8 de junho de 1973.
 
 Aprova disposições especiais sobre produtos farmacêuticos à Central de Medicamentos (CEME).

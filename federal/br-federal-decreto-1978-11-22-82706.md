@@ -1,5 +1,3 @@
-###DEC-082706-0-000-22-11-1978@@@
-
 Decreto nº 82.706, de 22 de novembro de 1978.
 
 Concede reconhecimento ao curso de Direito, da Faculdade de Direito de Nova Iguaçu, com sede na cidade de Nova Iguaçu, Estado do Rio de Janeiro.

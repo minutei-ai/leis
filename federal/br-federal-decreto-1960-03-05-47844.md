@@ -1,5 +1,3 @@
-###DEC-047844-0-000-05-03-1960@@@
-
 DECRETO Nº 47.844, DE 5 DE MARÇO DE 1960.
 
 Retifica o Decreto nº 47.496, de 26 de dezembro de 1959.

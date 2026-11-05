@@ -1,5 +1,3 @@
-###DEC-049848-0-000-07-01-1961@@@
-
 DECRETO Nº 49.848, DE 7 DE JANEIRO DE 1961.
 
 Concede reconhecimento o curso.

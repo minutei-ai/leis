@@ -1,5 +1,3 @@
-###DEL-004876-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.876 – DE 23 DE OUTUBRO DE 1942
 
 Libera parte da produção do sal das limitações impostas pelo decreto-lei número 2.300, de 10 de junho de 1940

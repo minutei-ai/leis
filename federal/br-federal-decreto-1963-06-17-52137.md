@@ -1,5 +1,3 @@
-###DEC-052137-0-000-17-06-1963@@@
-
 Decreto nº 52.137, de 17 de junho de 1963.
 
 Declara de utilidade pública, para efeito de desapropriação a faixa de terrenos necessária à linha de transmissã Cabrobó-Belém do São Francisco, no Estado de Pernambuco.
@@ -21,8 +19,6 @@ Art. 5º O presente Decreto entrará em vigor na data de sua publicação, revog
 Brasília, 17 de junho de 1963; 142º da Independência e 75º da República.
 
 João Goulart
-
-###DEC-052137-0-000-18-06-1963@@@RET01+++
 
 decreto nº 52.137, de 18 de junho de 1963.
 

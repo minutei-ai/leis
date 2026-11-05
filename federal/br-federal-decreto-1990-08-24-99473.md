@@ -1,7 +1,3 @@
-1
-
-###DEC-099473-0-000-24-08-1990@@@
-
 DECRETO N° 99.473, DE 24 DE AGOSTO DE 1990
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial n° 17B, no Setor da Indústria de Aparelhos Elétricos, Mecânicos e Térmicos de Uso Doméstico, entre o Brasil e a Argentina.

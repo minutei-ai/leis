@@ -1,5 +1,3 @@
-###DEC-055082-0-000-26-11-1964@@@
-
 DECRETO Nº 55.082, DE 26 DE NOVEMBRO DE 1964.
 
 Decreta intervenção federal no Estado de Goiás.

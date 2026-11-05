@@ -1,5 +1,3 @@
-###DEC-081763-0-000-06-06-1978@@@
-
 Decreto nº 81.763, de 06 de junho de 1978.
 
 Autoriza a conversão do curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

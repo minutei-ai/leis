@@ -1,5 +1,3 @@
-###DEC-003138-0-000-16-08-1999@@@
-
 DECRETO Nº 3.138, DE 16 AGOSTO DE 1999.
 
 Dispõe sobre a execução do Acordo de Complementação Econômica nº 39, entre o Governo da República Federativa do Brasil e os Governos da Colômbia, do Equador, do Peru e da Venezuela, Países-Membros da Comunidade Andina.
@@ -260,7 +258,25 @@ Os Certificados de Origem emitidos antes de 16 de agosto de 1999, amparados pelo
 
 EM FÉ DO QUE Os respectivos Plenipotenciários assinam o presente Acordo na cidade de Montevidéu, aos doze dias do mês de agosto de mil novecentos e noventa e nove, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República da Colômbia:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>MANUEL JOSÉ CÁRDENAS</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República do Equador:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ SERRANO HERRERA</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República do Peru:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ EDUARDO CHÁVARRI</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República da Venezuela:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>RUBÉN PACHECO</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ ARTUR DENOT MEDEIROS</span></p></td></tr></tbody></table>
+Pelo Governo da República da Colômbia:
+
+MANUEL JOSÉ CÁRDENAS
+
+Pelo Governo da República do Equador:
+
+JOSÉ SERRANO HERRERA
+
+Pelo Governo da República do Peru:
+
+JOSÉ EDUARDO CHÁVARRI
+
+Pelo Governo da República da Venezuela:
+
+RUBÉN PACHECO
+
+Pelo Governo da República Federativa do Brasil:
+
+JOSÉ ARTUR DENOT MEDEIROS
 
 TABELA
 

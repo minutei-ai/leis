@@ -1,5 +1,3 @@
-###DEC-059156-0-000-01-09-1966@@@
-
 decreto nº 59.156, de 1º de setembro de 1966.
 
 Ministério da Fazenda. Abre crédito especial de Cr$4.000.000.000, para ocorrer ao pagamento dos encargos decorrentes da Lei nº 5.067, de 6 de julho de 1966.

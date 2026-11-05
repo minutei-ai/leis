@@ -1,5 +1,3 @@
-###DEL-001092-0-000-12-03-1970@@@
-
 # DECReTO-LEI Nº 1.092, DE 12 de MARÇO DE 1970
 
 Dá nova redação ao artigo 1º do Decreto-lei nº 765, de 15 de agôsto de 1969

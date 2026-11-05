@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f603b730-a955-4ad7-868d-eb70d9166052/texto#nowhere)
 
-###DEL-000482-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 482, DE 3 DE MARÇO DE 1969
 
 Cria o cargo de Vice-Reitor da Universidade Federal da Bahia.

@@ -1,5 +1,3 @@
-###DEC-076674-0-000-26-11-1975@@@
-
 DECRETO Nº 76.674, DE 26 DE NOVEMBRO DE 1975.
 
 Cancela autorização para funcionamento no Brasil da The Motor Union Insurance Company Limited.

@@ -1,5 +1,3 @@
-###DEC-096039-0-000-17-05-1988@@@
-
 DECRETO N° 96.039, DE 17 DE MAIO DE 1988
 
 Altera o Regulamento de Promoções de Graduados do Exército e dá outras providências.

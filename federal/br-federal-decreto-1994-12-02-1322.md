@@ -1,7 +1,3 @@
-1
-
-###DEC-001322-0-000-02-12-1994@@@
-
 DECRETO Nº 1.322, DE 2 DE DEZEMBRO DE 1994
 
 Dispõe sobre a exclusão do Programa Nacional de Desestatização, criado pela Lei nº 8.031, de 12 de abril de 1990, da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS.

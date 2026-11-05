@@ -1,5 +1,3 @@
-###DEC-060462-0-000-13-03-1967@@@
-
 DECRETO Nº 60.462, DE 13 DE MARÇO DE 1967.
 
 Cria Comissão Especial no Ministério Educação e Cultura.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001276-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.276, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

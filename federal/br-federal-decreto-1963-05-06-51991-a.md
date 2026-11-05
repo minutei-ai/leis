@@ -1,5 +1,3 @@
-###DEC-051991-A-000-06-05-1963@@@
-
 DECRETO Nº 51.991-A, DE 6 DE MAIO DE 1963.
 
 Concede a Comércio e Navegação Peônia S.A. autorização para funcionar como emprêsa de navegação de cabotagem.

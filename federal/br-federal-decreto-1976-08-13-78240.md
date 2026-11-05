@@ -1,5 +1,3 @@
-###DEC-078240-0-000-13-08-1976@@@
-
 Decreto nº 78.240, de 13 de agosto de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão das Centrais Elétricas do Sul do Brasil S. A. - ELETROSUL nos Estados de Santa Catarina e Paraná.

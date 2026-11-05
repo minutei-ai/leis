@@ -1,5 +1,3 @@
-###DEL-009006-0-000-20-02-1946@@@
-
 DECRETO-LEI N. 9.006 – DE 20 DE FEVEREIRO DE 1946
 
 Aumenta o subsidio e a ajuda de custo dos Deputados e Senadores

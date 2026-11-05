@@ -1,5 +1,3 @@
-###DEC-092301-0-000-16-01-1986@@@
-
 DECRETO Nº 92.301, DE 16 DE JANEIRO DE 1986
 
 Autoriza a Companhia Siderúrgica Paulista - COSIPA (GRUPO SIDERBRÁS) a proceder ao aumento do seu capital social.

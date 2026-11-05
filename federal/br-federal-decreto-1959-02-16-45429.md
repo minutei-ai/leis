@@ -1,5 +1,3 @@
-###DEC-045429-0-000-16-02-1959@@@
-
 DECRETO Nº 45.429, DE 16 de FEVEREIRO DE 1959.
 
 Cria no Ministério da Viação e Obras Públicas a Comissão de Treinamento de Pessoal Especializado (COTEPE).

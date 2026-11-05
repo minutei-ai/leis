@@ -1,5 +1,3 @@
-###DEL-003006-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.006 – DE 30 DE JANEIRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 897:724$2 para pagamento à firma B. Dutra & Comp. Ltda.

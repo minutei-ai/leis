@@ -1,22 +1,20 @@
-###DEC-027768-0-000-08-02-1950@@@
+**DECRETO Nº 27.768, DE 8 DE FEVEREIRO DE 1950.**
 
-<strong>DECRETO Nº 27.768, DE 8 DE FEVEREIRO DE 1950.</strong>
+***Restringe a zona de fornecimento da Emprêsa Força e Luz de Goiânia e Ltda. e outorgado a Filogomes Alves de Carvalho concessão para aproveitamento de energia hidráulica de uma queda d´ água situado no Ribeirão Fazendinha, município de Trindade Estado de Goiás.***
 
-<em><strong>Restringe a zona de fornecimento da Emprêsa Força e Luz de Goiânia e Ltda. e outorgado a Filogomes Alves de Carvalho concessão para aproveitamento de energia hidráulica de uma queda d´ água situado no Ribeirão Fazendinha, município de Trindade Estado de Goiás.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere no artigo 87, inciso I, da Constituição e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de junho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere no artigo 87, inciso I, da Constituição e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto n<sup>o</sup> 24.643, de 10 de junho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica excluída da zona de Fornecimento da Emprêsa Força e Luz de Goiânia Ltda. o município de Trindade Estado de Goiás.
 
-<strong>Art</strong>. 1º Fica excluída da zona de Fornecimento da Emprêsa Força e Luz de Goiânia Ltda. o município de Trindade Estado de Goiás.
-
-<strong>Art</strong>. 2º Respeitando os direitos de terceiro, e outorgada a Filogomes Alves de Carvalho, concessão para o aproveitamento de Energia Hidráulica de uma queda d’água situada em Ribeirão Fazendinha, Município de Trindade Estado de Goiás.
+**Art**. 2º Respeitando os direitos de terceiro, e outorgada a Filogomes Alves de Carvalho, concessão para o aproveitamento de Energia Hidráulica de uma queda d’água situada em Ribeirão Fazendinha, Município de Trindade Estado de Goiás.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços públicos, serviço de utilidade Pública e para comercio de Energia no município de Trindade.
 
-<strong>Art</strong>. 3º Caducará o pressente titulo, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes disposições:
+**Art**. 3º Caducará o pressente titulo, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes disposições:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -102,30 +100,30 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. os prazos a que se refere êste artigo poderão ser prorrogados por ato do ministro da Agricultura.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do cursos d’águas que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do cursos d’águas que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º O capital remunerar será o efetivamente investido nas instalações da concessionária, em função da sua industria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 5º O capital remunerar será o efetivamente investido nas instalações da concessionária, em função da sua industria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 6º As atuais tabelas de preços de energia fornecidas pelos concessionários serão integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pela primeiro período de tarifas, de acôrdo com o disposto no artigo 180 do Código de Águas.
+**Art**. 6º As atuais tabelas de preços de energia fornecidas pelos concessionários serão integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pela primeiro período de tarifas, de acôrdo com o disposto no artigo 180 do Código de Águas.
 
-<strong>Art</strong>. 7º Para a manutenção da integridade do capital ao que se refere o art.4<sup>o</sup> será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou importa por acidentes.
+**Art**. 7º Para a manutenção da integridade do capital ao que se refere o art.4º será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou importa por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 8º Findo o prazo de concessão, todos os bens e instalações que, no momento existirem, em função exclusiva e permanente da produção transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Goiás, em conformidade com o estipulados arts 165 e 166 do Código de Águas, mediante indenização, na base de curto histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art.7<sup>º.</sup>
+**Art**. 8º Findo o prazo de concessão, todos os bens e instalações que, no momento existirem, em função exclusiva e permanente da produção transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Goiás, em conformidade com o estipulados arts 165 e 166 do Código de Águas, mediante indenização, na base de curto histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art.7<sup>º.</sup>
 
 § 1º A concessionárias poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vieram a ser estipuladas desde que faça a prova de que o Estado de Goiás não se opõe à utilização dos bens e objetivos da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar, o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 9º A presente concessão vigorará pelo prazo de trinta (30) anos contados da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 9º A presente concessão vigorará pelo prazo de trinta (30) anos contados da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 10<sup>.</sup> O presente decreto entra em vigor na data de sua publicação.
+**Art**. 10<sup>.</sup> O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 11<sup>.</sup> Revogam-se as disposições em contrário.
+**Art**. 11<sup>.</sup> Revogam-se as disposições em contrário.
 
-Rio de Janeiro, 8 de fevereiro de 1950; 129<sup>o</sup> da Independência e 62<sup>o</sup> da República.
+Rio de Janeiro, 8 de fevereiro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

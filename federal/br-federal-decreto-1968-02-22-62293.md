@@ -1,5 +1,3 @@
-###DEC-062293-0-000-22-02-1968@@@
-
 DECRETO Nº 62.293, DE 22 DE FEVEREIRO DE 1968.
 
 Autoriza o funcionamento do Curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Uberlândia - MG.

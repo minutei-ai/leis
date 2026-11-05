@@ -1,5 +1,3 @@
-###DEL-005360-0-000-30-03-1943@@@
-
 DECRETO‑LEI N. 5.360 – DE 30 DE MARÇO DE 1943
 
 Dispõe sobre o financiamento da safra de algodão de 1943, e dá outras providências

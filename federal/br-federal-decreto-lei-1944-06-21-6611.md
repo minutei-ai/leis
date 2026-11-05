@@ -1,5 +1,3 @@
-###DEL-006611-0-000-21-06-1944@@@
-
 DECRETO-LEI N. 6.611 – DE 21 DE JUNHO DE 1944
 
  Altera disposições da Lei nº 436, de 23-5-1937

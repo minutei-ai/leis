@@ -1,5 +1,3 @@
-###DEC-092415-0-000-20-02-1986@@@
-
 DECRETO Nº 92.415, DE 20 DE FEVEREIRO DE 1986
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE BRAGANÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bragança, Estado do Pará.

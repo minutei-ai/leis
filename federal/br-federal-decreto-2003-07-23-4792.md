@@ -1,5 +1,3 @@
-###DEC-004792-0-000-23-07-2003@@@
-
 DECRETO Nº 4.792, DE 23 DE JULHO DE 2003. 
 
       Cria a Câmara de Política de Recursos Naturais, do Conselho de Governo.
@@ -70,5 +68,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 23 de julho de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

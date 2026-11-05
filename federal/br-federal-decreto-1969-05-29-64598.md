@@ -1,5 +1,3 @@
-###DEC-064598-0-000-29-05-1969@@@
-
 DECRETO Nº 64.598, DE 29 DE MAIO DE 1969.
 
 Declara de utilidade pública o Lar Anália Franco, com sede em São Manuel, Estado de São Paulo.

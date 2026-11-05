@@ -1,5 +1,3 @@
-###DEC-046630-0-000-17-08-1959@@@
-
 DECRETO Nº 46.630, DE 17 DE AGÔSTO DE 1959.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica do Salto Santa Teresinha, no rio Melissa, município de Cascavel, Estado do Paraná.

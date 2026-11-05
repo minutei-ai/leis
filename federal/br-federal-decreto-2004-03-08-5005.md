@@ -1,5 +1,3 @@
-###DEC-005005-0-000-08-03-2004@@@
-
 DECRETO Nº 5.005,  DE 8 DE MARÇO DE 2004.
 
 Promulga a Convenção nº 171 da Organização Internacional do Trabalho relativa ao Trabalho Noturno.

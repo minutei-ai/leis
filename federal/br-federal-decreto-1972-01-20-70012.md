@@ -1,5 +1,3 @@
-###DEC-070012-0-000-20-01-1972@@@
-
 DECRETO Nº 70.012, de 20 de janeiro de 1972.
 
 Declara de utilidade pública o Colégio Normal Sagrado Coração de Maria, com sede em Pará de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-073243-0-000-03-12-1973@@@
-
 DECRETO Nº 73.243 - DE 3 DE DEZEMBRO DE 1973
 
 Dispõe sobre a Embaixada do Brasil no Emirado do Coveite.

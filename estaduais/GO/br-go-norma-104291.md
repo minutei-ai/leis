@@ -16,8 +16,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de setembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

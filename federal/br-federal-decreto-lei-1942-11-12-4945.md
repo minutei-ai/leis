@@ -1,5 +1,3 @@
-###DEL-004945-0-000-12-11-1942@@@
-
 DECRETO-LEI N. 4.945 – DE 12 DE NOVEMBRO DE 1942
 
 Prorroga o prazo fixado no § 1º do art. 11 do decreto-lei n. 4.736, de 23 de setembro de 1942

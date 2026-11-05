@@ -1,5 +1,3 @@
-###DEC-054232-0-000-02-09-1964@@@
-
 DECRETO Nº 54.232, DE 2 DE SETEMBRO DE 1964.
 
 Autoriza a Centrais Elétricas de Goiás S. A. - CELG a construir linhas de transmissão.

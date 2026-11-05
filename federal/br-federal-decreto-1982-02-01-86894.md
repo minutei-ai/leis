@@ -1,5 +1,3 @@
-###DEC-086894-0-000-01-02-1982@@@
-
 Decreto nº 86.894, de 01 de fevereiro de 1982
 
 Declara perempta a concessão outorgada à RÁDIO DIFUSORA SÃO PAULO S.A., para executar o serviço de radiodifusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

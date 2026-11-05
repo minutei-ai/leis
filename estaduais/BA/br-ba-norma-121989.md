@@ -30,4 +30,34 @@ MASB
 
 Quadro de Pessoal - Cargos de Provimento Comissionado
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 92.15pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="123"><p class="Tabela-Texto">Classe</p></td><td style="width: 262.2pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="350"><p class="Tabela-Texto">Denominação</p></td><td style="width: 70.85pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="94"><p class="Tabela-Texto">Símbolo</p></td><td style="width: 56.6pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="75"><p class="Tabela-Texto">Número</p></td></tr><tr><td style="width: 92.15pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="123"><p class="Tabela-Texto"><span style="mso-spacerun: yes;">&nbsp;</span>Nível Superior</p></td><td style="width: 262.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="350"><p class="Tabela-Texto">Secretário Geral</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="94"><p class="Tabela-Texto">TJFC - 2</p></td><td style="width: 56.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="75"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 92.15pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="123"><p class="Tabela-Texto">Nível Superior</p></td><td style="width: 262.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="350"><p class="Tabela-Texto">Secretário de Coordenação Pedagógica<span style="mso-spacerun: yes;">&nbsp; </span>dos Magistrados</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="94"><p class="Tabela-Texto">TJFC - 3</p></td><td style="width: 56.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="75"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 92.15pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 36.8pt;" valign="top" width="123"><p class="Tabela-Texto">Nível Superior</p></td><td style="width: 262.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 36.8pt;" valign="top" width="350"><p class="Tabela-Texto">Secretário de Coordenação Pedagógica<span style="mso-spacerun: yes;">&nbsp; </span>dos Servidores Judiciários</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 36.8pt;" valign="top" width="94"><p class="Tabela-Texto">TJFC - 3</p></td><td style="width: 56.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 36.8pt;" valign="top" width="75"><p class="Tabela-Texto">1</p></td></tr></tbody></table>
+Classe
+
+Denominação
+
+Símbolo
+
+Número
+
+Nível Superior
+
+Secretário Geral
+
+TJFC - 2
+
+1
+
+Nível Superior
+
+Secretário de Coordenação Pedagógica  dos Magistrados
+
+TJFC - 3
+
+1
+
+Nível Superior
+
+Secretário de Coordenação Pedagógica  dos Servidores Judiciários
+
+TJFC - 3
+
+1

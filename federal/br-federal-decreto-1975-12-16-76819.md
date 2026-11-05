@@ -1,5 +1,3 @@
-###DEC-076819-0-000-16-12-1975@@@
-
 decreto nº 76.819, de 16 de dezembro de 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

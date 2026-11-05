@@ -1,5 +1,3 @@
-###DEC-045009-0-000-04-12-1958@@@
-
 DECRETO Nº 45.009, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia de Cimento Portland Rio Branco a ampliar suas instalações termoelétricas.

@@ -1,5 +1,3 @@
-###DEC-055016-0-000-17-11-1964@@@
-
 Decreto nº 55.016, de 17 de novembro de 1964.
 
 Concede à sociedade Luiz G.A. Valente S.A. - Comércio e Navegação autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

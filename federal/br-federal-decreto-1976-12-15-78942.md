@@ -1,5 +1,3 @@
-###DEC-078942-0-000-15-12-1976@@@
-
 DECRETO Nº 78.942, DE 15 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha transmissão das Centrais Elétricas de Minas Gerais S. A. - CEMIG, Estado de Minas Gerais.

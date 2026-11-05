@@ -1,5 +1,3 @@
-###DEC-069160-0-000-02-09-1971@@@
-
 DECRETO Nº 69.160, DE 2 DE SEtEMBRO DE 1971.
 
 Retifica o Decreto nº 69.018, de 4 de agôsto de 1971, que abre crédito suplementar aos Encargos Gerais da União no valor de Cr$ 10.000.000,00, para refôrço de dotação consignadas no vigente Orçamento

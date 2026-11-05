@@ -1,5 +1,3 @@
-###DEL-008439-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.439 – DE 24 DE DEZEMBRO DE 1945
 
 Regula o serviço de armazenagem nos portos organizados e dá outras providências.

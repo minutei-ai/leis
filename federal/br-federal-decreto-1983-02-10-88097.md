@@ -1,5 +1,3 @@
-###DEC-088097-0-000-10-02-1983@@@
-
 DECRETO Nº 88.097, DE 10 DE FEVEREIRO DE 1983.
 
 Cassa a concessão outorgada à TV RIO GRANDE LTDA., para executar serviços de radiodifusão de sons e imagens (televisão) cidade de Natal, Estado do Rio Grande do Norte.

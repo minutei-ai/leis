@@ -1,5 +1,3 @@
-###DEC-082138-0-000-22-08-1978@@@
-
 Decreto nº 82.138, de 22 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

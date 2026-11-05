@@ -1,5 +1,3 @@
-###DEL-005848-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.848 – DE 23 DE SETEMBRO DE 1943
 
 Dispõe sôbre a realização de exames de sanidade e capacidade física e dá outras Previdências

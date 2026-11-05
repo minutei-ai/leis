@@ -1,5 +1,3 @@
-###DEC-050253-0-000-28-01-1961@@@
-
 DECRETO Nº 50.253, DE 28 DE JANEIRO DE 1961.
 
 Estende ao Instituto de Energia Atômico a franquia postal, telegráfica e radiotelegráfica prevista no artigo 29 da Lei nº 1.310, de 15 de janeiro de 1951.

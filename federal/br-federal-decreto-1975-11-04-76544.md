@@ -1,5 +1,3 @@
-###DEC-076544-0-000-04-11-1975@@@
-
 DECRETO Nº 76.544, DE 4 DE NOVEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Formação de Professores para as Matérias Especializadas do 2º grau, da Faculdade de Formação de Professores, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

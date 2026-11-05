@@ -1,5 +1,3 @@
-###DEC-083381-0-000-30-04-1979@@@
-
 Decreto nº 83.381, de 30 de abriL de 1979.
 
 Concede reconhecimento à habilitação Formação de psicólogo no curso de Psicologia, da Faculdade Paulistana de Ciências e Letras, na capital do Estado de São Paulo.

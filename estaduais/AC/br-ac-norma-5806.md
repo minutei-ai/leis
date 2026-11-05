@@ -1,6 +1,10 @@
 > **LEI Nº 4.201, DE 24 DE NOVEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.144, de 9 de agosto de 2023, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024, para tratar do percentual das emendas individuais, da forma de utilização da reserva de contingência, e do percentual de participação da Assembleia Legislativa do Estado do Acre - ALEAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.144, de 9 de agosto de 2023, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024, para tratar do percentual das emendas individuais, da forma de utilização da reserva de contingência, e do percentual de participação da Assembleia Legislativa do Estado do Acre - ALEAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

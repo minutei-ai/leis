@@ -1,5 +1,3 @@
-###DEC-090457-0-000-08-11-1984@@@
-
 Decreto nº 90.457, de 08 de novembro de 1984.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imovéis que menciona.

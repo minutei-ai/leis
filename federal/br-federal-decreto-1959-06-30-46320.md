@@ -1,5 +1,3 @@
-###DEC-046320-0-000-30-06-1959@@@
-
 Decreto nº 46.320, de 30 de junho de 1959.
 
 Transfere da Prefeitura Municipal de Lagoa Dourada para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Lagoa Dourada, Estado de Minas Gerais, e dá outras providências.

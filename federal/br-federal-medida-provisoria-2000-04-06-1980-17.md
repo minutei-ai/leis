@@ -1,5 +1,3 @@
-###MPV-001980-0-017\-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-17, DE 6 de abril DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

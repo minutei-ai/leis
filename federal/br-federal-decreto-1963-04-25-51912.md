@@ -1,5 +1,3 @@
-###DEC-051912-0-000-25-04-1963@@@
-
 DECRETO Nº 51.912, DE 25 DE ABRIL DE 1963.
 
 Concede à sociedade Navegação Frigorenner Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

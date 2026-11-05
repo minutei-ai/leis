@@ -1,6 +1,10 @@
 > **LEI Nº 4.107, DE 25 DE MAIO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 84, de 28 de fevereiro de 2000, que institui o Plano de Carreira, Cargos e Remuneração para os servidores públicos da Secretaria de Estado de Saúde e Saneamento do Estado do Acre, e a Lei Complementar nº 167, de 24 de julho de 2007, que institui adicionais aos servidores públicos da Secretaria de Estado de Saúde - SESACRE e da Fundação Hospital Estadual do Acre - FUNDHACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 84, de 28 de fevereiro de 2000, que institui o Plano de Carreira, Cargos e Remuneração para os servidores públicos da Secretaria de Estado de Saúde e Saneamento do Estado do Acre, e a Lei Complementar nº 167, de 24 de julho de 2007, que institui adicionais aos servidores públicos da Secretaria de Estado de Saúde - SESACRE e da Fundação Hospital Estadual do Acre - FUNDHACRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -36,6 +40,6 @@ Governador do Estado do Acre
 
 **TABELA DE ADICIONAL DE PLANTÃO EMERGENCIAL GRUPOS VII - 12 HORAS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>GRUPO</span></strong></span></p></td><td><p><span><strong><span>PLANTÃO PADRÃO</span></strong></span></p></td><td><p><span><strong><span>PLANTÃO NOTURNO</span></strong></span></p><p><span><strong><span>FINAIS DE SEMANA/FERIADOS</span></strong></span></p></td></tr><tr><td colspan="3"><p><span><strong><span>GRUPO VII</span></strong></span></p></td></tr><tr><td><p><span><span>Profissionais técnicos de nível médio</span></span></p></td><td><p><span><span>R$ 102,57</span></span></p></td><td><p><span><span>R$ 153,86</span></span></p></td></tr><tr><td><p><span><span>Profissional técnico em radiologia</span></span></p></td><td><p><span><span>R$ 123,08</span></span></p></td><td><p><span><span>R$ 184,25</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **GRUPO** </td><td> **PLANTÃO PADRÃO** </td><td> **PLANTÃO NOTURNOFINAIS DE SEMANA/FERIADOS** </td></tr><tr><td colspan="3"> **GRUPO VII** </td></tr><tr><td> Profissionais técnicos de nível médio </td><td> R$ 102,57 </td><td> R$ 153,86 </td></tr><tr><td> Profissional técnico em radiologia </td><td> R$ 123,08 </td><td> R$ 184,25 </td></tr></tbody></table>
 
 ...” **(NR)**

@@ -1,5 +1,3 @@
-###DEC-061833-0-000-05-12-1967@@@
-
 DECRETO Nº 61.833, DE 5 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia de Cimento Portlland Poty a lavrar fosforita no município de Igaraçu, Estado de Pernambuco.

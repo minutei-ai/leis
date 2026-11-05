@@ -1,5 +1,3 @@
-###DEC-074316-0-000-23-07-1974@@@
-
 DECRETO Nº 74.316 - DE 23 DE JULHO DE 1974.
 
 Dispõe sobre a expedição de cartões de identidade funcional pelo Serviço Nacional de Informações.

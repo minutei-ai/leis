@@ -1,6 +1,10 @@
 > **LEI Nº 4.514, DE 02 DE JANEIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.428, de 29 de outubro de 2024, que dispõe sobre a estrutura e a vinculação da Coordenadoria Estadual de Proteção e Defesa Civil, para tratar do cômputo do tempo de serviço dos ocupantes dos cargos de Coordenador Estadual de Proteção e Defesa Civil e Diretor Executivo de Proteção e Defesa Civil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.428, de 29 de outubro de 2024, que dispõe sobre a estrutura e a vinculação da Coordenadoria Estadual de Proteção e Defesa Civil, para tratar do cômputo do tempo de serviço dos ocupantes dos cargos de Coordenador Estadual de Proteção e Defesa Civil e Diretor Executivo de Proteção e Defesa Civil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

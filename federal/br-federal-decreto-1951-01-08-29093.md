@@ -1,36 +1,34 @@
-###DEC-029093-0-000-08-01-1951@@@
+**DECRETO Nº 29.093, DE 8 DE JANEIRO DE 1951.**
 
-<strong>DECRETO Nº 29.093, DE 8 DE JANEIRO DE 1951.</strong>
+***Aprova o Regimento do Serviço Florestal do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Serviço Florestal do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art.87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art.87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - O Serviço Florestal (S.F.), do Ministério da Agricultura que, assinado pelo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º - O Serviço Florestal (S.F.), do Ministério da Agricultura que, assinado pelo Ministro de Estado, com êste baixa.
-
-<strong>Art</strong>. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de janeiro de 1951; 130º da Independência e 63º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho
 
-<strong>REGIMENTO DO SERVIÇO FLORESTAL DO MINISTÉRIO DA AGRICULTURA</strong>
+**REGIMENTO DO SERVIÇO FLORESTAL DO MINISTÉRIO DA AGRICULTURA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º - O Serviço Florestal (S.F.), do Ministério da Agricultura, diretamente subordinado ao Ministro de Estado, tem por fim resolver os problemas referentes à silvicultura, mediante a prática de experimentos científicos e a divulgação de seus resultados, proteger as florestas e aplicar o Código Florestal, estudar os meios de conservação do solo, e de defesa dos mananciais, as condições em que será profícua a criação de florestas e parques nacionais, de reservas florestais e de florestas típicas, cabendo-lhe, ainda, o estudo botânico e tecnológico das essências florestais, o aperfeiçoamento e a divulgação dos processos industriais relativos ao melhor beneficiamento de produtos e subprodutos das florestas e ao aproveitamento das possibilidades econômicas da floresta nativa do país.
+**Art**. 1º - O Serviço Florestal (S.F.), do Ministério da Agricultura, diretamente subordinado ao Ministro de Estado, tem por fim resolver os problemas referentes à silvicultura, mediante a prática de experimentos científicos e a divulgação de seus resultados, proteger as florestas e aplicar o Código Florestal, estudar os meios de conservação do solo, e de defesa dos mananciais, as condições em que será profícua a criação de florestas e parques nacionais, de reservas florestais e de florestas típicas, cabendo-lhe, ainda, o estudo botânico e tecnológico das essências florestais, o aperfeiçoamento e a divulgação dos processos industriais relativos ao melhor beneficiamento de produtos e subprodutos das florestas e ao aproveitamento das possibilidades econômicas da floresta nativa do país.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º - O S.F. é constituído dos seguintes órgãos:
+**Art**. 2º - O S.F. é constituído dos seguintes órgãos:
 
 Conselho Técnico Administrativo ( C.T.A.)
 
@@ -56,27 +54,27 @@ Horto Florestal de Santa Cruz
 
 Inspetorias Regionais
 
-<strong>Art</strong>. 3º - As Seções do S.F., a B e as Inspetorias Regionais, terão chefes designados pelo Diretor do S.F.
+**Art**. 3º - As Seções do S.F., a B e as Inspetorias Regionais, terão chefes designados pelo Diretor do S.F.
 
 § 1º - As Seções integrantes do J.B. terão chefes e a Superintendência do Jardim um Superintendente, designado pelo Diretor do S.F.
 
 § 2º - A S.A disporá de uma Portaria chefiada por servidor designados pelo Diretor do S.F.
 
-<strong>Art</strong>. 4º - Os Parques Nacionais, Hortos Florestais e Florestas Nacionais terão cada um, um Administrador designado pelo Diretor do Serviço.
+**Art**. 4º - Os Parques Nacionais, Hortos Florestais e Florestas Nacionais terão cada um, um Administrador designado pelo Diretor do Serviço.
 
-<strong>Art</strong>. 5º - O Diretor do S.F. terá um secretário por êle designado.
+**Art**. 5º - O Diretor do S.F. terá um secretário por êle designado.
 
-<strong>Art</strong>. 6º - Os órgãos que integram o S.F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob orientação do Diretor.
+**Art**. 6º - Os órgãos que integram o S.F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência e composição dos órgãos</em>
+*Da competência e composição dos órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>DO C.T.A.</em>
+*DO C.T.A.*
 
-<strong>Art</strong>. 7º - Ao C.T.A., órgão técnico - orientador do S.F. compete:
+**Art**. 7º - Ao C.T.A., órgão técnico - orientador do S.F. compete:
 
 I - elaborar, para cada período de cinco anos, o plano geral dos trabalhos científicos de estudos, pesquisas, fomento e proteção a serem realizadas pelo S.F.;
 
@@ -92,27 +90,27 @@ VI - emitir parecer sôbre a administração de técnicos contratados;
 
 VII - colaborar na fiscalização da aplicação do orçamento, de modo que as verbas sejam realmente aplicadas dentro das finalidades propostas, segundo o plano dos trabalhos.
 
-<strong>Art</strong>. 8º - O C.T.A. será constituído do Diretor do S.F. e mais 8 (oito) servidores lotados nas dependência do S.F., escolhidos dentre os de capacidade técnica comprovada designados pelo Ministério da Agricultura mediante indicação do Diretor do S.F., para prestarem informações e opinar sôbre a matéria a ser debatida.
+**Art**. 8º - O C.T.A. será constituído do Diretor do S.F. e mais 8 (oito) servidores lotados nas dependência do S.F., escolhidos dentre os de capacidade técnica comprovada designados pelo Ministério da Agricultura mediante indicação do Diretor do S.F., para prestarem informações e opinar sôbre a matéria a ser debatida.
 
 § 1º - Às Sessões do C.T.A. deverão comparecer os chefes de Seção do S.F.e o Diretor do J.B., sempre que convocados pelo Diretor do S.F. para prestarem informações e opinar sôbre a matéria a ser debatida.
 
 § 2º - A função de membro do C.T.A. será exercida sem prejuízo da do cargo do servidor e não será remunerada.
 
-<strong>Art</strong>. 9º O C.T.A. será presidido pelo Diretor do S.F. e secretariado por um de seus membros, designado pelo Presidente.
+**Art**. 9º O C.T.A. será presidido pelo Diretor do S.F. e secretariado por um de seus membros, designado pelo Presidente.
 
-<strong>Art</strong>. 10. O C.T.A reunir-se-á ordinariamente, uma vez ao mês, em dia e hora permanentemente determinados pelo Presidente, e em sessões extraordinárias mediante convocação especial dêste, em dias e horas por êle designados.
+**Art**. 10. O C.T.A reunir-se-á ordinariamente, uma vez ao mês, em dia e hora permanentemente determinados pelo Presidente, e em sessões extraordinárias mediante convocação especial dêste, em dias e horas por êle designados.
 
 Parágrafo único. Havendo qualquer impedimento à reunião do Conselho em dia determinado a sessão correspondente ficará automaticamente transferida para o primeiro dia útil  que se lhe seguir.
 
-<strong>Art</strong>. 11. As sessões do C.T.A, se deverão realizar com a presença de quatro (4) membros, no mínimo, além do Presidente.
+**Art**. 11. As sessões do C.T.A, se deverão realizar com a presença de quatro (4) membros, no mínimo, além do Presidente.
 
-<strong>Art</strong>. 12. O plano geral de trabalho e os programas anuais a que se referem os itens I e II do art. 7º, bem como as instruções reguladoras das atividades do C.T.A, deverão ser aprovados por maioria absoluta de todos os seus membros, sendo nêstes casos obrigatória a convocação dos membros representantes das Inspetorias Regionais.
+**Art**. 12. O plano geral de trabalho e os programas anuais a que se referem os itens I e II do art. 7º, bem como as instruções reguladoras das atividades do C.T.A, deverão ser aprovados por maioria absoluta de todos os seus membros, sendo nêstes casos obrigatória a convocação dos membros representantes das Inspetorias Regionais.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do J. B.</em>
+*Do J. B.*
 
-<strong>Art</strong>. 13. O J. B. compreende:
+**Art**. 13. O J. B. compreende:
 
 Seção de Botânica Geral (S. B. G.)
 
@@ -122,7 +120,7 @@ Seção de Botânica Aplicada (S. B. A.)
 
 Superintendência do Jardim (S. J.)
 
-<strong>Art</strong>. 14. À S. B. G. compete:
+**Art**. 14. À S. B. G. compete:
 
 I - estudar a morfologia, anatomia e a citalogia das plantas, preferencialmente das indígenas.
 
@@ -136,7 +134,7 @@ V - promover, em cooperação com os serviços de geologia, o melhor conheciment
 
 VI - receber e orientar estagiários que pretendam especializar-se em qualque das atividades normais da Seção.
 
-<strong>Art</strong>. 15. À S. B. S. compete:
+**Art**. 15. À S. B. S. compete:
 
 I - estudar a ocorrência, característica e distribuição dos representantes da flora nacional;
 
@@ -150,7 +148,7 @@ V - colaborar com a S. J. no sentido de ser mantida atualizada a nomeclatura bot
 
 VI - reunir em herbário próprio o material botânico dos vegetais existentes no arboretum.
 
-<strong>Art</strong>. 16. À S. B. A. compete:
+**Art**. 16. À S. B. A. compete:
 
 I - realizar estudos botânicos aplicados ao melhoramento genético das plantas úteis, indígenas;
 
@@ -160,7 +158,7 @@ III - fazer observações e pesquisas sôbre novas aplicações de plantas conhe
 
 IV - promover, em colaboração com outros órgãos técnicos e científicos do País, o conhecimento das possibilidades econômicas das plantas nativas assim como seu melhoramento.
 
-<strong>Art</strong>. 17. À S. J. compete:
+**Art**. 17. À S. J. compete:
 
 I - manter a representação viva da flora brasileira;
 
@@ -180,11 +178,11 @@ VIII - organizar viveiros de plantas nativas que por sua qualidades ornamentais 
 
 IX - exercer o policiamento na área do J. B.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da S. P. N.</em>
+*Da S. P. N.*
 
-<strong>Art</strong>. 18. À S. P. N. compete:
+**Art**. 18. À S. P. N. compete:
 
 I - estudar e propor a criação de parques, florestas nacionais e monumentos naturais, federais, estaduais e municipais;
 
@@ -198,11 +196,11 @@ V - cooperar com os Governos Estaduais, Municipais e Instituições oficiais ou 
 
 VI - divulgar, informar e fazer a propaganda dos parques, florestas e monumentos naturais do país, por meio das publicações do S. F., conferências etc., a fim de promover o melhor conhecimento dos mesmos e incentivar o turismo.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da S. P. F.</em>
+*Da S. P. F.*
 
-<strong>Art</strong>. 19. A S. P. F. compete:
+**Art**. 19. A S. P. F. compete:
 
 I - cumprir e fazer cumprir o Código Florestal e exercendo vigilância rigorosa no sentido da proteção e conservação das florestas que não êstejam diretamente subordinadas às Inspetorias Regionais;
 
@@ -234,11 +232,11 @@ XIV - realizar estudos e sugerir medidas sôbre a defesa dos mananciais, em cola
 
 Parágrafo único - Para o desempenho de suas atribuições de fiscalização das florestas, a S. P. F. deverá manter um corpo de guardas devidamente equipado.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da S. S.</em>
+*Da S. S.*
 
-<strong>Art</strong>. 20 - À S. S. compete:
+**Art**. 20 - À S. S. compete:
 
 I - realizar experimentos técnicos cientificos sôbre a prática da silvicultura;
 
@@ -264,11 +262,11 @@ XI - fornecer, gratuitamente, de acôrdo com suas possibilidades, às partiçõe
 
 XII - localizar as florestas de rendimento do País e que, como tal, poderão ser exploradas pelos seus proprietários.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da S. T.</em>
+*Da S. T.*
 
-<strong>Art</strong>. 21 - À S. T. compete:
+**Art**. 21 - À S. T. compete:
 
 I - realizar os trabalhos de anatomia e identificação de madeiras, devendo para isso manter coleções de amostras de madeiras, de preparações histológicas, e reunir, em herbário próprio, o material botânico correspondente;
 
@@ -292,11 +290,11 @@ X - promover contratos de cooperação com instituições públicas ou particula
 
 XI - organizar inquéritos para obtenção de dados necessários ao bom desempenho de suas atribuições.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Da B.</em>
+*Da B.*
 
-<strong>Art</strong>. 22 - À B. compete:
+**Art**. 22 - À B. compete:
 
 I - organizar e manter em dias os catálogos para o uso do público e os que forem necessários aos seus serviços;
 
@@ -316,7 +314,7 @@ VIII - manter um serviço de divulgação das atividades do S. F., por meio de p
 
 IX - ministrar cursos elementares destinados à divulgação de práticas e conhecimentos conducentes à criação fomento, proteção e melhor utilização das florestas do país.
 
-<strong>Art</strong>. 23. Os cursos ministrados pela B. compreendem:
+**Art**. 23. Os cursos ministrados pela B. compreendem:
 
 a) cursos elementares de jardinagem;
 
@@ -326,13 +324,13 @@ c) cursos elementares de silvicultura, destinados à formação de viveiristas e
 
 d) cursos práticos de divulgação e ensino da tecnologia de produtos florestais.
 
-Parágrafo único - Os cursos enumerados nas alíneas <em>a</em>, <em>b</em>, <em>c</em> e <em>d</em> serão ministradas de acôrdo com instruções e programas elaborados, respectivamente, pela Superintendência do Jardim e pelas Seções de Proteção Florestal, de Silvicultura e de Tecnologia e aprovados pelo Diretor do S. F.
+Parágrafo único - Os cursos enumerados nas alíneas *a*, *b*, *c* e *d* serão ministradas de acôrdo com instruções e programas elaborados, respectivamente, pela Superintendência do Jardim e pelas Seções de Proteção Florestal, de Silvicultura e de Tecnologia e aprovados pelo Diretor do S. F.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Da S. A.</em>
+*Da S. A.*
 
-<strong>Art</strong>. 24. À S. A. compete:
+**Art**. 24. À S. A. compete:
 
 I - executar, coordenar e orientar os expedientes de administração geral do S. F. devendo para isso manter-se perfeitamente articulada com o Departamento de Administração do Ministério da Agricultura, observando e fazendo observar normas e métodos de trabalho pelo mesmo prescrito;
 
@@ -366,7 +364,7 @@ XV - prestar aos interessados informações sôbre o andamento dos papéis;
 
 XVI - orientar o público em seus pedidos de informações habilitando-o a objetivar as suas pretensões;
 
-XVII - promover a publicação no <em>Diário</em> <em>Oficial</em> dos atos e decisões relativos às atividades do S. F.;
+XVII - promover a publicação no *DiárioOficial* dos atos e decisões relativos às atividades do S. F.;
 
 XVIII - passar certidões dos documentos sob sua guarda, quando assim o determinar a autoridade competente;
 
@@ -380,11 +378,11 @@ XXII - manter o serviço de portaria na sede do S. F.;
 
 XXIII - zelar pela limpeza e conservação do edíficio onde se acha instalada a sede do S. F.
 
-<strong>SEÇÃO IX</strong>
+**SEÇÃO IX**
 
-<em>Das Inspetorias Regionais</em>
+*Das Inspetorias Regionais*
 
-<strong>Art</strong>. 25. As Inspetorias Regionais exercerão nas respectivas regiões, as funções do S. F., competindo-lhes, particularmente:
+**Art**. 25. As Inspetorias Regionais exercerão nas respectivas regiões, as funções do S. F., competindo-lhes, particularmente:
 
 I – realizar experimentos técnicos-cinetíficos de acôrdo com a orientação das Seções técnicas do S. F.;
 
@@ -404,7 +402,7 @@ VIII - fornecer todos os elementos que lhes forem solicitados pelas dependência
 
 Parágrafo único - Para o desempenho de suas atribuições de fiscalização das florestas as Inspetorias Regionais deverão manter corpos de guardas devidamente equipados.
 
-<strong>Art</strong>. 26. As Inspetorias Regionais em número de 9 (nove), são as seguintes:
+**Art**. 26. As Inspetorias Regionais em número de 9 (nove), são as seguintes:
 
 1ª Inspetoria Regional (1ª I.R.), com sede em Belém e jurusdição nos Estados do Amazonas, Pará, Maranhão e nos territórios do Acre, Amapá e Rio Branco;
 
@@ -426,7 +424,7 @@ Parágrafo único - Para o desempenho de suas atribuições de fiscalização da
 
 Parágrafo único - Os interêsses florestais dos Estados do Espírito Santo e Rio de Janeiro serão atendidos diretamente pelo S. F. por intermédio de suas Seções.
 
-<strong>Art</strong>. 27. Aos Parques Nacionais compete:
+**Art**. 27. Aos Parques Nacionais compete:
 
 I - manter parafins cintíficos, educativos, estéticos ou recreativos, as árcas sob sua jurisdição de modo que a flora, a fauna e os cursos dágua conservem as suas características naturais;
 
@@ -440,9 +438,9 @@ V - remeter, por intermédio da respectiva Inspetoria Regional a sede do S. F., 
 
 VI - cumprir as determinações das Seções técnicas do S. F. na realização de experimentos observações e trabalhos de natureza cinetífica, estabelecidos pelo C. T. A.
 
-<strong>Art</strong>. 28. Os Parques Nacionais da Serra dos Órgãos e de Itatiaia exercerão as atribuições enumeradas no artigo procedente, entedendo-se, porém, diretamente, com as Seções técnicas do S. F.
+**Art**. 28. Os Parques Nacionais da Serra dos Órgãos e de Itatiaia exercerão as atribuições enumeradas no artigo procedente, entedendo-se, porém, diretamente, com as Seções técnicas do S. F.
 
-<strong>Art</strong>. 29. Às Florestas Nacionais compete:
+**Art**. 29. Às Florestas Nacionais compete:
 
 I - realizar trabalhos e pesquisas sôbre medidas de proteção desenvolvimento, regeneração e usos permanentes mais adequados das terras e florestas compeendidas na sua área de jurisdição;
 
@@ -452,7 +450,7 @@ III - prestar ampla colaboração trabalhos congêneres projetados pelos Estados
 
 IV - cumprir as determinções das Seções técnicas na realização de experimentos, observações e trabalhos de natureza cintífica, estabelecidos pelo C. T. A.
 
-<strong>Art</strong>. 30. Aos Hortos Florestais compete:
+**Art**. 30. Aos Hortos Florestais compete:
 
 I - produzir mudas de essências florestais para os seus trabalhos de reflorestamento e arborização, bem como para venda a interessados, dediante pagamento das taxas aprovadas pelo Ministro de Estado;
 
@@ -480,13 +478,13 @@ X - cumprir as determinações das seções técnicas do S. F., na realização 
 
 § 3º - Deverão ser considerados como unidades eficazes de reflorestamento apenas as plantas que, estando localizadas em lugar definitivo, ainda permaneçam em bom estado de desenvolvimento aos 2 (dois) anos de idade.
 
-<strong>Art</strong>. 31. O Hôrto Floretal de Santa Cruz exercerá as atribuições enumeradas no artigo precedente entendendo-se, porém diretamente com as Seções Técnicas do S. F.
+**Art**. 31. O Hôrto Floretal de Santa Cruz exercerá as atribuições enumeradas no artigo precedente entendendo-se, porém diretamente com as Seções Técnicas do S. F.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DOS TRABALHOS EM REGIME DE ACÔRDO</em>
+*DOS TRABALHOS EM REGIME DE ACÔRDO*
 
-<strong>Art</strong>. 32. O S. F. poderá articular os seus serviços com os Estados, Municípios, Autarquias e pessoas jurídicas de direito privado, mediante acôrdo firmado de conformidade com a Lei nº 199, de 23 de janeiro de 1936.
+**Art**. 32. O S. F. poderá articular os seus serviços com os Estados, Municípios, Autarquias e pessoas jurídicas de direito privado, mediante acôrdo firmado de conformidade com a Lei nº 199, de 23 de janeiro de 1936.
 
 § 1º Os serviços, quando articulados com os Estados, visarão especialmente:
 
@@ -504,7 +502,7 @@ f) arborização de logradouros públicos e de estradas de rodagem estaduais;
 
 g) guarda e conservação das matas ainda existentes no Estado e, quando fôr o caso, racionalização de sua exploração;
 
-§ 2º - Os acôrdos estabelecidos com as Prefeituras Municipais visarão especialmente às finalidades já especificadas nas alíneas <em>a</em>, <em>c</em> e <em>d</em> do parágrafo anterior e mais as seguintes:
+§ 2º - Os acôrdos estabelecidos com as Prefeituras Municipais visarão especialmente às finalidades já especificadas nas alíneas *a*, *c* e *d* do parágrafo anterior e mais as seguintes:
 
 a) formação de florestas de rendimento destinadas a suprirem as necessidades do município;
 
@@ -524,17 +522,17 @@ d) manutenção de postos de reflorestamento para o uso prórpio.
 
 e) ensino da técnica de reflorestamento aos interessados na região circuvizinha.
 
-<strong>Art</strong>. 33. Os serviços Articulados compreenderão as dependências do S. F. e as outra parte acordante, que forem indicadas no têrmo do acôrdo, e as repartições e estabelecimentos mantidos por conta da dotação especial, a que se refere o art. 35 dêste Regimento.
+**Art**. 33. Os serviços Articulados compreenderão as dependências do S. F. e as outra parte acordante, que forem indicadas no têrmo do acôrdo, e as repartições e estabelecimentos mantidos por conta da dotação especial, a que se refere o art. 35 dêste Regimento.
 
-<strong>Art</strong>. 34. Nos Estados - sede de Inspetorias Regionais - o Chefe da Inspetoria Regional será o executador dos Serviços Articulados com o Govêrno do Estado, a êle ficando diretamente subordinados os Executados dos demais acôrdos existentes no Estado.
+**Art**. 34. Nos Estados - sede de Inspetorias Regionais - o Chefe da Inspetoria Regional será o executador dos Serviços Articulados com o Govêrno do Estado, a êle ficando diretamente subordinados os Executados dos demais acôrdos existentes no Estado.
 
-<strong>Art</strong>. 35. Nos Estados que não forem sede de Inspetorias Regionais, os Serviços Articulados com o Govêrno do Estado ficarão a cargo de Executados de Acôrdos Estaduais ou, na falta dêstes, a cargo do Chefe da Inspetoria Regional a cuja jurisdição pertencerem, a êles ficando diretamente subordinados os Executados dos demais acôrdos existentes no Estado.
+**Art**. 35. Nos Estados que não forem sede de Inspetorias Regionais, os Serviços Articulados com o Govêrno do Estado ficarão a cargo de Executados de Acôrdos Estaduais ou, na falta dêstes, a cargo do Chefe da Inspetoria Regional a cuja jurisdição pertencerem, a êles ficando diretamente subordinados os Executados dos demais acôrdos existentes no Estado.
 
 Parágrafo único. Os Executados de Acordos Estaduais celebrados com os Governos dos Estados que não forem sede de Inspetoria Regional ficarão diretamente subordinados ao chefe da Inspetoria Regional a cuja jurisdição pertencerem os Estados.
 
-<strong>Art</strong>. 36. Os Executados dos Acordos Florestais de que trata êste Regimento serão designados pelo Ministro do Estado da Agricultura dentre os agrônomos do Ministério da Agricultura, ou dos Estados, Prefeituras ou entidades interessadas mediante indicação do Diretor do S. F.
+**Art**. 36. Os Executados dos Acordos Florestais de que trata êste Regimento serão designados pelo Ministro do Estado da Agricultura dentre os agrônomos do Ministério da Agricultura, ou dos Estados, Prefeituras ou entidades interessadas mediante indicação do Diretor do S. F.
 
-<strong>Art</strong>. 37. Além dos recursos orçamentários normais do S. F os Serviços Articulados terão dotação especial estabelecida no têrmo do Acôrdo.
+**Art**. 37. Além dos recursos orçamentários normais do S. F os Serviços Articulados terão dotação especial estabelecida no têrmo do Acôrdo.
 
 § 1º A dotação a que se refere êste artigo, será constituída por uma cota da União e outra das Entidades interessadas e prèviamente ajustadas conforme as possibilidades financeiras de cada parte acordante.
 
@@ -544,17 +542,17 @@ Parágrafo único. Os Executados de Acordos Estaduais celebrados com os Governos
 
 § 4º O recolhimento das cotas será feito nas importâncias totais ou em parcelas trimestrais ou semestrais, conforme estipular o têrmo do Acôrdo.
 
-<strong>Art</strong>. 38. Por conta da dotação especial, serão atendidas as despesas com os Serviços Articulados, resultantes da execução do plano de trabalho aprovado pelo Ministro e de providências determinadas ou autorizadas pelo Diretor do S. F.
+**Art**. 38. Por conta da dotação especial, serão atendidas as despesas com os Serviços Articulados, resultantes da execução do plano de trabalho aprovado pelo Ministro e de providências determinadas ou autorizadas pelo Diretor do S. F.
 
-<strong>Art</strong>. 39. A despesa com o pagamento das vantagens a que se fizer jus o pessoal admitido à conta da dotação especial, correrá pela própria dotação especial.
+**Art**. 39. A despesa com o pagamento das vantagens a que se fizer jus o pessoal admitido à conta da dotação especial, correrá pela própria dotação especial.
 
-<strong>Art</strong>. 40. Não poderá exceder de 50% da dotação especial, salvo prévia autorização do Ministro, a quantia a ser despendida com o pessoal admitido à sua conta.
+**Art**. 40. Não poderá exceder de 50% da dotação especial, salvo prévia autorização do Ministro, a quantia a ser despendida com o pessoal admitido à sua conta.
 
-<strong>Art</strong>. 41. A aquisição de material de curso unitário de Cr$5.000,00 até Cr$10.000,00 dependerá de prévia autorização do Diretor do S. F. e, acima dêsde limite, do Ministro da Agricultura.
+**Art**. 41. A aquisição de material de curso unitário de Cr$5.000,00 até Cr$10.000,00 dependerá de prévia autorização do Diretor do S. F. e, acima dêsde limite, do Ministro da Agricultura.
 
-<strong>Art</strong>. 42. Todo material adquirido por conta da dotação especial deverá ser devidamente registrado.
+**Art**. 42. Todo material adquirido por conta da dotação especial deverá ser devidamente registrado.
 
-<strong>Art</strong>. 43. A prestação de contas da dotação especial será feita anualmente, até 31 de janeiro ao ano seguinte e encaminhada pela forma devida, em 3 vias ao Diretor do S. F, pela aprovação do Ministro da Agricultura, observado o seguinte:
+**Art**. 43. A prestação de contas da dotação especial será feita anualmente, até 31 de janeiro ao ano seguinte e encaminhada pela forma devida, em 3 vias ao Diretor do S. F, pela aprovação do Ministro da Agricultura, observado o seguinte:
 
 a) as despesas deverão ser classificadas, nos documentos respectivos, à conta da dotação especial;
 
@@ -562,17 +560,17 @@ b) a prestação de contas será acompanhada de uma conta corrente explicativa p
 
 Parágrafo único. Uma vez aprovada a prestação de contas, uma de suas vias será encaminhada à outra parte acordante.
 
-<strong>Art</strong>. 44. Os signatários dos Acôrdos Florestais com o Govêrno Federal poderão, sempre que julgarem conveniente, verificar a aplicação da respectiva dotação especial e inteirar-se da execução dos trabalhos.
+**Art**. 44. Os signatários dos Acôrdos Florestais com o Govêrno Federal poderão, sempre que julgarem conveniente, verificar a aplicação da respectiva dotação especial e inteirar-se da execução dos trabalhos.
 
-<strong>Art</strong>.. 45. Compete aos executados dos Acôrdos Florestais admitir o pessoal pago por mês e por dia de trabalho, à conta da dotação especial, bem como sua movimentação e dispensa.
+**Art**.. 45. Compete aos executados dos Acôrdos Florestais admitir o pessoal pago por mês e por dia de trabalho, à conta da dotação especial, bem como sua movimentação e dispensa.
 
-<strong>Art</strong>. 46. Na fixação do salário par o pessoal admitido à conta da dotação especial, ter-se-á em vista a região e a natureza do trabalho, bem como os salários fixados para os extranumerários da União, cujos limites máximos não poderão ser excedidos.
+**Art**. 46. Na fixação do salário par o pessoal admitido à conta da dotação especial, ter-se-á em vista a região e a natureza do trabalho, bem como os salários fixados para os extranumerários da União, cujos limites máximos não poderão ser excedidos.
 
-<strong>Art</strong>. 47. A admissão do pessoal pago por mês será procedida de aprovação, pelo Ministro da respectiva relação numérica.
+**Art**. 47. A admissão do pessoal pago por mês será procedida de aprovação, pelo Ministro da respectiva relação numérica.
 
 Parágrafo único. O pessoal será admitido por meio de portarias, baixadas pelos Executados dos Acôrdos, que darão conhecimento dêsses atos à autoridades superiores competentes.
 
-<strong>Art</strong>. 48. A admissão de servidores para os serviços articulados, à conta da dotação especial, serão exigidos:
+**Art**. 48. A admissão de servidores para os serviços articulados, à conta da dotação especial, serão exigidos:
 
 a) prova de capacidade para a função;
 
@@ -582,11 +580,11 @@ c) prova de quitação com o serviço militar;
 
 d) atestado de vacina;
 
-Parágrafo único. Tratando-se de diaristas, poderão ser dispensadas as exigências das alíneas <em>c</em> e <em>d</em>.
+Parágrafo único. Tratando-se de diaristas, poderão ser dispensadas as exigências das alíneas *c* e *d*.
 
-<strong>Art</strong>. 49. Para efeito de aplicação de penalidade e fixação de deveres e responsabilidades, os servidores admitidos à conta da dotação especial são equiparados aos extranumerários União.
+**Art**. 49. Para efeito de aplicação de penalidade e fixação de deveres e responsabilidades, os servidores admitidos à conta da dotação especial são equiparados aos extranumerários União.
 
-<strong>Art</strong>. 50. Aos executores de Acôrdos firmados com os Governos dos Estados que forem sede de Inspetoria Regional, compete, além da execução do respectivo Acôrdo, o seguinte:
+**Art**. 50. Aos executores de Acôrdos firmados com os Governos dos Estados que forem sede de Inspetoria Regional, compete, além da execução do respectivo Acôrdo, o seguinte:
 
 a) fiscalizar e orientar ou executar os trabalhos dos demais Acordos Florestais, existentes na sua Região;
 
@@ -596,7 +594,7 @@ c) apresentar ao Diretor do S. F.; simestralmente, com relatório dos trabalhos,
 
 d) organizar e submeter à prévia aprovação do Ministro, por intermédio do S. F., o programa anual para os trabalhos dos Acordos de que fôr Executor e encaminhar, para o mesmo fim, aquêles relativos aos demais Acordos existentes na Região.
 
-<strong>Art</strong>. 51. Aos Executores dos Acordos firmados com os Governos dos Estados que não forem sede de Inspetores Regionais, compete:
+**Art**. 51. Aos Executores dos Acordos firmados com os Governos dos Estados que não forem sede de Inspetores Regionais, compete:
 
 a) executar os serviços de Acôrdo firmado com o Govêrno estadual;
 
@@ -610,7 +608,7 @@ e) apresentar ao Chefe da respectiva Inspetoria Regional, semestralmente, com o 
 
 f) organizar, a fim de ser submetido a prévia aprovação do Ministro, o programa anual dos trabalhos dos Acôrdos de que fôr Executor e encaminhar, para o mesmo fim, aquêles relativos aos demais Acôrdos, existentes no Estado.
 
-<strong>Art</strong>. 52. Aos Executores dos Acôrdos firmados com Municípios, Autarquias e pessoas de direito privado compete:
+**Art**. 52. Aos Executores dos Acôrdos firmados com Municípios, Autarquias e pessoas de direito privado compete:
 
 a) dirigir a execução dos trabalhos sob regime de Acôrdo;
 
@@ -622,35 +620,35 @@ d) apresentar ao Executor do Acôrdo Florestal estadual, semestralmente, com o r
 
 e) organizar, para ser submetido a prévia aprovação do Ministro o programa anual para os trabalhos do Acôrdo.
 
-<strong>Art</strong>. 53. Ao pessoal com exercício nos Serviços Articuladores caberá as atribuições que lhe forem conferidas pelos respectivos Executores, de conformidade com a necessidade dos serviços.
+**Art**. 53. Ao pessoal com exercício nos Serviços Articuladores caberá as atribuições que lhe forem conferidas pelos respectivos Executores, de conformidade com a necessidade dos serviços.
 
-<strong>Art</strong>. 54. As rendas, provenientes dos serviços sob regime de Acôrdo, serão recolhidas às Repartições arrecadadoras federais, estaduais, municipais ou autárquicas, conforme o caso, proporcionalmente às cotas de cada um dos acordantes, destinadas à realização do Acôrdo.
+**Art**. 54. As rendas, provenientes dos serviços sob regime de Acôrdo, serão recolhidas às Repartições arrecadadoras federais, estaduais, municipais ou autárquicas, conforme o caso, proporcionalmente às cotas de cada um dos acordantes, destinadas à realização do Acôrdo.
 
 Parágrafo único - Obedecer-se-á o mesmo critério, quando se tratar de Acôrdos em entidades de direito privado, recolhendo-se a cota dessas entidades às respectivas tesourarias.
 
-<strong>Art</strong>. 55. As cotas integrantes da dotação especial serão aplicadas, exclusivamente, pelos Executivos dos Acôrdos florestais, de conformidade com o programa de serviços previamente estabelecido o segundo as normas legais em vigor.
+**Art**. 55. As cotas integrantes da dotação especial serão aplicadas, exclusivamente, pelos Executivos dos Acôrdos florestais, de conformidade com o programa de serviços previamente estabelecido o segundo as normas legais em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS EXCURSÕES</em>
+*DAS EXCURSÕES*
 
-<strong>Art</strong>. 56. As excursões a que se refere o art. 7º item III, dêste Regimento, serão de 2 tipos:
+**Art**. 56. As excursões a que se refere o art. 7º item III, dêste Regimento, serão de 2 tipos:
 
 a) as grandes excursões que se deverão realizar uma vez por ano, reunindo o maior número possível de técnicos das diversas dependências do S.F., com duração mínima de três meses, sendo providenciados todos os recursos, antecipadamente, para a obtenção do seu maior êxito;
 
 b) as pequenas excursões que se deverão realizar tantas vêzes quantas forem convenientes, segundo as necessidades das diversas Seções técnicas e dentro das possibilidades materiais e financeiras do S.F.
 
-<strong>Art</strong>. 57. As excursões, além dos objetivos que as determinarem, terão sempre a finalidade de colheita de material botânico sêco para herbário, e vivo, destinado ao arboretum do J.B.
+**Art**. 57. As excursões, além dos objetivos que as determinarem, terão sempre a finalidade de colheita de material botânico sêco para herbário, e vivo, destinado ao arboretum do J.B.
 
-<strong>Art</strong>. 58. Cada excursão será chefiada pelo Diretor do S.F. ou por servidor por êle designado.
+**Art**. 58. Cada excursão será chefiada pelo Diretor do S.F. ou por servidor por êle designado.
 
 Parágrafo único - O chefe de cada excursão apresentará relatório circunstanciado, em duas vias, devidamente ilustrado com fotografias, o qual será submetido à apreciação do C.T.A. pelo Diretor do S.F., a quem caberá designar um dos participantes da excursão para realizar conferência sôbre a mesma, dentro do menor prazo possível, no auditório do S.F.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 59. Ao Diretor do S.F. incumbe:
+**Art**. 59. Ao Diretor do S.F. incumbe:
 
 I - dirigir, coordenar e fiscalizar os trabalhos do S.F.;
 
@@ -696,7 +694,7 @@ XXI - cumprir e fazer cumprir as deliberações do C.T.A.;
 
 XXII - designar relator para os processos os caos submetidos à deliberação do C.T.A.
 
-<strong>Art</strong>. 60. Ao Diretor do J.B. incumbe:
+**Art**. 60. Ao Diretor do J.B. incumbe:
 
 I - dirigir, coordenar e fiscalizar as atividades do J.B.;
 
@@ -722,7 +720,7 @@ XI - organizar e alterar a escala de férias do pessoal que lhe fôr diretamente
 
 XII - aplicar penas disciplinares, inclusive a de suspensão até 15 (quinze) dias, aos seus subordinados, e propor ao Diretor do S.F. a aplicação de penalidades que escape à sua alçada.
 
-<strong>Art</strong>. 61. Aos Chefes de Seção do S.F. e do J.B., bem como ao Chefe da B. incumbe dirigir e fiscalizar os serviços das respectivas dependências, devendo para tanto:
+**Art**. 61. Aos Chefes de Seção do S.F. e do J.B., bem como ao Chefe da B. incumbe dirigir e fiscalizar os serviços das respectivas dependências, devendo para tanto:
 
 I - executar e fazer executar o plano de trabalho elaborado pelo C.T.A. na parte referente às respectivas dependências;
 
@@ -736,7 +734,7 @@ V - organizar e submeter à aprovação do Diretor a escala de férias do pessoa
 
 VI - apresentar, trimestralmente, ao Diretor respectivo, um boletim dos trabalhos realizados e, anualmente, um relatório dos trabalhos realizados, em andamento ou planejados.
 
-<strong>Art</strong>. 62. Ao Superintendente do J.B. Compete dirigir e fiscalizar os serviços da S.J. devendo para tanto:
+**Art**. 62. Ao Superintendente do J.B. Compete dirigir e fiscalizar os serviços da S.J. devendo para tanto:
 
 I - executar e fazer executar o plano de trabalho elaborado pelo C.T.A., na parte referente à S.J.;
 
@@ -754,7 +752,7 @@ VII - superintender os trabalhos de construções ligeiras, reparos de alvenaria
 
 VIII - providenciar a derrubada das casas construídas, no terreno do J.B. que, por sua localização, sejam consideradas prejudiciais.
 
-<strong>Art</strong>. 63. Aos Chefes das Inspetorias Regionais incumbe:
+**Art**. 63. Aos Chefes das Inspetorias Regionais incumbe:
 
 I - dirigir, coordenar e fiscalizar os trabalhos da respectiva I.R.;
 
@@ -774,7 +772,7 @@ VIII - organizar e alterar a escala de férias do pessoal que lhe fôr diretamen
 
 IX - aplicar penas disciplinares, inclusive a de suspensão até 15 (quinze) dias, aos seu subordinados, e propor ao Diretor do S.F. a aplicação de penalidade que escape à sua alçada.
 
-<strong>Art</strong>. 64. Aos Administradores de Parques Nacionais, Florestas Nacionais e Hortos Florestais, incumbe dirigir e fiscalizar os serviços das respectivas dependências, devendo para tanto:
+**Art**. 64. Aos Administradores de Parques Nacionais, Florestas Nacionais e Hortos Florestais, incumbe dirigir e fiscalizar os serviços das respectivas dependências, devendo para tanto:
 
 I - executar e fazer executar o plano de trabalho elaborado pelo C.T.A., na parte referente ao respectivo setor;
 
@@ -782,7 +780,7 @@ II - apresentar, trimestralmente, à autoridade superior competente, um boletim 
 
 III - aplicar ao pessoal seu subordinado, penas disciplinares até a de suspensão por 3 (três) dias e representar à autoridade superior competente, quando a penalidade exceder de sua alçada.
 
-<strong>Art</strong>. 65. Ao Secretário do Diretor do S.F. incumbe:
+**Art**. 65. Ao Secretário do Diretor do S.F. incumbe:
 
 I - executar os trabalhos que lhe forem determinados pelo Diretor;
 
@@ -794,31 +792,31 @@ IV - redigir a correspondência pessoal do Diretor;
 
 V - auxiliar o Diretor na confecção dos relatórios das atividades do S.F., devendo, para isso, ter sempre coligidos os dados necessários.
 
-<strong>Art</strong>. 66. Aos servidores que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
+**Art**. 66. Aos servidores que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 67. O S.F. terá a lotação que fôr estabelecida em decreto.
+**Art**. 67. O S.F. terá a lotação que fôr estabelecida em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação o S.F. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 68. O horário do S.F. será fixado pelo Diretor, respeitando o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 68. O horário do S.F. será fixado pelo Diretor, respeitando o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
 Parágrafo único. Os trabalhos de campo serão no mínimo de oito horas diárias.
 
-<strong>Art</strong>. 69. Os Diretores do S.F. e do J.B. não estão sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 69. Os Diretores do S.F. e do J.B. não estão sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 70. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 70. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - O Diretor do S.F. pelo Diretor do J.B. ou por um Chefe de Seção do S.F., conforme designação feita pelo Ministro de Estado, mediante indicação do Diretor do S.F.;
 
@@ -828,44 +826,44 @@ III - Os Chefes de Seção do S.F. e do J.B., da Biblioteca, e os das Inspetoria
 
 Parágrafo único. Haverá sempre servidores designados previamente para as substituições de que trata o presente artigo.
 
-<strong>Art</strong>. 71. Nas suas faltas e impedimentos, o Presidente do C.T.A. será substituído pelo servidor que fôr o seu substituto eventual na direção do S.F. e, na ausência dêste, pelo mais idoso dos membros presentes a cada sessão.
+**Art**. 71. Nas suas faltas e impedimentos, o Presidente do C.T.A. será substituído pelo servidor que fôr o seu substituto eventual na direção do S.F. e, na ausência dêste, pelo mais idoso dos membros presentes a cada sessão.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 72. O cargo de Diretor do S.F. é privativo de agrônomo ou engenheiro-agronômo, com diploma devidamente registrado no órgão competente do Ministério da Agricultura.
+**Art**. 72. O cargo de Diretor do S.F. é privativo de agrônomo ou engenheiro-agronômo, com diploma devidamente registrado no órgão competente do Ministério da Agricultura.
 
-<strong>Art</strong>. 73. As funções de Chefia das Seções de Parques Nacionais, Proteção Florestal, Silvicultura e Tecnologia de Produtos Florestais serão preferentemente exercidas por agrônomos silvicultores lotados no S.F.
+**Art**. 73. As funções de Chefia das Seções de Parques Nacionais, Proteção Florestal, Silvicultura e Tecnologia de Produtos Florestais serão preferentemente exercidas por agrônomos silvicultores lotados no S.F.
 
-<strong>Art</strong>. 74. O S.F. poderá objetivando as finalidades que a lei lhe confere, realizar, em cooperação com os respectivos proprietários, trabalhos em propriedades particulares, mediante contrato em que, dentro das suas possibilidades, se obrigue à prestação de assistência técnica, fornecimento de sementes e empréstimo de máquinas e ferramentas, contra a sujeição da outra parte interessada às condições que forem estabelecidas nos têrmos do contrato.
+**Art**. 74. O S.F. poderá objetivando as finalidades que a lei lhe confere, realizar, em cooperação com os respectivos proprietários, trabalhos em propriedades particulares, mediante contrato em que, dentro das suas possibilidades, se obrigue à prestação de assistência técnica, fornecimento de sementes e empréstimo de máquinas e ferramentas, contra a sujeição da outra parte interessada às condições que forem estabelecidas nos têrmos do contrato.
 
-<strong>Art</strong>. 75. Nenhum servidor do S.F. poderá fazer publicações ou dar entrevista sôbre assuntos que se relacionem com a organização e as atividades do S.F., sem autorização escrita do Diretor.
+**Art**. 75. Nenhum servidor do S.F. poderá fazer publicações ou dar entrevista sôbre assuntos que se relacionem com a organização e as atividades do S.F., sem autorização escrita do Diretor.
 
-<strong>Art</strong>. 76. O Diretor do S.F., o Diretor do J.B. e os Administradores de Parques Nacionais, Florestas Nacionais e Hortos Florestais, residirão, obrigatoriamente, nas sedes dos serviços respectivos.
+**Art**. 76. O Diretor do S.F., o Diretor do J.B. e os Administradores de Parques Nacionais, Florestas Nacionais e Hortos Florestais, residirão, obrigatoriamente, nas sedes dos serviços respectivos.
 
-<strong>Art</strong>. 77. Os Hortos Florestais serão localizados nas zonas florestais mais importantes no País, devendo preencher as seguintes condições:
+**Art**. 77. Os Hortos Florestais serão localizados nas zonas florestais mais importantes no País, devendo preencher as seguintes condições:
 
 a) área mínima de 250 hectares de terra, servida por cursos d'água ou aguadas apropriadas à sua manutenção;
 
 b) localização em zonas salubres servidas por estradas de ferro ou de rodagem, companhias de transporte, comunicação, etc.
 
-<strong>Art</strong>. 78. O Serviço Florestal cooperará com a Divisão do Fomento da Produção Vegetal, do D.N.P.V., no sentido de promover medidas de defesa, fomento e fiscalização florestais, especialmente nas localidades do País em que não houver órgão ou agente expressamente autorizado pelo S.F., para aludidos fins.
+**Art**. 78. O Serviço Florestal cooperará com a Divisão do Fomento da Produção Vegetal, do D.N.P.V., no sentido de promover medidas de defesa, fomento e fiscalização florestais, especialmente nas localidades do País em que não houver órgão ou agente expressamente autorizado pelo S.F., para aludidos fins.
 
-<strong>Art</strong>. 79. O S.F. além da cooperação mencionada no artigo anterior, deverá ainda manter-se em contato permanente com outras entidades públicas e particulares que exerçam atividades afins do setor florestal, sempre que êsse contato venha a contribuir para o melhor desempenho de suas atribuições.
+**Art**. 79. O S.F. além da cooperação mencionada no artigo anterior, deverá ainda manter-se em contato permanente com outras entidades públicas e particulares que exerçam atividades afins do setor florestal, sempre que êsse contato venha a contribuir para o melhor desempenho de suas atribuições.
 
-<strong>Art</strong>. 80. Cada órgão do S.F. fornecerá, no tocante às suas atribuições, ao Serviço de Informações Agrícola, sob a forma de artigos, tópicos e notícias, os elementos necessários à divulgação, das finalidades do S.F., e dos trabalhos que êste realizar, procurando, assim, despertar o interêsse geral pelos assuntos florestais e fazer chegar ao público informações atualizadas sôbre a legislação relativa à utilização e conservação das florestas.
+**Art**. 80. Cada órgão do S.F. fornecerá, no tocante às suas atribuições, ao Serviço de Informações Agrícola, sob a forma de artigos, tópicos e notícias, os elementos necessários à divulgação, das finalidades do S.F., e dos trabalhos que êste realizar, procurando, assim, despertar o interêsse geral pelos assuntos florestais e fazer chegar ao público informações atualizadas sôbre a legislação relativa à utilização e conservação das florestas.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 81. O C.T.A. organizará o plano do melhor aproveitamento dos terrenos do J.B., localizando a área destinada às casas residenciais, para as quais serão transferidos os atuais ocupantes daquelas que tiverem de ser demolidas em proveito do mencionado plano.
+**Art**. 81. O C.T.A. organizará o plano do melhor aproveitamento dos terrenos do J.B., localizando a área destinada às casas residenciais, para as quais serão transferidos os atuais ocupantes daquelas que tiverem de ser demolidas em proveito do mencionado plano.
 
 Parágrafo único. Enquanto não fôr organizado o plano a que se refere êsse artigo, fica terminantemente proibida a construção, nos terrenos do J.B., de novas casas residenciais ou acréscimos nas existentes.
 
-<strong>Art</strong>. 82. As funções de Chefe de Inspetoria Regional serão exercidas sem prejuízo da do cargo de funcionário e não será remunerada.
+**Art**. 82. As funções de Chefe de Inspetoria Regional serão exercidas sem prejuízo da do cargo de funcionário e não será remunerada.
 
 Rio de Janeiro, em 8 de janeiro de 1951.
 
-<strong>A. DE NOVAIS FILHO</strong>
+**A. DE NOVAIS FILHO**

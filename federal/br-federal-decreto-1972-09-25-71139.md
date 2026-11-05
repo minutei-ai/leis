@@ -1,5 +1,3 @@
-###DEC-071139-0-000-25-09-1972@@@
-
 DECRETO Nº 71.139, de 25 de setembro de 1972.
 
 Torna sem efeito o Decreto número 69.847,de 28 de dezembro de 1971.

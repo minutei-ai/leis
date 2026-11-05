@@ -1,5 +1,3 @@
-###DEC-061060-0-000-26-07-1967@@@
-
 decreto Nº 61.060, DE 26 DE JULHO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Estrêla do Sul e Santa Rita de Estrêla, município de Estrêla do Sul, estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S.A. CEMIG em todo o município de Estrêla do Sul, estado de Minas Gerais.

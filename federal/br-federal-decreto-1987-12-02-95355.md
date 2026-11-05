@@ -1,5 +1,3 @@
-###DEC-095355-0-000-02-12-1987@@@
-
 DECRETO Nº 95.355, DE 02 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO BOA ESPERANÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Padre Marcos, Estado do Piauí.

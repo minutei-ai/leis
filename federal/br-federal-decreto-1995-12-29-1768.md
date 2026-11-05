@@ -1,5 +1,3 @@
-###DEC-001768-0-000-29-12-1995@@@
-
 DECRETO Nº 1.768, DE 29 DE DEZEMBRO DE 1995
 
 Dispõe sobre o prazo para convocação de assembléia geral de acionistas, previsto no art. 3º do Decreto nº 1.746, de 14 de dezembro de 1995.

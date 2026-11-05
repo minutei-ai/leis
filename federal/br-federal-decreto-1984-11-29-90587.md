@@ -1,5 +1,3 @@
-###DEC-090587-0-000-29-11-1984@@@
-
 Decreto nº 90.587, de 29 de novembro de 1984
 
 Autoriza o funcionamento da Faculdade de Enfermagem de Jequié da Autarquia Universidade do Sudoeste - BA.

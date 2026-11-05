@@ -1,5 +1,3 @@
-###DEC-091181-0-000-02-04-1985@@@
-
 Decreto nº 91.181, de 02 de abril de 1985
 
 Autoriza o funcionamento do curso emergencial de graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º grau da Faculdade de Filosofia do Recife.

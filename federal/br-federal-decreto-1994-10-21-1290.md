@@ -1,7 +1,3 @@
-1
-
-###DEC-001290-0-000-21-10-1994@@@
-
 DECRETO N.º 1.290, DE 21 DE OUTUBRO DE 1994
 
 Estabelece os pontos apropriados para o traçado das Linhas de Base Retas ao longo da costa brasileira.

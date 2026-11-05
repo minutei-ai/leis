@@ -1,5 +1,3 @@
-###DEC-087537-0-000-31-08-1982@@@
-
 DECRETO Nº 87.537, DE 31 DE AGOSTO DE 1982
 
 Autoriza o Banco de Desenvolvimento de Minas Gerais a garantir empréstimo a ser contraído no exterior pela FIAT AUTOMÓVEIS S.A., nas condições que menciona.

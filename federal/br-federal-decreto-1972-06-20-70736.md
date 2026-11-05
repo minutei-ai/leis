@@ -1,5 +1,3 @@
-###DEC-070736-0-000-20-06-1972@@@
-
 DECRETO Nº 70.736, DE 20 DE JUNHO DE 1972.
 
 Autoriza a Companhia Brasileira de Dragagem - CBD - Sociedade de Economia Mista, jurisdicionada ao Ministério dos Transportes, a operar no Brasil, com embarcações estrangeiras, na dragagem dos canais de acesso ao Cais de Minérios e Carvão e do Cais de São Cristóvão, no porto do Rio de Janeiro, dos canais de acesso e bacia de evolução dos portos de Rio Grande, Paranaguá e Santos.

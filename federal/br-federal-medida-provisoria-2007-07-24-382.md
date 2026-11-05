@@ -1,5 +1,3 @@
-###MPV-000382-0-000-24-07-2007@@@
-
 MEDIDA PROVISÓRIA Nº 382, DE 24 DE JULHO DE 2007.
 
 Dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capital destinados à produção dos bens relacionados nos Anexos I e II da Lei no 10.485, de 3 de julho de 2002, e dos produtos classificados na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006; autoriza a concessão de  subvenção econômica nas operações de empréstimo e financiamento destinadas às empresas  dos setores de calçados e artefatos de couro, têxtil,  de confecção e de móveis de madeira; e dá outras providências.
@@ -81,5 +79,3 @@ Fernando Haddad
 Carlos Lupi
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 25.7.2007

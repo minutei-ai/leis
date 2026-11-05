@@ -1,5 +1,3 @@
-###DEC-057479-0-000-24-12-1965@@@
-
 DECRETO Nº 57.479, DE 24 DE DEZEMBRO DE 1965.
 
 Revoga o dispositivo do Regulamento aprovado pelo Decreto nº 41.475, de 8 de maio de 1957.

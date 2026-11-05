@@ -1,5 +1,3 @@
-###DEC-058470-0-000-17-05-1966@@@
-
 DECRETO Nº 58.470, DE 17 DE MAIO DE 1966.
 
 Outorga à Companhia Mantenense de Eletricidade concessão para o aproveitamento progressivo de energia hidráulica.

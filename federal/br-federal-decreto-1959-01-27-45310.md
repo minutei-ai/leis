@@ -1,5 +1,3 @@
-###DEC-045310-0-000-27-01-1959@@@
-
 DECRETO Nº 45.310, DE 27 DE JANEIRO DE 1959.
 
 Autoriza a emprêsa de mineração Pires, Carneiro S.A. a pesquisar calcário no município de Capanema, Estado do Pará.

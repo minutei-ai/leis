@@ -1,5 +1,3 @@
-###DEC-094306-0-000-04-05-1987@@@
-
 DECRETO Nº 94.306, DE 4 DE MAIO DE 1987.
 
 Altera dispositivo do Decreto nº 91.539, de 19 de agosto de 1985, modificado pelo Decreto nº 93.483, de 29 de outubro de 1986, e dá outras providências.

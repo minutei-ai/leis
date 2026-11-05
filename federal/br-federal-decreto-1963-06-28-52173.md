@@ -1,5 +1,3 @@
-###DEC-052173-0-000-28-06-1963@@@
-
 DECRETO Nº 52.173, DE 28 DE JUNHO DE 1963.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços e da outras providência.

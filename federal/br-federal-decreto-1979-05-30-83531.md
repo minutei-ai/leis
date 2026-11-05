@@ -1,5 +1,3 @@
-###DEC-083531-0-000-30-05-1979@@@
-
 dECRETO Nº 83.531, DE 30 DE MAIO DE 1979.
 
 Cassa a concessão outorgada à Nova Rádio Independência Ltda,. Para estabelecer, na cidade de Monteiro, Estado da Paraíba, uma estação de radiodifusão sonora em onda média de âmbito regional.

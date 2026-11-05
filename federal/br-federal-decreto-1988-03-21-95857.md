@@ -1,7 +1,3 @@
-1
-
-###DEC-095857-0-000-21-03-1988@@@
-
 DECRETO Nº 95.857, DE 21 DE MARÇO DE 1988
 
 Concede a THE ASHOKA SOCIETY, autorização para funcionar com uma filial no Brasil.

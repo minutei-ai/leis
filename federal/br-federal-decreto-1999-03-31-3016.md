@@ -1,5 +1,3 @@
-###DEC-003016-0-000-31-03-1999@@@
-
 DECRETO Nº 3.016, DE 31 DE MARÇO DE 1999.
 
 Considera de natureza militar os cargos ocupados por militares da ativa no Gabinete do Ministro de Estado Extraordinário da Defesa.

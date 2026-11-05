@@ -1,5 +1,3 @@
-###DEC-054629-0-000-27-10-1964@@@
-
 DECRETO Nº 54.629, DE 27 DE OUTUBRO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Sul Brasil de Seguros Terrestres e Marítimos, inclusive aumento do capital social.

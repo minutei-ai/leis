@@ -1,5 +1,3 @@
-###DEC-085527-0-000-16-12-1980@@@
-
 Decreto nº 85.527, de 16 de dezembro de 1980.
 
 Altera a composição dos Conselhos Deliberativos das Superintendências de Desenvolvimento Regional.

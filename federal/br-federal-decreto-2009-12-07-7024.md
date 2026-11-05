@@ -1,5 +1,3 @@
-###DEC-007024-0-000-07-12-2009@@@
-
 DECRETO Nº 7.024, DE 7 DE DEZEMBRO DE 2009.
 
 Regulamenta a alínea “e” do inciso XXIV do art. 27 da Lei no 10.683, de 28 de maio de 2003.

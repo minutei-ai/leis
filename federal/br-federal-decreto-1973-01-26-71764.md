@@ -1,5 +1,3 @@
-###DEC-071764-0-000-26-01-1973@@@
-
 DECRETO Nº 71.764, DE 26 DE JANEIRO DE 1973.
 
 Retifica o Decreto Coletivo nº 71.038, de 29 de agosto de 1972, que declarou de utilidade pública várias Sociedades Civis.

@@ -1,5 +1,3 @@
-###DEC-001860-0-000-11-04-1996@@@
-
 DECRETO Nº 1.860, DE 11 DE ABRIL DE 1996
 
 Concede indulto especial condicional, e dá outras providências

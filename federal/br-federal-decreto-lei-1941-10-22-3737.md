@@ -1,5 +1,3 @@
-###DEL-003737-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.737 – DE 22 DE OUTUBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saude

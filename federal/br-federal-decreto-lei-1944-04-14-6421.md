@@ -1,5 +1,3 @@
-###DEL-006421-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.421 – DE 14 DE ABRIL DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 300.000,00 para os trabalhos de prevenção e combate à gripe, e dá outras providências

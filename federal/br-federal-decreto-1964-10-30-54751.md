@@ -1,5 +1,3 @@
-###DEC-054751-0-000-30-10-1964@@@
-
 Decreto nº 54.751, de 30 de outubro de 1964.
 
 Declara de utilidade pública o “Lar São Judas Tadeu” com sede em Pindamonhangaba, Estado de São Paulo.

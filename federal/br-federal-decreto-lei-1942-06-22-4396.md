@@ -1,5 +1,3 @@
-###DEL-004396-0-000-22-06-1942@@@
-
 DECRETO-LEI N. 4.396 – DE 22 DE JUNHO DE 1942
 
 Concede subvenções às linhas aéreas mantidas pela S.A. Empresa de Viação Aérea Rio Grandense, e dá outras providências

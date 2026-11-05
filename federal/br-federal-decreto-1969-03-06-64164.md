@@ -1,5 +1,3 @@
-###DEC-064164-0-000-06-03-1969@@@
-
 DECRETO Nº 64.164, DE 6 DE MARÇO DE 1969.
 
 Autoriza o funcionamento do Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras "Santa Úrsula".

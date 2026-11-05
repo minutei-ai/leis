@@ -1,5 +1,3 @@
-###MPV-001576-0-000-05-06-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.576, DE 5 DE JUNHO DE 1997
 
 Dispõe sobre a extinção dos órgãos que menciona e dá outras providências.

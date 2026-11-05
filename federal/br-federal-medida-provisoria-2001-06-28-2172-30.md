@@ -1,5 +1,3 @@
-###MPV-002172-0-030-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.172‑30, DE 28 DE JUNHO DE 2001
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

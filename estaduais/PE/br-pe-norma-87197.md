@@ -84,145 +84,80 @@ BIANCA FERREIRA TEIXEIRA
 
 **CRIAÇÃO DE CARGOS COMISSIONADOS E FUNÇÕES GRATIFICADAS**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="615" style="width:461.25pt;border-collapse:collapse"><tbody><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DENOMINAÇÃO</span></p></td><td width="100" style="width:75.0pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">SÍMBOLO</span></p></td><td width="149" nowrap="" valign="top" style="width:111.75pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">QUANTITATIVO</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo de Direção e Assessoramento Superior - 2</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-2</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">7</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo de Direção e Assessoramento Superior - 3</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-3</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">8</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo de Direção e Assessoramento Superior - 4</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-4</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">11</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo de Direção e Assessoramento Superior - 5</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-5</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">9</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo Apoio e Assessoramento - 1</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CAA-1</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">27</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo Apoio e Assessoramento - 2</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CAA-2</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">27</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo Apoio e Assessoramento - 3</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CAA-3</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">6</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo Apoio e Assessoramento - 4</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CAA-4</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">4</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Cargo Apoio e Assessoramento - 5</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CAA-5</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">4</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Função Gratificada de Direção e Assessoramento</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">Função Gratificada de Direção e Assessoramento - 4</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:14.25pt"><td width="366" style="width:274.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.75pt 0cm 3.75pt;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">TOTAL</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">-</span></p></td><td width="149" nowrap="" style="width:111.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.75pt 0cm 3.75pt;
-  height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">105</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTITATIVO
+
+Cargo de Direção e Assessoramento Superior - 2
+
+DAS-2
+
+7
+
+Cargo de Direção e Assessoramento Superior - 3
+
+DAS-3
+
+8
+
+Cargo de Direção e Assessoramento Superior - 4
+
+DAS-4
+
+11
+
+Cargo de Direção e Assessoramento Superior - 5
+
+DAS-5
+
+9
+
+Cargo Apoio e Assessoramento - 1
+
+CAA-1
+
+27
+
+Cargo Apoio e Assessoramento - 2
+
+CAA-2
+
+27
+
+Cargo Apoio e Assessoramento - 3
+
+CAA-3
+
+6
+
+Cargo Apoio e Assessoramento - 4
+
+CAA-4
+
+4
+
+Cargo Apoio e Assessoramento - 5
+
+CAA-5
+
+4
+
+Função Gratificada de Direção e Assessoramento
+
+FDA
+
+1
+
+Função Gratificada de Direção e Assessoramento - 4
+
+FDA-4
+
+1
+
+TOTAL
+
+-
+
+105

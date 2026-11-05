@@ -1,17 +1,15 @@
-###DEC-063757-0-000-10-12-1968@@@
+**DECRETO Nº 63.757, DE 10 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.757, DE 10 DE DEZEMBRO DE 1968.</strong>
+***Declara de utilidade pública a Santa Casa de Misericórdia de Tatui, com sede em Tatui, Estado de São Paulo.***
 
-<em><strong>Declara de utilidade pública a Santa Casa de Misericórdia de Tatui, com sede em Tatui, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e atendendo ao que consta do Processo 3.173, de 1968,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e atendendo ao que consta do Processo 3.173, de 1968,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É declara de utilidade pública, nos têrmos do artigo 1º da Lei nº 91, de 28 de agôsto de 1935, combinado com o artigo 1º do Regulamento aprovado pelo Decreto nº 50.517, de 2 de maio de 1961, a Santa Casa de Misericórdia de Tatui, com sede em Tatui, Estado de São Paulo.
 
 Brasília, 10 de dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Luís Antônio da Gama e Silva

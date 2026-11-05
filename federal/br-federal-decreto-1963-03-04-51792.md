@@ -1,5 +1,3 @@
-###DEC-051792-0-000-04-03-1963@@@
-
 DECRETO Nº 51.792, DE 4 DE MARÇO DE 1963.
 
 Autoriza a Emprêsa Fluminense de Energia Elétrica S.A. a incorporar, ao seu sistema, linha de transmissão existente entre São João do Paraíso-São Francisco.

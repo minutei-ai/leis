@@ -1,5 +1,3 @@
-###DEC-067794-0-000-10-12-1970@@@
-
 DECRETO Nº 67.794, de 10 de dezembro de 1970.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Marinha, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068772-0-000-18-06-1971@@@
-
 DECRETO Nº 68.772 - de 18 de junho de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, um faixa de terra destinada a passagem de linha de transmissão no município de Angra dos Reis, no Estado do Rio de Janeiro.

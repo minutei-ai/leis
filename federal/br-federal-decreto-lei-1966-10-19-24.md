@@ -1,5 +1,3 @@
-###DEL-000024-0-000-19-10-1966@@@
-
 DECRETO-LEI Nº 24, DE 19 DE OUTUBRO DE 1966
 
 Dispõe sôbre a Lei nº 5.025, de 10 de junho de 1966.

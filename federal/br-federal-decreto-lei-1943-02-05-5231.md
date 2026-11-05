@@ -1,5 +1,3 @@
-###DEL-005231-0-000-05-02-1943@@@
-
 DECRETO‑LEI N. 5. 231 – DE 5 DE fEVEREiRO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de ............Cr$ 2.549.150,00 para despesa com a construção da ponte internacional sobre o rio Uruguai

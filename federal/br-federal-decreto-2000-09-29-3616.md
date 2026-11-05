@@ -1,5 +1,3 @@
-###DEC-003616-0-000-29-09-2000@@@
-
 DECRETO Nº 3.616, DE 29 DE SETEMBRO DE 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Angola sobre a Supressão de Vistos em Passaportes Diplomáticos e de Serviço, celebrado em Luanda, em 31 de maio de 1999.

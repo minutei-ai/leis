@@ -1,5 +1,3 @@
-###DEC-060001-0-000-10-01-1967@@@
-
 DECRETO Nº 60.001, DE 10 DE JANEIRO DE 1967.
 
 Renova o Decreto nº 47.395, de 10 de dezembro de 1959.

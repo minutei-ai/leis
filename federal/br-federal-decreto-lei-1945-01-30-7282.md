@@ -1,5 +1,3 @@
-###DEL-007282-0-000-30-01-1945@@@
-
 DECRETO-LEI N. 7.282 – DE 30 DE JANEIRO DE 1945
 
 Cria no Quadro Permanente do Ministério da Justiça e Negócios interiores cargos isolados de Polícia Especial e dá outras providências

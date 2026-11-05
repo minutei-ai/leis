@@ -34,7 +34,8 @@ Art. 2º - Os atuais servidores ocupantes do cargo de Analista Técnico deverão
 
 Parágrafo único - Na opção de que trata o caput deste artigo serão observados o curso de escolaridade superior e as atuais atividades desenvolvidas pelo servidor, mediante anuência da Administração.
 
-Redação de acordo com o art. [2](https://www.legislabahia.ba.gov.br/documentos/lei-no-11171-de-26-de-agosto-de-2008#art2)º da Lei nº 11.171, de 26 de agosto de 2008.<br>
+Redação de acordo com o art. [2](https://www.legislabahia.ba.gov.br/documentos/lei-no-11171-de-26-de-agosto-de-2008#art2)º da Lei nº 11.171, de 26 de agosto de 2008.
+
 Redação original: "Parágrafo único - Na opção de que trata o caput deste artigo serão observadas as atuais atividades desenvolvidas pelo servidor, mediante anuência da Administração. "
 
 Art. 3º - Os servidores atualmente ativos e ocupantes dos cargos de Assistente Técnico-Administrativo, Motorista e Analista Técnico, decorrentes da transformação disposta no artigo [24](https://www.legislabahia.ba.gov.br/documentos/lei-no-8966-de-22-de-dezembro-de-2003#art24) da Lei nº 8.966, de 22 de dezembro de 2003, farão jus à classificação nas respectivas carreiras, conforme segue:
@@ -67,7 +68,8 @@ Art. 10 - Esta Lei entrará em vigor na data da sua publicação, revogadas as d
 
 PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de novembro de 2007.
 
-JAQUES WAGNER<br>
+JAQUES WAGNER
+
 Governador
 
 Eva Maria Cella Dal Chiavon
@@ -84,7 +86,45 @@ ASSISTENTE TÉCNICO-ADMINISTRATIVO, MOTORISTA E ANALISTA TÉCNICO 
 
 QUANTITATIVO DE CARGOS 
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 64.5pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; background: #E6E6E6; mso-shading: windowtext; mso-pattern: solid #E6E6E6; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">Classe</p></td><td style="width: 124.55pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; background: #E6E6E6; mso-shading: windowtext; mso-pattern: solid #E6E6E6; padding: 0cm 0cm 0cm 0cm;" valign="top" width="166"><p class="Tabela-Texto">Assistente Técnico-Administrativo</p></td><td style="width: 106.7pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; background: #E6E6E6; mso-shading: windowtext; mso-pattern: solid #E6E6E6; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">Motorista</p></td><td style="width: 106.85pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; background: #E6E6E6; mso-shading: windowtext; mso-pattern: solid #E6E6E6; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">Analista Técnico</p></td></tr><tr><td style="width: 64.5pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">I</p></td><td style="width: 124.55pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="166"><p class="Tabela-Texto">475</p></td><td style="width: 106.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">60</p></td><td style="width: 106.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">50</p></td></tr><tr><td style="width: 64.5pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">II</p></td><td style="width: 124.55pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="166"><p class="Tabela-Texto">285</p></td><td style="width: 106.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">36</p></td><td style="width: 106.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">30</p></td></tr><tr><td style="width: 64.5pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">III</p></td><td style="width: 124.55pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="166"><p class="Tabela-Texto">171</p></td><td style="width: 106.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">22</p></td><td style="width: 106.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">18</p></td></tr><tr><td style="width: 64.5pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">IV</p></td><td style="width: 124.55pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="166"><p class="Tabela-Texto">58</p></td><td style="width: 106.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">7</p></td><td style="width: 106.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="142"><p class="Tabela-Texto">12</p></td></tr></tbody></table>
+Classe
+
+Assistente Técnico-Administrativo
+
+Motorista
+
+Analista Técnico
+
+I
+
+475
+
+60
+
+50
+
+II
+
+285
+
+36
+
+30
+
+III
+
+171
+
+22
+
+18
+
+IV
+
+58
+
+7
+
+12
 
 10.703
 

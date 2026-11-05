@@ -1,5 +1,3 @@
-###DEC-061485-0-000-06-10-1967@@@
-
 DECRETO Nº 61.485, DE 6 DE OUTUBRO DE 1967.
 
 Fixa a data para a comemoração do Ano Internacional do Turismo nas escolas.

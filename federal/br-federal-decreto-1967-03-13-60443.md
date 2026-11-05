@@ -1,5 +1,3 @@
-###DEC-060443-0-000-13-03-1967@@@
-
 decreto nº 60.443, de 13 de março de 1967.
 
 Regulamenta o Decreto-lei nº 60, de 21 de Novembro de 1966.
@@ -161,8 +159,6 @@ H. Castelo Branco
 Severo Fagundes Gomes
 
 Roberto Campos
-
-###DEC-060443-0-000-13-03-1967@@@RET01+++
 
 DECRETO Nº 60.443, DE 13 DE MARÇO DE 1967.
 

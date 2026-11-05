@@ -80,8 +80,6 @@ Art. 11. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 18 de fevereiro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

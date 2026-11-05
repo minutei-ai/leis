@@ -1,5 +1,3 @@
-###DEC-068388-0-000-23-03-1971@@@
-
 DECRETO Nº 68.388, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Fundação Instituto Brasileiro Para Investigações do Tórax, com sede em Salvador, Estado da Bahia.

@@ -6,29 +6,30 @@ Acrescenta dispositivo ao art. 156 da Lei nº 1.102, de 10 de outubro de 1990, q
 
 Publicada no Diário Oficial nº 10.877, de 30 de junho de 2022, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Acrescenta-se o §§ 6º e 7º ao art. 156 da [Lei n<del>º</del> 1.102, de 10 de outubro de 1990](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d5cfc722c5b2d1dc04256e5c006540bd?OpenDocument), com a seguinte redação:<br>
-<br>
-<i>“Art. 156. ............................................</i><br>
-<br>
-<i>...........................................................</i><br>
-<br>
-<i>§ 6º Fica assegurada à servidora em licença para desempenho de mandato classista o direito a usufruir da licença à gestante, nos termos do art. 147 desta Lei.</i><br>
-<br>
-<i>§ 7º Para cumprimento do disposto no § 6º deste artigo, a licença para desempenho do mandato classista da servidora licenciada poderá ser suspensa, até o final do período da licença gestante, garantindo-se:</i><br>
-<br>
-<i>I - o licenciamento de outro servidor para essa representação, nos termos do estatuto da entidade, observado o inciso III do caput deste artigo, até o final do gozo da licença à gestante da servidora substituída;</i><br>
-<br>
-<i>II - o retorno da servidora susbstituída para o cumprimento do período remanescente da representação classista, caso haja;</i><br>
-<br>
-<i>III - o retorno do substituto as suas funções anteriores ao licenciamento.” (NR)</i><br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Acrescenta-se o §§ 6º e 7º ao art. 156 da [Lei n~~º~~ 1.102, de 10 de outubro de 1990](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d5cfc722c5b2d1dc04256e5c006540bd?OpenDocument), com a seguinte redação:
+
+*“Art. 156. ............................................*
+
+*...........................................................*
+
+*§ 6º Fica assegurada à servidora em licença para desempenho de mandato classista o direito a usufruir da licença à gestante, nos termos do art. 147 desta Lei.*
+
+*§ 7º Para cumprimento do disposto no § 6º deste artigo, a licença para desempenho do mandato classista da servidora licenciada poderá ser suspensa, até o final do período da licença gestante, garantindo-se:*
+
+*I - o licenciamento de outro servidor para essa representação, nos termos do estatuto da entidade, observado o inciso III do caput deste artigo, até o final do gozo da licença à gestante da servidora substituída;*
+
+*II - o retorno da servidora susbstituída para o cumprimento do período remanescente da representação classista, caso haja;*
+
+*III - o retorno do substituto as suas funções anteriores ao licenciamento.” (NR)*
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 29 de junho de 2022.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

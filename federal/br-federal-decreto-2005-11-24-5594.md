@@ -1,5 +1,3 @@
-###DEC-005594-0-000-24-11-2005@@@
-
 DECRETO Nº 5.594, DE 24 DE NOVEMBRO DE 2005
 
 Dá nova redação ao § 1o do art. 1o do Decreto nº 5.500, de 29 de julho de 2005, que dispõe sobre a adoção de planos de reposição de trabalho para compensar faltas ao serviço em decorrência da participação de servidores em paralisação de serviços públicos.

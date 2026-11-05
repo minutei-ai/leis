@@ -1,5 +1,3 @@
-###DEC-007506-0-000-27-06-2011-PUB-01@@@
-
 DECRETO Nº 7.506, DE 27 DE JUNHO DE 2011
 
 Promulga o Acordo por Notas Reversais entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai sobre as Bases Financeiras do Anexo C do Tratado de Itaipu, firmado em 1º de setembro de 2009.

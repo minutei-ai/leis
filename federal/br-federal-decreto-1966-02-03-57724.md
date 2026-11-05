@@ -1,5 +1,3 @@
-###DEC-057724-0-000-03-02-1966@@@
-
 DECRETO Nº 57.724, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza Indústria e Comércio de Mineração Brasil Central - Incomibrac S.A. a pesquisar talco no município de Mairipotaba, Estado de Goiás.

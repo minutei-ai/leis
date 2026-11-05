@@ -1,5 +1,3 @@
-###DEL-009301-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.301 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 15.917.270,40 para despesas com participação do Brasil na Organização das Nações Unidas.

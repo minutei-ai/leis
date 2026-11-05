@@ -1,5 +1,3 @@
-###DEC-071828-0-000-08-02-1973@@@
-
 DECRETO Nº 71.828, DE 8 DE FEVEREIRO DE 1973.
 
 Altera o § 2º, do artigo 1º, do Decreto nº 71.576, de 18 de dezembro de 1972.

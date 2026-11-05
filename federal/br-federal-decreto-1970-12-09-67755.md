@@ -1,5 +1,3 @@
-###DEC-067755-0-000-09-12-1970@@@
-
 DECRETO Nº 67.755, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 39.809, de 16 de agôsto de 1956.

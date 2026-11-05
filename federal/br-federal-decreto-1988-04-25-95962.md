@@ -1,5 +1,3 @@
-###DEC-095962-0-000-25-04-1988@@@
-
 DECRETO N° 95.962, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO SANTA MARIA LTDA.,  para explorar serviço de radiodifusão sonora em onda média, na cidade de Monteiro, Estado da Paraiba.

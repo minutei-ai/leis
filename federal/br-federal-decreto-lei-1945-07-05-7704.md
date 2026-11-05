@@ -1,5 +1,3 @@
-###DEL-007704-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.704 – DE 5 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 500.700,00, para pagamento de serviços e fornecimentos feitos em proveito do Ministério da Agricultura.

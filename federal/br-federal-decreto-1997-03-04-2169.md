@@ -1,5 +1,3 @@
-###DEC-002169-0-000-04-03-1997@@@
-
 DECRETO Nº 2.169, DE 4 DE MARÇO DE 1997
 
 Dispõe sobre o Conselho Nacional de Segurança Pública - CONASP, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095800-0-000-09-03-1988@@@
-
 DECRETO N° 95.800, DE 9 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriacão, o imóvel rural denominado "FAZENDA COITÉ, CONJUNTO OLHO D'ÁGUA/SERRANIA", classificado como latifúndio por exploracão, situado no Município de Boa Vista do Tupim, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

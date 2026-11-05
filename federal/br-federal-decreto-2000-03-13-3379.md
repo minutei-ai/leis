@@ -1,5 +1,3 @@
-###DEC-003379-0-000-13-03-2000@@@
-
 DECRETO Nº 3.379, DE 13 DE MARÇO DE 2000.
 
 Promulga o Acordo de Sede em ter o Governo da República Federativa do Brasil e a Associação dos Países Produtores de Estanho, celebrando em Brasília, em 27 de maio de 1999.
@@ -222,4 +220,14 @@ Este Acordo expirará em caso de dissolução da ATPC ou de transferência de su
 
 Feito em Brasília, em 27 de maio de 1999, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Pela Associação dos Países Produtores de Estanho</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Luiz Felipe de Seixas Corrêa</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Gonzalo Martinez</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Ministro de Estado, interino, das Relações Exteriores</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Secretário Executivo da ATPC</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pela Associação dos Países Produtores de Estanho
+
+Luiz Felipe de Seixas Corrêa
+
+Gonzalo Martinez
+
+Ministro de Estado, interino, das Relações Exteriores
+
+Secretário Executivo da ATPC

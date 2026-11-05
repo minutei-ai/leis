@@ -1,5 +1,3 @@
-###DEC-052303-0-000-26-07-1963@@@
-
 DECRETO Nº 52.303, DE 26 DE JULHO DE 1963.
 
 Altera a designação de “Código de Processo do Trabalho “para Código Judiciário do Trabalho”.

@@ -1,5 +1,3 @@
-###DEC-077299-0-000-16-03-1976@@@
-
 Decreto nº 77.299, de 16 de Março de 1976.
 
 Cria, no Ministério da Educação e Cultura, o Conselho Nacional de Cinema - CONCINE - e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058560-0-000-31-05-1966@@@
-
 DECRETO Nº 58.560, DE 31 DE MAIO DE 1966.
 
 Transfere cargo do Ministério da Justiça e Negócios Interiores para o Ministério da Fazenda.

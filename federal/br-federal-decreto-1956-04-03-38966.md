@@ -1,14 +1,12 @@
-###DEC-038966-0-000-03-04-1956@@@
+**DECRETO Nº 38.966, DE 3 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 38.966, DE 3 DE ABRIL DE 1956.</strong>
+***Retifica e altera o Decreto nº 38.873 de 27 de janeiro de 1956***
 
-<em><strong>Retifica e altera o Decreto nº 38.873 de 27 de janeiro de 1956</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que consta do processo número 71.282-56, da Secretaria de Estado e Negócios da Fazenda,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que consta do processo número 71.282-56, da Secretaria de Estado e Negócios da Fazenda,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica retificado o Decreto nº 38.673, de 27 de janeiro de 1956, para o fim de:
+**Art**. 1º Fica retificado o Decreto nº 38.673, de 27 de janeiro de 1956, para o fim de:
 
 a) declarar que a lotação permanente de Oficial Administrativo e Escriturário é de 17 cargos da Delegacia Fiscal do Tesouro Nacional no Estado do Espírito Santo, de 112 cargos no Serviço do Patrimônio da União e de 120 cargos no Serviço do Pessoal;
 
@@ -20,7 +18,7 @@ d) declarar que é de 893 cargos a latação numérica suplementas das repartiç
 
 Parágrafo único: As retificações a que se refere êste artigo prevalecem a partir de 27 de janeiro de 1956.
 
-<strong>Art</strong>. 2º Fica alterado o Decreto n.º 38.673, de 27 de janeiro de 1956, com as seguinte modificação numérica e da nominal pelo mesmo aprovadas:
+**Art**. 2º Fica alterado o Decreto n.º 38.673, de 27 de janeiro de 1956, com as seguinte modificação numérica e da nominal pelo mesmo aprovadas:
 
 a) exclusão de 33 cargos de Auxiliar de Portaria da Lotação suplemetar da Administração do Edifício da Fazenda e inclusão dos mesmos com os respectivos ocupantes nas seguintes repartições:
 
@@ -42,10 +40,10 @@ b) exclusão de 1 cargo da lotação de Almoxarife da Delegacia Fiscal do Tesour
 
 c) exclusão na lotação permanente de Fiscal Aduaneiro de 5 cargos na Alfândega do Rio Grande, de um cargo na Alfândega de Jaquarão, de 1 na Alfândega de Livramento e de 1 cargo na Alfândega de Uruquaiana, e inclusão de 8 cargos na lotação idêntica da Alfândegade Pôrto Alegre, com os respectivos ocupantes: Gélio Leyrando, Dionísio da Rocha Cristello, Renê Rêgo. Clive Correia Roturno, Hugo de Carvalho Cruxen, Manuel Francisco de Macedo Cruz e Heitor Leite Pereira
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

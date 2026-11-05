@@ -1,5 +1,3 @@
-###DEC-068828-0-000-29-06-1971@@@
-
 DECRETO Nº 68.828 - DE 29 DE JUNHO DE 1971.
 
 Aprova o Regulamento do concurso para ingresso na carreira do Ministério Público Federal junto à justiça comum, e provimento do cargo inicial de Procurador da República de Terceira Categoria.

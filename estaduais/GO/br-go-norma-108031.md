@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 8 de novembro de 2023; 135º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

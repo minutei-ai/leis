@@ -1,5 +1,3 @@
-###DEC-058473-0-000-17-05-1966@@@
-
 DECRETO Nº 58.473, DE 17 DE MAIO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

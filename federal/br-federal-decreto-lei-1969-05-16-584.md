@@ -1,5 +1,3 @@
-###DEL-000584-0-000-16-05-1969@@@
-
 DECRETO-LEI Nº 584, DE 16 de MAIO DE 1969
 
 Modifica e revoga dispositivos do Código Nacional de Trânsito.

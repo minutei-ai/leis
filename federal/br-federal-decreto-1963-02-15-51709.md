@@ -1,5 +1,3 @@
-###DEC-051709-0-000-15-02-1963@@@
-
 DECRETO Nº 51.709, DE 15 DE FEVEREIRO DE 1963.
 
 Abre, ao Poder Judiciário - Tribunal Regional do Trabalho da 2ª Região, o crédito Suplementar de Cr$11.520.000,00, para o fim que especifica.

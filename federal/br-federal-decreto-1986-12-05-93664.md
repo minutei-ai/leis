@@ -1,5 +1,3 @@
-###DEC-093664-0-000-05-12-1986@@@
-
 DECRETO Nº 93.664, DE 5 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia Hidro Elétrica do São Francisco - CHESF, áreas de terras situadas nos Estados de Pernambuco e Bahia, destinadas a Projetos Especiais de Irrigação e necessárias ao reassentamento de parte da população a ser atingida pelo Reservatório de Itaparica, no rio São Francisco, nos Estados de Pernambuco e da Bahia.
@@ -31,8 +29,6 @@ Brasília, 05 de dezembro de 1986; 165º da Independência e 98º da República.
 JOSÉ SARNEY
 
 Vicente Cavalcante Fialho
-
-###DEC-093664-0-000-05-12-1986@@@RET01+++
 
 DECRETO Nº 93.664, DE 05 DE DEZEMBRO 1986
 

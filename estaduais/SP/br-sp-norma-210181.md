@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210181)<br>
-
 # DECRETO N° 69.019, DE 31 DE OUTUBRO DE 2024
 
 ### _Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 3 e 10 de novembro de 2024._

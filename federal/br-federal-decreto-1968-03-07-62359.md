@@ -1,5 +1,3 @@
-###DEC-062359-0-000-07-03-1968@@@
-
 decreto nº 62.359, de 7 de março de 1968.
 
 Declara de utilidade pública a “Associação Literária e Educativa Santo André”, com sede em São Paulo, Estado de São Paulo.

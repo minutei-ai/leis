@@ -1,5 +1,3 @@
-###DEC-052121-0-000-17-06-1963@@@
-
 DECRETO Nº 52.121, DE 17 DE JUNHO DE 1963.
 
 Concede à Mineração Agapeú Ltda., autorização para funcionar como emprêsa de mineração.

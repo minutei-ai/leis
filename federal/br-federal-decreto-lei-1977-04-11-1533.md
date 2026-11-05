@@ -1,5 +1,3 @@
-###DEL-001533-0-000-11-04-1977@@@
-
 # DECRETO-LEI Nº 1.533, DE 11 DE ABRIL DE 1977
 
 Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

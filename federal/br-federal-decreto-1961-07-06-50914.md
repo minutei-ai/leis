@@ -1,5 +1,3 @@
-###DEC-050914-0-000-06-07-1961@@@
-
 DECRETO Nº 50.914, DE 6 DE JULHO DE 1961.
 
 Regulamenta o disposto nos artigos 99 e 100 do Decreto nº 15.673 de 7 de setembro de 1962.

@@ -547,7 +547,3 @@ Danilo de Castro
 Antonio Augusto Junho Anastasia
 
 José Bonifácio Borges de Andrada
-
-\============================================================
-
-Data da última atualização: 10/2/2021.

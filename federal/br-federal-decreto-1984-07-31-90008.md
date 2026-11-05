@@ -1,5 +1,3 @@
-###DEC-090008-0-000-31-07-1984@@@
-
 Decreto nº 90.008, de 31 de julho de 1984
 
 Altera dispositivo do Decreto nº 62.352, de 5 de março de 1968, que cria o Grupo Executivo da Indústria de Mineração (GEIMI).

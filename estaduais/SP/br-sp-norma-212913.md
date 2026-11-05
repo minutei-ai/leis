@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212913)<br>
-
 # LEI N° 18.497, DE 25 DE AGOSTO DE 2026
 
 ### _Autoriza o Poder Executivo a promover a absorção dos empregados atuais da Companhia Paulista de Trens Metropolitanos - CPTM das Linhas 10 - Turquesa, 11 - Coral, 12 - Safira e 13 - Jade por órgãos ou entidades da Administração Pública direta ou indireta do Estado de São Paulo._

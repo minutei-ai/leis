@@ -1,5 +1,3 @@
-###DEL-006944-0-000-10-10-1944@@@
-
 DECRETO-LEI N. 6.944 – DE 10 DE OUTUBRO DE 1944
 
 Altera, sem aurnento de despesa, o Orçamento Geral da República

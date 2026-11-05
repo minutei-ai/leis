@@ -1,5 +1,3 @@
-###DEL-008983-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.983 – DE 14 DE FEVEREIRO DE 1946
 
 Acrescenta um artigo e um parágrafo ao Decreto-lei nº 8.256, de 30 de Novembro de 1945.

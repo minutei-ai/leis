@@ -1,5 +1,3 @@
-###DEC-050782-0-000-12-06-1961@@@
-
 DECRETO Nº 50.782, DE 12 DE JUNHO DE 1961.
 
 Aprova o Regulamento para os Quadros Complementares dos Corpos da Armada, de Fuzileiros Navais e de Intendentes da Marinha.

@@ -1,5 +1,3 @@
-###DEC-058455-0-000-17-05-1966@@@
-
 DECRETO Nº 58.455, DE 17 DE MAIO DE 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica do Rio Grande do Sul concessão para distribuir energia elétrica.

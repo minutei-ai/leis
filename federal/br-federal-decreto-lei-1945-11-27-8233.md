@@ -1,5 +1,3 @@
-###DEL-008233-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.233 – DE 27 DE NOVEMBRO DE 1945
 
 Dá a denominação de “Regimento ''Tiradentes'' ao 11º Regimento de Infantaria.

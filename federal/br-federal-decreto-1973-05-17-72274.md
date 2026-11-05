@@ -1,5 +1,3 @@
-###DEC-072274-0-000-17-05-1973@@@
-
 DECRETO Nº 72.274, DE 17 DE MAIO DE 1973.
 
 Aproveita no quadro de Pessoal do Ministério da Indústria e do Comércio disponível do Departamento Nacional de Obras Contra as Secas e dá outras providências.

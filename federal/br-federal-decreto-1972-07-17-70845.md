@@ -1,5 +1,3 @@
-###DEC-070845-0-000-17-07-1972@@@
-
 DECRETO nº 70.845, DE 17 DE JULHO DE 1972.
 
 Concede à Cimento Itaú de Corumbá S.A. o direito de lavrar calcário no município de Corumbá, Estado de Mato Grosso.

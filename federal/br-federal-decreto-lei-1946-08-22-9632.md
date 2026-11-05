@@ -1,5 +1,3 @@
-###DEL-009632-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.632 – DE 22 DE AGÔSTO DE 1946
 
 Dispõe sôbre a equiparação da Universidade Católica de São Paulo

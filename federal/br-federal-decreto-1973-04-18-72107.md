@@ -1,5 +1,3 @@
-###DEC-072107-0-000-18-04-1973@@@
-
 Decreto nº 72.107, de 18 de abril de 1973.
 
 Converte em Monumento Nacional Município de Porto Seguro, no Estado da Bahia, e dá outras providências.
@@ -43,8 +41,6 @@ Antonio Dias Leite Júnior
 João Paulo dos Reis Velloso
 
 José Costa Cavalcanti
-
-###DEC-072107-0-000-18-04-1973@@@
 
 Decreto nº 72.107, de 18 de abril de 1973.
 

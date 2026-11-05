@@ -1,5 +1,3 @@
-###DEC-052889-0-000-20-11-1963@@@
-
 Decreto nº 52.889, de 20 de novembro de 1963.
 
 Dispõe sôbre aproveitamento de pessoal e dá outras providências.

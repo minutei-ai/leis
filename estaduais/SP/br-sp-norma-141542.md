@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/141542)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-13226-07.10.2008.html)
 
 # LEI N° 13.226, DE 07 DE OUTUBRO DE 2008

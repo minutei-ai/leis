@@ -44,7 +44,8 @@ Art. 5º - Nos casos em que o somatório do vencimento básico e das vantagens r
 
 Art. 6º - Pelo exercício dos cargos em comissão de Diretor, Vice-Diretor e Secretário Escolar, o servidor terá acrescido à remuneração o valor correspondente a um coeficiente incidente sobre o subsídio da jornada de trabalho de 40 horas mensais, conforme previsto na tabela constante do Anexo II desta Lei.
 
-Redação de acordo com o art. 28 da Lei nº 12.818, de 24 de maio de 2013.<br>
+Redação de acordo com o art. 28 da Lei nº 12.818, de 24 de maio de 2013.
+
 Redação original: "Art. 6º - Pelo exercício dos cargos em comissão de Diretor, Vice-Diretor e Secretário Escolar, o servidor terá acrescido à remuneração o valor correspondente a um coeficiente incidente sobre o subsídio, conforme previsto na tabela constante do Anexo II desta Lei."
 
 § 1º - Nas nomeações ocorridas a partir da publicação desta Lei para o exercício dos cargos em comissão de Diretor e Vice-Diretor, respeitado o porte da Escola, incidirá o respectivo coeficiente nível 1.
@@ -59,7 +60,8 @@ Art. 7º - Para o desenvolvimento de atividades complementares pelos professores
 
 Art. 8º - O servidor que estiver, na data da publicação desta Lei, matriculado ou que venha a se matricular em curso de formação inicial e concluir a licenciatura plena até 31 de dezembro de 2022 será enquadrado na Carreira do Magistério Público do Ensino Fundamental e Médio, nos Padrões e Graus seguintes:
 
-Redação de acordo com o art. 13º da Lei 13.809, de 04 de dezembro de 2017.<br>
+Redação de acordo com o art. 13º da Lei 13.809, de 04 de dezembro de 2017.
+
 Redação original: "Art. 8º - O servidor que estiver, na data da publicação desta Lei, matriculado ou que venha a se matricular em curso de formação inicial e concluir a licenciatura plena até 31 de dezembro de 2016 será enquadrado na Carreira do Magistério Público do Ensino Fundamental e Médio, nos Padrões e Graus seguintes:"
 
 I - Padrão P, Grau I, aquele que comprovar titulação mínima em licenciatura plena;
@@ -110,7 +112,21 @@ SUBSÍDIO PARA O QUADRO ESPECIAL
 
 VIGÊNCIA A PARTIR DE 01/01/2012
 
-<table style="width: 488.3pt; border-collapse: collapse;" width="651" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 259.5pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="346"><p><span style="color: black;">Quadro Especial (Cargos)</span></p></td><td style="width: 111.0pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="148"><p style="text-align: center; page-break-after: avoid;" align="center">Carga Horária</p></td><td style="width: 117.8pt; border: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="157"><p style="text-align: center; page-break-after: avoid;" align="center">Subsídio (R$)</p></td></tr><tr><td style="width: 259.5pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="346"><p style="text-align: justify; text-justify: inter-ideograph;"><span style="color: black;">Professor, com titulação em ensino médio específico completo ou licenciatura de curta duração (Níveis 1 e 2) e Professor não licenciado (Níveis 1, 2 e 3)</span></p></td><td style="width: 111.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="148"><p>20 Horas</p></td><td style="width: 117.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="157"><p style="text-align: center; page-break-after: avoid;" align="center"><strong><span style="color: black;">R$ 829,85</span></strong></p></td></tr><tr><td style="width: 259.5pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="346"><p>&nbsp;</p></td><td style="width: 111.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="148"><p><span style="color: black;">40 Horas</span></p></td><td style="width: 117.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="157"><p style="text-align: center; page-break-after: avoid;" align="center"><strong><span style="color: black;">R$ 1.659,70</span></strong></p></td></tr></tbody></table>
+Quadro Especial (Cargos)
+
+Carga Horária
+
+Subsídio (R$)
+
+Professor, com titulação em ensino médio específico completo ou licenciatura de curta duração (Níveis 1 e 2) e Professor não licenciado (Níveis 1, 2 e 3)
+
+20 Horas
+
+**R$ 829,85**
+
+40 Horas
+
+**R$ 1.659,70**
 
 ANEXO II
 
@@ -118,10 +134,126 @@ TABELA DE COEFICIENTES PARA OS CARGOS COMISSIONADOS DE SECRETÁRIO ESCOLAR, VICE
 
 VIGÊNCIA A PARTIR DE 01/01/2012
 
-<table style="width: 435.6pt; border-collapse: collapse;" width="581" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 161.75pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p style="text-align: center;" align="center"><strong>Cargo</strong></p></td><td style="width: 96.2pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">Símbolo</p></td><td style="width: 94.65pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">Nível</p></td><td style="width: 83.0pt; border: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">Coeficiente</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>Secretário Escolar</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">SP</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">-</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,3300</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">SM</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">-</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,3500</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">SG</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">-</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,4700</p></td></tr><tr><td style="width: 161.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">SE</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">-</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,5900</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>Vice-Diretor</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">VP</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,2500</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,2800</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">VM</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,3200</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,4000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">VG</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,4500</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,5400</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">VE</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,5700</p></td></tr><tr><td style="width: 161.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,6000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>Diretor</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">DP</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,5000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,5500</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">DM</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,7000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,8000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">DG</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">0,9000</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">1,0500</p></td></tr><tr><td style="width: 161.75pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border: none; border-left: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">DE</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">1</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="text-align: center;" align="center">1,1100</p></td></tr><tr><td style="width: 161.75pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="216"><p>&nbsp;</p></td><td style="width: 96.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="128"><p>&nbsp;</p></td><td style="width: 94.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="126"><p style="text-align: center;" align="center">2</p></td><td style="width: 83.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="111"><p style="margin-top: 3.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; text-align: center; page-break-after: avoid;" align="center">1,1900</p></td></tr></tbody></table>
+**Cargo**
+
+Símbolo
+
+Nível
+
+Coeficiente
+
+Secretário Escolar
+
+SP
+
+-
+
+0,3300
+
+SM
+
+-
+
+0,3500
+
+SG
+
+-
+
+0,4700
+
+SE
+
+-
+
+0,5900
+
+Vice-Diretor
+
+VP
+
+1
+
+0,2500
+
+2
+
+0,2800
+
+VM
+
+1
+
+0,3200
+
+2
+
+0,4000
+
+VG
+
+1
+
+0,4500
+
+2
+
+0,5400
+
+VE
+
+1
+
+0,5700
+
+2
+
+0,6000
+
+Diretor
+
+DP
+
+1
+
+0,5000
+
+2
+
+0,5500
+
+DM
+
+1
+
+0,7000
+
+2
+
+0,8000
+
+DG
+
+1
+
+0,9000
+
+2
+
+1,0500
+
+DE
+
+1
+
+1,1100
+
+2
+
+1,1900
 
 ANEXO III
 
 DISTRIBUIÇÃO DE CARGA HORÁRIA DO PROFESSOR
 
-<table style="width: 481.85pt; border-collapse: collapse;" width="642" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 127.7pt; border-top: solid black 1.0pt; border-left: solid black 1.0pt; border-bottom: none; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p style="text-align: center;" align="center"><strong><span style="color: black;">JORNADA OBRIGATÓRIA</span></strong></p></td><td style="width: 176.85pt; border-top: solid black 1.0pt; border-left: solid black 1.0pt; border-bottom: none; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="236"><p style="text-align: center;" align="center">PROFESSOR 20 HORAS</p></td><td style="width: 177.3pt; border: solid black 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="236"><p style="text-align: center;" align="center">PROFESSOR 40 HORAS</p></td></tr><tr><td style="width: 127.7pt; border-top: solid black 1.0pt; border-left: solid black 1.0pt; border-bottom: none; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p style="text-align: center;" align="center">Clientela</p></td><td style="width: 58.9pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p style="text-align: center;" align="center">Regência<br>de Classe</p></td><td style="width: 117.95pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="157"><p style="text-align: center;" align="center">Atividade Pedagógica</p></td><td style="width: 58.95pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p style="text-align: center;" align="center">Regência<br>de Classe</p></td><td style="width: 118.35pt; border: solid black 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="158"><p style="text-align: center;" align="center">Atividade Pedagógica</p></td></tr><tr><td style="width: 127.7pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p>&nbsp;</p></td><td style="width: 58.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p>&nbsp;</p></td><td style="width: 64.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="86"><p style="text-align: center;" align="center">Na UEE</p></td><td style="width: 53.3pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="71"><p><strong><span style="color: black;">Livre Escolha</span></strong></p></td><td style="width: 58.95pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p style="text-align: center; page-break-after: avoid;" align="center">&nbsp;</p></td><td style="width: 58.9pt; border: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p style="text-align: center;" align="center"><strong><span style="color: black;">Na UEE</span></strong></p></td><td style="width: 59.45pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="79"><p><span style="color: black;">Livre Escolha</span></p></td></tr><tr><td style="width: 127.7pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="170"><p style="text-align: justify; text-justify: inter-ideograph;"><span style="color: black;">Educação Especial e Séries iniciais do Ensino Fundamental</span></p></td><td style="width: 58.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="79"><p style="text-align: center;" align="center">20 horas / semanais</p></td><td style="width: 64.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="86"><p style="text-align: center;" align="center">---</p></td><td style="width: 53.3pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="71"><p style="text-align: center;" align="center">---</p></td><td style="width: 58.95pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="79"><p style="text-align: center;" align="center"><span style="color: black;">40 horas/ semanais</span></p></td><td style="width: 58.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="79"><p style="text-align: center;" align="center">---</p></td><td style="width: 59.45pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 73.0pt;" valign="top" width="79"><p style="text-align: center;" align="center">---</p></td></tr><tr><td style="width: 127.7pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="170"><p style="text-align: justify; text-justify: inter-ideograph;"><span style="color: black;">Séries finais do Ensino Fundamental e Ensino Médio</span></p></td><td style="width: 58.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="79"><p style="text-align: center;" align="center">14 horas/ semanais</p></td><td style="width: 64.65pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="86"><p style="text-align: center;" align="center">04 horas/ semanais</p></td><td style="width: 53.3pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="71"><p style="text-align: center;" align="center">02 horas/ semanais</p></td><td style="width: 58.95pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="79"><p style="text-align: center;" align="center">28 horas/ semanais</p></td><td style="width: 58.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="79"><p style="text-align: center;" align="center">08 horas/ semanais</p></td><td style="width: 59.45pt; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 76.5pt;" valign="top" width="79"><p style="margin-top: 3.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; text-align: center; page-break-after: avoid;" align="center">04 horas/ semanais</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> **JORNADA OBRIGATÓRIA** </td><td colspan="3" valign="top"> PROFESSOR 20 HORAS </td><td colspan="3" valign="top"> PROFESSOR 40 HORAS </td></tr><tr><td valign="top"> Clientela </td><td valign="top"> Regência de Classe </td><td colspan="2" valign="top"> Atividade Pedagógica </td><td valign="top"> Regência de Classe </td><td colspan="2" valign="top"> Atividade Pedagógica </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Na UEE </td><td valign="top"> **Livre Escolha** </td><td valign="top"> &nbsp; </td><td valign="top"> **Na UEE** </td><td valign="top"> Livre Escolha </td></tr><tr><td valign="top"> Educação Especial e Séries iniciais do Ensino Fundamental </td><td valign="top"> 20 horas / semanais </td><td valign="top"> --- </td><td valign="top"> --- </td><td valign="top"> 40 horas/ semanais </td><td valign="top"> --- </td><td valign="top"> --- </td></tr><tr><td valign="top"> Séries finais do Ensino Fundamental e Ensino Médio </td><td valign="top"> 14 horas/ semanais </td><td valign="top"> 04 horas/ semanais </td><td valign="top"> 02 horas/ semanais </td><td valign="top"> 28 horas/ semanais </td><td valign="top"> 08 horas/ semanais </td><td valign="top"> 04 horas/ semanais </td></tr></tbody></table>

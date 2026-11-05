@@ -1,5 +1,3 @@
-###DEC-068493-0-000-12-04-1971@@@
-
 DECRETO Nº 68.493 - DE 12 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de Constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão entre Goiânia - Cepaigo - Bela Vista de Goiás, no Estado de Goiás.

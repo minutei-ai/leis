@@ -1,5 +1,3 @@
-###DEC-052274-0-000-17-07-1963@@@
-
 Decreto nº 52.274, de 17 de julho de 1963.
 
 Altera o artigo 462 do Regulamento Geral da Previdência Social, aprovado pelo Decreto nº 48.959-A, de 19 de setembro de 1960.

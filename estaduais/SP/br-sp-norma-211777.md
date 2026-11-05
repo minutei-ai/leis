@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211777)<br>
-
 # DECRETO N° 70.055, DE 05 DE NOVEMBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Bernardes, o imóvel que especifica._

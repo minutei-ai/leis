@@ -1,5 +1,3 @@
-###DEC-077947-0-000-30-06-1976@@@
-
 DECRETO Nº 77.947, DE 30 DE JUNHO DE 1976
 
 Autoriza o funcionamento da habilitação Comércio Exterior, do curso de Administração do Instituto de Ciências Sociais do Paraná, com sede em Curitiba, Estado do Paraná.

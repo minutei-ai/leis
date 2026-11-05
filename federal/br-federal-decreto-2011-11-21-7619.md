@@ -1,5 +1,3 @@
-###DEC-007619-0-000-21-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.619, DE 21 DE NOVEMBRO DE 2011
 
 Regulamenta a concessão de crédito presumido do Imposto sobre Produtos Industrializados - IPI na aquisição de resíduos sólidos.

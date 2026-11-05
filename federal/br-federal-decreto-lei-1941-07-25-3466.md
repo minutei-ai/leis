@@ -1,5 +1,3 @@
-###DEL-003466-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.466 – DE 25 DE JULHO DE 1941
 
 Inclue na 1.ª zona, para todos os efeitos, os Estados componentes da 7.ª Região Militar e determina outras providências

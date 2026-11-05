@@ -1,5 +1,3 @@
-###DEC-047468-0-000-22-12-1959@@@
-
 DECRETO Nº 47.468, DE 22 DE DEZEMBRO DE 1959.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$340.511.455,00 para o fim que menciona.

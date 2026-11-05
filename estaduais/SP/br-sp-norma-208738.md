@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208738)<br>
-
 # DECRETO N° 68.047, DE 31 DE OUTUBRO DE 2023
 
 ### _Dá nova redação ao inciso XXI do artigo 5° do Decreto n° 57.947, de 4 de abril de 2012, que dispõe sobre a classificação institucional da Secretaria da Segurança Pública._

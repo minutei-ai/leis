@@ -1,5 +1,3 @@
-###DEC-006301-0-000-12-12-2007@@@
-
 DECRETO Nº 6.301, DE 12 DE DEZEMBRO DE 2007.
 
 Institui o Sistema Escola Técnica Aberta do Brasil - e-Tec Brasil.
@@ -59,5 +57,3 @@ Brasília, 12 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 13.12.2007

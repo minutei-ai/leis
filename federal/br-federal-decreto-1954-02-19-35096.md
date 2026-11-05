@@ -1,14 +1,12 @@
-###DEC-035096-0-000-19-02-1954@@@
+**DECRETO Nº 35.096, DE 19 DE FEVEREIRO DE 1954.**
 
-<strong>DECRETO Nº 35.096, DE 19 DE FEVEREIRO DE 1954.</strong>
+***Modifica o Regulamento do Instituto Rio Branco.***
 
-<em><strong>Modifica o Regulamento do Instituto Rio Branco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A redação do Art. 4º e seu parágrafo 1º do Regulamento do Instituto Rio-Branco, do Ministério das Relações Exteriores, aprovado pelo Decreto nº 20.694, de 6 de março de 1946, e alterado pelo Decreto número 29.334, de 7 de março de 1951, passa a ser seguinte:
+**Art**. 1º A redação do Art. 4º e seu parágrafo 1º do Regulamento do Instituto Rio-Branco, do Ministério das Relações Exteriores, aprovado pelo Decreto nº 20.694, de 6 de março de 1946, e alterado pelo Decreto número 29.334, de 7 de março de 1951, passa a ser seguinte:
 
 “Art. 4º o Curso de Preparação à Carreira de Diplomata (C.P. C.D.) tem o seguinte currículo:
 
@@ -38,7 +36,7 @@
 
 “§ 1º O Ministro de Estado determinará, por proposta do Diretor, quais as matérias, dentre as enumeradas neste artigo, que serão ministradas em cada ano e em cada período letivo do Curso de Preparação à Carreira de Diplomata (C.P.C.D.).
 
-<strong>Art</strong>. 2º A redação dos arts. 20 e 21 do mesmo Regulamento passa a ser a seguinte:
+**Art**. 2º A redação dos arts. 20 e 21 do mesmo Regulamento passa a ser a seguinte:
 
 Art. 20. No Curso de Preparação à Carreira de Diplomata (C.P.C.D.) haverá um exame final escrito, ou escrito e oral, para cada matéria, em cada ano letivo.
 
@@ -50,7 +48,7 @@ Art. 20. No Curso de Preparação à Carreira de Diplomata (C.P.C.D.) haverá um
 
 “§ 2º O pêso do exame final, dos exercícios escolares e da prova parcial serão fixados pelo Ministro de Estado, por proposta do Diretor”.
 
-<strong>Art</strong>. 3º A redação do Art. 24 do mesmo Regulamento, alterada pelo Decreto nº 25.882, de 29 de novembro de 1948, passa a ser a seguinte:
+**Art**. 3º A redação do Art. 24 do mesmo Regulamento, alterada pelo Decreto nº 25.882, de 29 de novembro de 1948, passa a ser a seguinte:
 
 “Art. 24 No Curso de Preparação à Carreira de Diplomata (C.P.C.D.) será considerado provido a série seguinte ou habilitado ao certificado de conclusão do Curso o aluno que houver obtido a nota final mínima de 65 pontos no conjunto das matérias e a nota final mínima de 50 pontos em cada matéria.
 
@@ -60,7 +58,7 @@ Art. 20. No Curso de Preparação à Carreira de Diplomata (C.P.C.D.) haverá um
 
 § 3º A repetência será admitida uma só vez durante o Curso”.
 
-<strong>Art</strong>. 4º A redação dos Arts. 28 e 29 do mesmo Regulamento passa a ser a seguinte:
+**Art**. 4º A redação dos Arts. 28 e 29 do mesmo Regulamento passa a ser a seguinte:
 
 “Art. 28. Os professores poderão ser nacionais ou estrangeiros, servidores do Estado ou não.
 
@@ -84,7 +82,7 @@ f) apresentar ao Diretor, no fim do mesmo ano letivo, o relatório sôbre as ati
 
 g) exercer as demais atribuições conferidas por instruções especiais do Diretor”.
 
-<strong>Art</strong>. 5º A redação dos Art. 32, 33 e 34 do mesmo Regulamento passa a ser a seguinte:
+**Art**. 5º A redação dos Art. 32, 33 e 34 do mesmo Regulamento passa a ser a seguinte:
 
 “Art. 32. As condições de inscrições para a inscrição no Curso de Preparação a Carreira de Diplomata (C.P.C.D.), mais a apresentação da prova de quitação com as obrigações militares e do título eleitoral”.
 
@@ -92,20 +90,20 @@ g) exercer as demais atribuições conferidas por instruções especiais do Dire
 
 “Art. 34. O Ministro de Estado determinará, por proposta do Diretor, os pesos e os tipos de provas para cada matéria, bem como a ordem cronológica de realizações das provas e quais as que serão eliminatórias”.
 
-<strong>Art</strong>. 6º Ficam revogadas os artigos 30 e 36 do mesmo Regulamento.
+**Art**. 6º Ficam revogadas os artigos 30 e 36 do mesmo Regulamento.
 
-<strong>Art</strong>. 7º A redação do Art. 38 do mesmo Regulamento passa a ser seguinte:
+**Art**. 7º A redação do Art. 38 do mesmo Regulamento passa a ser seguinte:
 
 “Art. 38. O Instituto Rio-Branco poderá realizar, em colaboração com o Serviço de Documentação, pesquisas relacionadas com as suas finalidades.
 
 “Parágrafo único. Para a realização dessas pesquisas, o Instituto poderá, ser necessário, admitir funcionarios especializados ou utilizar os do Serviço de Documentação”.
 
-<strong>Art</strong>. 8º Os Concursos de provas destinados os preenchimentos decargos decorrentes da lei nº 2.060, de 5 de novembro de 1953, serão regulados, nos têrmos do art. 1º parágrafo único, da referida Lei, por instruções do Ministro de Estado das Relações Exteriores, aplicando-se, subsidiariamente, aos mesmos Concursos o disposto no Regulamento do Instituto Rio-Branco.
+**Art**. 8º Os Concursos de provas destinados os preenchimentos decargos decorrentes da lei nº 2.060, de 5 de novembro de 1953, serão regulados, nos têrmos do art. 1º parágrafo único, da referida Lei, por instruções do Ministro de Estado das Relações Exteriores, aplicando-se, subsidiariamente, aos mesmos Concursos o disposto no Regulamento do Instituto Rio-Branco.
 
-<strong>Art</strong>. 9º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de fevereiro de 1954, 133º da Independência e 66º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Vasco T. Leitão da Cunha

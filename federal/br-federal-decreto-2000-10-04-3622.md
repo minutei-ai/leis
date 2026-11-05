@@ -1,5 +1,3 @@
-###DEC-003622-0-000-04-10-2000@@@
-
 DECRETO Nº 3.622, DE 4 DE OUTUBRO DE 2000.
 
 Dispõe sobre a inclusão de empresa no Anexo ao Decreto nº 3.280, de 8 de dezembro de 1999, que trata da vinculação de entidades integrantes da Administração Pública Federal indireta.

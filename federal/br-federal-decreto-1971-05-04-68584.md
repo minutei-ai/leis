@@ -1,5 +1,3 @@
-###DEC-068584-0-000-04-05-1971@@@
-
 Decreto Nº 68.584 - DE 4 DE MAIO DE 1971.
 
 Torna sem efeito a redistribuição de servidora do extinto Serviço de Alimentação da Previdência Social (SAPS) para o Ministério da Educação e Cultura e dá outras providências.

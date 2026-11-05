@@ -1,5 +1,3 @@
-###DEC-056461-0-000-14-06-1965@@@
-
 DECRETO Nº 56.461, De 14 DE JUNHO de 1965.
 
 Concede recolhimento ao curso de bacharelado da Faculdade de Direito “Clóvis Beviláqua” da Universidade Católica de Pelotas.

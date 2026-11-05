@@ -1,5 +1,3 @@
-###DEC-067353-0-000-07-10-1970@@@
-
 DECRETO Nº 67.353, DE 7 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Pederneiras, com sede em Pederneiras, Estado de São Paulo.

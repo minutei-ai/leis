@@ -1,5 +1,3 @@
-###DEC-069933-0-000-13-01-1972@@@
-
 DECRETO Nº 69.933, DE 13 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, da Sociedade Universidade "Celso Lisboa", no Rio de Janeiro - GB.

@@ -1,5 +1,3 @@
-###DEC-096749-0-000-21-09-1988@@@
-
 DECRETO N° 96.749, DE 21 DE SETEMBRO DE 1988
 
 Outorga concessão à REDE TROPICAL DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Boa Vista, Território Federal de Roraima.

@@ -1,5 +1,3 @@
-###DEC-048170-0-000-10-05-1960@@@
-
 DECRETO Nº 48.170, DE 10 DE MAIO DE 1960.
 
 Autoriza a Mineradora Federal S. A. a pesquisar mica e quartzo, no município de Brás Pires, Estado de Minas Gerais.

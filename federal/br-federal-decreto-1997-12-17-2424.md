@@ -1,5 +1,3 @@
-###DEC-002424-0-000-17-12-1997@@@
-
 DECRETO Nº 2.424, DE 17 DE DEZEMBRO DE 1997
 
 Autoriza excepcionalmente a contratação temporária de recursos humanos para os órgãos e entidades do Poder Executivo Federal que especifica.

@@ -1,5 +1,3 @@
-###DEC-050021-0-000-24-01-1961@@@
-
 DECRETO Nº 50.021, DE 24 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.654, de 17 de outubro de 1958.

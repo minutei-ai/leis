@@ -1,5 +1,3 @@
-###DEC-048150-0-000-04-05-1960@@@
-
 DECRETO Nº 48.150, DE 04 DE MAIO DE 1960.
 
 Inclui função na tabela aprovada pelo Decreto nº 47.693, de 1960.

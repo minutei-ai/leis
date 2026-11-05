@@ -1,5 +1,3 @@
-###DEC-069182-0-000-13-09-1971@@@
-
 DECRETO Nº 69.182, DE 13 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Associação Educativa e Assistencial "Imaculada Conceição", com sede em Guaxupé, Estado de Minas Gerais.

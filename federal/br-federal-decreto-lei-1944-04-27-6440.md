@@ -1,5 +1,3 @@
-###DEL-006440-0-000-27-04-1944@@@
-
 DECRETO-LEI N. 6.440 – DE 27 DE ABRIL DE 1944
 
 Dá nova organização ao Curso de Biblioteconomia da Biblioteca Nacional

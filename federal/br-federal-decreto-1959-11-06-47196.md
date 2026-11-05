@@ -1,5 +1,3 @@
-###DEC-047196-0-000-06-11-1959@@@
-
 DECRETO Nº 47.196, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Jorge Cechinel a pesquisar carvão mineral no município de Orleães, Estado de Santa Catarina.

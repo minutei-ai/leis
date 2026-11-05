@@ -1,5 +1,3 @@
-###DEL-006826-0-000-25-08-1944@@@
-
 DECRETO-LEI N. 6.826 – DE 25 DE AGOSTO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar do pagamento do impôsto predial o imóvel sito na Rua Derby Clube n. 190, na forma que menciona

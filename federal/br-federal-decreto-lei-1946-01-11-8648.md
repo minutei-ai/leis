@@ -1,5 +1,3 @@
-###DEL-008648-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.648 – DE 11 DE JANEIRO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 447.143,00, para o fim que especifica.

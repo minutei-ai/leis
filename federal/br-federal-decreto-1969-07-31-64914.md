@@ -1,5 +1,3 @@
-###DEC-064914-0-000-31-07-1969@@@
-
 DECRETO Nº 64.914 - DE 31 DE JULHO DE 1969.
 
 Declara de utilidade pública a Sociedade Obras Profissionais das Pequenas Irmãs Missionárias da Caridade, com sede em Tocantinópolis, Estado de Goiás.

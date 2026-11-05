@@ -1,7 +1,3 @@
-1
-
-###DEL-000348-0-000-04-01-1968@@@
-
 DECRETO-LEI Nº 348, DE 4 DE JANEIRO DE 1968
 
 Dispõe sôbre a organização, a competência e o funcionamento do Conselho de Segurança Nacional e dá outras providências.

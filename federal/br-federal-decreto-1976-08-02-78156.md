@@ -1,5 +1,3 @@
-###DEC-078156-0-000-02-08-1976@@@
-
 DECRETO Nº 78.156, DE 2 DE AGOSTO DE 1976.
 
 Altera a redação do art.1º “caput” e seu ítem II, do Decreto número 76.824, de 17 de dezembro de 1975 que declara de utilidade pública, para fins de desapropriação pela Empresas Nucleares Brasileira S.A.- NUCLEBRÁS, áreas de terra que menciona.

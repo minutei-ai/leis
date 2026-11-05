@@ -24,8 +24,6 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação, mas seus efeit
 
 Goiânia, 9 de maio de 2023; 135º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

@@ -1,5 +1,3 @@
-###MPV-001770-0-043-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.770-43, DE 14 DE DEZEMBRO dE 1998.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

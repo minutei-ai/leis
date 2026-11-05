@@ -1,5 +1,3 @@
-###DEC-097481-0-000-30-01-1989@@@
-
 # DECRETO N° 97.481, DE 30 DE JANEIRO DE 1989
 
 Dispõe sobre a prestação de serviços extraordinários.

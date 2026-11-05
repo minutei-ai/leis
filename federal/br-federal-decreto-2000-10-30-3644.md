@@ -1,5 +1,3 @@
-###DEC-003644-0-000-30-10-2000@@@
-
 DECRETO Nº 3.644, DE 30 DE OUTUBRO DE 2000.
 
 Regulamenta o instituto da reversão de que trata o art. 25 da Lei nº 8.112, de 11 de dezembro de 1990.

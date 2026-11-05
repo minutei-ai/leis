@@ -1,5 +1,3 @@
-###DEC-065097-0-000-04-09-1969@@@
-
 DECRETO Nº 65.097 - DE 4 DE SETEMBRO DE 1969.
 
 Cria o Consulado honorário do Brasil em Wolfsburg, Alemanha.

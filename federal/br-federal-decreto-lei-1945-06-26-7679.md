@@ -1,5 +1,3 @@
-###DEL-007679-0-000-26-06-1945@@@
-
 DECRETO-LEI N. 7.679 – DE 26 DE JUNHO  DE 1945
 
 Reduz taxas postais aéreas internacionais e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-093994-0-000-02-02-1987@@@
-
 DECRETO Nº 93.994, DE 02 DE FEVEREIRO DE 1987
 
 Outorga à Companhia de Eletricidade do Estado da Bahia - COELBA concessão para o aproveitamento da energia hidráulica de um trecho do rio das Fêmeas, no Estado da Bahia.

@@ -1,14 +1,12 @@
-###DEC-032975-0-000-05-06-1953@@@
+**DECRETO Nº 32.975, DE 05 DE JUNHO DE1953**
 
-<strong>DECRETO Nº 32.975, DE 05 DE JUNHO DE1953</strong>
+***Dá nova redação a dispositivos do Regulamento da Caixa de Construções de Casas para o Pessoal do Ministério da Marinha.***
 
-<em><strong>Dá nova redação a dispositivos do Regulamento da Caixa de Construções de Casas para o Pessoal do Ministério da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Ficam assim modificados os arts. 9.º, 16, 21, 23, 39, 47 e 51, do Regulamento da Caixa de Construções de Casas para o Pessoal do Ministério da Marinha, aprovado pelo Decreto n.º 23.406, de 26 de julho de 1947:
+**Art**. 1.º Ficam assim modificados os arts. 9.º, 16, 21, 23, 39, 47 e 51, do Regulamento da Caixa de Construções de Casas para o Pessoal do Ministério da Marinha, aprovado pelo Decreto n.º 23.406, de 26 de julho de 1947:
 
 “Art. 9.º A importância máxima do empréstimo não excederá de setenta (70) vezes o vencimento mensal do pretendente, fixado pela tabela de vencimentos que estiver em vigor, excluídas quaisquer gratificações, não podendo, em hipótese, alguma ser o empréstimo superior à importância calculada para o posto de Capitão de Fragala.
 
@@ -52,12 +50,12 @@
 
 b) até 300% e dentro dos mesmo limites do art. 9.º os contemplados anteriormente.
 
-<strong>Art</strong>. 2.º Ficam rebogados o parágrafo  único do art. 47, do Regulamento citado no art. 1.º, do presente Decreto, e demais disposições em contrário.
+**Art**. 2.º Ficam rebogados o parágrafo  único do art. 47, do Regulamento citado no art. 1.º, do presente Decreto, e demais disposições em contrário.
 
-<strong>Art</strong>. 3.º Este Decreto entrará em vigor na data de sua publicação.
+**Art**. 3.º Este Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 5 de junho de 1953; 132.º da Independência e 65.º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Renato de Almeida Guillobel

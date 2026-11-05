@@ -1,5 +1,3 @@
-###DEC-068759-0-000-16-06-1971@@@
-
 DECRETO Nº 68.759 - DE 16 DE JUNHO DE 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 54.315, de 28 de setembro de 1964, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Serrote", no município de Jacobina, Estado da Bahia.

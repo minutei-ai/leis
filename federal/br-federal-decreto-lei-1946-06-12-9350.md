@@ -1,5 +1,3 @@
-###DEL-009350-0-000-12-06-1946@@@
-
 DECRETO-LEI N. 9.350 – DE 12 DE JUNHO DE 1946
 
 Cria os Comandos das 1ª e 3ª Divisões de Infantaria

@@ -1,5 +1,3 @@
-###DEC-072754-0-000-06-09-1973@@@
-
 DECRETO Nº 72.754, de 6 de setembro de 1973.
 
 Concede a Paraná Comércio Administração S.A. o direito de lavrar calcário, no Município de Bocaiúva do Sul, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-073461-0-000-15-01-1974@@@
-
 DECRETO Nº 73.461, DE 15 DE JANEIRO DE 1974.
 
 Concede permissão, em caráter permanente, à S.A. Indústrias Reunidas F. Matarazzo - Fábrica "Rayon e Diversas", para funcionar em seu estabelecimento industrial, situado em São Caetano do Sul, Estado de São Paulo, nos setores que menciona.

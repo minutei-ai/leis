@@ -1,7 +1,3 @@
-1
-
-###DEC-001481-0-000-03-05-1995@@@
-
 DECRETO Nº 1.481, DE 3 DE MAIO DE 1995
 
 Inclui empresas no Programa Nacional de Desestatização PND.

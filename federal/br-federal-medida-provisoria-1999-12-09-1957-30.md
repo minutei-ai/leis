@@ -1,5 +1,3 @@
-###MPV-001957-0-030-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.957-30, DE 9 DE DEZEMBRO DE 1999.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082871-0-000-18-12-1978@@@
-
 Decreto nº 82.871, de 18 de dezembro de 1978
 
 Transfere da Companhia Industrial Ouropretana para a ALCAN ALUMÍNIO DO BRASIL S.A. concessão para o aproveitamento da energia hidráulica, para uso exclusivo, no Município de Ponte Nova, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-001480-0-000-09-09-1976@@@
-
 # DECRETO-LEI Nº 1.480, DE 09 DE SETEMBRO DE 1976
 
 Declara de interesse da Segurança Nacional, nos termos do parágrafo único do artigo 89 e artigo 15 §1º alínea b da Constituição os Municípios de Fronteira Rica, Mirassol do Oeste, Eldorado e Mundo Novo no Estado de Mato Grosso, e dá outras providências.

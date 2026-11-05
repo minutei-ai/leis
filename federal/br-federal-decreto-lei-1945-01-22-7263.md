@@ -1,5 +1,3 @@
-###DEL-007263-0-000-22-01-1945@@@
-
 DECRETO-LEI N. 7.263 – DE 22 DE JANEIRO DE 1945
 
 Dispõe sôbre a rescisão de contrato de trabalho de empregados dos estabelecimentos bancários de que trata o Decreto-lei nº 4.612, de 24 de agôsto de 1942

@@ -43,7 +43,3 @@ Palácio da Liberdade, em Belo Horizonte, aos 26 de julho de 2000.
 ITAMAR FRANCO
 
 Henrique Eduardo Ferreira Hargreaves
-
-\============================================================
-
-Data da última atualização: 29/7/2016.

@@ -1,5 +1,3 @@
-###DEC-048649-0-000-02-08-1960@@@
-
 DECRETO Nº 48.649, DE 2 DE AGÔSTO DE 1960.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, a fração ideal do domínio útil do terreno de marilha que menciona, no Estado da Guanabara.

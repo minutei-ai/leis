@@ -1,5 +1,3 @@
-###DEC-052418-0-000-29-08-1963@@@
-
 decreto nº 52.418, de 29 de agôsto de 1963.
 
 Dá nova redação ao número II do artigo 67 do Regulamento Orgânico do Ministério das Relações Exteriores, dispondo sôbre a distribuição eventual do Secretário-Geral de Política Exterior.

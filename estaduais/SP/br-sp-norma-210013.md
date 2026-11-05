@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210013)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1414-23.09.2024.html)
 
 # LEI COMPLEMENTAR N° 1.414, DE 23 DE SETEMBRO DE 2024

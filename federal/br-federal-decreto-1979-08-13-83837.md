@@ -1,5 +1,3 @@
-###DEC-083837-0-000-13-08-1979@@@
-
 Decreto nº 83.837, de 13 de agosto de 1979.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro José Alvarenga Costa pelo Decreto nº 24.341, de 15 de janeiro de 1948

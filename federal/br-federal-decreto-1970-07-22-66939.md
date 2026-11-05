@@ -1,5 +1,3 @@
-###DEC-066939-0-000-22-07-1970@@@
-
 DECRETO Nº 66.939, DE 22 DE JULHO DE 1970.
 
 Altera o prazo de que trata o artigo 1º do Decreto nº 66.819, de 1º de julho de 1970, para a realização dos depósitos devidos ao Fundo de Garantia do Tempo de Serviço, em decorrência do estabelecido no artigo 3º da Lei nº 5.480, de 10 de agôsto de 1968.

@@ -1,5 +1,3 @@
-###DEC-088641-0-000-24-08-1983@@@
-
 Decreto nº 88.641, de 24 de agosto de 1983
 
 Autoriza alienação de bens imóveis pertencentes ao patrimônio da Universidade do Rio de Janeiro (UNI-RIO), e dá outras providências.

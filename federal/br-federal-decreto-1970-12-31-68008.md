@@ -1,5 +1,3 @@
-###DEC-068008-0-000-31-12-1970@@@
-
 DECRETO Nº 68.008, de 31 de dezembro de 1970.
 
 Retifica o artigo 1º do Decreto número 54.530, de 21 de outubro de 1964.

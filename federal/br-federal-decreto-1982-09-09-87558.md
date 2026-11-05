@@ -1,5 +1,3 @@
-###DEC-087558-0-000-09-09-1982@@@
-
 Decreto nº 87.558, de 09 de setembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e luz - CPFL, no Estado de São Paulo.

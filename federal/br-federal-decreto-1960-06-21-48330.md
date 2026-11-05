@@ -1,5 +1,3 @@
-###DEC-048330-0-000-21-06-1960@@@
-
 DECRETO Nº 48.330, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Ricardo Sanches Júnior a pesquisar água mineral do município de Santa Isabel, Estado de São Paulo.

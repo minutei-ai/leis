@@ -1,5 +1,3 @@
-###DEL-004567-0-000-11-08-1942@@@
-
 DECRETO-LEI N. 4.567 – DE 11 DE AGOSTO DE 1942
 
 Dispõe sobre a aplicação de crédito especial aberto ao Ministério da Educação e Saude, e dá outras providências

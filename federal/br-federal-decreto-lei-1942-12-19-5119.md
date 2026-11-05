@@ -1,5 +1,3 @@
-###DEL-005119-0-000-19-12-1942@@@
-
 DECRETO-LEI N. 5.119 – DE 19 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de Cr$ 59.421,10 à verba que especifica

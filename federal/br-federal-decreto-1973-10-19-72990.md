@@ -1,5 +1,3 @@
-###DEC-072990-0-000-19-10-1973@@@
-
 DECRETO Nº 72.990, DE 19 DE OUTUBRO DE 1973.
 
 Concede à Cia. Cimento Portland de Sergipe o direito de lavrar gipsita, no Município de Araripina, Estado de Pernambuco.

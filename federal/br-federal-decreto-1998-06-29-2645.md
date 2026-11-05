@@ -1,5 +1,3 @@
-###DEC-002645-0-000-29-06-1998@@@
-
 DECRETO Nº 2.645, DE 29 DE JUNHO DE 1998
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão que menciona, e dá outras providências.

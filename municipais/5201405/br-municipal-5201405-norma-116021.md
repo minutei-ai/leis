@@ -10,11 +10,14 @@ Art. 2º. Esta Lei Complementar entrará em vigor na data de sua publicação, r
 
 Gabinete do Prefeito de Aparecida de Goiânia, Estado de Goiás, aos 24 dias do mês de maio de 2012.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO
 
-DOMINGOS PEREIRA DA SILVA<br>
+DOMINGOS PEREIRA DA SILVA
+
 SECRETÁRIO DA EDUCAÇÃO

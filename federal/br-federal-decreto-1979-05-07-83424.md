@@ -1,5 +1,3 @@
-###DEC-083424-0-000-07-05-1979@@@
-
 Decreto nº 83.424, de 07 de maio de 1979.
 
 Autoriza o Ministro da Fazenda a conceder a garantia do Tesouro Nacional a operações de crédito externo da ALUNORTE - Alumina do Norte do Brasil S/A. e da ALBRÁS - Alumínio Brasileiro S/A.

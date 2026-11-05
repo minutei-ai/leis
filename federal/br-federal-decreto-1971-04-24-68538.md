@@ -1,5 +1,3 @@
-###DEC-068538-0-000-24-04-1971@@@
-
 DECRETO Nº 68.538 - DE 24 DE ABRIL DE 1971.
 
 Aplica disposições do Decreto número 57.775, de 10 de fevereiro de 1966, a militares nomeados ou designados para a Escola Nacional de Informações e dá outras providências.

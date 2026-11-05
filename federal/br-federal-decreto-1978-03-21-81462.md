@@ -1,5 +1,3 @@
-###DEC-081462-0-000-21-03-1978@@@
-
 Decreto nº 81.462, de 21 de março de 1978.
 
 Concede à Mineração Irapuru Ltda., o direito de lavrar calcário dolomítico no Município de Castro, Estado do Paraná.

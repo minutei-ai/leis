@@ -1,5 +1,3 @@
-###DEC-006389-0-000-06-03-2008@@@
-
 DECRETO Nº 6.389, DE 6 DE MARÇO DE 2008.
 
 Dá nova redação a dispositivo do Decreto no 5.751, de 12 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e das Funções Gratificadas do Comando do Exército, do Ministério da Defesa.
@@ -19,5 +17,3 @@ Brasília, 6 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 7.3.2008

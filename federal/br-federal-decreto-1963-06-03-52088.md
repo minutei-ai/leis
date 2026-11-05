@@ -1,5 +1,3 @@
-###DEC-052088-0-000-03-06-1963@@@
-
 DECRETO Nº 52.088, DE 3 DE JUNHO DE 1963.
 
 Declara luto oficial em todo o país em sinal de pesar pelo falecimento do papa João XXIII e dá outras providências.

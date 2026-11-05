@@ -1,5 +1,3 @@
-###DEC-055824-0-000-11-03-1965@@@
-
 DECRETO Nº 55.824, DE 11 DE MARçO DE 1965.
 
 Revoga o art. 3º do Decreto número 50.648 de 24 de maio de 1961.

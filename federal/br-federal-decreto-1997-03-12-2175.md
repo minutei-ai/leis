@@ -1,5 +1,3 @@
-###DEC-002175-0-000-12-03-1997@@@
-
 DECRETO Nº 2.175, DE 12 DE MARÇO DE 1997
 
 Transforma as Diretorias de Informática, de Telecomunicações e de Material de Comunicações e Eletrônica na Vice-Chefia de Comunicações, Eletrônica e Informática do Departamento de Engenharia e Comunicações, cria o Centro de Comunicações e Telemática do Exército, e dá outras providências.

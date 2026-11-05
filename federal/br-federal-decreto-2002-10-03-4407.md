@@ -1,5 +1,3 @@
-###DEC-004407-0-000-03-10-2002@@@
-
 DECRETO Nº 4.407, DE 3 DE OUTUBRO DE 2002
 
 Acresce parágrafo ao art. 4º do Decreto n4.261, de 6 de junho de 2002, que atribui competência ao Ministério de Minas e Energia e dá outras providências.

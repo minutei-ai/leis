@@ -1,5 +1,3 @@
-###DEC-088599-0-000-09-08-1983@@@
-
 Decreto nº 88.599, de 09 de agosto de 1983
 
 Homologa a demarcação da área indígena que menciona, no Estado do Maranhão.

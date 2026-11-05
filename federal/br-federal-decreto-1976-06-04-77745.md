@@ -1,5 +1,3 @@
-###DEC-077745-0-000-04-06-1976@@@
-
 DECRETO Nº 77.745, DE 4 DE JUNHO DE 1976.
 
 Regulamenta o Decreto-lei nº 1.470, de 4 de junho de 1976, que estabelece condição para emissão, prorrogação e visto de passaporte.

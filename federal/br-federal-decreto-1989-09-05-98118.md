@@ -1,7 +1,3 @@
-1
-
-###DEC-098118-0-000-05-09-1989@@@
-
 DECRETO N° 98.118, DE 5 DE SETEMBRO DE 1989
 
 Altera dispositivo do Decreto n° 97.616, de 6 de abril de 1989.

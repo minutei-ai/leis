@@ -1,5 +1,3 @@
-###DEC-073617-0-000-12-02-1974@@@
-
 DECRETO Nº 73.617, DE 12 DE FEVEREIRO DE 1974.
 
 Aprova o Regulamento do Programa de Assistência ao Trabalhador Rural.

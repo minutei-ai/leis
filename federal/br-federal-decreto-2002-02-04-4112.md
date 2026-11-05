@@ -1,5 +1,3 @@
-###DEC-004112-0-000-04-02-2002@@@
-
 DECRETO Nº 4.112, DE 4 DE FEVEREIRO DE 2002.
 
 Altera e acrescenta dispositivos ao Decreto no 3.591, de 6 de setembro de 2000, que dispõe sobre o Sistema de Controle Interno do Poder Executivo Federal.

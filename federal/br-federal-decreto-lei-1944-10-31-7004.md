@@ -1,5 +1,3 @@
-###DEL-007004-0-000-31-10-1944@@@
-
 DECRETO-LEI N. 7.004 – DE 31 DE OUTUBRO DE 1944
 
 Altera a carreira de Desenhista do Quadro Permanente do Ministério da Aeronáutica, e dá outras providências

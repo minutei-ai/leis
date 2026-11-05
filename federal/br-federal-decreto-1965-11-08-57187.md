@@ -1,5 +1,3 @@
-###DEC-057187-0-000-08-11-1965@@@
-
 DECRETO Nº 57.187, DE 8 DE NOVEMBRO DE 1965.
 
 Suspende provisòriamente, a aquisição do material permanente e de consumo para o serviço público, e dá outras providências.

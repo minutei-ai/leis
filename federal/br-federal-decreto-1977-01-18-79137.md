@@ -1,5 +1,3 @@
-###DEC-079137-0-000-18-01-1977@@@
-
 DECRETO Nº 79.137, de 18 de janeiro de 1977.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.907, de 7 de janeiro de 1972, as Entidades de Fiscalização do Exercício das profissões liberais.

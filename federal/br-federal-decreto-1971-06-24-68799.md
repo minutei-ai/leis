@@ -1,5 +1,3 @@
-###DEC-068799-0-000-24-06-1971@@@
-
 DECRETO Nº 68.799 - DE 24 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Instituto Waldemar Falcão, com sede em Aracati, Estado do Ceará.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/509cb814-eb03-4c66-9dd3-e4d3a9658546/texto#nowhere)
 
-###DEL-000910-0-000-01-10-1969@@@
-
 DECRETO-LEI Nº 910, DE 1º DE OUTUBRO DE 1969
 
 Altera dispositivos da Lei número 4.510, de 1º de dezembro de 1964, que reorganiza a Casa da Moeda.

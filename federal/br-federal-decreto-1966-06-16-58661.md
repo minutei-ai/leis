@@ -1,5 +1,3 @@
-###DEC-058661-0-000-16-06-1966@@@
-
 DECRETO Nº 58.661, DE 16 DE JUNHO DE 1966.
 
 Concede à sociedade Branatra – Emprêsa Brasileira de Navegação Transatlântica e Cabotagem Ltda. Autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

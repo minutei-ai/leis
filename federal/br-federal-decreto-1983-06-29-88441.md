@@ -1,5 +1,3 @@
-###DEC-088441-0-000-29-06-1983@@@
-
 # Decreto nº 88.441, de 29 de Junho de 1983.
 
 Promulga o Tratado para o Aproveitamento dos Recursos Hídricos Compartilhados dos Trechos Limítrofes do Rio Uruguai e de seu Afluente o Rio Pepiri-Guaçu, entre o Governo da República Federativa do Brasil e o Governo da República Argentina.
@@ -190,4 +188,20 @@ O presente Tratado entrará em vigor na data da troca dos instrumentos de ratifi
 
 Feito na cidade de Buenos Aires aos dezessete dias do mês de maio de mil novecentos e oitenta, em dois exemplares originais, em português e espanhol, ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>PELO GOVERNO DA REPÚBLICA ARGENTINA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Carlos W. Pastor</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA ARGENTINA:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Carlos W. Pastor
+
+</td></tr></tbody></table>

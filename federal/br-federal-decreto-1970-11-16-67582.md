@@ -1,5 +1,3 @@
-###DEC-067582-0-000-16-11-1970@@@
-
 DECRETO Nº 67.582, DE 16 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quatro de Pessoal - Parte Permanente -  do Conselho Nacional de Pesquisas, cargos originários do Departamento Administrativo do Pessoal Civil (DASP).

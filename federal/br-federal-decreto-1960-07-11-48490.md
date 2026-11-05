@@ -1,5 +1,3 @@
-###DEC-048490-0-000-11-07-1960@@@
-
 DECRETO Nº 48.490, DE 11 DE JULHO DE 1960.
 
 Dispõe sôbre as vantagens previstas no art. 6º Decreto nº 47.433, de 15 de dezembro de 1959.

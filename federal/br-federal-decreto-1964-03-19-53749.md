@@ -1,5 +1,3 @@
-###DEC-053749-0-000-19-03-1964@@@
-
 DECRETO Nº 53.749, de 19 DE MARÇO DE 1964.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Contábeis de Santa Cruz do Sul, no Estado do Rio Grande do Sul.

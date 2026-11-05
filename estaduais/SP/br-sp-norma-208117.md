@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208117)<br>
-
 # DECRETO N° 67.717, DE 25 DE MAIO DE 2023
 
 ### _Dispõe sobre a publicação de atos no Diário Oficial do Estado de São Paulo._

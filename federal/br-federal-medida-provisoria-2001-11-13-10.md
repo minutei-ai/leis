@@ -1,5 +1,3 @@
-###MPV-000010-0-000-13-11-2001@@@
-
 MEDIDA PROVISÓRIA Nº 10, DE 13 DE NOVEMBRO DE 2001
 
 Altera a Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, e dá outras providências.

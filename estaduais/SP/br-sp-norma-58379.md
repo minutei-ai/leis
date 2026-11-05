@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58379)
-
 # LEI Nº 12.116, DE 11 DE OUTUBRO DE 2005
 
 ## (PL 29/2005 - Fausto Figueira)

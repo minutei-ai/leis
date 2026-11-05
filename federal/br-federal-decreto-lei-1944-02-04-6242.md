@@ -1,5 +1,3 @@
-###DEL-006242-0-000-04-02-1944@@@
-
 DECRETO-LEI N. 6.242 – DE 4 DE FEVEREIRO DE 1944
 
 Concede pensões de meio sôldo e de montepio do pôsto do Coronel à viúva e, em reversão, à filha do Major Alfredo dos Reis Príncipe

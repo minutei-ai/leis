@@ -1,5 +1,3 @@
-###DEC-070833-0-000-14-07-1972@@@
-
 decreto nº 70.833, de 14 de julho de 1972.
 
 Autorizo o funcionamento da Faculdade de Administração São Marcos, S.P.

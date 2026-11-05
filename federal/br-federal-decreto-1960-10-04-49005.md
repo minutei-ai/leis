@@ -1,5 +1,3 @@
-###DEC-049005-0-000-04-10-1960@@@
-
 DECRETO Nº 49.005, DE 4 DE OUTUBRO DE 1960.
 
 Concede à Isaac Arditi & Cia. Limitada autorização para funcionar como êmpresa de mineração.

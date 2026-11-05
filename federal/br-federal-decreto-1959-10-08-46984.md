@@ -1,5 +1,3 @@
-###DEC-046984-0-000-08-10-1959@@@
-
 Decreto nº 46.984, de 8 de outubro de 1959.
 
 Concede à Sociedade de Navegação e Comércio Motonave Limitada autorização para funcionar com emprêsa de navegação de cabotagem.

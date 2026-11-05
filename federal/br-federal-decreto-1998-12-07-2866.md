@@ -1,5 +1,3 @@
-###DEC-002866-0-000-07-12-1998@@@
-
 DECRETO Nº 2.866, DE 7 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Alcance Parcial para a Facilitação do Transporte de Produtos Perigosos (AAP.PC/7), firmado em 16 de julho de 1998, entre os Governos do Brasil, da Argentina, do Paraguai e do Uruguai.

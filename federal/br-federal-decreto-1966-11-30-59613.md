@@ -1,5 +1,3 @@
-###DEC-059613-0-000-30-11-1966@@@
-
 DECRETO Nº 59.613, DE 30 DE NOVEMBRO DE 1966.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

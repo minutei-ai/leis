@@ -1,5 +1,3 @@
-###DEL-003078-0-000-27-02-1941@@@
-
 DECRETO-LEI N. 3.078 – DE 27 DE FEVEREIRO DE 1941
 
  Dispõe sobre a locação dos empregados em serviço doméstico

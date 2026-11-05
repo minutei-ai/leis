@@ -1,5 +1,3 @@
-###DEC-082094-0-000-08-08-1978@@@
-
 DECRETO Nº 82.094, DE 08 DE AGOSTO DE 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

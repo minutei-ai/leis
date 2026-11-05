@@ -1,5 +1,3 @@
-###DEC-044866-0-000-26-11-1958@@@
-
 Decreto nº 44.866, de 26 de novembro de 1958.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$15.000.000,00, para o fim que especifica.

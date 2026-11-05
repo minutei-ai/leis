@@ -1,5 +1,3 @@
-###DEC-091998-0-000-28-11-1985@@@
-
 DECRETO Nº 91.998, DE 28 DE NOVEMBRO DE 1985.
 
 Dispõe sobre medidas relacionadas com a organização da Administração Federal direta e das autarquias, e dá outras providências.

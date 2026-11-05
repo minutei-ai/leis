@@ -1,5 +1,3 @@
-###DEC-093178-0-000-26-08-1986@@@
-
 DECRETO Nº 93.178, DE 26 DE AGOSTO DE 1986
 
 Prorroga a vigência do Decreto nº .91.694, de 27 de setembro de 1985.

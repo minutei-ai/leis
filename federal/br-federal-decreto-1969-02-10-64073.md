@@ -1,5 +1,3 @@
-###DEC-064073-0-000-10-02-1969@@@
-
 DECRETO Nº 64.073, DE 10 DE FEVEREIRO DE 1969.
 
 Concede à Companhia Brasileira de Alumínio o direito lavrar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

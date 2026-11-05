@@ -1,5 +1,3 @@
-###LEI-000000-0-000-31-08-1831@@@
-
 LEI - DE 31 DE AGOSTO DE 1831
 
 Fixa as forças navaes activas para o anno financeiro de 1832 - 1833.

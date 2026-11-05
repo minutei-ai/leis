@@ -1,5 +1,3 @@
-###DEL-006658-0-000-04-07-1944@@@
-
 DECRETO-LEI N. 6.658 – DE 4 DE JULHO DE 1944
 
 Dispõe sôbre a aposentadoria de João Sebastião Rodrigues Nunes

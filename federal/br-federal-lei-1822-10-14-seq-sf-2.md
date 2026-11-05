@@ -1,5 +1,3 @@
-###LEI-000000-0-002-14-10-1822@@@
-
 LEI - DE 14 DE OUTUBRO DE 1822
 
 Combina o respeito devido á casa do Cidadão com a administração da Justiça.

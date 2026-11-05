@@ -1,6 +1,7 @@
 LEI Nº 1.729 DE 19 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
  Lei nº 13.362 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Boa Vista do Tupim, Iaçu, Ibiquera, Itaberaba, Itatim, Lajedinho, Macajuba, Mundo Novo, Piritiba, Rafael Jambeiro, Ruy Barbosa, Santa Terezinha e Tapiramutá.
 
 Cria o município de BOA VISTA DO TUPIM, desmembrado do de ITABERABA.
@@ -73,4 +74,4 @@ Lei nº 1.729, de 19 de julho de 1962
 
 LEIA-SE: da seguinte maneira os limites com o Município de RUY BARBOSA: Começa no encontro da linha divisória Sul-Norte da sesmaria Medeiros e Canabrava, com a linha tirada da lagoa da Cruz para o lugar Baixa Fria; segue por esta reta até o lugar Baixa Fria; daí em reta até o marco no lugar Jabuti; daí em reta alcança a nascente do riacho da Serra, na serra do Orobó.
 
-* * *
+ *

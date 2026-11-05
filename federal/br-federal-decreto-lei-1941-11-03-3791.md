@@ -1,5 +1,3 @@
-###DEL-003791-0-000-03-11-1941@@@
-
 DECRETO-LEI N. 3.791 – DE 3 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 2.500:000$0 para pagamento de indenizações

@@ -1,5 +1,3 @@
-###DEC-079547-0-000-19-04-1977@@@
-
 DECRETO Nº 79.547, DE 19 DE ABRIL DE 1977.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, de Ciências Sociais e de Pedagogia, da União das Faculdades Francanas, com sede na cidade de Franca, Estado de São Paulo.

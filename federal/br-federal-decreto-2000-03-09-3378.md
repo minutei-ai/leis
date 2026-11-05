@@ -1,5 +1,3 @@
-###DEC-003378-0-000-09-03-2000@@@
-
 DECRETO Nº 3.378, DE 9 DE MARÇO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

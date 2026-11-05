@@ -1,7 +1,3 @@
-1
-
-###DEC-000527-0-000-20-05-1992@@@
-
 DECRETO N°. 527, DE 20 DE MAIO DE 1992
 
 Delimita a Área de Proteção Ambiental da Região Serrana de Petrópolis, no Estado do Rio de Janeiro, criada pelo art. 6° do Decreto n° 87.561, de 13 de setembro de 1982, e dá outras providências.

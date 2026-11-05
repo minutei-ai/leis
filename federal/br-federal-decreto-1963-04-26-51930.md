@@ -1,5 +1,3 @@
-###DEC-051930-0-000-26-04-1963@@@
-
 DECRETO Nº 51.930, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Elpidio de Souza Peixinho, a comprar pedras preciosas.

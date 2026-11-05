@@ -1,5 +1,3 @@
-###DEC-006960-0-000-16-09-2009@@@
-
 DECRETO Nº 6.960, DE 16 DE SETEMBRO DE 2009.
 
 Autoriza o Banco do Brasil S.A. a lançar programa de ADR - American Depositary Receipts - com lastro em ações ordinárias.

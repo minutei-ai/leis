@@ -1,5 +1,3 @@
-###DEC-085806-0-000-11-03-1981@@@
-
 Decreto nº 85.806, de 11 de março de 1981.
 
 Concede à Telecomunicações da Bahia S.A. - TELEBAHIA, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para promover o aumento do seu capital social.

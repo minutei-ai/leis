@@ -1,5 +1,3 @@
-###DEC-098085-0-000-23-08-1989@@@
-
 DECRETO N° 98.085, DE 23 DE AGOSTO DE 1989
 
 Altera dispositivo do Decreto n° 95.637, de 13 de janeiro de 1988.

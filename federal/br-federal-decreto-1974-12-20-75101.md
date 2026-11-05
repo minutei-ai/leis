@@ -1,5 +1,3 @@
-###DEC-075101-0-000-20-12-1974@@@
-
 DECRETO Nº 75.101, DE 20 DE DEZEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, destinado ao Ministério do Exército.

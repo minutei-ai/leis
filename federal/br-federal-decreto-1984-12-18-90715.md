@@ -1,5 +1,3 @@
-###DEC-090715-0-000-18-12-1984@@@
-
 # Decreto nº 90.715, de 18 de dezembro de 1984.
 
 Autoriza a Rede Ferroviária Federal S.A. - RFFSA a proceder o aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-061036-0-000-18-07-1967@@@
-
 DECRETO nº 61.036, DE 18 DE JULHO DE 1967.
 
 Declara de utilidade pública a “Casa da Criança São Francisco de Paula”, com sede em Pelotas, Estado do Rio Grande do Sul.

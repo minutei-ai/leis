@@ -1,7 +1,3 @@
-1
-
-###MPV-000819-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 819, DE 05 DE JANEIRO DE 1995
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social.

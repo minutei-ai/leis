@@ -1,5 +1,3 @@
-###DEC-046300-0-000-30-06-1959@@@
-
 DECRETO Nº 46.300, DE 30 DE junho DE 1959.
 
 Autoriza cidadão brasileiro Hélio Santos Caldas a pesquisar ouro e diamante no município de Itupiranga, Estado do Pará.

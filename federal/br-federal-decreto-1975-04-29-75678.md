@@ -1,5 +1,3 @@
-###DEC-075678-0-000-29-04-1975@@@
-
 DECRETO Nº 75.678, DE 29 DE ABRIL DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a maio de 1975.

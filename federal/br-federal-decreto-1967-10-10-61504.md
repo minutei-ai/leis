@@ -1,5 +1,3 @@
-###DEC-061504-0-000-10-10-1967@@@
-
 DECRETO Nº 61.504, DE 10 DE OUTUBRO DE 1967.
 
 Redistribuí com os respectivos ocupantes, para o Quadro de Pessoal do Departamento Administrativo do Pessoal Civil, cargos oriundos do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

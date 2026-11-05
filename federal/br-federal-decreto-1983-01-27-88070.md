@@ -1,5 +1,3 @@
-###DEC-088070-0-000-27-01-1983@@@
-
 DECRETO Nº 88.070, DE 27 DE JANEIRO DE 1983
 
 Fixa percentual para aplicação da Quota Compulsória a Coronéis Aviadores do Corpo de Oficiais da Ativa da Aeronáutica.

@@ -1,5 +1,3 @@
-###MPV-000061-0-000-16-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 61, DE 16 DE AGOSTO DE 2002
 
 Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras.

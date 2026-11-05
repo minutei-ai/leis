@@ -1,5 +1,3 @@
-###DEC-060579-0-000-10-04-1967@@@
-
 DECRETO Nº 60.579, DE 10 DE ABRIL DE 1967.
 
 Delega competência ao Ministro de Estado do Exército

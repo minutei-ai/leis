@@ -1,5 +1,3 @@
-###DEC-045074-0-000-22-12-1958@@@
-
 DECRETO Nº 45.074, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza estrangeira a adquirir em regularização de aforamento, o domínio útil do terreno de acrescido de marinha que menciona, no Distrito Federal.

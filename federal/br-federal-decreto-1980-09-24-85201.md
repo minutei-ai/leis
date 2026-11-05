@@ -1,5 +1,3 @@
-###DEC-085201-0-000-24-09-1980@@@
-
 Decreto nº 85.201, de 24 de setembro de 1980
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

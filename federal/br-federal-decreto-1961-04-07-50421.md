@@ -1,5 +1,3 @@
-###DEC-050421-0-000-07-04-1961@@@
-
 Decreto Nº 50.421, DE 7 DE ABRIL DE 1961.
 
 Dá nova redação ao artigo 61 do Decreto nº 34.132, de 9 de outubro de 1953, que aprovou o Regulamento do Plano de Valorização Econômica da Amazônia e deu outras providências.

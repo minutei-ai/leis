@@ -1,5 +1,3 @@
-###DEC-062501-0-000-01-04-1968@@@
-
 DECRETO Nº 62.501, DE 1 DE ABRIL DE 1968.
 
 Declara de utilidade pública o “Pontifício Instituto das Missões - PIME”, com sede em São Paulo, Estado de São Paulo.

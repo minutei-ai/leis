@@ -1,5 +1,3 @@
-###DEL-008035-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.035 – DE 4 DE OUTUBRO DE 1945
 
 Retifica o art. 1º do Decreto-lei número 7.540, de 10 de maio de 1945

@@ -1,5 +1,3 @@
-###DEC-059327-0-000-29-09-1966@@@
-
 DECRETO Nº 59.327, DE 29 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Djahy Farina Romero a lavrar caulim no município de Magé Estado do Rio de janeiro.

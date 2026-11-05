@@ -1,5 +1,3 @@
-###DEC-085215-0-000-30-09-1980@@@
-
 Decreto nº 85.215, de 30 de setembro de 1980.
 
 Dispensa de licitação na alienação de terras públicas que menciona e dá outras providências.

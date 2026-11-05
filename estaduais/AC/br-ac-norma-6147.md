@@ -2,7 +2,7 @@ Modificada pela Lei nº [4.401, de 30 de Agosto de 2024.](https://legis.ac.gov.b
 
 > **LEI Nº 4.397, DE 19 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.117 de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 1.117 de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre e dá outras providências.
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 
@@ -268,39 +268,885 @@ Presidente da Assembleia Legislativa do Estado do Acre, em exercício
 
 São passíveis de LADS as atividades previstas neste Anexo, salvo se não forem objeto de Dispensa de Licenciamento – DL
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>ITEM</strong></span></p></td><td><p><span><strong>TIPOLOGIA</strong></span></p></td><td><p><span><strong>UNIDADE DE MEDIDA</strong></span></p></td><td><p><span><strong>PORTE (M)</strong></span></p></td></tr><tr><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>Comércio Varejista e Serviços</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>1.1</strong></span></p></td><td><p><span>Comércio varejista de cal, areia, pedra britada, tijolos e telhas</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.2</strong></span></p></td><td><p><span>Comércio varejista de fogos de artifício e artigos pirotécnicos</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.3</strong></span></p></td><td><p><span>Comércio varejista de gás liquefeito de petróleo (GLP)</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.4</strong></span></p></td><td><p><span>Comércio varejista de madeira e artefatos</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.5</strong></span></p></td><td><p><span>Comércio varejista de materiais de construção</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.6</strong></span></p></td><td><p><span>Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios&nbsp;</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>1.7</strong></span></p></td><td><p><span>Comércio varejista especializado em instrumentos musicais e acessórios</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.8</strong></span></p></td><td><p><span>Comércio varejista de medicamento, sem manipulação de fórmula</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>1.9</strong></span></p></td><td><p><span>Comércio varejista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>Comércio Atacadista e Depósito</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>2.1</strong></span></p></td><td><p><span>Comércio atacadista de produtos extrativos de origem mineral em bruto, exceto hidrocarbonetos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>2.2</strong></span></p></td><td><p><span>Comércio atacadista de produtos extrativos de origem vegetal e/ou animal</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>2.3</strong></span></p></td><td><p><span>Comércio atacadista produtos químicos, exceto hidrocarbonetos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤200</span></p></td></tr><tr><td><p><span><strong>2.4</strong></span></p></td><td><p><span>Comércio atacadista de bombas e compressores; partes e pecas</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>2.5</strong></span></p></td><td><p><span>Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios (grãos, verduras, frutas, carnes e afins)</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤800</span></p></td></tr><tr><td><p><span><strong>2.6</strong></span></p></td><td><p><span>Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>2.7</strong></span></p></td><td><p><span>Comércio atacadista de madeira</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤800</span></p></td></tr><tr><td><p><span><strong>2.8</strong></span></p></td><td><p><span>Comércio atacadista de materiais de construção em geral</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>2.9</strong></span></p></td><td><p><span>Comércio atacadista de resíduos e sucatas</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>Atividades Diversas</strong></span></p></td><td><p><span>n/a</span></p></td><td><span><br></span></td></tr><tr><td><p><span><strong>3.1</strong></span></p></td><td><p><span>Agenciamento de espaços para publicidade, exceto em veículos de comunicação</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>3.2</strong></span></p></td><td><p><span>Aluguel de equipamentos diversos, sem operador</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>3.3</strong></span></p></td><td><p><span>Empreendimentos desportivos, recreativos, turísticos ou de lazer (parque aquático, pesque-pague, clubes entre outros)</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>3.4</strong></span></p></td><td><p><span>Serviços na área de limpeza, conservação e dedetização, exceto expurgo e fumigação</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>3.5</strong></span></p></td><td><p><span>Concessionárias de veículos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤1000</span></p></td></tr><tr><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>Indústria de Produtos Alimentares</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>4.1</strong></span></p></td><td><p><span>Beneficiamento, moagem, torrefação e fabricação de produtos alimentares, inclusive polpas de frutas</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.2</strong></span></p></td><td><p><span>Fabricação de fécula de amido e seus derivados</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.3</strong></span></p></td><td><p><span>Fabricação de balas caramelos, pastilhas, <strong>drops</strong>, bombons e chocolates etc – inclusive goma de mascar</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.4</strong></span></p></td><td><p><span>Preparação de sal de cozinha</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.5</strong></span></p></td><td><p><span>Refino e preparação de óleos e gorduras vegetais, produção de manteiga de cacau e gorduras de origem animal destinados a alimentação</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>4.6</strong></span></p></td><td><p><span>Fabricação de vinagre</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>4.7</strong></span></p></td><td><p><span>Beneficiamento e comércio de pescado e outros animais de pequeno porte&nbsp;</span></p></td><td><p><span>Produção mensal (t/mês)</span></p></td><td><p><span>≤1,0</span></p></td></tr><tr><td><p><span><strong>4.8</strong></span></p></td><td><p><span>Comércio de pescados e outros animais de pequeno porte</span></p></td><td><p><span>Produção mensal (t/mês)</span></p></td><td><p><span>≤1,0</span></p></td></tr><tr><td><p><span><strong>4.9</strong></span></p></td><td><p><span>Fabricação de produtos de laticínios&nbsp;</span></p></td><td><p><span>Matéria Prima (l/dia)</span></p></td><td><p><span>≤3.000,00</span></p></td></tr><tr><td><p><span><strong>4.10</strong></span></p></td><td><p><span>Pasteurização, distribuição de leite, inclusive UHT (longa vida)</span></p></td><td><p><span>Produção diária (l/dia)</span></p></td><td><p><span>≤5.000,00</span></p></td></tr><tr><td><p><span><strong>4.11</strong></span></p></td><td><p><span>Fabricação de leveduras</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>4.12</strong></span></p></td><td><p><span>Fabricação de produtos alimentares de origem animal, embutidos, derivados, distribuição e venda - MÉDIO</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>4.13</strong></span></p></td><td><p><span>Fabricação de vinagres de vinho, frutas e álcool</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.14</strong></span></p></td><td><p><span>Fabricação de proteína texturizada da soja</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.15</strong></span></p></td><td><p><span>Fabricação de produtos alimentícios enriquecidos com vitaminas ou proteínas</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.16</strong></span></p></td><td><p><span>Fabricação de produtos alimentares preparados industrialmente, a base de soja (queijo, massa frita etc)</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.17</strong></span></p></td><td><p><span>Produção (incubatório) de ovos</span></p></td><td><p><span>Número de ovos</span></p></td><td><p><span>≤100.000</span></p></td></tr><tr><td><p><span><strong>4.18</strong></span></p></td><td><p><span>Fabricação e engarrafamento de aguardentes</span></p></td><td><p><span>Produção (m³/mês)</span></p></td><td><p><span>≤20</span></p></td></tr><tr><td><p><span><strong>4.19</strong></span></p></td><td><p><span>Produção de farinha e féculas</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>4.20</strong></span></p></td><td><p><span>Posto de resfriamento de leite</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>Indústrias Diversas</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>5.1</strong></span></p></td><td><p><span>Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>5.2</strong></span></p></td><td><p><span>Fabricação de aparelhos ortopédicos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>5.3</strong></span></p></td><td><p><span>Fabricação de aparelhos para uso médico, odontológico e cirúrgico</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>5.4</strong></span></p></td><td><p><span>Fabricação de artigos esportivos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>5.5</strong></span></p></td><td><p><span>Fabricação de telhas, tijolos e outros artigos de barro</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤400</span></p></td></tr><tr><td><p><span><strong>5.6</strong></span></p></td><td><p><span>Fabricação de artigos de joalheria, bijuteria, ourivesaria e lapidação</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤100</span></p></td></tr><tr><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>Indústria de Transformação</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>6.1</strong></span></p></td><td><p><span>Fabricação de peças, ornatos e estruturas de cimento e gesso (pré-moldados)</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤1000</span></p></td></tr><tr><td><p><span><strong>6.2</strong></span></p></td><td><p><span>Fabricação e elaboração de produtos diversos de minerais não metálicos (abrasivos, lixas, esmeril etc)</span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>Indústria de Madeira</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>7.1</strong></span></p></td><td><p><span>Serrarias</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤100</span></p></td></tr><tr><td><p><span><strong>7.2</strong></span></p></td><td><p><span>Fabricação de estruturas de madeira e artigos de carpintaria</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤2.000</span></p></td></tr><tr><td><p><span><strong>7.3</strong></span></p></td><td><p><span>Fabricação de chapas e placas de madeira aglomerada ou prensada</span></p></td><td><p><span>Produção (m²/mês)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>7.4</strong></span></p></td><td><p><span>Fabricação de chapas e placas de madeira compensada, revestidas ou não com material plástico</span></p></td><td><p><span>Produção (m²/mês)</span></p></td><td><p><span>≤1.000</span></p></td></tr><tr><td><p><span><strong>7.5</strong></span></p></td><td><p><span>Fabricação de artigos de tanoaria e madeira arqueada</span></p></td><td><p><span>Produção (m²/mês)</span></p></td><td><p><span>≤2.000</span></p></td></tr><tr><td><p><span><strong>7.6</strong></span></p></td><td><p><span>Fabricação de cabos para ferramentas e utensílios</span></p></td><td><p><span>Produção (unidade/mês)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>7.7</strong></span></p></td><td><p><span>Fabricação de artefatos de madeira torneada</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤3.000</span></p></td></tr><tr><td><p><span><strong>7.8</strong></span></p></td><td><p><span>Fabricação de saltos e solados de madeira</span></p></td><td><p><span>Produção (unidade/mês)</span></p></td><td><p><span>≤3.000</span></p></td></tr><tr><td><p><span><strong>7.9</strong></span></p></td><td><p><span>Fabricação de fôrmas e modelos de madeira – inclusive de madeira arqueada</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>7.10</strong></span></p></td><td><p><span>Fabricação de molduras e execução de obras de talha, inclusive para uso doméstico, comercial e industrial (exceto artigos de mobiliário)&nbsp;</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>7.11</strong></span></p></td><td><p><span>Fabricação de artefatos de bambu, vime, junco, xaxim, palha trançada, cortiça, piaçava e similares</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤5.000</span></p></td></tr><tr><td><p><span><strong>8</strong></span></p></td><td><p><span><strong>Indústria de Material Elétrico e Comunicações</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>8.1</strong></span></p></td><td><p><span>Montagem, reparação ou manutenção de máquinas, aparelhos e equipamentos industriais e comerciais e elétricos eletrônico</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>9</strong></span></p></td><td><p><span><strong>Indústria Mecânica</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>9.1</strong></span></p></td><td><p><span>Fabricação de máquinas, aparelhos, peças e acessórios sem tratamento térmico e/ou galvanotécnico e/ou fundição</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>9.2</strong></span></p></td><td><p><span>Serviço industrial de usinagem, soldas e semelhantes e reparação de máquinas ou manutenção de máquinas, aparelhos e equipamentos&nbsp;</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤200</span></p></td></tr><tr><td><p><span><strong>9.3</strong></span></p></td><td><p><span>Estocagem e comercialização de máquinas e equipamentos</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>10</strong></span></p></td><td><p><span><strong>Indústria de Produtos Minerais</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>10.1</strong></span></p></td><td><p><span>Desdobramento, polimento, aparelhamento de rochas ornamentais (granitos, gnaisses, mármores, ardósias, quartizitos).</span></p></td><td><p><span>Produção mensal (m²/mês)</span></p></td><td><p><span>≤30.000,00</span></p></td></tr><tr><td><p><span><strong>10.2</strong></span></p></td><td><p><span>Beneficiamento de granitos, gnaisses, quartzitos, mármores, calcários e dolomitos (corretivo do solo) para a produção de brita, produtos siderúrgicos ou industrial</span></p></td><td><p><span>Produção mensal (m²/mês)</span></p></td><td><p><span>≤10.000,00</span></p></td></tr><tr><td><p><span><strong>10.3</strong></span></p></td><td><p><span>Fabricação de cerâmica (vermelha, refratária, esmaltada)</span></p></td><td><p><span>Volume matéria prima (m³/mês)</span></p></td><td><p><span>≤3.000,00</span></p></td></tr><tr><td><p><span><strong>10.4</strong></span></p></td><td><p><span>Beneficiamento, peneiramento e ensacamento de argila para construção civil</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>11</strong></span></p></td><td><p><span><strong>Indústria Metalúrgica</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>11.1</strong></span></p></td><td><p><span>Estocagem, comercialização e/ou reciclagem de sucatas metálicas</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>12</strong></span></p></td><td><p><span><strong>Indústria do Mobiliário</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>12.1</strong></span></p></td><td><p><span>Fabricação de móveis de madeira, vime e junco</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>12.2</strong></span></p></td><td><p><span>Fabricação de artigos de colchoaria, estofados</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>12.3</strong></span></p></td><td><p><span>Fabricação de móveis moldados de material plástico</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>13</strong></span></p></td><td><p><span>Fabricação de artefatos de papel, papelão, cartolina e cartão, com impressão, simples ou plastificado, não associada à produção de papel, papelão, cartolina e cartão</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤1.500</span></p></td></tr><tr><td><p><span><strong>13.1</strong></span></p></td><td><p><span>Fabricação de artefatos de papel, papelão, cartolina e cartão sem impressão, não associado à produção de papel, papelão, cartolina e cartão&nbsp;</span></p></td><td><p><span>Matéria prima (kg/mês)</span></p></td><td><p><span>≤1.500</span></p></td></tr><tr><td><p><span><strong>14</strong></span></p></td><td><p><span><strong>Indústria da Borracha</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>14.1</strong></span></p></td><td><p><span>Beneficiamento de borracha natural</span></p></td><td><p><span>Produção mensal (t/mês)</span></p></td><td><p><span>≤3,0</span></p></td></tr><tr><td><p><span><strong>15</strong></span></p></td><td><p><span><strong>Indústria de Produtos Farmacêuticos e Veterinários</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>15.1</strong></span></p></td><td><p><span>Fabricação de produtos farmacêuticos e veterinários</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>15.2</strong></span></p></td><td><p><span>Fabricação de produtos de higiene pessoal descartáveis</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>16</strong></span></p></td><td><p><span><strong>Indústria de Produtos de Matérias Plásticas</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>16.1</strong></span></p></td><td><p><span>Comércio e estocagem de material plástico para embalagem e/ou condicionamento</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>17</strong></span></p></td><td><p><span><strong>Indústria Têxtil</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>17.1</strong></span></p></td><td><p><span>Confecções de roupas e artefatos de tecidos de cama, mesa, copa e banho</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>17.2</strong></span></p></td><td><p><span>Fabricação de artefatos diversos de couros e peles, sem curtimento e/ou outros tratamentos</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>17.3</strong></span></p></td><td><p><span>Fabricação de artigos de colchoaria, estofados</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>17.4</strong></span></p></td><td><p><span>Fabricação de artefatos têxteis exceto de vestuário sem tinturaria ou lavanderia</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>17.5</strong></span></p></td><td><p><span>Fabricação de peças do vestuário, calçados, acessórios e artigos de viagem sem tinturaria lavanderia</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤500</span></p></td></tr><tr><td><p><span><strong>18</strong></span></p></td><td><p><span><strong>Indústria de Bebidas e Álcool Etílico</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>18.1</strong></span></p></td><td><p><span>Fabricação e engarrafamento de aguardentes</span></p></td><td><p><span>Produção mensal (m³/mês)</span></p></td><td><p><span>≤15,0</span></p></td></tr><tr><td><p><span><strong>18.2</strong></span></p></td><td><p><span>Fabricação e engarrafamento de vinhos, licores e outras bebidas alcoólicas, exceto aguardentes, cervejas, chopes e maltes</span></p></td><td><p><span>Produção mensal (m³/mês)</span></p></td><td><p><span>≤15,0</span></p></td></tr><tr><td><p><span><strong>18.3</strong></span></p></td><td><p><span>Fabricação e engarrafamento de cervejas, chopes e maltes</span></p></td><td><p><span>Produção mensal (m³/mês)</span></p></td><td><p><span>≤80,0</span></p></td></tr><tr><td><p><span><strong>18.4</strong></span></p></td><td><p><span>Fabricação de refrigerantes e outras bebidas não alcoólicas&nbsp;</span></p></td><td><p><span>Produção mensal (m³/mês)</span></p></td><td><p><span>≤80,0</span></p></td></tr><tr><td><p><span><strong>19</strong></span></p></td><td><p><span><strong>Indústria Editorial Gráfica</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>19.1</strong></span></p></td><td><p><span>Todas as atividades da indústria editorial e gráfica</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤200</span></p></td></tr><tr><td><p><span><strong>20</strong></span></p></td><td><p><span><strong>Serviço Médico-hospitalar, Laboratorial e Veterinário</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>20.1</strong></span></p></td><td><p><span>Posto de coleta</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>20.2</strong></span></p></td><td><p><span>Consultório médico sem procedimentos</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>21</strong></span></p></td><td><p><span><strong>Construção Civil</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>21.1</strong></span></p></td><td><p><span>Obras de urbanização (calçadão, muros, acessos), exceto em APP’S</span></p></td><td><p><span>n/a</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span><strong>22</strong></span></p></td><td><p><span><strong>Serviços Industriais e Utilidade Pública</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>22.1</strong></span></p></td><td><p><span>Triagem e armazenamento de resíduos recicláveis para comercialização</span></p></td><td><p><span>Área const. (m²)</span></p></td><td><p><span>≤300</span></p></td></tr><tr><td><p><span><strong>23</strong></span></p></td><td><p><span><strong>Atividades Agropecuárias</strong></span></p></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>23.1</strong></span></p></td><td><p><span>Criação de animais de pequeno porte, em ambiente não aquático, exceto aves, fauna silvestre e/ou exótica (Ex.: cunicultura e outros)</span></p></td><td><p><span>Área de confinamento de animais (m²)</span></p></td><td><p><span>AC &lt; 6.000</span></p></td></tr><tr><td><p><span><strong>23.2</strong></span></p></td><td><p><span>Suinocultura com lançamento de efluentes líquidos, exclusivo para subsistência.</span></p></td><td><p><span>Número máximo de cabeças</span></p></td><td><p><span>NC <u>&lt;</u> 20</span></p></td></tr><tr><td><p><span><strong>23.3</strong></span></p></td><td><p><span>Avicultura</span></p></td><td><p><span>Área de confinamento de aves (área de galpões em m<sup>2)</sup></span></p></td><td><p><span>Todos</span></p></td></tr></tbody></table>
+**ITEM**
+
+**TIPOLOGIA**
+
+**UNIDADE DE MEDIDA**
+
+**PORTE (M)**
+
+**1**
+
+**Comércio Varejista e Serviços**
+
+**1.1**
+
+Comércio varejista de cal, areia, pedra britada, tijolos e telhas
+
+n/a
+
+Todos
+
+**1.2**
+
+Comércio varejista de fogos de artifício e artigos pirotécnicos
+
+n/a
+
+Todos
+
+**1.3**
+
+Comércio varejista de gás liquefeito de petróleo (GLP)
+
+n/a
+
+Todos
+
+**1.4**
+
+Comércio varejista de madeira e artefatos
+
+n/a
+
+Todos
+
+**1.5**
+
+Comércio varejista de materiais de construção
+
+n/a
+
+Todos
+
+**1.6**
+
+Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios
+
+Área const. (m²)
+
+≤5.000
+
+**1.7**
+
+Comércio varejista especializado em instrumentos musicais e acessórios
+
+n/a
+
+Todos
+
+**1.8**
+
+Comércio varejista de medicamento, sem manipulação de fórmula
+
+n/a
+
+Todos
+
+**1.9**
+
+Comércio varejista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios
+
+n/a
+
+Todos
+
+**2**
+
+**Comércio Atacadista e Depósito**
+
+**2.1**
+
+Comércio atacadista de produtos extrativos de origem mineral em bruto, exceto hidrocarbonetos
+
+Área const. (m²)
+
+≤500
+
+**2.2**
+
+Comércio atacadista de produtos extrativos de origem vegetal e/ou animal
+
+Área const. (m²)
+
+≤500
+
+**2.3**
+
+Comércio atacadista produtos químicos, exceto hidrocarbonetos
+
+Área const. (m²)
+
+≤200
+
+**2.4**
+
+Comércio atacadista de bombas e compressores; partes e pecas
+
+n/a
+
+Todos
+
+**2.5**
+
+Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios (grãos, verduras, frutas, carnes e afins)
+
+Área const. (m²)
+
+≤800
+
+**2.6**
+
+Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios
+
+n/a
+
+Todos
+
+**2.7**
+
+Comércio atacadista de madeira
+
+Área const. (m²)
+
+≤800
+
+**2.8**
+
+Comércio atacadista de materiais de construção em geral
+
+n/a
+
+Todos
+
+**2.9**
+
+Comércio atacadista de resíduos e sucatas
+
+n/a
+
+Todos
+
+**3**
+
+**Atividades Diversas**
+
+n/a
+
+**3.1**
+
+Agenciamento de espaços para publicidade, exceto em veículos de comunicação
+
+n/a
+
+Todos
+
+**3.2**
+
+Aluguel de equipamentos diversos, sem operador
+
+n/a
+
+Todos
+
+**3.3**
+
+Empreendimentos desportivos, recreativos, turísticos ou de lazer (parque aquático, pesque-pague, clubes entre outros)
+
+n/a
+
+Todos
+
+**3.4**
+
+Serviços na área de limpeza, conservação e dedetização, exceto expurgo e fumigação
+
+n/a
+
+Todos
+
+**3.5**
+
+Concessionárias de veículos
+
+Área const. (m²)
+
+≤1000
+
+**4**
+
+**Indústria de Produtos Alimentares**
+
+**4.1**
+
+Beneficiamento, moagem, torrefação e fabricação de produtos alimentares, inclusive polpas de frutas
+
+Área const. (m²)
+
+≤500
+
+**4.2**
+
+Fabricação de fécula de amido e seus derivados
+
+Área const. (m²)
+
+≤500
+
+**4.3**
+
+Fabricação de balas caramelos, pastilhas, **drops**, bombons e chocolates etc – inclusive goma de mascar
+
+Área const. (m²)
+
+≤500
+
+**4.4**
+
+Preparação de sal de cozinha
+
+Área const. (m²)
+
+≤500
+
+**4.5**
+
+Refino e preparação de óleos e gorduras vegetais, produção de manteiga de cacau e gorduras de origem animal destinados a alimentação
+
+Área const. (m²)
+
+≤300
+
+**4.6**
+
+Fabricação de vinagre
+
+Área const. (m²)
+
+≤300
+
+**4.7**
+
+Beneficiamento e comércio de pescado e outros animais de pequeno porte
+
+Produção mensal (t/mês)
+
+≤1,0
+
+**4.8**
+
+Comércio de pescados e outros animais de pequeno porte
+
+Produção mensal (t/mês)
+
+≤1,0
+
+**4.9**
+
+Fabricação de produtos de laticínios
+
+Matéria Prima (l/dia)
+
+≤3.000,00
+
+**4.10**
+
+Pasteurização, distribuição de leite, inclusive UHT (longa vida)
+
+Produção diária (l/dia)
+
+≤5.000,00
+
+**4.11**
+
+Fabricação de leveduras
+
+Área const. (m²)
+
+≤300
+
+**4.12**
+
+Fabricação de produtos alimentares de origem animal, embutidos, derivados, distribuição e venda - MÉDIO
+
+Área const. (m²)
+
+≤300
+
+**4.13**
+
+Fabricação de vinagres de vinho, frutas e álcool
+
+Área const. (m²)
+
+≤500
+
+**4.14**
+
+Fabricação de proteína texturizada da soja
+
+Área const. (m²)
+
+≤500
+
+**4.15**
+
+Fabricação de produtos alimentícios enriquecidos com vitaminas ou proteínas
+
+Área const. (m²)
+
+≤500
+
+**4.16**
+
+Fabricação de produtos alimentares preparados industrialmente, a base de soja (queijo, massa frita etc)
+
+Área const. (m²)
+
+≤500
+
+**4.17**
+
+Produção (incubatório) de ovos
+
+Número de ovos
+
+≤100.000
+
+**4.18**
+
+Fabricação e engarrafamento de aguardentes
+
+Produção (m³/mês)
+
+≤20
+
+**4.19**
+
+Produção de farinha e féculas
+
+Área const. (m²)
+
+≤500
+
+**4.20**
+
+Posto de resfriamento de leite
+
+Área const. (m²)
+
+≤300
+
+**5**
+
+**Indústrias Diversas**
+
+**5.1**
+
+Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo
+
+Área const. (m²)
+
+≤300
+
+**5.2**
+
+Fabricação de aparelhos ortopédicos
+
+Área const. (m²)
+
+≤300
+
+**5.3**
+
+Fabricação de aparelhos para uso médico, odontológico e cirúrgico
+
+Área const. (m²)
+
+≤300
+
+**5.4**
+
+Fabricação de artigos esportivos
+
+Área const. (m²)
+
+≤500
+
+**5.5**
+
+Fabricação de telhas, tijolos e outros artigos de barro
+
+Área const. (m²)
+
+≤400
+
+**5.6**
+
+Fabricação de artigos de joalheria, bijuteria, ourivesaria e lapidação
+
+Área const. (m²)
+
+≤100
+
+**6**
+
+**Indústria de Transformação**
+
+**6.1**
+
+Fabricação de peças, ornatos e estruturas de cimento e gesso (pré-moldados)
+
+Área const. (m²)
+
+≤1000
+
+**6.2**
+
+Fabricação e elaboração de produtos diversos de minerais não metálicos (abrasivos, lixas, esmeril etc)
+
+**7**
+
+**Indústria de Madeira**
+
+**7.1**
+
+Serrarias
+
+Área const. (m²)
+
+≤100
+
+**7.2**
+
+Fabricação de estruturas de madeira e artigos de carpintaria
+
+Matéria prima (kg/mês)
+
+≤2.000
+
+**7.3**
+
+Fabricação de chapas e placas de madeira aglomerada ou prensada
+
+Produção (m²/mês)
+
+≤5.000
+
+**7.4**
+
+Fabricação de chapas e placas de madeira compensada, revestidas ou não com material plástico
+
+Produção (m²/mês)
+
+≤1.000
+
+**7.5**
+
+Fabricação de artigos de tanoaria e madeira arqueada
+
+Produção (m²/mês)
+
+≤2.000
+
+**7.6**
+
+Fabricação de cabos para ferramentas e utensílios
+
+Produção (unidade/mês)
+
+≤5.000
+
+**7.7**
+
+Fabricação de artefatos de madeira torneada
+
+Matéria prima (kg/mês)
+
+≤3.000
+
+**7.8**
+
+Fabricação de saltos e solados de madeira
+
+Produção (unidade/mês)
+
+≤3.000
+
+**7.9**
+
+Fabricação de fôrmas e modelos de madeira – inclusive de madeira arqueada
+
+Matéria prima (kg/mês)
+
+≤5.000
+
+**7.10**
+
+Fabricação de molduras e execução de obras de talha, inclusive para uso doméstico, comercial e industrial (exceto artigos de mobiliário)
+
+Matéria prima (kg/mês)
+
+≤5.000
+
+**7.11**
+
+Fabricação de artefatos de bambu, vime, junco, xaxim, palha trançada, cortiça, piaçava e similares
+
+Matéria prima (kg/mês)
+
+≤5.000
+
+**8**
+
+**Indústria de Material Elétrico e Comunicações**
+
+**8.1**
+
+Montagem, reparação ou manutenção de máquinas, aparelhos e equipamentos industriais e comerciais e elétricos eletrônico
+
+Área const. (m²)
+
+≤500
+
+**9**
+
+**Indústria Mecânica**
+
+**9.1**
+
+Fabricação de máquinas, aparelhos, peças e acessórios sem tratamento térmico e/ou galvanotécnico e/ou fundição
+
+Área const. (m²)
+
+≤500
+
+**9.2**
+
+Serviço industrial de usinagem, soldas e semelhantes e reparação de máquinas ou manutenção de máquinas, aparelhos e equipamentos
+
+Área const. (m²)
+
+≤200
+
+**9.3**
+
+Estocagem e comercialização de máquinas e equipamentos
+
+n/a
+
+Todos
+
+**10**
+
+**Indústria de Produtos Minerais**
+
+**10.1**
+
+Desdobramento, polimento, aparelhamento de rochas ornamentais (granitos, gnaisses, mármores, ardósias, quartizitos).
+
+Produção mensal (m²/mês)
+
+≤30.000,00
+
+**10.2**
+
+Beneficiamento de granitos, gnaisses, quartzitos, mármores, calcários e dolomitos (corretivo do solo) para a produção de brita, produtos siderúrgicos ou industrial
+
+Produção mensal (m²/mês)
+
+≤10.000,00
+
+**10.3**
+
+Fabricação de cerâmica (vermelha, refratária, esmaltada)
+
+Volume matéria prima (m³/mês)
+
+≤3.000,00
+
+**10.4**
+
+Beneficiamento, peneiramento e ensacamento de argila para construção civil
+
+n/a
+
+Todos
+
+**11**
+
+**Indústria Metalúrgica**
+
+**11.1**
+
+Estocagem, comercialização e/ou reciclagem de sucatas metálicas
+
+n/a
+
+Todos
+
+**12**
+
+**Indústria do Mobiliário**
+
+**12.1**
+
+Fabricação de móveis de madeira, vime e junco
+
+Área const. (m²)
+
+≤500
+
+**12.2**
+
+Fabricação de artigos de colchoaria, estofados
+
+Área const. (m²)
+
+≤500
+
+**12.3**
+
+Fabricação de móveis moldados de material plástico
+
+Área const. (m²)
+
+≤500
+
+**13**
+
+Fabricação de artefatos de papel, papelão, cartolina e cartão, com impressão, simples ou plastificado, não associada à produção de papel, papelão, cartolina e cartão
+
+Matéria prima (kg/mês)
+
+≤1.500
+
+**13.1**
+
+Fabricação de artefatos de papel, papelão, cartolina e cartão sem impressão, não associado à produção de papel, papelão, cartolina e cartão
+
+Matéria prima (kg/mês)
+
+≤1.500
+
+**14**
+
+**Indústria da Borracha**
+
+**14.1**
+
+Beneficiamento de borracha natural
+
+Produção mensal (t/mês)
+
+≤3,0
+
+**15**
+
+**Indústria de Produtos Farmacêuticos e Veterinários**
+
+**15.1**
+
+Fabricação de produtos farmacêuticos e veterinários
+
+Área const. (m²)
+
+≤300
+
+**15.2**
+
+Fabricação de produtos de higiene pessoal descartáveis
+
+Área const. (m²)
+
+≤300
+
+**16**
+
+**Indústria de Produtos de Matérias Plásticas**
+
+**16.1**
+
+Comércio e estocagem de material plástico para embalagem e/ou condicionamento
+
+n/a
+
+Todos
+
+**17**
+
+**Indústria Têxtil**
+
+**17.1**
+
+Confecções de roupas e artefatos de tecidos de cama, mesa, copa e banho
+
+Área const. (m²)
+
+≤500
+
+**17.2**
+
+Fabricação de artefatos diversos de couros e peles, sem curtimento e/ou outros tratamentos
+
+Área const. (m²)
+
+≤500
+
+**17.3**
+
+Fabricação de artigos de colchoaria, estofados
+
+Área const. (m²)
+
+≤500
+
+**17.4**
+
+Fabricação de artefatos têxteis exceto de vestuário sem tinturaria ou lavanderia
+
+Área const. (m²)
+
+≤500
+
+**17.5**
+
+Fabricação de peças do vestuário, calçados, acessórios e artigos de viagem sem tinturaria lavanderia
+
+Área const. (m²)
+
+≤500
+
+**18**
+
+**Indústria de Bebidas e Álcool Etílico**
+
+**18.1**
+
+Fabricação e engarrafamento de aguardentes
+
+Produção mensal (m³/mês)
+
+≤15,0
+
+**18.2**
+
+Fabricação e engarrafamento de vinhos, licores e outras bebidas alcoólicas, exceto aguardentes, cervejas, chopes e maltes
+
+Produção mensal (m³/mês)
+
+≤15,0
+
+**18.3**
+
+Fabricação e engarrafamento de cervejas, chopes e maltes
+
+Produção mensal (m³/mês)
+
+≤80,0
+
+**18.4**
+
+Fabricação de refrigerantes e outras bebidas não alcoólicas
+
+Produção mensal (m³/mês)
+
+≤80,0
+
+**19**
+
+**Indústria Editorial Gráfica**
+
+**19.1**
+
+Todas as atividades da indústria editorial e gráfica
+
+Área const. (m²)
+
+≤200
+
+**20**
+
+**Serviço Médico-hospitalar, Laboratorial e Veterinário**
+
+**20.1**
+
+Posto de coleta
+
+n/a
+
+Todos
+
+**20.2**
+
+Consultório médico sem procedimentos
+
+n/a
+
+Todos
+
+**21**
+
+**Construção Civil**
+
+**21.1**
+
+Obras de urbanização (calçadão, muros, acessos), exceto em APP’S
+
+n/a
+
+Todos
+
+**22**
+
+**Serviços Industriais e Utilidade Pública**
+
+**22.1**
+
+Triagem e armazenamento de resíduos recicláveis para comercialização
+
+Área const. (m²)
+
+≤300
+
+**23**
+
+**Atividades Agropecuárias**
+
+**23.1**
+
+Criação de animais de pequeno porte, em ambiente não aquático, exceto aves, fauna silvestre e/ou exótica (Ex.: cunicultura e outros)
+
+Área de confinamento de animais (m²)
+
+AC &lt; 6.000
+
+**23.2**
+
+Suinocultura com lançamento de efluentes líquidos, exclusivo para subsistência.
+
+Número máximo de cabeças
+
+NC &lt; 20
+
+**23.3**
+
+Avicultura
+
+Área de confinamento de aves (área de galpões em m<sup>2)</sup>
+
+Todos
 
  (Vide Lei nº 4.508, de 20/12/2024, que revogou os Anexos I e II da Lei nº 1.117, de 26/01/1994, cujos textos haviam sido substituídos em atenção ao disposto nesta Lei)
-
-<br>
-
-<br>
 
 **ANEXO II.**
 
 **RELAÇÃO DAS ATIVIDADES DISPENSADAS DE LICENCIAMENTO AMBIENTAL.**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Atividades</strong></span></p></td><td><p><span><strong>Dispensada de licenciamento</strong></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>Indústrias Diversas, estocagem, serviços e obras</span></strong></span></p></td></tr><tr><td><p><span>Academias de Ginástica e Fisioterapia.</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Agência de turismo</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Alinhamento e balanceamento de veículos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Borracharia, exceto recondicionamento de pneus.</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Casa de diversões eletrônicas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Casa lotérica</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Clínicas médicas e veterinárias (sem procedimentos cirúrgicos)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Confecções de roupas e artefatos de tecidos de cama, mesa, copa e banho, cortinas, sem tingimento</span></p></td><td><p><span>Até 500 m² de Área útil.</span></p></td></tr><tr><td><p><span>Consultórios de profissionais liberais (dentistas, médicos, fisioterapeutas, psicólogos, dentre outros)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Empreendimentos rurais ou de agroturismo com produção artesanal de alimentos (excluídos os casos em que existam alambiques e despolpadores de café)</span></p></td><td><p><span>Até 2000 m² de Área útil.</span></p></td></tr><tr><td><p><span>Entreposto e envase de mel, associado ou não à produção de balas e doces deste produto</span></p></td><td><p><span>Até 500 m² de Área útil.</span></p></td></tr><tr><td><p><span>Escola de ensino</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Escritórios de profissionais liberais (contadores, advogados, representantes comerciais, corretores, despachantes, dentre outros)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Estúdio fotográfico</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Fabricação de artefatos diversos de couros e peles, sem tingimento</span></p></td><td><p><span>Até 300 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de artigos de colchoaria e estofados</span></p></td><td><p><span>Até 300 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de artigos de passamanaria, fitas, filós, rendas e bordados.</span></p></td><td><p><span>Até 300 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de doces e conservas de frutas, legumes e outros vegetais</span></p></td><td><p><span>Até 200 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de embalagens e/ou artefatos de papel ou papelão, inclusie com impressão e/ou plastificação</span></p></td><td><p><span>Até 200 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de estopa, materiais para estofos e recuperação de resíduos têxteis</span></p></td><td><p><span>&nbsp;</span></p><p><span>Até 300 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de gelo</span></p></td><td><p><span>Até 200 m² de Área útil.</span></p></td></tr><tr><td><p><span>Fabricação de massas alimentícias, biscoitos, padarias e confeitarias, com exceção das que utilizem forno à lenha</span></p></td><td><p><span>Até 1000 m² de Área Útil.</span></p></td></tr><tr><td><p><span>Beneficiamento e embalagem de produtos fitoterápicos naturais, inclusive de medicamentos</span></p></td><td><p><span>Até 300 m² de Área Útil.</span></p></td></tr><tr><td><p><span>Fabricação de sorvetes e tortas geladas, inclusive coberturas</span></p></td><td><p><span>Até 1000 m² de Área útil.</span></p></td></tr><tr><td><p><span>Instalação e manutenção de climatização veicular</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Instalação e manutenção de escapamentos de veículos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Instalação e manutenção de redes de computadores.</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Instalação e manutenção de redes elétricas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Instalação e manutenção de sonorização e manutenção elétrica veicular</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Laboratórios fotográficos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Lavagem a seco de veículos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Motéis</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Movimentação e distribuição de mercadorias não perigosas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Oficina mecânica com manutenção de motores automotivos, exceto com pintura por aspersão</span></p></td><td><p><span>Até 200 m² de Área útil.</span></p></td></tr><tr><td><p><span>Pavimentação e conservação de vias urbanas já consolidadas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Pousadas e hotéis instalados em área urbana consolidada, exceto <strong>resorts</strong></span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Restaurantes</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Salão de Beleza</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Seleção, beneficiamento e embalagem de produtos para chás</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Serralheria (fabricação de portas, portões, grades e outras estruturas metálicas de pequeno porte)</span></p></td><td><p><span>Até 300 m² de Área útil.</span></p></td></tr><tr><td><p><span>Serviço de fotocópia</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Serviço de jardinagem e paisagismo, exceto imunização e controle de pragas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Serviço de limpeza e conservação de prédios e condomínios, exceto imunização e controle de pragas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Serviço de transporte de malotes e documentos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Supermercados e hipermercados</span></p></td><td><p><span>Até 250 m² de Área útil.</span></p></td></tr><tr><td><p><span>Terraplanagem, corte, aterro, áreas de empréstimo e, ou bota-fora</span></p></td><td><p><span>Volume total movimentado <u>&lt;</u> 200 m³</span></p><p><span>(Limite não extensivo a lote urbano com fim de ocupação residencial)</span></p></td></tr><tr><td><p><span>Terraplanagem, corte, aterro, áreas de empréstimo e, ou bota-fora em lote urbano para fins de ocupação residencial, não extensivo para a implantação de loteamentos</span></p></td><td><p><span>&nbsp;</span></p><p><span>Todos</span></p></td></tr><tr><td><p><span>Transporte rodoviário de passageiros</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Transporte rodoviário de cargas inertes gerais, não perigosas, exceto resíduos sólidos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Vidraçaria</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Fabricação de artigos de serralheria e esquadrias metálicas, em locais definidos pela lei municipal que defina o uso e ocupação do solo, para a prática da atividade</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Hotéis, motéis e assemelhados com até 100 (cem) leitos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Centros de apoios a pacientes com doenças crônicas (câncer, Aids, etc...), com até 100 (cem) leitos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td colspan="2"><p><span><strong><span>Saneamento</span></strong></span></p></td></tr><tr><td><p><span>Captação de água sem canal de adução ou interferência no canal do corpo hídrico</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Estação elevatória, coletor tronco e/ou tubulação de recalque de esgoto</span></p></td><td><p><span>Até 200 (l/s)</span></p></td></tr><tr><td><p><span>Estação de Tratamento de Água (ETA)</span></p></td><td><p><span>Até 20 (l/s)</span></p></td></tr><tr><td><p><span>Redes coletoras de esgoto</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Reservatórios de água tratada</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Redes, elevatórias, <strong>boosters</strong> e adutoras de água</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td colspan="2"><p><span><strong><span>Atividades rurais</span></strong></span></p></td></tr><tr><td><p><span>- Dispensa de outorga de uso de recursos hídricos para açudes de até 10 (dez) hectares de lâminas d´água, por unidade</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>- Construção de açudes de até 10 hectares de lâmina d’água</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>&nbsp;Dispensa de outorga de água utilizada para dessedentação de animais</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>- Aquisição de animais de produção (bovinos, equinos, muares, suínos, caprinos, ovinos, aves, etc</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Aquisição de máquinas e implementos agropecuários (trator, roçadeira, pulverizador, ordenhadeira, colheitadeira, ensilhadeira / desintegrador, etc.)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Destoca e enleiramento, de restos florestais (raízes, tocos, galhos) para implantação/renovação de agricultura ou pecuária</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>&nbsp;</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Construção de cercas, currais, barracões, depósitos, casas rurais</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Implantação e manutenção de Eletrificação rural</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Implantação e renovação de lavouras temporárias e permanentes</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Implantação e renovação de pastagens&nbsp;</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Atividade de Pecuária bovina de corte, em todos os sistemas de produção, com exceção de confinamentos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Atividade de pecuária de leite</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Lavagem e beneficiamento de café, cacau, açaí, e outros produtos agrícolas e extrativistas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Pilagem móvel de grãos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Implantação e manutenção de Viveiro de mudas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Atividades agrícolas em geral</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Exploração de produtos florestais não madeireiros</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Reflorestamentos com espécies nativas e exóticas em áreas de uso alternativo do solo, áreas consolidadas, reserva legal e área de preservação permanente</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td colspan="2"><p><span><strong><span>Comércio</span></strong></span></p></td></tr><tr><td><p><span>Comércio de água mineral</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de artefatos de madeira</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de artigos de couro</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de artigos de papelaria e armarinho</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de artigos fotográficos e de filmagem</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de bebidas (bares, casas de chá e sucos, exceto restaurantes)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de brinquedos e artigos recreativos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de cosméticos, perfumaria e produtos de higiene pessoal, sem manipulação</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de discos e instrumentos musicais</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de equipamentos e aparelhos elétricos e eletrônicos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de Gás GLP</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de máquinas e equipamentos odontológicos, médicos, hospitalares e laboratoriais</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de máquinas, ferramentas, peças e acessórios</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de materiais de construção em geral</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de materiais e equipamentos de escritório, comunicação e informática</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de medicamentos e produtos farmacêuticos (drogarias, exceto farmácias de manipulação)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de óculos, armações, lentes de contato e outros artigos óticos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de peças e acessórios para veículos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de plantas e produtos de jardinagem (floricultura)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de Plantas</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de produtos siderúrgicos (ferragens)</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de sorvetes, picolés e similares (exceto fabricação).</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de suvenires, bijuterias e jóias</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio de vestuário, calçados e acessórios</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Comércio e armazenamento de agrotóxicos</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Drogarias</span></p></td><td><p><span>Todos</span></p></td></tr><tr><td><p><span>Estocagem e comércio de máquinas e equipamentos, exceto manutenção</span></p></td><td><p><span>Todos</span></p></td></tr></tbody></table>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **Atividades** </td><td> **Dispensada de licenciamento** </td></tr><tr><td colspan="2"> **Indústrias Diversas, estocagem, serviços e obras** </td></tr><tr><td> Academias de Ginástica e Fisioterapia. </td><td> Todos </td></tr><tr><td> Agência de turismo </td><td> Todos </td></tr><tr><td> Alinhamento e balanceamento de veículos </td><td> Todos </td></tr><tr><td> Borracharia, exceto recondicionamento de pneus. </td><td> Todos </td></tr><tr><td> Casa de diversões eletrônicas </td><td> Todos </td></tr><tr><td> Casa lotérica </td><td> Todos </td></tr><tr><td> Clínicas médicas e veterinárias (sem procedimentos cirúrgicos) </td><td> Todos </td></tr><tr><td> Confecções de roupas e artefatos de tecidos de cama, mesa, copa e banho, cortinas, sem tingimento </td><td> Até 500 m² de Área útil. </td></tr><tr><td> Consultórios de profissionais liberais (dentistas, médicos, fisioterapeutas, psicólogos, dentre outros) </td><td> Todos </td></tr><tr><td> Empreendimentos rurais ou de agroturismo com produção artesanal de alimentos (excluídos os casos em que existam alambiques e despolpadores de café) </td><td> Até 2000 m² de Área útil. </td></tr><tr><td> Entreposto e envase de mel, associado ou não à produção de balas e doces deste produto </td><td> Até 500 m² de Área útil. </td></tr><tr><td> Escola de ensino </td><td> Todos </td></tr><tr><td> Escritórios de profissionais liberais (contadores, advogados, representantes comerciais, corretores, despachantes, dentre outros) </td><td> Todos </td></tr><tr><td> Estúdio fotográfico </td><td> Todos </td></tr><tr><td> Fabricação de artefatos diversos de couros e peles, sem tingimento </td><td> Até 300 m² de Área útil. </td></tr><tr><td> Fabricação de artigos de colchoaria e estofados </td><td> Até 300 m² de Área útil. </td></tr><tr><td> Fabricação de artigos de passamanaria, fitas, filós, rendas e bordados. </td><td> Até 300 m² de Área útil. </td></tr><tr><td> Fabricação de doces e conservas de frutas, legumes e outros vegetais </td><td> Até 200 m² de Área útil. </td></tr><tr><td> Fabricação de embalagens e/ou artefatos de papel ou papelão, inclusie com impressão e/ou plastificação </td><td> Até 200 m² de Área útil. </td></tr><tr><td> Fabricação de estopa, materiais para estofos e recuperação de resíduos têxteis </td><td> &nbsp; Até 300 m² de Área útil. </td></tr><tr><td> Fabricação de gelo </td><td> Até 200 m² de Área útil. </td></tr><tr><td> Fabricação de massas alimentícias, biscoitos, padarias e confeitarias, com exceção das que utilizem forno à lenha </td><td> Até 1000 m² de Área Útil. </td></tr><tr><td> Beneficiamento e embalagem de produtos fitoterápicos naturais, inclusive de medicamentos </td><td> Até 300 m² de Área Útil. </td></tr><tr><td> Fabricação de sorvetes e tortas geladas, inclusive coberturas </td><td> Até 1000 m² de Área útil. </td></tr><tr><td> Instalação e manutenção de climatização veicular </td><td> Todos </td></tr><tr><td> Instalação e manutenção de escapamentos de veículos </td><td> Todos </td></tr><tr><td> Instalação e manutenção de redes de computadores. </td><td> Todos </td></tr><tr><td> Instalação e manutenção de redes elétricas </td><td> Todos </td></tr><tr><td> Instalação e manutenção de sonorização e manutenção elétrica veicular </td><td> Todos </td></tr><tr><td> Laboratórios fotográficos </td><td> Todos </td></tr><tr><td> Lavagem a seco de veículos </td><td> Todos </td></tr><tr><td> Motéis </td><td> Todos </td></tr><tr><td> Movimentação e distribuição de mercadorias não perigosas </td><td> Todos </td></tr><tr><td> Oficina mecânica com manutenção de motores automotivos, exceto com pintura por aspersão </td><td> Até 200 m² de Área útil. </td></tr><tr><td> Pavimentação e conservação de vias urbanas já consolidadas </td><td> Todos </td></tr><tr><td> Pousadas e hotéis instalados em área urbana consolidada, exceto **resorts** </td><td> Todos </td></tr><tr><td> Restaurantes </td><td> Todos </td></tr><tr><td> Salão de Beleza </td><td> Todos </td></tr><tr><td> Seleção, beneficiamento e embalagem de produtos para chás </td><td> Todos </td></tr><tr><td> Serralheria (fabricação de portas, portões, grades e outras estruturas metálicas de pequeno porte) </td><td> Até 300 m² de Área útil. </td></tr><tr><td> Serviço de fotocópia </td><td> Todos </td></tr><tr><td> Serviço de jardinagem e paisagismo, exceto imunização e controle de pragas </td><td> Todos </td></tr><tr><td> Serviço de limpeza e conservação de prédios e condomínios, exceto imunização e controle de pragas </td><td> Todos </td></tr><tr><td> Serviço de transporte de malotes e documentos </td><td> Todos </td></tr><tr><td> Supermercados e hipermercados </td><td> Até 250 m² de Área útil. </td></tr><tr><td> Terraplanagem, corte, aterro, áreas de empréstimo e, ou bota-fora </td><td> Volume total movimentado &lt; 200 m³ (Limite não extensivo a lote urbano com fim de ocupação residencial) </td></tr><tr><td> Terraplanagem, corte, aterro, áreas de empréstimo e, ou bota-fora em lote urbano para fins de ocupação residencial, não extensivo para a implantação de loteamentos </td><td> &nbsp; Todos </td></tr><tr><td> Transporte rodoviário de passageiros </td><td> Todos </td></tr><tr><td> Transporte rodoviário de cargas inertes gerais, não perigosas, exceto resíduos sólidos </td><td> Todos </td></tr><tr><td> Vidraçaria </td><td> Todos </td></tr><tr><td> Fabricação de artigos de serralheria e esquadrias metálicas, em locais definidos pela lei municipal que defina o uso e ocupação do solo, para a prática da atividade </td><td> Todos </td></tr><tr><td> Hotéis, motéis e assemelhados com até 100 (cem) leitos </td><td> Todos </td></tr><tr><td> Centros de apoios a pacientes com doenças crônicas (câncer, Aids, etc...), com até 100 (cem) leitos </td><td> Todos </td></tr><tr><td colspan="2"> **Saneamento** </td></tr><tr><td> Captação de água sem canal de adução ou interferência no canal do corpo hídrico </td><td> Todos </td></tr><tr><td> Estação elevatória, coletor tronco e/ou tubulação de recalque de esgoto </td><td> Até 200 (l/s) </td></tr><tr><td> Estação de Tratamento de Água (ETA) </td><td> Até 20 (l/s) </td></tr><tr><td> Redes coletoras de esgoto </td><td> Todos </td></tr><tr><td> Reservatórios de água tratada </td><td> Todos </td></tr><tr><td> Redes, elevatórias, **boosters** e adutoras de água </td><td> Todos </td></tr><tr><td colspan="2"> **Atividades rurais** </td></tr><tr><td> - Dispensa de outorga de uso de recursos hídricos para açudes de até 10 (dez) hectares de lâminas d´água, por unidade </td><td> Todos </td></tr><tr><td> - Construção de açudes de até 10 hectares de lâmina d’água </td><td> Todos </td></tr><tr><td> &nbsp;Dispensa de outorga de água utilizada para dessedentação de animais </td><td> Todos </td></tr><tr><td> - Aquisição de animais de produção (bovinos, equinos, muares, suínos, caprinos, ovinos, aves, etc </td><td> Todos </td></tr><tr><td> Aquisição de máquinas e implementos agropecuários (trator, roçadeira, pulverizador, ordenhadeira, colheitadeira, ensilhadeira / desintegrador, etc.) </td><td> Todos </td></tr><tr><td> Destoca e enleiramento, de restos florestais (raízes, tocos, galhos) para implantação/renovação de agricultura ou pecuária </td><td> Todos </td></tr><tr><td> &nbsp; </td><td> Todos </td></tr><tr><td> Construção de cercas, currais, barracões, depósitos, casas rurais </td><td> Todos </td></tr><tr><td> Implantação e manutenção de Eletrificação rural </td><td> Todos </td></tr><tr><td> Implantação e renovação de lavouras temporárias e permanentes </td><td> Todos </td></tr><tr><td> Implantação e renovação de pastagens&nbsp; </td><td> Todos </td></tr><tr><td> Atividade de Pecuária bovina de corte, em todos os sistemas de produção, com exceção de confinamentos </td><td> Todos </td></tr><tr><td> Atividade de pecuária de leite </td><td> Todos </td></tr><tr><td> Lavagem e beneficiamento de café, cacau, açaí, e outros produtos agrícolas e extrativistas </td><td> Todos </td></tr><tr><td> Pilagem móvel de grãos </td><td> Todos </td></tr><tr><td> Implantação e manutenção de Viveiro de mudas </td><td> Todos </td></tr><tr><td> Atividades agrícolas em geral </td><td> Todos </td></tr><tr><td> Exploração de produtos florestais não madeireiros </td><td> Todos </td></tr><tr><td> Reflorestamentos com espécies nativas e exóticas em áreas de uso alternativo do solo, áreas consolidadas, reserva legal e área de preservação permanente </td><td> Todos </td></tr><tr><td colspan="2"> **Comércio** </td></tr><tr><td> Comércio de água mineral </td><td> Todos </td></tr><tr><td> Comércio de artefatos de madeira </td><td> Todos </td></tr><tr><td> Comércio de artigos de couro </td><td> Todos </td></tr><tr><td> Comércio de artigos de papelaria e armarinho </td><td> Todos </td></tr><tr><td> Comércio de artigos fotográficos e de filmagem </td><td> Todos </td></tr><tr><td> Comércio de bebidas (bares, casas de chá e sucos, exceto restaurantes) </td><td> Todos </td></tr><tr><td> Comércio de brinquedos e artigos recreativos </td><td> Todos </td></tr><tr><td> Comércio de cosméticos, perfumaria e produtos de higiene pessoal, sem manipulação </td><td> Todos </td></tr><tr><td> Comércio de discos e instrumentos musicais </td><td> Todos </td></tr><tr><td> Comércio de equipamentos e aparelhos elétricos e eletrônicos </td><td> Todos </td></tr><tr><td> Comércio de Gás GLP </td><td> Todos </td></tr><tr><td> Comércio de máquinas e equipamentos odontológicos, médicos, hospitalares e laboratoriais </td><td> Todos </td></tr><tr><td> Comércio de máquinas, ferramentas, peças e acessórios </td><td> Todos </td></tr><tr><td> Comércio de materiais de construção em geral </td><td> Todos </td></tr><tr><td> Comércio de materiais e equipamentos de escritório, comunicação e informática </td><td> Todos </td></tr><tr><td> Comércio de medicamentos e produtos farmacêuticos (drogarias, exceto farmácias de manipulação) </td><td> Todos </td></tr><tr><td> Comércio de óculos, armações, lentes de contato e outros artigos óticos </td><td> Todos </td></tr><tr><td> Comércio de peças e acessórios para veículos </td><td> Todos </td></tr><tr><td> Comércio de plantas e produtos de jardinagem (floricultura) </td><td> Todos </td></tr><tr><td> Comércio de Plantas </td><td> Todos </td></tr><tr><td> Comércio de produtos siderúrgicos (ferragens) </td><td> Todos </td></tr><tr><td> Comércio de sorvetes, picolés e similares (exceto fabricação). </td><td> Todos </td></tr><tr><td> Comércio de suvenires, bijuterias e jóias </td><td> Todos </td></tr><tr><td> Comércio de vestuário, calçados e acessórios </td><td> Todos </td></tr><tr><td> Comércio e armazenamento de agrotóxicos </td><td> Todos </td></tr><tr><td> Drogarias </td><td> Todos </td></tr><tr><td> Estocagem e comércio de máquinas e equipamentos, exceto manutenção </td><td> Todos </td></tr></tbody></table>
 
  (Vide Lei nº 4.508, de 20/12/2024, que revogou os Anexos I e II da Lei nº 1.117, de 26/01/1994, cujos textos haviam sido substituídos em atenção ao disposto nesta Lei)
-
-<br>
-
-<br>
-
-<br>
 
 **ANEXO III.**
 
@@ -383,7 +1229,3 @@ d) procuração pública (ou particular), com firma reconhecida, se o requerimen
 e) comprovante de quitação da taxa de renovação de licenciamento, quando aplicável; e
 
 f) última licença ambiental emitida.
-
-<br>
-
-<br>

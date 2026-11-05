@@ -1,5 +1,3 @@
-###DEC-087176-0-000-18-05-1982@@@
-
 DECRETO Nº 87.176, DE 18 DE MAIO DE 1982.
 
 Autoriza o aumento do capital social da Rede Ferroviária Federal S/A - RFFSA

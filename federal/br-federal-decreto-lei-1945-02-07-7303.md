@@ -1,5 +1,3 @@
-###DEL-007303-0-000-07-02-1945@@@
-
 DECRETO-LEI N. 7.303 – DE 7 DE FEVEREIRO DE 1945
 
 Torna sem aplicação o Decreto-lei nº 7.241, de 11 de janeiro de 1945

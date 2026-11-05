@@ -1,5 +1,3 @@
-###DEC-062398-0-000-14-03-1968@@@
-
 DECRETO Nº 62.398, DE 14 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Banco de Olhos” com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

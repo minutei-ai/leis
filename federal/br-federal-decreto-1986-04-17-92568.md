@@ -1,5 +1,3 @@
-###DEC-092568-0-000-17-04-1986@@@
-
 DECRETO Nº 92.568, DE 17 DE ABRIL DE 1986
 
 Autoriza o Governo do Estado do Acre, a explorar, através da Fundação de Desenvolvimento de Recursos Humanos da Cultura e do Desporto - FDRHCD, na cidade de Rio Branco, Estado do Acre, serviço de radiodifusão sonora em onda tropical, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

@@ -6,11 +6,94 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizada, na forma indicada na presente lei, a Secretaria da Agricultura.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 **ANEXO ÚNICO**
 
 CARGOS EM COMISSÃO DA SEAGRI
 
-<table style="margin-left: 12.5pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 268.8pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="358"><p style="margin: 6pt 0cm 12pt;">DISCRIMINAÇÃO</p></td><td style="width: 74.15pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="99"><p style="margin: 6pt 0cm 12pt; text-align: center;" align="center">SÍMBOLO</p></td><td style="width: 97.3pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="130"><p style="margin: 6pt 0cm 12pt; text-align: center;" align="center">QUANTIDADE</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Chefe de Gabinete</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Assessor Especial</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">02</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Assessor Chefe</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Diretor do Serviço de Administração</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Inspetor Setorial de Finanças</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Coordenador</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">02</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Coordenador dos Centros Regionais de Informações Agrícolas</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">&nbsp;</p><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">&nbsp;</p><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Diretor de Serviço</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Diretor Adjunto</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">02</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Assessor</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">16</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Coordenador Adjunto</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">06</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Coordenador Regional</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">27</p></td></tr><tr><td style="width: 268.8pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="358"><p>Oficial de Gabinete</p></td><td style="width: 74.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="99"><p style="text-align: center;" align="center">DAS-2</p></td><td style="width: 97.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="130"><p style="text-align: center;" align="center">02</p></td></tr></tbody></table>
+DISCRIMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Gabinete
+
+DAS-5
+
+01
+
+Assessor Especial
+
+DAS-5
+
+02
+
+Assessor Chefe
+
+DAS-5
+
+01
+
+Diretor do Serviço de Administração
+
+DAS-5
+
+01
+
+Inspetor Setorial de Finanças
+
+DAS-5
+
+01
+
+Coordenador
+
+DAS-5
+
+02
+
+Coordenador dos Centros Regionais de Informações Agrícolas
+
+DAS-5
+
+01
+
+Diretor de Serviço
+
+DAS-5
+
+01
+
+Diretor Adjunto
+
+DAS-4
+
+02
+
+Assessor
+
+DAS-4
+
+16
+
+Coordenador Adjunto
+
+DAS-4
+
+06
+
+Coordenador Regional
+
+DAS-3
+
+27
+
+Oficial de Gabinete
+
+DAS-2
+
+02

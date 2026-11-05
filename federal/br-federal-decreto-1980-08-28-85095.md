@@ -1,5 +1,3 @@
-###DEC-085095-0-000-28-08-1980@@@
-
 DECRETO Nº 85.095, DE 28 DE AGOSTO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada á passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

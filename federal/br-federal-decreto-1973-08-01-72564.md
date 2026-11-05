@@ -1,5 +1,3 @@
-###DEC-072564-0-000-01-08-1973@@@
-
 DECRETO Nº 72.564, DE 1 DE AGOSTO DE 1973.
 
 Retifica o ato de redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Departamento Nacional de Obras Contra as Secas.

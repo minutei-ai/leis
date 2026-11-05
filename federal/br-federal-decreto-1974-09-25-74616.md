@@ -1,5 +1,3 @@
-###DEC-074616-0-000-25-09-1974@@@
-
 DECRETO Nº 74.616, DE 25 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas Matogrossenses S.A. - CEMAT, nos Estados de Goiás e Mato Grosso.

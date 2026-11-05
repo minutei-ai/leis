@@ -1,5 +1,3 @@
-###DEC-094877-0-000-16-09-1987@@@
-
 DECRETO Nº 94.877, DE 16 DE SETEMBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, área de terra localizada no Município de Xique-Xique no Estado da Bahia.

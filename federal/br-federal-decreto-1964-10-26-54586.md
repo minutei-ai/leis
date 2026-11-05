@@ -1,5 +1,3 @@
-###DEC-054586-0-000-26-10-1964@@@
-
 DECRETO Nº 54.586, DE 26 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão.

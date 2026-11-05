@@ -1,5 +1,3 @@
-###DEL-004191-0-000-18-03-1942@@@
-
 DECRETO-LEI N. 4.191 – DE 18 DE MARÇO DE 1942
 
 Dispõe sobre o penhor de máquinas e aparelhos utilizados na indústria quando instalados em imovel alugado a terceiro, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055475-0-000-07-01-1965@@@
-
 DECRETO Nº 55.475, DE 7 DE JANEIRO DE 1965.
 
 Institui a “Medalha do Mérito Mauá”.

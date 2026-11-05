@@ -1,5 +1,3 @@
-###DEC-001927-0-000-13-06-1996@@@
-
 DECRETO Nº 1.927, DE 13 DE JUNHO DE 1996.
 
 Acresce § 8° ao art. 6° do Decreto n° 1.590, de 10 de agosto de 1995, que dispõe sobre a jornada de trabalho dos servidores da Administração Pública Federal direta, das autarquias e fundações públicas federais.

@@ -1,5 +1,3 @@
-###DEC-007741-0-000-30-05-2012-PUB-01@@@
-
 DECRETO N° 7.741, DE 30 DE MAIO DE 2012
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto n° 7.660, de 23 de dezembro de 2011.

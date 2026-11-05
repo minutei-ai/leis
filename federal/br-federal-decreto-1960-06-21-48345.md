@@ -1,5 +1,3 @@
-###DEC-048345-0-000-21-06-1960@@@
-
 DECRETO Nº 48.345, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Manoel da Silva Franco a lavar talco, no município de Ponta Grossa, Estado do Paraná.

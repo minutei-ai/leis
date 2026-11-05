@@ -1,5 +1,3 @@
-###DEC-057379-0-000-03-12-1965@@@
-
 DECRETO Nº 57.379, DE 3 DE DEZEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Pôrto Seguro Companhia de Seguros Gerais, relativa ao aumento do capital social.

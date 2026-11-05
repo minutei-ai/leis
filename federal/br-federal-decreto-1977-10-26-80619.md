@@ -1,5 +1,3 @@
-###DEC-080619-0-000-26-10-1977@@@
-
 DECRETO Nº 80.619, DE 26 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Comunicação Social, da Faculdade de Comunicação Social Santa Edwiges, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

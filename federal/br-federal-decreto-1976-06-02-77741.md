@@ -1,5 +1,3 @@
-###DEC-077741-0-000-02-06-1976@@@
-
 DECRETO Nº 77.741, DE 2 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade Espírito-Santense de Administração, com sede na Cidade de Vitória, Estado do Espírito Santo

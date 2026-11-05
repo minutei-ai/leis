@@ -1,5 +1,3 @@
-###DEC-047289-0-000-24-11-1959@@@
-
 DECRETO Nº 47.289, DE 24 DE NOVEMBRO DE 1959.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento da energia hidráulica do salto Vila Nova existente no rio Mangueirinha, distrito de Mangueirinha, município do mesmo nome, Estado do Paraná.

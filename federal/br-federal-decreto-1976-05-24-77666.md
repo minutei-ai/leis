@@ -1,5 +1,3 @@
-###DEC-077666-0-000-24-05-1976@@@
-
 DECRETO Nº 77.666, DE 24 DE MAIO DE 1976
 
 Confisca bens pertencentes à Fábrica de Tecidos Carioba S.A., domiciliado na Capital do Estado de São Paulo, e dá outras providências.

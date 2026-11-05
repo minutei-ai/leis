@@ -1,5 +1,3 @@
-###DEL-009891-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.891 – DE 16 DE SETEMBRO DE 1946
 
 Revoga os Decretos-leis nº 5.766, de 20 de Agôsto de 1943 e 6.966, de 17 de Outubro de 1944.

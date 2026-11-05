@@ -1,4 +1,3 @@
-<br>
 LEI Nº 13.051 DE 20 DE MARÇO DE 2014
 
 Declara de utilidade pública a ASSOCIAÇÃO DOS PRODUTORES RURAIS DE BOA VISTA, com sede e foro no município de Jacobina.

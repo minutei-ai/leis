@@ -1,7 +1,3 @@
-1
-
-###DEC-098634-0-000-20-12-1989@@@
-
 DECRETO Nº 98.634, DE 20 DE DEZEMBRO DE 1989
 
 Abre ao Ministério do Interior, em favor da Secretaria Especial de Ação Comunitária, o crédito suplementar de NCz$ 125.000.000,00, para reforço de dotações consignadas no vigente Orçamento.

@@ -1,5 +1,3 @@
-###DEC-068420-0-000-25-03-1971@@@
-
 DECRETO Nº 68.420, DE 25 DE MARÇO DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Indústria e do Comércio para o Ministério da Justiça, e dá outras providências.

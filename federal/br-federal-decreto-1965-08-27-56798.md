@@ -1,5 +1,3 @@
-###DEC-056798-0-000-27-08-1965@@@
-
 DECRETO Nº 56.798, DE 27 DE AGÔSTO DE 1965.
 
 Regulamenta o Fundo Agro-industrial de Reconversão - FUNAR - criado pelo art. 120 do Estatuto da Terra.

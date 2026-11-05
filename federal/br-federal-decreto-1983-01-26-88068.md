@@ -1,5 +1,3 @@
-###DEC-088068-0-000-26-01-1983@@@
-
 Decreto nº 88.068, de 26 de janeiro de 1983
 
 Autoriza o aumento do capital social da Rede Federal de Armazéns Gerais Ferroviários S.A. - AGEF.

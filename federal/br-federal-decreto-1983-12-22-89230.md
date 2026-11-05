@@ -1,5 +1,3 @@
-###DEC-089230-0-000-22-12-1983@@@
-
 Decreto nº 89.230, de 22 de dezembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO PRINCESA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Francisco Beltrão, Estado do Paraná.

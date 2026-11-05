@@ -1,5 +1,3 @@
-###DEC-066616-0-000-21-05-1970@@@
-
 DECRETO Nº 66.616, DE 21 DE MAIO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Arquitetura e Urbanismo "Braz Cubas", com o Curso de Arquitetura, na Cidade de Mogi da Cruzes, Estado de São Paulo.

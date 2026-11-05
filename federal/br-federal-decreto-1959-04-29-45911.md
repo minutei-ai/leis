@@ -1,5 +1,3 @@
-###DEC-045911-0-000-29-04-1959@@@
-
 DECRETO N. 45.911 – de  29 de  Abril de 1959
 
 Concede à Companhia de Transportes Rio de Janeiro autorização para continuar a funcionar como empresa de navegação de cabotagem.

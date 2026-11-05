@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 30 dias do mês de Maio de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1

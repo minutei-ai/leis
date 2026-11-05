@@ -1,5 +1,3 @@
-###DEL-004187-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.187 – DE 16 DE MARÇO DE 1942
 
 Dispõe sobre e realização dos Quartos Jogos Universitários Brasileiros.

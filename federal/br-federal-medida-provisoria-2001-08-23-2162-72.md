@@ -1,5 +1,3 @@
-###MPV-002162-0-072-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.162-72, DE 23 DE AGOSTO DE 2001
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

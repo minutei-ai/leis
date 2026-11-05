@@ -1,5 +1,3 @@
-###DEC-093177-0-000-26-08-1986@@@
-
 DECRETO Nº 93.177, DE 26 DE AGOSTO DE 1986
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Fisioterapia o de São Caetano do Sul.

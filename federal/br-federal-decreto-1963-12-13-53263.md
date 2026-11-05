@@ -1,5 +1,3 @@
-###DEC-053263-0-000-13-12-1963@@@
-
 DECRETO Nº 53.263, de  13 de Dezembro de  1963
 
 Aprova o Regulamento sôbre o registro de Jornalista Profissional.

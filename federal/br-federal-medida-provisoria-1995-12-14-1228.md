@@ -1,7 +1,3 @@
-1
-
-###MPV-001228-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.228, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

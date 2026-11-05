@@ -1,5 +1,3 @@
-###DEC-006280-0-000-03-12-2007@@@
-
 DECRETO Nº 6.280, DE 3 DE DEZEMBRO DE 2007.
 
 Dispõe sobre o remanejamento de cargos em comissão para a FUNAI, para os Ministérios do Esporte, do Planejamento, Orçamento e Gestão, do Desenvolvimento Social e Combate à Forme, da Saúde, da Previdência Social e para a Secretaria Especial dos Direitos Humanos, altera o Decreto de 18 de julho de 2003, que institui o Comitê de Gestão das Ações Governamentais nos XV Jogos Pan-Americanos de 2007 - PAN2007 e estabelece diretrizes para seu funcionamento, o Decreto no 5.551, de 26 de setembro de 2005, e o Decreto no 5.743, de 4 de abril de 2006, e revoga o Decreto no 6.083, de 18 de abril de 2007.
@@ -77,5 +75,3 @@ Brasília, 3 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 3.12.2007 - Edição extra

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/34619a49-b48f-499d-9765-a28165f50b1e/texto#nowhere)
 
-###DEL-000798-0-000-27-08-1969@@@
-
 DECRETO-LEI Nº 798, De 27 De AGoStO De 1969
 
 Permite ao segurado da Previdência Social o cômputo do tempo de serviço militar voluntário para efeito de aposentadoria.

@@ -1,5 +1,3 @@
-###DEC-069535-0-000-11-11-1971@@@
-
 DECRETO Nº 69.535 - DE 11 DE NOVEMBRO de 1971
 
 Concede reconhecimento aos Cursos de Economia e de Administração da Faculdade de Ciências Econômicas da Universidade de Uberlândia.

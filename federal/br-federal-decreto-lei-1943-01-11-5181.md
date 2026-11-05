@@ -1,5 +1,3 @@
-###DEL-005181-0-000-11-01-1943@@@
-
 DECRETO‑LEI N. 5.181 – DE 11 DE JANEIRO DE 1943
 
 Dispõe sobre o transporte de artrópodes vivos por aeronaves, e dá outras providências

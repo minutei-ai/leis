@@ -1,5 +1,3 @@
-###DEC-055849-0-000-19-03-1965@@@
-
 DECRETO Nº 55.849, DE 19 DE MARÇO DE 1965.
 
 Concede reconhecimento ao Curso de Psicologia da Faculdade de Filosofia da Pontifícia Universidade Católica do Rio Grande do Sul.

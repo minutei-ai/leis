@@ -1,5 +1,3 @@
-###DEC-045227-0-000-15-01-1959@@@
-
 DECRETO Nº 45.227, DE 15 DE JANEIRO DE 1959.
 
 Transfere da Companhia Agrícola e Indústria São João, Cerâmica São João S. A. e Indústria de Azulejo S. A., para a Sociedade Administradora Várzea do Capibaribe Limitada, a linha de transmissão cuja construção foi autorizada pelo Decreto nº 40.177 de 26 de outubro de 1956.

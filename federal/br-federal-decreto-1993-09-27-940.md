@@ -1,7 +1,3 @@
-1
-
-###DEC-000940-0-000-27-09-1993@@@
-
 DECRETO N° 94O, DE 27 DE SETEMBRO DE 1993
 
 Dispõe sobre a diária no exterior, do servidor público civil e militar, integrante de equipe de apoio ou de comitiva do Presidente ou do Vice-Presidente da República.

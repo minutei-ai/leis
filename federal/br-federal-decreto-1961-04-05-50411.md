@@ -1,5 +1,3 @@
-###DEC-050411-0-000-05-04-1961@@@
-
 DECRETO Nº 50.411, DE 5 DE ABRIL DE 1961.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outras gêneros da produção nacional, para o ano agrícola de 1961-62 é remanescentes de 1960-61.

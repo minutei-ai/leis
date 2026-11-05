@@ -1,5 +1,3 @@
-###DEC-068407-0-000-23-03-1971@@@
-
 Decreto Nº 68.407, DE 23 DE MARÇO DE 1971.
 
 Concede à J. de Augustinis e Cia Ltda. o direto de lavrar argila no município de Ijaci, Estado de Minas Gerais.

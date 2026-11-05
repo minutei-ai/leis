@@ -1,5 +1,3 @@
-###DEC-006871-0-000-04-06-2009@@@
-
 DECRETO Nº 6.871, DE 4 DE JUNHO DE 2009.
 
 Regulamenta a Lei no 8.918, de 14 de julho de 1994, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.

@@ -1,5 +1,3 @@
-###DEC-066626-0-000-22-05-1970@@@
-
 DECRETO Nº 66.626, DE 22 DE MAIO DE 1970.
 
 Autoriza o Ministério da Fazenda negociar e a contratar, em nome da União Federal, empréstimo, em moeda estrangeira, com o Banco Interamericano de Desenvolvimento, para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-089921-0-000-04-07-1984@@@
-
 Decreto nº 89.921, de 04 de julho de 1984.
 
 Concede à Companhia Brasileira do Cobre - CBC, autorização para proceder o aumento do seu capital autorizado.

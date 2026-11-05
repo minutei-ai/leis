@@ -1,5 +1,3 @@
-###DEC-051932-A-000-26-04-1963@@@
-
 DECRETO Nº 51.932-A, de 26 de Abril de 1963.
 
 Autoriza a Mineração e Usina Wigg S.A. a pesquisar minérios de ferro de manganês e dolomita no município de Itabirito, Estado de Minas Gerais.

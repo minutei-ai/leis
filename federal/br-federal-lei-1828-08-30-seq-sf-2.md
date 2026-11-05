@@ -1,5 +1,3 @@
-###LEI-000000-0-002-30-08-1828@@@
-
 LEI - DE 30 DE AGOSTO DE 1828
 
 Manda que o imposto do quinto dos couros na Provincia do Rio Grande do Sul seja pago em dinheiro na razão de 20% do seu valor, isentando desse imposto os do consumo do paiz.

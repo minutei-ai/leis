@@ -1,5 +1,3 @@
-###DEC-004285-0-000-26-06-2002@@@
-
 DECRETO Nº 4.285, DE 26 DE JUNHO DE 2002
 
 Dispõe sobre o remanejamento de cargos vagos da Carreira de Procurador Federal

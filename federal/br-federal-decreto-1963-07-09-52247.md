@@ -1,5 +1,3 @@
-###DEC-052247-0-000-09-07-1963@@@
-
 DECRETO Nº 52.247, de 9 de julho de 1963.
 
 Concede à Cia. Industrial e Mineradora do Gamelão - CIMIGA, autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-055778-0-000-19-02-1965@@@
-
 Decreto nº 55.778, de 19 de fevereiro de 1965
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 14.600.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-045828-0-000-17-04-1959@@@
-
 DECRETO N. 45.828 – DE 17 DE ABRIL DE 1959
 
 Altera a lotação de repartição atendida pelo Quadro Permanente do Ministério da Fazenda.

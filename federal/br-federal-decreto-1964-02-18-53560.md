@@ -1,5 +1,3 @@
-###DEC-053560-0-000-18-02-1964@@@
-
 DECRETO Nº 53.560, DE 18 DE FEVEREIRO DE 1964.
 
 Altera os Decretos ns. 51.152, de 5 de agôsto de 1961, alterado pelo Decreto nº 154, de 17 de novembro de 1961, e 52.446, de 3 de setembro de 1963 e dá outras providencias.

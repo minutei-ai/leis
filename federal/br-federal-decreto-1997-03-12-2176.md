@@ -1,5 +1,3 @@
-###DEC-002176-0-000-12-03-1997@@@
-
 DECRETO Nº 2.176, DE 12 DE MARÇO DE 1997
 
 Dispõe sobre cargos privativos de Oficial-General do Exército em Tempo de paz, e dá outras providências.

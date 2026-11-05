@@ -1,5 +1,3 @@
-###DEC-080141-0-000-11-08-1977@@@
-
 DECRETO Nº 80.141, DE 11 DE AGOSTO DE 1977.
 
 Abre à Presidência da República em favor de Estado-Maior das Forças Armadas, o crédito suplementar de Cr$8.890.000,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -12,13 +10,71 @@ Art. Fica aberto à Presidência da República, em favor do Estado-Maior das For
 
 Cr$ 1,00
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">1100 -</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- PRESIDÊNCIA DA REPÚBLICA</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">1105 -</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Estado-Maior das Forças Armadas</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">1105.06090202.483</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Planejamento e Coordenação do Estado-Maior das Forças Armadas</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.1.1.1 -</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">01</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">2.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">02</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Despesas Variáveis</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">250.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.1.1.2</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Pessoal Militar</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">01</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">02</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Despesas Variáveis</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">2.300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Salário-Famíla</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">90.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Contribuições de Previdência Social</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">250.000</span></p></td></tr><tr><td style="vertical-align:top"></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- TOTAL</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">8.890.000</span></p></td></tr><tr style="height:0pt"><td style="width:88.55pt"></td><td style="width:262.25pt"></td><td style="width:56.7pt"></td></tr></tbody></table>
+1100 -
+
+- PRESIDÊNCIA DA REPÚBLICA
+
+1105 -
+
+- Estado-Maior das Forças Armadas
+
+1105.06090202.483
+
+- Planejamento e Coordenação do Estado-Maior das Forças Armadas
+
+3.1.1.1 -
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+2.500.000
+
+02
+
+- Despesas Variáveis
+
+250.000
+
+3.1.1.2
+
+- Pessoal Militar
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+3.500.000
+
+02
+
+- Despesas Variáveis
+
+2.300.000
+
+3.2.3.3
+
+- Salário-Famíla
+
+90.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social
+
+250.000
+
+- TOTAL
+
+8.890.000
 
 Art.1º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial da dotação orçamentária consignada no vigente Orçamento ao subanexo 3900, a saber
 
 Cr$ 1,00
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3900</span></p></td><td colspan="2" style="width:198.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- RESERVA DE CONTINGÊNCIA</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3900.99999999.999</span></p></td><td colspan="2" style="width:198.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Reserva de Contigência</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:139.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Reserva de Contigência</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:Arial">8.890.000</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 3900 </td><td colspan="2"> &nbsp;- RESERVA DE CONTINGÊNCIA </td></tr><tr><td> 3900.99999999.999 </td><td colspan="2"> &nbsp;- Reserva de Contigência </td></tr><tr><td> 3.2.6.0 </td><td> &nbsp;- Reserva de Contigência </td><td> 8.890.000 </td></tr></tbody></table>
 
 Art. 1º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-046341-0-000-01-07-1959@@@
-
 decreto nº 46.341, de 1º de julho de 1959.
 
 Declara de utilidade pública o “Orfanato São José”, com sede no Distrito Federal.

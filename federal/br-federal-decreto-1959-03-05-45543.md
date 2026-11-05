@@ -1,5 +1,3 @@
-###DEC-045543-0-000-05-03-1959@@@
-
 DECRETO Nº 45.543, DE 5 DE MARÇO DE 1959.
 
 Concede à Koche & Floriani Limitada autorização para funcionar como emprêsa de mineração.

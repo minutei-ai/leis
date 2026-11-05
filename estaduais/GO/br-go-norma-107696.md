@@ -102,8 +102,6 @@ Art. 9º Esta Lei entra em vigor no dia 1º de janeiro do ano seguinte ao de sua
 
 Goiânia, 28 de agosto de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

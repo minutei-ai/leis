@@ -1,5 +1,3 @@
-###DEC-076439-0-000-14-10-1975@@@
-
 DECRETO Nº 76.439, DE 14 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Portos e Vias Navegáveis, as edificações existentes em terrenos de marinha, no município de Vila Velha, Estado do Espírito Santo.

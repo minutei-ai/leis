@@ -1,5 +1,3 @@
-###DEC-081324-0-000-09-02-1978@@@
-
 Decreto nº 81.324, de 9 de fevereiro de 1978.
 
 Concede reconhecimento aos cursos de Letras e de Estudos Sociais, ministrados pelas Faculdades Integradas Alcântara Machado, com sede na cidade de São Paulo, Estado de São Paulo.

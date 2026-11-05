@@ -1,5 +1,3 @@
-###DEC-002593-0-000-15-05-1998@@@
-
 DECRETO Nº 2.593, DE 15 DE MAIO DE 1998
 
 Aprova o Regulamento dos Serviços de Retransmissão e de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

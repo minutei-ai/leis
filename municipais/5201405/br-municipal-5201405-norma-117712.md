@@ -28,8 +28,10 @@ Gabinete do Prefeito do Município de Aparecida de Goiânia, aos 09 dias do mês
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de governo

@@ -1,5 +1,3 @@
-###DEC-083632-0-000-26-06-1979@@@
-
 Decreto nº 83.632, de 26 de junho de 1979.
 
 Autoriza o funcionamento da habilitação em Biologia do curso de Ciências da Faculdade de Filosofia, Ciências e Letras, do Instituto Metodista Isabela Hendrix, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

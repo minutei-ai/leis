@@ -1,5 +1,3 @@
-###DEC-052641-0-000-10-10-1963@@@
-
 Decreto nº 52.641, de 10 de outubro de 1963.
 
 Revoga o Decreto nº 4.533, de 17 de agôsto de 1939.

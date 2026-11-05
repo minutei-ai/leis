@@ -1,5 +1,3 @@
-###DEC-068017-0-000-31-12-1970@@@
-
 DECRETO Nº 68.017, DE 31 DE DEZEMBRO DE 1970.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal de Pernambuco, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211403)<br>
-
 # DECRETO N° 69.845, DE 04 DE SETEMBRO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Alameda Dino Bueno, n°s 324, 332-336, 348 e 360, Distrito de Santa Cecília, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

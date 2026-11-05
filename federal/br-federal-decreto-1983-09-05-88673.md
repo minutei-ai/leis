@@ -1,5 +1,3 @@
-###DEC-088673-0-000-05-09-1983@@@
-
 Decreto nº 88.673, de 05 de setembro de 1983.
 
 Classifica órgão de deliberação coletiva na área do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-059332-0-000-29-09-1966@@@
-
 DECRETO Nº 59.332, DE 29 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Joaquim Marques da Silveira a pesquisar diamante no município de Turmalina, Estado de Minas Gerais.

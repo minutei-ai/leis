@@ -1,7 +1,3 @@
-1
-
-###DEC-001294-0-000-26-10-1994@@@
-
 DECRETO Nº 1.294, DE 26 DE OUTUBRO DE 1994
 
 Altera a redação do art. 5º do Decreto nº 57.654, de 20 de janeiro de 1966, Regulamento da Lei do Serviço Militar.

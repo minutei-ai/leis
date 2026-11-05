@@ -1,5 +1,3 @@
-###DEL-004413-0-000-26-06-1942@@@
-
 DECRETO-LEI N. 4.413 – DE 26 DE JUNHO DE 1942 
 
 Cria a 2ª Companhia lndependente de Carros Leves

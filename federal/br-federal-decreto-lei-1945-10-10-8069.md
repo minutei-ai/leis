@@ -1,5 +1,3 @@
-###DEL-008069-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.069 – DE 10 DE OUTUBRO DE 1945
 
 Dispõe sôbre a função gratificada de Secretário do Diretor do Departamento de Previdência Social, do Conselho Nacional do Trabalho.

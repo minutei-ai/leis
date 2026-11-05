@@ -1,5 +1,3 @@
-###DEC-096605-0-000-29-08-1988@@@
-
 DECRETO Nº 96.605, DE 29 DE AGOSTO DE 1988
 
 Dispõe sobre a elevação do capital social do Espírito Santo Centrais Elétricas S.A.  ESCELSA.

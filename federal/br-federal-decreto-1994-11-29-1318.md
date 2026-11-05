@@ -1,7 +1,3 @@
-1
-
-###DEC-001318-0-000-29-11-1994@@@
-
 DECRETO N° 1.318, DE 29 DE NOVEMBRO DE 1994
 
 Altera o Decreto n° 55.762, de 17 de fevereiro de 1965.

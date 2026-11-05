@@ -1,5 +1,3 @@
-###DEC-064033-0-000-27-01-1969@@@
-
 decreto nº 64.033, de 27 de janeiro de 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas destinadas à bacia de acumulação do aproveitamento de energia hidráulica de um trecho do rio Tietê, localizadas nos municípios de Arealva, Pederneiras, Boracéia, Itaju e Bariri, Estado de São Paulo.

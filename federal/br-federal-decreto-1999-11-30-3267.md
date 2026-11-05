@@ -1,5 +1,3 @@
-###DEC-003267-0-000-30-11-1999@@@
-
 DECRETO Nº 3.267, DE 30 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a execução, no Território Nacional, da Resolução 1.267 (1999) do Conselho de Segurança das Nações Unidas, que proíbe o trânsito de aeronaves de propriedade do regime do Taliban, bem como determina o bloqueio de fundos e bens pertencentes aos talibans.

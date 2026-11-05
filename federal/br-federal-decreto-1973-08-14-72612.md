@@ -1,5 +1,3 @@
-###DEC-072612-0-000-14-08-1973@@@
-
 DECRETO Nº 72.612, de 14 de AGOSTO de 1973.
 
 Concede reconhecimento ao curso de Educação Física e Técnicas Desportivas da Universidade Federal de Santa Maria, Estado do Rio Grande do Sul.

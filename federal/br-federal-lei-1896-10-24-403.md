@@ -1,14 +1,12 @@
-###LEI-000403-0-000-24-10-1896@@@
+**LEI N. 403 – DE 24 DE OUTUBRO DE 1896**
 
-<strong>LEI N. 403 – DE 24 DE OUTUBRO DE 1896</strong>
-
-<em><strong>Crea o Estado-Maior do Exercito e a Intendencia Geral da Guerra, e dá outras providencias.</strong></em>
+***Crea o Estado-Maior do Exercito e a Intendencia Geral da Guerra, e dá outras providencias.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decretou e eu sancciono a seguinte lei:
 
-<strong>Art.</strong> 1º Ficam desde já creados:
+**Art.** 1º Ficam desde já creados:
 
 1º, o Estado-Maior do Exercito;
 
@@ -16,11 +14,11 @@ Faço saber que o Congresso Nacional decretou e eu sancciono a seguinte lei:
 
 ESTADO-MAIOR DO EXERCITO
 
-<strong>Art.</strong> 2º O Estado-Maior tem a seu cargo preparar o Exercito para a defesa da Patria, por isso é especialmente encarregado do estudo e applicação de todas as questões relativas á organisação, direcção e execução das operações militares, ficando os commandos das forças e as direcções dos diversos serviços militares sob sua acção, no que concerne á instrucção e disciplina das tropas.
+**Art.** 2º O Estado-Maior tem a seu cargo preparar o Exercito para a defesa da Patria, por isso é especialmente encarregado do estudo e applicação de todas as questões relativas á organisação, direcção e execução das operações militares, ficando os commandos das forças e as direcções dos diversos serviços militares sob sua acção, no que concerne á instrucção e disciplina das tropas.
 
 Paragrapho unico. O Estado-Maior do Exercito tem sob suas ordens, para execução de todo o serviço, o respectivo corpo.
 
-<strong>Art</strong>. 3º O Estado-Maior se comporá de um gabinete e quatro secções, tendo em suas attribuições:
+**Art**. 3º O Estado-Maior se comporá de um gabinete e quatro secções, tendo em suas attribuições:
 
 O GABINETE
 
@@ -38,7 +36,7 @@ a 3ª, a organisação da carta geral da Republica, mappas geographicos e topogr
 
 a 4ª, a codificação e consolidação da legislação militar, administração, economia, disciplina, justiça militar, licenças, transferencias, orgnisação e publicação do almanak, registro militar do estado civil dos officiaes, assentamento dos generaes e officiaes do estado-maior, informações annuas de todos os officiaes do Exercito; acquisição de livros, revistas militares e technicas que possam desenvolver a instrucção dos officiaes e praças do Exercito, material e archivo do mesmo.
 
-<strong>Art.</strong> 4º O Estado-Maior do Exercito terá o seguinte pessoal:
+**Art.** 4º O Estado-Maior do Exercito terá o seguinte pessoal:
 
 Um chefe, marechal ou general de divisão, do quadro effectivo;
 
@@ -78,7 +76,7 @@ Um encarregado dos pombos-correios, official subalterno effectivo do Exercito.
 
 INTENDENCIA GERAL DA GUERRA
 
-<strong>Art.</strong> 5º A Intendencia Geral da Guerra é encarregada de assegurar aos corpos de tropas, ás fortalezas e aos demais estabelecimentos militares o fornecimento do material necessario á subsistencia e á accommodação do pessoal do Exercito, todo o fardamento, equipamento, arreiamento, correame, armamento, munição e demais material de guerra e de transporte, bem assim a necessaria cavalhada.
+**Art.** 5º A Intendencia Geral da Guerra é encarregada de assegurar aos corpos de tropas, ás fortalezas e aos demais estabelecimentos militares o fornecimento do material necessario á subsistencia e á accommodação do pessoal do Exercito, todo o fardamento, equipamento, arreiamento, correame, armamento, munição e demais material de guerra e de transporte, bem assim a necessaria cavalhada.
 
 Paragrapho unico. A Intendencia Geral da Guerra, encarregada de reunir, conservar e distribuir o material do Exercito necessario á manutenção do mesmo, em todas as suas operações, terá para execução dos serviços a seu cargo um gabinete e quatro secções, aquelle incumbido da correspondencia, expediente e despacho geral do intendente e estas:
 
@@ -90,7 +88,7 @@ a 3ª, de viveres e forragens, transporte do material do Exercito, requisição,
 
 a 4ª, da guarda em deposito de todo o material de guerra, munições e fardamento de reserva e da carga geral desse material.
 
-<strong>Art.</strong> 6º A Intendencia Geral da Guerra terá o pessoal abaixo:
+**Art.** 6º A Intendencia Geral da Guerra terá o pessoal abaixo:
 
 Um intendente geral, official general do quadro effectivo;
 
@@ -126,11 +124,11 @@ Tres contiuuos, idem, idem;
 
 Tres serventes, idem, idem.
 
-<strong>Art.</strong> 7º Consequentemente á organisação do Estado-Maior do Exercito e da Intendencia Geral da Guerra, ficam creadas as direcções geraes de artilharia, de engenharia e de saude, de accordo com os regulamentos que forem expedidos pelo Governo.
+**Art.** 7º Consequentemente á organisação do Estado-Maior do Exercito e da Intendencia Geral da Guerra, ficam creadas as direcções geraes de artilharia, de engenharia e de saude, de accordo com os regulamentos que forem expedidos pelo Governo.
 
 DIRECÇÃO GERAL DE ENGENHARIA
 
-<strong>Art.</strong> 8º A Direcção Geral de Engenharia é especialmente encarregada da construcção das vias de communicações com applicação militar, das fortificações e dos edificios militares, assim como da direcção da instrucção technica e outros negocios do pessoal de engenharia.
+**Art.** 8º A Direcção Geral de Engenharia é especialmente encarregada da construcção das vias de communicações com applicação militar, das fortificações e dos edificios militares, assim como da direcção da instrucção technica e outros negocios do pessoal de engenharia.
 
 Depende desta direcção o corpo de engenheiros.
 
@@ -172,7 +170,7 @@ Dous serventes, idem, idem.
 
 DIRECÇÃO GERAL DE ARTILHARIA
 
-<strong>Art.</strong> 9º A’ Direcção Geral de Artilharia incumbe especialmente a preparação do material de artilharia, das munições de guerra e de todo o armamento necessario ao Exercito, assim como a direcção da instrucção technica e outros misteres do pessoal de artilharia.
+**Art.** 9º A’ Direcção Geral de Artilharia incumbe especialmente a preparação do material de artilharia, das munições de guerra e de todo o armamento necessario ao Exercito, assim como a direcção da instrucção technica e outros misteres do pessoal de artilharia.
 
 § 1ª A Direcção Geral de Artilharia terá um gabinete e tres secções, aquelle encarregado da correspondencia, expediente e despacho da direcção, e estas incumbidas:
 
@@ -212,7 +210,7 @@ Um archivista, official reformado ou honorario do Exercito.
 
 DIRECÇÃO GERAL DE SAUDE
 
-<strong>Art.</strong> 10. A Direcção Geral de Saude trata especialmente de assegurar aos hospitaes, enfermarias e corpos de tropas, todo o pessoal, material e medicamento necessarios ás boas regras de hygiene e á saude das tropas em tempo de paz e de guerra, assim como o pessoal e medicamento necessarios ao tratamento da cavalhada do Exercito.
+**Art.** 10. A Direcção Geral de Saude trata especialmente de assegurar aos hospitaes, enfermarias e corpos de tropas, todo o pessoal, material e medicamento necessarios ás boas regras de hygiene e á saude das tropas em tempo de paz e de guerra, assim como o pessoal e medicamento necessarios ao tratamento da cavalhada do Exercito.
 
 Depende desta direcção o corpo de saude (medicos, pharmaceuticos, veterinarios, etc.)
 
@@ -260,7 +258,7 @@ Dous continuos, idem, idem.
 
 Disposições geraes
 
-<strong>Art.</strong> 11. Os officiaes do actual corpo de estado-maior de 1ª classe, nos postos em que se acham, constituirão – o corpo de estado-maior – o qual ficará immediatamente subordinado ao respectivo chefe, que os distribuirá pelos differentes serviços, segundo suas exigencias.
+**Art.** 11. Os officiaes do actual corpo de estado-maior de 1ª classe, nos postos em que se acham, constituirão – o corpo de estado-maior – o qual ficará immediatamente subordinado ao respectivo chefe, que os distribuirá pelos differentes serviços, segundo suas exigencias.
 
 § 1º Além dos officiaes do corpo de estado-maior, poderão servir junto ao chefe, no gabinete ou secções da respectiva repartição, officiaes do corpo de engenheiros militares, estado-maior de artilharia, capitães e subalternos das armas arregimentadas, por elle propostos e nomeados pelo Ministerio da Guerra, tendo todos, pelo menos, o curso de estado-maior.
 
@@ -268,40 +266,40 @@ Disposições geraes
 
 § 3º Os capitães de que trata este artigo só poderão desempenhar funcções de estado-maior, após terem um anno de effectivo serviço de fileira, neste posto.
 
-<strong>Art.</strong> 12. O corpo do engenheiros militares, o estado-maior de artilharia e o corpo de saude ficarão subordinados, o primeiro ao director geral de engenharia, o segundo ao de artilharia e o terceiro ao director geral do saude, sendo o pessoal distribuido, sob proposta dos respectivos chefes e nomeação do Ministro da Guerra, pelos serviços que lhe competirem.
+**Art.** 12. O corpo do engenheiros militares, o estado-maior de artilharia e o corpo de saude ficarão subordinados, o primeiro ao director geral de engenharia, o segundo ao de artilharia e o terceiro ao director geral do saude, sendo o pessoal distribuido, sob proposta dos respectivos chefes e nomeação do Ministro da Guerra, pelos serviços que lhe competirem.
 
-<strong>Art.</strong> 13. Ao chefe do Estado-Maior do Exercito, ao intendente geral da guerra e aos chefes das direcções, competem a iniciativa e a responsabilidade na direcção do respectivo serviço.
+**Art.** 13. Ao chefe do Estado-Maior do Exercito, ao intendente geral da guerra e aos chefes das direcções, competem a iniciativa e a responsabilidade na direcção do respectivo serviço.
 
-<strong>Art.</strong> 14. Os officiaes de artilharia servirão indistinctamente no estado-maior da arma ou arregimentados, ficando revogados o art. 6º e seus paragraphos da lei n. 39 A, de 30 de janeiro de 1892.
+**Art.** 14. Os officiaes de artilharia servirão indistinctamente no estado-maior da arma ou arregimentados, ficando revogados o art. 6º e seus paragraphos da lei n. 39 A, de 30 de janeiro de 1892.
 
-<strong>Art.</strong> 15. Os cargos do amanuense, ao Estado-Maior do Exercito, nas direções geraes de engenharia e artilharia serão exercidos por alferes e 2<sup>os</sup> tenentes, que excederem dos respectivos quadros, passando a ser occupados por praças do Exercito, logo que todos aquelles sejam classificados.
+**Art.** 15. Os cargos do amanuense, ao Estado-Maior do Exercito, nas direções geraes de engenharia e artilharia serão exercidos por alferes e 2<sup>os</sup> tenentes, que excederem dos respectivos quadros, passando a ser occupados por praças do Exercito, logo que todos aquelles sejam classificados.
 
-<strong>Art.</strong> 16. O Governo fará a regulamentação dos serviços ora creados, precisando, quanto possivel, a natureza de cada um e bem assim as funcções de seu pessoal, tanto na paz como na guerra.
+**Art.** 16. O Governo fará a regulamentação dos serviços ora creados, precisando, quanto possivel, a natureza de cada um e bem assim as funcções de seu pessoal, tanto na paz como na guerra.
 
 Em caso de guerra, uma parte do pessoal com os seus chefes, formando o quartel-general do Exercito em operações, com o seu estado-maior general, suas direcções e intendencia geral, seguirá com o commadante em chefe e outra ficará junto ao Ministro da Guerra para assegurar sob suas ordens a boa marcha do serviço central.
 
 Paragrapho unico. Tambem providenciará sobre a administração e direcção das escolas e Collegio Militar, arsenaes de guerra, laboratorios pyrotechnicos, fabrica de polvora e de cartuchos; invalidos da patria, reforma da Secretaria da Guerra e da Contadoria Geral da Guerra, supprimindo o que julgar conveniente, propondo tudo que for necessario ao Exercito, para que este possa bem desempenhar a sua missão constitucional em qualquer emergencia.
 
-<strong>Art.</strong> 17. Organisado o Estado-Maior do Exercito, este immediatamente formulará o plano geral de defesa da Republica, distribuição e collocação das tropas, da hierarchia militar, da composição dos quadros do pessoal do Exercito, o qual, presente ao Governo, será por este submettido á consideração do Congresso Nacional, para servir de base a completa execução do n. 18 do art. 34 da Constituição Federal.
+**Art.** 17. Organisado o Estado-Maior do Exercito, este immediatamente formulará o plano geral de defesa da Republica, distribuição e collocação das tropas, da hierarchia militar, da composição dos quadros do pessoal do Exercito, o qual, presente ao Governo, será por este submettido á consideração do Congresso Nacional, para servir de base a completa execução do n. 18 do art. 34 da Constituição Federal.
 
-<strong>Art.</strong> 18. A’ medida que forem se organisando as repartições ora creadas, ficarão supprimidos: a Commissão Technica Militar Consultiva, os commandos de corpos especiaes, a Directoria Geral das Obras Militares, as Repartições de Ajudante e Quartel-Mestre Generaes e Sanitaria Militar, o a Intendencia da Guerra.
+**Art.** 18. A’ medida que forem se organisando as repartições ora creadas, ficarão supprimidos: a Commissão Technica Militar Consultiva, os commandos de corpos especiaes, a Directoria Geral das Obras Militares, as Repartições de Ajudante e Quartel-Mestre Generaes e Sanitaria Militar, o a Intendencia da Guerra.
 
 § 1º Os vencimentos dos officiaes e mais pessoal empregados no serviço do Estado-Maior do Exercito, no da Intendencia Geral da Guerra e das diversas direcções, serão marcados pelo Governo, de accordo com as tabellas de vencimentos em vigor e com os recursos orçamentarios.
 
 § 2º O Observatorio Astronomico passará para o Ministerio da Industria, Viação e Obras Publicas.
 
-<strong>Art</strong>. 19. Fica mantida a divisão do territorio da Republica em districtos militares, a hierarchia militar e a composição dos quadros do pessoal do Exercito, até final decretação de sua reorganisação.
+**Art**. 19. Fica mantida a divisão do territorio da Republica em districtos militares, a hierarchia militar e a composição dos quadros do pessoal do Exercito, até final decretação de sua reorganisação.
 
-<strong>Art.</strong> 20. A Capital Federal, os Estados de S. Paulo, Minas Geraes, Goyaz, Rio de Janeiro e Espirito Santo, constituirão provisoriamente o 4º districto militar, com séde na Capital Federal.
+**Art.** 20. A Capital Federal, os Estados de S. Paulo, Minas Geraes, Goyaz, Rio de Janeiro e Espirito Santo, constituirão provisoriamente o 4º districto militar, com séde na Capital Federal.
 
-<strong>Art.</strong> 21. Os empregados civis das repartições supprimidas serão aproveitados nas novamente creadas, ficando addidos os que porventura excederem dos respectivos quadros, para serem incluidos á medida que se forem dando vagas.
+**Art.** 21. Os empregados civis das repartições supprimidas serão aproveitados nas novamente creadas, ficando addidos os que porventura excederem dos respectivos quadros, para serem incluidos á medida que se forem dando vagas.
 
-<strong>Art.</strong> 22. O Ministro da Guerra é o orgão intermediario junto ao Presidente da Republica, para tudo que disser respeito á Administração da Guerra, á qual preside, nos termos do art. 49 da Constituição, e são tambem a elle subordinados todos os funccionarios, civis e militares, da mesma administração.
+**Art.** 22. O Ministro da Guerra é o orgão intermediario junto ao Presidente da Republica, para tudo que disser respeito á Administração da Guerra, á qual preside, nos termos do art. 49 da Constituição, e são tambem a elle subordinados todos os funccionarios, civis e militares, da mesma administração.
 
-<strong>Art.</strong> 23. Revogam-se as disposições em contrario.
+**Art.** 23. Revogam-se as disposições em contrario.
 
 Capital Federal, 24 de outubro de 1896, 8º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Dionysio E. de Castro Cerqueira.

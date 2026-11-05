@@ -1,5 +1,3 @@
-###DEC-002792-0-000-01-10-1998@@@
-
 DECRETO Nº 2.792, DE 1º DE OUTUBRO DE 1998
 
 Altera o Decreto nº 2.632, de 19 de junho de 1998, que dispõe sobre o Sistema Nacional Antidrogas e dá outras providências.

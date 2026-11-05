@@ -1,5 +1,3 @@
-###DEC-084602-0-000-31-03-1980@@@
-
 DECRETO Nº 84.602, DE 31 DE MARÇO DE 1980
 
 Cria a Embaixada do Brasil na Federação da Malásia, com sede na cidade de Kuala Lumpur.

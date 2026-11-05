@@ -1,5 +1,3 @@
-###DEC-048529-0-000-18-07-1960@@@
-
 DECRETO Nº 48.529, DE 18 DE JULHO DE 1960.
 
 Declara do interêsse do desenvolvimento do Nordeste, para efeito da isenção estabelecida pelo § 1º, do art. 19, da Lei nº 3.692, de 15 de dezembro de 1959, os trabalhos de extração e industrialização do minério de bário, efetuados pela firma Pigmentos Minerais Industrial e Comercial, Pigminas S.A. de Salvador, em Camamu, Estado da Bahia.

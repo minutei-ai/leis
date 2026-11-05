@@ -1,5 +1,3 @@
-###DEC-054060-0-000-28-07-1964@@@
-
 DECRETO Nº 54.060, DE 28 DE JULHO DE 1964.
 
 Abre pelo Ministério da Viação e Obras Públicas, em favor de órgãos setoriais nêle jurisdicionados, o crédito extraordinário de Cr$8.380.000.000,00, para o fim que menciona.

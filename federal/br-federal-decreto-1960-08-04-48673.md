@@ -1,5 +1,3 @@
-###DEC-048673-0-000-04-08-1960@@@
-
 DECRETO Nº 48.673, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza Jean Bach a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-061593-0-000-23-10-1967@@@
-
 DECRETO Nº 61.593, DE 23 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública “Ação Comunitária do Brasil” com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-046118-0-000-23-05-1959@@@
-
 DECRETO Nº 46.118, DE 23 DE MAIO DE 1959.
 
 Dispõe sôbre as funções, ou missões, de caráter transitório.

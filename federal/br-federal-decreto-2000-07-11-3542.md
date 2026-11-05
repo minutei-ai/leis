@@ -1,5 +1,3 @@
-###DEC-003542-0-000-11-07-2000@@@
-
 DECRETO Nº 3.542, DE 11 DE JULHO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

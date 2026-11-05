@@ -1,5 +1,3 @@
-###DEL-005407-0-000-14-04-1943@@@
-
 DECRETO‑LEI N. 5.407 –  DE 14 DE ABRIL DE 1943
 
 Autoriza a Comissão Executiva dos Produtos de Mandioca a contratar operações de crédito com o Banco do Brasil

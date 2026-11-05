@@ -1,5 +1,3 @@
-###DEC-092550-0-000-15-04-1986@@@
-
 DECRETO Nº 92.550, DE 15 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Boissucanga, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

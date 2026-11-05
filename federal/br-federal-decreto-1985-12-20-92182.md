@@ -1,5 +1,3 @@
-###DEC-092182-0-000-20-12-1985@@@
-
 DECRETo Nº 92.182, DE 20 DE DEZembro de 1985
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, vinculada ao Ministério do Exército.

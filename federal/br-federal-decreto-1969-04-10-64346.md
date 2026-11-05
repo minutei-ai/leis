@@ -1,5 +1,3 @@
-###DEC-064346-0-000-10-04-1969@@@
-
 DECRETO Nº 64.346, DE 10 DE ABRILDE 1969.
 
 Decreta intervenção federal no Município de Pau dos Ferros - Estado do Rio Grande do Norte, e dá outras providências.

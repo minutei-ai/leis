@@ -1,5 +1,3 @@
-###DEC-059365-0-000-04-10-1966@@@
-
 decreto nº 59.365, de 4 de outubro de 1966.
 
 Acresce parágrafo único ao art. 3º do Decreto nº 59.065, de 12 de agôsto de 1966.

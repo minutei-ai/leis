@@ -1,26 +1,24 @@
-###DEC-026302-0-000-03-02-1949@@@
+**DECRETO Nº 26.302, DE 3 DE FEVEREIRO DE 1949.**
 
-<strong>DECRETO Nº 26.302, DE 3 DE FEVEREIRO DE 1949.</strong>
+***Aprova o Regimento do Gabinete do Ministro da Justiça e Negócios Interiores.***
 
-<em><strong>Aprova o Regimento do Gabinete do Ministro da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovado o regimento que com êste baixa, do Gabinete do Ministro da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º É aprovado o regimento que com êste baixa, do Gabinete do Ministro da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de fevereiro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa
 
-<strong>REGIMENTO DO GABINETE DO MINISTRO DA JUSTIÇA E NEGÓCIOS INTERIORES.</strong>
+**REGIMENTO DO GABINETE DO MINISTRO DA JUSTIÇA E NEGÓCIOS INTERIORES.**
 
-<strong>Art</strong>. 1º Ao Gabinete do Ministro da Justiça e Negócios Interiores incumbe:
+**Art**. 1º Ao Gabinete do Ministro da Justiça e Negócios Interiores incumbe:
 
 I - estudar os assuntos e questões dependentes da deliberação do Ministro, quer do ponto de vista técnico, quer do ponto de vista administrativo;
 
@@ -32,7 +30,7 @@ IV - manter ligação com os diferentes órgãos do Ministério.
 
 V - redigir a correspondência oficial do Ministro.
 
-<strong>Art</strong>. 2º Para execução dos trabalhos que lhe são pertinentes, o Gabinete compor-se-á de um Chefe, um Subchefe, Oficiais, Assistentes, um Ajudante de Ordens e Auxiliares.
+**Art**. 2º Para execução dos trabalhos que lhe são pertinentes, o Gabinete compor-se-á de um Chefe, um Subchefe, Oficiais, Assistentes, um Ajudante de Ordens e Auxiliares.
 
 § 1º O Chefe, o Subchefe, os Oficiais e Assistentes serão de livre designação do Ministro, podendo a escolha recair em servidores públicos ou pessoas estranhas.
 
@@ -40,11 +38,11 @@ V - redigir a correspondência oficial do Ministro.
 
 § 3º Os Auxiliares serão servidores públicos, requisitados na forma da lei (art. 35 do Estatuto dos Funcionários).
 
-<strong>Art</strong>. 3º A organização interna do Gabinete observará a divisão do trabalho que fôr determinada pelo respectivo Chefe.
+**Art**. 3º A organização interna do Gabinete observará a divisão do trabalho que fôr determinada pelo respectivo Chefe.
 
-<strong>Art</strong>. 4º Os serviços auxiliares - redação, dactilografia, administração de pessoal e material - serão organizados de acôrdo com os interêsses do serviço.
+**Art**. 4º Os serviços auxiliares - redação, dactilografia, administração de pessoal e material - serão organizados de acôrdo com os interêsses do serviço.
 
-<strong>Art</strong>. 5º Ao Chefe do Gabinete incumbe:
+**Art**. 5º Ao Chefe do Gabinete incumbe:
 
 I - distribuir, orientar, coordenar e fiscalizar os trabalhos;
 
@@ -66,7 +64,7 @@ IX - organizar a escala de férias;
 
 X - proferir despachos de encaminhamento dos expedientes.
 
-<strong>Art</strong>. 6º Ao Subchefe do Gabinete, além dos têrmos de cooperação que forem acordados com o respectivo Chefe, incumbe:
+**Art**. 6º Ao Subchefe do Gabinete, além dos têrmos de cooperação que forem acordados com o respectivo Chefe, incumbe:
 
 I - substituir o Chefe do Gabinete em seus impedimentos eventuais;
 
@@ -80,7 +78,7 @@ V - organizar a relação dos processos despachados, diàriamente, para efeito d
 
 VI - representar o Ministro, quando designado.
 
-<strong>Art</strong>. 7º Aos Oficiais de Gabinete incumbe:
+**Art**. 7º Aos Oficiais de Gabinete incumbe:
 
 I - emitir parecer sôbre os assuntos que lhes forem submetidos a apreciação;
 
@@ -98,13 +96,13 @@ VIII - manter ligação com os representantes da imprensa credenciados junto ao 
 
 IX - representar o Ministro, quando designados.
 
-<strong>Art</strong>. 8º Aos Assistentes do Gabinete incumbe:
+**Art**. 8º Aos Assistentes do Gabinete incumbe:
 
 I - emitir parecer sôbre os assuntos ou processos que lhes forem confiados;
 
 II - estudar e apresentar planos de realizações, campanhas, ou projetos que visem ao êxito da gestão do Ministro.
 
-<strong>Art</strong>. 9º Ao Assistente Militar incumbe:
+**Art**. 9º Ao Assistente Militar incumbe:
 
 I - transmitir as ordens do Ministro às Corporações militares subordinadas ao Ministério;
 
@@ -116,9 +114,9 @@ IV - supervisionar os serviços de policiamento;
 
 V - representar o Ministro, quando designado.
 
-<strong>Art</strong>. 10 - Ao Ajudante de Ordens incumbe auxiliar o Assistente Militar e representar o Ministro quando designado.
+**Art**. 10 - Ao Ajudante de Ordens incumbe auxiliar o Assistente Militar e representar o Ministro quando designado.
 
-<strong>Art</strong>. 11 - Aos Auxiliares do Gabinete compete:
+**Art**. 11 - Aos Auxiliares do Gabinete compete:
 
 I - redigir e dactilografar a correspondência que lhes fôr distribuída;
 
@@ -126,8 +124,8 @@ II - controlar e expedir a correspondência; e
 
 III - executar outros serviços que lhes forem distribuídos.
 
-<strong>Art</strong>. 12 - O horário normal de trabalho será fixado pelo Chefe do Gabinete, respeitado o número de horas semanais ou mensais estabelecidas para o Serviço Público Civil.
+**Art**. 12 - O horário normal de trabalho será fixado pelo Chefe do Gabinete, respeitado o número de horas semanais ou mensais estabelecidas para o Serviço Público Civil.
 
-<strong>Art</strong>. 13 - O Chefe do Gabinete, em seus impedimentos eventuais, será substituído pelo Subchefe e, na sua falta, por um dos Oficiais do Gabinete designado pelo Ministro.
+**Art**. 13 - O Chefe do Gabinete, em seus impedimentos eventuais, será substituído pelo Subchefe e, na sua falta, por um dos Oficiais do Gabinete designado pelo Ministro.
 
-<strong>ADROALDO MESQUITA DA COSTA</strong>
+**ADROALDO MESQUITA DA COSTA**

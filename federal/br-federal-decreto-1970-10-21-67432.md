@@ -1,5 +1,3 @@
-###DEC-067432-0-000-21-10-1970@@@
-
 DECRETO Nº 67.432, DE 21 DE OUTUBRO DE 1970.
 
 Transfere para o Quadro de Pessoal do Ministério da Agricultura cargo, com o respectivo ocupante originário da extinta Comissão do Vale do São Francisco.

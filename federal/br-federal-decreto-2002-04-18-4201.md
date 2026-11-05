@@ -1,5 +1,3 @@
-###DEC-004201-0-000-18-04-2002@@@
-
 DECRETO Nº 4.201, DE 18 DE ABRIL DE 2002
 
 Dispõe sobre o Conselho Nacional do Esporte e dá outras providências.

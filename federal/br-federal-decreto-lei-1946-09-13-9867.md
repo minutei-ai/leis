@@ -1,5 +1,3 @@
-###DEL-009867-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.867 – DE 13 DE SETEMBRO DE 1946
 
 Dá nova redação ao artigo 147 do Código Brasileiro do Ar.

@@ -1,5 +1,3 @@
-###DEC-003506-0-000-13-06-2000@@@
-
 DECRETO Nº 3.506, DE 13 DE JUNHO DE 2000.
 
 Dispõe sobre procedimentos a serem adotados em relação à paralisação de serviços públicos ocorrida no período de 11 de maio a 13 de junho de 2000, no âmbito da Administração Federal direta, das autarquias e das fundações públicas do Poder Executivo da União.

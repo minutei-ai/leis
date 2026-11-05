@@ -1,5 +1,3 @@
-###DEL-009626-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.626 – DE 22 DE AGÔSTO DE 1946
 
 Dispõe sôbre o impôsto de transmissão de propriedades “inter-vivos” no Distrito Federal.

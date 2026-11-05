@@ -1,5 +1,3 @@
-###DEC-081022-0-000-12-12-1977@@@
-
 DECRETO Nº 81.022, DE 12 DE DEZEMRO DE 1977.
 
 Concede reconhecimento ao curso de Medicina Veterinária da Fundação Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

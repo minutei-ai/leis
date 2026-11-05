@@ -1,5 +1,3 @@
-###DEC-077138-0-000-12-02-1976@@@
-
 Decreto nº 77.138, de 12 de fevereiro de 1976.
 
 Concede reconhecimento os Cursos de Ciências, Matemática, Física, Química, Biblioteconomia e Letras da Universidade do Amazonas, com sede em Manaus Estado do Amazonas.

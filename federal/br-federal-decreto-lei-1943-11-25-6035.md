@@ -1,5 +1,3 @@
-###DEL-006035-0-000-25-11-1943@@@
-
 DECRETO-LEI N. 6.035 – DE 25 DE NOVEMBRO DE 1943
 
 Cria a 2ª coletoria federal de Londrina, no Estado do Paraná, e dá outras providências

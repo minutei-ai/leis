@@ -1,5 +1,3 @@
-###DEC-006365-0-000-24-01-2008@@@
-
 DECRETO No- 6.365, DE 24 DE JANEIRO DE 2008
 
 Dá nova redação ao art. 8o do Decreto no5.995, de 19 de dezembro de 2006, que institui o Sistema de Gestão do Projeto de Integração do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional.

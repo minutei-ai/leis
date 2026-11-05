@@ -1,5 +1,3 @@
-###DEL-003481-0-000-09-08-1941@@@
-
 DECRETO-LEI N. 3.481 – DE 9 DE AGOSTO DE 1941
 
 Autoriza o Ministro de Estado de Educação e Saude a conceder ao Senhor Antonio de Oliveira Salazar o título de Doutor “honoriscausa” da Universidade do Brasil

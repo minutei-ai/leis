@@ -1,18 +1,16 @@
-###DEC-044482-0-000-08-09-1958@@@
+**DECRETO Nº 44.482, DE 8 DE SETEMBRO DE 1958.**
 
-<strong>DECRETO Nº 44.482, DE 8 DE SETEMBRO DE 1958.</strong>
+***Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.***
 
-<em><strong>Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, em cumprimento ao disposto no art. 15, § 4º, da Lei nº 3.115, de 16 de março de 1957;
+**O PRESIDENTE DA REPÚBLICA**, em cumprimento ao disposto no art. 15, § 4º, da Lei nº 3.115, de 16 de março de 1957;
 
 de acôrdo com o art. 6º do Decreto nº 43.549, de 10 de abril de 1958, e
 
 usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º. Ficam lotados, nas repartições do Ministério da Viação e Obras Públicas indicadas por êste decreto, os seguintes servidores cedidos à Rêde Ferroviária Federal S.A.
+**Art**. 1º. Ficam lotados, nas repartições do Ministério da Viação e Obras Públicas indicadas por êste decreto, os seguintes servidores cedidos à Rêde Ferroviária Federal S.A.
 
 a) no Departamento Nacional de Obras Contra as Sêcas:
 
@@ -124,16 +122,16 @@ f) no Departamento de Administração:
 
 12\) Elza de Azevedo Lobo, Auxiliar de Escritório, referência 22, da Tabela Numérica de Extranumerários-Mensalistas da Estrada de Ferro Central do Brasil.
 
-<strong>Art</strong>. 2º Os vencimentos, salários, gratificações e quaisquer outras vantagens a que tiverem direito os servidores de que trata êste decreto, continuarão a ser pagos pela Rêde Ferroviária Federal S.A., enquanto as entidades em que ficam lotados não dispuserem de dotação orçamentária suficiente.
+**Art**. 2º Os vencimentos, salários, gratificações e quaisquer outras vantagens a que tiverem direito os servidores de que trata êste decreto, continuarão a ser pagos pela Rêde Ferroviária Federal S.A., enquanto as entidades em que ficam lotados não dispuserem de dotação orçamentária suficiente.
 
-<strong>Art</strong>. 3º A Rêde Ferroviária Federal S.A. contabilizará, discriminadamente, as importâncias pagas aos servidores a que se refere êste decreto, lançando-se a conta da União, para liquidação mediante abertura de crédito necessário.
+**Art**. 3º A Rêde Ferroviária Federal S.A. contabilizará, discriminadamente, as importâncias pagas aos servidores a que se refere êste decreto, lançando-se a conta da União, para liquidação mediante abertura de crédito necessário.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, salvo no que diz respeito aos servidores por êle lotados fora da localidade de sua residência atual, em relação aos quais entrará em vigor no dia 4 de janeiro de 1959.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, salvo no que diz respeito aos servidores por êle lotados fora da localidade de sua residência atual, em relação aos quais entrará em vigor no dia 4 de janeiro de 1959.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 8 de setembro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira

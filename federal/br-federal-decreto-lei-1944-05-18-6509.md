@@ -1,5 +1,3 @@
-###DEL-006509-0-000-18-05-1944@@@
-
 DECRETO-LEI N. 6.509 – DE 18 DE MAIO DE 1944
 
 Cria, na Reserva de 1ª Classe do Exército, um Quadro Especial para os Membros da Justiça Militar da Fôrça Expedicionária Brasileira

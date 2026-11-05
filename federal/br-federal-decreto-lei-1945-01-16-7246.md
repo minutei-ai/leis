@@ -1,5 +1,3 @@
-###DEL-007246-0-000-16-01-1945@@@
-
 DECRETO-LEI N. 7.246 – DE 16 DE JANEIRO DE 1945
 
 Cria o cargo de Representante do Brasil no Conselho Administrativo da Repartição Internacional do Trabalho e dá outras providências

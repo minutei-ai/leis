@@ -1,5 +1,3 @@
-###DEC-062319-0-000-28-02-1968@@@
-
 decreto nº 62.319, de 28 de fevereiro de 1968.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal do Ministério do Trabalho e Previdência Social, cargo oriundo do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

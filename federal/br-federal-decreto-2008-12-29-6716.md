@@ -1,5 +1,3 @@
-###DEC-006716-0-000-29-12-2008@@@
-
 DECRETO Nº 6.716, DE 29 DE DEZEMBRO DE 2008.
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.

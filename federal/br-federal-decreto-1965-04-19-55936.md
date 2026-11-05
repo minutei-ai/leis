@@ -1,5 +1,3 @@
-###DEC-055936-0-000-19-04-1965@@@
-
 Decreto nº 55.936, de 19 de Abril de 1965.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Alto do Corcovado, Estado da Guanabara.

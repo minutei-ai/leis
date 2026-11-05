@@ -1,5 +1,3 @@
-###DEC-081581-0-000-19-04-1978@@@
-
 Decreto nº 81.581, de 19 de abril de 1978.
 
 Encampa bens e instalações que constituem a usina flutuante Piraquê, de propriedade da Companhia de Eletricidade de Manaus - CEM.

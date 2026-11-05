@@ -1,5 +1,3 @@
-###DEL-006155-0-000-30-12-1943@@@
-
 DECRETO-LEI N. 6.155 - DE 30 DE DEZEMBRO DE 1943
 
 Reorganiza o Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, e dá outras Providências

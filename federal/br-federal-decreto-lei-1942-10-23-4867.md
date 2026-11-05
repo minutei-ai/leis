@@ -1,5 +1,3 @@
-###DEL-004867-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.867 – DE 23 DE OUTUBRO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 419:000$0 à verba que especifica

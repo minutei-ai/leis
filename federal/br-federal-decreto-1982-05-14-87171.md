@@ -1,5 +1,3 @@
-###DEC-087171-0-000-14-05-1982@@@
-
 decreto nº 87.171, de 14 de maio de 1982
 
 Declara de utilidade publica, para fins de desapropriação, áreas de terra necessárias à implantação das subestações Itaipava e Secretário, da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

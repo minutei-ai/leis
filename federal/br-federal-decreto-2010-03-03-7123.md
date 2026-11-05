@@ -1,5 +1,3 @@
-###DEC-007123-0-000-03-03-2010@@@
-
 DECRETO Nº 7.123, DE 3 DE MARÇO DE 2010.
 
 Dispõe sobre o Conselho Nacional de Previdência Complementar - CNPC e sobre a Câmara de Recursos da Previdência Complementar - CRPC, e dá outras providências.

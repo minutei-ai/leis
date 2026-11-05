@@ -1,5 +1,3 @@
-###DEC-091836-0-000-24-10-1985@@@
-
 Decreto nº 91.836, de 24 de outubro de 1985
 
 Aprova novo Regulamento do Serviço de Radioamador.

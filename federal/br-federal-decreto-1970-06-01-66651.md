@@ -1,5 +1,3 @@
-###DEC-066651-0-000-01-06-1970@@@
-
 DECRETO Nº 66.651, DE 1º DE JUNHO DE 1970.
 
 Aprova o Estatuto da Universidade Federal do Piauí.

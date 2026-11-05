@@ -1,5 +1,3 @@
-###DEC-082954-0-000-28-12-1978@@@
-
 Decreto nº 82 954, de 28 de dezembro de 1978
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Maceió, Estado de Alagoas.

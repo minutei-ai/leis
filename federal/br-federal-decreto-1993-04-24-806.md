@@ -1,7 +1,3 @@
-1
-
-###DEC-000806-0-000-24-04-1993@@@
-
 DECRETO N° 806, DE 24 DE ABRIL DE 1993
 
 Reorganiza o Fundo Nacional de Saúde, de acordo com as diretrizes e os objetivos do Sistema Único de Saúde, de que tratam as Leis n°s 8.080, de 19 de setembro de 1990, e 8.142, de 28 de dezembro de 1990.

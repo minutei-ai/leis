@@ -1,5 +1,3 @@
-###DEC-046685-0-000-18-08-1959@@@
-
 DECRETO Nº 46.685, DE 18 DE AGÔSTO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$7.050.000,00, para ser distribuído entre diversas entidades esportivas.

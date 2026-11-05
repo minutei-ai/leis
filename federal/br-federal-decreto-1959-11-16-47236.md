@@ -1,5 +1,3 @@
-###DEC-047236-0-000-16-11-1959@@@
-
 DECRETO Nº 47.236, DE 16 DE NOVEMBRO DE 1959.
 
 Outorga a José Maria da Fonseca concessão para o aproveitamento de energia hidráulica do Salto Juatuba, existente no rio Mateus Leme, distrito de Juatuba, município de Mateus Leme, Estado de Minas Gerais.

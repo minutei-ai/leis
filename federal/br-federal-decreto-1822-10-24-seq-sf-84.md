@@ -1,5 +1,3 @@
-###DEC-000000-0-084-24-10-1822@@@
-
 DECRETO - DE 24 DE OUTUBRO DE 1822
 
 Crêa o logar de Cirugião-Mór da Armada do Império do Brazil.

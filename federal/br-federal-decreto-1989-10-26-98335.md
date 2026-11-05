@@ -1,7 +1,3 @@
-1
-
-###DEC-098335-0-000-26-10-1989@@@
-
 DECRETO Nº 98.335, DE 26 DE OUTUBRO DE 1989
 
 Altera os arts. 136 a 144 do Decreto nº 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica.

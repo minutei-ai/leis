@@ -1,5 +1,3 @@
-###DEC-069782-0-000-14-12-1971@@@
-
 DECRETO Nº 69.782 - DE 14 DE DEZEMBRO DE 1971
 
 Redistribui, com a respectiva ocupante, cargo do Território Federal de Rondônia para o Ministério da Justiça, e dá outras providências.

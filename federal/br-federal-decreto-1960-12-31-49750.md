@@ -1,5 +1,3 @@
-###DEC-049750-0-000-31-12-1960@@@
-
 DECRETO Nº 49.750, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o Govêrno do Estado de Sergipe a lavrar calcário no município de Laranjeiras, Estado de Sergipe.

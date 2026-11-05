@@ -1,5 +1,3 @@
-###DEC-066389-0-000-25-03-1970@@@
-
 DECRETO Nº 66.389 - DE 25 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de domínio direto de imóvel, em Curitiba - PR, destinado ao Ministério do Exército.

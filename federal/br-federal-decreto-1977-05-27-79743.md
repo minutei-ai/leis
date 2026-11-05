@@ -1,5 +1,3 @@
-###DEC-079743-0-000-27-05-1977@@@
-
 decreto nº 79.743, de 27 de maio de 1977.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União em operações de crédito externo a serem contratadas pela Companhia do Metropolitano de São Paulo (METRO).

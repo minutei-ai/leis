@@ -1,5 +1,3 @@
-###DEC-091886-0-000-05-11-1985@@@
-
 Decreto Nº 91.886, de 05 de novembro de 1985.
 
 Declara como Área de Relevante Interesse Ecológico - ARIE, uma área denominada Javarí-Buriti, no Estado do Amazonas, e dá outras Providência.

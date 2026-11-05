@@ -1,5 +1,3 @@
-###DEC-052676-0-000-14-10-1963@@@
-
 DECRETO Nº 52.676, de 14 de outubro de 1963.
 
 Altera o artigo 36 de Regulamento para o Corpo do Pessoal Subalterno da Armada.

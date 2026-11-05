@@ -1,5 +1,3 @@
-###DEC-069871-0-000-30-12-1971@@@
-
 DECRETO Nº 69.871 - DE 30 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão, no Estado de Goiás.

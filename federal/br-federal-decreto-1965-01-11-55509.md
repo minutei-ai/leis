@@ -1,5 +1,3 @@
-###DEC-055509-0-000-11-01-1965@@@
-
 DECreto Nº 55.509, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Francisco de Paula de Negreiros Sayão Lobato a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

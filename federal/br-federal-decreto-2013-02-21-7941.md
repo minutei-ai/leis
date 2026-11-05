@@ -1,5 +1,3 @@
-###DEC-007941-0-000-21-02-2013-PUB-01@@@
-
 DECRETO N° 7.941, DE 21 DE FEVEREIRO DE 2013
 
 Altera o Decreto n° 7.736, de 25 de maio  de 2012, para prorrogar o prazo de remanejamento dos cargos em comissão da Comissão Interministerial de análise dos requerimentos do pessoal do ex-Território Federal de Rondônia.

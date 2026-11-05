@@ -1,5 +1,3 @@
-###DEC-060200-0-000-10-02-1967@@@
-
 DECRETO Nº 60.200, DE 10 DE FEVEREIRO DE 1967.
 
 Autoriza a constituição da Universidade da Universidade de Caxias do Sul

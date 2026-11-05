@@ -1,5 +1,3 @@
-###DEC-055358-0-000-31-12-1964@@@
-
 DECRETO Nº 55.358, DE 31 DE DEZEmBRO DE 1964.
 
 Outorga à Imaríbo S.A. Indústria e Comércio concessão para o aproveitamento de energia hidráulica.

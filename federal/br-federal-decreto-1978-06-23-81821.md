@@ -1,5 +1,3 @@
-###DEC-081821-0-000-23-06-1978@@@
-
 Decreto nº 81.821, de 23 de junho de 1978
 
 Concede à Gilberto Felix da Silva - Mineração, Comércio e Indústria de Águas Empreendimentos Integrados S.A. o direito de lavrar água mineral no Município de Piraí do Sul, Estado do Paraná.

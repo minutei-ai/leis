@@ -1,5 +1,3 @@
-###DEC-046402-0-000-11-07-1959@@@
-
 decreto nº 46.402, de 11 de julho de 1959.
 
 Aprova o Regulamento do Departamento Geral do Pessoal (DGP).

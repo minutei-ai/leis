@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74262)
-
 # LEI Nº 12.719, DE 05 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 587/2007, do Deputado Ed Thomas - PMDB)

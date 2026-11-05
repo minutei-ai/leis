@@ -1,5 +1,3 @@
-###DEC-051248-0-000-24-08-1961@@@
-
 DECRETO Nº 51.248, DE 24 DE AGÔSTO DE 1961.
 
 Concede à sociedade de economia mista, em organização, Loide Maranhense S.A. autorização para promover a formação do seu capital, mediante subscrição pública.

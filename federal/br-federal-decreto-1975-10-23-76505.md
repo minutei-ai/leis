@@ -1,5 +1,3 @@
-###DEC-076505-0-000-23-10-1975@@@
-
 DECRETO Nº 76.505, DE 23 De Outubro De 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

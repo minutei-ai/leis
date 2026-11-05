@@ -1,5 +1,3 @@
-###DEC-083532-0-000-29-05-1979@@@
-
 Decreto nº 83.532, de 29 de maio de 1979.
 
 Altera o Decreto nº 82.047, de 01 de agosto de 1978, que regulamenta para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972 (Lei de Promoções dos Oficiais da Ativa das Forças Armadas).

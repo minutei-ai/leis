@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57471)
-
 # LEI Nº 12.010, DE 09 DE SETEMBRO DE 2005
 
 ## ( PL 492/2004 - Carlinhos Almeida)
@@ -28,15 +26,9 @@ Secretário-Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 9 de setembro de 2005.
 
-<br>
-
 #### Retificação da [Lei nº 12.010, de 9 de Setembro de 2005](https://www.al.sp.gov.br/norma/57471)
 
-<br>
-
 Dá denominação a estabelecimento de ensino que especifica
-
-<br>
 
 **Retificação** do D.O. de 10-9-2005
 

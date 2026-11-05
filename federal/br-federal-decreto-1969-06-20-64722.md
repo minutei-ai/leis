@@ -1,5 +1,3 @@
-###DEC-064722-0-000-20-06-1969@@@
-
 DECRETO Nº 64.722, DE 20 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 40.286, de 5 de novembro de 1956.

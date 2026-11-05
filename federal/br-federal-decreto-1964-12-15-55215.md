@@ -1,5 +1,3 @@
-###DEC-055215-0-000-15-12-1964@@@
-
 Decreto nº 55.215, de 15 de dezembro de 1964.
 
 Transfere de Manoel Rodrigues de Oliveira para a Companhia Distribuidora de Eletricidade do Brejo Paraibano a concessão para distribuir energia elétrica no Município de Esperança, Estado da Paraíba.

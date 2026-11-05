@@ -1,5 +1,3 @@
-###DEC-093965-0-000-22-01-1987@@@
-
 DECRETO Nº 93.965, DE 22 DE JANEIRO DE 1987
 
 Outorga concessão à RÁDIO TABAJARA DE SÃO BENEDITO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Benedito, Estado do Ceará.

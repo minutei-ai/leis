@@ -1,5 +1,3 @@
-###DEC-074502-0-000-04-09-1974@@@
-
 DECRETO Nº 74.502, DE 4 DE SETEMBRO DE 1974.
 
 Concede reconhecimento aos cursos de Engenharia Civil e de Engenharia Elétrica da Faculdade de Engenharia de São José dos Campos, mantida pela Fundação Valeparaibana de Ensino, com sede na cidade de São José dos Campos, Estado de São Paulo.

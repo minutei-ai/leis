@@ -1,5 +1,3 @@
-###DEC-058627-0-000-15-06-1966@@@
-
 DECRETO Nº 58.627, DE 15 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Paul Johann Carl Emil Adof Bremer a pesquisar fosforita, berilo e columbita no município de Itambé, Estado da Bahia.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51777)
-
 # LEI Nº 11.811, DE 14 DE SETEMBRO DE 2004
 
 ## ( PL 1317/2003 - Ubiratan Guimarães)

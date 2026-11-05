@@ -1,5 +1,3 @@
-###DEC-084807-0-000-17-06-1980@@@
-
 Decreta nº 84.807, de 17 de junho de 1980
 
 Altera dispositivos do Decreto nº 76.596, de 14 de novembro de 1975, que aprovou o Regulamento da Comissão Brasileira de Atividades Espaciais.

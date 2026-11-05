@@ -1,5 +1,3 @@
-###DEC-046184-0-000-10-06-1959@@@
-
 Decreto nº 46.184, de 10 de junho de 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário mensalista do Ministério da Guerra, que menciona.

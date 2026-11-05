@@ -1,5 +1,3 @@
-###DEC-060276-0-000-24-02-1967@@@
-
 DECRETO Nº 60.276, DE 24 DE FEVEREIRO DE 1967.
 
 Abre o Crédito Especial de NCr$4.000.000,00 (quatro milhões de cruzeiros novos), ao Ministério das Minas e Energia, para o fim que especifica.

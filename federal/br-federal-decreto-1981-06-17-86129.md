@@ -1,5 +1,3 @@
-###DEC-086129-0-000-17-06-1981@@@
-
 Decreto nº 86.129, de 17 de junho de 1981.
 
 Autoriza à COPESUL - Companhia Petroquímica do Sul a proceder ao aumento do limite de seu Capital Social.

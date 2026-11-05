@@ -1,5 +1,3 @@
-###DEC-065396-0-000-13-10-1969@@@
-
 DECRETO Nº 65.396 - DE 13 DE OUTUBRO DE 1969.
 
 Altera o parágrafo único do artigo 50 do Decreto nº 61.934, de 22 de dezembro de 1967, que regulamenta a Lei nº 4.769, de 9 de setembro de 1965.

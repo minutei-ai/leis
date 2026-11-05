@@ -4,7 +4,8 @@ Dispõe sobre o Estatuto dos Servidores Públicos Civis do Estado da Bahia, das 
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**   faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 Das Disposições Preliminares
 
 **Art. 1º** - Esta Lei institui o Estatuto dos Servidores Públicos Civis do Estado, de qualquer dos Poderes, suas autarquias e fundações públicas.
@@ -15,12 +16,14 @@ O regime jurídico dos servidores públicos da administração direta, autárqui
 
 **Art. 3º** - Cargo público é o conjunto de atribuições e responsabilidades cometidas a um servidor, com as características essenciais de criação por lei, denominação própria, número certo e pagamento pelos cofres públicos, para provimento em caráter permanente ou temporário.
 
-Ver também:<br>
+Ver também:
+
 Art. 2º inciso II da Lei nº 8.889, de 01 de dezembro de 2003. "Cargo Público – conjunto de atribuições e responsabilidades com denominação própria, criado por Lei, para provimento em caráter permanente ou temporário, com remuneração ou subsídio pagos pelos cofres públicos;"
 
 **Art. 4º** - Os cargos de provimento permanente da administração pública estadual, das autarquias e das fundações públicas serão organizados em grupos ocupacionais, integrados por categorias funcionais identificadas em razão do nível de escolaridade e habilidade exigidos para o exercício das atribuições previstas em lei.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 8.889, de 01 de dezembro de 2003 -  Dispõe sobre a estrutura dos cargos e vencimentos no âmbito do Poder Executivo do Estado da Bahia e dá outras providências.
 
 **Art. 5º** - Para os efeitos desta Lei:
@@ -33,12 +36,14 @@ Lei nº 8.889, de 01 de dezembro de 2003 -  Dispõe sobre a estrutura dos cargo
 
 **IV -**     grupo ocupacional - é o conjunto de cargos identificados pela similaridade de área de conhecimento ou de atuação, assim como pela natureza dos respectivos trabalhos;
 
-Ver também:<br>
+Ver também:
+
 Art. 2º inciso IV da Lei nº 8.889, de 01 de dezembro de 2003: "Grupo Ocupacional – agrupamento de cargos identificados pela especificidade, peculiaridade e similaridade da natureza da atividade;"
 
 **V -**      carreira - é a linha estabelecida para evolução em cargo de igual nomenclatura e na mesma categoria funcional, de acordo com o merecimento e antigüidade do servidor;
 
-Ver também:<br>
+Ver também:
+
 Art. 2º, inciso V da Lei nº 8.889, de 01 de dezembro de 2003: "Carreira – linha estabelecida para evolução em cargo de igual nomenclatura e nível de escolaridade, de acordo com a aquisição de competência;"
 
 **VI -**     estrutura de cargos - é o conjunto de cargos ordenados segundo os diversos grupos ocupacionais e categorias funcionais correspondentes;
@@ -49,20 +54,24 @@ Art. 2º, inciso V da Lei nº 8.889, de 01 de dezembro de 2003: "Carreira – li
 
 **Art. 7º** - É proibida a prestação de serviço gratuito, salvo nos casos previstos em lei.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 Do Provimento e da Vacância
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 Do Provimento
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Disposições Gerais
 
 **Art. 8º** - São requisitos básicos para ingresso no serviço público:
 
 **I -**        a nacionalidade brasileira ou equiparada;
 
-Ver também:<br>
+Ver também:
+
 Art. 37 inciso I da Constituição Federal, com redação de acordo com a Emenda Constitucional nº 19, de 04 de junho de 1998: "Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei."
 
 **II -**      o gozo dos direitos políticos;
@@ -99,7 +108,8 @@ Inciso VII acrescido ao art. 8º pela Lei Complementar nº 44 de 14 de maio de 2
 
 **Parágrafo único -**    A lei que fixar as diretrizes do sistema de carreira na administração pública estadual estabelecerá critérios para a evolução do servidor.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Nomeação
 
 **Art. 11** - A nomeação far-se-á :
@@ -116,12 +126,14 @@ Da Nomeação
 
 **Parágrafo único -**    Os demais requisitos para o ingresso e o desenvolvimento do servidor na carreira serão estabelecidos em normas legais e seus regulamentos.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Concurso Público
 
 **Art. 13** - O concurso público será de provas ou de provas e títulos, realizando-se mediante autorização do Chefe do respectivo Poder, de acordo com o disposto em lei e regulamento.
 
-Ver também:<br>
+Ver também:
+
 Art. 14 da Constituição Estadual, com redação de acordo com o art. 3º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvada a nomeação para cargo em comissão, declarado em lei de livre nomeação e exoneração."
 
 **Parágrafo único -**    No caso de empate, terão preferência, sucessivamente:
@@ -136,14 +148,16 @@ Art. 14 da Constituição Estadual, com redação de acordo com o art. 3º da Em
 
 **Art. 15** - A realização do concurso será centralizada no órgão incumbido da administração central de pessoal de cada Poder, salvo as exceções legais.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Posse
 
 **Art. 16** - Posse é a investidura em cargo público.
 
 **Parágrafo único -**  A aceitação expressa das atribuições, deveres e responsabilidades inerentes ao cargo público, com o compromisso de bem servir, será formalizada com a assinatura de termo pela autoridade competente e pelo empossado.
 
-Ver também:<br>
+Ver também:
+
 § 2º do art. 14 da Constituição Estadual, com a redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvada a nomeação para cargo em comissão, declarado em lei de livre nomeação e exoneração."
 
 **Art. 17** - A autoridade que der posse terá de verificar, sob pena de responsabilidade, se foram satisfeitos os requisitos estabelecidos em lei ou regulamento, para a investidura.
@@ -176,7 +190,8 @@ Ver também:<br>
 
 **Parágrafo único -**    Só poderá ser empossado aquele que for julgado apto, física e mentalmente para o exercício do cargo.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Do Exercício
 
 **Art. 21** - Exercício é o efetivo desempenho das atribuições do cargo.
@@ -211,21 +226,26 @@ Do Exercício
 
 **§ 4º** - O servidor ocupante de cargo de provimento temporário será substituído, em suas ausências ou nos seus impedimentos, por outro, indicado na lei ou no regimento, ou, omissos estes, designado por ato da autoridade competente, cumprindo ao substituto, quando titular de cargo em comissão, exercer automaticamente as atribuições do cargo do substituído sem prejuízo do exercício das atribuições inerentes ao seu cargo, salvo se os encargos da substituição reclamarem a dispensa do exercício destes.
 
-Redação do § 4º do art. 26 de acordo com art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Redação do § 4º do art. 26 de acordo com art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “§ 4º - O servidor ocupante de cargo de provimento temporário, em sua ausência, afastamento ou impedimento, terá substituto indicado no regimento interno, ou, no  caso de omissão, através de designação pela autoridade competente, entrando o substituto em exercício imediatamente.
 
 **§ 5º** - A designação para substituir titular de cargo de provimento temporário deverá observar os mesmos requisitos estabelecidos para o seu provimento e somente poderá recair sobre servidor ou empregado público em exercício no respectivo órgão ou entidade e que, preferencialmente, desempenhe suas funções na unidade administrativa da lotação do substituído.
 
 § 5º acrescido ao art. 26 pelo art. 5º da Lei nº 6.932, de 19 de janeiro de 1996.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 Do Estágio Probatório
 
 **Art. 27** - Ao entrar em exercício, o servidor nomeado para o cargo de provimento permanente ficará sujeito a estágio probatório por um período de 03 (três) anos, durante o qual sua aptidão e capacidade serão objeto de avaliação para o desempenho do cargo, observados os seguintes fatores:
 
-Ver também:<br>
-\- Art. 41 da Constituição Federal, com redação de acordo com a Emenda Constitucional nº 19, de 04 de junho de 1998: altera o período de estágio probatório que passa a ser de 3 (três) anos.<br>
-\- Decreto nº 7.899, de 05 de fevereiro de 2001 - Regulamenta o art. 27 da Lei nº 6.677, 26.09.94, que dispõe sobre o estágio probatório nos órgãos da administração direta, nas autarquias e fundações do Poder Executivo Estadual.<br>
+Ver também:
+
+\- Art. 41 da Constituição Federal, com redação de acordo com a Emenda Constitucional nº 19, de 04 de junho de 1998: altera o período de estágio probatório que passa a ser de 3 (três) anos.
+
+\- Decreto nº 7.899, de 05 de fevereiro de 2001 - Regulamenta o art. 27 da Lei nº 6.677, 26.09.94, que dispõe sobre o estágio probatório nos órgãos da administração direta, nas autarquias e fundações do Poder Executivo Estadual.
+
 \- Instrução Normativa SAEB nº 002, de 17 de maio de 2001 - Dispõe sobre o estágio probatório nos órgãos da administração direta, nas autarquias e fundações do Poder Executivo Estadual.
 
 **I -**        assiduidade;
@@ -240,26 +260,32 @@ Ver também:<br>
 
 **Parágrafo único -**    Obrigatoriamente 4 (quatro) meses antes de findo o período do estágio probatório, será submetida à homologação da autoridade competente a avaliação do desempenho do servidor, que será completada ao término do estágio.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 Da Estabilidade
 
 **Art. 28** - O servidor habilitado em concurso público e empossado em cargo de provimento permanente adquirirá estabilidade ao completar 3 (três) anos de efetivo exercício.
 
-Ver também:<br>
-\- Art. 41 da Constituição Federal, com redação de acordo com o art. 6º da Emenda Constitucional nº 19, de 04 de junho de 1998: "São estáveis após 3 (três) anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público."<br>
+Ver também:
+
+\- Art. 41 da Constituição Federal, com redação de acordo com o art. 6º da Emenda Constitucional nº 19, de 04 de junho de 1998: "São estáveis após 3 (três) anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público."
+
 \- Art. 5º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Consideram-se servidores não estáveis, para os fins do art. 169, § 3º, II, da Constituição Federal, aqueles admitidos na administração direta, autárquica e fundacional sem concurso público de provas ou de provas e títulos após o dia 5 de outubro de 1983. "
 
 **Art. 29** - O servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou de processo administrativo disciplinar, desde que lhe seja assegurada ampla defesa.
 
-SEÇÃO VIII -<br>
+SEÇÃO VIII -
+
 Da Promoção
 
-Ver também:<br>
+Ver também:
+
 \- Art. 34, inciso I da Constituição Estadual (redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999.): "o Estado manterá escola de governo para a formação e o aperfeiçoamento de seus servidores, constituindo-se a participação nos cursos um dos requisitos para a promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados; "
 
 **Art. 30** - Promoção é a elevação do servidor ocupante de cargo de provimento permanente, dentro da categoria funcional a que pertence, pelos critérios de merecimento e antigüidade.
 
-Ver também:<br>
+Ver também:
+
 Art. 2º, inciso IX da Lei nº 8.889, de 01 de dezembro de 2003: "Promoção – passagem do servidor para a classe imediatamente superior a ocupada;"
 
 **Parágrafo único -**    O merecimento será apurado de acordo com os fatores mencionados no artigo 27, incisos I a V, e comprovação de aperfeiçoamento profissional, sem prejuízo do disposto no artigo 32.
@@ -270,7 +296,8 @@ Art. 2º, inciso IX da Lei nº 8.889, de 01 de dezembro de 2003: "Promoção –
 
 **Art. 33** - Compete à unidade de pessoal de cada órgão ou entidade processar as promoções, na forma estabelecida em regulamento.
 
-SEÇÃO IX -<br>
+SEÇÃO IX -
+
 Da Reversão
 
 **Art. 34** - Reversão é o retorno do aposentado por invalidez, quando os motivos determinantes da aposentadoria forem declarados insubsistentes por junta médica oficial.
@@ -281,15 +308,18 @@ Da Reversão
 
 **Art. 36** \- Não poderá reverter o aposentado que contar 70 (setenta) anos de idade.
 
-SEÇÃO X -<br>
+SEÇÃO X -
+
 Do Aproveitamento e da Disponibilidade
 
-Ver também:<br>
+Ver também:
+
 Inciso XXV do art. 41 da Constituição Estadual,com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "disponibilidade, com remuneração proporcional ao tempo de serviço, em caso de extinção ou declaração de desnecessidade do cargo, até seu adequado aproveitamento;"
 
 **Art. 37** \- Extinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em disponibilidade remunerada.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 7.703, de 29 de novembro de 1999 - Dispõe sobre a extinção e declaração de desnecessidade de cargos públicos, sobre a disponibilidade remunerada e aproveitamento dos servidores públicos e dá outras providências.
 
 **Art. 38** - O retorno do servidor em disponibilidade à atividade far-se-á mediante aproveitamento obrigatório em cargo de atribuições e remuneração compatíveis com o anteriormente ocupado.
@@ -300,7 +330,8 @@ Decreto nº 7.703, de 29 de novembro de 1999 - Dispõe sobre a extinção e decl
 
 **Art. 40** - É assegurado ao servidor estável o direito à disponibilidade para o exercício de mandato eletivo em diretoria de entidade sindical representativa do servidor público estadual, sem prejuízo da remuneração do cargo permanente de que é titular.
 
-Ver também:<br>
+Ver também:
+
 Inciso XXXII do art. 41,  da Constituição Estadual com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "disponibilidade do servidor para o exercício de mandato eletivo em diretoria de entidade sindical representativa da categoria, em qualquer dos Poderes do Estado, na forma da lei;"
 
 **§ 1º** - A disponibilidade limitar-se-á a 6 (seis) servidores.
@@ -315,28 +346,32 @@ Inciso XXXII do art. 41,  da Constituição Estadual com redação de acordo co
 
 **§ 5º** - Cessada a disponibilidade, o servidor retornará imediatamente ao exercício do cargo.
 
-SEÇÃO XI -<br>
+SEÇÃO XI -
+
 Da Reintegração
 
 **Art. 41** - Reintegração é o retorno do servidor demitido ao cargo anteriormente ocupado ou ao resultante de sua transformação, quando invalidada sua demissão por sentença judicial transitada em julgado ou na forma do artigo 250.
 
 **Parágrafo único -**    Na hipótese de o cargo ter sido extinto, o servidor ficará em disponibilidade.
 
-SEÇÃO XII -<br>
+SEÇÃO XII -
+
 Da Recondução
 
 **Art. 42** \- Recondução é o retorno do servidor estável, sem direito à indenização, ao cargo anteriormente ocupado, dentro da mesma carreira, em decorrência de reintegração do anterior ocupante.
 
 **Parágrafo único -**    Encontrando-se provido o cargo, o servidor será aproveitado em outro cargo ou posto em disponibilidade remunerada.
 
-SEÇÃO XIII -<br>
+SEÇÃO XIII -
+
 Da Readaptação
 
 **Art. 43** \- Readaptação é o cometimento ao servidor de novas atribuições, compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, comprovada por junta médica oficial, garantida a remuneração do cargo de que é titular.
 
 **Parágrafo único -**    É garantida à gestante atribuições compatíveis com seu estado físico, nos casos em que houver recomendação clínica, sem prejuízo de seus vencimentos e demais vantagens do cargo.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 Da Vacância
 
 **Art. 44** \- A vacância do cargo decorrerá de:
@@ -363,7 +398,8 @@ Da Vacância
 
 **Art. 48** - A demissão será aplicada como penalidade.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 Da Relotação e da Remoção
 
 **Art. 49** - Relotação é a movimentação do servidor, com o respectivo cargo, com ou sem mudança de sede, para outro órgão ou entidade do mesmo Poder e natureza jurídica, cujos planos de cargos e vencimentos sejam idênticos, de acordo com o interesse da administração.
@@ -380,41 +416,56 @@ Da Relotação e da Remoção
 
 **§ 3º** \- Fica assegurada ao servidor, a fim de acompanhar o cônjuge ou companheiro, preferência na remoção para o mesmo local em que o outro for mandado servir.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 Dos Direitos, Vantagens e Benefícios
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 Do Vencimento e da Remuneração
 
 **Art. 51** \- Vencimento é a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei.
 
-Ver também:<br>
-Inciso II do art. 34 da Constituição Estadual com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "II -     a instituição do conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.<br>
- § 1º - O membro de Poder, o detentor de mandato eletivo, os Secretários de Estado e dos Municípios serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o que dispõe o art. 39, § 4º, da Constituição Federal.<br>
- § 2º -Lei do Estado e dos Municípios poderá estabelecer a relação entre a maior e a menor remuneração dos servidores públicos, obedecido, em qualquer caso, o que dispõe o art. 39, § 5º, da Constituição Federal.<br>
- § 3º Os Poderes do Estado e dos Municípios publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos, da Administração Direta e Indireta.<br>
- §4º-a remuneração dos servidores públicos e o subsídio de que trata o §1º deste artigo somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso<br>
- §5º- a remuneração e o subsídio dos ocupantes de  cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes do Estado e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Desembargadores."<br>
+Ver também:
+
+Inciso II do art. 34 da Constituição Estadual com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "II -     a instituição do conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.
+
+ § 1º - O membro de Poder, o detentor de mandato eletivo, os Secretários de Estado e dos Municípios serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o que dispõe o art. 39, § 4º, da Constituição Federal.
+
+ § 2º -Lei do Estado e dos Municípios poderá estabelecer a relação entre a maior e a menor remuneração dos servidores públicos, obedecido, em qualquer caso, o que dispõe o art. 39, § 5º, da Constituição Federal.
+
+ § 3º Os Poderes do Estado e dos Municípios publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos, da Administração Direta e Indireta.
+
+ §4º-a remuneração dos servidores públicos e o subsídio de que trata o §1º deste artigo somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso
+
+ §5º- a remuneração e o subsídio dos ocupantes de  cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes do Estado e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Desembargadores."
+
 Inciso XXIV do art. 41 da Constituição Estadual com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: XXIV - fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório, observado o que dispõe a Constituição Federal;"
 
 **Art. 52** \- Remuneração é o vencimento do cargo, acrescido das vantagens pecuniárias, permanentes ou temporárias, estabelecidas em lei.
 
-Ver também:<br>
+Ver também:
+
 Art. 119 da Lei nº 8.889, de 01 de dezembro de 2003: "Fica instituído o Prêmio por Resultados, a título de remuneração variável, no Poder Executivo Estadual, como retribuição pelo alcance de resultados esperados e de metas estabelecidas pelo planejamento estratégico institucional."
 
 **Art. 53** - O vencimento do cargo observará o princípio da isonomia, quando couber, e acrescido das vantagens de caráter individual, será irredutível, ressalvadas as relativas à natureza ou ao local de trabalho.
 
-Ver também:<br>
+Ver também:
+
 Inciso II do art. 41 da Constituição Estadual com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: II - irredutibilidade do subsídio e dos vencimentos dos ocupantes de cargo e emprego público, ressalvado o que dispõe o art. 37, XV, da Constituição Federal;"
 
 **Art. 54** -  O subsídio e a remuneração dos ocupantes de cargos e funções públicas submetem-se ao disposto no inciso XI do art. 37 da Constituição Federal.
 
-Redação de acordo com a Lei 15.070 de 19 de dezembro de 2025<br>
+Redação de acordo com a Lei 15.070 de 19 de dezembro de 2025
+
 Redação original: Art. 54º - "Nenhum servidor poderá perceber, mensalmente, a título de remuneração, importância superior à soma dos valores fixados como remuneração, em espécie, a qualquer título, para Secretário de Estado."
 
-Ver também:<br>
-Arts. 8º e 9º da Emenda Constitucional à Constiuição Federal nº 41, de 19 de dezembro de 2003.<br>
-"Art. 8º - Até que seja fixado o valor do subsídio de que trata o art. 37, XI, da Constituição Federal, será considerado, para os fins do limite fixado naquele inciso, o valor da maior remuneração atribuída por lei na data de publicação desta Emenda a Ministro do Supremo Tribunal Federal, a título de vencimento, de representação mensal e da parcela recebida em razão de tempo de serviço, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento da maior remuneração mensal de Ministro do Supremo Tribunal Federal a que se refere este artigo, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos.<br>
+Ver também:
+
+Arts. 8º e 9º da Emenda Constitucional à Constiuição Federal nº 41, de 19 de dezembro de 2003.
+
+"Art. 8º - Até que seja fixado o valor do subsídio de que trata o art. 37, XI, da Constituição Federal, será considerado, para os fins do limite fixado naquele inciso, o valor da maior remuneração atribuída por lei na data de publicação desta Emenda a Ministro do Supremo Tribunal Federal, a título de vencimento, de representação mensal e da parcela recebida em razão de tempo de serviço, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento da maior remuneração mensal de Ministro do Supremo Tribunal Federal a que se refere este artigo, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos.
+
 Art. 9º - Aplica-se o disposto no art. 17 do Ato das Disposições Constitucionais Transitórias aos vencimentos, remunerações e subsídios dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer do Poderes da União, dos Estados, do Distrito Feral e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza."
 
 **<REVOGADO>Parágrafo único -**    Excluem-se do teto de remuneração as indenizações e vantagens previstas nos artigos 63 e 77, incisos II a IV, o acréscimo previsto no artigo 94, o abono pecuniário previsto no artigo 95 e o salário família.
@@ -431,17 +482,22 @@ Parágrafo único revogado pela Lei 15.070 de 19 de dezembro de 2025
 
 **Art. 57** \- Salvo por imposição legal ou por mandado judicial, nenhum desconto incidirá sobre a remuneração ou proventos.
 
-Ver também:<br>
-Decreto nº 9.201, de 25 de outubro de 2004, - Disciplina o procedimento sobre as consignações em folha de pagamento dos servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual de que tratam os arts. 57 e 58, da Lei nº 6.677, de 26 de setembro de 1994, art. 4º, da Lei nº 6.935, de 24 de janeiro de 1996, art. 50, § 1º, “a”, da Lei nº 7.990, de 27 de dezembro de 2000, e dá outras providências.<br>
-Decreto nº 4.408, de 21 de julho de 1995 – Regulamenta os arts. 57 e 58 desta Lei.<br>
+Ver também:
+
+Decreto nº 9.201, de 25 de outubro de 2004, - Disciplina o procedimento sobre as consignações em folha de pagamento dos servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual de que tratam os arts. 57 e 58, da Lei nº 6.677, de 26 de setembro de 1994, art. 4º, da Lei nº 6.935, de 24 de janeiro de 1996, art. 50, § 1º, “a”, da Lei nº 7.990, de 27 de dezembro de 2000, e dá outras providências.
+
+Decreto nº 4.408, de 21 de julho de 1995 – Regulamenta os arts. 57 e 58 desta Lei.
+
 Art. 4º da Lei nº 6.935, de 24 de janeiro de 1996: "Aplicam-se aos Policiais Militares as disposições da Lei nº 6.677, de 26 de setembro de 1994, relativas à estabilidade econômica e à gratificação adicional por tempo de serviço, bem como a do seu art. 57 e seu parágrafo único."
 
 **Parágrafo único -**    Mediante autorização escrita do servidor, haverá desconto ou consignação em folha de pagamento em favor de entidade sindical e associação de servidores a que seja filiado, ou de terceiros, na forma definida em regulamento.
 
 **Art. 58** - As reposições e indenizações ao erário serão descontadas em parcelas mensais, atualizadas, não excedentes à terça parte da remuneração ou dos proventos.
 
-Ver também:<br>
-Decreto nº 9.201, de 25 de outubro de 2004, - Disciplina o procedimento sobre as consignações em folha de pagamento dos servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual de que tratam os arts. 57 e 58, da Lei nº 6.677, de 26 de setembro de 1994, art. 4º, da Lei nº 6.935, de 24 de janeiro de 1996, art. 50, § 1º, “a”, da Lei nº 7.990, de 27 de dezembro de 2000, e dá outras providências.<br>
+Ver também:
+
+Decreto nº 9.201, de 25 de outubro de 2004, - Disciplina o procedimento sobre as consignações em folha de pagamento dos servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual de que tratam os arts. 57 e 58, da Lei nº 6.677, de 26 de setembro de 1994, art. 4º, da Lei nº 6.935, de 24 de janeiro de 1996, art. 50, § 1º, “a”, da Lei nº 7.990, de 27 de dezembro de 2000, e dá outras providências.
+
 Decreto nº 4.408, de 21 de julho de 1995 – Regulamenta os arts. 57 e 58 desta Lei.
 
 **Parágrafo único -**    Independentemente do parcelamento previsto neste artigo, a percepção de quantias indevidas poderá implicar processo disciplinar para apuração de responsabilidade.
@@ -452,7 +508,8 @@ Decreto nº 4.408, de 21 de julho de 1995 – Regulamenta os arts. 57 e 58 desta
 
 **Art. 60** - O vencimento, a remuneração e os proventos não serão objeto de arresto, seqüestro ou penhora, exceto no caso de verba alimentar resultante de decisão judicial.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 Das Vantagens
 
 **Art. 61** - Além do vencimento, poderão ser concedidas ao servidor as seguintes vantagens:
@@ -473,10 +530,12 @@ Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
 
 **Art. 62** - As vantagens pecuniárias não serão computadas nem acumuladas para efeito de concessão de quaisquer outros acréscimos pecuniários ulteriores, sob o mesmo título ou idêntico fundamento.
 
-Ver também:<br>
+Ver também:
+
 Inciso XIV do art. 37 da Constituição Federal, com redação de acordo com o art. 3º da Emenda Constitucional nº 19, de 04 de junho de 1999: "Os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores."
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Indenizações
 
 **Art. 63** - Constituem indenizações ao servidor:
@@ -489,7 +548,8 @@ Das Indenizações
 
 **Parágrafo único -**    Os valores das indenizações e as condições para sua concessão serão estabelecidos em regulamento.
 
-Subseção I -<br>
+Subseção I -
+
 Da Ajuda de Custo
 
 **Art. 64** - A ajuda de custo destina-se a compensar as despesas de instalação do servidor que, no interesse do serviço, passar a ter exercício em nova sede, com mudança de domicílio, ou que se deslocar a serviço ou por motivo de estudo, no país ou para o exterior.
@@ -516,12 +576,16 @@ Da Ajuda de Custo
 
 **Parágrafo único -**    Não haverá obrigação de restituir a ajuda de custo nos casos de exoneração de oficio ou de retorno por motivo de doença comprovada.
 
-Subseção II -<br>
+Subseção II -
+
 Das Diárias
 
-Ver também:<br>
-Decreto nº 11.835, de 10 de novembro de 2009 - Altera o Decreto nº 5.910, de 24 de outubro de 1996, que regulamenta os artigos 68 a 71 da Lei nº 6.677, de 26 de setembro de 1994, que dispõe sobre a concessão de diárias aos servidores públicos civis da administração direta, das autarquias e fundações do Poder Executivo Estadual, no País e no exterior, e dá outras providências.<br>
-Decreto nº 5.910, de 24 de outubro de 1996 – Regulamenta os arts. 68 a 71 desta Lei.<br>
+Ver também:
+
+Decreto nº 11.835, de 10 de novembro de 2009 - Altera o Decreto nº 5.910, de 24 de outubro de 1996, que regulamenta os artigos 68 a 71 da Lei nº 6.677, de 26 de setembro de 1994, que dispõe sobre a concessão de diárias aos servidores públicos civis da administração direta, das autarquias e fundações do Poder Executivo Estadual, no País e no exterior, e dá outras providências.
+
+Decreto nº 5.910, de 24 de outubro de 1996 – Regulamenta os arts. 68 a 71 desta Lei.
+
 Decreto nº 8.094, de 07 de janeiro de 2002 – Altera o art. 2º, do Decreto nº 5.910, de 24 de outubro de 1996, que regulamentou a concessão de diárias aos servidores públicos civis da administração direta, das autarquias e fundações do Poder Executivo Estadual.
 
 **Art. 68** - Ao servidor que se deslocar da sede em caráter eventual ou transitório, no interesse do serviço, serão concedidas, além de transporte, diárias para atender às despesas de alimentação e hospedagem.
@@ -538,12 +602,14 @@ Parágrafo único acrescido pelo art. 1º da Lei nº 12.908, de 30 de setembro d
 
 **Parágrafo único -**    Na hipótese do servidor retornar à sede em prazo menor do que o previsto para o seu afastamento, restituirá as diárias recebidas em excesso, no prazo previsto neste artigo.
 
-Subseção III -<br>
+Subseção III -
+
 Da Indenização de transporte
 
 **Art. 72** - Conceder-se-á indenização de transporte ao servidor que realizar despesas com a utilização de meio próprio de locomoção para execução de serviços externos, na sede ou fora dela, no interesse da administração, na forma e condições estabelecidas em regulamento.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Dos Auxílios Pecuniários
 
 **Art. 73** - Serão concedidos aos servidores os seguintes auxílios pecuniários:
@@ -558,7 +624,8 @@ Dos Auxílios Pecuniários
 
 Inciso IV acrescido pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-Subseção I -<br>
+Subseção I -
+
 Do Auxílio-moradia
 
 **Art. 74** - O servidor, quando deslocado de ofício de sua sede, em caráter temporário, no interesse da administração, fará jus a auxílio para moradia, na forma e condições estabelecidas em regulamento.
@@ -567,25 +634,30 @@ Do Auxílio-moradia
 
 **§ 2º** - O auxílio-moradia não será concedido, ou será suspenso, quando o servidor ocupar prédio público.
 
-Subseção II -<br>
+Subseção II -
+
 Do Auxílo-transporte
 
 **Art. 75** - O auxílio-transporte será devido ao servidor ativo, nos deslocamentos da residência para o trabalho e vice-versa, na forma e condições estabelecidas em regulamento.
 
-Decreto nº 6.192, de 04 de fevereiro de 1997 – Regulamenta o art. 75 desta Lei<br>
-Redação do art. 75 de acordo com o art. 2º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Decreto nº 6.192, de 04 de fevereiro de 1997 – Regulamenta o art. 75 desta Lei
+
+Redação do art. 75 de acordo com o art. 2º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “Art. 75 - O auxílio-transporte será devido ao servidor ativo, nos deslocamentos da residência para o trabalho e vice-versa, na forma e condições estabelecidas na legislação federal.”
 
 **Parágrafo único -**    A participação do servidor não poderá exceder a 6% (seis por cento) do vencimento básico.
 
 Parágrafo único acrescido ao art. 75 pelo art. 2º da Lei nº 7.023, de 23 de janeiro de 1997.
 
-Subseção III -<br>
+Subseção III -
+
 Do Auxílio-alimentação
 
 **Art. 76** - O auxílio-alimentação será devido ao servidor ativo, na forma e condições estabelecidas em regulamento.
 
-SUBSEÇÃO IV -<br>
+SUBSEÇÃO IV -
+
 Do Auxílio-Reclusão
 
 **Art. 76-A** - Farão jus ao auxílio-reclusão os dependentes do servidor de baixa renda, recolhido à prisão, desde que o servidor ativo não esteja recebendo remuneração, nem esteja em gozo de benefício previdenciário, obedecidas as mesmas condições da pensão por morte.
@@ -620,7 +692,8 @@ Do Auxílio-Reclusão
 
 Subseção IV e artigos 76-A e 76-B acrescidos pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Das Gratificações
 
 **Art. 77** - Além do vencimento e das vantagens previstas nesta lei, serão deferidas ao servidor as seguintes gratificações:
@@ -639,31 +712,46 @@ Das Gratificações
 
 **VII -**   outras gratificações ou adicionais previstos em lei.
 
-Ver também:<br>
-Arts. 113, 125 e 126 da Lei nº 8.889, de 01 de dezembro de 2003.<br>
-Art. 1º da Lei nº 8.251, de 23 de abril de 2002.<br>
-Art. 5º da Lei nº 8.217, de 04 de abril de 2002.<br>
-Art. 1º da Lei nº 8.196, de 29 de janeiro de 2002.<br>
-Art. 4º e 9º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
-Art. 2º e 3º  da Lei nº 6.932, de 19 de janeiro de 1996.<br>
-Decreto nº 5.971, de 14 de novembro de 1996 - Altera o inciso II, do art. 10, do Decreto nº 5.601, de 19 de julho de 1996.<br>
-Decreto nº 5.601, de 19 de julho de 1996 - Regulamenta o artigo 3º, da Lei nº 6.932, de 19 de janeiro de 1996, que trata da Gratificação por Condições Especiais de Trabalho, e dá outras providências.<br>
+Ver também:
+
+Arts. 113, 125 e 126 da Lei nº 8.889, de 01 de dezembro de 2003.
+
+Art. 1º da Lei nº 8.251, de 23 de abril de 2002.
+
+Art. 5º da Lei nº 8.217, de 04 de abril de 2002.
+
+Art. 1º da Lei nº 8.196, de 29 de janeiro de 2002.
+
+Art. 4º e 9º da Lei nº 7.023, de 23 de janeiro de 1997.
+
+Art. 2º e 3º  da Lei nº 6.932, de 19 de janeiro de 1996.
+
+Decreto nº 5.971, de 14 de novembro de 1996 - Altera o inciso II, do art. 10, do Decreto nº 5.601, de 19 de julho de 1996.
+
+Decreto nº 5.601, de 19 de julho de 1996 - Regulamenta o artigo 3º, da Lei nº 6.932, de 19 de janeiro de 1996, que trata da Gratificação por Condições Especiais de Trabalho, e dá outras providências.
+
 Decreto nº 5.600, de 19 de julho de 1996 - Regulamenta o artigo 2º, da Lei 6.932, de 19 de janeiro de 1996, que trata da Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva, e dá outras providências.
 
-Subseção I -<br>
+Subseção I -
+
 Da Gratificação pelo Exercício de Cargo de Provimento Temporário
 
 **Art. 78** - O servidor investido em cargo de provimento permanente terá direito a perceber, pelo exercício do cargo de provimento temporário, gratificação equivalente a 30% (trinta por cento) do valor correspondente ao símbolo respectivo ou optar pelo valor integral do símbolo, que neste caso, será pago como vencimento básico enquanto durar a investidura ou ainda pela diferença entre este e a retribuição do seu cargo efetivo.
 
-Ver também:<br>
-Art. 3º da Lei nº 7.936, de 09 de outubro de 2001: "Aplicam-se aos servidores policiais militares as disposições dos arts. 78 e 92 e seus respectivos parágrafos, da Lei nº 6.677, de 26 de setembro de 1994, com as alterações decorrentes do art. 8º e seu parágrafo único, da Lei nº 6.932, de 19 de janeiro de 1996. "<br>
-§ 1º do art. 14 da Constituição Estadual, com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "§ 1º - As funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento."<br>
-Redação do art. 78 de acordo com o art. 24 da Lei nº 6.812, de 18 de janeiro de 1995.<br>
+Ver também:
+
+Art. 3º da Lei nº 7.936, de 09 de outubro de 2001: "Aplicam-se aos servidores policiais militares as disposições dos arts. 78 e 92 e seus respectivos parágrafos, da Lei nº 6.677, de 26 de setembro de 1994, com as alterações decorrentes do art. 8º e seu parágrafo único, da Lei nº 6.932, de 19 de janeiro de 1996. "
+
+§ 1º do art. 14 da Constituição Estadual, com redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "§ 1º - As funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento."
+
+Redação do art. 78 de acordo com o art. 24 da Lei nº 6.812, de 18 de janeiro de 1995.
+
 Redação original: “Art. 78 - O servidor investido em cargo de provimento permanente terá direito a perceber, pelo exercício do cargo de provimento temporário, gratificação equivalente a 30% (trinta por cento) do valor correspondente ao símbolo respectivo ou optar pelo valor integral do símbolo, que neste caso, será pago como vencimento básico enquanto durar a investidura.”
 
 **Parágrafo único** - O servidor substituto perceberá, a partir do 10º (décimo) dia consecutivo, a remuneração do cargo do substituído, paga na proporção dos dias de efetiva substituição, sendo-lhe facultado exercer qualquer das opções previstas neste artigo, assegurada a contagem do tempo de serviço respectivo para efeito de estabilidade econômica.
 
-Subseção II -<br>
+Subseção II -
+
 Da Gratificação Natalina
 
 **Art. 79** - A gratificação natalina corresponde a 1/12 (um doze avos) da remuneração a que o servidor ativo fizer jus, no mês do exercício, no respectivo ano.
@@ -676,7 +764,8 @@ Da Gratificação Natalina
 
 **Art. 80** – Fica assegurado o adiantamento da gratificação natalina, que será pago no mês do aniversário do servidor, independente da sua prévia manifestação, não podendo a importância correspondente exceder à metade da remuneração por este percebida no mês.
 
-Redação do art. 80 de acordo com a Lei nº 8.579, de 06 de março de 2003.<br>
+Redação do art. 80 de acordo com a Lei nº 8.579, de 06 de março de 2003.
+
 Redação original: “Art. 80 - O adiantamento será pago no ensejo das férias do servidor, sempre que este o requerer até 30 (trinta) dias antes do período de gozo, não podendo exceder à metade da remuneração por este percebida no mês.”
 
 **Parágrafo único –** O pagamento do adiantamento de que trata este artigo, poderá se dar no ensejo das férias ou no mês em que o funcionalismo em geral o perceba, desde que haja opção expressa do beneficiário, com antecedência mínima de 30 (trinta) dias do mês do seu aniversário.
@@ -691,36 +780,44 @@ Parágrafo único acrescido ao art. 80 pela Lei nº 8.579, de 06 de março de 20
 
 **Art. 83** - A gratificação natalina não será considerada para cálculo de qualquer parcela remuneratória.
 
-Subseção III -<br>
+Subseção III -
+
 Do Adicional por Tempo de Serviço
 
-Ver também:<br>
-Art. 4º  da Lei nº 6.935, de 24 de janeiro de 1996: "Aplicam-se aos Policiais Militares as disposições da Lei nº 6.677, de 26 de setembro de 1994, relativas à estabilidade econômica e à gratificação adicional por tempo de serviço, bem como a do seu art. 57 e seu parágrafo único."<br>
+Ver também:
+
+Art. 4º  da Lei nº 6.935, de 24 de janeiro de 1996: "Aplicam-se aos Policiais Militares as disposições da Lei nº 6.677, de 26 de setembro de 1994, relativas à estabilidade econômica e à gratificação adicional por tempo de serviço, bem como a do seu art. 57 e seu parágrafo único."
+
 Inciso XXXVI do art. 41 da Constituição Estadual, com redação de acordo com a Emenda Constitucional nº 07 de 18 de janeiro de 1999: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: XXVI - adicional por tempo de serviço prestado, a qualquer tempo, na Administração Pública Estadual direta, suas autarquias, fundações, empresas públicas e sociedades de economia mista;"
 
 **Art. 84** - O servidor com mais de 5 (cinco) anos de efetivo exercício no serviço público terá direito por anuênio, contínuo ou não, à percepção de adicional calculado à razão de 1% (um por cento) sobre o valor do vencimento básico do cargo de que seja ocupante.
 
 **§ 1º** - Para efeito do adicional, considera-se de efetivo exercício o tempo de serviço prestado, sob qualquer regime de trabalho, na Administração Pública direta e indireta da União, dos Estados, dos Municípios e do Distrito Federal.
 
-Ver também:<br>
+Ver também:
+
 O inciso XXXVI do art. 41 da Constituição Estadual, com redação de acordo com a Emenda Constitucional nº 07 de 18 de janeiro de 1999, revoga parcialmente esse dispositivo quando dispõe: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: XXVI - adicional por tempo de serviço prestado, a qualquer tempo, na Administração Pública Estadual direta, suas autarquias, fundações, empresas públicas e sociedades de economia mista;"
 
 **§ 2º** - Para cálculo do adicional, não serão computadas quaisquer parcelas pecuniárias, ainda que incorporadas ao vencimento para outros efeitos legais, exceto se já houver outra definição de vencimento prevista em lei.
 
 **<Revogado> § 3º** - O servidor beneficiado pela estabilidade econômica na forma do art. 92 desta Lei, terá o adicional de tempo de serviço a que faça jus calculado sobre o valor do símbolo do cargo em que tenha se estabilizado, quando for este superior ao vencimento do cargo permanente que ocupe.
 
-Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.<br>
+Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
+
 § 3º acrescido ao art. 84 pelo art. 25 da Lei nº 6.812, de 18 de janeiro de 1995.
 
 **Art. 85** - o adicional será devido a partir do mês em que o servidor completar o anuênio.
 
-Subseção IV -<br>
+Subseção IV -
+
 Dos Adicionais de Insalubridade, Periculosidade ou Atividades Penosas
 
 **Art. 86** - Os servidores que trabalham com habitualidade em locais insalubres ou em contato permanente com substâncias tóxicas ou com risco de vida, fazem jus a um adicional sobre o vencimento do cargo permanente.
 
-Ver também:<br>
-Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.<br>
+Ver também:
+
+Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.
+
 Decreto nº 9.967, de 06 de abril de 2006 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88, da Lei nº 6.677, de 26 de setembro de 1994.
 
 **§ 1º** - Os direitos aos adicionais de que trata este artigo cessa com a eliminação das condições ou dos riscos que deram causa a concessão.
@@ -733,65 +830,86 @@ Renumerado como § 1º  pelo art. 5º da Lei nº 8.725, de 07 de agosto de 2003
 
 **Art. 87** - Haverá permanente controle da atividade do servidor em operações ou locais considerados insalubres, perigosos ou penosos.
 
-Ver também:<br>
-Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.<br>
+Ver também:
+
+Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.
+
 Decreto nº 9.967, de 06 de abril de 2006 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88, da Lei nº 6.677, de 26 de setembro de 1994.
 
 **Parágrafo único -**    A servidora gestante ou lactante será afastada, enquanto durar a gestação e a lactação, das operações e locais previstos neste artigo, exercendo suas atividades em local salubre e em serviço não perigoso.
 
 **Art. 88** - Na concessão dos adicionais de insalubridade, periculosidade ou atividades penosas serão observadas as situações previstas em legislação específica.
 
-Ver também:<br>
-Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.<br>
+Ver também:
+
+Decreto nº 16.529 de 06 de janeiro de 2016 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da Administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88 da Lei nº 6.677, de 26 de setembro de 1994.
+
 Decreto nº 9.967, de 06 de abril de 2006 - Disciplina a concessão dos adicionais de insalubridade e periculosidade para os servidores públicos dos órgãos da administração direta, das autarquias e fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88, da Lei nº 6.677, de 26 de setembro de 1994.
 
 **Art. 89** - O adicional de atividades penosas será devido ao servidor pelo exercício em localidade cujas condições de vida o justifiquem, nos termos, condições e limites fixados em regulamento.
 
-Subseção V -<br>
+Subseção V -
+
 Do Adicional por Serviço Extraordinário
 
-Ver também:<br>
+Ver também:
+
 Art. 4º  da Lei nº 6.974, de 24 de julho de 1996: "São estendidos aos servidores policiais militares os adicionais por serviço extraordinário e noturno, incidentes sobre o soldo atribuído ao posto ou graduação, nos mesmos termos e condições previstos nos artigos 90 e 91, da Lei nº 6.677, de 26 de setembro de 1994, cabendo ao Poder Executivo estabelecer os critérios para a sua concessão."
 
 **Art. 90** - O serviço extraordinário será remunerado com acréscimo de 50% (cinqüenta por cento) em relação à hora normal de trabalho, salvo em situações especiais definidas em regulamento.
 
 **Parágrafo único -**    Somente será permitida a realização de serviço extraordinário para atender situações excepcionais e temporárias, respeitado o limite máximo de 2 (duas) horas diárias, podendo ser elevado este limite nas atividades que não comportem interrupção, consoante se dispuser em regulamento.
 
-Redação do Parágrafo único do art. 90 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Redação do Parágrafo único do art. 90 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “Parágrafo único - Somente será permitido serviço extraordinário para atender a situações excepcionais e temporárias, respeitando o limite máximo de 02 (duas) horas diárias, conforme disposto em regulamento.”
 
-Subseção VI -<br>
+Subseção VI -
+
 De Adicional Noturno
 
-Ver também:<br>
+Ver também:
+
 Art. 4º  da Lei nº 6.974, de 24 de julho de 1996: "São estendidos aos servidores policiais militares os adicionais por serviço extraordinário e noturno, incidentes sobre o soldo atribuído ao posto ou graduação, nos mesmos termos e condições previstos nos artigos 90 e 91, da Lei nº 6.677, de 26 de setembro de 1994, cabendo ao Poder Executivo estabelecer os critérios para a sua concessão."
 
 **Art. 91** - O serviço noturno, prestado em horário compreendido entre 22 (vinte e duas) horas de um dia e 5 (cinco) horas do dia seguinte, terá o valor-hora acrescido de 50% (cinqüenta por cento).
 
 **Parágrafo único -**    Tratando-se de serviço extraordinário, o acréscimo a que se refere este artigo incidirá sobre a remuneração prevista no artigo anterior.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Estabilidade Econômica
 
-Ver também:<br>
+Ver também:
+
 Art. 4º da Lei nº 6.935, de 24 de janeiro de 1996: "Aplicam-se aos Policiais Militares as disposições da Lei nº 6.677, de 26 de setembro de 1994, relativas à estabilidade econômica e à gratificação adicional por tempo de serviço, bem como a do seu art. 57 e seu parágrafo único."
 
 **<Revogado> Art. 92** - Ao servidor que tiver exercido por 10 (dez) anos,  contínuos ou não, cargo de provimento temporário ou mandato eletivo estadual, é assegurada estabilidade econômica, consistente no direito de continuar a perceber, no caso de exoneração, dispensa ou término de mandato, como vantagem pessoal, retribuição equivalente a 30% (trinta por cento) do valor do símbolo ou do subsídio correspondente ao cargo de maior hierarquia ou mandato que tenha exercido por mais de 2 (dois) anos, ou a diferença entre o valor deste e o vencimento do cargo de provimento permanente.
 
-Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.<br>
-Redação de acordo com o art. 7º da Lei nº 11.629, de 30 de dezembro de 2009.<br>
-Redação anterior: "Art. 92 - Ao servidor que tiver exercido, por 10 (dez) anos, contínuos ou não, cargo de provimento temporário, é assegurada estabilidade econômica, consistente no direito de continuar a perceber, no caso de exoneração ou dispensa, como vantagem pessoal, retribuição equivalente a 30% (trinta por cento) do valor do símbolo correspondente ao cargo de maior hierarquia que tenha exercido por mais de 2 (dois) anos ou a diferença entre o valor deste e o vencimento do cargo de provimento permanente."<br>
-Ver também:<br>
-Art. 268 desta Lei: "Aplicar-se-ão aos casos de vantagem pessoal por estabilidade econômica, concedidos até a vigência desta Lei, as regras estabelecidas no artigo 92, vedado o pagamento de quaisquer parcelas retroativas."<br>
-Art. 1º, inciso V da Lei nº 8.214, de 02 de abril de 2002: "o tempo de serviço prestado no cargo de Secretário ou equivalente será contado para todos os efeitos legais, inclusive para integralização do decênio aquisitivo do direito à vantagem prevista no art. 92, da Lei nº 6.677, de 26 de setembro de 1994, cuja fixação do valor será feita, no caso de permanência neste cargo por mais de dois anos, no símbolo correspondente ao cargo de provimento temporário da administração direta que mais se aproxime do valor percebido no cargo político;"<br>
-Art. 3º da Lei nº 7.936, de 09 de outubro de 2001: "Aplicam-se aos servidores policiais militares as disposições dos arts. 78 e 92 e seus respectivos parágrafos, da Lei nº 6.677, de 26 de setembro de 1994, com as alterações decorrentes do art. 8º e seu parágrafo único, da Lei nº 6.932, de 19 de janeiro de 1996. "<br>
-Art. 39 da Constituição Estadual (redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 19 de janeiro de 1999): "Ao servidor que exercer por dez anos, contínuos ou não, cargos em comissão e funções de confiança, é assegurado o direito de continuar a perceber, no caso de exoneração ou dispensa, como vantagem pessoal, o valor do vencimento correspondente ao cargo de maior hierarquia que tenha exercido por mais de dois anos contínuos, obedecido para o cálculo o disposto em lei."<br>
-Art. 8º da Lei nº 6.932, de 19 de janeiro de 1996: "Somente poderá ser computado para o fim da estabilidade econômica, prevista no art. 92, da Lei nº 6.677, de 26 de setembro de 1994, o tempo de exercício em cargo de provimento temporário ou em função de confiança no serviço público estadual.<br>
+Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
+
+Redação de acordo com o art. 7º da Lei nº 11.629, de 30 de dezembro de 2009.
+
+Redação anterior: "Art. 92 - Ao servidor que tiver exercido, por 10 (dez) anos, contínuos ou não, cargo de provimento temporário, é assegurada estabilidade econômica, consistente no direito de continuar a perceber, no caso de exoneração ou dispensa, como vantagem pessoal, retribuição equivalente a 30% (trinta por cento) do valor do símbolo correspondente ao cargo de maior hierarquia que tenha exercido por mais de 2 (dois) anos ou a diferença entre o valor deste e o vencimento do cargo de provimento permanente."
+
+Ver também:
+
+Art. 268 desta Lei: "Aplicar-se-ão aos casos de vantagem pessoal por estabilidade econômica, concedidos até a vigência desta Lei, as regras estabelecidas no artigo 92, vedado o pagamento de quaisquer parcelas retroativas."
+
+Art. 1º, inciso V da Lei nº 8.214, de 02 de abril de 2002: "o tempo de serviço prestado no cargo de Secretário ou equivalente será contado para todos os efeitos legais, inclusive para integralização do decênio aquisitivo do direito à vantagem prevista no art. 92, da Lei nº 6.677, de 26 de setembro de 1994, cuja fixação do valor será feita, no caso de permanência neste cargo por mais de dois anos, no símbolo correspondente ao cargo de provimento temporário da administração direta que mais se aproxime do valor percebido no cargo político;"
+
+Art. 3º da Lei nº 7.936, de 09 de outubro de 2001: "Aplicam-se aos servidores policiais militares as disposições dos arts. 78 e 92 e seus respectivos parágrafos, da Lei nº 6.677, de 26 de setembro de 1994, com as alterações decorrentes do art. 8º e seu parágrafo único, da Lei nº 6.932, de 19 de janeiro de 1996. "
+
+Art. 39 da Constituição Estadual (redação de acordo com o art. 1º da Emenda Constitucional nº 07, de 19 de janeiro de 1999): "Ao servidor que exercer por dez anos, contínuos ou não, cargos em comissão e funções de confiança, é assegurado o direito de continuar a perceber, no caso de exoneração ou dispensa, como vantagem pessoal, o valor do vencimento correspondente ao cargo de maior hierarquia que tenha exercido por mais de dois anos contínuos, obedecido para o cálculo o disposto em lei."
+
+Art. 8º da Lei nº 6.932, de 19 de janeiro de 1996: "Somente poderá ser computado para o fim da estabilidade econômica, prevista no art. 92, da Lei nº 6.677, de 26 de setembro de 1994, o tempo de exercício em cargo de provimento temporário ou em função de confiança no serviço público estadual.
+
 Parágrafo único - Nas hipóteses de transformação do cargo de provimento temporário ou da alteração do respectivo símbolo, o servidor terá computado no novo cargo ou símbolo o tempo de exercício no cargo ou símbolo anteriores."
 
 **§ 1º** - O tempo de exercício em cargos em comissão ou funções de confiança, para efeito de reconhecimento do direito à estabilidade econômica, que se constitui com a exoneração ou dispensa do cargo de provimento temporário, fixando-se neste momento seu correspondente valor, somente poderá ser computado em um vínculo funcional efetivo, vedado o seu fracionamento para aquisição do mesmo benefício em outro vínculo de igual natureza que porventura o servidor esteja investido.
 
-Redação do § 1º do art. 92 de acordo com a Lei nº 8.725, de 07 de agosto de 2003.<br>
+Redação do § 1º do art. 92 de acordo com a Lei nº 8.725, de 07 de agosto de 2003.
+
 Redação original: “§ 1º- O direito a estabilidade se constitui com a exoneração ou dispensa do cargo de provimento temporário, sendo o valor correspondente fixado neste momento.”
 
 **§ 2º** - A  vantagem pessoal por estabilidade econômica será reajustada sempre que houver modificação no valor do símbolo em que foi fixada, observando-se as correlações e transformações estabelecidas em lei.
@@ -812,15 +930,22 @@ Redação original: “§ 1º- O direito a estabilidade se constitui com a exone
 
 **§ 8º** - A concessão de estabilidade econômica, com utilização de tempo de serviço prestado na forma da alínea "b" do § 6º deste artigo, só poderá ocorrer findo o prazo do estágio probatório.
 
-CAPÍTULO III  -<br>
+CAPÍTULO III  -
+
 Das Férias
 
-Ver também:<br>
-Decreto nº 9.312, de 20 de janeiro de 2005 - Altera o Decreto nº 3.634, de 01 de novembro de 1994, que regulamenta o Capítulo III do Título III, artigos 93 a 97 da Lei nº 6.677, de 26 de setembro de 1994, e regulamenta a indenização de férias não gozadas, por necessidade imperiosa de serviço, prevista no artigo 7º, § 1º da Lei nº 6.932, de 19 de janeiro de 1996.<br>
-Art. 1º, inciso VI da Lei nº 8.214, de 02 de abril de 2002: "durante o tempo de exercício no cargo de Secretário de Estado ou equivalente, ao servidor será assegurado o benefício disciplinado nos arts. 94 a 96, da Lei nº 6.677, de 26 de setembro de 1994;"<br>
-Art. 7º da Lei nº 6.932, de 19 de janeiro de 1993: "O servidor público estadual, civil ou militar, desligado do serviço público, qualquer que seja a causa, ou afastado por motivo de aposentadoria, transferência para a reserva remunerada ou reforma, antes de completado o período de 12 (doze) meses de que trata o § 1º, do art. 93, da Lei nº 6.677, de 26 de setembro de 1994, terá direito à indenização pelas férias proporcionais, correspondentes a 1/12 (um doze avos) da última remuneração percebida, por mês de trabalho, considerando-se como mês integral a fração igual ou superior a 15 (quinze) dias.<br>
-§ 1º - Deverão também ser indenizadas as férias que, pelos motivos referidos neste artigo ou por necessidade imperiosa de serviço, não tenham sido gozadas, observando-se para determinação de seu valor a proporcionalidade entre a duração prevista para as férias e o número de faltas registradas no correspondente período aquisitivo, conforme incisos I a IV, do § 1º, do art. 93, da Lei nº 6.677, de 26 de setembro de 1994.<br>
-§ 2º - ra os fins deste artigo, não será considerado desligamento a exoneração de servidor que seja exclusivamente ocupante de cargo de provimento temporário, seguida da imediata investidura em outro cargo de igual natureza, no mesmo órgão ou entidade da administração pública estadual, desde que não ocorra interrupção de exercício funcional."<br>
+Ver também:
+
+Decreto nº 9.312, de 20 de janeiro de 2005 - Altera o Decreto nº 3.634, de 01 de novembro de 1994, que regulamenta o Capítulo III do Título III, artigos 93 a 97 da Lei nº 6.677, de 26 de setembro de 1994, e regulamenta a indenização de férias não gozadas, por necessidade imperiosa de serviço, prevista no artigo 7º, § 1º da Lei nº 6.932, de 19 de janeiro de 1996.
+
+Art. 1º, inciso VI da Lei nº 8.214, de 02 de abril de 2002: "durante o tempo de exercício no cargo de Secretário de Estado ou equivalente, ao servidor será assegurado o benefício disciplinado nos arts. 94 a 96, da Lei nº 6.677, de 26 de setembro de 1994;"
+
+Art. 7º da Lei nº 6.932, de 19 de janeiro de 1993: "O servidor público estadual, civil ou militar, desligado do serviço público, qualquer que seja a causa, ou afastado por motivo de aposentadoria, transferência para a reserva remunerada ou reforma, antes de completado o período de 12 (doze) meses de que trata o § 1º, do art. 93, da Lei nº 6.677, de 26 de setembro de 1994, terá direito à indenização pelas férias proporcionais, correspondentes a 1/12 (um doze avos) da última remuneração percebida, por mês de trabalho, considerando-se como mês integral a fração igual ou superior a 15 (quinze) dias.
+
+§ 1º - Deverão também ser indenizadas as férias que, pelos motivos referidos neste artigo ou por necessidade imperiosa de serviço, não tenham sido gozadas, observando-se para determinação de seu valor a proporcionalidade entre a duração prevista para as férias e o número de faltas registradas no correspondente período aquisitivo, conforme incisos I a IV, do § 1º, do art. 93, da Lei nº 6.677, de 26 de setembro de 1994.
+
+§ 2º - ra os fins deste artigo, não será considerado desligamento a exoneração de servidor que seja exclusivamente ocupante de cargo de provimento temporário, seguida da imediata investidura em outro cargo de igual natureza, no mesmo órgão ou entidade da administração pública estadual, desde que não ocorra interrupção de exercício funcional."
+
 Decreto nº 3.634, de 01 de novembro de 1994 – Regulamenta o Capítulo III do Título III, arts. 93 a 97 desta Lei.
 
 **Art. 93** - O servidor gozará, obrigatoriamente, férias anuais, que podem ser acumuladas, no caso de necessidade do serviço, até o máximo de 2 (dois) períodos, ressalvadas as hipóteses em que haja legislação específica.
@@ -873,10 +998,14 @@ Decreto nº 3.634, de 01 de novembro de 1994 – Regulamenta o Capítulo III do 
 
 **<Revogado> Art. 95** - É facultado ao servidor converter até 1/3 (um terço) do período de férias, a que tiver direito, em abono pecuniário, desde que a requeira com antecedência mínima de 60 (sessenta) dias.
 
-Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.<br>
-Redação do art. 95 de acordo com o art. 31 da Lei nº 10.962, de 16 de abril de 2008.<br>
-Redação anterior de acordo com o art. 6º da Lei nº 6.932, de 19 de janeiro de 1996 : "Art. 95 - É facultado ao servidor converter 1/3 (um terço) do período de férias, a que tiver direito, em abono pecuniário, desde que a requeira com antecedência mínima de 60 (sessenta) dias, a critério da administração."<br>
-Redação original: “Art. 95 - É facultado ao servidor converter 1/3 (um terço) do período de férias, a que tiver direito, em abono pecuniário, desde que o requeira no período de programação de férias.”<br>
+Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
+
+Redação do art. 95 de acordo com o art. 31 da Lei nº 10.962, de 16 de abril de 2008.
+
+Redação anterior de acordo com o art. 6º da Lei nº 6.932, de 19 de janeiro de 1996 : "Art. 95 - É facultado ao servidor converter 1/3 (um terço) do período de férias, a que tiver direito, em abono pecuniário, desde que a requeira com antecedência mínima de 60 (sessenta) dias, a critério da administração."
+
+Redação original: “Art. 95 - É facultado ao servidor converter 1/3 (um terço) do período de férias, a que tiver direito, em abono pecuniário, desde que o requeira no período de programação de férias.”
+
 Decreto nº 3.634, de 01 de novembro de 1994 – Regulamenta o Capítulo III do Título III, arts. 93 a 97 desta Lei.
 
 **§ 1º -** Ficarão a critério da Administração Pública a concessão da vantagem e a fixação do período a ser convertido, observado o limite do requerimento.
@@ -887,24 +1016,30 @@ Decreto nº 3.634, de 01 de novembro de 1994 – Regulamenta o Capítulo III do 
 
 **Art. 96** - O pagamento do acréscimo previsto no art. 94 desta Lei será efetuado no mês anterior ao início das férias.
 
-Redação de acordo com o art. 1º da Lei nº 13.471, de 30 de dezembro de 2015.<br>
-Redação original: "Art. 96 - O pagamento do acréscimo previsto no artigo 94 e, quando for o caso, do abono previsto no artigo anterior, será efetuado no mês anterior ao início das férias."<br>
-Ver também:<br>
+Redação de acordo com o art. 1º da Lei nº 13.471, de 30 de dezembro de 2015.
+
+Redação original: "Art. 96 - O pagamento do acréscimo previsto no artigo 94 e, quando for o caso, do abono previsto no artigo anterior, será efetuado no mês anterior ao início das férias."
+
+Ver também:
+
 Decreto nº 3.634, de 01 de novembro de 1994 - Regulamenta o Capítulo III do Título III, arts. 93 a 97 desta Lei.
 
 **Art. 97** - As férias somente poderão ser interrompidas por motivo de calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral e, ainda, por motivo de superior interesse público, mediante ato fundamentado.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 3.634, de 01 de novembro de 1994 - Regulamenta o Capítulo III do Título III, arts. 93 a 97 desta Lei.
 
 **Parágrafo único** -   O servidor, cujo período de férias tenha sido interrompido na forma deste artigo, terá assegurado o direito a fruir os dias restantes, logo que seja dispensado da correspondente obrigação.
 
 Parágrafo único acrescido ao art. 97 pelo art. 1º da Lei nº 13.471, de 30 de dezembro de 2015.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 Das Licenças
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Disposições Gerais
 
 **Art. 98** - Conceder-se-á licença ao servidor, além das previstas nos incisos IV, V e VI do artigo 120:
@@ -935,12 +1070,14 @@ Parágrafo único - Na hipótese de licença para tratamento de saúde, findo o 
 
 Parágrafo único acrescido pela Lei 13.725 , de 12 de junho de 2017.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Licença por Motivo de Doença em Pessoa da Família
 
 **Art. 100** - Poderá ser concedida licença ao servidor, por motivo de doença do cônjuge ou companheiro, dos pais, do padrasto ou madrasta, dos filhos, dos enteados, de menor sob guarda ou tutela, dos avós e dos irmãos menores ou incapazes, mediante prévia comprovação por médico ou junta médica oficial.
 
-Ver também:<br>
+Ver também:
+
 Art. 41, inciso XX da Constituição Estadual, com redação dada pelo art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: XX - garantia de licença para acompanhar familiar doente, na forma da lei; "
 
 **§ 1º** - A licença somente será deferida se a assistência direta do servidor for indispensável e não puder ser prestada simultaneamente com o exercício do cargo, o que deverá ser apurado através de acompanhamento social.
@@ -955,7 +1092,8 @@ Art. 41, inciso XX da Constituição Estadual, com redação dada pelo art. 1º 
 
 **III -**     com 1/3 (um terço) da remuneração, quando exceder a 6 (seis) e não ultrapassar 12 (doze) meses.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Licença por Motivo de Afastamento do Cônjuge
 
 **Art. 102** - Poderá ser concedida licença ao servidor para acompanhar cônjuge ou companheiro, servidor público estadual, que for deslocado para outro ponto do Estado ou do país, para o exterior ou para o exercício de mandato eletivo dos Poderes Executivo e Legislativo.
@@ -964,14 +1102,16 @@ Da Licença por Motivo de Afastamento do Cônjuge
 
 **§ 2º** - Ocorrendo o deslocamento no território estadual, o servidor poderá ser lotado, provisoriamente, em repartição da administração estadual direta, autárquica ou fundacional, desde que para exercício de atividade compatível com seu cargo.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Licença para prestar o Serviço Militar Obrigatório
 
 **Art. 103** \- Ao servidor convocado para o serviço militar obrigatório será concedida licença, sem remuneração, na forma e nas condições previstas na legislação especifica.
 
 **Parágrafo único -**    Concluído o serviço militar obrigatório, o servidor terá até 30 (trinta) dias para reassumir o exercício do cargo.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Da Licença para Concorrer a Mandato Eletivo e Exercê-lo
 
 **Art. 104** - O servidor se licenciará para concorrer a mandato eletivo na forma da legislação eleitoral.
@@ -992,13 +1132,16 @@ Da Licença para Concorrer a Mandato Eletivo e Exercê-lo
 
 **§ 2º** \- O servidor investido em mandato eletivo não poderá ser relotado ou removido de ofício para localidade diversa daquela onde exerce o mandato.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 Da Licença Prêmio por Assiduidade
 
 **<Revogado> Art. 107** - O servidor terá direito à licença-prêmio de 3 (três) meses em cada período de 5 (cinco) anos de exercício efetivo e ininterrupto, sem prejuízo da remuneração.
 
-Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.<br>
-Ver também:<br>
+Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
+
+Ver também:
+
 art. 41, inciso XXVIII da Constituição Estadual: "Art. 41 - São direitos dos servidores públicos civis, além dos previstos na Constituição Federal: XXVIII - licença prêmio de três meses por quinqüênio de serviços prestados à Administração Pública Estadual direta, autárquica e fundacional, assegurado o recebimento integral das gratificações percebidas, ininterruptamente, há mais de seis meses, salvo as relativas ao exercício de cargo em comissão ou função de confiança;
 
 **<Revogado> Parágrafo único -**    Para efeito de licença-prêmio, considera-se de efetivo exercício o tempo de serviço prestado pelo servidor na Administração Pública direta e indireta, da União, Estados, Municípios e Distrito Federal, independentemente do regime de trabalho.
@@ -1031,12 +1174,14 @@ Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
 
 Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 Da Licença para Tratar de Interesse Particular
 
 **Art. 111** - A critério da administração, poderá ser concedida ao servidor licença para tratar de interesse particular, pelo prazo de 3 (três) anos consecutivos, sem remuneração, prorrogável uma única vez, por igual período.
 
-Redação do art. 111 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Redação do art. 111 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “Art. 111 - A critério da administração, poderá ser concedida ao servidor licença para tratar de interesse particular, pelo prazo de até 2 (dois) anos consecutivos, sem remuneração.”
 
 **§ 1º** - O servidor deverá aguardar em serviço a concessão da licença.
@@ -1047,12 +1192,14 @@ Redação original: “Art. 111 - A critério da administração, poderá ser co
 
 **§ 4º** - Não será concedida licença a servidor nomeado, removido ou relotado, antes de completar 2 (dois) anos do correspondente exercício.
 
-SEÇÃO VIII -<br>
+SEÇÃO VIII -
+
 Da Licença para o Servidor-atleta participar de competição oficial
 
 **Art. 112** - Será concedida licença ao servidor-atleta selecionado para representar o Estado ou o País, durante o período da competição oficial, sem prejuízo de remuneração.
 
-CAPÍTULO V - <br>
+CAPÍTULO V - 
+
 Das Concessões
 
 **Art. 113** - Sem qualquer prejuízo, poderá o servidor ausentar-se do serviço:
@@ -1077,7 +1224,8 @@ Das Concessões
 
 **Parágrafo único -**    O disposto neste artigo estende-se ao cônjuge ou companheiro, aos filhos e enteados do servidor que vivam na sua companhia, assim como aos menores sob sua guarda ou tutela, com autorização judicial.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 Do Tempo de Serviço
 
 **Art. 116** - É contado para todos os efeitos o tempo de serviço público estadual.
@@ -1122,8 +1270,10 @@ Do Tempo de Serviço
 
 **Art. 119** - Contar-se-á para efeito de aposentadoria e disponibilidade:
 
-Ver também:<br>
-§ 1º do art. 42,  da Constituição Estadual, com redação dada pela Emenda Constitucional nº 07 de 18 de janeiro de 1999: "O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente, para efeito de disponibilidade."<br>
+Ver também:
+
+§ 1º do art. 42,  da Constituição Estadual, com redação dada pela Emenda Constitucional nº 07 de 18 de janeiro de 1999: "O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente, para efeito de disponibilidade."
+
 Art. 9º da Emenda Constitucional nº 07, de janeiro de 1999 : "Observado o disposto no art. 40, § 10, da Constituição Federal, o tempo de serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido até que a lei discipline a matéria, será contado como tempo de contribuição. "
 
 **I -**        o tempo de serviço público prestado à União, aos Estados, aos Municípios e ao Distrito Federal;
@@ -1148,14 +1298,16 @@ OBS: A Emenda Constitucional nº 07 de 18 de janeiro de 1999, baseada no art. 40
 
 **§ 3º** \- O tempo em que o servidor esteve aposentado ou em disponibilidade, na hipótese de reversão prevista no artigo 34 e na hipótese de verificação de erro da Administração, que torne insubsistente o ato de aposentadoria, bem como no caso de aproveitamento previsto no artigo 38, será contado para o efeito de nova aposentadoria e para o de disponibilidade, respectivamente.
 
-Redação do § 3º do art. 119 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Redação do § 3º do art. 119 de acordo com o art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “§ 3º - O tempo em que o servidor esteve aposentado ou em disponibilidade, nas hipóteses de reversão e aproveitamento previstas nos artigos 34 e 38, respectivamente, apenas será contado para nova aposentadoria ou disponibilidade.”
 
 **§ 4º** \- O tempo de serviço, a que se refere o inciso II do artigo 118 e os incisos I e IV deste artigo, será computado à vista de comunicação de freqüência ou de certidão expedida pela autoridade competente.
 
 **§ 5º** - É vedada a contagem cumulativa ou recíproca de tempo de serviço prestado concomitantemente em mais de um cargo, função ou emprego em órgão ou entidade dos Poderes da União, dos Estados, dos Municípios, do Distrito Federal, das fundações públicas, das sociedades de economia mista e das empresas públicas.
 
-CAPÍTULO VII  -<br>
+CAPÍTULO VII  -
+
 Dos Benefícios
 
 **Art. 120** - São benefícios do servidor, além dos previstos na legislação de previdência e assistência estadual:
@@ -1172,33 +1324,42 @@ Dos Benefícios
 
 **VI -**     licença por acidente em serviço.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Aposentadoria
 
 **Art. 121** - O servidor público será aposentado:
 
-Ver também:<br>
-Art. 40 da Constiuição Federal, com  redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "Art. 40 - Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.<br>
+Ver também:
+
+Art. 40 da Constiuição Federal, com  redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "Art. 40 - Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+
 § 1º - Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17."
 
 **I -**        por invalidez permanente com proventos integrais, quando motivada por acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificadas em lei, e, com proventos proporcionais, nos demais casos;
 
-Ver também:<br>
+Ver também:
+
 § 1º do  inciso I do art. 40 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei."
 
 **II -**      compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de serviço;
 
-Ver também:<br>
+Ver também:
+
 § 1º do  inciso II do art. 40 da Constituição Federal, com  redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição."
 
 **III -**     voluntariamente.
 
-Ver também:<br>
-§ 1º do  inciso III do art. 40 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:<br>
-a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta e cinco anos de idade e trinta de contribuição, se mulher;<br>
+Ver também:
+
+§ 1º do  inciso III do art. 40 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003: "III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
+
+a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta e cinco anos de idade e trinta de contribuição, se mulher;
+
 b) sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição."
 
-Subseção I -<br>
+Subseção I -
+
 Da Aposentadoria por Invalidez Permanente
 
 **Art. 122** - Será aposentado por invalidez permanente o servidor que, estando em gozo de licença para tratamento de saúde ou por acidente em serviço, for considerado definitivamente incapacitado para o serviço público, por motivo de deficiência física, mental ou fisiológica.
@@ -1213,24 +1374,32 @@ Da Aposentadoria por Invalidez Permanente
 
 **Art. 125** - A aposentadoria por invalidez permanente terá proventos integrais, quando decorrer de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, avaliadas por junta médica oficial do Estado, e, proporcionais, nos demais casos.
 
-Ver também:<br>
-§ 1º e inciso I do art. 40 da Constituição Federal, com a redação dada pelo art. 1º da Emenda Constitucional nº 41, de 19 de dezembro de 2003: "§ 1º - Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17.<br>
+Ver também:
+
+§ 1º e inciso I do art. 40 da Constituição Federal, com a redação dada pelo art. 1º da Emenda Constitucional nº 41, de 19 de dezembro de 2003: "§ 1º - Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17.
+
 I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei.
 
-Subseção II -<br>
+Subseção II -
+
 Da Aposentadoria Compulsória
 
 **Art. 126** - O servidor será aposentado compulsoriamente ao completar 70 (setenta) anos de idade, com proventos proporcionais ao tempo de serviço.
 
-Ver também:<br>
-Art. 42 e inciso II da Constituição Estadual,  com redação dada pelo art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Art. 42 - Aos servidores titulares de cargos efetivos do Estado e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo, observados critérios que preservem o equilíbrio financeiro e atuarial, bem como o que dispõe a Constituição Federal, e serão aposentados: II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição; "<br>
-§ 1º e inciso I do  do art. 40 da Constituição Federal, com a redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998: "§ 1º - Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17:<br>
-I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;"<br>
+Ver também:
+
+Art. 42 e inciso II da Constituição Estadual,  com redação dada pelo art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Art. 42 - Aos servidores titulares de cargos efetivos do Estado e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo, observados critérios que preservem o equilíbrio financeiro e atuarial, bem como o que dispõe a Constituição Federal, e serão aposentados: II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição; "
+
+§ 1º e inciso I do  do art. 40 da Constituição Federal, com a redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998: "§ 1º - Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17:
+
+I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;"
+
 Art. 9º da Lei nº 6.932, de 19 de janeiro de 1996: "O servidor ocupante de emprego de provimento permanente, que, em 26 de setembro de 1994, contava com, no mínimo, 70 (setenta) anos de idade e não detinha a situação de aposentado por qualquer instituição previdenciária federal, estadual ou municipal, será declarado integrado, naquela data, no regime jurídico único, instituído pela Lei nº 6.677, da mesma data, com direito à aposentadoria prevista para a hipótese na Constituição Federal."
 
 **Parágrafo único -**    O servidor se afastará, imediata e obrigatoriamente, no dia subsequente ao que completar 70 (setenta) anos de idade.
 
-Subseção III -<br>
+Subseção III -
+
 Da Aposentadoria Voluntária
 
 **Art. 127** - O servidor poderá ser aposentado voluntariamente:
@@ -1243,28 +1412,40 @@ Da Aposentadoria Voluntária
 
 **IV -**     aos 65 (sessenta e cinco) anos de idade, se homem, e aos 60 (sessenta), se mulher, com proventos proporcionais ao tempo de serviço.
 
-Ver também:<br>
-Art. 6º da Lei nº 9.003, de 30 de janeiro de 2004: "É assegurada a concessão de aposentadoria, a qualquer tempo, aos servidores públicos, bem como pensão aos seus dependentes que, até a publicação da Emenda Constitucional Federal nº 41, de 19 de dezembro de 2003, tenham cumprido todos os requisitos para obtenção desses benefícios, com base na legislação então vigente. "<br>
-Regras previstas nos arts. 2º, 3º, 6º e 10 da Emenda Constitucional nº 41, de 19 de dezembro de 2003.<br>
-Inciso III e § 5º da Constituição Federal, com redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998: "III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:<br>
-a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta e cinco anos de idade e trinta de contribuição, se mulher;<br>
-b) sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição.<br>
+Ver também:
+
+Art. 6º da Lei nº 9.003, de 30 de janeiro de 2004: "É assegurada a concessão de aposentadoria, a qualquer tempo, aos servidores públicos, bem como pensão aos seus dependentes que, até a publicação da Emenda Constitucional Federal nº 41, de 19 de dezembro de 2003, tenham cumprido todos os requisitos para obtenção desses benefícios, com base na legislação então vigente. "
+
+Regras previstas nos arts. 2º, 3º, 6º e 10 da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
+
+Inciso III e § 5º da Constituição Federal, com redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998: "III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
+
+a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta e cinco anos de idade e trinta de contribuição, se mulher;
+
+b) sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição.
+
 § 5º - Os requisitos da idade e de tempo de contribuição serão reduzidos em cinco anos, em relação ao disposto no § 1º , III, a, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio."
 
 **<Revogado> Parágrafo único -**    O tempo de serviço em atividade comum, exercido alternadamente com atividade enquadrada no inciso II deste artigo, será somado, após a respectiva conversão, segundo critérios de equivalência estabelecidos em regulamento, para efeito de aposentadoria.
 
-Aplcável a norma do Parágrafo único somente aos servidores que reúnem os requisitos para inativação até 16 de dezembro de 1998.<br>
-§ 4º do art. 40 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 15 de dezembro de 1998: "É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar."<br>
+Aplcável a norma do Parágrafo único somente aos servidores que reúnem os requisitos para inativação até 16 de dezembro de 1998.
+
+§ 4º do art. 40 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 15 de dezembro de 1998: "É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar."
+
 Parágrafo único acrescido ao art. 127 pelo art. 1º da Lei nº 7.188, de 02 de outubro de 1997.
 
-Subseção IV -<br>
+Subseção IV -
+
 Da Aposentadoria em Cargo de Provimento Temporário
 
 **<Revogado> Art. 128** - A aposentadoria garantida pelos §§ parágrafos 4º e 6º do artigo 42 da Constituição do Estado ao servidor da administração direta, autárquica e fundacional, que tiver exercido exclusivamente cargo de provimento temporário, no qual esteja investido, será concedida:
 
-Ver também:<br>
-§ 13 do art. 40 da Constituição Federal, que de acordo com a redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, revoga o art. 128 e seus incisos: "§ 13 - Ao servidor ocupante exclusivamente de cargo em comisão declarado em lei de livre nomeação e exoneração, bem como de outro cargo temporário ou de emprego público, aplica-se o regime geral de previdência social."<br>
-Redação do art. 128 de acordo com art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Ver também:
+
+§ 13 do art. 40 da Constituição Federal, que de acordo com a redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, revoga o art. 128 e seus incisos: "§ 13 - Ao servidor ocupante exclusivamente de cargo em comisão declarado em lei de livre nomeação e exoneração, bem como de outro cargo temporário ou de emprego público, aplica-se o regime geral de previdência social."
+
+Redação do art. 128 de acordo com art. 1º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “Art. 128 - O servidor da administração direta, autárquica e fundacional, que tiver exercido, exclusivamente, cargos de provimento temporário, será aposentado com a observância das regras deste Capítulo.”
 
 **I -**        aos 35 (trinta e cinco) anos de serviço público estadual, se homem, e aos 30 (trinta), se mulher, com proventos integrais;
@@ -1285,29 +1466,40 @@ Parágrafo único do art. 128  revogado pelo art. 14 da Lei nº 7.023, de 23 de
 
 § 13 do art. 40 da Constituição Federal, que de acordo com a redação dada pelo art. 1º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, revoga o art. 128 desta Lei.
 
-Subseção V -<br>
+Subseção V -
+
 Das Disposições Gerais sobre Aposentadoria
 
 **Art. 130** - A aposentadoria voluntária com proventos integrais ou proporcionais, produzirá efeitos a partir da data de publicação do ato concessório, ressalvada a hipótese do parágrafo único, caso em que seus efeitos retroagem à data do afastamento.
 
-Ver também:<br>
-§§ 2º, 3º e 4º do art. 40, da Constituição Federal, com redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003:<br>
-"§ 2º - Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.<br>
-§ 3º - Para o cálculo dos proventos de aposentadoria, por ocasião de sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.<br>
-§ 4º - É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar."<br>
+Ver também:
+
+§§ 2º, 3º e 4º do art. 40, da Constituição Federal, com redação dada pela Emenda Constitucional nº 41, de 19 de dezembro de 2003:
+
+"§ 2º - Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
+
+§ 3º - Para o cálculo dos proventos de aposentadoria, por ocasião de sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.
+
+§ 4º - É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar."
+
 Art. 2º da Emenda Constitucional nº 07, de 18 de janeiro de 1999, revoga o  inciso XXIX do art. 41,  da Constituição Estadual.
 
 **<Revogado> Parágrafo único -**    O servidor, após comprovado o tempo de serviço, poderá se afastar das suas funções, na hipótese de aposentadoria com proventos integrais, se assim o requerer, computando-se o tempo de serviço respectivo, para todos os efeitos, até a data do afastamento.
 
-Ver também:<br>
+Ver também:
+
 Art. 2º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: revoga o inciso XXIX do art. 41 da Constituição Estadual que assegurava ao servidor público o afastamento de suas funções, após requerer aposentadoria com proventos integrais e juntar aos autos certidão de tempo de serviço expedida pelo órgão competente.
 
 **Art. 131** - É vedada a percepção cumulativa de aposentadorias concedidas pelo poder público ou por qualquer instituição oficial de previdência.
 
-Ver também:<br>
-§ 10 do art. 37 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 16 de dezembro de 1998 : "É vedada a participação simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração."<br>
-§ 6º do art. 40 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 16 de dezembro de 1998: "Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta do regime de previdência previsto neste artigo."<br>
-§ 4º  do art. 42 da Constituição Estadual, com redação dada pela Emenda Constitucional nº 07, de 18 de janeiro de 1999<br>
+Ver também:
+
+§ 10 do art. 37 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 16 de dezembro de 1998 : "É vedada a participação simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração."
+
+§ 6º do art. 40 da Constituição Federal, com redação dada pela Emenda Constitucional nº 20, de 16 de dezembro de 1998: "Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta do regime de previdência previsto neste artigo."
+
+§ 4º  do art. 42 da Constituição Estadual, com redação dada pela Emenda Constitucional nº 07, de 18 de janeiro de 1999
+
 Art. 11 da Emenda Constitucional nº 20 de 16 de dezembro de 1998: "A vedação prevista no art.. 37, § 10, da Constituição Federal, não se aplica aos membros de poder e aos inativos, servidores e militares, que, até a publicação desta Emenda, tenham ingressado novamente no serviço público por concurso público de provas ou de provas e títulos, e pelas demais formas previstas na Constituição Federal, sendo-lhes proibida a percepção de mais de uma aposentadoria pelo regime de previdências a que se refere o art. 40 da Constituição Federal, aplicando-se-lhes, em qualquer hipótese, o limite de que trata o § 11 deste mesmo artigo."
 
 **§ 1º** - Verificada a inobservância do disposto neste artigo, o pagamento da aposentadoria será suspenso, ficando o interessado obrigado a devolver as importâncias indevidamente recebidas, atualizadas, a partir da percepção cumulativa, sem prejuízos de outras sanções previstas em lei.
@@ -1316,24 +1508,30 @@ Art. 11 da Emenda Constitucional nº 20 de 16 de dezembro de 1998: "A vedação 
 
 **Art. 132** - Os proventos da aposentadoria em cargo de provimento permanente serão fixados com base no respectivo vencimento, não podendo exceder o limite estabelecido no artigo 54.
 
-Ver também:<br>
+Ver também:
+
 Art. 40, §§ 1º, 2º e 3º da Constituição Federal, com redação de acordo com a Emenda Constitucional  nº 41, de 19 de dezembro de 2003.
 
 **§ 1º** - Incluem-se, na fixação dos proventos integrais ou proporcionais, as gratificações e vantagens percebidas por 5 (cinco) anos consecutivos ou 10 (dez) interpolados, calculados pela média percentual dos últimos 12 (doze) meses imediatamente anteriores ao mês civil em que for protocolado o pedido de aposentadoria ou àquele em que for adquirido o direito à aposentação, salvo disposição prevista em legislação específica.
 
-Redação do § 1º do art. 132 de acordo com o art. 3º da Lei nº 7.023, de 23 de janeiro de 1997.<br>
+Redação do § 1º do art. 132 de acordo com o art. 3º da Lei nº 7.023, de 23 de janeiro de 1997.
+
 Redação original: “§ 1º - Incluem-se na fixação dos proventos integrais ou proporcionais, as gratificações e vantagens percebidas por 5 (cinco) anos consecutivos ou 10 (dez) interpolados, calculadas pela média percentual dos últimos 12 (doze) meses imediatamente anteriores à data em que for protocolado o pedido da aposentadoria, salvo disposições previstas na legislação específica.”
 
 **§ 2º** - Na aposentadoria por invalidez permanente, as gratificações e vantagens incorporam-se aos proventos, independentemente do tempo de percepção.
 
-Ver também:<br>
+Ver também:
+
 Inciso I, § 1º do art. 40,  da Constituição Federal, com redação de acordo com a Emenda Constitucional nº 41, de 19 de dezembro de 2003.
 
 **§ 3º** - Os proventos da aposentadoria serão calculados com observância do disposto no artigo 53 e revistos nas mesmas proporções e data em que se modificar a remuneração dos servidores ativos, sendo também estendidos aos inativos quaisquer benefícios ou vantagens concedidos posteriormente aos servidores em atividade; inclusive quando decorrentes de transformação ou reclassificação do cargo ou função em que se deu a aposentadoria.
 
-Ver também:<br>
-Art. 5º da Lei nº 9.003, de 30 de janeiro de 2004: "Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria dos servidores públicos titulares de cargo efetivo e as pensões dos seus dependentes pagos pelo Estado, suas autarquias e fundações, em fruição na data de publicação da Emenda Constitucional nº 41, de 19 de dezembro de 2003, bem como os proventos de aposentadoria dos servidores e as pensões dos dependentes abrangidos pelo art. 3º da referida Emenda, serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão."<br>
-Art. 2º, § 1º inciso I; art. 3º § 2º; arts. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.<br>
+Ver também:
+
+Art. 5º da Lei nº 9.003, de 30 de janeiro de 2004: "Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria dos servidores públicos titulares de cargo efetivo e as pensões dos seus dependentes pagos pelo Estado, suas autarquias e fundações, em fruição na data de publicação da Emenda Constitucional nº 41, de 19 de dezembro de 2003, bem como os proventos de aposentadoria dos servidores e as pensões dos dependentes abrangidos pelo art. 3º da referida Emenda, serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão."
+
+Art. 2º, § 1º inciso I; art. 3º § 2º; arts. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
+
 Art. 40, §§ 2º, 3º, 8º e 17 da Constituição Federal, com as alterações introduzidas pelas Emendas Constitucionais nos. 20, de 15 de dezembro de 1998 e 41, de 19 de dezembro de 2003.
 
 **§ 4º** - Para efeito do disposto no § 1º deste artigo, somam-se indistintamente os períodos de percepção:
@@ -1358,7 +1556,8 @@ Art. 134  e seus incisos revogados pelo art. 14 da Lei nº 7.023, de 23 de jane
 
 **Art. 135** - As vantagens da aposentadoria por mais de 30 (trinta) anos de serviço, se mulher, ou 35 (trinta e cinco), se homem, prestados exclusivamente no serviço público estadual, abrangerão as do cargo de provimento temporário, se o servidor, na data do ato concessório da aposentadoria, neste estiver investido e contar com mais de 15 (quinze) anos de exercício.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do auxílio-natalidade
 
 **Art. 136** - O auxílio-natalidade é devido ao servidor por motivo de nascimento de filho, inclusive no caso de natimorto, no valor equivalente ao do menor nível da escala de vencimentos do servidor público estadual.
@@ -1367,13 +1566,16 @@ Do auxílio-natalidade
 
 **§ 2º** - O benefício referido neste artigo é inacumulável quando os pais forem servidores públicos do Estado.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do salário-família
 
 **Art. 137** - O salário-família será pago aos servidores ativos e inativos que tiverem os seguintes dependentes:
 
-Ver também:<br>
-Art. 1º da Lei nº 7.815, de 29 de maio de 2001: "As cotas de salário-família concedidas até 31 de março de 2001, a servidores públicos estaduais, civis e militares, ativos e inativos, que percebam remuneração mensal superior ao limite estabelecido para concessão deste benefício pelo Regime Geral da Previdência Social, terão os seus correspondentes valores convertidos em vantagem pessoal irreajustável, que será paga conjuntamente com a remuneração de cada mês, sobre a qual não incidirá qualquer desconto ou vantagem.<br>
+Ver também:
+
+Art. 1º da Lei nº 7.815, de 29 de maio de 2001: "As cotas de salário-família concedidas até 31 de março de 2001, a servidores públicos estaduais, civis e militares, ativos e inativos, que percebam remuneração mensal superior ao limite estabelecido para concessão deste benefício pelo Regime Geral da Previdência Social, terão os seus correspondentes valores convertidos em vantagem pessoal irreajustável, que será paga conjuntamente com a remuneração de cada mês, sobre a qual não incidirá qualquer desconto ou vantagem.
+
 Parágrafo único -   A vantagem pessoal prevista neste artigo será paga enquanto perdurar a condição de dependência que motivou a concessão do benefício, procedendo-se ao seu cancelamento no mês seguinte ao da ocorrência do ato ou fato que determine a suspensão do respectivo pagamento."
 
 **I -**        filho menor de 18 (dezoito) anos;
@@ -1408,7 +1610,8 @@ Parágrafo único -   A vantagem pessoal prevista neste artigo será paga enqu
 
 **Art. 144** - Em caso de acumulação de cargos, o salário família será pago em razão de um deles.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Licença para Tratamento de Saúde
 
 **Art. 145** - Será concedida ao servidor licença para tratamento de saúde, a pedido ou de ofício, com base em perícia médica, sem prejuízo da remuneração a que fizer jus.
@@ -1417,7 +1620,8 @@ Da Licença para Tratamento de Saúde
 
 **Art. 146** - Para licença até 10 (dez) dias, a inspeção poderá ser feita por médico do Sistema Unificado de Saúde, do setor de assistência médica estadual e de outros estabelecimentos da preferência do servidor, a partir do décimo primeiro dia, através de perícia a ser realizada pela Junta Médica Oficial do Estado
 
-Redação de acordo com o art. 2º da Lei 13.725 , de 12 de junho de 2017.<br>
+Redação de acordo com o art. 2º da Lei 13.725 , de 12 de junho de 2017.
+
 Redação original " Art.146 - Para licença até 15 (quinze) dias, a inspeção poderá ser feita por médico do Sistema Unificado de Saúde ou do setor de assistência médica estadual e, por prazo superior, por junta médica oficial.
 
 **§ 1º** - Sempre que necessário, a inspeção médica será realizada na residência do servidor ou no estabelecimento hospitalar onde ele se encontrar internado.
@@ -1442,12 +1646,14 @@ Redação original " Art.146 - Para licença até 15 (quinze) dias, a inspeção
 
 **Art. 153** - A licença para tratamento de saúde será concedida sem prejuízo da remuneração, sendo vedado ao servidor o exercício de qualquer atividade remunerada, sob pena de cassação da licença, sem prejuízo da apuração da sua responsabilidade funcional.
 
-SECÃO V -<br>
+SECÃO V -
+
 Da Licença à Gestante, à Adotante e da Licença-paternidade
 
 **Art. 154** - À servidora gestante será concedida, mediante atestado médico, licença por 180 (cento e oitenta) dias consecutivos.
 
-Redação de acordo com a Lei nº 12.214, de 26 de maio de 2011.<br>
+Redação de acordo com a Lei nº 12.214, de 26 de maio de 2011.
+
 Redação original: "Art. 154 - À servidora gestante será concedida, mediante atestado médico, licença por 120 (cento e vinte) dias consecutivos."
 
 **§ 1º** - A licença poderá ter início no primeiro dia do nono mês de gestação, salvo antecipação por prescrição médica.
@@ -1464,14 +1670,16 @@ Redação original: "Art. 154 - À servidora gestante será concedida, mediante 
 
 **Art. 157** - À servidora que adotar ou obtiver guarda judicial de criança de até 01 (um) ano de idade, serão concedidos 180 (cento e oitenta) dias de licença, para ajustamento do menor, a contar da data em que este chegar ao novo lar.
 
-Redação de acordo com a Lei nº 12.214, de 26 de maio de 2011.<br>
+Redação de acordo com a Lei nº 12.214, de 26 de maio de 2011.
+
 Redação original: "Art. 157 - À servidora que adotar ou obtiver guarda judicial de criança de até 1 (um) ano de idade serão concedidos 120 (cento e vinte) dias de licença, para ajustamento do menor, a contar da data em que este chegar ao novo lar."
 
 **Parágrafo único -** No caso de adoção ou guarda judicial de criança com mais de 1 (um) ano de idade, o prazo de que trata este artigo será de 30 (trinta) dias.
 
 **Art. 158** - As licenças de que tratam esta Seção serão concedidas sem prejuízo da remuneração.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 Da Licença por Acidente em Serviço
 
 **Art. 159** - Será licenciado, com remuneração integral, o servidor acidentado em serviço.
@@ -1500,12 +1708,16 @@ Da Licença por Acidente em Serviço
 
 **Art. 162** - O servidor acidentado em serviço que necessite de tratamento especializado, recomendado por junta médica oficial, poderá ser atendido por instituição privada, á conta de recursos do Tesouro, desde que inexistam meios adequados ao atendimento por instituição pública.
 
-Ver também:<br>
-Art. 1º do Decreto nº 5.776, de 13 de setembro de 1996: "Art. 1º - Os policiais civis e militares que, no exercício de suas funções, sofrerem lesão ou dano físico ou psíquico, em virtude de agressão, grave constrangimento ou acidente, terão assegurados atendimentos médico, hospitalar e psicológico, prestados pela rede de serviços, próprios ou credenciados, da Secretaria da Saúde ou do Instituto de Assistência e Previdência dos Servidores do Estado da Bahia, bem como assistência farmacêutica necessária a sua recuperação.<br>
-§ 1º- Na hipótese de necessitarem de tratamento médico-hospitalar especializado, os policiais civis e militares poderão ser atendidos por instituição privada, à conta de recursos do Tesouro, desde que inexistam meios adequados ao seu atendimento na rede pública, a juízo de junta médica oficial.<br>
+Ver também:
+
+Art. 1º do Decreto nº 5.776, de 13 de setembro de 1996: "Art. 1º - Os policiais civis e militares que, no exercício de suas funções, sofrerem lesão ou dano físico ou psíquico, em virtude de agressão, grave constrangimento ou acidente, terão assegurados atendimentos médico, hospitalar e psicológico, prestados pela rede de serviços, próprios ou credenciados, da Secretaria da Saúde ou do Instituto de Assistência e Previdência dos Servidores do Estado da Bahia, bem como assistência farmacêutica necessária a sua recuperação.
+
+§ 1º- Na hipótese de necessitarem de tratamento médico-hospitalar especializado, os policiais civis e militares poderão ser atendidos por instituição privada, à conta de recursos do Tesouro, desde que inexistam meios adequados ao seu atendimento na rede pública, a juízo de junta médica oficial.
+
 § 2º - O disposto no parágrafo anterior não se aplica em caso de lesão resultante de conduta ilícita do policial"
 
-CAPÍTULO VIII  -<br>
+CAPÍTULO VIII  -
+
 Do Direito de Petição
 
 **Art. 163** - É assegurado ao servidor o direito de requerer ou representar, pedir, reconsideração e recorrer.
@@ -1540,10 +1752,12 @@ Do Direito de Petição
 
 **Art. 174** - A administração deverá rever seus atos a qualquer tempo, quando eivados de ilegalidade.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 Do Regime Disciplinar
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 Dos Deveres
 
 **Art. 175** - São deveres do servidor:
@@ -1580,7 +1794,8 @@ Dos Deveres
 
 **Parágrafo único -**    A representação de que trata o inciso XII será encaminhada pela via hierárquica e obrigatoriamente apreciada pela autoridade superior àquela contra a qual é formulada, assegurando-se ao representado o direito de defesa.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 Das Proibições
 
 **Art. 176** - Ao servidor é proibido:
@@ -1623,7 +1838,8 @@ Das Proibições
 
 **XIX -** exercer quaisquer atividades que sejam incompatíveis com as atribuições do cargo ou função e com o horário de trabalho.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 Da Acumulação
 
 **Art. 177** - É vedada a acumulação, remunerada ou não, de cargos públicos, exceto quando houver compatibilidade de horários:
@@ -1634,9 +1850,12 @@ Da Acumulação
 
 **c)**   de dois cargos de médico.
 
-Ver também:<br>
-Art. 8º  da Emenda Constitucional nº 41, de 19 de dezembro de 2003.<br>
-Incisos XVI, XVII, XI e § 10 do art. 37 da Constituição Federal, de acordo com as alterações introduzidas pela Emendas Constitucionais nº 19, de 04 de junho de 1999, nº 20, de 16 de dezembro de 1998, nº 34, de 13 de dezembro de 2001 e 41, de 19 de dezembro de 2003.<br>
+Ver também:
+
+Art. 8º  da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
+
+Incisos XVI, XVII, XI e § 10 do art. 37 da Constituição Federal, de acordo com as alterações introduzidas pela Emendas Constitucionais nº 19, de 04 de junho de 1999, nº 20, de 16 de dezembro de 1998, nº 34, de 13 de dezembro de 2001 e 41, de 19 de dezembro de 2003.
+
 Art. 38; art. 40, § 6º e 11; art. 95 parágrafo único e art. 128, § 5º da Constituição Federal.
 
 **§ 1º** - A proibição de acumular estende-se a cargos, funções e empregos em autarquias, fundações públicas, empresas públicas, sociedades de economia mista da União, dos Estados, dos Municípios e do Distrito Federal.
@@ -1653,8 +1872,10 @@ Art. 38; art. 40, § 6º e 11; art. 95 parágrafo único e art. 128, § 5º da C
 
 **b)**  de provimento em comissão: aquele com atribuições de direção, coordenação ou assessoramento.
 
-Redação do inciso II do art. 178 de acordo com o art. 11º da Lei nº11.380, de 20 de fevereiro de 2009.<br>
-Redação anterior de acordo com o art. 8º da Lei nº 9.003, de 30 de janeiro de 2004." II - Cargo Técnico ou Científico; 'a' - de provimento efetivo: aquele para cujo exercício seja exigida habilitação específica de nível superior ou profissionalizante de nível médio; 'b' - de provimento em comissão: aquele com atribuições de direção, coordenação ou assessoramento."<br>
+Redação do inciso II do art. 178 de acordo com o art. 11º da Lei nº11.380, de 20 de fevereiro de 2009.
+
+Redação anterior de acordo com o art. 8º da Lei nº 9.003, de 30 de janeiro de 2004." II - Cargo Técnico ou Científico; 'a' - de provimento efetivo: aquele para cujo exercício seja exigida habilitação específica de nível superior ou profissionalizante de nível médio; 'b' - de provimento em comissão: aquele com atribuições de direção, coordenação ou assessoramento."
+
 Redação original: “Cargo técnico ou científico - aquele para cujo exercício seja exigida habilitação específica de grau universitário ou profissionalizante de 2º grau.”
 
 **§ 1º** - A denominação atribuída ao cargo é insuficiente para caracterizá-lo como técnico ou científico.
@@ -1667,10 +1888,12 @@ Redação original: “Cargo técnico ou científico - aquele para cujo exercíc
 
 **<Revogado> Art. 180** - Os proventos da inatividade não serão considerados para efeito de acumulação de cargos, funções e empregos públicos.
 
-Art. 180 revogado pelo § 4º do art. 42 da Constituição Estadual, de acordo com a redação dada pelo art. 1º da Emenda à Constituição Estadual  nº 07, de 18 de janeiro de 1999: "§ 4º - É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142, da Constituição Federal com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração."<br>
+Art. 180 revogado pelo § 4º do art. 42 da Constituição Estadual, de acordo com a redação dada pelo art. 1º da Emenda à Constituição Estadual  nº 07, de 18 de janeiro de 1999: "§ 4º - É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142, da Constituição Federal com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração."
+
 Ressalte-se que o art. 11 da referida Emenda Constitucional nº 07, de 18 de janeiro de 1999 determina: "A vedação prevista no art. 42, § 4º, desta Constituição, não se aplica aos membros de Poder e aos inativos, servidores e militares, que, até a publicação da Emenda Constitucional Federal nº 20, tenham ingressado novamente no serviço público por concurso público de provas ou de provas e títulos, e pelas demais formas previstas na Constituição, sendo-lhes proibida a percepção de mais de uma aposentadoria pelo regime de previdência a que se refere o art. 40 da Constituição Federal, aplicando-se-lhes, em qualquer hipótese, o limite de que trata o § 11 desse mesmo artigo." Fica portanto revogado o art. 180 desta Lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 Das Responsabilidades
 
 **Art. 181** - O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.
@@ -1691,7 +1914,8 @@ Das Responsabilidades
 
 **Art. 186** - A responsabilidade civil ou administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou a sua autoria.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 Das Penalidades
 
 **Art. 187** - São penalidades disciplinares:
@@ -1756,7 +1980,8 @@ Das Penalidades
 
 **Art. 197** - A demissão ou a cassação de aposentadoria, em qualquer hipótese, incompatibilizará o ex-servidor para nova investidura no serviço público estadual pelo prazo de 08 (oito) anos, contados da publicação da decisão.
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: Art. 197 - " A demissão do cargo por infringência das proibições prevista nos incisos X e XII do artigo 176, incompatibiliza o ex-servidor para nova investidura em cargo público estadual, pelo prazo mínimo de 5 (cinco) anos."
 
 **<REVOGADO>Parágrafo único -**    Não poderá retornar ao serviço público estadual o servidor que for demitido do cargo por infringência dos incisos I, IV, VIII, X e XII do artigo 192, hipóteses em que o ato de demissão conterá a nota "a bem do serviço público".
@@ -1795,18 +2020,22 @@ Parágrafo único revogado pela Lei 14.803 de 26 de dezembro de 2024.
 
 **§ 3º** - A publicação do ato administrativo instaurador do processo disciplinar interrompe a contagem do prazo prescricional aplicável ao caso concreto, que volta a correr em sua integralidade após o transcurso dos prazos previstos nos arts. 216 e 235 desta Lei.
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: § 3º - " A abertura de sindicância ou a instauração do processo disciplinar interrompe a prescrição até a decisão final proferida por autoridade competente."
 
-TÍTULO V -<br>
+TÍTULO V -
+
 Do Processo Administrativo Disciplinar.
 
-CAPÍTULO I - <br>
+CAPÍTULO I - 
+
 Disposições Gerais
 
 **Art. 204** - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua imediata apuração, mediante investigação preliminar, sindicância ou processo disciplinar.
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: Art. 204 - " A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua imediata apuração, mediante sindicância ou processo disciplinar."
 
 **Art. 204A -** A investigação preliminar será realizada quando for necessário averiguar a verossimilhança de denúncia de infração disciplinar ou quando a complexidade da irregularidade reportada não justificar a realização de sindicância para apuração dos fatos.
@@ -1827,17 +2056,20 @@ Parágrafo único acrescido pela Lei 14.803 de 26 de dezembro de 2024.
 
 **Art. 206** - A investigação preliminar ou sindicância poderá resultar:
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: Art. 206 - " Da sindicância poderá resultar o seguinte:"
 
 **I -**        em arquivamento, quando não for apurada irregularidade ou não identificada a autoria;
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: I - " arquivamento do processo, quando não for apurada irregularidade;"
 
 **II -**      na instauração de processo disciplinar;
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: II - "instauração de processo disciplinar.
 
 **III** - na celebração do Termo de Compromisso Disciplinar - TCD, para infrações disciplinares de menor potencial ofensivo, conforme requisitos, condições e critérios estabelecidos em Regulamento.
@@ -1878,14 +2110,16 @@ Art. 206A acrescido pela Lei 14.803 de 26 de dezembro de 2024.
 
 **Art. 207** - Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de trinta dias, demissão e cassação de aposentadoria ou disponibilidade, será obrigatória a instauração de processo disciplinar.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 Do Afastamento Preventivo
 
 **Art. 208** - A autoridade instauradora do processo disciplinar, de ofício ou mediante solicitação do presidente da comissão processante, poderá ordenar o afastamento do servidor acusado, pelo prazo de até 60 (sessenta) dias, sem prejuízo de remuneração, a fim de que o mesmo não venha a influir na apuração dos fatos.
 
 **Parágrafo único -**    O afastamento poderá ser prorrogado por igual prazo, findo o qual cessarão os seus efeitos, ainda que não concluído o processo.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 Do Processo Disciplinar
 
 **Art. 209** - O processo disciplinar destina-se a apurar responsabilidade de servidor por infração praticada no exercício de suas funções ou relacionada com as atribuições do seu cargo.
@@ -1920,7 +2154,8 @@ Do Processo Disciplinar
 
 **Parágrafo único -**    Os membros da comissão deverão dedicar o tempo necessário aos seus trabalhos, podendo ficar dispensados do serviço de sua repartição, durante a realização do processo.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Atos e Termos Processuais
 
 **Art. 217** - O presidente da comissão, após nomear o secretário, determinará a autuação da portaria e das demais peças existentes e instalará os trabalhos, designando dia, hora e local para as reuniões e ordenará a citação do acusado para apresentar defesa inicial e indicar provas, inclusive rol de testemunhas até o máximo de 5 (cinco).
@@ -1947,7 +2182,8 @@ Dos Atos e Termos Processuais
 
 **§ 5º** - Recusando-se o acusado a receber a citação, deverá o fato ser certificado à vista de 2 (duas) testemunhas.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Instrução
 
 **Art. 220** - A instrução será contraditória, assegurando-se ao acusado ampla defesa, com os meios e recursos a ela inerentes.
@@ -1970,7 +2206,8 @@ Da Instrução
 
 **§ 3º** - Nenhum ato da instrução poderá ser praticado sem a prévia intimação do defensor do acusado.
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: § 3º - " Nenhum ato da instrução poderá ser praticado sem a prévia intimação do acusado e de seu defensor."
 
 **Art. 224** - Em qualquer fase do processo poderá ser juntado documento aos autos, antes do relatório.
@@ -2027,7 +2264,8 @@ Redação original: § 3º - " Nenhum ato da instrução poderá ser praticado s
 
 **Parágrafo único -**    Nenhuma nulidade será declarada se não resultar prejuízo para a defesa, por irregularidade que não comprometa a apuração da verdade e em favor de quem lhe tenha dado causa.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Julgamento
 
 **Art. 235** - No prazo de 60 (sessenta) dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.
@@ -2052,12 +2290,14 @@ Revogado pela Lei 14.803 de 26 de dezembro de 2024.
 
 **Parágrafo único -**    Ocorrida a exoneração de que trata o art. 46 desta Lei, o ato será convertido em demissão, se for ocaso.
 
-Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.803 de 26 de dezembro de 2024.
+
 Redação original: Parágrafo único - " Ocorrida a exoneração de que trata o artigo 46, o ato será convertido em demissão, se for ocaso."
 
 **Art. 241** - Apresentado o relatório, a comissão processante ficará automaticamente dissolvida, podendo ser convocada para prestação de esclarecimento ou realização de diligência, se assim achar conveniente a autoridade julgadora.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Revisão do Processo
 
 **Art. 242** - O processo disciplinar poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias não apreciadas, suscetíveis a justificar a inocência do punido ou a inadequação da penalidade aplicada.
@@ -2092,18 +2332,24 @@ Da Revisão do Processo
 
 **Art. 251** - Aplica-se subsidiariamente ao processo disciplinar o Código de Processo Penal.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 Da Contratação Temporária de Excepcional Interesse Público
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 11.571, de 03 de janeiro de 2009 - Estabelece procedimentos para contratação temporária de excepcional interesse público, de que tratam os arts. 252 a 255, da Lei nº 6.677, de 26.09.1994, com as alterações introduzidas pela Lei nº 7.992, de 28.12.2001, Lei nº 8.889, de 01.12.2003 e Lei nº 9.528, de 22.06.2005, altera o Decreto Estadual nº 8.112, de 21.01.2002, e dá outras providências.
 
 **Art. 252** - Para atender a necessidades temporárias de excepcional interesse público, poderá haver contratação de pessoal, por tempo determinado e sob regime de direito administrativo.
 
-Ver também:<br>
-Decreto nº 8.112, de 21 de janeiro de 2002 - Regulamenta a contratação temporária de excepcional interesse público, de que tratam os arts. 252 a 255.<br>
-Decreto nº 7.950, de 10 de maio de 2001 - Dispõe sobre o procedimento para contratação temporária sob regime especial de direito administrativo e dá outras providências.<br>
-Decreto nº 1.401, de 31 de julho de 1992 - Regulamenta a contratação de pessoal, em regime especial, por tempo determinado, previsto no Capítulo IV da Lei nº 6.403, de 20 de maio de 1992.<br>
+Ver também:
+
+Decreto nº 8.112, de 21 de janeiro de 2002 - Regulamenta a contratação temporária de excepcional interesse público, de que tratam os arts. 252 a 255.
+
+Decreto nº 7.950, de 10 de maio de 2001 - Dispõe sobre o procedimento para contratação temporária sob regime especial de direito administrativo e dá outras providências.
+
+Decreto nº 1.401, de 31 de julho de 1992 - Regulamenta a contratação de pessoal, em regime especial, por tempo determinado, previsto no Capítulo IV da Lei nº 6.403, de 20 de maio de 1992.
+
 Art. 34 da Lei nº 6.403, de 20 de maio de 1992: "Fica instituído o regime especial de contratação de pessoal por tempo determinado, para atender as necessidades temporárias de excepcional interesse público, no âmbito da Administração Direta e Indireta do Estado."
 
 **Art. 253** - Consideram-se como de necessidade temporária de excepcional interesse público as contratações que visem a:
@@ -2128,37 +2374,48 @@ Inciso VII acrescido ao art. 253  pelo art. 127 da Lei nº 8.889, de 01 de deze
 
 **VIII -** atender a outras situações de urgência definidas em lei.
 
-Inciso VII renumerado como inciso VIII pelo art. 127 da Lei nº 8.889, de 01 de dezembro de 2003.<br>
+Inciso VII renumerado como inciso VIII pelo art. 127 da Lei nº 8.889, de 01 de dezembro de 2003.
+
 Inciso VI renumerado como inciso VII pelo art. 3º da Lei nº 7.992, de 28 de dezembro de 2001.
 
 **§ 1º** - As contratações de que trata este artigo terão dotação orçamentária específica e não poderão ultrapassar o prazo de 36 (trinta e seis) meses, admitida uma única prorrogação, por igual período, podendo ser subdividido em etapas compatíveis com a necessidade do serviço a ser executado.
 
-Redação de acordo com a Lei nº 14.182 de 12 de dezembro de 2019.<br>
-Redação anterior de acordo com o art. 128 da Lei nº 8.889, de 01 de dezembro de 2003: "§ 1º - As contratações de que trata este artigo terão dotação orçamentária específica e não poderão ultrapassar o prazo de 24 (vinte e quatro) meses, admitida uma única prorrogação, por igual período, podendo ser subdividido em etapas compatíveis com a necessidade do serviço a ser executado, exceto na hipótese prevista no inciso VII deste artigo, cujo exercício será ininterrupto, com prazo não superior a doze meses, prorrogável por igual período."<br>
-Redação de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2002: “§ 1º - As contratações de que trata este artigo terão dotação orçamentária específica e não poderão ultrapassar o prazo de 24 (vinte e quatro) meses, admitida uma única prorrogação, por igual período, podendo ser subdividido em etapas compatíveis com a necessidade do serviço a ser executado.”<br>
-Redação de acordo com o art. 4º da Lei nº 7.601, de 14 de fevereiro de 2000: ”§ 1º - As contratações de que trata este artigo terão dotação específica e não poderão ultrapassar o prazo de 18 (dezoito) meses, admitida apenas uma prorrogação por igual período.”<br>
-Redação de acordo com o art. 2º da Lei nº 7.188, de 02 de outubro de 1997: ”§ 1º - As contratações de que trata este artigo terão dotação específica e não poderão ultrapassar o prazo de 12 (doze) meses, nos casos previstos nos incisos I, II, III, V e VI, admitida apenas uma prorrogação por um período máximo de 06 (seis) meses, com exceção dos casos previstos no inciso IV, cujos contratos poderão ser prorrogados por mais 12 (doze) meses.”<br>
+Redação de acordo com a Lei nº 14.182 de 12 de dezembro de 2019.
+
+Redação anterior de acordo com o art. 128 da Lei nº 8.889, de 01 de dezembro de 2003: "§ 1º - As contratações de que trata este artigo terão dotação orçamentária específica e não poderão ultrapassar o prazo de 24 (vinte e quatro) meses, admitida uma única prorrogação, por igual período, podendo ser subdividido em etapas compatíveis com a necessidade do serviço a ser executado, exceto na hipótese prevista no inciso VII deste artigo, cujo exercício será ininterrupto, com prazo não superior a doze meses, prorrogável por igual período."
+
+Redação de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2002: “§ 1º - As contratações de que trata este artigo terão dotação orçamentária específica e não poderão ultrapassar o prazo de 24 (vinte e quatro) meses, admitida uma única prorrogação, por igual período, podendo ser subdividido em etapas compatíveis com a necessidade do serviço a ser executado.”
+
+Redação de acordo com o art. 4º da Lei nº 7.601, de 14 de fevereiro de 2000: ”§ 1º - As contratações de que trata este artigo terão dotação específica e não poderão ultrapassar o prazo de 18 (dezoito) meses, admitida apenas uma prorrogação por igual período.”
+
+Redação de acordo com o art. 2º da Lei nº 7.188, de 02 de outubro de 1997: ”§ 1º - As contratações de que trata este artigo terão dotação específica e não poderão ultrapassar o prazo de 12 (doze) meses, nos casos previstos nos incisos I, II, III, V e VI, admitida apenas uma prorrogação por um período máximo de 06 (seis) meses, com exceção dos casos previstos no inciso IV, cujos contratos poderão ser prorrogados por mais 12 (doze) meses.”
+
 Redação Original: “§ 1º - As contratações de que trata este artigo terão dotação específica e não poderão ultrapassar o prazo de 12 (doze) meses, admitida apenas uma prorrogação por um período máximo de 06 (seis) meses.”
 
 **§ 2º** - O recrutamento será feito mediante o processo seletivo simplificado, segundo critérios definidos em regulamentos, exceto nas hipóteses previstas nos incisos I, III, VI e VIII.
 
-Redação do § 2º do art. 253 de acordo com o art. 128 da Lei nº 8.889, de 01 de dezembro de 2003.<br>
-Redação anterior de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2001:”§ 2º - O recrutamento será feito mediante o processo seletivo simplificado, segundo critérios definidos em regulamentos, exceto nas hipóteses previstas nos incisos I, III, VI e VII deste artigo.”<br>
+Redação do § 2º do art. 253 de acordo com o art. 128 da Lei nº 8.889, de 01 de dezembro de 2003.
+
+Redação anterior de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2001:”§ 2º - O recrutamento será feito mediante o processo seletivo simplificado, segundo critérios definidos em regulamentos, exceto nas hipóteses previstas nos incisos I, III, VI e VII deste artigo.”
+
 Redação original: “§ 2º - O recrutamento será feito mediante processo seletivo simplificado, sujeito a divulgação no Diário Oficial e observará os critérios definidos em regulamento, exceto nas hipóteses previstas nos incisos I, III e IV deste artigo.”
 
 **§ 3º** - Poderá ser efetuada a recontratação de pessoa admitida na forma deste artigo, desde que o somatório das etapas de contratação não ultrapasse o prazo de 72 (setenta e dois) meses.
 
-Redação de acordo com a Lei nº 14.182 de 12 de dezembro de 2019.<br>
+Redação de acordo com a Lei nº 14.182 de 12 de dezembro de 2019.
+
 Redação anterior de acordo com o art. 5º da Lei nº 7.992, de 28 de dezembro de 2001 que acrescentou este parágrafo ao art. 253: "§ 3º - Poderá ser efetuada a recontratação de pessoa admitida na forma deste artigo, desde que o somatório das etapas de contratação não ultrapasse o prazo de 48 (quarenta e oito) meses."
 
 **Art. 254** - É nulo de pleno direito o desvio de função da pessoa contratada, na forma deste título, sem prejuízo das sanções civil, administrativas e penal da autoridade responsável.
 
-Redação do art. 254 de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2001.<br>
+Redação do art. 254 de acordo com o art. 4º da Lei nº 7.992, de 28 de dezembro de 2001.
+
 Redação original: “Art. 254 - É nulo de pleno direito o desvio de função da pessoa contratada, na forma deste título, bem como sua recontratação, sem prejuízo das sanções civil, administrativa e penal da autoridade responsável.”
 
 **Art. 255** - Nas contratações por tempo determinado, serão observados os padrões de vencimento dos planos de carreira do órgão ou da entidade contratante.
 
-TÍTULO VII  -<br>
+TÍTULO VII  -
+
 Das Disposições Gerais
 
 **Art. 256** - O Dia do Servidor Público estadual será comemorado em 28 de outubro.
@@ -2181,19 +2438,22 @@ Das Disposições Gerais
 
 **Art. 261** - São assegurados ao servidor público os direitos de associação profissional ou sindical e o de greve.
 
-Ver também:<br>
+Ver também:
+
 Inciso XV do art. 41 da Constituição Estadual com redação dada pelo art. 1º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "direito de greve, cujo exercício se dará nos termos e limites definidos em lei específica;"
 
 **Parágrafo único -**    O direito de greve será exercido nos termos e limites definidos em lei.
 
 **Art. 262** \- Para os fins desta Lei, considera-se sede o município onde a repartição estiver instalada e o servidor tiver exercício em caráter constante.
 
-TÍTULO VIII -<br>
+TÍTULO VIII -
+
 Das Disposições Finais e Transitórias
 
 **Art. 263** - Ficam submetidos ao regime jurídico desta Lei, os atuais servidores dos Poderes do Estado, das suas autarquias e fundações, regidos pela Lei nº 2.323, de 11 de abril de 1966, bem como os regidos pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), exceto os servidores contratados por prazo determinado, cujos contratos não poderão ser prorrogados após o vencimento dos respectivos prazos.
 
-Ver também:<br>
+Ver também:
+
 Art. 6º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Os servidores públicos civis do Estado e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação da Constituição Federal,  há pelo menos cinco anos continuados, e que não tenham sido admitidos na forma regulada  no art. 37 da Constituição Federal, são considerados estáveis, embora  não efetivos, no serviço público."
 
 **§ 1º** - Os servidores contratados anteriormente à promulgação da Constituição Federal, que não tenham sido admitidos na forma regulada em seu artigo 37, são considerados estáveis no serviço público, excetuados os ocupantes de cargos, funções e empregos de confiança ou em comissão, declarados, em lei, de livre exoneração.
@@ -2220,7 +2480,8 @@ Art. 6º da Emenda Constitucional nº 07, de 18 de janeiro de 1999: "Os servidor
 
 **Art. 270** - Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 529, de 20 de dezembro de 1952, a Lei nº 2.323, de 11 de abril de 1966, salvo artigo 182 e seus parágrafos, e o artigo 41 da Lei nº 6.354, de 30 de dezembro de 1991.
 
-Ver também:<br>
+Ver também:
+
 A Lei nº 6.932, de 19 de janeiro de 1996 revoga o art. 182 e seus parágrafos da Lei nº 2.323, de 11 de abril de 1966
 
 PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 26 de setembro de 1994

@@ -1,5 +1,3 @@
-###DEC-003965-0-000-10-10-2001@@@
-
 DECRETO Nº 3.965, DE 10 DE OUTUBRO DE 2001
 
 Institui os Serviços de Retransmissão de Televisão e o Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

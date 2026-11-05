@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210426)<br>
-
 # LEI N° 18.075, DE 27 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a criação de serventia extrajudicial na Comarca de Bertioga._

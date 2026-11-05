@@ -1,5 +1,3 @@
-###DEC-069830-0-000-23-12-1971@@@
-
 decreto nº 69.830 - de 23 DE DEZEMBRO de 1971
 
 Extingue o Centro de Reparos Navais Almirante Cox, criado pelo Decreto nº 62.322, de 29 de fevereiro de 1968, e dá outras providências.

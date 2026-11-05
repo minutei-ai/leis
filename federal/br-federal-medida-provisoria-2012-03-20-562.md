@@ -1,5 +1,3 @@
-###MPV-000562-0-000-20-03-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 562, DE 20 DE MARÇO DE 2012
 
 Dispõe sobre o apoio técnico ou financeiro da União no âmbito do Plano de Ações Articuladas, altera a Lei nº 11.947, de 16 de junho de 2009, para incluir os polos presenciais do sistema Universidade Aberta do Brasil na assistência financeira do Programa Dinheiro Direto na Escola, altera a Lei nº 11.494, de 20 de junho de 2007, para contemplar com recursos do FUNDEB as instituições comunitárias que atuam na educação do campo, altera a Lei nº 10.880, de 9 de junho de 2004, para dispor sobre a assistência financeira da União no âmbito do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos, e dá outras providências.

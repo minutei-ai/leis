@@ -1,5 +1,3 @@
-###DEC-077263-0-000-08-03-1976@@@
-
 DECRETO Nº 77.263, de 8 DE MARçO DE 1976.
 
 Concede reconhecimento aos cursos de Ciências, de Letras e de Estudos Sociais, da Faculdade de Ciências Humanas, com sede na cidade de Coronel Fabriciano, Estado de Minas Gerais.

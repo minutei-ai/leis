@@ -1,5 +1,3 @@
-###DEC-061274-0-000-04-09-1967@@@
-
 decreto nº 61.274, de 4 de setembro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à bacia de acumulação do aproveitamento da energia hidráulica de um trecho do rio Paranapanema, no município de Carlópolis, Estado do Paraná.
@@ -225,8 +223,6 @@ Brasília, 4 de setembro de 1967; 146º da Independência e 79º da República.
 A. Costa e silva
 
 José Costa Cavalcanti
-
-###DEC-061274-0-000-04\-09\-1967@@@RET01+++
 
 DECRETO Nº 61.274, DE 4 DE SETEMBRO DE 1967.
 

@@ -1,5 +1,3 @@
-###DEC-057413-0-000-13-12-1965@@@
-
 decreto Nº 57.413, de 13 de dezenbro de 1965.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito de CR$539.000.000, para o fim que especifica.

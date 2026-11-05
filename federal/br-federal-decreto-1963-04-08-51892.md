@@ -1,5 +1,3 @@
-###DEC-051892-0-000-08-04-1963@@@
-
 DECRETO Nº 51.892, DE 8 DE 4 DE ABRIL DE 1963.
 
 Constituição de Comissão Interministerial para decidir sôbre a nacionalização das emprêsas concessionárias que exploram o serviço público de energia elétrica, ou telecomunicações

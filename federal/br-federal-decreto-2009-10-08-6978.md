@@ -1,5 +1,3 @@
-###DEC-006978-0-000-08-10-2009@@@
-
 DECRETO Nº 6.978, DE 8 DE OUTUBRO DE 2009.
 
 Dispõe sobre o percentual máximo do Fundo de Combate e Erradicação da Pobreza a ser destinado às despesas administrativas para o exercício de 2009.

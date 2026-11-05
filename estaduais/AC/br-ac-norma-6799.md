@@ -1,6 +1,6 @@
 > **LEI Nº 4.801, DE 15 DE ABRIL DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 
@@ -12,7 +12,55 @@
 
 **CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>DENOMINAÇÃO DO CARGO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VALOR&nbsp;</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p><p><span><span>Subsecretário de Publicidade e Comunicação Social</span></span></p><p><span><span>Subsecretário de Patrimônio e Serviços</span></span></p><p><span><span>Subsecretário de Tecnologia da Informação</span></span></p><p><span><span>Contador-Geral</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>Consultor Jurídico-Administrativo Chefe</span></span></p><p><span><span>Consultor Técnico-Chefe</span></span></p><p><span><span>Presidente da Comissão Permanente de Contratação</span></span></p><p><span><span>Diretor de Gestão da Folha da Estrutura Administrativa</span></span></p><p><span><span>Diretor de Gestão da Folha da Estrutura Parlamentar</span></span></p><p><span><span>Diretor de Núcleo da TV e Rádio da Assembleia Legislativa</span></span></p><p><span><span>Diretor de Apoio à Gestão Administrativa e Contratações</span></span></p><p><span><span>Diretor da Escola do Legislativo</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DO CARGO**
+
+**VALOR **
+
+...
+
+...
+
+...
+
+Subsecretário de Publicidade e Comunicação Social
+
+Subsecretário de Patrimônio e Serviços
+
+Subsecretário de Tecnologia da Informação
+
+Contador-Geral
+
+...
+
+Consultor Jurídico-Administrativo Chefe
+
+Consultor Técnico-Chefe
+
+Presidente da Comissão Permanente de Contratação
+
+Diretor de Gestão da Folha da Estrutura Administrativa
+
+Diretor de Gestão da Folha da Estrutura Parlamentar
+
+Diretor de Núcleo da TV e Rádio da Assembleia Legislativa
+
+Diretor de Apoio à Gestão Administrativa e Contratações
+
+Diretor da Escola do Legislativo
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
 
 ” **(NR)**
 

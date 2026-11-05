@@ -1,5 +1,3 @@
-###DEC-094381-0-000-27-05-1987@@@
-
 DECRETO Nº 94.381, DE 27 DE MAIO DE 1987.
 
 Autoriza o funcionamento dos cursos de Letras, História, Geografia e Ciências, em Formosa, Estado de Goiás.

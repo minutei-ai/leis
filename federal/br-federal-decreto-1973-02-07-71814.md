@@ -1,5 +1,3 @@
-###DEC-071814-0-000-07-02-1973@@@
-
 DECRETO Nº 71.814, de 7 de fevereiro de 1973.
 
 Concede reconhecimento à Faculdade de Medicina de Campos, Estado do Rio de Janeiro

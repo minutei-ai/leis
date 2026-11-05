@@ -80,8 +80,6 @@ Art. 5º Esta lei entra em vigor na data da sua publicação.
 
 Goiânia, 2 de março de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

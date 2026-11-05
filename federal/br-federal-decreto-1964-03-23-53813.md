@@ -1,5 +1,3 @@
-###DEC-053813-0-000-23-03-1964@@@
-
 Decreto nº 53.813, de 23 de março de 1964.
 
 Autoriza Mineração Geral do Nordeste S.A. a pesquisar argila e caulim no Município de Cabo, Estado de Pernambuco.

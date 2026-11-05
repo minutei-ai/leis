@@ -1,5 +1,3 @@
-###DEC-053155-0-000-11-12-1963@@@
-
 DECRETO Nº 53.155, DE 11 DE DEZEMBRO DE 1963.
 
 Fica autorizada Mineração Comércio e Indústria Novo Horizonte Limitada a pesquisar sodalita no município de Itabuna, Estado da Bahia.

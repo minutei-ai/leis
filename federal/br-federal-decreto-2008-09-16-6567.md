@@ -1,5 +1,3 @@
-###DEC-006567-0-000-16-09-2008@@@
-
 DECRETO Nº 6.567, DE 16 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1782, de 29 de outubro de 2007, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República da Costa do Marfim.

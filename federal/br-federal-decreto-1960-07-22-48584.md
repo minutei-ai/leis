@@ -1,5 +1,3 @@
-###DEC-048584-0-000-22-07-1960@@@
-
 DECRETO Nº 48.584, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco das Chagas Veras Neves a pesquisar areias ilemiticas no Município de Barreirinhas, Estado do Maranhão.

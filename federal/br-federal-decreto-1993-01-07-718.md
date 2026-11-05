@@ -1,7 +1,3 @@
-1
-
-###DEC-000718-0-000-07-01-1993@@@
-
 DECRETO N° 718, DE 7 DE JANEIRO DE 1993
 
 Dispõe sobre a realização de despesas pelos órgãos e entidades da Administração Pública Federal na antevigência da lei orçamentária para 1993 e dá outras providências.

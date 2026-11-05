@@ -1,7 +1,3 @@
-1
-
-###DEC-001500-0-000-24-05-1995@@@
-
 DECRETO Nº 1.500, DE 24 DE MAIO DE 1995
 
 Cria Comissão Especial de Anistia para apreciar os pedidos de anistia concedida pela legislação que menciona e dá outras providências.

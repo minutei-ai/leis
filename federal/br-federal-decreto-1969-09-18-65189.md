@@ -1,5 +1,3 @@
-###DEC-065189-0-000-18-09-1969@@@
-
 DECRETO Nº 65.189 - DE 18 DE SETEMBRO DE 1969.
 
 Cria Grupo de Trabalho para propor a reforma do ensino fundamental.

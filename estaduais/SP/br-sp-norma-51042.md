@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51042)
-
 # LEI Nº 11.724, DE 25 DE MAIO DE 2004
 
 ## ( PL 142/2003 - Pedro Tobias)

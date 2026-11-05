@@ -1,5 +1,3 @@
-###DEC-073487-0-000-17-01-1974@@@
-
 DECRETO Nº 73.487, DE 17 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento do Curso de Ciências Contábeis e do Curso de Administração, a serem ministrados na Faculdade de Ciências Econômicas, mantida pela Fundação Educacional do Sul de Santa Catarina.

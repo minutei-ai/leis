@@ -1,5 +1,3 @@
-###DEC-087831-0-000-16-11-1982@@@
-
 Decreto nº 87.831, de 16 de novembro de 1982
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

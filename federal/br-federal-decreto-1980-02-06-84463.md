@@ -1,5 +1,3 @@
-###DEC-084463-0-000-06-02-1980@@@
-
 Decreto nº 84.463, de 06 de fevereiro de 1980
 
 Dispõe sobre a absorção, em cumprimento do disposto no art. 10 da Lei nº 6.310, de 15 de dezembro de 1975, das atividades da Operação Mauá-OPEMA pela Fundação Projeto Rondon e dá outras providências.

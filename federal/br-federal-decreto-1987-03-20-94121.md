@@ -1,5 +1,3 @@
-###DEC-094121-0-000-20-03-1987@@@
-
 DECRETO Nº 94.121, DE 20 DE MARÇO DE 1987.
 
 Altera o Regulamento de Promoção de Graduados do Exército, e dá outras providências.

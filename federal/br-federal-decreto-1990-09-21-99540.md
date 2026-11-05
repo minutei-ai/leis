@@ -1,5 +1,3 @@
-###DEC-099540-0-000-21-09-1990@@@
-
 DECRETO N° 99.540, DE 21 DE SETEMBRO DE 1990
 
 Institui a Comissão Coordenadora do Zoneamento Ecológico-Econômico do Território Nacional e dá outras providências.

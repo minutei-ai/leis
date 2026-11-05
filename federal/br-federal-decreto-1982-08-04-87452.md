@@ -1,5 +1,3 @@
-###DEC-087452-0-000-04-08-1982@@@
-
 DECRETO Nº 87.452, DE 04 DE AGOSTO DE 1982
 
 Concede à Florestal Acesita S.A. autorização para proceder a aumento do seu capital social.

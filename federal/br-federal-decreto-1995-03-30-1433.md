@@ -1,7 +1,3 @@
-1
-
-###DEC-001433-0-000-30-03-1995@@@
-
 DECRETO Nº 1.433, DE 30 DE MARÇO DE 1995
 
 Altera o Decreto nº 1.343, de 23 de dezembro de 1994.

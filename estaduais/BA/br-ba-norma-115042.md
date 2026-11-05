@@ -28,7 +28,8 @@ II - Três e meio por cento (3,5%) para o" Fundo de Reajustamento de Pensões do
 
 § 3º - Somente será permitida nova operação de empréstimo comum, após decorridos noventa (90) dias, pelo menos, da data de liquidação do empréstimo anterior, da mesma natureza.
 
-Ver também:<br>
+Ver também:
+
 Art. 1º da Lei nº 2.363 de 18 de agosto de 1966: "Fica suspensa, pelo prazo de um ano, a vigência da regra constante do § 3º, do art. 3º da Lei nº 2.295, de 14 de janeiro de 1966."
 
 Art. 4º - Entende-se como vencimento de contribuição para os efeitos da legislação referente ao Montepio, o valor dos estipêndios - vencimentos, remuneração , percentagens, soldo, salário, subsídios, adicionais ou proventos pagos ou devidos ao servidor público estadual e sobre os quais incidir o desconto para o Montepio.
@@ -157,4 +158,4 @@ Onde se lê: - no § 2º do artigo 9ºque exerçam cargos. Leia-se que exercem c
 
 Onde se lê: - no Parágrafo único do artigo 16, ao alcança-lo esteja matriculado em curso oficial. - Leia-se: ao alcançá-la esteja matriculado em curso oficial.
 
-* * *
+ *

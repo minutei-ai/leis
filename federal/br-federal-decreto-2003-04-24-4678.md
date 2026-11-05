@@ -1,5 +1,3 @@
-###DEC-004678-0-000-24-04-2003@@@
-
 DECRETO N° 4.678, DE 24 DE ABRIL DE 2003.
 
 Dispõe sobre as atribuições e composição do Conselho de Gestão da Previdência Complementar - CGPC.

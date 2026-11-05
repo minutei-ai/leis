@@ -1,5 +1,3 @@
-###DEL-009876-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.876 – DE 16 DE SETEMBRO DE 1946
 
 Dispõe sôbre a transferência de Francisco Cavalcanti Pontes de Miranda para a carreira diplomática.

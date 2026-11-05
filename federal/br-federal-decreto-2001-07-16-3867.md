@@ -1,5 +1,3 @@
-###DEC-003867-0-000-16-07-2001@@@
-
 DECRETO Nº 3.867, DE 16 DE JULHO DE 2001
 
 Regulamenta a Lei nº 9.991, de 24 de julho 2000, que dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de energia elétrica, e dá outras providências.

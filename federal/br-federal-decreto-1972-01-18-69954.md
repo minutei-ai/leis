@@ -1,5 +1,3 @@
-###DEC-069954-0-000-18-01-1972@@@
-
 DECRETO Nº 69.954, DE 18 DE JANEIRO DE 1972.
 
 Concede reconhecimento ao Curso de Licenciatura (1º Grau) de Ciências da Faculdade de Filosofia, Ciências e Letras "Sagrado Coração de Jesus" em Bauru, Estado de São Paulo.

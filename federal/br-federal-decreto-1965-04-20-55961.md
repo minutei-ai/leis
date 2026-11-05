@@ -1,5 +1,3 @@
-###DEC-055961-0-000-20-04-1965@@@
-
 DECRETO Nº 55.961, DE 20 DE ABRIL DE 1965.
 
 Autoriza estrangeira a adquirir, em regularização de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

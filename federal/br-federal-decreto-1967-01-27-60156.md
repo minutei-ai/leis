@@ -1,5 +1,3 @@
-###DEC-060156-0-000-27-01-1967@@@
-
 DECRETO Nº 60.156, DE 27 DE JANEIRO DE 1967.
 
 Modifica o artigo 1º, do Decreto número 56.772, de 20 de agôsto de 1965.

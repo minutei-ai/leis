@@ -1,5 +1,3 @@
-###DEC-067735-0-000-08-12-1970@@@
-
 DECRETO Nº 67.735, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Mineração Jompe Ltda. o direito de lavrar caulim, no município de Embú-Guaçu, Estado de São Paulo.

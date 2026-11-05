@@ -1,5 +1,3 @@
-###DEC-089309-0-000-18-01-1984@@@
-
 DECRETO Nº 89.309 DE 18 DE janeiro DE 1984
 
 Dispõe sobre a competência da Procuradoria-Geral da Fazenda Nacional para exercer a representação da União nas Assembléias-Gerais e promover a defesa e o controle dos interesses da Fazenda Nacional junto às empresas estatais, e dá outras providências.

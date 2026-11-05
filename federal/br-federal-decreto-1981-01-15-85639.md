@@ -1,5 +1,3 @@
-###DEC-085639-0-000-15-01-1981@@@
-
 Decreto nº 85.639, de 15 de janeiro de 1981.
 
 Promulga o Tratado de Interconexão Ferroviária Brasil-Paraguai.

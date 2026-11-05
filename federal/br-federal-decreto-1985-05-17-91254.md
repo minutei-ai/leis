@@ -1,5 +1,3 @@
-###DEC-091254-0-000-17-05-1985@@@
-
 DecreTO Nº 91.254, DE 17 de maio dE 1985
 
 Autoriza a ACESITA ENERGÉTICA S.A. a pro ceder ao aumento do seu capital social.

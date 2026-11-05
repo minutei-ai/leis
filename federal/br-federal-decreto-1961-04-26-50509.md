@@ -1,5 +1,3 @@
-###DEC-050509-0-000-26-04-1961@@@
-
 DECRETO Nº 50.509, DE 26 DE ABRIL DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação, pelo 3º Batalhão Rodoviário, a faixa de terreno necessária à construção do trecho ferroviário compreendido entre a Primeira Passagem do Rio Saltinho e o Arroio Bandeira, do Tronco Principal Sul, no Estado do Rio Grande do Sul.

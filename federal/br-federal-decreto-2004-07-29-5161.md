@@ -1,5 +1,3 @@
-###DEC-005161-0-000-29-07-2004@@@
-
 DECRETO Nº 5.161, DE 29 DE JULHO DE 2004
 
 Prorroga, em caráter excepcional, o prazo de remanejamento dos cargos que menciona, e dá outras providências.

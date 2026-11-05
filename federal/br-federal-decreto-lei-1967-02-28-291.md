@@ -1,5 +1,3 @@
-###DEL-000291-0-000-28-02-1967@@@
-
 DECRET0-LEI Nº 291, DE 28 FEVErEIRO DE 1967
 
 Estabelece incentivos para o desenvolvimento da Amazônia Ocidental da Faixa de Fronteiras abrangida pela Amazônia e dá outras providências.
@@ -127,8 +125,6 @@ Octavio Bulhões
 Roberto Campos
 
 João Gonçalves de Souza
-
-###DEL-000291-0-000-28-02-1967@@@RET01+++
 
 decreto-lei nº 291, de 28 de fevereiro de 1967
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-000016-0-000-28-01-1991@@@
-
 DECRETO Nº 16, DE 28 DE JANEIRO DE 1991.
 
 Transfere a subordinação e altera a denominação do Centro de Informações da Marinha e de dispositivos do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

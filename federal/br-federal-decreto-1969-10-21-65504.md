@@ -1,5 +1,3 @@
-###DEC-065504-0-000-21-10-1969@@@
-
 decreto nº 65.504 - de 21 de outubro de 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas destinadas à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Passo Fundo, nos municípios de Nonoai, Ronda Alta, São Valentim, Campinas do Sul, Jacutinga, e Erechim, no Estado do Rio Grande do Sul.

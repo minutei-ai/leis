@@ -1,5 +1,3 @@
-###DEC-078062-0-000-15-07-1976@@@
-
 DECRETO Nº 78.062, DE 15 DE JULHO DE 1976.
 
 Cassa a concessão outorgada à Rádio Sant'Ana Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Uruguaiana, Estado do Rio Grande do Sul.

@@ -1,14 +1,12 @@
-###DEC-044046-0-000-21-07-1958@@@
+**DECRETO Nº 44.046, DE 21 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 44.046, DE 21 DE JULHO DE 1958.</strong>
+***Introduz alterações no Regulamento da Escola de Oficiais Especialistas e de Infantaria de Guarda (EOEG).***
 
-<em><strong>Introduz alterações no Regulamento da Escola de Oficiais Especialistas e de Infantaria de Guarda (EOEG).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São introduzidas no Regulamento da Escola de Oficiais Especialistas e de infantaria de Guarda (EOEG), aprovado pelo Decreto número 31.488, de 19 de setembro de 1952, modificado pelo Decreto número 33.053 de 15 de junho de 1953 as alterações que com êste baixam.
+**Art**. 1º São introduzidas no Regulamento da Escola de Oficiais Especialistas e de infantaria de Guarda (EOEG), aprovado pelo Decreto número 31.488, de 19 de setembro de 1952, modificado pelo Decreto número 33.053 de 15 de junho de 1953 as alterações que com êste baixam.
 
 I - Acrescente-se no final do § 1º do art. 1º:
 
@@ -144,10 +142,10 @@ IX - Acrescente-se ao art. 127:
 
 h) Grupo de Suprimento Técnico
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

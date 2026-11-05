@@ -1,5 +1,3 @@
-###DEC-083307-0-000-30-03-1979@@@
-
 Decreto nº 83.307, de 30 de março de 1979.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Universidade Federal do Maranhão, com sede na cidade de São Luís, Estado do Maranhão.

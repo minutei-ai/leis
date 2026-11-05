@@ -1,5 +1,3 @@
-###DEC-048808-0-000-12-08-1960@@@
-
 DECRETO Nº 48.808, DE 12 DE AGôSTO DE 1960.
 
 Concede equiparação aos Cursos de Iniciação, Mestria Agrícola e de Técnico em Agricultura da Escola Agrotécnica de Campos.

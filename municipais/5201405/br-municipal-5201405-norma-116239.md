@@ -1,4 +1,5 @@
-LEI MUNICIPAL N° 3.593, DE 02 DE DEZEMBRO DE 2020.<br>
+LEI MUNICIPAL N° 3.593, DE 02 DE DEZEMBRO DE 2020.
+
 (Revogada pela Lei Ordinária nº 3.805, de 12 de novembro de 2024).
 
 ~~Institui, no Município de Aparecida de Goiânia, o "Programa de Acolhimento em Família Acolhedora", que visa propiciar o acolhimento familiar de crianças e/ou adolescentes afastados do convívio familiar, por força de decisão judicial, dá outras providências.~~
@@ -7,12 +8,14 @@ LEI MUNICIPAL N° 3.593, DE 02 DE DEZEMBRO DE 2020.<br>
 
 ~~Art. 1º - Fica instituído, no Município de Aparecida de Goiânia, o Programa de Acolhimento em Família Acolhedora, em atendimento às disposições contidas no art. 227, caput, §3∘, inciso VI, e §7∘, da Constituição Federal; no art. 34, caput, no art. 101, VIII, §§1∘ e 3∘, da Lei Federal n∘ 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (ECA) —; e na Lei Federal n∘ 8.742, de 07 de dezembro de 1993 que dispõe sobre a Lei Orgânica da Assistência Social (LOAS), Política Nacional da Assistência Social (PNAS)/2004, a Tipificação Nacional dos Serviços Socioassistenciais/2014 e as Orientações Técnicas: Serviços de Acolhimento para Crianças e Adolescentes, como parte integrante da Política Municipal de Assistência Social de Proteção Social Especial de Alta Complexidade, para o acolhimento familiar excepcional e provisório de crianças (do nascimento aos doze anos incompletos) de adolescentes (dos doze aos dezoito anos incompletos), afastados do convívio familiar, por determinação judicial — Medida Protetiva, por meio da guia de acolhimento.~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 DAS FINALIDADES~~
 
 ~~Art. 2º - A inclusão de crianças e/ou adolescentes no Programa de Acolhimento em Família Acolhedora, será realizada por determinação do juízo do Juizado da Infância e Juventude de Aparecida de Goiânia, considerando, ao se aplicar Medida Protetiva, as 20 (vinte) vagas de famílias acolhedoras, disponibilizadas e selecionadas pelo Município, e a condição/situação/peculiaridade/particularidade da criança(s) e/ou do adolescente(s).~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DOS OBJETIVOS~~
 
 ~~Art. 3º - O Programa de Acolhimento em Família Acolhedora tem os seguintes objetivos:~~
@@ -27,7 +30,8 @@ DOS OBJETIVOS~~
 
 ~~V - Preparar a criança e/ou adolescente para a reintegração familiar ou colocação em família substituta.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DA GESTÃO DO SERVIÇO DE ACOLHIMENTO EM FAMÍLIA ACOLHEDORA~~
 
 ~~Art. 4º - O Programa de Acolhimento em Família Acolhedora do Município de Aparecida de Goiânia será de responsabilidade da Secretaria Municipal de Assistência Social, por meio da Proteção Social Especial de Alta Complexidade, à qual compete a Gestão do Programa, nos termos desta Lei e demais legislações pertinentes, contando com equipe técnica para o acompanhamento da(s) criança(s) e/ou do(as) adolescente(s), da família acolhedora e da família origem. A equipe contará com 01 (um) técnico de nível superior, com formação em Serviço Social, e 01 (um) técnico de nível superior, com Formação em Psicologia.~~
@@ -72,7 +76,8 @@ DA GESTÃO DO SERVIÇO DE ACOLHIMENTO EM FAMÍLIA ACOLHEDORA~~
 
 ~~Art. 6º - O Programa de Acolhimento em Família Acolhedora será custeado com recursos orçamentários e financeiros oriundos do Governo Federal e do Tesouro Municipal, alocados no Fundo Municipal de Assistência Social.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DO ACOMPANHAMENTO E RESPONSABILIDADES DA GESTÃO E EQUIPE~~
 
 ~~Art. 7º - As famílias selecionadas receberão acompanhamento e preparação contínua da Secretaria Municipal de Assistência Social, por meio da Proteção Social Especial de Alta Complexidade, que orientará quanto à acolhida, à manutenção e o desligamento da criança e/ou adolescente.~~
@@ -87,12 +92,14 @@ DO ACOMPANHAMENTO E RESPONSABILIDADES DA GESTÃO E EQUIPE~~
 
 ~~II - Participação das famílias nos encontros de estudo, cursos e eventos de formação, em conformidade com o Estatuto da Criança e do Adolescente, a Lei Orgânica da Assistência Social, a Política Nacional da Assistência Social, a Tipificação Nacional dos Serviços Socioassistenciais e Orientações Técnicas: Serviço de Acolhimento para Crianças e Adolescentes, questões sociais relativas à família de origem, relações intrafamiliares, guarda, papel da família acolhedora e outras questões pertinentes.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 DA REDE DE PROTEÇÃO DA CRIANÇA E DO ADOLESCENTE~~
 
 ~~Art. 10 - A execução das ações que envolvem o Programa de Acolhimento em Família Acolhedora do Município de Aparecida de Goiânia dar-se-á, de forma integrada, com a rede de serviços públicos.~~
 
-~~CAPÍTULO VI<br>
+~~CAPÍTULO VI
+
 DOS REQUISITOS, DA INSCRIÇÃO E DA SELEÇÃO DA FAMÍLIA ACOLHEDORA~~
 
 ~~Art. 11 - São requisitos para que o responsável e os demais membros da família participem do "Programa de Acolhimento em Família Acolhedora":~~
@@ -163,7 +170,8 @@ DOS REQUISITOS, DA INSCRIÇÃO E DA SELEÇÃO DA FAMÍLIA ACOLHEDORA~~
 
 ~~§3º - A inclusão da família no Programa será formalizada mediante assinatura de Termo de Adesão.~~
 
-~~CAPÍTULO VII<br>
+~~CAPÍTULO VII
+
 DA COMPETÊNCIAS E RESPONSABILIDADE DA FAMÍLIA ACOLHEDORA~~
 
 ~~Art. 14 - A família acolhedora tem como responsabilidade legal garantir a Proteção Integral a criança(s) e/ou adolescente(s) acolhidos(as), tendo como principais competências:~~
@@ -178,7 +186,8 @@ DA COMPETÊNCIAS E RESPONSABILIDADE DA FAMÍLIA ACOLHEDORA~~
 
 ~~V - Contribuir na preparação da criança e/ou adolescente para retorno à família de origem, ou extensa, sempre sob orientação da equipe técnica do Programa.~~
 
-~~CAPÍTULO VIII<br>
+~~CAPÍTULO VIII
+
 DO AUXÍLIO ACOLHIMENTO~~
 
 ~~Art. 15 - O Poder Executivo Municipal fica autorizado a conceder às famílias acolhedoras, através do membro designado no Termo de Guarda e Responsabilidade, o Auxílio Acolhimento, no valor equivalente a 01 (um) salário mínimo mensal, para cada criança e/ou adolescente acolhido(a), durante o período de acolhimento, nos termos da Lei.~~
@@ -211,7 +220,8 @@ DO AUXÍLIO ACOLHIMENTO~~
 
 ~~Art. 18 - No caso de a(s) criança(s) e/ou adolescente(s) ser beneficiário(s) do Benefício de Prestação Continuada (BPC) ou outro Benefício Previdenciário, a família acolhedora será responsável pelo recebimento do Benefício e terá o complemento de 50% (cinquenta) do valor do Auxilio Acolhimento do Programa Família Acolhedora.~~
 
-~~CAPÍTULO IX<br>
+~~CAPÍTULO IX
+
 DO DESLIGAMENTO DA FAMÍLIA ACOLHEDORA E DO DESACOLHIMENTO DA CRIANÇA E/OU ADOLESCENTE~~
 
 ~~Art. 19 - A família poderá ser desligada do Programa de Acolhimento em Família Acolhedora, nas seguintes situações:~~
@@ -246,11 +256,14 @@ DO DESLIGAMENTO DA FAMÍLIA ACOLHEDORA E DO DESACOLHIMENTO DA CRIANÇA E/OU ADOL
 
  
 
-~~GUSTAVO MENDANHA MELO~~<br>
+~~GUSTAVO MENDANHA MELO~~
+
 ~~Prefeito Municipal~~
 
-~~FABIO PASSAGLIA~~<br>
+~~FABIO PASSAGLIA~~
+
 ~~Secretário~~
 
-~~MAYARA FERREIRA MARFIM MENDANHA~~<br>
+~~MAYARA FERREIRA MARFIM MENDANHA~~
+
 ~~Secretária Municipal de Assistência Social~~

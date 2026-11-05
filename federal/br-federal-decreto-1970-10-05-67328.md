@@ -1,5 +1,3 @@
-###DEC-067328-0-000-05-10-1970@@@
-
 DECRETO Nº 67.328, DE 5 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública a Prelazia do Alto Juruá, com sede em Cruzeiro do Sul, Estado do Acre, e as congregadas que enumera:

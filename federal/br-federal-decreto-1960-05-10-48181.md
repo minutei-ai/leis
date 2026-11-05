@@ -1,5 +1,3 @@
-###DEC-048181-0-000-10-05-1960@@@
-
 DECRETO Nº 48.181, DE 10 DE MAIO DE 1960.
 
 Concede nacionalização à sociedade anônima Royal Mail Agencies (Brazil) Limited, sob a denominação de Agência Marítima Brasanglo S.A.

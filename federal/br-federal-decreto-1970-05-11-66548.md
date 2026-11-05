@@ -1,5 +1,3 @@
-###DEC-066548-0-000-11-05-1970@@@
-
 decreto nº 66.548, de 11 de maio de 1970.
 
 Autoriza o funcionamento da Escola Superior de Educação Física do Pará.

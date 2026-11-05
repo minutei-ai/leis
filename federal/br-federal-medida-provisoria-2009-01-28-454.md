@@ -1,5 +1,3 @@
-###MPV-000454-0-000-28-01-2009@@@
-
 MEDIDA PROVISÓRIA Nº 454, DE 28 DE JANEIRO DE 2009.
 
 Dá nova redação aos arts. 2o, 3o e 4o da Lei no 10.304, de 5 de novembro de 2001, que transfere ao domínio do Estado de Roraima terras pertencentes à União.

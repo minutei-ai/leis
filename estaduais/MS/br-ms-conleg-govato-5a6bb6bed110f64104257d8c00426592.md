@@ -6,27 +6,28 @@ Dá nova redação à alínea “e” do inciso I do art. 8º da Lei nº 3.808, 
 
 Publicada no Diário Oficial nº 8.795, de 10 de novembro de 2014, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º A alínea “e” do inciso I do art. 8º da [Lei nº 3.808, de 18 de dezembro de 2009](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1ef390d986f31d7004257694003ac7c1?OpenDocument), passa a vigorar com a seguinte redação:<br>
-<br>
-<i>“Art. 8º .......................................:</i><br>
-<br>
-<i>I - ................................................:</i><br>
-<br>
-<i>.....................................................</i><br>
-<br>
-<i>e) ter idade mínima de 18 (dezoito) anos completos (de 18 anos até 18 anos, 11 meses e 29 dias) e, no máximo, de 30 (trinta) anos completos (de 30 anos até 30 anos, 11 meses e 29 dias) para as Carreiras de Praças e de Oficiais (PM/BM);</i><br>
-<br>
-<i>..........................................” (NR)</i><br>
-<br>
-<del>Art. 2º Esta Lei entra em vigor na data de sua publicação.</del><br>
-<br>
-<i>Art. 2º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos retroativos para alcançar as situações que se enquadram na nova redação do art. 8º, inciso I, alínea “e”, da</i> [<i>Lei Estadual nº 3.808, de 2009</i>](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1ef390d986f31d7004257694003ac7c1?OpenDocument)<i>, dada pelo art. 1º desta Lei, e que são objeto de demanda judicial em trâmite e não tenha transitado em julgado até o dia 7 de novembro de 2014.</i> [(redação dada pela Lei nº 4.626, de 24 de dezembro de 2014)](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a6f087ba4ce8459e04257dba00684e64?OpenDocument)<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º A alínea “e” do inciso I do art. 8º da [Lei nº 3.808, de 18 de dezembro de 2009](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1ef390d986f31d7004257694003ac7c1?OpenDocument), passa a vigorar com a seguinte redação:
+
+*“Art. 8º .......................................:*
+
+*I - ................................................:*
+
+*.....................................................*
+
+*e) ter idade mínima de 18 (dezoito) anos completos (de 18 anos até 18 anos, 11 meses e 29 dias) e, no máximo, de 30 (trinta) anos completos (de 30 anos até 30 anos, 11 meses e 29 dias) para as Carreiras de Praças e de Oficiais (PM/BM);*
+
+*..........................................” (NR)*
+
+~~Art. 2º Esta Lei entra em vigor na data de sua publicação.~~
+
+*Art. 2º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos retroativos para alcançar as situações que se enquadram na nova redação do art. 8º, inciso I, alínea “e”, da* [*Lei Estadual nº 3.808, de 2009*](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1ef390d986f31d7004257694003ac7c1?OpenDocument)*, dada pelo art. 1º desta Lei, e que são objeto de demanda judicial em trâmite e não tenha transitado em julgado até o dia 7 de novembro de 2014.* [(redação dada pela Lei nº 4.626, de 24 de dezembro de 2014)](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a6f087ba4ce8459e04257dba00684e64?OpenDocument)
+
 Campo Grande, 7 de novembro de 2014.
 
-<br>
-ANDRÉ PUCCINELLI<br>
+ANDRÉ PUCCINELLI
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Estabelece provisoriamente a fórma que deve ser observada na promulgação dos Decretos da Assembléa Geral Constituinte e Legislativa do Brazil.

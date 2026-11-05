@@ -1,5 +1,3 @@
-###DEC-003485-0-000-25-05-2000@@@
-
 DECRETO Nº 3.485, DE 25 DE MAIO DE 2000.
 
 Autoriza o depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal - FAD, e dá outras providências.

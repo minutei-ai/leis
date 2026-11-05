@@ -1,5 +1,3 @@
-###DEC-048585-0-000-22-07-1960@@@
-
 DECRETO Nº 48.585, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Genack Chadrycki a pesquisar diamante e ouro no município de Itupiranga, Estado do Pará.

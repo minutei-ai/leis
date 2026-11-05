@@ -1,5 +1,3 @@
-###DEC-054214-0-000-27-08-1964@@@
-
 DECRETO Nº 54.214, DE 27 DE AGÔSTO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal da Companhia de Navegação do São Francisco e dá outras providências.

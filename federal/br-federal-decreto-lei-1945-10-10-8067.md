@@ -1,5 +1,3 @@
-###DEL-008067-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.067 – DE 1O DE OUTUBRO DE 1945
 
 Concede isenção do impôsto do sêlo

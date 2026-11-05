@@ -1,5 +1,3 @@
-###DEC-079250-0-000-14-02-1977@@@
-
 DECRETO Nº 79.250, DE 14 DE FEVEREIRO DE 1977.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona e dá outras providências.

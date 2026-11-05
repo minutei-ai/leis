@@ -1,5 +1,3 @@
-###DEC-047969-0-000-31-03-1960@@@
-
 DECRETO Nº 47.969, DE 31 DE MARÇO DE 1960.
 
 Exclui a Comissão do Vale do São Francisco dos Decretos ns. 45.039 de 5 de dezembro de 1958, e número 47.493, de 26 de dezembro de 1959, que dizem respeito à Comissão de Supervisão de Órgãos Autônomos.
@@ -29,8 +27,6 @@ Rio de Janeiro, em 31 de março de 1960; 139º da Independência e 72º da Repú
 JUSCELINO KUBITSCHEK
 
 Armando Ribeiro Falcão
-
-###DEC-047969-0-000-31-03-1960@@@RET01+++
 
 DECRETO Nº 47.969, DE 31 DE MARÇO DE 1960.
 

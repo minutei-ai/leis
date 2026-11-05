@@ -1,5 +1,3 @@
-###DEC-076205-0-000-04-09-1975@@@
-
 DECRETO Nº 76.205 - DE 4 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito do Instituto Ritter dos Reis, com sede na cidade de Canoas, Estado do Rio Grande do Sul.

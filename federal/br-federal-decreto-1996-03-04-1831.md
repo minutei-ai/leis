@@ -1,5 +1,3 @@
-###DEC-001831-0-000-04-03-1996@@@
-
 DECRETO N° 1.831, DE 4 DE MARÇO DE 1996.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

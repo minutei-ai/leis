@@ -1,5 +1,3 @@
-###DEL-004612-0-000-24-08-1942@@@
-
 DECRETO-LEI N. 4.612 – DE 24 DE AGOSTO DE 1942
 
 Cassa a autorização de funcionamento aos bancos que menciona, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-079254-0-000-14-02-1977@@@
-
 DECRETO Nº 79.254, DE 14 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., nos Estados de Minas Gerais e Goiás.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.132, DE 17 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre estímulos ao desenvolvimento científico à pesquisa, à capacitação científica e tecnológica e à inovação do sistema produtivo no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre estímulos ao desenvolvimento científico à pesquisa, à capacitação científica e tecnológica e à inovação do sistema produtivo no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -769,8 +773,6 @@ II **-** contribuições, subvenções, auxílios ou quaisquer transferências 
 **Art. 63.** Todos os bens móveis ou imóveis adquiridos pelo FDCT constituem patrimônio da FAPAC, excetuados os bens móveis adquiridos por pesquisadores para o uso e desenvolvimento de pesquisas, protótipos, produtos ou melhoria de métodos de produção.
 
 **Art. 64.** Os recursos previstos no art. 51, inciso I, desta Lei, destinados ao FDCT, serão depositados em conta corrente a ser aberta, exclusivamente, para atender às demandas do fundo ou em conta corrente já existente que tenha a mesma finalidade.
-
-<br>
 
 **Art. 65.** Os recursos do FDCT deverão ter plano de contas e movimentação próprias, específicas e detalhadas.
 

@@ -1,5 +1,3 @@
-###DEC-048154-0-000-09-05-1960@@@
-
 DECRETO Nº 48.154, DE 9 DE MAIO DE 1960.
 
 Cria as Inspetorias Regionais de Fomento Agrícola e de Defesa Sanitária Vegetal, em Brasília e dá outras providências.

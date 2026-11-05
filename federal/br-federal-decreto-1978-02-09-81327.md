@@ -1,5 +1,3 @@
-###DEC-081327-0-000-09-02-1978@@@
-
 Decreto nº 81 327, de 9 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Bebedouro, com sede na cidade de Bebedouro, Estado de São Paulo.

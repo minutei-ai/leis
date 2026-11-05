@@ -1,5 +1,3 @@
-###DEC-053594-0-000-25-02-1964@@@
-
 DECRETO Nº 53.594, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas a instalar uma central hidroelétrica no açude Ayres de Souza, no Estado do Ceará.

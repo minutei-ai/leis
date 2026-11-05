@@ -1,5 +1,3 @@
-###DEC-084612-0-000-02-04-1980@@@
-
 DECRETO Nº 84.612, DE 02 DE ABRIL DE 1980.
 
 Altera o Regulamento dos Serviços Rodoviários Interestaduais e Internacionais de Transporte Coletivo de Passageiros, aprovado pelo Decreto nº 68.961, 20 de julho de 1971 e alterado pelos Decretos de nºs 71.984, de 23 de março de 1973 e 81.219, de 16 de janeiro de 1978.

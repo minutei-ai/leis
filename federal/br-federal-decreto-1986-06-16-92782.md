@@ -1,5 +1,3 @@
-###DEC-092782-0-000-16-06-1986@@@
-
 DECRETO Nº 92.782, DE 16 DE JUNHO DE 1986
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO CLUBE DE VARGINHA LTDA. para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Varginha, Estado de Minas Gerais.

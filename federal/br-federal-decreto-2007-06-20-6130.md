@@ -1,5 +1,3 @@
-###DEC-006130-0-000-20-06-2007@@@
-
 DECRETO Nº 6.130, DE 20 DE JUNHO DE 2007.
 
 Institui a Medalha do Mérito da Aviação de Segurança Pública Major Ibes Carlos Pacheco e dá outras providências.
@@ -45,5 +43,3 @@ Brasília, 20 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 21.6.2007

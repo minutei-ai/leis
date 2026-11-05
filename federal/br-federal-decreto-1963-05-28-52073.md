@@ -1,5 +1,3 @@
-###DEC-052073-0-000-28-05-1963@@@
-
 DECRETO Nº 52.073, DE 28 DE MAIO DE 1963.
 
 Concede reconhecimento ao Conservatório Musical Carlos Gomes.

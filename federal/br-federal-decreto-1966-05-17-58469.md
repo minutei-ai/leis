@@ -1,5 +1,3 @@
-###DEC-058469-0-000-17-05-1966@@@
-
 DECRETO Nº 58.469, DE 17 DE MAIO DE 1966.
 
 Declarada a utilização pública uma faixa de terra destinada a passagem das linhas de transmissão Jacarepaguá-Terminal Sul e Jacarepaguá-Cascadura, no Estado da Guanabara.

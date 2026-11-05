@@ -1,5 +1,3 @@
-###DEC-093406-0-000-10-10-1986@@@
-
 DECRETO Nº 93.406, DE 10 DE OUTUBRO DE 1986
 
 Revoga o Decreto nº 81.795, de 15 de junho de 1978.

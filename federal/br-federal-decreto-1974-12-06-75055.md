@@ -1,5 +1,3 @@
-###DEC-075055-0-000-06-12-1974@@@
-
 DECRETO Nº 75.055, DE 6 DE DEZEMBRO DE 1974.
 
 Concede à Cerâmica Windlin Ltda. o direito de lavrar folhelho argiloso no Município de Jundiaí, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001191-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.191, DE 23 DE NOVEMBRO DE 1995.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

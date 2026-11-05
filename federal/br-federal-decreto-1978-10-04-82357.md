@@ -1,5 +1,3 @@
-###DEC-082357-0-000-04-10-1978@@@
-
 Decreto nº 82.357, de 04 de outubro de 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Mossoró, Estado do Rio Grande do Norte.
@@ -21,8 +19,6 @@ Ernesto geisel
 Mário Henrique Simonsen
 
 J. Araripe Macedo
-
-###DEC-082357-0-000-04-10-1978@@@RET01+++
 
 Decreto nº 82.357, DE 4 DE OUTUBRO DE 1978
 

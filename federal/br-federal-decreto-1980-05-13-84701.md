@@ -1,5 +1,3 @@
-###DEC-084701-0-000-13-05-1980@@@
-
 decreto nº 84.701, de 13 de maio de 1980.
 
 Institui o Certificado de Regularidade Jurídico-Fiscal nas licitações promovidas na Administração Federal Direta e Indireta, e dá outras providências.

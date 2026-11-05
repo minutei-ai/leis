@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209808)<br>
-
 # DECRETO N° 68.747, DE 05 DE AGOSTO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação do Reservatório Sacomã - Zona Alta, integrante do Sistema de Abastecimento de Água - S.A.A., no Município de São Paulo, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-060944-0-000-05-07-1967@@@
-
 DECRETO Nº 60.944, DE 5 DE JULHO DE 1967.
 
 Abre ao Supremo Tribunal Federal o crédito suplementar de NCr$282.000,00 (duzentos e oitenta e dois mil cruzeiros novos) para refôrço de dotações orçamentárias consignadas na Lei nº 5.189, de 8 de dezembro de 1966.

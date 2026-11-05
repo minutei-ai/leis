@@ -1,5 +1,3 @@
-###DEC-076125-0-000-14-08-1975@@@
-
 DECRETO Nº 76.125 - DE 14 DE AGOSTO DE 1975
 
 Autoriza o registro, em nome da União Federal , do imóvel que menciona, situado no Estado do Pará.

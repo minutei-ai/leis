@@ -1,5 +1,3 @@
-###DEC-080160-0-000-15-08-1977@@@
-
 DECRETO Nº 80.160, DE 15 DE AGOSTO DE 1977.
 
 Extingue o curso de Geografia, da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Rio Pardo, com sede na cidade de Santa Cruz do Rio Pardo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069433-0-000-27-10-1971@@@
-
 Decreto nº 69.433 - de 27 de outubro de 1971
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal Parte Especial - do Tribunal Marítimo, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

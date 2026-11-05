@@ -1,5 +1,3 @@
-###DEL-008348-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.348 – DE 10 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a aposentadoria dos servidores das autarquias vinculadas ao Ministério da Viação e Obras Públicas.

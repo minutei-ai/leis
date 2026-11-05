@@ -2,13 +2,18 @@ Modificada pelas Leis nº [3.732, de 19 de Maio de 2021;](https://legis.ac.gov.b
 
 > **LEI Nº 3.717, DE 15 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a carreira de auditor fiscal estadual agropecuário no âmbito do Instituto de Defesa Agropecuária e Florestal – IDAF.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a carreira de auditor fiscal estadual agropecuário no âmbito do Instituto de Defesa Agropecuária e Florestal – IDAF.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 Das Disposições Preliminares
 
 **Art. 1º** Fica instituída a carreira de auditor fiscal estadual agropecuário, composta por cargos de igual denominação, no âmbito do Instituto de Defesa Agropecuário e Florestal – IDAF.
@@ -55,7 +60,7 @@ IV - tecnólogo em heveicultura; e
 
 V - (VETADO). 
 
-**~~§ 1º~~** ~~Os atu~~~~ais ocupantes dos cargos de que trata o~~ **~~caput~~** ~~que optarem por permanecer na situação atual deverão fazê-lo, de forma irretratável, até 31 de dezembro de 2020, ficando, neste caso, em quadro em extinção.~~
+**~~§ 1º~~** ~~Os atuais ocupantes dos cargos de que trata o~~ **~~caput~~** ~~que optarem por permanecer na situação atual deverão fazê-lo, de forma irretratável, até 31 de dezembro de 2020, ficando, neste caso, em quadro em extinção.~~
 
 **§ 1º** Os atuais ocupantes dos cargos de que trata o **caput** que optarem por permanecer na situação atual deverão fazê-lo, de forma irretratável, até 16 de julho de 2021, ficando, neste caso, em quadro em extinção. (Redação dada pela Lei nº 3.732, de 19/05/2021)
 
@@ -147,7 +152,7 @@ Da Jornada de Trabalho
 
 **~~Art. 8º~~** ~~O disposto nesta lei será aplicado único e exclusivamente aos auditores fiscais estaduais agropecuário, que passarão a exercer cargo de exclusividade no IDAF.~~
 
-**Art. 8º** Os auditores fiscais agropecuários poderão exercer atribuições correlatas às suas especialidades no âmbito de outros órgãos e entidades do Poder Executivo, conforme regulamento. (Redação dada pela Lei nº 4.099, de 27/04/2023)<br>
+**Art. 8º** Os auditores fiscais agropecuários poderão exercer atribuições correlatas às suas especialidades no âmbito de outros órgãos e entidades do Poder Executivo, conforme regulamento. (Redação dada pela Lei nº 4.099, de 27/04/2023)
 
 **Art. 9º** A progressão e o regime remuneratório dos integrantes da Carreira de que trata esta lei, reger-se-á integralmente pelo disposto nas Leis nºs 2.021, de 25 de agosto de 2008 e 1.199, de 12 de julho de 1996.
 

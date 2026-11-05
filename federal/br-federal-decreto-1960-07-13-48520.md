@@ -1,5 +1,3 @@
-###DEC-048520-0-000-13-07-1960@@@
-
 DECRETO Nº 48.520, DE 13 DE JULHO DE 1960.
 
 Revoga o Decreto número quarenta e oito mil, cento e setenta e nove, de 10 de maio de 1960.

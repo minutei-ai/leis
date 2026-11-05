@@ -1,5 +1,3 @@
-###DEC-051822-0-000-12-03-1963@@@
-
 DECRETO Nº 51.822, DE 12 DE MARÇO DE 1963.
 
 Outorga à Prefeitura Municipal de Florestópoles, Estado do Paraná, concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 12 de março de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Eliezer Batista da Silva
-
-###DEC-051822-0-000-12-03-1963@@@RET01+++
 
 DECRETO Nº 51.822, DE 12 DE MARÇO DE 1963.
 

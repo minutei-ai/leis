@@ -1,7 +1,3 @@
-1
-
-###DEC-099851-0-000-19-12-1990@@@
-
 # DECRETO N° 99.851, DE 19 DE DEZEMBRO DE 1990
 
 Dispõe sobre a liberação da importação de carbonato de sódio (barrilha), e dá outras providências.

@@ -20,15 +20,48 @@ Aparecida de Goiânia, 25 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 11-13</td><td style="text-align:center">1.219,09</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 11-13
+
+1.219,09
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 11-13 A</td><td style="text-align:center">198,00</td></tr><tr><td>LOTE 11-13 B</td><td style="text-align:center">291,25</td></tr><tr><td style="text-align:center">LOTE 11-13 C</td><td style="text-align:center">182,46</td></tr><tr><td style="text-align:center">LOTE 11-13 D</td><td style="text-align:center">182,46</td></tr><tr><td style="text-align:center">LOTE 11-13 E</td><td style="text-align:center">182,46</td></tr><tr><td style="text-align:center">LOTE 11-13 F</td><td style="text-align:center">182,46</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 11-13 A
+
+198,00
+
+LOTE 11-13 B
+
+291,25
+
+LOTE 11-13 C
+
+182,46
+
+LOTE 11-13 D
+
+182,46
+
+LOTE 11-13 E
+
+182,46
+
+LOTE 11-13 F
+
+182,46

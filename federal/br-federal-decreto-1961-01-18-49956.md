@@ -1,5 +1,3 @@
-###DEC-049956-0-000-18-01-1961@@@
-
 DECRETO Nº 49.956, DE 18 DE JANEIRO DE 1961.
 
 Altera a lotação do Quadro Permanente do Ministério da Fazenda.

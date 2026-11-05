@@ -1,5 +1,3 @@
-###DEC-054161-0-000-20-08-1964@@@
-
 DECRETO Nº 54.161, DE 20 DE AGôSTO DE 1964.
 
 Transfere da Prefeitura Municipal de General Vargas para Companhia Estadual de Energia Elétrica a concessão para distribuir energia elétrica.

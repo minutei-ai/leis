@@ -1,5 +1,3 @@
-###DEC-087551-0-000-09-09-1982@@@
-
 Decreto nº 87.551, de 09 de setembro de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Palmeira d'Oeste da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

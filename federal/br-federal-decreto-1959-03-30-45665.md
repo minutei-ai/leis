@@ -1,5 +1,3 @@
-###DEC-045665-0-000-30-03-1959@@@
-
 DECRETO Nº 45.665, DE 30 DE março DE 1959.
 
 Outorga concessão à Sociedade Rádio Camaqüense Limitada para instalar uma estação radiodifusora.

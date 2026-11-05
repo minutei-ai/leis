@@ -1,5 +1,3 @@
-###DEC-054512-0-000-21-10-1964@@@
-
 DECRETO Nº 54.512, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Euclides Marcola a pesquisar pedras preciosas no Município de Tibagi, Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209525)<br>
-
 # DECRETO N° 68.578, DE 05 DE JUNHO DE 2024
 
 ### _Institui o Programa Integra Resíduos, sob a coordenação das Secretarias de Meio Ambiente, Infraestrutura e Logística e de Parcerias em Investimentos, e dá providências correlatas._

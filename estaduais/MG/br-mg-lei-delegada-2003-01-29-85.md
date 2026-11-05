@@ -141,7 +141,3 @@ Instituto de Previdência dos Servidores Militares do Estado de Minas Gerais –
 Cargos de provimento em comissão da estrutura intermediária
 
 DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Analista Previdenciário 01 1,08260 Chefe de Divisão 08 1,08260 Assessor 08 1,02250 Assistente de Auditoria 03 1,02250 Supervisor 07 0,90230 Chefe de Serviço 20 0,78190 Assistente 20 0,66160
-
-\----------------------------------------------------------
-
-Data da última atualização: 5/7/2011.

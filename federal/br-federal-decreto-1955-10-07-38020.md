@@ -1,46 +1,44 @@
-###DEC-038020-0-000-07-10-1955@@@
+**DECRETO Nº 38.020, DE 07 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.020, DE 07 DE OUTUBRO DE 1955.</strong>
+***Aprova o Regulamento para os Distritos Navais.***
 
-<em><strong>Aprova o Regulamento para os Distritos Navais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para os Distritos Navais, que êste baixa, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para os Distritos Navais, que êste baixa, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de outubro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão Amorim do Vale
 
-<strong>REGULAMENTO PARA OS DISTRITOS NAVAIS</strong>
+**REGULAMENTO PARA OS DISTRITOS NAVAIS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º O Distrito Naval é o órgão da MB que, na sua área de jurisdição, definida em lei, tem como finalidade:
+**Art**. 1º O Distrito Naval é o órgão da MB que, na sua área de jurisdição, definida em lei, tem como finalidade:
 
 a) coordenação e a provisão do apôio logístico às fôrças navais em operações;
 
 b) a defesa dessa área, em cooperação com os órgãos competentes do Exército e Aeronáutica.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º Para a realização de seus fins, os Distritos Navais dispõem de:
+**Art**. 2º Para a realização de seus fins, os Distritos Navais dispõem de:
 
 a) um Comando com seu Estado Maior, Gabinete e Serviços;
 
 b) Fôrças.
 
-<strong>Art</strong>. 3º O Estado Maior do Comando do Distrito Naval será constituído de Chefia do Estado-Maior e de duas seções, assim discriminadas:
+**Art**. 3º O Estado Maior do Comando do Distrito Naval será constituído de Chefia do Estado-Maior e de duas seções, assim discriminadas:
 
 1º - Organização e Logística.
 
@@ -58,17 +56,17 @@ b) Fôrças.
 
 § 2º As seções do EM serão divididas em subseções na forma que o Regimento Interno do Distrito Naval estabelecer.
 
-<strong>Art</strong>. 4º O Gabinete do Comando do Distrito Naval será constituído na forma que o Regimento Interno estabelecer.
+**Art**. 4º O Gabinete do Comando do Distrito Naval será constituído na forma que o Regimento Interno estabelecer.
 
-<strong>Art</strong>. 5º Os Serviços do Comando são constituídos por uma Chefia Geral de Serviços e Divisões, conforme fôr estabelecido no Regimento Interno.
+**Art**. 5º Os Serviços do Comando são constituídos por uma Chefia Geral de Serviços e Divisões, conforme fôr estabelecido no Regimento Interno.
 
-<strong>Art</strong>. 6º As fôrças do Distrito Federal são as que lhe forem atribuídas pelo Ministro da Marinha, conforme proposta EMA.
+**Art**. 6º As fôrças do Distrito Federal são as que lhe forem atribuídas pelo Ministro da Marinha, conforme proposta EMA.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 7º Ao Comando do Distrito Naval cabe:
+**Art**. 7º Ao Comando do Distrito Naval cabe:
 
 a) o Comando sôbre todas as fôrças e navios que lhe forem atribuídos para a realização das finalidades do Distrito Naval;
 
@@ -78,29 +76,29 @@ c) o Contrôle de Coordenação em relação a todos os órgãos da MB situados 
 
 d) o Contrôle de Administração dos estabelecimentos da MB situados na área de jurisdição do Distrito, de acôrdo com as disposições regulamentares.
 
-<strong>Art</strong>. 8º Ao Estado-Maior do Comando do Distrito Naval cabe:
+**Art**. 8º Ao Estado-Maior do Comando do Distrito Naval cabe:
 
 \- assistir o Comandante do Distrito Naval nas funções operativas do seu Comando.
 
-<strong>Art</strong>. 9º Aos Serviços do Comando do Distrito Naval cabe:
+**Art**. 9º Aos Serviços do Comando do Distrito Naval cabe:
 
 \- assistir o Comandante do Distrito Naval nas funções administrativas do seu Comando.
 
 Parágrafo único. Aos Serviços cabe igualmente a execução dos serviços relacionados com a economia interna do Comando.
 
-<strong>Art</strong>. 10. Às Fôrças do Distrito cabe:
+**Art**. 10. Às Fôrças do Distrito cabe:
 
 \- o cumprimento das tarefas que lhe forem atribuídas pelo Comandante do Distrito.
 
-<strong>Art</strong>. 11. Ao Gabinete do Comando do Distrito Naval cabe:
+**Art**. 11. Ao Gabinete do Comando do Distrito Naval cabe:
 
 \- assistir o Comandante em todos os assuntos que não forem especificamente atribuídos a outros órgãos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 12. Para a execução de seus serviços o Distrito Naval disporá do seguinte Pessoal:
+**Art**. 12. Para a execução de seus serviços o Distrito Naval disporá do seguinte Pessoal:
 
 a) Comandante-oficial General da ativa, do Corpo de Oficiais da Armada;
 
@@ -124,31 +122,31 @@ j) Tantos servidores civis quantos necessários aos serviços e conforme fôr fi
 
 Parágrafo único - Os postos dos oficiais e as graduações do Pessoal Subalterno serão fixados no Regimento Interno.
 
-<strong>Art</strong>. 13 As nomeações e designações do pessoal para servir nos Distritos Navais processar-se-ão de acôrdo com as normas estabelecidas pela legislação em vigor.
+**Art**. 13 As nomeações e designações do pessoal para servir nos Distritos Navais processar-se-ão de acôrdo com as normas estabelecidas pela legislação em vigor.
 
-<strong>Art</strong>. 14 Os deveres e atribuições do pessoal serão fixados no Regimento Interno.
+**Art**. 14 Os deveres e atribuições do pessoal serão fixados no Regimento Interno.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 15 O Serviço Interno de cada Distrito Naval, será regulado em Regimento Interno; o Serviço Interno do Comando de cada Distrito Naval será regulado em Organização Administrativa do Comando.
+**Art**. 15 O Serviço Interno de cada Distrito Naval, será regulado em Regimento Interno; o Serviço Interno do Comando de cada Distrito Naval será regulado em Organização Administrativa do Comando.
 
-<strong>Art</strong>. 16. As funções de Chefe Geral dos Serviços poderão ser exercidas pelo mais antigo dos Encarregados de Divisão, desde que o Corpo da Armada, ou então pelo Chefe do EM a critério do Comando do Distrito.
+**Art**. 16. As funções de Chefe Geral dos Serviços poderão ser exercidas pelo mais antigo dos Encarregados de Divisão, desde que o Corpo da Armada, ou então pelo Chefe do EM a critério do Comando do Distrito.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 18 O Chefe do EMA apresentará ao Ministro da Marinha, dentro de 90 dias, a contar da data da publicação do decreto que aprova êste Regulamento, um projeto de Regimento Interno para os Distritos Navais.
+**Art**. 18 O Chefe do EMA apresentará ao Ministro da Marinha, dentro de 90 dias, a contar da data da publicação do decreto que aprova êste Regulamento, um projeto de Regimento Interno para os Distritos Navais.
 
-<strong>Art</strong>. 19 A partir da data da publicação do Regimento Interno dos Distritos Navais, no prazo de 30 dias, os Comandantes de Distrito apresentarão à aprovação do Chefe do EMA um projeto de Organização Administrativa para cada Comando de Distrito Naval, elaborada segundo as normas a serem publicadas pelo E.M.A.
+**Art**. 19 A partir da data da publicação do Regimento Interno dos Distritos Navais, no prazo de 30 dias, os Comandantes de Distrito apresentarão à aprovação do Chefe do EMA um projeto de Organização Administrativa para cada Comando de Distrito Naval, elaborada segundo as normas a serem publicadas pelo E.M.A.
 
-<strong>Art</strong>. 20 Enquanto não fôr publicado o Regimento Interno e a Organização Administrativas que se referem os artigos anteriores, os Comandantes de Distrito baixarão instruções especiais a fim de não prejudicar o andamento do serviço e adaptar os Distritos Navais às disposições dêste Regulamento.
+**Art**. 20 Enquanto não fôr publicado o Regimento Interno e a Organização Administrativas que se referem os artigos anteriores, os Comandantes de Distrito baixarão instruções especiais a fim de não prejudicar o andamento do serviço e adaptar os Distritos Navais às disposições dêste Regulamento.
 
 Rio de Janeiro, em 7 de outubro de 1955.
 
-<strong>EDMUNDO JORDÃO AMORIM DO VALLE</strong>
+**EDMUNDO JORDÃO AMORIM DO VALLE**
 
 Vice-Almeirante
 

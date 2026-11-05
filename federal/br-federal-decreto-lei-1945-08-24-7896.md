@@ -1,5 +1,3 @@
-###DEL-007896-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.896 – DE 24 DE AGÔSTO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a doar o terreno que menciona

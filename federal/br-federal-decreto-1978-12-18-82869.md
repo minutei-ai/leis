@@ -1,5 +1,3 @@
-###DEC-082869-0-000-18-12-1978@@@
-
 Decreto nº 82.869, de 18 de dezembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Bom Jesus, da Companhia Brasileira de Energia Elétrica, no Estado do Rio de Janeiro.

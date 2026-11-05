@@ -1,5 +1,3 @@
-###DEC-084930-0-000-17-07-1980@@@
-
 DECRETO Nº 84.930, DE 17 DE JULHO DE 1980.
 
 Declara perempta a concessão outorgada a Radio Clube de Pernambuco S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Recife, estado de Pernambuco.

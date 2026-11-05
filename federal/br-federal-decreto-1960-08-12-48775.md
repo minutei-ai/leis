@@ -1,5 +1,3 @@
-###DEC-048775-0-000-12-08-1960@@@
-
 Decreto nº 48.775, de 12 de agôsto de 1960.
 
 Altera o art. 1º do Decreto nº 44.583 de 24 de setembro de 1958.

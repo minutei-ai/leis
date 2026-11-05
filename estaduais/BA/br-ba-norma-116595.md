@@ -28,4 +28,18 @@ TABELA ÚNICA
 
 VENCIMENTOS DE ADMINISTRADOR DO FÓRUM
 
-<table style="border-collapse: collapse;" width="536" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 246.4pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="329"><p>CARGOS</p><p>&nbsp;</p></td><td style="width: 155.9pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="208"><p style="text-align: center;" align="center">VENCIMENTOS</p></td></tr><tr><td style="width: 246.4pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="329"><p>Administrador do Fórum de 3ª Entrância</p></td><td style="width: 155.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="208"><p style="text-align: center;" align="center">Cr$5.000,00</p></td></tr><tr><td style="width: 246.4pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="329"><p>Administrador do Fórum de 2ª Entrância</p></td><td style="width: 155.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="208"><p style="text-align: center;" align="center">Cr$4.500,00</p></td></tr><tr><td style="width: 246.4pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="329"><p>Administrador do Fórum de 1ª Entrância</p></td><td style="width: 155.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="208"><p style="text-align: center;" align="center">Cr$4.000,00</p></td></tr></tbody></table>
+CARGOS
+
+VENCIMENTOS
+
+Administrador do Fórum de 3ª Entrância
+
+Cr$5.000,00
+
+Administrador do Fórum de 2ª Entrância
+
+Cr$4.500,00
+
+Administrador do Fórum de 1ª Entrância
+
+Cr$4.000,00

@@ -1,5 +1,3 @@
-###DEL-000600-0-000-29-05-1969@@@
-
 Decreto-lei nº 600, de 29 de Maio de 1969
 
 Autoriza a inclusão de dotações no Orçamento da União.
@@ -12,7 +10,25 @@ Art. 1º Fica o Poder Executivo autorizado a incluir nos projetos de Orçamentos
 
 Parágrafo único. As dotações de que trata o presente artigo serão consignada nos seguintes valôres:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:63.8pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1970</span></p></td><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>- NCr$4.226.640,00</span></p></td></tr><tr><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1971</span></p></td><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>- NCr$1.881.640,00</span></p></td></tr><tr><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1972</span></p></td><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>- NCr$1.881.640,00</span></p></td></tr><tr><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1973</span></p></td><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>- NCr$1.881.640,00</span></p></td></tr><tr><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1974</span></p></td><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>- NCr$1.881.640,00</span></p></td></tr></tbody></table>
+1970
+
+- NCr$4.226.640,00
+
+1971
+
+- NCr$1.881.640,00
+
+1972
+
+- NCr$1.881.640,00
+
+1973
+
+- NCr$1.881.640,00
+
+1974
+
+- NCr$1.881.640,00
 
 Art. 2º Os valôres estabelecidos no artigo anterior, estimados a preços de 1969, serão convenientemente ajustados, por ocasião da elaboração dos projetos de leis do orçamento, de acôrdo com o comportamento do nível geral de preços.
 

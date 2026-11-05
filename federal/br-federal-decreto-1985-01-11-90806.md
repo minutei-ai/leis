@@ -1,5 +1,3 @@
-###DEC-090806-0-000-11-01-1985@@@
-
 DECRETO Nº 90.806, DE 11 DE JANEIRO DE 1985
 
 Renova a concessão à RÁDIO CRUZEIRO DA BAHIA S/A., para explorar serviço de radiodifusão sonora em onda média, na cidade de Salvador, Estado da Bahia.

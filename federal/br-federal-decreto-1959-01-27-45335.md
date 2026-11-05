@@ -1,5 +1,3 @@
-###DEC-045335-0-000-27-01-1959@@@
-
 DECRETO Nº 45.335, DE 27 DE JANEIRO DE 1959.
 
 Outorga à Indústria de Papelão e Polpa de Madeira Limitada concessão para o aproveitamento progressivo de energia hidráulica do desnível denominado Morro do Urubu no Morro Cabeça de Boi existente no rio Bonito, localidade Rancho de Tábuas, distrito de Angelina, município de São José, Estado de Santa Catarina.
@@ -43,8 +41,6 @@ Rio de Janeiro, 27 de janeiro de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-045335-0-000-27-01-1959@@@RET01+++
 
 Decreto nº 45.335, de 27 de janeiro de 1959.
 

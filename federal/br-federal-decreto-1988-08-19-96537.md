@@ -1,5 +1,3 @@
-###DEC-096537-0-000-19-08-1988@@@
-
 DECRETO N° 96.537, DE 19 DE AGOSTO DE 1988
 
 Concede à SIDERURGIA BRASILEIRA S.A.  SIDERBRAS (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital autorizado, bem como do capital social.

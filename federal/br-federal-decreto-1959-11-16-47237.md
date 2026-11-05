@@ -1,5 +1,3 @@
-###DEC-047237-0-000-16-11-1959@@@
-
 DECRETO Nº 47.237, DE 16 DE NOVEMBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Sabinópolis concessão para o aproveitamento de energia hidráulica da queda d’água do Funil-Canalão, localizada no rio Gunhães, distrito e município de Sabinópolis, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-082490-0-000-27-10-1978@@@
-
 Decreto nº 82.490, de 27 de outubro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Passo de Camaragibe, Estado de Alagoas.

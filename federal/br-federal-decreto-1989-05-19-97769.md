@@ -1,7 +1,3 @@
-1
-
-###DEC-097769-0-000-19-05-1989@@@
-
 DECRETO Nº 97.769, DE 19 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA BANDEIRANTE - Parte do Lote 29 - do Loteamento Lagoão”, classificado como “latifúndio por exploração”, situado no Município de Araguaçu, no Estado do Tocantins, compreendido na zona prioritária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

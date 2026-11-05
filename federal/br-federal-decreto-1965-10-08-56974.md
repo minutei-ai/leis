@@ -1,5 +1,3 @@
-###DEC-056974-0-000-01-10-1965@@@
-
 DECRETO Nº 56.974, DE 1 DE OUTUBRO DE 1965.
 
 Concede à sociedade Navegação Paulo Pereira Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

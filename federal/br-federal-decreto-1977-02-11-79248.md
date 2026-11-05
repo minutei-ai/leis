@@ -1,5 +1,3 @@
-###DEC-079248-0-000-11-02-1977@@@
-
 Decreto nº 79.248, de 11 de fevereiro de 1977.
 
 Declara luto oficial

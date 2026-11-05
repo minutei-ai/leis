@@ -1,5 +1,3 @@
-###DEC-089176-0-000-14-12-1983@@@
-
 DECRETO Nº 89.176, DE 14 DE DEZEMBRO DE 1983.
 
 Altera dispositivo do Regulamento dos Comandos Aéreos Regionais, aprovado pelo Decreto nº 73.368, de 26 de dezembro de 1973.

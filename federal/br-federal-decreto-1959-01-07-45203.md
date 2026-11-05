@@ -1,5 +1,3 @@
-###DEC-045203-0-000-07-01-1959@@@
-
 decreto nº 45.203, de 7 de fevereiro de 1959.
 
 Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.

@@ -1,7 +1,3 @@
-1
-
-###LCP-000027-0-000-03-11-1975@@@
-
 # LEI COMPLEMENTAR Nº 27, DE 3 DE NOVEMBRO DE 1975
 
 Altera a redação do art. 2º da Lei Complementar nº 14, de 8 de junho de 1973, que estabelece Regiões Metropolitanas.

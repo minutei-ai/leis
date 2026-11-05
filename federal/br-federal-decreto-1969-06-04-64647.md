@@ -1,5 +1,3 @@
-###DEC-064647-0-000-04-06-1969@@@
-
 DECRETO Nº 64.647, DE 4 DE JUNHO DE 1969.
 
 Decreta intervenção federal no Município de Gramado Estado do Rio Grande do Sul, e dá outras providências.

@@ -24,8 +24,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de dezembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-071094-0-000-13-09-1972@@@
-
 DECRETO Nº 71.094, DE 13 DE SETEMBRO DE 1972.
 
 Declara cessação da exploração de serviços de energia elétrica, outorga concessão e dá outras providências.

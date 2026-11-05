@@ -1,5 +1,3 @@
-###DEC-092779-0-000-13-06-1986@@@
-
 DECRETO Nº 92.779, DE 13 DE JUNHO DE 1986
 
 Aprova o Regimento Interno do Conselho Nacional de Informática e Automação - CONIN.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002198-0-000-26-12-1984@@@
-
 # Decreto-lei nº 2.198, de 26 de dezembro de 1984
 
 Aplica, no que couber, o disposto nos Decretos-leis nºs 2.114, de 23 de abril de 1984 e 2.140, de 28 de junho de 1984, aos Médicos e aos Dentistas, respectivamente, do Hospital das Forças Armadas.
@@ -23,8 +19,6 @@ JOÃO FIGUEIREDO
 Waldyr Mendes Arcoverde
 
 Delfim Netto
-
-###DEL-002198-0-000-26-12-1984@@@RET01+++
 
 # Decreto-Lei nº 2.198, de 26 de dezembro de 1984.
 

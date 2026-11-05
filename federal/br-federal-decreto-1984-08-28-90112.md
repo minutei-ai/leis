@@ -1,5 +1,3 @@
-###DEC-090112-0-000-28-08-1984@@@
-
 Decreto nº 90.112, de 28 de agosto de 1984.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados no Município de Porto Nacional, no Estado de Goiás, compreendidos nas áreas prioritárias, para fins de reforma agrária, fixadas pelo Decreto nº 90.111, de 28 de agosto de 1984.

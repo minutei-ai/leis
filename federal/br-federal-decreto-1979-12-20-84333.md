@@ -1,5 +1,3 @@
-###DEC-084333-0-000-20-12-1979@@@
-
 DECRETO Nº 84.333, DE 20 DE DEZEMBRO DE 1979.
 
 Cria o Quadro Auxiliar de Oficial (QAO), extingue os Quadros de Oficiais de Administração (QOA) e de Oficiais Especialistas (QOE), e dá outras providências.

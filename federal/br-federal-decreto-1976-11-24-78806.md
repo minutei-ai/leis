@@ -1,5 +1,3 @@
-###DEC-078806-0-000-24-11-1976@@@
-
 DECRETO Nº 78.806, DE 24 de NOVEMBRO DE 1976.
 
 Autoriza a cessão sob a forma de utilização gratuita, dos imóveis que menciona, situados na Cidade e Estado do Rio de Janeiro.

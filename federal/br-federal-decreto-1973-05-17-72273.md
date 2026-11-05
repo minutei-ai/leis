@@ -1,5 +1,3 @@
-###DEC-072273-0-000-17-05-1973@@@
-
 DECRETO Nº 72.273, DE 17 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

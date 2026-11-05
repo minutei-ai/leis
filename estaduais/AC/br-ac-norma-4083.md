@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.681, de 31 de Dezembro de 2020.](https://legis.ac.gov
 
 > **LEI Nº 3.647, DE 10 DE SETEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Torna obrigatória, enquanto perdurar o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 02, de 20 março de 2020, a obrigatoriedade de utilização de máscaras de proteção em locais públicos e privados e institui multa em caso de descumprimento.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Torna obrigatória, enquanto perdurar o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 02, de 20 março de 2020, a obrigatoriedade de utilização de máscaras de proteção em locais públicos e privados e institui multa em caso de descumprimento.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

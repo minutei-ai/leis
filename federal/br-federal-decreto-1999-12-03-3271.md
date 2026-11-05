@@ -1,5 +1,3 @@
-###DEC-003271-0-000-03-12-1999@@@
-
 DECRETO Nº 3.271, DE 3 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047760-0-000-04-02-1960@@@
-
 DECRETO Nº 47.760, DE 4 DE FEVEREIRo DE 1960.
 
 Declara sem efeito o decreto número 45.754, de 7 de abril de 1959.

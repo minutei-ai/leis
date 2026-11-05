@@ -1,5 +1,3 @@
-###DEC-004443-0-000-28-10-2002@@@
-
 DECRETO Nº 4.443, DE 28 DE OUTUBRO DE 2002
 
 Promulga o Tratado sobre Transferência de Pessoas Condenadas e de Menores sob Tratamento Especial entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai, celebrado em Brasília, em 10 de fevereiro de 2000.

@@ -1,5 +1,3 @@
-###DEC-007764-0-000-22-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.764, DE 22 DE JUNHO DE 2012
 
 Altera o Decreto nº 5.060, de 30 de abril de 2004, que reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível - CIDE.

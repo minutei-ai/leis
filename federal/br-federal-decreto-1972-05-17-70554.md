@@ -1,5 +1,3 @@
-###DEC-070554-0-000-17-05-1972@@@
-
 DECRETO Nº 70.554, DE 17 DE MAIO DE 1972.
 
 Exclui cargos, com os respectivos ocupantes, da redistribuição para o Quadro das Secretarias do Ministério Público Federal constante do Decreto Número 69.887, de 31 de dezembro de 1971.

@@ -1,5 +1,3 @@
-###DEC-057089-0-000-19-10-1965@@@
-
 Decreto nº 57.089, de 19 de outubro de 1965.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de crédito que menciona.

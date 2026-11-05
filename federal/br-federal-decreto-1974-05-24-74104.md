@@ -1,5 +1,3 @@
-###DEC-074104-0-000-24-05-1974@@@
-
 Decreto Nº 74.104, DE 24 de Maio De 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Organização Rádio Copacabana Ltda., transfere à Fundação Cristã\-Espírita Cultural "Paulo de Tarso", para que esta última execute serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Rio de Janeiro, Estado da Guanabara.

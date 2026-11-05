@@ -1,5 +1,3 @@
-###DEL-005199-0-000-16-01-1943@@@
-
 DECRETO‑LEI N. 5.199 – DE 16 DE JANEIRO DE 1943
 
 Cria a Comissão Técnica de Orientação Sindical, subordinada ao Ministro do Trabalho, Indústria e Comércio e dá outras providências

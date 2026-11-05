@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211329)<br>
-
 # DECRETO N° 69.810, DE 18 DE AGOSTO DE 2025
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._

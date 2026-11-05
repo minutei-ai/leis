@@ -1,5 +1,3 @@
-###DEC-050804-0-000-18-06-1961@@@
-
 DECRETO Nº 50.804, DE 18 DE JUNHO DE 1961.
 
 Transfere de Sebastião Antônio da Fonseca para a Prefeitura Municipal de Itaberaí a concessão para a produção e fornecimento de energia elétrica no Município de Itaberai, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-004884-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.884 – DE 29 DE OUTUBRO DE 1942
 
 Regula a duração normal do trabalho dos empregados em serviços auxiliares nos bancos e nas casas bancárias

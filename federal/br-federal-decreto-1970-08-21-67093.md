@@ -1,5 +1,3 @@
-###DEC-067093-0-000-21-08-1970@@@
-
 decreto nº 67.093, de 21 de agôsto de 1970.
 
 Aprova o Regulamento para a Diretoria de Formação e Aperfeiçoamento.

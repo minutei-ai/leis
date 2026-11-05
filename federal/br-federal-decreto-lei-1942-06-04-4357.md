@@ -1,5 +1,3 @@
-###DEL-004357-0-000-04-06-1942@@@
-
 DECRETO-LEI N. 4.357 – DE 4 DE JUNHO DE 1942
 
 Mantem, por 120 dias, o registo profissional dos jornalistas estrangeiros e dá outras providências

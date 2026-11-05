@@ -1,5 +1,3 @@
-###DEC-047233-0-000-16-11-1959@@@
-
 DECRETO Nº 47.233, DE 16 DE NOVEMBRO DE 1959.
 
 Inclui função gratificada no Quadro Permanente do Ministério da Agricultura e dá outras providências.

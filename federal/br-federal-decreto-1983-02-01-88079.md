@@ -1,5 +1,3 @@
-###DEC-088079-0-000-01-02-1983@@@
-
 Decreto nº 88.079, de 01 de fevereiro de 1983
 
 Altera dispositivos do Estatuto da Empresa Brasileira de Filmes S.A. - EMBRAFILME.

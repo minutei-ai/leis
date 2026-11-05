@@ -1,5 +1,3 @@
-###DEC-092240-0-000-30-12-1985@@@
-
 DECRETO Nº 92.240, DE 30 DE DEZEMBRO DE 1985
 
 Renova a concessão outorgada à RÁDIO TV DO AMAZONAS S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Manaus, Estado do Amazonas.

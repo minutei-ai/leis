@@ -1,5 +1,3 @@
-###DEC-003615-0-000-29-09-2000@@@
-
 DECRETO Nº 3.615, DE 29 DE SETEMBRO DE 2000.
 
 Promulga a Convenção sobre a Segurança do Pessoal das Nações Unidas e Pessoal Associado, concluída em Nova York, em 9 de Dezembro de 1994.

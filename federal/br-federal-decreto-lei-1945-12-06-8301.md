@@ -1,5 +1,3 @@
-###DEL-008301-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.301 – DE 6 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa. o orçamento especial do Plano de Obras e Equipamentos.

@@ -1,5 +1,3 @@
-###DEC-073049-0-000-31-10-1973@@@
-
 DECRETO Nº 73.049, DE 31 DE OUTUBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis do Instituto Nacional de Previdência Social no Ministério da Educação e Cultura.

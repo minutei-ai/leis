@@ -1,5 +1,3 @@
-###DEC-061489-0-000-06-10-1967@@@
-
 decreto nº 61.489, de 6 de outubro de 1967.
 
 Transfere para o Instituto Nacional do Livro atividades culturais constantes do Regimento do Serviço de Documentação.

@@ -1,5 +1,3 @@
-###DEC-085408-0-000-25-11-1980@@@
-
 Decreto nº 85.408, de 25 de novembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação de Banco Capacitores e Transformadora de Distribuição Novo Mundo da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-090286-0-000-08-10-1984@@@
-
 Decreto nº 90.286, de 08 de outubro de 1984
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o Imóvel que menciona.

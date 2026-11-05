@@ -1,5 +1,3 @@
-###DEC-091309-0-000-04-06-1985@@@
-
 Decreto nº 91.309, de 04 de junho de 1985.
 
 Dispõe sobre a Reforma da Administração Pública Federal e dá outras providências.

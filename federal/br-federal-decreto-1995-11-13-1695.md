@@ -1,7 +1,3 @@
-1
-
-###DEC-001695-0-000-13-11-1995@@@
-
 DECRETO Nº 1.695, DE 13 DE NOVEMBRO DE 1995.
 
 Regulamenta a exploração de aqüicultura em águas públicas pertencentes à União e dá outras providências.

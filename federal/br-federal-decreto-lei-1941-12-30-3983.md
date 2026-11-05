@@ -1,5 +1,3 @@
-###DEL-003983-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.983 – DE 30 DE DEZEMBRO DE 1941
 
 Abre na Prefeitura do Distrito Federal o crédito especial de617.000:000$0 (seiscentos e dezessete mil contos de réis) para atender durante os exercícios de 1941 a 1943, inclusive, à despesa com os empreendimentos que menciona, ligados ao Plano de Realizações.

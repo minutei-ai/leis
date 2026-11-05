@@ -1,5 +1,3 @@
-###DEC-070031-0-000-24-01-1972@@@
-
 DECRETO Nº 70.031, DE 24 DE JANEIRO DE 1972.
 
 Concede à Taro Yassuda, Empresa de Mineração o direito de lavrar feldspato e quartzo, no município de Ouro Fino, Estado de Minas Gerais.

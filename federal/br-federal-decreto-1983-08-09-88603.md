@@ -1,5 +1,3 @@
-###DEC-088603-0-000-09-08-1983@@@
-
 Decreto nº 88.603, de 09 de agosto de 1983
 
 Revoga o Decreto nº 69 397/71, que autorizou o funcionamento da Faculdade de Filosofia, Ciências e Letras Professor Luiz Pardini, em São Paulo.

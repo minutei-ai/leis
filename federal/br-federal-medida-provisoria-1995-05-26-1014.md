@@ -1,7 +1,3 @@
-1
-
-###MPV-001014-0-000-26-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1014, DE 26 DE MAIO DE 1995
 
 Cria a Gratificação de Desempenho e Produtividade GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050379-0-000-27-03-1961@@@
-
 DECRETO Nº 50.379, DE 27 DE MARÇO DE 1961.
 
 Declara de utilidade pública para fins de desapropriação a gleba “Missões” e parte da gleba “Chopim” situadas na faixa da fronteira, no Estado do Paraná.

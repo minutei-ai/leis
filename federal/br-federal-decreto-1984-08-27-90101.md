@@ -1,5 +1,3 @@
-###DEC-090101-0-000-27-08-1984@@@
-
 Decreto nº 90.101, de 27 de agosto de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

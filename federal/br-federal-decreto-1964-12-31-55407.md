@@ -1,5 +1,3 @@
-###DEC-055407-0-000-31-12-1964@@@
-
 DECRETO Nº 55.407, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão Francisco de Paula de Negreiros Sayão Lobato a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

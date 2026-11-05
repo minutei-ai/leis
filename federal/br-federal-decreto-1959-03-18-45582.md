@@ -1,5 +1,3 @@
-###DEC-045582-0-000-18-03-1959@@@
-
 DECRETO Nº 45.582, DE 18 DE MARÇO DE 1959.
 
 Dispõe sôbre a Campanha Nacional de Merenda Escolar.

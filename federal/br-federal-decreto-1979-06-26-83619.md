@@ -1,5 +1,3 @@
-###DEC-083619-0-000-26-06-1979@@@
-
 Decreto nº 83.619, de 26 de junho de 1979.
 
 Concede autorização a empresa RHODIACO INDUSTRIAS QUÍMICAS LTDA, com sede no Estado de São Paulo, para o funcionamento aos domingos e feriados civis e religiosos no setor que menciona, do seu estabelecimento fabril situado no Município de Paulínia, naquele Estado.

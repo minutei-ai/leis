@@ -1,5 +1,3 @@
-###DEC-055922-0-000-13-04-1965@@@
-
 DECRETO Nº 55.922, DE 13 DE ABRIL DE 1965.
 
 Reduz o interstício para promoção ao pôsto de 2º Tenente da Fôrça Aérea Brasileira.

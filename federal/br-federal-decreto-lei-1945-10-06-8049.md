@@ -1,5 +1,3 @@
-###DEL-008049-0-000-06-10-1945@@@
-
 DECRETO-LEI N. 8.049 – DE 6 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 6.034.445,00 para despesas com a Fábrica Nacional de Motores.

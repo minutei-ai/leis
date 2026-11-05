@@ -1,5 +1,3 @@
-###DEC-007709-0-000-03-04-2012-PUB-01@@@
-
 DECRETO N°\- 7.709, DE 3 DE ABRIL DE 2012
 
 Estabelece a aplicação de margem de preferência nas licitações realizadas no âmbito da Administração Pública Federal para aquisição de retroescavadeiras e motoniveladoras descritas no Anexo I, para fins do disposto no art. 3° da Lei n° 8.666, de 21 de junho de 1993.

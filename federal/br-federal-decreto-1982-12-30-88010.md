@@ -1,5 +1,3 @@
-###DEC-088010-0-000-30-12-1982@@@
-
 Decreto nº 88.010, de 30 de dezembro de 1982.
 
 Cria o Centro Tecnológico para Informática.

@@ -1,5 +1,3 @@
-###DEC-058949-0-000-01-08-1966@@@
-
 DECRETO Nº 58.949, DE 1 DE AGÔSTO DE 1966.
 
 Outorga concessão para distribuir energia elétrica.

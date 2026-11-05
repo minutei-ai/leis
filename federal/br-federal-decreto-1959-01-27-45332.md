@@ -1,5 +1,3 @@
-###DEC-045332-0-000-27-01-1959@@@
-
 DECRETO Nº 45.332, DE 27 DE JANEIRO DE 1959.
 
 Outorga à Prefeitura Municipal de Senhora do Pôrto concessão para o aproveitamento de energia hidráulica de um desnível existente no Ribeirão dos Pintos, no distrito-sede no município de Senhora do Pôrto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068351-0-000-15-03-1971@@@
-
 DECRETO Nº 68.351, DE 15 DE MARÇO DE 1971.
 
 Declara caduco o Decreto nº 31.146, de 18 de julho de 1952.

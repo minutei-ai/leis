@@ -1,5 +1,3 @@
-###DEC-050999-0-000-19-07-1961@@@
-
 decreto nº 50.999, de 19 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio Panduí.

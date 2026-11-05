@@ -157,7 +157,3 @@ Fundação Rural Mineira – RURALMINAS.
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,85057 Gabinete Chefe de Gabinete 01 0,90000 Gabinete Assessor de Comunicação Social 01 0,90000 Diretoria de Gerenciamento de Projetos Diretor 01 1,57298 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Assessoria Jurídica Assessor Jurídico 01 0,90000 Auditoria Seccional Auditor Seccional 01 0,90000
-
-\==============================
-
-Data da última atualização: 25/1/2011.

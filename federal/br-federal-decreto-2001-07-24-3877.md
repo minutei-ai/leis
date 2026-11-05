@@ -1,5 +1,3 @@
-###DEC-003877-0-000-24-07-2001@@@
-
 DECRETO N° 3.877, DE 24 DE JULHO DE 2001.
 
 Institui o Cadastramento único para Programas Sociais do Governo Federal.

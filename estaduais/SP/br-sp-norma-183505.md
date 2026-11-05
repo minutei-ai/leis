@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183505)
-
 # DECRETO Nº 62.862, DE 03 DE OUTUBRO DE 2017
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Franca, o imóvel que especifica_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 3 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de outubro de 2017.

@@ -1,5 +1,3 @@
-###DEC-056801-0-000-27-08-1965@@@
-
 DECRETO Nº 56.801, DE 27 DE AGÔSTO DE 1965.
 
 Dispõe sôbre a aplicação do Fundo de Melhoramento dos Portos e disciplina o Art. 4º do Decreto nº 60 de 19 de outubro de 1961.

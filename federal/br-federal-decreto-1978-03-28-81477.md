@@ -1,5 +1,3 @@
-###DEC-081477-0-000-28-03-1978@@@
-
 Decreto nº 81.477, de 28 de março de 1978.
 
 Torna sem efeito o Decreto nº 60.815, de 06 de junho de 1967, que transferiu a Granja do extinto Serviço de Alimentação da Previdência Social - SAPS para o patrimônio do Instituto Brasileiro de Reforma Agrária, atual Instituto Nacional de Colonização e Reforma Agrária - INCRA e dá outras providências.

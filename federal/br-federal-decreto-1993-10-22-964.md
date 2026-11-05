@@ -1,7 +1,3 @@
-1
-
-###DEC-000964-0-000-22-10-1993@@@
-
 DECRETO Nº 964, DE 22 DE OUTUBRO DE 1993
 
 Regulamenta o Conselho Nacional da Amazônia Legal.

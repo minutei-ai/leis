@@ -1,7 +1,3 @@
-1
-
-###DEC-099351-0-000-27-06-1990@@@
-
 DECRETO Nº 99.351, DE 27 DE JUNHO DE 1990
 
 Regulamenta a Lei nº 7.850, de 23 de outubro de 1989, que considerou penosa, para efeito de aposentadoria especial, a atividade profissional de telefonista.

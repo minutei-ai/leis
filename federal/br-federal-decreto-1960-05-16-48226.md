@@ -1,5 +1,3 @@
-###DEC-048226-0-000-16-05-1960@@@
-
 DECRETO Nº 48.226, DE 16 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Dalmo de Souza Dornellas a lavrar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

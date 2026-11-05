@@ -1,5 +1,3 @@
-###DEC-079122-0-000-14-01-1977@@@
-
 DECRETO N.º 79.122, DE 14 DE JANEIRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

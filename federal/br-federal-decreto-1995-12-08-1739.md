@@ -1,7 +1,3 @@
-1
-
-###DEC-001739-0-000-08-12-1995@@@
-
 DECRETO 1.739, DE 8 DE DEZEMBRO DE 1995
 
 Dá nova redação ao inciso IV do art 1º do Decreto nº 1.096, de 23 de março de 1994, que dispõe sobre cargos privativos de Oficial-General do Exército em Tempo de Paz e dá outras providências.

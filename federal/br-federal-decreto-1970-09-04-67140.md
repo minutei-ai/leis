@@ -1,5 +1,3 @@
-###DEC-067140-0-000-04-09-1970@@@
-
 decreto nº 67.140, de 4 de setembro de 1970.
 
 Concede reconhecimento a Cursos da Faculdade de Filosofia do Crato, CE.

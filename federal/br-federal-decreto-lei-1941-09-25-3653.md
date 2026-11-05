@@ -1,5 +1,3 @@
-###DEL-003653-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.653 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério ao Trabalho, Indústria e Comércio, o crédito suplementar de 34:800$0, à verba que especifica

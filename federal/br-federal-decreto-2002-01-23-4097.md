@@ -1,5 +1,3 @@
-###DEC-004097-0-000-23-01-2002@@@
-
 DECRETO Nº 4.097, DE 23 DE JANEIRO DE 2002.
 
 Altera a redação dos arts. 7o e 19 dos Regulamentos para os transportes rodoviário e ferroviário de produtos perigosos, aprovados pelos Decretos nos 96.044, de 18 de maio de 1988, e 98.973, de 21 de fevereiro de 1990, respectivamente.

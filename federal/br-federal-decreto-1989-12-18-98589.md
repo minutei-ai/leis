@@ -1,7 +1,3 @@
-1
-
-###DEC-098589-0-000-18-12-1989@@@
-
 DECRETO N° 98.589, DE 18 DE DEZEMBRO DE 1989
 
 Altera a constituição da Comissão Nacional do V Centenário do Descobrimento da América.

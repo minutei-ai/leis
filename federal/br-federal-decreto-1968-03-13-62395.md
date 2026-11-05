@@ -1,5 +1,3 @@
-###DEC-062395-0-000-13-03-1968@@@
-
 DECRETO Nº 62.395, DE 13 DE MARÇO DE 1968.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas da Universidade Católica do Salvador - BA.

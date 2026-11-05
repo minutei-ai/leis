@@ -1,5 +1,3 @@
-###DEC-088535-0-000-18-07-1983@@@
-
 DECRETO Nº 88.535, dE 18 de julho DE 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Estado do Rio de Janeiro, Recife, Jaboatão e Paulista, Estado de Pernambuco.

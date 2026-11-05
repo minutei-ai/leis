@@ -1,5 +1,3 @@
-###MPV-001872-0-020-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.872-20, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

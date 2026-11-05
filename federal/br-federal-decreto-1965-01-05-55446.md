@@ -1,5 +1,3 @@
-###DEC-055446-0-000-05-01-1965@@@
-
 Decreto nº 55.446, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Manoel Vieira de Faria a pesquisar calcário dolomítico no município de Piraí, Estado do Rio de Janeiro.

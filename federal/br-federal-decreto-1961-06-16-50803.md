@@ -1,5 +1,3 @@
-###DEC-050803-0-000-16-06-1961@@@
-
 DECRETO Nº 50.803, DE 16 DE JUNHO DE 1961.
 
 Autoriza a Prefeitura Municipal de Poços de Caldas a construir uma linha de transmissão.

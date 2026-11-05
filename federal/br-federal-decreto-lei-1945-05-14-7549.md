@@ -1,5 +1,3 @@
-###DEL-007549-0-000-14-05-1945@@@
-
 DECRETO-LEI N. 7.549 – DE 14 DE MAIO DE 1945
 
 Dá nova redação ao parágrafo único do Decreto-lei nº 7.192, de 23 de dezembro de 1944

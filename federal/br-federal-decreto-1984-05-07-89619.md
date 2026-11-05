@@ -1,5 +1,3 @@
-###DEC-089619-0-000-07-05-1984@@@
-
 Decreto nº 89.619, de 07 de maio de 1984
 
 Altera a composição da Comissão Coordenadora da Criação do Cavalo Nacional, de que trata o Decreto nº 79.109, de 11 de janeiro de 1977, com a nova redação dada pelo Decreto nº 81.403, de 27 de fevereiro de 1978, e Decreto nº 83.482, de 22 de maio de 1979.

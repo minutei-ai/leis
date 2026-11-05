@@ -1,7 +1,3 @@
-1
-
-###DEC-000447-0-000-07-02-1992@@@
-
 DECRETO N° 447, DE 7 DE FEVEREIRO DE 1992
 
 Promulga a Convenção n° 147 da Organização Internacional do Trabalho (OIT) sobre Normas Mínimas da Marinha Mercante.

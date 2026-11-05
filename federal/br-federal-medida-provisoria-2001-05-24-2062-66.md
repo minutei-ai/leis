@@ -1,5 +1,3 @@
-###MPV-002062-0-066-24-05-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.062‑66, DE 24 DE MAIO DE 2001.
 
 Altera a legislação do imposto de renda e dá outras providências.

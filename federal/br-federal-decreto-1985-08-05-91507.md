@@ -1,5 +1,3 @@
-###DEC-091507-0-000-05-08-1985@@@
-
 decreto nº 91.507, de 05 de agosto de 1985
 
 Autoriza o funcionamento dos cursos de Letras, Ciências e Estudos Sociais da Faculdade de Educação, Ciências e Letras de Araguaína.

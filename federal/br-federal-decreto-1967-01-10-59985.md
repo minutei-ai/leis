@@ -1,5 +1,3 @@
-###DEC-059985-0-000-10-01-1967@@@
-
 DECRETO Nº 59.985, DE 10 de JANEIRO DE 1967.
 
 Autoriza a Mineração Urandi S.A. a pesquisar minério de manganês no município de Urandi, Estado da Bahia.

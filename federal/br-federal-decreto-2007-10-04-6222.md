@@ -1,5 +1,3 @@
-###DEC-006222-0-000-04-10-2007@@@
-
 DECRETO Nº 6.222, DE 4 DE OUTUBRO DE 2007.
 
 Revigora Decretos concernentes à estrutura regimental dos Ministérios da Fazenda, Planejamento, Integração Nacional, Turismo e Previdência, e da EMBRATUR - Instituto Brasileiro de Turismo, e revoga os atos hoje em vigor que tratam da matéria.
@@ -49,5 +47,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 4.10.2007 - Edição extra.

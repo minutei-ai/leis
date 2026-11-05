@@ -1,5 +1,3 @@
-###DEC-052015-A-000-17-05-1963@@@
-
 DECRETO Nº 52.015-A, DE 17 DE MAIO DE 1963.
 
 Outorga concessão à Rádio São Vicente Sociedade Anônima para estabelecer uma radiodifusora de onda média, na cidade do Rio de Janeiro, Estado da Guanabara.

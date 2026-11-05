@@ -1,5 +1,3 @@
-###DEL-000117-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 117, DE 31 DE JANEIRO DE 1967
 
 Regula o limite máximo de carga por eixo, para o tráfego nas vias públicas, de veículos ou combinações de veículos e dá outras providências.

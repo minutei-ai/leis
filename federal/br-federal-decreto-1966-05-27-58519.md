@@ -1,5 +1,3 @@
-###DEC-058519-0-000-27-05-1966@@@
-
 DECRETO Nº 58.519, DE 27 DE MAIO DE 1966.
 
 Abre, ao Poder Judiciário - Tribunal de Justiça do Distrito Federal, o crédito especial de Cr$2.491.362, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-062511-0-000-09-04-1968@@@
-
 decreto nº 62.511, de 9 de abril de 1968.
 
 Fixa a nova Estrutura da Universidade Federal Rural do Rio Grande do Sul e dá outras providências.

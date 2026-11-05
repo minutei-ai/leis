@@ -1,5 +1,3 @@
-###DEC-065262-0-000-02-10-1969@@@
-
 DECRETO Nº 65.262 - DE 2 DE OUTUBRO DE 1969.
 
 Modifica a redação do artigo 95 e a da alínea a do inciso XXX do artigo 181 do Regulamento do Código Nacional do Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

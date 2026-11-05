@@ -1,5 +1,3 @@
-###DEC-000036-0-000-14-02-1991@@@
-
 DECRETO Nº. 36, DE 14 DE FEVEREIRO DE 1991.
 
 Aprova o Regulamento da Lei nº 8.158 de 8 de janeiro de 1991, que institui normas para a defesa da concorrência, e dá outras providências.

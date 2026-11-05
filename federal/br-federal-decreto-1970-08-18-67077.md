@@ -1,5 +1,3 @@
-###DEC-067077-0-000-18-08-1970@@@
-
 DECRETO Nº 67.077, DE 18 DE AGôSTO DE 1970.
 
 Declara caduco o Decreto nº 46.608 de 14 de agôsto de 1959.

@@ -1,42 +1,40 @@
-###DEC-028098-0-000-10-05-1950@@@
+**DECRETO Nº 28.098, DE 10 DE MAIO DE 1950.**
 
-<strong>DECRETO Nº 28.098, DE 10 DE MAIO DE 1950.</strong>
+***Aprova novas especificações e tabelas para classificação e fiscalização da exportação de arroz.***
 
-<em><strong>Aprova novas especificações e tabelas para classificação e fiscalização da exportação de arroz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o que dispõe o artigo 6º do Decreto lei nº 334, de 15 de março de 1938, e o artigo 94, do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o que dispõe o artigo 6º do Decreto lei nº 334, de 15 de março de 1938, e o artigo 94, do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as novas especificações e tabelas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, e referentes à classificação e fiscalização da exportação do arroz.
 
-<strong>Art</strong>. 1º Ficam aprovadas as novas especificações e tabelas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, e referentes à classificação e fiscalização da exportação do arroz.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de maio de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G.DUTRA</strong>
+**EURICO G.DUTRA**
 
 A. de Novaes Filho
 
-<strong>NOVAS ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DO ARROZ, APROVADAS COM O DECRETO Nº 28.098, DE 10 DE MAIO DE 1950, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1948.</strong>
+**NOVAS ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DO ARROZ, APROVADAS COM O DECRETO Nº 28.098, DE 10 DE MAIO DE 1950, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1948.**
 
-<strong>Art</strong>. 1º A. classificação do arroz será feita segundo a sua apresentação processo de beneficiamento, tamanho e qualidade, mediante observância dos característicos constantes das presentes especificações.
+**Art**. 1º A. classificação do arroz será feita segundo a sua apresentação processo de beneficiamento, tamanho e qualidade, mediante observância dos característicos constantes das presentes especificações.
 
-<strong>Art</strong>. 2º O arroz, segundo a sua apresentação, será classificado em dois grupos, assim discriminados:
+**Art**. 2º O arroz, segundo a sua apresentação, será classificado em dois grupos, assim discriminados:
 
 I) - Arroz beneficiado ou descascado.
 
 II) - Arroz em casca.
 
-<strong>Art</strong>. 3º O arroz beneficiado ou descascado será diferenciado, segundo o processo de beneficiamento, com as seguintes denominações:
+**Art**. 3º O arroz beneficiado ou descascado será diferenciado, segundo o processo de beneficiamento, com as seguintes denominações:
 
 1º) - Arroz polido.
 
 2º) - Arroz sem polimento.
 
-<strong>Art</strong>. 4º O arroz beneficiado e o em casca, segundo os característicos relacionados com a sua forma e tamanho, serão ordenadas em quatro classes assim denominadas:
+**Art**. 4º O arroz beneficiado e o em casca, segundo os característicos relacionados com a sua forma e tamanho, serão ordenadas em quatro classes assim denominadas:
 
 1ª - Arroz de grãos longos.
 
@@ -54,7 +52,7 @@ II) - Arroz em casca.
 
 § 4º Enquadram-se na classe de grãos mistos, todo arroz constituído da mistura de uma ou mais classes em porcentagem superior a 20% em relação à classe predominante.
 
-<strong>Art</strong>. 5º O arroz beneficiado e polido, observados os característicos das classes respectivas, será classificado em seis tipos, assim descritos:
+**Art**. 5º O arroz beneficiado e polido, observados os característicos das classes respectivas, será classificado em seis tipos, assim descritos:
 
 Tipo 1 ou Extra:
 
@@ -104,7 +102,7 @@ Tolerância -
 
 Até 1% de grãos em casca e outras sementes, 1% de ardidos, 5% de amarelados, 5% de manchados ou picados, 10% de gessados, 25% de rajados, 50% de quebrados, com quirera para tôdas as classes e 20% de grãos de outras classes.
 
-<strong>Art</strong>. 6º O arroz descascado e sem polimento, também chamado arroz pardo observados os característicos das classes respectivas, será classificado em três tipos, com a seguinte descrição:
+**Art**. 6º O arroz descascado e sem polimento, também chamado arroz pardo observados os característicos das classes respectivas, será classificado em três tipos, com a seguinte descrição:
 
 Tipo 1:
 
@@ -130,7 +128,7 @@ Tolerância -
 
 Até 0,50% de grãos em casca e outras sementes, 0,50% de ardidos, 3% de amarelados, 20% de vermelhos, 5% de danificados por isentos, 7,5% de gessados e 10% de grãos de outras classes.
 
-<strong>Art</strong>. 7º O arroz em casca, observados os característicos das classes respectivas, será classificado em três tipos, assim descritos:
+**Art**. 7º O arroz em casca, observados os característicos das classes respectivas, será classificado em três tipos, assim descritos:
 
 Tipo 1:
 
@@ -156,7 +154,7 @@ Tolerância -
 
 Até 0,50% de ardidos, 3% de amarelos, 5% de danificados por insetos, 7,5% de gessados, 20% de vermelhos e 14% de umidade.
 
-<strong>Art</strong>. 8º Os fragmentos de grãos de arroz beneficiado e isento de impurezas, serão classificados de acôrdos com os seguintes característicos:
+**Art**. 8º Os fragmentos de grãos de arroz beneficiado e isento de impurezas, serão classificados de acôrdos com os seguintes característicos:
 
 Congicão:
 
@@ -178,25 +176,25 @@ Quirera:
 
 Fragmentos inferiores a um quarto de grão.
 
-<strong>Art</strong>. 9º O arroz beneficiado, o arroz em casca e os fragmentos de grãos quando não se enquadrem pelos seus característicos, nas disposições constantes dos artigos 5º, 6º, 7º e 8º serão classificados com a denominação de “Industrial”.
+**Art**. 9º O arroz beneficiado, o arroz em casca e os fragmentos de grãos quando não se enquadrem pelos seus característicos, nas disposições constantes dos artigos 5º, 6º, 7º e 8º serão classificados com a denominação de “Industrial”.
 
 Parágrafo único. Para os efeitos dêste artigo, deverá constar, obrigatòriamente, em todos os documentos que acompanham a mercadoria a denominação de “Para fins industriais”.
 
-<strong>Art</strong>. 10. O arroz “esmaltado”, “glicosado”, “oleado” e “caseinado” será classificado nos têrmos do artigo 5º devendo constar nos certificados de classificação as designações acima, de acôrdo com o que se refere o artigo 49, do Regulamento aprovado pelo Decreto nº 5º devendo constar nos certificados de classificação as designações acima, de acôrdo com o que se refere o artigo 49. Do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940.
+**Art**. 10. O arroz “esmaltado”, “glicosado”, “oleado” e “caseinado” será classificado nos têrmos do artigo 5º devendo constar nos certificados de classificação as designações acima, de acôrdo com o que se refere o artigo 49, do Regulamento aprovado pelo Decreto nº 5º devendo constar nos certificados de classificação as designações acima, de acôrdo com o que se refere o artigo 49. Do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940.
 
-<strong>Art</strong>. 11. A exportação de arroz em tipo especiais só poderá ser feita para atender encomendas de mercados importadores, e mediante autorização.
+**Art**. 11. A exportação de arroz em tipo especiais só poderá ser feita para atender encomendas de mercados importadores, e mediante autorização.
 
 Parágrafo único. Nos certificados de classificação, a que se refere êste artigo, constarão, obrigatòriamente os característicos do tipo sob a denominação de “Particular” e bem assim, as percentagens de defeitos, não podendo, em nenhum caso, exceder os limites fixados nos respectivos contratos.
 
-<strong>Art</strong>. 12. Na embalagem do arroz destinado à exportação serão utilizados sacos de algodão de aniagem ou de outras fibras apropriadas.
+**Art**. 12. Na embalagem do arroz destinado à exportação serão utilizados sacos de algodão de aniagem ou de outras fibras apropriadas.
 
 Parágrafo único. O tecido, em qualquer caso, deverá ser novo, resistente e oferecer proteção eficaz.
 
-<strong>Art</strong>. 13. O arroz em que fôr verificado a presença de insetos atacando os grãos, só poderá ser embarcado depois de convenientemente expurgado.
+**Art**. 13. O arroz em que fôr verificado a presença de insetos atacando os grãos, só poderá ser embarcado depois de convenientemente expurgado.
 
-<strong>Art</strong>. 14. A. armazenagem do arroz não será permitida quando feita em condições desfavoráveis à sua conservação, ficando proibida a utilização de armazéns úmidos insuficientemente ventilados e desprovidos de piso impermeabilizado.
+**Art**. 14. A. armazenagem do arroz não será permitida quando feita em condições desfavoráveis à sua conservação, ficando proibida a utilização de armazéns úmidos insuficientemente ventilados e desprovidos de piso impermeabilizado.
 
-<strong>Art</strong>. 15. Os têrmos usados nestas especificações  para diferenciação de certos característicos relacionados com a qualidade da mercadoria deverão ser interpretados da seguinte maneira:
+**Art**. 15. Os têrmos usados nestas especificações  para diferenciação de certos característicos relacionados com a qualidade da mercadoria deverão ser interpretados da seguinte maneira:
 
 1 - Esmerado polimento - Grão de arroz totalmente isento de tegumento e de embrião.
 
@@ -218,9 +216,9 @@ Parágrafo único. O tecido, em qualquer caso, deverá ser novo, resistente e of
 
 10 - Outras sementes - Sementes inteiras ou quebradas de outros vegetais, toleráveis no arroz e peculiares à lavoura rizícola.
 
-<strong>Art</strong>. 16. Os certificados de classificação respeitadas as disposições do art. 36 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940, serão válidos pelo prazo de 120 dias, contados da data de sua emissão.
+**Art**. 16. Os certificados de classificação respeitadas as disposições do art. 36 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940, serão válidos pelo prazo de 120 dias, contados da data de sua emissão.
 
-<strong>Art</strong>. 17. As despesas relativas à classificação e à fiscalização de exportação e, bem assim àquelas previstas no Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1949, para trabalhos realizados a requerimento ou por solicitação de parte ou partes interessadas, serão cobradas de acôrdo com as seguintes tabelas, por quilo:
+**Art**. 17. As despesas relativas à classificação e à fiscalização de exportação e, bem assim àquelas previstas no Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1949, para trabalhos realizados a requerimento ou por solicitação de parte ou partes interessadas, serão cobradas de acôrdo com as seguintes tabelas, por quilo:
 
 I - Classificação (art. 80), inclusive emissão de certificado:
 
@@ -272,8 +270,8 @@ b) Arroz em casca...............................................................
 
 c) Cangicão, cangica e quirera...............................................................................................0,0035
 
-<strong>Art</strong>. 18. Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com aprovação do Ministro da Agricultura.
+**Art**. 18. Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com aprovação do Ministro da Agricultura.
 
 Rio de Janeiro, 10 de maio de 1950.
 
-<strong>A. DE NOVAES FILHO</strong>
+**A. DE NOVAES FILHO**

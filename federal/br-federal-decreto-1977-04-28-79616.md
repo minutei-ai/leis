@@ -1,5 +1,3 @@
-###DEC-079616-0-000-28-04-1977@@@
-
 DECRETO Nº 79.616, DE 28 DE ABRIL DE 1977.
 
 Concede a Ormindo Barreto Costa, Firma Individual, o direito de lavrar conchas calcárias nos Municípios de Araruama e São Pedro da Aldeia, Estado do Rio de Janeiro.

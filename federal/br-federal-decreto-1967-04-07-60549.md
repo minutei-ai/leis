@@ -1,5 +1,3 @@
-###DEC-060549-0-000-07-04-1967@@@
-
 DECRETO Nº 60.549, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública o “Hospital da Cidade de Passo Fundo”, com sede em Passo Fundo, Estado do Rio Grande do Sul.

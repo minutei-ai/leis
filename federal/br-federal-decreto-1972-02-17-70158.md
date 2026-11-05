@@ -1,5 +1,3 @@
-###DEC-070158-0-000-17-02-1972@@@
-
 DECRETO Nº 70.158, DE 17 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento das Faculdades Integradas "Alcântara Machado" com as Faculdades de Ciências e Letras e Comunicações Sociais em São Paulo - SP.

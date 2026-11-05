@@ -1,5 +1,3 @@
-###DEC-070523-0-000-16-05-1972@@@
-
 DECRETO Nº 70.523, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública a sociedade de Beneficência Albergue São Vicente de Paulo de Jataí, com sede em Jataí, Estado de Goiás.

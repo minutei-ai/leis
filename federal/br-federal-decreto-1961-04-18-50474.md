@@ -1,5 +1,3 @@
-###DEC-050474-0-000-18-04-1961@@@
-
 DECRETO Nº 50.474, DE 18 DE ABRIL DE 1961.
 
 Autoriza as Caixas Econômicas Federais a realizar operações de crédito com os Municípios, por antecipação de receita, e dá outras providências.

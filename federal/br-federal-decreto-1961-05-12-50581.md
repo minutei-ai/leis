@@ -1,5 +1,3 @@
-###DEC-050581-0-000-12-05-1961@@@
-
 DECRETO Nº 50.581, DE 12 DE MAIO DE 1961.
 
 Autoriza o funcionamento dos cursos que indica.

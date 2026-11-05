@@ -1,7 +1,3 @@
-1
-
-###DEC-098330-0-000-24-10-1989@@@
-
 DECRETO N° 98.330, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão ao SISTEMA NORTE DE RÁDIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Serra, Estado do Espirito Santo.

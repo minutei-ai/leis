@@ -1,5 +1,3 @@
-###DEL-009421-0-000-28-06-1946@@@
-
 DECRETO-LEI 9.421 – DE 28 DE JUNHO DE 1946
 
 Altera disposição do Decreto-lei número 3.581, de 3 de Setembro de 1941, modificado pelo n.º 4.470, de 14 de Julho de 1942.

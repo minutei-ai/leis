@@ -1,5 +1,3 @@
-###DEC-084630-0-000-09-04-1980@@@
-
 Decreto nº 84.630, de 09 de abril de 1980.
 
 Revoga o Decreto nº 68.648, de 21 de maio de 1971.

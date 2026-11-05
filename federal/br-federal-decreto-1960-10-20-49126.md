@@ -1,5 +1,3 @@
-###DEC-049126-0-000-20-10-1960@@@
-
 DECRETO Nº 49.126, DE 20 DE OUTUBRO DE 1960.
 
 Abre ao Ministério da Guerra, o crédito especial de Cr$767,569,00 para ocorrer à despesa que especifica.

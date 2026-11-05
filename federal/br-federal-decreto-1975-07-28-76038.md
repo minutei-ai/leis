@@ -1,5 +1,3 @@
-###DEC-076038-0-000-28-07-1975@@@
-
 Decreto Nº 76.038 - de 28 de julho de 1975.
 
 Altera o Regulamento da Medalha de Mérito Oswaldo Cruz.

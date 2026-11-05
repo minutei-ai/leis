@@ -1,5 +1,3 @@
-###DEC-091105-0-000-12-03-1985@@@
-
 DECRETO Nº 91.105, DE 12 DE MARÇO DE 1985
 
 Retifica a autorização para o funcionamento do curso de Administração da Faculdade São Camilo de Administração Hospitalar, de que trata o Decreto nº 90.213, de 25 de setembro de 1984.

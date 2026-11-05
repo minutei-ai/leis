@@ -1,5 +1,3 @@
-###DEC-052979-0-000-27-11-1963@@@
-
 DECRETO Nº 52.979, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza a empresa de mineração Companhia Nacional de Minérios S.A., a pesquisar quartzo e mica no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

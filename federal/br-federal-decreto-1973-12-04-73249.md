@@ -1,5 +1,3 @@
-###DEC-073249-0-000-04-12-1973@@@
-
 DECRETO Nº 73.249 - DE 4 DE DEZEMBRO DE 1973
 
 Dispõe sobre a importação de componentes para a indústria de caminhões.

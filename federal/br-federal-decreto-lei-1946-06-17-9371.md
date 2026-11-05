@@ -1,5 +1,3 @@
-###DEL-009371-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.371 – DE 17 DE JUNHO DE 1946
 
 Regula os prazos de registro e vigência dos créditos adicionais.

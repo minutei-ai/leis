@@ -1,5 +1,3 @@
-###DEC-004029-0-000-22-11-2001@@@
-
 DECRETO Nº 4.029, DE 22 DE NOVEMBRO DE 2001.
 
 Dá nova redação ao art. 1o do Decreto n~~º~~ 3.730, de 18 de janeiro de 2001, que distribui os efetivos de Oficiais da Marinha e fixa percentuais mínimos dos cargos que serão ocupados, exclusivamente, por Oficiais do sexo masculino, para 2001.

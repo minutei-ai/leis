@@ -1,7 +1,3 @@
-1
-
-###DEC-001491-0-000-16-05-1995@@@
-
 DECRETO Nº 1.491, DE 16 DE MAIO DE 1995
 
 Estabelece normas para a saída temporária de veículos da Zona Franca de Manaus ZFM, e de Área de Livre Comércio ALC.

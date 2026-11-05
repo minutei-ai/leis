@@ -1,5 +1,3 @@
-###DEC-049575-0-000-22-12-1960@@@
-
 DECRETO Nº 49.575, DE 22 DE DEZEMBRO DE 1960.
 
 Cria a Escola Nacional de Cinema.

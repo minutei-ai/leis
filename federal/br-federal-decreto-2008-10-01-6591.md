@@ -1,5 +1,3 @@
-###DEC-006591-0-000-01-10-2008@@@
-
 DECRETO Nº 6.591, DE 1º DE OUTUBRO DE 2008.
 
 Altera a denominação do Comitê instituído pelo Decreto no 1.842, de 22 de março de 1996, e acresce parágrafo único ao seu art. 1o.  

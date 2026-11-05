@@ -1,5 +1,3 @@
-###DEC-056847-0-000-09-09-1965@@@
-
 DECRETO Nº 56.847, DE 9 DE SETEMBRO DE 1965.
 
 Aprova o aumento de capital social e alteração do artigo 7º dos Estatutos Sociais da Rêde Ferroviária Federal Sociedade Anônima.

@@ -1,5 +1,3 @@
-###DEC-086345-0-000-08-09-1981@@@
-
 Decreto nº 86.345, de 08 de setembro de 1981
 
 Dá nova redação ao parágrafo único do artigo 10 do Decreto nº 85.645, de 20 de janeiro de 1981, que regulamenta o instituto da ascensão funcional.

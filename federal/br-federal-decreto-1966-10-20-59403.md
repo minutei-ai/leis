@@ -1,5 +1,3 @@
-###DEC-059403-0-000-20-10-1966@@@
-
 DECRETO Nº 59.403, DE 20 DE OUTUBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Previdente, relativa ao aumento do capital social.

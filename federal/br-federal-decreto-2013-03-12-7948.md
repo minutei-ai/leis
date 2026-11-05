@@ -1,5 +1,3 @@
-###DEC-007948-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.948, DE 12 DE MARÇO DE 2013
 
 Dispõe sobre o Programa de Estudantes- Convênio de Graduação - PEC-G.

@@ -1,5 +1,3 @@
-###DEC-084323-0-000-18-12-1979@@@
-
 Decreto nº 84.323, de 18 de dezembro de 1979.
 
 Autoriza a transferência do terreno que menciona, situado no Município de Mato Grosso, Estado de Mato Grosso.

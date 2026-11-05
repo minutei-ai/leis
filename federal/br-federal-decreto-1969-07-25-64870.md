@@ -1,5 +1,3 @@
-###DEC-064870-0-000-25-07-1969@@@
-
 decreto nº 64.870 - de 25 de julho de 1969.
 
 Declara caduco o Decreto nº 38.788 de 29 de fevereiro de 1956.

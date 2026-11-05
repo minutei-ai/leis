@@ -1,5 +1,3 @@
-###DEC-099541-0-000-21-09-1990@@@
-
 DECRETO N° 99.541, DE 21 DE SETEMBRO DE 1990
 
 Dispõe sobre anuência prévia para importação e produção de bens de informática e dá outras providências.

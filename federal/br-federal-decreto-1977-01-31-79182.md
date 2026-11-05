@@ -1,5 +1,3 @@
-###DEC-079182-0-000-31-01-1977@@@
-
 DECRETO Nº 79.182, DE 31 DE JANEIRO DE 1977.
 
 Declara a caducidade da concessão de lavra que menciona

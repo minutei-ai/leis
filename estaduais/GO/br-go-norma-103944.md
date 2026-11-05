@@ -1,4 +1,5 @@
-LEI Nº 20.994, DE 20 DE ABRIL DE 2021<br>
+LEI Nº 20.994, DE 20 DE ABRIL DE 2021
+
 [(Vide lei nº 20.038)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99913/lei-20038)
 
 Dispõe sobre a mudança de denominação do Colégio Estadual Profª Lázara de Fátima e Silva Flores para Centro de Ensino em Período Integral Profª Lázara de Fátima e Silva Flores.
@@ -10,8 +11,6 @@ Art. 1º Fica alterada a denominação do Colégio Estadual Profª Lázara de F�
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 20 de abril de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

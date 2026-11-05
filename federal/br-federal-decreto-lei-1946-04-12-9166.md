@@ -1,5 +1,3 @@
-###DEL-009166-0-000-12-04-1946@@@
-
 DECRETO-LEI N. 9.166 – DE 12 DE ABRIL DE 1946
 
 Dispõe sôbre o afastamento de extra-númerários-mensalistas para servirem nos Territórios Federais.

@@ -1,5 +1,3 @@
-###DEC-087396-0-000-13-07-1982@@@
-
 Decreto nº 87.396, de 13 de julho de 1982
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da ETD Piraporinha da LIGHT-Serviços de Eletricidade S.A., no Estado de São Paulo.

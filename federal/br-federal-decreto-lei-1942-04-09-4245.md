@@ -1,5 +1,3 @@
-###DEL-004245-0-000-09-04-1942@@@
-
 DECRETO-LEI N. 4.245 – DE 9 DE ABRIL DE 1942
 
 Disposições transitórias para a execução da lei orgânica do ensino secundário

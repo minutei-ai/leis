@@ -1,5 +1,3 @@
-###DEL-003243-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.243 – DE 8 DE MAIO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito especial de 750:786$7, para, satisfação de compromisso

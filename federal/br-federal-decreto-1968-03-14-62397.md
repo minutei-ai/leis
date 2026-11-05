@@ -1,5 +1,3 @@
-###DEC-062397-0-000-14-03-1968@@@
-
 DECRETO Nº 62.397, DE 14 DE MARÇO DE 1968.
 
 Declara de utilidade pública o Centro Espírita “Humberto de Campos” com sede em Presidente Bernardes, Estado de São Paulo.

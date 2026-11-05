@@ -1,5 +1,3 @@
-###DEC-076298-0-000-18-09-1975@@@
-
 DECRETO Nº 76.298 - DE 18 de SETEMBRO DE 1975
 
 Declara de utilidade pública para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, no Município de Niterói, Estado do Rio de Janeiro destinada à instalação de um Centro Telefônico Automático pela Companhia Telefônica Brasileira.

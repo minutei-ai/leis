@@ -1,5 +1,3 @@
-###DEC-066493-0-000-24-04-1970@@@
-
 DECRETO Nº 66.493, DE 24 DE ABRIL DE 1970.
 
 Redistribui com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário do extinto Serviço de assistência a Menores (Quadro Extinto - Ministério da Justiça) e dá outras providências.

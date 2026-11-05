@@ -1,5 +1,3 @@
-###DEC-061040-0-000-18-07-1967@@@
-
 decreto nº 61.040, de 18 de julho de 1967.
 
 Altera a redação do Decreto nº 374; de 19 de dezembro de 1961, que fixa o valor limite dos conhecimentos negociáveis nas emprêsas ferroviárias.

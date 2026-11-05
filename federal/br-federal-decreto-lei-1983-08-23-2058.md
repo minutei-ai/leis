@@ -1,5 +1,3 @@
-###DEL-002058-0-000-23-08-1983@@@
-
 # Decreto nº 2.058, de 23 de agosto de 1983.
 
 Altera a Legislação do Imposto de Renda relativa a rendimentos produzidos por caderneta de poupança do Sistema Financeiro da Habitação.

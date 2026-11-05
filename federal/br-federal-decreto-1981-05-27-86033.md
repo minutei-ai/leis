@@ -1,5 +1,3 @@
-###DEC-086033-0-000-27-05-1981@@@
-
 Decreto nº 86.033, de 27 de maio de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

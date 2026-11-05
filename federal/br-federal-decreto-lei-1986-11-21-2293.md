@@ -1,5 +1,3 @@
-###DEL-002293-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.293, DE 21 DE NOVEMBRO DE 1986
 
 Dispõe sobre operações de crédito e financiamento, no âmbito da Administração Federal, e dá outras providências.

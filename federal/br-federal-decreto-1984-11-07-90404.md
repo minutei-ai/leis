@@ -1,5 +1,3 @@
-###DEC-090404-0-000-07-11-1984@@@
-
 Decreto nº 90.404, de 07 de novembro de 1984.
 
 Autoriza o funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional da Faculdade de Reabilitação em Batatais, São Paulo.

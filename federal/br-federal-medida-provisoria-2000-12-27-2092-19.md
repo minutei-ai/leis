@@ -1,5 +1,3 @@
-###MPV-002092-0-019-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.092-19, DE 27 DE DEZEMBRO DE 2000.
 
 Institui, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário - PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

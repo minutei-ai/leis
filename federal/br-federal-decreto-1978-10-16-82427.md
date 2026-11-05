@@ -1,5 +1,3 @@
-###DEC-082427-0-000-16-10-1978@@@
-
 Decreto nº 82.427, de 16 DE outubro de 1978.
 
 Concede à Mineração Curimbaba Ltda. o direito de lavrar argila no Município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058442-0-000-17-05-1966@@@
-
 DECRETO Nº 58.442, DE 17 DE MAIO DE 1966.
 
 Concede à Cincamar Comércio e Indústria de Calcita e Mármore Limitada, autorização para funcionar como emprêsa de mineração .

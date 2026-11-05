@@ -1,5 +1,3 @@
-###DEC-051645-0-000-27-12-1962@@@
-
 decreto nº 51.645, de 27 de dezembro de 1962.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$1.000.000.000,00 (hum bilhão de cruzeiros), para atender às despesas com a constituição do patrimônio da Fundação Universidade de Brasília.

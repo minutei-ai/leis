@@ -1,32 +1,30 @@
-###DEC-027372-0-000-27-10-1949@@@
+**DECRETO Nº 27.372, DE 27 DE OUTUBRO DE 1949.**
 
-<strong>DECRETO Nº 27.372, DE 27 DE OUTUBRO DE 1949.</strong>
+***Aprova o Regimento Interno da Escola Técnica Federal de Indústria Química e Têxtil.***
 
-<em><strong>Aprova o Regimento Interno da Escola Técnica Federal de Indústria Química e Têxtil.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, número I, da Constituição, e nos têrmos do art. 61, parágrafo único, da Lei Orgânica do Ensino Industrial,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, número I, da Constituição, e nos têrmos do art. 61, parágrafo único, da Lei Orgânica do Ensino Industrial,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento Interno da Escola Técnica Federal de Indústria Química e Têxtil, que com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento Interno da Escola Técnica Federal de Indústria Química e Têxtil, que com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 27 de outubro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani
 
-<strong>REGIMENTO INTERNO DA ESCOLA TÉCNICA FEDERAL DE INDÚSTRIA QUÍMICA TÊXTIL</strong>
+**REGIMENTO INTERNO DA ESCOLA TÉCNICA FEDERAL DE INDÚSTRIA QUÍMICA TÊXTIL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE DA ESCOLA</em>
+*DA FINALIDADE DA ESCOLA*
 
-<strong>Art</strong>. 1º A. Escola Técnica Federal de Indústria Química e Têxtil do Serviço Nacional de Aprendizagem Industrial (S. E. N. A. I.), criada em conformidade com o Decreto-lei nº 5.222, de 23 de janeiro de 1943, mantida e administrada pelo referido serviço, em prédio e instalações de sua propriedade, tem por finalidade ministrar ensino industrial têxtil e de química industrial.
+**Art**. 1º A. Escola Técnica Federal de Indústria Química e Têxtil do Serviço Nacional de Aprendizagem Industrial (S. E. N. A. I.), criada em conformidade com o Decreto-lei nº 5.222, de 23 de janeiro de 1943, mantida e administrada pelo referido serviço, em prédio e instalações de sua propriedade, tem por finalidade ministrar ensino industrial têxtil e de química industrial.
 
-<strong>Art</strong>. 2º Funcionarão na Escola os seguintes cursos, à proporção que o permitirem os seus recursos e instalações:
+**Art**. 2º Funcionarão na Escola os seguintes cursos, à proporção que o permitirem os seus recursos e instalações:
 
 I - Cursos Ordinários:
 
@@ -50,15 +48,15 @@ d) Cursos de especialização de química industrial para diplomados.
 
 Parágrafo único. A Escola ministrará, ainda, outros cursos extraordinários, que se fizerem necessários à indústria.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO REGIME ESCOLAR</em>
+*DO REGIME ESCOLAR*
 
-<strong>SECÇÃO I</strong>
+**SECÇÃO I**
 
-<em>Das condições de admissão</em>
+*Das condições de admissão*
 
-<strong>Art</strong>. 3º O candidato à matrícula em curso técnico deverá satisfazer às seguintes condições:
+**Art**. 3º O candidato à matrícula em curso técnico deverá satisfazer às seguintes condições:
 
 a) apresentar prova de ser vacinado e de não sofrer de maléstia contagiosa;
 
@@ -68,51 +66,51 @@ c) possuir capacidade física e aptidão mental para os trabalhos escolares que 
 
 d) ser aprovado em exames vestibulares.
 
-<strong>Art</strong>. 4º Os pedidos de inscrição em exame vestibular, para efeito de matrícula, serão apresentados até 15 de fevereiro de cada ano, acompanhados dos documentos que provem as condições de que tratam as letras <em>a</em> e <em>b</em> do art. 3º dêste Regimento.
+**Art**. 4º Os pedidos de inscrição em exame vestibular, para efeito de matrícula, serão apresentados até 15 de fevereiro de cada ano, acompanhados dos documentos que provem as condições de que tratam as letras *a* e *b* do art. 3º dêste Regimento.
 
-<strong>Art</strong>. 5º As condições para matrícula nos cursos extraordinários serão estabelecidas para cada caso, em instrução baixadas pelo S. E. N. A. I.
+**Art**. 5º As condições para matrícula nos cursos extraordinários serão estabelecidas para cada caso, em instrução baixadas pelo S. E. N. A. I.
 
-<strong>SECÇÃO II</strong>
+**SECÇÃO II**
 
-<em>Dos exames vestibulares</em>
+*Dos exames vestibulares*
 
-<strong>Art</strong>. 6º Os exames vestibulares para os cursos técnicos serão realizados a partir de 16 de fevereiro constarão de uma prova escrita de português, de uma prova escrita de matemática e de uma prova gráfica de desenho.
+**Art**. 6º Os exames vestibulares para os cursos técnicos serão realizados a partir de 16 de fevereiro constarão de uma prova escrita de português, de uma prova escrita de matemática e de uma prova gráfica de desenho.
 
-<strong>Art</strong>. 7º Antes do início dos exames vestibulares, serão os candidatos submetidos a exame médico para verificação da capacidade física e à prova de aptidão mental.
+**Art**. 7º Antes do início dos exames vestibulares, serão os candidatos submetidos a exame médico para verificação da capacidade física e à prova de aptidão mental.
 
 Parágrafo único. Serão eliminatórias as verificações de capacidade física e de aptidão mental.
 
-<strong>Art</strong>. 8º Será considerado habilitado nos exames vestibulares o candidato que obtiver a nota final cinqüenta, pelo menos, em cada matéria.
+**Art**. 8º Será considerado habilitado nos exames vestibulares o candidato que obtiver a nota final cinqüenta, pelo menos, em cada matéria.
 
-<strong>Art</strong>. 9º Anualmente, o Conselho Nacional do S. E. N. A. I. fixará o número de matrículas que deverá caber a cada unidade federada, tendo em vista os respectivos interêsses e as necessidades da indústria.
+**Art**. 9º Anualmente, o Conselho Nacional do S. E. N. A. I. fixará o número de matrículas que deverá caber a cada unidade federada, tendo em vista os respectivos interêsses e as necessidades da indústria.
 
 § 1º A. admissão à matrícula, dentro do limite fixado para cada unidade federada, obedecerá rigorosamente à classificação dos respectivos candidatos habilitados.
 
 § 2º Havendo, em uma ou mais unidades federadas, excesso de vagas em relação ao número de candidatos habilitados, serão elas preenchidas por candidatos excedentes de outras unidades federadas, se os houver, observada a precedência estabelecida em sua classificação geral.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do ano escolar</em>
+*Do ano escolar*
 
-<strong>Art</strong>. 10. O ano escolar dos cursos técnicos é dividido em dois períodos coletivos, de 1 de março a 30 de junho e de 1 de agôsto a 30 de novembro.
+**Art**. 10. O ano escolar dos cursos técnicos é dividido em dois períodos coletivos, de 1 de março a 30 de junho e de 1 de agôsto a 30 de novembro.
 
-<strong>Art</strong>. 11 Na primeira quinzena de dezembro serão realizados os exames finais e na 2ª quinzena de fevereiro os exames de segunda época e os exames vestibulares.
+**Art**. 11 Na primeira quinzena de dezembro serão realizados os exames finais e na 2ª quinzena de fevereiro os exames de segunda época e os exames vestibulares.
 
-<strong>Art</strong>. 12. São períodos de férias escolares, para cursos técnicos, o mês de julho e o período de 15 de dezembro a 15 de fevereiro.
+**Art**. 12. São períodos de férias escolares, para cursos técnicos, o mês de julho e o período de 15 de dezembro a 15 de fevereiro.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos exercícios escolares e exames</em>
+*Dos exercícios escolares e exames*
 
-<strong>Art</strong>. 13. É obrigatória a freqüência às aulas e aos trabalhos escolares.
+**Art**. 13. É obrigatória a freqüência às aulas e aos trabalhos escolares.
 
-<strong>Art</strong>. 14. A avaliação do aproveitamento dos alunos será feita por meio de notas graduadas de zero a cem.
+**Art**. 14. A avaliação do aproveitamento dos alunos será feita por meio de notas graduadas de zero a cem.
 
-<strong>Art</strong>. 15. Mensalmente, será dada, em cada disciplina e a cada aluno, pelo respectivo professor, uma nota, resultante da verificação de seu aproveitamento, por meio de exercício escolares. Se, por falta de comparecimento, não se puder apurar o aproveitamento de um aluno, ser-lhe-á atribuída a nota zero.
+**Art**. 15. Mensalmente, será dada, em cada disciplina e a cada aluno, pelo respectivo professor, uma nota, resultante da verificação de seu aproveitamento, por meio de exercício escolares. Se, por falta de comparecimento, não se puder apurar o aproveitamento de um aluno, ser-lhe-á atribuída a nota zero.
 
 Parágrafo único. A. média aritmética das notas de cada disciplina será a nota anual de exercícios escolares.
 
-<strong>Art</strong>. 16. Para efeito de promoção ou conclusão de curso, serão exigidas duas provas de exames parciais, a serem prestados em fins de junho e de novembro de cada ano, em períodos não superiores a duas semanas; as provas finais serão prestadas na primeira quinzena de dezembro.
+**Art**. 16. Para efeito de promoção ou conclusão de curso, serão exigidas duas provas de exames parciais, a serem prestados em fins de junho e de novembro de cada ano, em períodos não superiores a duas semanas; as provas finais serão prestadas na primeira quinzena de dezembro.
 
 § 1º As provas parciais, que serão prestadas perante os professores das disciplinas, constarão para cada disciplina, conforme a sua natureza, de uma prova escrita, gráfica ou prática.
 
@@ -138,45 +136,45 @@ d) o que deixar de prestar exames de primeira época em disciplinas de cultura g
 
 § 8º Na apuração das médias das notas serão desprezadas as frações inferiores a 0,5 e consideradas como inteiro as frações iguais ou superiores a 0,5.
 
-<strong>Art</strong>. 17. A. nota final de cada disciplina será a média aritmética simples da nota anual dos exercícios escolares, das notas das duas provas de exames parciais e da nota do exame final.
+**Art**. 17. A. nota final de cada disciplina será a média aritmética simples da nota anual dos exercícios escolares, das notas das duas provas de exames parciais e da nota do exame final.
 
-<strong>Art</strong>. 18. Será considerado habilitado, para efeito de promoção ou de conclusão, o aluno que houver obtido, no grupo das disciplinas de cultura geral e no grupo de disciplinas de cultura técnica, a nota global cinqüenta, pelo menos, e se, em cada uma dessas disciplinas, tiver obtido a nota final quarenta, pelo menos.
+**Art**. 18. Será considerado habilitado, para efeito de promoção ou de conclusão, o aluno que houver obtido, no grupo das disciplinas de cultura geral e no grupo de disciplinas de cultura técnica, a nota global cinqüenta, pelo menos, e se, em cada uma dessas disciplinas, tiver obtido a nota final quarenta, pelo menos.
 
-<strong>Art</strong>. 19. O aluno inabilitado em segunda época, em uma disciplina de cultura geral, poderá matricular-se na série seguinte dependendo dessa matéria.
+**Art**. 19. O aluno inabilitado em segunda época, em uma disciplina de cultura geral, poderá matricular-se na série seguinte dependendo dessa matéria.
 
 Parágrafo único. O aluno matriculado na forma dêste artigo, fica dispensado da freqüência na matéria de que depende, ficando, porém, obrigado aos exames a êla referentes.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO CORPO DOCENTE</em>
+*DO CORPO DOCENTE*
 
-<strong>Art</strong>. 20. A admissão, em caráter efetivo, dos professôres da Escola, será feita mediante concurso.
+**Art**. 20. A admissão, em caráter efetivo, dos professôres da Escola, será feita mediante concurso.
 
 § 1º Os provimentos sem essa formalidade terão caráter interino.
 
 § 2º São dispensados da exigência do concurso os professôres estrangeiros, de comprovada competência, especialmente contratados para essa função.
 
-<strong>Art</strong>. 21. Os assistentes de professor serão admitidos após demonstração de habilitação adequada.
+**Art**. 21. Os assistentes de professor serão admitidos após demonstração de habilitação adequada.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO INTERNATO</em>
+*DO INTERNATO*
 
-<strong>Art</strong>. 22. A Escola disporá de um internato destinado aos alunos não residentes no Distrito Federal.
+**Art**. 22. A Escola disporá de um internato destinado aos alunos não residentes no Distrito Federal.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA ADMINISTRAÇÃO</em>
+*DA ADMINISTRAÇÃO*
 
-<strong>Art</strong>. 23. A Escola será dirigida pelo Diretor, que será auxiliado em suas funções pelos chefes dos diferentes órgãos administrativos e pelo corpo de funcionários.
+**Art**. 23. A Escola será dirigida pelo Diretor, que será auxiliado em suas funções pelos chefes dos diferentes órgãos administrativos e pelo corpo de funcionários.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO REGIME DISCIPLINAR</em>
+*DO REGIME DISCIPLINAR*
 
-<strong>Art</strong>. 24. O regime disciplinar será orientado especialmente para a formação da personalidade do aluno.
+**Art**. 24. O regime disciplinar será orientado especialmente para a formação da personalidade do aluno.
 
-<strong>Art</strong>. 25. São deveres do aluno:
+**Art**. 25. São deveres do aluno:
 
 a) freqüentar regularmente a Escola;
 
@@ -198,7 +196,7 @@ i) quando internos, não se afastar do recinto da Escola sem licença especial e
 
 j) cumprir os regulamentos da Escola e do S. E. N. A. I.
 
-<strong>Art</strong>. 26. De acôrdo com a gravidade da falta ou a reincidência na mesma, serão aplicadas as seguintes penalidades:
+**Art**. 26. De acôrdo com a gravidade da falta ou a reincidência na mesma, serão aplicadas as seguintes penalidades:
 
 1\. Advertência.
 
@@ -214,16 +212,16 @@ j) cumprir os regulamentos da Escola e do S. E. N. A. I.
 
 § 3º As penalidades constantes dos itens 3 e 4 serão aplicadas pelo Diretor da Escola com recursos, no último caso, para o Diretor do Departamento Nacional do S. E. N. A. I.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 27. O regime de emprêgo dos funcionários e professôres da Escola, durante a vigência do entendimento de que trata o art. 1º do Decreto-lei nº 5.222, de 23 de janeiro de 1943, será regulado pelo disposto no art. 18 do Decreto nº 10.009, de 16 de julho de 1942.
+**Art**. 27. O regime de emprêgo dos funcionários e professôres da Escola, durante a vigência do entendimento de que trata o art. 1º do Decreto-lei nº 5.222, de 23 de janeiro de 1943, será regulado pelo disposto no art. 18 do Decreto nº 10.009, de 16 de julho de 1942.
 
-<strong>Art</strong>. 28. Sempre que qualquer dispositivo dêste Regimento estiver em desacôrdo com qualquer dispositivo legal, ou ato ministerial, prevalecerão êstes últimos.
+**Art**. 28. Sempre que qualquer dispositivo dêste Regimento estiver em desacôrdo com qualquer dispositivo legal, ou ato ministerial, prevalecerão êstes últimos.
 
-<strong>Art</strong>. 29. O Departamento Nacional do S. E. N. A. I. baixará instruções regulando a aplicação dêste Regimento.
+**Art**. 29. O Departamento Nacional do S. E. N. A. I. baixará instruções regulando a aplicação dêste Regimento.
 
 Rio de Janeiro, 27 de outubro de 1949.
 
-<strong>CLEMENTE MARIANI</strong>
+**CLEMENTE MARIANI**

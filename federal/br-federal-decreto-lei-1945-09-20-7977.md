@@ -1,5 +1,3 @@
-###DEL-007977-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.977 – DE 20 DE SETEMBRO DE 1945
 
 Desdobra o Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

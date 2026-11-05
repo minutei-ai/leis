@@ -1,7 +1,3 @@
-1
-
-###LCP-000082-0-000-27-03-1995@@@
-
 LEI COMPLEMENTAR Nº 82, DE 27 DE MARÇO DE 1995
 
 Disciplina os limites das despesas com o funcionalismo público, na forma do art. 169 da Constituição Federal.

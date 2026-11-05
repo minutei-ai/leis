@@ -1,5 +1,3 @@
-###DEC-055861-0-000-25-03-1965@@@
-
 DECRETO Nº 55.861, DE 25 DE MARÇO DE 1965.
 
 Aprova o aumento de capital e a reforma estatutária do Banco do Estado do Rio Grande do Sul S.A.

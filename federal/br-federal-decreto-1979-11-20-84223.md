@@ -1,5 +1,3 @@
-###DEC-084223-0-000-20-11-1979@@@
-
 Decreto nº 84.223, de 20 de novembro de 1979
 
 Concede indulto, reduz penas e dá outras providências.

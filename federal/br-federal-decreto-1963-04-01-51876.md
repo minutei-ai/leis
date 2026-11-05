@@ -1,5 +1,3 @@
-###DEC-051876-0-000-01-04-1963@@@
-
 Decreto nº 51.876, de 1 de abril de 1963.
 
 Prorroga, temporàriamente, até 31 de janeiro de 1964, o disposto no artigo 126 do Regulamento de Promoções para Oficiais da Marinha.

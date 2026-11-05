@@ -1,5 +1,3 @@
-###DEC-052245-0-000-09-07-1963@@@
-
 DECRETO Nº 52.245, DE 9 DE JULHO DE 1963.
 
 Autoriza Cia. Siderúrgica Cruzeiro do Sul - Cruzul - a pesquisar dolomita, mármore, minério de ferro e manganês no município de Santa Barbara, Estado de Minas Gerais.

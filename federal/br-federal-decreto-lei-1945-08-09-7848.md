@@ -1,5 +1,3 @@
-###DEL-007848-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.848 – DE 9 DE AGÔSTO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 1 000.000,00, para a realização de campeonatos internacionais

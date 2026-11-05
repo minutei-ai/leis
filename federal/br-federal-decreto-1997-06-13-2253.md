@@ -1,5 +1,3 @@
-###DEC-002253-0-000-13-06-1997@@@
-
 DECRETO Nº 2.253, DE 13 DE JUNHO DE 1997
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

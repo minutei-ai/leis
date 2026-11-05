@@ -1,5 +1,3 @@
-###DEC-065539-0-000-21-10-1969@@@
-
 DECRETO Nº 65.539 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Procuradoria Geral da República, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional.

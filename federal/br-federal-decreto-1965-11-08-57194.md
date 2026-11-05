@@ -1,5 +1,3 @@
-###DEC-057194-0-000-08-11-1965@@@
-
 Decreto nº 57.194, de 8 de novembro de 1965.
 
 Autoriza o cidadão brasileiro Dalmo de Souza Dornellas a pesquisar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

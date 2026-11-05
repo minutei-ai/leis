@@ -1,5 +1,3 @@
-###DEC-046759-0-000-01-09-1959@@@
-
 decreto nº 46.759, de 01 de setembro de 1959.
 
 Altera o Parágrafo Único do Art. 2º do Regulamento do Arquivo do Exército, aprovado pelo Decreto nº 614, de 30 de janeiro de 1936, alterado pelo Decreto nº 29.139, de 24 de janeiro de 1951.

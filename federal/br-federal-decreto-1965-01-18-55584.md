@@ -1,5 +1,3 @@
-###DEC-055584-0-000-18-01-1965@@@
-
 DECRETO Nº 55.584, DE 18 DE JANEIRO DE 1965.
 
 Concede à Sociedade Casimiro Filho, Indústria e Comércio S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

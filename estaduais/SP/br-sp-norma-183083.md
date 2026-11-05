@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183083)
-
 # DECRETO Nº 62.819, DE 04 DE SETEMBRO DE 2017
 
 ### _Dispõe sobre a oficialização da "Medalha João da Costa Machado - Herói de 32", instituída pelo Núcleo MMDC "Sargento João da Costa Machado" da Sociedade Veteranos de 32 - MMDC_
@@ -16,14 +14,20 @@ Palácio dos Bandeirantes, 4 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 4 de setembro de 2017.
 
-#### <br>
-Regulamento da Medalha João da Costa Machado - Herói de 32<br>
+####
+
+Regulamento da Medalha João da Costa Machado - Herói de 32
+
 a que se refere o artigo 1º do [Decreto nº 62.819, de 4 de setembro de 2017](http://www.al.sp.gov.br/norma?id=183083)
 
 Artigo 1º - A medalha instituída pelo Núcleo MMDC “Sargento João da Costa Machado” tem por objetivo galardoar autoridades civis e militares que tenham prestado relevantes serviços a uma ou mais das entidades a seguir relacionadas:

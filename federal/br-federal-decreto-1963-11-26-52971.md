@@ -1,5 +1,3 @@
-###DEC-052971-0-000-26-11-1963@@@
-
 DECRTO Nº 52.971, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Emprêsa Elétrica Bragantina S.A. a vender diversos bens e instalações vinculadas aos serviços de energia elétrica de que é concessionária.

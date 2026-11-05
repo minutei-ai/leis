@@ -1,5 +1,3 @@
-###DEC-087848-0-000-22-11-1982@@@
-
 Decreto nº 87.848, de 22 de novembro de 1982.
 
 Declara perempta a concessão outorgada à S/A RÁDIO TUPAN para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de são Paulo.

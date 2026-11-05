@@ -1,5 +1,3 @@
-###DEC-051016-0-000-24-07-1961@@@
-
 DECRETO Nº 51.016, DE 24 DE JULHO DE 1961.
 
 Institui, no Ministério da Educação e Cultura, a Comissão de Coordenação de Bôlsas de Estudo de Nível Superior.

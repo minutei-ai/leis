@@ -1,5 +1,3 @@
-###DEC-045278-0-000-26-01-1959@@@
-
 decreto n º 45.278, de 26 de janeiro de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

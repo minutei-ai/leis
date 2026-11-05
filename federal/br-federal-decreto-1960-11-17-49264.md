@@ -1,5 +1,3 @@
-###DEC-049264-0-000-17-11-1960@@@
-
 decreto nº 49.264, de 17 de novembro de 1960.
 
 Concede à Mineração Boreal Limitada autorização para funcionar como emprêsa de mineração.

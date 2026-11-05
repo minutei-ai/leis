@@ -1,5 +1,3 @@
-###DEL-006862-0-000-08-09-1944@@@
-
 DECRETO-LEI N. 6.862 – DE 8 DE SETEMBRO DE 1944
 
 Cria uma coletoria federal no município de Bocaiuva, no Estado de São Paulo, e dá outras providências

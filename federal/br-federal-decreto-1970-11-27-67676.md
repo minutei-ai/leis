@@ -1,5 +1,3 @@
-###DEC-067676-0-000-27-11-1970@@@
-
 decreto nº 67.676, de 27 de novembro de 1970.
 
 Dá caráter cumulativo às Embaixadas em Addis-Abeba e Jacarta.

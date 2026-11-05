@@ -1,5 +1,3 @@
-###DEC-003189-0-000-04-10-1999@@@
-
 DECRETO Nº 3.189, DE 4 DE OUTUBRO DE 1999.
 
 Fixa diretrizes para o exercício da atividade de Agente Comunitário de Saúde (ACS), e dá outras providências.

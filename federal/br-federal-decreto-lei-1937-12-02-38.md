@@ -1,5 +1,3 @@
-###DEL-000038-0-000-02-12-1937@@@
-
 DECRETO-LEI N. 38 – DE 2 DE DEZEMBRO DE 1937
 
 Dispõe sôbre promoções no Exército em tempo de paz

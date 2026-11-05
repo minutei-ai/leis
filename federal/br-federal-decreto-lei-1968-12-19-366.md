@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7d6c2892-0d95-43e9-b1b3-26129b75edde/texto#nowhere)
 
-###DEL-000366-0-000-19-12-1968@@@
-
 DECRETO-LEI Nº 366, DE 19 DE DEZEMBRO DE 1968
 
 Dispõe sôbre a utilização facultativa dos serviços de despachantes nas operações de comércio exterior e interior, e dá outras providências.

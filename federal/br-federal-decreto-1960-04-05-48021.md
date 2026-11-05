@@ -1,5 +1,3 @@
-###DEC-048021-0-000-05-04-1960@@@
-
 decreto nº 48.021, de 5 de abril de 1960.
 
 Autoriza o cidadão brasileiro João Horácio de Oliveira a pesquisar quartzo e mica no município de Mendes Pimentel, Estado de Minas Gerais.

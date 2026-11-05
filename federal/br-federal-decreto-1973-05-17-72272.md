@@ -1,5 +1,3 @@
-###DEC-072272-0-000-17-05-1973@@@
-
 DECRETO Nº 72.272, DE 17 DE MAIO DE 1973.
 
 Concede à Indústria Cerâmica Imbituba S.A. o direito de lavrar caulim e areia quartzosa no Município de Pedras Grandes, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-078840-0-000-25-11-1976@@@
-
 DECRETO Nº 78.840, DE 25 DE NOVEMBRO DE 1976.
 
 Aprova a Terceira Edição da Farmacopéia Brasileira e dá outras providências.

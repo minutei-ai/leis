@@ -1,5 +1,3 @@
-###DEC-081616-0-000-28-04-1978@@@
-
 Decreto nº 81.616, de 28 de abril de 1978.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Biologia e Psicologia Maria Thereza, com sede na cidade de Niterói, Estado do Rio de Janeiro.

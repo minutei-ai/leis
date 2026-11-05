@@ -1,7 +1,3 @@
-1
-
-###DEC-099222-0-000-25-04-1990@@@
-
 DECRETO Nº 99.222, DE 25 DE ABRIL DE 1990
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo Comercial nº 5, no Setor da Indústria Química, entre o Brasil e a Argentina.

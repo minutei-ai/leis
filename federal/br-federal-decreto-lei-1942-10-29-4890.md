@@ -1,5 +1,3 @@
-###DEL-004890-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.890 – DE 29 DE OUTUBRO DE 1942
 
 Abre o crédito suplementar de 5:520$0 à dotação que especifica do Conselho Nacional de Águas e Energia Elétrica e torna sem aplicação igual quantia no orçamento em vigor.

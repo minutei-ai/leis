@@ -1,5 +1,3 @@
-###DEC-091312-0-000-05-06-1985@@@
-
 Decreto nº 91.312, de 05 de junho de 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis da União Pioneira de Integração Social.

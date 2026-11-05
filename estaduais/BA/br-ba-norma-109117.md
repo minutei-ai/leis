@@ -1,12 +1,19 @@
 LEI Nº 7.932 DE 19 DE SETEMBRO DE 2001
 
-Ver também:<br>
-Art. 9º do Decreto nº 16.849, de 14 de julho de 2016: "Fica prorrogado, para 31 de dezembro de 2017, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932, de 19 de setembro de 2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001. "<br>
-Art. 13 do Decreto nº 14.879, de 13 de dezembro de 2013: "Fica prorrogado para 30 de junho de 2015, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."<br>
-Art. 13 do Decreto nº 14.209 , de 14 de novembro de 2012: "Fica prorrogado para 31 de dezembro de 2014, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."<br>
-Art. 9º do Decreto nº 12.534, de 23 de dezembro de 2010: "Fica prorrogado para 31 de dezembro de 2012, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001.<br>
-Art. 10 do Decreto nº 10.710, de 18 de dezembro de 2007: "Fica prorrogado para 31 de dezembro de 2010 o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."<br>
-Art. 7º do Decreto nº 10.066, de 03 de agosto de 2006 - "Fica prorrogado para 31 de dezembro de 2007 o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."<br>
+Ver também:
+
+Art. 9º do Decreto nº 16.849, de 14 de julho de 2016: "Fica prorrogado, para 31 de dezembro de 2017, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932, de 19 de setembro de 2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001. "
+
+Art. 13 do Decreto nº 14.879, de 13 de dezembro de 2013: "Fica prorrogado para 30 de junho de 2015, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."
+
+Art. 13 do Decreto nº 14.209 , de 14 de novembro de 2012: "Fica prorrogado para 31 de dezembro de 2014, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."
+
+Art. 9º do Decreto nº 12.534, de 23 de dezembro de 2010: "Fica prorrogado para 31 de dezembro de 2012, o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001.
+
+Art. 10 do Decreto nº 10.710, de 18 de dezembro de 2007: "Fica prorrogado para 31 de dezembro de 2010 o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."
+
+Art. 7º do Decreto nº 10.066, de 03 de agosto de 2006 - "Fica prorrogado para 31 de dezembro de 2007 o prazo de vigência dos incentivos vinculados ao Programa de Incentivo à Cultura de Algodão - PROALBA, instituído pela Lei nº 7.932/2001, regulamentado pelo Decreto nº 8.064, de 21 de novembro de 2001."
+
 Regulamentada pelo Decreto nº 8.064, de 21 de novembro de 2001.
 
 Institui o Programa de Incentivo à Cultura de Algodão - PROALBA, e dá outras providências.

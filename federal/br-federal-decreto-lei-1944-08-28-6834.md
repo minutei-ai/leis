@@ -1,5 +1,3 @@
-###DEL-006834-0-000-28-08-1944@@@
-
 DECRETO-LEI N. 6.834 – DE 28 DE AGÔSTO DE 1944
 
 Autoriza a emissão de “Letras do Tesouro”

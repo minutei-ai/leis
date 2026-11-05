@@ -1,5 +1,3 @@
-###DEC-055364-0-000-31-12-1964@@@
-
 DECRETO Nº 55.364, DE 31 DE DEZEMBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da Oceânica Companhia Brasileira de Seguros, relativa ao aumento do capital social.

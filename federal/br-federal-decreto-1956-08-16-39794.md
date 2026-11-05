@@ -1,14 +1,12 @@
-###DEC-039794-0-000-16-08-1956@@@
+**DECRETO Nº 39.794, DE 16 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.794, DE 16 DE AGÔSTO DE 1956.</strong>
+***Altera o Decreto nº 35.312, de 2 de abril de 1954, que dispõe sôbre os Conselhos Fiscais dos Institutos de Aposentadoria e Pensões.***
 
-<em><strong>Altera o Decreto nº 35.312, de 2 de abril de 1954, que dispõe sôbre os Conselhos Fiscais dos Institutos de Aposentadoria e Pensões.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere  o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere  o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Os arts. 28, 29 e seu § 1º, e 30 do Decreto nº 35.312, de 2 de abril de 1954, passam a vigorar com a redação seguinte:
+**Art**. 1º - Os arts. 28, 29 e seu § 1º, e 30 do Decreto nº 35.312, de 2 de abril de 1954, passam a vigorar com a redação seguinte:
 
 “Art. 28 - Os membros do Conselho Fiscal perceberão a remuneração mensal de Cr$7.000,00 (sete mil cruzeiros) e a gratificação de Cr$1.000,00 (mil cruzeiros) por sessão a que comparecerem, até o máximo de (dez) por mês”.
 
@@ -22,16 +20,16 @@ I - indenização das despesas de transporte próprio e de uma bagagem pessoal, 
 
 II - diárias de valor igual ao máximo atribuível aos Diretores de órgãos Centrais do Instituto, pagáves segundo o critério adotado em relação a êstes”.
 
-<strong>Art</strong>. 2º - Ao art. 24 do Decreto nº 35.312, de 2 de abril de 1954, é acrescentado o seguinte parágrafo:
+**Art**. 2º - Ao art. 24 do Decreto nº 35.312, de 2 de abril de 1954, é acrescentado o seguinte parágrafo:
 
 § 5º - O afastamento dos membros do Conselho Fiscal para o desempenho de diligências deliberadas pelo referido órgão, quando por prazo superior a 10 (dez) dias, dependerá de prévia autorização do Departamento Nacional da Previdência Social”.
 
-<strong>Art</strong>. 3º - Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º - Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º - Revogam-se as disposições em contrário.
+**Art**. 4º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 16 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso

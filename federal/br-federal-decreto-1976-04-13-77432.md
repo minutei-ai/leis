@@ -1,5 +1,3 @@
-###DEC-077432-0-000-13-04-1976@@@
-
 Decreto nº 77.432 - de 13 de abril de 1976
 
 Fixa o fator de reajustamento salarial relativo a abril de 1976.

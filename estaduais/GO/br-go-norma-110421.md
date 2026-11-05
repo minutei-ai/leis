@@ -1,4 +1,5 @@
-DECRETO Nº 10.637, DE 4 DE FEVEREIRO DE 2025<br>
+DECRETO Nº 10.637, DE 4 DE FEVEREIRO DE 2025
+
 [\- Revogado pelo Decreto n° 10.815, de 26-11-2025, art. 12.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111618)
 
 ~~Institui e regulamenta, na Secretaria de Estado da Educação – SEDUC, o Prêmio Redação Enem, direcionado aos resultados obtidos na prova de redação do Exame Nacional do Ensino Médio – Enem aplicado no ano de 2024.~~

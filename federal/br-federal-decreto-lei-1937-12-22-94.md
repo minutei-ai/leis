@@ -1,5 +1,3 @@
-###DEL-000094-0-000-22-12-1937@@@
-
 DECRETO-LEI N. 94 – DE 22 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Justiça, o crédito suplementar de 674:800$ às verbas que especifica

@@ -1,5 +1,3 @@
-###DEL-008602-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.602 – DE 8 DE JANEIRO DE 1946
 
 Dá nova redação aos arts. 3º, “d”, 5º, 6º, 7º, 8º, 9º, 10, 12 e 14 do Decreto-lei nº 8.228, de 27 de novembro de 1945.

@@ -1,5 +1,3 @@
-###DEC-055650-0-000-29-01-1965@@@
-
 DECRETO Nº 55.650, DE 29 DE JANEIRO DE 1965.
 
 Revoga o art. 2º do Decreto número 54.097, de 5 de agôsto de 1964.

@@ -1,5 +1,3 @@
-###DEL-008569-A-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.569 – A – DE 7 DE JANEIRO DE 1946
 
 Dispõe sôbre a assistência judiciária ao pessoal do Corpo de Bombeiros do Distrito Federal e dá outras providências.

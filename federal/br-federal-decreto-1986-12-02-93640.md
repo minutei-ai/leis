@@ -1,5 +1,3 @@
-###DEC-093640-0-000-02-12-1986@@@
-
 DECRETO Nº 93.640, DE 2 DE DEZEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE CÁCERES LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Cáceres, Estado do Mato Grosso.

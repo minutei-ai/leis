@@ -1,5 +1,3 @@
-###DEC-058023-0-000-21-03-1966@@@
-
 Decreto nº 58.023, de 21 de março de 1966.
 
 Dispõe sôbre a educação cívica em todo o país e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212785)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2026/compilacao-ato.da.mesa-7-25.06.2026.html)
 
 # ATO DA MESA N° 07/2026, DE 25 DE JUNHO DE 2026
@@ -7,7 +6,8 @@
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das atribuições que lhe são conferidas pela alínea "a" do inciso I do artigo 14 da XIV Consolidação do Regimento Interno, e tendo em vista o disposto nos artigos 52 a 60 da [Resolução n° 776, de 14 de outubro de 1996](https://www.al.sp.gov.br/norma/10009), RESOLVE:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Artigo 1° –** Este Ato regulamenta os procedimentos administrativos relativos aos institutos de mobilidade funcional e ao estágio probatório para fins de estabilidade, relativamente aos servidores efetivos da Assembleia Legislativa do Estado de São Paulo.
@@ -38,7 +38,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 2° –** A Divisão de Desenvolvimento de Pessoas apoiará a atuação da Comissão, no que se refere às questões técnicas processuais e não decisórias.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DA PROGRESSÃO
 
 **Artigo 7° –** A progressão funcional será alcançada por critérios de merecimento, respeitando os parâmetros objetivos e técnico-funcionais apreciados na avaliação formal de desempenho e o atingimento de objetivos individuais, fixados em conjunto com seu superior imediato.
@@ -135,7 +136,8 @@ b) atribuições técnicas da unidade de lotação e/ou do cargo.
 
 **§ 7° –** Aplicam-se, no que couber, as regras previstas no artigo 20 deste Ato às hipóteses previstas neste artigo.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DA PROMOÇÃO
 
 **Artigo 18 –** A promoção funcional será alcançada conforme o resultado satisfatório em avaliação formal de desempenho, nos termos do artigo 53 da [Resolução n° 776, de 14 de outubro de 1996](https://www.al.sp.gov.br/norma/10009), e da participação em cursos de aperfeiçoamento ou em programas de capacitação relacionados com o cargo ou a função exercida ou com as atribuições da área em que estiver lotado.
@@ -204,7 +206,8 @@ _\- Vide_ [_Ordem de Serviço DRH n° 1/2026, de 13/07/2026_](https://doe.sp.gov
 
 **Parágrafo único –** Para os servidores enquadrados no item 3 do parágrafo único do artigo 54, da [Resolução n° 776, de 14 de outubro de 1996](https://www.al.sp.gov.br/norma/10009), a promoção dar-se-á de forma direta e automática.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DO ESTÁGIO PROBATÓRIO
 
 **Artigo 22 –** O estágio probatório é o período de efetivo exercício a que se submete o servidor nomeado e empossado para cargo de provimento efetivo, com a finalidade de aferir sua aptidão, capacidade e adequação ao desempenho das atribuições do cargo, como condição para a aquisição da estabilidade prevista no art. 41 da Constituição Federal de 1988.
@@ -317,7 +320,8 @@ X - encaminhar os processos de estágio probatório para verificação da exist�
 
 **Artigo 28 –** Diante da recomendação de exoneração, constante em qualquer dos relatórios semestrais, o Departamento de Recursos Humanos encaminhará o processo à Secretaria-Geral de Administração, para deliberação.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 29 –** O servidor poderá apresentar, no prazo de 5 (cinco) dias úteis após cada publicação referente ao processo de mobilidade funcional vigente, pedido de reconsideração à Comissão Especial que praticou o ato recorrido, nos termos do artigo 60 da [Resolução n° 776, de 14 de outubro de 1996](https://www.al.sp.gov.br/norma/10009), com redação dada pela [Resolução n° 942, de 22 de fevereiro de 2024](https://www.al.sp.gov.br/norma/209117).
@@ -334,7 +338,8 @@ DISPOSIÇÕES FINAIS
 
 **Artigo 34 –** Este Ato entra em vigor na data de sua publicação.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 DISPOSIÇÕES TRANSITÓRIAS
 
 **Artigo 1° –** Excepcionalmente para o processo de promoção referente ao ano de 2026, será exigida a comprovação mínima de 30 (trinta) horas de cursos ou programas de capacitação nos casos previstos no caput do artigo 20 e no artigo 21 deste Ato, aplicando-se, nos demais aspectos, as regras gerais estabelecidas para o respectivo processo.

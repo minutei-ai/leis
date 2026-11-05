@@ -1,5 +1,3 @@
-###DEC-058492-0-000-24-05-1966@@@
-
 DECRETO Nº 58.492, DE 24 DE MAIO DE 1966.
 
 Altera o Decreto nº 52.342, de 8 de agôsto de 1963, que aprovou o Regimento do Departamento de Promoção Agropecuária do Ministério da Agricultura e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095753-0-000-26-02-1988@@@
-
 DECRETO N° 96.753, DE 26 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas de Cuiabá, Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-076447-0-000-16-10-1975@@@
-
 DECRETO Nº 76.447, DE 16 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade de Pernambuco - CELPE, no Estado de Pernambuco.

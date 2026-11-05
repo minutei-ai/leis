@@ -1,5 +1,3 @@
-###DEC-056067-0-000-26-04-1965@@@
-
 DECRETO Nº 56.067, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Mineração Brasília Limitada a lavrar minério de ferro, no município de Caeté, Estado de Minas Gerais.

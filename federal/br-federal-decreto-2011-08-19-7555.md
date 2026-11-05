@@ -1,5 +1,3 @@
-###DEC-007555-0-000-19-08-2011-PUB-01@@@
-
 DECRETO Nº 7.555, DE 19 DE AGOSTO DE 2011.
 
 Regulamenta os arts. 14 a 20 da Medida Provisória n° 540, de 2 de agosto de 2011, que dispõem sobre a incidência do Imposto sobre Produtos Industrializados - IPI, no mercado interno e na importação, relativo aos cigarros classificados no código 2402.20.00 da Tabela de Incidência do IPI, e dá outras providências.

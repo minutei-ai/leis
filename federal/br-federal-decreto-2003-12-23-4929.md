@@ -1,5 +1,3 @@
-###DEC-004929-0-000-23-12-2003@@@
-
 DECRETO Nº 4.929 DE 23 DE DEZEMBRO DE 2003.
 
 Atribui ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES a competência para atuar como órgão gestor do Fundo de Garantia à Exportação - FGE.

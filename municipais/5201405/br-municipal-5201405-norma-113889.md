@@ -12,13 +12,16 @@ Art. 2° Este decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 05 de abril de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-IDELMA MARIA DE OLIVEIRA SILVA<br>
+IDELMA MARIA DE OLIVEIRA SILVA
+
 Secretária Municipal de Educação
 
 ANEXO ÚNICO

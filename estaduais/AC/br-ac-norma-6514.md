@@ -1,6 +1,10 @@
 > **LEI Nº 4.618, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Política de Incentivo ao Esporte para Crianças e Adolescentes em Situação de Vulnerabilidade Socioeconômica no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Política de Incentivo ao Esporte para Crianças e Adolescentes em Situação de Vulnerabilidade Socioeconômica no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

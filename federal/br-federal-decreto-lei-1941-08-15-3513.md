@@ -1,5 +1,3 @@
-###DEL-003513-0-000-15-08-1941@@@
-
 DECRETO-LEI N. 3.513 – DE 15 DE AGOSTO DE 1941
 
 Revoga o decreto-lei n. 3.473, de 28 de julho de 1941, e altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas.

@@ -1,5 +1,3 @@
-###DEL-009875-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.875 – DE 16 DE SETEMBRO DE 1946
 
 Altera a composição do Conselho Nacional de Desportos e dá outras providências.

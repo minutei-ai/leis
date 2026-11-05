@@ -1,5 +1,3 @@
-###DEC-048869-0-000-20-08-1960@@@
-
 DECRETO Nº 48.869, DE 20 DE agôsto DE 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados Transportes e Cargas e dá outras providências.

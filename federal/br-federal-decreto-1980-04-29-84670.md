@@ -1,5 +1,3 @@
-###DEC-084670-0-000-29-04-1980@@@
-
 Decreto nº 84.670, de 29 de abril de 1980
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, com as respectivas benfeitorias, necessárias à implantação do "Distrito de Irrigação do Arroio Chasqueiro", no Município de Arroio Grande, Estado do Rio Grande do Sul.

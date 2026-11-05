@@ -1,7 +1,3 @@
-1
-
-###MPV-001147-0-000-24-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.147, DE 24 DE OUTUBRO DE 1995.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

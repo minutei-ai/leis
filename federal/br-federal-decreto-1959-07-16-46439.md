@@ -1,5 +1,3 @@
-###DEC-046439-0-000-16-07-1959@@@
-
 DECRETO Nº 46.439, DE 16 DE JULHO DE 1959.
 
 Constitui comissão para rever legislação sôbre desembaraço de encomendas postais internacionais.

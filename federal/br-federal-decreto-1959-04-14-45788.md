@@ -1,5 +1,3 @@
-###DEC-045788-0-000-14-04-1959@@@
-
 Decreto nº 45.788, de 14 de abril de 1959.
 
 Retifica o art. 1º do Decreto número 37.752, de 17 de agôsto de 1955.

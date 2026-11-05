@@ -1,5 +1,3 @@
-###DEC-007561-0-000-14-09-2011-PUB-01@@@
-
 DECRETO Nº  7.561, DE 14 DE SETEMBRO DE 2011
 
 Altera o Decreto nº 7.304, de 22 de setembro de 2010, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Relações Exteriores.

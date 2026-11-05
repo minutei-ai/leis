@@ -1,5 +1,3 @@
-###DEL-008969-0-000-09-02-1946@@@
-
 DECRETO–LEI N. 8969 – DE 9 DE FEVEREIRO DE 1946
 
 Torna extensivas nos vencimentos dos dias 10, 11, 12 e 13 de fevereiro corrente as disposições do art. 1º do Decreto–lei n.8.967, de 6 de fevereiro de 1946, que regula a liquidação de obrigações prorrogados, em conseqüência da greve dos bancários.

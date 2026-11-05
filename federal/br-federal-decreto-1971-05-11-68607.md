@@ -1,5 +1,3 @@
-###DEC-068607-0-000-11-05-1971@@@
-
 DECRETO Nº 68.607 - DE 11 DE MAIO DE 1971.
 
 Declara de utilidade pública a Associação Beneficente Hospital de Magé, com sede em Magé, Estado do Rio de Janeiro.

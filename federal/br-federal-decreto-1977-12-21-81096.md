@@ -1,5 +1,3 @@
-###DEC-081096-0-000-21-12-1977@@@
-
 Decreto nº 81.096, de 21 de dezembro de 1977
 
 Concede reconhecimento ao curso de Geologia do Instituto de Geociências da Universidade Federal de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

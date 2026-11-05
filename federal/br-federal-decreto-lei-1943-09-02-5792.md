@@ -1,5 +1,3 @@
-###DEL-005792-0-000-02-09-1943@@@
-
 DECRETO-LEI N. 5.792 – DE 2 DE SETEMBRO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 100.000,00 para as despesas com Missão confiado ao Capitão de Mar e Guerra Braz Dias de Aguiar

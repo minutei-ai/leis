@@ -1,5 +1,3 @@
-###DEC-045156-0-000-31-12-1958@@@
-
 DECRETO Nº 45.156, DE 31 DE DEZEMBRO DE 1958.
 
 Concede à Pexbex Minérios S.A. autorização para continuar a funcionar como emprêsa de mineração.

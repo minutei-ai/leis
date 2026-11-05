@@ -1,20 +1,18 @@
-###DEC-025528-0-000-17-09-1948@@@
+**DECRETO Nº 25.528, DE 17 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.528, DE 17 DE SETEMBRO DE 1948.</strong>
+***Outorga à Companhia Fôrça e Luz de Guimarânia, Sociedade Anônima, concessão para o aproveiatmento progressivo da energia hidráulica de um desnível existente no ribeirão Bebedouro, município de Patrocínio, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Companhia Fôrça e Luz de Guimarânia, Sociedade Anônima, concessão para o aproveiatmento progressivo da energia hidráulica de um desnível existente no ribeirão Bebedouro, município de Patrocínio, Estado de Minas Gerais.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto n.º 24.643, de 10 de julho de 1934),
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto n.º 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Força e Luz de Guimarânia, Sociedade Anônima, concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no ribeirão Bebedouro, município de Patrocínio, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Força e Luz de Guimarânia, Sociedade Anônima, concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no ribeirão Bebedouro, município de Patrocínio, Estado de Minas Gerais.
 
 § 1.º - Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda e aproveitar a descarga e a potência concedidas.
 
 § 2.º - O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços públicos, serviços de utilidade pública e para comércio de energia no distrito de Guimarânia, município de Patos de Minas, Estado de Minas Gerais.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título a concessionária obriga-se a:
 
 I - Registrá-la na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, após a sua publicação;
 
@@ -64,36 +62,36 @@ V - Apresentar o mesmo contrato à Divisão de Águas, para fins de registro, at
 
 Parágrafo único. Os contratos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5.º A concessionária fica obrigada a construir e mantr, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 5.º A concessionária fica obrigada a construir e mantr, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 6.º À concessionária é assegurado, durante a vigência da presente concessão e respeitados os direitos de terceiros anteriormente adquiridos, a autorização para fazer o comércio de energia elétrica na zona referida no § 2.º do art. 1.º do presente Decreto.
+**Art**. 6.º À concessionária é assegurado, durante a vigência da presente concessão e respeitados os direitos de terceiros anteriormente adquiridos, a autorização para fazer o comércio de energia elétrica na zona referida no § 2.º do art. 1.º do presente Decreto.
 
-<strong>Art</strong>. 7.º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária em função de su aindústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 7.º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária em função de su aindústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8.º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno e trienalmente revistas, de acôrdo com o dispotso no art. 180 do Código de Águas.
+**Art**. 8.º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno e trienalmente revistas, de acôrdo com o dispotso no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 9.º Para a manutenção da integridade do capital a que se refere o art. 7.º  do presente decreto, será criado um fundo de reserva que proverá as renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 9.º Para a manutenção da integridade do capital a que se refere o art. 7.º  do presente decreto, será criado um fundo de reserva que proverá as renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá de atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10. Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno do Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166, do Código de Águas, mediante indenização do investimento, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9.º dêste decreto.
+**Art**. 10. Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno do Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166, do Código de Águas, mediante indenização do investimento, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9.º dêste decreto.
 
 § 1.º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2.º Para os efeitos do § 1.º dêste artigo, fica a concessoinária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11. A concessionária gozará, desde a data do registro de que trata o artigo 4.º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11. A concessionária gozará, desde a data do registro de que trata o artigo 4.º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12. O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 12. O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 13. Revogam-se as disposições em contrário.
+**Art**. 13. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de setembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

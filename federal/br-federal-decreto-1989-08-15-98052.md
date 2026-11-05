@@ -1,7 +1,3 @@
-1
-
-###DEC-098052-0-000-15-08-1989@@@
-
 DECRETO N° 98.052, DE 15 DE AGOSTO DE 1989
 
 Altera a redação dos arts. 4° e 6° do Decreto n° 95.676, de 27 de janeiro de 1988, que institui o sistema de comunicação social e divulgação da Administração Federal.

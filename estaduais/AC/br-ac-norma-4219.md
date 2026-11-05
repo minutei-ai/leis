@@ -1,6 +1,10 @@
 > **LEI Nº 3.696, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública no âmbito do Estado do Acre a Associação Atlética Banco do Brasil de Sena Madureira Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública no âmbito do Estado do Acre a Associação Atlética Banco do Brasil de Sena Madureira Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -9,8 +13,6 @@
 **Art. 1º** Fica declarada de Utilidade Pública a Associação Atlética Banco do Brasil de Sena Madureira Acre.
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco-Acre, 7 de janeiro de 2021, 133º da República, 119º do Tratado de Petrópolis e 60º do Estado do Acre.
 

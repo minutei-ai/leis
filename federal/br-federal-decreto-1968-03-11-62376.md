@@ -1,5 +1,3 @@
-###DEC-062376-0-000-11-03-1968@@@
-
 DECRETO Nº 62.376, DE 11 DE MARÇO DE 1968.
 
 Reconhecimento da Faculdade de Medicina da Universidade Federal de Goiás.

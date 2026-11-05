@@ -1,5 +1,3 @@
-###DEC-058874-0-000-20-07-1966@@@
-
 DECRETO Nº 58.874, DE 20 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro André Vicente Garcia a pesquisar caulim e xisto argiloso, no Município de Pirapora do Bom Jesus, Estado de São Paulo.

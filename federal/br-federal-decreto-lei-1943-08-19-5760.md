@@ -1,5 +1,3 @@
-###DEL-005760-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.760 – DE 19 DE AGÔSTO DE 1943
 
 Autoriza a  celebração de acôrdo com o Abrigo do Cristo Redentor, para a instituição, pela União Federal, de uma fundação, e dá outras providências

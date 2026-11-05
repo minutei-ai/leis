@@ -1,5 +1,3 @@
-###DEC-071953-0-000-20-03-1973@@@
-
 DECRETO Nº 71.953, DE 20 DE MARÇO DE 1973.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para o aproveitamento da energia hidráulica de um trecho do Rio Lontra, no Município de Araguaina, no Estado de Goiás.

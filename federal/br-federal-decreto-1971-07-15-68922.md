@@ -1,5 +1,3 @@
-###DEC-068922-0-000-15-07-1971@@@
-
 DECRETO Nº 68.922, DE 15 DE JULHO DE 1971.
 
 Outorga concessão à Secretaria de Educação do Estado de Minas Gerais para estabelecer, na cidade de Belo Horizonte, uma estação de radiodifusão de sons e imagens (televisão), com fins educativos.

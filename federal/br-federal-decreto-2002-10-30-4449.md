@@ -1,5 +1,3 @@
-###DEC-004449-0-000-30-10-2002@@@
-
 DECRETO Nº 4.449, DE 30 DE OUTUBRO DE 2002
 
 Regulamenta a Lei nº 10.267, de 28 de agosto de 2001, que altera dispositivos das Leis ns. 4.947, de 6 de abril de 1966; 5.868, de 12 de dezembro de 1972; 6.015, de 31 de dezembro de 1973; 6.739, de 5 de dezembro de 1979; e 9.393, de 19 de dezembro de 1996, e dá outras providências.

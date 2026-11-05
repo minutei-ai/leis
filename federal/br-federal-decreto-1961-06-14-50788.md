@@ -1,5 +1,3 @@
-###DEC-050788-0-000-14-06-1961@@@
-
 DECRETO Nº 50.788, DE 14 DE JUNHO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Comando Militar da Amazônia e 8ª Região Militar.

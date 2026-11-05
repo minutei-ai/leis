@@ -1,5 +1,3 @@
-###DEC-067349-0-000-06-10-1970@@@
-
 DECRETO Nº 67.349, DE 6 de OuTUBRO DE 1970.
 
 Dispõe sobre a instituição de Programa de Implantação Progressiva do Regime de Tempo Integral e Dedicação Exclusiva para as atividades de pesquisa da Administração Federal e dá outras providências.

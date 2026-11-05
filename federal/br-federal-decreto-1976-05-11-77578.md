@@ -1,5 +1,3 @@
-###DEC-077578-0-000-11-05-1976@@@
-
 DECRETO Nº 77.578, DE 11 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Ituverava, com sede na cidade de Ituverava, Estado de São Paulo.

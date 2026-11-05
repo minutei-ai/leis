@@ -1,5 +1,3 @@
-###DEL-005852-0-000-24-09-1943@@@
-
 DECRETO‑LEI N.  5.852 – DE 24 DE SETEMBRO DE 1943
 
 Autoriza a liquidação de que trata o art. 2.º do decreto‑lei n. 5.266, de 20 de fevereiro de !943, mediante cessão e transferência dos bens e direitos incorporados ao Patrimônio nacional, e dá outras  providências

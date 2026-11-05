@@ -1,5 +1,3 @@
-###DEL-007882-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.882 – DE 20 DE AGÔSTO DE 1945
 
 Eleva gratificação de função no Quadro Permanente do Ministério da Agricultura e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098063-0-000-17-08-1989@@@
-
 DECRETO Nº 98.063, DE 17 DE AGOSTO DE 1989
 
 Homologa a demarcação administrativa da Terra Indígena Nhamundá-Mapuera, que menciona, nos Estados do Amazonas e do Pará.

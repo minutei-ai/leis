@@ -1,5 +1,3 @@
-###DEC-081326-0-000-09-02-1978@@@
-
 dECRETO Nº 81.326, de 09 DE FEVEREIRO DE 1978.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade Federal Rural de Pernambuco.

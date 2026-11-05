@@ -1,5 +1,3 @@
-###DEC-081344-0-000-14-02-1978@@@
-
 DECRETO Nº 81.344, DE 14 DE FEVEREIRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São Luís, Estado do Maranhão.

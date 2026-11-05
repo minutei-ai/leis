@@ -1,5 +1,3 @@
-###DEC-061068-0-000-26-07-1967@@@
-
 DECRETO nº 61.068, DE 26 DE JULHO DE 1967.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Industrial Papelão Chapecosinho Ltda.

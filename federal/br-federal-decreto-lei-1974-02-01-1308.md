@@ -1,5 +1,3 @@
-###DEL-001308-0-000-01-02-1974@@@
-
 # DECRETO-LEI Nº 1.308, DE 1 DE FEVEREIRO DE 1974
 
 Altera, para o exercício de 1974, a distribuição do produto da arrecadação dos impostos únicos.

@@ -1,5 +1,3 @@
-###DEC-075612-0-000-15-04-1975@@@
-
 decreto nº 75.612, de 15 de abril de 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Curitiba, no Estado do Paraná.

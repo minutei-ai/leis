@@ -1,5 +1,3 @@
-###DEC-089235-0-000-22-12-1983@@@
-
 Decreto 89.235, de 22 de dezembro de 1983.
 
 Concede à Caraíba Metais S.A. - Indústria e Comércio autorização para proceder ao aumento do seu capital autorizado.

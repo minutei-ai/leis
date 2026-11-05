@@ -1,5 +1,3 @@
-###DEC-075369-0-000-13-02-1975@@@
-
 DECRETO Nº 75.369, DE 13 DE FEVEREIRO DE 1975.
 
 Altera o artigo 1º do Decreto número 73.079 de 5 de novembro de 1973, que dispõe sobre o sistema de classificação dos candidatos no Concurso Vestibular para admissão aos cursos superiores de graduação.

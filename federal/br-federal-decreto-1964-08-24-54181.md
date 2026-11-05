@@ -1,5 +1,3 @@
-###DEC-054181-0-000-24-08-1964@@@
-
 DECRETO Nº 54.181, DE 24 DE AGÔSTO DE 1964.
 
 Concede á Minérios Catarinense Ltda. autorização para funcionar como emprêsa de mineração.

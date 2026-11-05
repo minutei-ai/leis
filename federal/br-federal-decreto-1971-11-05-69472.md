@@ -1,5 +1,3 @@
-###DEC-069472-0-000-05-11-1971@@@
-
 DECRETO Nº 69.472 - DE 5 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem de alimentadores, na cidade de Presidente Prudente, Estado de São Paulo.

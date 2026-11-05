@@ -1,5 +1,3 @@
-###DEL-000728-0-000-06-08-1969@@@
-
 DECREto-lei nº 728, de 6 de agÔsto de 1969
 
 Institui o Código de Vencimentos dos Militares, dispõe sôbre indenizações, proventos, outros direitos e dá outras providências.
@@ -1326,4 +1324,202 @@ TABELA DE ESCALONAMENTO VERTICAL
 
 (Artigo 161 do C V M)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PÔSTO OU GRADUAÇÃO</span></p></td><td style="width:62.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>ÍNDICE</span></p></td></tr><tr><td style="width:341.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>1. Oficiais-Generais</span></p><p class="Tabela" style="text-indent:0pt"><span>Almirante-de-Esquadra, General-de-Exército, Tenente-Brigadeiro .................</span></p><p class="Tabela" style="text-indent:0pt"><span>Vice-Almirante, General-de-Divisão, Major-de-Brigadeiro ...............................</span></p><p class="Tabela" style="text-indent:0pt"><span>Contra-Almirante, General-de-Brigada, Brigeiro .............................................</span></p><p class="Tabela" style="text-indent:0pt"><span>2. Oficiais Superiores</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão-de-Mar-e-Guerra, Coronel ................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão-de-Fragata, Tenente-Coronel ............................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão-de-Corveta, Major .............................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>3. Capitães</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão-Tenente, Capitão ..............................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>4. Oficiais Subalternos</span></p><p class="Tabela" style="text-indent:0pt"><span>Primeiro-Tenente ...........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Segundo-Tenente .........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>5. Praças Especiais e Alunos</span></p><p class="Tabela" style="text-indent:0pt"><span>Guarda-Marinha, Aspirante-a-Oficial ..............................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Aspirante, Cadete (último ano) ......................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Aspirante, Cadete (demais anos) ..................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Aluno, EFORM, CPOR, NPOR .....................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Aluno EFS ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Aluno Colégio Naval, Escola Preparatória de Cadetes (último ano) ...............</span></p><p class="Tabela" style="text-indent:0pt"><span>Aluno Colégio Naval Escola Preparatória de Cadetes (demais anos) .............</span></p><p class="Tabela" style="text-indent:0pt"><span>Aprendiz-Marinheiro.......................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>6. Praças Graduadas</span></p><p class="Tabela" style="text-indent:0pt"><span>Suboficial, Subtenente...................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Primeiro-Sargento..........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Segundo-Sargento.........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Terceiro-Sargento...........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Cabo (engajado).............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Cabo (não engajado)......................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>7. Demais Praças</span></p><p class="Tabela" style="text-indent:0pt"><span>Marinheiro, Soldado, Soldado Fuzileiro Naval (especializados, cursados e engajados .....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Marinheiro ou Soldado Fuzileiro Naval (não especializados) e soldado de 1ª classe da Aeronáutica ...................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Soldado Clarim ou Corneteiro de 1ª Classe ...................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Soldado Clarim ou Corneteiro de 2ª Classe ...................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Soldado Clarim ou Corneteiro de 3ª Classe ...................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Soldado, Soldado de 2ª Classe da Aeronáutica (engajados) .........................</span></p><p class="Tabela" style="text-indent:0pt"><span>Soldado Recruta, Conscrito, Soldado, Soldado de 2ª Classe da Aeronáutica (não engajados).............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Grumete.........................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>8. Taifeiros</span></p><p class="Tabela" style="text-indent:0pt"><span>Taifeiro-Mór....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Taifeiro de Primeira Classe.............................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro de Segunda Classe............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>100</span></p><p class="Tabela" style="text-indent:0pt"><span>94</span></p><p class="Tabela" style="text-indent:0pt"><span>88</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>80</span></p><p class="Tabela" style="text-indent:0pt"><span>76</span></p><p class="Tabela" style="text-indent:0pt"><span>72</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>64</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>55</span></p><p class="Tabela" style="text-indent:0pt"><span>50</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>46</span></p><p class="Tabela" style="text-indent:0pt"><span>13</span></p><p class="Tabela" style="text-indent:0pt"><span>8</span></p><p class="Tabela" style="text-indent:0pt"><span>8</span></p><p class="Tabela" style="text-indent:0pt"><span>6</span></p><p class="Tabela" style="text-indent:0pt"><span>5</span></p><p class="Tabela" style="text-indent:0pt"><span>4</span></p><p class="Tabela" style="text-indent:0pt"><span>2</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>46</span></p><p class="Tabela" style="text-indent:0pt"><span>43</span></p><p class="Tabela" style="text-indent:0pt"><span>37</span></p><p class="Tabela" style="text-indent:0pt"><span>34</span></p><p class="Tabela" style="text-indent:0pt"><span>24</span></p><p class="Tabela" style="text-indent:0pt"><span>9</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>17</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>14</span></p><p class="Tabela" style="text-indent:0pt"><span>17</span></p><p class="Tabela" style="text-indent:0pt"><span>12</span></p><p class="Tabela" style="text-indent:0pt"><span>9</span></p><p class="Tabela" style="text-indent:0pt"><span>9</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>4</span></p><p class="Tabela" style="text-indent:0pt"><span>5</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>28</span></p><p class="Tabela" style="text-indent:0pt"><span>26</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top">
+
+PÔSTO OU GRADUAÇÃO
+
+</td><td style="width:62.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+ÍNDICE
+
+</td></tr><tr><td style="width:341.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top">
+
+1. Oficiais-Generais
+
+Almirante-de-Esquadra, General-de-Exército, Tenente-Brigadeiro .................
+
+Vice-Almirante, General-de-Divisão, Major-de-Brigadeiro ...............................
+
+Contra-Almirante, General-de-Brigada, Brigeiro .............................................
+
+2. Oficiais Superiores
+
+Capitão-de-Mar-e-Guerra, Coronel ................................................................
+
+Capitão-de-Fragata, Tenente-Coronel ............................................................
+
+Capitão-de-Corveta, Major .............................................................................
+
+3. Capitães
+
+Capitão-Tenente, Capitão ..............................................................................
+
+4. Oficiais Subalternos
+
+Primeiro-Tenente ...........................................................................................
+
+Segundo-Tenente .........................................................................................
+
+5. Praças Especiais e Alunos
+
+Guarda-Marinha, Aspirante-a-Oficial ..............................................................
+
+Aspirante, Cadete (último ano) ......................................................................
+
+Aspirante, Cadete (demais anos) ..................................................................
+
+Aluno, EFORM, CPOR, NPOR .....................................................................
+
+Aluno EFS ....................................................................................................
+
+Aluno Colégio Naval, Escola Preparatória de Cadetes (último ano) ...............
+
+Aluno Colégio Naval Escola Preparatória de Cadetes (demais anos) .............
+
+Aprendiz-Marinheiro.......................................................................................
+
+6. Praças Graduadas
+
+Suboficial, Subtenente...................................................................................
+
+Primeiro-Sargento..........................................................................................
+
+Segundo-Sargento.........................................................................................
+
+Terceiro-Sargento...........................................................................................
+
+Cabo (engajado).............................................................................................
+
+Cabo (não engajado)......................................................................................
+
+7. Demais Praças
+
+Marinheiro, Soldado, Soldado Fuzileiro Naval (especializados, cursados e engajados .....................................................................................................
+
+Marinheiro ou Soldado Fuzileiro Naval (não especializados) e soldado de 1ª classe da Aeronáutica ...................................................................................
+
+Soldado Clarim ou Corneteiro de 1ª Classe ...................................................
+
+Soldado Clarim ou Corneteiro de 2ª Classe ...................................................
+
+Soldado Clarim ou Corneteiro de 3ª Classe ...................................................
+
+Soldado, Soldado de 2ª Classe da Aeronáutica (engajados) .........................
+
+Soldado Recruta, Conscrito, Soldado, Soldado de 2ª Classe da Aeronáutica (não engajados).............................................................................................
+
+Grumete.........................................................................................................
+
+8. Taifeiros
+
+Taifeiro-Mór....................................................................................................
+
+Taifeiro de Primeira Classe.............................................................................
+
+Taifeiro de Segunda Classe............................................................................
+
+</td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+&nbsp;
+
+100
+
+94
+
+88
+
+&nbsp;
+
+&nbsp;
+
+80
+
+76
+
+72
+
+&nbsp;
+
+&nbsp;
+
+64
+
+&nbsp;
+
+&nbsp;
+
+55
+
+50
+
+&nbsp;
+
+&nbsp;
+
+46
+
+13
+
+8
+
+8
+
+6
+
+5
+
+4
+
+2
+
+&nbsp;
+
+&nbsp;
+
+46
+
+43
+
+37
+
+34
+
+24
+
+9
+
+&nbsp;
+
+&nbsp;
+
+17
+
+&nbsp;
+
+14
+
+17
+
+12
+
+9
+
+9
+
+&nbsp;
+
+4
+
+5
+
+&nbsp;
+
+&nbsp;
+
+28
+
+26
+
+25
+
+</td></tr></tbody></table>

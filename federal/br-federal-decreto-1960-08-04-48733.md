@@ -1,5 +1,3 @@
-###DEC-048733-0-000-04-08-1960@@@
-
 DECRETO N.º 48.733, DE 4 DE AGôSTO DE 1960.
 
 Autoriza Pedro Gomes Dumont a comprar pedras preciosas.

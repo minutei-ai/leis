@@ -1,5 +1,3 @@
-###DEL-007251-0-000-17-01-1945@@@
-
 DECRETO-LEI N. 7.251 – DE 17 DE JANEIRO DE 1945
 
 Cria funções gratificadas para o Serviço de Estatística da Educação e Saúde do Ministério da Educação e Saúde

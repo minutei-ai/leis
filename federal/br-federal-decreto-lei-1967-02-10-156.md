@@ -1,5 +1,3 @@
-###DEL-000156-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 156, DE 10 DE FEVEREIRO DE 1967
 
 Modifica disposição do Decreto-lei nº 38, de 18 de novembro de 1966.

@@ -1,5 +1,3 @@
-###DEC-065545-0-000-21-10-1969@@@
-
 DECRETO Nº 65.545 - DE 21 DE OUTUBRO DE 1969.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Centrais Elétricas de Roraima S.A.

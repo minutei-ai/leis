@@ -1,5 +1,3 @@
-###DEC-054716-0-000-30-10-1964@@@
-
 DECRETO Nº 54.716, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza a Emprêsa de Mineração Paqueiro Ltda. a pesquisar galena, no município de Ribeira, Estado de São Paulo.

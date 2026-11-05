@@ -1,5 +1,3 @@
-###DEC-056583-0-000-19-07-1965@@@
-
 DECRETO Nº 56.583, DE 19 DE JULHO DE 1965.
 
 Dispõe sôbre a criação de área prioritária de emergência para fins de Reforma Agrária, e dá outras providências.

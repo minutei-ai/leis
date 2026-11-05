@@ -1,5 +1,3 @@
-###DEC-074855-0-000-08-11-1974@@@
-
 DECRETO Nº 74.855, DE 8 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Administrativas, Contábeis e Econômicas de Ijuí, mantida pela Fundação de Integração, Desenvolvimento e Educação do Noroeste do Estado, com sede na Cidade de Ijuí, Estado do Rio Grande do Sul.

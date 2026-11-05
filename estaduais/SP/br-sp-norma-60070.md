@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=60070)
-
 # LEI Nº 12.238, DE 23 DE JANEIRO DE 2006
 
 ### _Dispõe sobre a obrigatoriedade de notificação compulsória à autoridade policial, nos casos de violência contra a criança e o adolescente, quando atendidos pelos serviços de saúde públicos e privados no Estado de São Paulo_

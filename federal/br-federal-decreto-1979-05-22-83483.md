@@ -1,5 +1,3 @@
-###DEC-083483-0-000-22-05-1979@@@
-
 Decreto nº 83.483,de 22 de maio de 1979.
 
 Dispões sobre a composição do Conselho Nacional de Seguros Privados e dá outras providências.

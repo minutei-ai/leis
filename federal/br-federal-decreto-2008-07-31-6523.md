@@ -1,5 +1,3 @@
-###DEC-006523-0-000-31-07-2008@@@
-
 DECRETO Nº 6.523, DE 31 DE JULHO DE 2008.
 
 Regulamenta a Lei no 8.078, de 11 de setembro de 1990, para fixar normas gerais sobre o Serviço de Atendimento ao Consumidor - SAC.

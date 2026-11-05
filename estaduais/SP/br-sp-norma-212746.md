@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212746)<br>
-
 # LEI N° 18.493, DE 16 DE JUNHO DE 2026
 
 ## (Projeto de lei n° 891/2024, do Deputado Oseias de Madureira – PSD)

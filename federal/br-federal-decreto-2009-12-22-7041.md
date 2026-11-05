@@ -1,5 +1,3 @@
-###DEC-007041-0-000-22-12-2009@@@
-
 DECRETO Nº 7.041, DE 22 DE DEZEMBRO DE 2009.
 
 Promulga o Acordo de entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Cooperação Científica e Tecnológica, firmado em Kiev, em 15 de novembro de 1999.

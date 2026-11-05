@@ -10,11 +10,14 @@ Art. 2º - Esta lei entrara em vigor na data de sua publicação, revogando-se d
 
 Gabinete do prefeito Municipal de Aparecida de Goiânia, aos cinco dias do mês de junho de um mil novecentos e noventa e um.
 
-SEBASTIÃO LEMES VIANA<br>
+SEBASTIÃO LEMES VIANA
+
 PREFEITO MUNICIPAL
 
-PAULO REGIS MATOS VALADARES<br>
+PAULO REGIS MATOS VALADARES
+
 SEC.DO GOVERNO MUNICIPAL
 
-DIVA DALVA ALVES<br>
+DIVA DALVA ALVES
+
 SEC.DE EDUCAÇÃO

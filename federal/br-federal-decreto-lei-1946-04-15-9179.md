@@ -1,5 +1,3 @@
-###DEL-009179-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.179 – DE 15 DE ABRIL DE 1946
 
 Altera o Decreto-lei nº 300, de 24 de Fevereiro de 1938, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083152-0-000-12-02-1979@@@
-
 Decreto nº 83.152 de 12 de fevereiro de 1979
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Universidade Federal de Alagoas, com sede na cidade de Maceió, Estado de Alagoas.

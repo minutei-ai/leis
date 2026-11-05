@@ -1,5 +1,3 @@
-###DEL-007199-0-000-28-12-1944@@@
-
 DECRETO-LEI N. 7.199 – DE 28 DE DEZEMBRO DE 1944
 
  Autoriza a concessão de subvenção à Fundação Brasil Central

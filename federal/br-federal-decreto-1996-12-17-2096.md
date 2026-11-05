@@ -1,7 +1,3 @@
-1
-
-###DEC-002096-0-000-17-12-1996@@@
-
 DECRETO Nº 2.096, DE 17 DE DEZEMBRO DE 1996.
 
 Disciplina a inscrição de despesas em Restos a Pagar e dá outras providências.

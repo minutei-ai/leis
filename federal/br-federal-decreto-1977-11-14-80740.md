@@ -1,5 +1,3 @@
-###DEC-080740-0-000-14-11-1977@@@
-
 Decreto nº 80.740, de 14 de novembro de 1977.
 
 Concede autorização à MFS SOUTHEAST FISHERIES CENTER para realizar, no mar territorial do Brasil, os serviços que especifica.

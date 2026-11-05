@@ -1,5 +1,3 @@
-###DEC-062135-0-000-17-01-1968@@@
-
 DECRETO Nº 62.135, DE 17 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Sociedade Feminina de Educação e Assistência”, com sede no Estado da Guanabara.

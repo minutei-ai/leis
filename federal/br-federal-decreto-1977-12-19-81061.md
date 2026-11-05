@@ -1,5 +1,3 @@
-###DEC-081061-0-000-19-12-1977@@@
-
 decreto nº 81.061, de 19 de dezembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação, da subestação de Ubatuba, da Centrais Elétricas de São Paulo S.A - CESP, no Município de Ubatuba, Estado de São Paulo.

@@ -44,12 +44,14 @@ I – Comarcas: circunscrições territoriais que abrangem um ou mais de um Muni
 
 II – Distritos Judiciários: divisões administrativas que podem constituir dimensão territorial igual ou inferior à extensão de um Município;
 
-III - Unidades Judiciárias de Primeiro Grau: Varas, Juizados, Turmas Recursais, Centros Judiciários de Solução de Conflitos e Cidadania (CEJUSC’s) e Pontos de Inclusão Digital, quando houver, compostos por seus gabinetes e secretarias;<br>
+III - Unidades Judiciárias de Primeiro Grau: Varas, Juizados, Turmas Recursais, Centros Judiciários de Solução de Conflitos e Cidadania (CEJUSC’s) e Pontos de Inclusão Digital, quando houver, compostos por seus gabinetes e secretarias;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~III – Unidades Judiciárias de Primeiro Grau: Varas, Juizados, Turmas Recursais, Centros Judiciários de Solução de Conflitos e Cidadania (CEJUSC’s) e Postos Avançados, quando houver, compostos por seus gabinetes e secretarias;~~
 
-IV - Unidades Judiciárias de Segundo Grau: gabinetes de Desembargadores e secretarias de órgãos fracionários (Câmaras, Seções especializadas, Conselho Superior da Magistratura, Órgão Especial, Tribunal Pleno) excluídas a Presidência, a Primeira Vice-Presidência, a Segunda Vice-Presidência, a Corregedoria-Geral da Justiça e a Corregedoria do Foro Extrajudicial.<br>
+IV - Unidades Judiciárias de Segundo Grau: gabinetes de Desembargadores e secretarias de órgãos fracionários (Câmaras, Seções especializadas, Conselho Superior da Magistratura, Órgão Especial, Tribunal Pleno) excluídas a Presidência, a Primeira Vice-Presidência, a Segunda Vice-Presidência, a Corregedoria-Geral da Justiça e a Corregedoria do Foro Extrajudicial.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~IV – Unidades Judiciárias de Segundo Grau: gabinetes de Desembargadores e secretarias de órgãos fracionários (Câmaras, Seções especializadas, Conselho Superior da Magistratura, Órgão Especial, Tribunal Pleno) excluídas a Presidência, a Vice-Presidência e a Corregedoria-Geral da Justiça.~~
@@ -168,60 +170,72 @@ Art. 17. São Órgãos do Tribunal de Justiça:
 
 I – Presidência;
 
-II - Primeira Vice-Presidência;<br>
+II - Primeira Vice-Presidência;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~II – Vice-Presidência;~~ 
 
-III - Segunda Vice-Presidência;<br>
+III - Segunda Vice-Presidência;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~III – Corregedoria-Geral da Justiça;~~
 
-IV - Corregedoria-Geral da Justiça;<br>
+IV - Corregedoria-Geral da Justiça;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~IV – Ouvidoria do Poder Judiciário;~~
 
-V - Corregedoria do Foro Extrajudicial;<br>
+V - Corregedoria do Foro Extrajudicial;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~V – Conselho Superior da Magistratura;~~
 
-VI - Ouvidoria do Poder Judiciário;<br>
+VI - Ouvidoria do Poder Judiciário;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~VI – Tribunal Pleno;~~
 
-VII - Conselho Superior da Magistratura;<br>
+VII - Conselho Superior da Magistratura;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~VII – Órgão Especial;~~
 
-VIII - Tribunal Pleno;<br>
+VIII - Tribunal Pleno;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~VIII – Seções Cíveis e Criminais;~~
 
-IX - Órgão Especial;<br>
+IX - Órgão Especial;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~IX – Câmaras Cíveis e Criminais;~~
 
-X - Seções Cíveis e Criminais;<br>
+X - Seções Cíveis e Criminais;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~X – Comissões Permanentes;~~
 
-XI - Câmaras Cíveis e Criminais;<br>
+XI - Câmaras Cíveis e Criminais;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~XI – Escola Judicial do Tribunal de Justiça do Estado de Goiás – EJUG.~~
 
-XII - Comissões Permanentes;<br>
+XII - Comissões Permanentes;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-XIII - Escola Judicial do Tribunal de Justiça do Estado de Goiás - Ejug.<br>
+XIII - Escola Judicial do Tribunal de Justiça do Estado de Goiás - Ejug.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 Parágrafo único. A criação, a composição, o funcionamento e as atribuições das Comissões Permanentes são disciplinadas pelo Regimento Interno do Tribunal de Justiça.
@@ -250,7 +264,8 @@ CAPÍTULO II
 
 DA ELEIÇÃO
 
-Art. 22.  O Presidente, o Primeiro Vice-Presidente, o Segundo Vice-Presidente, o Corregedor-Geral da Justiça e o Corregedor do Foro Extrajudicial são eleitos em votação secreta pela maioria absoluta dos membros do Tribunal Pleno, para mandato de 2 (dois) anos, observando-se o disposto na legislação federal.<br>
+Art. 22.  O Presidente, o Primeiro Vice-Presidente, o Segundo Vice-Presidente, o Corregedor-Geral da Justiça e o Corregedor do Foro Extrajudicial são eleitos em votação secreta pela maioria absoluta dos membros do Tribunal Pleno, para mandato de 2 (dois) anos, observando-se o disposto na legislação federal.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 22. O Presidente, o Vice-Presidente e o Corregedor-Geral da Justiça são eleitos em votação secreta pela maioria absoluta dos membros do Tribunal Pleno, para mandato de 2 (dois) anos, observando-se o disposto na legislação federal.~~
@@ -261,12 +276,14 @@ Art. 22.  O Presidente, o Primeiro Vice-Presidente, o Segundo Vice-Presidente,
 
 § 3º Persistindo o empate, considerar-se-á eleito o Desembargador mais antigo na carreira e, seguidamente, ainda em caso de empate, o mais idoso.
 
-§ 4º  O Presidente, o Primeiro Vice-Presidente, o Corregedor-Geral da Justiça e o Ouvidor comporão o Órgão Especial, independentemente da ordem de antiguidade e mesmo que não o integrem originariamente, acrescendo-se ao número de membros, durante o exercício dos respectivos mandatos.<br>
+§ 4º  O Presidente, o Primeiro Vice-Presidente, o Corregedor-Geral da Justiça e o Ouvidor comporão o Órgão Especial, independentemente da ordem de antiguidade e mesmo que não o integrem originariamente, acrescendo-se ao número de membros, durante o exercício dos respectivos mandatos.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~§ 4º O Presidente, o Vice-Presidente, o Corregedor-Geral da Justiça e o Ouvidor comporão o Órgão Especial, independentemente da ordem de antiguidade e mesmo que não o integrem originariamente, acrescendo-se ao número de membros, durante o exercício dos respectivos mandatos.~~
 
-§ 5º  Caso o Presidente, o Primeiro Vice-Presidente, o Corregedor-Geral da Justiça ou o Ouvidor integrem originariamente o Órgão Especial, a respectiva vaga acrescida será destinada ao Segundo Vice-Presidente e ao Corregedor do Foro Extrajudicial, nesta ordem, durante o exercício dos respectivos mandatos.<br>
+§ 5º  Caso o Presidente, o Primeiro Vice-Presidente, o Corregedor-Geral da Justiça ou o Ouvidor integrem originariamente o Órgão Especial, a respectiva vaga acrescida será destinada ao Segundo Vice-Presidente e ao Corregedor do Foro Extrajudicial, nesta ordem, durante o exercício dos respectivos mandatos.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 Art. 23. A designação do Ouvidor do Poder Judiciário, do Diretor da EJUG e a eleição dos membros do Conselho Superior da Magistratura e da Diretoria da Revista Goiana de Jurisprudência observará a legislação vigente e o disposto no Regimento Interno do Tribunal de Justiça.
@@ -287,20 +304,24 @@ Art. 25. São órgãos de direção do Tribunal de Justiça:
 
 I – Presidência;
 
-II - Primeira Vice-Presidência;<br>
+II - Primeira Vice-Presidência;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~II – Vice-Presidência;~~
 
-III - Segunda Vice-Presidência;<br>
+III - Segunda Vice-Presidência;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~III – Corregedoria-Geral da Justiça;~~
 
-IV - Corregedoria-Geral da Justiça;<br>
+IV - Corregedoria-Geral da Justiça;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-V - Corregedoria do Foro Extrajudicial.<br>
+V - Corregedoria do Foro Extrajudicial.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 Seção I
@@ -317,73 +338,94 @@ Art. 27. São 4 (quatro) as funções de Juiz Auxiliar da Presidência do Tribun
 
 § 3º Os Juízes Auxiliares da Presidência do Tribunal de Justiça e o Diretor do Foro de Goiânia permanecerão afastados da atividade jurisdicional, retornando às unidades judiciárias de que são titulares ao findar o período de exercício.
 
-Seção II<br>
-Da Primeira Vice-Presidência<br>
-\- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).<br>
-<br>
+Seção II
+
+Da Primeira Vice-Presidência
+
+\- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
+
 ~~Da Vice-Presidência~~
 
-Art. 28.  Compete ao Primeiro Vice-Presidente:<br>
+Art. 28.  Compete ao Primeiro Vice-Presidente:
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 28. Compete ao Vice-Presidente auxiliar o Presidente do Tribunal no exercício de suas atribuições administrativas, substituindo-o nas ausências, férias, licenças, suspeições e impedimentos.~~
 
-I - presidir o Núcleo Permanente de Métodos Consensuais de Solução de Conflitos;<br>
+I - presidir o Núcleo Permanente de Métodos Consensuais de Solução de Conflitos;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-II - auxiliar o Presidente do Tribunal no exercício de suas atribuições administrativas, substituindo-o nas ausências, férias, licenças, suspeições e impedimentos eventuais;<br>
+II - auxiliar o Presidente do Tribunal no exercício de suas atribuições administrativas, substituindo-o nas ausências, férias, licenças, suspeições e impedimentos eventuais;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - coordenar os trabalhos da unidade Assessoria Técnica para Assuntos Constitucionais;<br>
+III - coordenar os trabalhos da unidade Assessoria Técnica para Assuntos Constitucionais;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IV – fazer o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências, ressalvada a hipótese prevista no inciso VI do art. 29-A desta Lei.<br>
+IV – fazer o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências, ressalvada a hipótese prevista no inciso VI do art. 29-A desta Lei.
+
 \- [Redação dada pela Lei nº 24.534, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344).
 
-~~IV - fazer o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências.~~<br>
+~~IV - fazer o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências.~~
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Parágrafo único. O Vice-Presidente deverá, ainda, integrar o Órgão Especial e o Conselho Superior da Magistratura.<br>
+Parágrafo único. O Vice-Presidente deverá, ainda, integrar o Órgão Especial e o Conselho Superior da Magistratura.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Parágrafo único. O Primeiro Vice-Presidente deverá, ainda, integrar o Órgão Especial e o Conselho Superior da Magistratura.~~
 
-Art. 29. As demais atribuições e competências do Primeiro Vice-Presidente do Tribunal de Justiça são definidas no Regimento Interno do Tribunal de Justiça.<br>
+Art. 29. As demais atribuições e competências do Primeiro Vice-Presidente do Tribunal de Justiça são definidas no Regimento Interno do Tribunal de Justiça.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 29. As demais atribuições e competências do Vice-Presidente do Tribunal de Justiça são definidas no Regimento Interno do Tribunal de Justiça.~~
 
-<br>
-**Seção II-A**<br>
-**Da Segunda Vice-Presidência**<br>
+**Seção II-A**
+
+**Da Segunda Vice-Presidência**
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 29-A.  São atribuições do Segundo Vice-Presidente:<br>
+Art. 29-A.  São atribuições do Segundo Vice-Presidente:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-I - exercer a função de Coordenador-Geral do Sistema de Juizados Especiais; <br>
+I - exercer a função de Coordenador-Geral do Sistema de Juizados Especiais; 
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-~~II - presidir a Comissão Permanente de Segurança do Tribunal de Justiça do Estado de Goiás;~~ <br>
-\- [Revogado pela Lei nº 24.534, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344), art. 2º.<br>
+~~II - presidir a Comissão Permanente de Segurança do Tribunal de Justiça do Estado de Goiás;~~ 
+
+\- [Revogado pela Lei nº 24.534, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344), art. 2º.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - exercer atribuições administrativas do Presidente do Tribunal, previstas em lei ou no Regimento Interno do Tribunal de Justiça, que lhe forem delegadas;<br>
+III - exercer atribuições administrativas do Presidente do Tribunal, previstas em lei ou no Regimento Interno do Tribunal de Justiça, que lhe forem delegadas;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IV - substituir o Primeiro Vice-Presidente do Tribunal nas ausências, férias, licenças, suspeições e impedimentos eventuais;<br>
+IV - substituir o Primeiro Vice-Presidente do Tribunal nas ausências, férias, licenças, suspeições e impedimentos eventuais;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-V - substituir o Presidente do Tribunal em suas férias, afastamentos, ausências ou impedimentos eventuais, caso o Primeiro Vice-Presidente esteja impossibilitado de fazê-lo;<br>
+V - substituir o Presidente do Tribunal em suas férias, afastamentos, ausências ou impedimentos eventuais, caso o Primeiro Vice-Presidente esteja impossibilitado de fazê-lo;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VI – quando designado pelo Presidente do Tribunal de Justiça, fazer, nas matérias criminais, o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências.<br>
+VI – quando designado pelo Presidente do Tribunal de Justiça, fazer, nas matérias criminais, o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências.
+
 \- [Acrescido pela Lei nº 24.534, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344).
 
-Parágrafo único. O Segundo Vice-Presidente deverá, ainda, integrar o Conselho Superior da Magistratura.<br>
+Parágrafo único. O Segundo Vice-Presidente deverá, ainda, integrar o Conselho Superior da Magistratura.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 29-B. As demais atribuições e competências do Segundo Vice-Presidente do Tribunal de Justiça são definidas no Regimento Interno do Tribunal de Justiça.<br>
+Art. 29-B. As demais atribuições e competências do Segundo Vice-Presidente do Tribunal de Justiça são definidas no Regimento Interno do Tribunal de Justiça.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 Seção III
@@ -394,56 +436,70 @@ Art. 30. A Corregedoria-Geral da Justiça, órgão de orientação, controle e f
 
 Art. 31. A Corregedoria-Geral elaborará o seu regimento interno prevendo sua estrutura, as atribuições do Corregedor-Geral, dos Juízes Auxiliares, servidores e de seus órgãos de atuação, submetendo-o à aprovação do Órgão Especial.
 
-Art. 32. As atribuições do Corregedor-Geral da Justiça são reguladas nos Regimentos Internos do Tribunal de Justiça e da Corregedoria-Geral da Justiça, competindo-lhe também substituir o Corregedor do Foro Extrajudicial nas ausências, férias, licenças, suspeições e impedimentos eventuais.<br>
+Art. 32. As atribuições do Corregedor-Geral da Justiça são reguladas nos Regimentos Internos do Tribunal de Justiça e da Corregedoria-Geral da Justiça, competindo-lhe também substituir o Corregedor do Foro Extrajudicial nas ausências, férias, licenças, suspeições e impedimentos eventuais.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 32. As atribuições do Corregedor-Geral da Justiça são reguladas nos Regimentos Internos do Tribunal de Justiça e da Corregedoria-Geral da Justiça.~~
 
-Art. 33. São 4 (quatro) as funções de Juiz Auxiliar da Corregedoria-Geral da Justiça a serem providas por Juízes ou Juízas de Direito de entrância final, dos(as) quais 2 (dois) prestarão auxílio ao Corregedor-Geral da Justiça e 2 (dois) ao Corregedor do Foro Extrajudicial.<br>
+Art. 33. São 4 (quatro) as funções de Juiz Auxiliar da Corregedoria-Geral da Justiça a serem providas por Juízes ou Juízas de Direito de entrância final, dos(as) quais 2 (dois) prestarão auxílio ao Corregedor-Geral da Justiça e 2 (dois) ao Corregedor do Foro Extrajudicial.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 33. São 3 (três) as funções de Juiz Auxiliar da Corregedoria-Geral da Justiça a serem providas por Juízes de Direito de entrância final.~~
 
-§ 1º  Os Juízes ou Juízas de Direito que exercerem as funções de 1º e 2º Juiz Auxiliar da Corregedoria-Geral da Justiça serão escolhidos pelo Órgão Especial em lista tríplice formada pelo Corregedor-Geral da Justiça.<br>
+§ 1º  Os Juízes ou Juízas de Direito que exercerem as funções de 1º e 2º Juiz Auxiliar da Corregedoria-Geral da Justiça serão escolhidos pelo Órgão Especial em lista tríplice formada pelo Corregedor-Geral da Justiça.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~§ 1º Os Juízes de Direito que exercerem as funções de 1º, 2º e 3º Juiz Auxiliar da Corregedoria-Geral da Justiça serão escolhidos pelo Órgão Especial em lista tríplice formada pelo Corregedor-Geral da Justiça.~~
 
-§ 2º  Os Juízes ou Juízas de Direito que exercerem as funções de 3º e 4º Juiz Auxiliar junto à Corregedoria do Foro Extrajudicial serão escolhidos pelo Órgão Especial em lista tríplice formada pelo Corregedor do Foro Extrajudicial.<br>
+§ 2º  Os Juízes ou Juízas de Direito que exercerem as funções de 3º e 4º Juiz Auxiliar junto à Corregedoria do Foro Extrajudicial serão escolhidos pelo Órgão Especial em lista tríplice formada pelo Corregedor do Foro Extrajudicial.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~§ 2º Os Juízes de Direito Auxiliares da Corregedoria-Geral da Justiça permanecerão afastados da atividade jurisdicional, retornando às unidades judiciárias de que são titulares ao findar o período de exercício.~~ 
 
-§ 3º  Os Juízes ou as Juízas de Direito Auxiliares da Corregedoria-Geral da Justiça e da Corregedoria do Foro Extrajudicial permanecerão afastados da atividade jurisdicional, retornando às unidades judiciárias de que são titulares ao findar o período de exercício.<br>
+§ 3º  Os Juízes ou as Juízas de Direito Auxiliares da Corregedoria-Geral da Justiça e da Corregedoria do Foro Extrajudicial permanecerão afastados da atividade jurisdicional, retornando às unidades judiciárias de que são titulares ao findar o período de exercício.
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-<br>
-**Seção III-A**<br>
-**Da Corregedoria do Foro Extrajudicial**<br>
+**Seção III-A**
+
+**Da Corregedoria do Foro Extrajudicial**
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 33-A.  São atribuições do Corregedor do Foro Extrajudicial:<br>
+Art. 33-A.  São atribuições do Corregedor do Foro Extrajudicial:
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-I - exercer a fiscalização disciplinar, controle e orientação dos serviços extrajudiciais, inclusive a realização de inspeções e correições;<br>
+I - exercer a fiscalização disciplinar, controle e orientação dos serviços extrajudiciais, inclusive a realização de inspeções e correições;
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-II - substituir o Corregedor-Geral da Justiça nas ausências, férias, licenças, suspeições e impedimentos eventuais;<br>
+II - substituir o Corregedor-Geral da Justiça nas ausências, férias, licenças, suspeições e impedimentos eventuais;
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - instaurar, processar e julgar processo administrativo disciplinar em desfavor de notário e registrador de todas as Comarcas do Estado, sendo-lhe facultado delegar aos Diretores de Foro ato(s) de instrução;<br>
+III - instaurar, processar e julgar processo administrativo disciplinar em desfavor de notário e registrador de todas as Comarcas do Estado, sendo-lhe facultado delegar aos Diretores de Foro ato(s) de instrução;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IV - remeter ao Conselho Superior da Magistratura, para julgamento, o processo administrativo disciplinar instaurado em face de notário e registrador se, após a instrução probatória, entender ser o caso de aplicação da penalidade de perda de delegação.<br>
+IV - remeter ao Conselho Superior da Magistratura, para julgamento, o processo administrativo disciplinar instaurado em face de notário e registrador se, após a instrução probatória, entender ser o caso de aplicação da penalidade de perda de delegação.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-§ 1º  As atribuições do Corregedor do Foro Extrajudicial são reguladas nos Regimentos Internos do Tribunal de Justiça e da Corregedoria do Foro Extrajudicial.<br>
+§ 1º  As atribuições do Corregedor do Foro Extrajudicial são reguladas nos Regimentos Internos do Tribunal de Justiça e da Corregedoria do Foro Extrajudicial.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-§ 2º  A estrutura de pessoal da Corregedoria do Foro Extrajudicial será composta pelos quadros que atuam nas atividades de fiscalização, disciplina, controle e orientação dos serviços extrajudiciais.<br>
+§ 2º  A estrutura de pessoal da Corregedoria do Foro Extrajudicial será composta pelos quadros que atuam nas atividades de fiscalização, disciplina, controle e orientação dos serviços extrajudiciais.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-§ 3º  As atribuições do Corregedor do Foro Extrajudicial, dos respectivos Juízes Auxiliares, servidores e de seus órgãos de atuação constarão do Regimento Interno da Corregedoria do Foro Extrajudicial, submetendo-o à aprovação do Órgão Especial.<br>
+§ 3º  As atribuições do Corregedor do Foro Extrajudicial, dos respectivos Juízes Auxiliares, servidores e de seus órgãos de atuação constarão do Regimento Interno da Corregedoria do Foro Extrajudicial, submetendo-o à aprovação do Órgão Especial.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 CAPÍTULO V
@@ -452,115 +508,152 @@ DO CONSELHO SUPERIOR DA MAGISTRATURA, DA OUVIDORIA E DA ESCOLA JUDICIAL
 
 Art. 34. A composição, o funcionamento, as atribuições e as competências do Conselho Superior da Magistratura, da Ouvidoria do Poder Judiciário e da Escola Judicial observarão o previsto na legislação vigente, no Regimento Interno do Tribunal de Justiça, em atos normativos expedidos pelo Conselho Nacional de Justiça e pelo Órgão Especial do Tribunal.
 
-Art. 34-A. A Escola Judicial do Tribunal de Justiça do Estado de Goiás (Ejug) promoverá a formação e a capacitação de magistrados, servidores efetivos, cedidos e comissionados, e demais colaboradores do Poder Judiciário do Estado de Goiás, mediante o planejamento de ações educativas, em conformidade com as metas estabelecidas pela Administração do Tribunal de Justiça.<br>
+Art. 34-A. A Escola Judicial do Tribunal de Justiça do Estado de Goiás (Ejug) promoverá a formação e a capacitação de magistrados, servidores efetivos, cedidos e comissionados, e demais colaboradores do Poder Judiciário do Estado de Goiás, mediante o planejamento de ações educativas, em conformidade com as metas estabelecidas pela Administração do Tribunal de Justiça.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 34-B.  Para a implementação de seus objetivos institucionais, a Escola Judicial observará as seguintes diretrizes:<br>
+Art. 34-B.  Para a implementação de seus objetivos institucionais, a Escola Judicial observará as seguintes diretrizes:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-I - promoverá atividades de formação e capacitação contínua de magistrados, servidores, efetivos, cedidos e comissionados, e demais colaboradores do Poder Judiciário do Estado de Goiás;<br>
+I - promoverá atividades de formação e capacitação contínua de magistrados, servidores, efetivos, cedidos e comissionados, e demais colaboradores do Poder Judiciário do Estado de Goiás;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-II - promoverá a formação inicial dos ingressos por concurso público realizado pelo Poder Judiciário;<br>
+II - promoverá a formação inicial dos ingressos por concurso público realizado pelo Poder Judiciário;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - fomentará a pesquisa científica multidisciplinar e a publicação em áreas relacionadas às atividades de interesse do Poder Judiciário;<br>
+III - fomentará a pesquisa científica multidisciplinar e a publicação em áreas relacionadas às atividades de interesse do Poder Judiciário;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IV - ofertará cursos de extensão, de especialização _lato_ e _stricto sensu_ e atualização e de aperfeiçoamento dos integrantes do Poder Judiciário, efetivos, cedidos e comissionados, visando à capacitação profissional;<br>
+IV - ofertará cursos de extensão, de especialização _lato_ e _stricto sensu_ e atualização e de aperfeiçoamento dos integrantes do Poder Judiciário, efetivos, cedidos e comissionados, visando à capacitação profissional;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-V - incentivará o intercâmbio entre o Poder Judiciário do Estado de Goiás e as demais instituições de ensino, nacionais e estrangeiras, podendo seu Diretor, para tanto, estabelecer convênios e termos de colaboração com tais entidades, por delegação prévia do Presidente do Tribunal de Justiça do Estado de Goiás;<br>
+V - incentivará o intercâmbio entre o Poder Judiciário do Estado de Goiás e as demais instituições de ensino, nacionais e estrangeiras, podendo seu Diretor, para tanto, estabelecer convênios e termos de colaboração com tais entidades, por delegação prévia do Presidente do Tribunal de Justiça do Estado de Goiás;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VI - promoverá eventos de capacitação ou aperfeiçoamento, simpósios, congressos, seminários e outros, visando cumprir as finalidades institucionais da Escola Judicial;<br>
+VI - promoverá eventos de capacitação ou aperfeiçoamento, simpósios, congressos, seminários e outros, visando cumprir as finalidades institucionais da Escola Judicial;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VII - atuará em colaboração com as comissões de concurso e de processos seletivos do Tribunal de Justiça do Estado de Goiás.<br>
+VII - atuará em colaboração com as comissões de concurso e de processos seletivos do Tribunal de Justiça do Estado de Goiás.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Parágrafo único. A Escola Judicial ofertará cursos de pós-graduação aos servidores comissionados e àqueles que se encontram à disposição do Poder Judiciário do Estado de Goiás, mediante diretrizes a serem regulamentadas em ato do Presidente do Tribunal de Justiça.<br>
+Parágrafo único. A Escola Judicial ofertará cursos de pós-graduação aos servidores comissionados e àqueles que se encontram à disposição do Poder Judiciário do Estado de Goiás, mediante diretrizes a serem regulamentadas em ato do Presidente do Tribunal de Justiça.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 34-C.  A Escola Judicial manterá corpo docente composto por:<br>
+Art. 34-C.  A Escola Judicial manterá corpo docente composto por:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-I - magistrados ativos;<br>
+I - magistrados ativos;
+
 \- [Acrescido pela Lei n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-II - servidores ativos;<br>
+II - servidores ativos;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - professores visitantes.<br>
+III - professores visitantes.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Parágrafo único. O Diretor da Escola Judicial designará, mediante portaria, o corpo docente, observando procedimento prévio de seleção dos interessados.<br>
+Parágrafo único. O Diretor da Escola Judicial designará, mediante portaria, o corpo docente, observando procedimento prévio de seleção dos interessados.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 34-D. Para a realização de eventos, cursos e outras atividades, a Escola Judicial, por intermédio de seu diretor, poderá estabelecer cooperação com instituições congêneres ou promover a contratação de pessoa física ou jurídica, nacional ou estrangeira.<br>
+Art. 34-D. Para a realização de eventos, cursos e outras atividades, a Escola Judicial, por intermédio de seu diretor, poderá estabelecer cooperação com instituições congêneres ou promover a contratação de pessoa física ou jurídica, nacional ou estrangeira.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Art. 34-E. A Escola Judicial do Tribunal de Justiça do Estado de Goiás terá a seguinte estrutura administrativa:<br>
+Art. 34-E. A Escola Judicial do Tribunal de Justiça do Estado de Goiás terá a seguinte estrutura administrativa:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-I - Diretoria da Escola;<br>
+I - Diretoria da Escola;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-II - Vice-Diretoria;<br>
+II - Vice-Diretoria;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-III - Coordenadoria Pedagógica;<br>
+III - Coordenadoria Pedagógica;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IV- Coordenação Executiva da Ejug;<br>
+IV- Coordenação Executiva da Ejug;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-V - Coordenação de Custeio da Ejug:<br>
+V - Coordenação de Custeio da Ejug:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-a) Divisão de Contratações;<br>
+a) Divisão de Contratações;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-b) Divisão de Controle Patrimonial e Orçamentário;<br>
+b) Divisão de Controle Patrimonial e Orçamentário;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VI - Coordenação de Ensino da Ejug:<br>
+VI - Coordenação de Ensino da Ejug:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-a) Divisão de Cursos para Magistrados;<br>
+a) Divisão de Cursos para Magistrados;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-b) Divisão de Cursos para Servidores;<br>
+b) Divisão de Cursos para Servidores;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VII - Coordenação de Pós-Graduação da Ejug:<br>
+VII - Coordenação de Pós-Graduação da Ejug:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-a) Divisão de Pós-Graduação _Lato Sensu_;<br>
+a) Divisão de Pós-Graduação _Lato Sensu_;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-b) Divisão de Pós-Graduação _Stricto Sensu_;<br>
+b) Divisão de Pós-Graduação _Stricto Sensu_;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-c) Divisão de Pesquisas e Publicações;<br>
+c) Divisão de Pesquisas e Publicações;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-VIII - Coordenação de Comunicação e Apoio Técnico da Ejug:<br>
+VIII - Coordenação de Comunicação e Apoio Técnico da Ejug:
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-a) Divisão de Comunicação e Eventos;<br>
+a) Divisão de Comunicação e Eventos;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-b) Divisão de Apoio Técnico;<br>
+b) Divisão de Apoio Técnico;
+
 \- [Acrescida pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-IX - Secretaria Executiva da Ejug;<br>
+IX - Secretaria Executiva da Ejug;
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-X - Assessoria Jurídica da Ejug.<br>
+X - Assessoria Jurídica da Ejug.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
-Parágrafo único. Integra, ainda, a estrutura da Escola Judicial o Conselho Educacional, órgão consultivo da Diretoria, que substituirá o Conselho Gestor da Escola Judicial do Tribunal de Justiça do Estado de Goiás, previsto no art. 9º-A, § 3º, da [Lei nº 13.644](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82014/lei-13644), de 12 de julho de 2000.<br>
+Parágrafo único. Integra, ainda, a estrutura da Escola Judicial o Conselho Educacional, órgão consultivo da Diretoria, que substituirá o Conselho Gestor da Escola Judicial do Tribunal de Justiça do Estado de Goiás, previsto no art. 9º-A, § 3º, da [Lei nº 13.644](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82014/lei-13644), de 12 de julho de 2000.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 CAPÍTULO VI
@@ -687,7 +780,8 @@ II – cumprir as cartas precatórias no âmbito de suas competências;
 
 III – promover a gestão da unidade judiciária e a fiscalização permanente de seus serviços, observando as rotinas administrativas estabelecidas pelo Tribunal de Justiça, zelando por sua eficiência e pelo cumprimento das determinações das autoridades judiciárias superiores;
 
-IV - realizar as correições de sua competência, nos termos das instruções e determinações expedidas pela Corregedoria-Geral da Justiça e pela Corregedoria do Foro Extrajudicial;<br>
+IV - realizar as correições de sua competência, nos termos das instruções e determinações expedidas pela Corregedoria-Geral da Justiça e pela Corregedoria do Foro Extrajudicial;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~IV – realizar as correições de sua competência, nos termos das instruções e determinações expedidas pela Corregedoria– Geral da Justiça;~~
@@ -704,7 +798,8 @@ I – supervisionar os serviços de administração e a ordem interna do edifíc
 
 II – exercer permanente fiscalização dos serviços do Foro Judicial e Extrajudicial;
 
-III - apurar as faltas e aplicar as penas disciplinares da sua competência aos servidores, juízes de paz, juízes leigos, que lhe sejam subordinados, ou remeter os autos ao órgão competente para aplicação da penalidade após a apuração, comunicando a Corregedoria-Geral da Justiça;<br>
+III - apurar as faltas e aplicar as penas disciplinares da sua competência aos servidores, juízes de paz, juízes leigos, que lhe sejam subordinados, ou remeter os autos ao órgão competente para aplicação da penalidade após a apuração, comunicando a Corregedoria-Geral da Justiça;
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~III – apurar as faltas e aplicar as penas disciplinares da sua competência aos servidores, juízes de paz, juízes leigos, notários e registradores que lhe sejam subordinados, ou remeter os autos ao órgão competente para aplicação da penalidade após a apuração, comunicando a Corregedoria– Geral da Justiça;~~
@@ -981,7 +1076,8 @@ DAS DISPOSIÇÕES GERAIS
 
 Art. 70. O Sistema dos Juizados Especiais é formado pelos Juizados Especiais Cíveis, Juizados Especiais Criminais, Juizados Especiais da Fazenda Pública, pelas Turmas Recursais e pela Turma de Uniformização.
 
-Art. 71. Para fins de aprimoramento, gestão, padronização e unificação do sistema, fica instituída a Coordenação-Geral do Sistema de Juizados Especiais, atuando como Coordenador o Segundo Vice-Presidente. <br>
+Art. 71. Para fins de aprimoramento, gestão, padronização e unificação do sistema, fica instituída a Coordenação-Geral do Sistema de Juizados Especiais, atuando como Coordenador o Segundo Vice-Presidente. 
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 71. Para fins de aprimoramento, gestão, padronização e unificação do sistema, fica instituída a Coordenação-Geral do Sistema de Juizados Especiais, atuando como Coordenador um Desembargador indicado pelo Presidente do Tribunal de Justiça.~~
@@ -1018,7 +1114,8 @@ CAPÍTULO IV
 
 DA TURMA DE UNIFORMIZAÇÃO
 
-Art. 74. A Turma de Uniformização compõe-se dos membros das Turmas Recursais e será presidida pelo Segundo Vice-Presidente.<br>
+Art. 74. A Turma de Uniformização compõe-se dos membros das Turmas Recursais e será presidida pelo Segundo Vice-Presidente.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 74. A Turma de Uniformização compõe-se dos membros das Turmas Recursais e será presidida pelo Desembargador Coordenador do Sistema dos Juizados Especiais.~~
@@ -1057,19 +1154,22 @@ LIVRO III
 
 DOS SERVIÇOS AUXILIARES DA JUSTIÇA
 
-Art. 79. Os serviços notariais e de registros públicos serão exercidos, em todo o Estado, por delegação do Poder Público, nos termos da lei, das normas emanadas do Conselho Nacional de Justiça, do Tribunal de Justiça e da Corregedoria do Foro Extrajudicial.<br>
+Art. 79. Os serviços notariais e de registros públicos serão exercidos, em todo o Estado, por delegação do Poder Público, nos termos da lei, das normas emanadas do Conselho Nacional de Justiça, do Tribunal de Justiça e da Corregedoria do Foro Extrajudicial.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
  ~~Art. 79. Os serviços notariais e de registros públicos serão exercidos, em todo o Estado, por delegação do Poder Público, nos termos da lei, das normas emanadas do Conselho Nacional de Justiça, do Tribunal de Justiça e da Corregedoria-Geral da Justiça.~~
 
 Parágrafo único. A delegação é concedida pelo Tribunal de Justiça, mediante ato do Presidente, observada a ordem de classificação no concurso público, após a escolha das Serventias pelos candidatos aprovados.
 
-Art. 80. Nas hipóteses de vacância ou extinção de delegação a notário ou registrador, até que ocorra o preenchimento da vaga por concurso público, a designação de responsável pela serventia vaga observará as normas estabelecidas pelo Conselho Nacional de Justiça e pela Corregedoria do Foro Extrajudicial.<br>
+Art. 80. Nas hipóteses de vacância ou extinção de delegação a notário ou registrador, até que ocorra o preenchimento da vaga por concurso público, a designação de responsável pela serventia vaga observará as normas estabelecidas pelo Conselho Nacional de Justiça e pela Corregedoria do Foro Extrajudicial.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Art. 80. Nas hipóteses de vacância ou extinção de delegação a notário ou registrador, até que ocorra o preenchimento da vaga por concurso público, a designação de responsável pela serventia vaga, observará as normas estabelecidas pelo Conselho Nacional de Justiça e pela Corregedoria-Geral da Justiça do Estado de Goiás.~~
 
-Parágrafo único. Declarada a vacância do serviço extrajudicial, a Corregedoria do Foro Extrajudicial nomeará o respondente até o posterior provimento por delegatário aprovado em concurso público de provas e títulos. <br>
+Parágrafo único. Declarada a vacância do serviço extrajudicial, a Corregedoria do Foro Extrajudicial nomeará o respondente até o posterior provimento por delegatário aprovado em concurso público de provas e títulos. 
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833).
 
 ~~Parágrafo único. Declarada a vacância do serviço extrajudicial, a Corregedoria-Geral da Justiça nomeará o respondente até o posterior provimento por delegatário aprovado em concurso público de provas e títulos.~~
@@ -1078,7 +1178,8 @@ Art. 81. O concurso de provas e títulos para ingresso e remoção no serviço d
 
 Art. 82. O concurso será realizado para provimento e remoção das Serventias Extrajudiciais que se encontrarem vagas no momento da publicação do Edital.
 
-~~Art. 83. O procedimento administrativo no qual é apurada denúncia e irregularidade praticada por Notário ou Registrador será presidido pelo magistrado Diretor do Foro a que estiver subordinado, podendo a Corregedoria-Geral da Justiça, excepcionalmente e mediante fundamentação, avocá-lo.~~<br>
+~~Art. 83. O procedimento administrativo no qual é apurada denúncia e irregularidade praticada por Notário ou Registrador será presidido pelo magistrado Diretor do Foro a que estiver subordinado, podendo a Corregedoria-Geral da Justiça, excepcionalmente e mediante fundamentação, avocá-lo.~~
+
 \- [Revogado pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833) [22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833), art. 1º. 
 
 Parágrafo único. Concluído o processo administrativo, se o magistrado Diretor do Foro ou o Corregedor-Geral da Justiça entender cabível a pena de perda da delegação, remeterá o processo ao Conselho Superior da Magistratura, para julgamento.

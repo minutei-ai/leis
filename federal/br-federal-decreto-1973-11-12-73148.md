@@ -1,5 +1,3 @@
-###DEC-073148-0-000-12-11-1973@@@
-
 DECRETO Nº 73.148 - DE 12 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no Município de Bom Despacho, Estado de Minas Gerais, destinadas à construção de uma estação repetidora de microondas pela Telecomunicações de Minas Gerais S.A. - TELEMIG.

@@ -1,5 +1,3 @@
-###DEL-007339-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.339 – DE 26 DE FEVEREIRO DE 1945
 
 Dispõe sôbre a aposentadoria de Antônio Luís de Freitas Pereira

@@ -1,5 +1,3 @@
-###DEC-086905-0-000-09-02-1982@@@
-
 Decreto nº 86.905, de 09 de fevereiro de 1982.
 
 Autoriza aumento do capital social do Hospital de Clínicas de Porto Alegre.

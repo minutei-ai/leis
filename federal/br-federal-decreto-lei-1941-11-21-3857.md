@@ -1,5 +1,3 @@
-###DEL-003857-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.857 – DE 21 DE NOVEMBRO DE 1941
 
 Autoriza a aquisição de um imóvel em Recife, Estado de Pernambuco, para instalação do Estabelecimento de Subsistências Militares

@@ -1,5 +1,3 @@
-###DEC-007485-0-000-18-05-2011-PUB-01@@@
-
 DECRETO Nº 7.485, DE 18 DE MAIO DE 2011
 
 Dispõe sobre a constituição de banco de professor-equivalente das universidades federais vinculadas ao Ministério da Educação e regulamenta a admissão de professor substituto, de que trata o inciso IV do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993.

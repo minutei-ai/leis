@@ -1,5 +1,3 @@
-###DEC-047154-0-000-29-10-1959@@@
-
 DECRETO Nº 47.154, DE 29 DE outubro DE 1959.
 
 Autoriza o cidadão brasileiro David Dias a pesquisar quartzo no Município de Munhoz, Estado de Minas Gerais.

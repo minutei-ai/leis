@@ -1,5 +1,3 @@
-###DEL-008494-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.494 – DE 28 DE DEZEMBRO DE 1945
 
 Modifica disposições sôbre a Carteira de Redescontos do Banco do Brasil S. A. e dá outras providências.

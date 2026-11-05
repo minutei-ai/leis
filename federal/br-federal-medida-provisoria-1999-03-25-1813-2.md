@@ -1,5 +1,3 @@
-###MPV-001813-0-002-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.813-2, DE 25 DE MARÇO DE 1999
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$183.000.000,00, para os fins que especifica.

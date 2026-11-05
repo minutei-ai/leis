@@ -1,5 +1,3 @@
-###DEC-086630-0-000-23-11-1981@@@
-
 Decreto nº 86.630, de 23 de novembro de 1981
 
 Declara interditada, temporariamente, para fins de atração e pacificação de grupos indígenas, área que discrimina nos Municípios de Novo Airão e Itapiranga, no Estado do Amazonas, e Caracaraí, no Território Federal de Roraima, e da outras providências.
@@ -27,8 +25,6 @@ Brasília, 23 de novembro de 1981; 160º da Independência e 93º da República.
 JOÃO FIGUEIREDO
 
 Mário David Andreazza
-
-###DEC-086630-0-000-23-11-1981@@@RET01+++
 
 DECRETO Nº 86.630, DE 23 DE NOVEMBRO DE 1981
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-095651-0-000-21-01-1988@@@
-
 DECRETO N° 95.651, DE 21 DE JANEIRO DE 1988
 
 Dispõe sobre o aumento do Capital Social da Centrais Elétricas Brasileiras S.A.  ELETROBRÁS.

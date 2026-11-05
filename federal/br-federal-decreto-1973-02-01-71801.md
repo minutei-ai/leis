@@ -1,5 +1,3 @@
-###DEC-071801-0-000-01-02-1973@@@
-
 Decreto nº 71.801, de 1 de fevereiro de 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

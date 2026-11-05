@@ -1,5 +1,3 @@
-###DEC-006024-0-000-22-01-2007@@@
-
 DECRETO Nº 6.024, DE 22 DE JANEIRO DE 2007.
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes sobre os produtos que menciona.
@@ -17,5 +15,3 @@ Brasília, 22 de janeiro de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Guido Mantega
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

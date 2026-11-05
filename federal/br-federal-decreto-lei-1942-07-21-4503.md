@@ -1,5 +1,3 @@
-###DEL-004503-0-000-21-07-1942@@@
-
 DECRETO-LEI N. 4.503 – DE 21 DE JULHO DE 1942
 
 Prorroga a concessão a The Western Telegraph Company, Limited, para a execução de serviço telegráfico interior e exterior na Capital do Estado de São Paulo, e dá outras providências

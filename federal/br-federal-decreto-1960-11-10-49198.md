@@ -1,5 +1,3 @@
-###DEC-049198-0-000-10-11-1960@@@
-
 Decreto nº 49.198, de 10 de novembro de 1960.
 
 Abre ao Poder Judiciário - Tribunal de Justiça do Distrito Federal, crédito especial de Cr$359.881,40 (trezentos e cinquenta e nove mil, oitocentos e oitenta e um cruzeiros e quarenta centavos), para os fins que especifica.

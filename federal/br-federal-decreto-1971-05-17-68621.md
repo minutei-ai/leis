@@ -1,5 +1,3 @@
-###DEC-068621-0-000-17-05-1971@@@
-
 DECRETO Nº 68.621, DE 17 DE MAIO DE 1971.
 
 Altera o artigo 2º do Decreto nº 67.364, de 7 de outubro de 1970.

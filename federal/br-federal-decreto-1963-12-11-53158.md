@@ -1,5 +1,3 @@
-###DEC-053158-0-000-11-12-1963@@@
-
 DECRETO Nº 53.158, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.
@@ -29,8 +27,6 @@ Brasília, 11 de dezembro de 1963; 142º da Independência e 75º da República.
 João goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053158-0-000-11-12-1963@@@RET01+++
 
 DECRETO Nº 53.158, DE 11 DE DEZEMBRO DE 1963.
 

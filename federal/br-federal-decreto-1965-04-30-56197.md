@@ -1,5 +1,3 @@
-###DEC-056197-0-000-30-04-1965@@@
-
 DECRETO Nº 56.197, DE 30 DE ABRIL DE 1965.
 
 Autoriza Jasanias Ribeiro de Sousa a comprar pedras preciosas.

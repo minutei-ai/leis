@@ -1,5 +1,3 @@
-###DEL-006126-0-000-18-12-1943@@@
-
 DECRETO‑LEI N. 6.126 – DE 18 DE DEZEMBRO DE 1943
 
 Desapropria terrenos e prédios incluídos nas plantas aprovadas para o desen­volvimento da área em que está edificado o Palácio Itamaratí

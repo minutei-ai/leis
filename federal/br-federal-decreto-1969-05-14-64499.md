@@ -1,5 +1,3 @@
-###DEC-064499-0-000-14-05-1969@@@
-
 DECRETO Nº 64.499, DE 14 DE MAIO DE 1969.
 
 Aprova o Regulamento de Fiscalização de Produtos de uso veterinário e dos estabelecimentos que os fabriquem.

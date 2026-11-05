@@ -1,5 +1,3 @@
-###DEC-070753-0-000-23-06-1972@@@
-
 DECRETO Nº 70.753, DE 23 DE JUNHO DE 1972.
 
 Concede autorização à Companhia Construtora Norberto Odebrecht S.A. para operar em águas brasileiras, com os barcos especializados "Blg R", "Herman B", "Bay e " "Pawnee" e "Dot", de nacionalidade norte-americana, nos serviços que especifica.

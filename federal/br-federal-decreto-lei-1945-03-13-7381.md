@@ -1,5 +1,3 @@
-###DEL-007381-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.381 – DE 13 DE MARÇO DE 1945
 
 Autoriza a instituição da Fundação Rádio Mauá e dispõe sôbre o seu funcionamento.

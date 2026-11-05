@@ -1,5 +1,3 @@
-###DEC-079131-0-000-17-01-1977@@@
-
 DECRETO N.º 79.131, DE 17 DE JANEIRO DE 1977.
 
 Autoriza o funcionamento da habilitação em Administração Hospitalar, no curso de Administração da Associação de Ensino de Ribeirão Preto (UNAERP).

@@ -1,5 +1,3 @@
-###DEC-060577-0-000-10-04-1967@@@
-
 DECRETO Nº 60.577, DE 10 DE ABRIL DE 1967.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, no Decreto número 4.071, de 12 de maio de 1939, mediante aplicação de coeficientes de correções monetária, e dá outras providências.

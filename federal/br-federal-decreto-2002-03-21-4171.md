@@ -1,5 +1,3 @@
-###DEC-004171-0-000-21-03-2002@@@
-
 DECRETO 4.171, DE 21 DE MARÇO DE 2002
 
 Dispõe sobre a prorrogação estabelecida na Medida Provisória no 32, de 18 de fevereiro de 2002, relativa ao prazo da autorização de que tratam o art. 1o da Lei no 10.309, de 22 de novembro de 2001, e o Decreto no 3.953, de 5 de outubro de 2001.

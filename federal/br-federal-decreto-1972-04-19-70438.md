@@ -1,5 +1,3 @@
-###DEC-070438-0-000-19-04-1972@@@
-
 DECRETO Nº 70.438, DE 19 DE ABRIL DE 1972.
 
 Declara de utilidade pública o Colégio Comercial de Paraguaçu, com sede em Paraguaçu, Estado de Minas Gerais.

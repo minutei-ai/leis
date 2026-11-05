@@ -1,5 +1,3 @@
-###DEC-080042-0-000-28-07-1977@@@
-
 DECRETO Nº 80.042, DE 28 DE JULHO DE 1977
 
 Concede à MICOPEL - Mineração Conceição das Pedras Ltda. o direito de lavrar bauxita no Município de Passa Quatro, Estado de Minas Gerais.

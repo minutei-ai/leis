@@ -1,30 +1,28 @@
-###DEC-036778-0-000-14-01-1955@@@
+**DECRETO Nº 36.778, DE 14 DE JANEIRO DE 1955.**
 
-<strong>DECRETO Nº 36.778, DE 14 DE JANEIRO DE 1955.</strong>
+***Aprova o Regimento do Museu Nacional de Belas Artes do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Museu Nacional de Belas Artes do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Museu Nacional de Belas Artes (M. N. B. A.), do Ministério da Educação e Cultura, que assinado, pelo respectivo Ministro de Estado, baixa com êste Decreto.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Museu Nacional de Belas Artes (M. N. B. A.), do Ministério da Educação e Cultura, que assinado, pelo respectivo Ministro de Estado, baixa com êste Decreto.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de janeiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Candido Mota Filho
 
-<strong>REGIMENTO DO MUSEU NACIONAL DE BELAS ARTES</strong>
+**REGIMENTO DO MUSEU NACIONAL DE BELAS ARTES**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Museu Nacional de Belas Artes (M. N. B. A.), criado pela Lei nº 378, de 13 de janeiro de 1937, órgão do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Museu Nacional de Belas Artes (M. N. B. A.), criado pela Lei nº 378, de 13 de janeiro de 1937, órgão do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 I - Recolher, conservar e expor as obras de arte pretencentes ao patrimônio federal;
 
@@ -32,11 +30,11 @@ II - difundir e estimular o conhecimento das Belas Artes, por intermédio de exp
 
 III - Manter relações de itercâmbio artístico, no país e no exterior.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O M. N. B. A. compõe-se dos seguintes órgãos imediatamente subordinados ao Diretor:
+**Art**. 2º O M. N. B. A. compõe-se dos seguintes órgãos imediatamente subordinados ao Diretor:
 
 I - Seção Técnica;
 
@@ -50,17 +48,17 @@ IV - Portaria.
 
 § 2º São gratificadas as funções de Secretário do Diretor, de Chefe da Seção Técnica, de Chefe da Turma de Administração e de Chefe de Portaria, cabendo do Diretor designar, dentre servidores do Ministério da Educação e Cultura, os que deverão exercê-las.
 
-<strong>Art</strong>. 3º Fica instituído um Conselho Técnico como órgão consultivo do Diretor para aquisição de obras de arte e programação de atividades culturais.
+**Art**. 3º Fica instituído um Conselho Técnico como órgão consultivo do Diretor para aquisição de obras de arte e programação de atividades culturais.
 
 § 1º O Conselho Técnico é presidido pelo Diretor do M. N. B. A., e integrado por dois conservadores do mesmo estabelecimento, designados pelo Diretor e por duas pessoas de notória competência em Belas Artes, designadas pelo Ministro de Educação e Cultura.
 
 § 2º As designações para membro do Conselho Técnico do M. N. B. A., serão feitas por dois anos, permitida a recondução ao término de cada período.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º Incumbe à Seção Técnica:
+**Art**. 6º Incumbe à Seção Técnica:
 
 I - Receber, registrar, estudar, classificar, documentar fotograficamente, guardar, conservar, colecionar, etiquetar e expor, objetos do acêrvo artístico do Museu Nacional de Belas Artes.
 
@@ -98,7 +96,7 @@ XIV - Organizar as publicações do Museu e permutá-las com instituições naci
 
 XV - Preparar a correspondência do Museu sôbre asuntos ligados as belas artes.
 
-<strong>Art</strong>. 7º incumbe à Turma de Administração:
+**Art**. 7º incumbe à Turma de Administração:
 
 I - Elaborar o Expediente, a escrituração e os registros relativos a administração de pessoal, material orçamento, mantendo a indispensável harmonia com os órgãos de administração do Ministério da Educação e Cultura, cujas normas e métodos de trabalho deverá observar.
 
@@ -108,9 +106,9 @@ III - Providenciar a expedição da correspondência do M. N. B. A.
 
 IV - Reunir os elementos necessários ao preparo do relatório anual do M. N. B. A.
 
-<strong>Art</strong>. 8º Ao Serviço de Restauração incumbe, restaurar e conservar obras de arte ou documentos pertencentes ao acêrvo do M.N.B.A., de acôrdo com as determinações que receber do Diretor.
+**Art**. 8º Ao Serviço de Restauração incumbe, restaurar e conservar obras de arte ou documentos pertencentes ao acêrvo do M.N.B.A., de acôrdo com as determinações que receber do Diretor.
 
-<strong>Art</strong>. 9º Incumbe à Portaria:
+**Art**. 9º Incumbe à Portaria:
 
 I - Provisdenciar a abertura e fechamento do M. N. B. A. de acôrdo com o horário estabelecido pelo Diretor.
 
@@ -138,7 +136,7 @@ XII - Receber e encaminhar a correspondência endereçada ao MNBA.
 
 XIII - Expedir a correspondência e os volumes procedentes do M.N.B.A.
 
-<strong>Art</strong>. 10. Incumbe ao Conselho Técnico;
+**Art**. 10. Incumbe ao Conselho Técnico;
 
 I - Eleborar anualmente, atendidas as possibilidades orçamentárias, o plano de aquisição de obras de arte para ampliação das coleções do M.N.B.A.
 
@@ -160,11 +158,11 @@ V - Opinar sôbre a cessão, por empréstimo de objetos pertencentes ao patrimô
 
 § 5º De cada sessão deve ser lavrada uma ata pelo Secretário.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 11. A Diretor do M.N.B.A. incumbe:
+**Art**. 11. A Diretor do M.N.B.A. incumbe:
 
 I - Dirigir as atividades do M.N.B.A. incentivando e coordenando o trabalho dos seus vários órgãos com o objeto de conduzí-lo á plena realização das suas finalidades culturais.
 
@@ -220,7 +218,7 @@ XXVI - Proibir a entrada ou ordenar a saída do Museu de pessoas suspeitas ou qu
 
 XXVII - Apresentar ao Ministro de Estado relatório anual das atividades do Museu.
 
-<strong>Art</strong>. 12. Ao Chefe de Seção Técnica incumbe:
+**Art**. 12. Ao Chefe de Seção Técnica incumbe:
 
 I - Dirigir os trabalhos da Seção expedindo ordens e instruções necessárias ao desempenho das suas atribuições.
 
@@ -240,7 +238,7 @@ VII - Expedir boletins de merecimento aos servidores que lhe são diretamente su
 
 IX - Velar pela manutenção da ordem em tôdas as dependências do M.N.B.A., tomando, na ausência do Diretor, as providências que para êsse fim se fizerem necessárias.
 
-<strong>Art</strong>. 13. Ao Chefe da Turma de Administração incumbe:
+**Art**. 13. Ao Chefe da Turma de Administração incumbe:
 
 I - Dirigir, distribuir, coordenar e fiscalizar os trabalhos afetos à Turma, propondo ao Diretor as medidas indispensáveis ao seu desenvolvimento.
 
@@ -252,7 +250,7 @@ IV - Expedir boletins da marecimento aos servidores que lhe são diretamente sub
 
 V - Propor ao Diretor a Aprovação e alteração subseqüentes da escada de férias do pessoal do M.N.B.A.
 
-<strong>Art</strong>. 14. Ao secretário do Diretor incumbe:
+**Art**. 14. Ao secretário do Diretor incumbe:
 
 I - Representar o Diretor, quando para isso fôr designado.
 
@@ -262,7 +260,7 @@ III - Atender as pessoas que se dirigirem ao Gabinete do Diretor.
 
 IV - Auxiliar o Diretor na elaboração dos trabalhos que lhe forem afetos.
 
-<strong>Art</strong>. 15. Ao Chefe da postaria incumbe;
+**Art**. 15. Ao Chefe da postaria incumbe;
 
 I - Dirigir, distribuir coordenar e fiscalizar os trabalhos afetos a Portaria, propondo ao Diretor as medidas convenientes ao seu desenvolvimento.
 
@@ -272,55 +270,55 @@ III - Expedir boletins de merecimento aos servidores que lhe são diretamente su
 
 IV - Propor a escala de férias do pessoal subordinado à Portaria.
 
-<strong>Art</strong>. 16. Aos servidores em exercício no M.N.B.A., que não tenham atribuições especifícadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
+**Art**. 16. Aos servidores em exercício no M.N.B.A., que não tenham atribuições especifícadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 17. A lotação do Museu Nacional de Belas Artes será aprovada por decreto.
+**Art**. 17. A lotação do Museu Nacional de Belas Artes será aprovada por decreto.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 18. O M.N.B.A., será franqueado ao público para visita às galerias de exposição, domingos, feriados, às tardes de sábado e em horário noturno a ser fixado, cerrando suas portas, uma vez por semana em dia útil, para limpeza geral.
+**Art**. 18. O M.N.B.A., será franqueado ao público para visita às galerias de exposição, domingos, feriados, às tardes de sábado e em horário noturno a ser fixado, cerrando suas portas, uma vez por semana em dia útil, para limpeza geral.
 
 § 1º. O horário de trabalho dos servidores do Museu será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
 
 § 2º. O Chefe de Portaria, os servidores incumbidos da vigilância e aquêles encarregados de acompanhar os visitantes ficam sujeitas ao regime de plantão, sem prejuízo de um dia de descanso semanal.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 21. Serão subordinados, automàticamente, em suas faltas e impedimentos eventuais até trinta dias:
+**Art**. 21. Serão subordinados, automàticamente, em suas faltas e impedimentos eventuais até trinta dias:
 
 I - O Diretor pelo Chefe da Seção Técnica.
 
 II - Os Chefes da Seção Técnica, da Turma de Administração e da Portaria por servidores prèviamente designados pelo Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 22. Não é permitida a entrada no M.N.B.A., de pessoas que não se apresentam convenientemente trajadas.
+**Art**. 22. Não é permitida a entrada no M.N.B.A., de pessoas que não se apresentam convenientemente trajadas.
 
 Parágrafo único. A entrada de portadores de máquina fotográfica dependerá de autorização expressa do Diretor ou do Chefe da Seção Técnica.
 
-<strong>Art</strong>. 23. Os visitantes do M.N.B.A., devem receber, à entrada, ficha de controle e, à saída, devolvê-la à Portaria.
+**Art**. 23. Os visitantes do M.N.B.A., devem receber, à entrada, ficha de controle e, à saída, devolvê-la à Portaria.
 
 Parágrafo único. No caso de visitas coletivas de colégios ou corporações, poderá ser dada, ao responsável pelos visitantes, ou ao seu guia, ficha única, anotando a Portaria e número de componentes do grupo.
 
-<strong>Art</strong>. 24. O Museu Nacional de Belas Artes deve, por todos os meios possíveis, facilitar a sua visitação e fornecer ao público quaisquer informações relacionadas com suas finalidades, bem como despertar nos visitantes e consulentes o interêsse pelas coleções expostas e o culto pelas tradições nacionais.
+**Art**. 24. O Museu Nacional de Belas Artes deve, por todos os meios possíveis, facilitar a sua visitação e fornecer ao público quaisquer informações relacionadas com suas finalidades, bem como despertar nos visitantes e consulentes o interêsse pelas coleções expostas e o culto pelas tradições nacionais.
 
-<strong>Art</strong>. 25. A consulta às obras da Biblioteca, aos documentos do arquivo e aos fichários só será facultada nos dias úteis das 12 às 16 horas, mediante permissão do Diretor.
+**Art**. 25. A consulta às obras da Biblioteca, aos documentos do arquivo e aos fichários só será facultada nos dias úteis das 12 às 16 horas, mediante permissão do Diretor.
 
-<strong>Art</strong>. 27. As obras de arte do patrimônio do M.N.B.A., só poderão ser copiadas ou reproduzidas, por fotografia, filmagem ou qualquer outro processo, mediante prévia autorização do Diretor, a requerimento do interessado.
+**Art**. 27. As obras de arte do patrimônio do M.N.B.A., só poderão ser copiadas ou reproduzidas, por fotografia, filmagem ou qualquer outro processo, mediante prévia autorização do Diretor, a requerimento do interessado.
 
 Parágrafo único. A reprodução dessas obras de arte ou documentos em livros, revistas ou jornais sòmente será permitida mediante o prévio compromisso, por escrito, do interessado de indicar expressamente na publicação a procedência da peça ou documento reproduzido.
 
-<strong>Art</strong>. 28. O M.N.B.A., manterá duas espécies de catálogos:
+**Art**. 28. O M.N.B.A., manterá duas espécies de catálogos:
 
 I - Catálogo descritivo ou guia de visitantes, prático e explícito, com indicaçòes topográficas para circulação, ligeiro histórico da instituição, número e descrição sucintas dos objetos e das salas em que se acham expostos, menção de sua procedência resumo biográfico do artista e demais observações relativas ao material exposto.
 
@@ -328,24 +326,24 @@ II - Catálogo comentado, contendo, além do que se encontra no Catálogo descri
 
 Parágrafo único. Ambos os catálogos devem ser ilustrados com fotográfias, desenhos e reproduções das obras expostas e serão vendidos ao público na Portaria.
 
-<strong>Art</strong>. 29. O M.N.B.A., editará cartões postais, avulsos ou em blocos, com reprodução fotográfica ou litográfica do edifício, de salas e das principais peças de sua coleção artística que serão postos à venda.
+**Art**. 29. O M.N.B.A., editará cartões postais, avulsos ou em blocos, com reprodução fotográfica ou litográfica do edifício, de salas e das principais peças de sua coleção artística que serão postos à venda.
 
-<strong>Art</strong>. 30. A Sala de Conferências pode ser cedida para fins educativos e patrióticos e as demais salas serão utilizadas para exposições e solenidades de iniciativa do Museu e só serão cedidas com autorização do Diretor.
+**Art**. 30. A Sala de Conferências pode ser cedida para fins educativos e patrióticos e as demais salas serão utilizadas para exposições e solenidades de iniciativa do Museu e só serão cedidas com autorização do Diretor.
 
-<strong>Art</strong>. 31. A realização de exposições particulares, de artístas nacionais ou estrangeiros, no M.N.B.A., só será permitida nos recintos especialmente destinados a êsse fim, mediante prévia autorização do Diretor, de acôrdo com parecer do Conselho Técnico.
+**Art**. 31. A realização de exposições particulares, de artístas nacionais ou estrangeiros, no M.N.B.A., só será permitida nos recintos especialmente destinados a êsse fim, mediante prévia autorização do Diretor, de acôrdo com parecer do Conselho Técnico.
 
-<strong>Art</strong>. 32. O M.N.B.A., deve manter cooperação com estabelecimentos similares do pais e do estrangeiro e, bem assim, com a Diretoria do Patrimônio Histórico e Artístico Nacional, em cumprimento ao disposto no art. 45 da Lei n.º 378, de 13 de janeiro de 1937, e ainda com outras organizações oficiais ou privadas, notadamente de educação escolar ou extra-escolar, quer possam contribuir para maior divulgação do conhecimento das belas artes.
+**Art**. 32. O M.N.B.A., deve manter cooperação com estabelecimentos similares do pais e do estrangeiro e, bem assim, com a Diretoria do Patrimônio Histórico e Artístico Nacional, em cumprimento ao disposto no art. 45 da Lei n.º 378, de 13 de janeiro de 1937, e ainda com outras organizações oficiais ou privadas, notadamente de educação escolar ou extra-escolar, quer possam contribuir para maior divulgação do conhecimento das belas artes.
 
-<strong>Art</strong>. 33. A cessão, por empréstimo, de objetos do acervo do M.N.B.A., só poderá ser feita com autorização do Ministro de Estado, por proposta do Diretor, ouvido o Conselho Técnico.
+**Art**. 33. A cessão, por empréstimo, de objetos do acervo do M.N.B.A., só poderá ser feita com autorização do Ministro de Estado, por proposta do Diretor, ouvido o Conselho Técnico.
 
-<strong>Art</strong>. 34. É proibido fumar nas salas de exposição e de conferências, bem como tocar os objetos expostos.
+**Art**. 34. É proibido fumar nas salas de exposição e de conferências, bem como tocar os objetos expostos.
 
-<strong>Art</strong>. 35. Sem prejuízo das atribuições do Serviço de Restauração, os trabalhos de restauro, em casos especiais, poderão ser confiados a técnicos de idoneidade e capacidade comprovadas, a juízo do Diretor e sob sua vigilância.
+**Art**. 35. Sem prejuízo das atribuições do Serviço de Restauração, os trabalhos de restauro, em casos especiais, poderão ser confiados a técnicos de idoneidade e capacidade comprovadas, a juízo do Diretor e sob sua vigilância.
 
-<strong>Art</strong>. 36. A compra de objetos de arte para as coleções do M.N.B.A., dependerá de parecer do Conselho Técnico e autorização do Ministro.
+**Art**. 36. A compra de objetos de arte para as coleções do M.N.B.A., dependerá de parecer do Conselho Técnico e autorização do Ministro.
 
-<strong>Art</strong>. 37. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 37. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de janeiro de 1955.
 
-<strong>CANDIDO MOTTA FILHO</strong>
+**CANDIDO MOTTA FILHO**

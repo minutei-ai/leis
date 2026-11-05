@@ -1,5 +1,3 @@
-###DEC-002372-0-000-10-11-1997@@@
-
 DECRETO Nº 2.372, DE 10 DE NOVEMBRO DE 1997
 
 Determina a realização de Assembléia-Geral de Acionistas nas instituições financeiras federais para deliberar sobre a proibição de realização de operações de crédito com os Estados e com o Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-089129-0-000-07-12-1983@@@
-
 Decreto nº 89.129, de 07 de dezembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trechos de linha de transmissão da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

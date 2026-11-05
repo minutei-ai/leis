@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211981)<br>
-
 # DECRETO N° 70.201, DE 12 DE DEZEMBRO DE 2025
 
 ### _Institui a Medalha do Cinquentenário do Comando de Policiamento de Área Metropolitana Cinco e dá providências correlatas._

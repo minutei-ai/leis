@@ -1,5 +1,3 @@
-###DEC-053235-0-000-12-12-1963@@@
-
 DECRETO Nº 53.235, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Maurício Mascarenhas Junqueira a pesquisar minérios de chumbo e zinco no município de Chapada dos Guimarães, Estado de Mato Grosso.

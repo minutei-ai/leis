@@ -1,5 +1,3 @@
-###DEC-074364-0-000-07-08-1974@@@
-
 DECRETO Nº 74.364, DE 7 DE AGOSTO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Contábeis do Instituto de Ciências Sociais "São Judas Tadeu", mantido pelo Instituto Alberto Mesquita de Camargo, com sede na cidade de São Paulo, Estado de São Paulo.

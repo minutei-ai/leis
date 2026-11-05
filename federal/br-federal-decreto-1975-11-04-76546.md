@@ -1,5 +1,3 @@
-###DEC-076546-0-000-04-11-1975@@@
-
 DECRETO Nº 76.546, DE 4 DE NOVEMBRO DE 1975
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física de Lins, Estado de São Paulo.

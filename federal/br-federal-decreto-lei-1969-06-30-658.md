@@ -1,5 +1,3 @@
-###DEL-000658-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 658, DE 30 DE JUNHO DE 1969
 
 Autoriza o Estado do Rio Grande do Sul a celebrar operação de financiamento externo no valor de US$1.142,385 20 e dá outras providências.

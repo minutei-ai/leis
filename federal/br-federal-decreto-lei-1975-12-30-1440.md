@@ -1,5 +1,3 @@
-###DEL-001440-0-000-30-12-1975@@@
-
 # DECRETO-LEI Nº 1.440, DE 30 DE DEZEMBRO DE 1975
 
 Dispõe sobre a criação de cargos no Grupo-Polícia Federal, do Quadro Permanente do Departamento de Polícia Federal.

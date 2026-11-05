@@ -1,5 +1,3 @@
-###DEC-092095-0-000-09-12-1985@@@
-
 Decreto nº 92.095, de 09 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Furado de Espinho e Pau a Pique'' (parte), compreendidos na referida área, no Município de Marcionílio Souza, no Estado da Bahia, e dá outras providências.

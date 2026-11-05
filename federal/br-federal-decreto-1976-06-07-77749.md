@@ -1,5 +1,3 @@
-###DEC-077749-0-000-07-06-1976@@@
-
 DECRETO Nº 77.749, DE 7 DE JUNHO DE 1976.
 
 Dá nova redação a letra "a" do artigo 5º do Decreto nº 76.593, de 14 de novembro de 1975, que instituiu o Programa Nacional do Álcool.

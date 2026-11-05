@@ -1,5 +1,3 @@
-###DEC-081019-0-000-12-12-1977@@@
-
 Decreto nº 81.019, de 12 de dezembro de 1977.
 
 Concede à Empresa Mineradora e Industrial Santanense Ltda. o direito de lavrar minérios de ferro e maganês no Município de Itatiaiuçu, Estado de Minas Gerais.

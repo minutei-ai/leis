@@ -24,8 +24,6 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 17 de novembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -34,7 +32,8 @@ TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DE GOIÁS
 
 ANEXO I
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO NÃO ONEROSA, AO MUNICÍPIO DE GOIÂNIA-GO. |
 | --- |
 | DENOMINAÇÃO | Lote nº 83-12 da Quadra 126. |
@@ -47,7 +46,8 @@ DISCRIMINAÇÃO DO IMÓVEL
 
 ANEXO II
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO NÃO ONEROSA, AO MUNICÍPIO DE GOIÂNIA-GO. |
 | --- |
 | DENOMINAÇÃO | Lote nº 81 da Quadra 126. |
@@ -60,7 +60,8 @@ DISCRIMINAÇÃO DO IMÓVEL
 
 ANEXO III
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO NÃO ONEROSA, AO MUNICÍPIO DE GOIÂNIA-GO. |
 | --- |
 | DENOMINAÇÃO | Lote nº 10 da Quadra 126. |
@@ -79,11 +80,13 @@ BENFEITORIAS: um prédio contendo pavimento térreo: dois salões, dois banheiro
 
 ANEXO IV
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS-GO AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO NÃO ONEROSA, AO MUNICÍPIO DE GOIÂNIA-GO. |
 | --- |
 | DENOMINAÇÃO | Lote nº 8-80 da Quadra 126. |
 | LOCALIZAÇÃO | Rua 67, esquina com a Rua 70. |
 | MATRÍCULA | Nº 11.020 – Cartório de Registro de Imóveis da 2ª Circunscrição de Goiânia-GO. |
-| DISCRIMINAÇÃO<br>
+| DISCRIMINAÇÃO
+
 DO IMÓVEL | Setor Central, nesta Capital, com área de 1.499,49 m², sendo 36,77 m de frente pela Rua 67; por 42,49 m de fundo, figura irregular chanfrada, dividindo com os lotes 78, 10 e 81. |

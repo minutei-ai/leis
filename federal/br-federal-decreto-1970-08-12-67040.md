@@ -1,5 +1,3 @@
-###DEC-067040-0-000-12-08-1970@@@
-
 decreto nº 67.040, de 12 de agôsto de 1970.
 
 Autoriza a alienação dos bens que menciona, situados no Estado de São Paulo.

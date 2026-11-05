@@ -1,5 +1,3 @@
-###DEC-006886-0-000-25-06-2009@@@
-
 DECRETO Nº 6.886, DE 25 DE JUNHO DE 2009.
 
 Dá nova redação ao art. 2o do Regulamento da Organização, Funcionamento e Execução dos Registros Genealógicos de Animais Domésticos do País, aprovado pelo Decreto no 58.984, de 3 de agosto de 1966.

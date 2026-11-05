@@ -1,5 +1,3 @@
-###DEC-047054-0-000-20-10-1959@@@
-
 DECRETO Nº 47.054, DE 20 DE OUTUBRO DE 1959.
 
 Concede à Sociedade Cliffs de Mineração Ltda. autorização para funcionar como emprêsa de mineração.

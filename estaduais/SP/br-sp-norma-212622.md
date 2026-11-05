@@ -1,10 +1,9 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212622)<br>
-
 # DECRETO N° 70.623, DE 19 DE MAIO DE 2026
 
 ### _Regulamenta a Lei n° 17.383, de 5 de julho de 2021, que dispõe sobre a criação de unidades regionais de saneamento básico, e dá providências correlatas._
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto disciplina a prestação regionalizada dos serviços públicos de abastecimento de água potável e esgotamento sanitário do Estado de São Paulo, realizada pelas Unidades Regionais de Saneamento Básico - URAE 1 e URAE 2, nos termos do artigo 3° e dos Anexos I e II da [Lei n° 17.383, de 5 de julho de 2021](https://www.al.sp.gov.br/norma/198980).
@@ -19,7 +18,8 @@ Disposições Preliminares
 
 **Artigo 5° -** Os contratos, convênios, parcerias e outros instrumentos congêneres para o planejamento, a organização e a execução dos serviços públicos de abastecimento de água potável e esgotamento sanitário, firmados no âmbito das URAEs e Sub-URAEs, deverão contemplar o atingimento das metas de universalização previstas na Lei federal n° 11.445, de 5 de janeiro de 2007, considerados todos os municípios integrantes da URAE e Sub-URAE correspondente.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Governança Interfederativa
 
 **Artigo 6° -** A estrutura de governança interfederativa das URAEs previstas nos Anexos I e II da [Lei n° 17.383, de 5 de julho de 2021](https://www.al.sp.gov.br/norma/198980), contará com os seguintes órgãos:
@@ -168,7 +168,8 @@ IV - possibilidade de solicitação de audiência pública para esclarecimentos.
 
 **Parágrafo único -** A comissão com funções técnico-consultivas, designada pelo Conselho Deliberativo da URAE, poderá atender o Conselho Deliberativo das Sub-URAE, mediante deliberação deste.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Adesão dos Municípios
 
 **Artigo 17 -** Caberá à Secretaria de Meio Ambiente, Infraestrutura e Logística - SEMIL a coordenação técnica e administrativa do processo de adesão dos municípios integrantes da URAE-2, nos termos do inciso II do artigo 3° e do Anexo II da [Lei n° 17.383, de 5 de julho de 2021](https://www.al.sp.gov.br/norma/198980).
@@ -187,7 +188,8 @@ Da Adesão dos Municípios
 
 **Artigo 18 -** Fica dispensada nova manifestação de adesão dos municípios que compõem a URAE-1, nos termos do artigo 3° da [Lei n° 18.436, de 25 de março de 2026](https://www.al.sp.gov.br/norma/212410), considerando-se preservadas as adesões realizadas na vigência do [Decreto n° 66.289, de 2 de dezembro de 2021](https://www.al.sp.gov.br/norma/201161).
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Disposições Finais
 
 **Artigo 19 -** Revogam-se as disposições em contrário, em especial o [Decreto n° 66.289, de 2 de dezembro de 2021](https://www.al.sp.gov.br/norma/201161).

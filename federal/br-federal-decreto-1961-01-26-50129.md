@@ -1,5 +1,3 @@
-###DEC-050129-0-000-26-01-1961@@@
-
 Decreto nº 50.129, de 26 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Jesuino Felicíssimo Junior a lavrar leocofilitos no Município de Santana de Paraíba, Estado de São Paulo.

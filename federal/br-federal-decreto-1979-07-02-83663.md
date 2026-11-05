@@ -1,5 +1,3 @@
-###DEC-083663-0-000-02-07-1979@@@
-
 Decreto nº 83.663, de 02 de julho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

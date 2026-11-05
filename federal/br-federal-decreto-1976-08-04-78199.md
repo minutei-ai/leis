@@ -1,5 +1,3 @@
-###DEC-078199-0-000-04-08-1976@@@
-
 Decreto nº 78.199, de 4 de agosto de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Maceió, Estado de Alagoas.

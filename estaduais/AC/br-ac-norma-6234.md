@@ -1,6 +1,10 @@
 > **LEI Nº 4.498, DE 03 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a Lei Complementar nº 419, de 15 de dezembro de 2022, para tratar do custeio da remuneração de servidor ocupante de cargo público ou empregado público de órgão ou entidade do Poder Executivo do Estado do Acre investido em cargo em comissão.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a Lei Complementar nº 419, de 15 de dezembro de 2022, para tratar do custeio da remuneração de servidor ocupante de cargo público ou empregado público de órgão ou entidade do Poder Executivo do Estado do Acre investido em cargo em comissão.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

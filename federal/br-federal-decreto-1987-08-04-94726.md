@@ -1,5 +1,3 @@
-###DEC-094726-0-000-04-08-1987@@@
-
 DECRETO Nº 94.726, DE 4 DE AGOSTO DE 1987.
 
 Altera o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas em 1988, aprovado pelo Decreto nº 93.628, de 28 de novembro de 1986.

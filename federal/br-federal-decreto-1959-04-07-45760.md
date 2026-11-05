@@ -1,5 +1,3 @@
-###DEC-045760-0-000-07-04-1959@@@
-
 DECRETO Nº 45.760, DE 7 DE ABRIL DE 1959.
 
 Autoriza a cidadã brasileira Luzia Gomes Antunes a pesquisar minério de ferro, manganês e dolomita, no município de Brumadinho, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208187)<br>
-
 # LEI N° 17.694, DE 13 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 285, de 2021, do Deputado Itamar Borges - MDB)

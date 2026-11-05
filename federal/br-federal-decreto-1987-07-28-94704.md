@@ -1,5 +1,3 @@
-###DEC-094704-0-000-28-07-1987@@@
-
 DECRETO Nº 94.704, DE 28 DE JULHO DE 1987.
 
 Autoriza a transferência dos terrenos que menciona, situados no Município de Paracambi, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-007739-0-000-28-05-2012-PUB-01@@@
-
 DECRETO Nº 7.739, DE 28 DE MAIO DE 2012
 
 Promulga o Acordo entre a República Federativa do Brasil e a Organização das Nações Unidas para a Realização da Conferência das Nações Unidas sobre Desenvolvimento Sustentável, no Rio de Janeiro, Brasil, de 13 a 22 de junho de 2012.

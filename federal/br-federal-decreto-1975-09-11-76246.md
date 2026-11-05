@@ -1,5 +1,3 @@
-###DEC-076246-0-000-11-09-1975@@@
-
 DECRETO Nº 76.246 - DE 11 DE SETEMBRO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Barbacena, Estado de Minas Gerais.

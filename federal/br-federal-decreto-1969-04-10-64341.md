@@ -1,5 +1,3 @@
-###DEC-064341-0-000-10-04-1969@@@
-
 DECRETO Nº 64.341, DE 10 DE ABRIL DE 1969.
 
 Declara de utilidade pública a Comunidade Evangélica Marcelino Ramos, com sede em Marcelino Ramos - Estado do Rio Grande do Sul.

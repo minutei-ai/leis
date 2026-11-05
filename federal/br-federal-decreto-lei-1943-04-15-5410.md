@@ -1,5 +1,3 @@
-###DEL-005410-0-000-15-04-1943@@@
-
 DECRETO‑LEI N. 5.410 – DE 15 DE ABRIL DE 1943
 
 Altera o Regulamento da Ordem dos Advogados do Brasil

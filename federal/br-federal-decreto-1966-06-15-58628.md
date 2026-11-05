@@ -1,5 +1,3 @@
-###DEC-058628-0-000-15-06-1966@@@
-
 DECRETO Nº 58.628, DE 15 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Milton Pereira Lima a lavrar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

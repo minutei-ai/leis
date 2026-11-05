@@ -1,5 +1,3 @@
-###DEC-048240-0-000-19-05-1960@@@
-
 DECRETO Nº 48.240, DE 19 DE MAIO DE 1960.
 
 Concede autorização para o funcionamento do Curso de Bacharelado da Faculdade Católica de Direito de Ilhéus.

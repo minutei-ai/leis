@@ -1,5 +1,3 @@
-###DEC-095997-0-000-02-05-1988@@@
-
 DECRETO N° 95.997, DE 02 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO GUAIRÁ DE GUAÍRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Guaíra, Estado do Paraná.

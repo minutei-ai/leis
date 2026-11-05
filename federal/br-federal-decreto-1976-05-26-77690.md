@@ -1,5 +1,3 @@
-###DEC-077690-0-000-26-05-1976@@@
-
 DECRETO Nº 77.690, DE 26 DE MAIO DE 1976
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Ceará.

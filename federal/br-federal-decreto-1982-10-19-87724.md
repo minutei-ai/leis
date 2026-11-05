@@ -1,5 +1,3 @@
-###DEC-087724-0-000-19-10-1982@@@
-
 Decreto nº 87.724, de 19 de outubro de 1982.
 
 Altera a redação do art. 1º do Decreto nº 84.566, de 17 de março de 1980, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

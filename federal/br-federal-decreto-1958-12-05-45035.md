@@ -1,5 +1,3 @@
-###DEC-045035-0-000-05-12-1958@@@
-
 DECRETO Nº 45.035, DE 5 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra a Sêcas, o prédio sito à rua Pedro Pereira nº 684, na cidade de Fortaleza, Estado do Ceará.

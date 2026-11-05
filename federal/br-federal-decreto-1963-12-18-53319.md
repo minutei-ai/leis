@@ -1,5 +1,3 @@
-###DEC-053319-0-000-18-12-1963@@@
-
 Decreto nº 53.319, de 18 de dezembro de 1963.
 
 Autoriza o Estado de Goiás a encampar as concessões do serviço de energia elétrica nos municípios de Ipameri e Urutaí.

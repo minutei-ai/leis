@@ -1,5 +1,3 @@
-###DEC-048307-0-000-17-06-1960@@@
-
 DECRETO Nº 48.307, DE 17 DE JUNHO DE 1960.
 
 Transforma os Comandos do 1º Grupamento de Engenharia e de Grupamento de Elementos de Fronteira em Grandes Comandos.

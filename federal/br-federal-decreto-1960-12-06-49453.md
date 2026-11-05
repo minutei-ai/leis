@@ -1,5 +1,3 @@
-###DEC-049453-0-000-06-12-1960@@@
-
 DECRETO Nº 49.453, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Montes Claros (MG).

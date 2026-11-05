@@ -1,5 +1,3 @@
-###DEL-009256-0-000-13-05-1946@@@
-
 DECRETO-LEI N. 9.256 – DE 13 DE MAIO DE 1946
 
 Dispõe sobre a aplicação das dotações destinadas à ampliação e melhoria do sistema escolar primário em todo o País.

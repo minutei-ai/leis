@@ -1,5 +1,3 @@
-###DEC-091371-0-000-26-06-1985@@@
-
 DECRETO Nº 91.371, de 26 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS - imóveis constituídos de terras, acessões e benfeitorias que menciona.

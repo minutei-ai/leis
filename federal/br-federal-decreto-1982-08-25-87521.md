@@ -1,5 +1,3 @@
-###DEC-087521-0-000-25-08-1982@@@
-
 DECRETO nº 87.521, de 25 de agosto de 1982.
 
 Promulga o Acordo Modificativo ao Convênio sobre Transportes Marítimos entre a República Federativa do Brasil e os Estados Unidos Mexicanos, celebrado em Brasília, por troca de notas de 16 de junho e 16 de julho de 1980.

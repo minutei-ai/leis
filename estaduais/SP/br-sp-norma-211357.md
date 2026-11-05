@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211357)<br>
-
 # DECRETO N° 69.823, DE 26 DE AGOSTO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Tejupá, do imóvel que especifica, e dá providências correlatas._

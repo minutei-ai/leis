@@ -1,5 +1,3 @@
-###DEC-001843-0-000-25-03-1996@@@
-
 DECRETO Nº 1.843, DE 25 DE MARÇO DE 1996.
 
 Dá nova redação ao art. 11 do Decreto n° 1.197, de 14 de julho de 1994.

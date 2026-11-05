@@ -1,5 +1,3 @@
-###DEC-088380-0-000-13-06-1983@@@
-
 # Decreto nº 88.380, de 13 de Junho de 1983.
 
 Altera dispositivo do Decreto nº 70.772, de 28 de junho de 1972, que "Regulamenta a execução, em tempo de paz, do transporte, em território nacional, de militares da Marinha, do Exército e da Aeronáutica".

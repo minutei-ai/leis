@@ -1,5 +1,3 @@
-###DEC-075373-0-000-14-02-1975@@@
-
 DECRETO Nº 75.373, DE 14 DE FEVEREIRO DE 1975.
 
 Cria a Empresa Brasileira de Assistência Técnica e Extensão Rural - EMBRATER, regulamenta dispositivos da Lei nº 6.126, de 6 de novembro de 1974, e dá outras providências.

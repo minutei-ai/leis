@@ -1,7 +1,3 @@
-1
-
-###DEC-000471-0-000-09-03-1992@@@
-
 DECRETO N° 471, DE 9 DE MARÇO DE 1992
 
 Promulga o Acordo Geral de Coopera­ção, entre o Governo da República Federa­tiva do Brasil e o Governo da República Democrática de São Tomé e Príncipe.

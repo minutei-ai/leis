@@ -1,5 +1,3 @@
-###MPV-001853-0-007-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.853-7, DE 29 DE JUnHO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras Providências.

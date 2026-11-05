@@ -1,5 +1,3 @@
-###DEC-051951-A-000-26-04-1963@@@
-
 DECRETO Nº 51.951-a, DE 26 DE ABRIL DE 1963.
 
 Autoriza Mineração Usina Wigg S.A. a lavrar minério de ferro no município de Itabirito, Estado de Minas Gerais.

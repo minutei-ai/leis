@@ -1,5 +1,3 @@
-###DEL-007487-0-000-24-04-1945@@@
-
 DECRETO-LEI N. 7.487 – DE 24 DE ABRIL DE 1945
 
 Abre, crédito suplementar ao Ministério da Educação e Saúde e dá outras providências

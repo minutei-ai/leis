@@ -1,5 +1,3 @@
-###DEC-078996-0-000-22-12-1976@@@
-
 DECRETO Nº 78.996, DE 22 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, em Vila Isabel, na cidade do Rio de Janeiro destinada à instalação de uma Central Telefônica, pela Telecomunicações do Rio de Janeiro S. A.- TELERJ.

@@ -1,5 +1,3 @@
-###MPV-001985-0-033\-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-33, DE 26 de outubro DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

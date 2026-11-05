@@ -1,5 +1,3 @@
-###DEC-045301-0-000-27-01-1959@@@
-
 Decreto nº 45.301, de 27 de janeiro de 1959.
 
 Autoriza o Govêrno do Estado do Piauí a pesquisar argila no município de Oeiras, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-073647-0-000-14-02-1974@@@
-
 DECRETO Nº 73.647, de 14 de fevereiro de 1974.
 
 Autoriza a permuta dos terrenos que menciona, situados em Quito, na República do Equador.

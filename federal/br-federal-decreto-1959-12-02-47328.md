@@ -1,5 +1,3 @@
-###DEC-047328-0-000-02-12-1959@@@
-
 Decreto nº 47.328, de 2 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Manoel Jorge Curi a pesquisar esmeralda no município de Conquista, Estado da Bahia.

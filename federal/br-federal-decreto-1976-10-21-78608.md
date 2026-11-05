@@ -1,5 +1,3 @@
-###DEC-078608-0-000-21-10-1976@@@
-
 DECRETO Nº 78.608, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Fundação Universidade Federal do Mato Grosso, com sede na Cidade de Cuiabá, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-045656-A-000-25-03-1959@@@
-
 Decreto nº 45.656-A, de 25 de março de 1959.
 
 Considera destacada em Francisco Beltrão a 1a/13º R.I., conforme dispõe o Art. 19 da Lei nº 2.851 (Lei Básica do Exército).

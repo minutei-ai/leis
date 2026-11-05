@@ -1,5 +1,3 @@
-###DEC-004312-0-000-24-07-2002@@@
-
 DECRETO Nº 4.312, DE 24 DE JULHO DE 2002
 
 Dá nova redação a dispositivo do Anexo ao Decreto nº3.457, de 12 de maio de 2000, que aprova o Estatuto Social da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV.

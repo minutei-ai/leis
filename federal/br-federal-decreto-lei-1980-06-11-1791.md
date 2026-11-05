@@ -1,5 +1,3 @@
-###DEL-001791-0-000-11-06-1980@@@
-
 # DECRETO-LEI Nº 1.791, de 11 de junho de 1980.
 
 Dispõe sobre a renúncia, pela União, em favor do Estado de São Paulo, ao domínio direto de área situada no Município de Guarulhos, Estado de São Paulo.

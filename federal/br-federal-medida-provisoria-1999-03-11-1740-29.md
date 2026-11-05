@@ -1,5 +1,3 @@
-###MPV-001740-0-029-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.740-29, DE 11 de MARÇO DE 1999
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

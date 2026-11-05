@@ -1,5 +1,3 @@
-###DEL-004552-0-000-06-08-1942@@@
-
 DECRETO-LEI N. 4.552 – DE 6 DE AGOSTO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 5:000$0, à verba que especifica

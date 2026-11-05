@@ -1,5 +1,3 @@
-###DEC-064697-0-000-13-06-1969@@@
-
 DECRETO Nº 64.697, DE 13 DE JUNHO DE 1969.
 
 Declara de utilidade pública o Educandário de Menores de Pinhal, com sede em Pinhal, Estado de São Paulo.

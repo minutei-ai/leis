@@ -1,5 +1,3 @@
-###DEL-003356-0-000-19-06-1941@@@
-
 DECRETO-LEI N. 3.356 – DE 19 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 2:000$0, para concessão de um auxílio

@@ -1,5 +1,3 @@
-###DEC-075690-0-000-05-05-1975@@@
-
 DECRETO Nº 75.690, DE 5 DE MAIO DE 1975.
 
 Fica autorizado o funcionamento da Faculdade de Estudos Sociais, com o curso de Estudos Sociais, mantida pela Fundação Educacional Regional Jaraguaense, com sede na cidade de Jaraguá do Sul, Estado de Santa Catarina.

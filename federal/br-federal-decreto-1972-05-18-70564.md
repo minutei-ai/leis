@@ -1,5 +1,3 @@
-###DEC-070564-0-000-18-05-1972@@@
-
 DECRETO Nº 70.564, DE 18 DE MAIO DE 1972.
 
 Altera o parágrafo 1º do artigo 2º, do Decreto nº 69.495, de 5 de novembro de 1971, que dispõe sobre a Ordem Nacional do Mérito Educativo.

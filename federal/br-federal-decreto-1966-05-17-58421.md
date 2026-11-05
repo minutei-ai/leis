@@ -1,5 +1,3 @@
-###DEC-058421-0-000-17-05-1966@@@
-
 DECRETO Nº 58.421, DE 17 DE MAIO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$99.807.000, para atender ao pagamento das despesas decorrentes da participação de representantes dêste Ministério nas Reuniões da ALALC.

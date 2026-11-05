@@ -1,5 +1,3 @@
-###DEL-005604-0-000-22-06-1943@@@
-
 DECRETO‑LEI N. 5.604 – DE 22 DE JUNHO DE 1943
 
 Abre crédito Suplementar ao Conselho Federal de Comercio Exterior

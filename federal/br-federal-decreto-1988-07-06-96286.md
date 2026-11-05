@@ -1,5 +1,3 @@
-###DEC-096286-0-000-06-07-1988@@@
-
 DECRETO N° 96.286, DE 6 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Administração de Empresas de Jahu, São Paulo.

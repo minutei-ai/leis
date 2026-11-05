@@ -1,5 +1,3 @@
-###DEC-050954-0-000-14-07-1961@@@
-
 DECRETO Nº 50.954, DE 14 DE JULHO DE 1961.
 
 Dispõe sôbre a execução do serviço da Loteria Federal e dá outras providências.

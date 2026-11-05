@@ -1,5 +1,3 @@
-###DEC-055073-0-000-25-11-1964@@@
-
 DECRETO Nº 55.073, DE 25 DE NOVEMBRO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Município de Serra Negra, Estado de São Paulo.

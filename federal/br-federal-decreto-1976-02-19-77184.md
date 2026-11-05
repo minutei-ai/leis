@@ -1,5 +1,3 @@
-###DEC-077184-0-000-19-02-1976@@@
-
 DECRETO Nº 77.184, DE 19 DE FEVEREIRO DE 1976.
 
 Autoriza a concessão de garantia da União a operações de empréstimo externo a serem contratadas pela Companhia do Metropolitano do Rio de Janeiro - METRÔ.

@@ -1,4 +1,5 @@
-LEI Nº 22.474, DE 13 DE DEZEMBRO DE 2023<br>
+LEI Nº 22.474, DE 13 DE DEZEMBRO DE 2023
+
 \- [Promulgada pela Assembleia Legislativa](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5933).
 
 Dispõe sobre o compartilhamento de infraestrutura na exploração dos serviços públicos de energia elétrica e telecomunicações, de interesse coletivo, no Estado de Goiás, e dá outras providências.

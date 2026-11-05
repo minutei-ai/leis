@@ -1,5 +1,3 @@
-###DEC-076860-0-000-17-12-1975@@@
-
 DECRETO Nº 76.860, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento à Universidade Metodista de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

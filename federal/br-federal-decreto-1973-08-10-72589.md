@@ -1,5 +1,3 @@
-###DEC-072589-0-000-10-08-1973@@@
-
 Decreto Nº 72.589, DE 10 DE AGOSTO DE 1973.
 
 Aprova o Regulamento do Instituto de Pesquisa e Desenvolvimento, do Ministério do Exército, e dá outras providências.

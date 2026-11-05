@@ -1,5 +1,3 @@
-###DEC-006124-0-000-13-06-2007@@@
-
 DECRETO Nº 6.124, DE 13 DE JUNHO DE 2007.
 
 Estabelece, no âmbito do Poder Executivo, limites para empenho de despesas com diárias, passagens e locomoção no exercício de 2007.
@@ -33,5 +31,3 @@ Brasília, 13 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 14.6.2007.

@@ -1,5 +1,3 @@
-###DEC-053582-0-000-21-02-1964@@@
-
 DECRETO Nº 53.582, DE 21 DE FEVEREIRO DE 1964.
 
 Concede o direito de lecionar no 1º ciclo de escolas de nível médio aos alunos da 1ª e 2ª séries das Faculdades de Filosofia.

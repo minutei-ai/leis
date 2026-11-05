@@ -1,5 +1,3 @@
-###DEC-097023-0-000-27-10-1988@@@
-
 DECRETO N° 97.023, DE 27 DE OUTUBRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Contábeis das Faculdades Inte­gradas de Ourinhos.

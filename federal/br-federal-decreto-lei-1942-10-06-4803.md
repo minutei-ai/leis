@@ -1,5 +1,3 @@
-###DEL-004803-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.803 – DE 6 DE OUTUBRO DE 1942
 
 Altera o regulamento da Ordem dos Advogados do Brasil

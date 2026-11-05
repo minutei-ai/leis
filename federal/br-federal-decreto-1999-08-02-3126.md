@@ -1,5 +1,3 @@
-###DEC-003126-0-000-02-08-1999@@@
-
 DECRETO Nº 3.126, DE 2 DE gosto de 1999.
 
 Altera o Decreto nº 2.752, de 26 de agosto de 1998, que “Estabelece condições para prestação de assistência judicial aos servidores integrantes da Carreira Auditoria do Tesouro Nacional e aos titulares de cargos de Direção e Assessoramento Superiores, em ações decorrentes do Exercício de cargo na Secretaria da Receita Federal’’.

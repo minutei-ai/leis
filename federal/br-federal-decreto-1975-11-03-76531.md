@@ -1,5 +1,3 @@
-###DEC-076531-0-000-03-11-1975@@@
-
 DECRETO Nº 76.531, DE 3 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE no Estado do Rio de Janeiro.

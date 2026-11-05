@@ -1,5 +1,3 @@
-###DEC-005603-0-000-06-12-2005@@@
-
 DECRETO Nº 5.603, DE 6 DE DEZEMBRO DE 2005.
 
 Dispõe sobre a criação da Embaixada do Brasil na Comunidade das Bahamas, com sede em Nassau.

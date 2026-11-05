@@ -1,5 +1,3 @@
-###DEC-070065-0-000-26-01-1972@@@
-
 DECRETO Nº 70.065, DE 26 DE JANEIRO DE 1972.
 
 Decreta intervenção federal no Município de Leme, Estado de São Paulo, e dá outras providências.

@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a conceder auxílio de Cr$2.000.000
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08- verba 3.1.4.19.1, do orçamento de 1965.
 
-Redação de acordo com a Lei nº 2.160, de 08 de junho de 1965.<br>
+Redação de acordo com a Lei nº 2.160, de 08 de junho de 1965.
+
 Redação original: "Art. 2º - Para atender as despesas a que se refere o artigo anterior o Poder Executivo abrirá crédito à conta da verba 3.05.08 - 1.6.21.1 do orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ Virgílio de Sá
 
 Ivo Braga
 
-* * *
+ *

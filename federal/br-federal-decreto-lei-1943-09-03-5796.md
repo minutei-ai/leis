@@ -1,5 +1,3 @@
-###DEL-005796-0-000-03-09-1943@@@
-
 DECRETO‑LEI N. 5.796 – DE 3 DE SETEMBRO DE 1943
 
 Altera disposições do decreto‑lei n. 4.521, de 24 de julho de 1942, que reorga­nizou a Comissão Nacional do Gasogênio

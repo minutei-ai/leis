@@ -1,5 +1,3 @@
-###DEC-092234-0-000-30-12-1985@@@
-
 DECRETO Nº 92.234, DE 30 DE DEZEMBRO DE 1985
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Ubá, Minas Gerais.

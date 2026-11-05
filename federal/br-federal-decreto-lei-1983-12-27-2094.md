@@ -1,5 +1,3 @@
-###DEL-002094-0-000-27-12-1983@@@
-
 # DEcretO nº 2.094, de 27 de dezembro de 1983
 
 Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências.

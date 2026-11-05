@@ -1,5 +1,3 @@
-###DEL-003039-0-000-10-02-1941@@@
-
 DECRETO-LEI N. 3.039 – DE 10 DE FEVEREIRO DE 1941
 
 Aprova as cláusulas de novação do contrato a ser celebrado com o Estado do Espírito Santo, para a concessão do porto de Vitória.

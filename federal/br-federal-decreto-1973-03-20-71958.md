@@ -1,5 +1,3 @@
-###DEC-071958-0-000-20-03-1973@@@
-
 DECRETO Nº 71.958, DE 20 DE MARÇO DE 1973.
 
 Prorroga o prazo da concessão de aproveitamento de energia hidráulica, para uso exclusivo.

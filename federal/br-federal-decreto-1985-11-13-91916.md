@@ -1,5 +1,3 @@
-###DEC-091916-0-000-13-11-1985@@@
-
 Decreto nº 91.916, de 13 de novembro de 1985
 
 Altera a composição do Conselho Deliberativo do Instituto Nacional de Alimentação e Nutrição - INAN, dando nova redação ao parágrafo único do artigo 5º do Decreto nº 77.116, de 6 de fevereiro de 1976.

@@ -1,5 +1,3 @@
-###DEL-003830-0-000-17-11-1941@@@
-
 DECRETO-LEI N. 3.830 – DE 17 DE NOVEMBRO DE 1941
 
 Dispõe sobre o serviço telegráfico interno de caráter social

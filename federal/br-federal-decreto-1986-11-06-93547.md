@@ -1,5 +1,3 @@
-###DEC-093547-0-000-06-11-1986@@@
-
 DECRETO Nº 93.547, DE 6 DE NOVEMBRO DE 1986.
 
 Altera o Decreto nº 92.422, de 25 de fevereiro de 1986, que declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Guarajus (parte), Omerê e Abaitá", situados no Município de Colorado do Oeste, no Estado de Rondônia e dá outras providências.

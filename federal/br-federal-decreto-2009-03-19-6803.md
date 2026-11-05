@@ -1,5 +1,3 @@
-###DEC-006803-0-000-19-03-2009@@@
-
 DECRETO Nº 6.803, DE 19 DE MARÇO DE 2009.
 
 Altera o Estatuto Social da Casa da Moeda do Brasil - CMB, aprovado pelo Decreto no 2.122, de 13 de janeiro de 1997.

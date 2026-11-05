@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a conceder crédito presumido de Im
 
 § 1º - O crédito de que trata o caput deste artigo será concedido nas operações de saídas dos seguintes produtos montados ou fabricados neste Estado e nos percentuais a saber:
 
-Redação do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .<br>
+Redação do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .
+
 Redação original: "§ 1º - O crédito de que trata o caput deste artigo será concedido nas operações de saídas de veículos automotores montados ou produzidos neste Estado, observado o seguinte:"
 
 I - veículos automotores, bicicletas e triciclos, inclusive seus componentes, partes, peças, conjuntos e subconjuntos - acabados e semi-acabados - pneumáticos e acessórios:
@@ -17,17 +18,20 @@ a) até 75% (setenta e cinco por cento) do imposto incidente, nos 5 (cinco) prim
 
 b) até 37,5% (trinta e sete inteiros e cinco décimos por cento) do imposto incidente, do sexto ao décimo ano de produção;
 
-Redação do inciso I do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .<br>
+Redação do inciso I do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .
+
 Redação original: "I - até 75% (setenta e cinco por cento) do imposto incidente, nos 5 (cinco) primeiros anos de produção;"
 
 II - calçados e seus componentes, bolsas, cintos e artigos de malharia: até 99% (noventa e nove por cento) do imposto incidente durante o período de até 20 (vinte) anos de produção;
 
-Redação do inciso II do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .<br>
+Redação do inciso II do § 1º do art. 1º de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) .
+
 Redação original: "II - até 37,5% (trinta e sete inteiros e cinco décimos por cento) do imposto incidente, do sexto ao décimo ano de produção."
 
 III - móveis: até 90% (noventa por cento) do imposto incidente durante o período de até 15 (quinze) anos de produção.
 
-Redação do inciso III do § 1º do art. 1º de acordo com o [art. 6º da Lei nº 9.159, de 09 de julho de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9159-de-09-de-julho-de-2004#LO_9_159_Art__6) .<br>
+Redação do inciso III do § 1º do art. 1º de acordo com o [art. 6º da Lei nº 9.159, de 09 de julho de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9159-de-09-de-julho-de-2004#LO_9_159_Art__6) .
+
 Redação anterior de acordo com o [art. 5º da Lei nº 7.138, de 30 de julho de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7138-de-30-de-julho-de-1997#LO_7_138_Art__5) , que acresceu este inciso ao § 1º do art. 1º: "III - móveis: até 75% (setenta e cinco por cento) do imposto incidente durante o período de até 15 (quinze) anos de produção."
 
 IV - fiação e tecelagem: até 90% (noventa por cento) do imposto incidente durante o período de até 15 (quinze) anos de produção;

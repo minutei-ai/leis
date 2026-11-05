@@ -1,5 +1,3 @@
-###DEL-009609-0-000-19-08-1946@@@
-
 dECRETO-LEI N. 9.609 – DE 19 DE AGÔSTO DE 1946
 
 Considera reformado no pôsto e com o sôldo de 2º Tenente um Suboficial da Armada.

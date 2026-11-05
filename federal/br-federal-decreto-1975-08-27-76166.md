@@ -1,5 +1,3 @@
-###DEC-076166-0-000-27-08-1975@@@
-
 DECRETO Nº 76.166 - DE 27 DE AGOSTO DE 1975
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linhas de transmissão de Companhia Paulista de Força e Luz no Estado de São Paulo.

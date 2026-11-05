@@ -1,5 +1,3 @@
-###DEC-076086-0-000-06-08-1975@@@
-
 DECRETO Nº 76.086 - de 6 de agosto de 1975
 
 Integra, na Secretaria de Planejamento da Presidência da República, a Comissão de Cartografia de que tratam os artigos 3º e 4º do Decreto-lei nº 243, de 28 de fevereiro de 1967 e dá outras providências.

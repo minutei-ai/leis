@@ -1,5 +1,3 @@
-###DEC-087585-0-000-20-09-1982@@@
-
 Decreto nº 87.585, de 20 de setembro de 1982.
 
 Cria, no Estado do Amazonas, a Reserva Biológica do Abufari.

@@ -1,5 +1,3 @@
-###DEC-078971-0-000-16-12-1976@@@
-
 DECRETO Nº 78.971, DE 16 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Estudo Sociais, de Letras, de Matemática e de Pedagogia, da Faculdade de Ciências e Letras de Ribeirão Pires, com sede na cidade de Ribeirão Pires, Estado de São Paulo.

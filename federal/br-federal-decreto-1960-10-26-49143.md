@@ -1,5 +1,3 @@
-###DEC-049143-0-000-26-10-1960@@@
-
 Decreto nº 49.143, de 26 de outubro de 1960.
 
 Emprêsa civil considerada de interêsse militar.

@@ -76,13 +76,20 @@ Art. 2º. Altera os Anexos II e IV da Lei Complementar nº 182, de 06 de maio de
 
 |   | ESPÉCIE/ NÍVEL | CARGO DE REFERÊNCIA | QUANTITATIVO | VALOR |
 | --- | --- | --- | --- | --- |
-| **CARGOS DE**<br>
-**PROVIMENTO EM**<br>
-**COMISSÃO**<br>
-**(DAS)**<br>
-**Grupo de Cargos de**<br>
-**Chefia, Direção e**<br>
-**Assessoramento**<br>
+| **CARGOS DE**
+
+**PROVIMENTO EM**
+
+**COMISSÃO**
+
+**(DAS)**
+
+**Grupo de Cargos de**
+
+**Chefia, Direção e**
+
+**Assessoramento**
+
 **Superior** | **DAS-1** | Superintendente | 19 | 12.755,55 |
 | **DAS-2** | Assessor Especial - Nível 1 | 8 | 8.546,01 |
 |   | Corregedor | 1 |   |
@@ -102,7 +109,7 @@ Art. 2º. Altera os Anexos II e IV da Lei Complementar nº 182, de 06 de maio de
 
 DESCRIÇÃO DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)
 
-| **ESPÉCIE/** **NÍVEL** | **CARGO DE** **REFERÊNCIA** | **DESCRIÇÃO** |
+| **ESPÉCIE/NÍVEL** | **CARGO DEREFERÊNCIA** | **DESCRIÇÃO** |
 | --- | --- | --- |
 | **DAS-1** | Superintendente | .......................................................................... |
 | **DAS-2** | Assessor Especial - Nível 1 | Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico nas diversas Secretarias, órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas e estratégicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas e executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |

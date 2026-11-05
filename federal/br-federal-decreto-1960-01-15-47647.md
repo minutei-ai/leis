@@ -1,5 +1,3 @@
-###DEC-047647-0-000-15-01-1960@@@
-
 DECRETO Nº 47.647, DE 15 DE JANEIRO DE 1960.
 
 Autorizo o cidadão brasileiro Abelardo Sales Siqueira a pesquisar fosforita no município de Paulista, Estado de Pernambuco.

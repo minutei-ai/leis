@@ -1,5 +1,3 @@
-###DEC-061423-0-000-02-10-1967@@@
-
 DECRETO Nº 61.423, DE 2 DE OUTUBRO DE 1967.
 
 Inclui a indústria do chá entre as atividades autorizadas a funcionar permanentemente aos domingos e feriados civis e religiosos.

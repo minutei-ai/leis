@@ -1,5 +1,3 @@
-###DEC-054695-0-000-29-10-1964@@@
-
 DECRETO Nº 54.695, DE 29 DE OUTUBRO DE 1964.
 
 Declara públicas de uso comum, as águas do curso que específica.

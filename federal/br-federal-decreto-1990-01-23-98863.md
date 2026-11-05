@@ -1,7 +1,3 @@
-1
-
-###DEC-098863-0-000-23-01-1990@@@
-
 DECRETO Nº 98.863, DE 23 DE JANEIRO DE 1990
 
 Cria a Reserva Extrativista do Alto Juruá.

@@ -1,5 +1,3 @@
-###DEC-002285-0-000-24-07-1997@@@
-
 DECRETO Nº 2.285, DE 24 DE JULHO DE 1997
 
 Promulga o Acordo de Cooperação Consular para a Proteção e Assistência Consular aos seus Nacionais em Terceiros Países, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa, em Lisboa, em 20 de julho de 1995.
@@ -100,4 +98,14 @@ Artigo XI
 
 Feito em Lisboa, em 20 de julho de 1995, em dois exemplares originais, no idioma português, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Pela República Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Pela República Portuguesa</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">José Manuel Durão Barroso</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Ministro dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+Pela República Federativa do Brasil
+
+Pela República Portuguesa
+
+Luiz Felipe Lampreia
+
+José Manuel Durão Barroso
+
+Ministro de Estado das Relações Exteriores
+
+Ministro dos Negócios Estrangeiros

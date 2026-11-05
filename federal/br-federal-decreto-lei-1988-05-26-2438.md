@@ -1,7 +1,3 @@
-1
-
-###DEL-002438-0-000-26-05-1988@@@
-
 # DECRETO‑LEI N° 2.438, DE 26 DE MAIO DE 1988
 
 Dispõe sobre a percepção de gratificações e complementação salarial por servido­res do Departamento Nacional de Obras e Saneamento e do Departamento Nacional de Obras Contra as Secas e dá outras providências.

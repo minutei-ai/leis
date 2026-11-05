@@ -1,5 +1,3 @@
-###DEC-003150-0-000-23-08-1999@@@
-
 DECRETO Nº 3.150, DE 23 DE AGOSTO DE 1999.
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

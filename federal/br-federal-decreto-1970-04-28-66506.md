@@ -1,5 +1,3 @@
-###DEC-066506-0-000-28-04-1970@@@
-
 DECRETO Nº 66.506, DE 28 DE ABRIL DE 1970.
 
 Declara de utilidade pública a Sociedade Dr. Bartholomeu Tacchini, com sede em Bento Gonçalves, Estado do Rio Grande do Sul.

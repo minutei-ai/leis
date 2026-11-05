@@ -1,7 +1,3 @@
-1
-
-###DEC-095731-0-000-12-02-1988@@@
-
 DECRETO N° 95.731, DE 12 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

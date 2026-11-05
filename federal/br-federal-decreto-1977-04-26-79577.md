@@ -1,5 +1,3 @@
-###DEC-079577-0-000-26-04-1977@@@
-
 DECRETO Nº 79.577, DE 26 DE ABRIL DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à relocação da Rodovia GO-164 (contorno do Reservatório de São Simão), pela Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Goiás.

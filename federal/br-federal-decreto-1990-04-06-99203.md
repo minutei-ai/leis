@@ -1,7 +1,3 @@
-1
-
-###DEC-099203-0-000-06-04-1990@@@
-
 DECRETO N° 99.203, DE 6 DE ABRIL DE 1990
 
 Transfere a sede do Departamento Nacional de Estradas de Rodagem - DNER, para a Cidade de Brasília, Distrito Federal, e dá outras providências.

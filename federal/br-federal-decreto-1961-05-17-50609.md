@@ -1,5 +1,3 @@
-###DEC-050609-0-000-17-05-1961@@@
-
 Decreto nº 50.609, de 17 de maio de 1961.
 
 Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao Ministério da Guerra.
@@ -27,8 +25,6 @@ Jânio Quadros
 Odylio Denys
 
 H. Prisco Paraíso
-
-###DEC-050609-0-000-17-05-1961@@@RET01+++
 
 DECRETO Nº 50.609, DE 17 DE MAIO DE 1961.
 

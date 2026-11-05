@@ -1,5 +1,3 @@
-###DEC-079879-0-000-28-06-1977@@@
-
 DECRETO Nº 79.879, DE 28 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis e Administrativas da Universidade Católica de Petrópolis, com sede na cidade de Petrópolis, Estado de Rio de Janeiro.

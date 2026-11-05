@@ -1,5 +1,3 @@
-###DEC-074571-0-000-18-09-1974@@@
-
 DECRETO Nº 74.571, DE 18 DE SETEMBRO DE 1974.
 
 Restabelece cargo de trabalhador, considerado desnecessário, e torna sem efeito disponibilidade do respectivo titular.

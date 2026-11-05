@@ -1,5 +1,3 @@
-###DEC-068409-0-000-23-03-1971@@@
-
 DECRETO Nº 68.409, DE 23 DE MARÇO DE 1971.
 
 Concede à J. Ernesto Industrial, Comércio & Cia. Ltda. o direito de lavrar água mineral, no município de Pedro Avelino, Estado do Rio Grande do Norte.

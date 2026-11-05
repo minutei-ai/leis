@@ -1,5 +1,3 @@
-###DEC-079372-0-000-10-03-1977@@@
-
 DECRETO Nº 79.372, DE 10 DE MARÇO DE 1977.
 
 Concede reconhecimento aos cursos de Matemática, de Química e de Ciências Econômicas da Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

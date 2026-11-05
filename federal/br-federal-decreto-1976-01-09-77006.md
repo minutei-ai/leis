@@ -1,5 +1,3 @@
-###DEC-077006-0-000-09-01-1976@@@
-
 DECRETO Nº 77.006, DE 9 DE JANEIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão ourtorgada à Rádio Alvorada de Parintins Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de Parintins, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-093989-0-000-30-01-1987@@@
-
 DECRETO N° 93.989, DE 30 DE JANEIRO DE 1987
 
 Regulamenta o Decreto-lei n° 2.292, de 21 de novembro de 1986, que dispõe sobre a instituição, em benefício do trabalhador, de Planos de Poupança e Investimento - PAIT, e dá outras providências.

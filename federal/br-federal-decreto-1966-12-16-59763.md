@@ -1,5 +1,3 @@
-###DEC-059763-0-000-16-12-1966@@@
-
 DECRETO Nº 59.763, DE 16 DE DEZEMBRO DE 1966.
 
 Renova a declaração de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, da área de terreno situada entre Petrópolis e Areal, no Estado do Rio de Janeiro.

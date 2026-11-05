@@ -1,5 +1,3 @@
-###DEC-052962-0-000-26-11-1963@@@
-
 DECRETO Nº 52.962, DE 26 DE NOVEMBRO DE 1963.
 
 Concede à Mineração Jundú S.A. autorização para continuar a funcionar como emprêsa de mineração.

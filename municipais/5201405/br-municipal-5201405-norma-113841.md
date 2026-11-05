@@ -24,14 +24,16 @@ I – nas transmissões compreendidas no Sistema Financeiro da Habitação – S
 
 II – nas transmissões compreendidas no Sistema Financeiro da Habitação – SFH, no Programa de Arrendamento Residencial – PAR e de Habitação de Interesse Social – HIS, aplicável somente sobre a parte efetivamente financiada, 1% (um por cento), quando destinadas a famílias com renda mensal que se enquadre no intervalo determinado pelo Programa Minha Casa Minha Vida (PMCMV) Faixa III;
 
-III – nas demais transmissões compreendidas no Sistema Financeiro da Habitação – SFH e no Programa de Arrendamento Residencial – PAR, aplicável somente sobre a parte efetivamente financiada, 1,5% (um inteiro e cinco décimos por cento).<br>
+III – nas demais transmissões compreendidas no Sistema Financeiro da Habitação – SFH e no Programa de Arrendamento Residencial – PAR, aplicável somente sobre a parte efetivamente financiada, 1,5% (um inteiro e cinco décimos por cento).
+
 (Redação alterada pelo Decreto "N" Nº 751, de 16 de setembro de 2024).
 
 ~~Parágrafo único. A alíquota aplicada à parcela financiada por meio do Sistema Financeiro de Habitação (SFH) e do Sistema de Financiamento Imobiliário (SFI) permanecerá inalterada durante o período, sendo fixada em 0,5% (meio por cento).~~
 
 Art. 3º O imposto devido, calculado conforme o artigo 2º, deverá ser quitado em parcela única.
 
-Art. 4º O recolhimento do tributo deve ser realizado até a data final dos períodos previstos nos incisos do art. 2º, cujo prazo, uma vez esgotado, sujeitará o contribuinte ao recolhimento da diferença entre o percentual reduzido e a alíquota normal.<br>
+Art. 4º O recolhimento do tributo deve ser realizado até a data final dos períodos previstos nos incisos do art. 2º, cujo prazo, uma vez esgotado, sujeitará o contribuinte ao recolhimento da diferença entre o percentual reduzido e a alíquota normal.
+
 (Redação alterada pelo Decreto "N" Nº 751, de 16 de setembro de 2024).
 
 ~~Art. 4º O recolhimento do tributo deverá ocorrer até a data final estabelecida no artigo 1º. Após o término desse prazo, o contribuinte será responsável pelo pagamento da diferença entre a alíquota reduzida e a alíquota normal.~~
@@ -84,11 +86,14 @@ Art. 11 Este Decreto entrará em vigor na data de sua publicação, revogando se
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 06 de setembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário da Fazenda

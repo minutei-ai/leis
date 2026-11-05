@@ -1,5 +1,3 @@
-###MPV-001862-0-073-18-11-1999@@@
-
 medida provisória nº 1.862-73, de 18 de novembro de 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidado a legislação em vigor sobre a matéria.

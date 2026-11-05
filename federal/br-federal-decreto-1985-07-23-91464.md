@@ -1,5 +1,3 @@
-###DEC-091464-0-000-23-07-1985@@@
-
 Decreto nº 91.464, de 23 de julho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Barrinha, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

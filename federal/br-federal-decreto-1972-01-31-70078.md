@@ -1,5 +1,3 @@
-###DEC-070078-0-000-31-01-1972@@@
-
 DECRETO Nº 70.078, DE 31 DE JANEIRO DE 1972.
 
 Concede reconhecimento aos Cursos de Ciências Contábeis e Administração da Faculdade de Ciências Econômicas de Ribeirão Preto - São Paulo.

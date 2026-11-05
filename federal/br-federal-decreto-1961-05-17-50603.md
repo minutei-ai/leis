@@ -1,5 +1,3 @@
-###DEC-050603-0-000-17-05-1961@@@
-
 Decreto nº 50.603, de 17 de maio de 1961.
 
 Concede autorização para o funcionamento de curso.

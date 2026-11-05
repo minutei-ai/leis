@@ -1,5 +1,3 @@
-###DEC-083436-0-000-10-05-1979@@@
-
 decreto nº 83.436, de 10 de maio de 1979
 
 Dispõe sobre a administração e o acompanhamento da execução dos programas especiais de desenvolvimento.

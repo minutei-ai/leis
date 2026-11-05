@@ -1,5 +1,3 @@
-###DEL-009592-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.592 – DE 16 DE AGÔSTO DE 1946
 
 Reduza a dotação concedida ao Ministério da Agricultura para profilaxia e combate a epizootia e obre crédito suplementar ao mesmo Ministério.

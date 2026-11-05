@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208989)<br>
-
 # LEI COMPLEMENTAR N° 1.393, DE 22 DE DEZEMBRO DE 2023
 
 ### _Amplia, no Ministério Público, o Quadro de Cargos de Promotor de Justiça e dá outras providências_

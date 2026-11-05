@@ -1,5 +1,3 @@
-###DEC-059629-0-000-01-12-1966@@@
-
 DECRETO Nº 59.629, DE 1º DE DEZEMBRO DE 1966.
 
 Ratifica disposições legais sôbre o Serviço de Loteria do Estado do Piauí.

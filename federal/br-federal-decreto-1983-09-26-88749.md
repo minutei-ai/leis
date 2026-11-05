@@ -1,5 +1,3 @@
-###DEC-088749-0-000-26-09-1983@@@
-
 Decreto nº 88.749, de 26 de setembro de 1983
 
 Institui a Universidade da Força Aérea Brasileira, extingue cargo privativo de Oficial-General e dá outras providências.

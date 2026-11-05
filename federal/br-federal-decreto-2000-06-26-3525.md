@@ -1,5 +1,3 @@
-###DEC-003525-0-000-26-06-2000@@@
-
 DECRETO Nº 3.525, DE 26 DE JUNHO DE 2000.
 
 Regulamenta a implementação do Vale-Pedágio obrigatório sobre o transporte rodoviário de carga e dá outras providências.

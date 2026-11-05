@@ -1,5 +1,3 @@
-###DEC-060171-0-000-01-02-1967@@@
-
 DECRETO Nº 60.171, DE 1 DE FEVEREIRO DE 1967.
 
 Autoriza a firma Juan M. Bombin Industrial e Comercial a comprar pedras preciosas.

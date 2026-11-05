@@ -1,5 +1,3 @@
-###MPV-000317-0-000-16-08-2006@@@
-
 MEDIDA PROVISÓRIA No- 317, DE 16 DE AGOSTO DE 2006
 
 Altera dispositivos da Lei no 11.322, de 13 de julho de 2006, que dispõe sobre a renegociação de dívidas oriundas de operações de crédito rural contratadas na área de atuação da Agência de Desenvolvimento do Nordeste - ADENE, e dá outras providências.

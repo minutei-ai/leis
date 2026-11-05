@@ -1,5 +1,3 @@
-###MPV-001706-0-005-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.706-5, DE 27 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e determina outras providências.

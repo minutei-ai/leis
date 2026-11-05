@@ -1,5 +1,3 @@
-###DEC-051990-0-000-06-05-1963@@@
-
 DECRETO Nº 51.990, DE 6 DE MAIO DE 1963.
 
 Altera o parágrafo único, do art. 2º do Decreto-lei nº 10.280, de 19 de agôsto de 1942.

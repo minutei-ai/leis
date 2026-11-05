@@ -1,16 +1,14 @@
-###DEC-025063-0-000-05-06-1948@@@
+**DECRETO Nº 25.063, DE 5 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.063, DE 5 DE JUNHO DE 1948.</strong>
+***Cria a 6ª Companhia Regional de Euzileiros Navais, no 5º Distrito Naval, com sede em Florianópolis, Estado de Santa Catarina.***
 
-<em><strong>Cria a 6ª Companhia Regional de Euzileiros Navais, no 5º Distrito Naval, com sede em Florianópolis, Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe conferem os itens I e XI do artigo 87, da Constituição, e tendo em vista o que dispõe o artigo 3.º, alínea *g*, da Lei número 196, de 26 de dezembro de 1947,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe conferem os itens I e XI do artigo 87, da Constituição, e tendo em vista o que dispõe o artigo 3.º, alínea <em>g</em>, da Lei número 196, de 26 de dezembro de 1947,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica criada, no 5º Distrito Naval, com sede em Florianópolis, Estado de Santa Catarina, dentro da dotação orçamentária do exercício corrente, a 6ª Companhia Regional de Fuzileiros Navais, com a seguinte constituição:
 
-<strong>Art</strong>. 1º Fica criada, no 5º Distrito Naval, com sede em Florianópolis, Estado de Santa Catarina, dentro da dotação orçamentária do exercício corrente, a 6ª Companhia Regional de Fuzileiros Navais, com a seguinte constituição:
-
-<em>Ramo de fileira</em>
+*Ramo de fileira*
 
 Primeiros-Sargentos ............................................................................................................ 2
 
@@ -22,7 +20,7 @@ Cabos ..........................................................................
 
 Soldados .......................................................................................................................... 148
 
-<em>Especialistas</em>
+*Especialistas*
 
 Terceiros-Sargentos - ES .................................................................................................... 2
 
@@ -42,10 +40,10 @@ Soldado - CM ...................................................................
 
 Total ................................................................................................................................. 227
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigora na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigora na data de sua publicação.
 
 Rio de Janeiro, 5 de junho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

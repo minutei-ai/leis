@@ -1,5 +1,3 @@
-###DEL-005555-0-000-08-06-1943@@@
-
 DECRETO‑LEI N. 5.555 – DE 8 DE JUNHO DE 1943
 
 Equipara as emprêsas de mineração de fosfatos naturais às de que trata o decreto-lei n. 3.553, de 25 de agôsto de 1941, que dá nova redação ao art. 76, do Código de Minas

@@ -1,5 +1,3 @@
-###DEC-071780-0-000-31-01-1973@@@
-
 DECRETO Nº 71.780, DE 31 DE JANEIRO DE 1973.
 
 Autoriza estrangeiros a adquirirem diretos sobre terrenos que menciona.

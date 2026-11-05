@@ -1,5 +1,3 @@
-###DEC-083109-0-000-30-01-1979@@@
-
 DECRETO Nº 83.109, DE 30 DE JANEIRO DE 1979
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 70.154, de 17 de fevereiro de 1972, a Comissão de Planejamento e Coordenação de Combate ao Contrabando - COPLANC.

@@ -1,5 +1,3 @@
-###DEL-009031-0-000-01-03-1946@@@
-
 DECRETO-LEI N. 9.031 – DE 1 DE MARÇO DE 1946
 
 Cria e extingue Unidade de Aviação

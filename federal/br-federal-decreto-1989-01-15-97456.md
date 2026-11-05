@@ -1,5 +1,3 @@
-###DEC-097456-0-000-15-01-1989@@@
-
 DECRETO N° 97.456, DE 15 DE JANEIRO DE 1989
 
 Estabelece normas para a programação e execução orçamentária e financeira do Tesouro Nacional para o exercício financeiro de 1989, e dá outras providências.

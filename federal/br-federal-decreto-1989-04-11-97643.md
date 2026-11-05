@@ -1,7 +1,3 @@
-1
-
-###DEC-097643-0-000-11-04-1989@@@
-
 DECRETO N° 97.643, DE 11 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “LOTES n°s 78B e 79”, “SETOR 2 DA GLEBA CORUMBIARA”, também denominados “FAZENDA BARÃO DE MELGAÇO” e LOTES “108, 108H e 128, DO SETOR RIBEIRÃO GRANDE DA GLEBA CASTRO ALVES”, também denominados “FAZENDA EMBURANA”, “FAZENDA COLINA” e “FAZENDA SERRANA”, classificados como “latifúndio por exploração”, situados nos Municípios de Espigão D'Oeste e Pimenta Bueno, no Estado de Rondônia, compreendidos na zona prioritária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

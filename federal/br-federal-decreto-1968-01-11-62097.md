@@ -1,5 +1,3 @@
-###DEC-062097-0-000-11-01-1968@@@
-
 DECRETO Nº 62.097, DE 11 DE JANEIRO DE 1968.
 
 Outorgada concessão à Televisão Tibagi S.A, da cidade de Apucarana, Estado do Paraná para estabelecer uma estação de radiodifusão de sons e imagens (Televisão).

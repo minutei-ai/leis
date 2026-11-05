@@ -1,5 +1,3 @@
-###DEC-090915-0-000-06-02-1985@@@
-
 DECREto Nº 90.915, de 06 dE fevereiro de 1985
 
 Outorga concessão à RÀDIO SANHAUÁ DE BAYEUX LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bayeux, Estado da Paraíba.

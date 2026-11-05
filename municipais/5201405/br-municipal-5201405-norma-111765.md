@@ -74,16 +74,20 @@ VII – outros programas e intervenções na forma aprovada pelo Conselho-Gestor
 
 § 1º Será admitida a aquisição de terrenos vinculada à implantação de projetos habitacionais.
 
-Art. 6º-A Ficam desvinculados do Fundo Municipal de Habitação de Interesse Social - FHIS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.<br>
+Art. 6º-A Ficam desvinculados do Fundo Municipal de Habitação de Interesse Social - FHIS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.<br>
+§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.<br>
+§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-Art. 6º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.<br>
+Art. 6º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
 Seção IV
@@ -120,10 +124,10 @@ Art. 9º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos treze dias do mês de novembro de dois mil e nove.
 
-<br>
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-<br>
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

@@ -1,5 +1,3 @@
-###DEC-072522-0-000-24-07-1973@@@
-
 DECRETO Nº 72.522, DE 24 DE JULHO DE 1973.
 
 Abre, ao Ministério da Aeronáutica, o crédito especial de Cr$ 10.000.000,00, para o fim que especifica.
@@ -10,11 +8,55 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério da Aeronáutica o crédito especial de Cr$ 10.000.000,00 (dez milhões de cruzeiros), para atender despesas a seguir discriminadas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>12.00</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DA AERONÁ</span><span>UTICA</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>200.1607.1043</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Participaçã</span><span>o da Uniã</span><span>o no Capital de Empresas</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>012</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Empresa Pú</span><span>blica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>03</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Empresa Brasileira de Infra-Estrutura Aeroportuá</span><span>ria - INFRAERO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.2.2.0</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Participaçã</span><span>o em Constituiçã</span><span>o ou Aumento de Capital de Empresas ou Entidades Comerciais ou Financeiras</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:spaces">&nbsp;</span><span>10.000.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+12.00
+
+MINISTÉRIO DA AERONÁUTICA
+
+200.1607.1043
+
+Participação da União no Capital de Empresas
+
+012
+
+Empresa Pública
+
+03
+
+Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO
+
+4.2.2.0
+
+Participação em Constituição ou Aumento de Capital de Empresas ou Entidades Comerciais ou Financeiras
+
+10.000.000
 
 Art. 2º Os recursos necessários a execução deste decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>28.00</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>ENCARGOS GERAIS DA UNIÃ</span><span>O</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>28.01</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Recursos sob Supervisã</span><span>o do Ministé</span><span>rio da Fazenda</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2801.0107.2070</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.4.1</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Juros da Dí</span><span>vida Pú</span><span>blica</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>02</span></p></td><td style="width:226.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Fundada Externa</span></p></td><td style="width:102.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>10.000.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+28.00
+
+ENCARGOS GERAIS DA UNIÃO
+
+28.01
+
+Recursos sob Supervisão do Ministério da Fazenda
+
+Atividade
+
+2801.0107.2070
+
+3.2.4.1
+
+Juros da Dívida Pública
+
+02
+
+Fundada Externa
+
+10.000.000
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogada as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-072907-0-000-10-10-1973@@@
-
 Decreto nº 72.907, de 10 de outubro de 1973.
 
 Outorga concessão à Empresa Elétrica Bragantina S.A. e dá outras providências.

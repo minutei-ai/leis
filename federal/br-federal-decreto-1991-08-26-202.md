@@ -1,5 +1,3 @@
-###DEC-000202-0-000-26-08-1991@@@
-
 DECRETO Nº 202, DE 26 DE AGOSTO DE 1991
 
 Dispõe sobre a transferência de vinculação da Companhia Nacional de Abastecimento - CNA, do Ministério da Economia, Fazenda e Planejamento para o Ministério da Agricultura e Reforma Agrária, e dá outras providências.

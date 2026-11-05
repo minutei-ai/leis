@@ -1,5 +1,3 @@
-###DEC-045541-0-000-05-03-1959@@@
-
 DECRETO Nº 45.541, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro José Patrus de Souza a lavrar minério de manganês no município de Diamantina, Estado de Minas Gerais.

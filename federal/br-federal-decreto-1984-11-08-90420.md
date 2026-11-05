@@ -1,5 +1,3 @@
-###DEC-090420-0-000-08-11-1984@@@
-
 Decreto nº 90.420, de 08 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO CLUBE MARCONl LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Paraguaçu Paulista, Estado de São Paulo.

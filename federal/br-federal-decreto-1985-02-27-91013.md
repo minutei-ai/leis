@@ -1,5 +1,3 @@
-###DEC-091013-0-000-27-02-1985@@@
-
 DECRETO Nº 91.013, dE 27 de fevereiro dE 1985
 
 Altera o Decreto nº 88.639, de 22 de agosto de 1983, que dispõe sobre a constituição do Conselho de Não-Ferrosos e de Siderurgia - CONSIDER, e dá outras providências.

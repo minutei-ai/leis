@@ -1,5 +1,3 @@
-###DEC-054874-0-000-04-11-1964@@@
-
 DECRETO Nº 54.874, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Egisto Ragasso Junior a pesquisar água mineral, no município de Limeira, Estado de São Paulo.

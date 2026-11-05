@@ -1,5 +1,3 @@
-###DEL-006032-0-000-24-11-1943@@@
-
 DECRETO-LEI N. 6.032 – DE 24 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 200.000,00, à verba que especifica

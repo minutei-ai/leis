@@ -1,5 +1,3 @@
-###DEC-053387-0-000-31-12-1963@@@
-
 DECRETO Nº 53.387, DE 31 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre as funções do Conselho Superior e da Corregedoria do Ministério Público do Distrito Federal.

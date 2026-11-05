@@ -1,5 +1,3 @@
-###DEL-006719-0-000-20-07-1944@@@
-
 DECRETO-LEI N. 6.719 – DE 20 DE JULHO DE 1944
 
 Transfere gratuitamente ao Estado do Rio Grande do Norte, para fins da ampliação do Grupo Escolar “Isabel Gondim”, o domínio útil do terreno acrescido de marinha que menciona, situado na cidade de Natal, capital do mesmo Estado, e dá outras providências

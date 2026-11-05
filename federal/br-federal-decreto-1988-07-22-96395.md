@@ -1,5 +1,3 @@
-###DEC-096395-0-000-22-07-1988@@@
-
 DECRETO N° 96.395, DE 22 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Seringal Mucuripe/Cajazeiras, classificado como “latifúndio por exploração”, situado no Município de Xapuri, no Estado do Acre, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.676, de 19 de maio de 1986, e dá outras providencias.

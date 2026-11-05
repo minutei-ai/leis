@@ -1,5 +1,3 @@
-###DEC-087563-0-000-13-09-1982@@@
-
 DEcreto nº 87.563, de 13 de setembro de 1982.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e Sistema Econômico Latino-Americano (SELA) para a Concessão de Privilégios e Imunidades à Secretaria do Comitê de Ação para o Estabelecimento da Rede de Informação Tecnológica Latino-Americana (RITLA).

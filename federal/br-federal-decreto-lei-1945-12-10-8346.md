@@ -1,5 +1,3 @@
-###DEL-008346-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.346 – DE 10 DE DEZEMBRO DE 1945
 
 Altera disposição do Decreto-lei número 8.272, de 3 de dezembro de 1945.

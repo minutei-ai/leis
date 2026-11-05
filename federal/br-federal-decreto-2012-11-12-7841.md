@@ -1,5 +1,3 @@
-###DEC-007841-0-000-12-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.841, DE 12 DE NOVEMBRO DE 2012
 
 Altera o Anexo I ao Decreto nº 7.709, de 3 de abril de 2012, que dispõe sobre a margem de preferência para aquisição de retroescavadeiras e motoniveladores, para fins do disposto no art. 3º da Lei nº 8.666, de 21 de junho de 1993.

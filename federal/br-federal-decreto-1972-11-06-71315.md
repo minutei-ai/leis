@@ -1,5 +1,3 @@
-###DEC-071315-0-000-06-11-1972@@@
-
 DECRETO Nº 71.315 - DE 6 DE NOVEMBRO DE 1972.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

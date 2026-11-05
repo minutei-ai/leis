@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 182, DE 22 DE MAIO DE 2023<br>
+LEI COMPLEMENTAR Nº 182, DE 22 DE MAIO DE 2023
+
 \- [Vide Decreto nº 10.281, de 4-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107386/decreto-10281) - (Aprova o Regimento Interno Provisório das Microrregiões de Saneamento Básico do Estado de Goiás – MSBs do Oeste, do Centro e do Leste)
 
 Institui as Microrregiões de Saneamento Básico – MSBs, suas respectivas estruturas de governança, e altera a [Lei Complementar nº 139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101126), de 22 de janeiro de 2018, que dispõe sobre a Região Metropolitana de Goiânia, o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, cria o Instituto de Planejamento Metropolitano e dá outras providências, a [Lei Complementar nº 181](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106682), de 4 de janeiro de 2023, que cria a Região Metropolitana do Entorno do Distrito Federal – RME e o Conselho de Desenvolvimento da Região Metropolitana do Entorno do Distrito Federal – CODERME, e a [Lei nº 14.939](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80874), de 15 de setembro de 2004, que institui o Marco Regulatório da Prestação de Serviços de Abastecimento de Água e Esgotamento Sanitário, cria o Conselho Estadual de Saneamento – CESAM e dá outras providências.
@@ -31,7 +32,8 @@ II – do Centro, integrada pelo Estado de Goiás e os municípios mencionados n
 
 III – do Leste, integrada pelo Estado de Goiás e os municípios mencionados no Anexo III desta Lei Complementar.
 
-§ 1º As MSBs, instituídas com pleno direito por esta Lei Complementar, possuem natureza jurídica de autarquia intergovernamental de regime especial, com caráter deliberativo e normativo, e personalidade jurídica de direito público.<br>
+§ 1º As MSBs, instituídas com pleno direito por esta Lei Complementar, possuem natureza jurídica de autarquia intergovernamental de regime especial, com caráter deliberativo e normativo, e personalidade jurídica de direito público.
+
 \- [Redação dada pela Lei Complementar nº 194, de 5-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109170/lei-complementar-194).
 
 ~~§ 1º A MSB, instituída com pleno direito por esta Lei Complementar, constitui estrutura de governança _sui generis_ e, por meio dessa instância colegiada exclusiva, o Estado e os municípios exercerão a titularidade dos serviços públicos de saneamento básico de interesse comum.~~
@@ -72,7 +74,8 @@ V – definir a prestação conjunta ou separada dos serviços de saneamento bá
 
 CAPÍTULO III
 
-DA ESTRUTURA DE GOVERNANÇA<br>
+DA ESTRUTURA DE GOVERNANÇA
+
 DAS MICRORREGIÕES DE SANEAMENTO BÁSICO
 
 Seção I
@@ -257,7 +260,8 @@ DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 19. Os serviços públicos de saneamento básico referidos no § 2º do art. 1º desta Lei Complementar deixam de ser função pública de interesse comum da Região Metropolitana de Goiânia – RMG.
 
-Art. 20. Os serviços públicos de saneamento básico referidos no § 2º do art. 1º desta Lei Complementar deixam de ser função pública de interesse comum da Região Metropolitana do Entorno do Distrito Federal – RME.<br>
+Art. 20. Os serviços públicos de saneamento básico referidos no § 2º do art. 1º desta Lei Complementar deixam de ser função pública de interesse comum da Região Metropolitana do Entorno do Distrito Federal – RME.
+
 \- [Vide Lei Complementar nº 181](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106682), de 4-5-2023 - Cria a Região Metropolitana do Entorno do Distrito Federal – RME e o Conselho de Desenvolvimento da Região Metropolitana do Entorno do Distrito Federal – CODERME.
 
 Art. 21. Resolução do Colegiado Microrregional definirá a forma da gestão administrativa da MSB.
@@ -274,12 +278,14 @@ Art. 22. O Governador do Estado será o representante legal da MSB pelos primeir
 
 Art. 23. Vencido o contrato de prestação de abastecimento de água e esgotamento sanitário sem a retomada do serviço pelo município, para a exploração direta, a SANEAGO assegurará a continuidade do serviço adequado, conforme o § 1º do art. 6º da Lei federal nº 8.987, de 13 de fevereiro de 1995, até a nova contratação pelo titular, onde houver sido contratada e nos termos do negócio, resguardados a operação, o dever de manutenção e da universalização do serviço de saneamento básico e o direito de indenização pelo valor não amortizado e outros valores atualizados decorrentes da continuidade do serviço.
 
-Art. 24. As MSBs, como dispõe o § 1º do art. 2º desta Lei Complementar, possuem natureza jurídica de autarquia intergovernamental de regime especial.<br>
+Art. 24. As MSBs, como dispõe o § 1º do art. 2º desta Lei Complementar, possuem natureza jurídica de autarquia intergovernamental de regime especial.
+
 \- [Redação dada pela Lei Complementar nº 194, de 5-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109170/lei-complementar-194).
 
 ~~Art. 24. A MSB, como dispõe o § 1º do art. 2º desta Lei Complementar, é entidade _sui generis_, portanto sua instituição não implica a criação de unidades administrativas estaduais ou municipais, sem prejuízo do desempenho imediato por seus colegiados das atribuições listadas no art. 9º da Lei federal nº 11.445, de 2007.~~
 
-~~Parágrafo único. Fica facultada a eventual conversão de sua estrutura jurídica em autarquia intergovernamental, a ser criada por lei estadual específica.~~<br>
+~~Parágrafo único. Fica facultada a eventual conversão de sua estrutura jurídica em autarquia intergovernamental, a ser criada por lei estadual específica.~~
+
 \- [Revogado pela Lei Complementar nº 194, de 5-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109170/lei-complementar-194), art. 2º.
 
 Art. 25. A [Lei Complementar nº 139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101126), de 22 de janeiro de 2018, passa a vigorar com a seguinte alteração:
@@ -327,8 +333,6 @@ V – o inciso II do art. 21.
 Art. 29. Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 22 de maio de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

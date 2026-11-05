@@ -1,5 +1,3 @@
-###DEC-068456-0-000-31-03-1971@@@
-
 DECRETO Nº 68.456, DE 31 DE MARÇO DE 1971.
 
 Aprova o Regulamento para a Diretoria de Intendência da Marinha.

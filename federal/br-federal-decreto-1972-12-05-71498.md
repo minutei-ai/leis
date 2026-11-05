@@ -1,5 +1,3 @@
-###DEC-071498-0-000-05-12-1972@@@
-
 DECRETO Nº 71.498 - DE 5 DE DEZEMBRO DE 1972
 
 Define como beneficiários do programa instituído pela Lei Complementar nº 11, de 25 de maio de 1971, os pescadores, nas condições que menciona e dá outras providências.

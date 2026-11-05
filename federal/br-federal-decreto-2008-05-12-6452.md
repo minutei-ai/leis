@@ -1,5 +1,3 @@
-###DEC-006452-0-000-12-05-2008@@@
-
 DECRETO Nº 6.452, DE 12 DE MAIO DE 2008.
 
 Altera os arts. 1o, 3o, 4o, 6o, 8o e 9o do Decreto no 3.937, de 25 de setembro de 2001, que regulamenta a Lei no 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.
@@ -83,5 +81,3 @@ Brasília. 12 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 13.5.2008

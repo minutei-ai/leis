@@ -1,5 +1,3 @@
-###DEC-091447-0-000-18-07-1985@@@
-
 Decreto nº 91.447 de 18 de julho de 1985.
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Patrocínio.

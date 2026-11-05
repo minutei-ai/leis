@@ -1,7 +1,3 @@
-1
-
-###DEC-000123-0-000-20-05-1991@@@
-
 DECRETO N° 123, DE 20 DE MAIO DE 1991
 
 Aprova o Regulamento Consolidado da Comissão Nacional para Assuntos Antárticos (CONANTAR).

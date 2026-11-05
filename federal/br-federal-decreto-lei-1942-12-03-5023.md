@@ -1,5 +1,3 @@
-###DEL-005023-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.023 – DE 3 DE DEZEMBRO DE 1942
 
 Dá nova redação ao art. 7º da Lei de Falências

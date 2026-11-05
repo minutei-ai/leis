@@ -1,5 +1,3 @@
-###DEC-006000-0-000-26-12-2006@@@
-
 DECRETO No- 6.000, DE 26 DE DEZEMBRO DE 2006
 
 Promulga a Convenção entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Relação aos Impostos sobre a Renda, celebrada na Cidade do México, em 25 de setembro de 2003.

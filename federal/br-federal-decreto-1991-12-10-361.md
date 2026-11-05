@@ -1,5 +1,3 @@
-###DEC-000361-0-000-10-12-1991@@@
-
 DECRETO Nº 361, DE 10 DE DEZEMBRO DE 1991
 
 Promulga o Acordo Básico, entre o Governo da República Federativa do Brasil e o Instituto Interamericano de Cooperação para a Agricultura (IICA), sobre Privilégios e Imunidades e Relações Institucionais.

@@ -1,5 +1,3 @@
-###DEC-080860-0-000-29-11-1977@@@
-
 decreto nº 80.860, de 29 de novembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Maxaranguape, Estado do Rio Grande do Norte.

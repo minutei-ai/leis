@@ -1,5 +1,3 @@
-###DEC-067268-0-000-24-09-1970@@@
-
 Decreto 67.268, de 24 de setembro de 1970.
 
 Dispõe sôbre o Conselho Diretor da Fundação Universidade do Amazonas.

@@ -1,5 +1,3 @@
-###MPV-002103-0-036-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.103-36, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

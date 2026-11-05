@@ -347,7 +347,3 @@ Espécie/nível Quantitativo de Cargos FGI-2 1 FGI-7 4 FGI-8 4 Total 9
 GRATIFICAÇÕES TEMPORÁRIAS ESTRATÉGICAS
 
 Espécie/nível Quantitativo de Cargos GTEI-4 4”
-
-\======================================================================
-
-Data da última atualização: 18/8/2026.

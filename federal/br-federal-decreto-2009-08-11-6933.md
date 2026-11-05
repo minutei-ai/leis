@@ -1,5 +1,3 @@
-###DEC-006933-0-000-11-08-2009@@@
-
 DECRETO Nº 6.933, DE 11 DE AGOSTO DE 2009.
 
 Acrescenta o inciso XII ao art. 34 do Anexo I ao Decreto no 6.061, de 15 de março de 2007, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Justiça.

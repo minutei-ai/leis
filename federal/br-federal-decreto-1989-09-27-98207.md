@@ -1,7 +1,3 @@
-1
-
-###DEC-098207-0-000-27-09-1989@@@
-
 DECRETO Nº 98.207, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “SÃO ROQUE DO RIO PRETO II ou CALMON”, situado no Município de Matos Costa, Estado de Santa Catarina, e dá outras providências.

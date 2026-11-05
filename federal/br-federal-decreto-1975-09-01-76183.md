@@ -1,5 +1,3 @@
-###DEC-076183-0-000-01-09-1975@@@
-
 DECRETO Nº 76.183 - DE 1 DE setembro DE 1975
 
 Concede reconhecimento ao cursos de Fisioterapia e de Terapia Ocupacional da Escola de Medicina e Saúde Pública da Universidade Católica do Salvador, com sede na cidade de Salvador, Estado da Bahia.

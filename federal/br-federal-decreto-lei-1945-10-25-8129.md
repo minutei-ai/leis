@@ -1,5 +1,3 @@
-###DEL-008129-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.129 – DE 25 DE OUTUBRO DE 1945
 
 Dispõe, sôbre a inversão de bens pelas sociedades que menciona em ações, de estabelecimentos bancários de depósito e dá outras providências.

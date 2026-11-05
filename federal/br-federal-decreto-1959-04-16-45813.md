@@ -1,5 +1,3 @@
-###DEC-045813-0-000-16-04-1959@@@
-
 DECRETO Nº 45.813, de 16 de abril de 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Estabelecimento Regional de Subsistência da 9ª Região Militar para idêntica tabela do Estabelecimento Regional de Subsistência da 2ª Região Militar ambas do Ministério da Guerra.

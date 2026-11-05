@@ -1,5 +1,3 @@
-###DEC-002694-0-000-29-07-1998@@@
-
 DECRETO Nº 2.694, DE 29 DE JULHO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.015, de 26 de setembro de 1996.

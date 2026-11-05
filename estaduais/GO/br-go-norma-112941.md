@@ -12,8 +12,10 @@ Goiânia, 13 de fevereiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-CRISTÓVÃO TORMIN<br>
+CRISTÓVÃO TORMIN
+
 Deputado Estadual

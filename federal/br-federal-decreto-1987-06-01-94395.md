@@ -1,5 +1,3 @@
-###DEC-094395-0-000-01-06-1987@@@
-
 DECRETO Nº 94.395, DE 1º DE JUNHO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Guarulhos, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

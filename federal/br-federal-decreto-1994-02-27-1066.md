@@ -1,7 +1,3 @@
-1
-
-###DEC-001066-0-000-27-02-1994@@@
-
 DECRETO N° 1.066, DE 27 DE FEVEREIRO DE 1994
 
 Dispõe sobre a metodologia de cálculo da Unidade Real de Valor (URV).

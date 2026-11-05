@@ -1,5 +1,3 @@
-###DEC-076561-0-000-06-11-1975@@@
-
 DECRETO Nº 76.561, DE 6 DE NOVEMBRO DE 1975.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado em Maceió, Estado de Alagoas.

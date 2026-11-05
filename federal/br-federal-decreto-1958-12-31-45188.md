@@ -1,5 +1,3 @@
-###DEC-045188-0-000-31-12-1958@@@
-
 Decreto nº 45.188, de 31 de dezembro de 1958.
 
 Concede à autorização para o funcionamento do Curso de Serviço Social da Faculdade de Serviço Social de Lins.

@@ -1,14 +1,12 @@
-###DEC-021582-0-000-05-08-1946@@@
+**DECRETO Nº 21.582, DE 5 DE AGOSTO DE 1946.**
 
-<strong>DECRETO Nº 21.582, DE 5 DE AGOSTO DE 1946.</strong>
+***Concede à Satúrnia Capitalização S.A autorização para funcionar e aprovar, com alterações, seus estatutos.***
 
-<em><strong>Concede à Satúrnia Capitalização S.A autorização para funcionar e aprovar, com alterações, seus estatutos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica autorizado a funcionar em operações de capitalização, a que se refere o Decreto n.º 22.456, de 10 de fevereiro de 1933, a Satúrnia Capitalização S. A com sede nesta cidade do Rio de Janeiro, e constituída por escritura pública, lavrada em notas do Tabelião do 15º Ofício desta cidade, a 9 de Outubro de 1945, bem como ficam aprovados os estatutos adotados pelos subscritores do seu capital e constantes da referida escritura, mediante as condições abaixo:
+**Art**. 1º Fica autorizado a funcionar em operações de capitalização, a que se refere o Decreto n.º 22.456, de 10 de fevereiro de 1933, a Satúrnia Capitalização S. A com sede nesta cidade do Rio de Janeiro, e constituída por escritura pública, lavrada em notas do Tabelião do 15º Ofício desta cidade, a 9 de Outubro de 1945, bem como ficam aprovados os estatutos adotados pelos subscritores do seu capital e constantes da referida escritura, mediante as condições abaixo:
 
 I Os estatutos são aprovados com as seguintes alterações:
 
@@ -34,12 +32,12 @@ j) substituam-se, no art. 27, as designações das alíneas b, c e d, respectiva
 
 II- As alterações consignadas na cláusula precedente deverão ser aprovadas em assembléia geral extraordinária de acionistas, dentro do prazo de 60( sessenta) dias, contados da publicação deste decreto.
 
-<strong>Art</strong>. 2º A sociedade ficará Integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sobre o objeto da autorização de que trata o presente decreto.
+**Art**. 2º A sociedade ficará Integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sobre o objeto da autorização de que trata o presente decreto.
 
-<strong>Art</strong>.3º Revogam-se as disposições em contrário.
+**Art**.3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de agosto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacílio Negrão de Lima

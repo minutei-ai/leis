@@ -1,5 +1,3 @@
-###DEC-045823-0-000-16-04-1959@@@
-
 DECRETO Nº 45.823, DE 16 DE ABRIL DE 1959.
 
 Suprime cargo extinto

@@ -1,5 +1,3 @@
-###DEC-050029-0-000-24-01-1961@@@
-
 DECRETO Nº 50.029, DE 24 DE Janeiro DE 1961.
 
 Autoriza a cidadã brasileira Judite Ferreira Pinto a pesquisar minério de ferro no município de Sabará, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-007677-0-000-06-02-2012-PUB-01@@@
-
 DECRETO Nº 7.677, DE 6 DE FEVEREIRO DE 2012
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 2021 (2011), adotada pelo Conselho de Segurança das Nações Unidas em 29 de novembro de 2011, que renova o regime de sanções aplicadas à República Democrática do Congo.

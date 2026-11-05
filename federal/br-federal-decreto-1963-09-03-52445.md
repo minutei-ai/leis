@@ -1,5 +1,3 @@
-###DEC-052445-0-000-03-09-1963@@@
-
 DECRETO Nº 52.445, DE 3 de SETEMBRO DE 1963.
 
 Fixa os preços básicos para o funcionamento ou aquisição de arroz, feijão e milho da produção nacional, para o ano agrícola 1963-64.

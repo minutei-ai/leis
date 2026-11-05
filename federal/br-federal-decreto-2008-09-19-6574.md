@@ -1,5 +1,3 @@
-###DEC-006574-0-000-19-09-2008@@@
-
 DECRETO Nº 6.574, DE 19 DE SETEMBRO DE 2008.
 
 Altera o Decreto no 6.386, de 29 de fevereiro de 2008, que regulamenta o art. 45 da Lei no 8.112, de 11 de dezembro de 1990, e dispõe sobre o processamento das consignações em folha de pagamento no âmbito do Sistema Integrado de Administração de Recursos Humanos - SIAPE.

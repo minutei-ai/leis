@@ -1,5 +1,3 @@
-###DEC-086027-0-000-27-05-1981@@@
-
 Decreto nº 86.027, de 27 de maio de 1981.
 
 Delega competência para concessão da Medalha-Prêmio instituída pelo Decreto nº 51.061, de 27 de julho de 1961, e dá outras providências.

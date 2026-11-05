@@ -1,14 +1,12 @@
-###DEC-072220-0-000-11-05-1973@@@
+**DECRETO Nº 72.220, DE 11 DE MAIO DE 1973**
 
-<strong>DECRETO Nº 72.220, DE 11 DE MAIO DE 1973</strong>
+***Declara de utilidade pública as instituições que menciona.***
 
-<em><strong>Declara de utilidade pública as instituições que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 81, item III, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 81, item III, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública, nos termos do artigo 1º, da Lei nº 91, de 28 de agosto de 1935, combinado com o artigo 1º, do Regulamento aprovado pelo Decreto número 50.517, de 2 de maio de 1961, as seguintes instituições:
+**Art**. 1º São declaradas de utilidade pública, nos termos do artigo 1º, da Lei nº 91, de 28 de agosto de 1935, combinado com o artigo 1º, do Regulamento aprovado pelo Decreto número 50.517, de 2 de maio de 1961, as seguintes instituições:
 
 MJ. 33.545-71 - Associação das Damas de Caridade, com sede em São José do Rio Preto, Estado de São Paulo;
 
@@ -40,10 +38,10 @@ MJ. 51.632-73 - Escola de Pais Nacional, com sede em São Paulo, Estado de São 
 
 MJ. 38.024-70 - Fundação Educacional de Jahu, com sede em Jahu, Estado de São Paulo.
 
-<strong>Art</strong>. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de maio de 1973; 152º da Independência e 85º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Alfredo Buzaia

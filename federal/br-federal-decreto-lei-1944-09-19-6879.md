@@ -1,5 +1,3 @@
-###DEL-006879-0-000-19-09-1944@@@
-
 DECRETO-LEI N. 6.879 – DE 19 DE SETEMBRO DE 1944
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

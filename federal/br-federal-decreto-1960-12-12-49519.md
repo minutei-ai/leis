@@ -1,5 +1,3 @@
-###DEC-049519-0-000-12-12-1960@@@
-
 DECRETO Nº 49.519, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Isnal de Mattos Costa a pesquisar quartzo no município de Virgolândia, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045939-0-000-29-04-1959@@@
-
 decreto nº 45.939, de 29 de abril de 1959.
 
 Declara caduco o Decreto nº 12.595, de 5 de junho de 1943.

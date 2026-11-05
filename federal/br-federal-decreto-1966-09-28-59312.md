@@ -1,5 +1,3 @@
-###DEC-059312-0-000-28-09-1966@@@
-
 DECRETO Nº 59.312, DE 28 DE SETEMBRO DE 1966.
 
 Aprova o Regimento da Consultoria Jurídica do Ministério da Viação e Obras Públicas.

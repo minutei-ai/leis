@@ -1,5 +1,3 @@
-###DEC-071291-0-000-31-10-1972@@@
-
 Decreto Nº 71.291 - DE 31 DE OUTUBRO DE 1972.
 
 Atribui competência ao Ministro da Educação e Cultura para designar Reitor ou Diretor "pro tempore" de instituições de ensino, nas condições que menciona.

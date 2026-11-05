@@ -1,5 +1,3 @@
-###DEC-055762-0-000-17-02-1965@@@
-
 DECRETO Nº 55.762, DE 17 DE FEVEREIRO DE 1965.
 
 Regulamenta a Lei nº 4.131, de 3 de setembro de 1952, modificada pela Lei nº 4.390, de 29 de agôsto de 1964.

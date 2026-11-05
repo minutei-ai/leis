@@ -8,7 +8,8 @@ DECRETA:
 
 Art. 1º - Fica o Poder Executivo autorizado a instituir o Conselho Estadual do Idoso - CEI, órgão de direito público, vinculado à Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, que se destina à promoção e atendimento das pessoas com mais de 65 (sessenta e cinco) anos de idade.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a instituir o Conselho Estadual do Idoso - CEI, órgão de direito público, vinculado à Secretaria da Justiça e Direitos Humanos, que se destina à promoção e atendimento das pessoas com mais de 65 (sessenta e cinco) anos de idade."
 
 Art. 2º - O Conselho Estadual do Idoso terá como prioridade os seguintes objetivos:
@@ -35,32 +36,38 @@ Art. 3º - O Conselho Estadual do Idoso será composto de representantes dos seg
 
 I - Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "I - Secretaria da Justiça e Direitos Humanos;"
 
 II - Secretaria do Trabalho, Emprego, Renda e Esporte;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "II - Secretaria do Trabalho e Ação Social;"
 
 III - Secretaria da Educação;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "III - Secretaria da Educação e Cultura;"
 
 IV - Secretaria da Cultura;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "IV - Secretaria da Saúde;"
 
 V - Secretaria de Saúde;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "V - Sociedade Baiana de Geriatria;"
 
 VI - Ministério Público do Estado da Bahia;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "VI - Associação dos Aposentados da Bahia;"
 
 VII - Associação Baiana de Imprensa - ABI;
@@ -73,7 +80,8 @@ X - Ordem dos Evangélicos da Bahia;
 
 XI - Associação dos Aposentados da Bahia;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "XI - Ministério Público do Estado da Bahia."
 
 XII - Sociedade Baiana de Geriatria.
@@ -84,7 +92,8 @@ Art. 4º - O Conselho Estadual do Idoso terá sede e foro na Cidade do Salvador,
 
 Art. 5º - O Conselho reunir-se-á, ordinariamente, uma vez por mês, sob a presidência do representante da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 5º - O Conselho reunir-se-á, ordinariamente, uma vez por mês, sob a presidência do representante da Secretaria da Justiça e Direitos Humanos."
 
 § 1º - Os demais membros do Conselho serão eleitos pelos seus integrantes.
@@ -93,7 +102,8 @@ Redação original: "Art. 5º - O Conselho reunir-se-á, ordinariamente, uma vez
 
 Art. 6º - A estrutura do Conselho será fixada pelo Chefe do Poder Executivo, ouvidos os Secretários de Justiça, Direitos Humanos e Desenvolvimento Social e da Administração.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 6º - A estrutura do Conselho será fixada pelo Chefe do Poder Executivo, ouvidos os Secretários de Justiça e Direitos Humanos e da Administração."
 
 Art. 7º - Esta Lei entra em vigor na data da sua publicação.

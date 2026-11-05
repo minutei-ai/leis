@@ -1,5 +1,3 @@
-###DEC-052683-0-000-14-10-1963@@@
-
 DECRETO Nº 52.683, DE 14 DE OUTUBRO DE 1963.
 
 Regulamenta Concurso de Inspetor de Ensino.

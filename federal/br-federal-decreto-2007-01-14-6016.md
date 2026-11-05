@@ -1,5 +1,3 @@
-###DEC-006016-0-000-14-01-2007@@@
-
 DECRETO Nº 6.016, DE 14 DE JANEIRO DE 2007.
 
 Estabelece o número de vagas para promoção obrigatória, referentes ao ano-base 2006, para os diversos postos dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica.
@@ -99,5 +97,3 @@ Estabelece o número de vagas para promoção obrigatória, referentes ao ano-ba
 LUIZ INÁCIO LULA DA SILVA
 
       Waldir Pires
-
-Este texto não substitui o publicado no DOU de 15.1.2007 - Edição extra

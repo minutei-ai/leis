@@ -1,5 +1,3 @@
-###DEC-094364-0-000-22-05-1987@@@
-
 DECRETO Nº 94.364, DE 22 DE MAIO DE 1987.
 
 Declara de utilidade pública as instituições que menciona.

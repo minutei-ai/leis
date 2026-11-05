@@ -1,5 +1,3 @@
-###DEC-047317-0-000-10-07-1959@@@
-
 DECRETO Nº 47.317, DE 10 DE julho DE 1959.
 
 Renova o Decreto nº 41.831, de 10 de julho de 1957.

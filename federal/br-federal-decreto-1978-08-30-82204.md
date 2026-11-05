@@ -1,5 +1,3 @@
-###DEC-082204-0-000-30-08-1978@@@
-
 Decreto nº 82.204, de 30 de agosto de 1978.
 
 Concede reconhecimento ao curso de Engenharia da Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

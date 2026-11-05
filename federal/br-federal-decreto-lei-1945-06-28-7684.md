@@ -1,5 +1,3 @@
-###DEL-007684-0-000-28-06-1945@@@
-
 DECRETO-LEI N. 7.684 – DE 28 DE Junho DE 1945
 
 Altera carreira de Oficial Administrativo do Quadro Permanente do Ministério da Justiça e Negócios interiores e abre crédito suplementar

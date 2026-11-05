@@ -1,5 +1,3 @@
-###MPV-001834-0-004-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.834-4,   DE 27 de JULHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Justiça do Distrito Federal e dos Territórios, crédito extraordinário no valor de R$3.200.000,00, para os fins que especifica.

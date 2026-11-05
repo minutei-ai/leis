@@ -1,7 +1,3 @@
-1
-
-###DEC-095657-0-000-21-01-1988@@@
-
 DECRETO N° 95.657, DE 21 DE JANEIRO DE 1988
 
 Dispõe sobre o aumento do capital social da Centrais Elétricas do Norte do Brasil S.A. ELETRONORTE.

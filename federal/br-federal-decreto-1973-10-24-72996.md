@@ -1,5 +1,3 @@
-###DEC-072996-0-000-24-10-1973@@@
-
 DECRETO Nº 72.996, de 24 de Outubro de 1973.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado no Morro do Sumaré, Estado da Guanabara.

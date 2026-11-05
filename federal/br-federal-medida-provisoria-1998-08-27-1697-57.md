@@ -1,5 +1,3 @@
-###MPV-001697-0-057-27-08-1998@@@
-
 MEDIDA PROVISÓRiA Nº 1.697-57, DE 27 DE AGOSTO DE 1998
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

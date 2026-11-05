@@ -1,5 +1,3 @@
-###DEC-090098-0-000-23-08-1984@@@
-
 Decreto nº 90.098, de 23 de agosto de 1984.
 
 Aprova alteração introduzida no Estatuto da Companhia de Pesquisa de Recursos Minerais - C.P.R.M.

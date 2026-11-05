@@ -1,5 +1,3 @@
-###DEC-048776-0-000-12-08-1960@@@
-
 Decreto nº 48.776, de 12 de agôsto de 1960.
 
 Autoriza o cidadão brasileiro Wilson Gabriel Giannetti a pesquisar minério de manganês, no município de Iporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004241-0-000-09-04-1942@@@
-
 DECRETO-LEI N. 4.241 – DE 9 DE ABRIL DE 1942
 
 Autoriza o Prefeito do Distrito Federal a prestar assistência judiciária aos funcionários municipais nas condições que menciona

@@ -1,7 +1,3 @@
-1
-
-###DEC-001701-0-000-14-11-1995@@@
-
 DECRETO Nº 1.701, DE 14 DE NOVEMBRO DE 1995.
 
 Dá nova redação ao art. 2º do Decreto nº1.387, de 7 de fevereiro de 1995, que dispõe sobre o afastamento do País de servidores civis da Administração Pública Federal.

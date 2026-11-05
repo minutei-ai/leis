@@ -1,5 +1,3 @@
-###MPV-000514-0-000-01-12-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 514, DE 1º  DE DEZEMBRO DE 2010
 
 Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas, as Leis nºs 10.188, de 12 de fevereiro de 2001, 6.015, de 31 de dezembro de 1973, 6.766, de 19 de dezembro de 1979, e 4.591, de 16 de dezembro de 1964, e dá outras providências.

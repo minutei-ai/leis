@@ -1,5 +1,3 @@
-###DEL-005466-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.466 – DE 7 DE MAIO DE 1943
 
 Dispõe sobre a aplicação de crédito especial aberto ao Ministério das Rela­ções Exteriores pelo decreto‑lei n. 5.231, de 5 de fevereiro de 1943

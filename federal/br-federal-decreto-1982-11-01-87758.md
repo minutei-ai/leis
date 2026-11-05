@@ -1,5 +1,3 @@
-###DEC-087758-0-000-01-11-1982@@@
-
 Decreto nº 87.758, de 01 de novembro de 1982
 
 Cria o segundo Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo e dá outras providências.

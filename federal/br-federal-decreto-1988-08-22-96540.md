@@ -1,5 +1,3 @@
-###DEC-096540-0-000-22-08-1988@@@
-
 DECRETO N° 96.540, DE 22 AGOSTO DE 1988
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

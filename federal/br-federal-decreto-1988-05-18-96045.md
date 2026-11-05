@@ -1,5 +1,3 @@
-###DEC-096045-0-000-18-05-1988@@@
-
 DECRETO N° 96.045, DE 18 DE MAIO DE 1988
 
 Autoriza o funcionamento do curso de Letras da Faculdade Adventista de Educação, em São Paulo.

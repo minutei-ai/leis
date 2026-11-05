@@ -1,5 +1,3 @@
-###DEC-067670-0-000-27-11-1970@@@
-
 DECRETO Nº 67.670, DE 27 DE NOVEMBRO DE 1970.
 
 Dispõe sôbre a retificação do Quadro Único de Pessoal da Universidade Federal do Paraná e dá outras providências.

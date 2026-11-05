@@ -1,7 +1,3 @@
-1
-
-###DEL-001770-0-000-20-02-1980@@@
-
 # DECRETO-LEI Nº 1.770, DE 20 DE FEVEREIRO DE 1980.
 
 Dispõe sobre a criação de cargos, não remunerados, de Juiz de Paz, na Justiça do Distrito Federal e dos Territórios, e dá outras providências.

@@ -16,56 +16,444 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style="width: 680px; height: 19px; text-align: center;"><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 154.957,81</td><td style=" width:85px;    ">R$ 181.575,57</td><td style=" width:85px;    ">R$ 336.533,38</td></tr><tr><td style=" width:85px;    ">QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS</td><td style=" width:85px;    ">10 128 1043 2520</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 210.863,87</td><td style=" width:85px;    ">R$ 235.503,56</td><td style=" width:85px;    ">R$ 446.367,43</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 715.383,35</td><td style=" width:85px;    ">R$ 724.960,22</td><td style=" width:85px;    ">R$ 1.440.343,57</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2903 - CORPO DE BOMBEIROS MILITAR</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO - KIT RESGATE NORDESTE SOLIDÁRIO</td><td style=" width:85px;    ">06 182 1051 2551</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 163,32</td><td style=" width:85px;    ">R$ 179.500,00</td><td style=" width:85px;    ">R$ 179.663,32</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3161-FUNDAÇÃO DE AMPARO À&nbsp; PESQUISA DO ESTADO DE GOIÁS - FAPEG</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 148.900,32</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 248.900,32</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA</td><td style=" width:85px;    ">11 691 1054 3254</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">40</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.236.097,28</td><td style=" width:85px;    ">R$ 927.903,43</td><td style=" width:85px;    ">R$ 3.164.000,71</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   ">TOTAL A SUPLEMENTAR POR FONTE</td></tr></tbody></table>
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.169.942,78</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 179.500,00</td></tr><tr><td style=" width:340px;    ">TOTAL A SUPLEMENTAR</td><td style=" width:340px;    ">R$ 2.349.442,78</td></tr></tbody></table>
+10 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 154.957,81
+
+R$ 181.575,57
+
+R$ 336.533,38
+
+QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS
+
+10 128 1043 2520
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 210.863,87
+
+R$ 235.503,56
+
+R$ 446.367,43
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+14 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 715.383,35
+
+R$ 724.960,22
+
+R$ 1.440.343,57
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2903 - CORPO DE BOMBEIROS MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO - KIT RESGATE NORDESTE SOLIDÁRIO
+
+06 182 1051 2551
+
+17610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 163,32
+
+R$ 179.500,00
+
+R$ 179.663,32
+
+**3161-FUNDAÇÃO DE AMPARO À  PESQUISA DO ESTADO DE GOIÁS - FAPEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 148.900,32
+
+R$ 100.000,00
+
+R$ 248.900,32
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA
+
+11 691 1054 3254
+
+15000100
+
+40
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.236.097,28
+
+R$ 927.903,43
+
+R$ 3.164.000,71
+
+TOTAL A SUPLEMENTAR POR FONTE
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.169.942,78
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 179.500,00
+
+TOTAL A SUPLEMENTAR
+
+R$ 2.349.442,78
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><strong>ESPECIFICAÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>AÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>FONTE</strong></td><td style=" width:85px;  height:19px;   "><strong>MODALIDADE</strong></td><td style=" width:85px;  height:19px;   "><strong>GRUPO</strong></td><td style=" width:85px;  height:19px;   "><strong>SALDO A PROGRAMAR</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR BLOQUEADO</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR A REDUZIR</strong></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 9.528.232,80</td><td style=" width:85px;    ">R$ 181.575,57</td><td style=" width:85px;    ">R$ 181.575,57</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 9.346.657,23</td><td style=" width:85px;    ">R$ 235.503,56</td><td style=" width:85px;    ">R$ 235.503,56</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</strong><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><strong>ESPECIFICAÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>AÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>FONTE</strong></td><td style=" width:85px;  height:19px;   "><strong>MODALIDADE</strong></td><td style=" width:85px;  height:19px;   "><strong>GRUPO</strong></td><td style=" width:85px;  height:19px;   "><strong>SALDO A PROGRAMAR</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR BLOQUEADO</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR A REDUZIR</strong></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style=" width:85px;    ">14 421 1007 2373</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.080.874,90</td><td style=" width:85px;    ">R$ 498.896,97</td><td style=" width:85px;    ">R$ 498.896,97</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 226.063,25</td><td style=" width:85px;    ">R$ 226.063,25</td><td style=" width:85px;    ">R$ 226.063,25</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</strong><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><strong>ESPECIFICAÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>AÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>FONTE</strong></td><td style=" width:85px;  height:19px;   "><strong>MODALIDADE</strong></td><td style=" width:85px;  height:19px;   "><strong>GRUPO</strong></td><td style=" width:85px;  height:19px;   "><strong>SALDO A PROGRAMAR</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR BLOQUEADO</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR A REDUZIR</strong></td></tr><tr><td style=" width:85px;    ">PROJETOS DE POLÍTICAS PÚBLICAS EM BENEFÍCIO DA CRIANÇA, ADOLESCENTE E JOVENS CARENTES</td><td style=" width:85px;    ">08 243 1040 2561</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 179.500,00</td><td style=" width:85px;    ">R$ 179.500,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>3161-FUNDAÇÃO DE AMPARO À&nbsp; PESQUISA DO ESTADO DE GOIÁS - FAPEG</strong></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><strong>ESPECIFICAÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>AÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>FONTE</strong></td><td style=" width:85px;  height:19px;   "><strong>MODALIDADE</strong></td><td style=" width:85px;  height:19px;   "><strong>GRUPO</strong></td><td style=" width:85px;  height:19px;   "><strong>SALDO A PROGRAMAR</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR BLOQUEADO</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR A REDUZIR</strong></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">19 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 163.073,36</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>4200 - SECRETARIA DE ESTADO DA RETOMADA</strong><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><strong>ESPECIFICAÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>AÇÃO</strong></td><td style=" width:85px;  height:19px;   "><strong>FONTE</strong></td><td style=" width:85px;  height:19px;   "><strong>MODALIDADE</strong></td><td style=" width:85px;  height:19px;   "><strong>GRUPO</strong></td><td style=" width:85px;  height:19px;   "><strong>SALDO A PROGRAMAR</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR BLOQUEADO</strong></td><td style=" width:85px;  height:19px;   "><strong>VALOR A REDUZIR</strong></td></tr><tr><td style=" width:85px;    ">FOMENTO DE COOPERATIVA - RECICLA GOIÁS</td><td style=" width:85px;    ">11 334 1054 2447</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 927.903,43</td><td style=" width:85px;    ">R$ 927.903,43</td><td style=" width:85px;    ">R$ 927.903,43</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</strong></td></tr></tbody></table>
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.169.942,78</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 179.500,00</td></tr><tr><td style=" width:340px;    "><strong>TOTAL</strong></td><td style=" width:340px;    ">R$ 2.349.442,78</td></tr></tbody></table>
+10 122 4200 4243
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><strong>TOTAL POR FONTE</strong></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.169.942,78</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 179.500,00</td></tr><tr><td style=" width:340px;    ">TOTAL</td><td style=" width:340px;    ">R$ 2.349.442,78</td></tr></tbody></table>
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 9.528.232,80
+
+R$ 181.575,57
+
+R$ 181.575,57
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+10 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 9.346.657,23
+
+R$ 235.503,56
+
+R$ 235.503,56
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL
+
+14 421 1007 2373
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.080.874,90
+
+R$ 498.896,97
+
+R$ 498.896,97
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+14 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 226.063,25
+
+R$ 226.063,25
+
+R$ 226.063,25
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS DE POLÍTICAS PÚBLICAS EM BENEFÍCIO DA CRIANÇA, ADOLESCENTE E JOVENS CARENTES
+
+08 243 1040 2561
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 500.000,00
+
+R$ 179.500,00
+
+R$ 179.500,00
+
+**3161-FUNDAÇÃO DE AMPARO À  PESQUISA DO ESTADO DE GOIÁS - FAPEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+19 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 163.073,36
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOMENTO DE COOPERATIVA - RECICLA GOIÁS
+
+11 334 1054 2447
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 927.903,43
+
+R$ 927.903,43
+
+R$ 927.903,43
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.169.942,78
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 179.500,00
+
+**TOTAL**
+
+R$ 2.349.442,78
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.169.942,78
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 179.500,00
+
+TOTAL
+
+R$ 2.349.442,78

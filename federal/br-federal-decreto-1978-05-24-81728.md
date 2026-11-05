@@ -1,5 +1,3 @@
-###DEC-081728-0-000-24-05-1978@@@
-
 Decreto nº 81.728, de 24 de maio de 1978.
 
 Concede reconhecimento aos cursos de Ciências Biológicas, Licenciatura e Bacharelado, da Universidade Federal do Pará, com sede na cidade de Belém, Estado do Pará.

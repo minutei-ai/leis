@@ -1,5 +1,3 @@
-###DEC-054483-0-000-14-10-1964@@@
-
 decreto nº 54.483, de 14 de outubro de 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar uma área de terreno em Quaraí, Estado do Rio Grande do Sul., destinada ao Ministério da Guerra.

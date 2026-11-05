@@ -1,5 +1,3 @@
-###DEC-047747-0-000-03-02-1960@@@
-
 DECRETO Nº 47.747, DE 3 DE FEVEREIRO DE 1960.
 
 Autoriza Jamil Sabbagk, a comprar pedras preciosas.

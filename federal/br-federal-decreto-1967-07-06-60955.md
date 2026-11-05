@@ -1,5 +1,3 @@
-###DEC-060955-0-000-06-07-1967@@@
-
 DECRETO Nº 60.955, DE 6 DE JULHO DE 1967.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir linha de transmissão.

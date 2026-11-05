@@ -1,5 +1,3 @@
-###DEL-006932-0-000-05-10-1944@@@
-
 DECRETO-LEI N. 6.932 – DE 5 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 6.403.167,20, para prosseguimento da construção do ramal de Treviso, da Estrada de Ferro Dona Teresa Cristina

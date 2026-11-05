@@ -1,5 +1,3 @@
-###DEC-007837-0-000-09-11-2012-PUB-01@@@
-
 DECRETO N° \- 7.837, DE 9 DE NOVEMBRO DE 2012
 
 Dispõe sobre o aporte de recursos da União de que trata o art. 2º da Medida Provisória nº 587, de 9 de novembro de 2012, e sobre o valor adicional do benefício Garantia-Safra, de que trata a Lei n° 10.420, de 10 de abril de 2002, para a safra 2011/2012.

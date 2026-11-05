@@ -1,5 +1,3 @@
-###MPV-002089-0-023-27-12-2000@@@
-
 medida provisória nº 2.089-23, de 27 de dezembro de 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova das ações intentadas para sua declaração.

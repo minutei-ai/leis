@@ -1,5 +1,3 @@
-###DEC-052616-0-000-04-10-1963@@@
-
 Decreto Nº 52.616, DE 4 DE OUTUBRO DE 1963.
 
 Altera o parágrafo único do art. 12 do Decreto nº 514, de 17 de novembro de 1961.

@@ -1,5 +1,3 @@
-###DEC-071409-0-000-20-11-1972@@@
-
 DECRETO Nº 71.409, DE 20 DE NOVEMBRO DE 1972.
 
 Autoriza a cessão à Universidade de São Paulo de bens móveis e imóveis atinentes ao Centro Regional de Pesquisas Educacionais "Professor Queiroz Filho", do Instituto Nacional de Estudos Pedagógicos, do Ministério da Educação e Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000022-0-000-29-11-1937@@@
-
 DECRETO-LEI N. 22 – DE 29 DE NOVEMBRO DE 1937
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de réis 592:000$000, para despesas nos hospitais Estácio de Sá e Pedro II.

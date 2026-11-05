@@ -1,5 +1,3 @@
-###DEC-056522-0-000-29-06-1965@@@
-
 decreto nº 56.522, de 29 de junho de 1965.
 
 Hospital de Guarnição de Brasília (Criação).

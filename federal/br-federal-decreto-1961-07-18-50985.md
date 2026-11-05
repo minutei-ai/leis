@@ -1,5 +1,3 @@
-###DEC-050985-0-000-18-07-1961@@@
-
 DECRETO Nº 50.985, DE 18 DE JULHO DE 1961.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a construir uma lição de transmissão.

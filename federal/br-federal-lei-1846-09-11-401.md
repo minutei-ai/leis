@@ -1,18 +1,16 @@
-###LEI-000401-0-000-11-09-1846@@@
+**LEI Nº 401 - DE 11 DE SETEMBRO DE 1846**
 
-<strong>LEI Nº 401 - DE 11 DE SETEMBRO DE 1846</strong>
-
-<em><strong>Para que se recebão nas Estações Publicas as moedas de ouro de vinte e dous quilates na razão de quatro mil réis por oitava, e as de prata na razão que o Governo estabelecer; e autorisando a retirada da circulação da somma de papel-moeda que for necessaria para o elevar a este valor, e nelle conserval-o.</strong></em>
+***Para que se recebão nas Estações Publicas as moedas de ouro de vinte e dous quilates na razão de quatro mil réis por oitava, e as de prata na razão que o Governo estabelecer; e autorisando a retirada da circulação da somma de papel-moeda que for necessaria para o elevar a este valor, e nelle conserval-o.***
 
 Dom Pedro Segundo, por Graça de Deos, e Unanime Acclamação dos Povos, Imperador Constitucional, e Defensor Perpetuo do Brasil, Fazemos saber a todos os Nossos Subditos, que a Assembléa Geral Decretou, e Nós Queremos a Lei seguinte:
 
-<strong>Art.</strong> 1º Do primeiro de Janeiro de mil oitocentos quarenta e sete em diante, ou antes, se for possivel, serão recebidas nas Estações Publicas as moedas de ouro de vinte e dous quilates na razão de quatro mil réis por oitava, e as de prata na razão, que o Governo determinar. Esta disposição terá lugar nos pagamentos entre particulares.
+**Art.** 1º Do primeiro de Janeiro de mil oitocentos quarenta e sete em diante, ou antes, se for possivel, serão recebidas nas Estações Publicas as moedas de ouro de vinte e dous quilates na razão de quatro mil réis por oitava, e as de prata na razão, que o Governo determinar. Esta disposição terá lugar nos pagamentos entre particulares.
 
-<strong>Art.</strong> 2º O Governo he autorisado a retirar da circulação a somma de papel-moeda, que for necessaria para eleval-o ao valor do Artigo antecedente, e nelle conserval-o; e para este fim poderá fazer as operações de credito que forem indispensaveis.
+**Art.** 2º O Governo he autorisado a retirar da circulação a somma de papel-moeda, que for necessaria para eleval-o ao valor do Artigo antecedente, e nelle conserval-o; e para este fim poderá fazer as operações de credito que forem indispensaveis.
 
-<strong>Art.</strong> 3º Serão observadas as convenções sobre pagamentos.
+**Art.** 3º Serão observadas as convenções sobre pagamentos.
 
-<strong>Art.</strong> 4º Ficão revogadas as disposições em contrario.
+**Art.** 4º Ficão revogadas as disposições em contrario.
 
 Mandamos por tanto a todas as Autoridades, a quem o conhecimento, e execução da referida Lei pertencer, que a cumprão, e fação cumprir, e guardar tão inteiramente, como nella se contêm. O Secretario d'Estado dos Negocios da Fazenda a faça imprimir, publicar, e correr. Dada no Palacio do Rio de Janeiro aos onze dias do mez de Setembro de mil oitocentos quarenta e seis vigesimo quinto da Independencia e do Imperio.
 

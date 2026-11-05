@@ -1,5 +1,3 @@
-###DEC-085265-0-000-20-10-1980@@@
-
 Decreto nº 85.265, de 20 de outubro de 1980
 
 Declara de interesse social, para fins de desapropriação, imóvel situado nos Municípios de Bacabal e São Luiz Gonzaga (antigo Ipixuma), no Estado do Maranhão, compreendido na área prioritária de reforma agrária fixada pelo Decreto nº 70.220, 1º de março de 1972, ampliada pelo Decreto 71.195, de 4 de outubro de 1972, e cuja vigência foi prorrogada pelo Decreto nº 79.288, de 16 de fevereiro de 1977.

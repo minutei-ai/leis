@@ -1,5 +1,3 @@
-###DEC-050206-0-000-28-01-1961@@@
-
 DECRETO Nº 50.206, DE 28 DE JANEIRO DE 1961.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Portos, Rios e Canais, áreas de terreno necessárias ao prosseguimento da construção do Pôrto de Mucuripe, no Estado do Ceará.

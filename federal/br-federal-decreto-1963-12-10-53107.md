@@ -1,5 +1,3 @@
-###DEC-053107-0-000-10-12-1963@@@
-
 DECRETO Nº 53.107, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Emprêsa Santa Rita de Mineração Ltda. autorização para funcionar como emprêsa de mineração.

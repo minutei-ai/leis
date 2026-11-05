@@ -1,5 +1,3 @@
-###DEC-085769-0-000-26-02-1981@@@
-
 Decreto nº 85.769, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo de Tupã, Estado de São Paulo.

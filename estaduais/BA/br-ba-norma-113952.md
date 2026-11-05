@@ -508,36 +508,40 @@ a)Monte Santo - 66/13,8 KV (0,5 MW)
 
 7 - SISTEMA ISOLADOS - SISTEMA DE CORRENTINA
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1 - SISTEMA DE PAULO AFONSO<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2 - SISTEMA LESTE<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3 - SISTEMA SENHOR DO BOMFIM<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>16 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4 - SISTEMA DO PARAGUAÇU<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>46 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5 - SISTEMA DO RIO DE CONTAS<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>82 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6 - SISTEMA DO RIO PARDO<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>7 - SISTEMAS ISOLADOS<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23 Municípios<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL<quebra></quebra></span></p></td><td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>158<quebra></quebra></span></p></td></tr></tbody></table>
+1 - SISTEMA DE PAULO AFONSO<quebra></quebra>
+
+6 Municípios<quebra></quebra>
+
+2 - SISTEMA LESTE<quebra></quebra>
+
+28 Municípios<quebra></quebra>
+
+3 - SISTEMA SENHOR DO BOMFIM<quebra></quebra>
+
+16 Municípios<quebra></quebra>
+
+4 - SISTEMA DO PARAGUAÇU<quebra></quebra>
+
+46 Municípios<quebra></quebra>
+
+5 - SISTEMA DO RIO DE CONTAS<quebra></quebra>
+
+82 Municípios<quebra></quebra>
+
+6 - SISTEMA DO RIO PARDO<quebra></quebra>
+
+12 Municípios<quebra></quebra>
+
+7 - SISTEMAS ISOLADOS<quebra></quebra>
+
+23 Municípios<quebra></quebra>
+
+TOTAL<quebra></quebra>
+
+158<quebra></quebra>
 
 a)Salvador (Lapinha) 66/33/11 KV - 10MVA + 9MVA
 
 6 - Tucano.
 
-* * *
+ *

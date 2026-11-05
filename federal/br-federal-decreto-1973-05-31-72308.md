@@ -1,5 +1,3 @@
-###DEC-072308-0-000-31-05-1973@@@
-
 DECRETO Nº 72.308, DE 31 DE MAIO DE 1973.
 
 Concede reconhecimento ao curso de Ciências, licenciatura de 1º grau, da Faculdade de Filosofia, Ciências e Letras de Santo André, mantida pela Fundação Santo André, com sede na cidade de Santo André, Estado de São Paulo.

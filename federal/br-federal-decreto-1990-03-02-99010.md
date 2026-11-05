@@ -1,7 +1,3 @@
-1
-
-###DEC-099010-0-000-02-03-1990@@@
-
 DECRETO Nº 99.010, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Itumbiara.

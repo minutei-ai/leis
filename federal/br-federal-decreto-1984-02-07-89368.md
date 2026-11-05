@@ -1,5 +1,3 @@
-###DEC-089368-0-000-07-02-1984@@@
-
 Decreto nº 89.368, de 07 de fevereiro de 1984
 
 Aprova o Regulamento para a Reserva da Marinha.

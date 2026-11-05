@@ -1,7 +1,3 @@
-1
-
-###MPV-001520-0-000-24-09-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.520, DE 24 DE SETEMBRO DE 1996.
 
 Dispõe sobre a novação de dívidas e responsabilidades do Fundo de Compensação de Variações Salariais - FCVS; altera o Decreto-lei nº 2.406, de 5 de janeiro de 1988, e as Leis nºs 8.004 e 8.100, de 14 de março de 1990, e 5 de dezembro de 1990, respectivamente; e dá outras providências.

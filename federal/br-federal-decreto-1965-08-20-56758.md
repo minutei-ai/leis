@@ -1,5 +1,3 @@
-###DEC-056758-0-000-20-08-1965@@@
-
 DECRETO Nº 56.758, DE 20 DE AGÔSTO DE 1965.
 
 Cria funções gratificadas na Seção de Segurança Nacional do Ministério do Trabalho e Previdência Social.

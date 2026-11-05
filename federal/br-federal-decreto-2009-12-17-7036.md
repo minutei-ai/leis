@@ -1,5 +1,3 @@
-###DEC-007036-0-000-17-12-2009@@@
-
 DECRETO Nº 7.036, DE 17 DE DEZEMBRO DE 2009.
 
 Altera o art. 8o e os Anexos VII, VIII e X do Decreto no 6.752, de 28 de janeiro de 2009, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2009.

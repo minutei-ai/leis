@@ -1,5 +1,3 @@
-###DEC-096817-0-000-28-09-1988@@@
-
 DECRETO Nº 96.817, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RIMA COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Várzea da Palma, Estado de Minas Gerais.

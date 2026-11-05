@@ -1,5 +1,3 @@
-###DEC-048854-0-000-12-08-1960@@@
-
 DECRETO Nº 48.854, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a Prefeitura Municipal de São Joaquim, Estado de Santa Catarina, a ampliar suas instalações de produção e distribuição de energia elétrica.

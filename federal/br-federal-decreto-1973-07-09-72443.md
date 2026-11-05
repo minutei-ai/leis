@@ -1,5 +1,3 @@
-###DEC-072443-0-000-09-07-1973@@@
-
 DECRETO Nº 72.443, DE 9 DE JULHO DE 1973.
 
 Autorizo a reversão de terras e benfeitorias à Prefeitura Municipal de Itaperuna, no Estado do Rio de Janeiro.

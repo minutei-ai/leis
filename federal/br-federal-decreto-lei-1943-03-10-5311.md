@@ -1,5 +1,3 @@
-###DEL-005311-0-000-10-03-1943@@@
-
 DECRETO‑LEI N. 5.311 – DE 10 DE MARÇO DE 1943
 
 Lei de Organização do Ministério da Guerra – Atualização do decreto‑lei n. 279, de 16 de fevereiro de 1938

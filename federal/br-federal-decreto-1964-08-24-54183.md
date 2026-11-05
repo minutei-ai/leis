@@ -1,5 +1,3 @@
-###DEC-054183-0-000-24-08-1964@@@
-
 DECRETO Nº 54.183, DE 24 DE AGÔSTO DE 1964.
 
 Transfere do Município de Pedro Leopoldo para Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no Município.

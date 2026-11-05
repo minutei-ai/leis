@@ -1,5 +1,3 @@
-###DEC-068536-0-000-24-04-1971@@@
-
 DECRETO Nº 68.536 - DE 24 DE ABRIL DE 1971.
 
 Declara luto oficial.

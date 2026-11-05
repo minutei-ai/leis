@@ -1,5 +1,3 @@
-###DEC-058398-0-000-10-05-1966@@@
-
 DECRETO Nº 58.398, DE 10 DE MAIO DE 1966.
 
 Concede reconhecimento à Faculdade Estadual de Odontologia de Londrina, Estado do Paraná.

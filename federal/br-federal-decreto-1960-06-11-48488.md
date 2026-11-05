@@ -1,5 +1,3 @@
-###DEC-048488-0-000-11-07-1960@@@
-
 DECRETO Nº 48.488, DE 11 DE JULHO DE 1960.
 
 Dá nova denominação à Capitania dos Portos do Distrito Federal e Estado do Rio de Janeiro.

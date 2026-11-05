@@ -1,5 +1,3 @@
-###DEC-082972-0-000-03-01-1979@@@
-
 Decreto nº 82 972, de 03 de janeiro de 1979
 
 Concede à Bauer & Cia. Ltda. o direito de lavrar basalto no Município de Arapongas, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-003292-0-000-15-12-1999@@@
-
 DECRETO Nº 3.292, DE 15 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a inclusão de imóveis de domínio da União no Programa Nacional de Desestatização - PND.

@@ -4,7 +4,8 @@ Dispõe sobre medidas relativas aos Jogos Olímpicos e Paralímpicos de 2016.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei estabelece normas para a organização e a realização dos Jogos Olímpicos e Paralímpicos de 2016 no Estado da Bahia.
@@ -59,7 +60,8 @@ b) o nome, o emblema, a bandeira, o hino, o lema, as marcas e outros símbolos d
 
 c) as mascotes, as marcas, as tochas e outros símbolos relacionados aos Jogos.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DO USO DE BENS PÚBLICOS ESTADUAIS
 
 Art. 3º - O Estado da Bahia poderá conceder permissão de uso privativo e gratuito ao Rio 2016 de bens pertencentes à Administração Pública Estadual, direta ou indireta, que reputar necessários à organização e à realização dos Jogos, podendo o Rio 2016, inclusive, explorá-los comercialmente pelo período da permissão.
@@ -68,7 +70,8 @@ Art. 3º - O Estado da Bahia poderá conceder permissão de uso privativo e grat
 
 § 2º - Dentre os bens referidos no caput deste artigo está compreendido o mobiliário urbano estadual, cujo uso será outorgado de forma privativa e gratuita.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DOS SERVIÇOS PÚBLICOS ESTADUAIS
 
 Art. 4º - Nos limites de sua responsabilidade, o Estado da Bahia promoverá, em conjunto com o Município de Salvador e a União, a disponibilização, em favor do Rio 2016, sem qualquer custo, de serviços de sua competência relacionados a:
@@ -85,7 +88,8 @@ Art. 5º - A segurança pública nos Locais Oficiais, nas suas imediações e pr
 
 Art. 6º - O Poder Executivo Estadual, em conjunto com autoridades federais e municipais, indicará um hospital de referência para atendimento a todos os portadores de identidade olímpica ou credencial emitida pelo Rio 2016, em conformidade com os requerimentos do Rio 2016.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DAS ATIVIDADES PUBLICITÁRIAS E ÁREAS DE INTERESSE
 
 Art. 7º - No Período de Competição, o Estado colaborará, nos limites de sua competência, com os Entes Governamentais, para assegurar ao Rio 2016 e às pessoas por ele autorizadas a, com exclusividade, divulgar suas marcas, distribuir, vender, dar publicidade ou realizar propaganda de produtos e serviços, bem como outras atividades promocionais, nas Áreas de Interesse, suas principais vias de acesso, em locais claramente visíveis a partir daquelas e no espaço aéreo correspondente.
@@ -108,19 +112,22 @@ Art. 11 - As autoridades estaduais, no âmbito de sua competência, combaterão 
 
 Art. 12 - É permitida a comercialização de bebidas alcoólicas nos Locais Oficiais de Competição, durante a realização dos Jogos, exceto para pessoas menores de 18 (dezoito) anos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DA VENDA DE INGRESSOS E DA SUSPENSÃO DAS GRATUIDADES E DE DESCONTOS
 
 Art. 13 - A venda dos ingressos dos Jogos será realizada de acordo com o disposto nos arts. 24 a 27 da Lei Federal nº 13.284, de 10 de maio de 2016, bem como a regulamentação desta, não se aplicando, neste caso, normas estaduais que disponham em sentido diverso.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 \-DO CONTROLE DE ENTRADA E DA PERMANÊNCIA NOS LOCAIS OFICIAIS DE COMPETIÇÃO
 
 Art. 14 - O acesso, a entrada e a permanência nos Locais Oficiais durante o Período de Competição serão restritos às pessoas autorizadas pelo Rio 2016.
 
 Parágrafo único - Não se aplicam aos Eventos quaisquer normas estaduais que disponham sobre o controle de acesso, entrada e permanência nos Locais Oficiais, inclusive aquelas que disponham sobre acesso preferencial e outras condições atribuíveis a grupos especiais de pessoas.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 \-DAS DISPOSIÇÕES FINAIS
 
 Art. 15 - Compromete-se o Estado da Bahia a reorganizar, se necessário, o horário de funcionamento das repartições públicas estaduais durante o Período de Competição.

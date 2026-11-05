@@ -1,5 +1,3 @@
-###DEC-091753-0-000-07-10-1985@@@
-
 Decreto nº 91.753, de 07 de outubro de 1985
 
 Outorga concessão à TV GLOBO DE JUIZ DE FORA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Varginha, Estado de Minas Gerais.

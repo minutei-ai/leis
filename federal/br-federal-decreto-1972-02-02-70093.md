@@ -1,5 +1,3 @@
-###DEC-070093-0-000-02-02-1972@@@
-
 DECRETO Nº 70.093, DE 2 DE FEVEREIRO DE 1972.
 
 Aprova incorporações de empresas de energia elétrica no sul do País, transfere direitos e deveres concedidos e dá outras providências.

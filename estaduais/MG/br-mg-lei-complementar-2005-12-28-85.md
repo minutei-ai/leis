@@ -1035,7 +1035,3 @@ AÉCIO NEVES
 Danilo de Castro
 
 Antonio Augusto Junho Anastasia
-
-\============================================================
-
-Data da última atualização: 10/6/2024.

@@ -1,5 +1,3 @@
-###DEL-004086-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.086 – DE 4 DE FEVEREIRO DE 1942
 
 Cria, no Quadro Permanente do Ministério da Aeronáutica, o cargo, em comissão, de Subdiretor de Obras, padrão O – Diretoria de Rotas Aéreas e concede crédito

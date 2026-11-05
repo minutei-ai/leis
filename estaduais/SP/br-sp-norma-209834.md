@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209834)<br>
-
 # DECRETO N° 68.766, DE 09 DE AGOSTO DE 2024
 
 ### _Cria a Faculdade de Tecnologia – FATEC de Itapevi, no Município de Itapevi, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" – CEETEPS, e dá providências correlatas._

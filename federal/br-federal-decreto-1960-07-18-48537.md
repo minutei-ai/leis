@@ -1,5 +1,3 @@
-###DEC-048537-0-000-18-07-1960@@@
-
 DECRETO Nº 48.537, DE 18 DE JULHO DE 1960.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em Foz do Iguaçu, Estado do Paraná, necessários à construção do novo aeropôrto.

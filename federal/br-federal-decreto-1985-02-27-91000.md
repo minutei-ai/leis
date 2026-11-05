@@ -1,5 +1,3 @@
-###DEC-091000-0-000-27-02-1985@@@
-
 Decreto nº 91.000, de 27 de fevereiro de 1985.
 
 Altera o Decreto nº 88.811, de 4 de outubro de 1983, que declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Posse dos Pires" e "Posse do Inocêncio", situados no Município de Seberi, Estado do Rio Grande do Sul.

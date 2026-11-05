@@ -1,5 +1,3 @@
-###DEC-002761-0-000-27-08-1998@@@
-
 DECRETO Nº 2.761, DE 27 DE AGOSTO DE 1998
 
 Promulga o Acordo Latino-Americano, de Co-Produção Cinematográfica, assinado em Caracas em 11 de novembro de 1989.
@@ -164,7 +162,65 @@ Em fé do que, os abaixo-assinados, devidamente autorizados para tanto, subscrev
 
 Feito em Caracas, Venezuela, aos onze dias do mês de novembro de mil novecentos e oitenta e nove.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Argentina</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Octavio Getino</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor do Instituto Nacional de Cinematografia</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República de Cuba</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Julio Garcia Espinoza</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Presidente do Instituto Cubano da Arte e da Indústria Cinematográfica</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelos Estados Unidos Mexicanos</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alejandro Sobarzo Loaiza</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador Extraordinário e Plenipotenciário</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República do Panamá</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fernando Martinez</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor do Departamento de Cinema da Universidade do Panamá</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Venezuela</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Inelda Cisneros</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Encarregada do Ministério de Fomento</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">República da Colômbia</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Enrique Danies Rincones</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Comunicações</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República do Equador</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Francisco Huerta Montalvo</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador Extraordinário e Plenipotenciário</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Nicarágua</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Orlando Castillo Estrada</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor Geral do Instituto Nicaraguense de Cinema (INCINE)</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República do Peru</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Elvira de la Puente de Besaccia</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretora Geral de Comunicação Social do Instituto Nacional de Comunicação Social</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Dominicana</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pablo Guidicelli Velázquez</span></p></td></tr><tr><td style="width:228.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador Extraordinário e Plenipotenciário</span></p></td><td style="width:193.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pela República Argentina
+
+Octavio Getino
+
+Diretor do Instituto Nacional de Cinematografia
+
+Pela República de Cuba
+
+Julio Garcia Espinoza
+
+Presidente do Instituto Cubano da Arte e da Indústria Cinematográfica
+
+Pelos Estados Unidos Mexicanos
+
+Alejandro Sobarzo Loaiza
+
+Embaixador Extraordinário e Plenipotenciário
+
+Pela República do Panamá
+
+Fernando Martinez
+
+Diretor do Departamento de Cinema da Universidade do Panamá
+
+Pela República da Venezuela
+
+Inelda Cisneros
+
+Encarregada do Ministério de Fomento
+
+República da Colômbia
+
+Enrique Danies Rincones
+
+Ministro das Comunicações
+
+Pela República do Equador
+
+Francisco Huerta Montalvo
+
+Embaixador Extraordinário e Plenipotenciário
+
+Pela República da Nicarágua
+
+Orlando Castillo Estrada
+
+Diretor Geral do Instituto Nicaraguense de Cinema (INCINE)
+
+Pela República do Peru
+
+Elvira de la Puente de Besaccia
+
+Diretora Geral de Comunicação Social do Instituto Nacional de Comunicação Social
+
+Pela República Dominicana
+
+Pablo Guidicelli Velázquez
+
+Embaixador Extraordinário e Plenipotenciário
 
 Pela República Federativa do Brasil
 

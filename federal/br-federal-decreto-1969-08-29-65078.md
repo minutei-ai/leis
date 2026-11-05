@@ -1,5 +1,3 @@
-###DEC-065078-0-000-29-08-1969@@@
-
 Decreto nº 65.078 - de 29 de agôsto de 1969.
 
 Concede à Confederação das Associações Comerciais do Brasil a prerrogativa excepcional do art. 559 da Consolidação das Leis do Trabalho.

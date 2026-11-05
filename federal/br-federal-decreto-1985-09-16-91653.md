@@ -1,5 +1,3 @@
-###DEC-091653-0-000-16-09-1985@@@
-
 DeCreTo Nº 91.653, dE 16 de setembro dE 1985
 
 Dá nova redação a dispositivo do Decreto nº 88.513, de 13 de julho de 1983, que dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-078196-0-000-04-08-1976@@@
-
 DECRETO Nº 78.196, DE 4 DE AGOSTO DE 1976.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

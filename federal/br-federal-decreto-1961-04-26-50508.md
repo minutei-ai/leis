@@ -1,5 +1,3 @@
-###DEC-050508-0-000-26-04-1961@@@
-
 DECRETO Nº 50.508, DE 26 DE ABRIL DE 1961.
 
 Altera o § 1º do art. 1º do Decreto nº 31.277, de 13 de agôsto de 1952.

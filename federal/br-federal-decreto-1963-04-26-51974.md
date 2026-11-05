@@ -1,5 +1,3 @@
-###DEC-051974-0-000-26-04-1963@@@
-
 Decreto nº 51.974, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Archangelo Lorencini a pesquisar água mineral no município de Cachoeira do Itapemirim, Estado do Espírito Santo.

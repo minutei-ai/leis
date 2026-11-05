@@ -1,5 +1,3 @@
-###DEC-045027-0-000-04-12-1958@@@
-
 DECRETO Nº 45.027, DE 4 DE DEZEMBRO DE 1958.
 
 Outorga à Centrais Elétricas de Goiás S.A., Estado de Goiás, concessão para distribuir energia elétrica.

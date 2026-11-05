@@ -1,5 +1,3 @@
-###DEC-047048-0-000-19-10-1959@@@
-
 DECRETO Nº 47.048, DE 19 DE OUTUBRO DE 1959.
 
 Transfere função de Tabela Numérica Especial de Extranumerário-mensalista da Base Aérea do Recife para a da Diretoria de Aeronáutica Civil.

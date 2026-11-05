@@ -1,5 +1,3 @@
-###MPV-000590-0-000-29-11-2012-PUB-02@@@
-
 MEDIDA PROVISÓRIA N° 590, DE 29 DE NOVEMBRO DE 2012
 
 Altera a Lei n° 10.836, de 9 de janeiro de 2004, para ampliar a idade limite de crianças e adolescentes que compõem as unidades familiares beneficiárias do Programa Bolsa Família elegíveis ao recebimento do Benefício para Superação da Extrema Pobreza, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004391-0-000-26-09-2002@@@
-
 DECRETO Nº 4.391, DE 26 DE SETEMBRO DE 2002
 
 Dispõe sobre arrendamento de áreas e instalações portuárias de que trata a Lei nº 8.630, de 25 de fevereiro de 1993, cria o Programa Nacional de Arrendamento de Áreas e Instalações Portuárias, estabelece a competência para a realização dos certames licitatórios e a celebração dos contratos de arrendamento respectivos no âmbito do porto organizado, e dá outras providências.

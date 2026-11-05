@@ -1,5 +1,3 @@
-###DEC-050260-A-000-30-01-1961@@@
-
 DECRETO Nº 50.260-A, DE 30 DE JANEIRO DE 1961.
 
 Autoriza a Produtora e Distribuidora de Energia Elétrica de Guarapari S.A. a hipotecar bens.

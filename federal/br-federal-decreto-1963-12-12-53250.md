@@ -1,5 +1,3 @@
-###DEC-053250-0-000-12-12-1963@@@
-
 DECRETO Nº 53.250, DE 12 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a administração de imóvel que especifica, e dá outras providências.

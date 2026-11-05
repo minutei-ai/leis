@@ -1,5 +1,3 @@
-###DEC-096885-0-000-30-09-1988@@@
-
 DECRETO N° 96.885 DE 30 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO FM VOLUNTÁRIOS DA PÁTRIA LTDA., para explorar serviços de radiodifusão sonora em onda média, na Cidade de Ouricuri, Estado de Pernambuco.

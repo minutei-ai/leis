@@ -1,5 +1,3 @@
-###DEC-083248-0-000-07-03-1979@@@
-
 DECRETO Nº 83.248, DE 07 DE MARÇO DE 1979
 
 Declara a caducidade da autorização de lavra que menciona.

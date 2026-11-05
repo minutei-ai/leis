@@ -1,5 +1,3 @@
-###DEC-048287-0-000-11-06-1960@@@
-
 DECRETO Nº 48.287, DE 11 DE JUNHO DE 1960.
 
 Institui a “Semana da Agricultura” e da outras providências.

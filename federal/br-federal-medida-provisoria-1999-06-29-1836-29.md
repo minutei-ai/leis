@@ -1,5 +1,3 @@
-###MPV-001836-0-029-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.836-29, DE 29 DE JUNHO DE 1999.
 
 Estabelece multa em operações de importação e dá outras providências.

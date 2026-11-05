@@ -1,5 +1,3 @@
-###DEC-070928-0-000-03-08-1972@@@
-
 DECRETO Nº 70.928, DE 3 DE AGOSTO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinada à construção de uma subestação no município de Valinhos, no Estado de São Paulo.

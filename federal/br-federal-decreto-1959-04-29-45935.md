@@ -1,5 +1,3 @@
-###DEC-045935-0-000-29-04-1959@@@
-
 decreto nº 45.935, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro José dos Santos Querido a pesquisar minério de ouro e diamante, no município de itupiranga, Estado do Pará.

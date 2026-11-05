@@ -1,5 +1,3 @@
-###DEC-064859-0-000-23-07-1969@@@
-
 DECRETO Nº 64.859 - DE 23 DE JULHO DE 1969.
 
 Inclui na parte especial do Quadro de pessoal da Superintendência do Desenvolvimento da Pesca (SUDEPE), cargos de professôres de ensino elementar, com os respectivos ocupantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064911-0-000-29-07-1969@@@
-
 decreto nº 64.911 - de 29 de julho de 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários dos extintos Companhia Nacional de Navegação Costeira - Autarquia Federal, Lloyd Brasileiro - Patrimônio Nacional e Serviço de Navegação da Bacia do Prata e dá outras providências.

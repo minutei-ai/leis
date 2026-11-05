@@ -1,5 +1,3 @@
-###DEL-000162-0-000-13-02-1967@@@
-
 DECRETO-LEI Nº 162, DE 13 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a exploração dos serviços de telecomunicações.

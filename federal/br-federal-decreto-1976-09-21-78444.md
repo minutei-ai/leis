@@ -1,5 +1,3 @@
-###DEC-078444-0-000-21-09-1976@@@
-
 DECRETO Nº 78.444, DE 21 DE SETEMBRO DE 1976.
 
 Retifica a concessão de lavra outorgada ao Governo do Estado de Sergipe pelo Decreto nº 49.751, de 31 de dezembro de 1960, retificado pelo Decreto nº 72.254, de 11 de maio de 1973.

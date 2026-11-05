@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=11900)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1994/compilacao-lei.complementar-790-29.12.1994.html)
 
 # LEI COMPLEMENTAR Nº 790, DE 29 DE DEZEMBRO DE 1994
@@ -7,28 +6,50 @@
 
 ### _Altera a Lei Complementar n. 567, de 20 de julho de 1988,e dá outras providências correlatas._
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar.<br>
-**Artigo 1° -** Passam a vigorar com a seguinte redação os dispositivos adiante enumerados da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426).<br>
-**I -** o § 1º do artigo 12:<br>
-"§ 1° - O disposto neste artigo não se aplica ao Agente Fiscal de Rendas que preste serviços nas unidades fiscais a que se refere o "caput" do artigo 17 ou esteja enquadrado no regime de quilometragem para ajuda de custo no transporte.",<br>
-**II -** o "caput" do artigo 13:<br>
-"Artigo 13 - O Agente Fiscal de Rendas perceberá, enquanto prestar serviços nas unidades fiscais a que se refere o "caput" do artigo 17, verba indenizatória mensal correspondente a 25% (vinte e cinco por cento) do valor da parte fixa da remuneração do Nível I.";<br>
-**III -** o artigo 15:<br>
-"Artigo 15 - O provimento do cargo de Agente Fiscal de Rendas será precedido de concurso público de habilitação, de provas ou de provas e títulos, na forma das condições que forem estabelecidas em edital pelo órgão competente, observados os seguintes requisitos:<br>
-I - ter o candidato concluído curso de nível superior reconhecido oficialmente em uma das seguintes áreas:<br>
-a) Ciências Jurídicas e Sociais ou Direito;<br>
-b) Ciências Econômicas;<br>
-c) Ciências Contábeis e Atuariais;<br>
-d) Administração Pública ou de Empresas;<br>
-e) Engenharia,<br>
-f) Ciência da Computação ou Processamento de Dados;<br>
-g) outras, a critério do Secretário da Fazenda;<br>
-II - estar em dia com as obrigações militares;<br>
-III - gozar de sanidade física e mental;<br>
-IV - estar no gozo dos direitos políticos;<br>
-V - não possuir antecedentes criminais ou civis incompatíveis com o ingresso na carreira;<br>
-VI - ter boa conduta, inclusive social; e<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar.
+
+**Artigo 1° -** Passam a vigorar com a seguinte redação os dispositivos adiante enumerados da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426).
+
+**I -** o § 1º do artigo 12:
+
+"§ 1° - O disposto neste artigo não se aplica ao Agente Fiscal de Rendas que preste serviços nas unidades fiscais a que se refere o "caput" do artigo 17 ou esteja enquadrado no regime de quilometragem para ajuda de custo no transporte.",
+
+**II -** o "caput" do artigo 13:
+
+"Artigo 13 - O Agente Fiscal de Rendas perceberá, enquanto prestar serviços nas unidades fiscais a que se refere o "caput" do artigo 17, verba indenizatória mensal correspondente a 25% (vinte e cinco por cento) do valor da parte fixa da remuneração do Nível I.";
+
+**III -** o artigo 15:
+
+"Artigo 15 - O provimento do cargo de Agente Fiscal de Rendas será precedido de concurso público de habilitação, de provas ou de provas e títulos, na forma das condições que forem estabelecidas em edital pelo órgão competente, observados os seguintes requisitos:
+
+I - ter o candidato concluído curso de nível superior reconhecido oficialmente em uma das seguintes áreas:
+
+a) Ciências Jurídicas e Sociais ou Direito;
+
+b) Ciências Econômicas;
+
+c) Ciências Contábeis e Atuariais;
+
+d) Administração Pública ou de Empresas;
+
+e) Engenharia,
+
+f) Ciência da Computação ou Processamento de Dados;
+
+g) outras, a critério do Secretário da Fazenda;
+
+II - estar em dia com as obrigações militares;
+
+III - gozar de sanidade física e mental;
+
+IV - estar no gozo dos direitos políticos;
+
+V - não possuir antecedentes criminais ou civis incompatíveis com o ingresso na carreira;
+
+VI - ter boa conduta, inclusive social; e
+
 VII - outros, que vierem a ser fixados no edital de abertura de inscrições.~~
 
 ~~§ 1° - Considerar-se-ão selecionados os candidatos que obtiverem classificação até o número de vagas colocadas em concurso, o qual constará, obrigatoriamente, do respectivo edital.~~
@@ -45,31 +66,40 @@ VII - outros, que vierem a ser fixados no edital de abertura de inscrições.~~
 
 ~~§ 7° - Nas vagas existentes em 16 de agosto de 1990 e seguintes, decorrentes de demissões, exonerações, aposentadorias ou falecimentos, ocupadas ou não por Técnicos Administrativos Tributários, transformados para Agentes Fiscais de Rendas, em virtude de sentenças judiciais, serão obrigatoriamente aproveitados, nos cargos do Padrão Inicial da Classe de Agente Fiscal de Rendas, os candidatos aprovados no último concurso público, para tal fim realizado, que se encontrem amparados por ações judiciais em curso.";~~
 
-~~**IV -** o artigo 17:<br>
+~~**IV -** o artigo 17:
+
 "Artigo 17 - Quando de sua nomeação, o Agente Fiscal de Rendas será enquadrado, obrigatoriamente, no Nível I, mesmo que já tenha tempo de serviço público, e prestará, pelo período mínimo de 2 (dois) anos, serviços em unidade fiscal incumbida de fiscalização de mercadorias em trânsito pelas divisas do Estado e nelas localizada.~~
 
 ~~§ 1° - A critério da Coordenação da Administração Tributária, da Secretaria da Fazenda, em casos excepcionais e atendendo às suas necessidades, parte do período mínimo de 2 (dois) anos, de que trata o "caput" deste artigo, poderá ser cumprida em função prevista no artigo 1°.~~
 
 ~~§ 2° - A aplicação do disposto no parágrafo anterior dependerá de decisão fundamentada do Coordenador da Administração Tributária e deverá respeitar uma lotação mínima que não prejudique a execução dos serviços essenciais da unidade fiscal.".~~
 
-~~**V -** o artigo 19:<br>
+~~**V -** o artigo 19:
+
 "Artigo 19 - Somente poderá ser designado Inspetor Fiscal, o Agente Fiscal de Rendas que tenha exercido função de chefia, assessoramento ou assistência pelo período mínimo de 3 (três) anos.~~
 
 ~~§ 1° - Para ser designado Inspetor Seccional de Fiscalização, Delegado Regional Tributário ou Diretor, exigir-se-á que o Agente Fiscal de Rendas tenha exercido função de Inspetor Fiscal pelo período mínimo de 3 (três) anos, ou de chefia, assessoramento ou assistência pelo período mínimo de 5 (cinco) anos.~~
 
-~~§ 2° - Para os efeitos deste artigo, contar-se-á, também, o tempo de serviço exercido em caráter de substituição nas referidas funções."<br>
+~~§ 2° - Para os efeitos deste artigo, contar-se-á, também, o tempo de serviço exercido em caráter de substituição nas referidas funções."
+
 **VI -** o § 1° do artigo 21:~~
 
-~~"§ 1° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados, anualmente, com a promoção, 20% (vinte por cento) do contingente integrante dos níveis II a V da classe de Agente Fiscal de Rendas, existente na data da abertura do respectivo processo.;<br>
-**VII -** o artigo 24.<br>
-"Artigo 24 - A promoção por merecimento far-se-á mediante a avaliação de cursos e trabalhos relacionados com a fiscalização e a administração tributária, de trabalhos que contribuam para o incremento da arrecadação tributária ou aperfeiçoem os sistemas de fiscalização e controle, bem como de serviço relevantes prestados à classe "<br>
-**Artigo 2° -** A nomeação para o cargo de Agente Fiscal de Rendas far-se-á em caráter de estágio probatório, que se estenderá pelo período de 24 (vinte e quatro) meses de efetivo exercício, durante o qual o servidor terá avaliados seu desempenho, bem como será verificado o preenchimento dos seguintes requisitos:<br>
-**I -** adequação e capacidade para o exercício do cargo; e<br>
+~~"§ 1° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados, anualmente, com a promoção, 20% (vinte por cento) do contingente integrante dos níveis II a V da classe de Agente Fiscal de Rendas, existente na data da abertura do respectivo processo.;
+
+**VII -** o artigo 24.
+
+"Artigo 24 - A promoção por merecimento far-se-á mediante a avaliação de cursos e trabalhos relacionados com a fiscalização e a administração tributária, de trabalhos que contribuam para o incremento da arrecadação tributária ou aperfeiçoem os sistemas de fiscalização e controle, bem como de serviço relevantes prestados à classe "
+
+**Artigo 2° -** A nomeação para o cargo de Agente Fiscal de Rendas far-se-á em caráter de estágio probatório, que se estenderá pelo período de 24 (vinte e quatro) meses de efetivo exercício, durante o qual o servidor terá avaliados seu desempenho, bem como será verificado o preenchimento dos seguintes requisitos:
+
+**I -** adequação e capacidade para o exercício do cargo; e
+
 **II -** compatibilidade da conduta profissional com o exercício do cargo.~~
 
 ~~**§ 1° -** O período de estágio probatório será acompanhado pelo órgão setorial de recursos humanos da Secretaria da Fazenda, em conjunto com as chefias imediatas e mediatas do Agente Fiscal de Rendas, que deverão:~~
 
-~~**1\.** propiciar condições para sua adaptação ao ambiente de trabalho;<br>
+~~**1\.** propiciar condições para sua adaptação ao ambiente de trabalho;
+
 **2\.** orientá-lo, no que couber, no desempenho de suas atribuições, verificando o seu grau de ajustamento ao cargo e a necessidade de ser submetido a programa de treinamento.~~
 
 ~~**§ 2° -** No decorrer do estágio, o Agente Fiscal de Rendas será submetido a avaliações periódicas, destinadas a aferir seu desempenho e realizadas pelo órgão setorial de recursos humanos com base em critérios estabelecidos pela Coordenação da Administração Tributária.~~
@@ -84,36 +114,56 @@ VII - outros, que vierem a ser fixados no edital de abertura de inscrições.~~
 
 ~~**§ 4° -** Os atos de confirmação ou de exoneração do Agente Fiscal de Rendas deverão ser publicados pela autoridade competente até o penúltimo dia do estágio.~~
 
-~~Artigo 4° - Durante o estágio probatório e antes de decorridos os 20 (vinte) meses referidos no artigo anterior, o Agente Fiscal de Rendas poderá ser exonerado no interesse do serviço público, a qualquer momento, nos casos de:<br>
-**I -** inassiduidade;<br>
-**II -** ineficiência;<br>
-**III -** indisciplina;<br>
-**IV -** insubordinação;<br>
-**V -** inaptidão comprovada;<br>
-**VI -** falta de dedicação ao serviço;<br>
-**VII -** falta de responsabilidade;<br>
+~~Artigo 4° - Durante o estágio probatório e antes de decorridos os 20 (vinte) meses referidos no artigo anterior, o Agente Fiscal de Rendas poderá ser exonerado no interesse do serviço público, a qualquer momento, nos casos de:
+
+**I -** inassiduidade;
+
+**II -** ineficiência;
+
+**III -** indisciplina;
+
+**IV -** insubordinação;
+
+**V -** inaptidão comprovada;
+
+**VI -** falta de dedicação ao serviço;
+
+**VII -** falta de responsabilidade;
+
 **VIII -** má conduta.~~
 
 ~~**§ 1° -** Ocorrendo qualquer das hipóteses de que trata este artigo, a chefia imediata do Agente Fiscal de Rendas deverá representar ao órgão setorial de recursos humanos, que cientificará o servidor, para apresentação de defesa, no prazo de 5 (cinco) dias.~~
 
 ~~**§ 2° -** Confirmada a imputação de que trata o parágrafo anterior, os procedimentos do processo para exoneração deverão ser obrigatoriamente ultimados no prazo de 30 (trinta) dias.~~
 
-~~Artigo 5° - O Agente Fiscal de Rendas confirmado no cargo será promovido para o Nível II, independentemente de qualquer outra condição, a partir do primeiro dia após a conclusão do estágio probatório.<br>
-**Artigo 6° -** Durante o período de estágio probatório, o Agente Fiscal de Rendas não poderá ser afastado do seu cargo, em nenhuma hipótese, inclusive para exercer cargo em comissão.<br>
+~~Artigo 5° - O Agente Fiscal de Rendas confirmado no cargo será promovido para o Nível II, independentemente de qualquer outra condição, a partir do primeiro dia após a conclusão do estágio probatório.
+
+**Artigo 6° -** Durante o período de estágio probatório, o Agente Fiscal de Rendas não poderá ser afastado do seu cargo, em nenhuma hipótese, inclusive para exercer cargo em comissão.
+
 **Artigo 7° -** A partir de 31 de julho de 1994, os atuais Agentes Fiscais de Rendas Nível I ficam enquadrados no Nível II.~~
 
 ~~Parágrafo único - O Secretário da Fazenda baixará normas específicas para o primeiro concurso de promoção por merecimento dos Agentes Fiscais de Rendas enquadrados no Nível II, que se realizar após a publicação desta lei complementar, para que não ocorram distorções em razão do disposto no "caput" deste artigo.~~
 
-~~Artigo 8° - As despesas resultantes desta lei complementar correrão a conta das dotações próprias consignadas no Orçamento-Programa, suplementadas, se necessário.<br>
-**Artigo 9° -** Esta lei complementar entrará em vigor na data de sua publicação, ficando revogado o artigo 18 da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426).<br>
-Palácio dos Bandeirantes, 29 de dezembro de 1994.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-José Fernando da Costa Boucinhas<br>
-Respondendo pelo expediente da Secretaria da Fazenda<br>
-Avanir Duran Galhardo<br>
-Secretário da Administração e Modernização do Serviço Público<br>
-Frederico Pinto Ferreira Coelho Neto<br>
-Secretário do Governo<br>
+~~Artigo 8° - As despesas resultantes desta lei complementar correrão a conta das dotações próprias consignadas no Orçamento-Programa, suplementadas, se necessário.
+
+**Artigo 9° -** Esta lei complementar entrará em vigor na data de sua publicação, ficando revogado o artigo 18 da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426).
+
+Palácio dos Bandeirantes, 29 de dezembro de 1994.
+
+LUIZ ANTONIO FLEURY FILHO
+
+José Fernando da Costa Boucinhas
+
+Respondendo pelo expediente da Secretaria da Fazenda
+
+Avanir Duran Galhardo
+
+Secretário da Administração e Modernização do Serviço Público
+
+Frederico Pinto Ferreira Coelho Neto
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 29 de dezembro de 1994.~~
 
 _\- Revogada pela [Lei Complementar nº 1.059, de 18/09/2008](http://www.al.sp.gov.br/norma?id=137843), produzindo efeitos a partir do primeiro dia do mês subsequente ao de sua publicação._

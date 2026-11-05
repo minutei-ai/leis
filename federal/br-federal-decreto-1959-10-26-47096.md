@@ -1,5 +1,3 @@
-###DEC-047096-0-000-26-10-1959@@@
-
 DECRETO Nº 47.096, de 26 de outubro de 1959.
 
 Concede permissão, em caráter permanente, ao Moinho Água Branca S.A. (Seções de preparação e moagem de trigo) com sede no Estado de São Paulo, Capital, para funcionar aos domingos e nos feriados civis e religiosos.

@@ -4,7 +4,8 @@ Altera-se a lei municipal nº 3.656, de 02 de março de 2022 que estima a receit
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS EXCLUSÕES/INCLUSÕES
 
 Art.1º Ficam excluídas as unidades orçamentárias e seus desmembramentos descritos abaixo, que foram alteradas pela Lei Municipal nº183 de 04 de janeiro de 2021, conforme Anexo I desta Lei;
@@ -25,7 +26,8 @@ Art.2º Ficam incluídas as novas unidades orçamentárias criadas pela Lei Muni
 
 Art.3º Fica incluído o programa 0331 Parcerias Público Privadas e sua ação 1334 Parceria Público Privada – Iluminação Pública dentro da Unidade 0333 – Secretaria da Fazenda e os elementos de despesas dentro das unidades orçamentárias já existentes, conforme Anexo II desta Lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 4° O saldo orçamentário necessário para a criação das unidades, programas e ações constantes nos anexos I e II desta Lei terá como cobertura, os saldos das dotações orçamentárias extintas, as quais deixarão de compor a estrutura organizacional administrativa e orçamentária da Prefeitura de Aparecida de Goiânia, podendo ser utilizado, em caso de necessidade, o saldo da reserva de contingência.
@@ -40,7 +42,8 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, 09 de novembro de 2022.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18908)

@@ -1,5 +1,3 @@
-###MPV-001984-0-014-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.984-14, DE 10 DE Fevereiro DE 2000.
 
 Acresce e altera dispositivos das Leis nos 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, e 9.494, de 10 de setembro de 1997, e dá outras providências.

@@ -1,4 +1,5 @@
-DECRETO Nº 10.373, DE 27 DE DEZEMBRO DE 2023<br>
+DECRETO Nº 10.373, DE 27 DE DEZEMBRO DE 2023
+
 \- [Vide Decreto nº 10.612, de 18-12-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110174) - Altera a estrutura administrativa da SECTI.
 
 Aprova o Regulamento da Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI.
@@ -111,7 +112,8 @@ g) Subsecretaria de Formação de Talentos e Transformação Digital:
 
 2.2. Gerência de Inovação para o Governo; e
 
-~~2.3. Gerência de Fomento à Tecnologia Digital; e~~<br>
+~~2.3. Gerência de Fomento à Tecnologia Digital; e~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, a.
 
 h) Subsecretaria de Inovação e Desenvolvimento Sustentável:
@@ -1230,7 +1232,8 @@ I – Gerência de Apoio às Tecnologias Exponenciais; e
 
 II – Gerência de Inovação para o Governo.
 
-~~III – Gerência de Fomento à Tecnologia Digital.~~<br>
+~~III – Gerência de Fomento à Tecnologia Digital.~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, b.
 
 Subseção I
@@ -1285,80 +1288,104 @@ VII – formular, monitorar e apoiar a criação e o desenvolvimento de polític
 
 VIII – incentivar o uso de dados e evidências como instrumento de tomada de decisão no processo de construção de políticas públicas de inovação e de transformação digital, para o aprimoramento da gestão pública e dos serviços prestados ao cidadão, além de apoiar a priorização de desafios públicos para o HUB GOIÁS atuar;
 
-IX – estimular o desenvolvimento colaborativo de iniciativas de transformação digital entre os entes federal, estadual e municipal;<br>
+IX – estimular o desenvolvimento colaborativo de iniciativas de transformação digital entre os entes federal, estadual e municipal;
+
 \- [Redação dada pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
 ~~IX – encarregar de competências correlatas.~~
 
-X – formular políticas para o desenvolvimento de programas, projetos e ações com foco em transformação digital, cidadania digital e cidades inovadoras;<br>
+X – formular políticas para o desenvolvimento de programas, projetos e ações com foco em transformação digital, cidadania digital e cidades inovadoras;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XI – gerir dados e evidências que permitam apoiar a construção de estratégias de transformação digital para os municípios goianos;<br>
+XI – gerir dados e evidências que permitam apoiar a construção de estratégias de transformação digital para os municípios goianos;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XII – incentivar o uso de tecnologias digitais para a solução de problemas públicos;<br>
+XII – incentivar o uso de tecnologias digitais para a solução de problemas públicos;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XIII – criar ações de inclusão e cidadania digital com campanhas, _workshops_, seminários e outros eventos de conscientização da população sobre os benefícios da internet e das tecnologias digitais para os municípios goianos;<br>
+XIII – criar ações de inclusão e cidadania digital com campanhas, _workshops_, seminários e outros eventos de conscientização da população sobre os benefícios da internet e das tecnologias digitais para os municípios goianos;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XIV – incentivar e ampliar o acesso de todos os cidadãos aos serviços digitais nos municípios pela plataforma de serviços digitais do Estado de Goiás;<br>
+XIV – incentivar e ampliar o acesso de todos os cidadãos aos serviços digitais nos municípios pela plataforma de serviços digitais do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XV – assessorar e promover a integração e a adesão de serviços municipais na plataforma de serviços digitais do Estado de Goiás, em cooperação com a SEAD, com a SGG e com a plataforma federal Rede GOV.BR;<br>
+XV – assessorar e promover a integração e a adesão de serviços municipais na plataforma de serviços digitais do Estado de Goiás, em cooperação com a SEAD, com a SGG e com a plataforma federal Rede GOV.BR;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XVI – formular, implementar e monitorar a criação e o desenvolvimento de políticas públicas de transformação digital voltadas às cidades inovadoras;<br>
+XVI – formular, implementar e monitorar a criação e o desenvolvimento de políticas públicas de transformação digital voltadas às cidades inovadoras;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XVII – disseminar políticas públicas relacionadas à transformação digital e ao desenvolvimento de cidades inovadoras;<br>
+XVII – disseminar políticas públicas relacionadas à transformação digital e ao desenvolvimento de cidades inovadoras;
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XVIII – estabelecer uma jornada de transformação digital para apoiar os municípios com o fornecimento de um pacote de boas práticas, bem como impulsionar e facilitar o progresso tecnológico; e<br>
+XVIII – estabelecer uma jornada de transformação digital para apoiar os municípios com o fornecimento de um pacote de boas práticas, bem como impulsionar e facilitar o progresso tecnológico; e
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
-XIX – encarregar-se de competências correlatas.<br>
+XIX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313).
 
 ~~Subseção III~~
 
-~~Da Gerência de Fomento à Tecnologia Digital~~<br>
+~~Da Gerência de Fomento à Tecnologia Digital~~
+
 \- [Revogada pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~Art. 28. Compete à Gerência de Fomento à Tecnologia Digital:~~<br>
+~~Art. 28. Compete à Gerência de Fomento à Tecnologia Digital:~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~I – estimular o desenvolvimento colaborativo de iniciativas de transformação digital entre os entes federal, estadual e municipal;~~<br>
+~~I – estimular o desenvolvimento colaborativo de iniciativas de transformação digital entre os entes federal, estadual e municipal;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~II – formular políticas para o desenvolvimento de programas, projetos e ações com foco em transformação digital, cidadania digital e cidades inovadoras;~~<br>
+~~II – formular políticas para o desenvolvimento de programas, projetos e ações com foco em transformação digital, cidadania digital e cidades inovadoras;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~III – gerir dados e evidências que permitam apoiar a construção de estratégias de transformação digital para os municípios goianos;~~<br>
+~~III – gerir dados e evidências que permitam apoiar a construção de estratégias de transformação digital para os municípios goianos;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~IV – incentivar o uso de tecnologias digitais para a solução de problemas públicos;~~<br>
+~~IV – incentivar o uso de tecnologias digitais para a solução de problemas públicos;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~V – criar ações de inclusão e cidadania digital com campanhas, _workshops_, seminários e outros eventos de conscientização da população sobre os benefícios da internet e das tecnologias digitais para os municípios goianos;~~<br>
+~~V – criar ações de inclusão e cidadania digital com campanhas, _workshops_, seminários e outros eventos de conscientização da população sobre os benefícios da internet e das tecnologias digitais para os municípios goianos;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~VI – incentivar e ampliar o acesso de todos os cidadãos aos serviços digitais nos municípios pela plataforma de serviços digitais do Estado de Goiás;~~<br>
+~~VI – incentivar e ampliar o acesso de todos os cidadãos aos serviços digitais nos municípios pela plataforma de serviços digitais do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~VII – assessorar e promover a integração e a adesão de serviços municipais na plataforma de serviços digitais do Estado de Goiás, em cooperação com a SEAD, com a SGG e com a plataforma federal Rede GOV.BR;~~<br>
+~~VII – assessorar e promover a integração e a adesão de serviços municipais na plataforma de serviços digitais do Estado de Goiás, em cooperação com a SEAD, com a SGG e com a plataforma federal Rede GOV.BR;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~VIII – formular, implementar e monitorar a criação e o desenvolvimento de políticas públicas de transformação digital voltadas às cidades inovadoras;~~<br>
+~~VIII – formular, implementar e monitorar a criação e o desenvolvimento de políticas públicas de transformação digital voltadas às cidades inovadoras;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~IX – disseminar políticas públicas relacionadas à transformação digital e ao desenvolvimento de cidades inovadoras;~~<br>
+~~IX – disseminar políticas públicas relacionadas à transformação digital e ao desenvolvimento de cidades inovadoras;~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~X – estabelecer uma jornada de transformação digital para apoiar os municípios com o fornecimento de um pacote de boas práticas, bem como impulsionar e facilitar o progresso tecnológico; e~~<br>
+~~X – estabelecer uma jornada de transformação digital para apoiar os municípios com o fornecimento de um pacote de boas práticas, bem como impulsionar e facilitar o progresso tecnológico; e~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
-~~XI – encarregar–se de competências correlatas.~~<br>
+~~XI – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.965, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116313), art. 5º, II, c.
 
 CAPÍTULO VIII

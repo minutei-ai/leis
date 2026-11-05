@@ -1,6 +1,10 @@
 > **LEI Nº 3.250, DE 08 DE MAIO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.993, de 28 de outubro de 2015, que “Dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR dos servidores do Ministério Público do Estado do Acre-MPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.993, de 28 de outubro de 2015, que “Dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR dos servidores do Ministério Público do Estado do Acre-MPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

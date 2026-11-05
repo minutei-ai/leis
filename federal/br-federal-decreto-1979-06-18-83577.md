@@ -1,5 +1,3 @@
-###DEC-083577-0-000-18-06-1979@@@
-
 Decreto nº 83.577, de 18 de junho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Feira de Santana, no Estado da Bahia.

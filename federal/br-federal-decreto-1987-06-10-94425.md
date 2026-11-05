@@ -1,5 +1,3 @@
-###DEC-094425-0-000-10-06-1987@@@
-
 DECRETO Nº 94.425, DE 10 DE JUNHO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados das Faculdades Integradas Colégio Moderno.

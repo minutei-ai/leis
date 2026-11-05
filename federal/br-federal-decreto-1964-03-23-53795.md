@@ -1,5 +1,3 @@
-###DEC-053795-0-000-23-03-1964@@@
-
 DECRETO Nº 53.795, DE 23 DE MARÇO DE 1964.
 
 Outorga à Emprêsa Distribuidora de Energia em Sergipe S.A. concessão para distribuir energia elétrica.

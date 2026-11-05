@@ -1,5 +1,3 @@
-###DEC-051217-0-000-21-08-1961@@@
-
 DECRETO Nº 51.217, DE 21 DE AGÔSTO DE 1961.
 
 Institui, junto ao Ministério da Fazenda, a Comissão Especial dos Acôrdos sôbre Produtos Agrícolas (CEAPA).

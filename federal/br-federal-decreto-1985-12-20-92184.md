@@ -1,5 +1,3 @@
-###DEC-092184-0-000-20-12-1985@@@
-
 Decreto nº 92.184, de 20 de dezembro DE 1985
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Araxá.

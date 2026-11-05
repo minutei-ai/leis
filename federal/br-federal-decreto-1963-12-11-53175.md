@@ -1,5 +1,3 @@
-###DEC-053175-0-000-11-12-1963@@@
-
 DECRETO Nº 53.175, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a emprêsa de mineração Lavras Santo Amaro Ltda., a pesquisar argila no município de Mogi das Cruzes, Estado de São Paulo.

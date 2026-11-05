@@ -1,5 +1,3 @@
-###DEC-050524-0-000-03-05-1961@@@
-
 DECRETO Nº 50.524, DE 03 DE MAIO DE 1961.
 
 Regulamenta a concessão de diárias aos servidores do Serviço Civil do Poder Executivo, e dá outras providências.

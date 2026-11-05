@@ -1,6 +1,7 @@
 LEI COMPLEMENTAR Nº 42 DE 09 DE JULHO DE 2015
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [16.405](javascript: openDoc\() de 11 de novembro de 2015 - Dispõe sobre a execução da Lei Complementar nº 42, de 09 de julho de 2015, que trata da utilização de parcela de depósitos judiciais e extrajudiciais para pagamento de precatórios e de requisições judiciais de pequeno valor e para capitalização do Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia FUNPREV.
 
 Dispõe sobre a utilização de parcela de depósitos judiciais e extrajudiciais para pagamento de precatórios e de requisições judiciais de pequeno valor e para capitalização do Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia - FUNPREV.
@@ -55,15 +56,16 @@ Art. 9º - Revogam-se as disposições em contrário, em especial a Lei nº [9.2
 
 Art. 10º - Esta Lei Complementar entra em vigor na data da sua publicação.
 
-PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 2015.<br>
-<br>
-<br>
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 2015.
 
-RUI COSTA<br>
+RUI COSTA
+
 Governador 
 
-Bruno Dauster<br>
-Secretário da Casa Civil<br>
+Bruno Dauster
+
+Secretário da Casa Civil
+
 Manoel Vitório da Silva Filho
 
 Secretário da Fazenda

@@ -1,5 +1,3 @@
-###DEL-005487-0-000-14-05-1943@@@
-
 DECRETO‑LEI N. 5.487 – DE 14 DE MAIO DE 1943
 
 Prorroga o mandato dos atuais membros do Conselho Fiscal do Instituto de Aposentadoria e Pensões dos Comerciários

@@ -1,5 +1,3 @@
-###DEC-069679-0-000-03-12-1971@@@
-
 Decreto nº 69.679 - de 3 de dezembro de 1971
 
 Autoriza a permuta dos terrenos que menciona, situados em Brasília, no Distrito Federal.

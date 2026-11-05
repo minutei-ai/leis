@@ -1,5 +1,3 @@
-###DEC-003957-0-000-08-10-2001@@@
-
 DECRETO Nº 3.957, DE 8 DE OUTUBRO DE 2001
 
 Altera os Anexos I, III, IV, V e VII do Decreto nº 3.746, de 6 de fevereiro de 2001, e dá outras providências.

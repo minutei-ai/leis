@@ -1,7 +1,3 @@
-1
-
-###DEC-098183-0-000-26-09-1989@@@
-
 DECRETO Nº 98.183, DE 26 DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da Estação de Rádio SHF Itupeva, da ELETROPAULO Eletricidade de São Paulo S.A. no Estado de São Paulo.

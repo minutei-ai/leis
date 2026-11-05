@@ -16,8 +16,14 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES</b></td></tr><tr><td style="width: 12%; height: 19px; text-align: center;"><b>ESPECIFICAÇÃO</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>AÇÃO</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>FONTE</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>MODALIDADE</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>GRUPO</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>SALDO ORÇAMENTÁRIO</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>VALOR A SUPLEMENTAR</b></td><td style="width: 12%; height: 19px; text-align: center;"><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style="width: 12%; text-align: center;">14 421 1007 2373</td><td style="width: 12%; text-align: center;">27490223</td><td style="width: 12%; text-align: center;">90</td><td style="width: 12%; text-align: center;">3 - OUTRAS DESPESAS CORRENTES</td><td style="width: 12%; text-align: center;">R$ 0,00</td><td style="width: 12%; text-align: center;">R$ 351.024,17</td><td style="width: 12%; text-align: center;">R$ 351.024,17</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td>14 421 1007 2373</td><td>27490223</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 351.024,17</td><td>R$ 351.024,17</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">27490223 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CORRENTES - EXERCÍCIOS ANTERIORES</td><td style="width: 50%; height: 19px; text-align: center;">R$ 351.024,17</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 50%; text-align: center;">R$ 351.024,17</td></tr></tbody></table>
+27490223 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CORRENTES - EXERCÍCIOS ANTERIORES
+
+R$ 351.024,17
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 351.024,17

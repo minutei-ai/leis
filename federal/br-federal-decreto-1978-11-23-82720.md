@@ -1,5 +1,3 @@
-###DEC-082720-0-000-23-11-1978@@@
-
 Decreto nº 82.720, de 23 de noveMbro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município do Recife, Estado de Pernambuco.

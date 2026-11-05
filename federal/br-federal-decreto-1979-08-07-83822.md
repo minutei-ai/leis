@@ -1,5 +1,3 @@
-###DEC-083822-0-000-07-08-1979@@@
-
 DECRETO Nº 83.822, de 07 de agosto de 1979.
 
 Altera a subordinação de Organizações Militares no Ministério do Exército.

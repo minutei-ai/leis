@@ -1,6 +1,7 @@
 LEI Nº 5.016 DE 13 DE JUNHO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.091](https://www.legislabahia.ba.gov.br/documentos/lei-no-14091-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro, de 2011, os limites dos municípios de Candeias, Itaparica, Madre de Deus, Salinas da Margarida, Simões Filho e Vera Cruz.
 
 Cria o Município de Madre de Deus, desmembrado do Município de Salvador.

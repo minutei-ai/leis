@@ -1,5 +1,3 @@
-###DEC-007755-0-000-14-06-2012-PUB-01@@@
-
 DECRETO N° 7.755, DE 14 DE JUNHO DE 2012
 
 Cria a Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV, especifica o seu capital social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082350-0-000-02-10-1978@@@
-
 DECRETO Nº 82 350, DE 02 DE OUTUBRO DE 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operações externas.
@@ -21,8 +19,6 @@ ernesto geisel
 Mário Henrique Simonsen
 
 João Paulo dos Reis Velloso
-
-###DEC-082350-0-000-02-10-1978@@@RET01+++
 
 Decreto nº 82.350, DE 2 DE OUTUBRO DE 1978
 

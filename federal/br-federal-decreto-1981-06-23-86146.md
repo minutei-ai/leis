@@ -1,5 +1,3 @@
-###DEC-086146-0-000-23-06-1981@@@
-
 Decreto nº 86.146, de 23 de junho de 1981.
 
 Dispõe sobre a criação do Programa Nacional para Aproveitamento de várzeas Irrigáveis - PROVÁRZEAS NACIONAL.

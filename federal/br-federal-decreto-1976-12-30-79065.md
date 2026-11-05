@@ -1,5 +1,3 @@
-###DEC-079065-0-000-30-12-1976@@@
-
 DECRETO Nº 79.065, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Matemática, de Física, de Química e de Química Industrial, da Fundação Universidade do Maranhão, com sede na cidade de São Luís, Estado do Maranhão.

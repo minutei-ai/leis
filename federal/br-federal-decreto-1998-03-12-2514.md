@@ -1,5 +1,3 @@
-###DEC-002514-0-000-12-03-1998@@@
-
 DECRETO Nº 2.514, DE 12 DE MARÇO DE 1998
 
 Promulga o Acordo sobre o Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Dominicana, em São Domingos, em 18 de maio de 1995.
@@ -82,4 +80,28 @@ Artigo IV
 
 Feita em São Domingos, aos dezoito dias do mês de maio de 1995, em dois exemplares originais, em português e em espanhol, sendo ambos os textos igualmente autênticos.  
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Paulo G. Vilas-Bôas Castro</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador Extraordinário</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">e Plenipotenciário</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Dominicana</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carlos A. Morales Troncoso</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Secretário de Estado das</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo governo da República
+
+Federativa do Brasil
+
+Paulo G. Vilas-Bôas Castro
+
+Embaixador Extraordinário
+
+e Plenipotenciário
+
+</td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República
+
+Dominicana
+
+Carlos A. Morales Troncoso
+
+Secretário de Estado das
+
+Relações Exteriores
+
+</td></tr></tbody></table>

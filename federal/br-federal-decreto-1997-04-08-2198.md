@@ -1,5 +1,3 @@
-###DEC-002198-0-000-08-04-1997@@@
-
 DECRETO Nº 2.198, DE 8 DE ABRIL DE 1997
 
 Aprova o Regulamento de Serviços Público-Restritos

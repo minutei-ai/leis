@@ -1,5 +1,3 @@
-###DEC-075585-0-000-09-04-1975@@@
-
 Decreto nº 75.585, de 9 de abril de 1975.
 
 Dispõe sobre o mandato dos atuais membros do Conselho Curador da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.

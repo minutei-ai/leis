@@ -1,5 +1,3 @@
-###DEC-006700-0-000-17-12-2008@@@
-
 DECRETO Nº 6.700, DE 17 DE DEZEMBRO DE 2008.
 
 Promulga o do Acordo de Cooperação no Domínio do Turismo entre a República Federativa do Brasil e a República Portuguesa, firmado em Salvador, em 29 de outubro de 2005.

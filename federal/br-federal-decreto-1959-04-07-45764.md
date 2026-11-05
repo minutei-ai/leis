@@ -1,5 +1,3 @@
-###DEC-045764-0-000-07-04-1959@@@
-
 DECRETO Nº 45.764, DE 7 DE ABRIL DE 1959.
 
 Declara públicas, de uso comum, do domínio do Estado do Maranhão, as águas do rio, “Una”.

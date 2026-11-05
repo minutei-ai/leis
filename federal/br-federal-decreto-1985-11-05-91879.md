@@ -1,5 +1,3 @@
-###DEC-091879-0-000-05-11-1985@@@
-
 Decreto nº 91.879, de 05 de novembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Ramos, da LlGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

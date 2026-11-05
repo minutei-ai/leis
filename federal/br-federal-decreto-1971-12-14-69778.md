@@ -1,5 +1,3 @@
-###DEC-069778-0-000-14-12-1971@@@
-
 DECRETO Nº 69.778 - DE 14 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública a Associação Espírita Cairbar Schutel, com sede em Duque de Caxias, Estado do Rio de Janeiro.

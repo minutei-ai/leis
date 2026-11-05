@@ -1,5 +1,3 @@
-###DEC-081879-0-000-04-07-1978@@@
-
 Decreto nº 81 879, de 04 de julho de 1978
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Vila Ventura, da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

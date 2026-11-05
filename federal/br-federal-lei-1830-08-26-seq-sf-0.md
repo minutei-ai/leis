@@ -1,5 +1,3 @@
-###LEI-000000-0-000-26-08-1830@@@
-
 LEI - DE 26 DE AGOSTO DE 1830
 
 Concede favores aos Estudantes brazileiros que regressarem da Universidade de Coimbra e escolas de França até a data da sua publicação.

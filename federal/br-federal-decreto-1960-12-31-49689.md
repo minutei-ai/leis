@@ -1,5 +1,3 @@
-###DEC-049689-0-000-31-12-1960@@@
-
 DECRETO Nº 49.689, DE 31 DE Dezembro DE 1960.
 
 Outorga à Prefeitura Municipal de Dionisio Cerqueira, Estado de Santa Catarina, concessão para distribuir energia elétrica.

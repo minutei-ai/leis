@@ -1,5 +1,3 @@
-###DEL-009055-0-000-12-03-1946@@@
-
 DECRETO-LEI N. 9.055 – DE 12 DE MARÇO DE 1946
 
 Fixa a divisão administrativa e judiciária do Território Federal de Ponta Porã.

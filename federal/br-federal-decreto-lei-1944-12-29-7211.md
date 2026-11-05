@@ -1,5 +1,3 @@
-###DEL-007211-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.211 – DE 29 DEZEMBRO DE 1944
 
 Dispõe sôbre a idade para o exercício de atividades na mineração do carvão, durante o estado de guerra

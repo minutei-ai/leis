@@ -1,5 +1,3 @@
-###DEC-049419-0-000-03-12-1960@@@
-
 DECRETO N. 49.419 – DE 3 DE DEZEMBRO DE 1960
 
 Autoriza a firma Brasilia Quartzo Ltda. a comprar pedras preciosas.

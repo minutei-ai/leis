@@ -1,5 +1,3 @@
-###DEC-005811-0-000-21-06-2006@@@
-
 DECRETO Nº 5.811, DE 21 DE JUNHO DE 2006.
 
 Dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Economia Solidária - CNES.

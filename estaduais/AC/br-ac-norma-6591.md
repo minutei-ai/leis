@@ -1,6 +1,10 @@
 > **LEI Nº 4.658, DE 30 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.515, de 29 de agosto de 2019, que institui o Conselho Estadual de Segurança Pública e Defesa Social - CONESPDS, para dispor sobre as competências e a composição do Colegiado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.515, de 29 de agosto de 2019, que institui o Conselho Estadual de Segurança Pública e Defesa Social - CONESPDS, para dispor sobre as competências e a composição do Colegiado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

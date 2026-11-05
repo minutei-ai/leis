@@ -92,7 +92,8 @@ IV – projetos cujos empreendedores não possuam regularidade fiscal junto a Pr
 
 Art. 11 Fica vedada à concessão de qualquer incentivo fiscal a atividade cultural que não venham a cumprir o disposto nesta Lei.
 
-~~Art. 12 Fica criado o Fundo Municipal de Cultura – FMC, vinculado à Secretaria Municipal de Cultura, com a finalidade de incentivar a cultura no Município de Aparecida de Goiânia, tendo como gestor o Secretário Municipal de Cultura.~~<br>
+~~Art. 12 Fica criado o Fundo Municipal de Cultura – FMC, vinculado à Secretaria Municipal de Cultura, com a finalidade de incentivar a cultura no Município de Aparecida de Goiânia, tendo como gestor o Secretário Municipal de Cultura.~~
+
 (Revogado pela Lei Ordinária nº 3.669, de 19 de maio de 2022).
 
 ~~Art. 13 Serão levados a crédito do FMC, os seguintes recursos:~~
@@ -113,7 +114,8 @@ Art. 11 Fica vedada à concessão de qualquer incentivo fiscal a atividade cultu
 
 ~~VIII – valores recebidos a titulo de locação das propriedades públicas municipais, quando destinadas a eventos culturais.~~
 
-~~IX - outras rendas eventuais.<br>
+~~IX - outras rendas eventuais.
+
 ~~(Revogado pela Lei Ordinária nº 3.669, de 19 de maio de 2022).
 
 ~~Art. 14 As disponibilidades do FMC, serão aplicadas em projetos que visem a fomentar e estimular a produção artístico-cultural no Município, e deverão se enquadrar entre as seguintes áreas:~~
@@ -136,13 +138,16 @@ Art. 11 Fica vedada à concessão de qualquer incentivo fiscal a atividade cultu
 
 ~~IX - realização de cursos de caráter cultural ou artístico destinados à formação, especialização e aperfeiçoamento de pessoal na área de cultura em estabelecimentos de ensino sem fins lucrativos.~~
 
-~~Parágrafo único. É vedada a aplicação de recursos do FMC em projetos originários dos poderes públicos em nível municipal, estadual ou federal.<br>
+~~Parágrafo único. É vedada a aplicação de recursos do FMC em projetos originários dos poderes públicos em nível municipal, estadual ou federal.
+
 ~~(Revogado pela Lei Ordinária nº 3.669, de 19 de maio de 2022).
 
-~~Art. 15 As despesas do fundo serão suportadas pelo orçamento da Secretaria Municipal de Cultura, até que sejam criados elementos de despesa para o fundo no orçamento municipal.<br>
+~~Art. 15 As despesas do fundo serão suportadas pelo orçamento da Secretaria Municipal de Cultura, até que sejam criados elementos de despesa para o fundo no orçamento municipal.
+
 ~~(Revogado pela Lei Ordinária nº 3.669, de 19 de maio de 2022).
 
-~~Art. 16 Os recursos do Fundo Municipal de Cultura serão obrigatoriamente movimentados em conta especifica a ser aberta pela Secretaria Municipal de Fazenda.<br>
+~~Art. 16 Os recursos do Fundo Municipal de Cultura serão obrigatoriamente movimentados em conta especifica a ser aberta pela Secretaria Municipal de Fazenda.
+
 ~~(Revogado pela Lei Ordinária nº 3.669, de 19 de maio de 2022).
 
 Art. 17 Caberá ao Chefe do Executivo Municipal a regulamentação desta Lei.
@@ -153,5 +158,6 @@ Art. 19 Revogam-se as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 19 de Maio de 2011.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL

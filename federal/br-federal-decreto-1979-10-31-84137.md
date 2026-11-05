@@ -1,5 +1,3 @@
-###DEC-084137-0-000-31-10-1979@@@
-
 DECRETO Nº 84.137, de 31 de outubro de 1979.
 
 Altera dispositivos do Regulamento do Estado-Maior do Exército (R-173), aprovado pelo Decreto nº 82.952, de 27 de dezembro de 1978.

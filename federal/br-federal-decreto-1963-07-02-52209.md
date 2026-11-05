@@ -1,5 +1,3 @@
-###DEC-052209-0-000-02-07-1963@@@
-
 DECRETO Nº 52.209, DE 2 DE JULHO DE 1963.
 
 Altera o Decreto nº 41.475, de 8 de maio de 1957.

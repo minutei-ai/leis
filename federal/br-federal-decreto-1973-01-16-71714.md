@@ -1,5 +1,3 @@
-###DEC-071714-0-000-16-01-1973@@@
-
 DECRETO Nº 71.714, DE 16 DE JANEIRO DE 1973.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas referentes ao ano de 1972.

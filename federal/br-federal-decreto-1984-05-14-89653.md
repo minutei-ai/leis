@@ -1,5 +1,3 @@
-###DEC-089653-0-000-14-05-1984@@@
-
 DECRETO Nº 89.653, DE 14 DE MAIO DE 1984
 
 Autoriza o funcionamento do curso de Engenharia, da Escola de Engenharia de Vassouras, Rio de Janeiro.

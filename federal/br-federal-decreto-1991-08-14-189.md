@@ -1,5 +1,3 @@
-###DEC-000189-0-000-14-08-1991@@@
-
 DECRETO Nº 189 DE 14 DE AGOSTO DE 1991
 
 Dispõe sobre a alíquota do IOF incidente sobre o valor de resgate dos Depósitos Especiais Remunerados.

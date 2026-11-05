@@ -1,5 +1,3 @@
-###DEC-075531-0-000-25-03-1975@@@
-
 decreto nº 75.531, de 25 de março de 1975.
 
 Autoriza o funcionamento do curso de Ciência da Faculdade de Ciências e Tecnologia Santa Cecília, mantida pelo Instituto Superior de Educação Santa Cecília, com sede na Cidade de Santos, Estado de São Paulo.

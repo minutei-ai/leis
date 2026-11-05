@@ -1,5 +1,3 @@
-###DEC-072590-0-000-10-08-1973@@@
-
 DECRETO Nº 72.590, DE 10 DE AGOSTO DE 1973.
 
 Aprova o Regulamento da Diretoria de Patrimônio, do Departamento de Engenharia e Comunicações do Ministério do Exército, e dá outras providências.

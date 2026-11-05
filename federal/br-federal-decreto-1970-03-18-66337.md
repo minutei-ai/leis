@@ -1,5 +1,3 @@
-###DEC-066337-0-000-18-03-1970@@@
-
 DECRETO Nº 66.337 - DE 18 DE MARÇO DE 1970
 
 Autoriza o funcionamento da Faculdade de Direito da Fundação Universitária de Conselheiro Lafaiete.

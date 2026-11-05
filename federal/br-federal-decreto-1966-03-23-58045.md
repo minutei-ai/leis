@@ -1,5 +1,3 @@
-###DEC-058045-0-000-23-03-1966@@@
-
 DECRETO Nº 58.045, DE 23 DE MARÇO DE 1966.
 
 Autoriza a Siderúrgica Barra Mansa S.A. a pesquisar minério de ferro no município de Ouro Preto, no Estado de Minas Gerais.

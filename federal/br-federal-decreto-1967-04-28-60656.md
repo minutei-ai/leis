@@ -1,5 +1,3 @@
-###DEC-060656-0-000-28-04-1967@@@
-
 DECRETO Nº 60.656, DE 28 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Fundação Educacional Governador Newton Bello”, com sede em Colinas - Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-049790-0-000-31-12-1960@@@
-
 DECRETO Nº 49.790, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Frederico de Souza Martins a pesquisar ouro e cassiterita no município de Rezende Costa, Estado de Minas Gerais.

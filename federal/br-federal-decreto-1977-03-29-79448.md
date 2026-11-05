@@ -1,5 +1,3 @@
-###DEC-079448-0-000-29-03-1977@@@
-
 DECRETO Nº 79.448, DE 29 DE MARÇO DE 1977.
 
 Concede à Cia. de Indústrias Gerais, Obras e Terras - INDUBRAS o direito de lavrar calcário dolomítico no município de Bagé, Estado do Rio Grande do Sul.

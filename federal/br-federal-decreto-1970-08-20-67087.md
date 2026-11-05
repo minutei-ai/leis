@@ -1,5 +1,3 @@
-###DEC-067087-0-000-20-08-1970@@@
-
 DECRETO Nº 67.087, DE 20 DE AGÔSTO DE 1970.
 
 Declara de utilidade pública a Sociedade Pernambucana de Combate ao Câncer, com sede em Recife, Estado de Pernambuco.

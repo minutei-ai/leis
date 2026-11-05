@@ -1,5 +1,3 @@
-###DEC-048892-0-000-26-08-1960@@@
-
 Decreto nº 48.892, de 26 de agôsto de 1960.
 
 Concede à sociedade “CINAL” - Comércio, Indústria e Navegação Amapá Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

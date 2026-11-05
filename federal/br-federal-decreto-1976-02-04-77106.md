@@ -1,5 +1,3 @@
-###DEC-077106-0-000-04-02-1976@@@
-
 Decreto nº 77.106, de 4 de fevereiro de 1976.
 
 Dispõe sobre a Embaixada do Brasil na República Gabonesa.

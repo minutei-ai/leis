@@ -1,5 +1,3 @@
-###DEC-045536-0-000-05-03-1959@@@
-
 DECRETO Nº45.536, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Pedro Ximenes Fernandes a pesquisar mica no município de Resplendor, Estado de Minas Gerais.

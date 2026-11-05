@@ -1,5 +1,3 @@
-###DEC-079245-0-000-10-02-1977@@@
-
 DECRETO N.º 79.245, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Educação, Ciências e Letras Dom Domênico, mantida pela Sociedade Amparo aos Praianos do Guarujá, com sede na cidade de Guarujá, Estado de São Paulo.

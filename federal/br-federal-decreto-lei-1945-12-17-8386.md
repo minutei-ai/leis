@@ -1,5 +1,3 @@
-###DEL-008386-0-000-17-12-1945@@@
-
 (\*) DECRETO-LEI N. 8.386 – DE 17 DE DEZEMBRO DE 1945
 
 Altera a carreira de Contínuo do Quadro Suplementar do Ministério da Agricultura.

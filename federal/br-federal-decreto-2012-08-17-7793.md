@@ -1,5 +1,3 @@
-###DEC-007793-0-000-17-08-2012-PUB-01@@@
-
 DECRETO Nº 7.793, DE 17 DE AGOSTO DE 2012
 
 Dispõe sobre a contratação de serviços de agentes financeiros pelos órgãos e entidades do Poder Executivo.

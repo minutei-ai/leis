@@ -1,5 +1,3 @@
-###DEL-003266-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.266 – DE 12 DE MAIO DE 1941
 
 Institue a colonização mediante a organização de “Granjas Modelo”, em terras pertencentes à União, e funda um núcleo colonial

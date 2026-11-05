@@ -1,5 +1,3 @@
-###DEC-053280-0-000-16-12-1963@@@
-
 DECRETO Nº 53.280, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Walter Hermann Windliu a pesquisar argila no município de Jundiaí, Estado de São Paulo.

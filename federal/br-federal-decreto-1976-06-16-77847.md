@@ -1,5 +1,3 @@
-###DEC-077847-0-000-16-06-1976@@@
-
 DECRETO Nº 77.847, DE 16 DE JUNHO DE 1976.
 
 Declara de utilidade pública, interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale de São Francisco - CODEVASF, áreas de terras localizadas nos Estados de Pernambuco e da Bahia, necessárias a implantação do Projeto de Irrigação Massangano.

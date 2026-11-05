@@ -1,5 +1,3 @@
-###DEC-050743-0-000-08-06-1961@@@
-
 DECRETO Nº 50.743, DE 8 DE JUNHO DE 1961.
 
 Torna sem efeito o Decreto nº 50.227, de 28 de janeiro de 1961.

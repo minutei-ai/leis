@@ -1,7 +1,3 @@
-1
-
-###MPV-000903-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA N° 903, DE 16 DE FEVEREIRO DE 1995
 
 Dispõe sobre alteração do Decreto-Lei n° 1.804, de 3 de setembro de 1980.

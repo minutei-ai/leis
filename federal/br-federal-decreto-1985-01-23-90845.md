@@ -1,5 +1,3 @@
-###DEC-090845-0-000-23-01-1985@@@
-
 DECRETO Nº 90.845, dE 23 dE janeiro de 1985
 
 Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República do Equador.
@@ -132,4 +130,20 @@ ARTIGO XI
 
 Feito em Brasília, aos 9 dias do mês de fevereiro de 1982, em dois exemplares originais, nos Idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO EQUADOR:</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Luis Valencia Rodriguez)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO EQUADOR:
+
+</td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Luis Valencia Rodriguez)
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-073044-0-000-30-10-1973@@@
-
 DECRETO Nº 73.044, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Poços de Caldas Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Poços de Caldas, Estado de Minas Gerais.

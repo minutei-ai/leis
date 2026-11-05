@@ -1,5 +1,3 @@
-###DEC-054020-0-000-14-07-1964@@@
-
 DECRETO Nº 54.020, DE 14 DE JULHO DE 1964.
 
 Dispõe sôbre a admissão de pessoal temporário nas Companhias de Saúde Pública e dá outras providências.

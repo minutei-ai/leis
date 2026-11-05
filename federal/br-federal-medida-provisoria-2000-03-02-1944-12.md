@@ -1,5 +1,3 @@
-###MPV-001944-0-012-02-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.944-12, DE 2 de março DE 2000.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

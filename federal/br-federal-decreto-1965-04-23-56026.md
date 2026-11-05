@@ -1,5 +1,3 @@
-###DEC-056026-0-000-23-04-1965@@@
-
 DECRETO Nº 56.026, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Felício Tozzo a pesquisar calcário, no município de Piracicaba, Estado de São Paulo.

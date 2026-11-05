@@ -1,6 +1,10 @@
 > **LEI Nº 4.615, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Assegura à mulher vítima de violência doméstica, familiar e ocorrências semelhantes, que tenha como resultado a retenção, subtração, destruição parcial ou total de seus documentos pessoais ou de seus dependentes pelo agressor, prioridade imediata no atendimento para a emissão de novos documentos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Assegura à mulher vítima de violência doméstica, familiar e ocorrências semelhantes, que tenha como resultado a retenção, subtração, destruição parcial ou total de seus documentos pessoais ou de seus dependentes pelo agressor, prioridade imediata no atendimento para a emissão de novos documentos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

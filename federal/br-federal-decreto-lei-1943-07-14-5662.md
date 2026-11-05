@@ -1,5 +1,3 @@
-###DEL-005662-0-000-14-07-1943@@@
-
 DECRETO‑LEI N. 5.662 – DE 14 DE JULHO DE 1943
 
 Abre, ao Ministério da Agricultura, o crédito suplementar de Cr$ 31.200,00, para atender à despesa com pessoal extranumerário na Escola Agrícola de Barbacena.

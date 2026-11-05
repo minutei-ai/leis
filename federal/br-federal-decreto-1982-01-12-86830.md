@@ -1,5 +1,3 @@
-###DEC-086830-0-000-12-01-1982@@@
-
 DECRETO Nº 86.830, DE 12 DE JANEIRO DE 1982
 
 Atribui à Comissão Interministerial para os Recursos do Mar (CIRM) a elaboração do projeto do Programa Antártico Brasileiro (PROANTAR) e dá outras providências.

@@ -135,7 +135,3 @@ Fundação Educacional Caio Martins – FUCAM
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,43418 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,20286 Diretoria de Educação e Assistência Diretor 01 1,20286 Auditoria Seccional Auditor Seccional 01 0,54200 Assessoria Jurídica Assessor Jurídico 01 1,01800
-
-\==================================
-
-Data da última atualização: 25/1/2011.

@@ -1,5 +1,3 @@
-###DEL-005694-0-000-22-07-1943@@@
-
 DECRETO‑LEI N.  5.694 – DE 22 DE JULHO DE 1943
 
 Isenta de direitos de importação para consumo e demais taxas aduaneiras, pelo prazo de dois (2) anos, o gado boliviano importado para o abaste­cimento da Região Amazônica.

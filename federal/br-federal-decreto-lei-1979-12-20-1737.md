@@ -1,5 +1,3 @@
-###DEL-001737-0-000-20-12-1979@@@
-
 # Decreto-lei nº 1.737, de 20 de dezembro de 1979
 
 Disciplina os depósitos de interesse da administração pública efetuados na Caixa Econômica Federal.

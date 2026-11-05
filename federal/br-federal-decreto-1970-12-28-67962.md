@@ -1,5 +1,3 @@
-###DEC-067962-0-000-28-12-1970@@@
-
 DECRETO Nº 67.962, DE 28 DE DEZEMBRO DE 1970.
 
 Aprova o planejamento do Curso de Treinamento para professores de disciplinas técnicas dos Colégios Técnicos Agrícolas Estaduais, mantido pela Faculdade de Medicina Veterinária e Agronomia de Jaboticabal, no Estado de São Paulo.

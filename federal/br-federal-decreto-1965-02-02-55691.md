@@ -1,5 +1,3 @@
-###DEC-055691-0-000-02-02-1965@@@
-
 DECRETO Nº 55.691, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Lauro Morandi a pesquisar calcário dolomitico, no município de Miracatú, Estado de São Paulo.

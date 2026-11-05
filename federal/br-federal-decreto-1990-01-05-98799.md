@@ -1,7 +1,3 @@
-1
-
-###DEC-098799-0-000-05-01-1990@@@
-
 DECRETO Nº 98.799, DE 5 DE JANEIRO DE 1990
 
 Declara de utilidade pública o Asilo São Vicente de Paulo e outras entidades.

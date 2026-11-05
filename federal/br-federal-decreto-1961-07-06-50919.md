@@ -1,5 +1,3 @@
-###DEC-050919-0-000-06-07-1961@@@
-
 DECRETO Nº 50.919, DE 6 DE JULHO DE 1961.
 
 Dispõe sobre a aplicação do Decreto nº 50.576, de 10 de maio de 1961.

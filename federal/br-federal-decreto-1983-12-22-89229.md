@@ -1,5 +1,3 @@
-###DEC-089229-0-000-22-12-1983@@@
-
 Decreto nº 89.229, de 22 de dezembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à DIFUSORA OURO VERDE LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-093370-0-000-09-10-1986@@@
-
 DECRETO Nº 93.370, DE 9 DE OUTUBRO DE 1986
 
 Extingue o Consulado-Geral do Brasil em Madri.

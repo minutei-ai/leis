@@ -1,6 +1,7 @@
 LEI Nº 3.436, DE 02 DE OUTUBRO DE 2018
 
-Institui a obrigatoriedade de estabelecimentos públicos voltados ao ensino ou recreação infantil e fundamental a capacitarem seu corpo docente e funcional em noções básicas de primeiros socorros.<br>
+Institui a obrigatoriedade de estabelecimentos públicos voltados ao ensino ou recreação infantil e fundamental a capacitarem seu corpo docente e funcional em noções básicas de primeiros socorros.
+
 (Redação alterada pela Lei Ordinária nº 3.447, de 13 de dezembro de 2018).
 
 ~~Institui a obrigatoriedade de estabelecimentos públicos e privados voltados ao ensino ou recreação infantil e fundamental a capacitarem seu corpo docente e funcional em noções básicas de primeiros socorros.~~
@@ -27,7 +28,8 @@ II – intervir no socorro imediato do(s) acidentado(s) até que o suporte médi
 
 ~~II – Multa de 1000 reais, aplicada em dobro em caso de advertência reincidente;~~
 
-~~III – Cassação de Alvará de Funcionamento, quando tratar-se de creche ou estabelecimento particular, ou responsabilização funcional e patrimonial, quando tratar-se de creche ou estabelecimento público.~~<br>
+~~III – Cassação de Alvará de Funcionamento, quando tratar-se de creche ou estabelecimento particular, ou responsabilização funcional e patrimonial, quando tratar-se de creche ou estabelecimento público.~~
+
 (Revogado pela Lei Ordinária nº 3.447, de 13 de dezembro de 2018).
 
 Art. 4º Cabe ao Poder Executivo definir no prazo de 120 (cento e vinte) dias a partir da data de publicação da presente lei, os critérios para implementação dos cursos de primeiros socorros.
@@ -40,8 +42,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 02 de outubro de 2018.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###MPV-000600-0-000-28-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 600, DE 28 DE DEZEMBRO DE 2012
 
 Altera a Lei nº 12.409, de 25 de maio de 2011; a Medida Provisória nº 581, de 20 de setembro de 2012, que dispõe sobre o Fundo de Desenvolvimento do Centro-Oeste - FDCO; constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal; altera as Leis nº 12.462, de 4 de agosto de 2011, e nº 8.399, de 7 de janeiro de 1992; altera a Medida Provisória nº 12.096, de 24 de novembro de 2009; altera a Lei nº 12.663, de 5 de junho de 2012; e dá outras providências.

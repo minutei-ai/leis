@@ -1,5 +1,3 @@
-###DEC-047608-0-000-12-01-1960@@@
-
 DECRETO Nº 47.608, de 12 de janeiro de 1960.
 
 Concede nacionalização à sociedade anônima Esso Standará do Brasil Inc. sob a denominação de Esso Brasileira de Petróleo S.A.

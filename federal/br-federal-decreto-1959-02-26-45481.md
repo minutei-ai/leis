@@ -1,5 +1,3 @@
-###DEC-045481-0-000-26-02-1959@@@
-
 Decreto nº 45.481, de 26 de fevereiro de 1959.
 
 Dispensa, temporariamente e exigências do Regulamento de Promoções para Oficiais da Marinha.

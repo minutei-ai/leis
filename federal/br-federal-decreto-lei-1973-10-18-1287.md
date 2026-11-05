@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a6ec2328-3825-4af8-97f9-46bebb490f2e/texto#nowhere)
 
-###DEL-001287-0-000-18-10-1973@@@
-
 # DECRETO-LEI Nº 1.287, DE 18 DE OUTUBRO DE 1973
 
 Estende às atividades de mineração os incentivos concedidos aos projetos de desenvolvimento industrial pelo Decreto-lei nº 1.137, de 7 de dezembro de 1970, e dá outras providências.

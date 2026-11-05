@@ -1,5 +1,3 @@
-###DEC-090947-0-000-13-02-1985@@@
-
 DECRETO Nº 90.947, DE 13 DE FEVEREIRO DE 1985
 
 Autoriza a alienação de bens imóveis pertencentes à Universidade Federal do Espírito Santo.

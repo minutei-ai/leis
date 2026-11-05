@@ -1,6 +1,10 @@
 > **LEI Nº 3.590, DE 19 DE DEZEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo Estadual a alienar bens móveis inservíveis do Poder Executivo do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo Estadual a alienar bens móveis inservíveis do Poder Executivo do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE:**
 
@@ -142,16 +146,16 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
 01                           NAG 2560                   308579348   BRANCA G9UA650C249964    2010/2011 R$ 135,00   R$ 500,00
        NAULT/MASTERAMB                7
        CAMINHONETE: NISSAN            94DVCUD40EJ78438
-02                           ONL 9941                   635684861   PRATA    ****            2014     R$ 158,81    R$ 10.000,00
+02                           ONL 9941                   635684861   PRATA                2014     R$ 158,81    R$ 10.000,00
        FRONTIER 4X4                   6
                                       9BWZZZ237WP00929
-03     CAMIONETA: VW/KOMBI MZS 8576                     719058724   BRANCA ****              1998     R$ 61,70     R$ 1.000,00
+03     CAMIONETA: VW/KOMBI MZS 8576                     719058724   BRANCA               1998     R$ 61,70     R$ 1.000,00
                                       8
        CAMINHONETE: RE-
-04                           MZW 3027 8A1FC0R155L616301 858976609   BRANCA ****              2005     R$ 64,19     R$ 2.000,00
+04                           MZW 3027 8A1FC0R155L616301 858976609   BRANCA               2005     R$ 64,19     R$ 2.000,00
        NAULT KGOO
        CAMINHÃO: IVECO-
-05                           MZZ 4873 93ZC3570128308565 801550874   BRANCA ****              2002     R$ 64,19     R$ 4.000,00
+05                           MZZ 4873 93ZC3570128308565 801550874   BRANCA               2002     R$ 64,19     R$ 4.000,00
        FIAT/DAILY3510 VAN1
        MOTOCICLO: SUN-
 06                           MZX 4359 94J2XECC66M011817 894540149   PRATA    JCC6024041      2006     R$ 269,06    R$ 400,00
@@ -239,7 +243,7 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
 32                       NAF1156    8AJFY22G8C8002219 484550381 BRANCA 1KD5801442      2012     R$ 889,28    R$ 10.000,00
      HILUX CD4X4 STD
      CAMINHONETE: NIS-              94DVCUD40EJ68564 564882057
-33                       OAJ8123                               BRANCA *************    2013     R$ 149,32    R$ 3.000,00
+33                       OAJ8123                               BRANCA *    2013     R$ 149,32    R$ 3.000,00
      SAN/FRONTIER S 4X4             3                1
      MOTOCICLO:
 34   HONDA/NXR150 BROS   MZY6379    9C2KD03207R006051 900964863 BRANCA KD03E27006051   2006/2007 R$ 269,06   R$ 5.000,00
@@ -247,9 +251,9 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
      MOTOCICLO:                     9C2JD170WWR00969
 35                       MZN4696                     699236908 BRANCA JD17E-W009694    1998     R$ 269,06    R$ 500,00
      HONDA/XLR 125                  4
-36   QUADRICICLO/HONDA    *****     9C2TE3500BR003010 *******   BRANCA ************    2012     S/D          R$ 8.000,00
-37   QUADRICICLO/HONDA    *****     9C2TE4300JR000147 *******   BRANCA ************    2017     S/D          R$ 10.000,00
-38   QUADRICICLO/HONDA    *****     9C2TE3500CR001084 *******   BRANCA ************    2012     S/D          R$ 5.000,00
+36   QUADRICICLO/HONDA    *     9C2TE3500BR003010 ***   BRANCA     2012     S/D          R$ 8.000,00
+37   QUADRICICLO/HONDA    *     9C2TE4300JR000147 ***   BRANCA     2017     S/D          R$ 10.000,00
+38   QUADRICICLO/HONDA    *     9C2TE3500CR001084 ***   BRANCA     2012     S/D          R$ 5.000,00
      CAMINHONETE: TOYOTA
 39                       NAC8946    8AJFY22G4C8002069 481753192 BRANCA 1KD5794266      2012     R$ 101,84    R$ 15.000,00
      HILUX CD4X4 STD
@@ -435,7 +439,7 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
 92                       NXT0962      8AJFY22G7D8006201 532220552         1KDA034020       2013     R$ 149,32   R$ 12.000,00
      HILUX CD4X4 SR                                             LHA
                                     9BWZZZM8ZLC02192            VERME-
-93   CAMINHÃO: VW/16.210    MZP6465                   138086095           ***********      1990     R$ 64,19    R$ 20.000,00
+93   CAMINHÃO: VW/16.210    MZP6465                   138086095           ***      1990     R$ 64,19    R$ 20.000,00
                                     4                           LHA
      CAMINHÃO:                                                  VERME-
 94                          MZW6461 9BM9580746B499599 913889555           906985U0697878   2006     R$ 64,19    R$ 30.000,00
@@ -452,7 +456,7 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
                                                                   LHA
       TERF -AMB.
       CAMINHÃO: M.BENZ/L                                        VERME-
-97                        MZQ0093   34540712697192    138440018            *********        1985     R$ 64,19     R$ 26.000,00
+97                        MZQ0093   34540712697192    138440018            *        1985     R$ 64,19     R$ 26.000,00
       2013                                                      LHA
       CAMINHONETE: TOYOTA                                       VERME-
 98                        NAC8926   8AJFY22G3C8002158 481745661            1KD5798686       2012     R$ 277,01    R$ 20.000,00
@@ -507,10 +511,10 @@ ITEM     MARCA/ MODELO        PLACA        CHASSI       RENAVAM       COR       
 112                         MZT3025                    163698040 BRANCA BWX171628         2009   R$ 146,83   R$ 2.000,00
       RATI 1.6 TITAN                  07
       AUTOMÓVEL: FIAT DU-             NÃO CADASTRADO
-113                         NAC8917                    GETRAN           ******                   S/D         R$ 7.000,00
+113                         NAC8917                    GETRAN           **                   S/D         R$ 7.000,00
       CATO                            NO
       AUTOMÓVEL: RENAULT              NÃO CADASTRADO
-114                         MZY5726                    GETRAN           ******                   S/D         R$ 5.000,00
+114                         MZY5726                    GETRAN           **                   S/D         R$ 5.000,00
       MASTER                          NO
       AUTOMÓVEL: FIAT/DO-
 115                         MZZ3542   9BD11930591059128 128103922 PRATA   J4*0447587*     2009   R$ 681,95   R$ 8.000,00

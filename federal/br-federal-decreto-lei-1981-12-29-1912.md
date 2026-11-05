@@ -1,7 +1,3 @@
-1
-
-###DEL-001912-0-000-29-12-1981@@@
-
 # DECRETO-LEI Nº 1.912, DE 29 DE DEZEMBRO DE 1981.
 
 Altera a Lei nº 4.452, de 5 de novembro de 1964.

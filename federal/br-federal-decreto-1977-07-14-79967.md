@@ -1,5 +1,3 @@
-###DEC-079967-0-000-14-07-1977@@@
-
 DECRETO Nº 79.967, DE 14 DE JULHO DE 1977
 
 Altera dispositivos do Decreto nº 77.272, de 9 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais.

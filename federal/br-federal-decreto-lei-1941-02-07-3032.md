@@ -1,5 +1,3 @@
-###DEL-003032-0-000-07-02-1941@@@
-
 DECRETO-LEI N. 3.032 – DE 7 DE FEVEREIRO DE 1941
 
 Estabelece o regime de licenças prévias para a exportação e dá outras providências.

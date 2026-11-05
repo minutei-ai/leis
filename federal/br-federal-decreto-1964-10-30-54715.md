@@ -1,5 +1,3 @@
-###DEC-054715-0-000-30-10-1964@@@
-
 DECRETO Nº 54.715, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Ruy Nunes de Campos Rosa a lavrar ouro, no Município de Maués, Estado do Amazonas.

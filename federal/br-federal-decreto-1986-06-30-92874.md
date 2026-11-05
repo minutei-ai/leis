@@ -1,5 +1,3 @@
-###DEC-092874-0-000-30-06-1986@@@
-
 DECRETO Nº 92.874, DE 30 DE JUNHO DE 1986
 
 Dispõe sobre a criação do Grupo Intergovernamental de Combate à Malária.

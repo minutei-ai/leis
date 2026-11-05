@@ -1,5 +1,3 @@
-###DEC-007152-0-000-09-04-2010@@@
-
 DECRETO Nº 7.152, DE 9 DE ABRIL DE 2010.
 
 Aumenta o capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e altera o seu Estatuto Social, aprovado pelo Decreto nº 4.418, de 11 de outubro de 2002.

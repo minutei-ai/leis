@@ -1,5 +1,3 @@
-###DEL-001725-0-000-07-12-1979@@@
-
 # decreto-lei nº 1.725, de 7 de dezembro de 1979
 
 Estabelece limite para o benefício previsto no artigo 9º do Decreto-lei nº 1.351, de 24 de outubro de 1974, que altera a legislação do Imposto sobre a Renda.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000895-0-000-16-08-1993@@@
-
 DECRETO N° 895, DE 16 DE AGOSTO DE 1993
 
 Dispõe sobre a organização do Sistema Nacional de Defesa Civil (SINDEC), e dá outras providências.

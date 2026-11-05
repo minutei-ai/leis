@@ -1,5 +1,3 @@
-###DEC-074515-0-000-05-09-1974@@@
-
 DECRETO Nº 74.515, DE 5 DE SETEMBRO DE 1974.
 
 Declara interdita, para fins de atração de grupo indígena, área que discrimina, localizada no Município de Mato Grosso, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-052056-0-000-24-05-1963@@@
-
 DECRETO Nº 52.056, DE 24 DE MAIO DE 1963.
 
 Concede a Ford Motor do Brasil S.A. autorização para continuar a funcionar na República.

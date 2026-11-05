@@ -1,5 +1,3 @@
-###DEC-050842-0-000-24-06-1961@@@
-
 DECRETO Nº 50.842, DE 24 DE JUNHO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$5.000.000,00 para atender às despesas com as comemorações do centenário de Itajaí, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-081455-0-000-17-03-1978@@@
-
 Decreto nº 81.455, de 17 de março de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa.

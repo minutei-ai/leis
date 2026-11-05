@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.502, DE 17 DE SETEMBRO DE 2019<br>
+LEI MUNICIPAL Nº 3.502, DE 17 DE SETEMBRO DE 2019
+
 (Revogada pela Lei Ordinária nº 3.594, de 2 de dezembro de 2020).
 
 ~~Institui a política de incentivo aos atletas praticantes de desportos de rendimento nas modalidades do Programa “Aparecida Compete”, e dá outras providências.~~
@@ -65,8 +66,10 @@ LEI MUNICIPAL Nº 3.502, DE 17 DE SETEMBRO DE 2019<br>
 
  
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~
 
-~~OLAVO NOLETO<br>
+~~OLAVO NOLETO
+
 Chefe da Casa Civil~~

@@ -1,5 +1,3 @@
-###DEC-085774-0-000-26-02-1981@@@
-
 Decreto nº 85.774, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Tecnólogo em Hotelaria, da Faculdade de Tecnologia Hebraico-Brasileira Renascença, em São Paulo, Estado de São Paulo.

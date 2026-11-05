@@ -1,5 +1,3 @@
-###DEC-064436-0-000-30-04-1969@@@
-
 DECRETO Nº 64.436, DE 30 DE ABRIL DE 1969.
 
 Autoriza o funcionamento da Faculdade de Medicina da Universidade de Passo Fundo - RS.

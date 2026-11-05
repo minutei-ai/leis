@@ -1,7 +1,3 @@
-1
-
-###DEC-000939-0-000-24-09-1993@@@
-
 DECRETO N° 939, DE 24 DE SETEMBRO DE 1993
 
 Altera dispositivos do Decreto n ° 87.427, de 27 de julho de 1982, que aprova o Cerimonial da Marinha e dá outras providências.

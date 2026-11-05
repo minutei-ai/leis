@@ -1,5 +1,3 @@
-###DEC-057297-0-000-19-11-1965@@@
-
 Decreto nº 57.297, de 19 de novembro de 1965.
 
 Fixa diretrizes e normas de concessões para novos aproveitamentos hidrelétricos na Região Centro-Sul do País e dá outras providências.

@@ -28,13 +28,16 @@ Art. 5º. Revogam-se todas as Leis que se contraponham ou contrariem a presente 
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 02 DIAS DO MÊS DE JULHO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-PAULO RASSI<br>
+PAULO RASSI
+
 Secretário Municipal de Saúde
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18795)

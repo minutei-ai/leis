@@ -1,5 +1,3 @@
-###DEC-066277-0-000-27-02-1970@@@
-
 DECRETO Nº 66.277 - DE 27 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de tôrre de microondas em Pindamonhangaba, Estado de São Paulo.

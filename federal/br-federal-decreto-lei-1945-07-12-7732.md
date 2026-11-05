@@ -1,5 +1,3 @@
-###DEL-007732-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.732 – DE 12 DE JULHO DE 1945
 
 Incorpora ao patrimônio da União o imóvel qne especifica e dá outras providências

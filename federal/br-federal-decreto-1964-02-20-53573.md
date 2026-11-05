@@ -1,5 +1,3 @@
-###DEC-053573-0-000-20-02-1964@@@
-
 decreto nº 53.573, de 20 de fevereiro de 1964.
 
 Dispõe sôbre a aplicação de taxa prevista no art. 12, da Lei número 4.200, de 5 de fevereiro de 1963, e dá outras providências.

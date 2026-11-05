@@ -1,5 +1,3 @@
-###DEC-047287-0-000-24-11-1959@@@
-
 DECRETO Nº 47.287, DE 24 DE NOVEMBRO DE 1959.
 
 Autoriza a Emprêsa de Eletricidade Alexandre Schlemm S.A. a constituir hipoteca sôbre os imóveis e equipamentos do seu acêrvo em favor do Banco do Brasil S.A.

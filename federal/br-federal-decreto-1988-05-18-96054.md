@@ -1,5 +1,3 @@
-###DEC-096054-0-000-18-05-1988@@@
-
 DECRETO Nº 96.054, DE 18 DE MAIO DE 1988
 
 Outorga concessão à REDE GUAÍCURUS DE RÁDIO E TELEVISÃO LTDA. para explorar serviço de radiodifusão sonora em onda média. dia, na cidade de Fátima do Sul, Estado de Mato Grosso do Sul.

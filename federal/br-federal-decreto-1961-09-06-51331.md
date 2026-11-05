@@ -1,5 +1,3 @@
-###DEC-051331-0-000-06-09-1961@@@
-
 DECRETO Nº 51.331, DE 6 DE SETEMBRO DE 1961.
 
 Altera os artigos 40, 57 e o § 1º do artigo 61 do Regulamento Disciplinar do Exército (RDE).

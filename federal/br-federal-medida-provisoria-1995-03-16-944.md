@@ -1,7 +1,3 @@
-1
-
-###MPV-000944-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 944, DE 16 DE MARÇO DE 1995
 
 Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela EMBRAER - Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União junto à EMBRAER - Empresa Brasileira de Aeronáutica S.A.

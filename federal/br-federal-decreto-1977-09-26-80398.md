@@ -1,5 +1,3 @@
-###DEC-080398-0-000-26-09-1977@@@
-
 DECRETO Nº 80.398, DE 26 DE SETEMBRO DE 1977.
 
 Concede à Mineração Indústria e Comércio Ltda. o direito de lavrar diatomita no Município de Mucugê, Estado da Bahia.

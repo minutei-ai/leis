@@ -1,5 +1,3 @@
-###DEC-048676-0-000-04-08-1960@@@
-
 DECRETO Nº 48.676, DE 4 DE AGÔSTO DE 1960
 
 Revoga o Decreto nº 2.333, de 10 de fevereiro de 1938.

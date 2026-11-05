@@ -1,5 +1,3 @@
-###DEC-069229-0-000-21-09-1971@@@
-
 decreto nº 69.229, de 21 de setembro de 1971
 
 Autorização para funcionamento da Faculdade de Educação de Araraquara - S. P.

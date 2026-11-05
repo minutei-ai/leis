@@ -1,5 +1,3 @@
-###DEC-072134-0-000-26-04-1973@@@
-
 DECRETO Nº 72.134, DE 26 DE ABRIL DE 1973.
 
 Altera o artigo 1º do Decreto número 70.986, de 16 de agosto de 1972.

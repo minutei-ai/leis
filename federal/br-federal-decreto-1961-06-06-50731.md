@@ -1,5 +1,3 @@
-###DEC-050731-0-000-06-06-1961@@@
-
 DECRETO Nº 50.731, DE 6 DE JUNHO DE 1961.
 
 Autoriza a Prefeitura Municipal de Belo Horizonte a pesquisar minério de ferro no município de Contagem, Estado de Minas Gerais.

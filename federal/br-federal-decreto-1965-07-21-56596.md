@@ -1,5 +1,3 @@
-###DEC-056596-0-000-21-07-1965@@@
-
 DECRETO Nº 56.596, DE 21 DE JULHO DE 1965.
 
 Estabelece nôvo regimento para o Gabinete Civil da Presidência da República.

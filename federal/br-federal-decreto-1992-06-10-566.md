@@ -1,5 +1,3 @@
-###DEC-000566-0-000-10-06-1992@@@
-
 DECRETO Nº 566, DE 10 DE JUNHO DE 1992
 
 Aprova o Regulamento do Serviço Nacional de Aprendizagem Rural SENAR

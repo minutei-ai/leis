@@ -1,5 +1,3 @@
-###DEL-006642-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.642 – DE 29 DE JUNHO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 3.000,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-046482-0-000-20-07-1959@@@
-
 DECRETO Nº 46.482, DE 20 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Nagib Abés Ganem a pesquisar quartzo no município de Teófilo Otoni, Estado de Minas Gerais.

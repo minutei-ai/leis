@@ -1,5 +1,3 @@
-###DEC-094214-0-000-14-04-1987@@@
-
 DECRETO Nº 94.214, DE 14 DE ABRIL DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Volta Redonda, Estado do Rio de Janeiro, destinada à instalação de Estação Telefônica das Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

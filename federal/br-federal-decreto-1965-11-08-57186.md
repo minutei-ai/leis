@@ -1,5 +1,3 @@
-###DEC-057186-0-000-08-11-1965@@@
-
 DECRETO Nº 57.186, DE 8 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

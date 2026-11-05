@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211400)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2025/compilacao-lei-18195-01.09.2025.html)
 
 # LEI N° 18.195, DE 01 DE SETEMBRO DE 2025

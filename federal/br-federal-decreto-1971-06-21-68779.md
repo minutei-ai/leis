@@ -1,5 +1,3 @@
-###DEC-068779-0-000-21-06-1971@@@
-
 DECRETO Nº 68.779 - DE 21 DE JUNHO DE 1971.
 
 Concede reconhecimento aos Cursos de Ciências Econômicas e Administração de Emprêsas da Faculdade de Ciências Econômicas e Administrativas de Taubaté, Autarquia Municipal, com sede em Taubaté, SP.

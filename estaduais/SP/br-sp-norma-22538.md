@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/22538)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1990/compilacao-lei-6903-26.06.1990.html)
 
 # LEI N° 6.903, DE 26 DE JUNHO DE 1990
@@ -7,14 +6,22 @@
 
 ### _~~Institui o "Dia da Mulher Profissional de Direito", comemorado, anualmente, no dia 15 de dezembro.~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
-~~Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:~~<br>
-~~Artigo 1.° - Fica instituído o "Dia da Mulher Profissional de Direito" a ser comemorado, anualmente, no dia 15 de dezembro.~~<br>
-~~Artigo 2.° - Esta lei entrará em vigor na data de sua publicação.~~<br>
-~~Palácio dos Bandeirantes, 26 de junho de 1990.~~<br>
-~~ORESTES QUÉRCIA~~<br>
-~~Cláudio Ferraz de Alvarenga~~<br>
-~~Secretário do Governo~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
+~~Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:~~
+
+~~Artigo 1.° - Fica instituído o "Dia da Mulher Profissional de Direito" a ser comemorado, anualmente, no dia 15 de dezembro.~~
+
+~~Artigo 2.° - Esta lei entrará em vigor na data de sua publicação.~~
+
+~~Palácio dos Bandeirantes, 26 de junho de 1990.~~
+
+~~ORESTES QUÉRCIA~~
+
+~~Cláudio Ferraz de Alvarenga~~
+
+~~Secretário do Governo~~
+
 ~~Publicada na Assessoria Técnico-Legislativa, aos 26 de junho de 1990.~~
 
 Revogada.

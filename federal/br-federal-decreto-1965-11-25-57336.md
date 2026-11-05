@@ -1,5 +1,3 @@
-###DEC-057336-0-000-25-11-1965@@@
-
 DECRETO Nº 57.336, DE 25 DE NOVEMBRO DE 1965.
 
 Dispõe sôbre a representação discente nos órgãos colegiados das Universidades e Escolas Superiores Isoladas.

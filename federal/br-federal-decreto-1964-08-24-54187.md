@@ -1,5 +1,3 @@
-###DEC-054187-0-000-24-08-1964@@@
-
 DECRETO Nº 54.187, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro Augusto Cesar a pesquisar ouro no município de Peixe, Estado de Goiás.

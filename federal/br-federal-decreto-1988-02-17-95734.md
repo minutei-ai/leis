@@ -1,7 +1,3 @@
-1
-
-###DEC-095734-0-000-17-02-1988@@@
-
 DECRETO N.° 95.734, DE 17 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Panorama, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

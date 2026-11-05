@@ -1,5 +1,3 @@
-###DEC-092700-0-000-21-05-1986@@@
-
 DECRETO Nº 92.700, DE 21 DE MAIO DE 1986
 
 Institui a função não remunerada de Ouvidor da Previdência Social e dá outras providências.

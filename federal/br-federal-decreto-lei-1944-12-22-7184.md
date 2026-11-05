@@ -1,5 +1,3 @@
-###DEL-007184-0-000-22-12-1944@@@
-
 DECRETO-LEI N. 7.184 – DE 22 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 11.400.000,00, à verba que especifica

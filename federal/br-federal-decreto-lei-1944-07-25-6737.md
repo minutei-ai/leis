@@ -1,5 +1,3 @@
-###DEL-006737-0-000-25-07-1944@@@
-
 DECRETO-LEI N. 6.737 – DE 25 DE JULHO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 197.000,00, para atender às despesas de instalação e funcionamento, no corrente ano, dos cursos da Biblioteca Nacional

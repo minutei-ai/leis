@@ -1,5 +1,3 @@
-###DEC-083572-0-000-18-06-1979@@@
-
 Decreto nº 83.572, de 18 de junho de 1979
 
 Fixa o fator de reajustamento salarial relativo a junho de 1979.

@@ -1,5 +1,3 @@
-###DEC-061568-0-000-19-10-1967@@@
-
 DECRETO nº 61.568, DE 19 DE OUTUBRO DE 1967.
 
 Autoriza a Companhia Sul-Mineira de Eletricidade a construir linha de transmissão.

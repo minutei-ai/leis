@@ -1,5 +1,3 @@
-###DEC-079176-0-000-28-01-1977@@@
-
 DECRETO Nº 79.176, DE 28 DE JANEIRO DE 1977.
 
 Cassa concessão outorgada à Empresa Jornal do Comércio da Bahia S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Salvador, Estado da Bahia.

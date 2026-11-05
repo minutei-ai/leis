@@ -1,5 +1,3 @@
-###DEC-067811-0-000-11-12-1970@@@
-
 DECRETO Nº 67.811, DE 11 DE DEZEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargo originário dos extintos Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

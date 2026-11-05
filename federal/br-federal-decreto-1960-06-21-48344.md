@@ -1,5 +1,3 @@
-###DEC-048344-0-000-21-06-1960@@@
-
 DECRETO Nº 48.344, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Pedro Larocca a pesquisar xisto argiloso no município de Pirapora do Bom Jesus, Estado de São Paulo.

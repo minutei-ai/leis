@@ -1,5 +1,3 @@
-###DEC-060631-0-000-26-04-1967@@@
-
 DECRETO Nº 60.631, DE 26 DE ABRIL DE 1967.
 
 Cria o “Hospital Naval de Recife” e dá outras providências.

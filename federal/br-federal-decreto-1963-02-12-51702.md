@@ -1,5 +1,3 @@
-###DEC-051702-0-000-12-02-1963@@@
-
 DECRETO Nº 51.702, DE 12 DE FEVEREIRO DE 1963.
 
 Cria Grupo de Trabalho para estudar e propor medidas tendentes a ampliar o mercado de capitais e a estabelecer o disciplinamento das operações dos estabelecimentos de crédito do Govêrno.

@@ -1,5 +1,3 @@
-###DEC-088923-0-000-27-10-1983@@@
-
 decreto nº 88.923, de 27 de outubro de 1983.
 
 Extingue o Laboratório de Pesquisas Químicas da Marinha e dá outras providências.

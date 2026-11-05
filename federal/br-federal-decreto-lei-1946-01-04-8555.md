@@ -1,5 +1,3 @@
-###DEL-008555-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.555 – DE 4 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 10.000.000,00, para prosseguimento da construção da rodovia Ponta Grossa – Foz do Iguaçu.

@@ -1,5 +1,3 @@
-###DEC-091148-0-000-15-03-1985@@@
-
 DECRETO Nº 91.148 DE 15 DE MARÇO DE 1985
 
 Dispõe sobre., a diretoria do Banco Central do Brasil - BACEN.

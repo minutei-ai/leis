@@ -1,5 +1,3 @@
-###DEC-086957-0-000-19-02-1982@@@
-
 decreto nº 86.957, de 19 de fevereiro de 1982
 
 Revoga o Decreto nº 72.842, de 26 de setembro de 1973.

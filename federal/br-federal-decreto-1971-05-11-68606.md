@@ -1,5 +1,3 @@
-###DEC-068606-0-000-11-05-1971@@@
-
 DECRETO Nº 68.606 - DE 11 DE MAIO DE 1971.
 
 Declara de utilidade pública a Cidade de Meninos São Paulo Apóstolo, com sede em Petrópolis, Estado do Rio de Janeiro.

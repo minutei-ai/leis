@@ -1,5 +1,3 @@
-###DEC-060561-0-000-07-04-1967@@@
-
 Decreto nº 60.561, de 7 de abril de 1967.
 
 Concede à sociedade de Transportes Marítimos 1.001 Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

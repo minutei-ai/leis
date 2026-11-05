@@ -1,5 +1,3 @@
-###DEC-090578-0-000-28-11-1984@@@
-
 Decreto nº 90.578, de 28 de novembro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

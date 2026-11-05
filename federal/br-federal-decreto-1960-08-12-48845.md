@@ -1,5 +1,3 @@
-###DEC-048845-0-000-12-08-1960@@@
-
 DECRETO Nº 48.845, de 12 de Agôsto de 1960.
 
 Outorga ao Estado do Paraná concessão para distribuir energia elétrica.

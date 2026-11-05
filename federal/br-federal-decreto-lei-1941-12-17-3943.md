@@ -1,5 +1,3 @@
-###DEL-003943-0-000-17-12-1941@@@
-
 DECRETO-LEI N. 3.943 – DE 17 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Agricultura a crédito especial de 136:800$0, para atender despesas com pessoal extranumerario

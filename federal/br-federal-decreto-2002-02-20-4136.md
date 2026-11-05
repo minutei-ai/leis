@@ -1,5 +1,3 @@
-###DEC-004136-0-000-20-02-2002@@@
-
 DECRETO Nº 4.136, DE 20 DE FEVEREIRO DE 2002
 
 Dispõe sobre a especificação das sanções aplicáveis às infrações às regras de prevenção, controle e fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional, prevista na Lei n 9.966, de 28 de abril de 2000, e dá outras providências.

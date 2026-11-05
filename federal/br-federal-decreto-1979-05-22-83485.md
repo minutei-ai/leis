@@ -1,5 +1,3 @@
-###DEC-083485-0-000-22-05-1979@@@
-
 Decreto nº 83.485, de 22 de maio de 1979.
 
 Autoriza o aumento de capital da Usiminas Mecânica S.A. - USIMEC, com subscrição de ações em dinheiro pelo Banco Nacional do Desenvolvimento Econômico - BNDE.

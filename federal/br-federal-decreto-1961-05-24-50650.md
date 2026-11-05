@@ -1,5 +1,3 @@
-###DEC-050650-0-000-24-05-1961@@@
-
 DECRETO Nº 50.650, DE 24 DE MAIO DE 1961.
 
 Determina a intervenção administrativa na Companhia Fôrça e Luz Norte Fluminense.

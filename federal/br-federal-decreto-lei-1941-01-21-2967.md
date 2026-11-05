@@ -1,5 +1,3 @@
-###DEL-002967-0-000-21-01-1941@@@
-
 DECRETO-LEI N. 2.967 – DE 21 DE JANEIRO DE 1941
 
 Altera um dispositivo da Lei do Serviço Militar

@@ -1,5 +1,3 @@
-###DEC-073177-0-000-20-11-1973@@@
-
 DECRETO Nº 73.177, DE 20 DE NOVEMBRO DE 1973
 
 Regulamenta a Lei nº 5.534, de 14 de novembro de 1968, modificada pela Lei nº 5.878, de 11 de maio de 1973, de que dispõe sobre a obrigatoriedade da prestação de informações necessárias ao Plano Nacional de Estatísticas Básicas e ao Plano Geral de Informações Estatísticas e Geográficas.

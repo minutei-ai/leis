@@ -1,5 +1,3 @@
-###DEC-066656-0-000-03-06-1970@@@
-
 decreto nº 66.656, de 3 de junho de 1970.
 
 Dá nova redação ao artigo 120 do Regulamento aprovado pelo Decreto nº 60.459, de 13 de março de 1967.

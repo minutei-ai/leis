@@ -1,5 +1,3 @@
-###DEC-071544-0-000-14-12-1972@@@
-
 Decreto nº 71.544 - de 14 de dezembro de 1972
 
 Cancela autorização para funcionamento no Brasil da "A Suissa" - S.A. de Seguros Gerais.

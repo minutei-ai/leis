@@ -1,5 +1,3 @@
-###DEC-046259-0-000-23-06-1959@@@
-
 DECRETO Nº 46.259, DE 23 DE JUNHO DE 1959.
 
 Aprova o Regimento da Escola Nacional de Saúde Pública, do Ministério da Saúde.
@@ -464,8 +462,6 @@ Rio de Janeiro, 23 de junho de 1959.
 
 MÁrio Pinotti
 
-###DEC-046259-0-000-23-06-1959@@@RET01+++
-
 decreto nº 46.259, de 23 de junho de 1959.
 
 Aprova o Regimento da Escola Nacional de Saúde Pública, do Ministério da Saúde.
@@ -483,8 +479,6 @@ ONDE SE LÊ:
 LEIA-SE:
 
 ..., de que trata o artigo 3º de seu Regulamento.
-
-###DEC-046259-0-000-23-06-1959@@@RET02+++
 
 decreto nº 46.259, de 23 de junho de 1959.
 

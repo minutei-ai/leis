@@ -1,5 +1,3 @@
-###MPV-000095-0-000-26-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 95 – DE 26 DE DEZEMBRO DE 2002
 
 Dá nova redação ao art. 4º da Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o seguro de crédito à exportação e dá outras providências.

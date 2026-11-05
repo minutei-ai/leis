@@ -1,5 +1,3 @@
-###DEC-047369-0-000-04-12-1959@@@
-
 DECRETO Nº 47.369, DE 4 DE DEZEMBRO DE 1959.
 
 Concede reconhecimento aos cursos que indica.

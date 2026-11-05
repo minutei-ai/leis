@@ -1,5 +1,3 @@
-###DEC-052834-0-000-18-11-1963@@@
-
 DECRETO Nº 52.834, DE 18 DE NOVEMBRO DE 1963.
 
 Outorga ao estado do acre concessão para distribuir energia elétrica nos municípios de Cruzeiro do Sul, Sena Madureira e Feijó.

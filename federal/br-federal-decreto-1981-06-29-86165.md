@@ -1,5 +1,3 @@
-###DEC-086165-0-000-29-06-1981@@@
-
 Decreto nº 86.165, de 29 de junho de 1981
 
 Cassa a concessão outorgada á RÁDIO CULTURA DE COROATÁ LTDA., para estabelecer, na cidade de Coroatá, Estado do Maranhão, uma estação de radiodifusão sonora em onda média de âmbito regional.

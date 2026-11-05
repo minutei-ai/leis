@@ -1,5 +1,3 @@
-###DEC-006604-0-000-14-10-2008@@@
-
 DECRETO Nº 6.604, DE 14 DE OUTUBRO DE 2008.
 
 Dá nova redação ao item 6 do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983.

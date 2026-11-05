@@ -1,5 +1,3 @@
-###DEC-061243-0-000-28-08-1967@@@
-
 DECRETO Nº 61.243, DE 28 DE AGôSTO DE 1967.
 
 Altera o Regimento do Departamento de Administração do Ministério da Educação e Cultura, criando um órgão e dispondo sôbre outras providências.

@@ -1,5 +1,3 @@
-###DEL-009898-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.898 – DE 16 DE SETEMBRO DE 1946
 
 Autoriza o Ministro da Fazenda a sujeitar a exportação de couros e madeiras ao regime que julgar mais conveniente.

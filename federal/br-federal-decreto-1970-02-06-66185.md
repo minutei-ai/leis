@@ -1,5 +1,3 @@
-###DEC-066185-0-000-06-02-1970@@@
-
 DECrEtO Nº 66.185 - DE 6 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Associação de Amparo à Criança Cearense, com sede em Fortaleza, Estado do Ceará.

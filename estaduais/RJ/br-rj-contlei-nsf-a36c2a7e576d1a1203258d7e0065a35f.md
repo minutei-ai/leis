@@ -1,23 +1,17 @@
-<br>
-<br>
 **LEI N.º 11.098 DE 08 DE JANEIRO DE 2026**
 
-<br>
-<br>
+<table width="100%" border="1"><tbody><tr><td width="100%">**ESTIMA A RECEITA E FIXA A DESPESA DO ESTADO DO RIO DE JANEIRO PARA O EXERCÍCIO FINANCEIRO DE 2026.**</td></tr></tbody></table>
 
-<table width="100%" border="1"><tbody><tr><td width="100%"><b><font face="Arial">ESTIMA A RECEITA E FIXA A DESPESA DO ESTADO DO RIO DE JANEIRO PARA O EXERCÍCIO FINANCEIRO DE 2026.</font></b></td></tr></tbody></table>
+**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
 
-<br>
-<br>
-**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**<br>
-Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:<br>
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
 
-**RESOLVE:**<br>
+**RESOLVE:**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **DAS DISPOSIÇÕES PRELIMINARES**
 
-<br>
 **Art. 1º** Esta Lei estima a receita e fixa a despesa do Estado do Rio de Janeiro para o exercício financeiro de 2026 nos termos do § 5º, do art. 209, da Constituição Estadual e do disposto na Lei nº 10.899, de 21 de julho de 2025, que dispõe sobre a Lei de Diretrizes Orçamentárias para o exercício financeiro de 2026 - LDO/2026, e compreende:
 
 **I-** o Orçamento Fiscal, que compreende as dotações referente aos Poderes do Estado, seus fundos, órgãos e entidades da Administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público, excluídas as dotações destinadas a seguridade social e as relativas aos investimentos das estatais não dependentes;
@@ -50,7 +44,6 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **Parágrafo único**. O demonstrativo de emendas impositivas que consta no art. 24, inciso III, alínea o, da Lei nº 10.899, de 21 de julho de 2025 - LDO 2026, somente será publicado após a sanção da LOA 2026, devendo ainda ser incluído no portal de transparência do estado para conhecimento público.
 
-<br>
 **CAPÍTULO II**
 
 **DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL**
@@ -59,7 +52,6 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **Da Estimativa da Receita Pública**
 
-<br>
 **Art. 4º** A receita total dos Orçamentos Fiscal e da Seguridade Social corresponde à previsão da receita bruta de R$ 138.950.464.904,00 (cento e trinta e oito bilhões, novecentos e cinquenta milhões, quatrocentos e sessenta e quatro mil, novecentos e quatro reais) menos a estimativa das deduções da receita de R$ 31.313.994.267,00 (trinta e um bilhões, trezentos e treze milhões, novecentos e noventa e quatro mil, duzentos e sessenta e sete reais), perfazendo o valor líquido de R$ 107.636.470.637,00 (cento e sete bilhões, seiscentos e trinta e seis milhões, quatrocentos e setenta mil, seiscentos e trinta e sete reais), assim distribuído:
 
 **I-** R$ 92.495.420.053,00 (noventa e dois bilhões, quatrocentos e noventa e cinco milhões, quatrocentos e vinte mil, cinquenta e três reais) do Orçamento Fiscal; e
@@ -74,14 +66,12 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§ 4º** Na hipótese de criação do Fundo Estadual de Proteção e Defesa Civil – FUNPDEC por meio de Lei Complementar, cuja instituição foi autorizada pela Emenda Constitucional 99, de 7 de outubro de 2025, o Poder Executivo fica autorizado a também desvincular as receitas do referido fundo nos termos do Art. 76-A do Ato Das Disposições Constitucionais Transitórias Da Constituição Federal.
 
-**§ 5º** **VETADO.**
+**§ 5ºVETADO.**
 
-<br>
 **Seção II**
 
 **Da Despesa Pública**
 
-<br>
 **Art. 5º** A despesa total fixada nos Orçamentos Fiscal e da Seguridade Social é de R$ 126.571.670.996,00 (cento e vinte e seis bilhões, quinhentos e setenta e um milhões, seiscentos e setenta mil, novecentos e noventa e seis reais), discriminada nos anexos II, III e V, por função de governo, por categoria econômica, e por poderes e órgãos, respectivamente, especificada nos incisos a despesa de cada orçamento e a relativa ao refinanciamento da dívida pública, em observância ao disposto no art. 5º, § 2º, da Lei Complementar Federal nº 101, de 04 de maio de 2000.
 
 **I-** R$ 78.730.916.691,00 (setenta e oito bilhões, setecentos e trinta milhões, novecentos e dezesseis mil, seiscentos e noventa e um reais) do Orçamento Fiscal, incluídas as despesas de que trata o inciso III deste artigo;
@@ -94,12 +84,10 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§ 2º** O valor total da despesa inclui a parcela de R$ 8.455.219.897,00 (oito bilhões, quatrocentos e cinquenta e cinco milhões, duzentos e dezenove mil, oitocentos e noventa e sete reais) referentes à despesa intraorçamentária.
 
-<br>
 **Seção III**
 
 **Das Autorizações para Abertura de Créditos Adicionais**
 
-<br>
 **Art. 6º** Fica o Poder Executivo autorizado a abrir créditos adicionais com a finalidade de atender insuficiências nas dotações orçamentárias dos Orçamentos Fiscal e o da Seguridade Social, tendo por limite a utilização de recursos decorrentes de:
 
 **I-** cancelamento de dotações fixadas nesta Lei, até o limite de 20% (vinte por cento) do total da despesa, por transposição, remanejamento ou transferência integral ou parcial de dotações, inclusive entre unidades orçamentárias distintas, criando, se necessário, os grupos de despesa relativos a "Outras Despesas Correntes", "Investimentos" e "Inversões Financeiras", respeitadas as disposições constitucionais e os termos da Lei Federal n° 4.320, de 17 de março de 1964;
@@ -124,7 +112,7 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **I-** aos critérios previstos na Lei nº 4.320, de 17 de março de 1964;
 
-**II-** **VETADO.**
+**II-VETADO.**
 
 **III-** à clara identificação do programa de trabalho e do grupo de despesa a serem remanejados/cancelados, bem como daqueles suplementados;
 
@@ -138,34 +126,28 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **II-** geração de recursos na mesma empresa.
 
-<br>
 **CAPÍTULO III**
 
 **DO ORÇAMENTO DE INVESTIMENTO DAS EMPRESAS**
 
-<br>
 **Art. 9º** A despesa do Orçamento de Investimento das Empresas é fixada em R$ 2.821.991.523,00 (dois bilhões, oitocentos vinte um milhões, novecentos noventa e um mil e quinhentos e vinte três reais) destacada dos Orçamentos Fiscal e da Seguridade Social.
 
 **Art. 10.** As fontes de receitas estimadas para cobertura da despesa fixada no artigo anterior decorrerão da geração de recursos próprios e de Operações de Crédito, conforme especificado nas fontes de financiamento do quadro síntese do Orçamento de Investimento (Anexo VI).
 
-<br>
 **CAPÍTULO IV**
 
 **DA AUTORIZAÇÃO PARA CONTRATAÇÃO DE OPERAÇÕES DE CRÉDITO**
 
-<br>
 **Art. 11.** A contratação de operações de crédito ao longo do exercício de 2026 fica condicionada à prévia autorização da Assembleia Legislativa.
 
 **§ 1º** No projeto de lei que solicitar a autorização deverão constar o objeto da aplicação dos recursos, prazo de carência, prazo de pagamento, taxa de juros incidentes e a eventual necessidade de oferecimento de contragarantias às garantias oferecidas pela União e demais requisitos pertinentes à operação; e
 
 **§ 2º** Nas contratações de operações de crédito serão observados os limites e condições fixados na Resolução n° 40, de 2001, do Senado Federal, nos termos do Art. 30 da Lei de Responsabilidade Fiscal - LRF, ressalvado, todavia, o § 4º do Art. 11 da Lei Complementar nº 159, de 19 de maio de 2017 e suas alterações, para operações contratadas na vigência do Regime De Recuperação Fiscal, bem como demais disposições a esse respeito inscritas na lei orçamentária.
 
-<br>
 **CAPÍTULO V**
 
 **DISPOSIÇÕES FINAIS**
 
-<br>
 **Art. 12.** O Poder Executivo fica autorizado a adaptar o Orçamento aprovado por esta Lei em virtude dos efeitos de alienação de participação acionária, inclusive em função de abertura de capital; do aumento de capital com renúncia ou cessão total ou parcial de direitos de subscrição; da transformação, incorporação, fusão ou cisão de empresas; da concessão de serviços públicos, da liquidação e/ou extinção de organismos estaduais, ou da extinção da pessoa jurídica com alienação dos ativos, na forma prevista na legislação em vigor.
 
 **Art. 13.** O Poder Executivo fica autorizado a promover, sempre que necessário, ajustes do Programa de Dispêndios Globais das empresas estatais não dependentes, dando conhecimento ao Poder Legislativo.
@@ -228,11 +210,11 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§ 2º** O conhecimento a respeito da execução orçamentária de que trata o caput deste artigo deverá estar disponível ao público no sítio eletrônico da Secretaria de Estado de Planejamento e Gestão.
 
-**Art. 20.** Ficam os órgãos e entidades da administração pública direta e indireta do Poder Executivo obrigados a inserir no Sistema Eletrônico de Informação - SEI um processo administrativo exclusivo para acompanhamento da execução de cada emenda parlamentar impositiva aprovada, após análise de viabilidade técnica.<br>
-<br>
+**Art. 20.** Ficam os órgãos e entidades da administração pública direta e indireta do Poder Executivo obrigados a inserir no Sistema Eletrônico de Informação - SEI um processo administrativo exclusivo para acompanhamento da execução de cada emenda parlamentar impositiva aprovada, após análise de viabilidade técnica.
+
 **Parágrafo único**. O processo SEI citado no caput deste artigo deverá ter acesso público e irrestrito, e ser consolidado e encaminhado pelo Órgão Central de Orçamento à Assembleia Legislativa do Estado do Rio de Janeiro no momento da liberação do crédito.
 
-**Art. 2****1** **VETADO.**
+**Art. 21VETADO.**
 
 **Art. 22.** Fica o Poder Executivo autorizado, no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados – PROPAG, a propor a amortização da dívida do Estado do Rio de Janeiro com a União mediante a utilização de créditos da dívida ativa do Estado em face da Petróleo Brasileiro S.A. – Petrobras, considerando o equivalente a 50% (cinquenta por cento) de seu valor de face.
 
@@ -244,23 +226,20 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **III –** criação da hipótese de transação tributária, com vistas à regularização e à resolução mais ágil de conflitos dessa natureza entre contribuintes e o fisco estadual.
 
-**Art. 24.** **VETADO.**
+**Art. 24.VETADO.**
 
-**Art. 25.** **VETADO.**
+**Art. 25.VETADO.**
 
-**Art. 26.** **VETADO.**
+**Art. 26.VETADO.**
 
 **Art. 27.** Os contingenciamentos orçamentários, em observância ao disposto na Lei Complementar Federal nº 101, de 4 de maio de 2000, e às normas aplicáveis do Regime de Recuperação Fiscal ou, quando vigente, do Programa de Pleno Pagamento de Dívidas dos Estados – PROPAG, deverão refletir, com o máximo rigor, as efetivas expectativas de receita, de modo a minimizar a formação de restos a pagar.
 
-<br>
 **Art. 28.** O Poder Executivo realizará esforços para que a Procuradoria Geral do Estado e a Secretaria de Estado de Fazenda promovam negociações com a Agência Nacional de Petróleo, Gás Natural e Biocombustíveis e as concessionárias de contratos de exploração de petróleo e gás, para promover a cobrança de possíveis débitos referentes às receitas compensatórias da exploração de petróleo e gás, consoante o Relatório Final da Comissão Parlamentar de Inquérito da Assembleia Legislativa destinada a investigar a queda na arrecadação do Estado do Rio de Janeiro - Resolução nº 372, de 08 de março, de 2021.
 
 **Art. 29.** A troca de fontes de recursos condicionados, que constam em demonstrativo desta lei, pelas respectivas fontes definitivas, cujas alterações na legislação tenham sido aprovadas, será efetuada no prazo de até trinta (30) dias após a data de publicação da Lei Orçamentária de 2026, ou das respectivas alterações legislativas, prevalecendo a data que ocorrer por último.
 
-<br>
 **Art. 30.** O Poder Executivo deverá adotar as medidas administrativas e institucionais necessárias à renovação, atualização e execução do Acordo de Cooperação Técnica firmado entre o Governo do Estado do Rio de Janeiro e a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, com vistas à fiscalização integrada e conjunta, ao compartilhamento de informações técnicas e financeiras, à realização de auditorias, isoladas ou conjuntas, e à verificação da arrecadação das Participações Especiais e demais compensações financeiras decorrentes da exploração de petróleo e gás natural no território fluminense.
 
-<br>
 **Art. 31.** Fica o Poder Executivo autorizado a instituir Reserva de Contingência Social, equivalente a até 0,5% (meio por cento) da receita corrente líquida, destinada exclusivamente à execução de ações emergenciais de assistência social e segurança alimentar em situações de calamidade pública ou crise humanitária.
 
 **Parágrafo Único.** A utilização da Reserva dependerá de autorização legislativa específica e relatório circunstanciado do impacto social da medida.
@@ -271,7 +250,7 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **Parágrafo único**. Havendo disponibilidade de recursos financeiros e cumpridos os requisitos de admissibilidade previstos na Lei Complementar Estadual nº 219 de 06 de junho de 2024, o Governo estadual buscará executar, também, as demais modalidades de emendas impositivas no prazo fixado no caput.
 
-**Art. 34.** **VETADO.**
+**Art. 34.VETADO.**
 
 **Art. 35.** com a finalidade de fortalecer a transparência do processo de execução orçamentária do exercício de 2026, o Poder Executivo deverá realizar audiências públicas quadrimestrais na Assembleia Legislativa do Estado do Rio de Janeiro, com ampla divulgação e incentivo à participação popular, nos termos do artigo 48 da Lei Complementar Federal Nº 101, de 04 de maio de 2000.
 
@@ -285,23 +264,20 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **Parágrafo único.** Entre as ações prioritárias financiadas com recursos provenientes do Fundo citado no caput deste artigo estão investimentos contínuos na recuperação, prevenção e contenção de encostas.
 
-**Art. 39.** Os recursos do Fundo Estadual de Combate à Pobreza só poderão ser contingenciados por frustração de arrecadação depois de esgotados todos os esforços possíveis para preservação das dotações orçamentárias por ele financiadas.<br>
+**Art. 39.** Os recursos do Fundo Estadual de Combate à Pobreza só poderão ser contingenciados por frustração de arrecadação depois de esgotados todos os esforços possíveis para preservação das dotações orçamentárias por ele financiadas.
 
 **Art. 40.** O Poder Executivo semestralmente publicará boletim informativo da receita estadual constando das seguintes informações:
 
-**a)** do ICMS arrecadado no período por setores econômicos;<br>
-**b)** dos royalties e participações especiais de petróleo;<br>
-**c)** da arrecadação provenientes de parcelamentos de crédito tributários refinanciados por lei estadual em vigor.<br>
+**a)** do ICMS arrecadado no período por setores econômicos;
+
+**b)** dos royalties e participações especiais de petróleo;
+
+**c)** da arrecadação provenientes de parcelamentos de crédito tributários refinanciados por lei estadual em vigor.
 
 **Art. 41.** Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 01 de janeiro de 2026.
 
-<br>
+Rio de Janeiro, 08 de janeiro de 2026.
 
-Rio de Janeiro, 08 de janeiro de 2026.<br>
-<br>
-<br>
-**CLÁUDIO CASTRO**<br>
+**CLÁUDIO CASTRO**
+
 Governador
-
-<br>
-<br>

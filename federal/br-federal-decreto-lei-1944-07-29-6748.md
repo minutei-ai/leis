@@ -1,5 +1,3 @@
-###DEL-006748-0-000-29-07-1944@@@
-
 DECRETO-LEI N. 6.748 – DE 29 DE JULHO DE 1944
 
 Concede subvenção à “Navegação Aérea Brasileira S. A.” (N. A. B. ), e dá outras providências

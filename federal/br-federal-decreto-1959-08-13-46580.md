@@ -1,5 +1,3 @@
-###DEC-046580-0-000-13-08-1959@@@
-
 DECReTO Nº 46.580, DE 13 DE AGÔSTO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$8.000.000,00 para atender às despesas feitas pela confederação Brasileira de Basketball, na realização do II Campeonato Mundial de Basketball Feminino.

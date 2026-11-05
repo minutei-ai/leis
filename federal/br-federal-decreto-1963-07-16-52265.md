@@ -1,5 +1,3 @@
-###DEC-052265-0-000-16-07-1963@@@
-
 decreto nº 52.265, de 16 julho de 1963.
 
 Altera a redação do Art. 15 do Decreto 48.921, de 8 de setembro de 1960, e dá outras providências.

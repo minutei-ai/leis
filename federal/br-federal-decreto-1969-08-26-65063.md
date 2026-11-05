@@ -1,5 +1,3 @@
-###DEC-065063-0-000-26-08-1969@@@
-
 DECRETO Nº 65.063 - DE 26 DE AGÔSTO DE 1969.
 
 Concede autorização a Sociedade Seguradora Estrangeira para continuar a operar no Brasil sob nova denominação.

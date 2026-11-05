@@ -1,5 +1,3 @@
-###DEC-045899-0-000-28-04-1959@@@
-
 Decreto nº 45.899, de 28 de abril de 1959.
 
 Concede à Mibral - Mineração Brasileira Ltda, autorização para funcionar como emprêsa de mineração.

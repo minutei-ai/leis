@@ -6,12 +6,14 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Estado da Bahia, através do Poder Executivo, autorizado a participar do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica LUZ PARA TODOS, a ser executado pela Companhia de Eletricidade do Estado da Bahia COELBA e pela Companhia Sul Sergipana de Eletricidade SULGIPE, nas áreas de suas respectivas concessões, com o objetivo de propiciar o acesso à energia elétrica a 360.707 (trezentos e sessenta mil, setecentos e sete) consumidores do meio rural, até o ano de 2008.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.442, de 11 de abril de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9442-de-11-de-abril-de-2005#LO_9_442_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.442, de 11 de abril de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9442-de-11-de-abril-de-2005#LO_9_442_Art__1) .
+
 Redação original: "Art. 1º - Fica o Estado da Bahia, através do Poder Executivo, autorizado a participar do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos, a ser executado pela Companhia de Eletricidade do Estado da Bahia - COELBA, com o objetivo de propiciar o acesso à energia elétrica a 357.970 (trezentos e cinqüenta e sete mil, novecentos e setenta) consumidores do meio rural, durante o período de 2004 a 2008."
 
 Art. 2º - A participação do Estado far-se-á mediante subvenção econômica, no percentual de até 30% (trinta por cento) do montante estimado de R$ 1.743.247.237,75 (um bilhão, setecentos e quarenta e três milhões, duzentos e quarenta e sete mil, duzentos e trinta e sete reais e setenta e cinco centavos), relativo à totalidade do Programa de Obras.
 
-Redação do art. 2º de acordo com o [art. 1º da Lei nº 9.442, de 11 de abril de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9442-de-11-de-abril-de-2005#LO_9_442_Art__1) .<br>
+Redação do art. 2º de acordo com o [art. 1º da Lei nº 9.442, de 11 de abril de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9442-de-11-de-abril-de-2005#LO_9_442_Art__1) .
+
 Redação original: "Art. 2º - A participação do Estado far-se-á mediante subvenção econômica, no percentual de até 30% (trinta por cento) do montante estimado de R$ 1.734.511.418,00 (um bilhão, setecentos e trinta e quatro milhões, quinhentos e onze mil e quatrocentos e dezoito reais), relativo à totalidade do Programa de Obras."
 
 § 1º - A participação financeira do Estado poderá ser viabilizada com recursos da Companhia de Desenvolvimento e Ação Regional - CAR, através do Programa PRODUZIR, e dos Municípios.
@@ -46,4 +48,4 @@ Eraldo Tinoco Melo
 
 Secretário de Infra-Estrutura
 
-* * *
+ *

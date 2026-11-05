@@ -1,5 +1,3 @@
-###DEC-093282-0-000-23-09-1986@@@
-
 DECRETO Nº 93.282, DE 23 DE SETEMBRO DE 1986
 
 Outorga concessão ao SISTEMA TIMON DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Timon, Estado do Maranhão.

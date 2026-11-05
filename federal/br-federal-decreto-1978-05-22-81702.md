@@ -1,5 +1,3 @@
-###DEC-081702-0-000-22-05-1978@@@
-
 Decreto nº 81 702 de 22 de maio  de 1978
 
 Autoriza a transferência de imóvel da União para a Empresa Brasileira de Radiodifusão - RADIOBRÁS.

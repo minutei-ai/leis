@@ -1,5 +1,3 @@
-###DEC-002720-0-000-10-08-1998@@@
-
 DECRETO Nº 2.720, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre a execução do Décimo Quarto Protocolo Adicional ao Acordo Comercial nº 21, Setor da Indústria Química, entre Brasil, Argentina, Chile, México e Uruguai, de 22 de dezembro de 1989.
@@ -34,7 +32,33 @@ ACORDAM:
 
 Art. 1º - Incorporar ao setor industrial do Acordo os seguintes produtos classificados de conformidade com a nomenclatura utilizada pela Associação (NALADI):
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">26.01.8.01</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Minério sulfatado de zinco</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">28.46.2.01</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Perborato de sódio tetraidratado</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">29.14.7.99</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fenil acetato de potássio</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32.09.4.01</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alumínio em pasta</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32.09.6.01</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Soluções à base de acetobutirato de celulose</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">38.08.1.01</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Breu resinoso vivo</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">39.03.3.03</span></p></td><td style="width:341.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acetobutirato de celulose</span></p></td></tr></tbody></table>
+26.01.8.01
+
+Minério sulfatado de zinco
+
+28.46.2.01
+
+Perborato de sódio tetraidratado
+
+29.14.7.99
+
+Fenil acetato de potássio
+
+32.09.4.01
+
+Alumínio em pasta
+
+32.09.6.01
+
+Soluções à base de acetobutirato de celulose
+
+38.08.1.01
+
+Breu resinoso vivo
+
+39.03.3.03
+
+Acetobutirato de celulose
 
 Art. 2º - Substituir as preferências pactuadas pelos países signatários para a importação dos produtos negociados pelas registradas no Anexo 1 deste Protocolo.
 
@@ -58,7 +82,23 @@ PREFERÊNCIAS OUTORGADAS PELOS PAÍSES SIGNATÁRIOS
 
 PARA A IMPORTAÇÃO DOS PRODUTOS NEGOCIADOS
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Página</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A. Preferências pactuadas entre a Argentina e o Brasil .................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">B. Preferências pactuadas entre a Argentina e o México ...............................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">31</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">C. Preferências pactuadas entre o Brasil e o México .....................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">48</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">D. Preferências pactuadas entre o Brasil e o Uruguai ....................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">71</span></p></td></tr></tbody></table>
+Página
+
+A. Preferências pactuadas entre a Argentina e o Brasil .................................
+
+5
+
+B. Preferências pactuadas entre a Argentina e o México ...............................
+
+31
+
+C. Preferências pactuadas entre o Brasil e o México .....................................
+
+48
+
+D. Preferências pactuadas entre o Brasil e o Uruguai ....................................
+
+71
 
 ANEXO 2
 
@@ -206,7 +246,21 @@ PRODUTOS CONSIDERADOS ORIGINARIOS PELOS SIMPLES FATO DE SEREM PRODUZIDOS NO TERR
 
 (ARTIGO PRIMEIRO, LETRA b)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:122.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CÓDIGO NUMÉRICO</span></p></td><td style="width:299.4pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PRODUTO</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">13.02.2.01</span></p></td><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Goma arábiga (do Senegal, do Nilo, de Adem, etc.)</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15.16.0.01</span></p></td><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Candelila</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25.30.0.99</span></p></td><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hidroboracita</span></p></td></tr></tbody></table>
+CÓDIGO NUMÉRICO
+
+PRODUTO
+
+13.02.2.01
+
+Goma arábiga (do Senegal, do Nilo, de Adem, etc.)
+
+15.16.0.01
+
+Candelila
+
+25.30.0.99
+
+Hidroboracita
 
 APÊNDICE 2
 
@@ -214,10 +268,70 @@ REQUISITOS ESPECÍFICOS DE ORIGEM
 
 (ARTIGO PRIMEIRO, LETRA d)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:58.4pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CÓDIGO NUMÉRICO</span></p></td><td style="width:81.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PRODUTO</span></p></td><td style="width:271pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">REQUISITO ESPECÍFICO</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15.07.1.14</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Óleo de babaçu</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Babaçu dos países signatários</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15.10.3.04</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Álcool oléico</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gorduras o óleos dos países signatários</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15.11.0.03</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Glicerina refinada</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gorduras e óleos dos países signatários</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">28.29.1.04</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fluoreto de sódio</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ácido fluorídrico dos países signatários</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32.01.1.01</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Extrato de acácia</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acácia negra dos países signatários</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">38.03.1.01</span></p></td><td style="width:81.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carvões ativados</span></p></td><td style="width:271pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carvão vegetal ou matérias celulósicas dos países signatários</span></p></td></tr></tbody></table>
+CÓDIGO NUMÉRICO
+
+PRODUTO
+
+REQUISITO ESPECÍFICO
+
+15.07.1.14
+
+Óleo de babaçu
+
+Babaçu dos países signatários
+
+15.10.3.04
+
+Álcool oléico
+
+Gorduras o óleos dos países signatários
+
+15.11.0.03
+
+Glicerina refinada
+
+Gorduras e óleos dos países signatários
+
+28.29.1.04
+
+Fluoreto de sódio
+
+Ácido fluorídrico dos países signatários
+
+32.01.1.01
+
+Extrato de acácia
+
+Acácia negra dos países signatários
+
+38.03.1.01
+
+Carvões ativados
+
+Carvão vegetal ou matérias celulósicas dos países signatários
 
 A Secretaria-Geral da Associação será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos vinte e dois dias do mês de dezembro de mil novecentos e oitenta e nove, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo de República Argentina:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">María Esther T. Bondanza</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Roberto Gaspary Torres</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Chile:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Juan Guillermo Toro Dávila</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela Governo dos Estados Unidos Mexicanos:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Roberto de Rosenzweig-Díaz</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">.</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gustavo Magariños</span></p></td></tr></tbody></table>
+Pelo Governo de República Argentina:
+
+María Esther T. Bondanza
+
+Pelo Governo da República Federativa do Brasil:
+
+Roberto Gaspary Torres
+
+Pelo Governo da República do Chile:
+
+Juan Guillermo Toro Dávila
+
+Pela Governo dos Estados Unidos Mexicanos:
+
+Roberto de Rosenzweig-Díaz
+
+Pelo Governo da República Oriental do Uruguai:
+
+.
+
+Gustavo Magariños

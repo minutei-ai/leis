@@ -1,5 +1,3 @@
-###DEC-056477-0-000-18-06-1965@@@
-
 DECRETO Nº 56.477, DE 18 DE JUNHO DE 1965.
 
 Modifica a denominação de estabelecimento de ensino.

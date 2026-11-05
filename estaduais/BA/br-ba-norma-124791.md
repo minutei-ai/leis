@@ -6,14 +6,16 @@ Dispõe sobre a organização do Conselho Estadual de Educação e dá outras pr
 
 O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi delegada pela Resolução nº 1.176 de 03 de dezembro de 1982, da Assembléia Legislativa do Estado da Bahia, promulga a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE, SEDE E CONSTITUIÇÃO
 
 Art. 1º - O Conselho Estadual de Educação, órgão do Sistema Estadual de Ensino, nos termos do art. 10 da Lei Federal nº 4.024 de 06 de dezembro de 1961, modificada pela Lei Federal nº 5.855 de 07 de dezembro de 1972, integrante da estrutura da Secretaria da Educação e Cultura, com sede na Capital do Estado, tem por finalidade disciplinar as atividades educacionais do ensino público e particular em todo o território estadual, exercendo funções normativas, deliberativas e consultivas.
 
 Art. 2º - O Conselho Estadual de Educação compõe-se de 24 (vinte e quatro) Membros nomeados pelo Governador com prévia aprovação do Poder Legislativo, dentre pessoas residentes no Estado e de notório saber e experiência em matéria de educação, os quais deverão representar os diversos graus de ensino, bem como os estabelecimentos de ensino e os magistérios oficial e particular, devendo os representantes destes dois últimos ser indicados por suas entidades representativas, reconhecidas na forma da Lei.
 
-Redação de acordo com o [15](https://www.legislabahia.ba.gov.br/documentos/lei-no-4197-de-19-de-dezembro-de-1983#LO_4_197_Art__1) da Lei nº 4.197, de 19 de dezembro de 1983.<br>
+Redação de acordo com o [15](https://www.legislabahia.ba.gov.br/documentos/lei-no-4197-de-19-de-dezembro-de-1983#LO_4_197_Art__1) da Lei nº 4.197, de 19 de dezembro de 1983.
+
 Redação original: "Art. 2º - O Conselho Estadual de Educação compõe-se de 24 (vinte e quatro) membros, nomeados pelo Governador, com prévia aprovação do Poder Legislativo, dentre pessoas residentes no Estado e de notório saber e experiência em matéria de educação, os quais deverão representar, adequadamente, os diversos graus do ensino, bem como os estabelecimentos de ensino e o magistério oficial e particular."
 
 § 1º - O Governador do Estado nomeará, até a metade do número de titulares e atendidos aos mesmos critérios, conselheiros suplentes que serão convocados, à medida da necessidade de preservação do quorum regimental, para substituir os que se licenciarem ou estiverem impedidos.
@@ -22,10 +24,12 @@ Redação original: "Art. 2º - O Conselho Estadual de Educação compõe-se de 
 
 § 3º - Em caso de vacância definitiva, ficará a critério do Governador do Estado a nomeação do substituto, respeitado o disposto neste artigo.
 
-Redação de acordo com o [15](https://www.legislabahia.ba.gov.br/documentos/lei-no-4197-de-19-de-dezembro-de-1983#LO_4_197_Art__1) da Lei nº 4.197, de 19 de dezembro de 1983.<br>
+Redação de acordo com o [15](https://www.legislabahia.ba.gov.br/documentos/lei-no-4197-de-19-de-dezembro-de-1983#LO_4_197_Art__1) da Lei nº 4.197, de 19 de dezembro de 1983.
+
 Redação original: "§ 3º - Em caso de vacância definitiva ficará a critério do Governador do Estado decidir sobre a nomeação do substituto."
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 COMPETÊNCIA
 
 Art. 3º - Compete ao Conselho Estadual de Educação:
@@ -94,7 +98,8 @@ XXXI - deliberar sobre assuntos afins ou correlatos e quaisquer outros que lhe s
 
 Parágrafo único - Dependem de homologação do Secretário da Educação e Cultura as decisões sobre as matérias enunciadas nos incisos III, IV, XII, XIV, XV, XVI, XVII, XVIII, XXI, XXIII, XXVI deste artigo e outras indicadas no Regimento Interno.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FUNCIONAMENTO
 
 Art. 4º - O Conselho Estadual de Educação funcionará em Plenário, Câmaras de Ensino e Comissões Permanentes.
@@ -107,7 +112,8 @@ Art. 4º - O Conselho Estadual de Educação funcionará em Plenário, Câmaras 
 
 Art. 5º - Na forma regimental, poderão ser constituídas, por iniciativa da Presidência do Conselho ou do Secretário da Educação e Cultura, comissões especiais ou grupos de trabalho.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 ADMINISTRAÇÃO DO CONSELHO
 
 Art. 6º - A Administração do Conselho Estadual de Educação incumbe ao Presidente, eleito mediante votação secreta, pela maioria absoluta de seus pares, com mandato de dois anos, permitida a reeleição.
@@ -124,7 +130,8 @@ Art. 8º - O Secretário da Educação e Cultura, sempre que estiver presente, p
 
 Art. 9º - Para o exercício de suas atividades o Conselho contará com o apoio de Unidades Técnico-Administrativas definidas em Regimento Interno.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 CONSELHEIROS
 
 Art. 10 - A função de Conselheiro é considerada de relevante interesse público, e seu exercício terá prioridade sobre qualquer outra função ou cargo.
@@ -135,7 +142,8 @@ Parágrafo único - Quando residir no Interior do Estado e se deslocar para reun
 
 Art. 12 - Os Conselheiros não poderão participar de deliberação sobre assuntos de seu interesse pessoal ou de parentes, até o terceiro grau, inclusive.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - As deliberações do Conselho Estadual de Educação revestir-se-ão da forma de resolução ou parecer.

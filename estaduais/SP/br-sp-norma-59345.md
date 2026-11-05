@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59345)
-
 # LEI Nº 12.153, DE 16 DE DEZEMBRO DE 2005
 
 ## ( PL 1107/1991 - Antonio Salim Curiati)

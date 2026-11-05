@@ -1,5 +1,3 @@
-###DEC-087111-0-000-19-04-1982@@@
-
 Decreto nº 87.111, de 19 de abril de 1982
 
 Concede autorização à empresa IBERIA Lineas Aereas de España para continuar a funcionar no Brasil e altera Cláusulas que acompanham o Decreto nº 24.230, de 18 de dezembro de 1947.
@@ -302,4 +300,20 @@ Francisco Lucas Fernandez, Doutor em Direito e Tabelião de Madrid, dou fé de q
 
 POR TRADUÇÃO CONFORME
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Rio de Janeiro, 07 de outubro de 1981.</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Nº 22652 - 16-04-82</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Matrícula JUCERJA: 12. Cr$ 3.050,00</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 588.672,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Rio de Janeiro, 07 de outubro de 1981.
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Nº 22652 - 16-04-82
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Matrícula JUCERJA: 12. Cr$ 3.050,00
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Cr$ 588.672,00
+
+</td></tr></tbody></table>

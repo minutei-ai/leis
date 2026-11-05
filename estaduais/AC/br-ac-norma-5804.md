@@ -1,6 +1,10 @@
 > **LEI Nº 4.202, DE 24 DE NOVEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a abertura de crédito adicional especial para concessão do Prêmio de Comunicação do Governo do Acre referente ao exercício de 2023.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a abertura de crédito adicional especial para concessão do Prêmio de Comunicação do Governo do Acre referente ao exercício de 2023.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

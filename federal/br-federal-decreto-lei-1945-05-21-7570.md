@@ -1,5 +1,3 @@
-###DEL-007570-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.570 – DE 21 DE MAIO DE 1945
 
 Dispõe sôbre financiamento das lavouras de café dos Estados de São Paulo e Paraná

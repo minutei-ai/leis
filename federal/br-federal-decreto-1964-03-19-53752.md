@@ -1,5 +1,3 @@
-###DEC-053752-0-000-19-03-1964@@@
-
 decreto nº 53.752, de 19 de março de 1964.
 
 Transfere ao Município de Botelhas, Estado de Minas Gerais, concessão para distribuir energia elétrica.

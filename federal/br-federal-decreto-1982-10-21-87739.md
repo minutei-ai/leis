@@ -1,5 +1,3 @@
-###DEC-087739-0-000-21-10-1982@@@
-
 Decreto nº 87.739, dE 21 de outubro de 1982
 
 Cria, no Ministério da Aeronáutica, o Esquadrão de Demonstração Aérea da Força Aérea Brasileira e dá outras providências.

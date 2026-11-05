@@ -1,5 +1,3 @@
-###DEL-009485-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.485 – DE 18 DE JULHO DE 1946
 
 Dispõe sôbre a contribuição dos institutos de previdência social à “Fundação Rio Branco”.

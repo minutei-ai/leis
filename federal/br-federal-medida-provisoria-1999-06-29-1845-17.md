@@ -1,5 +1,3 @@
-###MPV-001845-0-017-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.845-17, DE 29 DE JUNHO DE 1999.
 
 Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, com as ressalvas impostas pela Lei nº 9.660, de 16 de junho de 1998, e dá outras providências.

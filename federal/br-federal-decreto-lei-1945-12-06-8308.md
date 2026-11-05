@@ -1,5 +1,3 @@
-###DEL-008308-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.308 – DE 6 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a autonomia técnico-administrativa da Departamento dos Correios e Telégrafos e dá outras providências,

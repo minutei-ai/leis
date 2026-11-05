@@ -1,5 +1,3 @@
-###DEC-045600-0-000-23-03-1959@@@
-
 DECRETO Nº 45.600, DE 23 DE MARÇO DE 1959.
 
 Concede permissão, em caráter permanente, à Companhia Curvelana Agro-Industrial, com sede em Curvelo, Estado de Minas Gerais, para funcionar aos domingos e nos feriados civis e religiosos.

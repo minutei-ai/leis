@@ -1,5 +1,3 @@
-###DEC-045687-0-000-02-04-1959@@@
-
 DECRETO Nº 45.687, DE 2 DE ABRIL DE 1959.
 
 Autoriza a cessão do terreno nacional interior que menciona, situação a montante da Estrada do Sumaré, nos atos da Serra Carioca, no Distrito Federal.

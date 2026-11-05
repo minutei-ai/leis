@@ -1,5 +1,3 @@
-###DEC-090842-0-000-23-01-1985@@@
-
 DECRETO Nº 90.842, DE 23 DE JANEIRO DE 1985
 
 Autoriza o funcionamento da Escola de Agronomia de Vitória da Conquista, com o curso de Agronomia, da Autarquia Universidade do Sudoeste da Bahia.

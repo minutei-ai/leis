@@ -1,5 +1,3 @@
-###DEC-066768-0-000-24-06-1970@@@
-
 DECRETO Nº 66.768 - DE 24 DE JUNHO DE 1970
 
 Autoriza o funcionamento da Faculdade de Medicina da PUC-RS.

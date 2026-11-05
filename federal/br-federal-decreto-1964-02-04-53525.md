@@ -1,5 +1,3 @@
-###DEC-053525-0-000-04-02-1964@@@
-
 DECRETO Nº 53.525, DE 4 DE FEVEREIRO DE 1964.
 
 Eleva o Consulado em Vigo à categoria de Consulado-Geral.

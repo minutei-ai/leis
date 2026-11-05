@@ -1,22 +1,20 @@
-###DEC-025090-0-000-14-06-1948@@@
+**DECRETO N° 25.090, DE 14 DE JUNHO DE 1948.**
 
-<strong>DECRETO N° 25.090, DE 14 DE JUNHO DE 1948.</strong>
+***Concede à “Astoria of Brazil, Inc.” sociedade anônima autorização para funcionar na República.***
 
-<em><strong>Concede à “Astoria of Brazil, Inc.” sociedade anônima autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a Sociedade anônima “*Astoria of Brazil, Inc*.”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a Sociedade anônima “<em>Astoria of Brazil, Inc</em>.”,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade anônima “<em>Astoria of Brazil, Inc</em>.”, com sede em Washington, Candado de New Castle. Deleware, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$ 200.000,00 (duzentos mil cruzeiros), destinado ás suas operações no Brasil, e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade anônima “*Astoria of Brazil, Inc*.”, com sede em Washington, Candado de New Castle. Deleware, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$ 200.000,00 (duzentos mil cruzeiros), destinado ás suas operações no Brasil, e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 14 de junho de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.090, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.090, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 14 de junho de 1948.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

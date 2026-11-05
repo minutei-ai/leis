@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b73ecd0d-9fb1-41c2-b1b7-209e93f5686b/texto#nowhere)
 
-###DEC-091613-0-000-03-09-1985@@@
-
 # Decreto nº 91.613, de 03 de setembro de 1985
 
 Altera o Decreto nº  86.215, de 15 de julho de 1981, que fixa normas para a transferência, transformação e desativação de empresas sob o controle do Governo Federal.

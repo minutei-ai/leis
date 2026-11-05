@@ -1,5 +1,3 @@
-###DEC-053254-0-000-13-12-1963@@@
-
 DECRETO Nº 53.254, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Manoel de Carvalho a pesquisar águas marinhas no município de Conceição do Mato Dentro, Estado de Minas Gerais.

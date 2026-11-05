@@ -1,5 +1,3 @@
-###DEC-049407-0-000-02-12-1960@@@
-
 decreto nº 49.407, de 2 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Turíbio Gonçalves Martins a pesquisar mármore no município de Juazeiro, Estado da Bahia.

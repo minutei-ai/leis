@@ -1,5 +1,3 @@
-###DEC-085315-0-000-04-11-1980@@@
-
 Decreto nº 85.315, de 04 de novembro de 1980.
 
 Altera o artigo 2º do Decreto nº 76.089, de 6 de agosto de 1975, que dispõe sobre o Conselho de Administração da SUFRAMA.

@@ -1,5 +1,3 @@
-###DEC-075982-0-000-17-07-1975@@@
-
 DECRETO Nº 75.982 - DE 17 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", mantida pela Associação Itaquerense de Ensino, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -33,7 +33,3 @@ Deputado Antônio Júlio - 5º Secretário
 REDAÇÃO ORIGINAL
 
 "Art. 239 - A arrecadação de impostos, taxas, contribuições e demais receitas dos órgãos e entidades integrantes da Administração Pública Estadual será efetuada pelas instituições financeiras oficiais estaduais, onde houver, para o que serão celebrados contratos que assegurem a estas a justa remuneração pelos serviços prestados."
-
-\-------------------------------------------------------------------------
-
-Data da última atualização: 05/11/2003.

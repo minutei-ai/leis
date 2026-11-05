@@ -1,5 +1,3 @@
-###DEC-092352-0-000-30-01-1986@@@
-
 DECRETO Nº 92.352, DE 30 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Jequié.

@@ -1,5 +1,3 @@
-###DEC-080183-0-000-17-08-1977@@@
-
 DECRETO N 80.183, DE 17 DE AGOSTO DE 1977.
 
 Concede à Laminação de Ferro S. A., - LAFERSA o direito de lavrar calcário no Município de Paracatu, Estado de Minas Gerais

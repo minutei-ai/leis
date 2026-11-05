@@ -1,5 +1,3 @@
-###DEC-076596-0-000-14-11-1975@@@
-
 DECRETO Nº 76.596, de 14 DE NOVEMBRO DE 1975.
 
 Aprova o Regulamento da Comissão Brasileira de Atividades Espaciais e dá outras providências.

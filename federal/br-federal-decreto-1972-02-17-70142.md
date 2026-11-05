@@ -1,5 +1,3 @@
-###DEC-070142-0-000-17-02-1972@@@
-
 Decreto Nº 70.142, DE 17 DE FEVEREIRO DE 1972.
 
 Concede à Mineração Morro do Ferro Ltda., o direito de lavrar minério de ferro, no município de Passa Tempo, Estado de Minas Gerais.

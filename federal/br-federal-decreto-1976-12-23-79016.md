@@ -1,5 +1,3 @@
-###DEC-079016-0-000-23-12-1976@@@
-
 DECRETO Nº 79.016, DE 23 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento dos cursos de Química e de Matemática da Faculdade de Filosofia, Ciências e Letras Camilo Castelo Branco, com sede na cidade de São Paulo, Estado de São Paulo.

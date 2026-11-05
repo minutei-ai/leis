@@ -1,5 +1,3 @@
-###DEC-078859-0-000-30-11-1976@@@
-
 DECRETO Nº 78.859, DE 30 DE NOVEMBRO DE 1976.
 
 Concede à JOMIC - Empresas de Mineração Indústria e Comércio Ltda. o direito de lavar esmeralda no Município de Mirangaba, Estado da Bahia.

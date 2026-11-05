@@ -1,5 +1,3 @@
-###DEL-007497-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.497 – DE 26 DE ABRIL DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 30.000.000,00, para prosseguimento da ligação rodoviária do Sul com o Norte do País

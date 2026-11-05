@@ -1,5 +1,3 @@
-###DEC-044972-0-000-02-12-1958@@@
-
 DECRETO Nº 44.972, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza Carvalho Franco & Filho Ltda. a lavrar água mineral no município de Goiás, Estado de Goiás.

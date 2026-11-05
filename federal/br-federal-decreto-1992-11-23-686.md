@@ -1,7 +1,3 @@
-1
-
-###DEC-000686-0-000-23-11-1992@@@
-
 DECRETO Nº 686, DE 23 DE NOVEMBRO DE 1992
 
 Dispõe sobre a reorganização do Comitê de Avaliação de Créditos ao Exterior (COMACE), e dá outras providências.

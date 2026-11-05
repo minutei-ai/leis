@@ -1,5 +1,3 @@
-###DEC-057446-0-000-16-12-1965@@@
-
 Decreto nº 57.446, de 16 de dezembro de 1965.
 
 Abre crédito especial pelo Ministério da Fazenda, autorizado pela Lei nº 4.773, de 15-9-1965.

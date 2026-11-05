@@ -1,4 +1,5 @@
-Portaria Orçamentária nº 27/2025 - Economia<br>
+Portaria Orçamentária nº 27/2025 - Economia
+
  
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e inciso III, alínea "a" e "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025.
@@ -21,7 +22,8 @@ QUADRO 1
 
 SUPLEMENTAÇÃO
 
-|   **1700 - SECRETARIA DE ESTADO DA ECONOMIA**<br>
+|   **1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+
 **1704 - ENCARGOS ESPECIAIS** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
@@ -52,7 +54,8 @@ QUADRO 2
 
 REDUÇÃO
 
-|   **1700 - SECRETARIA DE ESTADO DA ECONOMIA**<br>
+|   **1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+
 **1704 - ENCARGOS ESPECIAIS** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO A PROGRAMAR** |   **VALOR BLOQUEADO** |   **VALOR A REDUZIR** |

@@ -1,5 +1,3 @@
-###DEL-004004-0-000-08-01-1942@@@
-
 DECRETO-LEI N. 4.004 – DE 8 DE JANEIRO DE 1942
 
 Torna sem efeito o decreto-lei n. 3.831, de 18 de novembro de 1941, e dá outras providências

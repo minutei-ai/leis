@@ -1,5 +1,3 @@
-###DEC-051625-0-000-17-12-1962@@@
-
 DECRETO Nº 51.625, DE 17 DE DEZEMBRO DE 1962.
 
 Abre pelo Ministério da Fazenda o crédito extraordinário de Cr$200.000.000,00 (duzentos milhões de cruzeiros) para os fins que especifica.

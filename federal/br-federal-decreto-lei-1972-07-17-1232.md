@@ -1,7 +1,3 @@
-1
-
-###DEL-001232-0-000-17-07-1972@@@
-
 # DECRETO-LEI Nº 1.232, DE 17 DE JULHO DE 1972
 
 Institui Programa de Incentivo à Produção de Borracha Vegetal.

@@ -1,5 +1,3 @@
-###DEL-006510-0-000-18-05-1944@@@
-
 DECRETO-LEI N. 6.510 – DE 18 DE MAIO DE 1944
 
 Cria cargos isolados, de provimento em comissão, no Quadro Permanente do Ministério da Justiça e Negócios Interiores.

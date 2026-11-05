@@ -1,5 +1,3 @@
-###DEC-004295-0-000-09-07-2002@@@
-
 DECRETO Nº 4.295, DE 9 DE JULHO DE 2002
 
 Dispõe sobre a Força Tarefa instituída no âmbito do Ministério da Justiça, para atuar no Estado dório de Janeiro.

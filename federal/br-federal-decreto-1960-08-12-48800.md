@@ -1,5 +1,3 @@
-###DEC-048800-0-000-12-08-1960@@@
-
 Decreto nº 48.800, de 12 de agôsto de 1960.
 
 Autoriza o cidadão Brasileiro Francisco Pires Martins a pesquisar areia e quartzosa no município de Santos, Estado de São Paulo.

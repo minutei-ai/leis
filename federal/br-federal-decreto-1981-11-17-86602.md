@@ -1,5 +1,3 @@
-###DEC-086602-0-000-17-11-1981@@@
-
 Decreto nº 86.602, de 17 de novembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado de São Paulo.

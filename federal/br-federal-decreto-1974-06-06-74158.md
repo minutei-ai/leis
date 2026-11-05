@@ -1,5 +1,3 @@
-###DEC-074158-0-000-06-06-1974@@@
-
 DECRETO Nº 74.158, DE 6 DE JUNHO DE 1974.
 
 Institui o Conselho Nacional de Abastecimento e dá outras providências.

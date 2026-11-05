@@ -1,5 +1,3 @@
-###DEC-051910-B-000-23-04-1963@@@
-
 DECRETO Nº 51.910-b, DE 23 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Eliezer Evangelista de Matos, a pesquisar mármore no município de Curaçá, Estado da Bahia.

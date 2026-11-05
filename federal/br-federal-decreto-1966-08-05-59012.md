@@ -1,5 +1,3 @@
-###DEC-059012-0-000-05-08-1966@@@
-
 DECRETO Nº 59.012, DE 5 DE AGÔSTO DE 1966.
 
 Concede à Minerações Brasileiras Reunidas S.A. autorização para funcionar como emprêsa de mineração.

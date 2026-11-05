@@ -1,7 +1,3 @@
-1
-
-###MPV-001302-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.302, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

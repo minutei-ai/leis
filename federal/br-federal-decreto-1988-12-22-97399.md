@@ -1,5 +1,3 @@
-###DEC-097399-0-000-22-12-1988@@@
-
 DECRETO Nº 97.399, DE 22 DE DEZEMBRO DE 1988
 
 Concede à EMBRAER - Empresa Brasileira de Aeronáutica S.A. - autorização para proceder à elevação do limite de autorização para aumento de capital social.

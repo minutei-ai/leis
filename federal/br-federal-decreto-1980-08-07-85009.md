@@ -1,5 +1,3 @@
-###DEC-085009-0-000-07-08-1980@@@
-
 Decreto nº 85.009, de 07 de agosto de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-089601-0-000-02-05-1984@@@
-
 Decreto nº 89.601, de 02 de maio de 1984
 
 Autoriza a alienação dos imóveis que menciona, situados nos Municípios de Guararapes e Ibitinga, Estado de São Paulo e de São Luís de Montes Belos, Estado de Goiás.

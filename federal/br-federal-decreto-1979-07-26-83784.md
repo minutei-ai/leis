@@ -1,5 +1,3 @@
-###DEC-083784-0-000-26-07-1979@@@
-
 decreto nº 83.784, de 26 de julho de 1979.
 
 Autoriza o Sindicato Nacional dos Editores de Livros a filiar-se à União Internacional de Editores.

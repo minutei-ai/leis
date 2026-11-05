@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211153)<br>
-
 # LEI COMPLEMENTAR N° 1.427, DE 08 DE JULHO DE 2025
 
 ### _Institui a carreira de Especialista Social e dá providências correlatas._
@@ -8,12 +6,14 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições gerais
 
 **Artigo 1° -** Fica instituída a carreira de Especialista Social, no Subquadro de Cargos Públicos (SQC-III) da Secretaria de Desenvolvimento Social, na forma desta lei complementar.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das atribuições do Especialista Social
 
 **Artigo 2° -** São atribuições do cargo de Especialista Social:
@@ -36,19 +36,22 @@ VIII - emitir pareceres técnicos;
 
 IX - executar outras atividades afins.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Carreira de Especialista Social
 
 **Artigo 3° -** A carreira de Especialista Social é constituída de 6 (seis) Níveis, identificados por algarismos romanos de I a VI, cada um deles compostos por 3 (três) Categorias, identificadas pelas letras A a C, na forma do Anexo I desta lei complementar.
 
 **Parágrafo único -** Os cargos da carreira a que se refere o "caput" deste artigo situam-se inicialmente na Categoria A do Nível I da carreira e a ela retornam quando vagos.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Regime Jurídico e da Jornada de Trabalho
 
 **Artigo 4° -** Os integrantes da carreira instituída por esta lei complementar ficam sujeitos ao regime da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), e à Jornada Completa de Trabalho, caracterizada pela exigência da prestação de 40 (quarenta) horas semanais de trabalho.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Ingresso na Carreira
 
 **Artigo 5° -** O ingresso na carreira de Especialista Social dar-se-á na Categoria A do Nível I, mediante concurso público de provas ou de provas e títulos, de acordo com os critérios estabelecidos no edital que rege o concurso, obedecidos, cumulativamente, as seguintes exigências:
@@ -59,7 +62,8 @@ II - experiência profissional devidamente comprovada de, no mínimo, 2 (dois) a
 
 **Parágrafo único -** O concurso público para provimento do cargo de Especialista Social poderá ser realizado por área de formação acadêmica ou em razão da natureza das atividades a serem desenvolvidas, na forma estabelecida no respectivo edital de concurso, de acordo com as necessidades da Administração Pública estadual.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Estágio Probatório
 
 **Artigo 6° -** O estágio probatório corresponde ao período de 3 (três) anos de efetivo exercício que se segue ao início do exercício no cargo.
@@ -122,7 +126,8 @@ IV - na hipótese da licença de que trata a [Lei Complementar n° 367, de 14 de
 
 **§ 2° -** O servidor que não for aprovado no estágio probatório será exonerado do cargo, mediante processo em que lhe sejam assegurados o contraditório e a ampla defesa.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Do Regime de Remuneração por Subsídio
 
 **Artigo 11 -** O Especialista Social será remunerado por subsídio, nos termos dos §§ 4° e 8° do artigo 39 da Constituição Federal e do parágrafo único do artigo 129 da Constituição do Estado, fixado em parcela única, nos termos do Anexo I desta lei complementar, vedado o acréscimo de qualquer vantagem pecuniária, exceto:
@@ -141,7 +146,8 @@ VI - retribuição pelo exercício de atribuições de direção, chefia e asses
 
 VII - verbas de caráter indenizatório.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Da Evolução na Carreira
 
 **Artigo 12 -** A evolução do servidor na carreira de Especialista Social, dar-se-á por progressão funcional, nas Categorias, e da promoção, nos Níveis, conforme regulamentação.
@@ -186,7 +192,8 @@ V - na hipótese da licença de que trata a [Lei Complementar n° 367, de 14 de 
 
 VI - designação como substituto ou para responder por cargo em comissão ou função de confiança vagos no órgão em que seu cargo efetivo de Especialista Social esteja classificado ou em órgão cuja carreira integre o Subquadro de Cargos Públicos (SQC-III).
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 Disposições Finais
 
 **Artigo 17 -** Será constituída Comissão de Avaliação de Desempenho e Evolução da Carreira de Especialista Social, constituída por número ímpar de membros, que atuará em conjunto com o órgão setorial de recursos humanos e as chefias imediata e mediata, cabendo-lhe, dentre outras atribuições:
@@ -205,7 +212,8 @@ II - realizar os processos de progressão funcional e promoção dos integrantes
 
 **Artigo 22 -** Ficam revogadas as disposições em contrário e, em especial, os artigos 1° a 8°, o inciso I e parágrafo único do artigo 9°, os artigos 10 a 13, e o parágrafo único do artigo 15, da [Lei Complementar n° 854, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7500).
 
-#### SEÇÃO X<br>
+#### SEÇÃO X
+
 Disposições Transitórias
 
 **Artigo 1° -** Os cargos das classes de Agente de Desenvolvimento Social e de Especialista em Desenvolvimento Social, instituídas pela [Lei Complementar n° 854, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7500), ficam enquadrados na forma do Anexo II desta lei complementar, enquadrando-se os respectivos cargos no mesmo Nível em que se encontravam na data de entrada em vigor desta lei complementar.
@@ -274,12 +282,14 @@ Arthur Luis Pinho de Lima
 
 Secretário-Chefe da Casa Civil
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° desta Lei Complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">NÍVEIS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">A</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">B</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.469,40</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8.787,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.116,52</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.028,17</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.404,22</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.794,38</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11.873,82</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.319,09</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.781,05</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.059,16</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.586,38</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15.133,37</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16.646,70</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.270,95</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.918,62</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Social VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.710,48</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">20.449,62</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.216,48</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">NÍVEIS</td><td colspan="3">CATEGORIAS SUBSÍDIO-R$</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Especialista Social I</td><td>8.469,40</td><td>8.787,00</td><td>9.116,52</td></tr><tr><td>Especialista Social II</td><td>10.028,17</td><td>10.404,22</td><td>10.794,38</td></tr><tr><td>Especialista Social III</td><td>11.873,82</td><td>12.319,09</td><td>12.781,05</td></tr><tr><td>Especialista Social IV</td><td>14.059,16</td><td>14.586,38</td><td>15.133,37</td></tr><tr><td>Especialista Social V</td><td>16.646,70</td><td>17.270,95</td><td>17.918,62</td></tr><tr><td>Especialista Social VI</td><td>19.710,48</td><td>20.449,62</td><td>21.216,48</td></tr></tbody></table>
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 1° das Disposições Transitórias desta Lei Complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SITUAÇÃO ATUAL</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SITUAÇÃO NOVA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CLASSE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARREIRA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Agente de Desenvolvimento Social</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">Especialista Social</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista em Desenvolvimento Social</td></tr></tbody></table>
+<table><tbody><tr><td>SITUAÇÃO ATUAL</td><td>SITUAÇÃO NOVA</td></tr><tr><td>CLASSE</td><td>CARREIRA</td></tr><tr><td>Agente de Desenvolvimento Social</td><td rowspan="2">Especialista Social</td></tr><tr><td>Especialista em Desenvolvimento Social</td></tr></tbody></table>

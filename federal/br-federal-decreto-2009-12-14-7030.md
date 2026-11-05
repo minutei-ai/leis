@@ -1,5 +1,3 @@
-###DEC-007030-0-000-14-12-2009@@@
-
 DECRETO Nº 7.030, DE 14 DE DEZEMBRO DE 2009.
 
 Promulga a Convenção de Viena sobre o Direito dos Tratados, concluída em 23 de maio de 1969, com reserva aos Artigos 25 e 66.

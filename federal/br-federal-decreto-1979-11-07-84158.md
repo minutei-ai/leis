@@ -1,5 +1,3 @@
-###DEC-084158-0-000-07-11-1979@@@
-
 Decreto nº 84.158, de 7 de novembro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Artur Nogueira, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

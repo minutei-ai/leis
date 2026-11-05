@@ -1,5 +1,3 @@
-###DEC-069194-0-000-14-09-1971@@@
-
 DECRETO Nº 69.194, DE 14 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Obra Assistencial e Cultural Santo Antônio do Quitungo, com sede no Estado da Guanabara.

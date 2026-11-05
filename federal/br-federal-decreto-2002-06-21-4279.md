@@ -1,5 +1,3 @@
-###DEC-004279-0-000-21-06-2002@@@
-
 DECRETO Nº 4.279, DE 21 DE JUNHO DE 2002
 
 Dispõe sobre a organização administrativa da Fundação Universidade Federal do Tocantins, e determina outras providências.

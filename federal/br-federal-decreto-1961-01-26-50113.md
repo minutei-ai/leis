@@ -1,5 +1,3 @@
-###DEC-050113-0-000-26-01-1961@@@
-
 DECRETO Nº 50.113, DE 26 DE JANEIRO DE 1961.
 
 Outorga à Prefeitura Municipal de Coronel Murta concessão para o aproveitamento de energia hidráulica da cachoeira do Saltinho da Bôa Vista, no rio Jequitinhonha, distrito sede do município de Coronel Murta, Estado de Minas Gerais.

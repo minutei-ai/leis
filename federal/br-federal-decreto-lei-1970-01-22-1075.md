@@ -1,7 +1,3 @@
-1
-
-###DEL-001075-0-000-22-01-1970@@@
-
 # DECReTO-LEI Nº 1.075, DE 22 DE JANEIRO DE 1970
 
 Regula a imissão de posse, initio litis, em imóveis residenciais urbanos.

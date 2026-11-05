@@ -1,5 +1,3 @@
-###DEL-003202-0-000-22-04-1941@@@
-
 DECRETO-LEI n. 3.202 – DE 22 DE ABRIL DE 1941
 
 Eleva o padrão de vencimento do cargo de Diretor da Estrada de Ferro Noroeste  do Brasil.

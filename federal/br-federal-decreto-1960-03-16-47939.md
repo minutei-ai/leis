@@ -1,5 +1,3 @@
-###DEC-047939-0-000-16-03-1960@@@
-
 DECRETO Nº 47.939, DE MARÇO 16 DE 1960.
 
 Suprime cargo extinto.

@@ -1,30 +1,28 @@
-###DEC-063376-0-000-08-10-1968@@@
+**DECRETO Nº 63.376, DE 8 DE OUTUBRO DE 1968.**
 
-<strong>DECRETO Nº 63.376, DE 8 DE OUTUBRO DE 1968.</strong>
+***Aprova o Regulamento do Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto número 63.191, de 28.8.68.***
 
-<em><strong>Aprova o Regulamento do Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto número 63.191, de 28.8.68.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso das atribuições que lhe confere o artigo 83, item II da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso das atribuições que lhe confere o artigo 83, item II da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto nº 63.191, de 28.8.68, que a êste acompanha assinado pelo Ministro de Estado da Agricultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto nº 63.191, de 28.8.68, que a êste acompanha assinado pelo Ministro de Estado da Agricultura.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de outubro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Ivo Arzua Pereira
 
-<strong>REGULAMENTO DO CONSELHO DE DESENVOLVIMENTO DA AGRICULTURA (CDA)</strong>
+**REGULAMENTO DO CONSELHO DE DESENVOLVIMENTO DA AGRICULTURA (CDA)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto nº 63.191, de 28 de agôsto de 1968, com sede e fôro na Capital Federal, como órgão colegiado permanente de consulta para os assuntos relacionados com os superiores interêsses do desenvolvimento agropecuário nacional, tem como finalidade precípua:
+**Art**. 1º O Conselho de Desenvolvimento da Agricultura (CDA), criado pelo Decreto nº 63.191, de 28 de agôsto de 1968, com sede e fôro na Capital Federal, como órgão colegiado permanente de consulta para os assuntos relacionados com os superiores interêsses do desenvolvimento agropecuário nacional, tem como finalidade precípua:
 
 I - Colaborar na formulação dos critérios gerais que deverão presidir a concessão de estímulos governamentais, em matéria de desenvolvimento da agropecuária;
 
@@ -34,15 +32,15 @@ III - desempenhar, no âmbito de sua competência, as tarefas que lhe forem come
 
 IV - atuar junto às autoridades competentes no sentido do cumprimento das medidas aprovadas pelo CDA, no âmbito de suas atribuições.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Conselho</em>
+*Do Conselho*
 
-<strong>Art</strong>. 2º O Conselho compõe-se de:
+**Art**. 2º O Conselho compõe-se de:
 
 I - Plenário (PL);
 
@@ -50,7 +48,7 @@ II - Secretaria Executiva (SE);
 
 III - Órgãos Consultivos Especiais (OE);
 
-<strong>Art</strong>. 3º O Plenário é constituído pelo Ministro da Agricultura e por nove Conselheiros, membros natos, Presidente das seguintes entidades:
+**Art**. 3º O Plenário é constituído pelo Ministro da Agricultura e por nove Conselheiros, membros natos, Presidente das seguintes entidades:
 
 a) Confederação Nacional da Agricultura (CNA);
 
@@ -76,7 +74,7 @@ i) Associação Nacional para Difusão de Adubos (ANDA).
 
 § 3º Os Conselheiros poderão ser assessorados nas reuniões plenárias pelos respectivos Suplentes e outros representantes de suas entidades, a juízo prévio do plenário, sem direito a voto.
 
-<strong>Art</strong>. 4º Além das atribuições estabelecidas no Art. 1º, compete ao Plenário:
+**Art**. 4º Além das atribuições estabelecidas no Art. 1º, compete ao Plenário:
 
 I - Opinar sobre programas e planos de interêsse da agropecuária nacional, acompanhando a sua execução;
 
@@ -94,11 +92,11 @@ VII - Credenciar junto ao CDA os Órgãos Consultivos Especiais;
 
 VIII - Incentivar a criação e o funcionamento de Associações de Exportadores de Produtos Agropecuários.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Sessões</em>
+*Das Sessões*
 
-<strong>Art</strong>. 5º O Plenário reunir-se-á em sessões ordinárias uma vez por mês e extraordinárias, sempre que convocado pelo Presidente ou pelo mínimo de um têrço de seus membros.
+**Art**. 5º O Plenário reunir-se-á em sessões ordinárias uma vez por mês e extraordinárias, sempre que convocado pelo Presidente ou pelo mínimo de um têrço de seus membros.
 
 § 1º As sessões ordinárias realizar-se-ão em dia e hora prefixados pelo Conselho, devendo qualquer alteração ser notificada com antecedência a todos os Conselheiros.
 
@@ -106,33 +104,33 @@ VIII - Incentivar a criação e o funcionamento de Associações de Exportadores
 
 § 3º As reuniões extraordinárias poderão ser convocadas, independentemente do prazo referido no parágrafo anterior, e demais formalidades, no curso de sessão ordinária ou extraordinária.
 
-§ 4º O <em>quorum</em> mínimo para deliberação será de seis membros, incluindo o Presidente, considerando-se como presente e volante para efeito de <em>quorum</em>, o Conselheiro que se abstiver de votar.
+§ 4º O *quorum* mínimo para deliberação será de seis membros, incluindo o Presidente, considerando-se como presente e volante para efeito de *quorum*, o Conselheiro que se abstiver de votar.
 
 § 5º Não havendo sessão por falta de número, lavrar-se-á têrmo de alta, com indicação dos Conselheiros presentes.
 
-<strong>Art</strong>. 6º A Convite do Plenário, pessoas estranhas ao Conselho poderão assistir aos trabalhos da sessão.
+**Art**. 6º A Convite do Plenário, pessoas estranhas ao Conselho poderão assistir aos trabalhos da sessão.
 
-<strong>Art</strong>. 7º Os trabalhos e deliberação das sessões serão gravados e resumidos em atas.
+**Art**. 7º Os trabalhos e deliberação das sessões serão gravados e resumidos em atas.
 
 Parágrafo único. Qualquer Conselheiro poderá pedir a transcrição em ata de voto escrito, ou de outro documento, êste a juízo do Plenário.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Ordem dos Trabalhos</em>
+*Da Ordem dos Trabalhos*
 
-<strong>Art</strong>. 8º Presente a maioria do Conselho, o Presidente declarará aberta a sessão e mandará que se proceda à leitura da ata anterior.
+**Art**. 8º Presente a maioria do Conselho, o Presidente declarará aberta a sessão e mandará que se proceda à leitura da ata anterior.
 
 § 1º A ata será aprovada e assinada pelos presentes, se não houver impugnação.
 
 § 2º As restrições ou retificações, se houver, serão encaminhadas verbalmente ou por escrito quando da assinatura, que será aposta com restrições e constarão da ata seguinte.
 
-<strong>Art</strong>. 9º Aprovada a ata, e lido o expediente o Presidente colocará em discussão a matéria da ordem do dia, cuja pauta será entregue com antecedência aos Conselheiros.
+**Art**. 9º Aprovada a ata, e lido o expediente o Presidente colocará em discussão a matéria da ordem do dia, cuja pauta será entregue com antecedência aos Conselheiros.
 
 § 1º A matéria antes de ser discutida deverá ser relatada por um Conselheiro prèviamente escolhido;
 
 § 2º Após a discussão da matéria, caberá ao relator prestar qualquer esclarecimento complementar;
 
-§ 3º Não será interrompida a discussão, nem esta deixará encerrar-se pela superveniente falta de número, caso em que a votação se fará quando restabelecido o <em>quorum</em> ou na abertura da ordem do dia da reunião seguinte;
+§ 3º Não será interrompida a discussão, nem esta deixará encerrar-se pela superveniente falta de número, caso em que a votação se fará quando restabelecido o *quorum* ou na abertura da ordem do dia da reunião seguinte;
 
 § 4º No curso da discussão, qualquer Conselheiro poderá pedir vista da matéria, por 24 horas, prorrogáveis a critério do Presidente;
 
@@ -142,25 +140,25 @@ Parágrafo único. Qualquer Conselheiro poderá pedir a transcrição em ata de 
 
 § 7º Esgotada a pauta, o Presidente fará comunicações, concedendo a palavra para o mesmo fim aos Conselheiros, antes de encerrar a sessão.
 
-<strong>Art</strong>. 10. As sessões extraordinárias, nas quais poderá ser dispensada a leitura do expediente, serão reservadas à discussão e votação da matéria para que foram convocadas, podendo ser feitas, entretanto, comunicações em caráter excepcional, quando se tratar de assunto urgente ou de relevante necessidade de serviço.
+**Art**. 10. As sessões extraordinárias, nas quais poderá ser dispensada a leitura do expediente, serão reservadas à discussão e votação da matéria para que foram convocadas, podendo ser feitas, entretanto, comunicações em caráter excepcional, quando se tratar de assunto urgente ou de relevante necessidade de serviço.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Recomendações e Deliberações</em>
+*Das Recomendações e Deliberações*
 
-<strong>Art</strong>. 11. O Conselho concretizará sua atuação através de Recomendações e Deliberações.
+**Art**. 11. O Conselho concretizará sua atuação através de Recomendações e Deliberações.
 
 § 1º São Recomendações as questões de sentido opinativo ou orientador visando a efetivação dos objetivos do CDA.
 
 § 2º São Deliberações os pronunciamentos de caráter interno, registrados em ata.
 
-<strong>Art</strong>. 12. As Recomendações aprovadas deverão ser publicadas no <em>Diário Oficial</em> da União.
+**Art**. 12. As Recomendações aprovadas deverão ser publicadas no *Diário Oficial* da União.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Presidente e dos Membros do Conselho</em>
+*Do Presidente e dos Membros do Conselho*
 
-<strong>Art</strong>. 13. Ao Presidente do Conselho compete representá-lo, dirigir seus trabalhos, especialmente cabendo-lhe:
+**Art**. 13. Ao Presidente do Conselho compete representá-lo, dirigir seus trabalhos, especialmente cabendo-lhe:
 
 I - Aprovar a pauta das sessões;
 
@@ -172,7 +170,7 @@ IV - Designar relator para as matérias submetidas ao Conselho;
 
 V - Despachar os requerimentos feitos à Presidência e os pedidos de informações dos Conselheiros;
 
-<strong>Art</strong>. 14. São direitos do Conselheiro:
+**Art**. 14. São direitos do Conselheiro:
 
 I - Apresentar, preferencialmente por escrito, indicações, requerimentos e propostas de Recomendações e Deliberações;
 
@@ -182,19 +180,19 @@ III - Obter, através da Secretaria Executiva, quaisquer informações sôbre as
 
 IV - Solicitar, por intermédio do Presidente, a presença à sessão de quem possa prestar informação sôbre a matéria em exame ou assunto de relevante interêsse para o CDA.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Secretaria Executiva</em>
+*Da Secretaria Executiva*
 
-<strong>Art</strong>. 15. O Conselho contará com um Secretaria Executiva que será dirigida pelo Secretário-Geral do Ministério da Agricultura, com a função de Secretário Executivo.
+**Art**. 15. O Conselho contará com um Secretaria Executiva que será dirigida pelo Secretário-Geral do Ministério da Agricultura, com a função de Secretário Executivo.
 
 § 1º As atribuições do Secretário Executivo serão desempenhadas gratuitamente e consideradas de natureza relevante.
 
 § 2º O Secretário Executivo contará com um Secretário Adjunto, de sua livre escolha.
 
-<strong>Art</strong>. 16. A Secretaria Executiva poderá ser integrada por servidores do Ministério da Agricultura, colocados à sua disposição, mediante requisição do Secretário Executivo aprovada pelo Ministro de Estado.
+**Art**. 16. A Secretaria Executiva poderá ser integrada por servidores do Ministério da Agricultura, colocados à sua disposição, mediante requisição do Secretário Executivo aprovada pelo Ministro de Estado.
 
-<strong>Art</strong>. 17. Compete à Secretaria Executiva:
+**Art**. 17. Compete à Secretaria Executiva:
 
 I - Cumprir as determinações do Conselho;
 
@@ -204,7 +202,7 @@ III - Preparar o expediente executar outras tarefas administrativas necessárias
 
 IV - apresentar relatório anual, na primeira quinzena de janeiro, para exame de Plenário.
 
-<strong>Art</strong>. 18. Ao Secretário Executivo compete:
+**Art**. 18. Ao Secretário Executivo compete:
 
 I - Presidir as reuniões do Conselho no impedimento do Presidente;
 
@@ -214,7 +212,7 @@ II - Secretariar as reuniões do Conselho.
 
 § 2º O Secretário Executivo será substituído na secretaria das reuniões pelo Secretário Adjunto quando ocorrer a hipótese prevista no item I dêste artigo.
 
-<strong>Art</strong>. 19. Ao Secretário Executivo incumbe:
+**Art**. 19. Ao Secretário Executivo incumbe:
 
 I - Administrar a Secretaria Executiva;
 
@@ -224,18 +222,18 @@ III - Organizar a pauta das sessões, preparar o expediente e assinar convocaç�
 
 IV - Sugerir ao Plenário as medidas que se fizerem necessárias ao melhor funcionamento da Secretaria Executiva.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Dos Órgãos Consultivos Especiais</em>
+*Dos Órgãos Consultivos Especiais*
 
-<strong>Art</strong>. 20. Tôda a Associação de âmbito nacional, cujo objetivo fôr amparar, incentivar e desenvolver a Produção de produtos agrícolas <em>“in natura”</em> ou industrializados e a sua Comercialização - interna ou externa - ou ambas as atividades ao mesmo tempo, no âmbito destas atividades será considerada pelo Conselho de Desenvolvimento da Agricultura, como órgão consultivo obrigatório.
+**Art**. 20. Tôda a Associação de âmbito nacional, cujo objetivo fôr amparar, incentivar e desenvolver a Produção de produtos agrícolas *“in natura”* ou industrializados e a sua Comercialização - interna ou externa - ou ambas as atividades ao mesmo tempo, no âmbito destas atividades será considerada pelo Conselho de Desenvolvimento da Agricultura, como órgão consultivo obrigatório.
 
-Parágrafo único. Para êsse fim, as Associações interessadas em participar no CDA como seus órgãos consultivos, deverão credenciar-se na Secretaria Executiva, mediante documentos oficiais que comprovem a sua atividade em âmbito nacional, e a sua especialização em produção ou comercialização, ou ambas, de produtos agropecuário, <em>“in natura”</em> ou industrializados.
+Parágrafo único. Para êsse fim, as Associações interessadas em participar no CDA como seus órgãos consultivos, deverão credenciar-se na Secretaria Executiva, mediante documentos oficiais que comprovem a sua atividade em âmbito nacional, e a sua especialização em produção ou comercialização, ou ambas, de produtos agropecuário, *“in natura”* ou industrializados.
 
-<strong>Art</strong>. 21. As Associações de Produção, Industrialização e Comercialização de Produtos Agropecuários, serão convocadas com a necessária antecedência para as reuniões do CDA em que serão debatidos problemas do interêsse de seus associados.
+**Art**. 21. As Associações de Produção, Industrialização e Comercialização de Produtos Agropecuários, serão convocadas com a necessária antecedência para as reuniões do CDA em que serão debatidos problemas do interêsse de seus associados.
 
-<strong>Art</strong>. 22. O Conselho de Desenvolvimento da Agricultura, manifestará seu especial interêsse na constituição e funcionamento de Associações de Exportação, destinadas a incrementar o intercâmbio comercial brasileiro com outros países.
+**Art**. 22. O Conselho de Desenvolvimento da Agricultura, manifestará seu especial interêsse na constituição e funcionamento de Associações de Exportação, destinadas a incrementar o intercâmbio comercial brasileiro com outros países.
 
-<strong>Art</strong>. 23. Os casos omissos neste Regulamento serão resolvidos pela Presidência do CDA ou pelo Plenário do CDA, conforme sua importância.
+**Art**. 23. Os casos omissos neste Regulamento serão resolvidos pela Presidência do CDA ou pelo Plenário do CDA, conforme sua importância.
 
-<strong>IVO ARZUA PEREIRA</strong>
+**IVO ARZUA PEREIRA**

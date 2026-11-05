@@ -1,5 +1,3 @@
-###DEC-064639-0-000-03-06-1969@@@
-
 DECRETO Nº 64.639, DE 3 DE JUNHO DE 1969.
 
 Declara sem efeito os Decretos 10.219 e 10.220, ambos de 12 de agôsto de 1942.

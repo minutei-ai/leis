@@ -1,5 +1,3 @@
-###MPV-001858-0-006-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.858-6, DE 29 DE JUNHO DE 1999.
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e sobre o lucro líquido, do Imposto sobre a Renda, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056483-0-000-18-06-1965@@@
-
 decreto nº 56.483, de 18 de junho de 1965
 
 Declara de utilidade pública a Obra Unida à Sociedade São Vicente de Paulo – Hospital São Vicente de Paulo, com sede em Monte Azul Paulista, Estado de São Paulo.

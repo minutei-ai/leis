@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2b9817b4-37b4-47f8-bf60-7992f856d406/texto#nowhere)
 
-###DEL-000552-0-000-25-04-1969@@@
-
 DECRETO-LEI Nº 552, DE 25 DE ABRIL DE 1969
 
 Dispõe sôbre a concessão de vista ao Ministério Público nos processos de “habeas corpus”.

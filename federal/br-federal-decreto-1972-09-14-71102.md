@@ -1,5 +1,3 @@
-###DEC-071102-0-000-14-09-1972@@@
-
 DECRETO Nº 71.102, DE 14 DE SETEMBRO DE 1972.
 
 Declara sem efeito o Decreto número 6.332, de 25 de setembro de 1940.

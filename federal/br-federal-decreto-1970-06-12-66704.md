@@ -1,5 +1,3 @@
-###DEC-066704-0-000-12-06-1970@@@
-
 DECRETO Nº 66.704, DE 12 DE JUNHO DE 1970.
 
 Outorga à Companhia Tecidos Pitanguiense concessão para o aproveitamento hidráulico de um trecho do rio Pará, no distrito de Conceição do Pará, município de Concessão do Pará, Estado de Minas Gerais.

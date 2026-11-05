@@ -1,5 +1,3 @@
-###DEC-061713-0-000-21-11-1967@@@
-
 DECRETO Nº 61.713, DE 21 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública o “Instituto Santa Luzia” com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

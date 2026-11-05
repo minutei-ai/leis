@@ -1,5 +1,3 @@
-###DEC-061447-0-000-04-10-1967@@@
-
 Decreto nº 61.447, de 4 de outubro de 1967.
 
 Transfere da Prefeitura Municipal de Santana de Pirapama para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no distrito de Santana de Pirapama, município de Santana de Pirapama, Estado de Minas Gerais e dá outras providências.

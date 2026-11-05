@@ -1,5 +1,3 @@
-###DEC-045587-0-000-20-03-1959@@@
-
 DECRETO Nº 45.587, DE 20 DE MARÇO DE 1959.
 
 Abre, ao Ministério da Guerra, o crédito especial de Cr$4.788.300,00, para ocorrer a despesa que especifica.

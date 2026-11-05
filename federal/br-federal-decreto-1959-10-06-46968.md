@@ -1,5 +1,3 @@
-###DEC-046968-0-000-06-10-1959@@@
-
 DECRETO Nº 46.968, DE 6 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Marinho Tomasi a lavrar minério de ferro no município de Itabira, Estado de Minas Gerais.

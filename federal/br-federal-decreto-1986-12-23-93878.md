@@ -1,5 +1,3 @@
-###DEC-093878-0-000-23-12-1986@@@
-
 DECRETO Nº 93.878, DE 23 DE DEZEMBRO DE 1986
 
 Estabelece normas de execução orçamentária, define a programação financeira do Tesouro Nacional para o exercício financeiro de 1987 e dá outras providências.

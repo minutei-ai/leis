@@ -1,7 +1,3 @@
-1
-
-###DEC-001800-0-000-30-01-1996@@@
-
 # DECRETO Nº 1.800, DE 30 DE JANEIRO DE 1996
 
 Regulamenta a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins e dá outras providências.
@@ -833,8 +829,6 @@ FERNANDO HENRIQUE CARDOSO
 Pedro Malan
 
 Dorothea Werneck
-
-###DEC-001800-0-000-30-01-1996@@@RET01+++
 
 # DECRETO Nº 1.800, DE 30 DE JANEIRO DE 1996.
 

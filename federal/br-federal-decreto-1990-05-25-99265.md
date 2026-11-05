@@ -1,7 +1,3 @@
-1
-
-###DEC-099265-0-000-25-05-1990@@@
-
 DECRETO Nº 99.265, DE 25 DE MAIO DE 1990
 
 Altera a composição da Comissão Nacional para Assuntos Antárticos (CONANTAR)

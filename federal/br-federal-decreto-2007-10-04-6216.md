@@ -1,5 +1,3 @@
-###DEC-006216-0-000-04-10-2007@@@
-
 DECRETO Nº 6.216, DE 4 DE OUTUBRO DE 2007.
 
 Dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentares.
@@ -34,11 +32,7 @@ Brasília, 4 de outubro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 4.10.2007 - Edição extra.
-
-DECRETO No- 6.216, DE 4 DE OUTUBRO DE 2007.(\*)
+Dilma RousseffDECRETO No- 6.216, DE 4 DE OUTUBRO DE 2007.(\*)
 
 Dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentares.
 

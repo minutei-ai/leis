@@ -1,5 +1,3 @@
-###DEC-006286-0-000-05-12-2007@@@
-
 DECRETO Nº 6.286, DE 5 DE DEZEMBRO DE 2007.
 
 Institui o Programa Saúde na Escola - PSE, e dá outras providências.
@@ -127,5 +125,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Jose Gomes Temporão
-
-Este texto não substitui o publicado no DOU de 6.12.2007

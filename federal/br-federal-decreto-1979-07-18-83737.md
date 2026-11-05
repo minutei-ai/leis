@@ -1,5 +1,3 @@
-###DEC-083737-0-000-18-07-1979@@@
-
 decreto nº 83.737, de 18 de julho de 1979.
 
 Concede à GOIASCAL S.A. - Mineração e Calcário o direito de lavrar dolomito no Município de Goianésia, Estado de Goiás.

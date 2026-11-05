@@ -1,5 +1,3 @@
-###DEC-061077-0-000-26-07-1967@@@
-
 DECRETO Nº 61.077, DE 26 DE JULHO DE 1967.
 
 Declara de utilidade pública a “Associação de Proteção e Assistência a Maternidade e à Infância de Mirassol”, com sede em Mirassol, Estado de São Paulo.

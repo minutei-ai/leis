@@ -1,5 +1,3 @@
-###DEC-081686-0-000-18-05-1978@@@
-
 Decreto nº 81 686 de 18 de maio de 1978
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração da Faculdade de Ciências Contábeis e Administrativas São Paulo Apóstolo, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-005398-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.398 – DE 13 DE ABRIL DE 1943
 
 Abre ao Ministério da Aeronáutica crédito suplementar, e dá outras providências

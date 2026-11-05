@@ -1,5 +1,3 @@
-###DEL-005544-0-000-03-06-1943@@@
-
 DECRETO‑LEI N. 5.544 – DE 3 DE JUNHO DE 1943
 
 Dispõe sôbre a permuta, com o Estado de Mato Grosso, de próprio nacional por área de terreno, que menciona, situados na cidade de Cuiabá, capital do mesmo Estado, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-076689-0-000-28-11-1975@@@
-
 DECRETo Nº 76.689, DE 28 DE NOVEMBRO DE 1975.
 
 Concede à Indústria Cerâmica Imbituba S. A . o direito de lavrar areia quartzosa no Município de Treze de Maio, Estado de Santa Catarina.

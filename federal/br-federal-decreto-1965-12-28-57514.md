@@ -1,5 +1,3 @@
-###DEC-057514-0-000-28-12-1965@@@
-
 DECRETO Nº 57.514, De 28 DE Dezembro de 1965.
 
 Renova o Decreto nº 52.232, de 9 de julho de 1963.

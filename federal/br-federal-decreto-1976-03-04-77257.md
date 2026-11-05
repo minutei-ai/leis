@@ -1,5 +1,3 @@
-###DEC-077257-0-000-04-03-1976@@@
-
 DECRETO Nº 77.257, DE 4 DE março DE 1976.
 
 Autoriza o funcionamento do curso de Zootecnia da Escola Superior de Agricultura de Lavras, com sede na cidade de Lavras, Estado de Minas Gerais.

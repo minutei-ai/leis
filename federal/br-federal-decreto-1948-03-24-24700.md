@@ -1,36 +1,34 @@
-###DEC-024700-0-000-24-03-1948@@@
+**DECRETO Nº 24**.**700, DE 24 DE MARÇO DE 1948**.
 
-<strong>DECRETO Nº 24</strong>.<strong>700, DE 24 DE MARÇO DE 1948</strong>.
+***Aprova o Regulamento para a Biblioteca Militar (R-172)***
 
-<em><strong>Aprova o Regulamento para a Biblioteca Militar (R-172)</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica aprovado o Regulamento para a Biblioteca Militar, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
 
-<strong>Art</strong>. 1º - Fica aprovado o Regulamento para a Biblioteca Militar, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
-
-<strong>Art</strong>. 2º - Revogam-se as disposições em contrário.
+**Art**. 2º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de março de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA</strong>
+**EURICO G**. **DUTRA**
 
 Canrobert P. da Costa
 
-<strong>REGULAMENTO PARA A BIBLIOTECA MILITAR</strong>
+**REGULAMENTO PARA A BIBLIOTECA MILITAR**
 
-<strong>(R-172)</strong>
+**(R-172)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Biblioteca Militar, departamento cultural do Exército, tem por escopo propagar idéias sãs no seio das classes armadas, facilitar a todos os militares meios necessários ao desenvolvimento de sua cultura geral e profissional, fornecer a seus subscritores, mediante módico pagamento, obras sôbre assunto profissionais, científicas ou literárias, convenientemente selecionadas.
+**Art**. 1º A Biblioteca Militar, departamento cultural do Exército, tem por escopo propagar idéias sãs no seio das classes armadas, facilitar a todos os militares meios necessários ao desenvolvimento de sua cultura geral e profissional, fornecer a seus subscritores, mediante módico pagamento, obras sôbre assunto profissionais, científicas ou literárias, convenientemente selecionadas.
 
 Uma parte do seu programa é, tanto quanto possível, instruir recreiando.
 
-<strong>Art</strong>. 2º Para atingir a seus afins, a Biblioteca empregará os seguintes meios:
+**Art**. 2º Para atingir a seus afins, a Biblioteca empregará os seguintes meios:
 
 1 - Manterá em sua sede, na capital do país, uma biblioteca de consulta, racionalmente organizada, que reunirá em suas estantes coleções de obras sôbre a língua portuguêsa, sôbre linguas estrangeiras, sôbre geografia, história, ciências, artes, literatura, etc.;
 
@@ -50,11 +48,11 @@ Uma parte do seu programa é, tanto quanto possível, instruir recreiando.
 
 9 - Facilitará ao elemento civil, sem prejuízo de seus subscritores militares, a aquisição de suas publicações, com o fim de elevaro bom nome do Exército e trabalhar pela cultura geral do país.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3º A Biblioteca Militar tem a seguinte organização:
+**Art**. 3º A Biblioteca Militar tem a seguinte organização:
 
 a) - Direção;
 
@@ -72,21 +70,21 @@ g) - Seção de Vendas Avulsas;
 
 h) - Órgão representativo junto às diversas unidades.
 
-<strong>Art</strong>. 4º A função de Diretor da Biblioteca Militar é exercida por general da ativa ou da reserva, no primeiro caso, sem prejuízo de outras funções que exerça na capital do país.
+**Art**. 4º A função de Diretor da Biblioteca Militar é exercida por general da ativa ou da reserva, no primeiro caso, sem prejuízo de outras funções que exerça na capital do país.
 
 § 1º Desde que o diretor, devido ao exercício de outras funções, não possa permanecer nas dependências da Biblioteca, será designado um subdiretor, por ele indicado ao ministro, oficial superior, que responderá pela parte administrativa da repartição.
 
-<strong>Art</strong>. 5º A Comissão de Seleção de Livros a publicar compor-se-á de seu presidente, diretor da Biblioteca, de quatro oficiais do Exército e de dois escritores civis.
+**Art**. 5º A Comissão de Seleção de Livros a publicar compor-se-á de seu presidente, diretor da Biblioteca, de quatro oficiais do Exército e de dois escritores civis.
 
 Parágrafo único. Os membros da Comissão de Seleção de Livros a Publicar serão da livre escolha do diretor da Biblioteca, que os indicará ao ministro.
 
-<strong>Art</strong>. 6º A função de Secretário-fiscal administrativo será exercida por capitão ou major, de qualquer arma ou serviço, indicado ao ministro pelo diretor.
+**Art**. 6º A função de Secretário-fiscal administrativo será exercida por capitão ou major, de qualquer arma ou serviço, indicado ao ministro pelo diretor.
 
-<strong>Art</strong>. 7º A função de tesoureiro será exercida por capitão ou 1º tenente do corpo de intendente.
+**Art**. 7º A função de tesoureiro será exercida por capitão ou 1º tenente do corpo de intendente.
 
-<strong>Art</strong>. 8º O diretor da Biblioteca será nomeado por decreto, todos os outros membros por portaria do ministro.
+**Art**. 8º O diretor da Biblioteca será nomeado por decreto, todos os outros membros por portaria do ministro.
 
-<strong>Art</strong>. 9º A Seção Administrativa compreenderá:
+**Art**. 9º A Seção Administrativa compreenderá:
 
 1\) Fiscalização administrativa;
 
@@ -96,7 +94,7 @@ Parágrafo único. Os membros da Comissão de Seleção de Livros a Publicar ser
 
 Parágrafo único. A função de fiscal administrativo é exercida, cumulativamente, com a de secretário, e a de almoxarife, com a de tesoureiro.
 
-<strong>Art</strong>. 10. Os grupos de trabalho constituem, pela reuinão de suas diversas atividades, o mecanismo que permite à Biblioteca atender às necessidades decorrentes da edição e distribuição de seus livros.
+**Art**. 10. Os grupos de trabalho constituem, pela reuinão de suas diversas atividades, o mecanismo que permite à Biblioteca atender às necessidades decorrentes da edição e distribuição de seus livros.
 
 As atividades dos grupos de trabalho assim se distribuem:
 
@@ -114,19 +112,19 @@ As atividades dos grupos de trabalho assim se distribuem:
 
 Parágrafo único. Os diversos grupos de trabalho serão organizados de acôrdo com as necessidades do serviço e com os recursos disponíveis, pelo diretor.
 
-<strong>Art</strong>. 11. A Secretaria compõe-se de seu chefe e de um certo número de funcionários, fixados de acôrdo com as necessidades do serviço. A sua organização, variável de acôrdo com o pessoal disponível, será fixada pelo diretor.
+**Art**. 11. A Secretaria compõe-se de seu chefe e de um certo número de funcionários, fixados de acôrdo com as necessidades do serviço. A sua organização, variável de acôrdo com o pessoal disponível, será fixada pelo diretor.
 
 Parágrafo único. Haverá um sub-secretário, oficial subalterno.
 
-<strong>Art</strong>. 12. A biblioteca de consultas, sob a direção imediata de um funcionário especializado, compreenderá a sala de leitura e conferências e o armazém de livros. Destina-se normalmente a atender aos militares e eventualmente, a qualquer pessoa.
+**Art**. 12. A biblioteca de consultas, sob a direção imediata de um funcionário especializado, compreenderá a sala de leitura e conferências e o armazém de livros. Destina-se normalmente a atender aos militares e eventualmente, a qualquer pessoa.
 
 Parágrafo único. A leitura em domicílio, dos livros pertencentes à biblioteca de consultas, só será permitida a elementos das classes armadas, mediante condições a serem fixadas no Regimento Interno da repartição.
 
-<strong>Art</strong>. 13. A seção de vendas avulsas, que se destina a atender ao público em geral, dependerá diretamente do secretário.
+**Art**. 13. A seção de vendas avulsas, que se destina a atender ao público em geral, dependerá diretamente do secretário.
 
-<strong>Art</strong>. 14. As representações junto aos corpos, estabelecimentos e repartições são constituídas por oficial ou subtenente designado pelo chefe da unidade.
+**Art**. 14. As representações junto aos corpos, estabelecimentos e repartições são constituídas por oficial ou subtenente designado pelo chefe da unidade.
 
-<strong>Art</strong>. 15. São subscritores da Biblioteca Militar, com direito a receberem tôdas as suas publicações.
+**Art**. 15. São subscritores da Biblioteca Militar, com direito a receberem tôdas as suas publicações.
 
 1 - Oficiais e praças, que paguem mensalmente a quantia fixada como indenização dos livros recebidos, descontada pela tesouraria da unidade, ao serem pagos os vencimentos (desconto interno);
 
@@ -140,13 +138,13 @@ Parágrafo único. A leitura em domicílio, dos livros pertencentes à bibliotec
 
 6 - As bibliotecas pertencentes a entidades civis, desde que paguem adiantamente suas contribuições correspondentes a seis meses.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
 A) - Atribuições orgânicas
 
-<strong>Art</strong>. 16. São atribuições da Comissão de Seleção de Livros a Publicar, a escolha das obras que devem ser editadas.
+**Art**. 16. São atribuições da Comissão de Seleção de Livros a Publicar, a escolha das obras que devem ser editadas.
 
 § 1º O julgamento será feito por escrutínio, não sendo permitida a presença de estranhos.
 
@@ -158,7 +156,7 @@ A) - Atribuições orgânicas
 
 § 5º O resultado final do julgamento será comunicado ao autor.
 
-<strong>Art</strong>. 17. São atribuições da secretaria:
+**Art**. 17. São atribuições da secretaria:
 
 1 - Fazer observar, no âmbito da Biblioteca Militar, tôdas as leis e regulamentos, harmonizar entre si todos os serviços da repartição, transmitir ordens do diretor e acompanhar a sua execução, dadas por seu intermédio ou diretamente aos executores;
 
@@ -176,29 +174,29 @@ A) - Atribuições orgânicas
 
 8 - Acompanhar os entendimentos com as tipografias, sôbre obras a publicar.
 
-<strong>Art</strong>. 18. São atribuições da fiscalização-administrativa, além das previstas no Regulamento de Administração do Exército, as que se referem à vida econômica e financeira da Biblioteca Militar, notadamente como editora e de certo modo como entidade comercial.
+**Art**. 18. São atribuições da fiscalização-administrativa, além das previstas no Regulamento de Administração do Exército, as que se referem à vida econômica e financeira da Biblioteca Militar, notadamente como editora e de certo modo como entidade comercial.
 
-<strong>Art</strong>. 19. São atribuições do 1º grupo de trabalho a revisão dos originais, antes de serem enviados à tipografia, a fim de evitar emendas nas provas de erros evitáveis de composição, entendimentos com as tipografias, em regra verbais, durante a impressão dos livros e revisão de provas.
+**Art**. 19. São atribuições do 1º grupo de trabalho a revisão dos originais, antes de serem enviados à tipografia, a fim de evitar emendas nas provas de erros evitáveis de composição, entendimentos com as tipografias, em regra verbais, durante a impressão dos livros e revisão de provas.
 
-<strong>Art</strong>. 20. São atribuições do 2º grupo de trabalho a elaboração das fichas e sua constante alteração, bem como o fornecimento de dados para a elaboração das estatísticas.
+**Art**. 20. São atribuições do 2º grupo de trabalho a elaboração das fichas e sua constante alteração, bem como o fornecimento de dados para a elaboração das estatísticas.
 
-<strong>Art</strong>. 21. São atribuições do 3º grupo de trabalho a organização da distribuição das obras publicadas pela Biblioteca ou mandadas distribuir pelo ministro, (guias de remessas, rótulos, notas explicativas), bem como os entendimentos verbais com os subscritores, relativos a quaisquer irregularidades de distribuição.
+**Art**. 21. São atribuições do 3º grupo de trabalho a organização da distribuição das obras publicadas pela Biblioteca ou mandadas distribuir pelo ministro, (guias de remessas, rótulos, notas explicativas), bem como os entendimentos verbais com os subscritores, relativos a quaisquer irregularidades de distribuição.
 
-<strong>Art</strong>. 22. São atribuições do 4º grupo de trabalho a expedição dos livros editados pela Biblioteca ou adquiridos pelo ministro para serem distribuídos, bem como a guarda e conservação dos livros em depósito, encarrega-se da contagem dos livros recebidos, do empacotamento, colocação dos rótulos, remessa aos representantes através do correio ou direta, por intermédio do 3º grupo, recolhimento das sobras das expedições ao depósito.
+**Art**. 22. São atribuições do 4º grupo de trabalho a expedição dos livros editados pela Biblioteca ou adquiridos pelo ministro para serem distribuídos, bem como a guarda e conservação dos livros em depósito, encarrega-se da contagem dos livros recebidos, do empacotamento, colocação dos rótulos, remessa aos representantes através do correio ou direta, por intermédio do 3º grupo, recolhimento das sobras das expedições ao depósito.
 
-<strong>Art</strong>. 23. São atribuições do 5º grupo de trabalho os estudos referentes às atividades intelectuais e comerciais da Biblioteca.
+**Art**. 23. São atribuições do 5º grupo de trabalho os estudos referentes às atividades intelectuais e comerciais da Biblioteca.
 
-<strong>Art</strong>. 24. São atribuições do 6º grupo de trabalho o exame dos livros devolvidos, no sentido de possibilitar as providências requeridas em cada caso: classificação das devoluções por procedência, verificação do estado em que chegaram e causas de danos que tenham sofrido.
+**Art**. 24. São atribuições do 6º grupo de trabalho o exame dos livros devolvidos, no sentido de possibilitar as providências requeridas em cada caso: classificação das devoluções por procedência, verificação do estado em que chegaram e causas de danos que tenham sofrido.
 
-<strong>Art</strong>. 25. A tesouraria-almoxarifado encarrega-se de tudo que diz respeito a fundos e material, acomodando as atividades comerciais da Biblioteca Militar com os regulamentos militares.
+**Art**. 25. A tesouraria-almoxarifado encarrega-se de tudo que diz respeito a fundos e material, acomodando as atividades comerciais da Biblioteca Militar com os regulamentos militares.
 
-<strong>Art</strong>. 26. Compete às representações da Biblioteca junto aos corpos, repartições e estabelecimentos a organização de tudo quanto diz respeito às relações dos subscritores com a Biblioteca, de que constituem  um prolongamento. Incluem-se entre as suas atribuições os esforços continuados para obtenção de novos subscritores.
+**Art**. 26. Compete às representações da Biblioteca junto aos corpos, repartições e estabelecimentos a organização de tudo quanto diz respeito às relações dos subscritores com a Biblioteca, de que constituem  um prolongamento. Incluem-se entre as suas atribuições os esforços continuados para obtenção de novos subscritores.
 
-<strong>Art</strong>. 27. A juízo do diretor, poderão ser organizadas, para as grandes guarnições, órgãos de representação geral, para coordenação dos esforços das representações parciais.
+**Art**. 27. A juízo do diretor, poderão ser organizadas, para as grandes guarnições, órgãos de representação geral, para coordenação dos esforços das representações parciais.
 
 B) - Atribuições do pessoal
 
-<strong>Art</strong>. 28. São atribuições do diretor:
+**Art**. 28. São atribuições do diretor:
 
 1 - Exercer as funções de Agente Diretor;
 
@@ -218,7 +216,7 @@ B) - Atribuições do pessoal
 
 9 - Dispor sôbre a aplicação dos saldos escriturados como renda resultante da diferença entre os preços de aquisição dos livros editados e o seu preço de venda ou cessão aos subscritores.
 
-<strong>Art</strong>. 29. Compete a cada um dos membros da Comissão de Seleção de Livros a Publicar:
+**Art**. 29. Compete a cada um dos membros da Comissão de Seleção de Livros a Publicar:
 
 1 - Comparecer às sessões para que fôr convocado;
 
@@ -234,7 +232,7 @@ B) - Atribuições do pessoal
 
 7 - Ressalvar a sua responsabilidade, sempre que queira, como voto vencido, solicitando que conste de ata as suas razões, respeitadas as normas de disciplina e boa camaradagem, que norteiam as relações entre militares.
 
-<strong>Art</strong>. 30. Os membros da Comissão de Seleção podem ser afastados da Biblioteca Militar:
+**Art**. 30. Os membros da Comissão de Seleção podem ser afastados da Biblioteca Militar:
 
 1 - Voluntariamente;
 
@@ -246,7 +244,7 @@ B) - Atribuições do pessoal
 
 § 3º O afastamento compulsório de qualquer membro da Comissão, não exige justificação por parte do ministro.
 
-<strong>Art</strong>. 31. Compete ao secretário
+**Art**. 31. Compete ao secretário
 
 1 - Dirigir a Secretaria; distribuindo o serviço entre os funcionários sob suas ordens; providenciar, no âmbito da Bibliotecam para que todos os serviços se façam, independentemente da falta ou ausência de funcionário;
 
@@ -288,7 +286,7 @@ B) - Atribuições do pessoal
 
 20 - Organizar, de acôrdo com as ordens do Diretor, o programa de trabalhos da Comissão de Seleção de Livros a Publicar, referente a cada sessão;
 
-<strong>Art</strong>. 32. Compete ao subsecretário:
+**Art**. 32. Compete ao subsecretário:
 
 1 - Tomar parte nos trabalhos da Secretaria, para ficar em condições de substituir, em caso de necessidade, não só o secretário, nos seus pequenos impedimentos, como qualquer funcionário dêsse departamento;
 
@@ -304,7 +302,7 @@ B) - Atribuições do pessoal
 
 7 - Substituir o secretário (fiscal administrativo) quando êste se afaste tenporáriamente do exercício de suas funções.
 
-<strong>Art</strong>. 33. Compete ao fiscal-administrativo:
+**Art**. 33. Compete ao fiscal-administrativo:
 
 1 - Responsabilizar-se pela rigorosa observância das normas relativas à administração militar, na preparação das decisões do diretor (agente diretor);
 
@@ -328,7 +326,7 @@ B) - Atribuições do pessoal
 
 11 - Submeter ao diretor as propostas, feitas pelo bibliotecário, de encadernação de livros, informando quanto aos recursos existentes para tal fim.
 
-<strong>Art</strong>. 34. Compete ao tesoureiro:
+**Art**. 34. Compete ao tesoureiro:
 
 1 - Dirigir a tesouraria, distribuindo o serviço entre os funcionários dêsse departamento, reservando o recebimento de quaisquer quantias e o encargo de dar quitação;
 
@@ -346,13 +344,13 @@ B) - Atribuições do pessoal
 
 8 - Enviar as relações nominais que acompanhem os pagamentos dos subscritores, depois de rubricados no ângulo inferior da esquerda pelo funcionário que as tenha registrado na tesouraria, ao encarregado do grupo dos fichários, para que os pagamentos sejam lançados nas respectivas fichas.
 
-<strong>Art</strong>. 35. Compete ao almoxarife (função acumulada com a de tesoureiro):
+**Art**. 35. Compete ao almoxarife (função acumulada com a de tesoureiro):
 
 1 - Distribuir todos os móveis e utensílios dos diversos órgãos da Biblioteca Militar, pelos detentores de fato;
 
 2 - Providenciar sôbre a recuperação ou consêrto de móveis e utensílios dos diversos órgãos da Biblioteca Militar.
 
-<strong>Art</strong>. 36. Compete ao Bibliotecário:
+**Art**. 36. Compete ao Bibliotecário:
 
 1 - Manter na melhor ordem e a maior disciplina, no interior de seu departamento;
 
@@ -378,7 +376,7 @@ B) - Atribuições do pessoal
 
 12 - Comunicar ao secretário, por escrito, desde que o prazo de um empréstimo tenha sido excedido de mais de 30 dias, os resultados negativos de seus esforços para reaver o livro, com os elementos necessários às providências junto ao ministro, para a devida indenização por parte do responsável;
 
-13 - Fazer apôr aos livros de que trata o número 7 dêste artigo o carimbo.- <em>Não sai,</em> como indicação de que não podem ser objeto de leitura em domicílio;
+13 - Fazer apôr aos livros de que trata o número 7 dêste artigo o carimbo.- *Não sai,* como indicação de que não podem ser objeto de leitura em domicílio;
 
 14 - Pesquisar, através das livrarias e por outros meios idôneos, as novas obras que possam interessar à biblioteca e levar ao conhecimento do diretor, para que êste decida sôbre a aquisição;
 
@@ -390,7 +388,7 @@ B) - Atribuições do pessoal
 
 18 - Manter em dia o serviço correspondente à adesão da Biblioteca Militar ao Serviço de Intercâmbio de Catalogação, do D.A.S.P.
 
-<strong>Art</strong>. 37. Compete ao bibliotecário auxiliar:
+**Art**. 37. Compete ao bibliotecário auxiliar:
 
 1 - Cooperar com o bibliotecário (chefe) em tudo quanto possa interessar à boa marcha dos serviços da biblioteca;
 
@@ -404,7 +402,7 @@ B) - Atribuições do pessoal
 
 6 - Sugerir, sempre que seja o caso, ao bibliotecário, providências que lhe pareçam próprias a melhorar qualquer serviço do departamento em que trabalha.
 
-<strong>Art</strong>. 38. Compete, de um modo geral, a cada chefe de grupo:
+**Art**. 38. Compete, de um modo geral, a cada chefe de grupo:
 
 1 - Distribuir, desde que essa providência já não tenha sido tomada pelo secretário, o serviço entre os componentes do seu grupo, reservando para si mesmo as partes mais importantes do trabalho;
 
@@ -420,7 +418,7 @@ B) - Atribuições do pessoal
 
 7 - Promover a boa ordem no interior de seu grupo;
 
-<strong>Art</strong>. 39. Compete ao chefe do 1º grupo de trabalho:
+**Art**. 39. Compete ao chefe do 1º grupo de trabalho:
 
 1 - Receber diretamente do secretário os originais das obras a serem publicadas, que a partir dêsse momento ficam sob sua guarda e responsabilidade;
 
@@ -428,7 +426,7 @@ B) - Atribuições do pessoal
 
 3 - Certificar-se pessoalmente de que as emendas feitas nos originais foram realmente introduzidas na composiççao tipográfica, sem omissões ou aparecimento de novos erros de revisão.
 
-<strong>Art</strong>. 40. Compete ao chefe do 2º grupo de trabalho:
+**Art**. 40. Compete ao chefe do 2º grupo de trabalho:
 
 1 - Manter em dia os fichários a seu cargo, por cuja exatidão responde, distribuindo o serviço entre os seus auxiiliares;
 
@@ -444,7 +442,7 @@ B) - Atribuições do pessoal
 
 7 - Enviar à secretaria, em começos de janeiro, abril, julho e outubro, uma relação de subscritores cujas situações não sejam regulares, quer por falta de pagamento, quer por não se conhecer o paradeiro.
 
-<strong>Art</strong>. 41. Compete ao chefe do 3º grupo de trabalho;
+**Art**. 41. Compete ao chefe do 3º grupo de trabalho;
 
 1 - Fiscalizar todo serviço de feitura deguias de remessa, rótulos, etc., respondendo pela sua correção;
 
@@ -456,7 +454,7 @@ B) - Atribuições do pessoal
 
 5 - Mandar entregar, mediante recibo, diretamente às unidades administrativas que funcionem no edifício do Ministério, os livros que não sejam procurados pelos representantes.
 
-<strong>Art</strong>. 42. Compete ao chefe do 4º grupo de trabalho:
+**Art**. 42. Compete ao chefe do 4º grupo de trabalho:
 
 1 - Escriturar o livro-carga do depósito, de acôrdo com o modêlo aprovado pelo diretor;
 
@@ -474,13 +472,13 @@ B) - Atribuições do pessoal
 
 8 - Fazer entrega, ao chefe do 3º grupo, dos recibos dos correios, relativos às expedições feitas, fazendo-os acompanhar, quando fôr o caso, de uma relação dos destinatários.
 
-<strong>Art</strong>. 43. Compete ao chefe do 5º grupo de trabalho:
+**Art**. 43. Compete ao chefe do 5º grupo de trabalho:
 
 1 - Promover, por iniciativa própria, ou por ordem superior, as necessárias pesquizas em relação a tôdas as atividades da tôdas as atividades da Biblioteca Militar como editôra, fazendo comparações, tirando conclusões e organizando, quando fôr o caso, gráfico ou quadros.
 
 2 - Guardar reserva sôbre suas conclusões e encaminhá-las ao diretor, para a devida aprovação e consequente aproveitamento.
 
-<strong>Art</strong>. 44. Compete ao chefe do 6º grupo de trabalho:
+**Art**. 44. Compete ao chefe do 6º grupo de trabalho:
 
 1 - Fazer abrir os pacotes de livros devolvidos, grupando-os previamente por unidades administrativas devolutoras;
 
@@ -502,7 +500,7 @@ B) - Atribuições do pessoal
 
 10 - Enviar ao grupo dos fichários, para as necessárias alterações, os documentos que cheguem desacompanhados de livros a que se refira, guardando-os, quando de volta do referido grupo, em pasta especial, onde permanecerão por prazo razoável, findo o qual serão devolvidos à secretaria, para as devidas providências.
 
-<strong>Art</strong>. 45. Compete ao encarregado das vendas avulsas:
+**Art**. 45. Compete ao encarregado das vendas avulsas:
 
 1 - Atender com solicitude às pessoas que queiram adquirir as publicações de que dispõe a seção de vendas avulsas;
 
@@ -514,7 +512,7 @@ B) - Atribuições do pessoal
 
 5 - Prestar tôdas as informações a seu alcance sôbre obras editadas pela Biblioteca Militar.
 
-<strong>Art</strong>. 46. Compete aos comandantes de corpos, chefes de repartições ou estabelecimentos:
+**Art**. 46. Compete aos comandantes de corpos, chefes de repartições ou estabelecimentos:
 
 1 - Designar o representante da Biblioteca Militar na sua unidade administrativa, comunicando ao diretor da Bibliotéca, o pôsto e o nome do designado;
 
@@ -526,7 +524,7 @@ B) - Atribuições do pessoal
 
 5 - Mandar consignar na caderneta do oficial ou guia da praça, quando transferidos, a sua qualidade de subscritor e o último mês pago.
 
-<strong>Art</strong>. 47\. Compete ao representante da Biblioteca Militar junto aos corpos, repartições ou estabelecimentos:
+**Art**. 47\. Compete ao representante da Biblioteca Militar junto aos corpos, repartições ou estabelecimentos:
 
 1 - Comunicar ao secretário da Biblioteca Militar haver assumido as funções de representante, o estado em que encontrou os negócios referentes a tal encargo e as providências que vem tomando, se fôr o caso, para maior eficiência de sua representação;
 
@@ -548,7 +546,7 @@ B) - Atribuições do pessoal
 
 10 - Responder com presteza os questionários que lhe sejam enviados pela Biblioteca Militar, considerando que tais questionários são ditados sempre pela necessidade urgente de conhecer as preferências dos subscritores ou de introduzir melhorias nas atividades da editôra; fazer sugestões ao diretor da Biblioteca, que a ser ver concorram para os mesmos fins.
 
-<strong>Art</strong>. 48. Compete aos subscritores da Biblioteca Militar:
+**Art**. 48. Compete aos subscritores da Biblioteca Militar:
 
 1 - Receber tôdas as publicações da editora, desde que se achem em dia nos seus pagamentos;
 
@@ -558,27 +556,27 @@ B) - Atribuições do pessoal
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 49\. A Biblioteca Militar obedecerá ao horário de outras repartições que funcionam no edifício do Ministério da Guerra. O seu regimento interno fixará as minúcias de seu funcionamento.
+**Art**. 49\. A Biblioteca Militar obedecerá ao horário de outras repartições que funcionam no edifício do Ministério da Guerra. O seu regimento interno fixará as minúcias de seu funcionamento.
 
-<strong>Art</strong>. 50. Na Biblioteca de consultas ficarão à disposições dos consulentes, sempre que isso seja possível, os fichários, porém, é terminantemente proibida a entrada de pessoas estranhas ao funcionalismo da repartição no interior do depósito de livros para escolha de obras a serem lidas, ou para outro fim qualquer.
+**Art**. 50. Na Biblioteca de consultas ficarão à disposições dos consulentes, sempre que isso seja possível, os fichários, porém, é terminantemente proibida a entrada de pessoas estranhas ao funcionalismo da repartição no interior do depósito de livros para escolha de obras a serem lidas, ou para outro fim qualquer.
 
-<strong>Art</strong>. 51. A administração da Biblioteca só responderá consultas verbais, escritas ou telefônicas sôbre assuntos atinentes à Biblioteca Militar.
+**Art**. 51. A administração da Biblioteca só responderá consultas verbais, escritas ou telefônicas sôbre assuntos atinentes à Biblioteca Militar.
 
-<strong>Art</strong>. 52. Qualquer pessoa poderá apresentar, à Biblioteca Militar, livros que tenha escrito ou traduzido, a fim de serem publicados. Para isso, deve dirigir-se em carta ao diretor, declarando que se sujeita às condições estabelecidas no regimento interno da repartição.
+**Art**. 52. Qualquer pessoa poderá apresentar, à Biblioteca Militar, livros que tenha escrito ou traduzido, a fim de serem publicados. Para isso, deve dirigir-se em carta ao diretor, declarando que se sujeita às condições estabelecidas no regimento interno da repartição.
 
 Parágrafo único. A publicação da obra a que se refere êste artigo fica no entanto dependendo da sua aceitação pela comissão de seleção de obras a publicar e das possibilidades materiais de levar a efeito a publicação, o que compete ao diretor resolver.
 
-<strong>Art</strong>. 53. A Biblioteca Militar, como suas congêneres civis, paga os direitos autorais das obras que publica, no entanto, reserva para si apenas a edição que leva a efeito, reintegrando os autores ou seus herdeiros, depois de um prazo razoável, destinado a permitir o escoamento da sua edição, na plenitude de seus direitos sôbre a obra que tenha sido objeto da transação.
+**Art**. 53. A Biblioteca Militar, como suas congêneres civis, paga os direitos autorais das obras que publica, no entanto, reserva para si apenas a edição que leva a efeito, reintegrando os autores ou seus herdeiros, depois de um prazo razoável, destinado a permitir o escoamento da sua edição, na plenitude de seus direitos sôbre a obra que tenha sido objeto da transação.
 
-<strong>Art</strong>. 54. As questões relativas à parte financeira da editora são da alçada do diretor da Biblioteca, ao qual cabe fixar, dentro dos recursos disponíveis, respeitadas as necessidades da repartição, os pagamentos aos autores ou tradutores.
+**Art**. 54. As questões relativas à parte financeira da editora são da alçada do diretor da Biblioteca, ao qual cabe fixar, dentro dos recursos disponíveis, respeitadas as necessidades da repartição, os pagamentos aos autores ou tradutores.
 
-<strong>Art</strong>. 55. Anualmente, serão distribuídos prêmios aos melhores livros publicados. Para isso, as obras da Biblioteca Militar serão assim classificadas:
+**Art**. 55. Anualmente, serão distribuídos prêmios aos melhores livros publicados. Para isso, as obras da Biblioteca Militar serão assim classificadas:
 
-<em>a)</em>      Obras relativas à instruçãoprofissional;
+*a)*      Obras relativas à instruçãoprofissional;
 
-<em>b)</em>      Obras sôbre história (inclusive biografia) e geografia;
+*b)*      Obras sôbre história (inclusive biografia) e geografia;
 
-<em>c)</em>       Obras sôbre cultura geral ou recreativas.
+*c)*       Obras sôbre cultura geral ou recreativas.
 
 § 1º Os prêmios serão arbitrados pelo diretor, de acôrdo com os saldos do exercício;
 
@@ -590,48 +588,48 @@ Parágrafo único. A publicação da obra a que se refere êste artigo fica no e
 
 § 5º As decisões da comissão julgadora são inapeláveis.
 
-<strong>Art</strong>. 56. A Biblioteca Militar não publicará obras sôbre política partidária, nem que contenha matéria religiosa contrária aos sentimentos da maioria de seus leitores; abster-se-á, igualmente, de publicar assuntos que possam dar lugar a debates entre elementos das classes armadas. No entanto, a responsabilidade das opiniões emitidas cabe sempre aos autores e não ao Exército.
+**Art**. 56. A Biblioteca Militar não publicará obras sôbre política partidária, nem que contenha matéria religiosa contrária aos sentimentos da maioria de seus leitores; abster-se-á, igualmente, de publicar assuntos que possam dar lugar a debates entre elementos das classes armadas. No entanto, a responsabilidade das opiniões emitidas cabe sempre aos autores e não ao Exército.
 
-<strong>Art</strong>. 57\. Os livros a serem publicados pela Biblioteca Militar devem ficar ao alcance das bolsas mais modestas e versar sôbre matéria não especializada, a fim de se tornarem do agrado do maior número e seus subscritores. Não serão aceitos livros em séries.
+**Art**. 57\. Os livros a serem publicados pela Biblioteca Militar devem ficar ao alcance das bolsas mais modestas e versar sôbre matéria não especializada, a fim de se tornarem do agrado do maior número e seus subscritores. Não serão aceitos livros em séries.
 
-<strong>Art</strong>. 58. Fica extinta a Comissão Diretora da Biblioteca Militar. A Comissão de Seleção de Livros a Publicar será organizada dentro de 30 dias, a partir da aprovação do presente Regulamento.
+**Art**. 58. Fica extinta a Comissão Diretora da Biblioteca Militar. A Comissão de Seleção de Livros a Publicar será organizada dentro de 30 dias, a partir da aprovação do presente Regulamento.
 
-<strong>Art</strong>. 59. Dada a deficiência de funcionários, cabe ao secretário reforçar, sempre que isso seja preciso, uma dependência da repartição as expensas de outras, para aceleração de determinados serviços.
+**Art**. 59. Dada a deficiência de funcionários, cabe ao secretário reforçar, sempre que isso seja preciso, uma dependência da repartição as expensas de outras, para aceleração de determinados serviços.
 
 Parágrafo único. As substituições não especificadas no presente Regulamento serão, de acôrdo com as necessidade do serviço, determinadas pelo diretor.
 
-<strong>Art</strong>. 60. O diretor da Biblioteca Militar será substituído, desde que se afaste da sede da repartição, pelo subdiretor, e na falta dêste, pelo modo prescrito nos regulamentos em vigor.
+**Art**. 60. O diretor da Biblioteca Militar será substituído, desde que se afaste da sede da repartição, pelo subdiretor, e na falta dêste, pelo modo prescrito nos regulamentos em vigor.
 
-<strong>Art</strong>. 61. A Biblioteca Militar terá além da escrituração prevista nos regulamentos militares, uma escrituração comercial complementar.
+**Art**. 61. A Biblioteca Militar terá além da escrituração prevista nos regulamentos militares, uma escrituração comercial complementar.
 
-<strong>Art</strong>. 62. Os livros extraviados pelos leitores serão por estes indenizados, de acôrdo como valor fixado pela Biblioteca, no momento do empréstimo. Os livros muito procurados para consultas, os livros raros, ou difíceis de substituir, dicionários, obras clássicas, etc., não são objeto de empréstimos, para leitura em domicílio.
+**Art**. 62. Os livros extraviados pelos leitores serão por estes indenizados, de acôrdo como valor fixado pela Biblioteca, no momento do empréstimo. Os livros muito procurados para consultas, os livros raros, ou difíceis de substituir, dicionários, obras clássicas, etc., não são objeto de empréstimos, para leitura em domicílio.
 
-<strong>Art</strong>. 63\. As indenizações de obras extraviadas podem ser amigáveis ou por determinação do ministro, o que se dará sempre que o diretor não conseguir liquidar por negociações diretas com o responsável a dívida dêste para com a Biblioteca. Nesta última hipótese, a quantia devida será cobrada em folha por ordem do ministro.
+**Art**. 63\. As indenizações de obras extraviadas podem ser amigáveis ou por determinação do ministro, o que se dará sempre que o diretor não conseguir liquidar por negociações diretas com o responsável a dívida dêste para com a Biblioteca. Nesta última hipótese, a quantia devida será cobrada em folha por ordem do ministro.
 
 Parágrafo único. As quantias provenientes de obras extraviadas serão recolhidas à tesouraria e escrituradas como renda, a fim de serem empregadas integralmente na aquisição de outros livros.
 
-<strong>Art</strong>. 64. A Biblioteca Militar gosará, como qualquer outra repartição, de franquia postal e telegráfica. A devolução de livros por parte do representante deve ser feita por intermédio da unidade administrativa, para que gose de tal favor.
+**Art**. 64. A Biblioteca Militar gosará, como qualquer outra repartição, de franquia postal e telegráfica. A devolução de livros por parte do representante deve ser feita por intermédio da unidade administrativa, para que gose de tal favor.
 
-<strong>Art</strong>. 65. Não serão aceitos pela Biblioteca Militar livros devolvidos pelos seus representantes, que não possam ser distribuídos a outros subscritores, que por danificados, quer por trazerem nome ou outras indicações, neles escritos.
+**Art**. 65. Não serão aceitos pela Biblioteca Militar livros devolvidos pelos seus representantes, que não possam ser distribuídos a outros subscritores, que por danificados, quer por trazerem nome ou outras indicações, neles escritos.
 
-<strong>Art</strong>. 66. As condições de venda dos livros em depósitos, por terem excedido às necessidades dos subscritores, serão fixados pelo diretor da Biblioteca.
+**Art**. 66. As condições de venda dos livros em depósitos, por terem excedido às necessidades dos subscritores, serão fixados pelo diretor da Biblioteca.
 
-<strong>Art</strong>. 67. As quantias arrecadadas pela Biblioteca entre seus subscritores destinam-se ao pagamento dos livros a editar, embora escrituradas como renda. Desde que haja saldo, calculado sempre sôbre o custo da obra a ser publicada no mês seguinte, o diretor poderá por essa rubrica atender a outras necessidades da repartição.
+**Art**. 67. As quantias arrecadadas pela Biblioteca entre seus subscritores destinam-se ao pagamento dos livros a editar, embora escrituradas como renda. Desde que haja saldo, calculado sempre sôbre o custo da obra a ser publicada no mês seguinte, o diretor poderá por essa rubrica atender a outras necessidades da repartição.
 
-<strong>Art</strong>. 68. Dentro de 60 dias, contados da data da publicação dêste regulamento, o diretor da Biblioteca Militar submeterá ao ministro para a devida aprovação, o regimento interno da repartição.
+**Art**. 68. Dentro de 60 dias, contados da data da publicação dêste regulamento, o diretor da Biblioteca Militar submeterá ao ministro para a devida aprovação, o regimento interno da repartição.
 
-<strong>Art</strong>. 69. Todas as quantias arrecadadas pela Biblioteca serão publicadas em boletim interno, com as necessárias especificações.
+**Art**. 69. Todas as quantias arrecadadas pela Biblioteca serão publicadas em boletim interno, com as necessárias especificações.
 
-<strong>Art</strong>. 70\. As traduções de livros estrangeiros ficam sugeitas ao mesmo processo de julgamento, podendo ainda a administração da Biblioteca intervir para auxiliar o tradutor na obtenção dos direitos de tradução, quando se tratar de trabalho de real valor e interesse para o Exército.
+**Art**. 70\. As traduções de livros estrangeiros ficam sugeitas ao mesmo processo de julgamento, podendo ainda a administração da Biblioteca intervir para auxiliar o tradutor na obtenção dos direitos de tradução, quando se tratar de trabalho de real valor e interesse para o Exército.
 
-<strong>Art</strong>. 71. A publicação das obras selecionadas pela Comissão de Seleção de Livros a Publicar fica na dependência do custo dessas obras e da sua oportunidade, o que é assunto da exclusiva competência do diretor.
+**Art**. 71. A publicação das obras selecionadas pela Comissão de Seleção de Livros a Publicar fica na dependência do custo dessas obras e da sua oportunidade, o que é assunto da exclusiva competência do diretor.
 
-<strong>Art</strong>. 72.  A Chefia do 4º grupo de trabalho será exerceida pelo sargento do contigente da repartição ou por funcionário civil, para tal designado.
+**Art**. 72.  A Chefia do 4º grupo de trabalho será exerceida pelo sargento do contigente da repartição ou por funcionário civil, para tal designado.
 
 Parágrafo único. Cabe ao chefe dêsse grupo a direção do depósito e guarda dos livros recolhidos a essa dependência.
 
-<strong>Art</strong>. 73. A Biblioteca Militar depende diretamente do Ministro da Guerra.
+**Art**. 73. A Biblioteca Militar depende diretamente do Ministro da Guerra.
 
 Rio de Janeiro, 24 de março de 1948.
 
-<strong>CANROBERT P. DA COSTA.</strong>
+**CANROBERT P. DA COSTA.**

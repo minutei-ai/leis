@@ -1,5 +1,3 @@
-###DEC-045149-0-000-30-12-1958@@@
-
 DECRETO Nº 45.149, DE 30 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento da Diretoria de Instrução do Exército (R-127).

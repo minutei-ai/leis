@@ -1,5 +1,3 @@
-###DEC-096768-0-000-23-09-1988@@@
-
 DECRETO N° 96.768, DE 23 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA CUMBICA DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Guarulhos, Estado de São Paulo.

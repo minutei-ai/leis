@@ -1,5 +1,3 @@
-###DEC-084267-0-000-06-12-1979@@@
-
 Decreto nº 84.267, de 06 de dezembro de 1979
 
 Autoriza o funcionamento do curso de Filosofia, das Faculdades Unidas Católicas de Mato Grosso, com sede em Campo Grande, Estado de Mato Grosso do Sul.

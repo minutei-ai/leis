@@ -1,7 +1,3 @@
-1
-
-###DEC-099060-0-000-07-03-1990@@@
-
 DECRETO N° 99.060, DE 07 DE MARÇO DE 1990.
 
 Vincula o Instituto Nacional de As­sistência Médica da Previdência Social - INAMPS ao Ministério da Saúde, e dá outras providências.

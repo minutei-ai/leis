@@ -1,7 +1,3 @@
-1
-
-###DEC-001280-0-000-14-10-1994@@@
-
 DECRETO Nº 1.280, DE 14 DE OUTUBRO DE 1994
 
 Dispõe sobre a execução do Acordo de Alcance Parcial para a Facilitação do Comércio entre Brasil, Argentina, Paraguai e Uruguai, de 18 de maio de 1994.

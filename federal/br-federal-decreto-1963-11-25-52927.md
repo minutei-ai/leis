@@ -1,5 +1,3 @@
-###DEC-052927-0-000-25-11-1963@@@
-
 DECRETO Nº 52.927, DE 25 DE NOVEMBRO DE 1963.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$2.695.000.000,00 para o fim que especifica.
@@ -12,7 +10,43 @@ Art. 1º Fica aberto pelo Ministério da Aeronáutica, o crédito especial de Cr
 
 Parágrafo único. O referido crédito terá a seguinte discriminação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Santa Maria ....................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>315.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Uruguaiana ....................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>102.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Afonso Pena (Curitiba) ...................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>390.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Belo Horizonte ...............................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>438.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de São Luiz .........................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>269.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto Santos Dumont ...................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>185.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Salvador .........................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>310.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Fortaleza ........................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>430.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aeroporto de Belém .............................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>256.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+Aeroporto de Santa Maria ....................................................................................
+
+315.000.000,00
+
+Aeroporto de Uruguaiana ....................................................................................
+
+102.000.000,00
+
+Aeroporto de Afonso Pena (Curitiba) ...................................................................
+
+390.000.000,00
+
+Aeroporto de Belo Horizonte ...............................................................................
+
+438.000.000,00
+
+Aeroporto de São Luiz .........................................................................................
+
+269.000.000,00
+
+Aeroporto Santos Dumont ...................................................................................
+
+185.000.000,00
+
+Aeroporto de Salvador .........................................................................................
+
+310.000.000,00
+
+Aeroporto de Fortaleza ........................................................................................
+
+430.000.000,00
+
+Aeroporto de Belém .............................................................................................
+
+256.000.000,00
 
 Art. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

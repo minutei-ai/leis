@@ -1,5 +1,3 @@
-###DEC-054845-0-000-03-11-1964@@@
-
 DECRETO Nº 54.845, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Luiz da Costa Telles a pesquisar argila no município de Rio Claro, Estado de São Paulo.

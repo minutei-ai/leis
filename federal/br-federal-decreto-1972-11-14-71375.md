@@ -1,5 +1,3 @@
-###DEC-071375-0-000-14-11-1972@@@
-
 DECRETO Nº 71.375 - DE 14 DE NOVEMBRO DE 1972.
 
 Aproveita servidores em disponibilidade e dá outras providências.

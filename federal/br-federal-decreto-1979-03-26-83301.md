@@ -1,5 +1,3 @@
-###DEC-083301-0-000-26-03-1979@@@
-
 Decreto nº 83.301, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Farmácia e Bioquímica da Universidade Católica de Pelotas, com sede na cidade de Pelotas, Estado do Rio Grande do Sul.

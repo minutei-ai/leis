@@ -1,5 +1,3 @@
-###DEC-073600-0-000-08-02-1974@@@
-
 DECRETO Nº 73.600, DE 8 DE FEVEREIRO DE 1974.
 
 Dispõe sobre a liberação, no exercício de 1974, dos recursos do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios e do Fundo de Participação dos Municípios e dá outras providências.

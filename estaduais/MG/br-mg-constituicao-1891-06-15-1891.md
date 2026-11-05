@@ -1307,7 +1307,3 @@ Arthur Itabirano de Menezes, deputado
 Dr. Eloy dos Reis e Silva, deputado
 
 Severiano Nunes Cardoso de Rezende, deputado
-
-\================================================================
-
-Data da última atualização: 03/09/2007

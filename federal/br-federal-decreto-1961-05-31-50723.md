@@ -1,5 +1,3 @@
-###DEC-050723-0-000-31-05-1961@@@
-
 DECRETO Nº 50.723, DE 31 DE MAIO DE 1961.
 
 Autoriza Ichiro Suzuki, a comprar pedras preciosas.

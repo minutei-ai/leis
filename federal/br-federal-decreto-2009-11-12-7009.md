@@ -1,5 +1,3 @@
-###DEC-007009-0-000-12-11-2009@@@
-
 DECRETO Nº 7.009, DE 12 DE NOVEMBRO DE 2009.
 
 Dá nova redação aos arts. 1o, 2o e 3o do Decreto no 4.801, de 6 de agosto de 2003, que cria a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.

@@ -1,5 +1,3 @@
-###DEC-067033-0-000-11-08-1970@@@
-
 DECRETO Nº 67.033, DE 11 DE AGÔSTO DE 1970.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e à Infância das Mercês, com sede em Curitiba, Estado do Paraná.

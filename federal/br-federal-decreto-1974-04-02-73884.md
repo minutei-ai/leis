@@ -1,5 +1,3 @@
-###DEC-073884-0-000-02-04-1974@@@
-
 DECRETO Nº 73.884, DE 2 DE ABRIL DE 1974.
 
 Transfere funcionária, com respectivo cargo, do Quadro de Pessoal em extinção do antigo Conselho Nacional de Geografia, para o Quadro de Pessoal do Departamento Nacional de Portos e Vias Navegáveis.

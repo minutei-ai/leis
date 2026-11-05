@@ -1,5 +1,3 @@
-###DEC-048013-0-000-05-04-1960@@@
-
 DECRETO Nº 48.013, de 5 DE abril de 1960.
 
 Dispõe sôbre assistência imediata às vítimas das inundações do nordeste e dá outras providências.

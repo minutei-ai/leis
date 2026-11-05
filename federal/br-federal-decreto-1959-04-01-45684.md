@@ -1,5 +1,3 @@
-###DEC-045684-0-000-01-04-1959@@@
-
 DECRETO Nº 45.684, DE 1º DE ABRIL DE 1959.
 
 Eleva para Cr$1.000.000.000,00 o limite fixado pelo Decreto número 41.003, de 25 de fevereiro de 1957, e dá outras providências.

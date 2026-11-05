@@ -1,5 +1,3 @@
-###DEL-008669-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.669 – DE 14 DE JANEIRO 1946
 
 Abre à Administração do Território Federal do Amapá o crédito especial de Cr$ 2.600.000,00, para ocorrer às despesas que menciona.

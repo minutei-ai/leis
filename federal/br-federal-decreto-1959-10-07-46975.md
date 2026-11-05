@@ -1,5 +1,3 @@
-###DEC-046975-0-000-07-10-1959@@@
-
 DECRETO Nº 46.975, DE 7 DE OUTUBRO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

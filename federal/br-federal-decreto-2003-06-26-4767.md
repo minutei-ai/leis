@@ -1,5 +1,3 @@
-###DEC-004767-0-000-26-06-2003@@@
-
 DECRETO Nº 4.767, DE 26 DE JUNHO DE 2003.
 
        Regulamenta o § 7º do art. 27 da Lei nº 10.438, de 26 de abril de 2002, altera o inciso VI do art. 6º do Decreto nº 4.562, de 31 de dezembro de 2002, e dá outras providências.
@@ -30,5 +28,4 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-<br>
 Dilma Vana Rousseff

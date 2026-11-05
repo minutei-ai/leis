@@ -1,5 +1,3 @@
-###DEC-056711-0-000-11-08-1965@@@
-
 DECRETO Nº 56.711, DE 11 DE AGÔSTO DE 1965.
 
 Estabelece normas para atender à alimentação dos integrantes do Destacamento Brasileiro da Fôrça Armada Interamericana (FAIBRAS) e dá outras providências.

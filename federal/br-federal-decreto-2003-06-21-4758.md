@@ -1,5 +1,3 @@
-###DEC-004758-0-000-21-06-2003@@@
-
 DECRETO Nº 4.758, DE 21 DE JUNHO DE 2003.
 
        Dá nova redação ao parágrafo único do art. 3º e ao § 2º do art. 40 do Decreto nº 4.541, de 23 de dezembro de 2002, que regulamenta os arts. 3º, 13, 17 e 23 da Lei nº 10.438, de 26 de abril de 2002, que dispõe sobre a expansão da oferta de energia elétrica emergencial, recomposição tarifária extraordinária, cria o Programa de Incentivo às Fontes Alternativas de Energia Elétrica - PROINFA e a Conta de Desenvolvimento Energético - CDE e dá outras providências.
@@ -26,5 +24,6 @@ Art. 40\. .......................................................
 
         Brasília, 21 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Dilma Vana Rousseff

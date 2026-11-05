@@ -1,5 +1,3 @@
-###DEC-094980-0-000-29-09-1987@@@
-
 DECRETO Nº 94.980, DE 29 DE SETEMBRO DE 1987
 
 Cria o "Salão de Conferências Gilberto Freyre", na cidade do Rio de Janeiro.

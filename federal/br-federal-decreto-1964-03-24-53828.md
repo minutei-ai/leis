@@ -1,5 +1,3 @@
-###DEC-053828-0-000-24-03-1964@@@
-
 Decreto nº 53.828, de 24 de março de 1964.
 
 Autoriza o cidadão brasileiro Almir Moraes a pesquisar quartzo no município de Marabá, Estado do Pará.

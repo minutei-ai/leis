@@ -1,5 +1,3 @@
-###DEC-045514-0-000-02-03-1959@@@
-
 DECRETO Nº 45.514, DE 2 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Rio de Janeiro.

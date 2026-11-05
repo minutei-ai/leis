@@ -1,5 +1,3 @@
-###DEC-054154-0-000-20-08-1964@@@
-
 DECRETO Nº 54.154, DE 20 DE AGôSTO DE 1964.
 
 Aprova as alterações introduzidas nos Estatutos e a elevação do capital social da “Centrais Elétricas Brasileiras S.A. - ELETROBRÁS”.

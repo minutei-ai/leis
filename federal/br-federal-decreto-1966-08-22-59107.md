@@ -1,5 +1,3 @@
-###DEC-059107-0-000-22-08-1966@@@
-
 Decreto nº 59.107, de 22 de agôsto de 1966.
 
 Cria Funções Gratificadas no Quadro de Pessoal do Ministério da Fazenda.

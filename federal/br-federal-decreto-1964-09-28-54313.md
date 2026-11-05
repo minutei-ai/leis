@@ -1,5 +1,3 @@
-###DEC-054313-0-000-28-09-1964@@@
-
 DECRETO Nº 54.313, DE 28 DE SETEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Lajes, Estado de Santa Catarina.

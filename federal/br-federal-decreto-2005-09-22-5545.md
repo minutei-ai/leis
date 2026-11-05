@@ -1,5 +1,3 @@
-###DEC-005545-0-000-22-09-2005@@@
-
 DECRETO Nº 5.545, DE 22 DE SETEMBRO DE 2005
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999, e dá outras providências.

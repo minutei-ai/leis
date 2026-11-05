@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209620)<br>
-
 # DECRETO LEGISLATIVO N° 2.550, DE 25 DE JUNHO DE 2024
 
 ### _Manifesta concordância com a implementação do Convênio ICMS 59/24, ratificado pelo Decreto n° 68.609, de 15 de junho de 2024._

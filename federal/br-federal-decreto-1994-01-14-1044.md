@@ -1,7 +1,3 @@
-1
-
-###DEC-001044-0-000-14-01-1994@@@
-
 DECRETO N° 1.044, DE 14 DE JANEIRO DE 1994
 
 Institui o Programa Nacional de Descentralização e constitui Câmara Especial do Conselho de Governo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099029-0-000-05-03-1990@@@
-
 DECRETO N° 99.029, DE 5 DE MARÇO DE 1990.
 
 Autoriza o funcionamento do curso de Pedagogia das Faculdades Integradas de Ariquemes.

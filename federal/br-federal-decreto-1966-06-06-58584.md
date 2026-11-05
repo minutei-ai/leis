@@ -1,5 +1,3 @@
-###DEC-058584-0-000-06-06-1966@@@
-
 DECRETO Nº 58.584, DE 6 DE JUNHO DE 1966.
 
 Concede à Sociedade Navegação Santista Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-002562-0-000-27-04-1998@@@
-
 DECRETO Nº 2.562, DE 27 DE ABRIL DE 1998
 
 Altera a competência relativa a matérias objeto de julgamento pelos Segundo e Terceiro Conselhos de Contribuintes do Ministério da Fazenda.

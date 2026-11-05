@@ -1,5 +1,3 @@
-###DEC-046018-0-000-18-05-1959@@@
-
 DECRETO Nº 46.018, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Carlos Kampmann a pesquisar minério de ferro, no município de Tijucas do Sul, Estado do Paraná.

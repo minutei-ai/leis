@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212853)<br>
-
 # DECRETO N° 70.766, DE 24 DE JULHO DE 2026
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

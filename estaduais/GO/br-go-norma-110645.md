@@ -1,11 +1,13 @@
-LEI Nº 23.389, DE 6 DE MAIO DE 2025<br>
+LEI Nº 23.389, DE 6 DE MAIO DE 2025
+
 \- Vide Decreto nº 10.789, de 1º-10-2025 - Regulamenta no Poder Executivo do Estado de Goiás a [Lei nº 23.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110645), de 6 de maio de 2025.
 
 Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos e de empregos públicos nos Poderes Executivo e Legislativo do Estado de Goiás.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Ficam reservadas aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, sempre que o número de vagas oferecidas for igual ou superior a três.<br>
+Art. 1º Ficam reservadas aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, sempre que o número de vagas oferecidas for igual ou superior a três.
+
 \- [Redação dada pela Lei nº 23.719, de 1º-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359).
 
 ~~Art. 1º Ficam reservadas aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos e de empregos públicos, sempre que o número de vagas oferecidas for igual ou superior a 3 (três).~~
@@ -14,7 +16,8 @@ Art. 1º Ficam reservadas aos negros 20% (vinte por cento) das vagas oferecidas 
 
 § 2º Na hipótese de quantitativo fracionado para o número de vagas reservadas aos candidatos negros, haverá o aumento para o primeiro número inteiro subsequente, em caso de fração igual ou maior a 0,5 (zero vírgula cinco), ou a diminuição para o número inteiro imediatamente inferior, em caso de fração menor que 0,5 (zero vírgula cinco).
 
-§ 3º Os editais dos concursos públicos ou dos processos simplificados deverão especificar o total de vagas correspondente à reserva para cada cargo, emprego público, função pública decorrente de contratos por tempo determinado ou de contratos de estágio oferecido.<br>
+§ 3º Os editais dos concursos públicos ou dos processos simplificados deverão especificar o total de vagas correspondente à reserva para cada cargo, emprego público, função pública decorrente de contratos por tempo determinado ou de contratos de estágio oferecido.
+
 \- [Redação dada pela Lei nº 23.719, de 1º-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359).
 
 ~~§ 3º Os editais dos concursos públicos ou dos processos simplificados deverão especificar o total de vagas correspondente à reserva para cada cargo ou emprego público oferecido.~~
@@ -35,7 +38,8 @@ Art. 3º Para a verificação do enquadramento da autodeclaração, deve ser des
 
 Art. 4º Os candidatos negros concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso ou no processo seletivo simplificado.
 
-§ 1º Os candidatos negros aprovados para as vagas a eles reservadas e para as reservadas às pessoas com deficiência, convocados concomitantemente para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, deverão optar por uma delas.<br>
+§ 1º Os candidatos negros aprovados para as vagas a eles reservadas e para as reservadas às pessoas com deficiência, convocados concomitantemente para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, deverão optar por uma delas.
+
 \- [Redação dada pela Lei nº 23.719, de 1º-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359).
 
 ~~§ 1º Os candidatos negros aprovados para as vagas a eles reservadas e para as reservadas às pessoas com deficiência, convocados concomitantemente para o provimento dos cargos ou empregos públicos, deverão optar por uma delas.~~
@@ -54,10 +58,12 @@ Art. 7º Esta Lei não se aplicará aos concursos e aos processos seletivos simp
 
 Art. 8º Encerrada a vigência desta Lei, o Poder Executivo avaliará os resultados da aplicação dela.
 
-Art. 9º Esta Lei tem a vigência de 10 (dez) anos e entra em vigor:<br>
+Art. 9º Esta Lei tem a vigência de 10 (dez) anos e entra em vigor:
+
 \- [Vide art. 2º da Lei nº 23.719, de 1º-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359).
 
-I – após decorridos cento e vinte dias de sua publicação, para o Poder Executivo; e<br>
+I – após decorridos cento e vinte dias de sua publicação, para o Poder Executivo; e
+
 \- [Redação dada pela Lei nº 23.719, de 1º-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359).
 
 ~~I – após decorridos 180 (cento e oitenta) dias de sua publicação, para o Poder Executivo; e~~

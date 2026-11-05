@@ -1,5 +1,3 @@
-###DEC-092881-0-000-02-07-1986@@@
-
 DECRETO Nº 92.881, DE 2 DE JULHO DE 1986
 
 Dispõe sobre a revogação de Decretos que aprovam Regulamentos de Organizações do Ministério da Aeronáutica.

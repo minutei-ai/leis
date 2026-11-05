@@ -1,5 +1,3 @@
-###DEC-053988-0-000-30-06-1964@@@
-
 Decreto nº 53.988, de 30 de junho de 1964.
 
 Institui o Dia Nacional do Doador Voluntário de Sangue.

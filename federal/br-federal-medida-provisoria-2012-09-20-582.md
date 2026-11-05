@@ -1,5 +1,3 @@
-###MPV-000582-0-000-20-09-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 582, DE 20 DE SETEMBRO DE 2012
 
 Altera a Lei nº 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária de empresas dos setores industriais e de serviços; permite depreciação de bens de capital para apuração do Imposto de Renda; institui o Regime Especial de Incentivo ao Desenvolvimento da Infraestrutura da Indústria de Fertilizantes; altera a Lei nº 12.598, de 22 de março de 2012, quanto à abrangência do Regime Especial Tributário para a Indústria de Defesa; altera a incidência da Contribuição para o PIS/PASEP e da COFINS na comercialização da laranja; reduz o Imposto de Renda devido pelo prestador autônomo de transporte de carga; e dá outras providências.

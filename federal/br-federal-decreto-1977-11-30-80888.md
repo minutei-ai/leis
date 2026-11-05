@@ -1,5 +1,3 @@
-###DEC-080888-0-000-30-11-1977@@@
-
 DECRETO Nº 80.888, DE 30 DE NOVEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

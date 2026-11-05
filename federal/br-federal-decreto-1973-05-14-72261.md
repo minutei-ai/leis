@@ -1,5 +1,3 @@
-###DEC-072261-0-000-14-05-1973@@@
-
 DECRETO Nº 72.261, DE 14 DE MAIO DE 1973.
 
 Concede à Indústria e Comércio Magnebock Ltda., o direito de lavrar filito no Município de Pirapora do Bom Jesus, Estado de São Paulo.

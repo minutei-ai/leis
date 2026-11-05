@@ -1,5 +1,3 @@
-###DEC-054832-0-000-03-11-1964@@@
-
 DECRETO Nº 54.832, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Cruzeiro do Sul - CRUZUL - a lavrar quartzo no município de Congonhas, Estado de Minas Gerais.

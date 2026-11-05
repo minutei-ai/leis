@@ -1,7 +1,3 @@
-1
-
-###DEC-099667-0-000-05-11-1990@@@
-
 DECRETO N° 99.667, DE 5 DE NOVEMBRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis adjacentes à futura sede do Tribunal Regional do Trabalho da 5ª Região, situados nos n°s 67, 73, 81 e 87 da Rua Gonçalves Dias, antiga Rua Bela Vista do Cabral, subdistrito de Nazaré, na Cidade de Salvador - Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-086707-0-000-09-12-1981@@@
-
 Decreto nº 86.707, de 09 de dezembro de 1981.
 
 Promulga o Acordo de Cooperação Sanitária entre o Governo da República Federativa do Brasil e a República Oriental do Uruguai.
@@ -96,4 +94,16 @@ Em caso de denúncia do Acordo, a qual produzirá efeitos seis meses após comun
 
 Feito em Brasília, aos 11 dias do mês de setembro de 1980, em dois exemplares, nas línguas portuguesa e espanhola, sendo todos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ORIENTAL DO URUGUAI:</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Adolfo Folle Martínez</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Waldyr Mendes Arcoverde</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+ORIENTAL DO URUGUAI:
+
+Ramiro Saraiva Guerreiro
+
+Adolfo Folle Martínez
+
+Waldyr Mendes Arcoverde

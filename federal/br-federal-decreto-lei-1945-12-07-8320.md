@@ -1,5 +1,3 @@
-###DEL-008320-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.320 – DE 7 DE DEZEMBRO DE 1945
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 155.000,00, para os serviços que menciona.

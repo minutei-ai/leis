@@ -1,5 +1,3 @@
-###DEC-003850-0-000-27-06-2001@@@
-
 DECRETO Nº 3.850, DE 27 DE JUNHO DE 2001
 
 Prorroga o prazo de contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária ‑ RECOOP e o de encerramento das atividades do Comitê Executivo, de que tratam, respectivamente, os arts. 1º, parágrafo único, e 5º do Decreto nº 3.701, de 27 de dezembro de 2000.

@@ -1,5 +1,3 @@
-###DEC-056548-0-000-08-07-1965@@@
-
 DECRETO Nº 56.548, DE 8 DE JULHO DE 1965.
 
 Modifica o Decreto de criação da Comissão Nacional de Assistência Técnica para incluir na mesma o Presidente do Conselho Nacional de Pesquisas.

@@ -1,5 +1,3 @@
-###DEL-006782-0-000-10-08-1944@@@
-
 DECRETO-LEI N. 6.782 – DE 10 DE AGÔSTO DE 1944
 
 Abre à Comissão Central de Requisições o crédito espacial de Cr$ 68.000,00, para classificação da despesa

@@ -1,5 +1,3 @@
-###DEC-096458-0-000-02-08-1988@@@
-
 DECRETO N° 96.458, de 2 DE AGOSTO DE 1988
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de l968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

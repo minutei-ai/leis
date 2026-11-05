@@ -1,5 +1,3 @@
-###MPV-000603-0-000-18-01-2013-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 603, DE 18 DE JANEIRO DE 2013
 
 Altera a Medida Provisória nº 587, de 9 de novembro de 2012, que autoriza para a safra 2011/2012 o pagamento de valor adicional ao Benefício Garantia-Safra, de que trata a Lei nº 10.420, de 10 de abril de 2002; amplia para o ano de 2012 o Auxílio Emergencial Financeiro, de que trata a Lei nº 10.954, de 29 de setembro de 2004; e estabelece medidas para aquisição de milho em grãos para o atendimento ao Programa de Venda Balcão aos pequenos criadores situados nos Municípios da área de atuação da Superintendência do Desenvolvimento do Nordeste - Sudene.

@@ -1,5 +1,3 @@
-###DEC-068918-0-000-15-07-1971@@@
-
 DECRETO Nº 68.918, DE 15 DE JULHO DE 1971.
 
 Dá nova redação ao artigo 1º do Decreto nº 63.790, de 12 de dezembro de 1968, que autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno sito à margem da Estrada Gustavo Capanema, no Município de Manaus, Estado do Amazonas.

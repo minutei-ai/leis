@@ -1,5 +1,3 @@
-###DEC-064230-0-000-20-03-1969@@@
-
 DECRETO Nº 64.230, DE 20 DE MARÇO DE 1969.
 
 Declara de utilidade pública a "Sociedade Israelita Religiosa de Proteção á Infância Desamparada", com sede no Estado de Guanabara.

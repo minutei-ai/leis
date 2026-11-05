@@ -1,5 +1,3 @@
-###DEC-072061-0-000-06-04-1973@@@
-
 Decreto Nº 72.061, DE 6 ABRIL DE 1973.
 
 Concede reconhecimento à Faculdade de Medicina de Vassouras, mantida pela Fundação Universitária Sul-Fluminense, com sede na cidade de Vassouras, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-069998-0-000-20-01-1972@@@
-
 DECRETO Nº 69.998, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Patronato Santa Catarina Labouré, com sede em Piripiri, Estado do Piauí.

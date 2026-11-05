@@ -1,5 +1,3 @@
-###DEC-060898-0-000-26-06-1967@@@
-
 DECRETO Nº 60.898, DE 26 DE JUNHO DE 1967.
 
 Autoriza o funcionamento de curso da Faculdade de Filosofia, Ciências e Letras, de Santos - SP.

@@ -1,5 +1,3 @@
-###DEC-058163-0-000-06-04-1966@@@
-
 DECRETO Nº 58.163, DE 6 DE ABRIL DE 1966.
 
 Aplica à Companha de Erradicação da Malária, do Ministério da Saúde, o aumento de que trata a Lei nº 4.863, de 29-11-65.

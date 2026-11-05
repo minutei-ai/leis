@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/163531)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2011/compilacao-lei.complementar-1150-20.10.2011.html)
 
 # LEI COMPLEMENTAR N° 1.150, DE 20 DE OUTUBRO DE 2011
@@ -7,7 +6,8 @@
 
 ### _Dispõe sobre regras de inatividade e promoção aplicáveis aos policiais militares, nas condições que especifica_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 ~~**Artigo 1° -** Será transferido "ex officio" para a reserva remunerada da Polícia Militar, com vencimento e vantagens integrais na forma da lei, o Oficial com 30 (trinta), ou mais, anos de serviço e que conte 5 (cinco) anos no mesmo posto, desde que se encontre em uma das seguintes situações:~~
@@ -104,16 +104,28 @@ Disposições Constitucionais Transitórias da Constituição do Estado.
 
 **II -** os artigos 2° e 3° da [Lei Complementar n° 673, de 30 de dezembro de 1991](https://www.al.sp.gov.br/norma/18834).
 
-Palácio dos Bandeirantes, 20 de outubro de 2011.<br>
-GERALDO ALCKMIN<br>
-Antonio Ferreira Pinto<br>
-Secretário da Segurança Pública<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Emanuel Fernandes<br>
-Secretário de Planejamento e Desenvolvimento Regional<br>
-Júlio Francisco Semeghini Neto<br>
-Secretário de Gestão Pública<br>
-Sidney Estanislau Beraldo<br>
-Secretário-Chefe da Casa Civil<br>
+Palácio dos Bandeirantes, 20 de outubro de 2011.
+
+GERALDO ALCKMIN
+
+Antonio Ferreira Pinto
+
+Secretário da Segurança Pública
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Emanuel Fernandes
+
+Secretário de Planejamento e Desenvolvimento Regional
+
+Júlio Francisco Semeghini Neto
+
+Secretário de Gestão Pública
+
+Sidney Estanislau Beraldo
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 20 de outubro de 2011.

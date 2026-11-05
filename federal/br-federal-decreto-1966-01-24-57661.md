@@ -1,5 +1,3 @@
-###DEC-057661-0-000-24-01-1966@@@
-
 Decreto nº 57.661, de 24 de janeirode1966.
 
 Dispõe sôbre a designação de Diretores.

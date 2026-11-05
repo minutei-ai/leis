@@ -1,5 +1,3 @@
-###DEL-005226-0-000-02-02-1943@@@
-
 DECRETO‑LEI N. 5.226 – DE 2 DE FEVEREIRO DE 1943
 
 Prorroga, o prazo para o pagamento do imposto sindical

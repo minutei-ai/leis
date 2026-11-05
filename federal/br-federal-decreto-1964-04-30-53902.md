@@ -1,5 +1,3 @@
-###DEC-053902-0-000-30-04-1964@@@
-
 Decreto nº 53.902, de 30 de abril de 1964.
 
 Cria sob suplentes de membros do Conselho Ferroviário Nacional, órgão deliberativo do Departamento Nacional de Estradas de Ferro.

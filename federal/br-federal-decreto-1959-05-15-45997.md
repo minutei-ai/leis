@@ -1,5 +1,3 @@
-###DEC-045997-0-000-15-05-1959@@@
-
 decreto nº 45.997, de 15 de maio de 1959
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Departamento de Base Aérea de Campo Grande para o Hospital de Aeronáutica dos Afonsos.

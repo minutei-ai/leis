@@ -1,5 +1,3 @@
-###DEC-092201-0-000-24-12-1985@@@
-
 DEcreto nº 92.201, de 24 dE dezembro dE 1985.
 
 Autoriza a COBRA - COMPUTADORES E SISTEMAS BRASILEIROS S/A a proceder ao aumento do limite do seu capital autorizado, bem como do capital social.

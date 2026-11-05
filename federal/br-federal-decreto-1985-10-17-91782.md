@@ -1,5 +1,3 @@
-###DEC-091782-0-000-17-10-1985@@@
-
 Decreto nº 91.782, de 17 de outubro de 1985.
 
 Altera dispositivos do Decreto nº 85.238, de 7 de outubro de 1980 que regulamenta a Lei nº 6.807, de 7 de julho de 1980, que cria o Corpo Auxiliar Feminino da Reserva da Marinha (CAFRM).

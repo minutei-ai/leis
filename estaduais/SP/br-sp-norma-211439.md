@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211439)<br>
-
 # DECRETO N° 69.861, DE 11 DE SETEMBRO DE 2025
 
 ### _Disciplina a avaliação de programas de integridade de que tratam os artigos 25, § 4°, 60, inciso IV, 156, § 1°, inciso V, e 163, parágrafo único, da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 1° -** A avaliação de programas de integridade de que tratam os artigos 25, § 4°, 60, inciso IV, 156, § 1°, inciso V, e 163, parágrafo único, da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica, observará a disciplina deste decreto.
@@ -23,10 +22,12 @@ b) fomentar e manter uma cultura de integridade no ambiente organizacional;
 
 II - obras, serviços e fornecimentos de grande vulto: aqueles, cujo valor estimado supera o limite fixado no inciso XXII do artigo 6° da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Avaliação dos Programas de Integridade
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Parâmetros de Avaliação
 
 **Artigo 3° -** São parâmetros de avaliação dos programas de integridade de que trata este decreto:
@@ -61,7 +62,8 @@ X - respeito aos direitos humanos e trabalhistas e a preservação do meio ambie
 
 **§ 3° -** Os custos e as despesas com a implantação e manutenção do programa de integridade são de responsabilidade da pessoa jurídica.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Regras Gerais de Avaliação
 
 **Artigo 4° -** Para a avaliação da implantação, desenvolvimento ou aperfeiçoamento do programa de integridade, a pessoa jurídica deverá apresentar:
@@ -126,10 +128,12 @@ IV - a adoção de medidas para aprimoramento da prevenção, detecção, remedi
 
 **Artigo 9° -** O resultado da avaliação que concluir pela implantação, desenvolvimento ou aperfeiçoamento do programa de integridade terá validade de 24 (vinte e quatro) meses.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Regras Específicas
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Das Contratações de Obras, Serviços e Fornecimentos de Grande Vulto
 
 **Artigo 10 -** Nas contratações de obras, serviços e fornecimentos de grande vulto, o contratado deverá encaminhar à Controladoria Geral do Estado a documentação que comprove a implantação de seu programa de integridade, nos termos do Capítulo II, Seções I e II deste decreto, no prazo de 6 (seis) meses, contado da celebração do contrato.
@@ -182,7 +186,8 @@ II - decisão de reavaliação que tenha concluído pelo não atingimento da pon
 
 **Parágrafo único -** Não será acolhida fundamentação de recurso ou de pedido de reconsideração que se baseie em medidas adotadas ou implementadas pela pessoa jurídica após a prolação dos atos administrativos a que aludem os incisos deste artigo.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Das Situações de Empate
 
 **Artigo 14 -** Será admitida, para aplicação do critério de desempate previsto no artigo 60, inciso IV, da Lei federal n° 14.133, de 1° de abril de 2021, a declaração do licitante de que possui programa de integridade.
@@ -197,7 +202,8 @@ Das Situações de Empate
 
 **Parágrafo único -** Não será acolhida fundamentação de recurso ou de pedido de reconsideração que se baseie em medidas adotadas ou implementadas pela pessoa jurídica após a prolação dos atos administrativos a que aludem o "caput".
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Da Aplicação de Sanção e da Reabilitação
 
 **Artigo 16 -** A avaliação, pelo órgão ou entidade contratante, da implantação ou do aperfeiçoamento de programa de integridade para os fins de que tratam o inciso V do § 1° do artigo 156 e o parágrafo único do artigo 163 da Lei federal n° 14.133, de 1° de abril de 2021, observará os requisitos e os procedimentos previstos no Capítulo II, Seções I e II, deste decreto, e disciplina específica complementar.
@@ -206,7 +212,8 @@ Da Aplicação de Sanção e da Reabilitação
 
 **Parágrafo único -** Não será acolhida fundamentação de recurso que se baseie em medidas adotadas ou implementadas pela pessoa jurídica após a prolação do ato administrativo a que alude o "caput".
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Disposições Finais
 
 **Artigo 18 -** O inadimplemento da multa aplicada com fundamento no inciso II e § 3° do artigo 156, e no artigo 162 da Lei federal n° 14.133, de 1° de abril de 2021, ensejará a imediata retenção, pelo órgão ou entidade contratante, de eventuais valores a serem pagos ao contratado decorrentes do mesmo contrato ou de outros contratos administrativos celebrados entre as mesmas partes, observados os respectivos requisitos legais, com a finalidade de compensação do valor devido em decorrência da sanção.

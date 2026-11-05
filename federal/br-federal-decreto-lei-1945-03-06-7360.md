@@ -1,5 +1,3 @@
-###DEL-007360-0-000-06-03-1945@@@
-
 DECRETO-LEI N. 7.360 – DE 6 DE MARÇO DE 1945
 
 Cria, no Território do Acre, uma Guarda Territorial de caráter civil e dá outras providências

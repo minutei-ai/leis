@@ -1,5 +1,3 @@
-###DEC-064336-0-000-10-04-1969@@@
-
 DECRETO Nº 64.336, DE 10 DE ABRIL DE 1969.
 
 Decreta a intervenção federal no Município de Campina Grande, no Estado da Paraíba, e dá outras providências.

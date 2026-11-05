@@ -1,5 +1,3 @@
-###DEC-054911-0-000-04-11-1964@@@
-
 DECRETO Nº 54.911, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza a “Cinal” Comércio, Indústria, Navegação Amapá Ltda. a pesquisar cassiterita, no município de Macapá, Território do Amapá.

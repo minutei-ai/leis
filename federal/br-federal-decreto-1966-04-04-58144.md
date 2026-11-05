@@ -1,5 +1,3 @@
-###DEC-058144-0-000-04-04-1966@@@
-
 DECRETO Nº 58.144, DE 4 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Sebastião de Faria a lavrar quartzo, feldspato e caulim, no município de Bragança Paulista, no Estado de São Paulo.

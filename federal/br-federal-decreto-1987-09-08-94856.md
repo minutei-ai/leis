@@ -1,5 +1,3 @@
-###DEC-094856-0-000-08-09-1987@@@
-
 DECRETO N° 94.856, DE 8 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na cidade de João Pessoa, Estado da Paraíba, destinados ao Tribunal Regional do Trabalho da 13ª Região.

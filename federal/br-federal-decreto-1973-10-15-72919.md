@@ -1,5 +1,3 @@
-###DEC-072919-0-000-15-10-1973@@@
-
 DECRETO Nº 72.919, DE 15 DE OUTUBRO DE 1973.
 
 Aprova alteração introduzida nos Estatutos da Petróleo Brasileiro S.A. - PETROBRAS.

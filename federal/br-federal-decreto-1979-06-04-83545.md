@@ -1,5 +1,3 @@
-###DEC-083545-0-000-04-06-1979@@@
-
 Decreto nº 83.545, de 04 de junho de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro; Matinhos, Estado do Paraná; Recife, Estado de Pernambuco; Guarujá, Estado de São Paulo e Salvador, Estado da Bahia.

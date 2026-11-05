@@ -1,5 +1,3 @@
-###DEC-076499-0-000-22-10-1975@@@
-
 DECRETO nº 76.499, de 22 de Outubro de 1975.
 
 Autoriza o funcionamento do curso de Ciências da Escola Superior de Estudos Sociais de Brusque, com sede na cidade de Brusque, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-007623-0-000-22-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.623, DE 22 DE NOVEMBRO DE 2011
 
 Regulamenta a Lei nº 12.097, de 24 de novembro de 2009, que dispõe sobre a aplicação da rastreabilidade na cadeia produtiva das carnes de bovinos e de búfalos.

@@ -1,5 +1,3 @@
-###DEC-007865-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.865, DE 19 DE DEZEMBRO DE 2012
 
 Altera o Decreto nº 2.122, de 13 de janeiro de 1997, que aprova o Estatuto Social da Casa da Moeda do Brasil.

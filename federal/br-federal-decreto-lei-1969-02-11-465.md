@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/51aecac1-5ff0-479a-a24a-3d7a696cb451/texto#nowhere)
 
-###DEL-000465-0-000-11-02-1969@@@
-
 DECRETO-LEI Nº 465, DE 11 DE fevereiro DE 1969
 
 Estabelece normas complementares à Lei nº 5.539, de 27 de novembro de 1968 e dá outras providências.

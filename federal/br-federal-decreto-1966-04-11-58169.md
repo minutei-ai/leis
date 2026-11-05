@@ -1,5 +1,3 @@
-###DEC-058169-0-000-11-04-1966@@@
-
 DECRETO Nº 58.169, DE 11 DE ABRIL DE 1966.
 
 Atribui, ao Departamento Nacional de Obras Contra as Sêcas, a incumbência de instalar uma usina hidrelétrica, no açude público Caxitoré, no município de Uruburetama, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-056179-0-000-29-04-1965@@@
-
 DECRETO Nº 56.179, de 29 de abril de 1965.
 
 Retifica o enquadramento do Ministério das Minas e Energia, aprovado pelo Decreto nº 51.633, de 19 de dezembro de 1962.

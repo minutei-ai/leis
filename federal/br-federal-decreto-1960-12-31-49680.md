@@ -1,5 +1,3 @@
-###DEC-049680-0-000-31-12-1960@@@
-
 DECRETO Nº 49.680, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Rio Light S.A. Serviços de Eletricidade e Carris a ampliar suas instalações.

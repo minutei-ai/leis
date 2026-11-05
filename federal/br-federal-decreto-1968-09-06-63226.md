@@ -1,18 +1,16 @@
-###DEC-063226-0-000-06-09-1968@@@
+**DECRETO Nº 63.226, DE 6 DE SETEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.226, DE 6 DE SETEMBRO DE 1968.</strong>
+***Dispõe sôbre a reorganização da rêde dos Consulados brasileiros.***
 
-<em><strong>Dispõe sôbre a reorganização da rêde dos Consulados brasileiros.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição e em conformidade com o disposto no artigo 27, da Lei nº 3.917, de 14 de julho de 1961;
+**O PRESIDENTE DA REPÚBLICA**, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição e em conformidade com o disposto no artigo 27, da Lei nº 3.917, de 14 de julho de 1961;
 
 CONSIDERANDO a conveniência de reorganização da rêde dos Consulados brasileiros sob chefia honorária e sob chefia privativa;
 
 CONSIDERANDO a repercussão sôbre as atividades consulares decorrente das Leis nº 5.026-66 e 5.304-67 e pelos Decretos nºs 59.607-66 e 60.177-67,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º São os seguintes os Consulados brasileiros sob chefia honorária:
+**Art**. 1º São os seguintes os Consulados brasileiros sob chefia honorária:
 
 Aachen Alemanha
 
@@ -206,7 +204,7 @@ Verona, Itália
 
 Willemstad, Antilhas Holandesas
 
-<strong>Art</strong>. 2º São os seguintes os Consulados cuja chefia caberá aos Cônsules (Privativos) em comissão:
+**Art**. 2º São os seguintes os Consulados cuja chefia caberá aos Cônsules (Privativos) em comissão:
 
 Alvear, Argentina
 
@@ -240,6 +238,6 @@ Rivera, Uruguai
 
 Brasília, 6 de setembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 José de Magalhães Pinto

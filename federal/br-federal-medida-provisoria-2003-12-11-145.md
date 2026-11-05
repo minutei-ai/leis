@@ -1,5 +1,3 @@
-###MPV-000145-0-000-11-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 145, DE 10 DE DEZEMBRO 2003.
 
        Autoriza a criação da Empresa de Pesquisa Energética - EPE e dá outras providências.

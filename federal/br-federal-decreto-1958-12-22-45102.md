@@ -1,5 +1,3 @@
-###DEC-045102-0-000-22-12-1958@@@
-
 decreto nº 45.102, de 22 de dezembro de 1958.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de General Vargas, no Estado do Rio Grande do Sul.

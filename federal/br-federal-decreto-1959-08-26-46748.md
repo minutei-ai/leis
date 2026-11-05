@@ -1,5 +1,3 @@
-###DEC-046748-0-000-26-08-1959@@@
-
 DECRETO Nº 46.748, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Albino Abreu Figueredo a lavrar bauxita no município de Mogi das Cruzes, Estado de São Paulo.

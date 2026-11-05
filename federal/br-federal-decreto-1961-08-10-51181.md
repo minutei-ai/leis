@@ -1,5 +1,3 @@
-###DEC-051181-0-000-10-08-1961@@@
-
 DECRETO Nº 51.181, DE 10 DE AGÔSTO DE 1961.
 
 Outorga concessão à “Rádio Difusora de Goiânia Limitada” para estabelecer uma estação radiodifusora de onda média na cidade de Goiânia, Estado de Goiás.

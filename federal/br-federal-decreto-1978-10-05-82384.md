@@ -1,5 +1,3 @@
-###DEC-082384-0-000-05-10-1978@@@
-
 Decreto nº 82.384, de 05 de outubro de 1978.
 
 Autoriza a conversão do curso de Matemática em curso de Ciências da Faculdade de Educação, Ciências e Letras de Mogi Mirim, com sede na Cidade de Mogi Mirim, Estado de São Paulo.

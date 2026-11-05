@@ -1,5 +1,3 @@
-###DEC-055716-0-000-02-02-1965@@@
-
 DECRETO Nº 55.716, DE 2 DE FEVEReIRO DE 1965.
 
 Concede à Mineração São Severino S.A. - Comércio e Indústria autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-004289-0-000-27-06-2002@@@
-
 DECRETO Nº 4.289, DE 27 DE JUNHO DE 2002
 
 Dispõe sobre a estrutura do Comando do Exército e dá outras providências.

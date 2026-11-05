@@ -1,5 +1,3 @@
-###DEC-076538-0-000-04-11-1975@@@
-
 DECRETO Nº 76.538, DE 4 DE NOVEMBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à rádio Carajá de Anápolis S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Anápolis, Estado de Goiás.

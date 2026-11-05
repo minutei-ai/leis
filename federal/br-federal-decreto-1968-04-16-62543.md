@@ -1,5 +1,3 @@
-###DEC-062543-0-000-16-04-1968@@@
-
 DECRETO Nº 62.543, DE 16 DE ABRIL DE 1968.
 
 Autoriza Alumínio Minas Gerais S.A., a lavrar bauxita no município de Barão de Cocais, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-053423-0-000-20-01-1964@@@
-
 DECRETO Nº 53.423, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas, a instalar uma usina hidrelétrica, a jusante do açude público de Jacurici, município de Itiúba, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-009507-0-000-24-07-1946@@@
-
 DECRETO-LEI N. 9.507 – DE 24 DE JULHO DE 1946
 
 Altera, com redução de despesa, o Quadro Permanente, do Departamento Administrativo do Serviço Público, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004696-0-000-16-09-1942@@@
-
 DECRETO-LEI N. 4.696 – DE 16 DE SETEMBRO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 124:050$0, para atender ao custeio de despesas da União Nacional de Estudantes

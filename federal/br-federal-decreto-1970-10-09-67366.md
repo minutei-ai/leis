@@ -1,5 +1,3 @@
-###DEC-067366-0-000-09-10-1970@@@
-
 DECRETO Nº 67.366, DE 9 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública a Casa de São Francisco de Assis, com sede em Juiz de Fora, Estado de Minas Gerais.

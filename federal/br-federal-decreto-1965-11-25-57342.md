@@ -1,5 +1,3 @@
-###DEC-057342-0-000-25-11-1965@@@
-
 DECRETO Nº 57.342, DE 25 DE NOVEMBRO DE 1965.
 
 Retifica o Decreto nº 56.539, de 5 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEL-009732-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.732 – DE 4 DE SETEMBRO DE 1946
 
 Cria a Ordem Nacional do Mérito

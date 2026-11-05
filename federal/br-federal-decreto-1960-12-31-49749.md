@@ -1,5 +1,3 @@
-###DEC-049749-0-000-31-12-1960@@@
-
 decreto nº 49.749, de 31 de dezembro de 1960.
 
 Autoriza o Gôverno do Estado de Sergipe a lavrar calcário no distrito e município de Laranjeiras, Estado de Sergipe.

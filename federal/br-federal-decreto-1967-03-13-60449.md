@@ -1,5 +1,3 @@
-###DEC-060449-0-000-13-03-1967@@@
-
 DECRETO Nº 60.449, DE 13 DE MARÇO DE 1967.
 
 Dispõe sôbre a aplicação do “Fundo Especial de Financiamento da Assistência Médica”, no exercício de 1967, e dá outras providências.

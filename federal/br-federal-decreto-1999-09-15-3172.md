@@ -1,5 +1,3 @@
-###DEC-003172-0-000-15-09-1999@@@
-
 DECRETO Nº 3.172, DE 15 DE SETEMBRO DE 1999.
 
 Acresce dispositivo ao Decreto nº 3.031, de 20 de abril de 1999, que dispõe sobre a compatibilização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1999.

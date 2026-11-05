@@ -1,5 +1,3 @@
-###DEC-004013-0-000-13-11-2001@@@
-
 DECRETO Nº 4.013, DE 13 DE NOVEMBRO DE 2001
 
 Dispõe sobre a execução do Qüinquagésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 27 de agosto de 200l.

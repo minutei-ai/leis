@@ -1,5 +1,3 @@
-###DEC-059265-0-000-22-09-1966@@@
-
 DECRETO Nº 59.265, DE 22 DE SETEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Marinha.

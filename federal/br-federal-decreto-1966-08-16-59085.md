@@ -1,5 +1,3 @@
-###DEC-059085-0-000-16-08-1966@@@
-
 DECRETO Nº 59.085, DE 16 DE AGÔSTO DE 1966.
 
 Concede reconhecimento ao Curso de Nutricionistas da Escola de Nutricionistas da Universidade da Bahia.

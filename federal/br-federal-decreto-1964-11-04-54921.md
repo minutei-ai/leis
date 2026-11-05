@@ -1,5 +1,3 @@
-###DEC-054921-0-000-04-11-1964@@@
-
 DECRETO Nº 54.921, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Rubem do Nascimento a pesquisar quartzo no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-005245-0-000-15-10-2004@@@
-
 DECRETO Nº 5.245, DE 15 DE OUTUBRO DE 2004
 
 Regulamenta a Medida Provisória nº 213, de 10 de setembro de 2004, que institui o Programa Universidade para Todos PROUNI, regula a atuação de entidades beneficentes de assistência social no ensino superior, e dá outras providências.

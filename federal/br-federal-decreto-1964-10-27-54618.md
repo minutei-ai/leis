@@ -1,5 +1,3 @@
-###DEC-054618-0-000-27-10-1964@@@
-
 DECRETO Nº 54.618, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza a Cia Cimento Portland Brasília a pesquisar argila no município Corumbá de Goiás, Estado de Goiás.

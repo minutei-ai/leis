@@ -1,5 +1,3 @@
-###DEC-071897-0-000-13-03-1973@@@
-
 DECRETO Nº 71.897, DE 13 DE MARÇO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras de Ribeirão Pires, mantida pela Organização Educacional de Ribeirão Pires- SP.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099210-0-000-16-04-1990@@@
-
 DECRETO Nº 99.210, DE 16 DE ABRIL DE 1990
 
 Altera a redação do art. 2º do Decreto nº 99.177 de 15 de março de 1990

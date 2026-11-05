@@ -1,5 +1,3 @@
-###DEC-099532-0-000-19-09-1990@@@
-
 DECRETO N° 99 532, DE 19 DE SETEMBRO DE 1990
 
 Dispõe sobre a composição e funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial CONMETRO.

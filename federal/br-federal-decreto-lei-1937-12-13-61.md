@@ -1,5 +1,3 @@
-###DEL-000061-0-000-13-12-1937@@@
-
 DECRETO-LEI N. 61 – DE 13 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Guerra, o crédito especial de 200:000$000 para aquisição de um prédio em Belém, do Pará

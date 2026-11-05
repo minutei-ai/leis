@@ -1,5 +1,3 @@
-###DEC-075035-0-000-04-12-1974@@@
-
 DECRETO nº 75.035, DE 4 DE DEZEMBRO DE 1974
 
 Concede à Cerâmica Windlin Limitada o direito de lavrar folheiro argiloso no Município de Jundiaí, Estado de São Paulo.

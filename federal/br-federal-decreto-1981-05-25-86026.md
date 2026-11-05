@@ -1,5 +1,3 @@
-###DEC-086026-0-000-25-05-1981@@@
-
 Decreto nº 86.026, de 25 de maio de 1981.
 
 Declara luto oficial.

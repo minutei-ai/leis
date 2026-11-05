@@ -1,5 +1,3 @@
-###DEL-004606-0-000-21-08-1942@@@
-
 DECRETO-LEI N. 4.606 – DE 21 DE AGOSTO DE 1942
 
 Autoriza, na Rede Mineira de Viação, a supressão do ramal de Contagem e dá outras providências

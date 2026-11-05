@@ -1,5 +1,3 @@
-###DEC-061292-0-000-06-09-1967@@@
-
 DECRETO Nº 61.292, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública o “Hospital de Cataguases”, com sede em Cataguases, Estado de Minas Gerais.

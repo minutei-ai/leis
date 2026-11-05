@@ -1,5 +1,3 @@
-###DEC-053778-0-000-20-03-1964@@@
-
 DECRETO Nº 53.778, DE 20 DE MARÇO DE 1964.
 
 Suprime o art. 5º do Decreto número 42.111, de 20 de agôsto de 1957.

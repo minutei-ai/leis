@@ -1,5 +1,3 @@
-###DEC-061781-0-000-27-11-1967@@@
-
 DECRETO Nº 61.781, DE 27 DE NOVEMBRO DE 1967.
 
 Concede a “Foster Parents’Plan Incorporated” autorização para funcionar no Brasil.

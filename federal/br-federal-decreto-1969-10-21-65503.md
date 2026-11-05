@@ -1,5 +1,3 @@
-###DEC-065503-0-000-21-10-1969@@@
-
 DECRETO Nº 65.503 - DE 21 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação do distrito sede de Marília até a Estação Elevatória D'Água da mesma cidade, no município de Marília, no Estado de São Paulo.

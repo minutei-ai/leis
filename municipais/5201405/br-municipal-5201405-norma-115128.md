@@ -76,5 +76,6 @@ Artigo 8° - Caberá ao Executivo regulamentar esta lei.
 
 Artigo 9º - Esta lei entra em vigor na data de sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Camara Municipal

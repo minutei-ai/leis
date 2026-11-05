@@ -1,5 +1,3 @@
-###DEC-068467-0-000-05-04-1971@@@
-
 DECRETO Nº 68.467 - DE 5 DE ABRIL DE 1971.
 
 Torna sem efeito a inclusão de servidor, com o respectivo cargo, no Quadro de Pessoal - Parte Especial do Ministério da Educação e Cultura e redistribui, com o respectivo cargo para o Quadro de Pessoal - Parte Especial do Ministério da Saúde cargo originário do extinto Serviço de Assistência a Menores (Quadro de Pessoal do Ministério da Justiça) e dá ouras providências.

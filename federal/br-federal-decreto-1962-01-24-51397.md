@@ -1,5 +1,3 @@
-###DEC-051397-0-000-24-01-1962@@@
-
 DECRETO Nº 51.397, DE 24 DE JANEIRO DE 1962.
 
 Levanta Intervenção Federal nos Órgãos que especifica.

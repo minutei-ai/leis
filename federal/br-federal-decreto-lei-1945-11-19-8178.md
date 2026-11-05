@@ -1,5 +1,3 @@
-###DEL-008178-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.178 – DE 19 DE NOVEMBRO DE 1945
 
 Torna sem efeito a concessão outorgada ao Govêrno do Estado do Rio Grande do Sul pelo Decreto número 19.293, de 30-7-945 e dá outras providências.

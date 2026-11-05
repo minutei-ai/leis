@@ -1,5 +1,3 @@
-###DEC-005631-0-000-22-12-2005@@@
-
 DECRETO Nº 5.631, DE 22 DE DEZEMBRO DE 2005.
 
        Dispõe sobre a execução do Quadragésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 26 de setembro de 2005.
@@ -22,11 +20,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.12.2005
-
-        ACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 35 CELEBRADO ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE
+         Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 35 CELEBRADO ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE
 
 Quadragésimo Segundo Protocolo Adicional
 

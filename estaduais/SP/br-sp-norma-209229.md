@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209229)<br>
-
 # LEI N° 17.879, DE 21 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 408/2019, do Deputado Ricardo Madalena - PR)

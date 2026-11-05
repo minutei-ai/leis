@@ -1,5 +1,3 @@
-###DEC-047316-0-000-02-12-1959@@@
-
 DECRETO Nº 47.316, DE 2 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 41.825, de 10 de julho de 1957.

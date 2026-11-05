@@ -1,5 +1,3 @@
-###DEC-088171-0-000-10-03-1983@@@
-
 # Decreto nº 88.171, de 10 de março de 1983
 
 Outorga à Mineração Bocaiúva Ltda. concessão para o aproveitamento da energia hidráulica no rio Ouro Fino, no Município de Bocaiúva do Sul, Estado do Paraná, para uso exclusivo.

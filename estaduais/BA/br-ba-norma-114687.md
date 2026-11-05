@@ -14,7 +14,8 @@ Parágrafo único - A pensão concedida à viúva perdurará enquanto viva for e
 
 Art. 2º - Para atender as despesas decorrentes desta lei durante o período de 14 de setembro a 31 de dezembro de 1963, fica o Poder Executivo autorizado a abrir o crédito especial de Cr$53.500 (cinqüenta e três mil e quinhentos cruzeiros) à conta da codificação 3.05.08 verba 3.1.4.19-1, do orçamento vigente.
 
-Redação de acordo com a Lei nº 2.171, de 26 de julho de 1965.<br>
+Redação de acordo com a Lei nº 2.171, de 26 de julho de 1965.
+
 Redação original: "Art. 2º - Para atender as despesas decorrentes desta Lei, fica o Poder Executivo autorizado a abrir, por conta da Consignação 1.6.00 - Subconsignação 8.07.4 - 1.6.21.1 do Orçamento em vigor, o respectivo crédito especial, incluindo-se nos orçamentos dos exercícios subsequentes, verba própria para atender o mesmo fim."
 
 Art. 3º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
@@ -33,4 +34,4 @@ Walter Ribeiro
 
 2º Secretário
 
-* * *
+ *

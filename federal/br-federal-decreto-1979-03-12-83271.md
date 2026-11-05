@@ -1,5 +1,3 @@
-###DEC-083271-0-000-12-03-1979@@@
-
 Decreto nº 83.271, de 12 de março de 1979
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona , situados no Estado do Rio de Janeiro.

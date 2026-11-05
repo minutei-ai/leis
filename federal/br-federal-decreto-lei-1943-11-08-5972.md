@@ -1,5 +1,3 @@
-###DEL-005972-0-000-08-11-1943@@@
-
 DECRETO‑LEI N. 5.972 – DE 8 DE NOVEMBRO DE 1943
 
 Autoriza a concessão de isenção de tributos ao Abrigo do Cristo Redentor o dá outras providências

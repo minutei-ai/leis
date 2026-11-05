@@ -28,7 +28,8 @@ Goiânia, 30 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO I
@@ -47,11 +48,12 @@ ANEXO I
 | 4.1.4. Assessoria Técnica Especial | Básica | Assessor Especial | 2 | DAS-4 |
 | ........................................................... |
 
-ANEXO II<br>
+ANEXO II
+
 (Alteração do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023)
 
-<br>
-“ANEXO III<br>
+“ANEXO III
+
 CARGOS DE PROVIMENTO EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 | TIPO | SÍMBOLO | SUBSÍDIO | QUANTIDADE |

@@ -1,7 +1,3 @@
-1
-
-###DEC-001125-0-000-02-05-1994@@@
-
 DECRETO N° 1.125, DE 2 DE MAIO DE 1994
 
 Cria a Missão Naval Brasileira na Namíbia e dá outras providências.

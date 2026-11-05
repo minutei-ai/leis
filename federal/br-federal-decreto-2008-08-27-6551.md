@@ -1,5 +1,3 @@
-###DEC-006551-0-000-27-08-2008@@@
-
 DECRETO Nº 6.551, DE 27 DE AGOSTO DE 2008.
 
 Dispõe sobre a composição dos Conselhos de Administração e Fiscal das Companhias Docas vinculadas à Secretaria Especial de Portos da Presidência da República.

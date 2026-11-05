@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - O Conselho Estadual de Proteção aos Direitos Humanos - CEPDH, criado pela Lei nº 4.697, de 15 de julho de 1987, com as alterações dadas pelas Leis nº 6.074, de 22 de maio de 1991, e nº 6.699, de 16 de dezembro de 1994, é órgão consultivo, integrante da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, que tem por finalidade promover e defender os direitos fundamentais da pessoa humana, zelando pela aplicação das normas que os asseguram e indicando ações para evitar lesões a esses direitos.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 1º - O Conselho Estadual de Proteção aos Direitos Humanos - CEPDH, criado pela Lei nº 4.697, de 15 de julho de 1987, com as alterações dadas pelas Leis nº 6.074, de 22 de maio de 1991, e nº 6.699, de 16 de dezembro de 1994, é órgão consultivo, integrante da Secretaria da Justiça, Cidadania e Direitos Humanos, que tem por finalidade promover e defender os direitos fundamentais da pessoa humana, zelando pela aplicação das normas que os asseguram e indicando ações para evitar lesões a esses direitos."
 
 Art. 2º - Ao Conselho Estadual de Proteção aos Direitos Humanos compete assessorar, estudar e propor ao Governo diretrizes de políticas governamentais e medidas que contribuam para a defesa e garantia dos direitos fundamentais de cidadania e bem-estar social, previstos na Constituição Federal, na Constituição do Estado da Bahia e nos tratados e atos internacionais celebrados pela República Federativa do Brasil, cabendo-lhe, em especial:
@@ -51,19 +52,22 @@ Art. 3º - O CEPDH tem a seguinte composição:
 
 I - o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "I - o Secretário da Justiça, Cidadania e Direitos Humanos;"
 
 II - 01 (um) representante da Secretaria da Segurança Pública;
 
 III - 01 (um) representante da Secretaria do Trabalho, Emprego, Renda e Esporte;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "III - 01 (um) representante da Secretaria de Desenvolvimento Social e Combate à Pobreza;"
 
 IV - 01 (um) representante da Secretaria de Promoção da Igualdade Racial;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "IV - 01 (um) representante da Secretaria de Promoção da Igualdade;"
 
 V - 01 (um) representante da Secretaria da Educação;
@@ -94,7 +98,8 @@ XVI - 02 (dois) representantes de outras entidades não-governamentais, com atua
 
 § 2º - Os representantes mencionados nos incisos XII a XVI deste artigo, e seus suplentes serão escolhidos diretamente entre seus pares, através de Assembleia Geral de cada segmento, especialmente convocada pela Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, para este fim.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "§ 2º - Os representantes mencionados nos incisos XII a XVI deste artigo, e seus suplentes serão escolhidos diretamente entre seus pares, através de Assembleia Geral de cada segmento, especialmente convocada pela Secretaria da Justiça, para este fim."
 
 Art. 4º - Os membros do Conselho e seus suplentes serão nomeados pelo Governador do Estado.
@@ -103,7 +108,8 @@ Art. 5º - Os membros do Conselho, após a nomeação e posse, terão direito a 
 
 Art. 6º - O CEPDH será presidido pelo Secretário de Justiça, Direitos Humanos e Desenvolvimento Social.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 6º - O CEPDH será presidido pelo Secretário da Justiça, Cidadania e Direitos Humanos."
 
 § 1º - O Presidente do Conselho terá direito a voto de qualidade.

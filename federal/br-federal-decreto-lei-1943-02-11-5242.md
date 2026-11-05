@@ -1,5 +1,3 @@
-###DEL-005242-0-000-11-02-1943@@@
-
 DECRETO‑LEI N. 5.242 – DE 11 DE FEVEREIRO DE 1943
 
 Dispõe sobre a exigência da prova de sindicalização para fins de representação ou de gozo de isenções

@@ -1,5 +1,3 @@
-###DEC-064349-0-000-10-04-1969@@@
-
 DECRETO Nº 64.349, DE 10 DE ABRIL DE 1969.
 
 Decreta intervenção federal na cidade de Santos - Estado de São Paulo, e dá outras providências.

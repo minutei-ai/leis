@@ -1,6 +1,10 @@
 > **LEI Nº 3.281, DE 18 DE AGOSTO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de instalação de banheiros químicos adaptados às pessoas com deficiência em eventos contratados e organizados pelo Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de instalação de banheiros químicos adaptados às pessoas com deficiência em eventos contratados e organizados pelo Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

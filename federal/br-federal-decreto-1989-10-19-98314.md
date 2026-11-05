@@ -1,7 +1,3 @@
-1
-
-###DEC-098314-0-000-19-10-1989@@@
-
 DECRETO Nº 98.314, DE 19 DE OUTUBRO DE 1989
 
 Aprova o Regulamento para o Quadro Complementar de Oficiais do Exército - (R - 41).

@@ -1,7 +1,3 @@
-1
-
-###DEC-000340-0-000-13-11-1991@@@
-
 DECRETO N° 340, DE 13 DE NOVEMBRO DE 1991
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

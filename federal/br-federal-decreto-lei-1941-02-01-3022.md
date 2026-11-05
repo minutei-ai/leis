@@ -1,5 +1,3 @@
-###DEL-003022-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.022 – DE 1 DE FEVEREIRO DE 1941
 
 Dispõe sobre o crédito da Comissão de Estudos dos Negócios Estaduais.

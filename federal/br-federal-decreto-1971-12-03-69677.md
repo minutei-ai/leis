@@ -1,5 +1,3 @@
-###DEC-069677-0-000-03-12-1971@@@
-
 DECRETO Nº 69.677 - DE 3 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Centro de Orientação e Contrôle de Excepcionais de Curitiba "COCEC", com sede em Curitiba, Estado do Paraná.

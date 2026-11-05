@@ -1,5 +1,3 @@
-###DEC-051421-0-000-28-02-1962@@@
-
 DECRETO Nº 51.421, de 28 de fevereiro de 1962.
 
 Cria Comissão Arbitral para exame, estudo e revisão dos Decretos números 51.346, de 14 de novembro de 1961, 51.372, de 15 de dezembro de 1961, e 51.392, de 11 de janeiro de 1962, e dá outras providências.

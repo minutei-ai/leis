@@ -1,5 +1,3 @@
-###DEC-085348-0-000-11-11-1980@@@
-
 Decreto nº 85.348, de 11 de novembro de 1980
 
 Concede à Usiminas Mecânica S.A. - USIMEC, autorização para proceder a aumento do seu capital social.

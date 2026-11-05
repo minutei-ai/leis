@@ -1,5 +1,3 @@
-###DEC-050223-0-000-28-01-1961@@@
-
 Decreto Nº 50.223, DE 28 DE JANEIRO DE 1961.
 
 Aprova o novo Regulamento do Serviço de Assistência e Seguro Social dos Economiários - SASSE.

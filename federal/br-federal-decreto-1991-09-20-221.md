@@ -1,5 +1,3 @@
-###DEC-000221-0-000-20-09-1991@@@
-
 DECRETO N° 221, DE 20 DE SETEMBRO DE 1991
 
 Reduz alíquota do Imposto sobre Produtos Industrializados (IPI).
@@ -19,8 +17,6 @@ Brasília, 20 de setembro de 1991; 170° da Independência e 103° da República
 FERNANDO COLLOR
 
 Marcílio Marques Moreira
-
-###DEC-000221-0-000-20-09-1991@@@RET01+++
 
 # DECRETO N° 221, DE 20 DE SETEMBRO DE 1991
 

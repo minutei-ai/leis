@@ -1,5 +1,3 @@
-###DEC-051922-A-000-26-04-1963@@@
-
 Decreto Nº 51.922-A, DE 26 DE ABRIL DE 1963.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica no município de Pilar, no Estado de Alagoas.

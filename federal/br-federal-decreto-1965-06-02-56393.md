@@ -1,5 +1,3 @@
-###DEC-056393-0-000-02-06-1965@@@
-
 decreto nº 56.393, de 2 de junho de 1965.
 
 Altera dispositivos do Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

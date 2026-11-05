@@ -1,5 +1,3 @@
-###DEC-002799-0-000-08-10-1998@@@
-
 DECRETO Nº 2.799, DE 8 DE OUTUBRO DE 1998
 
 Aprova o Estatuto do Conselho de Controle de Atividades Financeiras - COAF.

@@ -1,5 +1,3 @@
-###DEC-052490-0-000-23-09-1963@@@
-
 DECRETO Nº 52.490, DE 23 DE SETEMBRO DE 1963.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição do algodão da região Meridional do País, da safra 1963-64.
@@ -12,13 +10,91 @@ Art. 1º Fica assegurado ao algodão da região Meridional do País da safra de 
 
 a) preços para o algodão em pluma, por arrôba de 15 quilos, com fibras de 28 a 30 milímetros, acondicionado em fardos de densidade média nunca inferior a quatrocentos quilos por metro cúbico, amarrados com seis ou mais fitas de aço, podendo uma ser emendada, pôsto nos armazens gerais ou particulares da Capital do Estado de São Paulo ou portos do País e para as demais localidades e Estados, de conformidade com o disposto no artigo 4º da Lei nº 1.506, de 19 de dezembro de 1951, observada a padronização oficial do Ministro da Agricultura, - baixada pelo Decreto nº 43.427, de 26 de março de 1958:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Tipos</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.250,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.160,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4/5 ..................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.010,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 (Base) .........................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.840,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5/6 ..................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.670,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.480,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6/7 ..................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.240,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.050,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7/8 ..................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.880,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.750,00</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 .....................................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.880,00</span></p></td></tr></tbody></table>
+Tipos
+
+Cr$
+
+3 .....................................................................................................................................
+
+5.250,00
+
+4 .....................................................................................................................................
+
+5.160,00
+
+4/5 ..................................................................................................................................
+
+5.010,00
+
+5 (Base) .........................................................................................................................
+
+4.840,00
+
+5/6 ..................................................................................................................................
+
+4.670,00
+
+6 .....................................................................................................................................
+
+4.480,00
+
+6/7 ..................................................................................................................................
+
+4.240,00
+
+7 .....................................................................................................................................
+
+4.050,00
+
+7/8 ..................................................................................................................................
+
+3.880,00
+
+8 .....................................................................................................................................
+
+3.750,00
+
+9 .....................................................................................................................................
+
+3.880,00
 
 b) financiamento de até 80% (oitenta por cento) ou aquisição do produto em pluma aos preços e condições acima estipulados;
 
 c) aquisição de algodão em carôço por arrôba de 15 quilos líquidos ensacado sêco, nas regiões produtoras aos preços correspondentes aos de algodão em pluma a que se refere a alínea “a” dêste artigo na equivalente média de 44 quilos de algodão em carôço para 15 quilos do produto em pluma, feitas as deduções líquidas das respectivas despesas de benefício, transporte e outras pertinentes, ficando estabelecido que no Estado de São Paulo (localidade de Mirante do Paranapanema) o preço para o algodão em carôço observada a padronização baixada pelo referido Decreto nº 43.427, de 26 de março de 1958, corresponderá às seguintes bases:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipos</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Superior.............................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.670,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Bom...................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.620,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Regular (Base)..................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.540,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Sofrível..............................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.350,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Inferior...............................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.200,00</span></p></td></tr></tbody></table>
+Tipos
+
+Cr$
+
+1
+
+- Superior.............................................................................................................
+
+1.670,00
+
+3
+
+- Bom...................................................................................................................
+
+1.620,00
+
+5
+
+- Regular (Base)..................................................................................................
+
+1.540,00
+
+7
+
+- Sofrível..............................................................................................................
+
+1.350,00
+
+9
+
+- Inferior...............................................................................................................
+
+1.200,00
 
 Adotar-se-á critério análogo para os demais Estados da Região Meridional do País.
 

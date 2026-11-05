@@ -1,5 +1,3 @@
-###DEC-087069-0-000-30-03-1982@@@
-
 DECRETO nº 87.069, de 30 DE MARÇO de 1982
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica no Município de São Pedro do Sul, Estado do Rio Grande de Sul.

@@ -1,5 +1,3 @@
-###DEL-006469-0-000-03-05-1944@@@
-
 DECRETO-LEI N. 6.469 – DE 3 DE MAIO DE 1944
 
 Altera os Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-099944-0-000-26-12-1990@@@
-
 # DECRETO Nº 99.944, DE 26 DE DEZEMBRO DE 1990
 
 Aprova o Estatuto da Companhia Nacional de Abastecimento (CNA).

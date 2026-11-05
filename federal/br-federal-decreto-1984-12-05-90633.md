@@ -1,5 +1,3 @@
-###DEC-090633-0-000-05-12-1984@@@
-
 Decreto nº 90.633, 05 de dezembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Fertilizantes S.A. - PETROFÉRTIL.

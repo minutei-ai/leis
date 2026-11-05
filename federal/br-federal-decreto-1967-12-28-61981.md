@@ -1,5 +1,3 @@
-###DEC-061981-0-000-28-12-1967@@@
-
 DECRETO Nº 61.981, DE 28 DE DEZEMBRO DE 1967.
 
 Estabelece condições para expansão do parque petroquímico no país, e autoriza a criação da sociedade subsidiária da Petróleo Brasileiro S. A. - PETROBRÁS nos têrmos da Lei nº 2.004, de 3 de outubro de 1953 com êsse mesmo objetivo.

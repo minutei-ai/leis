@@ -1,5 +1,3 @@
-###DEC-058960-0-000-01-08-1966@@@
-
 DECRETO Nº 58.960, DE 1 DE AGÔSTO DE 1966.
 
 Transfere da Companhia Distribuidora de Eletricidade do Brejo Paraibano para Sociedade Anônima de Eletrificação da Paraíba a concessão para produzir, transmitir e distribuir energia elétrica.

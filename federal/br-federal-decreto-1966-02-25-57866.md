@@ -1,5 +1,3 @@
-###DEC-057866-0-000-25-02-1966@@@
-
 Decreto nº 57.866, de 25 de fevereiro de 1966.
 
 Concede à Beneficiadora de Caulim Brancor Ltda. autorização para funcionar como emprêsa de mineração.

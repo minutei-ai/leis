@@ -1,5 +1,3 @@
-###DEC-064289-0-000-31-03-1969@@@
-
 DECRETO Nº 64.289, DE 31 DE MARÇO DE 1969.
 
 Institui o Grupo de Acompanhamento da Ação Coordenada Federal do Estado do Paraná.

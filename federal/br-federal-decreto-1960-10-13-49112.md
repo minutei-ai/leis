@@ -1,5 +1,3 @@
-###DEC-049112-0-000-13-10-1960@@@
-
 DECRETO Nº 49.112, DE 13 DE OUTUBRO DE 1960.
 
 Transfere função da Tabela Numérica de Mensalistas do Núcleo de Parque de Aeronáutica de Lagoa Santa para a Tabela Numérica Especial de Extranumerário-mensalista do Parque de Aeronáutica do Recife.

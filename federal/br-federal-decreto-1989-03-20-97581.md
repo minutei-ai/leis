@@ -1,5 +1,3 @@
-###DEC-097581-0-000-20-03-1989@@@
-
 DECRETO N.° 97.581, DE 20 DE MARCO DE 1989
 
 Cria a Zona de Processamento de Exportação - ZPE de São Luís, no Estado do Maranhão.

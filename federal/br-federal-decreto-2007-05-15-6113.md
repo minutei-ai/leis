@@ -1,5 +1,3 @@
-###DEC-006113-0-000-15-05-2007@@@
-
 DECRETO Nº 6.113, DE 15 DE MAIO DE 2007.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil no Canadá, com sede em Vancouver.
@@ -17,5 +15,3 @@ Dispõe sobre a criação do Consulado-Geral do Brasil no Canadá, com sede em V
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.5.2007.

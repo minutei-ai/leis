@@ -1,5 +1,3 @@
-###DEC-061219-0-000-22-08-1967@@@
-
 DECRETO Nº 61.219, DE 22 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público “Arcoverde”, no município de Pedra, Estado de Pernambuco.

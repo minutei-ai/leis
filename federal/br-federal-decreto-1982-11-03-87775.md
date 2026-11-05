@@ -1,5 +1,3 @@
-###DEC-087775-0-000-03-11-1982@@@
-
 Decreto nº 87.775, de 03 de novembro de 1982.
 
 Outorga à Companhia Estadual de Águas e Esgotos - CEDAE concessão para captação de águas do rio Pomba, para abastecimento público, no Município de Santo Antônio de Pádua, Estado do Rio de Janeiro.

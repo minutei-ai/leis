@@ -1,5 +1,3 @@
-###DEC-057688-0-000-01-02-1966@@@
-
 Decreto nº 57.688, de 1 de fevereiro de 1966.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional às operações de crédito que menciona.

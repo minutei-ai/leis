@@ -1,5 +1,3 @@
-###DEC-064213-0-000-18-03-1969@@@
-
 DECRETO Nº 64.213, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Ginásio e Escola Normal Santa Cecília, com sede em Fortaleza Estado do Ceará.

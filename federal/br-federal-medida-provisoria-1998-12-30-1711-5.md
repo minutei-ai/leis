@@ -1,5 +1,3 @@
-###MPV-001711-0-005-30-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.711-5, DE 30 DE DEZEMBRO DE 1998
 
 Acresce dispositivo às Leis nº 9.526, de 8 de dezembro de 1997, e 9.496, de 11 de setembro de 1997.

@@ -1,5 +1,3 @@
-###DEC-059719-0-000-14-12-1966@@@
-
 DECRETO Nº 59.719, DE 14 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Companhia Vale do Rio Doce S.A., a área de terra que menciona.

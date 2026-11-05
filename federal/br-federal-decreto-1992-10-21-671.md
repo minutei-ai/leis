@@ -1,7 +1,3 @@
-1
-
-###DEC-000671-0-000-21-10-1992@@@
-
 DECRETO N° 671, DE 21 DE OUTUBRO DE 1992
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Alcance Parcial entre Brasil e Cuba.

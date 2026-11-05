@@ -1,14 +1,12 @@
-###DEC-024672-0-000-15-03-1948@@@
+**DECRETO Nº 24.672, DE 15 DE MARÇO DE 1948.**
 
-<strong>DECRETO Nº 24.672, DE 15 DE MARÇO DE 1948.</strong>
+***Abre ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$1.000.000,00 para o fim que especifica.***
 
-<em><strong>Abre ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$1.000.000,00 para o fim que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei n° 222, de 26 de janeiro de 1948, e tendo ouvido o Tribunal de Contas. Nos têrmos do art. 93 do Regulamento geral de contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei n° 222, de 26 de janeiro de 1948, e tendo ouvido o Tribunal de Contas. Nos têrmos do art. 93 do Regulamento geral de contabilidade Pública,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto ao Ministério do Trabalho, Indústria e Comércio o crédito especial de um milhão de cruzeiros (Cr$1.000.000,00) para atender às despesas no exercício de 1947, com o funcionamento da Comissão Central de Preços, obedecida a seguinte discriminação;
+**Art**. 1º Fica aberto ao Ministério do Trabalho, Indústria e Comércio o crédito especial de um milhão de cruzeiros (Cr$1.000.000,00) para atender às despesas no exercício de 1947, com o funcionamento da Comissão Central de Preços, obedecida a seguinte discriminação;
 
 Cr$
 
@@ -24,15 +22,15 @@ de combustíveis ...............................................................
 
 d) para viagens e pesquisas econômicas nos Estados e transportes
 
-em carros de aluguél ...................................................................................................... <u>210.000,00</u>
+em carros de aluguél ...................................................................................................... 210.000,00
 
-Total .................................................................................................................. <u>1.000,000,00</u>
+Total .................................................................................................................. 1.000,000,00
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de março de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 

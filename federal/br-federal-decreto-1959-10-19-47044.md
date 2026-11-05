@@ -1,5 +1,3 @@
-###DEC-047044-0-000-19-10-1959@@@
-
 DECRETO Nº 47.044, DE 19 DE OUTUBRO DE 1959.
 
 Aprova o Regulamento da Diretoria do Serviço Geográfico (DSG).

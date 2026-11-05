@@ -1,22 +1,20 @@
-###DEC-061100-0-000-28-07-1967@@@
+**DECRETO Nº 61.100, DE 28 DE JULHO DE 1967.**
 
-<strong>DECRETO Nº 61.100, DE 28 DE JULHO DE 1967.</strong>
+***Aprova o Regimento Interno da Comissão de Marinha Mercante.***
 
-<em><strong>Aprova o Regimento Interno da Comissão de Marinha Mercante.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aprovado o Regimento Interno da Comissão de Marinha Mercante, que com êste baixa, assinado pelo Ministro dos Transportes.
+**Art**. 1º Fica aprovado o Regimento Interno da Comissão de Marinha Mercante, que com êste baixa, assinado pelo Ministro dos Transportes.
 
 Parágrafo único. A estrutura e atribuições dos órgãos de nível inferior ao das unidades que compõem a estrutura básica da Comissão de Marinha Mercante, à qual se refere o item 1.1 de seu Regimento, poderão ser alteradas por ato do Ministro dos Transportes, sempre que necessário ao bom funcionamento dos serviços.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 28 de julho de 1967; 146º da Independência e 79º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Mário David Andreazza
 
@@ -196,7 +194,7 @@ d) Informar os processos de infração e inscrever, no livro próprio, as multas
 
 e) Organizar, dirigir e controlar os encargos administrativos da Procuradoria;
 
-f) Proceder à leitura do <em>Diário Oficial</em> da União, a fim de anotar a publicação de leis, decretos e despachos administrativos que interessem à Presidência;
+f) Proceder à leitura do *Diário Oficial* da União, a fim de anotar a publicação de leis, decretos e despachos administrativos que interessem à Presidência;
 
 g) Proceder à leitura do “Diário da Justiça” da União e do Estado da Guanabara, a fim de acompanhar a movimentação dos processos e anotar a jurisprudência dos Tribunais Superiores;
 
@@ -240,7 +238,7 @@ n) Organizar o fichário de legislação, jurisprudência e decisões administra
 
 o) Organizar e dirigir a biblioteca judicial;
 
-p) Providenciar a publicação no <em>Diário Oficial</em> da União de Editais de Convocação e multas aplicadas pelo Plenário da Comissão de Marinha Mercante em autos de infração.
+p) Providenciar a publicação no *Diário Oficial* da União de Editais de Convocação e multas aplicadas pelo Plenário da Comissão de Marinha Mercante em autos de infração.
 
 4\. DA DIRETORIA EXECUTIVA
 
@@ -484,7 +482,7 @@ a) Disciplinar a condução, manutenção e conservação das embarcações naci
 
 b) Orientar e fiscalizar a condução, manutenção e conservação das embarcações pertencentes à CMM, hipotecadas à CMM, afretadas ou cedidas a qualquer título a terceiros, fazendo observar o cumprimento de cláusulas contratuais bem como outras diretrizes estabelecidas;
 
-c) Realizar vistorias periódicas ou eventuais, no pôrto ou em viagem no sentido de serem observadas as condições estipuladas em “<em>a</em>” e “<em>b</em>”, emitindo laudos e propondo medidas corretivas adequadas;
+c) Realizar vistorias periódicas ou eventuais, no pôrto ou em viagem no sentido de serem observadas as condições estipuladas em “*a*” e “*b*”, emitindo laudos e propondo medidas corretivas adequadas;
 
 d) Fiscalizar a escrituração dos livros históricos das embarcações acima mencionadas;
 
@@ -668,7 +666,7 @@ e) proceder a revisão de todos os pagamentos efetuados por conta F.M.M., quando
 
 f) fornecer ao Departamento de Estudos e Planejamento elementos necessáriso à elaboração da proposta orçamentária do F.M.M.;
 
-6.5.4 - <em>Seção de Contrôle das Aplicações</em>
+6.5.4 - *Seção de Contrôle das Aplicações*
 
 A Seção de Contrôle das Aplicações compete:
 
@@ -1696,7 +1694,7 @@ e) Atender a pedidos de consultas e empréstimos interna e externamente, realiza
 
 f) Receber relatórios de todos os setores da CMM e dêles selecionar e coordenar matéria para o Relatório Anual da CMM;
 
-g) Coletar e coordenar elementos para a confecção do Boletim de Serviço e do Boletim de Resoluções da CMM, e, quanto a êste, conferir suas publicações no <em>Diário Oficial</em>, promovendo as retificações necessárias;
+g) Coletar e coordenar elementos para a confecção do Boletim de Serviço e do Boletim de Resoluções da CMM, e, quanto a êste, conferir suas publicações no *Diário Oficial*, promovendo as retificações necessárias;
 
 h) Guardar, controlar e distribuir tôdas as publicações editadas pela Comissão, providenciando sua atualização, reimpressão, etc.
 
@@ -1992,8 +1990,8 @@ b) Propor aos superiores hierárquicos referências elogiosas aos servidores que
 
 11.8 - A lotação da Comissão de Marinha Mercante será fixada por Portaria do Presidente.
 
-11.9 - Este Regimento Interno entrará em vigor na data de sua publicação no <em>Diário</em> <em>Oficial</em> da União, revogadas as disposições em contrário.
+11.9 - Este Regimento Interno entrará em vigor na data de sua publicação no *DiárioOficial* da União, revogadas as disposições em contrário.
 
-<strong>MARIO DAVID ANDREAZZA</strong>
+**MARIO DAVID ANDREAZZA**
 
 Ministro dos Transportes

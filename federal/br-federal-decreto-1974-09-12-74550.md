@@ -1,5 +1,3 @@
-###DEC-074550-0-000-12-09-1974@@@
-
 Decreto nº 74.550, de 12 de setembro de 1974.
 
 Concede reconhecimento ao curso de Ciências Atuariais da Faculdade de Ciências Econômicas, Contábeis, Administrativas e Atuariais, mantida pelo Instituto de Ensino Superior da Região Bragantina com sede na cidade de Bragança Paulista Estado de São Paulo.

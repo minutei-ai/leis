@@ -22,8 +22,6 @@ Art. 3º Esta Lei entra em vigor no ano letivo posterior ao de sua publicação.
 
 Goiânia, 1º de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

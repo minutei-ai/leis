@@ -1,5 +1,3 @@
-###DEC-049177-0-000-01-11-1960@@@
-
 DECRETO Nº 49.177, DE 1º DE NOVEMBRO DE 1960.
 
 Cria cargos e função gratificada no Quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

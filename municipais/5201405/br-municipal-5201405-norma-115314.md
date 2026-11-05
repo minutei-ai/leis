@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.558, DE 17 DE JUNHO DE 2020.<br>
+LEI MUNICIPAL Nº 3.558, DE 17 DE JUNHO DE 2020.
+
 (Revogada pela Lei Ordinária nº 3.660, de 16 de março de 2022).
 
 ~~Dispõe sobre o uso obrigatório de máscaras de proteção facial como medida de prevenção da pandemia provocada pelo Coronavírus (COVID-19) no Município de Aparecida de Goiânia e dá outras providências.~~
@@ -73,14 +74,18 @@ LEI MUNICIPAL Nº 3.558, DE 17 DE JUNHO DE 2020.<br>
 
 ~~Goiânia, Estado de Goiás, aos 17 de junho de 2020.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~
 
-~~FABIO PASSAGLIA<br>
+~~FABIO PASSAGLIA
+
 Chefe da Casa Civil~~
 
-~~ALESSANDRO MAGALHÃES<br>
+~~ALESSANDRO MAGALHÃES
+
 Secretário de Saúde~~
 
-~~MAYARA MENDANHA<br>
+~~MAYARA MENDANHA
+
 Secretária de Assistência Social~~

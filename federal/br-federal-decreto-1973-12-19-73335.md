@@ -1,5 +1,3 @@
-###DEC-073335-0-000-19-12-1973@@@
-
 decreto nº 73.335 - de 19 dezembro de 1973
 
 Concede permissão em caráter permanente, à Agência Metropolitana Jaguaré - CEASA, do Banco do Brasil S.A., situada na Capital do Estado de São Paulo, para funcionar aos sábados, domingos e feriados civis e religiosos.

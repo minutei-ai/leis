@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/1988)<br>
-
 # LEI COMPLEMENTAR N° 942, DE 06 DE JUNHO DE 2003
 
 ### _Altera a Lei n° 10.261, de 28 de outubro de 1968, que dispõe sobre o Estatuto dos Funcionários Públicos Civis do Estado de São Paulo, e dá providências correlatas_
@@ -104,10 +102,12 @@ Artigo 267 - O período de afastamento preventivo computa-se como de efetivo exe
 
 V - os artigos 268 a 321, agrupados nos títulos e capítulos a seguir indicados:
 
-TÍTULO VIII<br>
+TÍTULO VIII
+
 Do Procedimento Disciplinar (NR)
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das Disposições Gerais (NR)
 
 Artigo 268 - A apuração das infrações será feita mediante sindicância ou processo administrativo, assegurados o contraditório e a ampla defesa. (NR)
@@ -118,7 +118,8 @@ Artigo 270 - Será obrigatório o processo administrativo quando a falta discipl
 
 Artigo 271 - Os procedimentos disciplinares punitivos serão realizados pela Procuradoria Geral do Estado e presididos por Procurador do Estado confirmado na carreira. (NR)
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Da Sindicância
 
 Artigo 272 - São competentes para determinar a instauração de sindicância as autoridades enumeradas no artigo 260. (NR)
@@ -133,7 +134,8 @@ II - a sindicância deverá estar concluída no prazo de 60 (sessenta) dias; (NR
 
 III - com o relatório, a sindicância será enviada à autoridade competente para a decisão. (NR)
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Do Processo Administrativo (NR)
 
 Artigo 274 - São competentes para determinar a instauração de processo administrativo as autoridades enumeradas no artigo 260, até o inciso IV, inclusive. (NR)
@@ -292,7 +294,8 @@ Artigo 307 - Decorridos 5 (cinco) anos de efetivo exercício, contados do cumpri
 
 Parágrafo único - A demissão e a demissão a bem do serviço público acarretam a incompatibilidade para nova investidura em cargo, função ou emprego público, pelo prazo de 5 (cinco) e 10 (dez) anos, respectivamente. (NR)
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 Do Processo por Abandono do Cargo ou Função e por Inassiduidade (NR)
 
 Artigo 308 - Verificada a ocorrência de faltas ao serviço que caracterizem abandono de cargo ou função, bem como inassiduidade, o superior imediato comunicará o fato à autoridade competente para determinar a instauração de processo disciplinar, instruindo a representação com cópia da ficha funcional do servidor e atestados de freqüência. (NR)
@@ -303,7 +306,8 @@ Artigo 310 - Extingue-se o processo instaurado exclusivamente para apurar abando
 
 Artigo 311 - A defesa só poderá versar sobre força maior, coação ilegal ou motivo legalmente justificável. (NR)
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 Dos Recursos (NR)
 
 Artigo 312 - Caberá recurso, por uma única vez, da decisão que aplicar penalidade. (NR)
@@ -322,7 +326,8 @@ Artigo 313 - Caberá pedido de reconsideração, que não poderá ser renovado, 
 
 Artigo 314 - Os recursos de que trata esta lei complementar não têm efeito suspensivo; os que forem providos darão lugar às retificações necessárias, retroagindo seus efeitos à data do ato punitivo. (NR)
 
-CAPÍTULO VI (NR)<br>
+CAPÍTULO VI (NR)
+
 Da Revisão (NR)
 
 Artigo 315 - Admitir-se-á, a qualquer tempo, a revisão de punição disciplinar de que não caiba mais recurso, se surgirem fatos ou circunstâncias ainda não apreciados, ou vícios insanáveis de procedimento, que possam justificar redução ou anulação da pena aplicada. (NR)

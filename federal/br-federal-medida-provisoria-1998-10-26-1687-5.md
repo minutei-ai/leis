@@ -1,5 +1,3 @@
-###MPV-001687-0-005-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.687-5, DE 26 DE OUTUBRO DE 1998
 
 Institui o Programa Ernergencial de Frentes Produtivas e dá outras providências.

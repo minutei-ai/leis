@@ -1,5 +1,3 @@
-###DEC-049452-0-000-06-12-1960@@@
-
 DECRETO Nº 49.452, de 6 de dezembro de 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Depósito de Aeronáutica do Rio de Janeiro para a da Diretoria do Material.

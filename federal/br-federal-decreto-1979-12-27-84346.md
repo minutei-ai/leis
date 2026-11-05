@@ -1,5 +1,3 @@
-###DEC-084346-0-000-27-12-1979@@@
-
 Decreto nº 84.346, de 27 de dezembro de 1979.
 
 Regulamenta as atividades dos despachantes aduaneiros e de seus ajudantes, bem como a forma de sua investidura na função.

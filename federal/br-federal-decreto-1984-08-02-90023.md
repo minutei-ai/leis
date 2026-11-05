@@ -1,5 +1,3 @@
-###DEC-090023-0-000-02-08-1984@@@
-
 Decreto nº 90.023, De 02 de agosto de 1984
 
 Define os limites do Parque Nacional da Serra dos Órgãos, criado pelo Decreto-lei nº 1.822 de 30 de novembro de 1939 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058427-0-000-17-05-1966@@@
-
 DECRETO Nº 58.427, DE 17 DE MAIO DE 1966.
 
 Concede à Mineração Guimarães Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-25-08-1832@@@
-
 LEI - DE 25 DE AGOSTO DE 1832
 
 Fixa as forças de terra para o anno financeiro de 1833 - 1834.

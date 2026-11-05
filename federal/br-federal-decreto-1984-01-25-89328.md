@@ -1,5 +1,3 @@
-###DEC-089328-0-000-25-01-1984@@@
-
 DEcreto nº 89.328, de 25 dE janeiro de 1984
 
 Cassa a concessão outorgada à RÁDIO VOZ DO SÃO FRANCISCO LTDA., para executar serviços de radiodifusão sonora em onda média, na cidade de Januária, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-053009-0-000-27-11-1963@@@
-
 DECRETO nº 53.009, DE 27 DE NOVEMBRO DE 1963.
 
 Anula o decreto nº 47.552, de 30 de dezembro de 1959.

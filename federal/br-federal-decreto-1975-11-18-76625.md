@@ -1,5 +1,3 @@
-###DEC-076625-0-000-18-11-1975@@@
-
 DECRETO Nº 76.625, DE 18 DE NOVEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Município de Foz do Iguaçu, Estado do Paraná.

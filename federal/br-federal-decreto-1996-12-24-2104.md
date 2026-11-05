@@ -1,7 +1,3 @@
-1
-
-###DEC-002104-0-000-24-12-1996@@@
-
 DECRETO Nº 2.104 DE 24 DE DEZEMBRO DE 1996.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.958, de 15 de julho de 1996.

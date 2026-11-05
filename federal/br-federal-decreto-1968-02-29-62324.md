@@ -1,5 +1,3 @@
-###DEC-062324-0-000-29-02-1968@@@
-
 DECRETO Nº 62.324, DE 29 DE FEVEREIRO DE 1968.
 
 Autoriza o funcionamento da faculdade de Medicina de Vitoria - ES.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098355-0-000-31-10-1989@@@
-
 DECRETO Nº 98.355, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Administração das Faculdades Unidas do Centro Norte, com sede em Rio Verde de Mato Grosso, Mato Grosso do Sul.

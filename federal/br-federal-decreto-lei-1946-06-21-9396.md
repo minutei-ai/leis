@@ -1,5 +1,3 @@
-###DEL-009396-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.396 – DE 21 DE JUNHO DE 1946
 
 Abre um crédito suplementar ao Ministério da Educação e Saúde.

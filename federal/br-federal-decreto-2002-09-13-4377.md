@@ -1,5 +1,3 @@
-###DEC-004377-0-000-13-09-2002@@@
-
 DECRETO Nº 4.377, DE 13 DE SETEMBRO DE 2002
 
 Promulga a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, de 1979, e revoga o Decreto nº 89.460, de 20 de março de 1984.

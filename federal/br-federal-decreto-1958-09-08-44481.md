@@ -1,14 +1,12 @@
-###DEC-044481-0-000-08-09-1958@@@
+**DECRETO Nº 44.481, DE 8 DE SETEMBRO DE 1958.**
 
-<strong>DECRETO Nº 44.481, DE 8 DE SETEMBRO DE 1958.</strong>
+***Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários mensalistas do Ministério da Agricultura, que menciona e dá outras providências.***
 
-<em><strong>Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários mensalistas do Ministério da Agricultura, que menciona e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário mensalistas do Ministério da Agricultura, na forma abaixo indicada:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário mensalistas do Ministério da Agricultura, na forma abaixo indicada:
 
 I - uma (1) função de Auxiliar de Serviço, referência 19, ocupada por Eddy Valladares de Oliveira, da Tabela Numérica Especial de Extranumerário mensalista do Pôsto de Análises de Vinhos em Recife, Estado de Pernambuco, do Instituto de Fermentação, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas para idêntica tabela do referido Instituto de Fermentação, dos mesmos Serviço e Centro.
 
@@ -30,12 +28,12 @@ III - uma (1) função de Artífice, referência 18, excedente, ocupada por Mari
 
 IV - uma (1) função de Chefe de Turma, referência 18, com o ocupante Aristides Silvério, da Tabela Numérica Especial de Extranumerário Mensalista da Escola Nacional de Agronomia, da Universidade Rural, para idêntica tabela do Serviço Médico, ambas do Centro Nacional de Ensino e Pesquisas Agronômicas.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 8 de setembro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

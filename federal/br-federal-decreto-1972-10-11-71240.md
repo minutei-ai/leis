@@ -1,5 +1,3 @@
-###DEC-071240-0-000-11-10-1972@@@
-
 DECRETO nº 71.240, de 11 de outubro de 1972.
 
 Autoriza o funcionamento dos cursos de Licenciatura em Ciências Psicologia nas habilitações de Magistério, e do curso de Psicólogos e Letras da Faculdade de Filosofia, Ciências e Letras de Piracicaba - SP.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/2893)<br>
-
 # LEI N° 11.003, DE 21 DE DEZEMBRO DE 2001
 
 ## (PL 806/2001 - Governador)

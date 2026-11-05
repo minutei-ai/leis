@@ -1,10 +1,8 @@
-###DEC-031643-0-000-23-10-1952@@@
+**DECRETO Nº 31.643, DE 23 DE OUTUBRO DE 1952**
 
-<strong>DECRETO Nº 31.643, DE 23 DE OUTUBRO DE 1952</strong>
+***Promulga a Convenção Internamericana sobre a concessão dos direitos civis da mulher, assinado em Bogotá, a 2 de maio de 1948.***
 
-<em><strong>Promulga a Convenção Internamericana sobre a concessão dos direitos civis da mulher, assinado em Bogotá, a 2 de maio de 1948.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, dos Estados Unidos do Brasil:
+**O PRESIDENTE DA REPÚBLICA**, dos Estados Unidos do Brasil:
 
 Tendo o Congresso Nacional aprovado, pelo Decreto Legislativo número 74, de 19 de dezembro de 1951, a Convenção Interamericana sobre a concessão dos direitos civis da mulher, assinada em Bogotá, a 2 de maio de 1948, por ocasião da IX Conferência Internacional Americana; e havendo sido depositado na Organização do Estados Unidos Americanos, em Whashington, 19 de março de 11952, o Instrumento brasileiro de ratificação.
 
@@ -12,13 +10,13 @@ Decreta que a mencionada Convenção, apensa por cópia ao presente Decreto, sej
 
 Rio de Janeiro, em 23 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Neves da Fontoura.
 
-<strong>CONENÇÃO INTERAMERICANA SOBRE A CONCESSÃO DOS DIREITOS CIVIS À MULHER</strong>
+**CONENÇÃO INTERAMERICANA SOBRE A CONCESSÃO DOS DIREITOS CIVIS À MULHER**
 
-<em><strong>Assinada na Nova Conferência Internacional Americana.</strong></em>
+***Assinada na Nova Conferência Internacional Americana.***
 
 Bogotá, 30 de março a 2 de maio de 1948.
 
@@ -42,9 +40,9 @@ Resolveram:
 
 Autorizar os seus respectivos Representantes, cujos plenos poderes se verificaram estar em boa e devida forma, para assinar os seguintes artigos:
 
-<strong>Art</strong>. 1. Os Estados Americanos convém em outorgar à mulher os mesmos direitos civis de que goza o homem.
+**Art**. 1. Os Estados Americanos convém em outorgar à mulher os mesmos direitos civis de que goza o homem.
 
-<strong>Art</strong>. 2. A presente Convenção fica aberta à assinatura dos Estados Americanos e será ratificada de conformidade com seus respectivos processos constitucionais. O instrumento original, cujos textos em espanhol francês, inglês e português são igualmente autêntica, será depositado dos Estados Americanos, a qual enviará cópias autenticadas aos Governos para os fins de sua ratificação. Os instrumentos de ratificação serão depositados na Secretaria Geral da Organização dos Estados Americanos, que notificará do referido depósito os Governos signatários. Tal notificação terá o valor de troca de ratificações.
+**Art**. 2. A presente Convenção fica aberta à assinatura dos Estados Americanos e será ratificada de conformidade com seus respectivos processos constitucionais. O instrumento original, cujos textos em espanhol francês, inglês e português são igualmente autêntica, será depositado dos Estados Americanos, a qual enviará cópias autenticadas aos Governos para os fins de sua ratificação. Os instrumentos de ratificação serão depositados na Secretaria Geral da Organização dos Estados Americanos, que notificará do referido depósito os Governos signatários. Tal notificação terá o valor de troca de ratificações.
 
 Por Honduras:
 

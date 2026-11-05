@@ -1,5 +1,3 @@
-###DEC-096631-0-000-31-08-1988@@@
-
 DECRETO N° 96.631, DE 31 DE AGOSTO DE 1988
 
 Dispõe sobre o exame de proposta para contratação de pessoal no âmbito da Administração Federal e dá outras providências.

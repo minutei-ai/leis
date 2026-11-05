@@ -1,5 +1,3 @@
-###DEC-050907-0-000-05-07-1961@@@
-
 DECRETO Nº 50.907, DE 5 DE JULHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.668, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessário à construção do açude público Cumbe, no Município de Nossa Senhora das Dores, Estado de Sergipe.

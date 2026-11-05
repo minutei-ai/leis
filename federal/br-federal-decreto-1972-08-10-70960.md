@@ -1,5 +1,3 @@
-###DEC-070960-0-000-10-08-1972@@@
-
 DECRETO Nº 70.960, DE 10 DE AGOSTO DE 1972.
 
 Dispõe sobre recolhimento de diferenças de preços sobre estoques de trigo e dá outras providências.

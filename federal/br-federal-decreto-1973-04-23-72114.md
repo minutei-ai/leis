@@ -1,5 +1,3 @@
-###DEC-072114-0-000-23-04-1973@@@
-
 Decreto nº 72.114, de 23 de abril de 1973.
 
 Concede autorização as empresas Oceanic Contractors, Inc., e Christiani Nielsen - Engenheiros e Construtores S.A. para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, as embarcações "MC Dermott Tidelands 10" e "Beulah Candies", de bandeira norte-americana, em substituição às embarcações "Tide Mar 23" e " Gulf Seas", respectivamente, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

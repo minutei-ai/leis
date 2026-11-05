@@ -1,5 +1,3 @@
-###DEC-082063-0-000-03-08-1978@@@
-
 Decreto nº 82 063, de 03 de agosto de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

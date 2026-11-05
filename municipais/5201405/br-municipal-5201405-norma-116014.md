@@ -16,5 +16,6 @@ Art. 4°. Esta Lei Complementar entrará em vigor na data de sua publicação, r
 
 MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, 22 DIAS DO MÊS DE JUNHO DO ANO DE 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal

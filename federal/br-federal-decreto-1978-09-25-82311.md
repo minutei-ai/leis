@@ -1,5 +1,3 @@
-###DEC-082311-0-000-25-09-1978@@@
-
 Decreto nº 82.311 de 25 de setembro de 1978
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Universidade de Mogi das Cruzes, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-066360-0-000-20-03-1970@@@
-
 DECRETO Nº 66.360 - DE 20 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Lourenço, no Estado de Minas Gerais.

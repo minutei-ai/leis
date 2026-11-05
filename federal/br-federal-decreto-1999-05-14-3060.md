@@ -1,5 +1,3 @@
-###DEC-003060-0-000-14-05-1999@@@
-
 DECRETO Nº 3.060, DE 14 DE MAIO DE 1999.
 
 Dá nova redação aos arts. 10 e 14 do Regulamento para o Quadro de Engenheiros Militares (R-43), aprovado pelo Decreto nº 96.304, de 12 de julho de 1988, e alterado pelo Decreto nº 2.731,de 11 de agosto de1998.

@@ -1,5 +1,3 @@
-###DEC-053583-0-000-21-02-1964@@@
-
 DECRETO Nº 53.583, DE 21 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre edição de livros didáticos, dando outras providências.

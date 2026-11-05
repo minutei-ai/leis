@@ -1,5 +1,3 @@
-###DEL-001100-0-000-25-03-1970@@@
-
 # Decreto-lei Nº 1.100, DE 25 De MARÇO DE 1970
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de NCr$50.000.000,00, para fins que especifica.

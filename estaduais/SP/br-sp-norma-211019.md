@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211019)<br>
-
 # DECRETO N° 69.584, DE 05 DE JUNHO DE 2025
 
 ### _Altera o Decreto n° 64.456, de 10 de setembro de 2019, que dispõe sobre o procedimento para apuração de infrações ambientais e imposição de sanções, no âmbito do Sistema Estadual de Administração da Qualidade Ambiental, Proteção, Controle e Desenvolvimento do Meio Ambiente e Uso Adequado dos Recursos Naturais - SEAQUA, e dá providências correlatas._

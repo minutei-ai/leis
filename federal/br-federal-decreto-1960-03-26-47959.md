@@ -1,5 +1,3 @@
-###DEC-047959-0-000-26-03-1960@@@
-
 DECRETO Nº 47.959, DE 26 DE MARÇO DE 1960.
 
 Aprova o Regimento da Comissão Técnica de Orientação Sindical (C.T.O.S.), do Ministério de Trabalho, Indústria e Comércio, e dá outras providências.

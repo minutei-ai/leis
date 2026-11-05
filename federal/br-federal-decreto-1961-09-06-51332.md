@@ -1,5 +1,3 @@
-###DEC-051332-0-000-06-09-1961@@@
-
 DECRETO Nº 51.332, DE 6 SETEMBRO DE 1961.
 
 Cria o Batalhão de Polícia do Exército da Guarda Presidencial, com sede em Brasília (D.F.) subordinado à 11ª RM.

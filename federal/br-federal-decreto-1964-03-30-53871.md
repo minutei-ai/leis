@@ -1,5 +1,3 @@
-###DEC-053871-0-000-30-03-1964@@@
-
 DECRETO Nº 53.871, DE 30 DE MARÇO DE 1964.
 
 Declara de interêsse social, para fins de desapropriação a área de terras “Engenho Serra” sitas no Município de Vitória de Santo Antão, Estado de Pernambuco e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002179-0-035-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.179-35, DE 27 DE JUlHO DE 2001
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

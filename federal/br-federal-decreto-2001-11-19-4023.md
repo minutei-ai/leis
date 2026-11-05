@@ -1,5 +1,3 @@
-###DEC-004023-0-000-19-11-2001@@@
-
 DECRETO Nº 4.023, DE 19 DE NOVEMBRO DE 2001
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão da Rede Básica do Sistema Elétrico Interligado, e dá outras providências.

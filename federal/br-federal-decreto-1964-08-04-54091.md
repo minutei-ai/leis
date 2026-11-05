@@ -1,5 +1,3 @@
-###DEC-054091-0-000-04-08-1964@@@
-
 DECRETO Nº 54.091, DE 4 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública o “Colégio Santa Ignez”, com sede em São Paulo, Estado de São Paulo.

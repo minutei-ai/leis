@@ -1,5 +1,3 @@
-###DEC-045994-0-000-15-05-1959@@@
-
 DECRETO Nº 45.994, DE 15 DE MAIO DE 1959.
 
 Transfere, sem aumento de despesas, função da Tabela Numérica Especial de Extranumerário-mensalista da Guarnição Militar de Fernando de Noronha, para idêntica tabela do Estabelecimento de Subsistência da 7º Região Militar, ambos do Ministério da Guerra.

@@ -1,5 +1,3 @@
-###DEC-069711-0-000-07-12-1971@@@
-
 DECRETO Nº 69.711 - DE 7 DE DEZEMBRO DE 1971
 
 Concede à Mineração Santa Patrícia Ltda. o direito de lavrar caulim, no município de Mazagão, Território Federal do Amapá.

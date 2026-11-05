@@ -1,5 +1,3 @@
-###DEC-068716-0-000-07-06-1971@@@
-
 DECRETO Nº 68.716 - DE 7 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Pôrto Feliz, com sede em Pôrto Feliz, Estado de São Paulo.

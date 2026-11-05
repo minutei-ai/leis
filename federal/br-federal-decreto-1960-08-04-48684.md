@@ -1,5 +1,3 @@
-###DEC-048684-0-000-04-08-1960@@@
-
 DECRETO Nº 48.684, DE 4 DE AGÔSTO DE 1960.
 
 Estende ao Distrito Federal, provisoriamente, a jurisdição da procuradoria da Fazenda Nacional no Estado de Goiás.

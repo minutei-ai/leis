@@ -1,5 +1,3 @@
-###DEC-052805-0-000-05-11-1963@@@
-
 DECRETO Nº 52.805, DE 5 DE NOVEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros da Bahia.

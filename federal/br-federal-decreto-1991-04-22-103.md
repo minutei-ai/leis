@@ -1,5 +1,3 @@
-###DEC-000103-0-000-22-04-1991@@@
-
 DECRETO Nº 103, DE 22 DE ABRIL DE 1991
 
 Autoriza a instituição do Fundo de Desenvolvimento Social - FDS e dá outras providências.

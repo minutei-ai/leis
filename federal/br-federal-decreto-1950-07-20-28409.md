@@ -1,26 +1,24 @@
-###DEC-028409-0-000-20-07-1950@@@
+**DECRETO Nº 28.409, DE 20 DE JULHO DE 1950.**
 
-<strong>DECRETO Nº 28.409, DE 20 DE JULHO DE 1950.</strong>
+***Aprova modificações referentes ao Regulamento para as Escolas Preparatórias.***
 
-<em><strong>Aprova modificações referentes ao Regulamento para as Escolas Preparatórias.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Ficam aprovadas as modificações que com êste baixam, assinadas pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra, referentes ao Regulamento para as Escolas Preparatórias, pôsto em vigor pelo Decreto nº 18.732, de 28 de maio de 1945.
 
-<strong>Art</strong>. 1º - Ficam aprovadas as modificações que com êste baixam, assinadas pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra, referentes ao Regulamento para as Escolas Preparatórias, pôsto em vigor pelo Decreto nº 18.732, de 28 de maio de 1945.
+**Art**. 2º - Essas modificações vigorarão a partir do ano escolar de 1951, devendo o próximo concurso de admissão ser regido pelas disposições atualmente em vigor quanto aos limites de idade e às provas do exame intelectual.
 
-<strong>Art</strong>. 2º - Essas modificações vigorarão a partir do ano escolar de 1951, devendo o próximo concurso de admissão ser regido pelas disposições atualmente em vigor quanto aos limites de idade e às provas do exame intelectual.
-
-<strong>Art</strong>. 3º - Revogam-se as disposições em contrário.
+**Art**. 3º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de julho de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa
 
-<strong>MODIFICAÇÕES BAIXADAS COM O DECRETO Nº 28.409, DE 20 DE JULHO DE 1950, REFERENTE AO REGULAMENTO PARA AS ESCOLAS PREPARATÓRIAS (R-114), PÔSTO EM VIGOR PELO DECRETO Nº 18.732, DE 28 DE MAIO DE 1945:</strong>
+**MODIFICAÇÕES BAIXADAS COM O DECRETO Nº 28.409, DE 20 DE JULHO DE 1950, REFERENTE AO REGULAMENTO PARA AS ESCOLAS PREPARATÓRIAS (R-114), PÔSTO EM VIGOR PELO DECRETO Nº 18.732, DE 28 DE MAIO DE 1945:**
 
 “Art. 3º - O ensino das Escolas Preparatórias visa ministrar:
 
@@ -28,7 +26,7 @@ a) .............................................................................
 
 b) uma instrução militar atinente às praças de infantaria para obtenção dos fundamentos necessários ao preparo profissional do cadete do 1º ano da Escola Militar.
 
-<strong>Art</strong>. 4º - O curso das Escolas Preparatórias será realizado em três anos, com a seguinte repartição das matérias:
+**Art**. 4º - O curso das Escolas Preparatórias será realizado em três anos, com a seguinte repartição das matérias:
 
 A) - ENSINO GERAL
 
@@ -88,7 +86,7 @@ Instrução técnica: ordem unida, armamento (armas individuais), instrução pr
 
 Os mesmos assuntos do 1º ano, mais:
 
-a) instrução técnica: maneabilidade do <em>g</em>. <em>c</em>. (formal), instrução individual do serviço em campanha, tiro de FO e armamento coletivo (F.M.);
+a) instrução técnica: maneabilidade do *g*. *c*. (formal), instrução individual do serviço em campanha, tiro de FO e armamento coletivo (F.M.);
 
 b) instrução tática individual.
 
@@ -102,11 +100,11 @@ Revisão e aperfeiçoamento da instrução já recebida, mais:
 
 Os alunos que ingressarem diretamente no 3º ano receberão instrução mais intensa, em grupamento especial de instrução.
 
-<strong>Art</strong>. 5º - O plano geral do ensino, discriminado no Título II, visa preparar o aluno para a admissão à Escola Militar, ministrando-lhe os conhecimentos necessários ao prosseguimento dos estudos naquele Estabelecimento.
+**Art**. 5º - O plano geral do ensino, discriminado no Título II, visa preparar o aluno para a admissão à Escola Militar, ministrando-lhe os conhecimentos necessários ao prosseguimento dos estudos naquele Estabelecimento.
 
-<strong>Art</strong>. 6º - A instrução militar será regulada por Programa-Padrão organizados pela Diretoria de Armas, mediante proposta da D. E. E.
+**Art**. 6º - A instrução militar será regulada por Programa-Padrão organizados pela Diretoria de Armas, mediante proposta da D. E. E.
 
-<strong>Art</strong>. 7º - ...................................................................................................................................
+**Art**. 7º - ...................................................................................................................................
 
 I - Aritmética - Será estudada de modo completo, teórica praticamente, tendo em mira, sobretudo, o seu valor lógico.
 
@@ -150,19 +148,19 @@ As aulas serão sempre ilustradas com os elementos indispensáveis e ao alcance 
 
 13 - .........................................................................................................................................
 
-<strong>Art</strong>. 8º - A instrução militar será ministrada de maneia a proporcionar ao aluno a instrução individual e coletiva do combatente e, ainda, permitir que se verifique o desenvolvimento das qualidades necessárias ao ingresso na Escola Militar.
+**Art**. 8º - A instrução militar será ministrada de maneia a proporcionar ao aluno a instrução individual e coletiva do combatente e, ainda, permitir que se verifique o desenvolvimento das qualidades necessárias ao ingresso na Escola Militar.
 
-<strong>Art</strong>. 10 - O Comandante, por intermédio da Seção Técnica, de determinados Professôres e Instrutores especialmente dotados, da Sociedade Recreativa e Literária e por todos os meios ao seu alcance, desenvolverá, na medida das conveniências da Escola, as atividades extra-currilares.
+**Art**. 10 - O Comandante, por intermédio da Seção Técnica, de determinados Professôres e Instrutores especialmente dotados, da Sociedade Recreativa e Literária e por todos os meios ao seu alcance, desenvolverá, na medida das conveniências da Escola, as atividades extra-currilares.
 
 Aproveitando as características regionais da sede de cada Escola e as preferências individuais, poderão ser organizados Grêmios ou clubes que procurem despertar ou desenvolver aptidões para a prática dos esportes, da artes e de outras atividades, como caça, futebol, atletismo, pesca, equitação, rádio amadorismo, excursionismo, música, pintura, fotografia, etc., bem como Grêmios ou Clubes para a prática de línguas, competições oratórias, debates sôbre assuntos relacionados com o melhor conhecimento da terra e do homem brasileiro, etc.
 
 Por meio das atividades extra-curriculares, a Escola deve assemelhar-se a um meio social em que o aluno é um indivíduo agindo no grupo de sua predileção e, assim trabalhando para a melhora do nível coletivo.
 
-<strong>Art</strong>. 11 - Os programas das matérias serão organizados pela Diretoria do Ensino do Exército, pela forma que julgar mais adequada (comissões, seminários, inquéritos pedagógicos, etc.), tendo em vista conservar a uniformidade do ensino em tôdas as Escolas Preparatórias e dar ao aluno uma base compatível com o prosseguimento de seus estudos, na Escola Militar.
+**Art**. 11 - Os programas das matérias serão organizados pela Diretoria do Ensino do Exército, pela forma que julgar mais adequada (comissões, seminários, inquéritos pedagógicos, etc.), tendo em vista conservar a uniformidade do ensino em tôdas as Escolas Preparatórias e dar ao aluno uma base compatível com o prosseguimento de seus estudos, na Escola Militar.
 
 Parágrafo único - Os programas serão atualizados periodicamente, de acôrdo com as necessidades do ensino no Exército.
 
-<strong>Art</strong>. 12 - O programa de cada matéria comportará, também, um plano de execução que consta de:
+**Art**. 12 - O programa de cada matéria comportará, também, um plano de execução que consta de:
 
 \- assunto para cada sessão ou grupo de sessões;
 
@@ -178,13 +176,13 @@ Parágrafo único - Os programas serão atualizados periodicamente, de acôrdo c
 
 § 2º - As modificações nos planos de execução independem de modificações, correspondentes nos programas.
 
-<strong>Art</strong>. 13 - Os programas de Matemática, Física, Química e Desenho abrangerão os conhecimentos necessários ao prosseguimento do curso na Escola Militar.
+**Art**. 13 - Os programas de Matemática, Física, Química e Desenho abrangerão os conhecimentos necessários ao prosseguimento do curso na Escola Militar.
 
-<strong>Art</strong>. 17 - O ensino será realizado por meio de palestras, arguições discussões e estudos dirigidos em sala, aplicações pelos alunos em sala e ao ar livre, demonstrações experimentais em gabinetes e laboratórios, com o emprêgo exaustivo dos meios auxiliares previstos no “Método de Instrução”, visitas e excursões.
+**Art**. 17 - O ensino será realizado por meio de palestras, arguições discussões e estudos dirigidos em sala, aplicações pelos alunos em sala e ao ar livre, demonstrações experimentais em gabinetes e laboratórios, com o emprêgo exaustivo dos meios auxiliares previstos no “Método de Instrução”, visitas e excursões.
 
 Parágrafo único - ...................................................................................................................
 
-<strong>Art</strong>. 18 - Na execução dos programas o professor deve procurar:
+**Art**. 18 - Na execução dos programas o professor deve procurar:
 
 a) - ..........................................................................................................................................
 
@@ -200,11 +198,11 @@ f) .......................g) .............................................h) ...
 
 i) verificar constantemente a aprendizagem realizada pelos alunos, sob a forma de verificações objetivas, em que se possa aquilatar, se houve, ou não, a fixação das partes essenciais de cada matéria, por todos os alunos.
 
-<strong>Art</strong>. 23 ....................................................................................................................................
+**Art**. 23 ....................................................................................................................................
 
 Parágrafo único - Todos os trabalhos realizados pelas comissões de estudo serão enviados, por cópia, à Diretoria do Ensino do Exército, como informação.
 
-<strong>Art</strong>. 24 - ...................................................................................................................................
+**Art**. 24 - ...................................................................................................................................
 
 a) .............................................................................................................................................
 
@@ -216,7 +214,7 @@ c) Instrutor Chefe.
 
 § 2º - A Direção do Ensino dispõe ainda do arquivo especializado de documentação didática de uma biblioteca, para uso de professôres e alunos, e uma Seção de Meios Auxiliares.
 
-<strong>Art</strong>. 27 - ..................................................................................................................................
+**Art**. 27 - ..................................................................................................................................
 
 a) .....................b) .........................c) ............................d) ......................e) ............................
 
@@ -240,9 +238,9 @@ v) anular, total ou parcialmente, em solução de inquérito pedagógico ou por 
 
 x) ............................................................z) ............................................................................
 
-<strong>Art</strong>. 32. O quadro de ensino da Escola, de acôrdo com o art. 13 do D. L. 103, de 1937, compreenderá, no máximo, três professôres para cada disciplina, sendo um catedrático e dois adjuntos.
+**Art**. 32. O quadro de ensino da Escola, de acôrdo com o art. 13 do D. L. 103, de 1937, compreenderá, no máximo, três professôres para cada disciplina, sendo um catedrático e dois adjuntos.
 
-<strong>Art</strong>. 33. ....................................................................................................................................
+**Art**. 33. ....................................................................................................................................
 
 a) ................................b) ................................c)...............................d)...................................
 
@@ -256,25 +254,25 @@ h) apresentar, anualmente, as observações julgadas úteis, quanto aos programa
 
 i) ...................j) ........................l) ...........................m) ......................n) .................................
 
-<strong>Art</strong>. 34 ...................................................................................................................................
+**Art**. 34 ...................................................................................................................................
 
 a) ...........................................................................................................................................
 
 b) auxiliar o catedrático na formulação das observações sôbre programas, planos de execução, livros-texto, etc., para apresentação ao Comandante da Escola, bem assim cooperar em tudo que se fizer mister para a melhor aprendizagem, consoante o disposto no presente regulamento.
 
-<strong>Art</strong>. 38 - .................................................................................................................................
+**Art**. 38 - .................................................................................................................................
 
 a) ............................b) ......................c) ......................d) .......................e) ............................
 
 f) tomar a si certos ramos importantes da instrução, distribuindo os demais pelos seus auxiliares, dentro das normas estabelecidas pelo Instrutor-Chefe, para maior rendimento da instrução.
 
-<strong>Art</strong>. 44 - O período de tempo compreendido entre o fim de um ano escolar e o início do seguinte será destinado às férias, aos exames de segunda época, concurso de admissão, trabalhos relativos às matriculas e planejamento do ano letivo.
+**Art**. 44 - O período de tempo compreendido entre o fim de um ano escolar e o início do seguinte será destinado às férias, aos exames de segunda época, concurso de admissão, trabalhos relativos às matriculas e planejamento do ano letivo.
 
 § 1º - Os exames de segunda época serão realizados na 1ª quinzena do mês de janeiro, para os alunos do 3º ano, e, no mês de fevereiro, para os demais.
 
 § 2º - O planejamento do ano letivo será feito segundo as prescrições dos arts. 49 a 54 dêste Regulamento e levando em conta a experiência do ano anterior.
 
-<strong>Art</strong>. 49 - Na organização do horário é preciso atender de modo especial:
+**Art**. 49 - Na organização do horário é preciso atender de modo especial:
 
 a) ao tempo de duração das sessões, tempos de estudo e de instrução militar;
 
@@ -282,19 +280,19 @@ b) que o número de horas de trabalho corresponda ao esfôrço mental a que os a
 
 c) ............................d) ............................e) .............................................................................
 
-<strong>Art</strong>. 50 - Nos horários devem ser prescritos tempos de estudo, condicionados à natureza das matérias e das sessões realizadas em cada dia.
+**Art**. 50 - Nos horários devem ser prescritos tempos de estudo, condicionados à natureza das matérias e das sessões realizadas em cada dia.
 
-<strong>Art</strong>. 53 - Nos meses de junho ou julho serão concedidas férias aos alunos com duração máxima de quinze dias. A data de início será firmada pela Diretoria do Ensino do Exército.
+**Art**. 53 - Nos meses de junho ou julho serão concedidas férias aos alunos com duração máxima de quinze dias. A data de início será firmada pela Diretoria do Ensino do Exército.
 
-<strong>Art</strong>. 59. - Será marcado, um ponto, como falta a cada aula, ou sessão de instrução ao aluno que não se encontrar no local, designado para início dêsses trabalhos ou dêles retirar-se antes de seu término.
+**Art**. 59. - Será marcado, um ponto, como falta a cada aula, ou sessão de instrução ao aluno que não se encontrar no local, designado para início dêsses trabalhos ou dêles retirar-se antes de seu término.
 
 Parágrafo único - Se a falta não fôr justificada, ser-lhe-ão marcados três pontos.
 
-<strong>Art</strong>. 63 - O aluno que, durante o ano letivo, completar 180 pontos em diversos tipos de trabalho ou faltar à terça parte do número de sessões previstas para cada trabalho, será desligado. Entretanto, se as faltas resultarem de acidente em serviço ou moléstia grave, verificados pela Formação Sanitária da Escola, o desligamento só se dará ao completar 240 pontos ou faltar à metade das sessões previstas para cada trabalho.
+**Art**. 63 - O aluno que, durante o ano letivo, completar 180 pontos em diversos tipos de trabalho ou faltar à terça parte do número de sessões previstas para cada trabalho, será desligado. Entretanto, se as faltas resultarem de acidente em serviço ou moléstia grave, verificados pela Formação Sanitária da Escola, o desligamento só se dará ao completar 240 pontos ou faltar à metade das sessões previstas para cada trabalho.
 
 Parágrafo único - Os tipos de trabalho acima previstos compreendem tôdas as sessões de trabalho do Ensino Geral e da Instrução Militar.
 
-<strong>Art</strong>. 65 - Será também desligado o aluno que:
+**Art**. 65 - Será também desligado o aluno que:
 
 a) ............................................................................................................................................
 
@@ -304,21 +302,21 @@ c) ..........................d) .........................e) ....................
 
 g) fôr reprovado na maioria das aulas, inclusive instrução militar, de ano em que estiver matriculado, não podendo ser rematriculado.
 
-<strong>Art</strong>. 69 - Os alunos oriundos do meio civil que forem excluídos durante o curso por qualquer motivo, exceto por licença para tratamento de saúde, ficarão obrigados a juízo do Ministro da Guerra a completar sua instrução militar, servindo pelo prazo mínimo de seis meses em Corpos de Tropa, onde serão incluídos como soldados.
+**Art**. 69 - Os alunos oriundos do meio civil que forem excluídos durante o curso por qualquer motivo, exceto por licença para tratamento de saúde, ficarão obrigados a juízo do Ministro da Guerra a completar sua instrução militar, servindo pelo prazo mínimo de seis meses em Corpos de Tropa, onde serão incluídos como soldados.
 
 Os que vierem das fileiras do Exército serão reintegrados nas suas anteriores graduações em Unidades da mesma Arma e licenciados posteriormente, na conformidade das leis em vigor.
 
-<strong>Art</strong>. 70 - Os alunos que não objetiverem matrícula na Escola Militar, por falta de vaga, serão, se oriundos do meio civil, licenciados e incluídos na reserva com a graduação de cabo. Se provierem das fileiras, poderão a elas retornar com a graduação que tinham ao se matricularem. Caso desejem passar para a reserva, conservarão a mesma graduação, ou a de cabo se tiverem ingressado como soldado.
+**Art**. 70 - Os alunos que não objetiverem matrícula na Escola Militar, por falta de vaga, serão, se oriundos do meio civil, licenciados e incluídos na reserva com a graduação de cabo. Se provierem das fileiras, poderão a elas retornar com a graduação que tinham ao se matricularem. Caso desejem passar para a reserva, conservarão a mesma graduação, ou a de cabo se tiverem ingressado como soldado.
 
 Parágrafo único - Sempre que o ex-aluno fôr reincluído na tropa como cabo, deverá completar sua instrução, freqüentando o curso para sargentos.
 
-<strong>Art</strong>. 71 - No intuito de aquilatar o grau de aprendizagem obtido pelo aluno, nas diversas matérias e, consequentemente, o valor do ensino ministrado, serão realizados:
+**Art**. 71 - No intuito de aquilatar o grau de aprendizagem obtido pelo aluno, nas diversas matérias e, consequentemente, o valor do ensino ministrado, serão realizados:
 
 § 1º - As aproximações serão feitas na forma estabelecida pela Diretoria de Ensino.
 
 § 2º - Os valores a atribuir aos diversos itens de tôda as verificações o serão de conformidade com as “Normas para Apuração dos Trabalhos para Julgamento” da Diretoria de Ensino.
 
-<strong>Art</strong>. 73 - Os trabalhos correntes consistirão em:
+**Art**. 73 - Os trabalhos correntes consistirão em:
 
 \- verificações imediatas;
 
@@ -358,7 +356,7 @@ Serão efetuados segundo o plano de execução das matérias que os comportarem.
 
 Título - Notas dos trabalhos
 
-<strong>Art</strong>. 74 - Depois de corrigidos e julgados, os trabalhos corrente (provas escritas mensais e trabalhos gráficos) serão apresentados á Direção do Ensino da Escola para aprovação; em seguida distribuídos aos alunos sendo-lhes, nessa ocasião, apresentados os erros mais comuns cometidos e esclarecidas as dúvidas decorrentes da solução dada pelo professor.
+**Art**. 74 - Depois de corrigidos e julgados, os trabalhos corrente (provas escritas mensais e trabalhos gráficos) serão apresentados á Direção do Ensino da Escola para aprovação; em seguida distribuídos aos alunos sendo-lhes, nessa ocasião, apresentados os erros mais comuns cometidos e esclarecidas as dúvidas decorrentes da solução dada pelo professor.
 
 § 1º - Só serão fornecidos esclarecimentos sôbre notas obtidas, na sessão de entrega dos trabalhos.
 
@@ -368,21 +366,21 @@ Título - Notas dos trabalhos
 
 § 4º - Os trabalhos anulados de acôrdo com o prescrito na letra V do art. 27 dêste Regulamento, serão repetidos sob forma diferente ou, caso necessário, após uma revisão do assunto.
 
-<strong>Art</strong>. 75 - Para o fim exclusivo de conceito individual, haverá uma nota mensal de aproveitamento que será a média aritmética, simples, de tôdas as notas obtidas durante o mês.
+**Art**. 75 - Para o fim exclusivo de conceito individual, haverá uma nota mensal de aproveitamento que será a média aritmética, simples, de tôdas as notas obtidas durante o mês.
 
 Parágrafo único - Os professôres remeterão á Direção do Ensino, até dez dias antes da realização da prova escrita mensal, as notas relativas ao mês anterior.
 
-<strong>Art</strong>. 76 - O aproveitamento na instrução militar será avaliado na forma de testes padrões de instrução (T. P. I.) organizados pela Diretoria de Armas mediante proposta da D. E. E.
+**Art**. 76 - O aproveitamento na instrução militar será avaliado na forma de testes padrões de instrução (T. P. I.) organizados pela Diretoria de Armas mediante proposta da D. E. E.
 
 § 1º...............................................................§ 2º ...................................................................
 
-<strong>Art</strong>. 77 - Encerrado o ano letivo, a Direção do Ensino da Escola computará, por matéria, a conta de ano de cada aluno. Essa conta de ano resultará da média aritmética entre as notas mensais dos trabalhos correntes (provas escritas mensais e trabalhos gráficos) e visará apenas, apurar quais os alunos que serão dispensado do exame.
+**Art**. 77 - Encerrado o ano letivo, a Direção do Ensino da Escola computará, por matéria, a conta de ano de cada aluno. Essa conta de ano resultará da média aritmética entre as notas mensais dos trabalhos correntes (provas escritas mensais e trabalhos gráficos) e visará apenas, apurar quais os alunos que serão dispensado do exame.
 
-<strong>Art</strong>. 78 - Todos os alunos serão submetidos a exames de fim de ano.
+**Art**. 78 - Todos os alunos serão submetidos a exames de fim de ano.
 
 Parágrafo único - Os alunos que obtiverem conta de ano igual ou superior a cinqüenta, em uma matéria, serão dispensados do exame dessa matéria.
 
-<strong>Art</strong>. 79 - Haverá duas épocas de exame:
+**Art**. 79 - Haverá duas épocas de exame:
 
 a) uma primeira época, no mês de novembro;
 
@@ -390,7 +388,7 @@ b) uma segunda época, na primeira quinzena de janeiro, para os alunos do 3º an
 
 Parágrafo único - Proceder-se-á de forma idêntica nos exames de instrução militar.
 
-<strong>Art</strong>. 80 - Os exames de 1ª época obedecerão às seguintes prescrições gerais:
+**Art**. 80 - Os exames de 1ª época obedecerão às seguintes prescrições gerais:
 
 a) haverá um exame de 1ª época para cada matéria e para a instrução militar;
 
@@ -410,9 +408,9 @@ h) a nota zero na prova escrita por si só não inabilita o aluno, mas exige uma
 
 i) .............................................................................................................................................
 
-<strong>Art</strong>. 81 - As provas escritas sem as minúcias das provas mensais, e feitas sob o aspecto de prova objetivas, conterão todos os pontos essenciais do programa da matéria em questão; serão organizadas pela comissão designada e aprovadas pelo Comandante da Escola na forma do disposto para os trabalhos correntes.
+**Art**. 81 - As provas escritas sem as minúcias das provas mensais, e feitas sob o aspecto de prova objetivas, conterão todos os pontos essenciais do programa da matéria em questão; serão organizadas pela comissão designada e aprovadas pelo Comandante da Escola na forma do disposto para os trabalhos correntes.
 
-<strong>Art</strong>. 83 .....................................................................................................................................
+**Art**. 83 .....................................................................................................................................
 
 a) .............................................................................................................................................
 
@@ -424,15 +422,15 @@ d) o tempo para a execução das provas será calculado na conformidade do estab
 
 e) .............................................................................................................................................
 
-f) terá nota zero, além da respectiva punição, o aluno que incidir no disposto na letra <em>c</em> do art. 65;
+f) terá nota zero, além da respectiva punição, o aluno que incidir no disposto na letra *c* do art. 65;
 
 g) terminadas e recolhidas as provas, a comissão examinadora delas fará entrega à Direção do Ensino da Escola, de onde só serão retornadas para a necessária correção, que será realizada em conjunto.
 
-<strong>Art</strong>. 84 - A correção das provas escritas deverá estar terminada num prazo máximo de quinze dias após a realização, nessa ocasião as provas serão entregues à Direção do Ensino da Escola, juntamente com ata e relatório sucinto a respeito do que foi realizado.
+**Art**. 84 - A correção das provas escritas deverá estar terminada num prazo máximo de quinze dias após a realização, nessa ocasião as provas serão entregues à Direção do Ensino da Escola, juntamente com ata e relatório sucinto a respeito do que foi realizado.
 
-<strong>Art</strong>. 86 - O aluno que faltar à prova escrita de exame terá nota zero e será punido se a falta não fôr justificada. Se a falta fôr justificada, nos casos de doença grave, acidente ou nojo será submetido a exame de 2ª época, diminuindo-se o divisor de uma unidade para o cálculo da nota de aprovação de que trata o art. 88, alínea <em>a</em>. Para os alunos do 3º ano todos os exames deverão estar concluídos na 2ª quinzena de janeiro.
+**Art**. 86 - O aluno que faltar à prova escrita de exame terá nota zero e será punido se a falta não fôr justificada. Se a falta fôr justificada, nos casos de doença grave, acidente ou nojo será submetido a exame de 2ª época, diminuindo-se o divisor de uma unidade para o cálculo da nota de aprovação de que trata o art. 88, alínea *a*. Para os alunos do 3º ano todos os exames deverão estar concluídos na 2ª quinzena de janeiro.
 
-<strong>Art</strong>. 88. As prescrições para a realização dos exames de 2ª época serão as mesmas já estabelecidas para a 1ª época, considerando-se apenas a seguinte:
+**Art**. 88. As prescrições para a realização dos exames de 2ª época serão as mesmas já estabelecidas para a 1ª época, considerando-se apenas a seguinte:
 
 a) a nota de aprovação será a média aritmética simples: de cada uma das notas mensais dos trabalhos correntes (escrita ou gráfica), da prova escrita de 1ª época e da prova escrita de 2ª época;
 
@@ -444,37 +442,37 @@ d) o aluno que faltar aos exames de 1ª e 2ª épocas, e ainda a 2ª chamada, po
 
 e) o aluno que, sem causa justificada, faltar às chamadas de 2ª época, será punido e considerado reprovado.
 
-<strong>Art</strong>. 89. Só será promovido ao não seguinte o aluno aprovado em tôdas as matérias, inclusive instrução militar.
+**Art**. 89. Só será promovido ao não seguinte o aluno aprovado em tôdas as matérias, inclusive instrução militar.
 
-<strong>Art</strong>. 90. O aluno repetente, mesmo na instrução militar, freqüentará as aulas de tôdas as matérias, nas mesmas condições dos seus colegas, não repetentes. Será, em consequência, obrigado a todos os trabalhos e obtenção da nova média cinqüenta, para dispensados exames, ou média superior a 30 após os exames de 1ª e 2ª épocas, para passagem de ano.
+**Art**. 90. O aluno repetente, mesmo na instrução militar, freqüentará as aulas de tôdas as matérias, nas mesmas condições dos seus colegas, não repetentes. Será, em consequência, obrigado a todos os trabalhos e obtenção da nova média cinqüenta, para dispensados exames, ou média superior a 30 após os exames de 1ª e 2ª épocas, para passagem de ano.
 
 Parágrafo único - Nas matérias em que o aluno repetente já tenha sido aprovado, só será computada a última nota de aprovação se esta fôr superior à obtida no ano anterior tendo em vista apenas melhorar a classificação prevista no art. 93.
 
-<strong>Art</strong>. 91 - Não será permitida a freqüência no ano seguinte com dependência de qualquer matéria, inclusive instrução militar.
+**Art**. 91 - Não será permitida a freqüência no ano seguinte com dependência de qualquer matéria, inclusive instrução militar.
 
 Título - Nota de Classificação do ano
 
-<strong>Art</strong>. 92 - Os alunos aprovados em cada ano do curso serão classificados por ordem de merecimento intelectual, avaliado pela soma das notas de aprovação das diversas matérias, inclusive da instrução militar.
+**Art**. 92 - Os alunos aprovados em cada ano do curso serão classificados por ordem de merecimento intelectual, avaliado pela soma das notas de aprovação das diversas matérias, inclusive da instrução militar.
 
-<strong>Art</strong>. 93 - Terminado o curso da Escola e para os fins do artigo 95, haverá uma classificação final de curso, que será feita pela soma das notas de classificação de cada ano.
+**Art**. 93 - Terminado o curso da Escola e para os fins do artigo 95, haverá uma classificação final de curso, que será feita pela soma das notas de classificação de cada ano.
 
-<strong>Art</strong>. 95 - Os alunos das Escolas Preparatórias que terminarem os respectivos curso, e não incidam na alínea <em>d</em> do artigo 65, terão suas matrículas asseguradas na Escola Militar por ordem de merecimento intelectual, desde que satisfaçam as condições dos exames médico e físico e estejam compreendidos dentro do número de vagas fixado.
+**Art**. 95 - Os alunos das Escolas Preparatórias que terminarem os respectivos curso, e não incidam na alínea *d* do artigo 65, terão suas matrículas asseguradas na Escola Militar por ordem de merecimento intelectual, desde que satisfaçam as condições dos exames médico e físico e estejam compreendidos dentro do número de vagas fixado.
 
 § 1º - Os que não obtiverem matrícula, por falta de vaga, poderão concorrer com os demais candidatos, inscrevendo-se o concurso de admissão.
 
 § 2º - Em igualdade de condições, terão preferência para matrícula entre os candidatos que concorrerem ao concurso de admissão.
 
-<strong>Art</strong>. 96 - O ingresso nas Escolas Preparatórias se fará mediante concurso, devendo os candidatos possuir, pelo menos, o § 1º ciclo do ensino secundário, comercial, industrial ou agrícola, para a matrícula no 1º ano.
+**Art**. 96 - O ingresso nas Escolas Preparatórias se fará mediante concurso, devendo os candidatos possuir, pelo menos, o § 1º ciclo do ensino secundário, comercial, industrial ou agrícola, para a matrícula no 1º ano.
 
 Será permitida, ainda, a matrícula no 2º ou 3º ano, a juízo do Ministro da Guerra, desde que tenham completado o 1º ou o 2º ano do curso científico ou clássico, respectivamente, e tenham obtido classificação dentro do número de vagas fixada para cada ano.
 
 Parágrafo único ......................................................................................................................
 
-<strong>Art</strong>. 97. - A inscrição para o concurso será feita:
+**Art**. 97. - A inscrição para o concurso será feita:
 
 \- para as praças do Exército, Marinha e Aeronáutica, alunos do Colégio Militar e civis que satisfaçam a tôdas as exigências regulamentares, mediante petição, dirigida ao Comandante da Escola, a qual, acompanhada da documentação exigida, deverá dar entrada na Secretaria, de 1 a 31 (trinta e um) de outubro.
 
-<strong>Art</strong>. 98 - Para matrícula na Escola Preparatória o candidato deverá satisfazer às seguintes condições:
+**Art**. 98 - Para matrícula na Escola Preparatória o candidato deverá satisfazer às seguintes condições:
 
 a) ser brasileiro, na forma dos itens I e II do art. 129 da Constituição dos E. U. do Brasil de 1946;
 
@@ -500,7 +498,7 @@ f) pagar a taxa de inscrição arbitrada anualmente, pela Diretoria de ensino, d
 
 Parágrafo único - A taxa de inscrição constante dêste artigo destina-se a atender a tôdas as despesas para preparar, executar e apurar os resultados do concurso de admissão. A importância relativa às taxas pagas pelos candidatos será gerida pelo Diretor de Ensino do Exército, sob o título “Taxa de Inscrição”.
 
-<strong>Art</strong>. 99 - ...................................................................................................................................
+**Art**. 99 - ...................................................................................................................................
 
 a) ....................b) ................c) ...............d) ......................e) .......................f) .........................
 
@@ -516,21 +514,21 @@ h) ...........................................i) ...............................
 
 § 4º - Os requerimentos dos candidatos residentes fora da sede das Escolas serão enviados diretamente a estas, pelos próprios candidatos, de modo que dêem entrada na Secretaria da Escola entre 1 e 31 (trinta e um) de outubro.
 
-<strong>Art</strong>. 101 - Para admissão a essas Escolas, além dos requisitos de idade, aptidão intelectual, idoneidade moral e capacidade física, é necessário que os candidatos, pelas condições de ambiência de famílias e pelas condições políticas com reflexos no ambiente social, apresentem segurança de formação moral, compatível com as obrigações e os deveres impostos aos militares.
+**Art**. 101 - Para admissão a essas Escolas, além dos requisitos de idade, aptidão intelectual, idoneidade moral e capacidade física, é necessário que os candidatos, pelas condições de ambiência de famílias e pelas condições políticas com reflexos no ambiente social, apresentem segurança de formação moral, compatível com as obrigações e os deveres impostos aos militares.
 
 § 1º - ...........................§ 2º- .......................§ 3º - .........................§ 4º - ...............................
 
-<strong>Art</strong>. 102 - O candidato ao inscrever-se fica sujeito a tôdas as condições do concurso de admissão não lhe assistindo direito a ressarcimento de quaisquer prejuízos decorrentes do insucesso nas provas ou por falta de vaga.
+**Art**. 102 - O candidato ao inscrever-se fica sujeito a tôdas as condições do concurso de admissão não lhe assistindo direito a ressarcimento de quaisquer prejuízos decorrentes do insucesso nas provas ou por falta de vaga.
 
-<strong>Art</strong>. 105 - As inspeções de saúde serão procedidas por Juntas Médicas constituídas pelo menos por três médicos e um dentista.
+**Art**. 105 - As inspeções de saúde serão procedidas por Juntas Médicas constituídas pelo menos por três médicos e um dentista.
 
-<strong>Art</strong>. 106 - Os candidatos que residirem em localidades nas quais não funcione J. M. S. serão submetidos a inspeção de saúde na guarnição federal mais próxima de sua residência.
+**Art**. 106 - Os candidatos que residirem em localidades nas quais não funcione J. M. S. serão submetidos a inspeção de saúde na guarnição federal mais próxima de sua residência.
 
 § 1º - Os candidatos considerados aptos pela Junta Militar de Saúde da Guarnição, serão submetidos a nova inspeção de saúde pela J. M. S. Regional, por ocasião do exame intelectual.
 
 § 2º - Os candidatos que prestarem exames intelectuais na sede das escolas serão inspecionados pela J. M. S. E. da respectiva Região.
 
-<strong>Art</strong>. 107 - A inspeção de saúde será feita de acôrdo com as disposições em vigor (Instruções Reguladoras das Inspeções de Saúde e das Juntas Militares de Saúde) exceto no que seja modificado pelas presentes condições especiais.
+**Art**. 107 - A inspeção de saúde será feita de acôrdo com as disposições em vigor (Instruções Reguladoras das Inspeções de Saúde e das Juntas Militares de Saúde) exceto no que seja modificado pelas presentes condições especiais.
 
 § 1º - Os pareceres das Juntas serão resumidos sob uma das formas seguintes: “Apto para a Escola Preparatória”, incapaz temporariamente para a Escola Preparatória” e “Incapaz definitivamente para a Escola Preparatória”.
 
@@ -544,7 +542,7 @@ h) ...........................................i) ...............................
 
 § 6º - Nos casos de incapacidade temporária, os candidatos só poderão concorrer novamente à matrícula no ano letivo seguinte, desde que satisfaçam às condições exigidas.
 
-<strong>Art</strong>. 108 - A inspeção de saúde visa selecionar os candidatos, eliminando os que apresentem:
+**Art**. 108 - A inspeção de saúde visa selecionar os candidatos, eliminando os que apresentem:
 
 1\) doenças, afecções e síndromes que motivem a isenção definitiva, baixa ou reforma do Exército;
 
@@ -580,9 +578,9 @@ h) ...........................................i) ...............................
 
 Parágrafo único - Os índices 3 e 4, dêste artigo, não devem, por si sós, constituir elementos decisivos nos exames, devendo-se levar em consideração o biotipo.
 
-<strong>Art</strong>. 109 - Além dos exames do artigo anterior, e desde que as possibilidades de execução da Diretoria de Saúde do Exército o permitam, será procedido exame de nível mental, por meio dos testes de Binet-Terman e outros, a fim de eliminar os candidatos com idade mental inferior a 12 anos.
+**Art**. 109 - Além dos exames do artigo anterior, e desde que as possibilidades de execução da Diretoria de Saúde do Exército o permitam, será procedido exame de nível mental, por meio dos testes de Binet-Terman e outros, a fim de eliminar os candidatos com idade mental inferior a 12 anos.
 
-<strong>Art</strong>. 111 - O exame intelectual dos candidatos ao 1º ano constará somente de provas escritas das seguintes matérias:
+**Art**. 111 - O exame intelectual dos candidatos ao 1º ano constará somente de provas escritas das seguintes matérias:
 
 \- Português.
 
@@ -598,19 +596,19 @@ Parágrafo único - Os índices 3 e 4, dêste artigo, não devem, por si sós, c
 
 Parágrafo único - O assunto das provas será o constante dos programas da 4ª série do Curso Ginasial.
 
-<strong>Art</strong>. 112 - As provas do concurso de admissão aos 2º e 3º anos serão escritas e abrangerão as partes essenciais de tôda as matérias lecionadas na escola:
+**Art**. 112 - As provas do concurso de admissão aos 2º e 3º anos serão escritas e abrangerão as partes essenciais de tôda as matérias lecionadas na escola:
 
 \- no 1º ano, para a admissão ao 2º;
 
 \- nos 1º e 2º anos, para a admissão ao 3º.
 
-<strong>Art</strong>. 113 - A Diretoria de Ensino do Exército baixará instruções, nomeará uma ou mais comissões para organização das provas, aplicação aos candidatos, correção, apuração dos resultados e cômputo final, considerando-se os resultados da inspeção de saúde, teste de nível mental e exame intelectual.
+**Art**. 113 - A Diretoria de Ensino do Exército baixará instruções, nomeará uma ou mais comissões para organização das provas, aplicação aos candidatos, correção, apuração dos resultados e cômputo final, considerando-se os resultados da inspeção de saúde, teste de nível mental e exame intelectual.
 
 § 1º - As instruções para matrícula baixadas pela Diretoria de Ensino fixação as condições de execução das provas.
 
 § 2º - As provas serão do tipo “provas objetivas”, devendo em cada prova haver uma parte de testes que permita a “evocação de lembranças” (testes de completar ou enumerar) e outra que permita o “reconhecimento de lembranças” (testes de correspondência, escolha múltipla, problemas, etc.).
 
-<strong>Art</strong>. 114 - As comissões de que trata o artigo anterior serão as seguintes:
+**Art**. 114 - As comissões de que trata o artigo anterior serão as seguintes:
 
 \- comissão de organização e preparação material das provas;
 
@@ -620,7 +618,7 @@ Parágrafo único - O assunto das provas será o constante dos programas da 4ª 
 
 Parágrafo único - A composição destas comissões será fixada pela Diretoria de Ensino do Exército, cabendo a indicação dos professores e oficias das Escolas aos respectivos Comandantes.
 
-<strong>Art</strong>. 115 - Para o julgamento das provas obedecer-se-á ao seguinte:
+**Art**. 115 - Para o julgamento das provas obedecer-se-á ao seguinte:
 
 a) a comissão designada para organização das provas apresentará, juntamente com estas o barema no qual constarão os valores a atribuir a cada resposta certa, bem como ao encaminhamento certo das soluções. As “Normas para Apuração dos Trabalhos para Grau” serão observadas no que fôr aplicável;
 
@@ -628,9 +626,9 @@ b) as notas serão expressas em números inteiros de zero a cem, aproximados de 
 
 c) a autoria das provas será conservada em anonimato até a terminação dos trabalhos de apuração dos resultados.
 
-<strong>Art</strong>. 116 - Os pormenores de execução não constantes dêste Regulamento serão fixados nas instruções para o concurso de admissão, organizadas pela Diretoria de Ensino do Exército.
+**Art**. 116 - Os pormenores de execução não constantes dêste Regulamento serão fixados nas instruções para o concurso de admissão, organizadas pela Diretoria de Ensino do Exército.
 
-<strong>Art</strong>. 117 - ................................................................................................................................
+**Art**. 117 - ................................................................................................................................
 
 a) ...............................b) ...................................c) ..................................................................
 
@@ -640,17 +638,17 @@ e) obtiver média para admissão igual ou inferior a 30 (trinta);
 
 f) ..............................................................................................................................................
 
-<strong>Art</strong>. 118 - A nota de aprovação será o número de pontos obtidos nas diferentes provas, correspondente à média superior a 30 (trinta).
+**Art**. 118 - A nota de aprovação será o número de pontos obtidos nas diferentes provas, correspondente à média superior a 30 (trinta).
 
-<strong>Art</strong>. 119 - A classificação final será feita segundo a ordem decrescente do número de pontos obtidos.
+**Art**. 119 - A classificação final será feita segundo a ordem decrescente do número de pontos obtidos.
 
 Parágrafo único - Dar-se-á conhecimento aos interessados apenas do resultado constante da classificação final e, mediante certidão, dos resultados parciais.
 
-<strong>Art</strong>. 120 - Terminados os trabalhos do concurso de admissão, a Diretoria de Ensino do Exército publicará a relação dos candidatos aprovados, observada a ordem decrescentes de classificação, da qual enviará cópia as escolas, até 15 de fevereiro.
+**Art**. 120 - Terminados os trabalhos do concurso de admissão, a Diretoria de Ensino do Exército publicará a relação dos candidatos aprovados, observada a ordem decrescentes de classificação, da qual enviará cópia as escolas, até 15 de fevereiro.
 
-<strong>Art</strong>. 121 - O Comandante da Escola fica autorizado a matricular os candidatos julgados aptos no exame médico, segundo a ordem de classificação geral apresentada pela Diretoria de Ensino do Exército e dentro do número de vagas fixadas pelo Ministro da Guerra.
+**Art**. 121 - O Comandante da Escola fica autorizado a matricular os candidatos julgados aptos no exame médico, segundo a ordem de classificação geral apresentada pela Diretoria de Ensino do Exército e dentro do número de vagas fixadas pelo Ministro da Guerra.
 
-<strong>Art</strong>. 122 - ................................................................................................................................
+**Art**. 122 - ................................................................................................................................
 
 § 1º - .......................................................................................................................................
 
@@ -668,7 +666,7 @@ b) Dentre os civis:
 
 \- os de idade maior.
 
-Art. 124 - Os candidatos receberão na ocasião da matrícula, o enxoval regulamentar, mediante a indenização de que trata a letra <em>g</em> do artigo 99 dêste Regulamento.
+Art. 124 - Os candidatos receberão na ocasião da matrícula, o enxoval regulamentar, mediante a indenização de que trata a letra *g* do artigo 99 dêste Regulamento.
 
 Art. 130 - Os alunos do Colégio Militar possuidores do curso ginasial completo ou do 1º ou 2º ano do curso científico, que obtiverem nota de aprovação seis ou superior, em cada uma das matérias exigidas no concurso de admissão às Escolas Preparatórias, ficam dispensados do exame intelectual e terão suas matrículas: asseguradas, com preferência sôbre os demais candidatos civis, desde que satisfaçam às demais condições para matrícula e haja vaga.
 
@@ -706,4 +704,4 @@ g) Sala de Meios Auxiliares.
 
 Art. 188 - O uniforme dos alunos será o constante do plano especial aprovado pelo Govêrno.
 
-<strong>GEN. CANROBERT P. DA COSTA</strong>
+**GEN. CANROBERT P. DA COSTA**

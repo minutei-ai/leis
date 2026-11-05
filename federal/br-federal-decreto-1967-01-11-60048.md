@@ -1,5 +1,3 @@
-###DEC-060048-0-000-11-01-1967@@@
-
 DECRETO Nº 60.048, DE 11 DE JANEIRO DE 1967.
 
 Altera dispositivos do Regulamento de Continências, Honras e Sinais de Respeito das Fôrças Armadas, aprovado pelo Decreto nº 8.736, de 10 de fevereiro de 1942.

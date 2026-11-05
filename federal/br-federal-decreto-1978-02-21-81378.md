@@ -1,5 +1,3 @@
-###DEC-081378-0-000-21-02-1978@@@
-
 Decreto nº 81 378, de 21 de fevereiro de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do imóvel que menciona, situado no Município de Vitória de Santo Antão, Estado de Pernambuco.

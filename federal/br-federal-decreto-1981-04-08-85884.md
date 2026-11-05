@@ -1,5 +1,3 @@
-###DEC-085884-0-000-08-04-1981@@@
-
 Decreto nº 85.884, de 08 de abril de 1981.
 
 Declara perempta concessão outorgada à RÁDIO GAZETA DE ALAGOAS LTDA., para executar serviço de radiodifusão sonora em onda tropical na cidade de Maceió, Estado de Alagoas.

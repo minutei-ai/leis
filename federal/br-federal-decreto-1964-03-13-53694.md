@@ -1,5 +1,3 @@
-###DEC-053694-0-000-13-03-1964@@@
-
 DECRETO Nº 53.694, DE 13 DE MARÇO DE 1964.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação do equipamento novo sem similar nacional registrado, neste descrito e consignado à emprêsa “Cotonifício Capibaribe S.A.” de Recife (Pe).
@@ -14,7 +12,97 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinente ao motor elétrico que acompanha a máquina, a importação do equipamento novo, sem similar nacional registrado, a seguir descrito e consignado a “Cotinifício Capibaribe S.A., de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Filatório de Anel Toyoda”, tipo RX-1, de 100. Fusos 76,2mm (3”) distância de fuso, 292 mm, (9”) de alça, armaçao de 686mm (27”) de largura, preparada para acinamento individual de motor com arranque elétrico como amortecedor, cabeçote coberto (motor não incluído). Inclusive:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Indicador de 3 turnos, fuso para bobina de pepelão, parada automática de bobina cheia e movimento para baixo de enrolamento do porta-anéis, aparêlho de regualagem mancal de velocidade de fuso por meio de polia de passe variado, encaixe do rolamento de rôlo (SKFHF-3), polias de rolamento (NSKSR-7).................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1 conj.</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.835</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Motor de indução de 15 HP-4P, com interruptor de botão de pontos..</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1 jôgo</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>310</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Acessórios:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Correia em V, tipo A 56.........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encaixe de fuso SKF HP-2....................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>600</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Polia tensora de fita de fuso NKS-SR 270P..........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>100</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>125</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Braço contrabalançado por pêndulo SKF PK 211E60 com 3 árvores e berços de rolamento de esfera.........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>200</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.320</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nihon Epindles Pneumanize completo com caixa de filtro, soprador de motor (1 HP) e interruptores............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>570</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encapamento de borracha sintética......................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>800</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>96</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Corda de esteira superior (borracha sintética)......................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>64</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Corda de esteira inferior (couro)...........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>280</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Calibre de ajustagem para PK211E60..................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1 jôgo</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ferramentas de ajustagem e calibre para máquina principal...............</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1 jôgo</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>740</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fabricação de “C. Itoh &amp; Co. Ltd. Osaca, Japão”</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL...................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>13.963</span></p></td></tr></tbody></table>
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+Filatório de Anel Toyoda”, tipo RX-1, de 100. Fusos 76,2mm (3”) distância de fuso, 292 mm, (9”) de alça, armaçao de 686mm (27”) de largura, preparada para acinamento individual de motor com arranque elétrico como amortecedor, cabeçote coberto (motor não incluído). Inclusive:
+
+Indicador de 3 turnos, fuso para bobina de pepelão, parada automática de bobina cheia e movimento para baixo de enrolamento do porta-anéis, aparêlho de regualagem mancal de velocidade de fuso por meio de polia de passe variado, encaixe do rolamento de rôlo (SKFHF-3), polias de rolamento (NSKSR-7).................................
+
+1 conj.
+
+9.835
+
+Motor de indução de 15 HP-4P, com interruptor de botão de pontos..
+
+1 jôgo
+
+310
+
+Acessórios:
+
+Correia em V, tipo A 56.........................................................................
+
+5
+
+3
+
+Encaixe de fuso SKF HP-2....................................................................
+
+400
+
+600
+
+Polia tensora de fita de fuso NKS-SR 270P..........................................
+
+100
+
+125
+
+Braço contrabalançado por pêndulo SKF PK 211E60 com 3 árvores e berços de rolamento de esfera.........................................................
+
+200
+
+1.320
+
+Nihon Epindles Pneumanize completo com caixa de filtro, soprador de motor (1 HP) e interruptores............................................................
+
+1
+
+570
+
+Encapamento de borracha sintética......................................................
+
+800
+
+96
+
+Corda de esteira superior (borracha sintética)......................................
+
+400
+
+64
+
+Corda de esteira inferior (couro)...........................................................
+
+400
+
+280
+
+Calibre de ajustagem para PK211E60..................................................
+
+1 jôgo
+
+20
+
+Ferramentas de ajustagem e calibre para máquina principal...............
+
+1 jôgo
+
+740
+
+Fabricação de “C. Itoh &amp; Co. Ltd. Osaca, Japão”
+
+TOTAL...................................................................................................
+
+-
+
+13.963
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito ao motor elétrico na descrição retro, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmo seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

@@ -1,5 +1,3 @@
-###DEC-054910-0-000-04-11-1964@@@
-
 DECRETO Nº 54.910, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Maurício dos Santos Erthal a pesquisar minérios de ferro, de ouro e de manganês, no município de Nova Era, Estado de Minas Gerais.

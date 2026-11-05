@@ -1,5 +1,3 @@
-###DEC-067037-0-000-12-08-1970@@@
-
 Decreto nº 67.037, de 12 de agôsto de 1970.
 
 Declara de utilidade pública a associação "Obras Sociais Nossa Senhora da Glória de Passagem de Mariana", com sede no Município de Mariana, Estado de Minas Gerais.

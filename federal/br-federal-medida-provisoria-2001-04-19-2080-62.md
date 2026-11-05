@@ -1,5 +1,3 @@
-###MPV-002080-0-062-19-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.080-62, DE 19 DE ABRIL DE 2001
 
 Altera os arts. 1º, 4º, 14, 16 e 44, e acresce dispositivos à Lei nº 4.771, de 15 de setembro de 1965, que institui o Código Florestal, bem como altera o art. 10 da Lei n9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, e dá outras providências.

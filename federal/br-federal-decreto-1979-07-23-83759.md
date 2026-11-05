@@ -1,5 +1,3 @@
-###DEC-083759-0-000-23-07-1979@@@
-
 decreto nº 83.759, de 23 de julho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados nos Municípios de Corumbá e Ladário, Estado de Mato Grosso do Sul.

@@ -1,5 +1,3 @@
-###DEC-070752-0-000-23-06-1972@@@
-
 DECRETO Nº 70.752, de 23 de junho de 1972.
 
 Redistribui cargo, com a respectiva ocupante, para o Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

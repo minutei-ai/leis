@@ -1,5 +1,3 @@
-###MPV-001835-0-004-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.835-4,    DE 29 DE JUNHO DE 1999.
 
 Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências.

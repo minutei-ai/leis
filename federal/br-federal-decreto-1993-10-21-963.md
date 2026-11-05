@@ -1,7 +1,3 @@
-1
-
-###DEC-000963-0-000-21-10-1993@@@
-
 DECRETO N° 963, DE 21 DE OUTUBRO DE 1993
 
 Dispõe sobre extinção de Grande Comando de Arma e dá outras providências.

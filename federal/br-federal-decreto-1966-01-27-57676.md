@@ -1,5 +1,3 @@
-###DEC-057676-0-000-27-01-1966@@@
-
 Decreto nº 57.676, de 27 de janeiro de 1966.
 
 Reorganiza a Comissão de Coordenação de Inquéritos e Sindicâncias e dá outras providências.

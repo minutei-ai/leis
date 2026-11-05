@@ -1,5 +1,3 @@
-###DEC-054471-0-000-14-10-1964@@@
-
 DECRETO Nº 54.471, DE 14 DE OUTUBRO DE 1964.
 
 Transfere à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica no Município de Espumoso, Estado do Rio Grande do Sul.

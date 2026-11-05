@@ -1,5 +1,3 @@
-###DEC-076005-0-000-23-07-1975@@@
-
 Decreto Nº 76.005 - DE 23 DE JULHO DE 1975.
 
 Outorga a Furnas - Centrais Elétricas S.A, concessão para o aproveitamento progressivo da energia hidráulica de trechos do rio Jequitinhonha nos locais denominados Salto da Divisão e Itapebi, nos Estados de Minas Gerais e Bahia.

@@ -1,5 +1,3 @@
-###DEC-053804-0-000-23-03-1964@@@
-
 decreto nº 53.804, de 23 de março de 1964.
 
 Estende ao pessoal marítimo e naval do Departamento Nacional de Portos e Vias Navegáveis o disposto nos contratos coletivos de trabalho em vigor.

@@ -1,5 +1,3 @@
-###DEC-084089-0-000-16-10-1979@@@
-
 decreto nº 84.089 de 16 outubro de 1979.
 
 Revoga o Decreto nº 83.697/79, que declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão, em favor de Petróleo Brasileiro S.A .- PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

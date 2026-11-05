@@ -1,5 +1,3 @@
-###DEC-092986-0-000-24-07-1986@@@
-
 DECRETO Nº 92.986, DE 24 DE JULHO DE 1986
 
 Outorga concessão à RÁDIO URUBICI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Urubici, Estado de Santa Catarina.

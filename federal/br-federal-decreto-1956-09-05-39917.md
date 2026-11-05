@@ -1,14 +1,12 @@
-###DEC-039917-0-000-05-09-1956@@@
+**DECRETO Nº 39.917, DE 5 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 39.917, DE 5 DE SETEMBRO DE 1956.</strong>
+***Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA** usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong> usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, aprovada pelo Decreto nº 37.583, de 11 de Julho de 1955, para efeito de serem transferidos os seguintes cargos:
+**Art**. 1º Fica alterada a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, aprovada pelo Decreto nº 37.583, de 11 de Julho de 1955, para efeito de serem transferidos os seguintes cargos:
 
 a) um da carreira de Médico Sanitarista, com o respectivo ocupante, Agostinho da Cunha e Castro, da lotação permanente da Divisão do Pessoal, do Departamento de Administração, para igual lotação da Divisão de Fomento da Produção Mineral, do Departamento Nacional de Produção Mineral;
 
@@ -24,12 +22,12 @@ f) um da carreira de Oficial Administrativo, com o respectivo ocupante, Maria Fr
 
 g) um da carreira de Veterinário com o respectivo ocupante, Lino Custódio de Almeida e Silva, da lotação permanente da Fazenda Experimental de Criação de Desengano (Juparanã) do Instituto de Zootecnia do Departamento Nacional da Produção Animal, para igual lotação da sede do referido Instituto do mesmo Departamento
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de Setembro de 1956, 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

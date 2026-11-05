@@ -1,5 +1,3 @@
-###DEC-096780-0-000-27-09-1988@@@
-
 DECRETO N° 96.780, DE 27 DE SETEMBRO DE 1988
 
 Outorga concessão à REDE DINÂMICA DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ubá, Estado de Minas Gerais.

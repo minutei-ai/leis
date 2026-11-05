@@ -1,5 +1,3 @@
-###DEC-073888-0-000-02-04-1974@@@
-
 decreto nº de 73.888, de 2 de abril de 1974.
 
 Cassa a concessão outorgada à Rádio Jornal de Bauru Ltda., para estabelecer uma estação de radiodifusão sonora em onda média na cidade de Bauru, Estado de São Paulo.

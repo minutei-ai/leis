@@ -1,5 +1,3 @@
-###DEC-052471-0-000-13-09-1963@@@
-
 DECRETO Nº 52.471, DE 13 DE SETEMBRO DE 1963.
 
 Estabelece normas para o desenvolvimento da Indústria químico-farmacêutica nacional, e institui o Grupo Executivo da Indústria Químico-Farmacêutica - GEIFAR e dá outras providências.

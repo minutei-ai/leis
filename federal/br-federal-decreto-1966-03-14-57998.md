@@ -1,5 +1,3 @@
-###DEC-057998-0-000-14-03-1966@@@
-
 DECRETO N.º 57.998, DE 14 DE MARÇO DE 1966
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Estado do Rio de Janeiro.

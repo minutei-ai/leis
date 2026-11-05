@@ -1,5 +1,3 @@
-###DEC-076572-0-000-07-11-1975@@@
-
 DECRETO Nº 76.572, DE 7 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Palatinato, da Companhia Brasileira de Energia Elétrica - CBEE no Município de Petrópolis, Estado do Rio de Janeiro.

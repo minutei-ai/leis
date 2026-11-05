@@ -1,5 +1,3 @@
-###DEL-005724-0-000-04-08-1943@@@
-
 DECRETO‑LEI N. 5.724 – DE 4 DE AGôSTO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 90.000.000,00 para pagamentos de juros de “Obrigações de Guerra"

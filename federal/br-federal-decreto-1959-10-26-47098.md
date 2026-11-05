@@ -1,5 +1,3 @@
-###DEC-047098-0-000-26-10-1959@@@
-
 decreto nº 47.098, de 26 de outubro de 1959.
 
 Transfere, sem aumento de despesa, função de tabela Numérica Especial de Extranumerários-mensalistas do Ministério da Fazenda.

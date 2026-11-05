@@ -1,5 +1,3 @@
-###DEC-060729-0-000-19-05-1967@@@
-
 DECRETO Nº 60.729, DE 19 DE MAIO DE 1967.
 
 Autoriza o funcionamento dos Cursos de História e de Pedagogia da Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória, Paraná.

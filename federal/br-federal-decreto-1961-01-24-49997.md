@@ -1,5 +1,3 @@
-###DEC-049997-0-000-24-01-1961@@@
-
 DECRETO Nº 49.997, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro José da Silva Marques a pesquisar minério de manganês no município de Pindobaçu, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-056468-0-000-16-06-1965@@@
-
 decreto nº 56.468, de 16 de junho de 1965.
 
 Retifica o Decreto nº 52.794, de 31 de outubro de 1963, que aprovou o enquadramento definitivo do Ministério da Educação e Cultura.
@@ -75,8 +73,6 @@ Brasília, 1º de junho de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Flávio Lacerda
-
-###DEC-056468-0-000-16-06-1965@@@RET01+++
 
 DECRETO Nº 56.468, DE 16 DE JUNHO de 1965.
 

@@ -1,5 +1,3 @@
-###DEC-083071-0-000-23-01-1979@@@
-
 DECRETO Nº 83.071, DE 23 DE JANEIRO DE 1979
 
 Declara de utilidade púbica, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

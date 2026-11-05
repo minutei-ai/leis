@@ -1,5 +1,3 @@
-###DEL-005216-0-000-22-01-1943@@@
-
 DECRETO‑LEI N. 5.216 – DE 22 DE JANEIRO DE 1943
 
 Modifica o art. 3º do decreto n. 86, de 14 de março de 1935

@@ -1,5 +1,3 @@
-###DEL-003169-0-000-02-04-1941@@@
-
 DECRETO-LEI N. 3.169 – DE 2 DE ABRIL DE 1941
 
 Dispõe sobre o penhor do sal e de coisas destinadas à exploração de salinas

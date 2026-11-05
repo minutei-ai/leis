@@ -1,5 +1,3 @@
-###DEC-005522-0-000-25-08-2005@@@
-
 DECRETO Nº 5.522, DE 25 DE AGOSTO DE 2005.
 
        Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
          Luiz Fernando Furlan
-
-Este texto não substitui o publicado no DOU de 26.8.2005

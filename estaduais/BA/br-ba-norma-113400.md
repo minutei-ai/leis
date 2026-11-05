@@ -34,60 +34,65 @@ Art. 6º - Ficam fixados os vencimentos unitários, mensais de Pessoal do Magist
 
 a) Carreira de Professor Primário
 
-<table border="1" cellspacing="0" cellpadding="0" width="265" style="width:7.0cm;
- margin-left:177.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="height:13.6pt"><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.6pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="">Primeira classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.6pt"><p class="Tabela-Texto"><span>Cr$3.000,00<quebra></quebra></span></p></td></tr><tr style="height:13.6pt"><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.6pt"><p class="Tabela-Texto"><span>Segunda classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.6pt"><p class="Tabela-Texto"><span>3.000,00<quebra></quebra></span></p></td></tr><tr style="height:13.6pt"><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.6pt"><p class="Tabela-Texto"><span>Terceira classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.6pt"><p class="Tabela-Texto"><span>3.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+Primeira classe<quebra></quebra>
+
+Cr$3.000,00<quebra></quebra>
+
+Segunda classe<quebra></quebra>
+
+3.000,00<quebra></quebra>
+
+Terceira classe<quebra></quebra>
+
+3.000,00<quebra></quebra>
 
 b)Carreira de Inspetor de Ensino
 
-<table border="1" cellspacing="0" cellpadding="0" width="265" style="width:7.0cm;
- margin-left:177.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Primeira classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="font-family:&quot;Courier New&quot;">Segunda classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.900,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Terceira classe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.400,00<quebra></quebra></span></p></td></tr></tbody></table>
+Primeira classe<quebra></quebra>
+
+6.000,00<quebra></quebra>
+
+Segunda classe<quebra></quebra>
+
+5.900,00<quebra></quebra>
+
+Terceira classe<quebra></quebra>
+
+5.400,00<quebra></quebra>
 
 c)Cargos Isolados
 
-<table border="1" cellspacing="0" cellpadding="0" width="265" style="width:7.0cm;
- margin-left:177.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Catedráticos de estabelecimento de ensino médio da Capital<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>8.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Assistente de ensino médio da Capital Secretário de Colégio<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000,00<quebra></quebra></span></p><p class="Tabela-Texto"><span>6.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Catedrático de estabelecimento de ensino médio do Interior<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>6.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Assistente do ensino médio do Interior<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Técnico de Educação<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.000,00<quebra></quebra></span></p></td></tr><tr><td width="170" valign="top" style="width:127.6pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar de Fiscalização do Ensino Pedagógico<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>3.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+Catedráticos de estabelecimento de ensino médio da Capital<quebra></quebra>
+
+<quebra></quebra>
+
+8.000,00<quebra></quebra>
+
+Assistente de ensino médio da Capital Secretário de Colégio<quebra></quebra>
+
+6.000,00<quebra></quebra>
+
+6.000,00<quebra></quebra>
+
+Catedrático de estabelecimento de ensino médio do Interior<quebra></quebra>
+
+<quebra></quebra>
+
+6.000,00<quebra></quebra>
+
+Assistente do ensino médio do Interior<quebra></quebra>
+
+4.000,00<quebra></quebra>
+
+Técnico de Educação<quebra></quebra>
+
+8.000,00<quebra></quebra>
+
+Auxiliar de Fiscalização do Ensino Pedagógico<quebra></quebra>
+
+<quebra></quebra>
+
+3.000,00<quebra></quebra>
 
 Art. 7º - Ficam mantidas as equiparações decorrentes do artigo 3º, § 4º, do Ato das Disposições Constitucionais Transitórias e do [artigo 6º da Lei nº 397 de 08 de março de 1951](https://www.legislabahia.ba.gov.br/documentos/lei-no-397-de-08-de-marco-de-1951#LO_397_Art__6) .
 
@@ -179,4 +184,4 @@ Cargos Isolados:
 
 (\*) Quadro em construção
 
-* * *
+ *

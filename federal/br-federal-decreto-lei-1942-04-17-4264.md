@@ -1,5 +1,3 @@
-###DEL-004264-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.264 – DE 17 DE ABRIL DE 1942
 
 Dispõe sobre a execução do decreto-lei n. 4.188, de 17 de março de 1942

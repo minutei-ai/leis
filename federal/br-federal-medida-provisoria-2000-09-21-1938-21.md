@@ -1,5 +1,3 @@
-###MPV-001938-0-021-21-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.398-21, DE 21 DE SETEMBRO DE 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

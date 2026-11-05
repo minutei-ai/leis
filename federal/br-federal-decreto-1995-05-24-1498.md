@@ -1,7 +1,3 @@
-1
-
-###DEC-001498-0-000-24-05-1995@@@
-
 DECRETO Nº 1.498, DE 24 DE MAIO DE 1995
 
 Constitui Comissão Especial de Revisão dos Processos de Anistia de que trata a Lei nº 8.878, de 11 de maio de 1994.

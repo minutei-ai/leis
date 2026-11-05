@@ -1,5 +1,3 @@
-###DEC-096819-0-000-28-09-1988@@@
-
 DECRETO N° 96.819, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO DIFUSORA DE SÃO JORGE D'OESTE LTDA., para explorar serviço de rádio difusão sonora em onda média, na Cidade de São Jorge D'Oeste, Estado do Paraná.

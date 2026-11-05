@@ -1,5 +1,3 @@
-###DEC-046863-0-000-16-09-1959@@@
-
 decreto nº 46.863, de 16 de setembro de 1959.
 
 Renova o Decreto nº 41.452, de 6 de maio de 1957.

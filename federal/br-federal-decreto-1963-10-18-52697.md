@@ -1,5 +1,3 @@
-###DEC-052697-0-000-18-10-1963@@@
-
 DECRETO Nº 52.697, DE 18 DE OUTUBRO DE 1963.
 
 Autoriza o cidadão brasileiro Custódio Netto Jr. a pesquisar minério de ferro no município de São Felix do Xingu, Estado do Pará.

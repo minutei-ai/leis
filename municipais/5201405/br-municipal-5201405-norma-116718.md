@@ -4,7 +4,8 @@ DA ESTIMATIVA DA RECEITA Estima a receita e fixa a despesa do município de Apar
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1° Esta Lei estima a receita e fixa a despesa do Município de Aparecida de Goiânia para o exercício financeiro de 2018, nos termos do art. 165, §5º, da Constituição Federal de 1988, e do art. 6º da Lei Municipal nº 3.363, de 22 de junho de 2017 - Lei de Diretrizes Orçamentárias para 2018, no montante de R$ 1.133.234.475,00 (um bilhão, cento e trinta e três milhões, duzentos e trinta e quatro mil e quatrocentos e setenta e cinco reais), compreendendo:
@@ -13,7 +14,8 @@ I - Orçamento Fiscal referente aos Poderes do Município, Órgãos, Fundos inst
 
 II - Orçamento da Seguridade Social, abrangendo todos os Órgãos a eles vinculados, Fundos instituídos e mantidos pelo Poder Público Municipal e Entidades a Administração Direta e Indireta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
 Seção I
@@ -28,7 +30,8 @@ DA FIXAÇÃO DA DESPESA
 
 Art. 4º A Despesa Total está fixada em R$ 1.133.234.475,00 (um bilhão, cento e trinta e três milhões, duzentos e trinta e quatro mil e quatrocentos e setenta e cinco reais).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS ADICIONAIS
 
 Art. 5º Fica o Poder Executivo autorizado a abrir por decreto, créditos adicionais suplementares até 75% (setenta e cinco por cento) do limite estabelecido no art. 24, inciso I, da Lei Municipal nº 3.363/2017, observado o
@@ -47,12 +50,14 @@ IV – anulação de valor alocado na reserva de contingência, observado o art.
 
 V – repasse de recursos financeiros através de transferências financeiras recebidas de convênios, contratos, ajustes ou acordos firmados com órgãos federais, estaduais e municipais.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS OPERAÇÕES DE CRÉDITO
 
 Art. 7º Fica o Poder Executivo municipal autorizado a realizar operações de créditos por antecipação de receita, com a finalidade de manter o equilíbrio orçamentário financeiro do Município observadas as condições estabelecidas no art. 7º, inciso II, da Lei Federal nº 4.320/1964, e art. 38, da Lei Complementar n° 101/2000 - LRF, e os preceitos legais aplicáveis à matéria.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 8º O Chefe do Poder Executivo, nos termos da Lei Municipal nº 3.363/2017, adotará parâmetros para utilização dos recursos orçamentários de forma a compatibilizar as despesas à efetiva realização das receitas, visando o cumprimento das metas de resultado primário.
@@ -95,14 +100,18 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 28 de
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
-Chefe da Casa Civil<br>
+AFONSO BOAVENTURA
+
+Chefe da Casa Civil
+
 EINSTEIN A.
 
-FERREIRA PANIAGO<br>
+FERREIRA PANIAGO
+
 Secretário de Transparência, Fiscalização e Controle
 
 [ANEXO I - DEMONSTRATIVO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19025)

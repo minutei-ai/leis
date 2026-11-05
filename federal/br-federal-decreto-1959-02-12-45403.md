@@ -1,5 +1,3 @@
-###DEC-045403-0-000-12-02-1959@@@
-
 decreto nº 45.403, de 12 de fevereiro de 1959.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Formosa (Go).

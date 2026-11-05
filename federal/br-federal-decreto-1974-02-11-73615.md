@@ -1,5 +1,3 @@
-###DEC-073615-0-000-11-02-1974@@@
-
 DECRETO Nº 73.615, de 11 de fevereiro de 1974.
 
 Dispõe sobre o sistema Medico-Pericial do Serviço Público Federal Civil e dá outras providências.

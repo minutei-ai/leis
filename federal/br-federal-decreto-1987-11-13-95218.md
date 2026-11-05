@@ -1,5 +1,3 @@
-###DEC-095218-0-000-13-11-1987@@@
-
 DECRETO N° 95.218, DE 13 DE NOVEMBRO DE 1987
 
 Delega competência ao Ministro da Aeronáutica para aprovar os Planos referentes às Zonas de Proteção de que trata o § 2° do Art. 44 da Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica e dá outras providências.

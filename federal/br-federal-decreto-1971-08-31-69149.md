@@ -1,5 +1,3 @@
-###DEC-069149-0-000-31-08-1971@@@
-
 DECRETo Nº 69.149, DE 31 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública o Lar de Meimei, com sede em Cambuquira, Estado de Minas Gerais.

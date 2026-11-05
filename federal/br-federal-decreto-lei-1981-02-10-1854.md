@@ -1,7 +1,3 @@
-1
-
-###DEL-001854-0-000-10-02-1981@@@
-
 # DECRETO-LEI Nº 1.854, DE 10 DE FEVEREIRO DE 1981
 
 Dispõe sobre a renúncia, pela União ao domínio direto de áreas situadas no Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base Aérea e à implantação do Aeroporto de Guarulhos.

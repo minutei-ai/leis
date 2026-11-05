@@ -1,5 +1,3 @@
-###DEL-001726-0-000-07-12-1979@@@
-
 # DECRETO-LEI Nº 1.726, de 07 de dezeMbro de 1979
 
 Dispõe sobre isenção ou redução fiscal na importação.

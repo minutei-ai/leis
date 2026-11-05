@@ -1,5 +1,3 @@
-###DEC-093650-0-000-05-12-1986@@@
-
 DECRETO Nº 93.650, DE 5 DE DEZEMBRO DE 1986
 
 Concede à Companhia Siderúrgica Paulista - COSIPA (GRUPO SIDERBRÁS), autorização para proceder a aumento do seu capital social.

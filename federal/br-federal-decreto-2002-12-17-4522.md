@@ -1,5 +1,3 @@
-###DEC-004522-0-000-17-12-2002@@@
-
 DECRETO N. 4.522 – DE 17 DE DEZEMBRO DE 2002
 
 Dispõe sobre o Sistema de Geração e Tramitação de Documentos Oficiais – SIDOF, e dá outras providências.

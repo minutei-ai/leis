@@ -1,5 +1,3 @@
-###DEC-088420-0-000-21-06-1983@@@
-
 DECRETO Nº 88.420, DE 21 DE JUNHO DE 1983
 
 Dispõe sobre a navegação e marinha mercante, estabelece as condições de apoio e estímulo à marinha mercante; trata da estruturação dos órgãos de execução da política de navegação e marinha mercantes e dá outras providências.

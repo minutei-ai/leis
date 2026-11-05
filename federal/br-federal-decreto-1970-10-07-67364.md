@@ -1,5 +1,3 @@
-###DEC-067364-0-000-07-10-1970@@@
-
 DECRETO Nº 67.364, DE 7 DE OUTUBRO DE 1970.
 
 Autoriza a contratação de empréstimos que menciona, e dá outras providências.

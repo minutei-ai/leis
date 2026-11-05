@@ -1,5 +1,3 @@
-###DEC-055038-0-000-18-11-1964@@@
-
 DECRETO Nº 55.038, DE 18 DE NOVEMBRO DE 1964.
 
 Retifica o enquadramento do Ministério da Educação e Cultura, aprovado pelo Decreto nº 52.794, de 31 de outubro de 1963.

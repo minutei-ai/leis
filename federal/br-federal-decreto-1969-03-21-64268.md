@@ -1,5 +1,3 @@
-###DEC-064268-0-000-21-03-1969@@@
-
 decreto 64.268, de 21 de março de 1969.
 
 Concede ao cidadão brasileiro Socrates Bomfim o direito de lavrar minério de ferro no município de Urucará, Estado do Amazonas.

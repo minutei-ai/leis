@@ -1,5 +1,3 @@
-###DEC-051001-0-000-19-07-1961@@@
-
 DECRETO Nº 51.001, DE 19 DE JULHO DE 1961.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de cêra de carnaúba de produção nacional para a safra de 1961-62.
@@ -12,7 +10,21 @@ Art. 1º Fica assegurada à cêra de carnaúba de origem de produção nacional 
 
 a) Preços:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 1 ...................................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$6.785,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 2 ...................................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$6.537,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 3 ...................................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$5.296,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 4 ...................................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$4.965,00</span></p></td></tr></tbody></table>
+Tipo 1 ...................................................................................................................
+
+Cr$6.785,00
+
+Tipo 2 ...................................................................................................................
+
+Cr$6.537,00
+
+Tipo 3 ...................................................................................................................
+
+Cr$5.296,00
+
+Tipo 4 ...................................................................................................................
+
+Cr$4.965,00
 
 b) financiamento de 80% (oitenta por cento) dos preços acima estipulados;
 

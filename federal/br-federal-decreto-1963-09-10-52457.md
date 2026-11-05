@@ -1,5 +1,3 @@
-###DEC-052457-0-000-10-09-1963@@@
-
 DECRETO Nº 52.457, DE 10 DE SETEMBRO DE 1963.
 
 Altera o Decreto nº 51.538, de 22 de agôsto de 1962, que criou funções gratificadas no Quadro do Pessoal do Ministério da Aeronáutica, e dá outras providências.

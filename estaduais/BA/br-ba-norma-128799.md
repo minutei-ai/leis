@@ -1,6 +1,7 @@
 LEI Nº 13.217 DE 30 DE DEZEMBRO DE 2014
 
-Ver também:<br>
+Ver também:
+
 Art. 3º da [Lei nº 13.967](https://www.legislabahia.ba.gov.br/documentos/Lei%20n%C2%BA%2013.967), de 14 de junho de 2018: "Ficam extintos 05 (cinco) cargos de Juiz Substituto de Segundo Grau, criados pela Lei nº 13.217, de 30 de dezembro de 2014."
 
 Altera dispositivos da Lei nº 13.145, de 03 de abril de 2014, o art. 38 da Lei nº 10.845, de 27 de novembro de 2007, e dá outras providências.

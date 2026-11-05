@@ -1,5 +1,3 @@
-###DEC-049808-0-000-31-12-1960@@@
-
 DECRETO Nº 49.808, DE 31 DE DEZEMBRO DE 1960.
 
 Declara de utilidade pública o instituto de Artes e Ofícios Divina Providência.

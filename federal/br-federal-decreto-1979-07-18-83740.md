@@ -1,5 +1,3 @@
-###DEC-083740-0-000-18-07-1979@@@
-
 decreto nº 83.740, de 18 de julho de 1979.
 
 Institui o Programa Nacional de Desburocratização e dá outras providências.

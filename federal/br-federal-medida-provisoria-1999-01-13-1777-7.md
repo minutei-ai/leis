@@ -1,5 +1,3 @@
-###MPV-001777-0-007-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.777-7, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa Crédito Educativo, e determina outras providências.

@@ -1,5 +1,3 @@
-###DEC-052348-0-000-12-08-1963@@@
-
 DECRETO Nº 52.348, DE 12 DE AGÔSTO DE 1963.
 
 Dispõe sôbre o acréscimo bienal, de que trata o art. 160 do Regulamento aprovado pelo Decreto nº 1.918, de 27 de agôsto de 1937 e dá outras providências.

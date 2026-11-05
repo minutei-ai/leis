@@ -1,30 +1,28 @@
-###DEC-036220-0-000-23-09-1954@@@
+**DECRETO Nº 36.220, DE 23 DE SETEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.220, DE 23 DE SETEMBRO DE 1954.</strong>
+***Aprova o Regimento da Colônia Penal Cândido Mendes.***
 
-<em><strong>Aprova o Regimento da Colônia Penal Cândido Mendes.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Colônia Penal Cândido Mendes que, assinado pelo Ministro de Estado da Justiça e Negócios interiores, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Colônia Penal Cândido Mendes que, assinado pelo Ministro de Estado da Justiça e Negócios interiores, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 23 de setembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes
 
-<strong>REGIMENTO DA COLÔNIA PENAL CÂNDIDO MENDES</strong>
+**REGIMENTO DA COLÔNIA PENAL CÂNDIDO MENDES**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Colônia Penal Cândido Mendes (C.P.C.M.), órgão integrante do Ministério da Justiça e Negócios Interiores (M.J.N.I.), diretamente subordinado ao Ministro de Estado, tem por finalidade recolher:
+**Art**. 1º A Colônia Penal Cândido Mendes (C.P.C.M.), órgão integrante do Ministério da Justiça e Negócios Interiores (M.J.N.I.), diretamente subordinado ao Ministro de Estado, tem por finalidade recolher:
 
 I - Os condenados à pena de prisão simples, enquanto não existir estabelecimento adequado;
 
@@ -36,11 +34,11 @@ IV - em Seção Especial, os condenados à internação prevista no artigo 88, �
 
 VI - mediante transferência e observadas as disposições legais e regulamentares, presos condenados por justiça estadual.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A C.P.C.M. constitui-se dos seguintes órgãos:
+**Art**. 2º A C.P.C.M. constitui-se dos seguintes órgãos:
 
 Serviço Penitenciário (S.P.)
 
@@ -48,7 +46,7 @@ Serviço de Administração (S.A.)
 
 Parágrafo único. Subordinda, diretamente, ao Diretor, funcionará a Comissão Biotipológica de Investigação e Reajustamento (C.B.I.R.), instituída pelo artigo 11 do Decreto nº 32.630, de 27 de abril de 1953.
 
-<strong>Art</strong>. 3º O S.P. compreende:
+**Art**. 3º O S.P. compreende:
 
 Seção de Assistência e Cadastro (S.A.C.)
 
@@ -58,7 +56,7 @@ Seção de Readaptação (S.R.)
 
 Seção de Saúde (S.S.)
 
-<strong>Art</strong>. 4º O S.A. compreende:
+**Art**. 4º O S.A. compreende:
 
 Seção de Administração (S.Ad.)
 
@@ -84,25 +82,25 @@ Turma de Transportes (T.T.)
 
 Turma de Barbearia e Cantina (T.B.C.)
 
-<strong>Art</strong>. 5º A C.P.C.M. terá um Diretor, nomeado em comissão, pelo Presidente da República.
+**Art**. 5º A C.P.C.M. terá um Diretor, nomeado em comissão, pelo Presidente da República.
 
 Parágrafo único. O Diretor terá um Secretário.
 
-<strong>Art</strong>. 6º As Seções terão chefes, designados pelo Diretor, por proposta dos Chefes de Serviço.
+**Art**. 6º As Seções terão chefes, designados pelo Diretor, por proposta dos Chefes de Serviço.
 
 Parágrafo único. As Turmas terão Encarregados, designados pelo Diretor, por proposta do Chefe do S.A.
 
-<strong>Art</strong>. 7º Os órgãos que integram a C.P.C.M. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
+**Art**. 7º Os órgãos que integram a C.P.C.M. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<em>Do S.P.</em>
+*Do S.P.*
 
-<strong>Art</strong>. 8º Ao S.P., órgão, de administração específica, compete o desempenho das atividades relativas à execução do regime penitenciário.
+**Art**. 8º Ao S.P., órgão, de administração específica, compete o desempenho das atividades relativas à execução do regime penitenciário.
 
-<strong>Art</strong>. 9º À S.A.C. compete:
+**Art**. 9º À S.A.C. compete:
 
 I - Prestar assistência judiciária aos sentenciados e presos, quer examinando-lhes a situação em face de direitos e benefícios legais, quer redigindo e encaminhando as petições relativas a êsses direitos;
 
@@ -146,7 +144,7 @@ XX - observar as instruções expedidas e atender às providências determinadas
 
 XXI - comunicar, diàriamente, ao S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 10. Compete à S.V:
+**Art**. 10. Compete à S.V:
 
 I - receber os sentenciados e presos no momento em que cheguem à C.P.C.;
 
@@ -172,7 +170,7 @@ XI - zelar pela higiene pessoal dos sentenciados e presos, atendendo às recomen
 
 XII - comunicar, diàriamente, ao S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 11. Compete à S.R:
+**Art**. 11. Compete à S.R:
 
 I - propor à chefia do S.P. a distribuição dos sentenciados e presos pelos diferentes setores da C.P.O.M., atendendo às prescrições do regime penitenciário.
 
@@ -214,7 +212,7 @@ XIX - comunicar, diàriamente, ao S. A. as ocorrências que devam ser incluídas
 
 XX - controlar a freqüência diária dos sentenciados e presos nos diversos trabalhos e remetê-la à S.A.C.
 
-<strong>Art</strong>. 12. Compete à S.S.:
+**Art**. 12. Compete à S.S.:
 
 I - proceder ao exame médico e odontológico dos sentenciados e presos recolhidos à C.P. C M.;
 
@@ -256,15 +254,15 @@ XIX - Zelar pela salubridade da C.P.C.M;
 
 XX - comunicar, diàriamente ao S.A. as ocorrências que devam ser incluídas no boletim de serviço.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do S.A.</em>
+*Do S.A.*
 
-<strong>Art</strong>. 13. Ao S.A compete promover as medidas necessárias à execução das atividades de administração geral.
+**Art**. 13. Ao S.A compete promover as medidas necessárias à execução das atividades de administração geral.
 
 Parágrafo único. O S.A. funcionará articulado com o D.A. do M.J.N.I. observado as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>Art</strong>. 14. Compete à S.Ad.
+**Art**. 14. Compete à S.Ad.
 
 I - de modo geral, executar as providencias necessárias ao cumprimento das atribuições relativas áàadministração de pessoal, material, orçamento e comunicações; e
 
@@ -304,7 +302,7 @@ q) superitender os serviçoes de telefonia e radiotelegrafia da C.P.C.M.;
 
 r) organizar e distritubir, diàriamente, o boletim de Serviço.
 
-<strong>Art</strong>. 15. Compete ao A:
+**Art**. 15. Compete ao A:
 
 I - conferir, receber, escriturar e conservar o material requisitado pela C.P.C.M. e a ela fornecido;
 
@@ -316,9 +314,9 @@ IV- atender aos pedidos de material formulados pelos diversos órgãos da C.P.C.
 
 V - encaminhar ao S. A., diáriamente, um boletim do movimento do material.
 
-<strong>Art</strong>. 16. Compete à S.E.I., a execução dos serviços de cozinha, refeitório, rouparia, lavandaria, limpeza, reparos, jardinagem, transportes e cantina dos presos da C.P.C.M.
+**Art**. 16. Compete à S.E.I., a execução dos serviços de cozinha, refeitório, rouparia, lavandaria, limpeza, reparos, jardinagem, transportes e cantina dos presos da C.P.C.M.
 
-<strong>Art</strong>. 17 À T.A., que compreende a Dispensa, a Cozinha e a padaria, compete:
+**Art**. 17 À T.A., que compreende a Dispensa, a Cozinha e a padaria, compete:
 
 I - por intérmedio da Dispensa:
 
@@ -344,9 +342,9 @@ b) zelar pela segurança e perfeito funcionamento das isntalações e comunicar,
 
 c) manter em estado de perfeito asseio a padaria, suas instalações, pertences e utencílios.
 
-<strong>Art</strong>. 18. Compete à T.C.R distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório as suas instalações e todo o material de uso e recolher as sobras das refeições para aplicação na ração dos animais da C P C M
+**Art**. 18. Compete à T.C.R distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório as suas instalações e todo o material de uso e recolher as sobras das refeições para aplicação na ração dos animais da C P C M
 
-<strong>Art</strong>. 19. Compete à T.R.L.:
+**Art**. 19. Compete à T.R.L.:
 
 I - guarda as roupas de propriedade pessoal dos setenciaos e prêsos;
 
@@ -360,9 +358,9 @@ V - marcar e numerar tôda a roupa;
 
 VI - providênciar a fim de que se encaminhe ao S.A., para devida baixa, a roupa inutilizada.
 
-<strong>Art</strong>. 20 compete à T.L executar os serviços de asseio e higienização em tôdas as dependências da C.P.C.M, exceto na dispensa, cozinha, padaria, copa, refeitório e residência de servidores.
+**Art**. 20 compete à T.L executar os serviços de asseio e higienização em tôdas as dependências da C.P.C.M, exceto na dispensa, cozinha, padaria, copa, refeitório e residência de servidores.
 
-<strong>Art</strong>. 22 Compete à T.T:
+**Art**. 22 Compete à T.T:
 
 I - guardar, consertar e reparar os veículos marítimos e terrestres da C.P.C.M.,
 
@@ -374,17 +372,17 @@ IV - controlar e entrada e saída dos veículos e respectivos condutores;
 
 V - inteira-se, com antecedência, das necessidades de tranportes, a fim de planejar a execução do serviço diário, de maneira que seja obtido o máximo rendimento do material e do pessoal.
 
-<strong>Art</strong>. 23. Compete à T.B.C.:
+**Art**. 23. Compete à T.B.C.:
 
 I - cortar o cabelo dos sentenciados e prêsos e barbeá-los, de acôrdo com a escala estabelecida pela S.V.;
 
 II - manter pequeno estoque de objeto de toucador, cigarros e artigos semelhantes, a fim de vendê-los aos sentenciados e prêsos pelo preço de custo.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 24. Ao Diretor incumbe:
+**Art**. 24. Ao Diretor incumbe:
 
 I - despachar com o Ministro de Estado.
 
@@ -476,7 +474,7 @@ XLIV - distribuir os imóveis destinados a residências, considerando a situaç�
 
 XLV - prestar ao engenheiro residente a colaboração indispensável, em especial no que disser respeito a pessoal e material para obras.
 
-<strong>Art</strong>. 25. Compete aos Chefes de Serviço:
+**Art**. 25. Compete aos Chefes de Serviço:
 
 I - despachar com o Diretor;
 
@@ -506,7 +504,7 @@ XIII - acompanhar o comprimento dos programas anuais de trabalho, por meio de re
 
 XIV - designar os substitutos os Chefes de Seção, de acôrdo com a indicação dêstes.
 
-<strong>Art</strong>. 26 Ao Chefe do S.P. incumbe ainda:
+**Art**. 26 Ao Chefe do S.P. incumbe ainda:
 
 I - assistir ao desembarque dos sentenciados e presos e ao exame de sua documentação, e propor imediatamente ao Diretor as providênciais que lhe parecerem cabíveis, quanto aos que não a tiverem completa;
 
@@ -520,7 +518,7 @@ V - promover e orientar a realização de estudos e pesquisas de natureza técni
 
 VI - providenciar para que e todos os sentenciados e presos, desde que o permitam as suas condições de saúde, se atribuam atividades produtivas, regulamente, observadas, tanto quanto possível, as habilitações profissionais.
 
-<strong>Art</strong>. 27. Aos Chefes de Seção incube:
+**Art**. 27. Aos Chefes de Seção incube:
 
 I - dirigir a Seção respectiva;
 
@@ -546,9 +544,9 @@ XII - comunicar, imediatamente, por escrito, ao Chefe da S.R. qualquer ocorrênc
 
 XIII - fazer apresentar à S. V., no término dos turnos de trabalho, os sentenciados e presos em serviço.
 
-<strong>Art</strong>. 28. Ao Chefe da S. S. compete, ainda, remeter, diàriamente, ao Diretor, por intermédio do Chefe do S. P., o boletim do movimento do dia anterior.
+**Art**. 28. Ao Chefe da S. S. compete, ainda, remeter, diàriamente, ao Diretor, por intermédio do Chefe do S. P., o boletim do movimento do dia anterior.
 
-<strong>Art</strong>. 29. Ao Chefe da S. R. compete, ainda:
+**Art**. 29. Ao Chefe da S. R. compete, ainda:
 
 I - designar, para cada auxiliar de ensino, a classe que deve reger;
 
@@ -556,9 +554,9 @@ II - desingar os auxiliares de ensino para fazer preleções, e determinar os t�
 
 III - superintender e fiscalizar os trabalhos das classes e orientar os auxiliares de ensino.
 
-<strong>Art</strong>. 30. Ao Chefe da S.E.I. compete, ainda, comunicar, diàriamente, ao S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
+**Art**. 30. Ao Chefe da S.E.I. compete, ainda, comunicar, diàriamente, ao S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 31. Ao Secretário do Diretor incumbe:
+**Art**. 31. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto por tratar;
 
@@ -566,29 +564,29 @@ II - representar o Diretor, quando para isso fôr desingado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 32. Aos demais servidores incumbe realizar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 32. Aos demais servidores incumbe realizar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 33. A C.P.C.M. terá a lotação que fôr aprovada em decreto.
+**Art**. 33. A C.P.C.M. terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além de funcionários, a C.P.C.M. poderá ter pessoal extranumerário.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 34. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecidas para o Serviço Público Civil.
+**Art**. 34. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecidas para o Serviço Público Civil.
 
-<strong>Art</strong>. 35. O Diretor organizará as escalas de plantões do pessoal, observado o disposto no artigo anterior.
+**Art**. 35. O Diretor organizará as escalas de plantões do pessoal, observado o disposto no artigo anterior.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 36. Serão substituídos, automàticamente, em suas faltas e impedimentos até 30 dias;
+**Art**. 36. Serão substituídos, automàticamente, em suas faltas e impedimentos até 30 dias;
 
 I - O Diretor, pelo Chefe do S.P. e na falta dêste, pelo Chefe do S.A.;
 
@@ -598,13 +596,13 @@ III - O Chefe do S.A. pelo Chefe da S.Ad.;
 
 IV - Os Chefes de Seção pelos servidores prèviamente designados para seus substitutos pelo Chefe do respectivo serviço.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 37. Os guardas subordinam-se ao Chefe da Seção em que estiverem servindo e, ainda quando em função de monitor ou qualquer outra, têm como atribuição precípua a vigilância dos sentenciados e presos.
+**Art**. 37. Os guardas subordinam-se ao Chefe da Seção em que estiverem servindo e, ainda quando em função de monitor ou qualquer outra, têm como atribuição precípua a vigilância dos sentenciados e presos.
 
-<strong>Art</strong>. 38. As construções e as obras do reparo e conservação de bens imóveis e seus equipamentos, na C.P.C.M., inclusivo as estradas de rodagem e o estaleiro, ficam a cargo de engenheiro designado pela Divisão de Obras (D. Obs.) do D.A. do M.J.N.I., repartição a que ficará subordinado, técnica e administrativamente.
+**Art**. 38. As construções e as obras do reparo e conservação de bens imóveis e seus equipamentos, na C.P.C.M., inclusivo as estradas de rodagem e o estaleiro, ficam a cargo de engenheiro designado pela Divisão de Obras (D. Obs.) do D.A. do M.J.N.I., repartição a que ficará subordinado, técnica e administrativamente.
 
 § 1º Para cumprimento do disposto neste artigo, haverá uma Residência de Obras, que atenderá aos serviços da C.P.C.M. e da Colônia Agrícola do Distrito Federal.
 
@@ -614,12 +612,12 @@ IV - Os Chefes de Seção pelos servidores prèviamente designados para seus sub
 
 § 4º O engenheiro deverá comunicar à D.Ob., quinzenalmente, os serviços realizados e os em realização.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>DISPOSIÇÃO TRANSITÓRIA</em>
+*DISPOSIÇÃO TRANSITÓRIA*
 
-<strong>Art</strong>. 39. O presente Regimento será revisto seis meses após ter encontrado em execução, a fim de proceder-se aos reajustamentos e emendas indicadas por sua aplicação.
+**Art**. 39. O presente Regimento será revisto seis meses após ter encontrado em execução, a fim de proceder-se aos reajustamentos e emendas indicadas por sua aplicação.
 
 Rio de Janeiro, 23 de setembro de 1954.
 
-<strong>MIGUEL SEABRA FAGUNDES</strong>
+**MIGUEL SEABRA FAGUNDES**

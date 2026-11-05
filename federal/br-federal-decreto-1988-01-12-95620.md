@@ -1,7 +1,3 @@
-1
-
-###DEC-095620-0-000-12-01-1988@@@
-
 # DECRETO N° 95.620, DE 12 DE JANEIRO DE 1988
 
 Dispõe sobre o aumento do capital social da Valenorte Alumínio Ltda.

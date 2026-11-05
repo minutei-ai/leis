@@ -1,5 +1,3 @@
-###DEC-077563-0-000-07-05-1976@@@
-
 DECRETO Nº 77.563, DE 7 DE MAIO DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A - ELETROSUL, no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-087729-0-000-19-10-1982@@@
-
 Decreto nº 87.729, de 19 de outubro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

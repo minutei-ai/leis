@@ -1,6 +1,10 @@
 > **LEI Nº 4.496, DE 03 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a dissolução da Comissão de Extinção do Instituto de Gestão de Saúde do Acre - IGESAC e altera a Lei nº 3.779, de 1º de setembro de 2021, que extingue o Instituto de Gestão de Saúde do Acre - IGESAC e cria quadro de pessoal em extinção no âmbito da Secretaria de Estado de Saúde - SESACRE, para tratar de providências de transição.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a dissolução da Comissão de Extinção do Instituto de Gestão de Saúde do Acre - IGESAC e altera a Lei nº 3.779, de 1º de setembro de 2021, que extingue o Instituto de Gestão de Saúde do Acre - IGESAC e cria quadro de pessoal em extinção no âmbito da Secretaria de Estado de Saúde - SESACRE, para tratar de providências de transição.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-000918-0-000-08-09-1993@@@
-
 # DECRETO Nº 918, DE 8 DE SETEMBRO DE 1993
 
 Dispõe sobre a elaboração do PLANO PLURIANUAL PARA O DESENVOLVIMENTO DO SETOR MINERAL, e dá outras providências.

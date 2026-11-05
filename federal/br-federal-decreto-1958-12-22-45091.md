@@ -1,5 +1,3 @@
-###DEC-045091-0-000-22-12-1958@@@
-
 decreto nº 45.091 de 22 de dezembro de 1958.
 
 Autoriza estrangeiros a adquirir o domínio pleno do terreno que menciona, situado no Distrito Federal.

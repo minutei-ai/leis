@@ -1,5 +1,3 @@
-###DEC-004430-0-000-18-10-2002@@@
-
 DECRETO Nº 4.430, DE 18 DE OUTUBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Fazenda, e dá outras providências.

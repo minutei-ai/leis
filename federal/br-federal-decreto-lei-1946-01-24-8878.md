@@ -1,5 +1,3 @@
-###DEL-008878-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.878 – DE 24 DE JANEIRO DE 1946
 
 Concede pensão especial aos herdeiros de Joanésio Coelho Pires

@@ -1,5 +1,3 @@
-###DEC-079570-0-000-25-04-1977@@@
-
 Decreto nº 79.570, de 25 de abril de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

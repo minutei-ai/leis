@@ -1,5 +1,3 @@
-###DEC-092516-0-000-04-04-1986@@@
-
 DECRETO Nº 92.516, DE 4 DE ABRIL DE 1986
 
 Outorga concessão à RÁDIO CLUB DE NOVA AURORA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nova Aurora, Estado do Paraná.

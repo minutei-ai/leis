@@ -1,5 +1,3 @@
-###DEC-051040-0-000-25-07-1961@@@
-
 decreto nº 51.040, de 25 de juLho de 1961.
 
 Autoriza a Companhia de Eletricidade do Alto Rio Grande a constituir hipoteca dos bens e instalações da usina de Camargos, no Rio Grande, Estado de Minas Gerais, em favor do Banco Nacional do Desenvolvimento Econômico.

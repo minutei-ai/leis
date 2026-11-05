@@ -1,5 +1,3 @@
-###DEL-007443-0-000-05-04-1945@@@
-
 DECRETO-LEI N. 7.443 – DE 5 DE ABRIL DE 1945
 
 Suspende pelo prazo de trinta dias o vencimento de obrigações exigíveis ao Municípios de Petrópolis e no Distrito de Patí do AIferes, do Município de Vassouras, no Estado do Rio de Janeiro, e dá outras providências.

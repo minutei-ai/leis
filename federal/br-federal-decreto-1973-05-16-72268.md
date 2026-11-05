@@ -1,5 +1,3 @@
-###DEC-072268-0-000-16-05-1973@@@
-
 DECRETO Nº 72.268, DE 16 MAIO DE 1973.
 
 Declara a caducidade dos Decretos que menciona.

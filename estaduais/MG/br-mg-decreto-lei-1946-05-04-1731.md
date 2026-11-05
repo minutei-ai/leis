@@ -353,7 +353,3 @@ Art. 39 – Este, decreto-lei entrará em vigor na data de sua publicação, rev
 Palácio da Liberdade, em Belo Horizonte, aos 7 de maio de 1946.
 
 João Tavares Corrêa Beraldo - Interventor Federal.
-
-\================================================================
-
-Data da última atualização: 21/9/2016.

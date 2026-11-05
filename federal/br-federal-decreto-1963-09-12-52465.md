@@ -1,5 +1,3 @@
-###DEC-052465-0-000-12-09-1963@@@
-
 DECRETO Nº 52.465, DE 12 DE SETEMBRO DE 1963.
 
 Dispõe sôbre feriado bancário.

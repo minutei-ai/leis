@@ -1,5 +1,3 @@
-###DEC-084893-0-000-08-07-1980@@@
-
 Decreto nº 84.893, de 08 de julho de 1980.
 
 Altera o artigo 26 do Regimento da Ordem do Mérito do Trabalho, aprovado pelo Decreto 62.819, de 4 de junho de 1968.

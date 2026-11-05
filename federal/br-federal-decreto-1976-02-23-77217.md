@@ -1,5 +1,3 @@
-###DEC-077217-0-000-23-02-1976@@@
-
 DECRETO Nº 77.217, DE 23 DE FEVEREIRO DE 1976.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

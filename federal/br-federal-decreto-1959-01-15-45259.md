@@ -1,5 +1,3 @@
-###DEC-045259-0-000-15-01-1959@@@
-
 DECRETO Nº 45.259, DE 15 DE JANEIRO DE 1959.
 
 Outorga ao Govêrno do Estado de Santa Catarina concessão para o aproveitamento progressivo da energia hidráulica da cachoeira do Miguel existente no rio Luiz Alves, distrito de Luiz Alves, município de Itajaí, Estado de Santa Catarina.
@@ -39,8 +37,6 @@ Rio de Janeiro, 15 de janeiro de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-045259-0-000-15-01-1959@@@RET01+++
 
 Decreto nº 45.259, de 15 de janeiro de 1959.
 

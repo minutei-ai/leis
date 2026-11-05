@@ -1,5 +1,3 @@
-###DEC-004657-0-000-28-03-2003@@@
-
 DECRETO Nº 4.657, DE 28 DE MARÇO DE 2003.
 
 Prorroga o prazo para a aplicação do disposto nos arts. 5º e 7º do Decreto nº 4.434, de 21 de outubro de 2002, que dispõe sobre a apuração da antigüidade dos integrantes das Carreiras Jurídicas da Advocacia-Geral da União.

@@ -1,5 +1,3 @@
-###DEC-079225-0-000-08-02-1977@@@
-
 DECRETO Nº 79.225, DE 8 DE FEVEREIRO DE 1977.
 
 Altera dispositivo do Decreto número 75.716 de 1975, de 12 de maio, que concedeu reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras "Tibiriçá", com sede na cidade de São Paulo.

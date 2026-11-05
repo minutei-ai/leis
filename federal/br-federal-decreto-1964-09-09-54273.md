@@ -1,5 +1,3 @@
-###DEC-054273-0-000-09-09-1964@@@
-
 DECRETO Nº 54.273, DE 9 DE SETEMBRO DE 1964.
 
 Altera o art. 2º do Decreto nº 54.083, de 31 de julho de 1964.

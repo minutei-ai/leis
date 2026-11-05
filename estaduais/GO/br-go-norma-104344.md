@@ -8,8 +8,10 @@ TÍTULO I
 
 **DAS DISPOSIÇÕES PRELIMINARES**
 
-CAPÍTULO I<br>
-\- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).<br>
+CAPÍTULO I
+
+\- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
+
 DO OBJETO
 
 Art. 1º Fica instituído o Código de Bem-Estar Animal, que estabelece normas para a proteção, defesa e preservação dos animais que se encontrem no espaço territorial do Estado de Goiás.
@@ -24,8 +26,10 @@ III – conscientizar a sociedade e assegurar sua participação nas atividades 
 
 Art. 2º Os animais serão alvo de políticas públicas garantidoras de sua existência digna, a fim de que o meio ambiente, bem de uso comum do povo e essencial à sadia qualidade de vida dos seres vivos, mantenha-se ecologicamente equilibrado para as presentes e futuras gerações.
 
-CAPÍTULO II<br>
-\- [Renumerado pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).<br>
+CAPÍTULO II
+
+\- [Renumerado pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
+
 ~~CAPÍTULO I~~
 
 DA POLÍTICA ESTADUAL DE BEM-ESTAR ANIMAL
@@ -66,31 +70,40 @@ b) atendimento veterinário em tratamentos clínicos, cirúrgicos, castração, 
 
 c) doação de insumos e equipamentos necessários para funcionamento de espaços que abrigam os animais, tais como, ração, produtos de limpeza, medicamentos, e outros produtos para pets.
 
-XIII – promoção e valorização de cuidadores comunitários;<br>
+XIII – promoção e valorização de cuidadores comunitários;
+
 \- [Acrescido pela Lei nº 22.917, de 8-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109366).
 
-XIV – (VETADO).<br>
+XIV – (VETADO).
+
 \- [Acrescido pela Lei nº 22.917, de 8-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109366).
 
-Art. 4º-A O Poder Público estadual instituirá a Campanha de Conscientização sobre a Cinomose Canina, com o objetivo de promover ações educativas para informar a população sobre a transmissão, os sintomas, as formas de prevenção e os tratamentos da doença.<br>
+Art. 4º-A O Poder Público estadual instituirá a Campanha de Conscientização sobre a Cinomose Canina, com o objetivo de promover ações educativas para informar a população sobre a transmissão, os sintomas, as formas de prevenção e os tratamentos da doença.
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-Parágrafo único. São diretrizes da Campanha prevista no caput:<br>
+Parágrafo único. São diretrizes da Campanha prevista no caput:
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-I – a divulgação:<br>
+I – a divulgação:
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-a) das formas de transmissão da cinomose canina;<br>
+a) das formas de transmissão da cinomose canina;
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-b) dos sintomas mais comuns da doença, como perda de apetite, febre, diarreia, vômito, corrimento ocular e paralisias;<br>
+b) dos sintomas mais comuns da doença, como perda de apetite, febre, diarreia, vômito, corrimento ocular e paralisias;
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-c) de informações sobre a existência de tratamentos, que serão prescritos por médico veterinário;<br>
+c) de informações sobre a existência de tratamentos, que serão prescritos por médico veterinário;
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
-II – o incentivo à adoção de medidas de prevenção, como a vacinação polivalente e evitar o contato do filhote com outros cães antes de vaciná-lo contra a cinomose.<br>
+II – o incentivo à adoção de medidas de prevenção, como a vacinação polivalente e evitar o contato do filhote com outros cães antes de vaciná-lo contra a cinomose.
+
 \- [Acrescido pela Lei nº 22.588, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108567/lei-22588).
 
 TÍTULO II
@@ -149,14 +162,16 @@ XXI – veículo de tração animal – todo meio de transporte de carga ou de p
 
 XXII – trânsito montado – utilização do animal como meio de transporte de pessoa sobre seu dorso, sem a existência de carga.
 
-Art. 6º  Para os efeitos desta Lei, entende-se como maus-tratos, abuso ou crueldade praticados contra animais:<br>
+Art. 6º  Para os efeitos desta Lei, entende-se como maus-tratos, abuso ou crueldade praticados contra animais:
+
 \- [Redação dada pela Lei Nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
 ~~Art. 6º Para os efeitos desta Lei, e sem prejuízo das definições e penalidades previstas na Lei nº [20.629](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100832/lei-20629), de 8 de novembro de 2019, entende-se como maus-tratos, abuso ou crueldade praticados contra animais:~~
 
 I – abandonar o animal, em quaisquer circunstâncias ou idade, em áreas públicas ou privadas;
 
-~~II – privar o animal de água ou alimento;~~<br>
+~~II – privar o animal de água ou alimento;~~
+
 \- [Revogado pela Lei nº 22.647, de 29-4-2024, art 3º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
 III – atrelar animais a veículos sem os apetrechos indispensáveis, ou com arreios incompletos e incômodos, ou ainda, em mau estado, com acréscimo de acessórios que os molestem ou perturbem o funcionamento de seu organismo;
@@ -165,7 +180,8 @@ IV – descer ladeiras com veículos de tração animal sem utilização das res
 
 V – deixar de revestir com couro ou material com idêntica qualidade de proteção as correntes atreladas aos animais de tiro (tração);
 
-~~VI – ter animais, para quaisquer fins, encerrados juntamente com outros que os aterrorizem, provoquem lutas entre si ou os molestem, sejam eles da mesma espécie ou de espécies diferentes;~~<br>
+~~VI – ter animais, para quaisquer fins, encerrados juntamente com outros que os aterrorizem, provoquem lutas entre si ou os molestem, sejam eles da mesma espécie ou de espécies diferentes;~~
+
 \- [Revogado pela Lei nº 22.647, de 29-4-2024, art 3º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
 VII – ter animais destinados à venda, em locais que não reúnam as condições de higiene e comodidades relativas, observadas as determinações advindas das autoridades e órgãos competentes;
@@ -180,37 +196,48 @@ XI – ofender ou agredir os animais, física e/ou psicologicamente, sujeitando�
 
 XII – sacrificar animais com venenos ou outros métodos não preconizados pela Organização Mundial de Saúde – OMS e pela Organização de Saúde Animal – OIE, e regulamentados pelo Conselho Federal de Medicina Veterinária nos programas de profilaxia da raiva, da leishmaniose ou qualquer outra zoonose de risco fatal.
 
-XIII – em caso de atropelamento, o motorista ou o passageiro de veículo automotor, ciclomotor, motocicleta ou bicicleta deixar de prestar imediato socorro ao animal atropelado ou, não podendo fazê–lo diretamente, sem justa causa, deixar de solicitar auxílio da autoridade pública.<br>
+XIII – em caso de atropelamento, o motorista ou o passageiro de veículo automotor, ciclomotor, motocicleta ou bicicleta deixar de prestar imediato socorro ao animal atropelado ou, não podendo fazê–lo diretamente, sem justa causa, deixar de solicitar auxílio da autoridade pública.
+
 \- [Acrescido pela Lei nº 21.958, de 23-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107167/lei-21958).
 
-XIV – deixar o animal em confinamento, acorrentamento ou alojamento inadequado, por meio das seguintes práticas, dentre outras:<br>
+XIV – deixar o animal em confinamento, acorrentamento ou alojamento inadequado, por meio das seguintes práticas, dentre outras:
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-a) restringir a liberdade de locomoção dos animais, por meio de aprisionamento permanente ou rotineiro do animal a um objeto estacionário por períodos contínuos;<br>
+a) restringir a liberdade de locomoção dos animais, por meio de aprisionamento permanente ou rotineiro do animal a um objeto estacionário por períodos contínuos;
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-b) colocar os animais em alojamentos ou locais que não respeitem as condições adequadas a seu bem-estar, observando-se:<br>
+b) colocar os animais em alojamentos ou locais que não respeitem as condições adequadas a seu bem-estar, observando-se:
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-1\. dimensões apropriadas à espécie, necessidade e tamanho do animal;<br>
+1\. dimensões apropriadas à espécie, necessidade e tamanho do animal;
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-2\. espaço suficiente para ampla movimentação;<br>
+2\. espaço suficiente para ampla movimentação;
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-3\. incidência de sol, luz, sombra e ventilação;<br>
+3\. incidência de sol, luz, sombra e ventilação;
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-4\. fornecimento de alimento e água limpos e adequados à espécie, além de contínuo atendimento das suas necessidades, incluindo atendimento veterinário;<br>
+4\. fornecimento de alimento e água limpos e adequados à espécie, além de contínuo atendimento das suas necessidades, incluindo atendimento veterinário;
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-5\. asseio e conservação de higiene do alojamento e do próprio animal; e<br>
+5\. asseio e conservação de higiene do alojamento e do próprio animal; e
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-6\. restrição de contato com outros animais que os aterrorizem, provoquem lutas entre si ou os molestem, sejam eles da mesma espécie ou de espécies diferentes, ou ainda com animais portadores de doenças.<br>
+6\. restrição de contato com outros animais que os aterrorizem, provoquem lutas entre si ou os molestem, sejam eles da mesma espécie ou de espécies diferentes, ou ainda com animais portadores de doenças.
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
-§ 1º Pratica também maus-tratos, abuso ou crueldade toda pessoa física e/ou jurídica que:<br>
+§ 1º Pratica também maus-tratos, abuso ou crueldade toda pessoa física e/ou jurídica que:
+
 \- [Constituído § 1º com nova redação pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
 ~~Parágrafo único. Pratica também maus-tratos, abuso ou crueldade toda pessoa física e/ou jurídica que:~~
@@ -221,7 +248,8 @@ II – omitir– se em cumprir as determinações expressas nesta Lei;
 
 III – permitir atos de abuso, maus– tratos ou crueldade em suas dependências.
 
-§ 2º  O disposto neste artigo não exclui outros atos de maus-tratos, abuso e crueldade contra animais previstos na legislação.<br>
+§ 2º  O disposto neste artigo não exclui outros atos de maus-tratos, abuso e crueldade contra animais previstos na legislação.
+
 \- [Acrescido pela Lei nº 22.647, de 29-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734).
 
 Art. 7º O art. 4º da Lei nº [20.629](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100832/lei-20629), de 08 de novembro de 2019, fica acrescido do seguinte inciso IV:
@@ -302,18 +330,22 @@ Art. 11. Os animais oferecidos à adoção serão esterilizados e deverão porta
 
 Art. 12. Os pet shops, clínicas veterinárias e estabelecimentos do ramo afixarão cartaz em suas dependências que incentivem a adoção de animais.
 
-Parágrafo único. O cartaz de que trata o _caput_:<br>
+Parágrafo único. O cartaz de que trata o _caput_:
+
 \- [Redação dada pela Lei nº 23.439, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110705/lei-23439).
 
 ~~Parágrafo único. O cartaz de que trata o _caput_ poderá ser produzido pelo próprio estabelecimento, ou advindo de órgãos públicos ou entidades de proteção animal, com conteúdo claro e visível ao público, nome da entidade responsável pelo animal, telefone e e-mail para contato, além de informações de conscientização da importância da adoção e guarda responsável, bem como promover ações de doação de animais.~~
 
-I – poderá ser produzido pelo próprio estabelecimento, ou advindo de órgãos públicos ou entidades de proteção animal, com o seguinte conteúdo, claro e visível ao público:<br>
+I – poderá ser produzido pelo próprio estabelecimento, ou advindo de órgãos públicos ou entidades de proteção animal, com o seguinte conteúdo, claro e visível ao público:
+
 \- [Acrescido pela Lei nº 23.439, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110705/lei-23439).
 
-a) nome da entidade responsável pelo animal, telefone, _e-mail_ e/ou perfil em rede social, para contato;<br>
+a) nome da entidade responsável pelo animal, telefone, _e-mail_ e/ou perfil em rede social, para contato;
+
 \- [Acrescido pela Lei nº 23.439, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110705/lei-23439).
 
-b) a frase: “Adoção Responsável – Adote!!! Seu melhor amigo está te esperando!".<br>
+b) a frase: “Adoção Responsável – Adote!!! Seu melhor amigo está te esperando!".
+
 \- [Acrescido pela Lei nº 23.439, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110705/lei-23439).
 
 Seção III
@@ -330,25 +362,30 @@ Art. 15. São direitos do cuidador:
 
 I – alimentar o animal comunitário, inclusive no passeio público ou qualquer outro bem de uso comum do povo, observada a legislação municipal e as normas de higiene e saúde pública;
 
-II – instalar abrigos, comedouros e bebedouros para alimentação do animal comunitário, sempre de forma que não inviabilize o trânsito de pedestres:<br>
+II – instalar abrigos, comedouros e bebedouros para alimentação do animal comunitário, sempre de forma que não inviabilize o trânsito de pedestres:
+
 \- [Redação dada pela Lei nº 24.503, de 8-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117189).
 
 ~~II – instalar abrigos, comedouros e bebedouros para alimentação do animal comunitário em frente ao seu imóvel, de forma que não inviabilize o trânsito de pedestres;~~
 
-a) em frente ao seu imóvel;<br>
+a) em frente ao seu imóvel;
+
 \- [Acrescida pela Lei nº 24.503, de 8-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117189).
 
-b) em frente a órgãos públicos;<br>
+b) em frente a órgãos públicos;
+
 \- [Acrescida pela Lei nº 24.503, de 8-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117189).
 
-c) em qualquer bem de uso comum do povo, observada a legislação municipal;<br>
+c) em qualquer bem de uso comum do povo, observada a legislação municipal;
+
 \- [Acrescida pela Lei nº 24.503, de 8-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117189).
 
 III – ser reconhecido como responsável pelo animal comunitário para fins de adotar medidas administrativas ou legais necessárias;
 
 IV – ser reconhecido como responsável pelo animal comunitário na titularidade de pedidos aos moradores e condomínios edilícios do entorno, residenciais ou comerciais, buscando medidas e ações de interesse do animal comunitário, especialmente, referentes a locais de instalação de abrigos, comedouros e bebedouros;
 
-V – ter atendimento preferencial, em estabelecimentos públicos ou privados, em casos de emergência de primeiros socorros, avaliação clínica, vacinação antirrábica e esterilização dos animais.<br>
+V – ter atendimento preferencial, em estabelecimentos públicos ou privados, em casos de emergência de primeiros socorros, avaliação clínica, vacinação antirrábica e esterilização dos animais.
+
 \- [Acrescido pela Lei nº 22.604, de 9-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108663/lei-22604).
 
 Art. 16. Constituem deveres do cuidador:
@@ -371,19 +408,24 @@ Art. 17. A retirada de abrigo, alimentação ou água do animal comunitário, ex
 
 Art. 18. Na ausência do cuidador principal, ou de qualquer dos integrantes do grupo criado para cuidado do animal comunitário, qualquer pessoa que conviva com esse poderá alimentá-lo, prestar os cuidados necessários e socorrê-lo, em casos de urgência.
 
-Art. 18-A. É expressamente proibido impedir, por qualquer meio, o fornecimento de alimentação, água ou assistência médico-veterinária aos animais comunitários ou que estejam em situação de rua, sem tutor conhecido, nos logradouros públicos no Estado de Goiás.<br>
+Art. 18-A. É expressamente proibido impedir, por qualquer meio, o fornecimento de alimentação, água ou assistência médico-veterinária aos animais comunitários ou que estejam em situação de rua, sem tutor conhecido, nos logradouros públicos no Estado de Goiás.
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
-Parágrafo único. Para os fins do _caput_, consideram-se meios de impedir a assistência básica aos animais:<br>
+Parágrafo único. Para os fins do _caput_, consideram-se meios de impedir a assistência básica aos animais:
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
-I – a subtração ou destruição dos utensílios utilizados para acomodar a alimentação e a água;<br>
+I – a subtração ou destruição dos utensílios utilizados para acomodar a alimentação e a água;
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
-II – frustrar o acesso de voluntários que levem assistências básicas; e<br>
+II – frustrar o acesso de voluntários que levem assistências básicas; e
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
-III – impedir a ação de resgatista e de médicos veterinários.<br>
+III – impedir a ação de resgatista e de médicos veterinários.
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
 CAPÍTULO III
@@ -398,19 +440,22 @@ II – as instalações deverão proporcionar adequadas condições ambientais d
 
 CAPÍTULO IV
 
-DO ABATE DE ANIMAIS<br>
-<br>
-<br>
-Seção I<br>
-Disposição Geral<br>
+DO ABATE DE ANIMAIS
+
+Seção I
+
+Disposição Geral
+
 \- [Acrescido pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
 Art. 20. No abate de animais, é vedado empregar marreta, picada no bulbo, facada no coração, bem como mutilação ou qualquer método considerado cruel para o abate.
 
 Parágrafo único. Ressalva-se das vedações deste artigo a forma de abate realizada para atender aos padrões de exigência preconizados por motivo de crença ou religião.
 
-Seção II<br>
-Proibição de descarte de aves<br>
+Seção II
+
+Proibição de descarte de aves
+
 \- [Renumerado pela Lei nº 21.551, de 18-8-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106010).
 
 Art. 21. Fica proibida a morte de aves por meio de trituração, eletrocussão, sufocamento e qualquer outro meio cruel de abate para fins de descarte.
@@ -425,7 +470,8 @@ Art. 22. Ficam vedadas as seguintes práticas:
 
 I – conduzir animais com carga e o condutor montado em seu dorso;
 
-II – utilizar chicote, ferrão pontiagudo ou elétrico, pedaços de madeira ou outros objetos que venham a machucar o animal atrelado a veículo de tração;<br>
+II – utilizar chicote, ferrão pontiagudo ou elétrico, pedaços de madeira ou outros objetos que venham a machucar o animal atrelado a veículo de tração;
+
 \- [Redação dada pela Lei nº 22.944, de 26-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109409/lei-22944).
 
 ~~II – chicotear excessivamente, por qualquer forma, animal que esteja atrelado a veículo de tração;~~
@@ -446,16 +492,20 @@ Art. 26. A utilização de animais nas atividades desportivas, recreação, expo
 
 Parágrafo único. (VETADO).
 
-Art. 26-A. Fica proibida a distribuição de quaisquer animais vivos, a título de brinde, promoção ou sorteio, em eventos públicos ou privados, eventos recreativos, comerciais, culturais, religiosos, escolares e científicos.<br>
+Art. 26-A. Fica proibida a distribuição de quaisquer animais vivos, a título de brinde, promoção ou sorteio, em eventos públicos ou privados, eventos recreativos, comerciais, culturais, religiosos, escolares e científicos.
+
 \- [Acrescido pela Lei nº 22.970, de 3-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109440/lei-22970).
 
-Parágrafo único. Ficam ressalvados da proibição de que trata o caput deste artigo:<br>
+Parágrafo único. Ficam ressalvados da proibição de que trata o caput deste artigo:
+
 \- [Acrescido pela Lei nº 22.970, de 3-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109440/lei-22970).
 
-I – o encaminhamento a terceiros, mediante cumprimento de exigências legais preestabelecidas, de animais vivos, sadios, enfermos ou portadores de má-formação anatômica ou deficiência fisiológica, cujos objetivos sejam a tutela responsável e o cuidado permanente ou temporário;<br>
+I – o encaminhamento a terceiros, mediante cumprimento de exigências legais preestabelecidas, de animais vivos, sadios, enfermos ou portadores de má-formação anatômica ou deficiência fisiológica, cujos objetivos sejam a tutela responsável e o cuidado permanente ou temporário;
+
 \- [Acrescido pela Lei nº 22.970, de 3-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109440/lei-22970).
 
-II – a venda de animais em leilão de gado ou em igrejas.<br>
+II – a venda de animais em leilão de gado ou em igrejas.
+
 \- [Acrescido pela Lei nº 22.970, de 3-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109440/lei-22970).
 
 CAPÍTULO VII

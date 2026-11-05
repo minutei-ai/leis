@@ -1,5 +1,3 @@
-###DEL-009650-0-000-23-08-1946@@@
-
 DECRETO-LEI N. 9.650 – DE 23 DE AGÔSTO DE 1946
 
 Modifica a redação do art. 1º do Decreto-lei nº 9.598, de 16 de Agôsto de 1946.

@@ -1,5 +1,3 @@
-###DEL-006445-0-000-28-04-1944@@@
-
 DECRETO-LEI N. 6.445 – DE 28 DE ABRIL DE 1944
 
 Altera os Quadros Permanente e Suplementar do Ministério da justiça e Negócios Interiores e dá outras providências
@@ -14,7 +12,21 @@ Parágrafo único. Serão apostilados pela Divisão do Pessoal do Ministério da
 
 Art. 2º Ficam criados, no Quadro Permanente do Ministério da Justiça e Negócios Interiores, os seguintes cargos isolados, de provimento em comissão:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Diretor (S.E.D.M.P.) .................................................................</span></p></td><td style="width:152.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>P</span></p></td></tr><tr><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Consultor Jurídico ....................................................................</span></p></td><td style="width:152.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>N</span></p></td></tr><tr><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Diretor (P.D.F.) .........................................................................</span></p></td><td style="width:152.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>L</span></p></td></tr><tr><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 – Diretor (E. J. L. A. – S. A. M.) ...................................................</span></p></td><td style="width:152.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>K</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+1 – Diretor (S.E.D.M.P.) .................................................................
+
+P
+
+1 – Consultor Jurídico ....................................................................
+
+N
+
+1 – Diretor (P.D.F.) .........................................................................
+
+L
+
+1 – Diretor (E. J. L. A. – S. A. M.) ...................................................
+
+K
 
 Art. 3º Fica aberto, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 141.600,00 (cento e quarenta e um mil e seiscentos cruzeiros), para atender, no corrente exercício, à despesa com a execução do disposto no artigo anterior.
 

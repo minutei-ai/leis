@@ -1,5 +1,3 @@
-###DEL-004642-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.642 – DE 2 DE SETEMBRO DE 1942
 
 Dispõe sobre as bases de organização da instrução premilitar

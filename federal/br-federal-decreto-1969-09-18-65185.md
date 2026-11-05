@@ -1,5 +1,3 @@
-###DEC-065185-0-000-18-09-1969@@@
-
 DECRETO Nº 65.185 - DE 18 DE SETEMBRO DE 1969.
 
 Define as atribuições do Grupo Executivo de Recuperação Econômico do Estado do Espírito Santo, e dá outras providências.

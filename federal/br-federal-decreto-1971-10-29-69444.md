@@ -1,5 +1,3 @@
-###DEC-069444-0-000-29-10-1971@@@
-
 DECRETO Nº 69.444 - DE 29 DE OUTUBRO DE 1971
 
 Aprova o Regulamento para a Fábrica de Artilharia da Marinha.

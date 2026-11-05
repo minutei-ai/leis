@@ -1,5 +1,3 @@
-###DEC-060574-0-000-10-04-1967@@@
-
 DECRETO Nº 60.574, DE 10 DE ABRIL DE 1967.
 
 Prorroga o prazo estabelecido no art. 31 do Decreto nº 57.690, de 1 de fevereiro de 1966, que regulamentou a Lei nº 4.680, de 18 de junho de 1965.

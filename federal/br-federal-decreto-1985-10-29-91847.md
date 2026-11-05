@@ -1,5 +1,3 @@
-###DEC-091847-0-000-29-10-1985@@@
-
 Decreto nº 91.847, de 29 de outubro de 1985.
 
 Outorga à Centrais Elétricas Mato-grossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do rio Culuene, no Município de Paranatinga, Estado de Mato Grosso.

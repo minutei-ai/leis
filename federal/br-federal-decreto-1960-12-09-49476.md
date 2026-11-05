@@ -1,5 +1,3 @@
-###DEC-049476-0-000-09-12-1960@@@
-
 DECRETO Nº 49.476, DE 9 DE DEZEMBRO DE 1960.
 
 Restabelece uma função de Patrão ref. 22 da Tabela Numérica Especial de Extranumerário-Mensalista da Alfândega do Rio de Janeiro suprimida pelo Decreto nº 45.367, de 31 de janeiro de 1959.
@@ -20,8 +18,6 @@ Juscelino Kubitschek
 
 S. Paes de Almeida
 
-###DEC-049476-0-000-09-12-1960@@@RET01+++
-
 Decreto nº 49.476, de 9 de dezembro de 1960.
 
 Restabelece uma função de Patrão, referência 22, da Tabela Numérica Especial de Extranumerário-mensalista da Alfândega do Rio de Janeiro, suprimida pelo Decreto número 45.367, de 31 de janeiro de 1957.
@@ -37,8 +33,6 @@ ONDE SE LÊ:
 LEIA\-SE:
 
 ... janeiro de 1957.
-
-###DEC-049476-0-000-09-12-1960@@@RET02+++
 
 DECRETO Nº 49.476, DE 9 DE DEZEMBRO DE 1960.
 

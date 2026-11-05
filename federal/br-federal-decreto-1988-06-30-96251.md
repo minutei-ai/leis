@@ -1,5 +1,3 @@
-###DEC-096251-0-000-30-06-1988@@@
-
 DECRETO N.° 96.251, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “GLEBA REDONDO e ARACANGA”, classificado como “latifúndio por exploração”, situado no Município de Monção, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 02 de maio de 1986 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075921-0-000-30-06-1975@@@
-
 DECRETO Nº 75.921, DE 30 DE JUNHO DE 1975.
 
 Autoriza o funcionamento do curso de Zootecnia da Faculdade de Zootecnia de Uberaba, mantida pela Fundação Educacional Para o Desenvolvimento das Ciências Agrárias, com sede na Cidade de Uberaba, Estado de Minas Gerais.

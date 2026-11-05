@@ -1,5 +1,3 @@
-###DEC-073057-0-000-31-10-1973@@@
-
 decreto nº 73.057, de 31 de outubro de 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pirapora, Estado de Minas Gerais.

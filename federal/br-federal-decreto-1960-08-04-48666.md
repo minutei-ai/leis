@@ -1,5 +1,3 @@
-###DEC-048666-0-000-04-08-1960@@@
-
 DECRETO Nº 48.666, DE 4 DE AGÔSTO DE 1960.
 
 Revoga o Decreto nº 39.648, de 28 de julho de 1956.

@@ -1,5 +1,3 @@
-###DEC-001830-0-000-04-03-1996@@@
-
 DECRETO Nº 1.830, DE 4 DE MARÇO DE 1996.
 
 Dispõe sobre remanejamento de cargos em comissão no âmbito dos Ministérios do Trabalho e da Administração Federal e Reforma do Estado.

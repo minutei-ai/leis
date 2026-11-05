@@ -1,5 +1,3 @@
-###DEL-005754-0-000-17-08-1943@@@
-
 DECRETO‑LEI N. 5.754 – DE 17 DE AGÔSTO DE 1943
 
 Determina a distribuïção de crédito à Tesouraria do Ministério da Educação e Saúde

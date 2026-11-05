@@ -1,5 +1,3 @@
-###DEC-048378-0-000-22-06-1960@@@
-
 decreto nº 48.378, de 22 de junho de 1960.
 
 Declara de utilidade pública o Hospital Nossa Senhora das Mercês.

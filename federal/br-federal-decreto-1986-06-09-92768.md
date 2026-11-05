@@ -1,5 +1,3 @@
-###DEC-092768-0-000-09-06-1986@@@
-
 DECRETO Nº 92.768, DE 9 DE JUNHO DE 1986
 
 Delega competência aos Ministros de Estado para expedirem as normas necessárias à aplicação das disposições do artigo 4º da Emenda Constitucional nº 26, de 1985, aos servidores das entidades da administração indireta e fundações supervisionadas, e dá outras providências.
@@ -75,8 +73,6 @@ João Sayad
 Gileno Fernandes Marcelino
 
 Vicente Cavalcante Fialho
-
-###DEC-092768-0-000-09-06-1986@@@REP01+++
 
 (\*)DECRETO Nº 92.768, DE 09 DE JUNHO DE 1986
 

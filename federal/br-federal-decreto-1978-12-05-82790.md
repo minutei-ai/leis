@@ -1,5 +1,3 @@
-###DEC-082790-0-000-05-12-1978@@@
-
 Decreto n.º 82.790, de 05 de dezembro de 1978
 
 Altera o Decreto n.º 66.125, de 28 de janeiro de 1970, que regula o reconhecimento da imunidade tributária para o papel de imprensa.

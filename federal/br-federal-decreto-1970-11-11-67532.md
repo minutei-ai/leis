@@ -1,5 +1,3 @@
-###DEC-067532-0-000-11-11-1970@@@
-
 DECRETO Nº 67.532, DE 11 DE NOVEMBRO DE 1970.
 
 Concede à emprêsa The Lancashire General Investment Company Limited autorização para continuar a funcionar na República Federativa do Brasil.

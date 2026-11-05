@@ -1,5 +1,3 @@
-###DEC-091419-0-000-11-07-1985@@@
-
 Decreto nº 91.419, de 11 de julho de 1985
 
 Estabelece diretrizes a serem observadas pela Comissão Interministerial criada pelo Decreto nº 91.379, de 28 de junho de 1985, e dá outras providências.

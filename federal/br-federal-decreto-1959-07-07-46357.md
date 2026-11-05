@@ -1,5 +1,3 @@
-###DEC-046357-0-000-07-07-1959@@@
-
 DECRETO Nº 46.357, DE 7 DE JULHO DE 1959.
 
 Autoriza a execução de obras de emergências no Norte do Estado de Minas Gerais, na área do Polígono das Sêcas.

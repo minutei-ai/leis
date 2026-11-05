@@ -1,5 +1,3 @@
-###DEC-004030-0-000-23-11-2001@@@
-
 DECRETO Nº 4.030, DE 23 DE NOVEMBRO DE 2001.
 
 Dá nova redação ao caput do art. 2o do Decreto no 3.890, de 17 de agosto de 2001, que regulamenta a administração de recursos a que se refere o art. 13, inciso II, da Lei no 4.452, de 5 de novembro de 1964, e dá outras providências.

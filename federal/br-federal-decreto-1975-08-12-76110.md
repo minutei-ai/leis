@@ -1,5 +1,3 @@
-###DEC-076110-0-000-12-08-1975@@@
-
 DECRETO Nº 76.110 - DE 12 DE AGOSTO DE 1975
 
 Revoga o Decreto nº 59.208, de 13 de setembro de 1966, que dispõe sobre o horário de trabalho nos Estabelecimentos com atividades fabris, do Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-055020-0-000-17-11-1964@@@
-
 DECRETO Nº 55.020, DE 17 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, bens encravados na área da Universidade Rural de Pernambuco de propriedade de Mineração e Industrias de Kieseguhr Nacional, de Dois Irmãos.

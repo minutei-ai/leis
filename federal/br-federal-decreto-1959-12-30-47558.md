@@ -1,5 +1,3 @@
-###DEC-047558-0-000-30-12-1959@@@
-
 Decreto nº 47.558, de 30 de dezembro de 1959.
 
 Renova o Decreto nº 40.920, de 13 de fevereiro de 1957.

@@ -1,5 +1,3 @@
-###DEC-082700-0-000-22-11-1978@@@
-
 DECRETO Nº 82 700, DE 22 DE NOVEMBRO DE 1978
 
 Autoriza a concessão de garantia da União a operação de crédito externo, para implantação de usina siderúrgica pelo Aço Minas Gerais S.A. -AÇOMINAS.

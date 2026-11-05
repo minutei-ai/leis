@@ -1,5 +1,3 @@
-###DEC-078143-0-000-30-07-1976@@@
-
 DECRETO Nº 78.143, DE 30 DE JULHO DE 1976
 
 Aprova o Regulamento do Comando Geral do Ar e dá outras providências.

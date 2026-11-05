@@ -1,7 +1,3 @@
-1
-
-###DEC-095870-0-000-24-03-1988@@@
-
 DECRETO N° 95.870, DE 24 DE MARÇO DE 1988
 
 Altera a denominação, o posto do Diretor, e estabelece a subordinação do Hospital Naval Nossa Senhora da Glória, e dá outras providências.

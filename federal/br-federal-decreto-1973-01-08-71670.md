@@ -1,5 +1,3 @@
-###DEC-071670-0-000-08-01-1973@@@
-
 DECRETO Nº 71.670, DE 8 DE JANEIRO DE 1973.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar argila no Município de Pojuca, Estado da Bahia.

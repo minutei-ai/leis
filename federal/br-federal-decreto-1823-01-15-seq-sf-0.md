@@ -1,5 +1,3 @@
-###DEC-000000-0-000-15-01-1823@@@
-
 DECRETO - DE 15 DE JANEIRO DE 1823
 
 Faz extensivo aos Corpos da Armada o favor concedido pelo Decreto de 4 deste mez, ás viuvas ou orphãs dos officiaes e inferiores dos corpos do Exercito.

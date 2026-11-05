@@ -1,5 +1,3 @@
-###DEC-059222-0-000-16-09-1966@@@
-
 Decreto nº 59.222, de 16 de setembro de 1966.
 
 Autoriza estrangeira a adquirir, em regularização e revigoração de aforamento, o domínio útil da fração ideal do terreno de marinha e acrescido que menciona, no Estado da Guanabara.

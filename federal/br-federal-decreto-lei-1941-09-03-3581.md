@@ -1,5 +1,3 @@
-###DEL-003581-0-000-03-09-1941@@@
-
 DECRETO-LEI N. 3.581 – DE 3 DE SETEMBRO DE 1941
 
 Dispõe sobre a substituição de ocupantes de cargos da Justiça Militar

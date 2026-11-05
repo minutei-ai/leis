@@ -1,5 +1,3 @@
-###DEC-090283-0-000-08-10-1984@@@
-
 Decreto nº 90.283, de 8 DE outubro de 1984.
 
 Altera a composição do Conselho Administrativo de Defesa Econômica, e dá outras providências.

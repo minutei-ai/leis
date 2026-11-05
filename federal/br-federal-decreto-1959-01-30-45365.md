@@ -1,5 +1,3 @@
-###DEC-045365-0-000-30-01-1959@@@
-
 DECRETO Nº 45.365, DE 30 DE JANEIRO DE 1959.
 
 Autoriza o emprêgo de Côrantes orgânicos derivados da hulha nos produtos alimentícios.

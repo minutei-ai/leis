@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.P.L. de 19/11/2015.
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 102, DE 17 DE NOVEMBRO DE 2015
@@ -31,5 +37,3 @@ ENIVALDO DOS ANJOS
 CACAU LORENZONI
 
 2º Secretário
-
-Este texto não substitui o publicado no D.P.L. de 19/11/2015.

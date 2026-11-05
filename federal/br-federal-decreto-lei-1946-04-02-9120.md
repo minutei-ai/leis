@@ -1,5 +1,3 @@
-###DEL-009120-0-000-02-04-1946@@@
-
 DECRETO-LEI N. 9.120 – DE 2 DE ABRIL DE 1946
 
 Lei de Organização dos Quadros e Efetivos do Exército

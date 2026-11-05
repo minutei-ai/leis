@@ -1,5 +1,3 @@
-###DEC-081640-0-000-09-05-1978@@@
-
 decreto nº 81.640, de 09 de maio de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-067410-0-000-19-10-1970@@@
-
 DECRETO Nº 67.410, DE 19 de OUTUBRO DE 1970.
 
 Concede reconhecimento a Cursos da Faculdade de Filosofia, Ciências e Letras de Ijuí RS.

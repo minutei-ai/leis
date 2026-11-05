@@ -1,5 +1,3 @@
-###DEC-091338-0-000-18-06-1985@@@
-
 dECRETO Nº 91.338, DE 18 DE JUNHO DE 1985
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Cabo Frio, Estado do Rio de Janeiro; Salvador, Estado da Bahia e Guarujá, Estado de São Paulo.

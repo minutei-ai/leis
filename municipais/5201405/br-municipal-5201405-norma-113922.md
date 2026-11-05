@@ -12,14 +12,16 @@ Art. 1º Ficam nomeados os seguintes membros titulares para compor o Conselho Mu
 
 I.    Keila Mirian Afonso Martins Pereira (matrícula nº 37800);
 
-II – Fernanda Arantes (Matrícula nº 1972314);<br>
+II – Fernanda Arantes (Matrícula nº 1972314);
+
 (Redação alterada pelo Decreto "N" nº 906, de 29 de outubro de 2024).
 
 ~~II.    Keithy Carmem Silva (matrícula nº 1972188);~~
 
 III.    Saulo Teixeira Lima (matrícula nº 41042).
 
-IV – Hellen Cassia Macedo Silva (matrícula nº 1972355)<br>
+IV – Hellen Cassia Macedo Silva (matrícula nº 1972355)
+
 (Redação alterada pelo Decreto "N" nº 906, de 29 de outubro de 2024).
 
 ~~IV.    Thiago Nogueira da Silva (matrícula nº 43449)~~
@@ -30,7 +32,8 @@ I. Einstein Almeida Ferreira Paniago (matrícula nº 43694).
 
 Art. 3º Ficam designados os seguintes suplentes para o Conselho Municipal de Previdência de Aparecida de Goiânia, para um mandato de 02 (dois) anos:
 
-I – Cinthia Pereira Lima (matrícula nº 46132)<br>
+I – Cinthia Pereira Lima (matrícula nº 46132)
+
 (Redação alterada pelo Decreto "N" nº 906, de 29 de outubro de 2024).
 
 ~~I.    Keila Mirian Afonso Martins Pereira (matrícula nº 37800);~~
@@ -45,11 +48,14 @@ Art. 4º - Este decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 29 de maio de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA BORGES OLIVEIRA<br>
+POLLYANA BORGES OLIVEIRA
+
 Secretária de Governo
 
-ROBES VENÂNCIO E SILVA<br>
+ROBES VENÂNCIO E SILVA
+
 Presidente do AparecidaPrev

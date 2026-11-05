@@ -1,7 +1,3 @@
-1
-
-###DEC-097687-0-000-25-04-1989@@@
-
 DECRETO N° 97.687, DE 25 DE ABRIL DE 1989
 
 Autoriza o Banco Meridional do Brasil S/A a aumentar seu capital social.

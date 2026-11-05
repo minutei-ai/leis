@@ -1,5 +1,3 @@
-###DEC-084023-0-000-24-09-1979@@@
-
 Decreto nº 84.023, de 24 de setembro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPLF, no Estado de São Paulo.

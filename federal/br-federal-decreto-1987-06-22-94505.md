@@ -1,5 +1,3 @@
-###DEC-094505-0-000-22-06-1987@@@
-
 DECRETO N° 94.505, DE 22 DE JUNHO DE 1987.
 
 Autoriza o aumento do limite do capital autorizado da EMPRESAS NUCLEARES BRASILEIRAS S.A. - Nuclebrás.

@@ -1,5 +1,3 @@
-###DEC-075386-0-000-17-02-1975@@@
-
 DECRETO Nº 75.386, de 17 de Fevereiro de 1975.
 
 Autoriza o Ministro de Estado na Fazenda a formalizar e a garantir, em nome da União, operações de crédito externo que específica.

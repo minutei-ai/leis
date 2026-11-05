@@ -1,5 +1,3 @@
-###DEC-082623-0-000-13-11-1978@@@
-
 Decreto nº 82.623, de 13 de novembro de 1978.
 
 Retifica a concessão de lavra outorgada à Itapessoca Agro-Industrial S.A. pelo Decreto nº 79.600, de 26 de abril 1977.

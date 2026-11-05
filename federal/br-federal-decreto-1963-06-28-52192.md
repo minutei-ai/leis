@@ -1,5 +1,3 @@
-###DEC-052192-0-000-28-06-1963@@@
-
 Decreto nº 52.192, de 28 de junho de 1963.
 
 Concede reconhecimento a curso.

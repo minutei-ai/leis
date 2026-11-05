@@ -1,5 +1,3 @@
-###DEC-094046-0-000-23-02-1987@@@
-
 DECRETO Nº 94.046, DE 23 DE FEVEREIRO DE 1987.
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos Militares junto às representações diplomáticas no exterior.

@@ -1,5 +1,3 @@
-###DEC-048932-0-000-10-09-1960@@@
-
 DECRETO Nº 48.932, DE 10 DE SETEMBRO DE 1960.
 
 Autoriza a alienação de terrenos loteados pertencentes a instituições de previdência social, nas condições que especifica.

@@ -1,5 +1,3 @@
-###DEC-065265-0-000-03-10-1969@@@
-
 DECRETO Nº 65.265 - DE 3 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o Hospital Bom Jesus, com sede em Ponta Grossa, Estado do Paraná.

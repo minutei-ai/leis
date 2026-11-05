@@ -1,5 +1,3 @@
-###DEC-002319-0-000-08-09-1997@@@
-
 DECRETO Nº 2.319, DE 8 DE SETEMBRO DE 1997
 
 Prorroga o prazo de que trata o art. 1º, § 2º do Decreto nº 1.807, de 6 de fevereiro de 1996.

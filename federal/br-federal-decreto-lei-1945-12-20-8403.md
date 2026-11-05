@@ -1,5 +1,3 @@
-###DEL-008403-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.403 – DE 20 DE DEZEMBRO DE 1945
 
 Revoga o item VII do art. 11 da consolidação dos dispositivos regulamentares da Ordem dos Advogados do Brasil.

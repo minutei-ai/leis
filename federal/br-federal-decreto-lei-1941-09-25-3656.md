@@ -1,5 +1,3 @@
-###DEL-003656-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.656 – DE 25 DE SETEMBRO DE 1941
 
 Autoriza a alienação de cabeças de gado

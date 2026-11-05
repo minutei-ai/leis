@@ -1,5 +1,3 @@
-###DEC-082492-0-000-27-10-1978@@@
-
 Decreto nº. 82.492, de 27 de outubro de 1978
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

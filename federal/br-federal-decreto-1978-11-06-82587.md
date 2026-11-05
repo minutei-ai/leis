@@ -1,5 +1,3 @@
-###DEC-082587-0-000-06-11-1978@@@
-
 Decreto nº 82.587, de 06 de novembro de 1978.
 
 Regulamenta a Lei nº 6.528, de 11 de maio de 1978, que dispõe sobre as tarifas dos serviços públicos de saneamento e dá outras providências.
@@ -271,8 +269,6 @@ Brasília, em 06 de novembro de 1978; 157º da Independência e 90º da Repúbli
 Ernesto Geisel
 
 Maurício Rangel Reis
-
-###DEC-082587-0-000-06-11-1978@@@RET01+++
 
 DECRETO Nº 82.587, DE 06 DE NOVEMBRO DE 1978.
 

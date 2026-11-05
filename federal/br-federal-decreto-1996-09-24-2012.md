@@ -1,7 +1,3 @@
-1
-
-###DEC-002012-0-000-24-09-1996@@@
-
 DECRETO Nº 2.012, DE 24 DE SETEMBRO DE 1996.
 
 Dispõe sobre o feriado nacional do dia 3 de outubro de 1996.

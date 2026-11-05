@@ -1,5 +1,3 @@
-###DEC-076437-0-000-14-10-1975@@@
-
 DECRETO Nº 76.437, DE 14 DE OUTUBRO DE 1975.
 
 Autoriza a alienação do imóvel que menciona, situado no Município de Paraíba do Sul, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-005435-0-000-29-04-1943@@@
-
 DECRETO–LEI N. 5.435 – DE 29 DE ABRIL DE 1943
 
 Altera o art. 1º do decreto‑lei n. 5.244, de 11 de fevereiro de 1943

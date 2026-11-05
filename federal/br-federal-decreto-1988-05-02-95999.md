@@ -1,5 +1,3 @@
-###DEC-095999-0-000-02-05-1988@@@
-
 DECRETO Nº 95.999, DE 02 DE MAIO DE 1988
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO GUARUJÁ LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Florianópolis, Estado de Santa Catarina.

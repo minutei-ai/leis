@@ -1,5 +1,3 @@
-###DEC-078967-0-000-16-12-1976@@@
-
 DECRETO Nº 78.967, de 16 de dezembro de 1976.
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física, com sede na cidade de Florianópolis, Estado de Santa Catarina.

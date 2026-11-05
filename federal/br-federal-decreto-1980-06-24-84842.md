@@ -1,5 +1,3 @@
-###DEC-084842-0-000-24-06-1980@@@
-
 Decreto nº 84.842, de 24 de junho de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Palhoça, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

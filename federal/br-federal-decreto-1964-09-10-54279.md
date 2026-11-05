@@ -1,5 +1,3 @@
-###DEC-054279-0-000-10-09-1964@@@
-
 DECRETO Nº 54.279, DE 10 DE SETEMBRO DE 1964.
 
 Dá nova redação ao parágrafo único do artigo 1º do Decreto nº 54.053, de 27 de julho de 1964.

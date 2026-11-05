@@ -1,5 +1,3 @@
-###DEC-051889-0-000-04-04-1963@@@
-
 DECRETO Nº 51.889, DE 4 DE ABRIL DE 1963.
 
 Dispõe sôbre a interveção federal nos serviços e instalações do pôrto de Manaus, Estado do Amazonas, estendida esta à concessionária, e dá outras providências.

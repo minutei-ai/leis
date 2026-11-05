@@ -48,13 +48,16 @@ e) permissão para efetuar o pagamento parcial do crédito tributário à vista,
 
 § 2º (VETADO).
 
-Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 150 (cento e cinquenta) dias, contados do início da produção de efeitos desta Lei.<br>
+Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 150 (cento e cinquenta) dias, contados do início da produção de efeitos desta Lei.
+
 [\- Redação dada pela Lei n. 21.031, de 23-06-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104095/lei-21031)
 
-~~Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 120 (cento e vinte) dias, contados do início da produção de efeitos desta Lei.~~<br>
+~~Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 120 (cento e vinte) dias, contados do início da produção de efeitos desta Lei.~~
+
 [\- Redação dada pela Lei nº 20.996, de 03-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103952/lei-20996)
 
-~~Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 90 (noventa) dias, contados do início da produção de efeitos desta Lei.~~<br>
+~~Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 90 (noventa) dias, contados do início da produção de efeitos desta Lei.~~
+
  [- Redação dada pela Lei nº 20.977, de 30-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103916/lei-20977)
 
 ~~Art. 4º Para usufruir dos benefícios desta Lei, o sujeito passivo deve fazer sua adesão em até 60 (sessenta) dias, contados do início da produção dos efeitos dela.~~
@@ -146,8 +149,6 @@ Art. 18. Fica revogado o art. 18 da Lei nº [20.939](https://legisla.casacivil.g
 Art. 19. Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de fevereiro de 2021.
 
 Goiânia, 29 de janeiro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

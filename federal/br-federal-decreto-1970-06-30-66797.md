@@ -1,5 +1,3 @@
-###DEC-066797-0-000-30-06-1970@@@
-
 DECRETO Nº 66.797 - DE 30 DE JUNHO DE 1970
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Limeira, com sede em Limeira, Estado de São Paulo.

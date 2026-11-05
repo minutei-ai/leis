@@ -1,5 +1,3 @@
-###DEC-052425-0-000-31-08-1963@@@
-
 DECRETO Nº 52.425, DE 31 DE AGôSTO DE 1963.
 
 Suspende as atividades do Instituto Brasileiro de Ação Democrática (IBAD) e da Ação Democrática Popular (ADEP).

@@ -1,5 +1,3 @@
-###DEC-044999-0-000-03-12-1958@@@
-
 DECRETO Nº 44.999, DE 3 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia Hidro-Elétrica Paranapanema a ampliar suas instalações.

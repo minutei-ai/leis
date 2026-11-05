@@ -1,18 +1,16 @@
-###LEI-000263-0-000-23-02-1948@@@
+**LEI Nº 263, DE 23 DE FEVEREIRO DE 1948**
 
-<strong>LEI Nº 263, DE 23 DE FEVEREIRO DE 1948</strong>
+***Modifica a competência do Tribunal do Júri e dá outras providências.***
 
-<em><strong>Modifica a competência do Tribunal do Júri e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+**Art**. 1º A organização do Tribunal do Júri, e, igualmente, o processo dos crimes de sua competência continuam a ser regidos pelo Código de Processo Penal, com as modificações decorrentes do disposto no artigo 141, § 28º, da Constituição e constantes da presente Lei.
 
-<strong>Art</strong>. 1º A organização do Tribunal do Júri, e, igualmente, o processo dos crimes de sua competência continuam a ser regidos pelo Código de Processo Penal, com as modificações decorrentes do disposto no artigo 141, § 28º, da Constituição e constantes da presente Lei.
-
-<strong>Art</strong>. 2º O § 1º do art. 74 do Código de Processo Penal é substituído pelo seguinte:
+**Art**. 2º O § 1º do art. 74 do Código de Processo Penal é substituído pelo seguinte:
 
 “§ 1º Compete ao Tribunal do Júri o julgamento dos crimes previstos nos arts. 121, § 1º, 121 § 2º, 122, parágrafo único, 123, 124, 125, 126 e 127 do Código Penal, consumados ou tentados”.
 
-<strong>Art</strong>. 3º O art. 78 do Código de Processo Penal passa a ser o seguinte:
+**Art**. 3º O art. 78 do Código de Processo Penal passa a ser o seguinte:
 
 “Art. 78. Na determinação da competência por conexão ou continência, serão observadas as seguintes regras:
 
@@ -30,7 +28,7 @@ III - no concurso de jurisdições de diversas categorias, predominará a de mai
 
 IV - no concurso entre a jurisdição comum e a especial, prevalecerá esta”.
 
-<strong>Art</strong>. 4º O art. 466 do Código de Processo Penal terá a seguinte redação:
+**Art**. 4º O art. 466 do Código de Processo Penal terá a seguinte redação:
 
 “Art. 466. Feito e assinado o interrogatório, o presidente, sem manifestar sua opinião sôbre o mérito da acusação ou da defesa, fará o relatório do processo e exporá o fato, as provas e as conclusões das partes.
 
@@ -38,7 +36,7 @@ IV - no concurso entre a jurisdição comum e a especial, prevalecerá esta”.
 
 § 2º Onde fôr possível, o Presidente mandará distribuir aos jurados cópias dactilografadas ou impressas, da pronúncia, do libelo e da contrariedade, além de outras peças que considerar úteis para o julgamento da causa”.
 
-<strong>Art</strong>. 5º O parágrafo único do artigo 484, do Código de Processo Penal, passa a ser o seguinte:
+**Art**. 5º O parágrafo único do artigo 484, do Código de Processo Penal, passa a ser o seguinte:
 
 “Parágrafo único. Serão formulados quesitos relativamente às circunstâncias agravantes e atenuantes, previstas nos artigos 44, 45 e 48 do Código Penal, observado o seguinte:
 
@@ -50,7 +48,7 @@ III - o Juiz formulará sempre um quesito sôbre a existência de circunstância
 
 IV - se o Júri afirmar a existência de circunstâncias atenuantes, o Juiz o questionará a respeito das que lhe parecerem aplicáveis ao caso, fazendo escrever os quesitos respondidos afirmativamente, com as respectivas respostas.”
 
-<strong>Art</strong>. 6º O art. 492 do Código seguinte conservados os seus dois parágrafos:
+**Art**. 6º O art. 492 do Código seguinte conservados os seus dois parágrafos:
 
 “Art. 492. Em seguida, o juiz lavrará a sentença, com observância do seguinte:
 
@@ -64,11 +62,11 @@ b) ordenará a cessação das interdições de direitos que tiverem sido proviso
 
 c) aplicará medida de segurança, se cabível”.
 
-<strong>Art</strong>. 7º É acrescentado ao artigo 564 do Código de Processo Penal êste parágrafo:
+**Art**. 7º É acrescentado ao artigo 564 do Código de Processo Penal êste parágrafo:
 
 “Parágrafo único. Ocorrerá ainda a nulidade, por deficiência dos quesitos ou das suas respostas, e contradição entre estas”.
 
-<strong>Art</strong>. 8º O art. 593 do Código de Processo Penal passa a ser o seguinte:
+**Art**. 8º O art. 593 do Código de Processo Penal passa a ser o seguinte:
 
 “Art. 593. Caberá apelação no prazo de cinco dias:
 
@@ -86,15 +84,15 @@ c) houver êrro ou injustiça no tocante à aplicação da pena ou da medida de 
 
 d) fôr a decisão dos jurados manifestamente contrária à prova dos autos.
 
-§ 1º Se a sentença do Juiz Presidente fôr contrária à lei expressa ou divergir das respostas dos jurados aos quesitos, o Tribunal <em>ad</em> <em>quem</em> fará a devida retificação.
+§ 1º Se a sentença do Juiz Presidente fôr contrária à lei expressa ou divergir das respostas dos jurados aos quesitos, o Tribunal *adquem* fará a devida retificação.
 
-§ 2º Interposta a apelação com fundamento no nº III, letra <em>c</em>, dêste artigo, o Tribunal <em>ad</em> <em>quem</em>, se lhe der provimento retificará a aplicação da pena ou da medida de segurança.
+§ 2º Interposta a apelação com fundamento no nº III, letra *c*, dêste artigo, o Tribunal *adquem*, se lhe der provimento retificará a aplicação da pena ou da medida de segurança.
 
-§ 3º Se a apelação se fundar no nº III, letra <em>d</em>, dêste artigo, e o Tribunal <em>ad</em> <em>quem</em> se convencer de que a decisão dos jurados é manifestamente contrária à prova dos autos, dar-lhe-á provimento para sujeitar o réu a novo julgamento; não se admite, porém, pelo mesmo motivo, segunda apelação.
+§ 3º Se a apelação se fundar no nº III, letra *d*, dêste artigo, e o Tribunal *adquem* se convencer de que a decisão dos jurados é manifestamente contrária à prova dos autos, dar-lhe-á provimento para sujeitar o réu a novo julgamento; não se admite, porém, pelo mesmo motivo, segunda apelação.
 
 § 4º Quando cabível a apelação, não poderá ser usado o recurso em sentido estrito, ainda que somente de parte da decisão se recorra”.
 
-<strong>Art</strong>. 9º O art. 596 do Código de Processo Penal é substituído pelo seguinte:
+**Art**. 9º O art. 596 do Código de Processo Penal é substituído pelo seguinte:
 
 “Art. 596. A apelação de sentença absolutória não impedirá que o réu seja pôsto imediatamente em liberdade, salvo nos processos por crime a que a lei comine pena de reclusão, no máximo, por tempo igual ou superior a oito anos.
 
@@ -102,18 +100,18 @@ d) fôr a decisão dos jurados manifestamente contrária à prova dos autos.
 
 § 2º A apelação de sentença absolutória não terá efeito suspensivo, quando fôr unânime a decisão dos jurados”.
 
-<strong>Art</strong>. 10. O art. 474 do Código de Processo Penal passa a ser o seguinte, conservados os seus dois parágrafos:
+**Art**. 10. O art. 474 do Código de Processo Penal passa a ser o seguinte, conservados os seus dois parágrafos:
 
 “Art. 474. O tempo destinado à acusação e à defesa será de três horas, para cada uma, e de uma hora, para a réplica, e, outro tanto para a tréplica”.
 
-<strong>Art</strong>. 11. Esta Lei entrará em vigor: no Distrito Federal, três dias depois da sua publicação; dez dias nos Estados do Rio de Janeiro, São Paulo e Minas; e, vinte dias, nos demais Estados e Territórios.
+**Art**. 11. Esta Lei entrará em vigor: no Distrito Federal, três dias depois da sua publicação; dez dias nos Estados do Rio de Janeiro, São Paulo e Minas; e, vinte dias, nos demais Estados e Territórios.
 
 Parágrafo único. O disposto no § 3º do artigo 593 do Código de Processo Penal, segundo a redação que Ihe é dada pela presente Lei se aplica a todos os processos pendentes de julgamento nos Tribunais de Justiça, qualquer que tenha sido a data da interposição das apelações.
 
-<strong>Art</strong>. 12. Revogam-se os artigos 604, 605 e 606 do Código de Processo Penal, assim como quaisquer outras disposições que colidirem com a presente Lei.
+**Art**. 12. Revogam-se os artigos 604, 605 e 606 do Código de Processo Penal, assim como quaisquer outras disposições que colidirem com a presente Lei.
 
 Rio de Janeiro, 23 de fevereiro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita

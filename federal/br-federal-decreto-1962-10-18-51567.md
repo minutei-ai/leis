@@ -1,5 +1,3 @@
-###DEC-051567-0-000-18-10-1962@@@
-
 DECRETO Nº 51.567, DE 18 DE OUTUBRO DE 1962.
 
 Retifica o enquadramento dos cargos e funções do Ministério da Fazenda.

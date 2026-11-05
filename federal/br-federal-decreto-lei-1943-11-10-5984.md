@@ -1,5 +1,3 @@
-###DEL-005984-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.984 – DE 10 DE NOVEMBRO DE 1943
 
 Dispõe sôbre os ensaios para recebimento de material destinado ao serviço público e dá outras providências

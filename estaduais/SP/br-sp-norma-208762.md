@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208762)<br>
-
 # DECRETO N° 68.058, DE 06 DE NOVEMBRO DE 2023
 
 ### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2023._

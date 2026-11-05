@@ -1,5 +1,3 @@
-###DEC-052127-0-000-17-06-1963@@@
-
 Decreto nº 52.127, de 17 de junho de 1963.
 
 Prorroga prazo para conclusão de estudos de Grupo de Trabalho.

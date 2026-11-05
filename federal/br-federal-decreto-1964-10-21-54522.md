@@ -1,5 +1,3 @@
-###DEC-054522-0-000-21-10-1964@@@
-
 DECRETO Nº 54.522, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza a cidadão brasileiro Milton Voss a lavrar água potável de mesa, no município de Itirapina, Estado de São Paulo.

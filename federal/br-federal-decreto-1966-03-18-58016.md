@@ -1,5 +1,3 @@
-###DEC-058016-0-000-18-03-1966@@@
-
 decreto nº 58.016, de 18 de março de 1966.
 
 Regulamenta o disposto na Lei número 4.797, de 20 de outubro de 1965, e dá outras providências.

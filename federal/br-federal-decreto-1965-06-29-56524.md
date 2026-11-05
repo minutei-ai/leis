@@ -1,5 +1,3 @@
-###DEC-056524-0-000-29-06-1965@@@
-
 DECRETO Nº 56.524, DE 29 DE JUNHO de 1965.
 
 Dá nova redação ao § 1º do art. 8º do Decreto nº 55.789, de 23 de fevereiro de 1965, que estabelece normas de execução financeira para o exercício de 1965.

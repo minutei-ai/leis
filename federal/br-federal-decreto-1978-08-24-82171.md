@@ -1,5 +1,3 @@
-###DEC-082171-0-000-24-08-1978@@@
-
 Decreto nº 82 171, de 24 de agosto de 1978.
 
 Concede reconhecimento ao curso de Tecnólogo em Aquacultura, ministrado pelo Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

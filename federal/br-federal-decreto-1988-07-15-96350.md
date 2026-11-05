@@ -1,5 +1,3 @@
-###DEC-096350-0-000-15-07-1988@@@
-
 DECRETO N° 96.350, DE 15 DE JULHO DE 1988
 
 Outorga a Companhia Paulista de Ferro Ligas concessão para o aproveitamento da energia hidráulica de um trecho do Rio Sepotuba, no local denominado Salto das Nuvens, no Município de Tangará da Serra, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-007760-0-000-19-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.760, DE 19 DE JUNHO DE 2012
 
 Regulamenta a Gratificação de Desempenho de Atividade do Tribunal Marítimo, de que trata o art. 3° da Lei n° 11.319, de 6 de julho de 2006.

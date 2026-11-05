@@ -1,7 +1,3 @@
-1
-
-###DEL-001215-0-000-04-05-1972@@@
-
 # DECRETO-LEI Nº 1.215, DE 4 DE MAIO DE 1972
 
 Dispõe sobre o imposto de renda nas remessas de juros decorrentes de empréstimos contraídos no exterior.

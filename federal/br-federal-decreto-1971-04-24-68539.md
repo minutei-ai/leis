@@ -1,5 +1,3 @@
-###DEC-068539-0-000-24-04-1971@@@
-
 DECRETO Nº 68.539 - DE 24 DE ABRIL DE 1971.
 
 Dispõe sôbre o enquadramento de servidor do Ministério da Aeronáutica e dá outras providências.

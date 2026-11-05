@@ -1,5 +1,3 @@
-###DEC-051203-0-000-17-08-1961@@@
-
 DECRETO Nº 51.203, DE 17 DE AGÔSTO DE 1961.
 
 Cria o Serviço Nacional de Música e Dança e dá outras providências.

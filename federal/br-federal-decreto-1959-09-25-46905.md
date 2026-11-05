@@ -1,5 +1,3 @@
-###DEC-046905-0-000-25-09-1959@@@
-
 DECRETO Nº 46.905, DE 25 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública a Maternidade Casa da Mãe Pobre, com sede no Distrito Federal.

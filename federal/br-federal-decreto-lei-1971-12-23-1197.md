@@ -1,5 +1,3 @@
-###DEL-001197-0-000-23-12-1971@@@
-
 # DECRETO-LEI Nº 1.197, DE 23 DE DEZEMBRO DE 1971
 
 Inclui no Plano Nacional de Viação as ligações rodoviárias que especifica e da outras providências.

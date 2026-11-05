@@ -1,5 +1,3 @@
-###DEL-007832-0-000-06-08-1945@@@
-
 DECRETO-LEI N. 7.832 – DE 6 DE AGÔSTO DE 1945
 
 Dispõe sôbre a transferência, para a Colônia Penal Cândido Mendes e para a Colônia Agrícola do Distrito Federal. de presos recolhidos a estabelecimentos penais sediados no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEL-003501-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.501 – DE 14 DE AGOSTO DE 1941
 
 Dispõe sobre o serviço de Documentação, do Ministério da Educação e Saude, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052558-0-000-30-09-1963@@@
-
 DECRETO Nº 52.558, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza Centrais Elétricas de Goiás S.A. a proceder aos estudos para aproveitamento da energia hidráulica do Rio Paranaíba a montante da Cachoeira Dourada, até às cabeceiras.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001010-0-000-22-12-1993@@@
-
 DECRETO Nº 1.010, DE 22 DE DEZEMBRO DE 1993
 
 Dispõe sobre o regime especial de preço aos consumidores de Gás Liquefeito de Petróleo (GLP).

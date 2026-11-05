@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212830)<br>
-
 # LEI COMPLEMENTAR N° 1.444, DE 03 DE JULHO DE 2026
 
 ### _Dispõe sobre a transformação de cargos de Juízes Substitutos em Segundo Grau em cargos de Desembargadores no âmbito do Tribunal de Justiça do Estado de São Paulo, e dá outras providências._

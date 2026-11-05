@@ -1,5 +1,3 @@
-###DEL-004887-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.887 – DE 29 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de 300 :000$0, à verba que especifica

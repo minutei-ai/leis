@@ -1,5 +1,3 @@
-###DEL-002231-0-000-21-01-1985@@@
-
 # Decreto-lei nº 2.231, de 21 de janeiro dE 1985
 
 Dispõe sobre a Gratificação pelo Desempenho de Atividades de Apoio.

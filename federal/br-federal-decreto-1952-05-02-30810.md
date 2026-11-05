@@ -1,14 +1,12 @@
-###DEC-030810-0-000-02-05-1952@@@
+**DECRETO Nº 30.810, DE 2 DE MAIO DE 1952.**
 
-<strong>DECRETO Nº 30.810, DE 2 DE MAIO DE 1952.</strong>
+***Determina e novamente classifica as localidades do Território Nacional, nas categorias previstas nos artigos 122 e 123 do Código de Vencimentos e Vantagens dos Militares.***
 
-<em><strong>Determina e novamente classifica as localidades do Território Nacional, nas categorias previstas nos artigos 122 e 123 do Código de Vencimentos e Vantagens dos Militares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São classificadas nas categorias abaixo especificadas, as seguintes localidades:
+**Art**. 1º São classificadas nas categorias abaixo especificadas, as seguintes localidades:
 
 Categoria “A”
 
@@ -30,11 +28,11 @@ Categoria “E”
 
 As demais localidades situadas nos Estados do Rio de Janeiro, São Paulo, Paraná, Santa Catarina, Rio Grande do Sul e Minas Gerais e no Distrito Federal.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 2 de maio de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 

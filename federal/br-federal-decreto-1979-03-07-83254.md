@@ -1,5 +1,3 @@
-###DEC-083254-0-000-07-03-1979@@@
-
 Decreto nº 83.254, de 07 de março de 1979.
 
 Declara a caducidade da autorização de lavra que menciona.

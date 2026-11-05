@@ -1,5 +1,5 @@
 {
-  "stream_registros_lidos": 231182,
+  "stream_registros_lidos": 232562,
   "casos": [
     {
       "id": "federal-lei-2021-historica",
@@ -41,7 +41,7 @@
       "integra": {
         "sha256_ok": true,
         "corpo_igual": true,
-        "bytes": 22396,
+        "bytes": 10299,
         "truncado": false,
         "fonte_citada": "desconhecido",
         "vigencia_certificada": false
@@ -107,7 +107,6 @@
         "federal/br-federal-decreto-1954-02-25-35110.md",
         "federal/br-federal-decreto-1954-03-05-35146.md",
         "federal/br-federal-decreto-1954-03-05-35147.md",
-        "federal/br-federal-decreto-1954-05-06-35478.md",
         "federal/br-federal-decreto-1954-05-13-35496.md",
         "federal/br-federal-decreto-1954-05-17-35510.md",
         "federal/br-federal-decreto-1954-05-19-35535.md",
@@ -126,10 +125,7 @@
         "federal/br-federal-decreto-1954-12-07-36571.md",
         "federal/br-federal-decreto-1954-12-07-36572.md",
         "federal/br-federal-decreto-1954-12-07-36573.md",
-        "federal/br-federal-decreto-1954-12-07-36574.md",
         "federal/br-federal-decreto-1954-12-24-36655.md",
-        "federal/br-federal-decreto-1954-12-24-36659.md",
-        "federal/br-federal-decreto-1954-12-28-36677.md",
         "federal/br-federal-decreto-1955-01-07-36752.md",
         "federal/br-federal-decreto-1955-01-07-36753.md",
         "federal/br-federal-decreto-1955-01-07-36754.md",
@@ -139,8 +135,6 @@
         "federal/br-federal-decreto-1955-04-05-37148-a.md",
         "federal/br-federal-decreto-1955-05-12-37336.md",
         "federal/br-federal-decreto-1955-05-13-37338.md",
-        "federal/br-federal-decreto-1955-05-13-37339.md",
-        "federal/br-federal-decreto-1955-05-17-37342.md",
         "federal/br-federal-decreto-1955-05-17-37343.md",
         "federal/br-federal-decreto-1955-05-17-37345.md",
         "federal/br-federal-decreto-1955-05-17-37369.md",
@@ -158,7 +152,6 @@
         "federal/br-federal-decreto-1955-09-20-37939.md",
         "federal/br-federal-decreto-1955-09-20-37949.md",
         "federal/br-federal-decreto-1955-09-27-37992.md",
-        "federal/br-federal-decreto-1955-09-28-37993.md",
         "federal/br-federal-decreto-1955-10-12-38065.md",
         "federal/br-federal-decreto-1955-10-12-38066.md",
         "federal/br-federal-decreto-1955-10-12-38067.md",
@@ -167,7 +160,6 @@
         "federal/br-federal-decreto-1955-10-12-38070.md",
         "federal/br-federal-decreto-1955-10-12-38071.md",
         "federal/br-federal-decreto-1955-10-12-38072.md",
-        "federal/br-federal-decreto-1955-10-12-38073.md",
         "federal/br-federal-decreto-1955-10-12-38074.md",
         "federal/br-federal-decreto-1955-10-12-38076.md",
         "federal/br-federal-decreto-1955-10-12-38078.md",
@@ -323,13 +315,13 @@
         "federal/br-federal-decreto-1970-08-18-67070.md",
         "federal/br-federal-decreto-1970-08-20-67088.md"
       ],
-      "hit_count": 221,
+      "hit_count": 213,
       "ok": true,
       "must_include_ok": true,
       "integra": {
         "sha256_ok": true,
         "corpo_igual": true,
-        "bytes": 3612,
+        "bytes": 3564,
         "truncado": false,
         "fonte_citada": "desconhecido",
         "vigencia_certificada": false

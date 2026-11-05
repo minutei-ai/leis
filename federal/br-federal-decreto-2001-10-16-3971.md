@@ -1,5 +1,3 @@
-###DEC-003971-0-000-16-10-2001@@@
-
 DECRETO Nº 3.971, DE 16 DE OUTUBRO DE 2001
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Ministério da Agricultura, Pecuária e Abastecimento.

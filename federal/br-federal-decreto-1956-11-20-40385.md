@@ -1,14 +1,12 @@
-###DEC-040385-0-000-20-11-1956@@@
+**DECRETO Nº 40.385, DE 20 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.385, DE 20 DE NOVEMBRO DE 1956.</strong>
+***Modifica os arts. 2.º, 3.º, 13 e 15 do Regimento do Serviço de Assistência a Menores do Ministério da Justiça e Negócios Interiores, aprovado pelo Decreto n.º 16.575, de 11 de setembro de 1944 e alterado pelo de nº 29.857, de 6 de agôsto de 1951.***
 
-<em><strong>Modifica os arts. 2.º, 3.º, 13 e 15 do Regimento do Serviço de Assistência a Menores do Ministério da Justiça e Negócios Interiores, aprovado pelo Decreto n.º 16.575, de 11 de setembro de 1944 e alterado pelo de nº 29.857, de 6 de agôsto de 1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Os art. 2.º, 3.º, 13 e 15 do Regimento do Serviço de Assistência a Menores aprovado pelo Decreto n.º 16.575, de 11 de setembro de 1944 e alterado pelo de n.º 29.857, de 6 de agôsto de 1951, passam a ter a seguinte redação:
+**Art**. 1.º Os art. 2.º, 3.º, 13 e 15 do Regimento do Serviço de Assistência a Menores aprovado pelo Decreto n.º 16.575, de 11 de setembro de 1944 e alterado pelo de n.º 29.857, de 6 de agôsto de 1951, passam a ter a seguinte redação:
 
 “Art. 2.º O S.A.M. é constituído de:
 
@@ -68,10 +66,10 @@ Art. 13. O Pavilhão Anchieta, o Instituto Governador Macedo Soares, a Escola Jo
 
 Art. 15. Ao Hospital Central poderão ser recolhidos menores internados em estabelecimentos particulares orientados e fiscalizados pelo S.A.M.”
 
-<strong>Art</strong>. 2.º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 2.º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, em 20 de novembro de 1956; 135.º da Independência e 68.º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos

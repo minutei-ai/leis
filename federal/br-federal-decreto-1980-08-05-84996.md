@@ -1,5 +1,3 @@
-###DEC-084996-0-000-05-08-1980@@@
-
 Decreto nº 84.996, de 05 de agosto de 1980.
 
 Altera disposições do Decreto 74.685, de 14 de outubro de 1974, que cria a Comissão Brasileira do Programa sobre o Homem e a Biosfera, promovido pela UNESCO.

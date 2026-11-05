@@ -1,5 +1,3 @@
-###DEC-081817-0-000-23-06-1978@@@
-
 DECRETO Nº 81.817, DE 23 DE JUNHO DE 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação de Itabaré de FURNAS-Centrais Elétricas S.A., no Estado de São Paulo.

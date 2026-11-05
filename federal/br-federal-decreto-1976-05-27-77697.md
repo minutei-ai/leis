@@ -1,5 +1,3 @@
-###DEC-077697-0-000-27-05-1976@@@
-
 DECRETO Nº 77.697, DE 27 DE MAIO DE 1976
 
 Cria no Ministério do Exército o Centro de Processamento de Dados n.º 1, com sede no Rio de Janeiro - RJ e dá outras providências.

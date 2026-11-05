@@ -1,5 +1,3 @@
-###DEC-003270-0-000-01-12-1999@@@
-
 DECRETO Nº 3.270, DE 1º DE DEZEMBRO DE 1999.
 
 Altera o Programa de Dispêndios Globais - PDG, para 1999, da Companhia Docas do Maranhão - CODOMAR, aprovado pelo Decreto nº 2.912, de 29 de dezembro de 1998.

@@ -1,5 +1,3 @@
-###DEC-049326-0-000-23-11-1960@@@
-
 DECRETO Nº 49.326, DE 23 DE NOVEMBRO DE 1960.
 
 Cria cargos e funções gratificadas no quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

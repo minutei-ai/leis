@@ -1,5 +1,3 @@
-###DEC-064842-0-000-18-07-1969@@@
-
 DECRETO Nº 64.842 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 48.186, de 11 de maio de 1960.

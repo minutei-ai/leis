@@ -1,5 +1,3 @@
-###DEC-047643-0-000-15-01-1960@@@-
-
 Decreto nº 47.643, de 15 de janeiro de 1960.
 
 Autoriza a cidadã brasileira Therezinha de Jesus Maia Lello a pesquisar minério de manganês no município de Senhor do Bonfim, Estado da Bahia.

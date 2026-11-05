@@ -1,5 +1,3 @@
-###DEC-092369-0-000-05-02-1986@@@
-
 DECRETO Nº 92.369, DE 05 DE FEVEREIRO DE 1986
 
 Renova a concessão outorgada à RÁDIO EDUCAÇÃO RURAL DE COARI LTDA., para explorar serviço de radiodifusão sonora em onda tropical, no cidade de Coari, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-062241-0-000-08-02-1968@@@
-
 DECRETO Nº 62.241, DE 8 DE FEVEREIRO DE 1968.
 
 Reestrutura a Universidade Federal da Bahia e dá outras providências.
@@ -157,8 +155,6 @@ Brasília, 8 de fevereiro de 1968; 147º da Independência e 80º da República.
 A. COSTA E SILVA
 
 Tarso Dutra
-
-###DEC-062241-0-000-08-02-1968@@@REP01+++
 
 (\*) DECRETO Nº 62.241, DE 08 DE fevereirO DE 1968.
 

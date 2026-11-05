@@ -1,5 +1,3 @@
-###DEC-088047-0-000-19-01-1983@@@
-
 Decreto nº 88.047, de 19 de Janeiro 1983.
 
 Outorga à Metalubar Industrial e Comercial Ltda. concessão para o aproveitamento da energia hidráulica de um trecho do rio Santana, no Município de Miguel Pereira, Estado do Rio de Janeiro para uso exclusivo.

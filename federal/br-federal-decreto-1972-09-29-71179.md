@@ -1,5 +1,3 @@
-###DEC-071179-0-000-29-09-1972@@@
-
 DECRETO Nº 71.179, DE 29 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação do Vale do Rio Gorutuba, nos Municípios de Janaúba e Porteirinha, Estado de Minas Gerais.

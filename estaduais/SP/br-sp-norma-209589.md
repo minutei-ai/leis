@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209589)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1402-19.06.2024.html)
 
 # LEI COMPLEMENTAR N° 1.402, DE 19 DE JUNHO DE 2024

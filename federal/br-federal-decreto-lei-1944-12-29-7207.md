@@ -1,5 +1,3 @@
-###DEL-007207-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.207 – DE 29 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 81.000,00 para pagamento de vantagens, e dá outras providências

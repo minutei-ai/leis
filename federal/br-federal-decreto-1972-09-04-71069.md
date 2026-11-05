@@ -1,5 +1,3 @@
-###DEC-071069-0-000-04-09-1972@@@
-
 DECRETO Nº 71.069, DE 4 DE SETEMBRO DE 1972.
 
 Autoriza o Governo do Estado do Paraná a encampar os bens e instalações vinculados aos serviços públicos de energia elétrica, no município de Palmas, naquele Estado, e dá outras providências.

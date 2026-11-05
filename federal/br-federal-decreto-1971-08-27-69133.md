@@ -1,5 +1,3 @@
-###DEC-069133-0-000-27-08-1971@@@
-
 DECRETO Nº 69.133, DE 27 DE AGOSTO DE 1971.
 
 Declara de utilidade pública o Lactário Nossa Senhora Aparecida, com sede em Visconde do Rio Branco,  Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-075645-0-000-22-04-1975@@@
-
 DECRETO Nº 75.645, DE 22 DE ABRIL DE 1975.
 
 Inclui na Estrutura Orgânica do Ministério da Marinha as Estações Rádio Pina e de Val-de-Cães.

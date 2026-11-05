@@ -1,5 +1,3 @@
-###DEC-003202-0-000-07-10-1999@@@
-
 DECRETO Nº 3.202, DE 7 DE OUTUBRO DE 1999.
 
 Prorroga o prazo previsto no § 5º do art. 2º da Medida Provisória nº 1.875-55, de 24 de setembro de 1999.

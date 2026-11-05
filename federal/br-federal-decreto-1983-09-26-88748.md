@@ -1,5 +1,3 @@
-###DEC-088748-0-000-26-09-1983@@@
-
 Decreto nº 88.748, de 26 de setembro de 1983
 
 Muda a denominação e a finalidade do Centro de Instrução de Graduados da Aeronáutica.

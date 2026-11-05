@@ -1,5 +1,3 @@
-###DEC-066313-0-000-12-03-1970@@@
-
 DECRETO Nº 66.313 - DE 12 de MARÇO DE 1970
 
 Autoriza funcionamento da Escola Superior de Educação Física e Desportos, de Joinvile.

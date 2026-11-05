@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE RECREATIVA E CRECHE ESCOLA COMUNITÁRIA CRIANÇA FELIZ DA GRANDE SUSSUARANA, com sede e foro no município de Salvador.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.822, de 01 de novembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9822-de-01-de-novembro-de-2005#LO_9_822_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.822, de 01 de novembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9822-de-01-de-novembro-de-2005#LO_9_822_Art__1) .
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE RECREATIVA DA VELHA SUSSUARANA, com sede e foro no município de Salvador."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

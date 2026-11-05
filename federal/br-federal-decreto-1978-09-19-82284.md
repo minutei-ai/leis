@@ -1,5 +1,3 @@
-###DEC-082284-0-000-19-09-1978@@@
-
 Decreto nº 82.284, de 19 de setembro de 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz- CPFL, no Estado de São Paulo.

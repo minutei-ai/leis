@@ -1,5 +1,3 @@
-###DEC-049789-0-000-31-12-1960@@@
-
 DECRETO Nº 49.789, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Benedito Moreira Curimbaba a Lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

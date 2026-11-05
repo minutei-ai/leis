@@ -1,7 +1,3 @@
-1
-
-###DEC-099421-0-000-26-07-1990@@@
-
 DECRETO Nº 99.421, DE 26 DE JULHO DE 1990
 
 Cria a Embaixada do Brasil na República Socialista do Vietnam.

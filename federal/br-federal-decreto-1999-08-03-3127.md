@@ -1,5 +1,3 @@
-###DEC-003127-0-000-03-08-1999@@@
-
 DECRETO Nº 3.127, DE 3 DE AGOSTO DE 1999.
 
 Altera dispositivos do Regulamento para o Quadro de Engenheiros Militares (R-43), aprovado pelo Decreto 96.304, de 12 de julho de 1988, e alterado pelo Decreto nº 2.731, de 11 de agosto de 1998.

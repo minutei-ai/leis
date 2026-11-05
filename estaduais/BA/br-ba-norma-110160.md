@@ -6,7 +6,8 @@ Dispõe sobre a Política Estadual do Idoso e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA FINALIDADE
 
 Art. 1º - A Política Estadual do Idoso, em consonância com a Lei Federal nº 8.842, de 04.01.1994, que dispõe sobre a Política Nacional do Idoso, regulamentada pelo Decreto Federal nº 1.948, de 03.07.1996, tem por objetivo assegurar os direitos sociais do idoso, no âmbito do Estado da Bahia, criando condições para a garantia dos seus direitos, de sua autonomia, integração e participação efetiva na família e na sociedade.
@@ -15,10 +16,12 @@ Art. 2º - Considera-se idoso, para efeito desta Lei, a pessoa maior de 60 (sess
 
 Parágrafo único - A idade estabelecida no caput deste artigo poderá ser reduzida quando a idade biológica estiver comprovadamente dissociada da idade cronológica, considerando fatores sociais e ambientais, que acelerem o processo de envelhecimento, atestada por Junta Médica Oficial do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PRINCÍPIOS E DAS DIRETRIZES
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Princípios
 
 Art. 3º - A Política Estadual do Idoso reger-se-á pelos seguintes princípios:
@@ -31,7 +34,8 @@ III - ao idoso deve ser assegurado o tratamento adequado e livre de discriminaç
 
 IV - o idoso será o principal agente e destinatário das transformações a serem efetivadas através desta política, tendo os poderes públicos e a sociedade em geral o dever de observar, na aplicação desta Lei, as diferenças econômicas, sociais, regionais, culturais e, particularmente, as contradições entre o meio rural e urbano.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Diretrizes
 
 Art. 4º - Constituem diretrizes da Política Estadual do Idoso:
@@ -62,7 +66,8 @@ XII - eliminação de discriminação salarial por motivo de idade.
 
 Parágrafo único - É vedada a permanência, em instituições asilares de caráter social, de portadores de doenças que necessitem de assistência médica ou de enfermagem permanente.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS COMPETÊNCIAS
 
 Art. 5º - Na implementação da Política Estadual do Idoso compete à Secretaria do Trabalho e Ação Social, a coordenação geral das ações relativas à Política Estadual do Idoso.
@@ -89,7 +94,8 @@ VIII - coordenar e manter atualizado o cadastro de entidades e organizações de
 
 IX - implementar ações no sentido de divulgar amplamente esta Lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS AÇÕES GOVERNAMENTAIS
 
 Art. 8º - São competências dos órgãos e entidades da administração pública estadual, na implementação da Política Estadual do Idoso, dentre outras:
@@ -256,7 +262,8 @@ e) outras atividades que se fizerem necessárias no âmbito da Secretaria Estadu
 
 VIII - na área de transportes:
 
-Ver também:<br>
+Ver também:
+
 Art. [1](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9072-de-22-de-abril-de-2004#art1) º do Decreto nº 9.072, de abril de 2004: "A atuação do Poder Executivo Estadual na concessão dos benefícios mencionados nas alíneas "a", "b", "d" e "e" do inciso VIII do art. 8º da Lei nº 9.013, de 25 de fevereiro de 2004, e no art. 39 da Lei Federal nº 10.741, de 1º de outubro de 2003, limitar-se-á, no que se refere ao serviço de transporte coletivo urbano e demais assuntos de interesse local, à participação, em regime de parceria, de campanhas que vierem a ser desenvolvidas, a respeito, por iniciativa das administrações municipais, no que se afigurar relevante para a segurança e bem-estar dos idosos."
 
 a) assegurar aos idosos a gratuidade nos transportes coletivos urbanos e semi-urbanos;
@@ -297,7 +304,8 @@ d) resgatar a cidadania dos idosos de rua através de atividades que promovam a 
 
 e) outras atividades que se fizerem necessárias no âmbito da Secretaria Estadual que cuida da área de combate à pobreza e desigualdades sociais.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 Das Disposições Gerais
 
 Art. 9º - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos constantes do orçamento deste exercício, ficando o Poder Executivo autorizado a promover as modificações necessárias.

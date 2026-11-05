@@ -1,5 +1,3 @@
-###DEC-067169-0-000-11-09-1970@@@
-
 DECRETO Nº 67.169, DE 11 DE SETEMBRO DE 1970.
 
 Concede à IBACIP - Indústria Barbalhense de Cimento Portland S.A. o direito de lavrar calcário, gipsita e argila, no município de Barbalha, Estado do Ceará.

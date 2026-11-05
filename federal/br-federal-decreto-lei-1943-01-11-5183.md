@@ -1,5 +1,3 @@
-###DEL-005183-0-000-11-01-1943@@@
-
 DECRETO‑LEI N. 5.183 – DE 11 DE JANEIRO DE 1943
 
 Dispõe sobre pagamento de diferença de vencimento a ocupantes de cargos da carreira de Oficial Administrativo do Quadro Suplementar do Ministério da Guerra.

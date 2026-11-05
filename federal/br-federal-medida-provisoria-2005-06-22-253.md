@@ -1,5 +1,3 @@
-###MPV-000253-0-000-22-06-2005@@@
-
 MEDIDA PROVISÓRIA Nº 253, DE 22 DE JUNHO DE 2005
 
 Prorroga o prazo previsto no art. 32 da Lei no 10.826, de 22 de dezembro de 2003.

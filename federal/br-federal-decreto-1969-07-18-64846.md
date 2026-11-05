@@ -1,5 +1,3 @@
-###DEC-064846-0-000-18-07-1969@@@
-
 Decreto Nº 64.846 - de 18 de julho de 1969.
 
 Retifica o artigo 1º do Decreto número 11.358, de 18 de janeiro de 1943.

@@ -1,5 +1,3 @@
-###DEC-059991-0-000-10-01-1967@@@
-
 DECRETO Nº 59.991, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar mica, no município de Sta. Maria de Suaçuí, Estado de Minas Gerais.

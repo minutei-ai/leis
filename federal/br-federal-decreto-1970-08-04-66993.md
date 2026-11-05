@@ -1,5 +1,3 @@
-###DEC-066993-0-000-04-08-1970@@@
-
 DECRETO Nº 66.993, DE 4 DE AGÔSTO DE 1970.
 
 Cria e extingue Comissões de Obras no Ministério do Exército.

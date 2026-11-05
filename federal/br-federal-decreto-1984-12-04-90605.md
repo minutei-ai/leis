@@ -1,5 +1,3 @@
-###DEC-090605-0-000-04-12-1984@@@
-
 Decreto nº 90.605, de 04 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Educação Física de São Gonçalo, Rio de Janeiro.

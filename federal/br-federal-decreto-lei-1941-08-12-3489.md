@@ -1,5 +1,3 @@
-###DEL-003489-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.489 – DE 12 DE AGOSTO DE 1941
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 720$0, para pagamento de gratificação adicional a um Assistente da Faculdade de Medicina da Baía

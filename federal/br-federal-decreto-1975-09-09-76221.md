@@ -1,5 +1,3 @@
-###DEC-076221-0-000-09-09-1975@@@
-
 Decreto nº 76.221 - de 9 de setembro de 1975
 
 Concede reconhecimento aos cursos de Licenciatura de 1º grau em Artes Práticas, em Educação Física e em Educação Geral, da Universidade Federal de Minas Gerais.

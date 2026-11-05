@@ -1,18 +1,16 @@
-###DEC-019748-0-000-08-10-1945@@@
+**DECRETO Nº 19.748, DE 8 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.748, DE 8 DE OUTUBRO DE 1945.</strong>
+***Outorga a Alberto Pinto de Miranda, concessão para aproveitamento da energia hidráulica da cachoeira Papuan, situada no rio Concórdia, entre os distritos de Guarapuavinha e Concórdia, nos municípios de Guarapuava e União da Vitória, Estado do Paraná.***
 
-<em><strong>Outorga a Alberto Pinto de Miranda, concessão para aproveitamento da energia hidráulica da cachoeira Papuan, situada no rio Concórdia, entre os distritos de Guarapuavinha e Concórdia, nos municípios de Guarapuava e União da Vitória, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a Alberto Pinto de Miranda, concessão para o aproveitamento de energia hidráulica da cachoeira Papuan, situada no rio Concórdia, entre os distritos de Guarapuavinha e Concórdia, respectivamente nos municípios de Guarapuava e União da Vitória, Estado do Paraná.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a Alberto Pinto de Miranda, concessão para o aproveitamento de energia hidráulica da cachoeira Papuan, situada no rio Concórdia, entre os distritos de Guarapuavinha e Concórdia, respectivamente nos municípios de Guarapuava e União da Vitória, Estado do Paraná.
 
 Parágrafo único. O aproveitamento destina-se à utilização de energia mecânica para uso exclusivo do concessionário.
 
-<strong>Art</strong>. 2º Sob pena de ficar de nenhum efeito o presente título, o concessionário obriga-se a:
+**Art**. 2º Sob pena de ficar de nenhum efeito o presente título, o concessionário obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, dentro do prazo de trinta (30) dias após a sua publicação.
 
@@ -36,24 +34,24 @@ IV - Assinar o contrato disciplinar da concessão dentro do prazo de trinta (30)
 
 V- Apresentar o mesmo contrato à Divisão de Águas para fins de até sessenta (60) dias depois de registrado no tribunal de Contas.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão, será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão, será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo de concessão tôda a propriedade do concessionário que no momento existir em função exclusiva e permanente da utilização da energia mecânica referente ao aproveitamento concedido, reverterá ao Govêrno do Estado do Paraná, mediante indenização do custo histórico, isto é, do capital efetivamente invertido, menos a depreciação.
+**Art**. 6º Findo o prazo de concessão tôda a propriedade do concessionário que no momento existir em função exclusiva e permanente da utilização da energia mecânica referente ao aproveitamento concedido, reverterá ao Govêrno do Estado do Paraná, mediante indenização do custo histórico, isto é, do capital efetivamente invertido, menos a depreciação.
 
 § 1º Se o Estado do Paraná não fizer uso do seu direito a essa reversão, o concessionário poderá requerer, na forma que fôr estipulada no contrato da presente concessão a sua renovação, salvo se preferir repor, por sua conta, o curso das águas no seu estado primitivo.
 
 § 2º Para os efeitos do parágrafo anterior, fica o concessionário obrigado a dar conhecimento ao Govêrno Federal de decisão do Estado do Paraná e a entrar com o requerimento de prorrogação de concessão ou o de desistência desta até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º O concessionário gozará, desde a data do registro de que trata o nº III do art. 2º, e enquanto vigorar esta concessão, os favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º O concessionário gozará, desde a data do registro de que trata o nº III do art. 2º, e enquanto vigorar esta concessão, os favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8º O presente Decreto entra em vigor na data da sua publicação revogadas as disposições em contrário.
+**Art**. 8º O presente Decreto entra em vigor na data da sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de outubro de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolonio Sales

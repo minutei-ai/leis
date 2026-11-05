@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/660964ee-835a-4002-a2a2-408a02d1359b/texto#nowhere)
 
-###DEL-000775-0-000-20-08-1969@@@
-
 DECRETO-LEI Nº 775, DE 20 DE AGÔSTO DE 1969
 
 Provê sôbre o funcionamento como fundação de direito privado, da Faculdade de Medicina da Academia Brasileira de Medicina Militar, e dá outras providências.

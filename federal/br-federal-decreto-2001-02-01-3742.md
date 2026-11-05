@@ -1,5 +1,3 @@
-###DEC-003742-0-000-01-02-2001@@@
-
 DECRETO N°  3.742,  DE  1°  DE  FEVEREIRO  DE  2001
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6º , § 1 ° , da Lei nº 9.424, de 24 de dezembro de 1996, para o exercício de 2001.

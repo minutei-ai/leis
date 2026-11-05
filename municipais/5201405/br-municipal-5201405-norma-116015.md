@@ -12,5 +12,6 @@ Art. 2º Esta Lei entrará em vigor na data da sua publicação, revogando as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 30 de novembro de 2021.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

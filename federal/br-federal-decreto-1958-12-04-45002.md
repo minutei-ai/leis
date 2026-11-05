@@ -1,5 +1,3 @@
-###DEC-045002-0-000-04-12-1958@@@
-
 DECRETO Nº 45.002, DE 4 DE DEZEMBRO DE 1958.
 
 Permite o uso da medalha da UNEF em uniformes militares.

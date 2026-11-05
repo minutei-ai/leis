@@ -1,5 +1,3 @@
-###DEC-057838-0-000-18-02-1966@@@
-
 Decreto nº 57.838, de 18 de Fevereiro de 1966.
 
 Concede reconhecimento a cursos da Escola Potécnica de Pernambuco, agregada à Universidade Católica de Pernambuco.

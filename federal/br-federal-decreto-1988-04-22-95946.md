@@ -1,5 +1,3 @@
-###DEC-095946-0-000-22-04-1988@@@
-
 DECRETO Nº 95.946, DE 22 DE ABRIL DE 1988
 
 Altera o Regulamento de Promoções de Graduados do Exército, aprovado pelo Decreto nº 77.920, de 28 de junho de 1976.

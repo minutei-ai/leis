@@ -1,5 +1,3 @@
-###DEC-066590-0-000-19-05-1970@@@
-
 DECRETO Nº 66.590, DE 19 DE MAIO DE 1970.
 
 Dispõe sobre redistribuição e servidora do extinto Serviço de Alimentação da Previdência Social (SAPS).

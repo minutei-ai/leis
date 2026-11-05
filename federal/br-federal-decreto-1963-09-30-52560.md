@@ -1,5 +1,3 @@
-###DEC-052560-0-000-30-09-1963@@@
-
 DECRETO Nº 52.560, DE 30 DE SETEMBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Hidroelétrica Coromandel Abadia S. A.

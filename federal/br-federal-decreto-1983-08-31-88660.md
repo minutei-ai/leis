@@ -1,5 +1,3 @@
-###DEC-088660-0-000-31-08-1983@@@
-
 DECRETO Nº 88.660, DE 31 DE AGOSTO DE 1983
 
 Aprova alteração introduzida no Estatuto da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

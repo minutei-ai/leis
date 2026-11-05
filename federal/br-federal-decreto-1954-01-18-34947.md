@@ -1,14 +1,12 @@
-###DEC-034947-0-000-18-01-1954@@@
+**DECRETO Nº 34.947, DE 18 DE JANEIRO DE 1954.**
 
-<strong>DECRETO Nº 34.947, DE 18 DE JANEIRO DE 1954.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias às obras de construção da barragem e reservatório de Pirapora, no rio Tietê, e autoriza a São Paulo Light and Power Company, Limited. a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias às obras de construção da barragem e reservatório de Pirapora, no rio Tietê, e autoriza a São Paulo Light and Power Company, Limited. a promover a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessária às obras de construção da barragem e reservatório de Pirapora, no rio Tietê, Estado de São Paulo, autorizadas pelo Decreto número 22.008, de 29 de outubro de 1946, constante das plantas aprovadas pelo Ministro da Agricultura:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessária às obras de construção da barragem e reservatório de Pirapora, no rio Tietê, Estado de São Paulo, autorizadas pelo Decreto número 22.008, de 29 de outubro de 1946, constante das plantas aprovadas pelo Ministro da Agricultura:
 
 1 - Área de terra indicada na planta nº 13-102, com um total de 9.827 (nove mil oitocentos e vinte e sete) metros quadrados, de propriedade atribuída à Companhia de Cerâmica Industrial de Osasco.
 
@@ -268,16 +266,16 @@
 
 129 - Área de terra indicada na planta número 13-103, com um total de 250 (duzentos e cinquenta) metros quadrados, de propriedade atribuída a Domingos Crudo ou quem de direito.
 
-<strong>Art</strong>. 2º Fica autorizada a São Paulo <em>Light and Power Company Limited</em> a promover a desapropriação das referidas áreas de terra, na forma de legislação vigente, com as benfeitorias nelas existentes.
+**Art**. 2º Fica autorizada a São Paulo *Light and Power Company Limited* a promover a desapropriação das referidas áreas de terra, na forma de legislação vigente, com as benfeitorias nelas existentes.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente, para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e seu parágrafo único.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente, para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e seu parágrafo único.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 18 de janeiro de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

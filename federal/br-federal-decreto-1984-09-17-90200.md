@@ -1,5 +1,3 @@
-###DEC-090200-0-000-17-09-1984@@@
-
 Decreto nº 90.200, de 17 de setembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis de Propriedade particular constituídos de terras e benfeitorias que menciona.

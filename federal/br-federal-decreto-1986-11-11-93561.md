@@ -1,5 +1,3 @@
-###DEC-093561-0-000-11-11-1986@@@
-
 DECRETO Nº 93.561, DE 11 DE NOVEMBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "RIO DA SERRA, situado no Município de Monte Castelo, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986, e dá outras providências.

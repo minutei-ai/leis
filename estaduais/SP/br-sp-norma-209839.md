@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209839)<br>
-
 # DECRETO N° 68.769, DE 14 DE AGOSTO DE 2024
 
 ### _Institui a Política de Dados Abertos da Administração Pública direta e autárquica do Estado de São Paulo e dá providências correlatas._

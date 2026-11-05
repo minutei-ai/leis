@@ -1,5 +1,3 @@
-###DEC-006205-0-000-14-09-2007@@@
-
 DECRETO Nº 6.205, DE 14 DE SETEMBRO DE 2007.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.
@@ -37,5 +35,3 @@ JOSÉ ALENCAR GOMES DA SILVA
 Miguel Jorge
 
 Nelson Jose Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 17.9.2007

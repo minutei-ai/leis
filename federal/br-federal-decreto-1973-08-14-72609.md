@@ -1,5 +1,3 @@
-###DEC-072609-0-000-14-08-1973@@@
-
 DECRETO Nº 72.609, de 14 de agosto de 1973.
 
 Concede reconhecimento à Faculdade de Direito de Itú, mantida pela Organização Sorocabana de Assistência e Cultura, com sede na cidade de Itú, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-059373-0-000-07-10-1966@@@
-
 Decreto nº 59.373, de 7 de outubro de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Tambaú, Estado de São Paulo.

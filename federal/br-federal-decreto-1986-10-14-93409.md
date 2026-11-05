@@ -1,5 +1,3 @@
-###DEC-093409-0-000-14-10-1986@@@
-
 DECRETO Nº 93.409, DE 14 DE OUTUBRO DE 1986.
 
 Altera o Decreto nº 93.115, de 14 de agosto de 1986, que ''Cria o Fundo de Desenvolvimento Rural - FDR, o Conselho de Crédito Rural e Agroindustrial - CCRA e dá outras providências''.

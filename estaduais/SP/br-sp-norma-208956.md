@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208956)<br>
-
 # DECRETO N° 68.207, DE 15 DE DEZEMBRO DE 2023
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Combatente da Força Pública", instituída pelo Instituto Histórico Militar e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEL-004647-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.647 – DE 2 DE SETEMBRO DE 1942
 
 Coloca sob intervenção do Governo a firma Stahlunion Limitada e dá outras providências

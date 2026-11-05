@@ -1,5 +1,3 @@
-###DEC-047381-0-000-09-12-1959@@@
-
 DECRETONº 47.381, DE 9 DE DEZEMBRO DE 1959.
 
 Declara de utilidade pública as áreas de terra destinadas a passagem da linha de transmissão da Companhia Hidro Elétrica do São Francisco, de 66 KV, que liga Angelim a Maceió, nos Estados de Pernambuco e Alagoas.

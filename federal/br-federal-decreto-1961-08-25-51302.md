@@ -1,5 +1,3 @@
-###DEC-051302-0-000-25-08-1961@@@
-
 DECRETO Nº 51.302, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Feliciano Miguel Abdala a pesquisar mica no município de Caratinga, Estado de Minas Gerais.

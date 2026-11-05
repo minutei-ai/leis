@@ -1,5 +1,3 @@
-###DEC-069032-0-000-09-08-1971@@@
-
 DECRETO Nº 69.032, DE 9 DE AGôSTO DE 1971.
 
 Concede à Duarte & Companhia Limitada concessão para lavrar gipsita, no município de Ipubi, Estado de Pernambuco.

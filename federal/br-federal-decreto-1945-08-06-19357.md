@@ -1,14 +1,12 @@
-###DEC-019357-0-000-06-08-1945@@@
+**DECRETO Nº 19.357, DE 06 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.357, DE 06 DE AGÔSTO DE 1945.</strong>
+***Altera o Decreto nº 8.887, de 2 e março de 1942.***
 
-<em><strong>Altera o Decreto nº 8.887, de 2 e março de 1942.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 44 e 45 do Decreto nº 8.887, de 2 de março de 1942, que aprova o Regulamento para os Centros de Preparação de Oficiais da Reserva, passam a ter a seguinte redação:
+**Art**. 1º Os artigos 44 e 45 do Decreto nº 8.887, de 2 de março de 1942, que aprova o Regulamento para os Centros de Preparação de Oficiais da Reserva, passam a ter a seguinte redação:
 
 “Art. 44. Concorrem à matricula no Centro de Preparação de Oficiais da Reserva tanto os convocados que pelas disposições vigentes sôbre o Serviço Militar são obrigadas a essa matricula, como, se ainda houver vaga, os candidatos voluntários.”
 
@@ -34,10 +32,10 @@ g) pagar a taxa e depósito na importância total de Cr$30,00 (trinta cruzeiros)
 
 § 3º Os sargentos reservistas de 1ª categoria, alunos de instituto de ensino superior ou diplomados por êsses institutos, serão matriculados diretamente no 2º ano da respectiva arma, desde que satisfaçam as demais condições exigidas para a matricula.”
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de agôsto de 1945, 124º da Independência e 57º da República
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Eurico G. Dutra

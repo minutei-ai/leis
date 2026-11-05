@@ -1,5 +1,3 @@
-###DEC-004477-0-000-21-11-2002@@@
-
 DECRETO Nº 4.477, DE 21 DE NOVEMBRO DE 2002
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 3 de outubro de 2002.

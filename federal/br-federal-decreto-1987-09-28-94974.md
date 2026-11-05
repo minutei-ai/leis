@@ -1,5 +1,3 @@
-###DEC-094974-0-000-28-09-1987@@@
-
 DECRETO Nº 94.974, DE 28 DE SETEMBRO DE 1987
 
 Autoriza a alienação de bem imóvel pertencente ao patrimônio da Fundação Universidade Federal de Viçosa, e dá outras providências.

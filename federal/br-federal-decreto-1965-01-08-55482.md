@@ -1,5 +1,3 @@
-###DEC-055482-0-000-08-01-1965@@@
-
 DECRETO Nº 55.482, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro José Cambraia Diniz a pesquisar grafita no município de Oliveira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047225-0-000-12-11-1959@@@
-
 DECRETO Nº 47.225, DE 12 DE NOVEMBRO DE 1959.
 
 Dispõe sôbre o transporte de mercadorias importadas com o benefício de favores governamentais e dá outras providências.

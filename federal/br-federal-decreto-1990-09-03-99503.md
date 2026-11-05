@@ -1,7 +1,3 @@
-1
-
-###DEC-099503-0-000-03-09-1990@@@
-
 DECRETO N° 99.503, DE 3 DE SETEMBRO DE 1990
 
 Constitui comissão com a finalidade de reexaminar a matriz energética nacional.

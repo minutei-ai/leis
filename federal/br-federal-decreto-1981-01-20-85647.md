@@ -1,5 +1,3 @@
-###DEC-085647-0-000-20-01-1981@@@
-
 Decreto nº 85.647, de 20 de janeiro de 1981
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Medicina de Marília, com sede em Marília, Estado de São Paulo.

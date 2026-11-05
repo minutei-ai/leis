@@ -1,5 +1,3 @@
-###DEC-049442-0-000-06-12-1960@@@
-
 DECRETO Nº 49.442, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza Minérios Raiz da Serra Ltda., a pesquisar argila refratária no município de Mogi das Cruzes, estado de São Paulo.

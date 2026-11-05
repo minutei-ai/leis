@@ -1,5 +1,3 @@
-###DEC-053304-0-000-16-12-1963@@@
-
 DECRETO Nº 53.304, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Francisco José de Melo a pesquisar mármore no município de Diamantina, Estado de Minas Gerais.

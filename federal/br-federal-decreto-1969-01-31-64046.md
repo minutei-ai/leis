@@ -1,5 +1,3 @@
-###DEC-064046-0-000-31-01-1969@@@
-
 Decreto nº 64.046, de 31 de janeiro de 1969.
 
 Abre ao Ministério da Justiça o crédito especial de NCr$ 20.000,00, para o fim que específica.

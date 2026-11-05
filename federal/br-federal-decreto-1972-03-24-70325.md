@@ -1,5 +1,3 @@
-###DEC-070325-0-000-24-03-1972@@@
-
 DECRETO Nº 70.325, de 24 DE MARÇO DE 1972
 
 Declara de utilidade pública o Liceu de Artes e Ofícios - LAO, com sede em Limoeiro de Norte, Estado do Ceará.

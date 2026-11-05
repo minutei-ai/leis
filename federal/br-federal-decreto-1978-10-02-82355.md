@@ -1,5 +1,3 @@
-###DEC-082355-0-000-02-10-1978@@@
-
 DECRETO Nº 82 355, DE 02 DE OUTUBRO DE 1978.
 
 Altera dispositivos do Decreto nº 77 272, de 9 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais.

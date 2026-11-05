@@ -1,5 +1,3 @@
-###DEL-001561-0-000-02-09-1939@@@
-
 DECRETO-LEI N. 1.561 – DE 2 DE SETEMBRO DE 1939
 
 Aprova as regras de neutralidade no caso de guerra entre potências estrangeiras, não americanas

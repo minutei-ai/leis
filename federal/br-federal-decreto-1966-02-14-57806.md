@@ -1,5 +1,3 @@
-###DEC-057806-0-000-14-02-1966@@@
-
 decreto nº 57.806, de 14 de fevereiro de 1966.
 
 Regula o Reconhecimento de Sociedades Classificadoras de Navios e dá outras providências.

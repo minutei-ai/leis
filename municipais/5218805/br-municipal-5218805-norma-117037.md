@@ -30,11 +30,111 @@ Secretário de Planejamento e Gestão
 
 “1. Tabela 1 - Consolidada
 
-<table style="width: 500px;"><tbody><tr><td style="width: 129px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 170px; text-align: center;"><strong>QUANTITATIVO</strong></td><td style="width: 149px; text-align: center;"><strong>REMUNERAÇÃO</strong></td></tr><tr><td style="width: 129px; text-align: center;">FG-1</td><td style="width: 170px; text-align: center;">35</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-2</td><td style="width: 170px; text-align: center;">77</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-3</td><td style="width: 170px; text-align: center;">35</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-4</td><td style="width: 170px; text-align: center;">196</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-5</td><td style="width: 170px; text-align: center;">128</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-6</td><td style="width: 170px; text-align: center;">171</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;">FG-7</td><td style="width: 170px; text-align: center;">131</td><td style="width: 149px; text-align: center;">........................</td></tr><tr><td style="width: 129px; text-align: center;"><strong>TOTAL</strong></td><td style="width: 170px; text-align: center;">773</td><td style="width: 149px; text-align: center;">&nbsp;</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**QUANTITATIVO**
+
+**REMUNERAÇÃO**
+
+FG-1
+
+35
+
+........................
+
+FG-2
+
+77
+
+........................
+
+FG-3
+
+35
+
+........................
+
+FG-4
+
+196
+
+........................
+
+FG-5
+
+128
+
+........................
+
+FG-6
+
+171
+
+........................
+
+FG-7
+
+131
+
+........................
+
+**TOTAL**
+
+773
 
 1\. Tabela 2 - Prefeitura Municipal de Rio Verde
 
-<table style="width: 500px;"><tbody><tr><td style="width: 131px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 186px; text-align: center;"><strong>QUANTITATIVO</strong></td><td style="width: 131px; text-align: center;"><strong>VALOR (R$)</strong></td></tr><tr><td style="width: 131px; text-align: center;">FG-1</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-2</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-3</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-4</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-5</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-6</td><td style="width: 186px; text-align: center;">24</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;">FG-7</td><td style="width: 186px; text-align: center;">..................</td><td style="width: 131px; text-align: center;">..................</td></tr><tr><td style="width: 131px; text-align: center;"><strong>TOTAL</strong></td><td style="width: 186px; text-align: center;">219</td><td style="width: 131px; text-align: center;">&nbsp;</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**QUANTITATIVO**
+
+**VALOR (R$)**
+
+FG-1
+
+..................
+
+..................
+
+FG-2
+
+..................
+
+..................
+
+FG-3
+
+..................
+
+..................
+
+FG-4
+
+..................
+
+..................
+
+FG-5
+
+..................
+
+..................
+
+FG-6
+
+24
+
+..................
+
+FG-7
+
+..................
+
+..................
+
+**TOTAL**
+
+219
 
 ....................................................................................................."
 
@@ -44,6 +144,36 @@ Secretário de Planejamento e Gestão
 
 “1. Tabela 1 - Prefeitura Municipal de Rio Verde
 
-<table height="499" width="861"><tbody><tr><td style="width: 98px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 113px; text-align: center;"><strong>FUNÇÃO</strong></td><td style="width: 135px; text-align: center;"><strong>DESCRIÇÃO</strong></td><td style="width: 116px; text-align: center;"><strong>QUANTIDADE</strong></td></tr><tr><td style="width: 98px; text-align: center;">........................</td><td style="width: 113px; text-align: center;">........................</td><td style="width: 135px; text-align: center;">........................</td><td style="width: 116px; text-align: center;">........................</td></tr><tr><td style="width: 98px; text-align: center;">FG-6</td><td style="width: 113px; text-align: center;">Monitor de vigilância&nbsp;Patrimonial</td><td style="width: 135px; text-align: center;">Monitorar/acompanhar os serviços prestados&nbsp;pelos vigias, visando aumento da eficiência da prestação do serviço público; garantir o cumprimento da escala de trabalho da equipe de segurança; realizar relatórios operacionais sobre FG-6 as atividades sob sua responsabilidade; 04 monitorar, inspecionar e orientar “in loco” a execução das atividades da Segurança Patrimonial; visitar periodicamente os postos de vigilância e constatar o cumprimento da escala de trabalho e solucionar os problemas operacionais dos postos de serviço, tomando as providências necessárias repassadas por seus superiores.</td><td style="width: 116px; text-align: center;">04</td></tr><tr><td style="width: 98px; text-align: center;">........................</td><td style="width: 113px; text-align: center;">........................</td><td style="width: 135px; text-align: center;">........................</td><td style="width: 116px; text-align: center;">........................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+........................
+
+........................
+
+........................
+
+........................
+
+FG-6
+
+Monitor de vigilância Patrimonial
+
+Monitorar/acompanhar os serviços prestados pelos vigias, visando aumento da eficiência da prestação do serviço público; garantir o cumprimento da escala de trabalho da equipe de segurança; realizar relatórios operacionais sobre FG-6 as atividades sob sua responsabilidade; 04 monitorar, inspecionar e orientar “in loco” a execução das atividades da Segurança Patrimonial; visitar periodicamente os postos de vigilância e constatar o cumprimento da escala de trabalho e solucionar os problemas operacionais dos postos de serviço, tomando as providências necessárias repassadas por seus superiores.
+
+04
+
+........................
+
+........................
+
+........................
+
+........................
 
 ............................................................................................................................................................."

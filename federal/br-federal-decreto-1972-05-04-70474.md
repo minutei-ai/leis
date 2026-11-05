@@ -1,5 +1,3 @@
-###DEC-070474-0-000-04-05-1972@@@
-
 DECRETO Nº 70.474, DE 4 DE MAIO DE 1972.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal de Juiz de Fora, cargo da Universidade Federal Rural do Rio de Janeiro, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002035-0-000-11-10-1996@@@
-
 DECRETO Nº 2.035, DE 11 DE OUTUBRO DE 1996.
 
 Dá nova redação ao art. 7º do Decreto nº 575, de 23 de junho de 1992, e ao art. 15 do Anexo I do Decreto nº 1.673, de 11 de outubro de 1995.

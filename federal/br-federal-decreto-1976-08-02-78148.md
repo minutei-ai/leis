@@ -1,5 +1,3 @@
-###DEC-078148-0-000-02-08-1976@@@
-
 DECReTO Nº 78.148, DE 2 DE AGOSTO DE 1976.
 
 Autoriza o registo, em nome da União Federal, o imóvel que menciona, situado no Estado do Rio Grande do Sul.

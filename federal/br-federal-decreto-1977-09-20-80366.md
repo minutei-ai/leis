@@ -1,5 +1,3 @@
-###DEC-080366-0-000-20-09-1977@@@
-
 DECRETO Nº 80.366, DE 20 DE SETEMBRO DE 1977.
 
 Concede à Mineração Geral do Nordeste S. A. o direito de lavrar caulim no município de Pedras de Fogo, Estado da Paraíba.

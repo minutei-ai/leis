@@ -1,5 +1,3 @@
-###DEC-077273-0-000-09-03-1976@@@
-
 DECRETO Nº 77.273, de 9 DE março de 1976.
 
 Autoriza a cessão gratuita de imóvel ao Estado de São Paulo.

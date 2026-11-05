@@ -1,5 +1,3 @@
-###DEC-087189-0-000-19-05-1982@@@
-
 Decreto nº 87.189, de 19 de maio de 1982
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói, Maricá, Angra dos Reis, Cabo Frio e Parati, Estado do Rio de Janeiro; Recife, Estado de Pernambuco e Florianópolis, Estado de Santa Catarina.

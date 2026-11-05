@@ -1,5 +1,3 @@
-###MPV-001792-0-005-20-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.792-5, DE 20 DE MAIO DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080437-0-000-28-09-1977@@@
-
 DECRETO Nº 80.437, DE 28 DE SETEMBRO DE 1977.
 
 Altera os Decretos nºs 51.061, de 27 de julho de 1961, e 55.249, de 21 de dezembro de 1964, que tratam da concessão de medalha de ouro ao funcionário com 50 (cinqüenta) anos de serviço público e sem falta grave.

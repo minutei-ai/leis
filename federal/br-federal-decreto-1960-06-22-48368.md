@@ -1,5 +1,3 @@
-###DEC-048368-0-000-22-06-1960@@@
-
 DECRETO Nº 48.368, de 22 de junho de 1960.
 
 Autoriza o cidadão brasileiro Silvio Costa Rodrigues a pesquisar minério de manganês, no município de Jacobina, Estado da Bahia.

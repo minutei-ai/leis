@@ -1,5 +1,3 @@
-###DEC-045889-0-000-28-04-1959@@@
-
 DECRETO Nº 45.889, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileira Nestor Barreto dos Santos a pesquisar calcário, no município de Pinheiro Machado, Estado do Rio Grande do Sul.

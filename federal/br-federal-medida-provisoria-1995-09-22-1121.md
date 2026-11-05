@@ -1,7 +1,3 @@
-1
-
-###MPV-001121-0-000-22-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.121, DE 22 DE SETEMBRO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

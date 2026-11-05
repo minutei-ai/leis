@@ -1,5 +1,3 @@
-###DEL-001244-0-000-31-10-1972@@@
-
 # DECRETO-LEI Nº 1.244, DE 31 DE OUTUBRO DE 1972
 
 Dispõe Sobre o regime fiscal dos estabelecimentos constituídos por conjuntos industriais completos importados com base no Decreto-lei número 1.236, de 28 de agosto de 1972, e dá outras providências.

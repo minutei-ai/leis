@@ -1,5 +1,3 @@
-###DEC-067485-0-000-04-11-1970@@@
-
 DECRETO Nº 67.485, DE 4 DE NOVEMBRO DE 1970.
 
 Altera o Estatuto da Universidade Federal do Pará.

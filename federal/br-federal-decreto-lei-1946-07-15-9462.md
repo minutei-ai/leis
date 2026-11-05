@@ -1,5 +1,3 @@
-###DEL-009462-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.462 – DE 15 DE JULHO DE 1946
 
 Dispõe sôbre a nacionalização do trabalho nos portos

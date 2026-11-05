@@ -1,5 +1,3 @@
-###DEC-060734-0-000-22-05-1967@@@
-
 DECRETO Nº 60.734, DE 22 DE MAIO DE 1967.
 
 Outorga ao Município de Riachuelo, Estado de Sergipe, concessão para distribuir energia elétrica em seu território.

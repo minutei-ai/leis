@@ -1,5 +1,3 @@
-###DEC-081562-0-000-13-04-1978@@@
-
 Decreto n.º 81.562, de 13 de abril de 1978.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Pedagogia, Ciências e Letras de Caçador, com sede na cidade de Caçador, Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-003927-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.927 – DE 11 DE DEZEMBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas

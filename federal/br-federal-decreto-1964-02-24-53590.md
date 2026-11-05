@@ -1,5 +1,3 @@
-###DEC-053590-0-000-24-02-1964@@@
-
 DECRETO Nº 53.590, DE 24 DE FEVEREIRO DE 1964.
 
 Aprova alterações do Regulamento Geral do D.F.S.P., aprovado pelo Decreto nº 37.008, de 8-3-1955.

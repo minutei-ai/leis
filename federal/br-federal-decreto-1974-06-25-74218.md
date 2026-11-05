@@ -1,5 +1,3 @@
-###DEC-074218-0-000-25-06-1974@@@
-
 DECRETO Nº 74.218, DE 25 DE JUNHO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado em Fortaleza, Estado do Ceará.

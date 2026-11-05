@@ -1,5 +1,3 @@
-###DEC-069792-0-000-15-12-1971@@@
-
 DECRETO Nº 69.792 - DE 15 DE dezembro DE 1971
 
 Autoriza o funcionamento dos cursos de Filosofia de Psicologia, da Faculdade de Filosofia, Ciências e Letras de Santos - SP.

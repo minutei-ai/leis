@@ -1,5 +1,3 @@
-###DEC-054931-0-000-04-11-1964@@@
-
 DECRETO Nº 54.931, DE 4 DE NOVEMBRO DE 1964.
 
 Concede autorização para o funcionamento do Curso de Matemática da Faculdade de Filosofia de Caxias do Sul.

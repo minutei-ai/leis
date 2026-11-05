@@ -1,30 +1,28 @@
-###DEC-032582-0-000-15-04-1953@@@
+**DECRETO Nº 32.582, DE 15 DE ABRIL DE 1953.**
 
-<strong>DECRETO Nº 32.582, DE 15 DE ABRIL DE 1953.</strong>
+***Aprova o Regulamento para a Diretoria de Hidrografia e Navegação da Marinha.***
 
-<em><strong>Aprova o Regulamento para a Diretoria de Hidrografia e Navegação da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA**
 
-<strong>DECRETA</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Diretoria de Hidrografia e Navegação da Marinha, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Diretoria de Hidrografia e Navegação da Marinha, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto, entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto, entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 15 de abril de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>REGULAMENTO PARA A DIRETORIA DE HIDROGRAFIA E NAVEGAÇÃO DA MARINHA</strong>
+**REGULAMENTO PARA A DIRETORIA DE HIDROGRAFIA E NAVEGAÇÃO DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria de Hidrografia e Navegação da Marinha (DN) é o órgão do Ministério da Marinha que tem por finalidade planejar, dirigir, coordenar e controlar as atividades técnicas e administrativas relacionados com os serviços de hidrografia, navegação, sinalização náutica e geofísica e com o material especializado a êles referente.
+**Art**. 1º A Diretoria de Hidrografia e Navegação da Marinha (DN) é o órgão do Ministério da Marinha que tem por finalidade planejar, dirigir, coordenar e controlar as atividades técnicas e administrativas relacionados com os serviços de hidrografia, navegação, sinalização náutica e geofísica e com o material especializado a êles referente.
 
 Parágrafo único. A DN será subordinada:
 
@@ -34,7 +32,7 @@ b) ao Estado-Maior da Armada, quanto ao comando e à logística de administraç�
 
 c) A Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º. A DN competirá:
+**Art**. 2º. A DN competirá:
 
 a) planejar suas atividades;
 
@@ -70,13 +68,13 @@ q) emitir parecer sôbre os assuntos técnicos de sua alçada;
 
 r) cooperar com a Secretaria Geral da Marinha e a Diretoria do Pessoal, na seleção, instrução, especialização e aperfeiçoamento do pessoal técnico necessário aos seus serviços.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
 Estrutura Organica
 
-<strong>Art</strong>. 3º Além do Diretor-Geral de Hidrografia e Navegação e seu Gabinete a DN disporá de uma Vice-Diretoria, de um Grupo de Inspeção, de um Conselho Técnico e dos seguintes Departamentos:
+**Art**. 3º Além do Diretor-Geral de Hidrografia e Navegação e seu Gabinete a DN disporá de uma Vice-Diretoria, de um Grupo de Inspeção, de um Conselho Técnico e dos seguintes Departamentos:
 
 Departamento de Hidrografia .............................................................................................. (DN-10)
 
@@ -92,29 +90,29 @@ Departamento de Intendência ...................................................
 
 Parágrafo único. A Vice-Diretoria será constituída pelo Vice-Diretor de Hidrografia e Navegação assessorado pela Divisão de Serviços Gerais, ficando-lhe subordinados os navios a serviço da DN.
 
-<strong>Art</strong>. 4º O Conselho Técnico órgão consultivo da DN, será subordinado ao Diretor-Geral de Hidrografia e Navegação (DGN) e constituído do Vice-Diretor dos Chefes dos Departamentos técnicos (Hidrografia Navegação, Sinalização Náutica e Geofísica) e do Chefe do Grupo de Inspeção. Será secretariado pelo Encarregado de Divisão que o Regimento Interno da DN especificar.
+**Art**. 4º O Conselho Técnico órgão consultivo da DN, será subordinado ao Diretor-Geral de Hidrografia e Navegação (DGN) e constituído do Vice-Diretor dos Chefes dos Departamentos técnicos (Hidrografia Navegação, Sinalização Náutica e Geofísica) e do Chefe do Grupo de Inspeção. Será secretariado pelo Encarregado de Divisão que o Regimento Interno da DN especificar.
 
 Parágrafo único. O Chefe do Grupo de Inspeção e o Secretário não terão direito de voto.
 
 Atribuição dos Diversos órgãos
 
-<strong>Art</strong>. 5º O DGN, Assessor Técnico do Ministro da Marinha em assuntos de Hidrografia, Navegação Sinalização Náutica e Geofísica, será o responsável pelo fornecimento dos requisitos de apôio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB no que se referir a todo o material de competência da DN.
+**Art**. 5º O DGN, Assessor Técnico do Ministro da Marinha em assuntos de Hidrografia, Navegação Sinalização Náutica e Geofísica, será o responsável pelo fornecimento dos requisitos de apôio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB no que se referir a todo o material de competência da DN.
 
-<strong>Art</strong>. 6º O DGN será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DN e dos navios, Estabelecimentos e Serviços que lhe forem suboridnados.
+**Art**. 6º O DGN será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DN e dos navios, Estabelecimentos e Serviços que lhe forem suboridnados.
 
-<strong>Art</strong>. 7º O DGN exercerá, sôbre os navios a serviço da DN, as atribuições previstas na “Ordenança Geral para o Serviço da Armada” para Comandante de Fôrça Naval Independente.
+**Art**. 7º O DGN exercerá, sôbre os navios a serviço da DN, as atribuições previstas na “Ordenança Geral para o Serviço da Armada” para Comandante de Fôrça Naval Independente.
 
-<strong>Art</strong>. 8º O DGN manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
+**Art**. 8º O DGN manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
 
-<strong>Art</strong>. 9º O DGN será o representante do Govêrno do Brasil junto à Repartição Hidrográfica Internacional e o representante da MB junto ao Conselho Nacional de Geografia e aos diversos órgãos nacionais que se ocupam de atividades idênticas.
+**Art**. 9º O DGN será o representante do Govêrno do Brasil junto à Repartição Hidrográfica Internacional e o representante da MB junto ao Conselho Nacional de Geografia e aos diversos órgãos nacionais que se ocupam de atividades idênticas.
 
-<strong>Art</strong>. 10. No desempenho de suas atribuições, o DGN terá como auxiliares diretos o Vice-Diretor, o Conselho Técnico e seu Gabinete.
+**Art**. 10. No desempenho de suas atribuições, o DGN terá como auxiliares diretos o Vice-Diretor, o Conselho Técnico e seu Gabinete.
 
 Vice-Diretoria
 
 (DN-05)
 
-<strong>Art</strong>. 11. À Vice-Diretoria (DN-05) competirá:
+**Art**. 11. À Vice-Diretoria (DN-05) competirá:
 
 a) providenciar a execução das diretivas e ordens do DGN;
 
@@ -138,7 +136,7 @@ Conselho Técnico
 
 (DN-03)
 
-<strong>Art</strong>. 12. Ao Conselho Técnico - (DN-03), competirá:
+**Art**. 12. Ao Conselho Técnico - (DN-03), competirá:
 
 a) estudar os assuntos de ordem técnica de competência da DN, ao âmbito de responsabilidade desta;
 
@@ -152,7 +150,7 @@ Grupo de Inspeção
 
 (DN-06)
 
-<strong>Art</strong>. 13. Ao Grupo de Inspeção - (DN-06) constituído por um Chefe assessorado por oficiais da própria DN, competirá:
+**Art**. 13. Ao Grupo de Inspeção - (DN-06) constituído por um Chefe assessorado por oficiais da própria DN, competirá:
 
 a) inspecionar periodicamente todos os órgãos sob o contrôle técnico ou administrativo das DN, de acôrdo com as ordens do DGN e atendendo às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar:
 
@@ -170,9 +168,9 @@ d) manter o DGN a par da produção das fábricas, oficinas e laboratórios da D
 
 Departamentos
 
-<strong>Art</strong>. 14. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhe compete, conforme abaixo se especifica.
+**Art**. 14. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhe compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 15. Ao Departamento de Hidrografia (DN-10) competirá:
+**Art**. 15. Ao Departamento de Hidrografia (DN-10) competirá:
 
 a) planejar os levantamentos hidrográficos, inclusive as operações aerofotogramétricas;
 
@@ -184,7 +182,7 @@ d) elaborar, controlar e divulgar as informações relativas à segurança da na
 
 e) planejar as características dos faróis e sinais de balizamento, atendendo às exigências da segurança da navegação.
 
-<strong>Art</strong>. 16. Ao Departamento de Navegação (DN-20), competirá:
+**Art**. 16. Ao Departamento de Navegação (DN-20), competirá:
 
 a) orientar tecnicamente a navegação nos navios da MB;
 
@@ -194,7 +192,7 @@ c) estabelecer as dotações correspondentes e fornecer instrumentos, publicaç�
 
 d) orientar e fiscalizar a venda de cartas e publicações pelos agentes autorizados.
 
-<strong>Art</strong>. 17. Ao Departamento de Sinalização Náutica (DN-30) competirá:
+**Art**. 17. Ao Departamento de Sinalização Náutica (DN-30) competirá:
 
 a) construir, instalar, manter e administrar os faróis e suas dependências;
 
@@ -202,7 +200,7 @@ b) construir, instalar, manter e administrar as instalações terrestres de aux�
 
 c) construir, instalar e manter os balizamentos e suas dependências.
 
-<strong>Art</strong>. 18. Ao Departamento de Geofísica (DN-40), competirá:
+**Art**. 18. Ao Departamento de Geofísica (DN-40), competirá:
 
 a) organizar, dirigir e fiscalizar o serviço metereológico e climatológico da MB;
 
@@ -210,7 +208,7 @@ b) fazer a oceanografia hidrológica e hidrográfica, nas ruas brasileiras;
 
 c) fazer a propecção geológica, magnética e gravimétrica da costa brasileira.
 
-<strong>Art</strong>. 19. Ao Departamento de Obras e Reparos (DN-50) competirá:
+**Art**. 19. Ao Departamento de Obras e Reparos (DN-50) competirá:
 
 a) executar reparos e pequenas obras, estruturais e de máquinas, nos navios e embarcações da DN;
 
@@ -220,7 +218,7 @@ c) orientar e fiscalizar a execução de obras e reparos que devam ser feitos po
 
 d) prestar auxílio aos outros Departamentos no preparo e execução dos serviços que lhes competem.
 
-<strong>Art</strong>. 20. Ao Departamento de Intendência (DN-60) competirá:
+**Art**. 20. Ao Departamento de Intendência (DN-60) competirá:
 
 a) lavrar contratos;
 
@@ -236,23 +234,23 @@ f) elaborar a proposta orçamentária da DN e dos órgãos a ela subordinados;
 
 g) coligir e analisar os dados referentes à contabilidade industrial dos órgão subordinados à DN, indicando providências para seu aperfeiçoamento.
 
-<strong>Art</strong>. 21. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DN.
+**Art**. 21. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DN.
 
 Gabinete
 
 (DN-02)
 
-<strong>Art</strong>. 22. Ao Gabinete do DGN - (DN-02) competirá:
+**Art**. 22. Ao Gabinete do DGN - (DN-02) competirá:
 
 a) o desempenho das funções de representação;
 
 b) a correspondência de caráter pessoal do DGN.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 23. A DN disporá do seguinte pessoal:
+**Art**. 23. A DN disporá do seguinte pessoal:
 
 a) um Diretor-Geral de Hidrografia e Navegação oficial general, da ativa, do Corpo da Armada;
 
@@ -276,40 +274,40 @@ j) tantos oficiais, da ativa ou da reserva, dos diversos Corpos e Quadros da MB,
 
 l) tantos sub-oficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidores civis, quantos forem necessários, de acôrdo com os efetivos fixados no Regimento Interno.
 
-<strong>Art</strong>. 24. As atribuições do pessoal serão discriminadas no Regimento Interno da DN.
+**Art**. 24. As atribuições do pessoal serão discriminadas no Regimento Interno da DN.
 
-<strong>Art</strong>. 25. O pessoal da DN será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
+**Art**. 25. O pessoal da DN será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 26. Ficarão subordinados à DN todos os órgãos dos seguintes tipos: - Serviços Distritais de Sinalização Naútica, Serviço Distrital de Metereologia, Depósitos de Material e Equipamentos Técnicos, Centros Especializados da Produção, Oficinas Especializadas, Centros de Reparos, navios hidrográficos, faroleiros, balizadores e outras embarcações, destinados à execução, aparelhamento e manutenção dos serviços que lhes são afetos.
+**Art**. 26. Ficarão subordinados à DN todos os órgãos dos seguintes tipos: - Serviços Distritais de Sinalização Naútica, Serviço Distrital de Metereologia, Depósitos de Material e Equipamentos Técnicos, Centros Especializados da Produção, Oficinas Especializadas, Centros de Reparos, navios hidrográficos, faroleiros, balizadores e outras embarcações, destinados à execução, aparelhamento e manutenção dos serviços que lhes são afetos.
 
 § 1º Os regulamentos ou regimentos internos dos diversos órgãos, conforme o caso, especificarão, quando necessário, a natureza da subordinação.
 
 § 2º A subordinação dos Serviços Distritais se fará através dos Departamentos correspondentes.
 
-<strong>Art</strong>. 27. O serviço interno da DN obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
+**Art**. 27. O serviço interno da DN obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
 
-<strong>Art</strong>. 28. Nas cartas, publicações e instrumentos elaborados ou construídos pela DN deverá sempre existir, como sinal de autenticação, o sinete que fôr estabelecido no seu Regimento Interno.
+**Art**. 28. Nas cartas, publicações e instrumentos elaborados ou construídos pela DN deverá sempre existir, como sinal de autenticação, o sinete que fôr estabelecido no seu Regimento Interno.
 
-<strong>Art</strong>. 29. O material que constituía a antiga Oficina de Relojoaria, da Diretoria de Comunicações da Marinha, passa a pertencer à DN.
+**Art**. 29. O material que constituía a antiga Oficina de Relojoaria, da Diretoria de Comunicações da Marinha, passa a pertencer à DN.
 
-<strong>Art</strong>. 30. Os serviços de instalação, manutenção e reparos de ecobatímetros e radiogoniômetros, executados pela antiga DHN, passarão oportunamente a constituir atribuição da Diretoria de Eletrônica da Marinha.
+**Art**. 30. Os serviços de instalação, manutenção e reparos de ecobatímetros e radiogoniômetros, executados pela antiga DHN, passarão oportunamente a constituir atribuição da Diretoria de Eletrônica da Marinha.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 31. Durante o prazo fixado no artigo 27, o DGN expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
+**Art**. 31. Durante o prazo fixado no artigo 27, o DGN expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
 
-<strong>Art</strong>. 32. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o Regulamento ou Regimento Interno, conforme o caso pelo qual se deverá reger.
+**Art**. 32. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o Regulamento ou Regimento Interno, conforme o caso pelo qual se deverá reger.
 
-<strong>Art</strong>. 33. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos Internos que regem os estabelecimentos e Serviços existentes de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
+**Art**. 33. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos Internos que regem os estabelecimentos e Serviços existentes de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
 
-<strong>Art</strong>. 34. Êste Regulamento deverá ser revisto dentro do prazo de dois meses contados a partir de sua aprovação.
+**Art**. 34. Êste Regulamento deverá ser revisto dentro do prazo de dois meses contados a partir de sua aprovação.
 
 Rio de Janeiro, D. F., em 15 de abril de 1953.
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**

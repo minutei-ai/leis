@@ -1,5 +1,3 @@
-###DEC-090044-0-000-13-08-1984@@@
-
 Decreto nº 90.044, de 13 de agosto de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Canarana, no Estado de Mato Grosso.

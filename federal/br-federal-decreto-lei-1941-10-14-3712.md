@@ -1,5 +1,3 @@
-###DEL-003712-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.712 – DE 14 DE OUTUBRO DE 1941
 
 Dispõe sobre o pagamento dos materiais já adquiridos pelas estradas de ferro da União, mediante “cartas de concessão” e dá outras providências

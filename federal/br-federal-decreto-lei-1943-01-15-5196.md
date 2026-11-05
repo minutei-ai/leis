@@ -1,5 +1,3 @@
-###DEL-005196-0-000-15-01-1943@@@
-
 DECRETO‑LEI N. 5.196 – DE 15 DE JANEIRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 3.264, de 12 de maio de 1941

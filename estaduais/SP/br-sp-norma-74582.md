@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74582)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12745-14.11.2007.html)
 
 # LEI Nº 12.745, DE 14 DE NOVEMBRO DE 2007
@@ -9,19 +8,28 @@
 
 ### _Denomina "Angelo Paschoal Bortoloti" viaduto localizado no Município de Corumbataí._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
 ~~Artigo 1º - Passa a denominar-se “Angelo Paschoal Bortoloti” o viaduto localizado no km 192 da Rodovia SP 310, no Município de Corumbataí.~~
 
 **Artigo 1º -** Passa a denominar-se ‘Angelo Paschoal Bortoloti’ o viaduto localizado no km 190,380 da Rodovia Washington Luís - SP 310, no Município de Corumbataí. (NR)
 
 _\- Artigo 1º com redação dada pela [Lei nº 13.133, de 08/07/2008](http://www.al.sp.gov.br/norma?id=98457)._
 
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 14 de novembro de 2007<br>
-JOSÉ SERRA<br>
-Mauro Guilherme Jardim Arce<br>
-Secretário dos Transportes<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 14 de novembro de 2007
+
+JOSÉ SERRA
+
+Mauro Guilherme Jardim Arce
+
+Secretário dos Transportes
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 14 de novembro de 2007.

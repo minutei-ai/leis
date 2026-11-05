@@ -4,7 +4,8 @@ Dispõe sobre os princípios, diretrizes e objetivos da Política de Desenvolvim
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei estabelece os princípios, as diretrizes e os objetivos da Política de Desenvolvimento Territorial do Estado da Bahia, bem como os seus espaços de participação social e de relação entre as representações dos segmentos da sociedade civil e os Poderes Públicos federal, estadual e municipal.
@@ -13,10 +14,12 @@ Art. 1º - Esta Lei estabelece os princípios, as diretrizes e os objetivos da P
 
 § 2º - As dimensões espaciais dos Territórios de Identidade de que trata o § 1º desta Lei podem ser modificadas a cada Plano Plurianual - PPA, observados os procedimentos específicos estabelecidos em Decreto e em Resoluções do Conselho Estadual de Desenvolvimento Territorial - CEDETER, de que trata o art. 7º desta Lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS, DIRETRIZES E OBJETIVOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS PRINCÍPIOS
 
 Art. 2º - A Política de Desenvolvimento Territorial do Estado da Bahia observará os princípios previstos na Constituição Federal e na Constituição Estadual, bem como nas normas específicas aplicáveis para garantia do desenvolvimento territorial sustentável e solidário, em especial os seguintes princípios:
@@ -35,7 +38,8 @@ VI - da participação social;
 
 VII - da cooperação.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS DIRETRIZES
 
 Art. 3º - A elaboração e a implementação da Política de Desenvolvimento Territorial do Estado da Bahia observará as seguintes diretrizes:
@@ -56,7 +60,8 @@ VII - estimular o desenvolvimento da democracia participativa;
 
 VIII - promover a ação integrada dos entes federados.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DOS OBJETIVOS
 
 Art. 4º - A Política de Desenvolvimento Territorial do Estado da Bahia tem por objetivo a promoção do desenvolvimento territorial, democrático sustentável e solidário, através da participação social, da articulação e integração das políticas públicas e ações governamentais visando à melhoria da qualidade de vida da população e, ainda:
@@ -79,7 +84,8 @@ I - do Plano Plurianual - PPA, da Lei de Diretrizes Orçamentárias - LDO, da Le
 
 II - do monitoramento e da avaliação da gestão governamental na execução dos programas e ações do Plano Plurianual - PPA, da Lei de Diretrizes Orçamentárias - LDO e da Lei Orçamentária Anual - LOA, tendo como recorte de abrangência os Territórios de Identidade.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO CONSELHO ESTADUAL DE DESENVOLVIMENTO TERRITORIAL - CEDETER E DOS COLEGIADOS TERRITORIAIS DE DESENVOLVIMENTO SUSTENTÁVEL - CODETERs
 
 Art. 6º - O Conselho Estadual de Desenvolvimento Territorial - CEDETER e os Colegiados Territoriais de Desenvolvimento Sustentável - CODETERs de que tratam, respectivamente, os arts. 7º e 14 desta Lei, constituem-se nos espaços de referência para discussão e acompanhamento da Política de Desenvolvimento Territorial do Estado da Bahia, sem prejuízo das contribuições oriundas de outros espaços de oitiva social.

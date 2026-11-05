@@ -1,5 +1,3 @@
-###DEC-070877-0-000-26-07-1972@@@
-
 DECRETO Nº 70.877, DE 26 DE JULHO DE 1972.
 
 Retifica o Decreto nº 69.690, de 3 de dezembro de 1971, que redistribuiu cargo, com a respectiva ocupante, para a Universidade Federal do Rio Grande do Norte.

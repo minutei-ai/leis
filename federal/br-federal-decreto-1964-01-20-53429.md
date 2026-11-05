@@ -1,5 +1,3 @@
-###DEC-053429-0-000-20-01-1964@@@
-
 DECRETO Nº 53.429, de 20 de JANEIRO DE 1964.
 
 Declara caduco o decreto nº 9.257, de 16 de abril de 1942.

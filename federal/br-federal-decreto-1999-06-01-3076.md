@@ -1,5 +1,3 @@
-###DEC-003076-0-000-01-06-1999@@@
-
 DECRETO Nº 3.076, DE 1º DE JUNHO DE 1999.
 
 Cria, no âmbito do Ministério da Justiça, o Conselho Nacional dos Direitos da Pessoa Portadora de Deficiência - CONADE, e dá outras providências.

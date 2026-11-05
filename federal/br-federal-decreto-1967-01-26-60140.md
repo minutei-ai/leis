@@ -1,5 +1,3 @@
-###DEC-060140-0-000-26-01-1967@@@
-
 DECRETO Nº 60.140, DE 26 DE JANEIRO DE 1967.
 
 Prorroga a vigência do Decreto n° 55.075, de 25-11-1964, que reconheceu prioritária ao desenvolvimento do Nordeste a importação a ser realizada por “Artefatos de Borracha Mucambo Ltda.”, de Salvador (Ba).
@@ -10,7 +8,93 @@ Decreta:
 
 Art. 1º Fica prorrogado por mais um ano, em todos os seus efeitos, o Decreto n° 55.075, de 25-11-1964, que atribui prioridade à importação a ser realizada pela emprêsa “Artefatos de Borracha Mucambo Ltda.’, de Salvador (Ba) e destinada à modernização e ampliação de sua fábrica de artefatos de borracha e cirúrgicos, sita no município de Ilhéus, no referido Estado.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor total </span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr style="height:342.45pt"><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Procedência: Inglaterra</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Tanque de mergulhão com circulação, marca </span><span style="font-style:italic">Gotswold</span><span>, fabricado por </span><span style="font-style:italic">Lionel Hook Sons</span><span> Ltda. capacidade horária de produção de 304 pares de luvas, com pêso bruto de 1.100Kg..........................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Procedência: Suécia</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Centrífuga tipo LRH 410-77 AM-60, marca e fabricante De Laval. Capacidade horária de produção: 85 a 125 galões; pêso bruto de 1.250KG.........................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Procedência: Suécia</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="font-style:italic">Bowl</span><span> de Clarificação para centrifuga, tipo LRH-410-70, marca e fabricante De Laval, com pêso bruto de 290Kg...............................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Procedência: U.S.A.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="font-style:italic">Scott Teste</span><span> e acessórios, marca e fabricante </span><span style="font-style:italic">Scott Testers</span><span>, Inc.Pêso bruto:77.180KG..........</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Procedência: U.S.A.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Oxigem </span><span style="font-style:italic">Aging</span><span> </span><span style="font-style:italic">Aparatus</span><span>,marca e fabricação </span><span style="font-style:italic">Scott Testers</span><span>, Inc. Pêso bruto: 13.620 Kg.....................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.916,12</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>10.029,03</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>6.088,70</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.657,75</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>545,40</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>6</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Procedência: U.S.A.</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-style:italic">Atritir</span><span> – Marca e fabricante </span><span style="font-style:italic">Union Process Co</span><span>. Capacidade horária de produção: 8 galões p/hora. Pêso bruto: 1.271,200Kg.....................</span></p><p class="Tabela" style="text-indent:0pt"><span>Procedência: U.S.A.</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-style:italic">Brookfiel</span><span> </span><span style="font-style:italic">Viscometer</span><span>, marca </span><span style="font-style:italic">Synchro</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">Sectric</span><span> fabricante: </span><span style="font-style:italic">Brookfiel</span><span> </span><span style="font-style:italic">Enginering</span><span> </span><span style="font-style:italic">Laboratories</span><span>. Pêso bruto:21.792Kg..................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>6.276,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>506,00</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total..................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>28.019,00</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total
+
+CIF US$
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Procedência: Inglaterra
+
+Tanque de mergulhão com circulação, marca Gotswold, fabricado por Lionel Hook Sons Ltda. capacidade horária de produção de 304 pares de luvas, com pêso bruto de 1.100Kg..........................................................
+
+Procedência: Suécia
+
+Centrífuga tipo LRH 410-77 AM-60, marca e fabricante De Laval. Capacidade horária de produção: 85 a 125 galões; pêso bruto de 1.250KG.........................................................
+
+Procedência: Suécia
+
+Bowl de Clarificação para centrifuga, tipo LRH-410-70, marca e fabricante De Laval, com pêso bruto de 290Kg...............................................................
+
+Procedência: U.S.A.
+
+Scott Teste e acessórios, marca e fabricante Scott Testers, Inc.Pêso bruto:77.180KG..........
+
+Procedência: U.S.A.
+
+Oxigem Aging Aparatus,marca e fabricação Scott Testers, Inc. Pêso bruto: 13.620 Kg.....................................................................
+
+4
+
+1
+
+1
+
+1
+
+1
+
+2.916,12
+
+10.029,03
+
+6.088,70
+
+1.657,75
+
+545,40
+
+6
+
+7
+
+Procedência: U.S.A.
+
+Atritir – Marca e fabricante Union Process Co. Capacidade horária de produção: 8 galões p/hora. Pêso bruto: 1.271,200Kg.....................
+
+Procedência: U.S.A.
+
+Brookfiel Viscometer, marca Synchro
+
+Sectric fabricante: Brookfiel Enginering Laboratories. Pêso bruto:21.792Kg..................
+
+1
+
+1
+
+6.276,00
+
+506,00
+
+Total..................................................................
+
+-
+
+28.019,00
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

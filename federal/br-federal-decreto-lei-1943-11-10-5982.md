@@ -1,5 +1,3 @@
-###DEL-005982-0-000-10-11-1943@@@
-
 DECRETO-LEI N. 5.982 – DE 10 DE DEZEMBRO DE 1943
 
 Cria o Conselho Nacional de Política Industrial e Comercial

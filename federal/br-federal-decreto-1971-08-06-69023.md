@@ -1,5 +1,3 @@
-###DEC-069023-0-000-06-08-1971@@@
-
 DECRETO Nº 69.023, DE 6 DE AGôSTO DE 1971.
 
 Aprova o Regulamento para a Diretoria do Pessoal Militar da Marinha

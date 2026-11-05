@@ -1,6 +1,4 @@
-###DEC-038524-0-000-05-01-1956@@@
-
-<strong>DECRETO Nº 38.524, DE 5 DE JANEIRO DE 1956</strong>
+**DECRETO Nº 38.524, DE 5 DE JANEIRO DE 1956**
 
 <!-- fac-simile-oficial:inicio -->
 

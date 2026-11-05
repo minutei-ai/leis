@@ -1,5 +1,3 @@
-###DEC-084643-0-000-22-04-1980@@@
-
 Decreto nº 84.643, de 22 de abril de 1980.
 
 Autoriza a alienação de bens imóveis, pertencentes ao patrimônio da Universidade Federal da Bahia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004145-0-000-25-02-2002@@@
-
 DECRETO Nº 4.145, DE 25 DE FEVEREIRO DE 2002
 
 Dá nova redação ao caput do art. 1º do Decreto nº 4.131, de 14 de fevereiro de 2002, que dispõe sobre medidas emergenciais de redução do consumo de energia elétrica no âmbito da Administração Pública Federal.

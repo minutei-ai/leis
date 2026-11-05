@@ -1,5 +1,3 @@
-###DEC-092938-0-000-17-07-1986@@@
-
 DECRETO Nº 92.938, DE 17 DE JULHO DE 1986
 
 Outorga concessão à Rádio Amarela Ltda., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Rolim de Moura, Estado de Rondônia.

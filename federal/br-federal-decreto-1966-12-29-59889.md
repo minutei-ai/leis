@@ -1,5 +1,3 @@
-###DEC-059889-0-000-29-12-1966@@@
-
 DECRETO Nº 59.889, DE 29 DE DEZEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Internacional de Seguros, inclusive aumento do capital social.

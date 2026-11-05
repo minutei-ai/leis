@@ -56,10 +56,34 @@ SUBSÍDIO DO CARGO DE PROCURADOR GERAL DO MINISTÉRIO PÚBLICO
 
 JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 6.0cm; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="227"><p class="Tabela-Texto">CARGO</p></td><td style="width: 155.95pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="208"><p class="Tabela-Texto">SUBSÍDIO</p></td></tr><tr><td style="width: 6.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="227"><p class="Tabela-Texto">PROCURADOR GERAL</p></td><td style="width: 155.95pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="208"><p class="Tabela-Texto">R$ 22.000,00</p></td></tr></tbody></table>
+CARGO
+
+SUBSÍDIO
+
+PROCURADOR GERAL
+
+R$ 22.000,00
 
 SUBSÍDIO DO CARGO DE PROCURADOR DO MINISTÉRIO PÚBLICO
 
 JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 6.0cm; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="227"><p class="Tabela-Texto">CARGO</p></td><td style="width: 155.95pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="208"><p class="Tabela-Texto">SUBSÍDIO</p></td></tr><tr><td style="width: 6.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="227"><p class="Tabela-Texto">PROCURADOR - CLASSE D</p></td><td style="width: 155.95pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="208"><p class="Tabela-Texto">R$ 20.460,00</p></td></tr><tr><td style="width: 6.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="227"><p class="Tabela-Texto">PROCURADOR - CLASSE C</p></td><td style="width: 155.95pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="208"><p class="Tabela-Texto">R$ 19.027,80</p></td></tr><tr><td style="width: 6.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="227"><p class="Tabela-Texto">PROCURADOR - CLASSE B</p></td><td style="width: 155.95pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="208"><p class="Tabela-Texto">R$ 17.695,85</p></td></tr><tr><td style="width: 6.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="227"><p class="Tabela-Texto">PROCURADOR - CLASSE A</p></td><td style="width: 155.95pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 1.0cm;" valign="top" width="208"><p class="Tabela-Texto">R$ 16.811,06</p></td></tr></tbody></table>
+CARGO
+
+SUBSÍDIO
+
+PROCURADOR - CLASSE D
+
+R$ 20.460,00
+
+PROCURADOR - CLASSE C
+
+R$ 19.027,80
+
+PROCURADOR - CLASSE B
+
+R$ 17.695,85
+
+PROCURADOR - CLASSE A
+
+R$ 16.811,06

@@ -1,5 +1,3 @@
-###DEC-053537-0-000-05-02-1964@@@
-
 DECRETO Nº 53.537, DE 5 DE FEVEREIRO DE 1964.
 
 Altera o artigo 1º do Decreto número 53.152, de 10 de dezembro de 1963.

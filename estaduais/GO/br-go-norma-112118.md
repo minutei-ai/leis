@@ -16,10 +16,65 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR</td><td style=" width:85px;    ">28 843 0100 7123</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 13.741.352,37</td><td style=" width:85px;    ">R$ 13.741.352,37</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELG D</td><td style=" width:85px;    ">28 843 0100 7122</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 858.791,91</td><td style=" width:85px;    ">R$ 3.956.545,38</td><td style=" width:85px;    ">R$ 4.815.337,29</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 17.697.897,75</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 17.697.897,75</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR
+
+28 843 0100 7123
+
+25000100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 13.741.352,37
+
+R$ 13.741.352,37
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELG D
+
+28 843 0100 7122
+
+25000100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 858.791,91
+
+R$ 3.956.545,38
+
+R$ 4.815.337,29
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 17.697.897,75
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 17.697.897,75

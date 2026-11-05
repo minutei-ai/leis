@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b44c4c82-194c-4d0a-93f2-0ba1c8f6a1cc/texto#nowhere)
 
-###DEL-000996-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 996, DE 21 DE OUTUBRO DE 1969
 
 Autoriza a Rêde Ferroviária Federal S.A. - RFFSA a ceder bens, na forma que determina.

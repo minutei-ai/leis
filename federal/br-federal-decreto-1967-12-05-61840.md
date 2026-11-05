@@ -1,5 +1,3 @@
-###DEC-061840-0-000-05-12-1967@@@
-
 Decreto nº 61.840, de 5 de dezembro de 1967.
 
 Autoriza o cidadão brasileiro, Salim Cesar Curi a lavrar cassiterita no município de Macapá, Território Federal do Amapá.

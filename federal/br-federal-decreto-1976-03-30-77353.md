@@ -1,5 +1,3 @@
-###DEC-077353-0-000-30-03-1976@@@
-
 DECRETO Nº 77.353, DE 30 DE MARÇO DE 1976
 
 Acrescenta à Constituição do Conselho Cientifico e Tecnológico - CCT do Conselho Nacional de Desenvolvimento Cientifico e Tecnológico - CNPq, como membros natos, um representante do Ministério da Fazenda e o Presidente da Financiadora de Estudos e Projetos (FINEP).

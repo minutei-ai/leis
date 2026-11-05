@@ -1,5 +1,3 @@
-###DEC-004865-0-000-29-10-2003@@@
-
 DECRETO Nº 4.865,  DE 29 DE OUTUBRO DE 2003.
 
        Dispõe sobre a execução no Território Nacional da Resolução 1.506, de 12 de setembro de 2003, do Conselho de Segurança das Nações Unidas, que revoga as sanções impostas à Líbia
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 29 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim

@@ -1,7 +1,3 @@
-1
-
-###DEC-001369-0-000-16-01-1995@@@
-
 DECRETO N° 1.369, DE 16 DE JANEIRO DE 1995
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica n° 25, entre Brasil e Peru, de 26 de outubro de 1994.

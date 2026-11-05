@@ -1,5 +1,3 @@
-###MPV-001913-0-006-27-08-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.913-6, DE 27 de agosto DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

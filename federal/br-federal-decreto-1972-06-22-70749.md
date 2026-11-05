@@ -1,5 +1,3 @@
-###DEC-070749-0-000-22-06-1972@@@
-
 Decreto nº 70.749, de 22 de junho de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano destinada à instalação de uma torre de microondas, na cidade de Magé, Estado do Rio de Janeiro, pela Companhia Telefônica Brasileira.

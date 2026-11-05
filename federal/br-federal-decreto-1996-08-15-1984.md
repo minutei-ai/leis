@@ -1,5 +1,3 @@
-###DEC-001984-0-000-15-08-1996@@@
-
 DECRETO Nº 1.984, DE 15 DE AGOSTO DE 1996.
 
 Promulga o Protocolo para Emenda e Prorrogação do Acordo de Cooperação em Ciência e Tecnologia de 6 de fevereiro de 1984, celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América.

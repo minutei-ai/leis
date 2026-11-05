@@ -1,5 +1,3 @@
-###DEC-076909-0-000-24-12-1975@@@
-
 DECRETO N 76.909, de 24 de dezembro de 1975.
 
 Autoriza a permuta dos terrenos que menciona, situados no distrito Federal.

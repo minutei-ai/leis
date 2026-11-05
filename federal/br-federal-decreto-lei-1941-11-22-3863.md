@@ -1,5 +1,3 @@
-###DEL-003863-0-000-22-11-1941@@@
-
 DECRETO-LEI N. 3.863 – DE 22 DE NOVEMBRO DE 1941
 
 Fixa um prazo de seis meses para entrar em vigor o decreto-lei número 3.695, de 8 de outubro de 1941

@@ -1,5 +1,3 @@
-###DEC-047600-0-000-06-01-1960@@@
-
 DECRETO Nº 47.600, DE 6 DE JANEIRO DE 1960.
 
 Autoriza a Companhia Brasileira Carbonífera de Araraguá a pesquisar carvão mineral no município de Orleães, Estado de Santa Catarina.

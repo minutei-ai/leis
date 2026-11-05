@@ -1,5 +1,3 @@
-###DEC-080226-0-000-24-08-1977@@@
-
 Decreto Nº 80.226, de 24 de agosto de 1977.
 
 Concede reconhecimento aos cursos de Letras e de Matemática ( da Faculdade de Ciências e Letras , com sede na Cidade de Mafra, no Estado de Santa Catarina

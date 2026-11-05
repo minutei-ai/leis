@@ -1,5 +1,3 @@
-###DEC-065359-0-000-13-10-1969@@@
-
 DECRETO Nº 65.359 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Pereira Barreto, com sede em Pereira Barreto, Estado de São Paulo.

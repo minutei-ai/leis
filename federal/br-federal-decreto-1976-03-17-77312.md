@@ -1,5 +1,3 @@
-###DEC-077312-0-000-17-03-1976@@@
-
 DECRETO Nº 77.312, DE 17 DE MARÇO DE 1976.
 
 Declara de utilidade pública para fins de desapropriação pela Telecomunicações Brasileiras S.A. - TELEBRÁS o domínio útil do conjunto residencial denominado "Vila Mariana", situado na Travessa Quintino Bocaiúva, número 1.144, na Cidade de Belém do Pará, Estado do Pará, destinado à construção da Estação Terminal III de Telecomunicações, integrante do Plano de Expansão do Sistema Nacional de Telecomunicações a cargo da Empresa Brasileira de Telecomunicações S.A. - EMBRATEL.

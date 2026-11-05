@@ -1,5 +1,3 @@
-###DEC-050814-0-000-20-06-1961@@@
-
 DECRETO Nº 50.814, DE 20 DE JUNHO DE 1961.
 
 Altera os artigos 7º e 16. das especificações aprovados pelo Decreto nº 28.098, de 10 de maio de 1950.

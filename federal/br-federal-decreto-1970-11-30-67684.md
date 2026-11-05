@@ -1,5 +1,3 @@
-###DEC-067684-0-000-30-11-1970@@@
-
 DECRETO Nº 67.684, DE 30 DE NOVEMBRO DE 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério do Trabalho e Previdência Social (MTPS) e dá outras providências.

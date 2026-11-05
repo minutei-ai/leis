@@ -1,5 +1,3 @@
-###DEC-045470-0-000-26-02-1959@@@
-
 DECRETO Nº 45.470, DE 26 DE FEVEREIRO DE 1959.
 
 Transfere sem aumento de despesa função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura.

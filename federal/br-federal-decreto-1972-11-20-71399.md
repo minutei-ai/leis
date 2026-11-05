@@ -1,5 +1,3 @@
-###DEC-071399-0-000-20-11-1972@@@
-
 DECRETO Nº 71.399, DE 20 DE NOVEMBRO DE 1972.
 
 Declara sem efeito o Decreto número 64.372, de 18 de abril de 1969.

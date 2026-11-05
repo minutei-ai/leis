@@ -1,7 +1,9 @@
 LEI Nº 4.840 DE 24 DE FEVEREIRO DE 1989
 
-Ver também:<br>
-Lei 13.195, de 20 de novembro de 2014 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites entre os Municípios de Gandu e Piraí do Norte.<br>
+Ver também:
+
+Lei 13.195, de 20 de novembro de 2014 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites entre os Municípios de Gandu e Piraí do Norte.
+
 Lei nº [12.926](javascript: openDoc\() de 18 de dezembro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Baixo Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Aratuípe, Cairu, Camamu, Gandu, Ibirapitanga, Igrapiúna, Ituberá, Jaguaripe, Nilo Peçanha, Piraí do Norte, Presidente Tancredo Neves, Taperoá, Teolândia e Valença. 
 
 Cria o Município de Piraí do Norte, desmembrado do Município de Ituberá.

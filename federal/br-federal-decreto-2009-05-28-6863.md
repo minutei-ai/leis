@@ -1,5 +1,3 @@
-###DEC-006863-0-000-28-05-2009@@@
-
 DECRETO Nº 6.863, DE 28 DE MAIO DE 2009.
 
 Regulamenta a aplicação do Adicional de Plantão Hospitalar - APH, instituído pela Lei no 11.907, de 2 de fevereiro de 2009, para os hospitais universitários e para o Hospital das Forças Armadas.

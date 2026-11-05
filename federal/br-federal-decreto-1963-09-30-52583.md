@@ -1,5 +1,3 @@
-###DEC-052583-0-000-30-09-1963@@@
-
 DECRETO Nº 52.583, DE 30 DE Setembro DE 1963.
 
 Transfere da Emprêsa Fôrça e Luz Paraibunense para a Prefeitura Municipal de Paraibuna, Estado de São Paulo, a concessão para produzir e distribuir energia elétrica no município.

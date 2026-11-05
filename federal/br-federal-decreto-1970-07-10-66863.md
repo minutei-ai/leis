@@ -1,5 +1,3 @@
-###DEC-066863-0-000-10-07-1970@@@
-
 DECRETO Nº 66.863, DE 10 de JULHO DE 1970.
 
 Dispõe sôbre o aproveitamento dos atuais servidores do Conselho Superior e das Caixas Econômicas Federais na empresa pública - Caixa Econômica Federal - CEF.

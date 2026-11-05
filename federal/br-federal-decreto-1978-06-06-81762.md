@@ -1,5 +1,3 @@
-###DEC-081762-0-000-06-06-1978@@@
-
 Decreto nº 81.762, de 06 de junho de 1978.
 
 Concede reconhecimento ao curso de Educação Física, ministrado pela Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

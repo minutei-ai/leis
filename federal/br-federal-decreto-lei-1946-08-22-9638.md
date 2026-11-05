@@ -1,5 +1,3 @@
-###DEL-009638-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.638 – DE 22 DE AGÔSTO DE 1946
 
 Altera, sem aumento de despesa, o orçamento geral da República

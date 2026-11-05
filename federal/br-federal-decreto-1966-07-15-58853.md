@@ -1,5 +1,3 @@
-###DEC-058853-0-000-15-07-1966@@@
-
 DECRETO Nº 58.853, DE 15 DE JULHO DE 1966.
 
 Autoriza a Magnesita S.A. a pesquisar olivina no município de Patrocínio, Estado de Minas Gerais.

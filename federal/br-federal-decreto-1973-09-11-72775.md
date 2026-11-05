@@ -1,5 +1,3 @@
-###DEC-072775-0-000-11-09-1973@@@
-
 DECRETO Nº 72.775, DE 11 DE SETEMBRO DE 1973.
 
 Dispõe sobre a estrutura básica da Superintendência do Desenvolvimento da Região Sul - SUDESUL.

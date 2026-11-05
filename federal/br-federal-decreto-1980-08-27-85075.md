@@ -1,5 +1,3 @@
-###DEC-085075-0-000-27-08-1980@@@
-
 Decreto nº 85.075, de 27 de agosto de 1980.
 
 Prorroga o prazo de intervenção governamental na área prioritária de reforma agrária, de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975.

@@ -1,5 +1,3 @@
-###DEC-072269-0-000-16-05-1973@@@
-
 DECRETO Nº 72.269, DE 16 MAIO DE 1973.
 
 Concede à Padomar - Paraná, Dolomita e Mármore Ltda. o direito de lavrar dolomito no Município de Castro, Estado do Paraná.

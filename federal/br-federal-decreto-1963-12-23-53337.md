@@ -1,5 +1,3 @@
-###DEC-053337-0-000-23-12-1963@@@
-
 DECRETO Nº 53.337, DE 23 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a importação de petróleo e derivados, nos têrmos dos artigos 1º e 2º do Decreto-Lei nº 395, de 29 de abril de 1938, e do art. 3º da Lei nº 2.004, de 3 de outubro de 1953.

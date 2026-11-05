@@ -1,5 +1,3 @@
-###DEC-058941-0-000-29-07-1966@@@
-
 DECRETO Nº 58.941, DE 29 DE JULHO DE 1966.
 
 Outorga ao Município de Santana do Riacho, Estado de Minas Gerais, concessão para distribuir energia elétrica.

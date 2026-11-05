@@ -1,5 +1,3 @@
-###DEL-007872-0-000-18-08-1945@@@
-
 DECRETO-LEI N. 7.872 – DE 18 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8.623.185,20, para pagamento de notas de papel-moéda.

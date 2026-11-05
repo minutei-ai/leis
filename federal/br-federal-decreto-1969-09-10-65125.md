@@ -1,5 +1,3 @@
-###DEC-065125-0-000-10-09-1969@@@
-
 DECRETO Nº 65.125 - de 10 de Setembro de 1969.
 
 Declara caduco, o Decreto nº 21.125, de 14 de maio de 1946.

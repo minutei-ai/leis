@@ -1,5 +1,3 @@
-###DEC-074596-0-000-23-09-1974@@@
-
 DECRETO Nº 74.596, DE 23 DE SETEMBRO DE 1974.
 
 Renova por 10 (dez) anos a outorga deferida à Sociedade Rádio Clube de Varginha Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Varginha, Estado de Minas Gerais.

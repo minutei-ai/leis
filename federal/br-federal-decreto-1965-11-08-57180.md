@@ -1,5 +1,3 @@
-###DEC-057180-0-000-08-11-1965@@@
-
 DECRETO Nº 57.180, DE 8 DE NOVEMBRO DE 1965.
 
 Retifica a classificação constante do Decreto nº 54.015, de 13 de julho de 1964, na parte referente à série de classes de Enfermeiro.

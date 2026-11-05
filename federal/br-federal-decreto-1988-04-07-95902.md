@@ -1,5 +1,3 @@
-###DEC-095902-0-000-07-04-1988@@@
-
 DECRETO N° 95.902, DE 07 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO CABANO LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Maracanã, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-093431-0-000-16-10-1986@@@
-
 DECRETO Nº 93.431, DE 16 DE OUTUBRO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CLUBE DE VALENÇA LTDA., para a RÁDIO CULTURA DE VALENÇA LTDA.

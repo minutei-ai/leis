@@ -1,5 +1,3 @@
-###DEC-092607-0-000-30-04-1986@@@
-
 DECRETO Nº 92.607, DE 30 DE ABRIL DE 1986
 
 Dispõe sobre as áreas de jurisdição dos Distritos Navais e do Comando Naval de Brasília e dá outras providências.

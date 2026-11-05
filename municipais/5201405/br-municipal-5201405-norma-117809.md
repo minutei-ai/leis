@@ -12,15 +12,37 @@ Art. 1º - Ficam remanejados os Lotes 22, 23, 24 e 29 da Quadra V do loteamento 
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 22</td><td style="text-align:center">411,54 m²</td></tr><tr><td style="text-align:center">LOTE 23</td><td style="text-align:center">416,46 m²</td></tr><tr><td style="text-align:center">LOTE 24</td><td style="text-align:center">421,38 m²</td></tr><tr><td style="text-align:center">LOTE 29</td><td style="text-align:center">360,60 m²</td></tr></tbody></table>
+LOTE 22
+
+411,54 m²
+
+LOTE 23
+
+416,46 m²
+
+LOTE 24
+
+421,38 m²
+
+LOTE 29
+
+360,60 m²
 
 SITUAÇÃO INTERMEDIÁRIA
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 22-24/29</td><td>1.609,98 m²</td></tr></tbody></table>
+LOTE 22-24/29
+
+1.609,98 m²
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 22-24/29A da QUADRA V</td><td style="text-align:center">1.150,29 m²</td></tr><tr><td style="text-align:center">LOTE 22-24/29B (destinado ao sistema viário)</td><td style="text-align:center">459,69 m²</td></tr></tbody></table>
+LOTE 22-24/29A da QUADRA V
+
+1.150,29 m²
+
+LOTE 22-24/29B (destinado ao sistema viário)
+
+459,69 m²
 
 Parágrafo único. O remanejamento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2019.056.394, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -28,8 +50,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 07 de fevereiro de 2023.
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JULIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana<br>
+JULIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana

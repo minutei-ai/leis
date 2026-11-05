@@ -1,5 +1,3 @@
-###DEC-081267-0-000-27-01-1978@@@
-
 Decreto nº 81.267, de 27 de janeiro de 1978.
 
 Autoriza a transformação dos cursos de Matemática, Física e Química, em curso de Ciências, do Instituto de Tecnologia de Governador Valadares, Estado de Minas Gerais.

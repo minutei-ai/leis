@@ -1,5 +1,3 @@
-###DEL-007774-0-000-24-07-1945@@@
-
 DECRETO N. 7.774 – DE 24 DE JULHO DE 1945
 
 Dispõe sôbre o financiamento da produção de gêneros de primeira necessidade, e dá outras providências.

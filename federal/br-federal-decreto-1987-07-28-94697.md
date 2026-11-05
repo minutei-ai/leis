@@ -1,5 +1,3 @@
-###DEC-094697-0-000-28-07-1987@@@
-
 DECRETO Nº 94.697, DE 28 DE JULHO DE 1987.
 
 Outorga concessão à RÁDIO SOLARIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Antônio Prado, Estado do Rio Grande do Sul.

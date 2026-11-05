@@ -1,5 +1,3 @@
-###MPV-000252-0-000-15-06-2005@@@
-
 MEDIDA PROVISÓRIA Nº 252, DE 15 DE JUNHO DE 2005
 
 Institui o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação - REPES, o Regime Especial de Aquisição de Bens de Capital para Empresas Exportadoras - RECAP e o Programa de Inclusão Digital, dispõe sobre incentivos fiscais para a inovação tecnológica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007409-0-000-22-03-1945@@@
-
 DECRETO-LEI N. 7.409 – DE 22 DE MARÇO DE 1945
 
 Prorroga os prazos para a habilitação de credores do Estado do Amazonas

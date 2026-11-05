@@ -1,5 +1,3 @@
-###DEL-009789-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.789 – DE 6 DE SETEMBRO DE 1946
 
 Revoga o Decreto-lei nº 9.485, de 18 de julho de 1946

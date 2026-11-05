@@ -1,14 +1,12 @@
-###DEC-038963-0-000-03-04-1956@@@
+**DECRETO Nº 38.963, DE 3 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 38.963, DE 3 DE ABRIL DE 1956.</strong>
+***Regulamenta a Lei nº 2.698, de 27 de dezembro de 1955.***
 
-<em><strong>Regulamenta a Lei nº 2.698, de 27 de dezembro de 1955.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º As sobretaxas de câmbio arrecadadas nos têrmos da Lei número 2.145, de 29 de dezembro de 1953, destinar-se-ão, em ordem de prioridade:
+**Art**. 1º As sobretaxas de câmbio arrecadadas nos têrmos da Lei número 2.145, de 29 de dezembro de 1953, destinar-se-ão, em ordem de prioridade:
 
 I - ao pagamento de bonificações aos exportadores;
 
@@ -18,27 +16,27 @@ III - à pavimentação de estradas de rodagem, na proporção de 30% (trinta po
 
 IV - ao financiamento, a longo prazo e juros baixos, da modernização dos métodos de produção agrícola e recuperação da lavoura nacional e ainda à compra de produtos agropecuários, de sementes, adubos, inseticidas, máquinas e utensílios para emprêgo na lavoura.
 
-<strong>Art</strong>. 2º De cada recebimento de sobretaxas arrecadadas pela importação de petróleo e seus derivados, efetuado depois de 29 de dezembro de 1953, o Banco do Brasil S.A. creditará:
+**Art**. 2º De cada recebimento de sobretaxas arrecadadas pela importação de petróleo e seus derivados, efetuado depois de 29 de dezembro de 1953, o Banco do Brasil S.A. creditará:
 
 a) - 70% (setenta por cento) à conta de sobretaxas e bonificações cambiais, por conta do Tesouro Nacional;
 
 b) - 30% (trinta por cento) à conta especial para ser entregue ao Banco Nacional do Desenvolvimento Econômico;
 
-<strong>Art</strong>. 3º Ao fim de cada trimestre civil o Banco do Brasil S.A., transferirá para a conta do movimento do Banco Nacional do Desenvolvimento Econômico e saldo existente na conta referida na letra <em>b</em> do artigo anterior.
+**Art**. 3º Ao fim de cada trimestre civil o Banco do Brasil S.A., transferirá para a conta do movimento do Banco Nacional do Desenvolvimento Econômico e saldo existente na conta referida na letra *b* do artigo anterior.
 
-<strong>Art</strong>. 4º Das importâncias recebidas na forma do artigo anterior o Banco Nacional do Desenvolvimento Econômico creditará:
+**Art**. 4º Das importâncias recebidas na forma do artigo anterior o Banco Nacional do Desenvolvimento Econômico creditará:
 
 a) - 80% (oitenta por cento) à conta do Fundo Nacional de Pavimentação;
 
 b) - 20% (vinte por cento) à conta do Fundo Especial de substituição de trechos ferroviários, entre os depósitos do Tesouro Nacional.
 
-Parágrafo único. Concluídas as obras a cujo financiamento se destina o Fundo Especial de substituição de trechos ferroviários, e resgatados os empréstimos assumidos para a execução das mesmas, extinguir-se-á o Fundo Especial a que se refere a letra <em>b</em> dêste artigo, e seu saldo será transferido para a conta do Fundo Nacional de Pavimentação. A êste se destinará, desde então, tôda a arrecadação referida no artigo anterior.
+Parágrafo único. Concluídas as obras a cujo financiamento se destina o Fundo Especial de substituição de trechos ferroviários, e resgatados os empréstimos assumidos para a execução das mesmas, extinguir-se-á o Fundo Especial a que se refere a letra *b* dêste artigo, e seu saldo será transferido para a conta do Fundo Nacional de Pavimentação. A êste se destinará, desde então, tôda a arrecadação referida no artigo anterior.
 
-<strong>Art</strong>. 5º O Fundo Nacional de Pavimentação será aplicado exclusivamente em pavimentação de estradas de rodagem compreendidas nos Planos Rodoviários Nacional, Estaduais e Territoriais.
+**Art**. 5º O Fundo Nacional de Pavimentação será aplicado exclusivamente em pavimentação de estradas de rodagem compreendidas nos Planos Rodoviários Nacional, Estaduais e Territoriais.
 
 Parágrafo único. A aplicação do Fundo Nacional de Pavimentação não prejudicará quaisquer outros recursos, impostos ou taxas que as leis vigentes destinem ao mesmo fim, e dêles independerá.
 
-<strong>Art</strong>. 6º Do total do Fundo Nacional de Pavimentação:
+**Art**. 6º Do total do Fundo Nacional de Pavimentação:
 
 a) - 40% (quarenta por cento) constituirão receita do Departamento Nacional de Estradas de Rodagem; e
 
@@ -52,13 +50,13 @@ b) - 60% (sessenta por cento) constituirão receita do Departamento de Estradas 
 
 § 4º As cotas dos Territórios serão calculadas como se Estados fôssem.
 
-<strong>Art</strong>. 7º O Departamento Nacional de Estradas de Rodagem e os Departamentos de Estradas de Rodagem, ou órgãos equivalentes, dos Estados, Distrito Federal e Territórios aplicarão as parcelas que lhes couberem no Fundo Nacional de Pavimentação de acôrdo com escalas de trechos prioritários estabelecidas anualmente, segundo o volume de tráfego que se tenha verificado no ano anterior nas diversas rodovias, em cada uma das regiões do Brasil.
+**Art**. 7º O Departamento Nacional de Estradas de Rodagem e os Departamentos de Estradas de Rodagem, ou órgãos equivalentes, dos Estados, Distrito Federal e Territórios aplicarão as parcelas que lhes couberem no Fundo Nacional de Pavimentação de acôrdo com escalas de trechos prioritários estabelecidas anualmente, segundo o volume de tráfego que se tenha verificado no ano anterior nas diversas rodovias, em cada uma das regiões do Brasil.
 
 § 1º Os projetos de pavimentação de rodovias a serem atendidos com a parcela do Departamento Nacional de Estradas de Rodagem no Fundo Nacional de Pavimentação, serão elaborados por aquêle Departamento e aprovados pelo Conselho Rodoviário Nacional.
 
 § 2º Os projetos de pavimentação de rodovias federais a serem atendidos com as parcelas dos Departamentos Estaduais de Estradas de Rodagem, ou órgãos equivalentes, no Fundo Nacional de Pavimentação, poderão ser elaborados por aquêles órgãos e serão aprovados pelo Conselho Rodoviário Nacional. Os projetos de pavimentação de rodovias estaduais serão elaborados por aquêles Departamentos e aprovados, conforme o caso, pelo Conselho Rodoviário Nacional ou Conselhos Rodoviários Estaduais.
 
-<strong>Art</strong>. 8º O Fundo Especial a que se refere a letra b do art. 4º dêste decreto será aplicado pelo Departamento Nacional de Estradas de Rodagem exclusivamente na construção, no revestimento ou na pavimentação de estradas que se construirão ou se aproveitarão para substituir os trechos de ferrovias reconhecidamente deficitários.
+**Art**. 8º O Fundo Especial a que se refere a letra b do art. 4º dêste decreto será aplicado pelo Departamento Nacional de Estradas de Rodagem exclusivamente na construção, no revestimento ou na pavimentação de estradas que se construirão ou se aproveitarão para substituir os trechos de ferrovias reconhecidamente deficitários.
 
 § 1º O Departamento Nacional de Estradas de Ferro indicará ao Departamento Nacional de Estradas de Rodagem os trechos de linha férrea a serem substituídos por estradas de rodagem, para que êste último Departamento projete as obras e serviços necessários.
 
@@ -68,7 +66,7 @@ b) - 60% (sessenta por cento) constituirão receita do Departamento de Estradas 
 
 § 4º A conta do Fundo Especial a que se refere êste artigo será movimentada pelo Departamento Nacional de Estradas de Rodagem de acôrdo com as instruções do Ministro da Viação ao Banco Nacional do Desenvolvimento Econômico.
 
-<strong>Art</strong>. 9º Para financiar a execução de projetos de pavimentação de estradas de rodagem ou de substituição de trechos ferroviários reconhecidamente deficitários por estradas de rodagem, fica o Banco Nacional do Desenvolvimento Econômico autorizado a conceder empréstimos ao Departamento Nacional de Estradas de Rodagem e órgãos equivalentes nos Estados, Distrito Federal e Territórios.
+**Art**. 9º Para financiar a execução de projetos de pavimentação de estradas de rodagem ou de substituição de trechos ferroviários reconhecidamente deficitários por estradas de rodagem, fica o Banco Nacional do Desenvolvimento Econômico autorizado a conceder empréstimos ao Departamento Nacional de Estradas de Rodagem e órgãos equivalentes nos Estados, Distrito Federal e Territórios.
 
 § 1º Os pedidos de empréstimos deverão atender aos seguintes requisitos:
 
@@ -82,15 +80,15 @@ c) - conterem-se os serviços de juros e amortização, dos empréstimos pedidos
 
 § 3º Como garantia subsidiária para o caso em que as previsões de arrecadação da receita criada pela Lei nº 2.698, de 27 de dezembro de 1955 não venham a se verificar, o Banco Nacional do Desenvolvimento Econômico poderá exigir a caução de uma percentagem da cota do proponente do Fundo Rodoviário Nacional.
 
-<strong>Art</strong>. 10. O Banco Nacional do Desenvolvimento Econômico fixará as taxas de juros dos depósitos previstos no art. 4º dêste Decreto, as comissões de serviços e as taxas de juros dos empréstimos que conceder, na forma da legislação em vigor.
+**Art**. 10. O Banco Nacional do Desenvolvimento Econômico fixará as taxas de juros dos depósitos previstos no art. 4º dêste Decreto, as comissões de serviços e as taxas de juros dos empréstimos que conceder, na forma da legislação em vigor.
 
-<strong>Art</strong>. 11. A aplicação da receita objeto dêste Decreto fica sujeita a prestações de contas perante o Tribunal de Contas respectivo, não prescrevendo os saldos em cada exercício.
+**Art**. 11. A aplicação da receita objeto dêste Decreto fica sujeita a prestações de contas perante o Tribunal de Contas respectivo, não prescrevendo os saldos em cada exercício.
 
-<strong>Art</strong>. 12. Revogam-se as disposições em contrário.
+**Art**. 12. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim
 

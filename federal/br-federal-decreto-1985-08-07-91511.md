@@ -1,5 +1,3 @@
-###DEC-091511-0-000-07-08-1985@@@
-
 Decreto nº 91.511, de 7 de agosto de 1985.
 
 Declara luto oficial.

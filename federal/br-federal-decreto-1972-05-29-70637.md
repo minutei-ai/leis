@@ -1,5 +1,3 @@
-###DEC-070637-0-000-29-05-1972@@@
-
 DECRETO Nº 70.637, DE 29 DE MAIO DE 1972.
 
 Redistribui, com respectivo ocupante, para o Departamento Nacional de Estradas de Rodagem, cargo do Ministério da Justiça, e dá outras providências.

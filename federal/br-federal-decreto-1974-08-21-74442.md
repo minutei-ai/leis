@@ -1,5 +1,3 @@
-###DEC-074442-0-000-21-08-1974@@@
-
 DECRETO Nº 74.442 - DE 21 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento do Curso Técnico de Nível Superior em Processamento de Dados, Faculdade de Tecnologia de São Paulo, mantida pelo Centro Estadual de Educação Tecnológica "Paula Souza", com sede na Cidade de São Paulo, Estado de São Paulo.

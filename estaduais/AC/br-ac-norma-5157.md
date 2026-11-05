@@ -1,6 +1,10 @@
 > **LEI Nº 3.931, DE 07 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de gratuidade no transporte rodoviário intermunicipal às pessoas diagnosticadas com câncer no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de gratuidade no transporte rodoviário intermunicipal às pessoas diagnosticadas com câncer no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE,**
 

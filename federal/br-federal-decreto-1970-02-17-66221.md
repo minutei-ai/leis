@@ -1,5 +1,3 @@
-###DEC-066221-0-000-17-02-1970@@@
-
 Decreto nº 66.221 - de 17 de Fevereiro de 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, cargo ordinário da Administração do Pôrto do Rio de Janeiro e dá outras providências.

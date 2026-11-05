@@ -1,5 +1,3 @@
-###DEC-048767-0-000-11-08-1960@@@
-
 DECRETO Nº 48.767, de 11 de agÔsto de 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação ao terreno que menciona, no Estado de Goiás.

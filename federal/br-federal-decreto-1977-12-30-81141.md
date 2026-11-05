@@ -1,5 +1,3 @@
-###DEC-081141-0-000-30-12-1977@@@
-
 Decreto nº 81.141, de 30 de dezembro de 1977
 
 Altera o Decreto nº 79.056, de 30 de dezembro de 1976, e dá outras providências.

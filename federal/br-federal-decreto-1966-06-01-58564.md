@@ -1,5 +1,3 @@
-###DEC-058564-0-000-01-06-1966@@@
-
 DECRETO Nº 58.564, DE 1º DE JUNHO DE 1966.
 
 Altera o Decreto 53.480, de 23 de janeiro de 1964, que dispõe sôbre o Regulamento de Promoção dos Funcionários Civis, da União.

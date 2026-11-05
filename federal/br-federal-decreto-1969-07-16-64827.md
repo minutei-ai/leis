@@ -1,5 +1,3 @@
-###DEC-064827-0-000-16-07-1969@@@
-
 Decreto nº 64.827 - de 16 de julho de 1969.
 
 Dá nova redação aos artigos 3º e 4º do Decreto nº 62.178, de 25 de janeiro de 1968.

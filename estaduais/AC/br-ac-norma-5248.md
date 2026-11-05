@@ -1,6 +1,10 @@
 > **LEI Nº 3.954, DE 01 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.778, de 1º de setembro de 2021, que cria ação governamental destinada a garantir, no âmbito da Secretaria de Estado de Educação, Cultura e Esportes - SEE, a efetiva continuidade do Programa de Inovação Educação Conectada, previsto no Decreto Federal nº 9.204, de 23 de novembro de 2017.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.778, de 1º de setembro de 2021, que cria ação governamental destinada a garantir, no âmbito da Secretaria de Estado de Educação, Cultura e Esportes - SEE, a efetiva continuidade do Programa de Inovação Educação Conectada, previsto no Decreto Federal nº 9.204, de 23 de novembro de 2017.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

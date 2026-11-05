@@ -6,7 +6,8 @@ Dispõe sobre a fiscalização, arrecadação e controle das receitas financeira
 
 O GOVERNADOR DO ESTADO DA BAHIA, considerando o disposto no § 1º do art. 20, no inciso XI do art. 23 e no inciso I do art. 24 da Constituição Federal, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - A fiscalização, arrecadação e controle das receitas financeiras decorrentes da exploração de recursos hídricos para fins de geração de energia elétrica e de recursos minerais, inclusive petróleo e gás natural, por concessionários, permissionários, cessionários e outros, observarão ao disposto nesta Lei.
@@ -17,19 +18,22 @@ Art. 3º - As atividades referidas no art. 1º desta Lei serão executadas pela 
 
 Parágrafo único - A função fiscalizadora será exercida pelos Auditores Fiscais da Secretaria da Fazenda, que detêm a competência privativa de lavrar Auto de Infração para a exigência de receitas, multas e acréscimos, quando constatada infração aos dispositivos desta Lei.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS RESPONSÁVEIS
 
 Art. 4º - Os concessionários, permissionários, cessionários e outros que explorem recursos hídricos para fins de geração de energia elétrica e recursos minerais, inclusive petróleo e gás natural, são responsáveis pelo pagamento das receitas de que trata esta Lei.
 
 Parágrafo único - Em se tratando de um consórcio, a empresa operadora é a responsável pelo pagamento das compensações e participações financeiras devidas e das penalidades aplicadas, sem prejuízo da responsabilidade solidária das demais consorciadas.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PAGAMENTO DAS COMPENSAÇÕES E PARTICIPAÇÕES FINANCEIRAS
 
 Art. 5º - O pagamento das compensações e participações financeiras de que trata esta Lei será efetuado pelos responsáveis diretamente ao Estado da Bahia ou à Secretaria do Tesouro Nacional, conforme dispuser o regulamento.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS OBRIGAÇÕES ACESSÓRIAS
 
 Art. 6º - Os responsáveis pela exploração de recursos hídricos para fins de geração de energia elétrica e de recursos minerais, inclusive petróleo e gás natural, localizados neste Estado, ficam obrigados a fornecer, na forma e prazo definidos em regulamento:
@@ -48,7 +52,8 @@ VI - outras informações previstas em regulamento que se fizerem necessárias �
 
 Art. 7º - As deduções autorizadas em legislação federal específica devem ser discriminadas de modo que identifiquem a origem dos valores utilizados para efeito da dedução.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 8º - Para as infrações tipificadas neste artigo, serão aplicadas as seguintes multas:
@@ -81,7 +86,8 @@ II - que tenha se beneficiado da redução do valor da multa de que trata este a
 
 Art. 10 - Sobre os débitos decorrentes do descumprimento de obrigação principal ou acessória, a partir de 30 (trinta) dias de atraso, incidirão acréscimos moratórios equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) para títulos federais, acumulada mensalmente até o último dia do mês anterior ao do pagamento, e 1% (um por cento) relativo ao mês em que o pagamento estiver sendo efetuado.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS E FINAIS
 
 Art. 11 - Fica o Poder Executivo autorizado a editar normas, sempre que se fizerem necessárias à correspondência com a legislação federal, de caráter regulatório ou regulamentar, de modo a garantir a harmonia entre estas legislações e a eficiência da arrecadação e fiscalização dos respectivos créditos.

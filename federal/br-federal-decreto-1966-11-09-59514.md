@@ -1,5 +1,3 @@
-###DEC-059514-0-000-09-11-1966@@@
-
 DECRETO Nº 59.514, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Manoel Rodrigues Ferreira a pesquisar água mineral no município de Valinhos, Estado de São Paulo.

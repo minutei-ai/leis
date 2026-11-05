@@ -1,5 +1,3 @@
-###DEC-057566-0-000-31-12-1965@@@
-
 DECRETO Nº 57.566, DE 31 DE DEZEMBRO DE 1965.
 
 Cria o 1º Batalhão de Comunicações Divisionário, com sede no Rio de Janeiro, GB.

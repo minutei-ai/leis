@@ -1,5 +1,3 @@
-###DEC-046823-0-000-15-09-1959@@@
-
 DECRETO Nº 46.823, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Roberto Procópio Schlobak Vale a pesquisar caulim, no Município de Juiz de Fora, Estado de Minas Gerais.

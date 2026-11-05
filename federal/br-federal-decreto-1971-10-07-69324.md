@@ -1,5 +1,3 @@
-###DEC-069324-0-000-07-10-1971@@@
-
 Decreto Nº 69.324, DE 7 de outubro DE 1971.
 
 Concede reconhecimento à Universidade Estadual de Londrina, com sede na cidade de Londrina, no Estado do Paraná.

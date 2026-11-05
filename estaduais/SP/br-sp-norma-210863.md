@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210863)<br>
-
 # DECRETO N° 69.485, DE 14 DE ABRIL DE 2025
 
 ### _Altera o Decreto n.° 65.901, de 3 de agosto de 2021, que dispõe sobre as diretrizes aplicáveis à sub-rogação de contratos de trabalho das entidades descentralizadas de que trata a Lei n.° 17.293, de 15 de outubro de 2020._

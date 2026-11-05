@@ -1,5 +1,3 @@
-###DEC-082254-0-000-13-09-1978@@@
-
 Decreto nº 82.254, de 13 de setembro de 1978.
 
 Fixa o fator de reajustamento salarial relativo a setembro de 1978.

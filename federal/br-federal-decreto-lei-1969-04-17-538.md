@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cddff227-4604-4986-a91a-7ef0fc00a9b7/texto#nowhere)
 
-###DEL-000538-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 538, DE 17 DE ABRIL DE 1969
 
 Altera a redação do artigo 11 do Decreto-lei nº 509, de 20 de março de 1969 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000360-0-000-17-12-1968@@@
-
 DECRETO-LEI Nº 360, DE 17 DE DEZEMbRO DE 1968
 
 Autoriza o Poder Executivo a abrir, ao Ministério da Educação e Cultura, em favor de diversos estabelecimentos de ensino federal, o crédito especial no valor de NCr$7.753.513,73 (sete milhões, setecentos e cinqüenta e três mil, quinhentos e treze cruzeiros novos e setenta e três centavos), para o fim que especifica.
@@ -10,7 +8,83 @@ decreta:
 
 Art. 1º Fica o Poder Executivo autorizado a abrir, ao Ministério da Educação e Cultura, o crédito especial de NCr$7.753.513,73 (sete milhões, setecentos e cinqüenta e três mil quinhentos e treze cruzeiros novos e setenta e três centavos), para atender a compromissos assumidos no exercício financeiro de 1967 e destinado a estabelecimentos de ensino federal, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Alagoas ................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>139.000,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal da Bahia ....................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>492.999,98</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Rio de Janeiro .......................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.270.821,50</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Ceará ...................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.235.425,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Espírito Santo .......................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>118.000,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Goiás ....................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>97.035,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal Fluminense ................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>152.925,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Juiz de Fora ..........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>144.642,50</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Minas Gerais ........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>662.263,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Pará .....................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>309.052,50</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal da Paraíba ................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>218.375,75</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Paraná .................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>254.938,75</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Pernambuco .........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>556.035,75</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Rio Grande do Norte .............................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>209.750,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal do Rio Grande do Sul ................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>313.115,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Santa Catarina ......................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>448.778,25</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Universidade Federal de Santa Maria ..........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>864.648,75</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Escola Federal de Minas de Ouro Prêto ......................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>124.007,00</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Escola Paulista de Medicina ........................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>141.700,00</span></p></td></tr></tbody></table>
+NCr$
+
+Universidade Federal de Alagoas ................................................................
+
+139.000,00
+
+Universidade Federal da Bahia ....................................................................
+
+492.999,98
+
+Universidade Federal do Rio de Janeiro .......................................................
+
+1.270.821,50
+
+Universidade Federal do Ceará ...................................................................
+
+1.235.425,00
+
+Universidade Federal do Espírito Santo .......................................................
+
+118.000,00
+
+Universidade Federal de Goiás ....................................................................
+
+97.035,00
+
+Universidade Federal Fluminense ................................................................
+
+152.925,00
+
+Universidade Federal de Juiz de Fora ..........................................................
+
+144.642,50
+
+Universidade Federal de Minas Gerais ........................................................
+
+662.263,00
+
+Universidade Federal do Pará .....................................................................
+
+309.052,50
+
+Universidade Federal da Paraíba ................................................................
+
+218.375,75
+
+Universidade Federal do Paraná .................................................................
+
+254.938,75
+
+Universidade Federal de Pernambuco .........................................................
+
+556.035,75
+
+Universidade Federal do Rio Grande do Norte .............................................
+
+209.750,00
+
+Universidade Federal do Rio Grande do Sul ................................................
+
+313.115,00
+
+Universidade Federal de Santa Catarina ......................................................
+
+448.778,25
+
+Universidade Federal de Santa Maria ..........................................................
+
+864.648,75
+
+Escola Federal de Minas de Ouro Prêto ......................................................
+
+124.007,00
+
+Escola Paulista de Medicina ........................................................................
+
+141.700,00
 
 Art. 2º A despesa decorrente da execução do presente Decreto-lei será coberta com recursos resultantes da aplicação do artigo 8º da Lei nº 5.368, de 1º de dezembro de 1967.
 

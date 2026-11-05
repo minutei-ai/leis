@@ -4,15 +4,18 @@ Dispõe sobre a Lei Orgânica da Procuradoria Geral do Estado, na forma que indi
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
 
-TÍTULO I<br>
+TÍTULO I
+
 DA ORGANIZAÇÃO DA PROCURADORIA GERAL DO ESTADO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei Complementar dispõe sobre a organização e o funcionamento da Procuradoria Geral do Estado, define as suas competências e o regime jurídico dos integrantes da carreira de Procurador do Estado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA FINALIDADE E COMPETÊNCIA
 
 **Art. 2º** - A Procuradoria Geral do Estado é instituição essencial à justiça, que tem por função constitucional exercer a representação judicial e extrajudicial, a consultoria e o assessoramento jurídico do Estado, de suas autarquias e fundações públicas.
@@ -103,10 +106,12 @@ DA FINALIDADE E COMPETÊNCIA
 
 **Art. 5º** - Qualquer cidadão ou entidade, pública ou privada, poderá representar à Procuradoria Geral do Estado contra atos ilegais ou lesivos ao patrimônio da Administração Pública direta ou indireta, para a adoção das providências cabíveis.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Estrutura Orgânica
 
 **Art. 6º** - A Procuradoria Geral do Estado possui a seguinte estrutura orgânica:
@@ -151,10 +156,12 @@ Da Estrutura Orgânica
 
 **Parágrafo único -** Os órgãos indicados nos incisos X a XIX do _caput_ deste artigo compõem os serviços de apoio técnico e os serviços administrativos da Procuradoria Geral do Estado.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Competências dos Órgãos
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Conselho Superior
 
 **Art. 7º** - O Conselho Superior é integrado pelos seguintes membros:
@@ -255,7 +262,8 @@ Do Conselho Superior
 
 **Art. 10** - O Regimento Interno do Conselho Superior, por ele aprovado, fixará as normas do seu funcionamento.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Gabinete do Procurador Geral do Estado
 
 **Art. 11** - Ao Gabinete do Procurador Geral do Estado, que tem por finalidade o assessoramento direto e o apoio técnico e administrativo para o exercício de suas atividades, compete especialmente:
@@ -272,7 +280,8 @@ Do Gabinete do Procurador Geral do Estado
 
 **Art. 13** - Junto ao Gabinete do Procurador Geral do Estado atuará 01 (um) Coordenador, ocupante de cargo em comissão de livre escolha do Procurador Geral do Estado.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Procuradoria Geral Adjunta para Assuntos Jurídicos
 
 **Art. 14** - À Procuradoria Geral Adjunta para Assuntos Jurídicos, que tem por finalidade auxiliar o Procurador Geral do Estado no exercício de suas atividades técnico-jurídicas, compete especialmente:
@@ -293,7 +302,8 @@ Da Procuradoria Geral Adjunta para Assuntos Jurídicos
 
 **Art. 17** - O Procurador Geral do Estado poderá designar Procuradores Assessores Especiais para atuação exclusiva junto à Procuradoria Geral Adjunta para Assuntos Jurídicos.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Procuradoria Geral Adjunta para Assuntos Administrativos
 
 **Art. 18** - À Procuradoria Geral Adjunta para Assuntos Administrativos, que tem por finalidade auxiliar o Procurador Geral do Estado no exercício de suas atividades de natureza administrativa, compete especialmente:
@@ -332,7 +342,8 @@ Procuradoria Geral Adjunta para Assuntos Administrativos
 
 **Art. 21** - Junto ao Gabinete do Procurador Geral para Assuntos Administrativos atuará 01 (um) Coordenador Executivo, ocupante de cargo em comissão de livre escolha do Procurador Geral do Estado.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Da Corregedoria
 
 **Art. 22** - À Corregedoria, que tem por finalidade a supervisão, coordenação, fiscalização e controle da atuação funcional e da conduta dos integrantes das carreiras de Procurador do Estado e dos servidores das áreas de apoio técnico e administrativo da Procuradoria Geral do Estado, compete:
@@ -361,7 +372,8 @@ Da Corregedoria
 
 **Parágrafo único -** Junto à Corregedoria poderão atuar Procuradores do Estado designados pelo Procurador Geral do Estado.
 
-SUBSEÇÃO VI<br>
+SUBSEÇÃO VI
+
 Das Procuradorias Especializadas
 
 **Art. 24** - A definição, a denominação e as competências das Procuradorias Especializadas serão estabelecidas por ato do Procurador Geral do Estado.
@@ -386,7 +398,8 @@ Das Procuradorias Especializadas
 
 **§ 7**º - O Procurador Geral do Estado poderá designar Procuradores para execução de atividades de consultoria e assessoramento jurídico diretamente no Poder Judiciário, no Poder Legislativo, no Ministério Público, na Defensoria Pública e nos Tribunais de Contas, em caráter eventual ou permanente.
 
-SUBSEÇÃO VII<br>
+SUBSEÇÃO VII
+
 Da Representação no Distrito Federal
 
 **Art. 25** - À Representação no Distrito Federal, sem prejuízo de outras atividades que lhe sejam atribuídas pelo Procurador Geral do Estado, compete o exercício da consultoria e o assessoramento jurídico, bem como a representação judicial e extrajudicial do Estado no Distrito Federal.
@@ -395,7 +408,8 @@ Da Representação no Distrito Federal
 
 **Art. 27** - As atividades a cargo da Representação no Distrito Federal em que servirem mais de 02 (dois) Procuradores poderão ser coordenadas por 01 (um) Procurador Executivo.
 
-SUBSEÇÃO VIII<br>
+SUBSEÇÃO VIII
+
 Das Câmaras de Prevenção e Resolução Administrativa de Conflitos
 
 **Art. 28** - As Câmaras de Prevenção e Resolução Administrativa de Conflitos serão instituídas no âmbito da Procuradoria Geral do Estado, integrando a Política de Consensualidade do Estado, com competência para:
@@ -410,14 +424,16 @@ Das Câmaras de Prevenção e Resolução Administrativa de Conflitos
 
 **Art. 29** - As Câmaras de Prevenção e Resolução Administrativa de Conflitos serão coordenadas por 01 (um) Procurador Coordenador de Câmara, nomeado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções inerentes ao cargo de Procurador do Estado.
 
-SUBSEÇÃO IX<br>
+SUBSEÇÃO IX
+
 Do Centro de Estudos e Aperfeiçoamento
 
 **Art. 30** - Ao Centro de Estudos e Aperfeiçoamento compete promover a capacitação e o aperfeiçoamento do corpo funcional da Procuradoria Geral do Estado, a divulgação de matéria doutrinária, legislativa e jurisprudencial de interesse do Órgão, a organização e documentação da produção técnico-jurídica e da jurisprudência administrativa por ele produzida, bem como a supervisão das atividades dos serviços de biblioteca, documentação e divulgação.
 
 **Parágrafo único -** O Centro de Estudos e Aperfeiçoamento será dirigido por Procurador do Estado, nomeado em comissão dentre integrantes da carreira que tenham cumprido o estágio probatório.
 
-SUBSEÇÃO X<br>
+SUBSEÇÃO X
+
 Da Coordenação de Cálculos e Perícias
 
 **Art. 31** - À Coordenação de Cálculos e Perícias compete:
@@ -434,21 +450,24 @@ Da Coordenação de Cálculos e Perícias
 
 **Parágrafo único -** O titular da Coordenação de Cálculos e Perícias será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XI<br>
+SUBSEÇÃO XI
+
 Da Secretaria de Distribuição e Atendimento
 
 **Art. 32** - À Secretaria de Distribuição e Atendimento competem a organização e o controle do fluxo de documentos e demandas, bem como ao fornecimento de informações aos interessados sobre processos e procedimentos no âmbito da Procuradoria Geral do Estado.
 
 **Art. 33** - O titular da Secretaria de Distribuição e Atendimento será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XII<br>
+SUBSEÇÃO XII
+
 Da Secretaria Processual Integrada
 
 **Art. 34** - À Secretaria Processual Integrada competem as atividades de recepção, cadastro, gestão e organização de comunicação de atos relativos ao contencioso judicial.
 
 **Art. 35** - O titular da Secretaria Processual Integrada será escolhido entre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XIII<br>
+SUBSEÇÃO XIII
+
 Da Coordenação de Gestão de Pessoas
 
 **Art. 36** - À Coordenação de Gestão de Pessoas competem a proposição e a gestão das ações estratégicas voltadas ao desenvolvimento dos servidores públicos da Procuradoria Geral do Estado em todo o seu ciclo funcional, orientadas pelas seguintes diretrizes e objetivos:
@@ -463,42 +482,48 @@ Da Coordenação de Gestão de Pessoas
 
 **Parágrafo único -** O titular da Coordenação de Gestão de Pessoas será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XIV<br>
+SUBSEÇÃO XIV
+
 Da Coordenação de Gestão de Tecnologia, Dados e Transformação Digital
 
 **Art. 37** - À Coordenação de Gestão de Tecnologia, Dados e Transformação Digital compete planejar, coordenar, promover e avaliar a implementação de estratégias e programas de inovação em tecnologias da informação e comunicação, incluindo sistemas e infraestrutura, segurança da informação e gerenciamento de dados e governança de soluções baseadas em inteligência artificial no âmbito da Procuradoria Geral do Estado.
 
 **Art. 38** - O titular da Coordenação de Gestão de Tecnologia, Dados e Transformação Digital será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XV<br>
+SUBSEÇÃO XV
+
 Da Coordenação de Gestão Organizacional
 
 **Art. 39** - À Coordenação de Gestão Organizacional compete planejar, coordenar, propor, promover e avaliar a gestão das ações estratégicas voltadas à implementação de modelos institucionais, de instrumentos e soluções de gestão com foco no aprimoramento das competências gerenciais e no desempenho organizacional da Procuradoria Geral do Estado.
 
 **Art. 40** - O titular da Coordenação de Gestão Organizacional será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-SUBSEÇÃO XVI<br>
+SUBSEÇÃO XVI
+
 Da Coordenação de Controle Interno
 
 **Art. 41** - À Coordenação de Controle Interno competem o acompanhamento, controle e fiscalização da execução orçamentária, financeira e patrimonial em articulação com o órgão estadual de controle interno.
 
 **Parágrafo único -** A Coordenação de Controle Interno terá atuação setorial, observado o disposto em regulamentação específica.
 
-SUBSEÇÃO XVII<br>
+SUBSEÇÃO XVII
+
 Da Diretoria Geral
 
 **Art. 42** - À Diretoria Geral da Procuradoria Geral do Estado compete a coordenação dos órgãos setoriais e seccionais dos sistemas formalmente instituídos responsáveis pela execução das atividades de administração financeira e de contabilidade, material, patrimônio, serviços e recursos humanos.
 
 **Parágrafo único -** A estrutura básica da Diretoria Geral é composta pela Diretoria de Orçamento Público, a Diretoria Administrativa e a Diretoria de Finanças.
 
-SUBSEÇÃO XVIII<br>
+SUBSEÇÃO XVIII
+
 Da Assessoria de Comunicação Social
 
 **Art. 43** - À Assessoria de Comunicação Social compete planejar, coordenar e executar as atividades de comunicação interna e externa da Procuradoria Geral do Estado.
 
 **Art. 44** - As atividades da Assessoria de Comunicação Social, compreendidas as de jornalismo e assessoria de imprensa, cerimonial, fotografia, criação gráfica e redes sociais serão executadas na forma prevista em lei e em articulação com a Secretaria de Comunicação Social.
 
-SUBSEÇÃO XIX<br>
+SUBSEÇÃO XIX
+
 Da Ouvidoria
 
 **Art. 45** - À Ouvidoria competem as atividades destinadas à proteção e defesa do usuário dos serviços públicos prestados pela Procuradoria Geral do Estado, na forma da lei.
@@ -507,10 +532,12 @@ Da Ouvidoria
 
 **Art. 46** - A Ouvidoria será dirigida pelo Ouvidor, nomeado em comissão pelo Governador do Estado.
 
-TÍTULO II<br>
+TÍTULO II
+
 DAS ATRIBUIÇÕES DOS CARGOS EM COMISSÃO PRIVATIVOS DA CARREIRA DE PROCURADOR DO ESTADO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROCURADOR GERAL DO ESTADO
 
 **Art. 47** - A Procuradoria Geral do Estado é dirigida pelo Procurador Geral do Estado, nomeado em comissão pelo Governador do Estado dentre integrantes da carreira de Procurador do Estado, estáveis e maiores de 35 (trinta e cinco) anos, ao qual são asseguradas as prerrogativas, representação, remuneração e impedimentos de Secretário de Estado.
@@ -549,7 +576,8 @@ DO PROCURADOR GERAL DO ESTADO
 
 **Art. 49** - O Procurador Geral do Estado poderá delegar as atribuições de que trata o art. 48 desta Lei Complementar, zelando pela observância dos limites estabelecidos no ato de delegação.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS JURÍDICOS
 
 **Art. 50** - O Procurador Geral Adjunto para Assuntos Jurídicos será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado.
@@ -576,7 +604,8 @@ DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS JURÍDICOS
 
 **Parágrafo único -** O Procurador Geral Adjunto para Assuntos Jurídicos será substituído, em suas faltas e impedimentos, por um dos Procuradores Chefes de Procuradoria designado para esse fim.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS ADMINISTRATIVOS
 
 **Art. 52** - O Procurador Geral Adjunto para Assuntos Administrativos será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado.
@@ -605,7 +634,8 @@ DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS ADMINISTRATIVOS
 
 **Parágrafo único -** O Procurador Geral Adjunto para Assuntos Administrativos será substituído, em suas faltas e impedimentos, por um dos Procuradores Chefes de Procuradoria designados para este fim.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS PROCURADORES ASSESSORES ESPECIAIS
 
 **Art. 54** - Os Procuradores Assessores Especiais serão nomeados em comissão pelo Governador do Estado dentre os integrantes da carreira.
@@ -618,7 +648,8 @@ DOS PROCURADORES ASSESSORES ESPECIAIS
 
 **III -** exercer outras atribuições que lhes sejam designadas pelo Procurador Geral do Estado.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS PROCURADORES CHEFES
 
 **Art. 56** - Os Procuradores Chefes serão nomeados dentre integrantes da carreira, com mais de 05 (cinco) anos de efetivo exercício das funções inerentes ao cargo de Procurador do Estado.
@@ -647,7 +678,8 @@ DOS PROCURADORES CHEFES
 
 **§ 3**º - O Procurador Chefe será substituído, nas suas ausências e impedimentos, por um dos Procuradores Executivos e, na impossibilidade destes, por Procurador do Estado designado por ato do Procurador Geral do Estado.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO PROCURADOR CORREGEDOR
 
 **Art. 58** - O Procurador Corregedor será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira em atividade com mais de 05 (cinco) anos de efetivo exercício.
@@ -670,7 +702,8 @@ DO PROCURADOR CORREGEDOR
 
 **VIII -** exercer outras atribuições que lhe sejam designadas pelo Procurador Geral do Estado.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DOS PROCURADORES EXECUTIVOS
 
 **Art. 60** - Nas Procuradorias Especializadas e na Representação no Distrito Federal servirão Procuradores Executivos conforme a necessidade do serviço, nomeados em comissão pelo Governador do Estado dentre os integrantes da carreira.
@@ -691,24 +724,28 @@ DOS PROCURADORES EXECUTIVOS
 
 **VI -** prestar assessoramento direto ao Procurador Chefe e exercer outras atribuições que por ele ou pelo Procurador Geral do Estado lhe sejam designadas.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DO PROCURADOR COORDENADOR DE CÂMARA
 
 **Art. 62** - O Procurador Coordenador de Câmara será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira de Procurador do Estado.
 
 **Art. 63** - Cabe ao Procurador Coordenador de Câmara planejar, orientar, supervisionar e dirigir as atividades das Câmaras de Prevenção e Resolução Administrativa de Conflitos.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DOS PROCURADORES COORDENADORES
 
 **Art. 64** - O Procurador Coordenador será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira de Procurador do Estado.
 
 **Art. 65** - Cabe ao Procurador Coordenador coordenar as atividades técnico-jurídicas que sejam atribuídas, em caráter permanente ou temporário, à Equipe Interfuncional de Trabalho, ou outras atividades designadas pelo Procurador Geral do Estado.
 
-TÍTULO III<br>
+TÍTULO III
+
 DOS PROCURADORES DO ESTADO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA CARREIRA DE PROCURADOR DO ESTADO
 
 **Art. 66** - O cargo de Procurador do Estado é organizado em carreira e tem por atribuições as atividades de representação judicial e extrajudicial, a consultoria e o assessoramento jurídico do Estado, de suas autarquias e fundações públicas, na forma da Constituição do Estado e desta Lei Complementar.
@@ -725,10 +762,12 @@ DA CARREIRA DE PROCURADOR DO ESTADO
 
 **Parágrafo único -** O quantitativo de cargos na Terceira Classe é o estabelecido no Anexo I desta Lei Complementar.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Ingresso na Carreira e Da Promoção
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Ingresso na Carreira
 
 **Art. 68** - O ingresso na carreira de Procurador do Estado far-se-á na 3ª Classe, por nomeação precedida de concurso público de provas e títulos, dentre bacharéis em Direito que, na data da nomeação, tenham concluído o curso há mais de 02 (dois) anos.
@@ -741,7 +780,8 @@ Do Ingresso na Carreira
 
 **§ 2**º - Os Procuradores do Estado designados para atuação no interior do Estado poderão ter atividade itinerante, conforme a necessidade do serviço.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Da Promoção
 
 **Art. 70** - O provimento dos cargos das classes imediatamente seguintes à inicial dar-se-á por promoção, obedecidos os critérios alternados de 01 (uma) por merecimento e 01 (uma) por antiguidade, com prevalência do critério de merecimento na hipótese de vagas em número ímpar, sempre observado o interstício de 04 (quatro) anos na classe.
@@ -776,7 +816,8 @@ Da Promoção
 
 **Art. 74** - Os atos de promoção serão editados pelo Procurador Geral do Estado e produzirão efeitos a partir de 1º de outubro do ano da publicação das listas definitivas de merecimento e antiguidade de que trata o art. 72 desta Lei Complementar.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Estágio Probatório
 
 **Art. 75** - O estágio probatório é o período dos 03 (três) primeiros anos de efetivo exercício do Procurador do Estado de 3ª Classe.
@@ -797,7 +838,8 @@ Do Estágio Probatório
 
 **§ 2**º - Concluindo a comissão pela exoneração do Procurador do Estado, o Conselho Superior assegurar-lhe-á o prazo de 10 (dez) dias para defesa e produção de provas, após o que decidirá pelo voto de 2/3 (dois terços) dos seus membros.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do Exercício
 
 **Art. 78** - O Procurador do Estado somente poderá afastar-se do exercício do cargo para:
@@ -814,7 +856,8 @@ Do Exercício
 
 **Parágrafo único -** Os afastamentos previstos neste artigo, quanto à remuneração, observarão a legislação específica do Estado, equiparado o exercício do cargo que trata o inciso V do _caput_ deste artigo, para todos os efeitos, ao exercício de mandato eletivo em diretoria de entidade sindical representativa da categoria dos servidores públicos do Estado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS DIREITOS E GARANTIAS DOS PROCURADORES DO ESTADO
 
 **Art. 79** - Constituem direitos do Procurador do Estado, além das garantias e prerrogativas inerentes à profissão de advogado:
@@ -837,10 +880,12 @@ DOS DIREITOS E GARANTIAS DOS PROCURADORES DO ESTADO
 
 **IX -** uso de identificação funcional específica.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS DEVERES, PROIBIÇÕES E IMPEDIMENTOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Deveres
 
 **Art. 80** - São deveres do Procurador do Estado, além dos previstos no Estatuto dos Servidores Públicos Civis do Estado da Bahia e da Ordem dos Advogados do Brasil, os seguintes:
@@ -861,7 +906,8 @@ Dos Deveres
 
 **§ 2**º - O Procurador do Estado fixará domicílio necessário na sede do órgão ou Núcleo Regional para o qual for designado.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Proibições
 
 **Art. 81** - Além das proibições decorrentes do exercício de cargo público, ao Procurador do Estado é vedado:
@@ -874,7 +920,8 @@ Das Proibições
 
 **IV -** manifestar-se, por qualquer meio de divulgação, sobre assuntos submetidos a seu estudo e parecer, salvo se autorizado pelo Procurador Geral do Estado ou, quando for o caso, no livre exercício do direito de resposta.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Impedimentos
 
 **Art. 82** - É defeso ao Procurador do Estado atuar, nessa qualidade, em processo administrativo ou judicial:
@@ -897,7 +944,8 @@ Dos Impedimentos
 
 **Art. 84** - O Procurador do Estado não poderá participar de comissão ou banca examinadora de concurso, intervir no seu julgamento ou votar sobre organização de lista de promoção, quando estiver concorrendo parente consanguíneo ou afim, em linha reta ou colateral, até o 3º grau, seu cônjuge ou quem viva em sua companhia.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS VENCIMENTOS E DAS VANTAGENS
 
 **Art. 85** - A remuneração dos Procuradores do Estado será composta de vencimento básico e das seguintes vantagens:
@@ -916,7 +964,8 @@ DOS VENCIMENTOS E DAS VANTAGENS
 
 **Art. 86** - Aplicam-se aos Procuradores do Estado, no que couber, as disposições constitucionais e legais relativas aos servidores públicos civis do Estado da Bahia.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO REGIME DISCIPLINAR
 
 **Art. 87** - Os Procuradores do Estado ficam sujeitos às seguintes sanções disciplinares:
@@ -993,14 +1042,16 @@ DO REGIME DISCIPLINAR
 
 **Art. 94** - Aplicam-se ao processo administrativo disciplinar e às sindicâncias as demais normas estabelecidas para os processos de igual natureza relativos aos servidores públicos civis do Estado.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DO PESSOAL DE APOIO ADMINISTRATIVO
 
 **Art. 95** - Além dos titulares dos cargos integrantes das carreiras do Grupo Ocupacional "Serviços de Apoio Técnico-Administrativo da PGE”, poderão ser lotados no quadro de pessoal da Procuradoria Geral do Estado servidores pertencentes aos grupos ocupacionais existentes na estrutura da Administração direta, ressalvada vedação expressa em lei específica.
 
 **Parágrafo único -** Lei ordinária disporá sobre as carreiras de Analista de Procuradoria e de Assistente de Procuradoria, integrantes do Grupo Ocupacional "Serviços de Apoio Técnico-Administrativo da PGE”.
 
-TÍTULO V<br>
+TÍTULO V
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 96** - O "Prêmio Paulo Almeida”, de valor equivalente ao vencimento do cargo de Procurador do Estado de Classe Especial, será conferido, anualmente, aos 03 (três) melhores trabalhos produzidos por Procurador do Estado no exercício de suas funções nas áreas de consultoria, representação judicial e na produção de artigos científicos de relevância para a Administração Pública, observados os critérios fixados em resolução do Conselho Superior.
@@ -1161,135 +1212,11 @@ Secretário da Administração
 
 **ANEXO I**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:337.65pt;border-collapse:collapse;border:none" width="450"><tbody><tr style="height:42.2pt"><td colspan="2" style="width:337.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="450"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Tabela 1<br>QUADRO DE CARGOS DE PROCURADOR DO ESTADO&nbsp;</span></p></td></tr><tr style="height:42.2pt"><td style="width:157.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="210"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">QUANTITATIVO TOTAL 350</span></p></td><td style="width:179.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="240"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">TERCEIRA CLASSE 80</span></p></td></tr><tr style="height:42.2pt"><td colspan="2" style="width:337.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="450"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">&nbsp;</span></p></td></tr><tr style="height:42.2pt"><td colspan="2" style="width:337.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="450"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Tabela 2<br>Tabela de desenvolvimento na carreira</span></p></td></tr><tr style="height:42.2pt"><td style="width:157.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" width="210"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:179.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:42.2pt" width="240"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">PERCENTUAL SOBRE O TOTAL DE CARGOS OCUPADOS DA CLASSE ANTERIOR</span></p></td></tr><tr style="height:42.2pt"><td style="width:157.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="210"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Segunda Classe</span></p></td><td style="width:179.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="240"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">80%</span></p></td></tr><tr style="height:42.2pt"><td style="width:157.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="210"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Primeira Classe</span></p></td><td style="width:179.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="240"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">70%</span></p></td></tr><tr style="height:42.2pt"><td style="width:157.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="210"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">Classe Especial</span></p></td><td style="width:179.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.2pt" valign="top" width="240"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">60%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> Tabela 1 QUADRO DE CARGOS DE PROCURADOR DO ESTADO&nbsp; </td></tr><tr><td valign="top"> QUANTITATIVO TOTAL 350 </td><td valign="top"> TERCEIRA CLASSE 80 </td></tr><tr><td colspan="2" valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> Tabela 2 Tabela de desenvolvimento na carreira </td></tr><tr><td> CLASSE </td><td> PERCENTUAL SOBRE O TOTAL DE CARGOS OCUPADOS DA CLASSE ANTERIOR </td></tr><tr><td valign="top"> Segunda Classe </td><td valign="top"> 80% </td></tr><tr><td valign="top"> Primeira Classe </td><td valign="top"> 70% </td></tr><tr><td valign="top"> Classe Especial </td><td valign="top"> 60% </td></tr></tbody></table>
 
 **ANEXO II**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:481.8pt;border-collapse:collapse;border:none" width="642"><tbody><tr style="height:19.85pt"><td colspan="3" style="width:481.8pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="642"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA<br>GERAL DO ESTADO - PGE</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">CARGO</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">SÍMBOLO</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">QUANTIDADE</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Geral Adjunto para Assuntos Administrativos</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2A</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Geral Adjunto para Assuntos Jurídicos</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2A</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Corregedor</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2B</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Assessor Especial</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2B</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">07</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Chefe</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2B</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">06</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Procurador Executivo</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2C</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">27</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Diretor Geral</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2B</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador Executivo</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2B</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador de Controle Interno I</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2C</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador I</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2C</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">04</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Diretor</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2C</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">03</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador Técnico de Procuradoria</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2D</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">04</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador Técnico</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-2D</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">08</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Assessor de Comunicação Social I</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-3</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Assessor Técnico</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-3</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">08</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador II</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-3</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">16</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Secretário de Gabinete</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAS-3</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">01</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Assistente Orçamentário</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAI-4</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">02</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador III</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAI-4</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">35</span></p></td></tr><tr style="height:19.85pt"><td style="width:298.7pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="398"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Coordenador IV</span></p></td><td style="width:74.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="99"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DAI-5</span></p></td><td style="width:108.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">39</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA GERAL DO ESTADO - PGE </td></tr><tr><td> CARGO </td><td> SÍMBOLO </td><td> QUANTIDADE </td></tr><tr><td> Procurador Geral Adjunto para Assuntos Administrativos </td><td> DAS-2A </td><td> 01 </td></tr><tr><td> Procurador Geral Adjunto para Assuntos Jurídicos </td><td> DAS-2A </td><td> 01 </td></tr><tr><td> Procurador Corregedor </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Procurador Assessor Especial </td><td> DAS-2B </td><td> 07 </td></tr><tr><td> Procurador Chefe </td><td> DAS-2B </td><td> 06 </td></tr><tr><td> Procurador Executivo </td><td> DAS-2C </td><td> 27 </td></tr><tr><td> Diretor Geral </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Coordenador Executivo </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Coordenador de Controle Interno I </td><td> DAS-2C </td><td> 01 </td></tr><tr><td> Coordenador I </td><td> DAS-2C </td><td> 04 </td></tr><tr><td> Diretor </td><td> DAS-2C </td><td> 03 </td></tr><tr><td> Coordenador Técnico de Procuradoria </td><td> DAS-2D </td><td> 04 </td></tr><tr><td> Coordenador Técnico </td><td> DAS-2D </td><td> 08 </td></tr><tr><td> Assessor de Comunicação Social I </td><td> DAS-3 </td><td> 01 </td></tr><tr><td> Assessor Técnico </td><td> DAS-3 </td><td> 08 </td></tr><tr><td> Coordenador II </td><td> DAS-3 </td><td> 16 </td></tr><tr><td> Secretário de Gabinete </td><td> DAS-3 </td><td> 01 </td></tr><tr><td> Assistente Orçamentário </td><td> DAI-4 </td><td> 02 </td></tr><tr><td> Coordenador III </td><td> DAI-4 </td><td> 35 </td></tr><tr><td> Coordenador IV </td><td> DAI-5 </td><td> 39 </td></tr></tbody></table>
 
 **ANEXO III**
 
@@ -1297,19 +1224,4 @@ Secretário da Administração
 
 **CARGOS DE PROVIMENTO EFETIVO**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:407.75pt;border-collapse:collapse;border:none" width="544"><tbody><tr><td style="width:138.3pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DENOMINAÇÃO</span></p></td><td style="width:134.5pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:134.95pt;border:solid black 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Nº DE CARGOS</span></p></td></tr><tr><td rowspan="2" style="width:138.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Analista de Procuradoria</span></p></td><td style="width:134.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">I</span></p></td><td style="width:134.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">84</span></p></td></tr><tr><td style="width:134.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">II</span></p></td><td style="width:134.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">42</span></p></td></tr><tr><td style="width:138.3pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="184"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">DENOMINAÇÃO</span></p></td><td style="width:134.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:134.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Nº DE CARGOS</span></p></td></tr><tr><td rowspan="2" style="width:138.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Assistente de Procuradoria</span></p></td><td style="width:134.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">I</span></p></td><td style="width:134.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">77</span></p></td></tr><tr><td style="width:134.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="179"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">II</span></p></td><td style="width:134.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="180"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">39</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> DENOMINAÇÃO </td><td> CLASSE </td><td> Nº DE CARGOS </td></tr><tr><td rowspan="2"> Analista de Procuradoria </td><td> I </td><td> 84 </td></tr><tr><td> II </td><td> 42 </td></tr><tr><td> DENOMINAÇÃO </td><td> CLASSE </td><td> Nº DE CARGOS </td></tr><tr><td rowspan="2"> Assistente de Procuradoria </td><td> I </td><td> 77 </td></tr><tr><td> II </td><td> 39 </td></tr></tbody></table>

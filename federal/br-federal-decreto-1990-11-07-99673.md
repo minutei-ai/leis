@@ -1,7 +1,3 @@
-1
-
-###DEC-099673-0-000-07-11-1990@@@
-
 DECRETO N° 99.673, DE 7 DE NOVEMBRO DE 1990
 
 Transfere a sede da Empresa Brasileira de Turismo EMBRATUR, para a Cidade de Brasília, Distrito Federal e dá outras providências.

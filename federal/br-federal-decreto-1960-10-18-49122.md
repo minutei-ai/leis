@@ -1,5 +1,3 @@
-###DEC-049122-0-000-18-10-1960@@@
-
 DECRETO Nº 49.122, DE 18 DE OUTUBRO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

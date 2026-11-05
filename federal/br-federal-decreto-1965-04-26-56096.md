@@ -1,5 +1,3 @@
-###DEC-056096-0-000-26-04-1965@@@
-
 DECRETO Nº 56.096, DE 26 DE ABRIL DE 1965.
 
 Concede à Mineração Paulo Costa, Limitada autorização para funcionar como emprêsa de mineração.

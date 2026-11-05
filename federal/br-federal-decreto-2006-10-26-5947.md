@@ -1,5 +1,3 @@
-###DEC-005947-0-000-26-10-2006@@@
-
 DECRETO Nº 5.947, DE 26 DE OUTUBRO DE 2006.
 
 Altera e acresce dispositivos ao Decreto no 5.491, de 18 de julho de 2005, que regulamenta a atuação de organismos estrangeiros e nacionais de adoção internacional.
@@ -27,5 +25,3 @@ Brasília,  26 de outubro  de 2006; 185o da Independência e 118o da Repúblic
 LUIZ INÁCIO LULA DA SILVA
 
      Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 27.10.2006

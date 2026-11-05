@@ -1,16 +1,14 @@
-###DEC-033948-0-000-29-09-1953@@@
+**DECRETO Nº 33.948, DE 29 DE SETEMBRO DE 1953.**
 
-<strong>DECRETO Nº 33.948, DE 29 DE SETEMBRO DE 1953.</strong>
+***Altera o Regulamento para a Escola Naval, aprovada pelo Decreto número 29.815, de 27 de julho de 1951, e dá outras providências.***
 
-<em><strong>Altera o Regulamento para a Escola Naval, aprovada pelo Decreto número 29.815, de 27 de julho de 1951, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica alterado em virtude do disposto na Lei número 1.984, de 30 de junho de 1953, o artigo 50 do Regulamento para a Escola Naval, aprovada pelo Decreto número 29.815, de 27 de julho de 1951, que passa a ter a seguinte redação.
 
-<strong>Art</strong>. 1º Fica alterado em virtude do disposto na Lei número 1.984, de 30 de junho de 1953, o artigo 50 do Regulamento para a Escola Naval, aprovada pelo Decreto número 29.815, de 27 de julho de 1951, que passa a ter a seguinte redação.
-
-“<strong>Artigo</strong> 50. Durante o Estágio Escolar, o aluno que, no ano letivo, for inabilitado em assuntos que não sejam de Formação Militar Naval, será submetido, na segunda quinzena do mês de fevereiro seguinte, a exame de toda a matéria lecionada em que haja sido reprovado, ou a uma prova gráfica, se a reprovação fôr em desenho. Será observado o seguinte, de acôrdo com o resultado desses exames:
+“**Artigo** 50. Durante o Estágio Escolar, o aluno que, no ano letivo, for inabilitado em assuntos que não sejam de Formação Militar Naval, será submetido, na segunda quinzena do mês de fevereiro seguinte, a exame de toda a matéria lecionada em que haja sido reprovado, ou a uma prova gráfica, se a reprovação fôr em desenho. Será observado o seguinte, de acôrdo com o resultado desses exames:
 
 a) Se fôr aprovado nesses assuntos, será promovido ao ano seguinte;
 
@@ -38,12 +36,12 @@ a) repetirão o ano, caso ainda não tenham repetido nenhum durante o Estágio E
 
 b) Terão baixa de praça com eliminação da matrícula, se já houverem repetido algum”.
 
-<strong>Art</strong>. 2º Os Aspirantes aos quais se refere o artigo 2º da Lei número 1.894, de 30-06-53, e já promovidos ao ano acima em cumprimento ao que nela se encontra, ficarão dispensados de prestar as provas parciais correspondentes ao 1º Período Letivo do ano em que estão matriculados. Tais provas serão substituídas por exame por exame constante de provas escrita e oral, a ser realizado logo após encerrar-se o 2º Período Letivo do corrente ano e antes das suas últimas provas parciais, versando sôbre tôda a matéria lecionada no 1º Período Letivo.
+**Art**. 2º Os Aspirantes aos quais se refere o artigo 2º da Lei número 1.894, de 30-06-53, e já promovidos ao ano acima em cumprimento ao que nela se encontra, ficarão dispensados de prestar as provas parciais correspondentes ao 1º Período Letivo do ano em que estão matriculados. Tais provas serão substituídas por exame por exame constante de provas escrita e oral, a ser realizado logo após encerrar-se o 2º Período Letivo do corrente ano e antes das suas últimas provas parciais, versando sôbre tôda a matéria lecionada no 1º Período Letivo.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 29 de setembro de 1953, 132º da Independência e 65º da República
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guilhobel

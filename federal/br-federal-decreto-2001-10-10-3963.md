@@ -1,5 +1,3 @@
-###DEC-003963-0-000-10-10-2001@@@
-
 DECRETO Nº 3.963, DE 10 DE OUTUBRO DE 2001
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Alexandre de Gusmão - FUNAG, e dá outras providências.

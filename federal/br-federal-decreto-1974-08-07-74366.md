@@ -1,5 +1,3 @@
-###DEC-074366-0-000-07-08-1974@@@
-
 decreto nº 74.366, de 7 de agosto de 1974.
 
 Amplia a área prioritária para fins de Reforma Agrária, assim declarada pelo Decreto número 73.072 de 1º de novembro de 1973, e dá outras providências.

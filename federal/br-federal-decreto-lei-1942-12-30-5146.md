@@ -1,5 +1,3 @@
-###DEL-005146-0-000-30-12-1942@@@
-
 DECRETO-LEI N. 5.146 – DE 30 DE DEZEMBRO DE 1942
 
 Prorroga a vigência do crédito especial, aberto para atender as despesas (Serviços e Encargos) da Comissão de Defesa Econômica

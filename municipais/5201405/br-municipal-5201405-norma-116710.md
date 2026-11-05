@@ -32,8 +32,10 @@ Art. 6º - Ficam revogadas as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 28 de dezembro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

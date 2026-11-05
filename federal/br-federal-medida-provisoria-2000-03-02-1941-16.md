@@ -1,5 +1,3 @@
-###MPV-001941-0-016-02-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-16, de 2 de março de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

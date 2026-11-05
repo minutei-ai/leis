@@ -1,5 +1,3 @@
-###DEC-082225-0-000-05-09-1978@@@
-
 Decreto nº 82.225, de 05 de setembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação pela Empresa Brasileira de Radiodifusão S.A. - RADIOBRÁS, as benfeitorias que menciona e que estão localizadas na área de terra de que trata o Decreto nº 82.214, de 04 de setembro de 1978.

@@ -1,5 +1,3 @@
-###DEL-004905-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.905 – DE 31 DE OUTUBRO DE 1942
 
 Cria a 14ª Companhia Independente de Transmissões com sede em Natal

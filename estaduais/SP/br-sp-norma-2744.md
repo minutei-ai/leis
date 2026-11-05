@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/2744)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/lei-10856-31.08.2001.html)
 
 # LEI N° 10.856, DE 31 DE AGOSTO DE 2001

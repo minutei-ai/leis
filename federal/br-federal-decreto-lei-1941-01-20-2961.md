@@ -1,5 +1,3 @@
-###DEL-002961-0-000-20-01-1941@@@
-
 DECRETO-LEI N. 2.961 – DE 20 DE JANEIRO DE 1941
 
 Cria o Ministério da Aeronáutica

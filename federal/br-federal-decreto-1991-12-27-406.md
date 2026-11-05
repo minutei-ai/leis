@@ -1,5 +1,3 @@
-###DEC-000406-0-000-27-12-1991@@@
-
 DECRETO Nº 406, DE 27 DE DEZEMBRO DE 1991
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, vinculada ao Ministério do Exército.

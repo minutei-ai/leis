@@ -1,5 +1,3 @@
-###DEC-000048-0-000-01-03-1991@@@
-
 DECRETO Nº 48, DE 1º DE MARÇO DE 1991
 
 Dispõe sobre a execução da Ata de Retificação do Décimo Primeiro Protocolo Adicional ao Acordo Comercial nº 18 entre o Brasil e o México.

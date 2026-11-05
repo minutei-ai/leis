@@ -1,5 +1,3 @@
-###DEC-045463-0-000-25-02-1959@@@
-
 Decreto nº 45.463, de 25 de fevereiro de 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em Corumbá, Estado de Mato Grosso, necessários à ampliação do aeroporto local.

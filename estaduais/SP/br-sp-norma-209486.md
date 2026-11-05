@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209486)<br>
-
 # DECRETO N° 68.540, DE 22 DE MAIO DE 2024
 
 ### _Regulamenta a Lei n° 17.861, de 22 de dezembro de 2023, que institui no âmbito da Secretaria da Educação o Programa de Intercâmbio "Prontos pro Mundo", destinado aos alunos da rede pública estadual de ensino, e dá providências correlatas._

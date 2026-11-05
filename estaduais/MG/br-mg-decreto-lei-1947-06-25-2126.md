@@ -21,7 +21,3 @@ Art. 5º - Revogam-se as disposições em contrário, entrando este Decreto-lei 
 Palácio da Liberdade, Belo Horizonte, 25 de junho de 1947.
 
 Milton Soares Campos - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 04/09/2006.

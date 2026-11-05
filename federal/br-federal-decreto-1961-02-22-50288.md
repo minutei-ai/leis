@@ -1,5 +1,3 @@
-###DEC-050288-0-000-22-02-1961@@@
-
 DECRETO Nº 50.288, de 22 de fevereiro de 1961.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Pôrto Alegre, Estado do Rio Grande do Sul.

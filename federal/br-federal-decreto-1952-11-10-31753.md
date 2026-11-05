@@ -1,14 +1,12 @@
-###DEC-031753-0-000-10-11-1952@@@
+**DECRETO Nº 31.753, DE 10 DE NOVEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.753, DE 10 DE NOVEMBRO DE 1952.</strong>
+***Declara de utilidade pública a faixa necessária à construção da linha de transmissão Anhanguera-Jundiaí e do ramal de Perus, e autoriza a respectiva desapropriação.***
 
-<em><strong>Declara de utilidade pública a faixa necessária à construção da linha de transmissão Anhanguera-Jundiaí e do ramal de Perus, e autoriza a respectiva desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87 inciso I, da Constituição e nos têrmos do disposto no Decreto lei nº 3.365, de 21 de junho de 1941, atendendo ao que requereu The São Paulo Light and Power Company Limited, concessionária do serviço de energia elétrica na capital paulista,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87 inciso I, da Constituição e nos têrmos do disposto no Decreto lei nº 3.365, de 21 de junho de 1941, atendendo ao que requereu The São Paulo Light and Power Company Limited, concessionária do serviço de energia elétrica na capital paulista,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de unidade pública as seguintes áreas os terra compreendidas na faixa da linha de transmissão Anhanguera-Jundiaí e ramal de Perus, que o Decreto número 24.562 de 15 de maio de 1951, autorizou a construir:
+**Art**. 1º São declaradas de unidade pública as seguintes áreas os terra compreendidas na faixa da linha de transmissão Anhanguera-Jundiaí e ramal de Perus, que o Decreto número 24.562 de 15 de maio de 1951, autorizou a construir:
 
 1\) Área de duzentos e trinta e dois mil – (232.000) metros quadrados, de propriedade atribuída ao Dr. Artur Ramos e Silva;
 
@@ -142,14 +140,14 @@
 
 Parágrafo único. No projeto das duas ligações, aprovado pelo Ministro da Agricultura, estão figuradas e indicadas, com as respectivas posições sôbre o eixo do traçado, as áreas que se enumeraram.
 
-<strong>Art</strong>. 2º Fica autorizada The São Paulo Light and Power Company, Limited a promover, na forma da legislação vigente, a desapropriação dos referidos terrenos, com as benfeitorias que possuam.
+**Art**. 2º Fica autorizada The São Paulo Light and Power Company, Limited a promover, na forma da legislação vigente, a desapropriação dos referidos terrenos, com as benfeitorias que possuam.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 10 de novembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

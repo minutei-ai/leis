@@ -1,5 +1,3 @@
-###DEC-045308-0-000-27-01-1959@@@
-
 Decreto nº 45.308, de 27 de janeiro de 1959.
 
 Declara caduco o Decreto nº 16.666, de 27 de setembro de 1944.

@@ -1,5 +1,3 @@
-###DEL-004383-0-000-16-06-1942@@@
-
 DECRETO-LEI N. 4.383 – DE 16 DE JUNHO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 59:018$0, para pagamento da despesa com a desapropriação de terrenos.

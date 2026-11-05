@@ -1,5 +1,3 @@
-###DEC-075535-0-000-26-03-1975@@@
-
 DECRETO Nº 75.535, DE 26 de março de 1975.
 
 Concede reconhecimento ao curso de Pedagogia do Centro de Ensino Superior de Juiz de Fora, mantido pela Sociedade Propagadora Esdeva, com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

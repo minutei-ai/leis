@@ -1,5 +1,3 @@
-###DEC-061169-0-000-17-08-1967@@@
-
 DECRETO Nº 61.169, de 17 de agôsto de 1967.
 
 Autorização para funcionamento de Faculdade.

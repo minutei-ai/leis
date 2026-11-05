@@ -1,5 +1,3 @@
-###DEC-087621-0-000-21-09-1982@@@
-
 Decreto nº 87.621, de 21 de setembro de 1982
 
 Autoriza o aumento de capital da USIMINAS MECÂNICA S.A. - USIMEC por subscrição e integralização em dinheiro e mediante capitalização de crédito em conta corrente.

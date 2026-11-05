@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183847)
-
 # DECRETO Nº 62.908, DE 31 DE OUTUBRO DE 2017
 
 ### _Cria, na Secretaria da Saúde, diretamente subordinado à Coordenadoria de Serviços de Saúde, o Centro de Reabilitação Lucy Montoro, de Sorocaba, e dá providências correlatas_
@@ -20,10 +18,16 @@ Palácio dos Bandeirantes, 31 de outubro de 2017
 
 GERALDO ALCKMIN
 
-David Everson Uip<br>
-Secretário da Saúde<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+David Everson Uip
+
+Secretário da Saúde
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 31 de outubro de 2017.

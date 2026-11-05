@@ -1,5 +1,3 @@
-###DEC-061722-0-000-22-11-1967@@@
-
 DECRETO Nº 61.722, DE 22 DE NOVEMBRO DE 1967.
 
 Outorga à Centrais Elétrica de Minas Gerais S.A., concessão para distribuir energia elétrica no município de Raposos, Estado de Minas Gerais.

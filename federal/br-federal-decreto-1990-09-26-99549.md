@@ -1,5 +1,3 @@
-###DEC-099549-0-000-26-09-1990@@@
-
 DECRETO Nº 99.549, DE 26 DE SETEMBRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, imóveis urbanos, com benfeitorias, situados no Município de São Paulo, Estado de São Paulo, destinados à sede do Tribunal Regional Federal da Terceira Região.

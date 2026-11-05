@@ -1,5 +1,3 @@
-###DEC-057449-0-000-16-12-1965@@@
-
 DECRETO Nº 57.449, DE 16 DE DEZEMBRO DE 1965.
 
 Prorroga por mais noventa (90), dias o prazo previsto no art. 5º do Decreto nº 56.543, de 7 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEC-003898-0-000-29-08-2001@@@
-
 DECRETO Nº 3.898, DE 29 DE AGOSTO 2001
 
 Altera os incisos I e II do art. 8o do Plano de Metas para a Universalização de Serviços de Telecomunicações em Escolas Públicas de Ensino Profissionalizante, aprovado pelo Decreto no 3.753, de 19 de fevereiro de 2001.

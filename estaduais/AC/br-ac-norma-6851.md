@@ -1,6 +1,10 @@
 > **LEI Nº 4.817, DE 03 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda - SEFAZ, para dispor sobre as vantagens aplicáveis.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda - SEFAZ, para dispor sobre as vantagens aplicáveis.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

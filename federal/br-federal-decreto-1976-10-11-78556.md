@@ -1,5 +1,3 @@
-###DEC-078556-0-000-11-10-1976@@@
-
 DECRETO Nº 78.556, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso Ciências, da Faculdade de Filosofia, Ciências e Letras de Itapetininga, sede na cidade de Itapetininga, Estado de São Paulo.

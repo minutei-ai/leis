@@ -1,5 +1,3 @@
-###DEC-055030-0-000-18-11-1964@@@
-
 decreto nº 55.030, de 18 de novembro de 1964.
 
 Cancela o decreto nº 7.518, de 9 de julho de 1941.

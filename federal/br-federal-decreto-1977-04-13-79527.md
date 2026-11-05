@@ -1,5 +1,3 @@
-###DEC-079527-0-000-13-04-1977@@@
-
 DECRETO Nº 79.527, DE 13 DE ABRIL DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados no Município de Iguape e na Ilha Comprida, no Estado de São Paulo.

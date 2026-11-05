@@ -1,5 +1,3 @@
-###DEC-081691-0-000-22-05-1978@@@
-
 Decreto nº 81 691, de 22 de maio de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de São Gonçalo, Estado do Rio de Janeiro.

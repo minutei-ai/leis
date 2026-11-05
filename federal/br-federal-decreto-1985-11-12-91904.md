@@ -1,5 +1,3 @@
-###DEC-091904-0-000-12-11-1985@@@
-
 Decreto nº 91.904, de 12 de novembro de 1985
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-071324-0-000-07-11-1972@@@
-
 DECRETO Nº 71.324 - DE 7 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade Dom Bosco de Filosofia, Ciências e Letras, Belo Horizonte - MG.

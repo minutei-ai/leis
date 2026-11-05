@@ -1,5 +1,3 @@
-###DEC-045854-0-000-22-04-1959@@@
-
 DECRETO Nº 45.854, DE 22 DE ABRIL DE 1959.
 
 Amplia a zona de fornecimento de Francisco Lindner & Companhia Limitada.

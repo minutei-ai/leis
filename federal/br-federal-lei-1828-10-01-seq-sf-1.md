@@ -1,5 +1,3 @@
-###LEI-000000-0-001-01-10-1828@@@
-
 LEI - Do 1º DE OUTUBRO DE 1828
 
 Dá nova fórma ás Camaras Municipaes, marca suas attribuições, e o processo para a sua eleição, e dos Juizes de Paz.

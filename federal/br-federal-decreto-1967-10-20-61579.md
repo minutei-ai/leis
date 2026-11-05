@@ -1,5 +1,3 @@
-###DEC-061579-0-000-20-10-1967@@@
-
 DECRETO Nº 61.579, DE 20 DE OUTUBRO DE 1967.
 
 Provê sôbre a instituição de uma unidade cultural em Natal, Capital do Rio Grande do Norte.

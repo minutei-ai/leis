@@ -18,8 +18,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 23 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -39,12 +37,16 @@ Av. Marechal Humberto de Alencar Castelo Branco, 352, Quadra 29, Córrego do Our
 Nº 836 - Cartório de Registro de Imóveis de Córrego do Ouro/GO
 
  |
-| DISCRIMINAÇÃO DO IMÓVEL | Referências | Metros | Confrontação | <br>
+| DISCRIMINAÇÃO DO IMÓVEL | Referências | Metros | Confrontação |
+
   |
-| Frente | 15,00 | Av. Marechal Humberto de Alencar Castelo Branco | <br>
+| Frente | 15,00 | Av. Marechal Humberto de Alencar Castelo Branco |
+
   |
-| Lado direito | 28,40 | Lote 354 | <br>
+| Lado direito | 28,40 | Lote 354 |
+
   |
-| Lado esquerdo | 28,40 | Lote 350 | <br>
+| Lado esquerdo | 28,40 | Lote 350 |
+
   |
 | Fundo | 15,00 | Lote 372 |

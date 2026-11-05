@@ -1,5 +1,3 @@
-###DEC-074170-0-000-10-06-1974@@@
-
 Decreto nº 74.170, de 10 de junho de 1974.
 
 Regulamenta a Lei número 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos.

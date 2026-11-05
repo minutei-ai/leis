@@ -1,7 +1,3 @@
-1
-
-###DEC-099376-0-000-10-07-1990@@@
-
 # DECRETO Nº 99.376, DE 10 DE JULHO DE 1990
 
 Altera dispositivos do Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975, Lei do Ensino no Exército, e dá outras providências.

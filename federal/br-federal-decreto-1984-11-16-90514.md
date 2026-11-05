@@ -1,5 +1,3 @@
-###DEC-090514-0-000-16-11-1984@@@
-
 Decreto nº 90.514, de 16 de novembro de 1984
 
 Outorga concessão à TV STUDIOS DE LIMEIRA S/C LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Limeira, Estado de São Paulo.

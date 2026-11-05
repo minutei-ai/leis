@@ -1,5 +1,3 @@
-###DEC-082183-0-000-28-08-1978@@@
-
 Decreto Nº 82.183, DE 28 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

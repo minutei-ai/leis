@@ -1,5 +1,3 @@
-###DEC-047111-0-000-27-10-1959@@@
-
 DECRETO Nº 47.111, DE 27 DE outubro DE 1959.
 
 Autoriza o cidadão brasileiro Vilmar Freitas a pesquisar fluorita no Município de Orlães, Estado de Santa Catarina.

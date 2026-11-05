@@ -1,5 +1,3 @@
-###DEC-052130-0-000-17-06-1963@@@
-
 DECRETO Nº 52.139, DE 17 DE JUNHO DE 1963.
 
 Dispõe sôbre a aplicação do artigo 7º do Decreto nº 51.668 de 17 de janeiro de 1963.

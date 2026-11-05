@@ -1,5 +1,3 @@
-###DEC-000187-0-000-09-08-1991@@@
-
 DECRETO Nº 187, DE 9 DE AGOSTO DE 1991
 
 Regulamenta a Lei n° 6.446, de 5 de outubro de 1977, que dispõe sobre a inspeção e fiscalização obrigatórias do sêmem destinado à inseminação artificial em animais domésticos.

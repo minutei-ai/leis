@@ -1,5 +1,3 @@
-###DEC-078907-0-000-07-12-1976@@@
-
 DECRETO Nº 78.907, DE 7 DE DEZEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na Cidade de Belém, Estado do Pará.

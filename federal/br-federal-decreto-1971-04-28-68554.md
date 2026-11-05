@@ -1,5 +1,3 @@
-###DEC-068554-0-000-28-04-1971@@@
-
 DECRETO Nº 68.554, DE 28 DE ABRIL DE 1971.
 
 Reconhecimento do Curso de Ciências Contábeis, da Universidade Federal de Santa Maria - RS.

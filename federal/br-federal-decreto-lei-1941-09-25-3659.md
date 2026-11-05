@@ -1,5 +1,3 @@
-###DEL-003659-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.659 – DE 25 DE SETEMBRO DE 1941
 
 Cria a função gratificada de chefe da Secção de Comunicações da Contadoria Geral da República

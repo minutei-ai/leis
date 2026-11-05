@@ -1,5 +1,3 @@
-###DEC-094295-0-000-30-04-1987@@@
-
 DECRETO Nº 94.295, DE 29 DE ABRIL DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "PACU-MATRINXÃ", classificado no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situado nos Municípios de Nova Brasilândia e Paranatinga, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 2 de maio de 1986, e dá outras providências.

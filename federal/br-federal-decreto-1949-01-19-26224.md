@@ -1,14 +1,12 @@
-###DEC-026224-0-000-19-01-1949@@@
+**DECRETO Nº 26.224, DE 19 DE JANEIRO DE 1949.**
 
-<strong>DECRETO Nº 26.224, DE 19 DE JANEIRO DE 1949.</strong>
+***Altera a Lista de Concessões Tarifárias III Brasil a que se refere a Lei nº 313, de 30 de julho de 1948.***
 
-<em><strong>Altera a Lista de Concessões Tarifárias III Brasil a que se refere a Lei nº 313, de 30 de julho de 1948.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e nos têrmos do art. 7º da Lei número 313, de 30 de julho de 1948,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e nos têrmos do art. 7º da Lei número 313, de 30 de julho de 1948,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam alterados, provisòriamente, pelo modo seguinte, a Lista de Concessões Tarifárias a que se refere a Lei nº 313, de 30 de junho de 1948 e os direitos convencionais da Tarifa das Alfândegas em vigor, mandada reimprimir na forma do artigo 6º da Lei citada:
+**Art**. 1º Ficam alterados, provisòriamente, pelo modo seguinte, a Lista de Concessões Tarifárias a que se refere a Lei nº 313, de 30 de junho de 1948 e os direitos convencionais da Tarifa das Alfândegas em vigor, mandada reimprimir na forma do artigo 6º da Lei citada:
 
 Classe 4ª
 
@@ -32,12 +30,12 @@ Classe 26ª
 
 Drogas, medicamentos químicos e preparações farmacêuticas, dietéticas e outras de uso em medicina.
 
-Art. 1.444-A. Penicílina pura....<em>ad-valorem</em> - 25%.
+Art. 1.444-A. Penicílina pura....*ad-valorem* - 25%.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de janeiro de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Corrêa e Castro

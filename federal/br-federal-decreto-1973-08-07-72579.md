@@ -1,5 +1,3 @@
-###DEC-072579-0-000-07-08-1973@@@
-
 DECRETO Nº 72.579, DE 7 DE AGOSTO DE 1973.
 
 Dispõe sobre a auditoria externa de projetos financiados com recursos oriundos do exterior, e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-005681-0-000-23-01-2006@@@
-
 DECRETO Nº 5.681, DE 23 DE JANEIRO DE 2006.
 
 Dá nova redação ao art. 3º do Decreto no 940, de 27 de setembro de 1993, que dispõe sobre a diária no exterior, do servidor público civil e militar, integrante de equipe de apoio ou de comitiva do Presidente ou do Vice-Presidente da República.

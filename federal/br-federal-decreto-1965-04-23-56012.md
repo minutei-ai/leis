@@ -1,5 +1,3 @@
-###DEC-056012-0-000-23-04-1965@@@
-
 DECRETO Nº 56.012, DE 23 DE ABRIL DE 1965.
 
 Declara extinta a comissão da Emprêsa Agropecuária de Resende e dá outras providências.

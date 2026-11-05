@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/91bd02da-7c83-4dac-a424-440d22e7089d/texto#nowhere)
 
-###DEL-001226-0-000-26-06-1972@@@
-
 # DECRETO-LEI Nº 1.226, DE 26 DE JUNHO DE 1972
 
 Autoriza o Poder Executivo a promover a subscrição no aumento de capital do Banco do Nordeste do Brasil S.A. e dá outras providências.

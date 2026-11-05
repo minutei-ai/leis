@@ -1,5 +1,3 @@
-###DEC-094583-0-000-10-07-1987@@@
-
 DECRETO N° 94.583, DE 10 DE JULHO DE 1987
 
 Renova a concessão outorgada à RÁDIO CRUZEIRO DO SUL ITAQUI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itaqui, Estado do Rio Grande do Sul.

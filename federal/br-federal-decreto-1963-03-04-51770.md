@@ -1,5 +1,3 @@
-###DEC-051770-0-000-04-03-1963@@@
-
 Decreto nº 51.770, de 04 de MARÇO de 1963.
 
 Concede à Mineração Salles, Cintra & Cia. Limitada, autorização para funcionar como emprêsa de mineração.

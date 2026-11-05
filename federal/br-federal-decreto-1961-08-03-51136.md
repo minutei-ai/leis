@@ -1,5 +1,3 @@
-###DEC-051136-0-000-03-08-1961@@@
-
 Decreto nº 51.136, de 3 de agôsto de 1961.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$43.350.000,00, para o fim que menciona.

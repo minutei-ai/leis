@@ -1,5 +1,3 @@
-###DEL-004390-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.390 – DE 18 DE JUNHO DE 1942
 
 Cria uma coletoria federal no município de Campo Formoso, no Estado de Minas Gerais, e dá outras providências

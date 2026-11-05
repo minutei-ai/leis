@@ -1,5 +1,3 @@
-###DEC-060578-0-000-10-04-1967@@@
-
 DECRETO Nº 60.578, DE 10 DE ABRIL DE 1967.
 
 Outorga concessão à Usina Siderúrgica da Bahia S. A. - USIBA - para derivar as águas do rio Jaguaribe, no Estado da Bahia, para fins industriais.

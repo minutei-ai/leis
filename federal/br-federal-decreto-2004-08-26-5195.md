@@ -1,5 +1,3 @@
-###DEC-005195-0-000-26-08-2004@@@
-
 DECRETO Nº 5.195 DE 26 DE AGOSTO DE 2004
 
 Dispõe sobre a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na importação e na comercialização no mercado interno de adubos, fertilizantes e defensivos agropecuários, de que trata o art. 1º da Lei nº 10.925, de 23 de julho de 2004, e dá outras providências.

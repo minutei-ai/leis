@@ -1,7 +1,3 @@
-1
-
-###DEC-098924-0-000-02-02-1990@@@
-
 DECRETO Nº 98.924, DE 2 DE FEVEREIRO DE 1990
 
 Outorga concessão à RÁDIO LIBERDADE DE ITAREMA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Itarema, Estado do Ceará.

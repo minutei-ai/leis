@@ -1,5 +1,3 @@
-###DEC-057875-0-000-25-02-1966@@@
-
 decreto nº 57.875, de 25 de fevereiro de 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

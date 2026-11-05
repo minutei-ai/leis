@@ -1,5 +1,3 @@
-###DEC-003195-0-000-05-10-1999@@@
-
 DECRETO Nº 3.195, DE 5 DE OUTUBRO DE 1999.
 
 Promulga o Protocolo Adicional ao Acordo de Cooperação Financeira de 24 de outubro de 1991, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha, em Brasília, em 26 de maio de 1997.

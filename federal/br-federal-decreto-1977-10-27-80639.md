@@ -1,5 +1,3 @@
-###DEC-080639-0-000-27-10-1977@@@
-
 DECRETO Nº 80.639, DE 27 DE OUTUBRO DE 1977.
 
 Concede à Paranapanema S.A. Mineração, Indústria e Construção o direito de lavrar cassiterita no Município de Novo Aripuanã, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEL-006309-0-000-03-03-1944@@@
-
 DECRETO-LEI N. 6.309 – DE 3 DE MARÇO DE 1944
 
 Autoriza o Ministério da Agricultura a promover acôrdos com as entidades que menciona, para desenvolvimento da lavoura canavieira, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-066595-0-000-20-05-1970@@@
-
 Decreto nº 66.595, de 20 de maio de 1970.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a linha tronco Rasgão - Pôrto Góis, até a subestação de Pôrto Feliz, no município de Pôrto Feliz, Estado de São Paulo.

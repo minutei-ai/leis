@@ -1,7 +1,3 @@
-1
-
-###MPV-001087-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.087, DE 25 DE AGOSTO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

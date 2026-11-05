@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69428)
-
 # LEI Nº 12.512, DE 28 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 119/2006, do Deputado Geraldo Vinholi - PDT)

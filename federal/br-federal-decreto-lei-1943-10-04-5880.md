@@ -1,5 +1,3 @@
-###DEL-005880-0-000-04-10-1943@@@
-
 DECRETO‑LEI N. 5.880 – DE 4 DE OUTUBRO DE 1943
 
 Altera as carreiras de Operário de Artes Gráficas, do Quadro Suplementar do Ministério da justiça e Negócios Interiores, e dá outras providências

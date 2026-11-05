@@ -1,5 +1,3 @@
-###DEC-079089-0-000-04-01-1977@@@
-
 Decreto nº 79.089, de 4 de janeiro de 1977.
 
 Concede reconhecimento ao curso de Meteorologia, do Instituto de Geociências, da Universidade Federal do Rio de Janeiro.

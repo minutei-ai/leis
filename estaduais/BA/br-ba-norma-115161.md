@@ -1,6 +1,7 @@
 LEI Nº 2.503 DE 07 DE DEZEMBRO DE 1967
 
-Ver Também:<br>
+Ver Também:
+
 Art. 3º da Lei nº 2.624, de 08 de dezembro de 1968 : "Fica extinta a taxa rodoviária criada pela Lei nº 2.503, de 30 de novembro de 1967."
 
 Cria a taxa rodoviária, autoriza a cobrança do pedágio e dá outras providências.
@@ -59,8 +60,84 @@ Francisco Benjamin Fonseca de Carvalho
 
 TABELA PARA O CÁLCULO DA TAXA RODOVIÁRIA
 
-<table style="width: 326.05pt; margin-left: 2.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="435" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 1.0cm; border: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>a</span></p></td><td style="width: 9.0cm; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Automóveis até 50 HP</span></p></td><td style="width: 42.55pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>50,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>b</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Automóveis mais de 50 HP até 100 HP</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>90,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>c</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Automóveis mais de 100 HP até 150 HP</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>140,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>d</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Automóveis mais de 150 HP</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>190,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>e</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Ônibus e Micro ônibus até 5 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>120,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>f</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Ônibus de mais de 5 ton. até 10 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>200,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>g</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Ônibus de mais de 10 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>280,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>h</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga até 3 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>80,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>i</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga de mais de 3 ton. até 6 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>140,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>j</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga de mais de 6 ton. até 12 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>240,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>l</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga de mais de 12 ton. até 24 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>490,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>m</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga de mais de 24 ton. até 30 ton.</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto"><span>740,00</span></p></td></tr><tr><td style="width: 1.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="38"><p class="Tabela-Texto"><span>n</span></p></td><td style="width: 9.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="340"><p class="Tabela-Texto"><span>Veículos de carga de mais de 30 ton. pagarão por toneladas ou fração excedente</span></p></td><td style="width: 42.55pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="57"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto"><span>25,00</span></p></td></tr></tbody></table>
+a
+
+Automóveis até 50 HP
+
+50,00
+
+b
+
+Automóveis mais de 50 HP até 100 HP
+
+90,00
+
+c
+
+Automóveis mais de 100 HP até 150 HP
+
+140,00
+
+d
+
+Automóveis mais de 150 HP
+
+190,00
+
+e
+
+Ônibus e Micro ônibus até 5 ton.
+
+120,00
+
+f
+
+Ônibus de mais de 5 ton. até 10 ton.
+
+200,00
+
+g
+
+Ônibus de mais de 10 ton.
+
+280,00
+
+h
+
+Veículos de carga até 3 ton.
+
+80,00
+
+i
+
+Veículos de carga de mais de 3 ton. até 6 ton.
+
+140,00
+
+j
+
+Veículos de carga de mais de 6 ton. até 12 ton.
+
+240,00
+
+l
+
+Veículos de carga de mais de 12 ton. até 24 ton.
+
+490,00
+
+m
+
+Veículos de carga de mais de 24 ton. até 30 ton.
+
+740,00
+
+n
+
+Veículos de carga de mais de 30 ton. pagarão por toneladas ou fração excedente
+
+25,00
 
 (\*) Republicada por haver saído com incorreção.
 
-* * *
+ *

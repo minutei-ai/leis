@@ -1,5 +1,3 @@
-###DEL-005581-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.581 – DE 17 DE JUNHO DE 1943
 
 Dispõe sôbre o financiamento dos algodões da safra de 1943

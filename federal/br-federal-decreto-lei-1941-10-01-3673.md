@@ -1,5 +1,3 @@
-###DEL-003673-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.673 – DE 1 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Guerra, o credito suplementar de 750:000&0

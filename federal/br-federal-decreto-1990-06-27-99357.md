@@ -1,7 +1,3 @@
-1
-
-###DEC-099357-0-000-27-06-1990@@@
-
 DECRETO N° 99.357, DE 27 DE JUNHO DE 1990
 
 Dispõe sobre a execução do Oitavo Pro­tocolo Adicional ao Acordo de Alcance Par­cial de Renegociação das Preferências Ou­torgadas no Período 1962/80, entre o Brasil e a Colômbia.

@@ -1,5 +1,3 @@
-###DEC-048117-0-000-13-04-1960@@@
-
 DECRETO Nº 48.117, DE 13 DE ABRIL DE 1960.
 
 Estabelece em Brasília um Pôsto Fiscal Aduaneiro, e dá outra providencias.
@@ -25,8 +23,6 @@ Rio de Janeiro, em 13 de Abril de 1960; 139º da Independência e 72º da Republ
 Juscelino Kubitschek
 
 Sebastião Paes de Almeida
-
-###DEC-048117-0-000-13-04-1960@@@RET01+++
 
 decreto nº 48.117, de 13 de abril de 1960.
 

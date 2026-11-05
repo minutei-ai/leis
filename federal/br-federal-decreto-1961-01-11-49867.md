@@ -1,5 +1,3 @@
-###DEC-049867-0-000-11-01-1961@@@
-
 DECRETO Nº 49.867, DE 11 DE JANEIRO DE 1961.
 
 Altera, temporàriamente, o Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e Costa.

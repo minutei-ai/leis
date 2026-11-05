@@ -1,5 +1,3 @@
-###DEC-047450-0-000-18-12-1959@@@
-
 DECRETO Nº 47.450, DE 18 DE DEZEMBRO DE 1959.
 
 Altera o Regulamento do Impôsto de Consumo aprovado pelo Decreto número 45.422, de 12 de fevereiro de 1959.
@@ -52,7 +50,31 @@ V- Chapéus para homem, de preço máximo de venda no varejo, marcado pelo fabri
 
 VI - Calçados populares, como tal definidos no artigo 10 e de preço máximo de venda no varejo, marcado pelo fabricante, não excedente a:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:10.5pt"><td style="vertical-align:top"></td><td style="vertical-align:top"></td><td style="width:124.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quanto aos tamanhos e chinelos..............................................</span></p></td><td style="width:124.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>80,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quanto aos sapatos e botinas para homem..............................</span></p></td><td style="width:124.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quanto aos sapatos para senhoras...........................................</span></p></td><td style="width:124.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>320,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 </span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quanto aos sapatos e botinas para crianças............................</span></p></td><td style="width:124.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>200,00</span></p></td></tr><tr style="height:0pt"><td style="width:24.8pt"></td><td style="width:283.5pt"></td><td style="width:131.05pt"></td></tr></tbody></table>
+Cr$
+
+1
+
+Quanto aos tamanhos e chinelos..............................................
+
+80,00
+
+2
+
+Quanto aos sapatos e botinas para homem..............................
+
+400,00
+
+3
+
+Quanto aos sapatos para senhoras...........................................
+
+320,00
+
+4
+
+Quanto aos sapatos e botinas para crianças............................
+
+200,00
 
 VII - Camisas e outras roupas interiores para homem ou mulher, de preço máximo de venda no varejo, marcado pelo fabricante, até Cr$ 240,00 por unidade;
 
@@ -60,11 +82,35 @@ VIII - Cuecas, de preço máximo de venda no varejo, marcado pelo fabricante, at
 
 IX - Roupas (calças e paletó ou sala e casaco) prontas, de preço máximo de venda no varejo, marcado pelo fabricante:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:14.25pt"><td style="vertical-align:top"></td><td style="vertical-align:top"></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:261.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão até.....................................................................</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.400,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:261.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De lã, até..............................................................................</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.800,00</span></p></td></tr><tr style="height:0pt"><td style="width:24.8pt"></td><td style="width:268.1pt"></td><td style="width:146.45pt"></td></tr></tbody></table>
+Cr$
+
+1
+
+De algodão até.....................................................................
+
+1.400,00
+
+2
+
+De lã, até..............................................................................
+
+2.800,00
 
 X - Meias, de preço máximo de venda no varejo, marcado pelo fabricante, por par:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:5.25pt"><td style="vertical-align:top"></td><td style="vertical-align:top"></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:261.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão, até....................................................................</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>40,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:261.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De lã, até..............................................................................</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>80,00</span></p></td></tr><tr style="height:0pt"><td style="width:24.8pt"></td><td style="width:268.1pt"></td><td style="width:146.45pt"></td></tr></tbody></table>
+Cr$
+
+1
+
+De algodão, até....................................................................
+
+40,00
+
+2
+
+De lã, até..............................................................................
+
+80,00
 
 c) Quanto à alimentação:
 

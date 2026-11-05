@@ -1,5 +1,3 @@
-###DEC-054746-0-000-30-10-1964@@@
-
 decreto nº 54.746, de 30 de outubro de 1964.
 
 Declara de utilidade Pública a Ação Social Nossa Senhora de Copacabana com sede no Estado da Guanabara.

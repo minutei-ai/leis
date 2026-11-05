@@ -1,5 +1,3 @@
-###DEL-004356-0-000-04-06-1942@@@
-
 DECRETO-LEI N. 4.356 – DE 4 DE JUNHO DE 1942
 
 Prorroga o prazo previsto no decreto-lei n. 3.813, de 10 de novembro de 1941

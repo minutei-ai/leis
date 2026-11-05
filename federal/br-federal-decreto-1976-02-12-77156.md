@@ -1,5 +1,3 @@
-###DEC-077156-0-000-12-02-1976@@@
-
 DECRETO Nº 77.156, DE 12 de FEVEREIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura da Bahia Ltda cujo tipo societário foi transformado em S.A., passando a denominar-se Rádio Cultura da Bahia S.A. para executar serviço de radiodifusão sonora em onda curta, na cidade de Salvador, Estado da Bahia.

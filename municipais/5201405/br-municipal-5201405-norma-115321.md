@@ -4,7 +4,8 @@ Institui o Conselho Municipal de Política Cultural de Aparecida de Goiânia e d
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º. Fica instituído no âmbito do Município de Aparecida de Goiânia, o Conselho Municipal de Política Cultural de Aparecida, órgão integrante do Sistema Municipal de Cultura.
@@ -81,7 +82,8 @@ XXIX - fomentar, propor, apoiar, acompanhar e fiscalizar a criação e o funcion
 
 XXX - cooperar na defesa e conservação do patrimônio histórico, artístico, arquitetônico, arqueológico, natural e imaterial do município de Aparecida de Goiânia;
 
-XXXI - emitir parecer sobre assuntos e questões de natureza cultural que lhe sejam submetidos pela Administração Pública Municipal e órgãos competentes da administração indireta na área cultural do município de Aparecida de Goiânia;<br>
+XXXI - emitir parecer sobre assuntos e questões de natureza cultural que lhe sejam submetidos pela Administração Pública Municipal e órgãos competentes da administração indireta na área cultural do município de Aparecida de Goiânia;
+
 XXXII    - fomentar, opinar sobre convênios e incentivá-los quando autorizados pelo Gestor Público Municipal, visando a realização de exposições, festivais, congresso, seminários, conferências, simpósios, fóruns, feiras de caráter científico, artístico, literário ou intercâmbio cultural com outras entidades culturais;
 
 XXXIII - participar em eventos e ações que tratem de assuntos de relevância na área cultural.
@@ -90,7 +92,8 @@ Art. 5º. A Secretaria Municipal de Cultura garantirá infraestrutura, suporte t
 
 Art. 6º. O Conselho Municipal de Política Cultural usufruirá de espaços oficiais nos meios de comunicação escrita e falada para publicar suas resoluções, comunicados e outros instrumentos previstos no Regimento Interno.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPOSIÇÃO
 
 Art. 7º. O Conselho Municipal de Política Cultural será composto por 12 (doze) membros titulares e seus respectivos suplentes, sendo 06 (seis) representantes da sociedade civil eleitos pelos segmentos culturais e 05 (cinco) representantes da Administração Pública Municipal indicados pelo Secretário Municipal de Cultura e 1 (um) indicado por instituição Municipal/Estadual ou Federal de ensino e pesquisa no município.
@@ -133,7 +136,8 @@ Art. 17. O mandato dos membros do Conselho Municipal de Política Cultural será
 
 Parágrafo único. Entender-se-á por renúncia tácita a ausência sem justa causa ou pedido de licença a 03 (três) sessões consecutivas ou 05 (cinco) intercaladas no decurso de um ano.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ELEIÇÃO
 
 Art. 18. Os membros da sociedade civil que farão parte do Conselho Municipal de Política Cultural serão eleitos em conformidade com edital próprio para esse fim, que disciplinará os prazos e as formalidades necessárias, bem como as datas e procedimento eleitoral.
@@ -144,7 +148,8 @@ I – Ser maior de 18 anos;
 
 II – Ser morador de Aparecida ou atuar em atividade cultural em Aparecida de Goiânia há mais de 2 (dois)anos.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA ORGANIZAÇÃO INTERNA
 
 Art. 20. O Conselho Municipal de Política Cultural é composto pelos seguintes órgãos colegiados:
@@ -183,5 +188,6 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA – aos 19 de Maio de 2022.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

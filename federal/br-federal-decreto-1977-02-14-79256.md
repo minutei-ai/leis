@@ -1,5 +1,3 @@
-###DEC-079256-0-000-14-02-1977@@@
-
 DECRETO Nº 79.256, DE 14 DE FEVEREIRO DE 1977.
 
 Autoriza a transformação do curso de Matemática, em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de São João da Boa Vista, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068964-0-000-22-07-1971@@@
-
 DECRETO Nº 68.964, de 22 de julho de 1971.
 
 Concede à Mineração Boquira S.A., o direito de lavrar minério de chumbo, no município de Boquira, Estado da Bahia.

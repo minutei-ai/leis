@@ -1,7 +1,3 @@
-1
-
-###DEC-001337-0-000-13-12-1994@@@
-
 DECRETO Nº 1.337, DE 13 DE DEZEMBRO DE 1994
 
 Delega competência para nomeação das autoridades que menciona.

@@ -1,5 +1,3 @@
-###DEL-009694-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.694 – DE 2 DE SETEMBRO DE 1946
 
 Dispõe sôbre a reorganização do Departamento do Interior e da Justiça, do Ministério da Justiça e Negócios Interiores.

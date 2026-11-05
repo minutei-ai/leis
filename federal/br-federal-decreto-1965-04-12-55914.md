@@ -1,5 +1,3 @@
-###DEC-055914-0-000-12-04-1965@@@
-
 DECRETO Nº 55.914, DE 12 DE ABRIL DE 1965.
 
 Concede à sociedade Hard, Rand & Company autorização para alterar o seu nome para Rand Coffee Company, Inc., que agora se nacionaliza, sob a denominação de Hard, Rand S. A . – Exportadora e Importador.

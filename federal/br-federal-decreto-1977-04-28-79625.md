@@ -1,5 +1,3 @@
-###DEC-079625-0-000-28-04-1977@@@
-
 DECRETO Nº 79.625, DE 28 DE ABRIL DE 1977.
 
 Autoriza a transformação do curso de Matemática, das Faculdades São Judas Tadeu, com sede na cidade de São Paulo, Estado de São Paulo.

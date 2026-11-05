@@ -1,5 +1,3 @@
-###DEC-047635-0-000-15-01-1960@@@
-
 DECRETO Nº 47.635, DE 15 DE JANEIRO DE 1960.
 
 Autoriza Mineração Bico D’Arara S.A. a pesquisar cassiterita no Município de Acari Estado do Rio Grande do Norte.

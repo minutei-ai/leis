@@ -1,5 +1,3 @@
-###DEC-070591-0-000-23-05-1972@@@
-
 DECRETO Nº 70.591, DE 23 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 53.306, de 16 de dezembro de 1963.

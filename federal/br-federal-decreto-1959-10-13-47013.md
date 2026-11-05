@@ -1,5 +1,3 @@
-###DEC-047013-0-000-13-10-1959@@@
-
 DECRETO Nº 47.013, DE 13 DE OUTUBRO DE 1959.
 
 Concede à Companhia Melhoramentos de Caldas Novas autorização para funcionar como empresa de mineração.

@@ -1,5 +1,3 @@
-###DEC-082881-0-000-19-12-1978@@@
-
 Decreto nº 82.881, de 19 de dezembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor da PETROBRÁS DISTRIBUIDORA S.A , imóveis constituídos de terras e benfeitorias que menciona.

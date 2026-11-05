@@ -1,5 +1,3 @@
-###DEC-050217-0-000-28-01-1961@@@
-
 DECRETO Nº 50.217, DE 28 DE JANEIRO DE 1961.
 
 Dá nova redação ao artigo 1º e seus parágrafos do Decreto nº 35.482, de 7 de maio de 1954.

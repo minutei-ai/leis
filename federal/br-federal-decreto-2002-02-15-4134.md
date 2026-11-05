@@ -1,5 +1,3 @@
-###DEC-004134-0-000-15-02-2002@@@
-
 DECRETO Nº 4.134, DE 15 DE FEVEREIRO DE 2002.
 
 Promulga a Convenção no 138 e a Recomendação no 146 da Organização Internacional do Trabalho (OIT) sobre Idade Mínima de Admissão ao Emprego.

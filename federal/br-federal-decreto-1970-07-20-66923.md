@@ -1,5 +1,3 @@
-###DEC-066923-0-000-20-07-1970@@@
-
 Decreto nº 66.923, de 20 de julho de 1970.
 
 Aprova a alteração dos Estatutos da Fundação Museu do Café, de que trata o Decreto nº 65.198, de 19 de setembro de 1969.

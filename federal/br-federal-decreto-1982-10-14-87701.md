@@ -1,5 +1,3 @@
-###DEC-087701-0-000-14-10-1982@@@
-
 Decreto nº 87.701, de 14 de outubro de 1982
 
 Altera o Decreto nº 84.067, de 08 de outubro de 1979, que cria a Secretaria Especial de informática - SEI, como órgão complementar do Conselho de Segurança Nacional, e o Decreto nº 84.266, de 05 de dezembro de 1979, que dispõe sobre a estrutura básica do órgão.

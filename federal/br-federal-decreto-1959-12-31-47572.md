@@ -1,5 +1,3 @@
-###DEC-047572-0-000-31-12-1959@@@
-
 DECRETO Nº 47.572, DE 31 DE DEZEMBRO DE 1959.
 
 Concede o abono provisório aos servidores da Universidade Rural de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-059781-0-000-16-12-1966@@@
-
 DECRETO Nº 59.781, DE 16 DE DEZEMBRO DE 1966
 
 Autorização o cidadão brasileiro Elpídio Celso de Abreu Rosa a pesquisar minério de ferro, no Município de Morro do Pilar, Estado de Minas Gerais.

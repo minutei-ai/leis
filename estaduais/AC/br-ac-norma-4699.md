@@ -1,6 +1,10 @@
 > **LEI Nº 3.755, DE 13 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o programa de apoio psicológico, voltado ao acompanhamento de profissionais da saúde, vítimas de traumas decorrentes do exercício funcional diante da pandemia do novo coronavírus - Covid-19.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o programa de apoio psicológico, voltado ao acompanhamento de profissionais da saúde, vítimas de traumas decorrentes do exercício funcional diante da pandemia do novo coronavírus - Covid-19.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

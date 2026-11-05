@@ -1,5 +1,3 @@
-###DEL-003002-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.002 – DE 30 DE JANEIRO DE 1941
 
 Autoriza a constituição da Companhia Siderúrgica Nacional e dá outras providências

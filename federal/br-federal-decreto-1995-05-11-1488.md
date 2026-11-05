@@ -1,7 +1,3 @@
-1
-
-###DEC-001488-0-000-11-05-1995@@@
-
 DECRETO N° 1.488, DE 11 DE MAIO DE 1995
 
 Regulamenta as normas que disciplinam os procedimentos administrativos relativos à aplicação de medidas de salvaguarda.

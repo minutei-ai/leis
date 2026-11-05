@@ -1,5 +1,3 @@
-###DEC-004557-0-000-30-12-2002@@@
-
 DECRETO N. 4.557 – DE 30 DE DEZEMBRO DE 2002
 
 Revoga os Decretos nos – 960, de 13 de outubro de 1993, e 2.688, de 28 de julho de 1998, que incorporam ao ordenamento jurídico brasileiro as sanções contra a União para a Independência Total de Angola – UNITA.

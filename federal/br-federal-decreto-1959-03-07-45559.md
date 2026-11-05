@@ -1,5 +1,3 @@
-###DEC-045559-0-000-07-03-1959@@@
-
 DECRETO Nº 45.559, DE 7 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Regional de Contabilidade do Estado de São Paulo.

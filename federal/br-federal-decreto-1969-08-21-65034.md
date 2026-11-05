@@ -1,5 +1,3 @@
-###DEC-065034-0-000-21-08-1969@@@
-
 Decreto Nº 65.034 - de 21 de agÔsto de 1969.
 
 Transforma a 7ª Companhia de Polícia do Exército em 4º Batalhão de Polícia do Exército e dá outras providências.

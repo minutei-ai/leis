@@ -1,5 +1,3 @@
-###DEC-002311-0-000-26-08-1997@@@
-
 DECRETO Nº 2.311, DE 26 DE AGOSTO DE 1997
 
 Altera, no Ministério do Exército, a sede do Comando da 1ª Brigada de Artilharia Antiaérea e dá outras Providências.

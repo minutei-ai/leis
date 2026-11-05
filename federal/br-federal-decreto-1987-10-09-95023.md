@@ -1,5 +1,3 @@
-###DEC-095023-0-000-09-10-1987@@@
-
 DECRETO Nº 95.023, DE 9 DE OUTUBRO DE 1987
 
 Dá nova redação ao artigo 83, do Decreto nº 81.771, de 7 de junho de 1978, alterado pelos Decretos nº 84.590, de 25 de março de 1.980 e nº 87.228, de 31 de maio de 1982, que cria a Comissão Nacional de Sementes e Mudas - CONASEN.

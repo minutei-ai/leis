@@ -1,5 +1,3 @@
-###DEC-045915-0-000-29-04-1959@@@
-
 DECRETO Nº 45.915, DE 29 DE ABRIL DE 1959.
 
 Autoriza a Alumínio Minas Gerais S A. a construir uma linha de transmissão entre Conselheiro Lafaiete, município do mesmo nome, e Saramenha, município de Ouro Prêto, Estado de Minas Gerais.

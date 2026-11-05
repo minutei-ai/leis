@@ -1,5 +1,3 @@
-###DEC-004324-0-000-06-08-2002@@@
-
 DECRETO Nº 4.324, DE 6 DE AGOSTO DE 2002
 
 Regulamenta a Lei nº 9.992, de 24 de julho de 2000, que altera a destinação de receitas próprias decorrentes de contratos firmados pelo Departamento Nacional de Estradas de Rodagem, visando o financiamento de programas e projetos de pesquisa científica e desenvolvimento tecnológico do setor produtivo na área de transportes terrestres, e dá outras providências.

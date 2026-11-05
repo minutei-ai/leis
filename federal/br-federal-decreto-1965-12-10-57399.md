@@ -1,5 +1,3 @@
-###DEC-057399-0-000-10-12-1965@@@
-
 DECRETO Nº 57.399, DE 10 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública, para fins desapropriação, o imóvel que menciona; no Estado da Guanabara, e dá outras providências.

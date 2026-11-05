@@ -1,16 +1,14 @@
-###DEC-027063-0-000-17-08-1949@@@
+**DECRETO Nº 27.063, DE 17 DE AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 27.063, DE 17 DE AGÔSTO DE 1949.</strong>
+***Altera o Regimento aprovado pelo Decreto nº 20.489, de 24 de janeiro de 1949.***
 
-<em><strong>Altera o Regimento aprovado pelo Decreto nº 20.489, de 24 de janeiro de 1949.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Regimento do Departamento Administrativo do Serviço Público, aprovado pelo Decreto número 20.489, de 24 de janeiro de 1946, passa a vigorar com as modificações constantes dêste Decreto.
 
-<strong>Art</strong>. 1º O Regimento do Departamento Administrativo do Serviço Público, aprovado pelo Decreto número 20.489, de 24 de janeiro de 1946, passa a vigorar com as modificações constantes dêste Decreto.
-
-<strong>Art</strong>. 2º Os artigos 3º, 27, 28, 29, 30 e 34 ficam alterados como a seguir:
+**Art**. 2º Os artigos 3º, 27, 28, 29, 30 e 34 ficam alterados como a seguir:
 
 “Art. 3º O D.A.S.P. compõe-se de:
 
@@ -86,11 +84,11 @@ I - manter registro atualizado de tôdas as atividades da Divisão;
 
 ...........................................................................................................................................................
 
-<strong>Art</strong>. 3º Ficam suprimidos os artigos 35 e 36.
+**Art**. 3º Ficam suprimidos os artigos 35 e 36.
 
-<strong>Art</strong>. 4º Os artigos 37, 38, 39, 40, 41, 42 e 43 passam a ter respectivamente os números 35, 36, 37, 38, 39, 40 e 41.
+**Art**. 4º Os artigos 37, 38, 39, 40, 41, 42 e 43 passam a ter respectivamente os números 35, 36, 37, 38, 39, 40 e 41.
 
-<strong>Art</strong>. 5º Feita a remuneração a que alude o artigo anterior, inclua-se, após a artigo 41:
+**Art**. 5º Feita a remuneração a que alude o artigo anterior, inclua-se, após a artigo 41:
 
 Dos C. A.
 
@@ -126,7 +124,7 @@ XI - estudar e apresentar ao Diretor estimativas do material, pessoal e eventuai
 
 XII - requisitar da Seção do material do S. A. o material necessário aos Cursos, bem como guardá-lo e distribuí-lo.
 
-<strong>Art</strong>. 6º Os artigos 71 e 72 ficam alterados como a seguir:
+**Art**. 6º Os artigos 71 e 72 ficam alterados como a seguir:
 
 “Art. 71. Ao Diretor da D. S. A. compete, além do enumerado no artigo anterior:
 
@@ -176,10 +174,10 @@ XV - expedir boletins de merecimento; e
 
 XVI - apresentar ao Diretor-Geral relatório sôbre os trabalhos dos C. A.”.
 
-<strong>Art</strong>. 7º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 7º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 17 de agôsto de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa

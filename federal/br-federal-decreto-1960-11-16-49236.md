@@ -1,5 +1,3 @@
-###DEC-049236-0-000-16-11-1960@@@
-
 DECRETO Nº 49.236, DE 16 DE NOVEMBRO DE 1960.
 
 Altera a lotação numérica do Quadro Permanente do Ministério da Saúde.

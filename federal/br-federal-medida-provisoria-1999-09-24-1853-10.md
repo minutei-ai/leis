@@ -1,5 +1,3 @@
-###MPV-001853-0-010-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.853-10, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083654-0-000-28-06-1979@@@
-
 Decreto nº 83.654, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Psicologia da Universidade Federal do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-054380-0-000-05-10-1964@@@
-
 DECRETO Nº 54.380, DE 5 DE OUTUBRO DE 1964.
 
 Autoriza a Ford Motor do Brasil S.A., a instalar grupo Diesel-elétrico para uso exclusivo.

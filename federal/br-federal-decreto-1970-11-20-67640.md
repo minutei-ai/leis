@@ -1,5 +1,3 @@
-###DEC-067640-0-000-20-11-1970@@@
-
 DECRETO Nº 67.640, DE 20 DE NOVEMBRO DE 1970.
 
 Autoriza a transferência, para o patrimônio da Universidade Federal de Juiz de Fora, do imóvel que menciona, situado no Município de Juiz de Fora, Estado de Minas Gerais.

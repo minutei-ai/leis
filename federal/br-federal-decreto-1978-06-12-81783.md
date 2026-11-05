@@ -1,5 +1,3 @@
-###DEC-081783-0-000-12-06-1978@@@
-
 Decreto nº 81.783, de 12 de junho de 1978.
 
 Autoriza o aterro de área em mar e a cessão, sob regime de aforamento, do terreno que menciona, situado no Município de Niterói, Estado do Rio de Janeiro.

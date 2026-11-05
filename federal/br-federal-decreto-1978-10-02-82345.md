@@ -1,5 +1,3 @@
-###DEC-082345-0-000-02-10-1978@@@
-
 DECRETO Nº 82 345, DE 02 DE OUTUBRO DE 1978.
 
 Concede à EMBU S.A. - Engenharia e Comércio o direito de lavrar granito no Município de Embu, Estado de São Paulo.

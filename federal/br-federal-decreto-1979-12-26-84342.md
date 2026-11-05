@@ -1,5 +1,3 @@
-###DEC-084342-0-000-26-12-1979@@@
-
 Decreto nº 84.342, de 26 de dezembro de 1979.
 
 Regula as aplicações, em debêntures, de recursos dos Fundos de Investimentos de que trata o Decreto-Lei nº 1.376, de 12 de dezembro de 1974.

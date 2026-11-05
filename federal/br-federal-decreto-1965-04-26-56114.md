@@ -1,5 +1,3 @@
-###DEC-056114-0-000-26-04-1965@@@
-
 Decreto nº 56.114, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Lafaiete Rodrigues Galvão a pesquisar diamante no Município de João Pinheiro, Estado de Minas Gerais.

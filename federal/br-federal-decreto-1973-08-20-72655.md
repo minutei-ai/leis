@@ -1,5 +1,3 @@
-###DEC-072655-0-000-20-08-1973@@@
-
 DECRETO Nº 72.655, DE 20 DE AGOSTO DE 1973.
 
 Concede à Cia. Nacional de Grafite Ltda. o direito de lavrar grafita no Município de Itapecerica, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-091503-0-000-01-08-1985@@@
-
 Decreto nº 91.503, de 01 de agosto de 1985
 
 Altera o Art. 1º do Decreto nº 91.031, de 5 de março de 1985, que autoriza o funcionamento de cursos de Administração.

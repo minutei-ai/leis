@@ -1,5 +1,3 @@
-###DEC-057316-0-000-24-11-1965@@@
-
 DECRETO Nº 57.316, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga à Sociedade Industrial de Madeiras S. A. concessão para o aproveitamento de um desnível no rio Jangada, Município de General Carneiro, Estado do Paraná.

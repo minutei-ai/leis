@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/af3fe029-5927-46cf-9f53-a6ecdcbf0201/texto#nowhere)
 
-###DEL-000851-0-000-10-09-1969@@@
-
 DECRETO-LEI Nº 851, DE 10 DE Setembro DE 1969
 
 Dispõe sôbre Propaganda Eleitoral

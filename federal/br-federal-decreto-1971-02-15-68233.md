@@ -1,5 +1,3 @@
-###DEC-068233-0-000-15-02-1971@@@
-
 DECRETO Nº 68.233, DE 15 DE FEVEREIRO DE 1971.
 
 Autorização para o funcionamento da Faculdade de Educação Física de Marília - SP.

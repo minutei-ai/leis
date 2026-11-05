@@ -1,5 +1,3 @@
-###DEC-050290-0-000-23-02-1961@@@
-
 DECRETO Nº 50.290, DE 23 DE fevereiro DE 1961.
 
 Revoga o Decreto nº 19.472, de 20 de agôsto de 1945.

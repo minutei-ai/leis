@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209000)<br>
-
 # LEI N° 17.860, DE 22 DE DEZEMBRO DE 2023
 
 ## (Projeto de lei n° 1413/2023, do Deputado Ricardo Madalena - PL)

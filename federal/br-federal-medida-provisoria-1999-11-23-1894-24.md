@@ -1,5 +1,3 @@
-###MPV-001894-0-024-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.894-24, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a instituição de sociedades de crédito ao microempreendedor, altera dispositivos das Leis nºs 6.404, de 15 de dezembro de 1976, 8.029, de 12 de abril de 1990, e 8.934, de 18 de novembro de 1994, dá outras providências.

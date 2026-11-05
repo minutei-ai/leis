@@ -1,5 +1,3 @@
-###DEC-069192-0-000-14-09-1971@@@
-
 DECRETO Nº 69.192, DE 14 DE SETEMBRO DE 1971.
 
 Redistribui cargo do Ministério das Relações Exteriores para o Ministério do Trabalho e Previdência Social, e dá outras providências.

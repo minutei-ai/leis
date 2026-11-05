@@ -1,5 +1,3 @@
-###LEI-000000-0-001-24-09-1829@@@
-
 LEI - DE 24 DE SETEMBRO DE 1829
 
 Determina que os empregados publicos sejam admittidos a jurar na chancellaria e tomar posse por procurador; e prescreve o meio de provarem a idade, na falta de certidão de baptismo.

@@ -1,5 +1,3 @@
-###DEC-053461-0-000-21-01-1964@@@
-
 DECRETO Nº 53.461, DE 21 DE JANEIRO DE 1964.
 
 Aprova o Plano de Construções Navais para o Biênio 1964-1965 e adota outras providências.

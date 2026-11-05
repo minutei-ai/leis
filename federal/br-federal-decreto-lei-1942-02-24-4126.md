@@ -1,5 +1,3 @@
-###DEL-004126-0-000-24-02-1942@@@
-
 DECRETO-LEI N. 4.126 – DE 24 DE FEVEREIRO DE 1942
 
 Altera a tabela do Quadro do Departamento de Imprensa e Propaganda

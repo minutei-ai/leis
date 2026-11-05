@@ -1,5 +1,3 @@
-###DEC-006037-0-000-07-02-2007@@@
-
 DECRETO Nº 6.037, DE 7 DE FEVEREIRO DE 2007.
 
 Altera e acresce dispositivos do Decreto no 5.385, de 4 de março de 2005, que institui o Comitê Gestor de Parceria Público-Privada Federal - CGP.
@@ -99,5 +97,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 8.2.2007.

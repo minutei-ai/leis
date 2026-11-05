@@ -1,5 +1,3 @@
-###DEC-075169-0-000-31-12-1974@@@
-
 DECRETO Nº 75.169, DE 31 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Ituverava, Estado de São Paulo.

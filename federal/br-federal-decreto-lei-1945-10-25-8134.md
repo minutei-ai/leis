@@ -1,5 +1,3 @@
-###DEL-008134-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.134 – DE 25 DE OUTUBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a exonerar do impôsto territorial e das taxas com o mesmo cobradas os terrenos desapropriados pela Prefeitura do Distrito Federal, na forma que menciona.

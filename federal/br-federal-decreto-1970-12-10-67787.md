@@ -1,5 +1,3 @@
-###DEC-067787-0-000-10-12-1970@@@
-
 DECRETO Nº 67.787, de 10 de Dezembro de 1970.
 
 Declara caduco o Decreto número 10.698, de 23 de outubro de 1942.

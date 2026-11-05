@@ -1,5 +1,3 @@
-###DEC-059164-0-000-01-09-1966@@@
-
 Decreto nº 59.164, de 1º de setembro de 1966.
 
 Dá nova redação ao art. 1º do Decreto nº 57.393, de 7 de dezembro de 1965 (dispõe sôbre o funcionamento da Rêde de Telecomunicações do Ministério da Educação e Cultura - RETEMEC).

@@ -1,5 +1,3 @@
-###DEC-067560-0-000-12-11-1970@@@
-
 decreto nº 67.560, de 12 de novembro de 1970.
 
 Dispõe sôbre a classificação do órgão de deliberação coletiva que especifica.

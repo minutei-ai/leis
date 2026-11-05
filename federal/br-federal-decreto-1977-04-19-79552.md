@@ -1,5 +1,3 @@
-###DEC-079552-0-000-19-04-1977@@@
-
 DECRETO Nº 79.552, DE 19 DE ABRIL DE 1977.
 
 Altera dispositivos do Regulamento para o Estado-Maior da Armada, aprovado pelo Decreto nº 66.052, de 12 de janeiro de 1970, e alterado pelos Decretos nº 73.916, de 5 de abril de 1974, e nº 75.383, de 14 de fevereiro de 1975.

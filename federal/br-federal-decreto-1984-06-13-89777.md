@@ -1,5 +1,3 @@
-###DEC-089777-0-000-13-06-1984@@@
-
 Decreto nº 89.777 de 13 de junho de 1984
 
 Outorga concessão à FUNDAÇÃO DE DESENVOLVIMENTO DE PICUI-FUNDEPI., para explorar serviço de radiodifusão sonora em onda média, na cidade de Picui, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-052790-0-000-30-10-1963@@@
-
 DECRETO Nº 52.790, DE 30 DE OUTUBRO DE 1963.
 
 Aprova o Plano Preferencial do Setor Portuário do Plano Trienal de Desenvolvimento Econômico e Social e Normas Especiais para a sua execução.

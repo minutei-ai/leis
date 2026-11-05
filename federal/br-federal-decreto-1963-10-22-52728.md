@@ -1,5 +1,3 @@
-###DEC-052728-0-000-22-10-1963@@@
-
 DECRETO Nº 52.728, DE 22 DE Outubro DE 1963.
 
 Dispõe sôbre o regime de tempo integral aplicado aos funcionários do Ministério da Agricultura e dá outras providências.

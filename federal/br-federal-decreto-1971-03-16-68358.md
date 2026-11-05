@@ -1,5 +1,3 @@
-###DEC-068358-0-000-16-03-1971@@@
-
 DECRETO Nº 68.358, DE 16 DE MARÇO DE 1971.
 
 Altera os artigos 146 e 147 do Regulamento aprovado pelo Decreto nº 60.501 de 14 de março de 1967.

@@ -1,5 +1,3 @@
-###DEC-084998-0-000-05-08-1980@@@
-
 DECRETO Nº 84.998, DE 05 DE AGOSTO DE 1980.
 
 Autoriza o funcionamento da habilitação em Artes Plásticas do curso de Licenciatura em Educação Artística, da Faculdade de Filosofia, Ciências e Letras de Penápolis, São Paulo.

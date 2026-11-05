@@ -1,5 +1,3 @@
-###DEC-093536-0-000-05-11-1986@@@
-
 DECRETO Nº 93.536, DE 5 DE NOVEMBRO DE 1986
 
 Cria o Conselho Nacional de Política Cafeeira - CNPC, reestrutura o Instituto Brasileiro do Café - IBC, e dá outras providências.

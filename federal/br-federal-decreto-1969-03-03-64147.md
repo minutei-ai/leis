@@ -1,5 +1,3 @@
-###DEC-064147-0-000-03-03-1969@@@
-
 DECRETO Nº 64.147, DE 3 DE MARÇO DE 1969.
 
 Extingue a Comissão de Coordenação dos Inquéritos e Sindicâncias e dá outras providências.

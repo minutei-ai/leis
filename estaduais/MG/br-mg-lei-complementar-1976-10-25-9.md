@@ -25,7 +25,3 @@ ANTÔNIO AURELIANO CHAVES DE MENDONÇA
 Márcio Manoel Garcia Vilela
 
 Bonifácio José Tamm de Andrada
-
-\================================================================
-
-Data da última atualização: 13/12/2005.

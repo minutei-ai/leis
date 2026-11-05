@@ -1,12 +1,10 @@
-###DEC-027958-0-000-05-04-1950@@@
+**DECRETO Nº 27.958, DE 5 DE ABRIL DE 1950**
 
-<strong>DECRETO Nº 27.958, DE 5 DE ABRIL DE 1950</strong>
+***Altera a redação do artigo 1º do Decreto nº 21.363, de 1º de julho de 1946.***
 
-<em><strong>Altera a redação do artigo 1º do Decreto nº 21.363, de 1º de julho de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Passa a ter a seguinte redação o artigo 1.º do Decreto número 21.363, de 1º de julho de 1946, que aprovou o Plano de Melhoramentos e Aquisições apresentado pela Companhia Paulista de Estradas de Ferro:
 
@@ -14,6 +12,6 @@ Artigo único. Passa a ter a seguinte redação o artigo 1.º do Decreto número
 
 Rio de Janeiro, 5 de abril de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 João Valdetaro de Amorim e Mello

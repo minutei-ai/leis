@@ -1,5 +1,3 @@
-###DEC-053981-0-000-23-06-1964@@@
-
 DECRETO Nº 53.981, DE 23 DE JUNHO DE 1964.
 
 Altera a lotação numérica da Parte Permanentemente do Quadro de pessoal do Ministério da Fazenda.
@@ -17,8 +15,6 @@ Brasília, 23 de junho de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Octávio Gouveia de Bulhões
-
-###DEC-053981-0-000-23-06-1964@@@RET01+++
 
 decreto nº 53.981, de 23 de junho de 1964.
 

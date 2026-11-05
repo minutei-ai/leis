@@ -1,5 +1,3 @@
-###DEC-066202-0-000-13-02-1970@@@
-
 DECRETO Nº 66.202 - DE 13 DE FEVEREIRO DE 1970
 
 Autoriza a utilização do contravalor em cruzeiros de operação financeira com exterior pelo Sistema Financeiro de Saneamento, administrado pelo Banco Nacional de Habilitação.

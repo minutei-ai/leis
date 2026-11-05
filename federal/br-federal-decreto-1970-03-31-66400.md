@@ -1,5 +1,3 @@
-###DEC-066400-0-000-31-03-1970@@@
-
 DECRETO Nº 66.400 - DE 31 DE MARÇO DE 1970
 
 Declara de utilidade pública a Sociedade Miguel Couto dos Amigos do Estudante, com sede em Campo Grande, Estado de Mato Grosso.

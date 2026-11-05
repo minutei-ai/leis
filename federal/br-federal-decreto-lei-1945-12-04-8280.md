@@ -1,5 +1,3 @@
-###DEL-008280-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.280 – DE 4 DE DEZEMBRO DE 1945
 
 Cria no Quadro Permanente do Ministério da Guerra a carreira de Alfaiate, altera a de Artífice do Quadro Suplementar e abre crédito suplementar.

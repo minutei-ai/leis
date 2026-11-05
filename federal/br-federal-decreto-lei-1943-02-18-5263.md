@@ -1,5 +1,3 @@
-###DEL-005263-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.263 – DE 18 DE FEVEREIRO DE 1943
 
 Cria, na Prefeitura do Distrito Federal, as carreiras de Enfermeira de Saúde Pública e de Enfermeira Instrutora Hospitalar, e dá  outras providências
@@ -30,8 +28,122 @@ Alexandre Marcondes Filho.
 
 TABELA ANEXA AO DECRETO‑LEI N. 5.263, DE 18 DE FEVEREIRO DE 1943
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classificação</span></p></td><td style="width:147.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Carreira</span></p></td><td style="width:50.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:92.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Número de cargos</span></p></td><td style="width:92.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Vencimento anual Cr$</span></p></td><td style="width:3.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1423.32.............</span></p></td><td style="width:147.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Enfermeira da Saude Pública</span></p></td><td style="width:50.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 6</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 5</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 4</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 3</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 2</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>A 1</span></p></td><td style="width:92.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>12</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>22</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>32</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>42</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>52</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>62</span></p></td><td style="width:92.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>18.000.00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>15.600,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>13.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>10.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>3.400,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.200,00</span></p></td><td style="width:3.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1423.33.............</span></p></td><td style="width:147.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Enfermeira Instrutora Hospitalar</span></p></td><td style="width:50.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 6</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 5</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 4</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 3</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>A 2</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>A 1</span></p></td><td style="width:92.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>5</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>10</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>15</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>20</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>25</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30</span></p></td><td style="width:92.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span>18.000.00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>15.600,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>13.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>10.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>8.400,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.200,00</span></p></td><td style="width:3.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Classificação
+
+Carreira
+
+Classe
+
+Número de cargos
+
+Vencimento anual Cr$
+
+1423.32.............
+
+Enfermeira da Saude Pública
+
+A 6
+
+A 5
+
+A 4
+
+A 3
+
+A 2
+
+A 1
+
+12
+
+22
+
+32
+
+42
+
+52
+
+62
+
+18.000.00
+
+15.600,00
+
+13.200,00
+
+10.800,00
+
+3.400,00
+
+7.200,00
+
+1423.33.............
+
+Enfermeira Instrutora Hospitalar
+
+A 6
+
+A 5
+
+A 4
+
+A 3
+
+A 2
+
+A 1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+18.000.00
+
+15.600,00
+
+13.200,00
+
+10.800,00
+
+8.400,00
+
+7.200,00
 
 GRATIFICAÇÃO DE FUNÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Número</span></p></td><td style="width:255.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Cargos</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Importância Cr$</span></p></td></tr><tr><td style="width:74.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1........................1........................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">6........................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">30......................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:255.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Superintendente da Enfermagem de Saúde Pública .......</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Superintendente da Enfermagem Hospitalar ..................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Auxiliares de Superintendente .......................................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Enfermeiras Chefes.........................................................</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:39.05pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">6.000,00</span></p><p style="margin-top:6pt; margin-left:39.05pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">6.000,00</span></p><p style="margin-top:6pt; margin-left:39.05pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3.600,00</span></p><p style="margin-top:6pt; margin-left:39.05pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2.400,00</span></p></td></tr></tbody></table>
+Número
+
+Cargos
+
+Importância Cr$
+
+1........................1........................
+
+6........................
+
+30......................
+
+Superintendente da Enfermagem de Saúde Pública .......
+
+Superintendente da Enfermagem Hospitalar ..................
+
+Auxiliares de Superintendente .......................................
+
+Enfermeiras Chefes.........................................................
+
+6.000,00
+
+6.000,00
+
+3.600,00
+
+2.400,00

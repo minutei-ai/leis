@@ -1,5 +1,3 @@
-###DEL-009198-0-000-24-04-1946@@@
-
 DECRETO-LEI N. 9.198 – DE 24 DE ABRIL DE 1946
 
 Autoriza o Governador do Território Federal do Amapá a contratar o aproveitamento das jazidas de minério de ferro de que fôr concessionário

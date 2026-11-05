@@ -1,5 +1,3 @@
-###DEC-081363-0-000-20-02-1978@@@
-
 dECRETO Nº 81.363, de 20 de fevereiro de 1978
 
 Concede à Mineração e Calcário Vitti S. A. o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

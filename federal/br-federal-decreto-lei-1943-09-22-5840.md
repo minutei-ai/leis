@@ -1,5 +1,3 @@
-###DEL-005840-0-000-22-09-1943@@@
-
 DECRETO‑LEI N. 5.840 – DE 22 DE SETEMBRO DE 1943
 
 Dispõe sôbre os balanços do exercício de 1942

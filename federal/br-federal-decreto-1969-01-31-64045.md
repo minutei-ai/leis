@@ -1,5 +1,3 @@
-###DEC-064045-0-000-31-01-1969@@@
-
 DECRETO Nº 64.045, DE 31 DE JANEIRO DE 1969.
 
 Concede autorização aos navios alemães "Meteor" e "Planet" para operarem em águas brasileiras, efetuando as pesquisas que especifica.

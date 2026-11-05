@@ -1,5 +1,3 @@
-###DEC-070559-0-000-17-05-1972@@@
-
 DECRETO Nº 70.559, DE 17 DE MAIO DE 1972.
 
 Declara de utilidade pública o Asilo Nossa Senhora do Perpétuo Socorro, com sede em Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-078964-0-000-16-12-1976@@@
-
 DECRETO Nº 78.964, DE 16 DE DEZEMBRO DE 1976.
 
 Autoriza o Banco Nacional de Desenvolvimento Econômico a garantir empréstimos a serem contraídos no exterior, pela Light Serviços de Eletricidade S. A., nas condições que menciona.

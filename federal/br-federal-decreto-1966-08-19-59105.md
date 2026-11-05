@@ -1,5 +1,3 @@
-###DEC-059105-0-000-19-08-1966@@@
-
 decreto nº 59.105, de 19 de agôsto de 1966.
 
 Declaro de utilidade pública a Fundação Padre Ibiapina, com sede no Crato, Estado do Ceará.

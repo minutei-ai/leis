@@ -1,5 +1,3 @@
-###DEC-050339-0-000-15-03-1961@@@
-
 Decreto nº 50.339, de 15 de março de 1961.
 
 Institui Grupo de Trabalho para o fim que menciona e dá outras providências.

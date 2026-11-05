@@ -1,5 +1,3 @@
-###DEC-076001-0-000-23-07-1975@@@
-
 DECRETO Nº 76.001 - DE 23 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas de Sorocaba, mantida pela Fundação Dom Aguirre, com sede na cidade de Sorocaba, Estado de São Paulo.

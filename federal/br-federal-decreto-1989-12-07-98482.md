@@ -1,5 +1,3 @@
-###DEC-098482-0-000-07-12-1989@@@
-
 DECRETO N° 98.482, DE 07 DE DEZEMBRO DE 1989
 
 Renova a concessão outorgada à RÁDIO CASSINO DE RIO GRANDE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rio Grande, Estado do Rio Grande do Sul.

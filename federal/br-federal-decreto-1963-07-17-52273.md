@@ -1,5 +1,3 @@
-###DEC-052273-0-000-17-07-1963@@@
-
 DECRETO Nº 52.273, DE 17 DE JULHO DE 1963.
 
 Altera o Regulamento para o Comando Naval de Brasília.

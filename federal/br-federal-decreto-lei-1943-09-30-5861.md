@@ -1,5 +1,3 @@
-###DEL-005861-0-000-30-09-1943@@@
-
 DECRETO‑LEI N. 5.861 – DE 30 DE SETEMBRO DE 1943
 
 Modifica a denominação do Serviço de Defesa Passiva  Anti-Aérea e da respectiva Diretoria Nacional

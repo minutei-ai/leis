@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208755)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2023/compilacao-lei-17834-01.11.2023.html)
 
 # LEI N° 17.834, DE 01 DE NOVEMBRO DE 2023

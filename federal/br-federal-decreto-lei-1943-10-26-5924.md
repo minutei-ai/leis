@@ -1,5 +1,3 @@
-###DEL-005924-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.924 – DE 26 DE OUTUBRO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 2.750,00

@@ -1,5 +1,3 @@
-###DEC-091466-0-000-23-07-1985@@@
-
 Decreto nº 91.466, de 23 de julho de 1985
 
 Convoca a Vlll Conferência Nacional de Saúde e dá outras providências.

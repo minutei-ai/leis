@@ -1,5 +1,3 @@
-###DEC-047134-0-000-27-10-1959@@@
-
 DECRETO Nº 47.134, DE 27 DE OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Vitória da Conquista, concessão para o aproveitamento de energia hidráulica de um desnível existente no Rio Pardo, distrito de Inhobim, município de Vitória da Conquista, Estado da Bahia.

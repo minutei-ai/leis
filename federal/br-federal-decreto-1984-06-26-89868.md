@@ -1,5 +1,3 @@
-###DEC-089868-0-000-26-06-1984@@@
-
 DECRETO Nº 89.868, de 26 dE JUNHO DE 1984
 
 Autoriza o funcionamento dos cursos de Comunicação Visual e de Desenho Industrial da Faculdade de Belas Artes de São Paulo.

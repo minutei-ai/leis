@@ -1,5 +1,3 @@
-###DEL-000383-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 383, DE 26 DE DEZEMBRO DE 1968
 
 Altera dispositivo da Lei nº 2.180, de 5 de fevereiro de 1954, que dispõe sôbre o Tribunal Marítimo.

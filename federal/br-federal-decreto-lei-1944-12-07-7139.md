@@ -1,5 +1,3 @@
-###DEL-007139-0-000-07-12-1944@@@
-
 DECRETO-LEI N.  7.139 – DE 7 DE DEZEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder a isenção dos impostos que menciona à “Casa São Luiz para a Velhice”

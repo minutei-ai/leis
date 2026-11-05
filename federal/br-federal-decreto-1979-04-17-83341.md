@@ -1,5 +1,3 @@
-###DEC-083341-0-000-17-04-1979@@@
-
 DECRETO Nº 83.341, DE 17 DE ABRIL DE 1979.
 
 Concede reconhecimento ao curso de Artes Práticas da Universidade Estadual de Ponta Grossa, Estado do Paraná.

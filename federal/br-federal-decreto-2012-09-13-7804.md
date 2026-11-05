@@ -1,5 +1,3 @@
-###DEC-007804-0-000-13-09-2012-PUB-01@@@
-
 DECRETO Nº 7.804, DE 13 DE SETEMBRO DE 2012
 
 Discrimina ações do Programa de Acelera- ção do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

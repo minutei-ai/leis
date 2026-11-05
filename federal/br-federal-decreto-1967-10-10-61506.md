@@ -1,5 +1,3 @@
-###DEC-061506-0-000-10-10-1967@@@
-
 DECRETO Nº 61.506, DE 10 DE OUTUBRO DE 1967.
 
 Autoriza a Mineração Triângulo S.A. lavrar leucofilito no Município de Itapeva, Estado de são Paulo.

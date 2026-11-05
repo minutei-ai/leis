@@ -1,5 +1,3 @@
-###DEC-096497-0-000-12-08-1988@@@
-
 DECRETO N° 96.497, DE 12 DE AGOSTO DE 1988
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Cooperativista da Guiana.

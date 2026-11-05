@@ -1,5 +1,3 @@
-###DEL-001733-0-000-20-12-1979@@@
-
 # DECRETO-LEI Nº 1.733, de 20 de dezembro de 1979
 
 Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá outras providências.

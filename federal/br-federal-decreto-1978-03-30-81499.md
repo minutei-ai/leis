@@ -1,5 +1,3 @@
-###DEC-081499-0-000-30-03-1978@@@
-
 Decreto nº 81.499, De 30 de março de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação, ministrado pelo Centro de Tecnologia da Indústria e Construção, com sede na cidade de Manaus, Estado do Amazonas.

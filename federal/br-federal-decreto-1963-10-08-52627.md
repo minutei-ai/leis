@@ -1,5 +1,3 @@
-###DEC-052627-0-000-08-10-1963@@@
-
 DECRETO Nº 52.627, DE 8 DE OUTUBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Belmonte concessão para o aproveitamento da energia hidráulica da cachoeira do Barracão, no rio Braço do Sul, distrito de Bôca do Córrego Município de Belmonte, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-004768-0-000-27-06-2003@@@
-
 DECRETO Nº 4.768, DE 27 DE JUNHO DE 2003.
 
 Dá nova redação ao § 3º do art. 1º do Decreto no 4.538, de 23 de dezembro de 2002, que dispõe sobre a concessão de subvenção econômica com a finalidade de contribuir para a modicidade da tarifa de fornecimento de energia elétrica aos consumidores finais integrantes da Subclasse Residencial Baixa Renda.
@@ -16,7 +14,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 27 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
 Dilma Vana Rousseff

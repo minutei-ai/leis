@@ -1,5 +1,3 @@
-###DEC-054219-0-000-28-08-1964@@@
-
 DECRETO Nº 54.219, DE 28 DE AGÔSTO DE 1964.
 
 Revoga o Decreto nº 53.413, de 17 de janeiro de 1964.

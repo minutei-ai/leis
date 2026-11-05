@@ -1,5 +1,3 @@
-###DEC-074846-0-000-06-11-1974@@@
-
 DECRETO Nº 74.846, DE 6 DE NOVEMBRO DE 1974.
 
 Dispõe sobre o obrigatoriedade de inspeção de saúde do servidor público civil ou militar, indicado para missão no exterior.

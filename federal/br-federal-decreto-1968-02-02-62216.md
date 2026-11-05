@@ -1,5 +1,3 @@
-###DEC-062216-0-000-02-02-1968@@@
-
 DECRETO Nº 62.216, DE 2 DE FEVEREIRO DE 1968.
 
 Autoriza a ocupação de prédio, em Natal, Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-081994-0-000-18-07-1978@@@
-
 Decreto nº 81.994, de 18 de julho de 1978.
 
 Regulamenta a Lei nº 6.498, de 7 de dezembro de 1977, que dispõe sobre o Magistério da Marinha e dá outras providências.

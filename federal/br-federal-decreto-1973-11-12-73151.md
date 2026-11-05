@@ -1,5 +1,3 @@
-###DEC-073151-0-000-12-11-1973@@@
-
 DECRETO Nº 73.151 - DE 12 DE NOVEMBRO DE 1973
 
 Integra no Comando Geral do Ar, com a denominação de Comandos Aéreos Regionais (COMAR), os atuais Comandos de Zona Aérea e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057322-0-000-24-11-1965@@@
-
 DECRETO Nº 57.322, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga ao Município de Paramoti, no Estado do Ceará, concessão para distribuir energia elétrica.

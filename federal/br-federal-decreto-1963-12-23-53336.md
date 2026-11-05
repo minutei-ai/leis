@@ -1,5 +1,3 @@
-###DEC-053336-0-000-23-12-1963@@@
-
 DECRETO Nº 53.336, DE 23 Dezembro DE 1963.
 
 Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.
@@ -10,7 +8,71 @@ decreta:
 
 Art. 1º Fica fixado, para o ano de 1963, no Ministério da Aeronáutica, o número mínimo de vagas para os postos abaixo, dentro dos seguintes limites:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major-Brigadeiro-do-Ar .....................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/7 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 1</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brigadeiro-do-Ar ...............................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/7 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 3</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel-Aviador ................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/10 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 8</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel-Aviador .................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/20 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 7</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major-Aviador ...................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/30 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 7</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel-Intendente ...........................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/10 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel-Intendente .............................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/20 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major-Intendente ...............................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/30 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel-Médico ................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/10 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel-Médico ..................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/20 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major-Médico ....................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(1/30 do efetivo)</span></p></td><td style="width:131.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>............................................ 2</span></p></td></tr></tbody></table>
+Major-Brigadeiro-do-Ar .....................................
+
+(1/7 do efetivo)
+
+............................................ 1
+
+Brigadeiro-do-Ar ...............................................
+
+(1/7 do efetivo)
+
+............................................ 3
+
+Coronel-Aviador ................................................
+
+(1/10 do efetivo)
+
+............................................ 8
+
+Tenente-Coronel-Aviador .................................
+
+(1/20 do efetivo)
+
+............................................ 7
+
+Major-Aviador ...................................................
+
+(1/30 do efetivo)
+
+............................................ 7
+
+Coronel-Intendente ...........................................
+
+(1/10 do efetivo)
+
+............................................ 2
+
+Tenente-Coronel-Intendente .............................
+
+(1/20 do efetivo)
+
+............................................ 2
+
+Major-Intendente ...............................................
+
+(1/30 do efetivo)
+
+............................................ 2
+
+Coronel-Médico ................................................
+
+(1/10 do efetivo)
+
+............................................ 2
+
+Tenente-Coronel-Médico ..................................
+
+(1/20 do efetivo)
+
+............................................ 2
+
+Major-Médico ....................................................
+
+(1/30 do efetivo)
+
+............................................ 2
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

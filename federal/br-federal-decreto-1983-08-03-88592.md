@@ -1,5 +1,3 @@
-###DEC-088592-0-000-03-08-1983@@@
-
 DECRETO Nº 88.592, DE 03 DE AGOSTO DE 1983
 
 Autoriza o aumento do Capital Social da Companhia de Colonização do Nordeste - COLONE.

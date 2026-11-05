@@ -1,5 +1,3 @@
-###DEC-054977-0-000-12-11-1964@@@
-
 DECRETO Nº 54.977, DE 12 DE NOVEMBRO DE 1964.
 
 Retifica área declarada de utilidade pública pelo Decreto nº 267, de 1º de dezembro de 1961, reduzindo-a de 40 ha.

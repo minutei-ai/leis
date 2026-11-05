@@ -1,5 +1,3 @@
-###DEC-074500-0-000-04-09-1974@@@
-
 DECRETO Nº 74.500, DE 4 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Odontologia de Presidente Prudente, mantida pela Associação Prudentina de Educação e Cultura, com sede na cidade de Presidente Prudente, Estado de São Paulo.

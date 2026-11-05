@@ -18,11 +18,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 18 de dezembro de 2020.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-TARCISIO FRANSCISCO DOS SANTOS<br>
+TARCISIO FRANSCISCO DOS SANTOS
+
 Secretaria de Transparência, Fiscalização e Controle
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

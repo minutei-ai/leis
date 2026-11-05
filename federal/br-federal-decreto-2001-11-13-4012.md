@@ -1,5 +1,3 @@
-###DEC-004012-0-000-13-11-2001@@@
-
 DECRETO Nº 4.012, DE 13 DE NOVEMBRO DE 2001
 
 Promulga a Convenção entre a República Federativa do Brasil e a República Portuguesa Destinada a Evitar a Dupla Tributação e a Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, celebrada em Brasília, em 16 de maio de 2000.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210988)<br>
-
 # DECRETO N° 69.566, DE 30 DE MAIO DE 2025
 
 ### _Incorpora ao Parque Estadual Restinga de Bertioga as áreas que especifica, e dá providências correlatas._

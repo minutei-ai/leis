@@ -1,5 +1,3 @@
-###DEC-095074-0-000-21-10-1987@@@
-
 DECRETO Nº 95.074, DE 21 DE OUTUBRO DE 1987
 
 Dispõe sobre a estrutura básica do Ministério da Reforma e do Desenvolvimento Agrário (MIRAD).

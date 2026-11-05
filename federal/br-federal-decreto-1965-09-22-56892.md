@@ -1,5 +1,3 @@
-###DEC-056892-0-000-22-09-1965@@@
-
 DEcRETO Nº 56.892, DE 22 DE SETEMBRO DE 1965.
 
 Prorroga o prazo para apresentação de relatório.

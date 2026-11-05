@@ -1,5 +1,3 @@
-###DEL-004009-0-000-12-01-1942@@@
-
 DECRETO-LEI N. 4.009 – DE 12 DE JANEIRO DE 1942
 
 Modifica o decreto-lei n.398, de 30 de abril de 1938

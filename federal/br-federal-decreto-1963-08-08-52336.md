@@ -1,5 +1,3 @@
-###DEC-052336-0-000-08-08-1963@@@
-
 DECRETO Nº 52.336, DE 08 DE AGôSTO DE 1963.
 
 Declara prioritária para o desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à “Fiação e Tecelagem Ribeiro S.A.”, de Ribeirão, Estado de Pernambuco.
@@ -14,7 +12,27 @@ DECRETA;
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinentes aos motores elétricos que acompanham a maquinaria, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à “Fiação e Tecelagem Ribeirão S.A.”, de Ribeirão (PE):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:276.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:276.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-left:3.6pt; margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Gaiola completa, tipo 2.254, marca ELITEX, do fabricante KOVO, de Praga - Tchecoslováquia para bobinas conicais e suporte de reserva, para trabalhar em conjunto com urdineira mecânica universal, de alta velocidade, tipo 2.200, do mesmo fabricante, com 6 (seis) ventiladores e 20 (vinte) paradores elétricos, sendo 10 (dez) de cada lado, inclusive motores elétricos acoplados aos ventiladores, com as seguintes características: tipo VLV 40, marca MEZ MOHELNICE, potência 0,3Kw, 1.350 RPM, 380 V-60C. Pêso total líquido de 1.250Kg ...........................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.200</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-left:17.8pt; margin-bottom:0pt; text-indent:-14.2pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.200</span></p></td></tr></tbody></table>
+Item
+
+ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+-
+
+Gaiola completa, tipo 2.254, marca ELITEX, do fabricante KOVO, de Praga - Tchecoslováquia para bobinas conicais e suporte de reserva, para trabalhar em conjunto com urdineira mecânica universal, de alta velocidade, tipo 2.200, do mesmo fabricante, com 6 (seis) ventiladores e 20 (vinte) paradores elétricos, sendo 10 (dez) de cada lado, inclusive motores elétricos acoplados aos ventiladores, com as seguintes características: tipo VLV 40, marca MEZ MOHELNICE, potência 0,3Kw, 1.350 RPM, 380 V-60C. Pêso total líquido de 1.250Kg ...........................................................
+
+1
+
+2.200
+
+TOTAL .....................................................................................
+
+-
+
+2.200
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito aos motores elétricos citados na descrição retro, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

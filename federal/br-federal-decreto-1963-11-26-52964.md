@@ -1,5 +1,3 @@
-###DEC-052964-0-000-26-11-1963@@@
-
 DECRETO Nº 53.964, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar seu sistema de transmissão.
@@ -29,8 +27,6 @@ Brasília, D.F., 26 de novembro de 1963; 142º da Independência e 75º da Repú
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052964-0-000-26-11-1963@@@RET01+++
 
 Decreto nº 52.964, de 26 de novembro de 1963.
 
@@ -65,8 +61,6 @@ ONDE SE LÊ:
 LEIA\-SE:
 
 Êste Decreto entra em vigor na data de sua ...
-
-###DEC-052964-0-000-26-11-1963@@@RET02+++
 
 DECRETO Nº 52.964, DE 26 DE NOVEMBRO DE 1963.
 

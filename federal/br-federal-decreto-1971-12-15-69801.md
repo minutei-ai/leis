@@ -1,5 +1,3 @@
-###DEC-069801-0-000-15-12-1971@@@
-
 DECRETO Nº 69.801 - DE 15 DE DEZEMBRO DE 1971
 
 Aproveita, na Universidade Federal Rural de Pernambuco, servidores em disponibilidade e dá outras providências.

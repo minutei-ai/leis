@@ -1,5 +1,3 @@
-###MPV-000452-0-000-24-12-2008@@@
-
 MEDIDA PROVISÓRIA Nº 452, DE 24 DE DEZEMBRO DE 2008.
 
 Dá nova redação à Lei no 11.887, de 24 de dezembro de 2008, que cria o Fundo Soberano do Brasil - FSB, e à Lei no 11.314, de 3 de julho de 2006, que autoriza o Departamento Nacional de Infra-Estrutura de Transportes - DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências.

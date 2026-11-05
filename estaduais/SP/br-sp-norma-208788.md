@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208788)<br>
-
 # DECRETO N° 68.073, DE 09 DE NOVEMBRO DE 2023
 
 ### _Transfere, da Secretaria da Fazenda e Planejamento para a Procuradoria Geral do Estado, a administração do imóvel que especifica, localizado no Município de São Paulo._

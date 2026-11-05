@@ -1,5 +1,3 @@
-###DEC-092015-0-000-28-11-1985@@@
-
 Decreto nº 92.015, de 28 de nOvembro de 1985
 
 Declara de ocupação dos indígenas área de terras no Municípios de Tangará da Serra, Estado de Mato Grosso, e dá outras providências.

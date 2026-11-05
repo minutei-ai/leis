@@ -1,5 +1,3 @@
-###DEC-086966-0-000-26-02-1982@@@
-
 Decreto nº 86.966, de 26 de fevereiro de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

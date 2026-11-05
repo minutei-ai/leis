@@ -1,5 +1,3 @@
-###DEC-074021-0-000-08-05-1974@@@
-
 Decreto nº 74.021, de 8 de maio de 1974.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados no Estado da Guanabara.

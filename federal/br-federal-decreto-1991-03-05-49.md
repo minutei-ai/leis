@@ -1,5 +1,3 @@
-###DEC-000049-0-000-05-03-1991@@@
-
 DECRETO Nº 49, DE 5 DE MARÇO DE 1991
 
 Altera o Decreto nº 87.911, de 7 de dezembro de 1982, que regulamenta o artigo 47 da Lei nº 5 540, de 28 de novembro de 1968, e dá outras providências.

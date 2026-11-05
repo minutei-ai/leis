@@ -1,5 +1,3 @@
-###DEC-087957-0-000-21-12-1982@@@
-
 Decreto nº 87.957, de 21 de dezembro de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Seringal Senápolis", situado nos Municípios de Boca do Acre e Lábrea, Estado do Amazonas, compreendido na área prioritária para reforma agrária fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980.

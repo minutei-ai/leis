@@ -1,5 +1,3 @@
-###DEC-002519-0-000-16-03-1998@@@
-
 DECRETO Nº 2.519, DE 16 DE MARÇO DE 1998
 
 Promulga a Convenção sobre Diversidade Biológica, assinada no Rio de Janeiro, em 05 de junho de 1992.
@@ -632,7 +630,8 @@ Identificação e Monitoramento
 
 3\. Genomas e genes descritos como tendo importância social, científica ou econômica.
 
-Anexo II<br>
+Anexo II
+
 Parte 1
 
 Arbitragem

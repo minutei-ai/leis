@@ -1,5 +1,3 @@
-###DEC-006659-0-000-20-11-2008@@@
-
 DECRETO Nº 6.659, DE 20 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo de Santa Cruz de la Sierra Constitutivo da Secretaria Geral Ibero-Americana, assinado pelo Brasil em 12 de julho de 2004.

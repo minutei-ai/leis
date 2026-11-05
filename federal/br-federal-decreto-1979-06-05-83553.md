@@ -1,5 +1,3 @@
-###DEC-083553-0-000-05-06-1979@@@
-
 DECRETO Nº 83.553, DE 05 DE JUNHO DE 1979.
 
 Renova por 15 (quinze) anos a concessão outorgada à Sociedade Rádio e Televisão Alterosa Ltda., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belo Horizonte, Estado de Minas Gerais.

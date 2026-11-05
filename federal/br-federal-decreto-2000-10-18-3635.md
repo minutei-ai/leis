@@ -1,5 +1,3 @@
-###DEC-003635-0-000-18-10-2000@@@
-
 DECRETO Nº 3.635, de 18 de outubro de 2000.
 
 Dispõe sobre o pagamento de tarifas bancárias pelo Instituto Nacional do Seguro Social.

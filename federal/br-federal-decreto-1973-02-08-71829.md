@@ -1,5 +1,3 @@
-###DEC-071829-0-000-08-02-1973@@@
-
 DECRETO Nº 71.829, DE 8 DE FEVEREIRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

@@ -80,7 +80,8 @@ Art. 11 - A Empresa Gráfica da Bahia - EGBA, quando participar de licitação p
 
 § 2º - Consultada, necessariamente, por escrito e declarando-se a Empresa Gráfica da Bahia - EGBA impossibilitada de executar os serviços nas condições requeridas, para efeito do disposto no parágrafo anterior, os órgãos e entidades referidos neste artigo poderão contratar os serviços com outras empresas, mantidos os termos e especificações da consulta e observadas as normas legais pertinentes, sobre licitação.
 
-Redação de acordo com a Lei nº [4.387](https://www.legislabahia.ba.gov.br/documentos/lei-no-4387-de-10-de-dezembro-de-1984#LO_4_387) , de 10 de dezembro de 1984.<br>
+Redação de acordo com a Lei nº [4.387](https://www.legislabahia.ba.gov.br/documentos/lei-no-4387-de-10-de-dezembro-de-1984#LO_4_387) , de 10 de dezembro de 1984.
+
 Redação original: "Art. 11 - Os serviços gráficos de que necessitem os órgãos e as entidades da Administração centralizada e descentralizada do Estado deverão ser contratados com a Empresa Gráfica da Bahia - EGBA.Parágrafo Único - Consultada, necessariamente, por escrito e declarando-se a Empresa Gráfica da Bahia - EGBA impossibilitada de executar os serviços nas condições requeridas, os órgãos e entidades referidos neste artigo poderão contratar os serviços com outras empresas, mantidos os termos e especificações da consulta e observadas as normas legais pertinentes."
 
 Art. 12 - É vedado o exercício de funções de direção, chefia ou assessoramento na Empresa Gráfica da Bahia - EGBA aos que sejam proprietários, dirigentes ou ocupem quaisquer cargos de chefia ou assessoramento em outra empresa gráfica ou em empresa de comunicação social que explore atividade concorrente.
@@ -95,7 +96,8 @@ Art. 13 - Fica proibida a criação de novas unidades orgânicas de artes gráfi
 
 § 4º - O disposto neste artigo não se aplica à Empresa Gráfica da Bahia - EGBA.
 
-Redação de acordo com a Lei nº [4.387](https://www.legislabahia.ba.gov.br/documentos/lei-no-4387-de-10-de-dezembro-de-1984#LO_4_387) , de 10 de dezembro de 1984.<br>
+Redação de acordo com a Lei nº [4.387](https://www.legislabahia.ba.gov.br/documentos/lei-no-4387-de-10-de-dezembro-de-1984#LO_4_387) , de 10 de dezembro de 1984.
+
 Redação original: "Art. 13 - É vedada a criação de outras gráficas nos órgãos e entidades da Administração Pública Estadual.Parágrafo Único - A aquisição de equipamento gráfico pelos órgãos ou entidades da Administração Pública Estadual somente poderá ser procedida em caráter excepcional e mediante expressa autorização do Governador do Estado, que poderá, a seu critério, ouvir a Empresa Gráfica da Bahia - EGBA."
 
 Art. 14 - Os serviços prestados pela Empresa Gráfica da Bahia - EGBA deverão ser remunerados, ressalvados os que resultem de atos emanados diretamente ou por delegação específica, do Chefe do Poder Executivo.

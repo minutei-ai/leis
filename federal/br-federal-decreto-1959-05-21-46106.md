@@ -1,5 +1,3 @@
-###DEC-046106-0-000-21-05-1959@@@
-
 DECRETO Nº 46.106, de 21 de maio de 1959.
 
 Outorga concessão à Rádio Itatiaia Limitada para estabelecer uma estação radiodifusora de ondas médias.

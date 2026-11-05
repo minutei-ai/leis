@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53795)
-
 # LEI Nº 11.957, DE 10 DE JUNHO DE 2005
 
 ## ( PL 298/2004 - Waldir Agnello)

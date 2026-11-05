@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208300)<br>
-
 # DECRETO N° 67.821, DE 19 DE JULHO DE 2023
 
 ### _Transfere, da Procuradoria Geral do Estado para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de São Paulo._

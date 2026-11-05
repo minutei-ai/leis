@@ -1,5 +1,3 @@
-###DEC-072840-0-000-25-09-1973@@@
-
 DECRETO Nº 72.840, DE 25 DE SETEMBRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Aeronáutica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087443-0-000-03-08-1982@@@
-
 Decreto nº 87.443, de 03 de agosto de 1982
 
 Altera a distribuição dos efetivos dos Oficiais dos Quadros Complementares, fixados pelo Decreto nº 87.041 de 17 de março de 1982.
@@ -10,7 +8,71 @@ DECRETA:
 
 Art. 1º - As alíneas "a", "b" e "c" do Art. 1º do Decreto nº 87.041, de 17 de março de 1982, passam a ter a seguinte redação:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Quadro Complementar do Corpo da Armada (QC-CA):</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiros-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">174</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundos-Tenentes (Oficiais da Reserva)</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Quadro Complementar do Corpo de Engenheiros e Técnicos Navais (QC-CETN):</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiros-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundos-Tenentes (Oficiais da Reserva)</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">c) Quadro Complementar do Corpo de Intendentes da Marinha (QC-CIM):</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiros-Tenentes</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundos-Tenentes (Oficiais da Reserva)</span></p></td><td style="width:51.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52</span></p></td></tr></tbody></table>
+a) Quadro Complementar do Corpo da Armada (QC-CA):
+
+Capitães-de-Fragata
+
+2
+
+Capitães-de-Corveta
+
+9
+
+Capitães-Tenentes
+
+80
+
+Primeiros-Tenentes
+
+174
+
+Segundos-Tenentes (Oficiais da Reserva)
+
+150
+
+b) Quadro Complementar do Corpo de Engenheiros e Técnicos Navais (QC-CETN):
+
+Capitães-de-Fragata
+
+2
+
+Capitães-de-Corveta
+
+2
+
+Capitães-Tenentes
+
+31
+
+Primeiros-Tenentes
+
+42
+
+Segundos-Tenentes (Oficiais da Reserva)
+
+62
+
+c) Quadro Complementar do Corpo de Intendentes da Marinha (QC-CIM):
+
+Capitães-de-Fragata
+
+2
+
+Capitães-de-Corveta
+
+4
+
+Capitães-Tenentes
+
+52
+
+Primeiros-Tenentes
+
+77
+
+Segundos-Tenentes (Oficiais da Reserva)
+
+52
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 

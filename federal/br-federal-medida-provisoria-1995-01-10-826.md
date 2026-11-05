@@ -1,7 +1,3 @@
-1
-
-###MPV-000826-0-000-10-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 826, DE 10 DE JANEIRO DE 1995
 
 Altera o art. 4º, caput, da Lei nº 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural.

@@ -1,5 +1,3 @@
-###DEC-078550-0-000-11-10-1976@@@
-
 DECRETO Nº 78.550, de 11 de outubro de 1976.
 
 Dá nova redação à alínea "b", do item I, do Art. 1º do Decreto de 54.466, de 14 de outubro de 1964 e outras providências.

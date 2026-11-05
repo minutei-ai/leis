@@ -1,5 +1,3 @@
-###DEC-083336-0-000-16-04-1979@@@
-
 DECRETO nº 83.336, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Comunicação Social, ministrado pela Universidade Federal de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

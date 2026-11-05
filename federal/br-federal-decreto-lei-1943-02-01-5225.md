@@ -1,5 +1,3 @@
-###DEL-005225-0-000-01-02-1943@@@
-
 DECRETO‑LEI N. 5.225 – DE 1 DE FEVEREIRO DE 1943
 
 Dispõe sobre a situação militar dos trabalhadores nacionais encaminhados para a extração e exploração de borracha no vale amazônico e dá outras providências

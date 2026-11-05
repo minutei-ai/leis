@@ -1,5 +1,3 @@
-###DEC-062353-0-000-05-03-1968@@@
-
 DECRETO Nº 62.353, DE 5 DE MARÇO DE 1968.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Lins - SP, destinado ao Ministério do Exército.

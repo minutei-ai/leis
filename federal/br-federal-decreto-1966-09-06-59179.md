@@ -1,5 +1,3 @@
-###DEC-059179-0-000-06-09-1966@@@
-
 decreto nº 59.179, de 6 de setembro de 1966.
 
 Concede à Caieira Nossa Senhora da Guia S.A. autorização para funcionar como emprêsa de mineração.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001315-0-000-23-11-1994@@@
-
 DECRETO N° 1.315, DE 23 DE NOVEMBRO DE 1994
 
 Acrescenta alínea ao § 1° do art. 1° do Decreto n° 99.509, de 5 de setembro de 1990.

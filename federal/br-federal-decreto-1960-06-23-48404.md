@@ -1,5 +1,3 @@
-###DEC-048404-0-000-23-06-1960@@@
-
 DECRETO N. 48.404 – DE 23 DE JUNHO DE 1960
 
 Renova o Decreto nº 43.013, de 8 de janeiro de 1958

@@ -1,5 +1,3 @@
-###DEC-073001-0-000-25-10-1973@@@
-
 Decreto nº 73.001, de 25 de outubro de 1973.
 
 Dispõe sobre a reintegração de servidor do Ministério da Agricultura, atingido pelo Decreto nº 62.234, de 7 de fevereiro de 1968, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052382-0-000-20-08-1963@@@
-
 DECRETO Nº 52.382, DE 20 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro Joaquim Marques da Silveira a pesquisar diamantes no município de Turmalina, Estado de Minas Gerais.

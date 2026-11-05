@@ -1,5 +1,3 @@
-###DEC-003407-0-000-10-04-2000@@@
-
 DECRETO Nº 3.407, DE 10 DE ABRIL DE 2000.
 
 Dispõe sobre a inclusão de bens imóveis da União no Programa Nacional de Desestatização - PND.

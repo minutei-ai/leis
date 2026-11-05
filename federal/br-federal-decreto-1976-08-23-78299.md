@@ -1,5 +1,3 @@
-###DEC-078299-0-000-23-08-1976@@@
-
 DECRETO Nº 78.299, DE 23 DE AGOSTO DE 1976.
 
 Dispõe sobre a criação do Programa Especial de Apoio ao Desenvolvimento da Região Semi-Árida do Nordeste (Projeto Sertanejo).

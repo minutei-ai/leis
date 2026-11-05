@@ -1,5 +1,3 @@
-###DEC-048624-0-000-25-07-1960@@@
-
 DECRETO Nº 48.624, DE 25 DE JULHO DE 1960.
 
 Declara caduco o Decreto nº 19.443, de 16 de agôsto de 1945.

@@ -1,5 +1,3 @@
-###DEC-067452-0-000-29-10-1970@@@
-
 Decreto nº 67.452 - de 29 de outubro de 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de terreno em Campina Grande, Estado da Paraíba, destinado ao Ministério da Aeronáutica.

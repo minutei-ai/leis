@@ -1,5 +1,3 @@
-###DEC-072530-0-000-26-07-1973@@@
-
 DECRETO Nº 72.530, DE 26 DE JULHO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Administração de Empresas e Ciências Contábeis mantida pela Associação "Princesa Isabel" de Educação e Cultura São Paulo, Estado de São Paulo.

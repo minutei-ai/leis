@@ -1,5 +1,3 @@
-###DEC-045511-0-000-27-02-1959@@@
-
 DECRETO Nº 45.511, DE 27 DE FEVEREIRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Americana de Seguros.

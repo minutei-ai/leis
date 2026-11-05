@@ -1,5 +1,3 @@
-###DEC-088720-0-000-15-09-1983@@@
-
 DECRETO Nº 88.720, DE 15 DE SETEmBRO DE 1983
 
 Outorga à Companhia Sengés de Papel e Celulose concessão para o aproveitamento da energia hidráulica de um trecho do rio Jaguaricatu, no Município de Sengés, Estado do Paraná para uso exclusivo.

@@ -1,5 +1,3 @@
-###MPV-001844-0-022-22-09-1999@@@
-
 Medida Provisória nº 1.844-22, de 22 de setembro de 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

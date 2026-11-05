@@ -1,5 +1,3 @@
-###DEC-000053-0-000-08-03-1991@@@
-
 DECRETO Nº 53, DE 08 DE MARÇO DE 1991.
 
 Promulga a Convenção Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda entre o Governo da República Federativa do Brasil e o Governo da República Popular da Hungria.

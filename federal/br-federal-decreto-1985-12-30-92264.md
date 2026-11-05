@@ -1,5 +1,3 @@
-###DEC-092264-0-000-30-12-1985@@@
-
 DECRETO Nº 92.264, DE 30 DE DEZEMBRO DE 1985
 
 Declara de interesse social, para fins de desapropriação parte do imóvel rural denominado ''Fazenda Zandavalli'', situado no Município de Chapecó, no Estado de Santa Catarina, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056399-0-000-03-06-1965@@@
-
 DECRETO Nº 56.399, DE 3 DE JUNHO DE 1965.
 
 Autoriza o cidadão brasileiro Affonso Moreira Temporal a pesquisar água mineral, no município de Lauro de Freitas, Estado da Bahia.

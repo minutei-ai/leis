@@ -1,5 +1,3 @@
-###DEC-072622-0-000-16-08-1973@@@
-
 DECRETO Nº 72.622, DE 16 DE AGOSTO DE 1973.
 
 Concede à Oxima-Óxidos, Minérios e Associados Ltda., o direito de lavrar minério de ferro, no Município de Nova Lima, Estado de Minas Gerais.

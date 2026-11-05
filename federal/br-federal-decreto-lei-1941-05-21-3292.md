@@ -1,5 +1,3 @@
-###DEL-003292-0-000-21-05-1941@@@
-
 DECRETO-LEI N. 3.292 – DE 21 DE MAIO DE 1941
 
 Suprime o cargo de Subprocurador da Justiça Militar do Ministério da Guerra e dá outras providências.

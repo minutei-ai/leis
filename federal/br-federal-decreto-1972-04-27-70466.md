@@ -1,5 +1,3 @@
-###DEC-070466-0-000-27-04-1972@@@
-
 DECRETO Nº 70.466, DE 27 DE ABRIL DE1972.
 
 Redistribui, como os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências

@@ -1,24 +1,22 @@
-###DEC-053080-0-000-04-12-1963@@@
+**DECRETO Nº 53.080, DE 4 DE DEZEMBRO DE 1963.**
 
-<strong>DECRETO Nº 53.080, DE 4 DE DEZEMBRO DE 1963.</strong>
+***Aprova o Regulamento para a Escola Superior de Guerra.***
 
-<em><strong>Aprova o Regulamento para a Escola Superior de Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Escola Superior de Guerra, que com êste baixa, assinado pelo General-de-Exército Oswaldo de Araújo Motta, Chefe do Estado-Maior das Fôrças Armadas.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Escola Superior de Guerra, que com êste baixa, assinado pelo General-de-Exército Oswaldo de Araújo Motta, Chefe do Estado-Maior das Fôrças Armadas.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, DF, 4 de dezembro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 PRESIDÊNCIA da REPÚBLICA ESTADO-MAIOR DAS FÔRÇAS ARMADAS
 
-<strong>REGULAMENTO PARA A ESCOLA SUPERIOR DE GUERRA</strong>
+**REGULAMENTO PARA A ESCOLA SUPERIOR DE GUERRA**
 
 INTRODUÇÃO
 
@@ -38,9 +36,9 @@ Aplicação
 
 O presente Regulamento será observado pela Escola Superior de Guerra.
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA ESCOLA E SUAS FINALIDADES</em>
+*DA ESCOLA E SUAS FINALIDADES*
 
 1 - A Escola Superior de Guerra (ESG) é um instituto de altos Estudos destinado a desenvolver conhecimentos necessários ao exercício de funções de direção e planejamento da Segurança Nacional.
 
@@ -64,13 +62,13 @@ O presente Regulamento será observado pela Escola Superior de Guerra.
 
 4 - Na Escola serão ministrados o Curso Superior de Guerra (CSG) e o Curso de Estado-Maior e Comando das Fôrças Armadas (CEMCFA)
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Da Escola</em>
+*Da Escola*
 
 5 - A organização da Escola compreende:
 
@@ -82,9 +80,9 @@ Departamento de Estudos
 
 Departamento de Administração
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Da Direção</em>
+*Da Direção*
 
 6 - A Direção da Escola compreende:
 
@@ -108,17 +106,17 @@ Diretores de Cursos;
 
 Assinantes do Comando.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Da Junta Consultiva</em>
+*Da Junta Consultiva*
 
 9 - A Junta Consultiva é constituída com eminentes personalidades civis e militares, de reconhecida cultura ou de notável projeção na vida pública brasileira, especialmente convidados pelo Comando para colaborarem com a Escola.
 
 9.1 - Os serviços prestados pelos membros da Junta Consultiva são considerados de natureza relevante.
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Do Departamento de Estudos</em>
+*Do Departamento de Estudos*
 
 10 - O Departamento de Estudos (DE) compreende:
 
@@ -194,9 +192,9 @@ O Diretor do CEMCFA será um dos assistentes militares.
 
 14.3 - Os civis e militares matriculados nos diferentes cursos da Escola, são designados Estagiários e, no seu conjunto, constituirem o Corpo de estagiários.
 
-<strong>SEÇÃO 5</strong>
+**SEÇÃO 5**
 
-<em>Do Departamento de Administração</em>
+*Do Departamento de Administração*
 
 15 - O Departamento de Administração (DA) compreende:
 
@@ -222,13 +220,13 @@ Seção de Transportes;
 
 Seção de Conservação de Imóveis.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das Atribuições orgânicas</em>
+*Das Atribuições orgânicas*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Da Direção</em>
+*Da Direção*
 
 16 - O Comandante, é o responsável pela administração, disciplina e tôdas as atividades Escolares, na forma de legislação em vigor.
 
@@ -238,9 +236,9 @@ Seção de Conservação de Imóveis.
 
 18.1 - Os Assistente não designados Diretores do Curso, prestação sua colaboração ao Departamento de Estudos, segundo normas estabelecidas pelo Comandante.
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Da Direção Geral dos Estudos</em>
+*Da Direção Geral dos Estudos*
 
 19 - Compete à Direção Geral de Estudos:
 
@@ -250,9 +248,9 @@ Opinar sôbre o cancelamento de matrícula de Estagiários nos casos de incapaci
 
 Opinar sôbre outros assuntos que lhe forem submetidos pelo Comandante.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Do Gabinete</em>
+*Do Gabinete*
 
 20 - Compete ao Gabinete:
 
@@ -284,15 +282,15 @@ Do Serviço de guarda e vigilância;
 
 Do Contingente.
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Da Junta Consultiva</em>
+*Da Junta Consultiva*
 
 23 - A Junta Consultiva destina-se a aconselhar o Comandante na orientação geral das atividades escolares, sempre que por êle solicitada a pronunciar-se.
 
-<strong>SEÇÃO 5</strong>
+**SEÇÃO 5**
 
-<em>Do Departamento de Estudos</em>
+*Do Departamento de Estudos*
 
 24 - Compete ao Departamento de Estudos:
 
@@ -328,9 +326,9 @@ Participação em outros trabalhos a cargo do DE.
 
 26.1 - No cumprimento dos encargos referidos no artigo anterior, compete à Divisão de Assuntos Doutrinários e de Coordenação, coordenar a elaboração dos currículos dos Cursos, em ligação com as demais Divisões, e tratar dos assuntos de ordem geral que se não enquadrarem nos assuntos específicos das demais Divisões de Estudos.
 
-<strong>SEÇÃO 6</strong>
+**SEÇÃO 6**
 
-<em>Dos Cursos</em>
+*Dos Cursos*
 
 27 - Ao Diretor de Curso auxiliado por sua Divisão Executiva compete:
 
@@ -374,9 +372,9 @@ Manter sigilo sôbre os assuntos de natureza reservada, confindencial ou secreta
 
 Atender ás disposições de ordem administrativa estabelecidas pelo Comando, bem como as constantes do Regimento Interno.
 
-<strong>SEÇÃO 7</strong>
+**SEÇÃO 7**
 
-<em>Do Departamento de Administração</em>
+*Do Departamento de Administração*
 
 30 - O Departamento de Administração incumbe-se de todos os serviços-administrativos da Escola.
 
@@ -384,27 +382,27 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 31.1 - No caso de o Chefe do Departamento de Administração não receber a mencionada delegação, exercerá também a Fiscalização Administrativa.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>PRESCRIÇÕES GERAIS DOS CURSOS</em>
+*PRESCRIÇÕES GERAIS DOS CURSOS*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Dos Currículos</em>
+*Dos Currículos*
 
 32 - Os Cursos dão ministrados seguindo currículos elaborados pela escola, de acôrdo com diretrizes do E. M . F. ª
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Das Matrículas</em>
+*Das Matrículas*
 
 33 - O Chefe do EMFA, mediante proposta do Comandante, baseada nas necessidade e possibilidades da Escola, fixa anualmente o número de matrículas nos diferentes Cursos, sua distribuição pelos Ministérios Civis e Miltares, e entidades públicas ou privadas, bem como estabelece condições para seleção dos candidatos.
 
 34 - As matrículas nos Cursos são efetuadas pelo Comandante autorizado pelo Chefe do EMFA, após aprovação pelo Presidente da República.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Do Cancelamento da Matrícula</em>
+*Do Cancelamento da Matrícula*
 
 35 - Qualquer estagiário poderá ter a sua matrícula cancelada:
 
@@ -442,25 +440,25 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 36.4 – Da decisão do Comandante da Escola cabe recurso ao Chefe do EMFA sem efeito suspensivo.
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Da Rematrícula</em>
+*Da Rematrícula*
 
 37 – O Estagiário desligado da Escola por cancelamento de matrícula no interêsse do serviço, por motivo de saúde ou de pessoa de sua família, poderá ser rematriculado em ano subseqüente, se ainda satisfizer as condições de matrícula.
 
 37.1 – O Estagiário que tiver cancelada sua matrícula a pedido, na forma do artigo 35 ou pelas disposições do artigo 36 não poderá ser rematriculado no mesmo Curso nem matriculado em outro da ESG.
 
-<strong>SEÇÃO 5</strong>
+**SEÇÃO 5**
 
-<em>Da Diplomação</em>
+*Da Diplomação*
 
 38 – Ao Estagiário que realizar satisfatóriamente o estágio previsto para qualquer dos Cursos será conferido o correspondente diploma, assinado pelo Comandante da Escola.
 
 39 – O Comandante da Escola poderá conceder diploma “Honoris Causa”, de qualquer dos cursos, a personalidade civis ou militares, nacionais ou estrangeiras que se tenham tornado merecedores dessa distinção pelos serviços relevantes prestados à Escola.
 
-<strong>SEÇÃO 6</strong>
+**SEÇÃO 6**
 
-<em>Dos Distintivos</em>
+*Dos Distintivos*
 
 40 – Ao Estagiário que fôr diplomando em qualquer dos Cursos será conferido um distintivo correspondente ao diploma.
 
@@ -468,13 +466,13 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 41.1 – Será fornecido a cada diplomado uma miniatura do distintivo para ser usado na lapela do paletó civil em ocasiões menos formais.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO CURSO SUPERIOR DE GUERRA</em>
+*DO CURSO SUPERIOR DE GUERRA*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
 42 – O Curso Superior de Guerra destina-se a:
 
@@ -490,15 +488,15 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- discussão e ensaio de uma metodologia de fromulação, desenvolvimento de uma Política de Segurança Nacional e da sistematização de uma técnica de planejamento dessa Segurança.
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Do Funcionamento</em>
+*Do Funcionamento*
 
 44 - O Curso Superior de Guerra funcionará em princípio,com a duração dedez meses, inclusive o tempo destinado a viagens de estudos, observando-se durante o estágio, regime de tempo integral.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Das Condições de Matrícula</em>
+*Das Condições de Matrícula*
 
 45 – Serão matriculados no Curso Superior de Guerra, como estagiários, militares das três Fôrças Armadas e civis pertencentes a organizações governamentais, paraestatais ou particulares, relacionadas com os problemas da Segurança Nacional.
 
@@ -538,9 +536,9 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- ser brasileiro e Ter mais de 35 anos de idade na data da matrícula.
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Dos Estagiários Especiais</em>
+*Dos Estagiários Especiais*
 
 46 – Os Oficiais-Generais das Fôrças Armadas de pôsto correspondente a General-de-Exército ou General-de-Divisão, bem como civis de alta projeção na Administração Pública, serão matriculados como Estagiários Especiais e participarão das atividades do curso Superior de Guerra sem prejuízo de suas funções mediante convite do chefe MEFA.
 
@@ -552,13 +550,13 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 48 - As prescrições contidas neste Regulamento e relativas, de modo geral, aos Estagiários, se aplicam, também, aos Estagiários Especiais.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO CURSO DE ESTADO-MAIOR E COMANDO DAS FÔRÇAS ARMADAS</em>
+*DO CURSO DE ESTADO-MAIOR E COMANDO DAS FÔRÇAS ARMADAS*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
 49 – O Curso de Estado-Maior e Comando das Fôrças Armadas destina-se a:
 
@@ -576,15 +574,15 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- a aplicação e o aprimoramento da técnica de estado-maior tendo em vista o trabalho combinado e a cooperação no planejamento da Segurança Nacional.
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Do Funcionamento</em>
+*Do Funcionamento*
 
 51 – O Curso de Estado-Maior e Comando das Fôrças Armadas funcionará, em princípio, com a duração de dez meses, inclusive o tempo destinado a manobras, viagens e vistas observando-se durante o estágio o regime de tempo integral.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Das Condições de Matrícula</em>
+*Das Condições de Matrícula*
 
 52 – Serão matriculados no CEMCFA, como estagiários, oficiais das três Fôrças Armadas, inclusive Serviços, que satisfaçam as seguintes condições:
 
@@ -598,13 +596,13 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 52.1 – Para atender situações de absoluta deficiência das Fôrças Armadas em oficiais formados no mais alto grau de Comando e Estado-Maior, poderá o EMFA, a título excepcional e para cada turma, dispensar a exigência do Cuso Superior da Escola de Guerra Naval ou do Superior de Comando da Escola de Comando e Estado-Maior da Aeronáutica, sendo exigido, entretanto, obrigatòriamente, o Curso de Comando da Escola de Guerra Naval ou o Curso de Estado –Maior da Aeronáutica ou Cursos equivalentes para os oficiais dos serviços da respectiva Fõrça.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>SEÇÃO 1</strong>
+**SEÇÃO 1**
 
-<em>Generalidades</em>
+*Generalidades*
 
 53 – O pessoal da ESG será o constante dos Quadros de Organização e Distribuição e das Tabelas de Lotação, anualmente aprovados.
 
@@ -612,9 +610,9 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 54 – No interêsse dos estudos realizados na Escola, o Comandante poderá contratar serviços profissionais com entidades ou personalidades nacionais ou estrangeiras, civis ou militares da ativa ou da reserva, nos têrmos da legislação em vigor.
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Do Corpo Permanente</em>
+*Do Corpo Permanente*
 
 55 - O Corpo Permanente (CP) é constituído dos oficiais e civis designados para os sargos da Direção, do Departamento de Estudos e do Departamento de Administração.
 
@@ -624,7 +622,7 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- Chefe do Departamento de Estudos – Vice-Almirante, General-de-Divisão ou Major-Brigadeiro.
 
-\- Assistentes do Comando – Contra-Almirante, General-de-Brigada, Ministro de 2<sup>a</sup>. Classe do Ministério das Relações Exteriores e Brigadeiro.
+\- Assistentes do Comando – Contra-Almirante, General-de-Brigada, Ministro de 2ª. Classe do Ministério das Relações Exteriores e Brigadeiro.
 
 \- Chefe do Gabinete e Chefes de Divisões Executivas – Capitão-de-Mar-e-Guerra ou Coronel;
 
@@ -658,17 +656,17 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- A matrícula será efetuada, na época própria, juntamente com a da turma dos estagiários do referido Curso que se seguir à designação do referido oficial ou civil.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Do Corpo de Auxiliares</em>
+*Do Corpo de Auxiliares*
 
 59 – O Corpo de Auxiliares é constituído de servidores civis para os serviços administrativos, e de praças para os referidos serviços e bem como os de ordem guarda e vigilância.
 
 59.1 – As praças e civis do Corpo de Auxiliares serão postos à disposição da Escola mediante requisição aos Ministérios Militares e aos órgãos da Administração Pública.
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Do Provimento dos Cargos</em>
+*Do Provimento dos Cargos*
 
 60 – No provimento dos cargos serão obedecidos as seguintes disposições:
 
@@ -682,9 +680,9 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 61 – Em princípio, no provimento dos cargos de Comandante da Escola, Chefe do Departamento de Estudos e Diretores dos Cursos deverá ser obedecido o critério do rodízio entre integrantes das três Fôrças, para o desempenho das funções.
 
-<strong>SEÇÃO 5</strong>
+**SEÇÃO 5**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
 62 – As substituições temporárias, por férias ou afastamento por prazo superior a 30 dias, serão feitas de acôrdo com as seguintes normas:
 
@@ -730,9 +728,9 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 \- pelo Chefe de órgão do Departamento de Administração, o oficial de maior antiguidade do respectivo órgão ou em caso de inexistência por oficial de outro órgão.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS*
 
 64 – O Comandante da Escola exerce ação de comando e de direção sôbre o pessoal militar e civil subordinado à ESG, de acôrdo com a legislação em vigor.
 
@@ -762,6 +760,6 @@ Atender ás disposições de ordem administrativa estabelecidas pelo Comando, be
 
 73 – O presente Regulamento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-<strong>GENERAL-DE-EXÉRCITO OSWALDO DE ARAÚJO MOTTA,</strong>
+**GENERAL-DE-EXÉRCITO OSWALDO DE ARAÚJO MOTTA,**
 
 Chefe do Estado-Maior das Fôrças Armadas.

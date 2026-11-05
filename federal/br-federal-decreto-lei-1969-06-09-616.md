@@ -1,5 +1,3 @@
-###DEL-000616-0-000-09-06-1969@@@
-
 Decreto-lei nº 616, de 9 de Junho de 1969
 
 Autoriza o Poder Executivo a instituir o Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional - CENAFOR e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-000756-0-000-11-08-1969@@@
-
 DECreto-LEI Nº 756, DE 11 DE AGÔSTO DE 1969
 
 Dispõe sôbre a valorização econômica da Amazônia e dá outras providências.

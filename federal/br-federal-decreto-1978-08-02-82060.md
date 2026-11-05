@@ -1,5 +1,3 @@
-###DEC-082060-0-000-02-08-1978@@@
-
 Decreto nº 82.060, de 02 de agosto de 1978.
 
 Altera os Decretos nºs 65.878, de 16 de dezembro de 1969, e 69.309, de 05 de outubro de 1971, e dá outras providências.

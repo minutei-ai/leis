@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212561)<br>
-
 # ATO DA MESA N° 03/2026, DE 8 DE MAIO DE 2026
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, CONSIDERANDO a redação do artigo 40, § 19, da Constituição Federal, introduzida pela Emenda Constitucional n° 103/2019; do artigo 126, § 19, da Constituição do Estado de São Paulo, introduzida pela [Emenda Constitucional Estadual n° 49/2020](https://www.al.sp.gov.br/norma/193280); o disposto no artigo 28, § 1°, da [Lei Complementar Estadual n° 1.354/2020](https://www.al.sp.gov.br/norma/193281), alterado pela [Lei Complementar n° 1.361/2021](https://www.al.sp.gov.br/norma/200540); e, ainda, CONSIDERANDO a necessidade e a conveniência da Administração, bem como o interesse público envolvido, RESOLVE:

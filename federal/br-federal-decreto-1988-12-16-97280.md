@@ -1,5 +1,3 @@
-###DEC-097280-0-000-16-12-1988@@@
-
 DECRETO Nº 97.280, DE 16 DE DEZEMBRO DE 1988
 
 Altera o art. 47 do Decreto nº 41.019, de 26 de fevereiro de 1957, com a redação dada pelo art. 1º do Decreto nº 73.080, de 5 de novembro de 1973.

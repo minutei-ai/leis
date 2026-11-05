@@ -1,5 +1,3 @@
-###DEC-094035-0-000-17-02-1987@@@
-
 DECRETO Nº 94.035, DE 17 DE FEVEREIRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Gleba Boqueirão-II", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Canarana, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986, e dá outras providências.

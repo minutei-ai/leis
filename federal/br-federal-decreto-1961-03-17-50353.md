@@ -1,5 +1,3 @@
-###DEC-050353-0-000-17-03-1961@@@
-
 DECRETO Nº 50.353, DE 17 DE MARÇO DE 1961.
 
 Altera o Parágrafo Único do art. 399 do Regulamento Geral da Previdência Social.

@@ -1,5 +1,3 @@
-###DEC-078640-0-000-27-10-1976@@@
-
 decreto Nº 78.640, de 27 de outubro de 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

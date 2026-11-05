@@ -4,7 +4,8 @@ Dispõe sobre a criação e a denominação do AGROCOLÉGIO ESTADUAL MAGUITO VIL
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação, o AGROCOLÉGIO ESTADUAL MAGUITO VILELA, situado no Município de Goianésia/GO.<br>
+Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação, o AGROCOLÉGIO ESTADUAL MAGUITO VILELA, situado no Município de Goianésia/GO.
+
 \- [Redação dada pela Lei nº 24.547, de 16-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117412/lei-24547).
 
 ~~Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação, o AGROCOLÉGIO ESTADUAL MAGUITO VILELA, situado no Município de Goiânia/GO.~~

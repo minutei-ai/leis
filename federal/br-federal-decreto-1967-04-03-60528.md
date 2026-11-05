@@ -1,5 +1,3 @@
-###DEC-060528-0-000-03-04-1967@@@
-
 DECRETO Nº 60.528, DE 3 DE ABRIL DE 1967.
 
 Atribui serviço transitório à Comissão de Estudos Legislativos do Ministério da Justiça e dá outras providências.

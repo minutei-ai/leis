@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210034)<br>
-
 # DECRETO N° 68.901, DE 23 DE SETEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo indeterminado, do Departamento de Estradas de Rodagem - DER, parte do imóvel que especifica._

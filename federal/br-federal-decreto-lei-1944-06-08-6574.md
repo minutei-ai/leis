@@ -1,5 +1,3 @@
-###DEL-006574-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.574 – DE 8 JUNHO DE 1944
 
 Dispõe sôbre a definitiva localização da Universidade do Brasil e declara de utilidade pública os prédios e terrenos da Vila Valqueire (antiga Fazenda do Valqueire), no Distrito FederaI

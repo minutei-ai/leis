@@ -1,5 +1,3 @@
-###DEL-008429-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.429 – DE 21 DE DEZEMBRO DE 1945
 
 Considera de interêsse do Govêrno da União o prolongamento do molhe de abrigo do pôrto de Fortaleza, em Mocuripe, e aprova projeto e orçamento respectivos.

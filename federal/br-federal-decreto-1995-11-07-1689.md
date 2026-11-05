@@ -1,7 +1,3 @@
-1
-
-###DEC-001689-0-000-07-11-1995@@@
-
 DECRETO Nº 1.689, DE 7 DE NOVEMBRO DE 1995
 
 Promulga o Convênio de Seguridade Social, entre o Governo da República Federativa do Brasil e o Governo do Reino da Espanha, de 16 de maio de 1991.

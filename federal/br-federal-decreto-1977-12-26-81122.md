@@ -1,5 +1,3 @@
-###DEC-081122-0-000-26-12-1977@@@
-
 Decreto nº 81.122, de 26 de dezembro de 1977.
 
 Extingue o Grupo de Assessoria para o Gás Combustível instituído pelo Decreto nº 64.065, de 05 de fevereiro de 1969.

@@ -1,5 +1,3 @@
-###DEL-009104-0-000-27-03-1946@@@
-
 DECRETO-LEI N. 9.104 – DE 27 DE MARÇO DE 1946
 
 Estabelece os preços dos carvões “metalúrgico” e “de vapor”, produzidos no País.

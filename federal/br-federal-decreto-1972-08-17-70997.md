@@ -1,5 +1,3 @@
-###DEC-070997-0-000-17-08-1972@@@
-
 DECRETO Nº 70.997, DE 17 DE AGOSTO DE 1972.
 
 Concede reconhecimento aos cursos de Administração Física, Arquitetura, Geologia e Biblioteconomia - UFPA.

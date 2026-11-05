@@ -1,5 +1,3 @@
-###DEC-052576-0-000-30-09-1963@@@
-
 DECRETO Nº 52.576, DE 30 DE SETEMBRO DE 1963.
 
 Outorga concessão ao Município de São Gonçalo do Sapucaí, Estado de Minas Gerais, para distribuir energia elétrica no distrito de Retiro do Sapucai, e dá outra providências.

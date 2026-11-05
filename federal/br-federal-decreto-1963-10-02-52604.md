@@ -1,5 +1,3 @@
-###DEC-052604-0-000-02-10-1963@@@
-
 DECRETO Nº 52.604, DE 2 DE OUTUBRO DE 1963.
 
 Altera o denominação de estabelecimento de ensino.

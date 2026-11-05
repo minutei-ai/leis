@@ -1,5 +1,3 @@
-###DEC-055840-0-000-15-03-1965@@@
-
 DECRETO Nº 55.840, DE 15 DE MARÇO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à Universidade do Ceará.

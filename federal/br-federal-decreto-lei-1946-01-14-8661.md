@@ -1,5 +1,3 @@
-###DEL-008661-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.661 – DE 14 DE JANEIRO DE 1946
 
 Altera dispositivos do Decreto-lei número 5.175, de 7 de janeiro de 1943, e dá outras providências

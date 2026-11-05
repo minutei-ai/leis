@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210912)<br>
-
 # DECRETO N° 69.520, DE 06 DE MAIO DE 2025
 
 ### _Institui a Medalha "Cinquentenário do Comando de Policiamento de Área Metropolitana Dois" e dá providências correlatas._

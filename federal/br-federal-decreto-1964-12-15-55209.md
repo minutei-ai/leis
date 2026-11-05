@@ -1,5 +1,3 @@
-###DEC-055209-0-000-15-12-1964@@@
-
 DECRETO Nº 55.209, DE 15 DE DEZEMBRO DE 1964.
 
 Autoriza a funcionar como emprêsa de energia elétrica a Sociedade Anônima de Eletrificação da Paraíba.

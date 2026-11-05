@@ -1,5 +1,3 @@
-###DEL-003841-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.841 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério das Relações  Exteriores um crédito especial de 400:000$0 para a visita do Ministro das Relações Exteriores ao Chile.

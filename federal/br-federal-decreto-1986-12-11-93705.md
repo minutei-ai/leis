@@ -1,5 +1,3 @@
-###DEC-093705-0-000-11-12-1986@@@
-
 DECRETO Nº 93.705, DE 11 DE DEZEMBRO DE 1986
 
 Altera a composição dos Conselhos Deliberativos das Superintendências do Desenvolvimento da Amazônia - SUDAM, do Nordeste - SUDENE, do Centro-Oeste - SUDECO e da Região Sul - SUDESUL.

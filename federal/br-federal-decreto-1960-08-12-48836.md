@@ -1,5 +1,3 @@
-###DEC-048836-0-000-12-08-1960@@@
-
 DECRETO Nº 48.836, DE 12 DE AGÔSTO DE 1960.
 
 Outorga ao Estado do Paraná concessão para distribuir energia elétrica.

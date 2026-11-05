@@ -1,5 +1,3 @@
-###DEC-088071-0-000-27-01-1983@@@
-
 DECRETO Nº 88.071, DE 27 DE JANEIRO DE 1983.
 
 Dispõe sobre a finalidade e a Constituição da Comissão do Serviço Militar (COSEMI), e dá outras providências.

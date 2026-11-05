@@ -1,5 +1,3 @@
-###DEC-069689-0-000-03-12-1971@@@
-
 DECRETO Nº 69.689 - DE 3 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Seminário São José ou Seminário Arquidiocesano de São José, com sede no Estado da Guanabara.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.653, DE 03 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a aquisição de bem imóvel pelo Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a aquisição de bem imóvel pelo Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

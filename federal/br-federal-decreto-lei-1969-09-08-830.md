@@ -1,7 +1,3 @@
-1
-
-###DEL-000830-0-000-08-09-1969@@@
-
 decreto-LEI Nº 830, DE 8 DE Setembro De 1969
 
 Altera a Lei nº 5.414, de 10 de abril de 1968, e dá outras providências

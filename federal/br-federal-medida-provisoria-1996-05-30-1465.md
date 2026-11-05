@@ -1,7 +1,3 @@
-1
-
-###MPV-001465-0-000-30-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.465, DE 30 DE MAIO DE 1996.
 
 Acrescenta § 5º ao art. 4º da Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

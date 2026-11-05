@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/9449)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1997/compilacao-lei-9489-04.03.1997.html)
 
 # LEI N° 9.489, DE 04 DE MARÇO DE 1997

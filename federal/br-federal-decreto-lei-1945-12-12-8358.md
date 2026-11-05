@@ -1,5 +1,3 @@
-###DEL-008358-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.358 – DE 12 DE DEZEMBRO DE 1945
 
 Altera carreira no Quadro Especial do Ministério da Educação e Saúde do Ministério da Educação e Saúde

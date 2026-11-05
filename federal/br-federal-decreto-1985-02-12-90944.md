@@ -1,5 +1,3 @@
-###DEC-090944-0-000-12-02-1985@@@
-
 DECRETO Nº 90.944, dE 12 de fevereiro dE 1985
 
 Outorga concessão à RÁDIO VOZ DO LONGÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Esperantina, Estado do Piauí.

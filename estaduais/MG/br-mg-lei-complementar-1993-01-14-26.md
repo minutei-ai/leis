@@ -347,7 +347,3 @@ Evandro de Pádua Abreu
 Paulo de Tarso Almeida Paiva
 
 Kildare Gonçalves Carvalho
-
-\================================================================
-
-Data da última atualização: 30/1/2003.

@@ -1,5 +1,3 @@
-###DEC-067001-0-000-05-08-1970@@@
-
 DECRETO Nº 67.001, DE 5 DE AGÔSTO DE 1970.
 
 Confisca bem de Ilney Gomes de Almeida e dá outras providências.

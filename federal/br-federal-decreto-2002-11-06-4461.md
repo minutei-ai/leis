@@ -1,5 +1,3 @@
-###DEC-004461-0-000-06-11-2002@@@
-
 DECRETO Nº 4.461, DE 6 DE NOVEMBRO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para a Fundação Cultural Palmares.

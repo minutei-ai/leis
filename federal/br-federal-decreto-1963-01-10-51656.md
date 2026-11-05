@@ -1,5 +1,3 @@
-###DEC-051656-0-000-10-01-1963@@@
-
 DECRETO Nº 51.656, DE 10 DE JANEIRO DE 1963.
 
 Revoga os Decretos nºs 37.494 de 14 de junho de 1955 e 39.080, de 30 de abril de 1958.

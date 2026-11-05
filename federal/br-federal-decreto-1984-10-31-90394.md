@@ -1,5 +1,3 @@
-###DEC-090394-0-000-31-10-1984@@@
-
 Decreto nº 90.394, de 31 DE outubro de 1984.
 
 Declara luto oficial.

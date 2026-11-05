@@ -1,5 +1,3 @@
-###DEC-059334-0-000-30-09-1966@@@
-
 DECRETO Nº 59.334, DE 30 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 52.862, de 18 de novembro de 1963.

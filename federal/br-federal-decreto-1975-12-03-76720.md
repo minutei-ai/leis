@@ -1,5 +1,3 @@
-###DEC-076720-0-000-03-12-1975@@@
-
 DECRETO nº 76.720, de 3 de Dezembro de 1975.
 
 Retifica o Decreto nº 74.035, de 10 de maio de 1974, que autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Vitória ES.

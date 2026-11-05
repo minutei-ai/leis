@@ -1,5 +1,3 @@
-###DEC-056573-A-000-09-07-1965@@@
-
 DECRETO Nº 56.573-A, DE 9 DE JULHO DE 1965.
 
 Altera a redação dos artigos 58, § 2º e 76 do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto n° 205, de 23 de novembro de 1961.

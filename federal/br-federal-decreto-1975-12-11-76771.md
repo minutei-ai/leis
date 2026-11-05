@@ -1,5 +1,3 @@
-###DEC-076771-0-000-11-12-1975@@@
-
 DECRETO Nº 76.771, DE 11 DE DEZEMBRO DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos de marinha e acrescidos que menciona, situados no Estado do Rio de Janeiro.

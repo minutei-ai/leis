@@ -1,5 +1,3 @@
-###DEL-009519-0-000-25-07-1946@@@
-
 DECRETO-LEI N. 9.519 – DE 25 JULHO DE 1946
 
 Revoga o Decreto-lei nº 9.398, de 21 Junho de 1946

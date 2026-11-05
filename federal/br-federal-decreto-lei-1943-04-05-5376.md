@@ -1,5 +1,3 @@
-###DEL-005376-0-000-05-04-1943@@@
-
 DECRETO‑LEI N. 5.376 – DE 5 DE ABRIL DE 1943
 
 Dispõe sobre serviço telegráfico externo das forças expedicionárias das Nações Unidas

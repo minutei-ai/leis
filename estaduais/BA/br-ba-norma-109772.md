@@ -6,14 +6,16 @@ Regulamentada pelo Decreto nº [9.101](https://www.legislabahia.ba.gov.br/docume
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA INSTITUIÇÃO DO REGISTRO E DA DEFINIÇÃO DO MESTRE DOS SABERES E FAZERES
 
 Art. 1º - Fica instituído, no âmbito da Administração Pública Estadual, o Registro dos Mestres dos Saberes e Fazeres da Cultura Tradicional Popular, a ser feito em livro próprio, a cargo do Instituto do Patrimônio Artístico e Cultural - IPAC, autarquia da estrutura da Secretaria da Cultura e Turismo do Estado da Bahia - SCT.
 
 Art. 2º - Será considerado, para os fins desta Lei, como Mestre dos Saberes e Fazeres da Cultura Tradicional Popular do Estado da Bahia e, para tanto, Tesouro Vivo, apto, na forma prevista nesta Lei, a ser inscrito junto ao Registro dos Mestres dos Saberes e Fazeres, a pessoa natural que tenha os conhecimentos ou as técnicas necessárias para a produção e preservação da cultura tradicional popular de determinada comunidade estabelecida no Estado da Bahia.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS REQUISITOS E CRITÉRIOS DE INSCRIÇÃO PARA O REGISTRO DOS MESTRES DOS SABERES E FAZERES
 
 Art. 3º - Considerar-se-ão aptos a inscreverem-se, na forma desta Lei, os que, abrangidos na definição de Tesouro Vivo do Estado da Bahia, atenderem ainda aos seguintes requisitos:
@@ -40,7 +42,8 @@ Art. 5º - A cada ano a Secretaria da Cultura e Turismo abrirá inscrição para
 
 Parágrafo único - Poderá, no mesmo ano, haver inscrição para mais de um segmento da cultura tradicional popular, observado o estabelecido no caput deste artigo.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO REGISTRO NO LIVRO DOS MESTRES DOS SABERES E FAZERES
 
 Art. 6º - São partes legítimas para provocar a instauração do processo de registro no Livro dos Mestres dos Saberes e Fazeres:
@@ -65,7 +68,8 @@ Art. 9º - Se o parecer do CEC não for pelo registro do candidato como Mestre d
 
 Art. 10 - Feita no Diário Oficial do Estado a publicação de que trata o art. 8º desta Lei, será procedida pelo IPAC a competente inscrição do interessado no Livro de Registro dos Mestres dos Saberes e Fazeres.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS DIREITOS DECORRENTES DO REGISTRO DOS MESTRES DOS SABERES E FAZERES
 
 Art. 11 - O registro no Livro dos Mestres dos Saberes e Fazeres resultará, para a pessoa natural registrada, nos seguintes direitos:
@@ -80,7 +84,8 @@ II - percepção de auxílio financeiro a ser pago mensalmente, pelo Estado da B
 
 § 3º - O auxílio financeiro, de que trata o inciso II deste artigo, cessará também em decorrência do não-cumprimento, pelo Mestre, do dever elencado no art. 12 desta Lei.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO DEVER DECORRENTE DO REGISTRO COMO MESTRE DOS SABERES E FAZERES
 
 Art. 12 - É dever do registrado no Livro de Mestres dos Saberes e Fazeres transferir seus conhecimentos e técnica aos alunos e aprendizes, através de programas de ensino e aprendizagem organizados pelo IPAC, cujas despesas serão custeadas pelo Estado.
@@ -93,7 +98,8 @@ Art. 13 - Caberá ao IPAC fiscalizar o cumprimento do dever atribuído ao Mestre
 
 § 3º - Não será considerado descumprimento de dever a impossibilidade, para o Mestre, de participar dos programas de que trata o art. 12 desta Lei, desde que tal impossibilidade tenha sido motivada por incapacidade física causada por doença grave comprovada mediante exame médico-pericial.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 14 - No primeiro ano de vigência desta Lei, poderão ser até 15 (quinze) os agraciados com o Título de Mestres dos Saberes e Fazeres, com um quantitativo máximo de até 30 (trinta) novos registros anuais, adstrito esse quantitativo à disponibilidade orçamentária da Secretaria da Cultura e Turismo do Estado da Bahia.

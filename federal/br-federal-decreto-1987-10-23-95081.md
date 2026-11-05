@@ -1,5 +1,3 @@
-###DEC-095081-0-000-23-10-1987@@@
-
 DECRETO Nº 95.081, DE 23 DE OUTUBRO DE 1987
 
 Altera os Estatutos do Instituto de Resseguros do Brasil - IRB.

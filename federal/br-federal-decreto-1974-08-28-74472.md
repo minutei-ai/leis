@@ -1,5 +1,3 @@
-###DEC-074472-0-000-28-08-1974@@@
-
 DECRETIO Nº 74.472, DE 28 DE AGOSTO DE 1974.
 
 Cria o Consulado de Carretra em Ciudad Bolívar, na Venezuela.

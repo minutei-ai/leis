@@ -1,5 +1,3 @@
-###DEC-066471-0-000-22-04-1970@@@
-
 decreto nº 66.471, de 22 de abril de 1970.
 
 Declara de utilidade pública a Irmandade Feliz Lembrança, com sede em Iguape, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-061660-0-000-09-11-1967@@@
-
 Decreto nº 61.660, de 9 de novembro de 1967.
 
 Abre, pelo Ministério dos Transportes, um crédito suplementar de NCr$81.000.000,00 (oitenta e um milhões de cruzeiros novos) para o fim que menciona.

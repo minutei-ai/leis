@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f7092af1-c3e2-4fd2-b588-1c61cc3c47bb/texto#nowhere)
 
-###DEL-000729-0-000-04-08-1969@@@
-
 DECRETO-LEI Nº 729, DE 4 DE AGÔSTO DE 1969
 
 Transfere cargos do Ministério da Justiça para o Ministério da Marinha.

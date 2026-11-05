@@ -1,5 +1,3 @@
-###DEL-006395-0-000-31-03-1944@@@
-
 DECRETO-LEI N. 6.395 – DE 31 DE MARÇO DE 1944
 
 Abre créditos especiais para classificação de despesa proveniente dos aumentos e do regime do salário-família, de que trata o Decreto-lei nº 5.976, de 10 de novembro de 1943

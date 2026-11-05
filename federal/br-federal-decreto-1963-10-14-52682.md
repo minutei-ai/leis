@@ -1,5 +1,3 @@
-###DEC-052682-0-000-14-10-1963@@@
-
 decreto nº 52.682, de 14 de outubro de 1963.
 
 Declara feriado escolar o dia do professor.

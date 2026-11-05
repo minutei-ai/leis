@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212604)<br>
-
 # DECRETO N° 70.610, DE 13 DE MAIO DE 2026
 
 ### _Altera dispositivo do Decreto n° 50.851, de 01 de junho de 2006, que autoriza a Fazenda do Estado a permitir o uso, em favor do Município de Itu, do imóvel que especifica._

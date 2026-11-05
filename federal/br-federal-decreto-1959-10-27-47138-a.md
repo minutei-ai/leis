@@ -1,5 +1,3 @@
-###DEC-047138-A-000-27-10-1959@@@
-
 DECRETO Nº 47.138-A, DE 27 DE OUTuBRO DE 1959.
 
 Autoriza a São Paulo Light S. A. Serviços de Eletricidade, a construir uma linha de transmissão no município de São Bernardo do Campo, para servir as fábricas Mercedes Benz S. A. e Willys Overland do Brasil.

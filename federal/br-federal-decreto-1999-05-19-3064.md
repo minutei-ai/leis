@@ -1,5 +1,3 @@
-###DEC-003064-0-000-19-05-1999@@@
-
 DECRETO Nº 3.064, DE 19 DE MAIO DE 1999.
 
 Dispõe sobre a alocação em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

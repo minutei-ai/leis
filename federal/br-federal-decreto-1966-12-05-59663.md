@@ -1,5 +1,3 @@
-###DEC-059663-0-000-05-12-1966@@@
-
 DECRETO Nº 59.663, DE 5 DE DEZEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Aliança da Bahia Capitalização S.A., inclusive aumento do capital social.

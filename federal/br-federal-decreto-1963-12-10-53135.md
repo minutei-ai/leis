@@ -1,5 +1,3 @@
-###DEC-053135-0-000-10-12-1963@@@
-
 DECRETO Nº 53.135, DE 10 DE DEZEMBRO DE 1963.
 
 Amplia a zona de concessão do Departamento de Águas e Energia Elétrica do Estado de São Paulo, e dá outras providências.

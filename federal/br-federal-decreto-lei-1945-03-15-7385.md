@@ -1,5 +1,3 @@
-###DEL-007385-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.385 – DE 15 DE MARÇO DE 1945
 
 Cria uma coletoria federal no município da Águas Formosas, no Estado de Minas Gerais, e dá outras providências.

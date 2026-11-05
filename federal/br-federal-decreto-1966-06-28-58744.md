@@ -1,5 +1,3 @@
-###DEC-058744-0-000-28-06-1966@@@
-
 decreto nº 58.744, de 28 de junho de 1966.
 
 Abertura de crédito especial autorizado pela Lei nº 4.945, de 6 de abril de 1966.

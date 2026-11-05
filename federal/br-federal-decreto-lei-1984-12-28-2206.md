@@ -1,5 +1,3 @@
-###DEL-002206-0-000-28-12-1984@@@
-
 # DECRETO-LEI Nº 2.206, DE 28 DE DEZEMBRO DE 1984.
 
 Reajusta o limite de remuneração estabelecido pelo Decreto-lei nº 1971, de 30 de novembro de 1982.

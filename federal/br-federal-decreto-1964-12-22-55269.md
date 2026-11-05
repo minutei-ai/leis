@@ -1,5 +1,3 @@
-###DEC-055269-0-000-22-12-1964@@@
-
 DECRETO Nº 55.269, DE 22 DE DEZEMBRO DE 1964.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à Emprêsa “Laticínios do Nordeste S.A.”, de Batalha, Estado de Alagoas.
@@ -14,7 +12,63 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado a seguir descritos e consignados à Emprêsa “Laticínios do Nordeste S.A.”, de Batalha, Estado de Alagoas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Item – Especificação</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Valor Total CIF - US$</span></p></td></tr><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Pasteurizador de placa (cambiador de calor), marca SILKEBORG, com capacidade horária de 5.000 litros, com tôdas as suas canalizações e pertences em aço inoxidável .......................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11.277</span></p></td></tr><tr><td style="width:308.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Desnatadeira-padronizadora, marca TITAN, com capacidade horária de 5.000 litros, com tôdas as suas canalizações e pertences em aço inoxidável .................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.367</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Desnatadeira padronizadora, tipo ALFA-LAVAL, com capacidade de 3.000 litros horários, com tôdas as suas canalizações e pertences em aço inoxidável ................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.679</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. Pré-concentrador SILKEBORG, de construção em aço inoxidável especial, para leite, para antecipa a evaporação e aumentar a capacidade da máquina desidratadora, com tôdas as suas canalizações e pertences......................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>21.954</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5. Batedeira de manteiga, marca SILKEBORG em aço inoxidável, com capacidade de 1.600 litros, com todos os seus pertences e canalizações .........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.045</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. Bomba rotativa, em aço inoxidável ..................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.409</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7. Bomba centrifuga em aço inoxidável ...............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.693</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8. Máquina desidratadora para fabricação de leite em pó, completa, tipo rôlo com moinho e afiador, com capacidade para 1.000/1.300 litros de leite/hora, modêlo MTN nº 3, fabricação de Paasch &amp; Silkeborg ..............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>21.528</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total .....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>72.952</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF - US$
+
+1. Pasteurizador de placa (cambiador de calor), marca SILKEBORG, com capacidade horária de 5.000 litros, com tôdas as suas canalizações e pertences em aço inoxidável .......................................
+
+2
+
+11.277
+
+2. Desnatadeira-padronizadora, marca TITAN, com capacidade horária de 5.000 litros, com tôdas as suas canalizações e pertences em aço inoxidável .................................................................................
+
+2
+
+6.367
+
+3. Desnatadeira padronizadora, tipo ALFA-LAVAL, com capacidade de 3.000 litros horários, com tôdas as suas canalizações e pertences em aço inoxidável ................................................................................
+
+1
+
+2.679
+
+4. Pré-concentrador SILKEBORG, de construção em aço inoxidável especial, para leite, para antecipa a evaporação e aumentar a capacidade da máquina desidratadora, com tôdas as suas canalizações e pertences......................................................................
+
+1
+
+21.954
+
+5. Batedeira de manteiga, marca SILKEBORG em aço inoxidável, com capacidade de 1.600 litros, com todos os seus pertences e canalizações .........................................................................................
+
+1
+
+6.045
+
+6. Bomba rotativa, em aço inoxidável ..................................................
+
+1
+
+1.409
+
+7. Bomba centrifuga em aço inoxidável ...............................................
+
+4
+
+1.693
+
+8. Máquina desidratadora para fabricação de leite em pó, completa, tipo rôlo com moinho e afiador, com capacidade para 1.000/1.300 litros de leite/hora, modêlo MTN nº 3, fabricação de Paasch &amp; Silkeborg ..............................................................................................
+
+1
+
+21.528
+
+Total .....................................................................................................
+
+72.952
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

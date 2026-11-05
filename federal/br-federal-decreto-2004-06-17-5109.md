@@ -1,5 +1,3 @@
-###DEC-005109-0-000-17-06-2004@@@
-
 DECRETO Nº 5.109, DE 17 DE JUNHO DE 2004
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos do Idoso - CNDI, e dá outras providências.

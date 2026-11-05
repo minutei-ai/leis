@@ -1,5 +1,3 @@
-###DEC-070112-0-000-03-02-1972@@@
-
 Decreto nº 70.112, de 3 de fevereiro de 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Cotegipe - Alcan, no Estado da Bahia.
@@ -25,8 +23,6 @@ Brasília, 3 de fevereiro de 1972; 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-070112-0-000-03-02-1972@@@
 
 Decreto nº 70.112, de 3 de fevereiro de 1972.
 

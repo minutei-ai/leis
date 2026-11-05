@@ -1,5 +1,3 @@
-###DEC-090282-0-000-08-10-1984@@@
-
 Decreto nº 90.282, de 08 de outubro de 1984
 
 Outorga à Indústrias de Papel São Marcos Ltda. concessão para o aproveitamento da energia hidráulica de um trecho do rio Cacatu onde se acha instalada a usina hidrelétrica do Pilão, no Município de Antonina, Estado do Paraná, para uso exclusivo.

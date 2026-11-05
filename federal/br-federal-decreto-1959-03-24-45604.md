@@ -1,5 +1,3 @@
-###DEC-045604-0-000-24-03-1959@@@
-
 DECRETO Nº 45.604 DE 24 DE MARÇO DE 1959.
 
 Abre, no Poder Judiciário, Justiça Eleitoral - Tribunal Regional Eleitoral do Amazonas - o crédito especial de Cr$280.000,00 para o fim que especifica.

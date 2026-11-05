@@ -1,5 +1,3 @@
-###DEC-068120-0-000-27-01-1971@@@
-
 DECRETO Nº 68.120, DE 27 DE JANEIRO DE 1971.
 
 Organiza o Departamento de Engenharia e Comunicações do Ministério do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050360-0-000-20-03-1961@@@
-
 DECRETO Nº 50.360, DE 20 DE MARÇO DE 1961.
 
 Torna sem efeito o Decreto número 49.563, de 20 de dezembro de 1960.

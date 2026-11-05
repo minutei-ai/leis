@@ -1,5 +1,3 @@
-###LEI-000000-0-000-08-10-1828@@@
-
 LEI - DE 8 DE OUTUBRO DE 1828
 
 Orça a receita e fixa a despeza do Thesouro Publico nesta Côrte e Provincia do Rio de Janeiro para o anno de 1829.
@@ -20,7 +18,19 @@ Pelo Ministerio dos Negocios Estrangeiros (que poderá o respectivo Ministro app
 
 Pelo Ministerio da Fazenda:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:404.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Para amortização, e juros dos emprestimos estrangeiros, brazileiro, e portuguez</span></p></td><td style="width:70.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1 .178:089$200</span></p></td></tr><tr><td style="width:404.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Para amortização e juros da divida interna já consolidada</span></p></td><td style="width:70.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">381:140$625</span></p></td></tr><tr><td style="width:404.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Para as mais despezas constantes do orçamento (deduzidas as quantias para pagamento dos emprestimos estrangeiros, e as quantias já acima, incluidas nas despezas do Ministerio do Imperio; bem como as quantias de 140:000$000 para cambio, e de 400$ para a Capellania do Thesouro, que fica supprimida)</span></p></td><td style="width:70.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2.734:702$951</span></p></td></tr><tr><td style="width:404.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4.293:934$776</span></p></td></tr></tbody></table>
+Para amortização, e juros dos emprestimos estrangeiros, brazileiro, e portuguez
+
+1 .178:089$200
+
+Para amortização e juros da divida interna já consolidada
+
+381:140$625
+
+Para as mais despezas constantes do orçamento (deduzidas as quantias para pagamento dos emprestimos estrangeiros, e as quantias já acima, incluidas nas despezas do Ministerio do Imperio; bem como as quantias de 140:000$000 para cambio, e de 400$ para a Capellania do Thesouro, que fica supprimida)
+
+2.734:702$951
+
+4.293:934$776
 
 Art. 2º Além das despezas acima decretadas, fica o Ministro da Fazenda autorizado a fazer as despezas necessarias:
 

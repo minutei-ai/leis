@@ -1,5 +1,3 @@
-###DEC-051052-0-000-26-07-1961@@@
-
 DECRETO Nº 51.052, DE 26 DE JUlHO DE 1961.
 
 Declara a caducidade da concessão de que é titular Sizenando Cunha Lima para explorar os serviços de energia elétrica na cidade de Areia, Estado da Paraíba.

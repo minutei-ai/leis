@@ -1,5 +1,3 @@
-###LEI-000000-0-000-24-10-1832@@@
-
 LEI - DE 24 DE OUTUBRO DE 1832
 
 Sobre o juro ou premio de dinheiro, de qualquer especie.

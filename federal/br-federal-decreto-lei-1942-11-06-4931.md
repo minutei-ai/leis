@@ -1,5 +1,3 @@
-###DEL-004931-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.931 – DE 6 DE NOVEMBRO DE 1942
 
 Promove ao posto de coronel e transfere para a reserva o tenente-coronel mais antigo do Corpo de Intendentes

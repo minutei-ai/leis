@@ -1,5 +1,3 @@
-###DEC-092756-0-000-05-06-1986@@@
-
 DECRETO Nº 92.756, DE 5 DE JUNHO DE 1986
 
 Dispõe sobre a extinção do Centro Nacional de Recursos Humanos, do IPEA, e dá outras providências.

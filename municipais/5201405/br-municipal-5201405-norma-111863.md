@@ -34,8 +34,10 @@ Art. 5°. Esta Lei entrará em vigor na data de sua publicação, revogando as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 20 dias do mês de Fevereiro de 2013.
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal
 
-Euler de Morais<br>
+Euler de Morais
+
 Secretário Municipal de Governo e Integração Institucional

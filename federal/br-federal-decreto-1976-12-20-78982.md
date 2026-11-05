@@ -1,5 +1,3 @@
-###DEC-078982-0-000-20-12-1976@@@
-
 DECRETO Nº 78.982, de 20 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento da habilitação em Magistério para Deficientes Mentais, do curso de Pedagogia, da Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, com sede na cidade de Lins, Estado de São Paulo.

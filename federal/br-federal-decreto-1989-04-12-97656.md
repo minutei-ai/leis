@@ -1,7 +1,3 @@
-1
-
-###DEC-097656-0-000-12-04-1989@@@
-
 DECRETO N.° 97.656, DE 12 DE ABRIL DE 1989
 
 Cria, no Estado de Mato Grosso, o PARQUE NACIONAL DA CHAPADA DOS GUIMARÃES, e dá outras providências.

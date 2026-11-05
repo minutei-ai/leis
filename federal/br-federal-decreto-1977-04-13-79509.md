@@ -1,5 +1,3 @@
-###DEC-079509-0-000-13-04-1977@@@
-
 DECRETO Nº 79.509, DE 13 DE ABRIL DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

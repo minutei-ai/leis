@@ -1,5 +1,3 @@
-###DEC-046793-0-000-04-09-1959@@@
-
 Decreto nº 46.793, de 4 de setembro de 1959.
 
 Inclui, nas disposições do art. 1º do Decreto nº 30.955, de 7 de junho de 1952, as funções que especifica.

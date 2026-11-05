@@ -1,5 +1,3 @@
-###DEC-066716-0-000-15-06-1970@@@
-
 DECRETO Nº 66.716, DE 15 DE JUNHO DE 1970.
 
 Dispõe sôbre o banimento do Território Nacional de Aderval Alves Coqueiro e outros.

@@ -1,5 +1,3 @@
-###DEC-097163-0-000-06-12-1988@@@
-
 DECRETO Nº 97.163, DE 6 DE DEZEMBRO DE 1988
 
 Regula a aplicação dos recursos previstos no Orçamento das Operações Oficiais de Crédito para o setor agrícola e dá outras providências.

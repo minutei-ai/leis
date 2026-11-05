@@ -1,5 +1,3 @@
-###DEC-087269-0-000-09-06-1982@@@
-
 Decreto nº 87.269, de 09 de junho de 1982
 
 Altera dispositivo do Decreto nº 86.884, de 28 de janeiro de 1982.

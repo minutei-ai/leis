@@ -1,5 +1,3 @@
-###DEC-070886-0-000-28-07-1972@@@
-
 DECRETO Nº 70.886, DE 28 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Escola de Administração de Empresas da Bahia - Salvador - BA.

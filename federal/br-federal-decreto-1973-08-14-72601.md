@@ -1,5 +1,3 @@
-###DEC-072601-0-000-14-08-1973@@@
-
 decreto nº 2.601, de 14 de agosto de 1973.
 
 Abre aos Ministérios da Educação e Cultura e do Trabalho e Previdência Social o crédito suplementar de Cr$10.822.000,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,15 +8,183 @@ decretA:
 
 Art. 1º Fica aberto aos Ministérios da Educação e Cultura e do Trabalho em Previdência Social o crédito suplementar no valor de Cr$10.822.000,00 (dez milhões, oitocentos e vinte e dois mil cruzeiros), para reforço de dotações orçamentárias consignadas aos subanexos aos 15.00 e 26.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.19</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitá</span><span style="font-family:Arial">rios - Entidades Supervisionadas</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2876</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Superior de Agricultura - Lavras</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.4.0</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxí</span><span style="font-family:Arial">lios para Equipamentos e Instalaçõ</span><span style="font-family:Arial">es ...............................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">134.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.5.0</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxí</span><span style="font-family:Arial">lios para Material Permanente ...........................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">63.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DO TRABALHO E PREVIDÊ</span><span style="font-family:Arial">NCIA SOCIAL</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.03</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2603.1505.2898</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividades a Cargo do Instituto de Previdê</span><span style="font-family:Arial">ncia e Assistê</span><span style="font-family:Arial">ncia aos Servidores do Estado</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal .....................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8.887.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos ......................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">816.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salá</span><span style="font-family:Arial">rio-Famí</span><span style="font-family:Arial">lia ..........................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">466.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social .........................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">456.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL .........................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.822.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.19
+
+- Departamento de Assuntos Universitários - Entidades Supervisionadas
+
+1519.0906.2876
+
+- Atividade a Cargo da Escola Superior de Agricultura - Lavras
+
+4.3.4.0
+
+- Auxílios para Equipamentos e Instalações ...............................
+
+134.000
+
+4.3.5.0
+
+- Auxílios para Material Permanente ...........................................
+
+63.000
+
+26.00
+
+- MINISTÉRIO DO TRABALHO E PREVIDÊNCIA SOCIAL
+
+26.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+2603.1505.2898
+
+- Atividades a Cargo do Instituto de Previdência e Assistência aos Servidores do Estado
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal .....................................................................................
+
+8.887.000
+
+04
+
+- Inativos ......................................................................................
+
+816.000
+
+06
+
+- Salário-Família ..........................................................................
+
+466.000
+
+07
+
+- Contribuições de Previdência Social .........................................
+
+456.000
+
+TOTAL .........................................................................................
+
+10.822.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 15.00 e 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.19</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitá</span><span style="font-family:Arial">rios - Entidades Supervisionadas</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1519.0906.1876</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.3.0</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxí</span><span style="font-family:Arial">lios para Obras Pú</span><span style="font-family:Arial">blicas ..............................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">197.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- ENCARGOS GERAIS DA UNIÃ</span><span style="font-family:Arial">O</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.02</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Recursos sob Supervisã</span><span style="font-family:Arial">o do Ministé</span><span style="font-family:Arial">rio do Planejamento e Coordenaçã</span><span style="font-family:Arial">o Geral</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2802.1800.2009</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.2</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingê</span><span style="font-family:Arial">ncia ....................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">10.625.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total ......................................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.822.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.19
+
+- Departamento de Assuntos Universitários - Entidades Supervisionadas
+
+Projeto
+
+- 1519.0906.1876
+
+4.3.3.0
+
+- Auxílios para Obras Públicas ..............................................................
+
+197.000
+
+28.00
+
+- ENCARGOS GERAIS DA UNIÃO
+
+28.02
+
+- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+- 2802.1800.2009
+
+3.2.6.2
+
+- Reserva de Contingência ....................................................................
+
+10.625.000
+
+Total ......................................................................................................
+
+10.822.000
 
 Art. 3º O presente crédito, nos orçamentos próprios da Escola Superior de Agricultura de Lavras e do Instituto de Previdência e Assistência aos Servidores do Estado, acarretará as seguintes alterações:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Suplementaçã</span><span style="font-family:Arial">o:</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.00</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.68</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Superior de Agricultura de Lavras</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5568.0906.2009</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino ................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">197.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66.00</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DO TRABALHO E PREVIDÊ</span><span style="font-family:Arial">NCIA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">SOCIAL</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66.01</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto de Previdê</span><span style="font-family:Arial">ncia e Assistê</span><span style="font-family:Arial">ncia aos Servidores do Estado</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6601.1505.2010</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutençã</span><span style="font-family:Arial">o de Serviç</span><span style="font-family:Arial">os Hospitalares</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">003</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Funcionamento experimental do Hospital dos Servidores da Uniã</span><span style="font-family:Arial">o .........................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.625.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">004</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Assistê</span><span style="font-family:Arial">ncia Mé</span><span style="font-family:Arial">dico-Hospitalar .....................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.000.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Cancelamento:</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.00</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.63</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Superior de Agricultura de Lavras</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 5568.0906.1024.001.34 ..........................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 5568.0906.1024.001.35 ..........................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">121.000</span></p></td></tr></tbody></table>
+a) Suplementação:
+
+55.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+55.68
+
+- Escola Superior de Agricultura de Lavras
+
+5568.0906.2009
+
+- Administração e Manutenção do Ensino ................................
+
+197.000
+
+66.00
+
+- MINISTÉRIO DO TRABALHO E PREVIDÊNCIA  SOCIAL
+
+66.01
+
+- Instituto de Previdência e Assistência aos Servidores do Estado
+
+6601.1505.2010
+
+- Manutenção de Serviços Hospitalares
+
+003
+
+- Funcionamento experimental do Hospital dos Servidores da União .........................................................................................
+
+3.625.000
+
+004
+
+- Administração e Assistência Médico-Hospitalar .....................
+
+7.000.000
+
+b) Cancelamento:
+
+55.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+55.63
+
+- Escola  Superior de Agricultura de Lavras
+
+Projeto
+
+- 5568.0906.1024.001.34 ..........................................................
+
+76.000
+
+Projeto
+
+- 5568.0906.1024.001.35 ..........................................................
+
+121.000
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

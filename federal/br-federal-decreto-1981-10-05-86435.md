@@ -1,5 +1,3 @@
-###DEC-086435-0-000-05-10-1981@@@
-
 Decreto nº 86 435, de Outubro de 1981.
 
 Outorga à Centrais Elétricas de Goiás S.A. - CELG concessão para o aproveitamento da energia hidráulica de um trecho do ria Corumbá, no Estado de Goiás.
@@ -35,8 +33,6 @@ Brasília, 05 de outubro de 1981; 160º da Independência 93º da República.
 João FIGUeiredo
 
 Arnaldo Rodrigues Barbalho
-
-###DEC-086435-0-000-05-10-1981@@@RET01+++
 
 DECRETO Nº 86.435, DE 05 DE OUTUBRO DE 1981.
 

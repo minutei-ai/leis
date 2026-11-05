@@ -1,5 +1,3 @@
-###MPV-001851-0-046-18-11-1999@@@
-
 medida provisória nº 1.851-46, de 18 de nobembro de 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

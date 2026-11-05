@@ -1,5 +1,3 @@
-###DEC-046277-0-000-27-06-1959@@@
-
 DECRETO Nº 46.277, DE 27 DE junho DE 1959.
 
 Outorga concessão à Emissora de Televisão Continental S.A. - TV Continental para estabelecer uma estação radiodifusora.
@@ -19,8 +17,6 @@ Rio de Janeiro, em 27 de junho de 1959; 138º da Independência e 71º da Repúb
 Juscelino Kubitschek
 
 Lúcio Meira
-
-###DEC-046277-0-000-27-06-1959@@@RET01+++
 
 DECRETO Nº 46.277, DE 27 DE JUNHO DE 1959.
 

@@ -1,5 +1,3 @@
-###DEC-087375-0-000-09-07-1982@@@
-
 Decreto nº 87.375, de 09 de julho de 1982.
 
 Promulga o Acordo sobre Cooperação Econômica e Industrial entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa.

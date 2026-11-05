@@ -1,5 +1,3 @@
-###DEC-048692-0-000-04-08-1960@@@
-
 DECRETO Nº 48.692, DE 4 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública, para fins desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Tremedal, no Município de Tremedal, Estado da Bahia.

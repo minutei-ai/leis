@@ -1,5 +1,3 @@
-###DEL-005364-0-000-31-03-1943@@@
-
 DECRETO‑LEI N. 5.364 – DE 31 DE MARÇO DE 1943
 
 Concede a Francisca Barroso de Melo Matos aposentadoria com salário integral

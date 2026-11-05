@@ -1,5 +1,3 @@
-###DEC-059635-0-000-01-12-1966@@@
-
 decreto nº 59.635, de 1º de dezembro de 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de qualquer taxas e multas federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “ Crasto Agro-Industrial S.A. - CAISA”, de Santa Luzia de Itanhy (Se.).
@@ -14,7 +12,65 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de qualquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “ Crasto Agro-Industrial S.A. - CAISA”, de Santa Luzia de Itanhy, (Se.).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Britador de nozes marca DOA, tipo 421, capacidade de reprodução de 1.500 cascas por hora. Composto de dois cilindros alimentadores com dentes temperados de aço, soldados por dentro, correndo em rolamentos de esferas à prova d’água.............................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.466</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2. Desfibradeira marca DOA, tipo 441. Sistema de alimentação em correia V padronizadas e rodas de alumínio e ferro fundido, alojadas em rolamentos de esfera à prova d’água. Equipada com duas rodas fundidas de raios de cadeias especiais e 2 tambores sedeioros com dentes camiáveis...................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14.361</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>3. Peneira de tambor rotativo marca DOA, tipo 460. Tambor formado por dois anéis e longarinas...................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>960</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>4. Máquina sedeira e limpadora, marca DOA c omposta de: (a) sedeira com tambor de ø 700mm, cilindro de segurança e dois cilindros estriados e (b) abridor misturador com sistema duplo, de cilindros batedores, aspiração de pó por meio de ventilador de expulsão................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.344</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5. Máquina automática de fiação e emcrespamento marca AERCORD III com parte de alimentação automática com distribuidor de pelo; armação de rolos com 5 rolos canelados, dedo especial de fiação com avanço forçado, duas bobinas desmontáveis de enrolamento, freio de enrolamento automático e acionado eletricamente com tração e trança regulável.......................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>18.129</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. Conjunto para mantas filtradas marca DOA constando de:..............</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.1 – Caixa de alimentação e formador de 3,5m</span><span style="font-size:0.67em; vertical-align:super">3</span><span>, com alimentação controlada</span><span style="-aw-import:spaces">&nbsp; </span><span>por meio de células foto elétricas......................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14.405</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.2 – tear de agulhas com quinze linhas de 200 agulhas. Avanço de manta e frequência das agulhas ajustáveis..........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.973</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.3 – mesa de corte com dispositivo que permite o corte da manta no comprimento desejado..........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.459</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total......................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>71.097</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Britador de nozes marca DOA, tipo 421, capacidade de reprodução de 1.500 cascas por hora. Composto de dois cilindros alimentadores com dentes temperados de aço, soldados por dentro, correndo em rolamentos de esferas à prova d’água.............................
+
+2
+
+2.466
+
+2. Desfibradeira marca DOA, tipo 441. Sistema de alimentação em correia V padronizadas e rodas de alumínio e ferro fundido, alojadas em rolamentos de esfera à prova d’água. Equipada com duas rodas fundidas de raios de cadeias especiais e 2 tambores sedeioros com dentes camiáveis...................................................................................
+
+4
+
+14.361
+
+3. Peneira de tambor rotativo marca DOA, tipo 460. Tambor formado por dois anéis e longarinas...................................................................
+
+1
+
+960
+
+4. Máquina sedeira e limpadora, marca DOA c omposta de: (a) sedeira com tambor de ø 700mm, cilindro de segurança e dois cilindros estriados e (b) abridor misturador com sistema duplo, de cilindros batedores, aspiração de pó por meio de ventilador de expulsão................................................................................................
+
+1
+
+5.344
+
+5. Máquina automática de fiação e emcrespamento marca AERCORD III com parte de alimentação automática com distribuidor de pelo; armação de rolos com 5 rolos canelados, dedo especial de fiação com avanço forçado, duas bobinas desmontáveis de enrolamento, freio de enrolamento automático e acionado eletricamente com tração e trança regulável.......................................
+
+3
+
+18.129
+
+6. Conjunto para mantas filtradas marca DOA constando de:..............
+
+6.1 – Caixa de alimentação e formador de 3,5m3, com alimentação controlada  por meio de células foto elétricas......................................
+
+1
+
+14.405
+
+6.2 – tear de agulhas com quinze linhas de 200 agulhas. Avanço de manta e frequência das agulhas ajustáveis..........................................
+
+1
+
+9.973
+
+6.3 – mesa de corte com dispositivo que permite o corte da manta no comprimento desejado..........................................................................
+
+1
+
+5.459
+
+Total......................................................................................................
+
+71.097
 
 Equipamentos originados da Áustria.
 

@@ -1,5 +1,3 @@
-###DEC-002917-0-000-30-12-1998@@@
-
 DECRETO Nº 2.917, DE 30 DE DEZEMBRO DE 1998.
 
 Fixa alíquota do Imposto sobre Produtos Industrializados.

@@ -1,5 +1,3 @@
-###DEL-000709-0-000-28-07-1969@@@
-
 decreto-lei nº 709, de 28 de julho de 1969
 
 Dá nova redação ao art. 99, da Lei nº 4.024, de 20 de dezembro de 1961.

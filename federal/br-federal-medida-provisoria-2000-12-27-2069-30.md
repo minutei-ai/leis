@@ -1,5 +1,3 @@
-###MPV-002069-0-030-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.069-30, DE 27 de DEZEMBRO DE 2000.
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

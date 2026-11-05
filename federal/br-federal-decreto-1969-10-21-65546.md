@@ -1,5 +1,3 @@
-###DEC-065546-0-000-21-10-1969@@@
-
 DECRETO Nº 65.546 - DE 21 DE OUTUBRO DE 1969.
 
 Autoriza a cessão, ao Estado do Paraná, sob a forma de utilização gratuita de terrenos situados no Município de Londrina.

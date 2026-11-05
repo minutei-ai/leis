@@ -1,5 +1,3 @@
-###DEC-062119-0-000-15-01-1968@@@
-
 DECRETO Nº 62.119, DE 15 DE JANEIRO DE 1968.
 
 Altera os Decretos ns. 56.788, de 25 de agôsto de 1965 e 56.596, de 21 de julho de 1965, que dispõem, respectivamente, sôbre os Regimentos dos Gabinetes Militar e Civil da Presidência da República.

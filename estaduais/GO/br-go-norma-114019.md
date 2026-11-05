@@ -16,20 +16,38 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE SISTEMÁTICA DE MODERNIZAÇÃO E INOVAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA</td><td style=" width:85px;    ">04 122 1048 2595</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 13.429.247,93</td><td style=" width:85px;    ">R$ 3.300.000,00</td><td style=" width:85px;    ">R$ 16.729.247,93</td></tr><tr><td style=" width:85px;    ">SOLUÇÕES DE TI</td><td style=" width:85px;    ">04 122 1048 2588</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 14.603.131,99</td><td style=" width:85px;    ">R$ 4.500.000,00</td><td style=" width:85px;    ">R$ 19.103.131,99</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>IMPLANTAÇÃO DE SISTEMÁTICA DE MODERNIZAÇÃO E INOVAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA</td><td>04 122 1048 2595</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 13.429.247,93</td><td>R$ 3.300.000,00</td><td>R$ 16.729.247,93</td></tr><tr><td>SOLUÇÕES DE TI</td><td>04 122 1048 2588</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 14.603.131,99</td><td>R$ 4.500.000,00</td><td>R$ 19.103.131,99</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.800.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 7.800.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.800.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 7.800.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 139.348.634,71</td><td style=" width:85px;    ">R$ 6.000.000,00</td><td style=" width:85px;    ">R$ 6.000.000,00</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA</td><td style=" width:85px;    ">04 122 1048 2435</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.904.250,00</td><td style=" width:85px;    ">R$ 1.600.000,00</td><td style=" width:85px;    ">R$ 1.600.000,00</td></tr><tr><td style=" width:85px;    ">OBSERVATÓRIO DE POLÍTICAS PÚBLICAS</td><td style=" width:85px;    ">04 121 1048 2592</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 200.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>04 122 4200 4243</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 139.348.634,71</td><td>R$ 6.000.000,00</td><td>R$ 6.000.000,00</td></tr><tr><td>MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA</td><td>04 122 1048 2435</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 3.904.250,00</td><td>R$ 1.600.000,00</td><td>R$ 1.600.000,00</td></tr><tr><td>OBSERVATÓRIO DE POLÍTICAS PÚBLICAS</td><td>04 121 1048 2592</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 200.000,00</td><td>R$ 200.000,00</td><td>R$ 200.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.800.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 7.800.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 7.800.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.800.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 7.800.000,00</td></tr></tbody></table>
+**TOTAL**
+
+R$ 7.800.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.800.000,00
+
+**TOTAL**
+
+R$ 7.800.000,00

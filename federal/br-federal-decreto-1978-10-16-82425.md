@@ -1,5 +1,3 @@
-###DEC-082425-0-000-16-10-1978@@@
-
 Decreto nº 82.425, de 16 de outubro de 1978.
 
 Concede à Usina Siderúrgica de Minas Gerais S.A - USIMINAS o direito de lavrar calcário no Município de Prudente Moraes, Estado de Minas Gerais.

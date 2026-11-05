@@ -1,5 +1,3 @@
-###DEC-085237-0-000-07-10-1980@@@
-
 DECRETO nº 85.237, de 07 de outubro de 1980.
 
 Altera a composição do Conselho de Previdência Complementar (CPC).

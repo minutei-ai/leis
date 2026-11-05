@@ -1,5 +1,3 @@
-###DEC-057862-0-000-25-02-1966@@@
-
 Decreto nº 57.862, de 25 de Fevereiro de 1966.
 
 Autoriza o cidadão brasileiro Francisco Vieira de Barros a pesquisar mármore, dolomita e minério de manganês no Município de Piedade, Estado de São Paulo.

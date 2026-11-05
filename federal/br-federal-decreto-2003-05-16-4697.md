@@ -1,5 +1,3 @@
-###DEC-004697-0-000-16-05-2003@@@
-
 DECRETO Nº 4.697, DE 16 DE MAIO DE 2003.
 
      Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores \- DAS que menciona, e dá outras providências.  
@@ -36,6 +34,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 16 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Álvaro Augusto Ribeiro Costa<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Álvaro Augusto Ribeiro Costa
+
 Guido Mantega

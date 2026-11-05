@@ -1,5 +1,3 @@
-###DEC-069153-0-000-31-08-1971@@@
-
 DECRETO Nº 69.153, DE 31 DE AGôSTO DE 1971.
 
 Autorização para funcionamento dos Cursos de Letras (licenciatura completa) e Ciências Sociais, da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá", SP.

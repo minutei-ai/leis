@@ -1,5 +1,3 @@
-###DEL-006137-0-000-24-12-1943@@@
-
 DECRETO‑LEI N. 6.137 – DE 24 DE DEZEMBRO DE 1943
 
 Cria funções gratificadas no Quadro Único do Ministério do Trabalho, Indústria e Comércio, e dá outras providências
@@ -10,7 +8,105 @@ decreta:
 
 Art. 1º Ficam criadas, no Quadro Único do Ministério do Trabalho, Indústria e Comércio, as seguintes funções gratificadas para o Departamento Nacional do Trabalho:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Serviço de Identificação Profissional (S. I. P.)</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Identificação .....................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Emissão de Carteira .........................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Cadastro e Registros Profissionais</span><span style="-aw-import:spaces">&nbsp; </span><span>.................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Contrôle ............................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Divisão de Organização e Assistência Sindical (D.O.A.S.)</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="margin-bottom:0pt; line-height:normal"><span style="font-style:normal">1 Chefe da Secção de Organização e Registro Sindical</span><span style="font-style:normal; -aw-import:spaces">&nbsp; </span><span style="font-style:normal">.....................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right; line-height:normal"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right; line-height:normal"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Assistência Sindical .........................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Contrôle Contábil ..............................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Colocação de Trabalhadores ..........................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Divisão de Fiscalização (D. F.)</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Inspeção do Trabalho .......................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Multas ...............................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Chefe da Secção de Recursos ..........................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Divisão de Higiene e Segurança do Trabalho (D. H. S. T.)</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Higiene do Trabalho .........................................................</span><span style="font-style:normal; -aw-import:spaces">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Assistência a Mulheres e Menores ..................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Secção de Segurança do Trabalho ....................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 5.400,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Turma de Administração</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:354.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText"><span style="font-style:normal">1 Chefe da Turma de Administração ...................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText" style="text-align:right"><span style="font-style:normal">Cr$ 4.200,00</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:right"><span>anuais</span></p></td></tr></tbody></table>
+Serviço de Identificação Profissional (S. I. P.)
+
+1 Chefe da Secção de Identificação .....................................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Emissão de Carteira .........................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Cadastro e Registros Profissionais  .................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Contrôle ............................................................................
+
+Cr$ 5.400,00
+
+anuais
+
+Divisão de Organização e Assistência Sindical (D.O.A.S.)
+
+1 Chefe da Secção de Organização e Registro Sindical  .....................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Assistência Sindical .........................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Contrôle Contábil ..............................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Colocação de Trabalhadores ..........................................
+
+Cr$ 5.400,00
+
+anuais
+
+Divisão de Fiscalização (D. F.)
+
+1 Chefe da Secção de Inspeção do Trabalho .......................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Multas ...............................................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Recursos ..........................................................................
+
+Cr$ 5.400,00
+
+anuais
+
+Divisão de Higiene e Segurança do Trabalho (D. H. S. T.)
+
+1 Chefe da Secção de Higiene do Trabalho .........................................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Assistência a Mulheres e Menores ..................................
+
+Cr$ 5.400,00
+
+anuais
+
+1 Chefe da Secção de Segurança do Trabalho ....................................................
+
+Cr$ 5.400,00
+
+anuais
+
+Turma de Administração
+
+1 Chefe da Turma de Administração ...................................................................
+
+Cr$ 4.200,00
+
+anuais
 
 Art. 2º Para atender à despesa com a execução dêste decreto‑lei, no período de 15 de dezembro de 1943 a 31 de dezembro de 1944, fica aberto, ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ ...... 83.125,00 (oitenta e três mil, cento e vinte e cinco cruzeiros).
 

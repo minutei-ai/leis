@@ -1,5 +1,3 @@
-###DEC-074028-0-000-08-05-1974@@@
-
 DECRETO Nº 74.028, DE 8 DE MAIO DE 1974.
 
 Transfere, com os respectivos cargos funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE, e dá outras providências.

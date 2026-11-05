@@ -1,5 +1,3 @@
-###DEC-067346-0-000-05-10-1970@@@
-
 DECRETO Nº 67.346, DE 5 DE OUTUBRO DE 1970.
 
 Cria o consulado Honorário do Brasil em Nicósia, Chipre.

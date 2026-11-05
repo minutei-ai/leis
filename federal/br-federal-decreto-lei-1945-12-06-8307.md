@@ -1,5 +1,3 @@
-###DEL-008307-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.307 – DE 6 DE DEZEMBRO DE 1945
 
 Altera a redação do art. 3.º, do Decreto-lei n.º 7.496, de 26 de abril de 1945, e dá outras providências.

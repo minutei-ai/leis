@@ -1,5 +1,3 @@
-###DEC-076078-0-000-04-08-1975@@@
-
 DECRETO Nº 76.078 - de 4 de agosto de 1975
 
 Altera a denominação de órgãos do Ministério da Saúde e dá outras providências.

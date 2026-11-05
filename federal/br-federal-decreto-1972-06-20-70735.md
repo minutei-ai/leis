@@ -1,5 +1,3 @@
-###DEC-070735-0-000-20-06-1972@@@
-
 DECRETO Nº 70.735, DE 20 DE JUNHO DE 1972.
 
 Declara de utilidade pública a Previdência Social do Clube Militar - PREVIMIL, com sede no Rio de Janeiro, Estado da Guanabara.

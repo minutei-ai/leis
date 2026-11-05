@@ -1,5 +1,3 @@
-###DEC-057844-0-000-18-02-1966@@@
-
 DECRETO Nº 57.844, DE 18 DE FEVEREIRO DE 1966.
 
 Regulamenta os Artigos 1º, 2º, 3º e 4º do Decreto-lei nº 2, de 14 de janeiro de 1966, publicado no Diário Oficial da União em 17 de janeiro de 1966.

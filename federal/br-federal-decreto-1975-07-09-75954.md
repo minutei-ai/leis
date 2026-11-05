@@ -1,5 +1,3 @@
-###DEC-075954-0-000-09-07-1975@@@
-
 DECRETO Nº 75.954 - DE 9 DE JULHO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047696-0-000-22-01-1960@@@
-
 DECRETO Nº 47.696, DE 22 DE JANEIRO DE 1960.
 
 Transfere função para a Tabela Única de Extranumerário-Mensalista do Ministério da Fazenda.

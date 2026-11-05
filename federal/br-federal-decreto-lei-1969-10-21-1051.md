@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9953aefd-0807-4972-832f-03114524295c/texto#nowhere)
 
-###DEL-001051-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.051, de 21 dE OutUbro de 1969
 
 Provê sôbre o aproveitamento em cursos de licenciatura, de estudos realizados em Seminários Maiores, Faculdades Teológicas ou instituições equivalentes de qualquer confissão religiosa.

@@ -1,5 +1,3 @@
-###DEC-081720-0-000-23-05-1978@@@
-
 Decreto nº 81.720, de 23 de maio de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Excelsior S.A. para executar serviço de radio difusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

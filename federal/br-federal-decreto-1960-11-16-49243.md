@@ -1,5 +1,3 @@
-###DEC-049243-0-000-16-11-1960@@@
-
 DECRETO Nº 49.243, DE 16 DE NOVEMBRO DE 1960.
 
 Declara de utilidade pública a Santa Casa da Misericórdia com sede em São João Del-Rei, Estado de Minas Gerais.

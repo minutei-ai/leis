@@ -1,5 +1,3 @@
-###DEL-004840-0-000-16-10-1942@@@
-
 DECRETO-LEI N. 4.840 – DE 16 DE OUTUBRO DE 1942
 
 Extingue a graduação de sargento-ajudante e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-064121-0-000-14-02-1969@@@
-
 DECRETO Nº 64.121, DE 14 DE FEvereiro de 1969.
 
 Institui, na estrutura do Ministério da Fazenda, a Coordenação de Relações Públicas.

@@ -1,5 +1,3 @@
-###DEC-078364-0-000-03-09-1976@@@
-
 DECRETO Nº 78.364, DE 3 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, pela Telecomunicações de São Paulo S.A. - TELESP, uma área de terra urbana, sem benfeitorias, necessárias à instalação de uma estação de rádio do sistema de transmissão, situada na rua Irmãos Braga, sem número, da Vila Tamoios, Bertioga, Município e Comarca de Santos, Estado de São Paulo.

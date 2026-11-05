@@ -1,5 +1,3 @@
-###DEL-005702-0-000-28-07-1943@@@
-
 DECReTO‑LEI N. 5.702 – DE 28 De JULHO DE 1943
 
 Abre, ao Ministério da Educação o Saúde, o crédito suplementar de Cr$ 13.200,00

@@ -1,5 +1,3 @@
-###DEC-005319-0-000-23-12-2004@@@
-
 DECRETO Nº 5.319 DE 23 DE DEZEMBRO DE 2004
 
 Torna sem efeito a revogação do Decreto nº 68.930, de 16 de julho de 1971, que aprova o Estatuto do Hospital de Clínicas de Porto Alegre.

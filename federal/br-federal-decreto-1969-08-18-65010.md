@@ -1,5 +1,3 @@
-###DEC-065010-0-000-18-08-1969@@@
-
 DECRETO Nº 65.010 - DE 18 DE AGÔSTO DE 1969.
 
 Retifica e altera a redação do artigo 1º do Decreto número 44.940, de 1 de dezembro de 1958.

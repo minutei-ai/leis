@@ -1,5 +1,3 @@
-###DEC-005705-0-000-16-02-2006@@@
-
 DECRETO Nº 5.705, DE 16 DE FEVEREIRO DE 2006.
 
 Promulga o Protocolo de Cartagena sobre Biossegurança da Convenção sobre Diversidade Biológica.

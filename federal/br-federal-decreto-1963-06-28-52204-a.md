@@ -1,5 +1,3 @@
-###DEC-052204-A-000-28-06-1963@@@
-
 DECRETO Nº 52.204-A, de 28 DE JUNHO DE 1963.
 
 Declara de utilidade publica a “Sociedade Caritativo-Literária São José”, com sede em Garibaldi, Estado do Rio Grande do Sul.

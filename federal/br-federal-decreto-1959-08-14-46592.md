@@ -1,5 +1,3 @@
-###DEC-046592-0-000-14-08-1959@@@
-
 DECRETO Nº 46.592, DE 14 DE AGôSTO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital de responsabilidade da The London & Lancashire Insurance Company Limited.

@@ -1,5 +1,3 @@
-###DEC-062799-0-000-31-05-1968@@@
-
 Decreto nº 62.799, de 31 de maio de 1968.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel localizado na cidade do Rio de Janeiro, Estado da Guanabara.

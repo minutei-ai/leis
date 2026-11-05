@@ -1,5 +1,3 @@
-###DEC-089170-0-000-09-12-1983@@@
-
 Decreto nº 89.170, de 09 de dezembro de 1983
 
 Renova por 10 (dez) anos a outorgada à RÁDIO ITAÍ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Guaíba, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-084086-0-000-15-10-1979@@@
-
 Decreto nº 84.086, de 15 de outubro de 1979.
 
 Declara de utilização pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Andradas, da Companhia Paulista de Força e Luz - CPFL, no Estado de Minas Gerais.

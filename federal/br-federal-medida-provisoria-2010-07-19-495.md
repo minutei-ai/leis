@@ -1,5 +1,3 @@
-###MPV-000495-0-000-19-07-2010@@@
-
 MEDIDA PROVISÓRIA Nº 495, DE 19 DE JULHO DE 2010
 
 Altera as Leis nºs 8.666, de 21 de junho de 1993, 8.958, de 20 de dezembro de 1994, e 10.973, de 2 de dezembro de 2004, e revoga o § 1º do art. 2o da Lei nº  11.273, de 6 de fevereiro de 2006.

@@ -1,5 +1,3 @@
-###DEC-077243-0-000-26-02-1976@@@
-
 DECRETO Nº 77.243, DE 26 DE FEVEREIRO DE 1976.
 
 Cria o 4º Batalhão Especial de Fronteira, por transformação da 4ª Companhia de Fronteira, e dá outras providências.

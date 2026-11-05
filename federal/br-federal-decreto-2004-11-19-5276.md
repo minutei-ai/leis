@@ -1,5 +1,3 @@
-###DEC-005276-0-000-19-11-2004@@@
-
 DECRETO Nº 5.276 DE 19 DE NOVEMBRO DE 2004
 
 Altera os arts. 2º e 3º do Decreto nº 3.411, de 12 de abril de 2000, que regulamenta o Transporte Multimodal de Cargas, instituído pela Lei nº 9.611, de 19 de fevereiro de 1998, e dá outras providências.

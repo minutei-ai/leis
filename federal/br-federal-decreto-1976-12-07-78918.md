@@ -1,5 +1,3 @@
-###DEC-078918-0-000-07-12-1976@@@
-
 DECRETO Nº 78.918, DE 7 DE DEZEMBRO DE 1976
 
 Declara de utilidade pública, para fins de desapropriação, pelo Tribunal Regional do Trabalho da 7ª Região, o domínio útil de terreno, com benfeitorias, que menciona, na cidade de Fortaleza, Estado do Ceará.

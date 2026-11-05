@@ -1,5 +1,3 @@
-###DEC-073403-0-000-02-01-1974@@@
-
 DECRETO Nº 73.403, DE 2 DE JANEIRO DE 1974.
 
 Concede autorização à Companhia Walker-Huthnance Drilling Company para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.
@@ -21,8 +19,6 @@ de Barros Nunes
 Antônio EMÍLIO G. MÉDICI
 
 Adalberto Dias Leite Júnior
-
-###DEC-073403-0-000-02-01-1974@@@
 
 DECRETO Nº 73.403, DE 2 DE JANEIRO DE 1974.
 

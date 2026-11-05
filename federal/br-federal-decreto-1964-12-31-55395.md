@@ -1,5 +1,3 @@
-###DEC-055395-0-000-31-12-1964@@@
-
 DECRETO Nº 55.395, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Leprevost a pesquisar calcário no município de Cêrro Azul, Estado do Paraná.

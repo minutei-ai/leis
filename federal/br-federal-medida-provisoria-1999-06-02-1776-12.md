@@ -1,5 +1,3 @@
-###MPV-001776-0-012-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.776-12, DE 2 DE JUNHO DE 1999.
 
 Dá nova redação ao art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.

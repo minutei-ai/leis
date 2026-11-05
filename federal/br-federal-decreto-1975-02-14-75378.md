@@ -1,5 +1,3 @@
-###DEC-075378-0-000-14-02-1975@@@
-
 DECRETO Nº 75.378, DE 14 DE FEVEREIRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóvel, em Rondonópolis - MT, destinado ao Ministério do Exército.

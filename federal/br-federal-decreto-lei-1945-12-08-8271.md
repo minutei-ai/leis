@@ -1,5 +1,3 @@
-###DEL-008271-0-000-08-12-1945@@@
-
 DECRETO-LEI N. 8.271 – DE 8 DE DEZEMBRO DE 1945
 
 Dispõe sôbre as subvenções concedidas aos Diretórios Acadêmicos dos estabelecimentos federais de ensino.

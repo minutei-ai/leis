@@ -1,5 +1,3 @@
-###DEC-081385-0-000-22-02-1978@@@
-
 Decreto nº 81.385, de 22 de fevereiro de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

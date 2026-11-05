@@ -1,5 +1,3 @@
-###DEC-048121-0-000-16-04-1960@@@
-
 DECRETO Nº 48.121, DE 16 DE ABRIL DE 1960.
 
 Revoga o Decreto nº 46.364, de 7 de julho de 1959 e dá outras providencias.

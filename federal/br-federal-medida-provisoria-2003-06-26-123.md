@@ -1,6 +1,3 @@
-###MPV-000123-0-000-26-06-2003@@@<br>
- 
-
 MEDIDA PROVISÓRIA Nº 123, DE 26 DE JUNHO 2003.
 
        Define normas de regulação para o setor farmacêutico, cria a Câmara de Regulação do Mercado de Medicamentos \- CMED, altera a Lei nº 6.360, de 23 de setembro de 1976, e dá outras providências.
@@ -135,8 +132,10 @@ h) a relação de todos os produtos substitutos existentes no mercado, acompanh
 
 LUIZ INÁCIO LULA DA SILVA
 
-<br>
-Márcio Thomaz Bastos<br>
-Antonio Palocci Filho<br>
-Humberto Sérgio Costa Lima<br>
+Márcio Thomaz Bastos
+
+Antonio Palocci Filho
+
+Humberto Sérgio Costa Lima
+
 José Dirceu de Oliveira e Silva

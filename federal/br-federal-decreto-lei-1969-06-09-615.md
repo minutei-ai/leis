@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5dc1183f-93ee-43bd-9e07-e05a02e1745b/texto#nowhere)
 
-###DEL-000615-0-000-09-06-1969@@@
-
 DECRETO-LEI Nº 615, DE 9 DE JUNHO DE 1969
 
 Institui o Fundo Federal de Desenvolvimento Ferroviário e dá outras providências.

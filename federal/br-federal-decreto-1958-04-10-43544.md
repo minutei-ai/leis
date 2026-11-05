@@ -1,14 +1,12 @@
-###DEC-043544-0-000-10-04-1958@@@
+**DECRETO Nº 43.544, DE 10 DE ABRIL DE 1958.**
 
-<strong>DECRETO Nº 43.544, DE 10 DE ABRIL DE 1958.</strong>
+***Declara de utilidade pública diversas áreas de terra, necessárias à construção da linha de transmissão de que trata o Decreto nº 42.882, de 26 de dezembro de 1957, e autoriza a Central Elétrica de Furnas S.A. a promover as servidões necessárias sôbre elas ou a desapropriação das mesmas.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra, necessárias à construção da linha de transmissão de que trata o Decreto nº 42.882, de 26 de dezembro de 1957, e autoriza a Central Elétrica de Furnas S.A. a promover as servidões necessárias sôbre elas ou a desapropriação das mesmas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as seguintes áreas de terra situadas nos município de Ibirací, Cássia, Passos e Alpinópolis, no Estado de Minas Gerais, destinadas à passagem da linha de transmissão de que trata o Decreto nº 42.882, de 26 de dezembro de 1957, linha essa que se destina à transmissão de energia elétrica da usina de Peixotos de propriedade da Companhia Paulista de Fôrça e Luz, para o local das obras da usina hidrelétrica de Furnas e que futuramente será utilizada na interligação das duas usinas, e com as características especificadas nos projetos aprovados pelo Ministério da Agricultura no processo D. Ag. 51 de 1958.
+**Art**. 1º São declaradas de utilidade pública as seguintes áreas de terra situadas nos município de Ibirací, Cássia, Passos e Alpinópolis, no Estado de Minas Gerais, destinadas à passagem da linha de transmissão de que trata o Decreto nº 42.882, de 26 de dezembro de 1957, linha essa que se destina à transmissão de energia elétrica da usina de Peixotos de propriedade da Companhia Paulista de Fôrça e Luz, para o local das obras da usina hidrelétrica de Furnas e que futuramente será utilizada na interligação das duas usinas, e com as características especificadas nos projetos aprovados pelo Ministério da Agricultura no processo D. Ag. 51 de 1958.
 
 MUNICÍPIO DE IBIRACÍ
 
@@ -220,20 +218,20 @@ MUNICÍPIO DE ALPINÓPOLIS
 
 101\. Área de 29.000m<sup>2</sup> (vinte e nove mil metros quadrados) de propriedade atribuída a Clarisse de Souza Rodrigues, e outros.
 
-<strong>Art</strong>. 2º. Fica constituída em favor da Central Elétrica de Furnas S.A., na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
+**Art**. 2º. Fica constituída em favor da Central Elétrica de Furnas S.A., na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
 
 § 1º Os proprietários das áreas de terra atingidos pelo ônus limitarão o uso e gôzo das mesmas ao que for compatível com a existência da servidão, abstendo-se, em conseqüência, de praticar, dentro dessas áreas, quaisquer atos que a embaracem ou lhe causem dano, incluídos entre êles os de erguerem construções ou fazerem plantações de elevado porte.
 
 § 2º A Central Elétrica de Furnas S.A., fica autorizada a promover, no caso de embaraço oposto pelo proprietários, ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, inclusive a utilizar-se do processo de desapropriação nos têrmos do art. 49 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 3º A presente constituição de servidão ou desapropriação é declarada de caráter urgente para os efeitos do art. 15, do Decreto-lei número 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956.
+**Art**. 3º A presente constituição de servidão ou desapropriação é declarada de caráter urgente para os efeitos do art. 15, do Decreto-lei número 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revoga-se as disposições em contrário.
+**Art**. 5º Revoga-se as disposições em contrário.
 
 Rio de Janeiro, 10 de abril de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

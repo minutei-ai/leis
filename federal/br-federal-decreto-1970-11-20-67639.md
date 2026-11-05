@@ -1,5 +1,3 @@
-###DEC-067639-0-000-20-11-1970@@@
-
 DECRETO Nº 67.639, de 20 de novembro de 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situada no Município de Conceição do Mato Dentro, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-004003-0-000-08-01-1942@@@
-
 DECRETO-LEI N. 4.003 – DE 8 DE JANEIRO DE 1942
 
 Altera o decreto-lei n. 3.761, de 25 de outubro de 1941, e dá outras providências

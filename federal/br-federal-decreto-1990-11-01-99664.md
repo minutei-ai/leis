@@ -1,7 +1,3 @@
-1
-
-###DEC-099664-0-000-01-11-1990@@@
-
 DECRETO N° 99.664, DE 1° DE NOVEMBRO DE 1990
 
 Altera o Decreto n° 99.266, de 28 de maio de 1990, e dá outras providências.

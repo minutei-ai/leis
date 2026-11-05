@@ -1,5 +1,3 @@
-###DEC-056420-0-000-04-06-1965@@@
-
 DECRETO Nº 56.420, DE 4 DE JUNHO DE 1965.
 
 Reconhece como nulos os acôrdos coletivos que menciona.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095894-0-000-05-04-1988@@@
-
 # DECRETO Nº 95.894 DE 5 DE ABRIL DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Centro de Ciências Exatas e Tecnológicas das Faculdades Integradas de Marília, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-096011-0-000-06-05-1988@@@
-
 DECRETO N° 96.011, DE 06 DE MAIO DE 1988
 
 Revoga o Decreto n° 49.748, de 31 de dezembro de 1960, que aprovou o Regimento Interno da Procuradoria Junto ao Tribunal Marítimo.

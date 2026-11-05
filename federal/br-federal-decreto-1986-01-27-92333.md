@@ -1,5 +1,3 @@
-###DEC-092333-0-000-27-01-1986@@@
-
 DECRETO Nº 92.333, DE 27 DE JANEIRO DE 1986
 
 Autoriza o Governo do Estado de Goiás a explorar, através do Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE, na cidade de Goiânia, Estado de Goiás, serviço de radiodifusão sonora em ondas curtas, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

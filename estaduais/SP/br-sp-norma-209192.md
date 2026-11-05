@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209192)<br>
-
 # DECRETO N° 68.389, DE 15 DE MARÇO DE 2024
 
 ### _Institui o Comitê de Integração dos Programas, Projetos e Ações de Desenvolvimento Urbano do Estado de São Paulo - CIDurb e dá providências correlatas._

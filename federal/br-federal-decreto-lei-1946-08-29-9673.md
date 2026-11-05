@@ -1,5 +1,3 @@
-###DEL-009673-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.673 – DE 29 DE AGÔSTO DE 1946
 
 Dá nova redação aos arts. 21 e 61 da Lei do Ensino Militar.

@@ -1,5 +1,3 @@
-###DEC-053238-0-000-12-12-1963@@@
-
 DECRETO Nº 53.238, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Hugo Ziemer a pesquisar quartzo e pedras coradas no município de Jordânia, Estado de Minas Gerais.

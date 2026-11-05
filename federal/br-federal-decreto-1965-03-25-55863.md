@@ -1,5 +1,3 @@
-###DEC-055863-0-000-25-03-1965@@@
-
 DECRETO Nº 55.863, DE 25 DE MARÇO DE 1965.
 
 Prorroga prazo de cessão de imóvel da União.

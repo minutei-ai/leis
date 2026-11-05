@@ -1,5 +1,3 @@
-###DEC-068987-0-000-28-07-1971@@@
-
 DECRETO Nº 68.987, DE 28 DE JULHO DE 1971.
 
 Declara de utilidade pública o Instituto Nossa Senhora de Lourdes, com sede no Estado da Guanabara.

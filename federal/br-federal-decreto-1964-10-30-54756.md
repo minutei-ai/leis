@@ -1,5 +1,3 @@
-###DEC-054756-0-000-30-10-1964@@@
-
 DECRETO Nº 54.756, DE 30 DE OUTUBRO DE 1964.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para distribuir energia elétrica no Município de Quirinópolis, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-076007-0-000-23-07-1975@@@
-
 DECRETO Nº 76.007 - DE 23 DE JULHO DE 1975.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG, concessão para o aproveitamento da energia hidráulica de um trecho do rio Doce, no Estado de Minas Gerais.

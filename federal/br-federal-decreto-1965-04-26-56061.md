@@ -1,5 +1,3 @@
-###DEC-056061-0-000-26-04-1965@@@
-
 DECRETO Nº 56.061, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Manganoferrea Mineração Ltda. a lavrar minério de ferro, no município de Nova Lima, Estado de Minas Gerais.

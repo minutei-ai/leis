@@ -1,5 +1,3 @@
-###DEL-000160-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 160, DE 10 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, ao Ministério da Indústria e do Comércio, o crédito especial de Cr$107.000.000 (cento e sete milhões de cruzeiros), para cobrir despesas com indenizações decorrentes de sentenças judiciais.

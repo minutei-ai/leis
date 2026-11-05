@@ -1,5 +1,3 @@
-###DEL-008006-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.006 – DE 27 DE SETEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a “União dos Cegos do Brasil” do pagamento do impôsto que menciona

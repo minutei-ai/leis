@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209266)<br>
-
 # DECRETO N° 68.422, DE 02 DE ABRIL DE 2024
 
 ### _Regulamenta o artigo 31 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre os procedimentos operacionais da licitação na modalidade leilão, na forma eletrônica, para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 
 Decreta:    
 
-#### CAPÍTULO I <br>
+#### CAPÍTULO I 
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto regulamenta o artigo 31 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre os procedimentos operacionais da licitação na modalidade leilão, na forma eletrônica, para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.  
@@ -45,7 +44,8 @@ I - leilões sujeitos a disciplina especial;  
 
 II - alienação de microcomputadores de mesa, monitores de vídeo, impressoras e demais equipamentos de informática, eletroeletrônicos, peças-parte ou componentes, nos termos da Lei federal n° 14.479, de 21 de dezembro de 2022.    
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Cometimento do Leilão
 
 **Artigo 3° -** O leilão poderá ser cometido a servidor designado pela autoridade competente ou a leiloeiro oficial.  
@@ -80,10 +80,12 @@ Do Cometimento do Leilão
 
 **Artigo 5° -** O servidor designado para atuar como leiloeiro poderá ser auxiliado, na fase externa, por equipe de apoio composta por agentes designados pela autoridade competente ou por terceiros contratados.    
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Procedimento
 
-#### Seção I<br>
+#### Seção I
+
 Das Fases
 
 **Artigo 6° -** A realização do leilão, na forma eletrônica, observará as seguintes fases sucessivas:  
@@ -104,7 +106,8 @@ VII - de homologação.  
 
 **Parágrafo único -** O leilão não exigirá registro cadastral prévio ou habilitação dos licitantes.    
 
-#### Seção II<br>
+#### Seção II
+
 Da Fase Preparatória
 
 **Artigo 7° -** A fase preparatória da licitação na modalidade leilão compreenderá, no mínimo:  
@@ -139,7 +142,8 @@ VI - a elaboração da minuta de edital de licitação com seus anexos, admitida
 
 **§ 4° -** Ao final da fase preparatória, o processo seguirá para o órgão de assessoramento jurídico da Administração, para fins do controle prévio de legalidade de que trata o artigo 53 da Lei federal n° 14.133, de 1° de abril de 2021.    
 
-#### Seção III<br>
+#### Seção III
+
 Da Divulgação do Edital
 
 **Artigo 8° -** O edital, divulgado pelo órgão ou entidade, como agente promotor do leilão, ou pelo leiloeiro oficial contratado, conterá as seguintes informações sobre a realização do leilão, no mínimo:  
@@ -174,12 +178,14 @@ IX - a data e horário de sua realização, respeitado o horário comercial.  
 
 **Parágrafo único -** Além da divulgação de que trata o "caput" deste artigo, o inteiro teor do edital deverá ser publicado no sítio eletrônico oficial do órgão ou entidade e afixado, em sua sede, em local de ampla circulação de pessoas, sem prejuízo de outros meios de divulgação que a Administração considere necessários para ampliar a publicidade e a competitividade da licitação.    
 
-#### Seção IV<br>
+#### Seção IV
+
 Da Impugnação e do Pedido de Esclarecimento
 
 **Artigo 10 -** Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação da lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido em até 3 (três) dias úteis antes da data de abertura do certame, nos termos do artigo 164 da Lei federal n° 14.133, de 1° de abril de 2021.    
 
-#### Seção V<br>
+#### Seção V
+
 Do Cadastramento dos Licitantes
 
 **Artigo 11 -** O licitante interessado em participar do leilão na forma eletrônica deverá se cadastrar previamente no sistema de que trata o § 1° do artigo 1° deste decreto, dentro do prazo previsto no edital.  
@@ -190,7 +196,8 @@ Do Cadastramento dos Licitantes
 
 2\. não constitui registro cadastral prévio.    
 
-#### Seção VI<br>
+#### Seção VI
+
 Da Apresentação da Proposta Inicial Fechada
 
 **Artigo 12 -** O licitante interessado em participar do leilão na forma eletrônica encaminhará, exclusivamente via sistema de que trata o § 1° do artigo 1° deste decreto, sua proposta inicial até a data e o horário estabelecidos para abertura da sessão pública.  
@@ -209,7 +216,8 @@ Da Apresentação da Proposta Inicial Fechada
 
 **§ 2° -** O valor máximo parametrizado na forma do "caput" deste artigo possuirá caráter sigiloso para os demais licitantes e para o órgão ou entidade contratante e poderá ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.    
 
-#### Seção VII<br>
+#### Seção VII
+
 Da Abertura da Sessão Pública e do Envio de Lances   
 
 **Artigo 14 -** Na data e horário estabelecidos no edital, o procedimento será automaticamente aberto pelo sistema de que trata o § 1° do artigo 1° deste decreto, para envio de lances públicos e sucessivos, por período não inferior a 3 (três) horas e de, no máximo, 6 (seis) horas.  
@@ -222,7 +230,8 @@ Da Abertura da Sessão Pública e do Envio de Lances   
 
 **Artigo 17 -** O licitante será imediatamente informado, pelo sistema de que trata o § 1° do artigo 1° deste decreto, do recebimento de seu lance.    
 
-#### Seção VIII<br>
+#### Seção VIII
+
 Do Julgamento
 
 **Artigo 18 -** Encerrada a etapa de envio de lances, o leiloeiro oficial ou o servidor designado verificará a conformidade da proposta e considerará vencedor o licitante que tiver ofertado o maior lance, observado o preço mínimo de alienação.    
@@ -249,7 +258,8 @@ II - fixar prazo para que os interessados possam adequar as suas propostas.  
 
 **Parágrafo único -** A republicação também poderá ocorrer quando o procedimento restar deserto.    
 
-#### Seção IX<br>
+#### Seção IX
+
 Da Fase Recursal
 
 **Artigo 23 -** Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a 10 (dez) minutos, de forma imediata e após o término do julgamento das propostas, em campo próprio do sistema de que trata o § 1° do artigo 1° deste decreto, manifestar sua intenção de recorrer, sob pena de preclusão. 
@@ -262,17 +272,20 @@ Da Fase Recursal
 
 **§ 4° -** O acolhimento do recurso importará na invalidação dos atos que não puderem ser aproveitados.    
 
-#### Seção X<br>
+#### Seção X
+
 Da Homologação
 
 **Artigo 24 -** Exaurida a fase recursal e efetivado o pagamento nos termos do artigo 28 deste decreto, o processo será encaminhado à autoridade superior para adjudicação do objeto e homologação do procedimento, observado o disposto no artigo 71 da Lei federal n° 14.133, de 1° de abril de 2021.    
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Sanções Administrativas
 
 **Artigo 25 -** O arrematante, em caso de infração ao disposto neste decreto, estará sujeito às sanções administrativas previstas na Lei federal n° 14.133, de 1° de abril de 2021, e às demais cominações legais, além da perda de caução, se houver, em favor da Administração, sem prejuízo da reversão do bem a novo leilão.    
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Revogação e da Anulação
 
 **Artigo 26 -** A autoridade superior poderá revogar o procedimento licitatório de que trata este decreto, por motivo de conveniência e oportunidade, e deverá anulá-lo em caso de ilegalidade insanável, de ofício ou por provocação de terceiros, assegurada a prévia manifestação dos interessados.  
@@ -281,7 +294,8 @@ Da Revogação e da Anulação
 
 **§ 2° -** A autoridade a que se refere o "caput" deste artigo, ao pronunciar a nulidade, indicará expressamente os atos com vícios insanáveis, tornando sem efeito todos os subsequentes que deles dependam, sem prejuízo da apuração de responsabilidade daqueles que lhe tenham dado causa.    
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Do Pagamento, do Contrato e da Tradição do Bem
 
 **Artigo 27 -** Após a homologação pela autoridade superior, serão realizadas as providências necessárias para a assinatura do contrato e tradição do bem ao arrematante.  
@@ -316,7 +330,8 @@ b) o valor do lance final apresentado pelo próprio licitante remanescente na li
 
 **§ 4° -** O disposto neste decreto não obsta que, excepcionalmente e observada a legislação aplicável, seja celebrado negócio jurídico que admita formas alternativas à retribuição em espécie para pagamento parcial ou integral do preço, mediante justificativa que considere as características do imóvel, além de variáveis técnicas e econômicas, desde que haja compatibilidade com a disciplina do edital e correspondente instrumento jurídico de formalização do negócio jurídico.    
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Disposições Finais
 
 **Artigo 29 -** Os horários estabelecidos na divulgação do procedimento e durante o envio de lances e da documentação observarão o horário de Brasília, inclusive para contagem de tempo e de registro no sistema de que trata o § 1° do artigo 1° deste decreto.    

@@ -1,5 +1,3 @@
-###DEC-055142-0-000-04-12-1964@@@
-
 DECRETO Nº 55.142, DE 4 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Murilo Campista a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

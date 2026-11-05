@@ -1,5 +1,3 @@
-###DEC-079729-0-000-26-05-1977@@@
-
 decreto nº 79.729, de 26 de maio de 1977.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, de Pedagogia e de Ciência, da Faculdade Olindense de Formação de Professores, com sede na cidade de Olinda, Estado de Pernambuco.

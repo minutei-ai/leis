@@ -1,5 +1,3 @@
-###DEC-069220-0-000-17-09-1971@@@
-
 DECRETO Nº 69.220, DE 17 DE SETEMBRO DE 1971.
 
 Revoga o Decreto nº 36.154, de 10 de setembro e 1954, outorga concessão à Centrais Elétricas de Minas Gerais S.A. e dá outras providências.

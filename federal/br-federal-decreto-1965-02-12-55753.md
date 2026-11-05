@@ -1,5 +1,3 @@
-###DEC-055753-0-000-12-02-1965@@@
-
 decreto nº 55.753, de 12 de fevereiro de 1965.
 
 Modifica a denominação de estabelecimento de ensino.

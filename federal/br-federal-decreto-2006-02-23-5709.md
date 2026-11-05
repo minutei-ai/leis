@@ -1,5 +1,3 @@
-###DEC-005709-0-000-23-02-2006@@@
-
 DECRETO Nº 5.709, DE 23 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução do Sexagésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 23 de dezembro de 2005.

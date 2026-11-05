@@ -1,5 +1,3 @@
-###DEC-000196-0-000-21-08-1991@@@
-
 DECRETO Nº 196, DE 21 DE AGOSTO DE 1991
 
 Dispõe sobre licitações de serviços de publicidade, no âmbito da Administração Pública Federal.

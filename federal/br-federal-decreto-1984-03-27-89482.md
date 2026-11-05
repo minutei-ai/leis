@@ -1,5 +1,3 @@
-###DEC-089482-0-000-27-03-1984@@@
-
 Decreto nº 89.482, de 27 de março de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de ramal de linha de transmissão da Centrais Elétricas de Minas Gerais S.A.-CEMIG, no Estado de Minas Gerais.

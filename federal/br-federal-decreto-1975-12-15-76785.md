@@ -1,5 +1,3 @@
-###DEC-076785-0-000-15-12-1975@@@
-
 DECRETO Nº 76.785, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Universidade Federal de Sergipe, com sede na Cidade de Aracaju, Estado de Sergipe.

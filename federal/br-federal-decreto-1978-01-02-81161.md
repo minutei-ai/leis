@@ -1,5 +1,3 @@
-###DEC-081161-0-000-02-01-1978@@@
-
 Decreto nº 81 161, de 02 de janeiro de 1978.
 
 Concede à Mineração Caolinita Limitada o direito de lavrar vermiculita no Município de Ubá, Estado de Minas Gerais.

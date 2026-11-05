@@ -1,5 +1,3 @@
-###DEC-068206-0-000-11-02-1971@@@
-
 DECRETO Nº 68.206, DE 11 DE FEVEREIRO DE 1971.
 
 Exclui cargo, com respectivo ocupante, da redistribuição processada pelo Decreto nº 67.369, de 12 de outubro de 1970, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051778-0-000-04-03-1963@@@
-
 DECRETO Nº 51.778, DE 4 DE MARÇO DE 1963.
 
 Transfere da Prefeitura Municipal de Estrêla para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a concessão para a produção e o fornecimento de energia elétrica à cidade de Roca Sales, município de igual nome Estado do Rio Grande do Sul.

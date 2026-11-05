@@ -1,5 +1,3 @@
-###DEC-066228-0-000-18-02-1970@@@
-
 DECRETO Nº 66.228 - DE 18 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Pioneiros, no município de São Joaquim da Barra até Barretos, no Estado de São Paulo.

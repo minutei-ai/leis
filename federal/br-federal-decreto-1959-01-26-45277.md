@@ -1,5 +1,3 @@
-###DEC-045277-0-000-26-01-1959@@@
-
 decreto nº 45.277, de 26 de janeiro de 1959.
 
 Autoriza a União a aceitar doação de imóvel.

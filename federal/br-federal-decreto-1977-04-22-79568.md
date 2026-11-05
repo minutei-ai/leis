@@ -1,5 +1,3 @@
-###DEC-079568-0-000-22-04-1977@@@
-
 DECRETO Nº 79.568, DE 22 DE ABRIL DE 1977
 
 Dispõe sobre o Grupo Diplomacia.

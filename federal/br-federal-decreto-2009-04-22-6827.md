@@ -1,5 +1,3 @@
-###DEC-006827-0-000-22-04-2009@@@
-
 DECRETO Nº 6.827, DE 22 DE ABRIL DE 2009.
 
 Dispõe sobre a composição do Conselho Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT e do Conselho Curador do Fundo de Garantia do Tempo de Serviço - CCFGTS, e dá outras providências.

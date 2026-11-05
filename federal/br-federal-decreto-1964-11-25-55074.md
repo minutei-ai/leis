@@ -1,5 +1,3 @@
-###DEC-055074-0-000-25-11-1964@@@
-
 DECRETO Nº 55.074, DE 25 DE NOVEMBRO DE 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$ 100.000.000.000,00 (cem bilhões de cruzeiros) para os fins que específica.

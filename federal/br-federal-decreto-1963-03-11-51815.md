@@ -1,5 +1,3 @@
-###DEC-051815-0-000-11-03-1963@@@
-
 DECRETO Nº 51.815, DE 11 DE MARÇO DE 1963.
 
 Introduz modificações no Regulamento da Inspetoria Geral da Aeronáutica.

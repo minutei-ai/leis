@@ -1,5 +1,3 @@
-###DEC-070454-0-000-26-04-1972@@@
-
 DECRETO Nº 70.454, DE 26 DE ABRIL DE 1972.
 
 Muda o nome de estabelecimento de ensino superior.

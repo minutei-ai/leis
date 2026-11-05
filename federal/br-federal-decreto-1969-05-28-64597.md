@@ -1,5 +1,3 @@
-###DEC-064597-0-000-28-05-1969@@@
-
 DEcRETO Nº 64.597, DE 28 DE MAIO DE 1969.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Itararé, com sede em Itararé, Estado de São Paulo.

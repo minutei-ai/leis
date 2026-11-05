@@ -1,7 +1,3 @@
-1
-
-###DEC-095711-0-000-10-02-1988@@@
-
 DECRETO Nº 95.711, DE 10 DE FEVEREIRO DE 1988
 
 Retifica o artigo 22 da Convenção de Viena sobre Relações Consulares, promulgada pelo Decreto nº 61.078, de 26 de julho de 1967.

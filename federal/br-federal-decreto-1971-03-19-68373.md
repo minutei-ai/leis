@@ -1,5 +1,3 @@
-###DEC-068373-0-000-19-03-1971@@@
-
 DECRETO Nº 68.373, DE 19 DE MARÇO DE 1971.
 
 Concede reconhecimento ao Curso de Engenharia Civil (modalidade Transportes) da Escola de Engenharia Kennedy mantida pela Fundação Educacional Minas Gerais.

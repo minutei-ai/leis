@@ -1,5 +1,3 @@
-###MPV-001784-0-002-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.784-2, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

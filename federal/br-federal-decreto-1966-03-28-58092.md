@@ -1,5 +1,3 @@
-###DEC-058092-0-000-28-03-1966@@@
-
 DECRETO Nº 58.092, DE 28 DE MARÇO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

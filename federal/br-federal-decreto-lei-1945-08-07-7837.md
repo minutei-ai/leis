@@ -1,5 +1,3 @@
-###DEL-007837-0-000-07-08-1945@@@
-
 DECRETO-LEI N. 7.837 – DE 7 DE AGÔSTO DE 1945
 
 Eleva a Mesa de Rendas Alfandegada de Jaguarão, no Estado do Rio Grande do Sul, à categoria de Alfândega, e dá outras providências

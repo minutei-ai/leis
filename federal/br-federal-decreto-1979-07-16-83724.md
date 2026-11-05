@@ -1,5 +1,3 @@
-###DEC-083724-0-000-16-07-1979@@@
-
 Decreto nº 83.724, de 16 de julho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Goiás, Estado de Goiás.

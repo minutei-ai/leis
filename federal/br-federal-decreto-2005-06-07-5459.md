@@ -1,5 +1,3 @@
-###DEC-005459-0-000-07-06-2005@@@
-
 DECRETO Nº 5.459, DE 7 DE JUNHO DE 2005
 
 Regulamenta o art. 30 da Medida Provisória nº 2.186-16, de 23 de agosto de 2001, disciplinando as sanções aplicáveis às condutas e atividades lesivas ao patrimônio genético ou ao conhecimento tradicional associado e dá outras providências.

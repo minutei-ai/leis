@@ -1,5 +1,3 @@
-###DEC-089721-0-000-30-05-1984@@@
-
 Decreto nº 89.721, de 30 de maio de 1984
 
 Dá nova redação ao artigo 14 do Decreto nº 89.250, de 27 de dezembro de 1983.

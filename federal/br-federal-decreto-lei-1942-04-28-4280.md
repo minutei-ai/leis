@@ -1,5 +1,3 @@
-###DEL-004280-0-000-28-04-1942@@@
-
 DECRETO-LEI N. 4.280 – DE 28 DE ABRIL DE 1942
 
 Considera aspirante um cadete de Aeronáutica

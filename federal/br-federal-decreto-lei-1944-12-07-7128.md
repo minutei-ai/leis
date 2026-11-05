@@ -1,5 +1,3 @@
-###DEL-007128-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.128 – DE 7 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a execução das leis de proteção ao trabalho no Estado de São Paulo, e dá outras providências
@@ -52,7 +50,211 @@ A. de Souza Costa.
 
 Cargos em comissão, respeitados os direitos dos titulares efetivos quanto a vencimentos
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretores ....................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>N</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção, sendo 4 da Diretoria da Fiscalização do Trabalho e 2 da Delegacia da Organização do trabalho............................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>K</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Delegacia Regional do Trabalho em Santos..............................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>M</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Divisão Regional do Trabalho...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>K</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção da Diretoria Administrativa............................................................................</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>J</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cargos de provimento efetivo</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procuradores do Trabalho .........................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>M</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procuradores do Trabalho..........................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>L</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procuradores Adjuntos ..............................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>J</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sub-Chefe do Arquivo Dactiloscópico........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>J</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comissários................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>J</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Perito em Dactiloscopia Clínica ................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Almoxarife .................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pagador ....................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>H</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inspetores .................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>H</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>39 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inspetores Auxiliares ................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>G</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tradutor ....................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>E</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Arquivistas de fichas dactiloscópicas .......................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>G</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliares de Arquivista ............................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>E</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliares de Fiscalização ........................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>E</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º Escriturários .........................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>H</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º Escriturários .........................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>G</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º Escriturários .........................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>E</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4º Escriturários .........................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>75 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5º Escriturários .........................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>C</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dactiloscopistas .......................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>F</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fotógrafos</span><span style="-aw-import:spaces">&nbsp; </span><span>...............................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>F</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliares de Dactiloscopista ...................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliares de Fotógrafo ............................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Zelador ....................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>E</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mensageiros ............................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Telefonista ...............................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Motorista .................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>D</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Contínuos ................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>C</span></p></td></tr><tr><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>42 –</span></p></td><td style="width:411.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Serventes ................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>B</span></p></td></tr></tbody></table>
+6 –
+
+Diretores ....................................................................................................................................
+
+N
+
+6 –
+
+Chefes de Seção, sendo 4 da Diretoria da Fiscalização do Trabalho e 2 da Delegacia da Organização do trabalho............................................................................................................
+
+K
+
+1 –
+
+Chefe da Delegacia Regional do Trabalho em Santos..............................................................
+
+M
+
+9 –
+
+Chefes de Divisão Regional do Trabalho...................................................................................
+
+K
+
+5 –
+
+Chefes de Seção da Diretoria Administrativa............................................................................
+
+J
+
+Cargos de provimento efetivo
+
+5 –
+
+Procuradores do Trabalho .........................................................................................................
+
+M
+
+20 –
+
+Procuradores do Trabalho..........................................................................................................
+
+L
+
+24 –
+
+Procuradores Adjuntos ..............................................................................................................
+
+J
+
+1 –
+
+Sub-Chefe do Arquivo Dactiloscópico........................................................................................
+
+J
+
+10 –
+
+Comissários................................................................................................................................
+
+J
+
+1 –
+
+Perito em Dactiloscopia Clínica ................................................................................................
+
+I
+
+1 –
+
+Almoxarife .................................................................................................................................
+
+I
+
+1 –
+
+Pagador ....................................................................................................................................
+
+H
+
+40 –
+
+Inspetores .................................................................................................................................
+
+H
+
+39 –
+
+Inspetores Auxiliares ................................................................................................................
+
+G
+
+1 –
+
+Tradutor ....................................................................................................................................
+
+E
+
+3 –
+
+Arquivistas de fichas dactiloscópicas .......................................................................................
+
+G
+
+3 –
+
+Auxiliares de Arquivista ............................................................................................................
+
+E
+
+30 –
+
+Auxiliares de Fiscalização ........................................................................................................
+
+E
+
+15 –
+
+1º Escriturários .........................................................................................................................
+
+H
+
+25 –
+
+2º Escriturários .........................................................................................................................
+
+G
+
+35 –
+
+3º Escriturários .........................................................................................................................
+
+E
+
+40 –
+
+4º Escriturários .........................................................................................................................
+
+D
+
+75 –
+
+5º Escriturários .........................................................................................................................
+
+C
+
+5 –
+
+Dactiloscopistas .......................................................................................................................
+
+F
+
+14 –
+
+Fotógrafos  ...............................................................................................................................
+
+F
+
+20 –
+
+Auxiliares de Dactiloscopista ...................................................................................................
+
+D
+
+22 –
+
+Auxiliares de Fotógrafo ............................................................................................................
+
+D
+
+1 –
+
+Zelador ....................................................................................................................................
+
+E
+
+2 –
+
+Mensageiros ............................................................................................................................
+
+D
+
+1 –
+
+Telefonista ...............................................................................................................................
+
+D
+
+1 –
+
+Motorista .................................................................................................................................
+
+D
+
+20 –
+
+Contínuos ................................................................................................................................
+
+C
+
+42 –
+
+Serventes ................................................................................................................................
+
+B
 
 Funções gratificadas
 

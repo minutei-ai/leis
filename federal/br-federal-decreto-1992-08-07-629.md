@@ -1,7 +1,3 @@
-1
-
-###DEC-000629-0-000-07-08-1992@@@
-
 DECRETO N° 629, DE 7 DE AGOSTO DE 1992
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica entre Brasil e Argentina (ACE-14).

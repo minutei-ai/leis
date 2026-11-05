@@ -1,5 +1,3 @@
-###DEC-066520-0-000-30-04-1970@@@
-
 DECRETO Nº 66.520, DE 30 DE ABRIL DE 1970.
 
 Promulga a Convenção relativa às infrações e a certos outros atos cometidos a bordo de aeronaves.

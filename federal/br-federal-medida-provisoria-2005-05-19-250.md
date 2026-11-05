@@ -1,5 +1,3 @@
-###MPV-000250-0-000-19-05-2005@@@
-
 MEDIDA PROVISÓRIA Nº 250, DE 19 DE MAIO DE 2005
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 30.000.000,00, para o fim que especifica.

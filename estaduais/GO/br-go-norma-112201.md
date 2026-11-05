@@ -130,8 +130,10 @@ Goiânia, 14 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-BRUNO PEIXOTO<br>
+BRUNO PEIXOTO
+
 Deputado Estadual

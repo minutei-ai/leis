@@ -1,5 +1,3 @@
-###DEC-090190-0-000-12-09-1984@@@
-
 DECRETO nº 90.190, DE 12 DE SETEMBRO DE 1984
 
 Outorga à Companhia Bom Sucesso de Eletricidade concessão para o aproveitamento da energia hidráulica obtida pelo desvio das águas do rio Timbó para o seu afluente Tamanduá, na divisa dos Municípios de Irineópolis e Porto União, Estado de Santa Catarina, para uso exclusivo.

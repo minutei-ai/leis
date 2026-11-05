@@ -1,7 +1,3 @@
-1
-
-###MPV-001333-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.333, DE 12 DE MARÇO DE 1996.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.

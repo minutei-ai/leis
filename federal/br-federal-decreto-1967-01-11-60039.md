@@ -1,5 +1,3 @@
-###DEC-060039-0-000-11-01-1967@@@
-
 DECRETO Nº 60.039, DE 11 DE JANEIRO DE 1967.
 
 Concede à Normisa, Nordeste Mineração e Indústria S.A. autorização para funcionar como emprêsa de mineração.

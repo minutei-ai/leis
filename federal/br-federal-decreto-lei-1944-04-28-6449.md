@@ -1,5 +1,3 @@
-###DEL-006449-0-000-28-04-1944@@@
-
 DECRETO-LEI N. 6.449 – DE 28 DE ABRIL DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 15.800,00, para atender ao pagamento do salário devido a Antônio dos Santos Oliveira Júnior, relativo ao período de 1-1-43 a 31-12-43.

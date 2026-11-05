@@ -1,5 +1,3 @@
-###DEL-006238-0-000-03-02-1944@@@
-
 DECRETO-LEI N. 6.238 – DE 3 DE FEVEREIRO DE 1944
 
 Dispõe sôbre o registro dos estrangeiros admitidos em caráter temporário, e dá outras providências

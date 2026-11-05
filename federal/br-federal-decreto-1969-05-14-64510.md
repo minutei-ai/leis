@@ -1,5 +1,3 @@
-###DEC-064510-0-000-14-05-1969@@@
-
 DECRETO Nº 64.510, DE 14 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação Itabaiana, município de Itabaiana, no Estado da Paraíba, até a seccionadora de S. Vicente Ferrer, no município de S. Vicente Ferrer, no Estado de Pernambuco.

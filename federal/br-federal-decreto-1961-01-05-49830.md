@@ -1,5 +1,3 @@
-###DEC-049830-0-000-05-01-1961@@@
-
 Decreto nº 49.830, de 5 de janeiro de 1961.
 
 Renova o Decreto nº 44.156, de 25 de julho de 1958.

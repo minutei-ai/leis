@@ -1,5 +1,3 @@
-###DEC-048910-0-000-29-08-1960@@@
-
 DECRETO Nº 48.910, DE 29 DE AGÔSTO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

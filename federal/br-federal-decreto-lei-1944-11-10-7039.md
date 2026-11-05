@@ -1,5 +1,3 @@
-###DEL-007039-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.039 – DE 10 DE NOVEMBRO DE 1944
 
 Regula a movimentação dos Quadros e dá outras providências

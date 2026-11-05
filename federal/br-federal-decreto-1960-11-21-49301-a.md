@@ -1,5 +1,3 @@
-###DEC-049301-A-000-21-11-1960@@@
-
 DECRETO N. 49.301 – A – DE 21 DE NOVEMBRO DE 1960
 
 Altera o Decreto nº 49.157, de 31 de outubro de 1960, que criou cargos e funções gratificadas no instituto de Aposentadoria e Pensões dos Bancários.

@@ -1,5 +1,3 @@
-###DEC-086437-0-000-06-10-1981@@@
-
 DECRETO Nº 86.437, DE 6 DE OUTUBRO DE 1981.
 
 Declara luto oficial pelo falecimento do Presidente da República Árabe do Egito.

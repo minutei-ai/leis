@@ -1,5 +1,3 @@
-###DEC-093902-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.902, DE 09 DE JANEIRO DE 1987
 
 Dispõe sobre a locação pela Administração Federal, em caráter excepcional e nos casos que especifica, de imóveis residenciais no Distrito Federal, e dá outras providências.

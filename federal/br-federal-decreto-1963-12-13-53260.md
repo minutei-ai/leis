@@ -1,5 +1,3 @@
-###DEC-053260-0-000-13-12-1963@@@
-
 Decreto Nº 53.260, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Manoel Bicudo Ferraz a pesquisar argila no município de Araçoiaba da Serra, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-091874-0-000-04-11-1985@@@
-
 Decreto nº 91.874, de 04 de novembro de 1985
 
 Transfere a convocação da Vlll Conferência Nacional de Saúde.

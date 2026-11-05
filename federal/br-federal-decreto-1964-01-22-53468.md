@@ -1,5 +1,3 @@
-###DEC-053468-0-000-22-01-1964@@@
-
 Decreto nº 53.468, de 22 de janeiro de 1964.
 
 Dispensa, até 31 de dezembro de 1964, exigências constantes do Regulamento de Promoções para Oficiais da Marinha.

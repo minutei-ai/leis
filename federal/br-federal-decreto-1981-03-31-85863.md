@@ -1,5 +1,3 @@
-###DEC-085863-0-000-31-03-1981@@@
-
 Decreto nº 85.863, de 31 de março de 1981.
 
 Renova por 10 (dez) anos a concessão outorgada à EMISSORA DE TELEVISÃO CONTINENTAL S.A. - TV CONTINENTAL, transferida à SOCIEDADE RÁDIO EMISSORA CONTINENTAL LTDA. atualmente denominada EMPRESA DE COMUNICAÇÕES E RADIODIFUSÃO CONTINENTAL LTDA., e autoriza a transferência direta para a RÁDIO E TELEVISÃO UNIVERSITÁRIA METROPOLITANA LTDA., que passará a executar serviço de radiodifusão sonora em onda curta, na cidade do Rio de Janeiro, Estado do Rio de DA Janeiro.

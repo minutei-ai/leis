@@ -1,5 +1,3 @@
-###DEC-002061-0-000-05-11-1996@@@
-
 DECRETO Nº 2.061, DE 5 DE NOVEMBRO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidroelétricos.

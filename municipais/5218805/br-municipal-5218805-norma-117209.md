@@ -12,7 +12,8 @@ Art. 2º Será considerado micro cervejeiro artesanal, o empresário individual
 
 Parágrafo único. Esta Lei aplicar-se também às Cooperativas e Associações de Produtores locais voltados à produção artesanal de cerveja, desde que formalmente registradas.
 
-Art. 3º Será considerado brewpubs o estabelecimento que produz cerveja em pequena escala para venda direta e exclusiva ao consumidor final, destinada preferencialmente ao consumo no local de produção, desde que a produção e armazenagem não sejam superior a de 15.000 (quinze mil) litros mensais e não ultrapasse a 180.000 (cento e oitenta mil) litros anuais. <br>
+Art. 3º Será considerado brewpubs o estabelecimento que produz cerveja em pequena escala para venda direta e exclusiva ao consumidor final, destinada preferencialmente ao consumo no local de produção, desde que a produção e armazenagem não sejam superior a de 15.000 (quinze mil) litros mensais e não ultrapasse a 180.000 (cento e oitenta mil) litros anuais. 
+
 Parágrafo único. Ficam permitidos aos brewpubs a venda de alimentos e refeições no estabelecimento no qual ocorra a produção artesanal de cerveja desde que seja observada as demais legislações aplicáveis.
 
 Art. 4º Na atividade de produção artesanal de cerveja é vedado:

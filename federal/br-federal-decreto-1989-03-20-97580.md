@@ -1,5 +1,3 @@
-###DEC-097580-0-000-20-03-1989@@@
-
 DECRETO N.° 97.580, DE 20 DE MARÇO DE 1989
 
 Cria a Zona de Processamento de Exportação - ZPE de João Pessoa, no Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-055023-0-000-18-11-1964@@@
-
 DECRETO Nº 55.023, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza a Cia. Estrada de Ferro e Minas São Jerônymo a pesquisar carvão mineral, no município de São Jerônimo, Estado do Rio Grande do Sul.

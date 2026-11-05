@@ -1,5 +1,3 @@
-###DEC-061711-0-000-21-11-1967@@@
-
 DECRETO Nº 61.711, DE 21 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre a doação de material e equipamento, conforme o estabelecido na Lei 5.319, de 29 de setembro de 1967.

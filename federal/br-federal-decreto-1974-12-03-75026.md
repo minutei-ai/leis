@@ -1,5 +1,3 @@
-###DEC-075026-0-000-03-12-1974@@@
-
 Decreto nº 75.026, DE 3 de dezembro de 1974.
 
 Concede reconhecimento ao curso de Estudos Sociais da Universidade de Uberlândia, com sede na cidade de Uberlândia, Estado de Minas Gerais.

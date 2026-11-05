@@ -1,5 +1,3 @@
-###DEC-072045-0-000-30-03-1973@@@
-
 DECRETO Nº 72.045, DE 30 DE MARÇO DE 1973.
 
 Concede a Águas do Salvador Ltda. o direito de lavrar água mineral no Município de Campos Novos Paulista, Estado de São Paulo.
@@ -27,8 +25,6 @@ Brasília, 30 de março de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior.
-
-###DEC-072045-0-000-30-03-1973@@@
 
 DECRETO Nº 72.045, DE 30 DE MARÇO DE 1973.
 

@@ -1,5 +1,3 @@
-###DEC-045173-0-000-31-12-1958@@@
-
 decreto nº 45.173, de 31 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro José Esmeraldo de souza Lima a pesquisar minérios de ferro, de manganês e associados no município de Corumbá, Estado de Mato Grosso.

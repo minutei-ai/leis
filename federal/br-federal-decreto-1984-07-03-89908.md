@@ -1,5 +1,3 @@
-###DEC-089908-0-000-03-07-1984@@@
-
 DECRETO Nº 89.908, DE 03 DE julho de 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins reforma agrária, no Município de Palmas, no Estado do Paraná.

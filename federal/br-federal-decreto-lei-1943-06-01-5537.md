@@ -1,5 +1,3 @@
-###DEL-005537-0-000-01-06-1943@@@
-
 DECRETO‑LEI N. 5.537 – DE 1 DE JUNHO DE 1943
 
 Altera disposições do decreto‑lei n. 3.333, de 6 de junho de 1941, do decreto‑lei n. 4.296, de 13 de maio de 1942, e do decreto‑lei n. 4.646, de 2 de setembro de 1942

@@ -1,7 +1,3 @@
-1
-
-###DEC-098668-0-000-27-12-1989@@@
-
 DECRETO Nº 98.668, DE 27 DE DEZEMBRO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado FAZENDA BARGADO, situado nos Municípios de Monsenhor Tabosa e Tamboril, no Estado do Ceará, e dá outras providências.

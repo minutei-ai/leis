@@ -1,5 +1,3 @@
-###DEC-006561-0-000-11-09-2008@@@
-
 DECRETO Nº 6.561, DE 11 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução do Sexagésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica n~~º~~ 18, assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, de 9 de julho de 2008.         

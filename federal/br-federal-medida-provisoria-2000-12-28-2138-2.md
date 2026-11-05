@@ -1,5 +1,3 @@
-###MPV-002138-0-002-28-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.138-2, DE 28 DE DEZEMBRO 2000.
 
 Define normas de regulação para o setor de medicamentos, institui a Fórmula Paramétrica de Reajuste de Preços de Medicamentos - FRP, cria a Câmara de Medicamentos e dá outras providências.
@@ -206,7 +204,23 @@ a) i representa cada uma das apresentações dos medicamentos produzidos pela em
 
 b)Fpi representea o fator de ponderação da apresentação i e é calculado do seguinte modo:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FP</span><span style="font-size:0.67em; vertical-align:sub">i</span><span> =</span></p></td><td style="width:39.05pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>F</span><span style="font-size:0.67em; vertical-align:super">i</span></p></td></tr><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; line-height:22pt"><span style="font-family:Symbol; font-size:2.2em"></span><span style="font-size:0.67em; vertical-align:super">n</span><span>F </span><span style="font-size:0.67em; vertical-align:super">i=1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+FPi =
+
+</td><td style="width:39.05pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Fi
+
+</td></tr><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+nF i=1
+
+</td></tr></tbody></table>
 
 onde:
 

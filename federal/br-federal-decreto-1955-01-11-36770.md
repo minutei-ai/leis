@@ -1,14 +1,12 @@
-###DEC-036770-0-000-11-01-1955@@@
+**DECRETO Nº 36.770, DE 11 DE JANEIRO DE 1955.**
 
-<strong>DECRETO Nº 36.770, DE 11 DE JANEIRO DE 1955.</strong>
+***Declara de utilidade pública diversas áreas de terra marginais do rio Manhuaçu, Estado de Minas Gerais, que serão inundadas pelo estabelecimento de um reservatório de acumulação, e autoriza a Companhia Leste Mineira de Eletricidade a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra marginais do rio Manhuaçu, Estado de Minas Gerais, que serão inundadas pelo estabelecimento de um reservatório de acumulação, e autoriza a Companhia Leste Mineira de Eletricidade a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à construção de uma barragem, situada a montante da atual usina “Roça Grande”, no rio Manhuaçú, município do mesmo nome, Estado de Minas Gerais, autorizada pelo Decreto nº 32.607, de 23 de abril de 1953, e constantes da planta aprovada pelo Ministro da Agricultura.
+**Art**.1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à construção de uma barragem, situada a montante da atual usina “Roça Grande”, no rio Manhuaçú, município do mesmo nome, Estado de Minas Gerais, autorizada pelo Decreto nº 32.607, de 23 de abril de 1953, e constantes da planta aprovada pelo Ministro da Agricultura.
 
 1 - Área de vinte e nove mil seiscentos e quarenta e cinco (29.645,00) metros quadrados, de propriedade atribuída a Pedro Maciel Soares, situada na margem direita do rio Manhuaçú, junto da sua confluência com o ribeirão da Sinceridade.
 
@@ -20,14 +18,14 @@
 
 5 - Área de quarenta e quatro mil cento e sessenta e cinco (44.165,00) metros quadrados, de propriedade atribuída a Edson Calixto da Costa, situada na margem esquerda do rio Manhuaçú.
 
-<strong>Art</strong>. 2º Fica autorizada a Companhia Leste Mineira de Eletricidade a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Companhia Leste Mineira de Eletricidade a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de janeiro, 11 de janeiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Costa Pôrto

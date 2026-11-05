@@ -1,5 +1,3 @@
-###DEC-073546-0-000-23-01-1974@@@
-
 DECRETO Nº 73.546, DE 23 DE JANEIRO DE 1974.
 
 Concede a Roberto Brambilla de Maria, firma individual, o direito de lavrar granito ornamental (gabro), no Município de Ubatuba, Estado de São Paulo.

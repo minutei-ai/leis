@@ -1,10 +1,8 @@
-###DEC-025733-0-000-29-10-1948@@@
+**DECRETO Nº 25.733, DE 29 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.733, DE 29 DE OUTUBRO DE 1948.</strong>
+***Autoriza a instalação de agências econômicas postais***
 
-<em><strong>Autoriza a instalação de agências econômicas postais</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e
 
 CONSIDERANDO que a utilização dos serviços dos Correios, como meio de incentivar os hábitos de poupança e de levar os benefícios da economia popular a todos os recantos do país, constitui prática secular, já adotada em quase tôdas as nações civilizadas;
 
@@ -16,17 +14,17 @@ CONSIDERANDO que a perfeita exeqüibilidade, segurança e proveito dessa medida 
 
 CONSIDERANDO, finalmente, que a instalação e o funcionamento de agências econômicas postais em todo o território nacional constitui um dos meios recomendáveis para promover a volta à circulação das pequenas economias imobilizadas no interior do país, permitindo às Caixas Econômicas Federais invertê-las preferencialmente em benefício das coletividades onde hajam sido coletadas.
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1.º Ficam autorizados a instalação e o funcionamento das egências econômicas nas localidades onde não existem sucursais, filiais ou agências da Caixa Econômica Federal.
+**Art**. 1.º Ficam autorizados a instalação e o funcionamento das egências econômicas nas localidades onde não existem sucursais, filiais ou agências da Caixa Econômica Federal.
 
-<strong>Art</strong>. 2.º O Conselho Superior das Caixas Econômicas Federais e o Departamento dos Correios e Telégrafos expedirão as normas e instruções necessárias à execução do disposto no artigo anterior.
+**Art**. 2.º O Conselho Superior das Caixas Econômicas Federais e o Departamento dos Correios e Telégrafos expedirão as normas e instruções necessárias à execução do disposto no artigo anterior.
 
-<strong>Art</strong>. 3.º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3.º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de outubro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA.</strong>
+**EURICO G**. **DUTRA.**
 
 Clovis Pestana.
 

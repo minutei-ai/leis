@@ -1,5 +1,3 @@
-###DEC-089278-0-000-09-01-1984@@@
-
 DECRETO Nº 89.278, de 09 de janeiro de 1984.
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL.

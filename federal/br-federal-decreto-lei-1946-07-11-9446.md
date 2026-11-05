@@ -1,5 +1,3 @@
-###DEL-009446-0-000-11-07-1946@@@
-
 DECRETO-LEI N. 9.446 – DE 11 DE JULHO DE 1946
 
 Altera dispositivos da legislação do impôsto de renda

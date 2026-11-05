@@ -1,5 +1,3 @@
-###DEL-002253-0-000-04-03-1985@@@
-
 # DECRETO-LEI Nº 2.253, DE 04 DE MARÇO DE 1985
 
 Altera dispositivos da Lei nº 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social), relativos à filiação dos empregados das missões diplomáticas e repartições consulares estrangeiras e dos membros destas.

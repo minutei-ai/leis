@@ -1,5 +1,3 @@
-###DEC-077481-0-000-23-04-1976@@@
-
 DECRETO Nº 77.481 - de 23 DE abril de 1976
 
 Aprova o Estatuto da Fundação Osvaldo Cruz e dá outras providências.

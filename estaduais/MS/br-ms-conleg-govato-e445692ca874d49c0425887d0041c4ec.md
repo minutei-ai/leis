@@ -6,15 +6,16 @@ Fica denominado Rodovia Antônio Louza o trecho da Rodovia MS-489 que liga a sed
 
 Publicada no Diário Oficial nº 10.889, de 12 de julho de 2022, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado Rodovia Antônio Louza o trecho da Rodovia MS-489 que liga a sede do Município de Naviraí ao Porto Caiuá.<br>
-<br>
-Art. 2º Esta Lei entra vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado Rodovia Antônio Louza o trecho da Rodovia MS-489 que liga a sede do Município de Naviraí ao Porto Caiuá.
+
+Art. 2º Esta Lei entra vigor na data de sua publicação.
+
 Campo Grande, 11 de julho de 2022.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

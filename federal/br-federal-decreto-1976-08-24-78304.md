@@ -1,5 +1,3 @@
-###DEC-078304-0-000-24-08-1976@@@
-
 DECRETO Nº 78.304, DE 24 DE AGOSTO DE 1976.
 
 Altera o dispositivo do Decreto número 71.927-73 de 19 de março de 1973, que autorizou o funcionamento da Faculdade Francana de Filosofia, Ciências e Letras, mantida pela Instituição Educacional de Franca, com sede na cidade de Franca, Estado de São Paulo.

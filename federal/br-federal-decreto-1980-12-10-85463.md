@@ -1,5 +1,3 @@
-###DEC-085463-0-000-10-12-1980@@@
-
 Decreto nº 85.463, de 10 de dezembro de 1980.
 
 Cria no Estado da Bahia, no Município de UNA, a Reserva Biológica de UNA, com os limites que especifica e dá outras providências.

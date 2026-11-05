@@ -1,5 +1,3 @@
-###DEC-046182-0-000-09-06-1959@@@
-
 DECRETO Nº 46.182, DE 9 DE JUNHO DE 1959.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Florianópolis, no Estado de Santa Catarina.

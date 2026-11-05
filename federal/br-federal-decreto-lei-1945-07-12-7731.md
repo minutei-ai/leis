@@ -1,5 +1,3 @@
-###DEL-007731-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.731 – DE 12 DE JULHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta que menciona

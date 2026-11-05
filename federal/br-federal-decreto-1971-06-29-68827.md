@@ -1,5 +1,3 @@
-###DEC-068827-0-000-29-06-1971@@@
-
 DECRETO Nº 68.827 - DE 29 de JUNHO DE 1971.
 
 Aprova o Regulamento da Diretoria de Encargos Assistências no Ministério da aeronáutica e dá outras providências.

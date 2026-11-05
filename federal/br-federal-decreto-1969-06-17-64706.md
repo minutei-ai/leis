@@ -1,5 +1,3 @@
-###DEC-064706-0-000-17-06-1969@@@
-
 decreto nº 64.706, de 17 de junho de 1969.
 
 Declara de utilidade pública o Ginásio e Escola Normal Imaculada Conceição, com sede em Corumbá, Estado de Mato Grosso.

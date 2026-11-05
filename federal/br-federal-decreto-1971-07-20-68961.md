@@ -1,5 +1,3 @@
-###DEC-068961-0-000-20-07-1971@@@
-
 DECRETO Nº 68.961, DE 20 DE JULHO DE 1971.
 
 Regulamenta o transporte coletivo de passageiros de caráter interestadual e internacional por estradas de rodagem.

@@ -1,16 +1,14 @@
-###DEC-036478-0-000-18-11-1954@@@
+**DECRETO Nº 36.478, DE 18 DE NOVEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.478, DE 18 DE NOVEMBRO DE 1954.</strong>
+***Cria a Comissão de Investimento no Nordeste (C.I.N.).***
 
-<em><strong>Cria a Comissão de Investimento no Nordeste (C.I.N.).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica criada, no Ministério da Viação e Obras Públicas, a Comissão de Investimentos no Nordeste - (C.I.N.).
 
-<strong>Art</strong>. 1º Fica criada, no Ministério da Viação e Obras Públicas, a Comissão de Investimentos no Nordeste - (C.I.N.).
-
-<strong>Art</strong>. 2º A Comissão de que trata êste decreto em por finalidade:
+**Art**. 2º A Comissão de que trata êste decreto em por finalidade:
 
 1\) estudar a coordenação de investimentos em obras públicas no Nordeste, visando à melhor utilização dos recursos previstos para aplicação no polígono das sêcas;
 
@@ -34,7 +32,7 @@
 
 11\) acompanhar a execução dos programas do Ministério da Viação e Obras Públicas no Nordeste, visando mantê-los articulados com os programas do Departamento Nacional de Obras Contra as Sêcas.
 
-<strong>Art</strong>. 3º A Comissão de Investimentos no Nordeste será constituído de:
+**Art**. 3º A Comissão de Investimentos no Nordeste será constituído de:
 
 1\) Representante do Ministro da Viação e Obras Públicas, que será o seu Presidente;
 
@@ -64,14 +62,14 @@
 
 Parágrafo único. Os membros da Comissão de Investimento do Nordeste serão designados por decreto do Presidente da República.
 
-<strong>Art</strong>. 4º As despesas com a Comissão de Investimentos no Nordeste serão custeadas pelo Departamento Nacional de Obras Contra as Sêcas e os serviços da mesma serão auxiliados por servidores requisitados às repartições e por pessoal contratado.
+**Art**. 4º As despesas com a Comissão de Investimentos no Nordeste serão custeadas pelo Departamento Nacional de Obras Contra as Sêcas e os serviços da mesma serão auxiliados por servidores requisitados às repartições e por pessoal contratado.
 
-<strong>Art</strong>. 5º A Comissão de Investimentos no Nordeste apresentará ao Ministério da Viação e Obras Públicas, em 10 de julho e 10 de janeiro de cada ano, relatório de suas atividades.
+**Art**. 5º A Comissão de Investimentos no Nordeste apresentará ao Ministério da Viação e Obras Públicas, em 10 de julho e 10 de janeiro de cada ano, relatório de suas atividades.
 
-<strong>Art</strong>. 6º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 6º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de novembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Lucas Lopes

@@ -1,5 +1,3 @@
-###DEL-003608-0-000-11-09-1941@@@
-
 DECRETO-LEI N. 3.608 – DE 11 DE SETEMBRO DE 1941
 
 Dispensa a firma Filomeno Gomes & Comp., de Fortaleza, Estado do Ceará, de pagamento de juros de mora e dá outras providências

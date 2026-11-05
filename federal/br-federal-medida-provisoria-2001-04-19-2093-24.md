@@ -1,5 +1,3 @@
-###MPV-002093-0-024-19-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.093-24, DE 19 DE ABRIL DE 2001
 
 Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional e organização da Carreira Auditoria-Fiscal da Previdência Social e da Carreira Auditoria-Fiscal do Trabalho.

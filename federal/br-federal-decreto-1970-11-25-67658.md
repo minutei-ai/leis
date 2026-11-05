@@ -1,5 +1,3 @@
-###DEC-067658-0-000-25-11-1970@@@
-
 DECRETO Nº 67.658, DE 25 DE NOVEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 67.298, de 30 de setembro de 1970.

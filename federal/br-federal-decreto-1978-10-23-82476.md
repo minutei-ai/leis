@@ -1,5 +1,3 @@
-###DEC-082476-0-000-23-10-1978@@@
-
 decreto nº 82.476, de 23 de outubro de 1978
 
 Estabelece normas para o escoamento e a comercialização do álcool para fins carburantes.

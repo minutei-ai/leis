@@ -1,7 +1,3 @@
-1
-
-###DEC-099684-0-000-08-11-1990@@@
-
 DECRETO N° 99.684, DE 8 DE NOVEMBRO DE 1990
 
 Consolida as normas regulamentares do Fundo de Garantia do Tempo de Serviço FGTS.

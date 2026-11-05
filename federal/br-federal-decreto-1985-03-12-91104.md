@@ -1,5 +1,3 @@
-###DEC-091104-0-000-12-03-1985@@@
-
 Decreto nº 91.104, de 12 de MaRÇO de 1985
 
 Altera o Decreto nº 88.207, de 30 de março de 1983, que define prioridades a serem observadas na execução da Política de Reflorestamento, pelo Instituto Brasileiro de Desenvolvimento Florestal - IBDF.

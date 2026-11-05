@@ -1,5 +1,3 @@
-###DEC-004282-0-000-25-06-2002@@@
-
 DECRETO Nº 4.282, DE 25 DE JUNHO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre Cooperação na Área da Quarentena Vegetal, celebrado em Moscou, em 22 de junho de 2000.

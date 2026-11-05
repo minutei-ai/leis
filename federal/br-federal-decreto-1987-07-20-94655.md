@@ -1,5 +1,3 @@
-###DEC-094655-0-000-20-07-1987@@@
-
 DECRETO Nº 94.655, DE 20 DE JULHO DE 1987.
 
 Dispõe sobre o custeio de despesas decorrentes de trabalhos a cargo da Comissão instituída pelo Decreto nº 94.192, de 6-4-87.

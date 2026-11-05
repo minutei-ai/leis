@@ -1,5 +1,3 @@
-###DEL-006877-0-000-18-09-1944@@@
-
 DECRETO-LEI N. 6.877 – DE 18 DE SETEMBRO DE 1944
 
 Dispõe sôbre o afastamento de funcionário público para servir nas entidades que indica

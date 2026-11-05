@@ -1,5 +1,3 @@
-###DEC-070460-0-000-26-04-1972@@@
-
 DECRETO Nº 70.460, DE 26 DE ABRIL DE 1972.
 
 Outorga a Francisco Lindner S.A. - Indústria e Comércio concessão para o aproveitamento hidráulico de um trecho do rio Peixe, no distrito de Luzerna, município de Joaçaba, Estado de Santa Catarina.

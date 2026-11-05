@@ -1,5 +1,3 @@
-###DEC-047591-0-000-05-01-1960@@@
-
 DECRETO Nº 47.591, DE 5 DE JANEIRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica de Extranumerário-mensalista do Parque Central de Motomecanização para idêntica tabela do campo de Provas da Marimbada, ambas do Ministério da Guerra.

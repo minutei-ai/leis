@@ -1,5 +1,3 @@
-###DEC-071914-0-000-14-03-1973@@@
-
 DECRETO Nº 71.914, DE 14 DE MARÇO DE 1973.
 
 Autoriza a cessão gratuita de imóvel ao Governo do Estado de São Paulo.

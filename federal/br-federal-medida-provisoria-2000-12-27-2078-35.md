@@ -1,5 +1,3 @@
-###MPV-002078-0-035-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.078-35, DE 27 DE DEZEMBRO DE 2000.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

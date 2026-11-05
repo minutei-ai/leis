@@ -1,5 +1,3 @@
-###DEC-071960-0-000-20-03-1973@@@
-
 decreto nº 71.960, de 20 de março de 1973.
 
 Autoriza a encampação dos bens e instalações vinculados aos serviços públicos de energia elétrica em diversos municípios dos Estados do Espírito Santo e Rio de Janeiro, determina intervenção administrativa e dá outras providências.

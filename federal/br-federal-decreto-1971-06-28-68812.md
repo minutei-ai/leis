@@ -1,5 +1,3 @@
-###DEC-068812-0-000-28-06-1971@@@
-
 DECRETO Nº 68.812 - DE 28 DE JUNHO DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Indústria e do Comércio para o Instituto Nacional de Previdência Social, e dá outras providências.

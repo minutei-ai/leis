@@ -1,5 +1,3 @@
-###DEC-050903-0-000-03-07-1961@@@
-
 DECRETO Nº 50.903, DE 3 DE JULHO DE 1961.
 
 Dispões sôbre o peso máximo permissível dos veículos para o tráfego nas vias públicas.

@@ -1,5 +1,3 @@
-###DEC-079695-0-000-12-05-1977@@@
-
 DECRETO Nº 79.695, DE 12 DE MAIO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Ribeirão Preto, Estado de São Paulo.

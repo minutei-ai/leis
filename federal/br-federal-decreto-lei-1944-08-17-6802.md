@@ -1,5 +1,3 @@
-###DEL-006802-0-000-17-08-1944@@@
-
 DECRETO-LEI Nº 6.802 - DE 17 DE AGÔSTO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 3.115, de 13 de março de 1941

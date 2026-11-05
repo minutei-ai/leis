@@ -1,5 +1,3 @@
-###DEC-079275-0-000-15-02-1977@@@
-
 DECRETO Nº 79.275, DE 15 DE FEVEREIRO DE 1977.
 
 Autoriza o funcionamento das habilitações em Matemática e em Biologia do curso de Ciências, da Faculdade de Ciências Humanas e Exatas Tatuapé, com sede na Cidade de Tatuapé, Estado de São Paulo.

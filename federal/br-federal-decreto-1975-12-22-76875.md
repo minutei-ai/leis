@@ -1,5 +1,3 @@
-###DEC-076875-0-000-22-12-1975@@@
-
 DECRETO Nº 76.875, DE 22 DE DEZEMBRO DE 1975.
 
 Concede autoridade à empresa Indústrias de Papel Simão S.A., com sede na Cidade de São Paulo Capital, para funcionar aos domingos e nos dias feriados civis e religiosos, nos estabelecimentos fabris que menciona.

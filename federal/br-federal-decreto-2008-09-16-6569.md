@@ -1,5 +1,3 @@
-###DEC-006569-0-000-16-09-2008@@@
-
 DECRETO Nº 6.569, DE 16 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1799, de 15 de fevereiro de 2008, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.

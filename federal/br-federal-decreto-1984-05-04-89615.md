@@ -1,5 +1,3 @@
-###DEC-089615-0-000-04-05-1984@@@
-
 Decreto nº 89.615, de 04 de maio de 1984
 
 Autoriza o funcionamento de habilitações do curso de Administração da Instituição Educacional São Miguel Paulista, São Paulo.

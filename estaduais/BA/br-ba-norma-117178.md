@@ -28,7 +28,8 @@ começa no centro da Lagoa da Várzea, seguindo em reta, até o centro da Lagoa 
 
 Art. 2º - O Município de Guajeru compor-se-á de um único distrito, o da sede, que lhe dá o nome.
 
-Ver também:<br>
+Ver também:
+
 § 12 do art. 1º da Lei nº [12.564](https://www.legislabahia.ba.gov.br/documentos/lei-no-12564-de-10-de-janeiro-de-2012#LO%2012.564) de 10 de janeiro de 2012.
 
 Art. 3º - O Município ora criado será instalado com a posse do Prefeito, Vice-Prefeito e Vereadores eleitos.

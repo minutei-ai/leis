@@ -1,5 +1,3 @@
-###DEC-003282-0-000-10-12-1999@@@
-
 DECRETO Nº 3.282, DE 10 DE DEZEMBRO DE 1999.
 
 Promulga o Acordo sobre o Estabelecimento do Instituto Internacional de Vacinas, aberto para assinaturas em Nova York, em 28 de outubro de 1996.

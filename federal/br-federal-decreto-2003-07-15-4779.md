@@ -1,5 +1,3 @@
-###DEC-004779-0-000-15-07-2003@@@
-
 DECRETO Nº 4.779, DE 15 DE JULHO DE 2003.
 
        Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria de Comunicação de Governo e Gestão Estratégica da Presidência da República, e dá outras providências.
@@ -32,7 +30,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
 JOSÉ ALENCAR GOMES DA SILVA
 
-Guido Mantega<br>
+Guido Mantega
+
 Luiz Gushiken
 
 ANEXO I

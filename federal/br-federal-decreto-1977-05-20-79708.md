@@ -1,5 +1,3 @@
-###DEC-079708-0-000-20-05-1977@@@
-
 decreto nº 79.708, DE 20 DE MAIO DE 1977.
 
 Autoriza a transformação do curso de Matemática, da Faculdade de Educação, "São Luís", com sede na cidade de Jaboticabal, Estado de São Paulo.

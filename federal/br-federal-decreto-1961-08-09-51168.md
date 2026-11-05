@@ -1,5 +1,3 @@
-###DEC-051168-0-000-09-08-1961@@@
-
 Decreto Nº 51.168, DE 9 DE AGÔSTO DE 1961.
 
 Fixa honorários de professôres e assistentes dos Cursos do Departamento Nacional da Criança.

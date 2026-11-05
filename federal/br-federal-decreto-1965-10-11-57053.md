@@ -1,5 +1,3 @@
-###DEC-057053-0-000-11-10-1965@@@
-
 decreto nº 57.053, de 11 de outubro de 1965.
 
 Desativa a Fábrica do Galeão e o Esquadrão de Suprimento e Manutenção da Base Aérea do Galeão e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077265-0-000-08-03-1976@@@
-
 DECRETO Nº 77.265, DE 8 DE MARÇO DE 1976
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física, com sede na cidade do Rio Grande do Sul, Estado do Rio Grande do Sul.

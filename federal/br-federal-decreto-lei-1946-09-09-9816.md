@@ -1,5 +1,3 @@
-###DEL-009816-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.816 – DE 9 DE SETEMBRO DE 1946
 
 Vantagens extensivas ao pessoal da Marinha de Guerra.

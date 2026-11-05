@@ -1,5 +1,3 @@
-###DEC-090106-0-000-28-08-1984@@@
-
 Decreto nº 90.106, de 28 de agosto de 1984
 
 Altera o método de faturamento de energia elétrica fornecida a unidades consumidoras do Grupo A atingidas pelas inundações ocorridas nos Estados do Rio Grande do Sul, Santa Catarina e Paraná, e dá outras providências.

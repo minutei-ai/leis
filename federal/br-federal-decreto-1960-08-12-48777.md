@@ -1,5 +1,3 @@
-###DEC-048777-0-000-12-08-1960@@@
-
 DECRETO Nº 48.777, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a Sociedade São Paulo de Mineração Ltda. a lavrar minério de ferro no município de Joinvile, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-059665-0-000-05-12-1966@@@
-
 DECRETO Nº 59.665, DE 5 DE DEZEMBRO DE 1966.
 
 Altera o Regulamento do Instituto Rio Branco, do Ministério das Relações Exteriores, aprovado pelo Decreto nº 54.130, de 13 de agôsto de 1964, e modificado pelo Decreto nº 59.167, de 1º de setembro de 1966.

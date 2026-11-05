@@ -1,5 +1,3 @@
-###DEC-082408-0-000-11-10-1978@@@
-
 Decreto n º 82.408, de 11 de outubro de 1978
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio Grande do Sul.

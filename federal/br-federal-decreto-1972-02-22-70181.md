@@ -1,5 +1,3 @@
-###DEC-070181-0-000-22-02-1972@@@
-
 DECRETO Nº 70.181, DE 22 DE fevereiro DE 1972.
 
 Torna sem efeito aproveitamento de servidor e dá outras providências.

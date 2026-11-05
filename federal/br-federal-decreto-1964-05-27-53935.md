@@ -1,5 +1,3 @@
-###DEC-053935-0-000-27-05-1964@@@
-
 DECRETO Nº 53.935, DE 27 DE MAIO DE 1964.
 
 Torna insubsistente o Decreto número 52.806-A, de 5 de novembro de 1963.

@@ -1,5 +1,3 @@
-###DEC-079301-0-000-24-02-1977@@@
-
 Decreto nº 79.301, de 24 de fevereiro de 1977
 
 Concede a Pedreira Limeirense S.A. o direito de lavrar diabásio no Município de Limeira, Estado de São Paulo.

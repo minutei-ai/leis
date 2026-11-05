@@ -1,5 +1,3 @@
-###DEC-006284-0-000-05-12-2007@@@
-
 DECRETO Nº 6.284, DE 5 DE DEZEMBRO DE 2007.
 
 Fixa prazo para que as entidades de prática desportiva da modalidade de futebol profissional, que aderiram ao concurso de prognóstico denominado Timemania, satisfaçam as obrigações previstas no § 1o do art. 4o do Decreto no 6.187, de 14 de agosto de 2007, e dá outras providências.
@@ -19,5 +17,3 @@ Brasília, 5 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Orlando Silva de Jesus Junior
-
-Este texto não substitui o publicado no DOU de 6.12.2007

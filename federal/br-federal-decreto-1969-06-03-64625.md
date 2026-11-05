@@ -1,5 +1,3 @@
-###DEC-064625-0-000-03-06-1969@@@
-
 decreto nº 64.625, de 3 de junho de 1969.
 
 Concede a Mineração da Amazônia, Comércio e Indústria S.A. MACISA o direito de lavrar cassiterita, no município de Lábrea, Estado do Amazonas.

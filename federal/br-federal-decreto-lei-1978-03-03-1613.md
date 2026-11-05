@@ -1,5 +1,3 @@
-###DEL-001613-0-000-03-03-1978@@@
-
 # DECRETO nº 1.613, DE 3 DE MARÇO DE 1978
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios.
@@ -29,8 +27,6 @@ Armando Falcão
 Mário Henrique Simonsen
 
 João Paulo dos Reis Velloso
-
-###DEL-001613-0-000-03-03-1978@@@RET01+++
 
 # DECRETO-LEI Nº 1.613, de 3 DE MARÇO DE 1978
 

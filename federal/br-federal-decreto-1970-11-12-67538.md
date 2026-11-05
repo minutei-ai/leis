@@ -1,5 +1,3 @@
-###DEC-067538-0-000-12-11-1970@@@
-
 DECRETO Nº 67.538, DE 12 DE NOVEMBRO DE 1970.
 
 Declara caduco o decreto nº 35.094 de 19 de fevereiro de 1954.

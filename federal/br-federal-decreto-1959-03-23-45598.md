@@ -1,5 +1,3 @@
-###DEC-045598-0-000-23-03-1959@@@
-
 Decreto nº 45.598, de 23 de março de 1959.
 
 Declara de utilidade pública a Sociedade Defensora dos Proprietários da Ilha do Maruim, com sede em Recife, Estado de Pernambuco.

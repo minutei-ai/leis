@@ -1,5 +1,3 @@
-###DEC-081144-0-000-02-01-1978@@@
-
 Decreto nº 81.144, de 02 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Biblioteconomia e de Ciências Sociais da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

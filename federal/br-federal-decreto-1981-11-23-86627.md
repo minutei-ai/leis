@@ -1,5 +1,3 @@
-###DEC-086627-0-000-23-11-1981@@@
-
 Decreto nº 86.627, de 23 de novembro de 1981.
 
 Autoriza o aumento de potência da RADIONORTE LTDA., na cidade de Assaí, Estado do Paraná.

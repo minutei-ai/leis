@@ -1,5 +1,3 @@
-###DEC-088163-0-000-10-03-1983@@@
-
 # Decreto nº 88.163, de 10 de março de 1983
 
 Declara de utilidade pública, para fina de desapropriação, a área de terra necessária à Implantação da estação de Rádio Telefonia Ressaca, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-047781-0-000-09-02-1960@@@
-
 DECRETO Nº 47.781, DE 9 DE FEVEREIRO DE 1960.
 
 Declara perempta a concessão outorgada à Sociedade Rádio Emissora Continental Limitada para estabelecer uma estação radiodifusora na cidade de Campos, Estado do Rio de Janeiro.

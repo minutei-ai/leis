@@ -1,5 +1,3 @@
-###DEL-008266-0-000-01-12-1945@@@
-
 DECRETO-LEI N. 8.266 – DE 1 DE DEZEMBRO DE 1945
 
 Cria e transforma cargos isolados, de provimento efetivo, no Quadro Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

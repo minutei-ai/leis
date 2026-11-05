@@ -1,7 +1,3 @@
-1
-
-###DEL-002412-0-000-10-02-1988@@@
-
 # DECRETO-LEI Nº 2.412, DE 10 DE FEVEREIRO DE 1988
 
 Altera a legislação do imposto de renda.

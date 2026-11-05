@@ -1,5 +1,3 @@
-###DEC-052537-0-000-30-09-1963@@@
-
 DECRETO Nº 52.537, DE 30 DE SETEMBRO DE 1963.
 
 Transfere da Companhia de Eletricidade do Médio Rio Doce para a Centrais Elétricas de Minas Gerais S.A. (CEMIG), a concessão para o fornecimento de energia elétrica na sede do município de Governador Valadares, Estado de Minas Gerais.

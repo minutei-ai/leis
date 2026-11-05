@@ -1,5 +1,3 @@
-###DEC-006857-0-000-25-05-2009@@@
-
 DECRETO Nº 6.857, DE 25 DE MAIO DE 2009.
 
 Altera o art. 303 do Regulamento da Previdência Social, aprovado pelo Decreto n~~º~~ 3.048, de 6 de maio de 1999, referente ao Conselho de Recursos da Previdência Social.

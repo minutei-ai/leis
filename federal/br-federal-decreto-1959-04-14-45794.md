@@ -1,5 +1,3 @@
-###DEC-045794-0-000-14-04-1959@@@
-
 decreto nº 45.794, de 14 de abril de 1959.
 
 Estabelece área de proteção para a fonte de água mineral denominada Paiol no município de Águas da Prata, Estado de São Paulo.

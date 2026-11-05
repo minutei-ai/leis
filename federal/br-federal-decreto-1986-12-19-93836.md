@@ -1,5 +1,3 @@
-###DEC-093836-0-000-19-12-1986@@@
-
 DECRETO Nº 93.836, DE 19 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA TIBAGI - I", situado no Município de Diamantino, no Estado de Mato Grosso, compreendido no zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.
@@ -25,8 +23,6 @@ Brasília, 19 de dezembro de 1986; 165º da Independência e 98º da República.
 JOSÉ SARNEY
 
 Dante de Oliveira
-
-###DEC-093836-0-000-19-12-1986@@@RET01+++
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA TIBAGI - I", situado no Município de Diamantino, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.
 

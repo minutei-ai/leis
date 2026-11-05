@@ -1,5 +1,3 @@
-###DEL-000090-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 90, DE 30 DE DEZEMBRO DE 1966
 
 Prorroga por mais um exercício, a vigência do Decreto nº 59.252, de 20 de setembro de 1966, que abre o crédito especial de Cr$974.313.638 (novecentos e setenta e quatro milhões, trezentos e treze mil, seiscentos e trinta e oito cruzeiros).

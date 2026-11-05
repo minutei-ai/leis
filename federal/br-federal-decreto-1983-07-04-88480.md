@@ -1,5 +1,3 @@
-###DEC-088480-0-000-04-07-1983@@@
-
 Decreto nº 88.480, de 04 de julho de 1983
 
 Cria o Sétimo Esquadrão de Transporte Aéreo e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002415-0-000-12-02-1988@@@
-
 # DECRETO-LEI Nº 2.415, DE 12 DE FEVEREIRO DE 1988
 
 Prorroga o prazo da isenção de impostos aos bens destinados à execução do Programa Nacional de Comunicações Domésticas por Satélite.

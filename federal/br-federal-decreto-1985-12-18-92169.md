@@ -1,5 +1,3 @@
-###DEC-092169-0-000-18-12-1985@@@
-
 DECRETO Nº 92.169, de 18 de dezembro 1985.
 
 Dispõe sobre a criação do Batalhão de Dobragem e Manutenção de Pára-quedas e Suprimento pelo Ar, no Ministério do Exército, e dá outras providências.

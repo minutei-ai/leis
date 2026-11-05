@@ -1,5 +1,3 @@
-###DEL-008267-0-000-03-12-1945@@@
-
 DECRETO-LEI N. 8.267 – DE 3 DE DEZEMBRO DE 1945
 
 Prorroga, no corrente exercício, o prazo para publicação dos orçamentos dos Estados e municípios.

@@ -1,5 +1,3 @@
-###DEC-045776-0-000-13-04-1959@@@
-
 Decreto nº 45.776, de 13 de abril de 1959.
 
 Concede autorização para o funcionamento de Cursos.

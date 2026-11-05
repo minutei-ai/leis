@@ -1,5 +1,3 @@
-###DEC-004521-0-000-16-12-2002@@@
-
 DECRETO N. 4.521 – DE 16 DE DEZEMBRO DE 2002
 
 Dispões sobre a autonomia administrativa, financeira e técnica da Imprensa Nacional da Casa Civil da Presidência da República e dá outras providencias.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.338, DE 05 DE MARÇO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o pagamento de aposentadorias e pensões do Regime Próprio de Previdência Social do Estado do Acre com recursos de superávit financeiro das autarquias e das fundações públicas do Poder Executivo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o pagamento de aposentadorias e pensões do Regime Próprio de Previdência Social do Estado do Acre com recursos de superávit financeiro das autarquias e das fundações públicas do Poder Executivo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

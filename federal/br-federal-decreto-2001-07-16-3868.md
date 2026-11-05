@@ -1,5 +1,3 @@
-###DEC-003868-0-000-16-07-2001@@@
-
 DECRETO Nº 3.868, DE 16 DE JULHO DE 2001
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas ‑ FCT para o Quadro de Pessoal da Agência Nacional do Petróleo.
@@ -26,4 +24,26 @@ ANEXO
 
 FUNÇÕES COMISSIONADAS TÉCNICAS DA ANP
 
-<table cellspacing="0" cellpadding="0" style="margin-left:63.55pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-weight:bold">FUNÇAO COMISSIONADA TÉCNICA</span></p></td><td style="width:113.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:center"><span style="font-weight:bold">QUANTITATIVO DE FUNÇÕES</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-weight:bold; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 2</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td></tr><tr><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 3</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>36</span></p></td></tr><tr><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 4</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>29</span></p></td></tr><tr><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 5</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15</span></p></td></tr><tr><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TOTAL</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>88</span></p></td></tr></tbody></table>
+FUNÇAO COMISSIONADA TÉCNICA
+
+QUANTITATIVO DE FUNÇÕES
+
+FCT 2
+
+8
+
+FCT 3
+
+36
+
+FCT 4
+
+29
+
+FCT 5
+
+15
+
+TOTAL
+
+88

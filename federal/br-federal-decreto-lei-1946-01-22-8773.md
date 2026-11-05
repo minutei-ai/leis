@@ -1,5 +1,3 @@
-###DEL-008773-0-000-22-01-1946@@@
-
 DECRETO-LEI  N.  8.773 – DE 22 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$...12.761,20, para pagamento de gratificação de magistério.

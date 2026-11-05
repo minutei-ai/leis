@@ -1,5 +1,3 @@
-###DEC-076175-0-000-01-09-1975@@@
-
 DECRETO Nº 76.175 - DE 1 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Universidade do Amazonas.

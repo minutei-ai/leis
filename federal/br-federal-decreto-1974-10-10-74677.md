@@ -1,5 +1,3 @@
-###DEC-074677-0-000-10-10-1974@@@
-
 DECRETO Nº 74.677, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade de Filosofia, Ciências e Letras de Ijuí, mantida pela Fundação de Integração, Desenvolvimento e Educação do Nordeste do Estado - FIDENE, com sede na Cidade de Ijuí, Estado do Rio Grande do Sul.

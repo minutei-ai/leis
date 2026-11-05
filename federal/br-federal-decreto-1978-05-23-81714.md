@@ -1,5 +1,3 @@
-###DEC-081714-0-000-23-05-1978@@@
-
 Decreto nº 81.714, de 23 de maio de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

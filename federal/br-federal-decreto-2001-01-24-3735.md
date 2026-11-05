@@ -1,5 +1,3 @@
-###DEC-003735-0-000-24-01-2001@@@
-
 DECRETO Nº 3.735, DE 24 DE JANEIRO DE 2001
 
 Estabelece diretrizes aplicáveis às empresas estatais federais e dá outras providências.

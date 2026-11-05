@@ -1,5 +1,3 @@
-###DEC-004233-0-000-14-05-2002@@@
-
 DECRETO Nº 4.233, DE 14 DE MAIO DE 2002
 
 Dispõe sobre a execução da Ata de Retificação, de 8 de fevereiro de 2002, do Décimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, (MERCOSUL), e o Governo da República da Bolívia, de 31 de dezembro de 2001.

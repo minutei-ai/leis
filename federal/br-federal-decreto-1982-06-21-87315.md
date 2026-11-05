@@ -1,5 +1,3 @@
-###DEC-087315-0-000-21-06-1982@@@
-
 Decreto nº 87.315, de 21 de junho de 1982
 
 Autoriza o Instituto Nacional de Colonização. e Reforma Agrária - INCRA a doar o imóvel que menciona.

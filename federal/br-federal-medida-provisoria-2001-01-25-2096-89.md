@@ -1,5 +1,3 @@
-###MPV-002096-0-089-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.096-89, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

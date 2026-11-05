@@ -1,5 +1,3 @@
-###DEC-056465-0-000-15-06-1965@@@
-
 decreto nº 56.465, de 15 de junho de 1965.
 
 Dá nova organização e designação à Comissão Executiva da Rodovia Belém-Brasília (Rodobrás).
@@ -107,8 +105,6 @@ Brasília, 15 de junho de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Oswaldo Cordeiro de Farias
-
-###DEC-056465-0-000-15-06-1965@@@RET01+++
 
 Decreto nº 56.465, de 15 de junho de 1965.
 

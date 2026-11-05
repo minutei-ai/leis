@@ -1,5 +1,3 @@
-###DEC-072632-0-000-16-08-1973@@@
-
 DECRETO Nº 72.632, DE 16 DE AGOSTO DE 1973.
 
 Dispõe sobre a estrutura básica do Ministério da Indústria e do Comércio e dá outras providências.

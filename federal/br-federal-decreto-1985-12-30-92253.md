@@ -1,5 +1,3 @@
-###DEC-092253-0-000-30-12-1985@@@
-
 DECRETO Nº 92.253, DE 30 DE DEZEMBrO DE 1985
 
 Declara de utilidade pública, para os fins que especifica, áreas de terras localizadas no Município de Chapecó, Estado de Santa Catarina, e dá outras providências.

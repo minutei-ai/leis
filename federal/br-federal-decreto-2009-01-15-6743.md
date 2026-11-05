@@ -1,5 +1,3 @@
-###DEC-006743-0-000-15-01-2009@@@
-
 DECRETO Nº 6.743, DE 15 DE JANEIRO DE 2009.
 
 Dá nova redação ao art. 2o do Decreto no 6.687, de 11 de dezembro de 2008, que altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006.
@@ -28,7 +26,33 @@ ANEXO
 
 NC (87-2)   Ficam fixadas nos percentuais indicados as alíquotas referentes aos automóveis de passageiros e veículos de uso misto, com motor a álcool ou com motor que utilize alternativa ou simultaneamente gasolina e álcool (flexibe fuel engine), classificados nos códigos a seguir especificados:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:276.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO NCM</span></p></td><td style="width:247.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ALÍQUOTA %</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.22</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,5</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.23.10</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.23.10 Ex 01</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,5</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.23.90</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.23.90 Ex 01</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,5</span></p></td></tr><tr><td style="width:276.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8703.24</span></p></td><td style="width:247.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18</span></p></td></tr></tbody></table>
+CÓDIGO NCM
+
+ALÍQUOTA %
+
+8703.22
+
+5,5
+
+8703.23.10
+
+18
+
+8703.23.10 Ex 01
+
+5,5
+
+8703.23.90
+
+18
+
+8703.23.90 Ex 01
+
+5,5
+
+8703.24
+
+18
 
  NC (87-3)  Ficam fixadas em quatro por cento as alíquotas relativas aos veículos classificados no código 8703.22.90 e no Ex 01 do código 8703.23.90, com volume de habitáculo, destinado a passageiros e motoristas, superior a 6 m³.
 

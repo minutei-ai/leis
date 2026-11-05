@@ -1,5 +1,3 @@
-###DEC-050428-0-000-10-04-1961@@@
-
 Decreto Nº 50.428, DE 10 DE ABRIL DE 1961.
 
 Concede à Emprêsa de Navegação e Pesca Vieira Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem, com sua denominação modificada para Emprêsa de Navegação Vieira Limitada.

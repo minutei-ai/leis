@@ -1,5 +1,3 @@
-###DEC-078300-0-000-23-08-1976@@@
-
 DECRETO Nº 78.300, DE 23 DE AGOSTO DE 1976.
 
 Declara luto oficial.

@@ -1,5 +1,3 @@
-###DEC-091918-0-000-14-11-1985@@@
-
 Decreto nº 91.918, de 14 de novembro de 1985.
 
 Modifica dispositivos do Decreto nº 89.588, de 26 de abril de 1984, alterado pelo Decreto nº 91.076, de 12 de março de 1985, que dispõem sobre o Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM).

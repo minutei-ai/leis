@@ -1,5 +1,3 @@
-###DEC-066362-0-000-20-03-1970@@@
-
 DECRETO Nº 66.362 - DE 20 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União à aceitar a doação do terreno que menciona, situado no Município de Concórdia, no Estado de Santa Catarina.

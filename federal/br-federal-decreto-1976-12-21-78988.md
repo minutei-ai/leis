@@ -1,5 +1,3 @@
-###DEC-078988-0-000-21-12-1976@@@
-
 DECRETO Nº 78.988, DE 21 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias destinadas à formação do reservatório da Usina Hidroelétrica de Salto Santiago, no rio Iguaçu, no Estado do Paraná, da Centrais Elétricas do Sul do Brasil S.A.-- ELETROSUL.

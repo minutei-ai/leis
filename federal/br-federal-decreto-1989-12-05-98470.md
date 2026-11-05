@@ -1,7 +1,3 @@
-1
-
-###DEC-098470-0-000-05-12-1989@@@
-
 DECRETO Nº 98.470, DE 05 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do Curso de Direito da Faculdade de Ciências Jurídicas e Administrativas de Rondonópolis.

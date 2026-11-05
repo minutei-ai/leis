@@ -1,5 +1,3 @@
-###DEC-053344-0-000-26-12-1963@@@
-
 DECRETO Nº 53.344, DE 26 DE DEZEMBRO DE 1963
 
 Declara de utilidade pública a Policlínica Antônio Aguirre, com sede em Vitória, Estado do Espírito Santo.

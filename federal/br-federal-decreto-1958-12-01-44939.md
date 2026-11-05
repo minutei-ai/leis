@@ -1,5 +1,3 @@
-###DEC-044939-0-000-01-12-1958@@@
-
 DECRETO Nº 44.939, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Antonio Evaristo Barbosa a pesquisar mica no Município de Minas Novas, Estado de Minas Gerais.

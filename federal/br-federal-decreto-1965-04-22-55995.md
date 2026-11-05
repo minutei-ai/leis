@@ -1,5 +1,3 @@
-###DEC-055995-0-000-22-04-1965@@@
-
 DECRETO Nº 55.995, DE 22 DE ABRIL DE 1965.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 45.034 de 5 de dezembro de 1958, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público “CAXITORÉ” no Município de Pentecoste Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-054501-0-000-20-10-1964@@@
-
 DECRETO Nº 54.501, DE 20 DE OUTUBRO DE 1964.
 
 Extingue o Serviço da Expansão do Trigo (S. E. T.), transfere bens e atribuições do órgão extinto e dá outras providências.

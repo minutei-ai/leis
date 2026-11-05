@@ -1,5 +1,3 @@
-###DEC-007130-0-000-11-03-2010@@@
-
 DECRETO Nº 7.130, DE 11 DE MARÇO DE 2010.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e tendo em vista o disposto no art. 16, § 5o, inciso I, da Lei no 4.771, de 15 de setembro de 1965, e no Decreto no 4.297, de 10 de julho de 2002,

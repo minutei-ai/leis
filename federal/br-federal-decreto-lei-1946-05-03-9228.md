@@ -1,5 +1,3 @@
-###DEL-009228-0-000-03-05-1946@@@
-
 DECRETO-LEI N. 9.228 – DE 3 DE MAIO DE 1946
 
 Revigora o processo de liquidação extra-judicial de Bancos e Casas Bancárias, a que se refere o art. 5º do Decreto nº 19.479, de 12 de Dezembro de 1930, regulamentado pelo Decreto nº 19.634, de 28 de Janeiro de 1931, e dá outras providências.

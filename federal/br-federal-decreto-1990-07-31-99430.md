@@ -1,7 +1,3 @@
-1
-
-###DEC-099430-0-000-31-07-1990@@@
-
 DECRETO Nº 99.430, DE 31 DE JULHO DE 1990
 
 Altera a redação do inciso VI do art. 219, e revoga o inciso IV do art. 215 do De­creto n° 99.244, de 10 de maio de 1990.

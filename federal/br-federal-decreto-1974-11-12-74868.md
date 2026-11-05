@@ -1,5 +1,3 @@
-###DEC-074868-0-000-12-11-1974@@@
-
 DECRETO nº 74.868, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada á Rádio Atalaia de Porto Alegre Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Curitiba, Estado do Paraná.

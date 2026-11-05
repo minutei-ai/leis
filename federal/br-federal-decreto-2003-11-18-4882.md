@@ -1,5 +1,3 @@
-###DEC-004882-0-000-18-11-2003@@@
-
 DECRETO Nº 4.882,  DE 18 DE NOVEMBRO DE 2003.
 
        Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.
@@ -62,5 +60,6 @@ o enquadramento relativo ao que exigir menor tempo de exposição." (NR)
 
         Brasília, 18 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Ricardo José Ribeiro Berzoini

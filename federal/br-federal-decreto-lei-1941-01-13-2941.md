@@ -1,5 +1,3 @@
-###DEL-002941-0-000-13-01-1941@@@
-
 DECRETO-LEI N. 2.941 – DE 13 DE JANEIRO DE 1941
 
 Dispõe sobre a nomeação de escreventes da Justiça do Distrito Federal

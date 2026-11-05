@@ -1,5 +1,3 @@
-###MPV-001867-0-016-26-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.867-16, DE 26 DE AGOSTO DE 1999.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

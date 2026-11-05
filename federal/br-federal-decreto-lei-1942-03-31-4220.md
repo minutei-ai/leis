@@ -1,5 +1,3 @@
-###DEL-004220-0-000-31-03-1942@@@
-
 DECRETO-LEi N. 4.220 – DE 31 DE MARÇO DE 1942
 
 Cria um distrito no Departamento Nacional de Obras de Saneamento, abre crédito especial e dá outras providências.

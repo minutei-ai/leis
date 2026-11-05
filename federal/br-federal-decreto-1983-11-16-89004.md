@@ -1,5 +1,3 @@
-###DEC-089004-0-000-16-11-1983@@@
-
 Decreto nº 89.004, de 16 de novembro de 1983
 
 Autoriza o funcionamento do curso de Psicologia pela Fundação de Ensino e Tecnologia de Alfenas, Minas Gerais.

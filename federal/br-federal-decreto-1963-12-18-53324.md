@@ -1,5 +1,3 @@
-###DEC-053324-0-000-18-12-1963@@@
-
 DECRETO Nº 53.324, DE 18 DE DEZEMBRO DE 1963.
 
 Aprova o Programa Intensivo de Preparação da Mão-de-Obra Industrial e dá outras providências.

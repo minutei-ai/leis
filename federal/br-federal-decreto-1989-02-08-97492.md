@@ -1,5 +1,3 @@
-###DEC-097492-0-000-08-02-1989@@@
-
 DECRETO N° 97.492, DE 8 DE FEVEREIRO DE 1989
 
 Autoriza a transferência direta da concessão outorgada à L&C RÁDIO EMISSORAS LTDA. para a RÁDIO  EMISSORA DO GRANDE VALE LTDA.

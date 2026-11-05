@@ -1,7 +1,3 @@
-1
-
-###DEC-099045-0-000-07-03-1990@@@
-
 DECRETO Nº 99.045, DE 7 DE MARÇO DE 1990.
 
 Convoca a IX Conferência Nacional de Saúde, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095275-0-000-23-11-1987@@@
-
 DECRETO N.° 95.275, DE 23 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias, necessárias à execução do programa PROJETO TABULEIROS LITORÂNEOS”, na região do Baixo Parnaíba, no Estado do Piauí, e dá outras providências.

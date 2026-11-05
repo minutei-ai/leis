@@ -1,5 +1,3 @@
-###DEC-070170-0-000-18-02-1972@@@
-
 DECRETO Nº 70.170, DE 18 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade Riopretense de Filosofia, Ciências e Letras - São José do Rio Preto - SP.

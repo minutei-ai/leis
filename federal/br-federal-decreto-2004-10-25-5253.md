@@ -1,5 +1,3 @@
-###DEC-005253-0-000-25-10-2004@@@
-
 DECRETO Nº 5.253 DE 25 DE OUTUBRO DE 2004
 
 Revoga o Decreto nº 4.178, de 1o de abril de 2002, que dispõe sobre a extinção de cargos da Carreira Ciência e Tecnologia.

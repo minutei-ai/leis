@@ -1,5 +1,3 @@
-###DEC-079367-0-000-09-03-1977@@@
-
 DECRETO Nº 79.367, DE 9 DE MARÇO DE 1977.
 
 Dispõe sobre normas e o padrão de potabilidade de água e dá outras providências.

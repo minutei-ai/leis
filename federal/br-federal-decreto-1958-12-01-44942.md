@@ -1,5 +1,3 @@
-###DEC-044942-0-000-01-12-1958@@@
-
 DECRETO Nº 44.942, DE 1º DE DEZEmBRO DE 1958.
 
 Autoriza o cidadão brasileiro Jayme Bitancourt de Araújo a pesquisar areias ilmeníticas e associados, no município de Araioses, Estado do Maranhão.

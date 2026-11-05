@@ -18,15 +18,18 @@ V – cumprir as demais exigências da Lei Complementar nº 212, de 2025, e de s
 
 Parágrafo único. A autorização prevista no inciso II do _caput_ deste artigo destina-se à redução da dívida apurada conforme o § 2º do art. 2º da Lei Complementar nº 212, de 2025, por meio de quaisquer dos instrumentos indicados nos incisos I a X do _caput_ do art. 3º da mesma norma.
 
-Art. 1º-A Fica autorizado o Poder Executivo a celebrar contratos e termos aditivos de contratos de refinanciamento de dívidas com a União no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados – Propag, de que trata a Lei Complementar federal nº 212, de 13 de janeiro de 2025.<br>
+Art. 1º-A Fica autorizado o Poder Executivo a celebrar contratos e termos aditivos de contratos de refinanciamento de dívidas com a União no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados – Propag, de que trata a Lei Complementar federal nº 212, de 13 de janeiro de 2025.
+
 \- [Acrescido pela Lei nº 23.529, de 26-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111004).
 
-Parágrafo único. Fica autorizado o Poder Executivo a manter as garantias originalmente convencionadas nos contratos de dívida de que trata o § 1º do art. 2º da Lei Complementar nº 212, de 2025.<br>
+Parágrafo único. Fica autorizado o Poder Executivo a manter as garantias originalmente convencionadas nos contratos de dívida de que trata o § 1º do art. 2º da Lei Complementar nº 212, de 2025.
+
 \- [Acrescido pela Lei nº 23.529, de 26-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111004).
 
 Art. 2º O Estado de Goiás, por suas instâncias competentes, deverá alcançar as metas definidas em regulamento do Propag para a sua permanência no programa durante o prazo de refinanciamento de que trata o art. 4º da Lei Complementar nº 212, de 2025, ou até quando avaliar que o mesmo não seja mais necessário para a manutenção do equilíbrio fiscal.
 
-Parágrafo único. Fica o Poder Executivo autorizado a celebrar contrato aditivo para a instituição do valor base nominal do limite ao crescimento das despesas primárias e indicar o exercício financeiro de início da limitação de despesas, conforme definido no _caput_, devendo ainda ser indicado o ano base, conforme faculdade estabelecida no § 1º do art. 33 do Decreto federal nº 12.433, de 14 de abril de 2025.<br>
+Parágrafo único. Fica o Poder Executivo autorizado a celebrar contrato aditivo para a instituição do valor base nominal do limite ao crescimento das despesas primárias e indicar o exercício financeiro de início da limitação de despesas, conforme definido no _caput_, devendo ainda ser indicado o ano base, conforme faculdade estabelecida no § 1º do art. 33 do Decreto federal nº 12.433, de 14 de abril de 2025.
+
 \- [Acrescido pela Lei nº 23.529, de 26-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111004).
 
 Art. 3º Fica o Poder Executivo autorizado a:
@@ -45,7 +48,8 @@ VI – ceder à União os recebíveis originados da compensação financeira adv
 
 VII – transferir valores em moeda corrente à Conta Única do Tesouro Nacional, a título de amortização extraordinária do saldo devedor.
 
-VIII – ceder à União os recebíveis originados da compensação financeira advinda do fluxo de recebíveis do Fundo Nacional de Desenvolvimento Regional – FNDR, nos termos do art. 3º, inciso VIII, da Lei Complementar nº 212, de 2025.<br>
+VIII – ceder à União os recebíveis originados da compensação financeira advinda do fluxo de recebíveis do Fundo Nacional de Desenvolvimento Regional – FNDR, nos termos do art. 3º, inciso VIII, da Lei Complementar nº 212, de 2025.
+
 \- [Acrescido pela Lei nº 23.956, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111883/lei-23956).
 
 Art. 4º Caberá à Secretaria de Estado da Economia acompanhar, monitorar e realizar todas as ações necessárias ao fiel cumprimento das obrigações para a permanência regular do Estado de Goiás no Propag.

@@ -1,5 +1,3 @@
-###DEL-009174-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.174 – DE 15 DE ABRIL DE 1946
 
 Concede pensão especial aos herdeiros de Aurino Mayrink de Oliveira.

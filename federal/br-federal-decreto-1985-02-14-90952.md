@@ -1,5 +1,3 @@
-###DEC-090952-0-000-14-02-1985@@@
-
 DECRETO Nº 90.952, DE 14 DE FEVEREIRO DE 1985
 
 Altera a razão social da Companhia de Eletricidade de Alagoas-CEAL de que trata o Decreto nº 50.793, de 15 de junho de 1961.

@@ -342,7 +342,8 @@ Art. 31. Para a aplicação deste Decreto, serão considerados os valores do inc
 
 Art. 32. Poderá ser adotada solução de tecnologia da informação e da comunicação para apoiar a execução dos procedimentos de que trata este Decreto.
 
-Art. 33.  Fica revogado o [Decreto nº 9.666](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103169/decreto-9666), de 21 de maio de 2020, a partir de 1º de janeiro de 2024.<br>
+Art. 33.  Fica revogado o [Decreto nº 9.666](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103169/decreto-9666), de 21 de maio de 2020, a partir de 1º de janeiro de 2024.
+
 [\- Redação dada pelo Decreto n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106877/decreto-10247) [º 10.247, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106877/decreto-10247) art.  59.
 
 ~~Art. 33. Fica revogado o [Decreto nº 9.666](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103169/decreto-9666), de 21 de maio de 2020, a partir de 1º de abril de 2023.~~

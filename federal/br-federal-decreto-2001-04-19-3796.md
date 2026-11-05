@@ -1,5 +1,3 @@
-###DEC-003796-0-000-19-04-2001@@@
-
 DECRETO Nº 3.796, DE 19 DE ABRIL DE 2001
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 30 de novembro de 2000.

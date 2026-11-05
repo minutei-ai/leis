@@ -1,5 +1,3 @@
-###DEC-090584-0-000-29-11-1984@@@
-
 Decreto nº 90.584, de 29 de novembro de 1984
 
 Outorga à Casa Comercial Justus S.A., concessão para o aproveitamento da energia hidráulica de um trecho do rio da Divisa, no Município de Inácio Martins, Estado do Paraná, para uso exclusivo.

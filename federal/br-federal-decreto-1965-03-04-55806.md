@@ -1,5 +1,3 @@
-###DEC-055806-0-000-04-03-1965@@@
-
 DECRETO Nº 55.806, DE 4 DE MARÇO DE 1965.
 
 Altera o Regulamento para a Pagadoria de Inativos e Pensionistas do Pessoal da Marinha (PIPM).

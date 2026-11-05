@@ -1,5 +1,3 @@
-###DEC-078223-0-000-10-08-1976@@@
-
 DECRETO Nº 78.223, DE 10 DE agosto DE 1976
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

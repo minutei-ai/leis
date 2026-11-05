@@ -1,5 +1,3 @@
-###DEC-081309-0-000-03-02-1978@@@
-
 Decreto nº 81.309, de 03 de fevereiro de 1978.
 
 Autoriza o funcionamento e concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Administração e Economia, agregada à Universidade Católica do Paraná, com sede em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-050372-0-000-22-03-1961@@@
-
 DECRETO Nº 50.372, DE 22 DE MARÇO DE 1961.
 
 Dispõe sôbre a não realização, no corrente ano, das Assembléias-Gerais dos Conselhos Nacionais de Estatística e de Geografia.

@@ -1,5 +1,3 @@
-###DEC-053376-0-000-31-12-1963@@@
-
 Decreto nº 53.376, de 31 de dezembro de 1963.
 
 Declara de utilidade pública a “União Sul-Brasileira da Igreja Adventista do Sétimo Dia”, com sede em São Paulo, Estado de São Paulo.

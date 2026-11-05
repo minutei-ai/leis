@@ -1,5 +1,3 @@
-###DEC-068074-0-000-18-01-1971@@@
-
 DECRETO Nº 68.074, DE  DE JANEIRO DE 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 50.908, de 5 de julho de 1961, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terra necessária à construção do açude público "Engenheiro Camacho" ex-Tamboril, no município de Ouricuri, Estado de Pernambuco.

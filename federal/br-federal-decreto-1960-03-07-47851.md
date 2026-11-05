@@ -1,5 +1,3 @@
-###DEC-047851-0-000-07-03-1960@@@
-
 DECRETO Nº 47.251, DE 7 DE MARÇO DE 1960.
 
 Autorizo o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir uma linha de transmissão de energia elétrica no Estado de São Paulo.

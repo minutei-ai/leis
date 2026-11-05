@@ -1,5 +1,3 @@
-###DEC-077249-0-000-27-02-1976@@@
-
 DECRETO Nº 77.249, DE 27 DE FEVEREIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Tupã S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Tupã, Estado de São Paulo.

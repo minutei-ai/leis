@@ -1,5 +1,3 @@
-###DEC-059057-0-000-11-08-1966@@@
-
 decreto Nº 59.057, DE 11 DE AGÔSTO DE 1966.
 
 Transforma em ‘’Escola Didática do Ensino Agrícola’’ o atual Curso de Didática do Ensino Agrícola, sem aumento de despesas, e determina outras providências.
@@ -25,8 +23,6 @@ Brasília, 11 de agôsto de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Ney Braga
-
-###DEC-059057-0-000-11-08-1966@@@RET01+++
 
 DECRETO Nº 59.057, DE 11 DE AGôSTO DE 1966.
 

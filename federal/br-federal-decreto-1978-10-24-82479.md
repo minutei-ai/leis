@@ -1,5 +1,3 @@
-###DEC-082479-0-000-24-10-1978@@@
-
 Decreto nº 82.479, de 24 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Brasileira de Alumínio Pelo Decreto nº 59.536, de 11 de novembro de 1966.

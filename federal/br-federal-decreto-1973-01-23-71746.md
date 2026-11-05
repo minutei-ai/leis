@@ -1,5 +1,3 @@
-###DEC-071746-0-000-23-01-1973@@@
-
 DECRETO N.° 71.746, DE 23 DE JANEIRO DE 1973.
 
 Torna sem efeito aproveitamento no Ministério da Marinha de funcionária do Hospital dos Servidores do Estado em disponibilidade.

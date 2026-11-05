@@ -1,5 +1,3 @@
-###DEC-081548-0-000-10-04-1978@@@
-
 Decreto nº 81.548, de 10 de abril de 1978.
 
 Autoriza a cessão, sob o regime de aforamento, de terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

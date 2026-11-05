@@ -1,5 +1,3 @@
-###DEC-045164-0-000-31-12-1958@@@
-
 DECRETO Nº 45.164, DE 31 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Rudolf Ziemer a pesquisar quartzo e pedras coradas no Município de Teófilo Otôni Estado de Minas Gerais.

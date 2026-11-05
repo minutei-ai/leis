@@ -1,5 +1,3 @@
-###DEL-005893-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5.893 – DE 19 DE OUTUBRO DE 1943
 
 Dispõe sôbre a organização, funcionamento e fiscalização das cooperativas

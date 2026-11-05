@@ -1,5 +1,3 @@
-###DEC-096764-0-000-23-09-1988@@@
-
 DECRETO N° 96.764, DE 23 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA MAUÁ DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusã o sonora em onda média, na Cidade de Mauá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068952-0-000-20-07-1971@@@
-
 DECRETO Nº 68.952, DE 20 DE JULHO DE 1971.
 
 Declara de utilidade pública a Associação Instrutora Missionária, com sede em Olinda, Estado de Pernambuco.

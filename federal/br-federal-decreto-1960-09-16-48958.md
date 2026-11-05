@@ -1,5 +1,3 @@
-###DEC-048958-0-000-16-09-1960@@@
-
 Decreto nº 48.958, de 16 de setembro de 1960.
 
 Transfere sem aumento de despesa função da Tabela Única de Extranumerário-Mensalista do Ministério da Agricultura, para idêntica Tabela do Ministério da Fazenda.

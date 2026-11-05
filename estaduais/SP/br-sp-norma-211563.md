@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211563)<br>
-
 # DECRETO N° 69.903, DE 24 DE SETEMBRO DE 2025
 
 ### _Institui o Programa Estadual de Restauração e Conservação Ecológica, mediante contratação de serviços ambientais, nas Unidades de Conservação da Natureza e demais áreas integrantes do Sistema Estadual de Florestas - SIEFLOR, bem como em outras áreas públicas de interesse ambiental e dá providências correlatas._

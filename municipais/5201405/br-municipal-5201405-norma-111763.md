@@ -22,5 +22,6 @@ Art. 4º – Revogam-se as disposições em contrário. Esta lei entra em vigor 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 31 dias do mês de dezembro do ano de 2012.
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal

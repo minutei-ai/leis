@@ -1,7 +1,3 @@
-1
-
-###DEC-001104-0-000-05-04-1994@@@
-
 DECRETO Nº 1.104, DE 5 DE ABRIL DE 1994
 
 Dá nova redação ao art. 1º do Decreto nº 348, de 21 de novembro de 1991.

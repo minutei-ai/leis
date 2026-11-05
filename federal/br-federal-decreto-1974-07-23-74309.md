@@ -1,5 +1,3 @@
-###DEC-074309-0-000-23-07-1974@@@
-
 DECRETO Nº 74.309 - DE 23 DE JULHO DE 1974
 
 Concede reconhecimento ao Curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Guaxupé. Mantida pela Fundação Educacional Guaxupé, com sede na cidade de Guaxupé, Estado de Minas Gerais.

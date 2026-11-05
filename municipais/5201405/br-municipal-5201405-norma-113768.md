@@ -1,18 +1,21 @@
-LEI MUNICIPAL Nº 1.523, DE 03 DE JANEIRO DE 1996.<br>
+LEI MUNICIPAL Nº 1.523, DE 03 DE JANEIRO DE 1996.
+
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020)
 
 ~~Institui o FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL e dá outras providencias.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI: Capitulo I~~
 
-~~Seção I<br>
+~~Seção I
+
 Dos Objetivos~~
 
 ~~Art. 1º - Fica instituído o Fundo Municipal de Assistência Social - FMAS, que tem por objetivo gerenciar os recursos destinados à implementação e ao desenvolvimento da Política Municipal de Assistência Social.~~
 
 ~~§ 1º - O Fundo Municipal de Assistência Social ficará vinculado diretamente à Secretaria Municipal de Assistência Social ou outro órgão que vier a substituí-la.~~
 
-~~§ 2º - O gestor do FMAS será escolhido pelo Chefe do Poder Executivo Municipal e nomeado por decreto.~~<br>
+~~§ 2º - O gestor do FMAS será escolhido pelo Chefe do Poder Executivo Municipal e nomeado por decreto.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 3.352, de 20 de abril de 2017).~~
 
 ~~Art. 1º - Fica instituído o FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL, quem tem, por objetivo criar condições financeiras e de gerencia dos recursos destinados ao desenvolvimento das ações da área, executadas e coordenadas pela secretaria do Bem estar Social Municipal, responsável pela Coordenação da Política de Assistência Social.~~
@@ -21,7 +24,8 @@ Dos Objetivos~~
 
 ~~§ 2º - O FMAS será gerido pelo titular do órgão referido no parágrafo anterior, de acordo com a política de Assistência Social.~~
 
-~~Seção II<br>
+~~Seção II
+
 Das Atribuições do Gestor do FMAS~~
 
 ~~Art. 2º - São atribuições do Gestor do Fundo Municipal de Assistência Social:~~
@@ -44,7 +48,8 @@ Das Atribuições do Gestor do FMAS~~
 
 ~~IX – expedir e assinar os documentos necessários à execução das despesas com o responsável pela tesouraria.~~
 
-~~Seção III<br>
+~~Seção III
+
 Da Coordenação do FMAS~~
 
 ~~Art. 3º - São atribuições da Coordenação do FMAS:~~
@@ -69,10 +74,12 @@ Da Coordenação do FMAS~~
 
 ~~X - encaminhar mensalmente ao gestor do Fundo Municipal de Assistência Social relatório de acompanhamento e avaliação da produção dos serviços prestados pelo setor privado mencionado no inciso anterior.~~
 
-~~Seção IV<br>
+~~Seção IV
+
 Dos Recursos do Fundo~~
 
-~~Subseção I<br>
+~~Subseção I
+
 Dos Recursos Financeiros~~
 
 ~~Art. 4º - São receitas do Fundo:~~
@@ -109,15 +116,18 @@ Dos Recursos Financeiros~~
 
 ~~Parágrafo único. Anualmente se processará o inventário dos bens e direitos vinculados ao fundo.~~
 
-~~Subseção II<br>
+~~Subseção II
+
 Dos Passivos do Fundo~~
 
 ~~Art. 7º - Constituem passivos do Fundo Municipal de Assistência Social as obrigações que porventura o município venha assumir para a manutenção e o funcionamento da política de assistência Social.~~
 
-~~Seção V<br>
+~~Seção V
+
 Do Orçamento e da Contabilidade~~
 
-~~Subseção I<br>
+~~Subseção I
+
 Do Orçamento~~
 
 ~~Art. 8º - O orçamento do Fundo Municipal de Assistência Social evidenciará as políticas e o programa de trabalho governamental, observados o plano plurianual e a Lei de Diretrizes Orçamentárias e os princípios da universalidade e do equilíbrio.~~
@@ -126,7 +136,8 @@ Do Orçamento~~
 
 ~~§ 2º - O orçamento do Fundo Municipal de Assistência Social observará, na sua elaboração e na execução, os padrões e as normas estabelecidas na legislação pertinente.~~
 
-~~Subseção II<br>
+~~Subseção II
+
 Da Contabilidade~~
 
 ~~Art. 9º - A contabilidade do Fundo Municipal de Assistência Social tem por objetivo evidenciar sua situação financeira, patrimonial e orçamentária, observados os padrões e as normas estabelecidas na legislação pertinentes.~~
@@ -143,10 +154,12 @@ Da Contabilidade~~
 
 ~~Art. 12 - O Fundo Municipal de Assistência Social prestará contas atendidas a legislação federal, estadual e Municipal e normas estabelecidas pela Secretaria de Finanças do Município Tribunal de Contas dos Município, do Estado de Goiás.~~
 
-~~Seção VI<br>
+~~Seção VI
+
 Da Execução Orçamentária~~
 
-~~Subseção I<br>
+~~Subseção I
+
 Das Despesas~~
 
 ~~Art. 13 – Imediatamente após a promulgação da lei de orçamento, o gestor do FMAS deliberará o quadro de cotas trimestrais depois de sua aprovação pelo Conselho Municipal de Assistência Social, que serão distribuídas as entidades governamentais e não governamentais conveniadas, executoras da política Municipal de Assistência Social.~~
@@ -173,12 +186,14 @@ Das Despesas~~
 
 ~~VII – desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos em assistência social;~~
 
-~~Subseção II<br>
+~~Subseção II
+
 Das Receitas~~
 
 ~~Art. 16 - A execução orçamentária das receitas se processara através da obtenção do seu produto, nas fontes determinadas nesta Lei.~~
 
-~~Subseção III<br>
+~~Subseção III
+
 Do Credito Especial~~
 
 ~~Art. 17 - Para atender as despesas decorrentes da implantação da presente Lei, fica o poder Executivo Municipal autorizado a abrir, no corrente ou no exercício vindouro, créditos adicionais ate o valor de R$ 100.000,00 (cem mil reais), obedecidas as prescrições contidas nos incisos I a IV, do § 1º, do art. 43, da Lei Federal nº 4.320, de 17 de março de 1964. Disposições Finais~~
@@ -187,11 +202,14 @@ Do Credito Especial~~
 
 ~~Gabinete do Prefeito Municipal de Aparecida vê Goiânia, aos três dias do mês de janeiro de um mil novecentos e noventa e seis.~~
 
-~~NORBERTO TEIXEIRA<br>
+~~NORBERTO TEIXEIRA
+
 PREFEITO MUNICIPAL~~
 
-~~WALTER CARVALHO E SILVA<br>
+~~WALTER CARVALHO E SILVA
+
 SEC. EXECUTIVO~~
 
-~~MARLENE  MARIA DIAS TEIXEIRA<br>
-SEC.DO BEM ESTAR SOCIAL~~<br>
+~~MARLENE  MARIA DIAS TEIXEIRA
+
+SEC.DO BEM ESTAR SOCIAL~~

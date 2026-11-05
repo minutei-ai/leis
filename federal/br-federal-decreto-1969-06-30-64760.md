@@ -1,5 +1,3 @@
-###DEC-064760-0-000-30-06-1969@@@
-
 DECRETO Nº 64.760, DE 30 DE JUNHO DE 1969.
 
 Concede à Companhia Nacional de Grafite Ltda., o direito de lavrar grafite, no município de Itapecerica Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-053552-0-000-06-02-1964@@@
-
 DECRETO Nº 53.552, DE 6 DE FEVEREIRO DE 1964.
 
 Amplia o Quadro da Administração Central e Órgãos Locais do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

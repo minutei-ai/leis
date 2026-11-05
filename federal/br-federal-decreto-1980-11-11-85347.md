@@ -1,5 +1,3 @@
-###DEC-085347-0-000-11-11-1980@@@
-
 Decreto nº 85.347, de 11 de novembro de1980.
 
 Dispõe sobre o Grupo-Direção e Assistência Intermediárias dos Territórios Federais a que se refere a Lei nº 6.550, de 5 de julho de 1978, e dá outras providências.
@@ -24,7 +22,17 @@ V - contatos eventuais ou circunstanciais, delegados ou próprios, com entidades
 
 Art. 3º - Observando o disposto no artigo anterior, as funções integrantes do grupo a que se refere este decreto distribuir-se-ão, na forma do artigo 5º da Lei nº 6.550, de 5 de julho de 1978, em três níveis hierárquicos, com as seguintes características:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NÍVEL 3:</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">I - Atividades de direção de unidades, de primeira linha divisional, direta e imediatamente subordinadas a órgãos classificados no Grupo-Direção e Assessoramento Superiores e nele não incluídas. II - Atividades de assistência intermediária a dirigentes de órgãos de direção superior classificados no Grupo-Direção e Assessoramento Superiores que não disponham de assessores.</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NÍVEL 2:</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividades de direção de unidades de primeira linha divisional, direta e imediatamente subordinadas a órgãos compreendidos no Nível 3 do Grupo-Direção e Assistência Intermediárias, bem assim de assistência intermediária aos mesmos dirigentes.</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NÍVEL 1:</span></p></td><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividades de direção de unidades direta e imediatamente subordinadas a órgãos compreendidos no Nível 2 do Grupo-Direção e Assistência Intermediárias, bem assim de direção de unidades não incluídas nos Níveis 3 e 2 do referido grupo, nem no Grupo-Direção e Assessoramento Superiores.</span></p></td></tr></tbody></table>
+NÍVEL 3:
+
+I - Atividades de direção de unidades, de primeira linha divisional, direta e imediatamente subordinadas a órgãos classificados no Grupo-Direção e Assessoramento Superiores e nele não incluídas. II - Atividades de assistência intermediária a dirigentes de órgãos de direção superior classificados no Grupo-Direção e Assessoramento Superiores que não disponham de assessores.
+
+NÍVEL 2:
+
+- Atividades de direção de unidades de primeira linha divisional, direta e imediatamente subordinadas a órgãos compreendidos no Nível 3 do Grupo-Direção e Assistência Intermediárias, bem assim de assistência intermediária aos mesmos dirigentes.
+
+NÍVEL 1:
+
+- Atividades de direção de unidades direta e imediatamente subordinadas a órgãos compreendidos no Nível 2 do Grupo-Direção e Assistência Intermediárias, bem assim de direção de unidades não incluídas nos Níveis 3 e 2 do referido grupo, nem no Grupo-Direção e Assessoramento Superiores.
 
 Parágrafo único - A previsão de Assistência Intermediária a que alude a parte final do Nível 2 deste artigo somente será considerada quando se tratar de medida julgada necessária ao interesse da Administração.
 

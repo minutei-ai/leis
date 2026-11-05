@@ -1,5 +1,3 @@
-###DEC-055199-0-000-11-12-1964@@@
-
 DECRETO Nº 55.199, DE 11 DE DEZEMBRO De 1964.
 
 Concede a Indústrias Klabin do Paraná de Celulose S.A. autorização para funcionar como emprêsa de mineração.

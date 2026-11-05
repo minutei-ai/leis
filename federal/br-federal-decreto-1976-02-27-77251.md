@@ -1,5 +1,3 @@
-###DEC-077251-0-000-27-02-1976@@@
-
 DECRETO Nº 77.251, DE 27 DE FEVEREIRO de 1976
 
 Autoriza o funcionamento dos cursos de Geografia, História e Filosofia da Faculdade de Filosofia, Ciências e Letras Dom Bosco, com sede na cidade de Santa Rosa, Estado do Rio Grande do Sul.

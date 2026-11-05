@@ -1,5 +1,3 @@
-###LEI-000000-0-001-09-12-1830@@@
-
 LEI - DE 9 DE DEZEMBRO DE 1830
 
 Declara nullos e de nenhum effeito os contractos onerosos e alienações feitas pelas Ordens Regulares sem preceder licença do Governo.

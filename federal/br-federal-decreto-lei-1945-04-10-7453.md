@@ -1,5 +1,3 @@
-###DEL-007453-0-000-10-04-1945@@@
-
 DECRETO-LEI N. 7.453 – DE 10 DE ABRIL DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 14.322,50, para atender ao pagamento de salários de extranumerário-contratado

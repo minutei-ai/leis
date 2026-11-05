@@ -1,5 +1,3 @@
-###DEC-057669-0-000-25-01-1966@@@
-
 DECRETO Nº 57.669, DE 25 DE JANEIRO DE 1966.
 
 Concede à sociedade Navegação “Transmar” Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

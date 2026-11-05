@@ -1,5 +1,3 @@
-###DEC-073170-0-000-20-11-1973@@@
-
 DECRETO Nº 73.170 - DE 20 DE NOVEMBRO DE 1973
 
 Institui Grupo de Trabalho para examinar a situação dos ex-integrantes da extinta Polícia Militar do antigo Território do Acre e dá outras providências.

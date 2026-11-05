@@ -1,5 +1,3 @@
-###DEC-068329-0-000-09-03-1971@@@
-
 DECRETO Nº 68.329, DE 9 DE MARÇO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério do Trabalho e Previdência Social, e dá outras providências.

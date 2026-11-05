@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208510)<br>
-
 # DECRETO N° 67.943, DE 15 DE SETEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 67+500m da Rodovia Raposo Tavares, SP-270, no Município de Mairinque, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-081549-0-000-10-04-1978@@@
-
 Decreto nº 81.549, de 10 de abril de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Cuiabá, Estado de Mato Grosso.

@@ -1,4 +1,5 @@
-LEI Nº 23.236, DE 16 DE JANEIRO DE 2025<br>
+LEI Nº 23.236, DE 16 DE JANEIRO DE 2025
+
  
 
 Concede a revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo, e dos pensionistas do Poder Executivo estadual, na forma que especifica, e altera a [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826/lei-19951), de 29 de dezembro de 2017.

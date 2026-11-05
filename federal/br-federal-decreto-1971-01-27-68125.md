@@ -1,5 +1,3 @@
-###DEC-068125-0-000-27-01-1971@@@
-
 DECRETO Nº 68.125, de 27 de janeiro de 1971.
 
 Abre o Decreto nº 66.118, de 26 de janeiro de 1970, e dá outras providências.

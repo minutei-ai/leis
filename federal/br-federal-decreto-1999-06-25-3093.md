@@ -1,5 +1,3 @@
-###DEC-003093-0-000-25-06-1999@@@
-
 decreto nº 3.093, de 25 dejunho de 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.015, de 26 de setembro de 1996.

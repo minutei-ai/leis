@@ -1,6 +1,10 @@
 > **LEI Nº 3.636, DE 15 DE JUNHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Estadual nº 2.031, de 26 de novembro de 2008, que institui o Serviço Social de Saúde do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Estadual nº 2.031, de 26 de novembro de 2008, que institui o Serviço Social de Saúde do Acre e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -11,8 +15,6 @@
 **Art. 2º** A Lei nº 2.031, de 26 de novembro de 2008, passa a vigorar com as seguintes alterações:
 
 “**Art. 1º** Fica instituído o Instituto de Gestão de Saúde do Acre - IGESAC, serviço social autônomo, sem fins lucrativos, de interesse coletivo e utilidade pública, com autonomia gerencial, patrimonial, orçamentária e financeira, quadro de pessoal próprio e prazo de duração indeterminado.
-
-<br>
 
 **Art. 2º** O IGESAC terá como objetivo auxiliar a Secretaria de Estado de Saúde - SESACRE, em até 40% (quarenta por cento) de suas unidades, a prestar serviços de assistência à saúde de forma gratuita, em todos os níveis, e desenvolver atividades educacionais e de pesquisa no campo da saúde, em cooperação com o poder público.
 
@@ -221,8 +223,6 @@
 **Art. 5º** Esta Lei entra em vigor na data de sua publicação.
 
 Rio Branco-Acre, 15 de junho de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
-
-<br>
 
 **Gladson de Lima Cameli**
 

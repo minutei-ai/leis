@@ -1,5 +1,3 @@
-###MPV-001985-0-024-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-24, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

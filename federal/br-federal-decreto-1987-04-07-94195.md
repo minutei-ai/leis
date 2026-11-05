@@ -1,5 +1,3 @@
-###DEC-094195-0-000-07-04-1987@@@
-
 DECRETO Nº 94.195, DE 7 DE ABRIL DE 1987
 
 Altera a estrutura do Conselho Nacional do Comércio Exterior (CONCEX).

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130324)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/1996/compilacao-emenda.constitucional-3-11.11.1996.html)
 
 # EMENDA CONSTITUCIONAL Nº 3, DE 11 DE NOVEMBRO DE 1996

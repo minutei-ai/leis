@@ -1,7 +1,3 @@
-1
-
-###DEL-000733-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 733, DE 5 DE AGÔSTO DE 1969
 
 Autoriza o Governo do Estado de São Paulo a celebrar contrato externo para aquisição de materiais hospitalares.

@@ -1,5 +1,3 @@
-###DEC-005794-0-000-05-06-2006@@@
-
 DECRETO Nº 5.794, DE 5 DE JUNHO DE 2006.
 
        Altera e acresce dispositivos ao Decreto no 3.420, de 20 de abril de 2000, que dispõe sobre a criação do Programa Nacional de Florestas - PNF.
@@ -35,5 +33,3 @@ n) Serviço Florestal Brasileiro.” (NR)
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no D.O.U. de 6.6.2006.

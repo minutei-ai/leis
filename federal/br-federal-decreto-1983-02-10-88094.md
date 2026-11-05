@@ -1,5 +1,3 @@
-###DEC-088094-0-000-10-02-1983@@@
-
 DECRETO Nº 88.094, DE 10 DE FEVEREIRO DE 1983.
 
 Transfere ao DEPARTAMENTO ESTADUAL DE CULTURA - DEC, autarquia vinculada à Secretaria de Educação e Cultura do Governo do Estado do Espírito Santo, concessão outorgada à FUNDAÇÃO, CULTURAL DO ESPÍRITO SANTO, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Vitória, Estado do Espírito Santo.

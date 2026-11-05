@@ -1,5 +1,3 @@
-###DEC-003592-0-000-06-09-2000@@@
-
 DECRETO Nº 3.592, DE 6 DE SETEMBRO DE 2000.
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

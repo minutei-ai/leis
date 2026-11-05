@@ -1,5 +1,3 @@
-###DEL-004212-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.212 – DE 27 DE MARÇO DE 1942
 
 Cria uma coletoria federal no município de Monte Belo, no Estado de Minas Gerais, e dá outras providencias

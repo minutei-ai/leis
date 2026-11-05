@@ -1,5 +1,3 @@
-###DEC-063960-0-000-07-01-1969@@@
-
 decreto nº 63.960, de 7 de janeiro de 1969.
 
 Autoriza o funcionamento dos Cursos de Administração e Ciências Contábeis da Faculdade de Ciências Econômicas de Ribeirão Preto - São Paulo.

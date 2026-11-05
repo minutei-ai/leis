@@ -1,5 +1,3 @@
-###DEC-081364-0-000-20-02-1978@@@
-
 Decreto nº 81.364, de 20 de fevereiro de 1978.
 
 Concede á Companhia de Pesquisas e Lavras Minerais - COPELMI o direito de lavrar carvão mineral e areia quartzosa no Município de Triunfo, Estado do Rio Grande do Sul.

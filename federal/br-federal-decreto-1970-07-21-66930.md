@@ -1,5 +1,3 @@
-###DEC-066930-0-000-21-07-1970@@@
-
 DECRETO Nº 66.930, DE 21 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Santa Cruz até a subestação de Jacarepaguá, no Estado da Guanabara.

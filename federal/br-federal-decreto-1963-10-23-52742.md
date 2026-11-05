@@ -1,5 +1,3 @@
-###DEC-052742-0-000-23-10-1963@@@
-
 DECRETO Nº 52.742, DE 23 DE OUTUBRO DE 1963.
 
 Dá nova redação aos parágrafos 1º e 2º do art. 135 do Regulamento Geral da Previdência Social e dá outras providências.

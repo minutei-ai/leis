@@ -1,5 +1,3 @@
-###DEC-080044-0-000-28-07-1977@@@
-
 DECRETO Nº 80.044, DE 28 DE JULHO DE 1977
 
 Concede à Pesquisas Minerais Heco Ltda. o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

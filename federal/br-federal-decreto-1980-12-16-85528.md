@@ -1,5 +1,3 @@
-###DEC-085528-0-000-16-12-1980@@@
-
 Decreto nº 85.528, de 16 de dezembro de 1980.
 
 Concede à RIOCELL ADMINISTRAÇÃO S.A., autorização para proceder a aumento do seu capital social.

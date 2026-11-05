@@ -1,5 +1,3 @@
-###DEL-007262-0-000-22-01-1945@@@
-
 DECRETO-LEI N. 7.262 – DE 22 DE JANEIRO DE 1945
 
 Cria funções gratificadas para o Serviço de Documentação do Ministério das Relações Exteriores e dá outras providências

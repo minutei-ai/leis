@@ -1,5 +1,3 @@
-###DEC-064077-0-000-11-02-1969@@@
-
 DECRETO Nº 64.077, DE 11 DE FEVEREIRO DE 1969.
 
 Concede a Alumínio Minas Gerais S. A. o direito de lavrar bauxita no município de Nova Lima, Estado de Minas Gerais.

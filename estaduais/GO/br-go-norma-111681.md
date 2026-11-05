@@ -16,34 +16,118 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 957.789,78</td><td style=" width:85px;    ">R$ 1.651.175,34</td><td style=" width:85px;    ">R$ 2.608.965,12</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td>10 302 1043 2516</td><td>25000100</td><td>50</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 957.789,78</td><td>R$ 1.651.175,34</td><td>R$ 2.608.965,12</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:85px;    ">06 122 4100 4146</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 134.484,84</td><td style=" width:85px;    ">R$ 134.484,84</td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:85px;    ">06 122 4100 4146</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.256,68</td><td style=" width:85px;    ">R$ 2.256,68</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td>06 122 4100 4146</td><td>17000280</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 0,00</td><td>R$ 134.484,84</td><td>R$ 134.484,84</td></tr><tr><td>PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td>06 122 4100 4146</td><td>15000100</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 0,00</td><td>R$ 2.256,68</td><td>R$ 2.256,68</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 37.677,72</td><td style=" width:85px;    ">R$ 37.677,72</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>14 122 4200 4243</td><td>17990142</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 37.677,72</td><td>R$ 37.677,72</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER</b><br>2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">BOLSA PRO-ATLETA</td><td style=" width:85px;    ">27 811 1027 2346</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 800.000,00</td><td style=" width:85px;    ">R$ 800.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER** 2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>BOLSA PRO-ATLETA</td><td>27 811 1027 2346</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 800.000,00</td><td>R$ 800.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 802.256,68</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 134.484,84</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 37.677,72</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.651.175,34</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.625.594,58</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 802.256,68
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 134.484,84
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 37.677,72
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 1.651.175,34
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.625.594,58
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.651.175,34</td><td style=" width:85px;    ">R$ 1.651.175,34</td><td style=" width:85px;    ">R$ 1.651.175,34</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td>10 302 1043 2498</td><td>25000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 1.651.175,34</td><td>R$ 1.651.175,34</td><td>R$ 1.651.175,34</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.701.047,74</td><td style=" width:85px;    ">R$ 134.484,84</td><td style=" width:85px;    ">R$ 134.484,84</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td>06 181 1051 2351</td><td>17000280</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 2.701.047,74</td><td>R$ 134.484,84</td><td>R$ 134.484,84</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;  height:19px;   ">06 181 1051 2351</td><td style=" width:85px;  height:19px;   ">15000100</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">4 - INVESTIMENTOS</td><td style=" width:85px;  height:19px;   ">R$ 7.923,32</td><td style=" width:85px;  height:19px;   ">R$ 700,68</td><td style=" width:85px;  height:19px;   ">R$ 700,68</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 219.683,13</td><td style=" width:85px;    ">R$ 1.556,00</td><td style=" width:85px;    ">R$ 1.556,00</td></tr></tbody></table>
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.728,88</td><td style=" width:85px;    ">R$ 5.728,88</td><td style=" width:85px;    ">R$ 5.728,88</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style=" width:85px;    ">14 421 1007 2373</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 31.948,84</td><td style=" width:85px;    ">R$ 31.948,84</td><td style=" width:85px;    ">R$ 31.948,84</td></tr></tbody></table>
+06 181 1051 2351
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER</b><br>2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE ATIVIDADES DESPORTIVAS, ARTES MARCIAIS E LAZER PARA ALUNOS</td><td style=" width:85px;    ">27 812 1027 2348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 143.092,35</td><td style=" width:85px;    ">R$ 143.000,00</td><td style=" width:85px;    ">R$ 143.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER PARA GRUPOS MINORITÁRIOS</td><td style=" width:85px;    ">27 812 1027 2343</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 370.259,58</td><td style=" width:85px;    ">R$ 370.000,00</td><td style=" width:85px;    ">R$ 370.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE JOGOS ABERTOS DE GOIÁS</td><td style=" width:85px;    ">27 812 1027 3176</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 232.620,88</td><td style=" width:85px;    ">R$ 232.000,00</td><td style=" width:85px;    ">R$ 232.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA IDOSOS</td><td style=" width:85px;    ">27 812 1027 2345</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 59.070,72</td><td style=" width:85px;    ">R$ 55.000,00</td><td style=" width:85px;    ">R$ 55.000,00</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 802.256,68</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 134.484,84</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 37.677,72</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.651.175,34</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.625.594,58</td></tr></tbody></table>
+4 - INVESTIMENTOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 7.923,32
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 802.256,68</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 134.484,84</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 37.677,72</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.651.175,34</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.625.594,58</td></tr></tbody></table>
+R$ 700,68
+
+R$ 700,68
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 219.683,13
+
+R$ 1.556,00
+
+R$ 1.556,00
+
+<table><tbody><tr><td colspan="8">**2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>14 122 4200 4243</td><td>17990142</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 5.728,88</td><td>R$ 5.728,88</td><td>R$ 5.728,88</td></tr><tr><td>AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td>14 421 1007 2373</td><td>17990142</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 31.948,84</td><td>R$ 31.948,84</td><td>R$ 31.948,84</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="8">**2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER** 2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>DISPONIBILIZAÇÃO DE ATIVIDADES DESPORTIVAS, ARTES MARCIAIS E LAZER PARA ALUNOS</td><td>27 812 1027 2348</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 143.092,35</td><td>R$ 143.000,00</td><td>R$ 143.000,00</td></tr><tr><td>PROMOÇÃO DE ATIVIDADES DESPORTIVAS E DE LAZER PARA GRUPOS MINORITÁRIOS</td><td>27 812 1027 2343</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 370.259,58</td><td>R$ 370.000,00</td><td>R$ 370.000,00</td></tr><tr><td>REALIZAÇÃO DE JOGOS ABERTOS DE GOIÁS</td><td>27 812 1027 3176</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 232.620,88</td><td>R$ 232.000,00</td><td>R$ 232.000,00</td></tr><tr><td>PROMOÇÃO DE ATIVIDADES DESPORTIVAS PARA IDOSOS</td><td>27 812 1027 2345</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 59.070,72</td><td>R$ 55.000,00</td><td>R$ 55.000,00</td></tr></tbody></table>
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 802.256,68
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 134.484,84
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 37.677,72
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 1.651.175,34
+
+**TOTAL**
+
+R$ 2.625.594,58
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 802.256,68
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 134.484,84
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 37.677,72
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 1.651.175,34
+
+**TOTAL**
+
+R$ 2.625.594,58

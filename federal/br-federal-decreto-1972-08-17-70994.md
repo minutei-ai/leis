@@ -1,5 +1,3 @@
-###DEC-070994-0-000-17-08-1972@@@
-
 DECRETO Nº 70.994, DE 17 DE AGOSTO DE 1972.
 
 Concede à Companhia Materiais Sulfurosos - MATSULFUR o direito de lavrar calcário em Brasília, Distrito Federal.

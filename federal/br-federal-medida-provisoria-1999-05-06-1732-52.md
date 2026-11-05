@@ -1,5 +1,3 @@
-###MPV-001732-0-052-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.732-52, DE 6 DE MAIO DE 1999.
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

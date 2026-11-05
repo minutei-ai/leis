@@ -1,5 +1,3 @@
-###DEC-083588-0-000-18-06-1979@@@
-
 Decreto nº 83.588, de 18 de junho de 1979
 
 Concede à Companhia Vale do Rio Doce o direito de lavrar calcário no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

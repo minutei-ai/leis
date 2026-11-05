@@ -1,5 +1,3 @@
-###DEC-088861-0-000-13-10-1983@@@
-
 DECRETO Nº 88.861, DE 13 DE outubro 1983.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Vereda Grande", situado no Município de São Francisco, no Estado de Minas Gerais, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 88.860, de 13 de outubro de 1983.

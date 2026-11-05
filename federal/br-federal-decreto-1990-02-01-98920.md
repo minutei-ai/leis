@@ -1,7 +1,3 @@
-1
-
-###DEC-098920-0-000-01-02-1990@@@
-
 DECRETO Nº 98.920, DE 1º DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à EMISSORAS REUNIDAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Poconé, Estado do Mato Grosso.

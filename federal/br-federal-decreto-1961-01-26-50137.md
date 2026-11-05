@@ -1,5 +1,3 @@
-###DEC-050137-0-000-26-01-1961@@@
-
 DECRETO Nº 50.137, DE 26 DE janeiro DE 1961.
 
 Transforma o cº G. 88 AAe. no II/7º R.º 105.

@@ -1,5 +1,3 @@
-###DEC-051393-0-000-11-01-1962@@@
-
 DECRETO Nº 51.393, DE 11 DE JANEIRO DE 1962.
 
 Suspende a admissão de pessoal temporário do Ministério da Educação e Cultura e dá outras providências.

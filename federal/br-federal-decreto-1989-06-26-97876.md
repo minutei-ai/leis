@@ -1,7 +1,3 @@
-1
-
-###DEC-097876-0-000-26-06-1989@@@
-
 DECRETO N° 97.876, DE 26 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária o imóvel rural denominado “FAZENDA SÃO JORGE DO INHO-Õ, QUINHÃO 7”, classificado como “latifúndio por exploração”, situado no Município de São Jerônimo da Serra, Estado do Paraná, compreendido na zona prioritária fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências

@@ -1,5 +1,3 @@
-###MPV-001949-0-023-27-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.949-23, DE 27 de abril DE 2000.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

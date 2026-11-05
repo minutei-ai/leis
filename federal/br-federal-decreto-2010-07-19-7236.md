@@ -1,5 +1,3 @@
-###DEC-007236-0-000-19-07-2010@@@
-
 DECRETO Nº 7.236, DE 19 DE JULHO DE 2010.
 
 Regulamenta o uso e a alienação de imóveis residenciais de propriedade do Instituto Nacional do Seguro Social - INSS, no Distrito Federal.

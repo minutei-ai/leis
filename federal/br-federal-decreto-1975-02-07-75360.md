@@ -1,5 +1,3 @@
-###DEC-075360-0-000-07-02-1975@@@
-
 DECRETO Nº 75.360, DE 7 DE FEVEREIRO DE 1975.
 
 Aprova o Regulamento para o Instrumento de Processamento de Dados e Informática da Marinha e dá outras providências.

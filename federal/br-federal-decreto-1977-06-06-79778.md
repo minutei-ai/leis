@@ -1,5 +1,3 @@
-###DEC-079778-0-000-06-06-1977@@@
-
 DECRETO Nº 79.778, DE 6 DE JUNHO DE 1977
 
 Declara de utilidade publica, para fins de desapropriação, imóveis constituídos de terrenos e benfeitorias situados no Município de Tubarão, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-009886-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.886 – DE 16 DE SETEMBRO DE 1946
 
 Dispõe sôbre a Comissão de Desapropriação de terras no Galeão, e dá outras providências.

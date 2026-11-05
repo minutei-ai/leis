@@ -1,5 +1,3 @@
-###DEC-077079-0-000-26-01-1976@@@
-
 DECRETO Nº 77.079, DE 26 DE JANEIRO DE 1976
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia de Santo Amaro, com sede na cidade de São Paulo, Estado de São Paulo.

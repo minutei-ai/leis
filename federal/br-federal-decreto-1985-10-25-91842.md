@@ -1,5 +1,3 @@
-###DEC-091842-0-000-25-10-1985@@@
-
 Decreto nº 91.842, de 25 de outubro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Papiro", compreendido na referida área, no Município de Cáceres, no Estado de Mato Grosso.

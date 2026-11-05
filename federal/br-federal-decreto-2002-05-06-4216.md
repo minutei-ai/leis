@@ -1,5 +1,3 @@
-###DEC-004216-0-000-06-05-2002@@@
-
 DECRETO Nº 4.216, DE 6 DE MAIO DE 2002
 
 Dispõe sobre a instituição e concessão da Medalha da Integração Nacional, e dá outras providências.

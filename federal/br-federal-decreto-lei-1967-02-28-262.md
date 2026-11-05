@@ -1,5 +1,3 @@
-###DEL-000262-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 262, DE 28 DE FEVEReiro DE 1967
 
 Dispõe sôbre a venda de terrenos do Instituto Nacional da Previdência Social a entidades do Sistema Financeiro da Habitação.

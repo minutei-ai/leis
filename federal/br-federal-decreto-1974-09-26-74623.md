@@ -1,5 +1,3 @@
-###DEC-074623-0-000-26-09-1974@@@
-
 decreto nº 74.623, de 26 de setembro de 1974.
 
 Revoga o Decreto nº 36.523, de 3 de dezembro de 1954, que aprova o Regulamento de Estatística da Aeronáutica.

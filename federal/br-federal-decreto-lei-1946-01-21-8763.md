@@ -1,5 +1,3 @@
-###DEL-008763-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.763 – DE 21 DE JANEIRO DE 1946
 
 Eleva o padrão de vencimentos de cargos isolados dos Quadros Permanentes e Suplementares do Ministério da Aeronáutica, e dá outras providências.

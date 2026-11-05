@@ -1,7 +1,3 @@
-1
-
-###DEC-098887-0-000-25-01-1990@@@
-
 DECRETO Nº 98.887, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Educação Física da Associação de Ensino de Campo Grande, Estado do Rio de Janeiro.

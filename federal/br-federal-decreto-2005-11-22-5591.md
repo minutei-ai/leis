@@ -1,5 +1,3 @@
-###DEC-005591-0-000-22-11-2005@@@
-
 DECRETO Nº 5.591, DE 22 DE NOVEMBRO DE 2005.
 
 Regulamenta dispositivos da Lei nº 11.105, de 24 de março de 2005, que regulamenta os incisos II, IV e V do § 1º do art. 225 da Constituição, e dá outras providências.

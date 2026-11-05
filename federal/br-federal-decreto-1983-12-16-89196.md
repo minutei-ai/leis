@@ -1,5 +1,3 @@
-###DEC-089196-0-000-16-12-1983@@@
-
 Decreto nº 89.196, de 16 de dezembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de distribuição da Companhia de Eletricidade do Estado da Bahia-COELBA, no Estado da Bahia.

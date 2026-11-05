@@ -1,5 +1,3 @@
-###DEC-056440-0-000-08-06-1965@@@
-
 DECRETO Nº 56.440, DE 8 DE JUNHO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Três Fronteiras, Estado de São Paulo.

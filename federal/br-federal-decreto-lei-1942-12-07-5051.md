@@ -1,5 +1,3 @@
-###DEL-005051-0-000-07-12-1942@@@
-
 DECRETO-LEI N. 5.051 –  de 7 DE DEZEMBRO DE 1942
 
 Transforma cata no Quadro Suplementar do Ministério da Guerra e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-006322-0-000-07-03-1944@@@
-
 DECRETO-LEI N. 6.322 – DE 7 DE MARÇO DE 1944
 
 Modifica o art. 1º do Decreto-lei nº 4.148, de 5-3-1942

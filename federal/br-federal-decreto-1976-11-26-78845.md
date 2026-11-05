@@ -1,5 +1,3 @@
-###DEC-078845-0-000-26-11-1976@@@
-
 DECRETO Nº 78.845, DE 26 DE NOVEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cruzeiro Bahia Ltda., autorizada, posteriormente, a alterar o tipo jurídico para S.A., passando a denominar-se Rádio Cruzeiro da Bahia S.A., para executar serviço de radiodifusão sonora em onda médio de âmbito regional, na cidade de Salvador, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097912-0-000-05-07-1989@@@
-
 DECRETO Nº 97.912, DE 5 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado FAZENDA VENEZA DA JAÍBA E POÇO DA VOVÓ, classificado como latifúndio por exploração, situado no Município de Monte Azul, Estado de Minas Gerais, compreendido na zona prioritária fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providencias.

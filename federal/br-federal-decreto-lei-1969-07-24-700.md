@@ -1,5 +1,3 @@
-###DEL-000700-0-000-24-07-1969@@@
-
 DECRETO-LEI Nº 700, DE 24 DE JULHO DE 1969
 
 Dá nova redação ao item IV do artigo 3º do Decreto-lei nº 376, de 20 de dezembro de 1968

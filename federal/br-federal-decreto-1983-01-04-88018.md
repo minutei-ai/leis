@@ -1,5 +1,3 @@
-###DEC-088018-0-000-04-01-1983@@@
-
 DECRETO Nº 88.018, de 04 de janeiro de 1983
 
 Declara Interditada, para fins de atração e pacificação dos Índios ARARA - Grupo ARARA 2, área que discrimina, localizada nos Municípios de Prainha e Porto de Moz, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-004734-0-000-11-06-2003@@@
-
 DECRETO Nº 4.734, DE 11 DE JUNHO DE 2003.
 
 Delega competência para a prática de atos de provimento no âmbito da Administração Pública Federal, e dá outras providências

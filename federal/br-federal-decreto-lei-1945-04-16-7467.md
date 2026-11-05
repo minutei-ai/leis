@@ -1,5 +1,3 @@
-###DEL-007467-0-000-16-04-1945@@@
-
 DECRETO-LEI N. 7.467 – DE 16 DE ABRIL DE 1945
 
 Extingue o Departamento de Educação Física da Marinha

@@ -1,5 +1,3 @@
-###DEC-046321-0-000-30-06-1959@@@
-
 Decreto nº 46.321, de 30 de junho de 1959.
 
 Transfere da Prefeitura Municipal de Itutinga, no Estado de Minas Gerais, para Centrais Elétricas de Minas Gerais S. A., a concessão para distribuição de energia elétrica naquele Município, e dá outras providências.

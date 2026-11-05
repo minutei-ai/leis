@@ -1,5 +1,3 @@
-###DEL-001342-0-000-28-08-1974@@@
-
 # DECRETO-LEI Nº 1.342, DE 28 DE AGOSTO DE 1974
 
 Altera o artigo 12 da Lei nº 5.143, de 20 de outubro de 1966.

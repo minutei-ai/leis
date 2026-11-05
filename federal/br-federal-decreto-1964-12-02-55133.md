@@ -1,5 +1,3 @@
-###DEC-055133-0-000-02-12-1964@@@
-
 DECRETO Nº 55.133, DE 2 DE DEZEMBRO DE 1964.
 
 Regula a função de Ajudante-de-Ordens no Ministério da aeronáutica.

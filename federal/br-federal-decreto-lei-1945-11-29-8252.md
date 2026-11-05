@@ -1,5 +1,3 @@
-###DEL-008252-0-000-29-11-1945@@@
-
 DECRETO-LEI N. 8.252 – DE 29 DE NOVEMBRO DE 1945
 
 Suprime a contribuição de empregados para Legião Brasileira de Assistência, a que se refere o art. 2º, alínea "a", do Decreto-lei número 4.830, de 15 de outubro de 1942.

@@ -1,5 +1,3 @@
-###DEC-046503-0-000-20-07-1959@@@
-
 DECRETO Nº 46.503, DE 20 DE JULHO DE 1959.
 
 Outorga à Prefeitura Municipal de Itapagé, Estado do Ceará, concessão para distribuir energia elétrica.

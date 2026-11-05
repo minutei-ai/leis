@@ -1,5 +1,3 @@
-###DEC-046460-0-000-18-07-1959@@@
-
 DECERTO Nº 46.460, DE 18 DE JULHO DE 1959.
 
 Declara de utilidade publica, para fins de desapropriação, imóvel destinados às instalações da Escola de Agronomia e Veterinária da Universidade do Rio Grande do Sul.

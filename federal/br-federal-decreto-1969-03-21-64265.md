@@ -1,5 +1,3 @@
-###DEC-064265-0-000-21-03-1969@@@
-
 DECRETO Nº 64.265, DE 21 DE MARÇO DE 1969.
 
 Declara sem efeito o Decreto número 55.352, de 31 de dezembro de 1964, retificado pelo Decreto número 57.344, de 25 de novembro de 1965.

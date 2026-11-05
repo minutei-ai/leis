@@ -1,5 +1,3 @@
-###DEL-008792-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.792 – DE 22 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 600.000,00, destinado à execução de um acôrdo de defesa sanitária vegetal com o Estado de São Paulo.

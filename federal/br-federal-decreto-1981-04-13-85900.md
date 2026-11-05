@@ -1,5 +1,3 @@
-###DEC-085900-0-000-13-04-1981@@@
-
 Decreto Nº 85.900, de 13 de abril de 1981.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia, da Faculdade de Enfermagem e Obstetrícia de Barra Mansa, com sede na cidade de Barra Mansa, Estado do Rio de Janeiro.

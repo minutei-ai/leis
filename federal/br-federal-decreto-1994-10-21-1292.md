@@ -1,7 +1,3 @@
-1
-
-###DEC-001292-0-000-21-10-1994@@@
-
 # DECRETO Nº 1.292, DE 21 DE OUTUBRO DE 1994
 
 Extingue a Comissão Brasileira de Atividades Espaciais e dá outras providências.

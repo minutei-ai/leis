@@ -1,5 +1,3 @@
-###DEC-074397-0-000-13-08-1974@@@
-
 DECRETO Nº 74.397, DE 13 DE AGOSTO DE 1974.
 
 Concede à Empresa de Mineração Argical Ltda. o direito de lavrar argila no Município de Magé, Estado do Rio de Janeiro.

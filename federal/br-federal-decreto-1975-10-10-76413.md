@@ -1,5 +1,3 @@
-###DEC-076413-0-000-10-10-1975@@@
-
 Decreto nº 76.413, de 10 de outubro de 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

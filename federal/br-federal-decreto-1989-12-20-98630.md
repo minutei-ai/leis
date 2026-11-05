@@ -1,7 +1,3 @@
-1
-
-###DEC-098630-0-000-20-12-1989@@@
-
 DECRETO N° 98.630, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à RIO METRO TVA LTDA., para explorar Serviço Especial de Televisão por Assinatura - TVA, na região metropolitana do Rio de Janeiro, Estado do Rio de Janeiro.

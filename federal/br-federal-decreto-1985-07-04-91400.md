@@ -1,5 +1,3 @@
-###DEC-091400-0-000-04-07-1985@@@
-
 Decreto nº 91.400, de 04 de julho de 1985
 
 Altera os efetivos de Oficiais da Força Aérea Brasileira para 1985, fixados pelo Decreto nº 90.700, de 12 de dezembro de 1984.

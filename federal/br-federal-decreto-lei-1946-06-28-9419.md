@@ -1,5 +1,3 @@
-###DEL-009419-0-000-28-06-1946@@@
-
 DECRETO-LEI N. 9.419 – DE 28 DE JUNHO DE 1946
 
 Faz doação de bens pertencentes à União e situados no Estado do Ceará.

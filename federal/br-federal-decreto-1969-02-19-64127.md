@@ -1,5 +1,3 @@
-###DEC-064127-0-000-19-02-1969@@@
-
 DECRETO Nº 64.127, DE 19 DE FEVEREIRO DE 1969.
 
 Cria a Superintendência da Exposição Mundial Comemorativa do Sesquicentenário da Independência do Brasil.

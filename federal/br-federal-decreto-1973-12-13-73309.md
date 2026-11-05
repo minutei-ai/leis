@@ -1,5 +1,3 @@
-###DEC-073309-0-000-13-12-1973@@@
-
 DECRETO Nº 73.309 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Salles Andrade Mineração Ltda. O direito de lavrar bauxita, no Município de Ouro Preto, Estado de Minas Gerais.

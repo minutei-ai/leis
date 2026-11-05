@@ -1,5 +1,3 @@
-###DEC-066788-0-000-26-06-1970@@@
-
 DECRETO Nº 66.788, DE 26 DE JUNHO DE 1970.
 
 Modifica a redação do artigo 133 do Regulamento para o Serviço de Fiscalização da Importação, Depósito e Tráfego de Produtos Controlados pelo Ministério do Exército (SFIDT).

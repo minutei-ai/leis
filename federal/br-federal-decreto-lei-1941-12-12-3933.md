@@ -1,5 +1,3 @@
-###DEL-003933-0-000-12-12-1941@@@
-
 DECRETO-LEI N. 3.933 – DE 12 DE DEZEMBRO DE 1941
 
 Organiza o Parque de Moto-Mecanização da 7ª Região Militar com sede em Recife

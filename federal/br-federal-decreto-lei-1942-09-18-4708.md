@@ -1,5 +1,3 @@
-###DEL-004708-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.708 – DE 18 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito suplementar de 16.339:900$0, às verbas que especifica

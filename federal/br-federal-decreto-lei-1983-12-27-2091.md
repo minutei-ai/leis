@@ -1,5 +1,3 @@
-###DEL-002091-0-000-27-12-1983@@@
-
 # Decreto nº 2.091, de 27 de dezembro de 1983
 
 Reajusta os atuais valores de vencimentos e proventos dos funcionários das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

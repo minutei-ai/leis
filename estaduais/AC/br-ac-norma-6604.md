@@ -1,6 +1,10 @@
 > **LEI Nº 4.680, DE 27 DE NOVEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.655, de 23 de outubro de 2025, que dispõe sobre a contratação de operação de crédito com a Caixa Econômica Federal - CEF visando ao financiamento de ações com foco na transformação digital, e altera a Lei nº 4.656, de 23 de outubro de 2025, que dispõe sobre a contratação de operações de crédito com o Banco Nacional do Desenvolvimento Econômico - BNDES visando ao fortalecimento de cadeias de produção, para tratar de adequações técnicas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.655, de 23 de outubro de 2025, que dispõe sobre a contratação de operação de crédito com a Caixa Econômica Federal - CEF visando ao financiamento de ações com foco na transformação digital, e altera a Lei nº 4.656, de 23 de outubro de 2025, que dispõe sobre a contratação de operações de crédito com o Banco Nacional do Desenvolvimento Econômico - BNDES visando ao fortalecimento de cadeias de produção, para tratar de adequações técnicas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

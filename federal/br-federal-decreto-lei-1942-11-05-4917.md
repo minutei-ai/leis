@@ -1,5 +1,3 @@
-###DEL-004917-0-000-05-11-1942@@@
-
 DECRETO-LEI N. 4.917 – DE 5 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Aeronáutica o crédito suplementar de Cr$ 8.600.000,00, à verba que especifica

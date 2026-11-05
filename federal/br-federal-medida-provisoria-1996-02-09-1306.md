@@ -1,7 +1,3 @@
-1
-
-###MPV-001306-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.306, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053442-0-000-20-01-1964@@@
-
 DECRETO Nº 53.442, DE 20 DE JANEIRO DE 1964.
 
 Concede à Mineração Serra do Curral S.A. autorização para continuar a funcionar como emprêsa de mineração.

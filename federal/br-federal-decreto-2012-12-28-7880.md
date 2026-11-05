@@ -1,5 +1,3 @@
-###DEC-007880-0-000-28-12-2012-PUB-01@@@
-
 DECRETO Nº 7.880, DE 28 DE DEZEMBRO DE 2012
 
 Autoriza o aumento de capital na Caixa Econômica Federal - CEF.

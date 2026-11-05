@@ -1,5 +1,3 @@
-###DEC-045833-0-000-20-04-1959@@@
-
 DECRETO Nº 45.833, DE 20 DE ABRIL DE 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário Mensalista do Hospital de Aeronáutica de Belém de Expediente e Arquivo da Aeronáutica.

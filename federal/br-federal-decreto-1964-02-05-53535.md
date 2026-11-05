@@ -1,5 +1,3 @@
-###DEC-053535-0-000-05-02-1964@@@
-
 DECRETO Nº 53.535, de 5 de fevereiro de 1964.
 
 Autoriza a Comissão do vale do São Francisco a aceitar a doação do terreno onde será executada a perfuração de um poço profundo na Fazenda Babilônia, município de Irecê, no Estado da Bahia.

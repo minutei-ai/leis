@@ -1,5 +1,3 @@
-###DEC-077440-0-000-14-04-1976@@@
-
 DECRETO Nº 77.440 - DE 14 DE ABRIL DE 1976
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Aracaju, Estado de Sergipe.

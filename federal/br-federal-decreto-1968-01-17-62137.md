@@ -1,5 +1,3 @@
-###DEC-062137-0-000-17-01-1968@@@
-
 DECRETO Nº 62.137, DE 17 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Missão Salesiana de Mato Grosso”, com sede em Campo Grande, Estado de Mato Grosso.

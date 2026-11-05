@@ -1,5 +1,3 @@
-###DEC-057420-0-000-13-12-1965@@@
-
 DECRETO Nº 57.420, DE 13 DE DEZEMBRO DE 1965.
 
 Regulamento a aplicação de recursos em operações de Crédito Rotativo pelo Departamento Nacional de Obras Contra as Sêcas.

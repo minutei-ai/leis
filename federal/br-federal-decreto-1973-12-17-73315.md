@@ -1,5 +1,3 @@
-###DEC-073315-0-000-17-12-1973@@@
-
 Decreto Nº 73.315 - DE 17 DE DEZEMBRO DE 1973
 
 Dispõe sobre o enquadramento de funcionário da Universidade Federal do Rio de Janeiro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083905-0-000-28-08-1979@@@
-
 Decreto nº 83.905, de 28 de agosto de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, nos Estados do Maranhão e Pará.

@@ -1,5 +1,3 @@
-###MPV-001900-0-039-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.900-39, DE 29 DE JUNHO 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087085-0-000-06-04-1982@@@
-
 Decreto nº 87.085, de 06 de abril de 1982
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Gleba Pyrineos", situado no Município de Ji - Paraná, Estado de Rondônia, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975, e prorrogado pelo Decreto nº 85.075, de 27 de agosto de 1980.

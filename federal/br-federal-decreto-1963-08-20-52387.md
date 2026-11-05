@@ -1,5 +1,3 @@
-###DEC-052387-0-000-20-08-1963@@@
-
 DECRETO Nº 52.387, DE 20 DE AGÔSTO DE 1963.
 
 Retifica o Decreto nº 52.130, de 17 de junho de 1963.

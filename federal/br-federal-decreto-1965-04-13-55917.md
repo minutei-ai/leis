@@ -1,5 +1,3 @@
-###DEC-055917-0-000-13-04-1965@@@
-
 DECRETO Nº 55.917, DE 13 DE ABRIL DE 1965.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

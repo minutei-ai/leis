@@ -1,5 +1,3 @@
-###DEC-066098-0-000-20-01-1970@@@
-
 Decreto nº 66.098 - de 20 de janeiro de 1970
 
 Prorroga por noventa (90) dias, prazo para extinção de órgãos do Ministério da Saúde.

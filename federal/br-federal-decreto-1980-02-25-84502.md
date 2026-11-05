@@ -1,5 +1,3 @@
-###DEC-084502-0-000-25-02-1980@@@
-
 DECRETO Nº 84.502, DE 25 DE FEVEREIRO DE 1980.
 
 Concede à Fertilizantes Nitrogenados do Nordeste S.A. - NITROFERTIL - NE, autorização para proceder ao aumento do limite de seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-088184-0-000-16-03-1983@@@
-
 Decreto nº 88.184, de 16 de março de 1983.
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.

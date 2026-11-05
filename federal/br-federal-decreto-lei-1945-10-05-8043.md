@@ -1,5 +1,3 @@
-###DEL-008043-0-000-05-10-1945@@@
-
 DECRETO-LEI N. 8.043 – DE 5 DE OUTUBRO DE 1945
 
 Restabelece o cargo de Adido Militar do Brasil em Roma

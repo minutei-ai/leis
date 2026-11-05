@@ -1,5 +1,3 @@
-###DEL-003534-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.534 – DE 21 DE AGOSTO DE 1941
 
 Abre, pelo Conselho Nacional de Petróleo, o crédito especial de 300:000$0 para atender às medidas de emergência com o racionamento de combustíveis líquidos minerais

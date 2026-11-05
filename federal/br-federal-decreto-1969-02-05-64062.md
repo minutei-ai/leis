@@ -1,5 +1,3 @@
-###DEC-064062-0-000-05-02-1969@@@
-
 DECRETO Nº 64.062, DE 5 DE FEVEREIRO DE 1969.
 
 Autoriza o funcionamento da Faculdade da de Medicina "ABC", situada em Santo André - SP.

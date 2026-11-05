@@ -4,7 +4,8 @@ Institui o Programa Estadual de Inclusão Socioprodutiva - Vida Melhor e dá out
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituído o Programa Estadual de Inclusão Socioprodutiva - Vida Melhor, com a finalidade de incluir socioprodutivamente, pelo trabalho decente, pessoas em situação de pobreza e com potencial laborativo, com vistas à sua emancipação.
@@ -29,7 +30,8 @@ I - empreendimentos de economia solidária: os entes privados que atendam a prin
 
 II - empreendimentos individuais ou familiares: unidades econômicas de produção ou comercialização de bens ou serviços, pertencentes a pessoas físicas, formalizadas ou não, que trabalham sozinhas ou na estrutura da unidade familiar.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DOS OBJETIVOS, DIRETRIZES E INTRUMENTOS
 
 Art. 3º - O Programa Estadual de Inclusão Socioprodutiva - Vida Melhor terá como objetivos:
@@ -76,7 +78,8 @@ VIII - promoção e estímulo às ações de agroindustrialização e comerciali
 
 IX - promoção e estímulo às ações voltadas para regularização da ocupação das terras devolutas estaduais em benefício de Comunidades Tradicionais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DA GESTÃO
 
 Art. 6º - A gestão do Programa Estadual de Inclusão Socioprodutiva - Vida Melhor será feita através dos seguintes Comitês:
@@ -195,7 +198,8 @@ Parágrafo único - Os membros de que tratam os incisos I a VII serão indicados
 
 Art. 13 - Para a execução do Programa Estadual de Inclusão Socioprodutiva - Vida Melhor poderão ser firmados convênios, acordos de cooperação, ajustes ou outros instrumentos congêneres com órgãos e entidades da Administração Pública Federal ou dos Municípios, com consórcios públicos e entidades privadas, na forma da legislação pertinente.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DAS DISPOSIÇÕES FINAIS
 
 Art. 14 - São ações contínuas do Programa Estadual de Inclusão Socioprodutiva - Vida Melhor as previstas no Plano Plurianual - PPA, tais como distribuição de bens, serviços, valores e benefícios que possibilitem a inclusão socioprodutiva pelo trabalho decente das pessoas em situação de pobreza das zonas urbana e rural, a redução da insegurança alimentar e da vulnerabilidade econômica e social dos beneficiários do Programa, a elevação da renda da população em estado de pobreza, a redução das desigualdades socioeconômicas e promoção da agricultura familiar e os empreendimentos produtivos populares e solidários.

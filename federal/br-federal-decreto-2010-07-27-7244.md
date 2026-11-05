@@ -1,5 +1,3 @@
-###DEC-007244-0-000-27-07-2010@@@
-
 DECRETO Nº 7.244, DE 27 DE JULHO DE 2010.
 
 Excepciona a Telecomunicações Brasileiras S.A. - TELEBRÁS da aplicação de disposição contida no Decreto no 757, de 19 de fevereiro de 1993.

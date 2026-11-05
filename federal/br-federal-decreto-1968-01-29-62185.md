@@ -1,5 +1,3 @@
-###DEC-062185-0-000-29-01-1968@@@
-
 DECRETO Nº 62.185, DE 29 DE JANEIRO DE 1968.
 
 Declara de utilidade pública, para desapropriação imóvel situado à Rua Condessa Siciliano nº 353, na cidade de São Paulo, Estado de São Paulo.

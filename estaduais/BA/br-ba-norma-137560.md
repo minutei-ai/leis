@@ -40,7 +40,8 @@ Institui o Plano Plurianual Participativo - PPA do Estado da Bahia para o quadri
 
 **§ 2º** - As ações orçamentárias serão elaboradas considerando as iniciativas, e garantindo a compatibilização entre o Plano Plurianual e a Lei Orçamentária Anual.
 
-Redação de acordo com o art. 4 da Lei [14.289](https://www.legislabahia.ba.gov.br/documentos/lei-no-14289-de-07-de-janeiro-de-2021) de 07 de janeiro de 2021.<br>
+Redação de acordo com o art. 4 da Lei [14.289](https://www.legislabahia.ba.gov.br/documentos/lei-no-14289-de-07-de-janeiro-de-2021) de 07 de janeiro de 2021.
+
 Redação anterior: " Parágrafo único - As ações orçamentárias serão elaboradas considerando as iniciativas, e garantindo a compatibilização entre o Plano Plurianual e a Lei Orçamentária Anual."
 
 **Art. 6º** - O Anexo Único desta Lei, contendo o detalhamento dos programas, integra o PPA 2020-2023, ao tempo que, textos introdutórios, quadros e tabelas têm caráter informativo e complementar.
@@ -61,7 +62,8 @@ Redação anterior: " Parágrafo único - As ações orçamentárias serão elab
 
 **II -** no prazo de até 60 (sessenta) dias do encaminhamento do Relatório de Prestação de Contas Anual, disponibilizado no sítio eletrônico da Secretaria do Planejamento, o Relatório de Avaliação da Execução do PPA 2020-2023, considerando a evolução da ação governamental no seu período de vigência.
 
-Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.
+
 Redação original: "II - no prazo de até 90 (noventa) dias do encaminhamento do Relatório de Prestação de Contas Anual, disponibilizado no sítio eletrônico da Secretaria do Planejamento, o Relatório de Avaliação da Execução do PPA 2020-2023, considerando a evolução da ação governamental no seu período de vigência."
 
 **Art. 10** - Esta Lei entra em vigor na data de sua publicação.

@@ -1,5 +1,3 @@
-###DEC-004835-0-000-08-09-2003@@@
-
 DECRETO Nº 4.835,  DE 8 DE SETEMBRO DE 2003.
 
        Dá nova redação ao art. 2o do Decreto no 98.068, de 18 de agosto de 1989, que dispõe sobre o hasteamento da Bandeira Nacional.
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 8 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Cristovam Ricardo Cavalcanti Buarque

@@ -1,7 +1,3 @@
-1
-
-###DEC-000836-0-000-09-06-1993@@@
-
 DECRETO N° 836, DE 9 DE JUNHO DE 1993
 
 Regulamenta a realização do Salão Nacional de Artes Plásticas de que trata a Lei n° 6.426, de 30 de junho de 1977, e dá outras providências.

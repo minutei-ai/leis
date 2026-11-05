@@ -1,5 +1,3 @@
-###DEC-058543-0-000-30-05-1966@@@
-
 Decreto nº 58.543, de 30 de maio de 1966.
 
 Altera a redação do artigo 11 do Decreto nº 55.852, de 22 de março de 1965 (Regulamento do Impôsto do Sêlo).

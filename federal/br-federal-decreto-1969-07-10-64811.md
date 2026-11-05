@@ -1,5 +1,3 @@
-###DEC-064811-0-000-10-07-1969@@@
-
 DECRETO Nº 64.811 - DE 10 DE JUlHO DE 1969.
 
 Declara caduco o Decreto nº 17.266, de 29 de novembro de 1944.

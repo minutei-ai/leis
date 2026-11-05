@@ -1,5 +1,3 @@
-###DEL-004270-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.270 – DE 17 DE ABRIL DE 1942
 
 Estabelece a prioridade para as exigências da Segurança Nacional, e dá outras providências

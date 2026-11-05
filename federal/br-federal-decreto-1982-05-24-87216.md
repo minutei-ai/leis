@@ -1,5 +1,3 @@
-###DEC-087216-0-000-24-05-1982@@@
-
 Decreto nº 87.216, de 24 de maio de 1982
 
 Altera a localização da sede do 8º Grupo de Artilharia de Costa Motorizado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003377-0-000-02-03-2000@@@
-
 DECRETO Nº 3.377, DE 2 DE MARÇO DE 2000.
 
 Fixa o valor absoluto do limite global das deduções do Imposto sobre a Renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

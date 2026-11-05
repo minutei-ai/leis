@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212138)<br>
-
 # DECRETO N° 70.312, DE 29 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2025._

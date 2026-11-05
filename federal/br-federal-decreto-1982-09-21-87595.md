@@ -1,5 +1,3 @@
-###DEC-087595-0-000-21-09-1982@@@
-
 Decreto nº 87.595, de 21 de setembro de 1982
 
 Declara de utilidade pública as instituições que menciona.

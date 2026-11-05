@@ -1,5 +1,3 @@
-###DEL-005993-0-000-16-11-1943@@@
-
 DECRETO‑LEI N. 5.993 – DE 16 DE NOVEMBRO DE 1943
 
 Transforma o Serviço de Obras do Departamento Administrativo do Serviço Público em Divisão de Edifícios Públicos, e dá outras Providências

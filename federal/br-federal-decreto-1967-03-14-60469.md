@@ -1,5 +1,3 @@
-###DEC-060469-0-000-14-03-1967@@@
-
 Decreto nº 60.469, de 14 de março de 1967.
 
 Aprova o enquadramento dos professôres-fundadores da Universidade Federal do Espírito Santo em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar do Ministério da Educação e Cultura e dá outras providências.

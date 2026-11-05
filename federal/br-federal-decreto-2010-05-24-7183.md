@@ -1,8 +1,10 @@
-###DEC-007183-0-000-24-05-2010@@@
-
 DECRETO Nº 7.183, DE 24 DE MAIO DE 2010
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:425.2pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:9pt"><span style="font-family:Arial; font-weight:bold; font-style:italic; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial; font-weight:bold; font-style:italic">Promulga o Ajuste Complementar, por Troca de Notas, do Acordo sobre Cooperação Financeira entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre o Projeto "Programa de Construção de Pequenas Centrais Hidrelétricas/Eletrobrás", celebrado em Brasília, em 13 de agosto de 2008.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:425.2pt; vertical-align:top">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promulga o Ajuste Complementar, por Troca de Notas, do Acordo sobre Cooperação Financeira entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre o Projeto "Programa de Construção de Pequenas Centrais Hidrelétricas/Eletrobrás", celebrado em Brasília, em 13 de agosto de 2008.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e
 

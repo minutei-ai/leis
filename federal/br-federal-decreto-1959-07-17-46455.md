@@ -1,5 +1,3 @@
-###DEC-046455-0-000-17-07-1959@@@
-
 decreto nº 46.455, de 17 de julho de 1959.
 
 Retifica o art. 1º do Decreto nº 36.988, de 4 de março de 1955.

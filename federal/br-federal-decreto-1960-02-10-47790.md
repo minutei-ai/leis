@@ -1,5 +1,3 @@
-###DEC-047790-0-000-10-02-1960@@@
-
 DECRETO Nº 47.790, DE 10 DE FEVEREIRO DE 1960.
 
 Autoriza a “São Paulo Light S. A., - Servidores de Eletricidade” a construir uma linha de transmissão destinada a fornecer energia elétrica à fábrica da “Ford Motor Company”, em Osasco, distrito do município da Capital do Estado de São Paulo.

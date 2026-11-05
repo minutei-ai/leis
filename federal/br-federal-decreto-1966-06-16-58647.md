@@ -1,5 +1,3 @@
-###DEC-058647-0-000-16-06-1966@@@
-
 DECRETO Nº 58.647, DE 16 DE JUNHO DE 1966.
 
 Declara públicas, de uso comum, as águas dos cursos d’água que especifica.

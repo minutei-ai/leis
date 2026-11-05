@@ -1,14 +1,12 @@
-###DEC-037536-0-000-27-06-1955@@@
+**DECRETO Nº 37.536, DE 27 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.536, DE 27 DE JUNHO DE 1955.</strong>
+***Altera o Regimento do Museu Nacional de Belas-Artes, do Ministério da Educação e Cultura.***
 
-<em><strong>Altera o Regimento do Museu Nacional de Belas-Artes, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 10 e seus §§ 1º e 3º do Regimento do Museu Nacional de Belas-Artes do Ministério da Educação e Cultura, aprovado pelo Decreto nº 36.778, de 14 de janeiro de 1955, passam a vigorar com a seguinte redação:
+**Art**. 1º O art. 10 e seus §§ 1º e 3º do Regimento do Museu Nacional de Belas-Artes do Ministério da Educação e Cultura, aprovado pelo Decreto nº 36.778, de 14 de janeiro de 1955, passam a vigorar com a seguinte redação:
 
 “Art. 10. Incumbe ao Conselho Técnico:
 
@@ -28,10 +26,10 @@ VI - Opinar sôbre a cessão por empréstimo de objetos pertencentes ao patrimô
 
 § 2º As deliberações do Conselho Técnico são tomadas por maioria de votos, mas, nos casos dos incisos II, III, IV e VI do presente artigo, ou quando interposto, pelo vencido, recurso ao Ministro, só serão executadas após homologação ministerial.”
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 27 de junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Cândido Motta Filho

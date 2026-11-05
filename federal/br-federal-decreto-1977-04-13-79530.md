@@ -1,5 +1,3 @@
-###DEC-079530-0-000-13-04-1977@@@
-
 DECRETO Nº 79.530, DE 13 DE ABRIL DE 1977.
 
 Cria a Diretoria de Abastecimento da Marinha, altera a denominação da atual Diretoria de Intendência da Marinha, e dá outras providências.

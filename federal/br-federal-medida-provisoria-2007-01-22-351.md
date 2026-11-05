@@ -1,5 +1,3 @@
-###MPV-000351-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 351, DE 22 DE JANEIRO DE 2007.
 
 Cria o Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, reduz para vinte e quatro meses o prazo mínimo para utilização dos créditos da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS decorrentes da aquisição de edificações, amplia o prazo para pagamento de impostos e contribuições e dá outras providências.
@@ -217,5 +215,3 @@ Brasília, 22 de janeiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Guido Mantega
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

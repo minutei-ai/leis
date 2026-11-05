@@ -1,5 +1,3 @@
-###DEC-046244-0-000-19-06-1959@@@
-
 DECRETO Nº 46.244, DE 19 DE JUNHO DE 1959.
 
 Transfere função da Tabela Numérica especial de Extranumerário Mensalista da Escola da Aeronáutica do Ministério da Aeronáutica para idêntica Tabela da Administração do Edifício da Fazenda, o Ministério da Fazenda.

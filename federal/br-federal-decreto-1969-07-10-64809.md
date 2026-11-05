@@ -1,5 +1,3 @@
-###DEC-064809-0-000-10-07-1969@@@
-
 DECRETO Nº 64.809 - DE 10 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 17.264 de 29 de novembro de 1944.

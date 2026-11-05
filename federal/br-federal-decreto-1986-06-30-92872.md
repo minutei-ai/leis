@@ -1,5 +1,3 @@
-###DEC-092872-0-000-30-06-1986@@@
-
 DECRETO Nº 92.872, DE 30 DE JUNHO DE 1986
 
 Extingue o Vice-Consulado do Brasil em Vigo.

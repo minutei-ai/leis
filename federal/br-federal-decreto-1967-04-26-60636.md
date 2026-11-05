@@ -1,5 +1,3 @@
-###DEC-060636-0-000-26-04-1967@@@
-
 DECRETO Nº 60.636, DE 26 DE ABRIL DE 1967.
 
 Dispõe sôbre medidas relacionadas com a implantação da Reforma Administrativa.

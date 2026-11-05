@@ -1,5 +1,3 @@
-###DEC-052691-0-000-15-10-1963@@@
-
 DECRETO Nº 52.691, DE 15 DE OUTUBRO DE 1963.
 
 Altera o Regulamento, para as Escolas de Marinha Mercante

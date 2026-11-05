@@ -1,5 +1,3 @@
-###DEC-064099-0-000-12-02-1969@@@
-
 DECRETO Nº 64.099, DE 12 DE FEVEREIRO DE 1969.
 
 Concede reconhecimento ao Curso de Instrumento, modalidade Piano e Violino, do Conservatório de Música da Universidade Federal de Goiás.

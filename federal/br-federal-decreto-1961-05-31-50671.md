@@ -1,5 +1,3 @@
-###DEC-050671-0-000-31-05-1961@@@
-
 DECRETO Nº 50.671, DE 31 DE MAIO DE 1961.
 
 Institui o Grupo de Reequipamento técnico-científico das Universidades do Nordeste (GRUNE).

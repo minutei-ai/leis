@@ -1,5 +1,3 @@
-###DEC-005000-0-000-01-03-2004@@@
-
 DECRETO Nº 5.000,  DE 1º DE MARÇO DE 2004.
 
 Revoga o Decreto nº 2.574, de 29 de abril de 1998, que regulamenta a Lei nº 9.615, de 24 de março de 1998, que institui nor-mas gerais sobre o desporto, e os Decretos n os 3.214, de 21 de outubro de 1999, e 4.315, de 30 de julho de 2002.

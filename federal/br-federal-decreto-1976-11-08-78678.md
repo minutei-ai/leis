@@ -1,5 +1,3 @@
-###DEC-078678-0-000-08-11-1976@@@
-
 DECRETO Nº 78.678, DE 8 DE NOVEMBRO DE 1976.
 
 Encampa bens e instalações que constituem dois grupos turbo-geradores, a gás, de dez mil e quinhentos quilowatts cada um, situados na localidade de Santa Cruz, no Município do Rio de Janeiro, Estado do Rio de Janeiro, explorados por FURNAS - Centrais Elétricas S. A.

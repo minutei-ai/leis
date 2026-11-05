@@ -1,5 +1,3 @@
-###DEC-087747-0-000-01-11-1982@@@
-
 Decreto nº 87.747, de 1º de novembro de 1982.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Duque de Caxias, no Estado do Rio de Janeiro, e dá outras providências.

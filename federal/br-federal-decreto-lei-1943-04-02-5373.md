@@ -1,5 +1,3 @@
-###DEL-005373-0-000-02-04-1943@@@
-
 DECRETO‑LEI N. 5.373 – DE 2 DE ABRIL DE 1943
 
 Autoriza operações de crédito entre o Tesouro Nacional e o Banco do Brasil, para liquidação das contas do exercício de 1942

@@ -1,5 +1,3 @@
-###DEC-068048-0-000-13-01-1971@@@
-
 DECRETO Nº 68.048, DE 13 DE JANEIRO DE 1971.
 
 Retifica o enquadramento de servidores do Ministério do Exército e dá outras providências.

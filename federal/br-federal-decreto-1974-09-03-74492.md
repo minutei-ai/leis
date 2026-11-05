@@ -1,5 +1,3 @@
-###DEC-074492-0-000-03-09-1974@@@
-
 DECRETO Nº 74.492, DE 3 DE SETEMBRO DE 1974.
 
 Fixa coeficientes de aceleração para as cotas de depreciação utilizáveis pelas concessionárias de serviços públicos de telecomunicações.

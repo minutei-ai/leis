@@ -1,5 +1,3 @@
-###DEC-054702-0-000-29-10-1964@@@
-
 DECRETO Nº 54.702, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Emprêsa Fôrça e Luz Santa Catarina S.A. a construir linha de transmissão.

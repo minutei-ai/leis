@@ -1,5 +1,3 @@
-###DEL-003259-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.259 – DE 9 DE MAIO DE 1941
 
 Prorroga os prazos de que tratam os artigos 12 e 18 do decreto-lei n. 852, de 11 de novembro de 1938, e dá outras providências

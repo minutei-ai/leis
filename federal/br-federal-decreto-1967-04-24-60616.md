@@ -1,5 +1,3 @@
-###DEC-060616-0-000-24-04-1967@@@
-
 DECRETO Nº 60.616, DE 24 DE ABRIL DE 1967.
 
 Autoriza o funcionamento de cursos de Faculdade de Filosofia, Ciências e Letras.

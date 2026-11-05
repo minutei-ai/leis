@@ -1,5 +1,3 @@
-###DEL-006499-0-000-13-05-1944@@@
-
 DECRETO-LEI N. 6.499 – DE 13 DE MAIO DE 1944
 
 Altera a carreira de Postalista-auxiliar do Quadro III , Parte Suplementar, do Ministério da Viação e Obras Públicas, e dá outras providências

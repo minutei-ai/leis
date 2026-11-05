@@ -1,5 +1,3 @@
-###DEC-064783-0-000-03-07-1969@@@
-
 DECRETO Nº 64.783 - DE 3 DE JULHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos adjacentes ao aeroporto de Recife, Estado de Pernambuco.

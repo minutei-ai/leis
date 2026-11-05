@@ -1,5 +1,3 @@
-###DEC-075072-0-000-09-12-1974@@@
-
 Decreto nº 75.072, de 9 de dezembro de 1974.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto nº 60.459, de 13 de março de 1967, relativo ao Decreto-lei nº 73, de 21 de novembro de 1966, que dispõe sobre o Sistema Nacional de Seguros Privados, e regula as operações de seguros e resseguros.

@@ -1,5 +1,3 @@
-###DEC-077162-0-000-12-02-1976@@@
-
 DECRETO N.º 77.162 - DE 12 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Letras da Faculdade Ibero-Americana de Letras e Ciências Humanas, com sede na Cidade de São Paulo, Estado de São Paulo.

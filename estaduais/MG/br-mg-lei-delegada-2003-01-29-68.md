@@ -119,7 +119,3 @@ Fundação de Amparo à Pesquisa do Estado de Minas Gerais – FAPEMIG
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,85057 Assessor 06 0,90000 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Diretoria Científica Diretor 01 1,57298 Assessoria Jurídica Assessor Jurídico 01 0,90000 Auditoria Seccional Auditor Seccional 01 0,90000
-
-\----------------------------------------------
-
-Data da última atualização: 25/1/2011.

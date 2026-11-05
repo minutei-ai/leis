@@ -1,5 +1,3 @@
-###DEC-068422-0-000-25-03-1971@@@
-
 Decreto nº 68.422, de 25 de março de 1971.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, no Estado de Minas Gerais.

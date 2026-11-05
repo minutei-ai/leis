@@ -1,5 +1,3 @@
-###DEC-078943-0-000-15-12-1976@@@
-
 DECRETO Nº 78.943, DE 15 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados no município de Laranjeiras, no Estado de Sergipe.

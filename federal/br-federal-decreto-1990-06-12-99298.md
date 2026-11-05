@@ -1,7 +1,3 @@
-1
-
-###DEC-099298-0-000-12-06-1990@@@
-
 DECRETO N° 99.298, DE 12 DE JUNHO DE 1990
 
 Aprova o Regimento Interno da Comissão de Aprovação de Projetos Básicos de Serviços de Publicidade.

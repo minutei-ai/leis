@@ -1,5 +1,3 @@
-###DEC-056938-0-000-01-10-1965@@@
-
 DECRETO Nº 56.938, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Rio Ligth S.A. - Serviços de Eletricidade a ampliar seu sistema de distribuição, no Estado da Guanabara.

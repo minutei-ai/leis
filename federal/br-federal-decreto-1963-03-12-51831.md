@@ -1,5 +1,3 @@
-###DEC-051831-0-000-12-03-1963@@@
-
 DECRETO Nº 51.831, DE 12 DE MARÇO DE 1963.
 
 Autoriza o cidadão brasileiro Liberalino Coelho Nunes a pesquisar quartzo e mica no município de Virgolândia, Estado de Minas Gerais

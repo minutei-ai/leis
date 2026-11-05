@@ -1,7 +1,3 @@
-1
-
-###DEC-097949-0-000-11-07-1989@@@
-
 DECRETO N° 97.949, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA DENDÊ”, classificado como latifúndio por exploração, situado no Município de São Mateus, no Estado do Maranhão, compreendido na zona prioritária fixada pelo Decreto n° 92.619, de 2 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055156-0-000-04-12-1964@@@
-
 Decreto nº 55.156, de 04 de dezembro de 1964.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica.

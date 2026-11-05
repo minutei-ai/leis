@@ -1,5 +1,3 @@
-###DEC-051759-0-000-27-02-1963@@@
-
 DECRETO Nº 51.759, DE 27 DE FEVEREIRO DE 1963.
 
 Declara prioritária para o desenvolvimento do Nordeste para efeito da isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados ao “Cotonifício Victor de Araújo S.A.”, de Recife (Pe).
@@ -14,7 +12,37 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de insenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinente aos motores elétricos referidos nos itens 2 e 3 infra, que acompanham a maquinaria, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados ao “Cotonifício Victor de Araújo S.A.“, de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:304.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM - ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Passador de mecha, tipo SBS-1, com 4 entregas, 6 dobragens bitola de 450 mm, trem de estiragem do tipo 3 sôbre 4, sistema de, aspiração e dispositivo de parada automática com caixa de comando elétrico hermèticamente fechada; pêso líquido: 1.780kg ....</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.269,5</span></p></td></tr><tr><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Motor elétrico para acionamento do passador, tipo Schorch Dkh 4 b/4 de 380 V, 60 ciclos, 2,2 KW 1.720 RPM, devidamente acoplado; pêso líquido: 64 kg ..............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>110,5</span></p></td></tr><tr><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Motor elétrico para o sistema de aspiração, tipo ZIEHL-ABEGG DF 92/30/2 de 380 V, 60 ciclos, 0,2 KW, 3.100 RPM, devidamente acoplado; pêso líquido: 12 kg. Fabricação: Spintex-Spinnerei Machinenbau, From &amp; Co. - Murrhardt - Alemanha Ocidental.............</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>60,0</span></p></td></tr><tr><td style="width:304.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ....................................................................................................</span></p></td><td style="width:56.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.440,0</span></p></td></tr></tbody></table>
+ITEM - ESPECIFICAÇÃO
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total CIF US$
+
+1. Passador de mecha, tipo SBS-1, com 4 entregas, 6 dobragens bitola de 450 mm, trem de estiragem do tipo 3 sôbre 4, sistema de, aspiração e dispositivo de parada automática com caixa de comando elétrico hermèticamente fechada; pêso líquido: 1.780kg ....
+
+1
+
+4.269,5
+
+2. Motor elétrico para acionamento do passador, tipo Schorch Dkh 4 b/4 de 380 V, 60 ciclos, 2,2 KW 1.720 RPM, devidamente acoplado; pêso líquido: 64 kg ..............................................................................
+
+1
+
+110,5
+
+3. Motor elétrico para o sistema de aspiração, tipo ZIEHL-ABEGG DF 92/30/2 de 380 V, 60 ciclos, 0,2 KW, 3.100 RPM, devidamente acoplado; pêso líquido: 12 kg. Fabricação: Spintex-Spinnerei Machinenbau, From &amp; Co. - Murrhardt - Alemanha Ocidental.............
+
+1
+
+60,0
+
+Total ....................................................................................................
+
+4.440,0
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito aos motores elétricos citados nos itens 2 e 3 retro, fica sua similariedade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

@@ -1,5 +1,3 @@
-###DEC-005987-0-000-19-12-2006@@@
-
 DECRETO Nº 5.987 DE 19 DE DEZEMBRO DE 2006.
 
 Dispõe sobre a compensação da Cide-Combustíveis por pessoas jurídicas importadoras ou adquirentes de hidrocarbonetos líquidos não destinados à formulação de gasolina ou diesel.
@@ -41,5 +39,3 @@ Brasília, 19 de dezembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
     Guido Mantega
-
-Este texto não substitui o publicado no DOU de 20.12.2006

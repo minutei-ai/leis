@@ -1,5 +1,3 @@
-###DEC-078892-0-000-06-12-1976@@@
-
 DECRETO Nº 78.892, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Letras, e de Psicologia, mantidos pelas Faculdades Metropolitanas Unidas-Associação Educacional, com sede na cidade de São Paulo, Estado de São Paulo.

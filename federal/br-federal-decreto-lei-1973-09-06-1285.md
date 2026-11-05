@@ -1,5 +1,3 @@
-###DEL-001285-0-000-06-09-1973@@@
-
 # DECRETO-LEI Nº 1.285, DE 6 DE SETEMBRO DE 1973
 
 Altera texto do Decreto-lei nº 717, de 30 de julho de 1969 e dá outras providências.

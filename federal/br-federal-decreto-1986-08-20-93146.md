@@ -1,5 +1,3 @@
-###DEC-093146-0-000-20-08-1986@@@
-
 DECRETO Nº 93.146, DE 20 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas KULINA, área de terra no Município de Envira, no Estado do Amazonas, e dá outras providências.

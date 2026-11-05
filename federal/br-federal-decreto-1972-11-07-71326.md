@@ -1,5 +1,3 @@
-###DEC-071326-0-000-07-11-1972@@@
-
 DECRETO Nº 71.326 - DE 7 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento à Faculdade de Odontologia de Mogi das Cruzes - São Paulo.

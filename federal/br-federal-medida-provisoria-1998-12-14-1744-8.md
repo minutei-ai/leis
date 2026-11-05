@@ -1,5 +1,3 @@
-###MPV-001744-0-008-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.744-8, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

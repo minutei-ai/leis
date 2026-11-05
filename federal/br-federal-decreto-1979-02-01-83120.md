@@ -1,5 +1,3 @@
-###DEC-083120-0-000-01-02-1979@@@
-
 Decreto nº 83.120, de 01 de fevereiro de 1979
 
 Dá nova redação a dispositivos do Decreto nº 82.491, de 27 de outubro de 1978, que autoriza o Ministro da Fazenda a conceder garantia a crédito externo a ser contratado pela Companhia Siderúrgica de Tubarão - CST.

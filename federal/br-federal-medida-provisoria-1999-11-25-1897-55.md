@@ -1,5 +1,3 @@
-###MPV-001897-0-055-25-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.897-55, DE 25 DE NOVEMBRO DE 1999.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

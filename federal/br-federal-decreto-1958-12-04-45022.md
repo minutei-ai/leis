@@ -1,5 +1,3 @@
-###DEC-045022-0-000-04-12-1958@@@
-
 DECRETO Nº 45.022, DE 4 DE DEZEMBRO DE 1958.
 
 Outorga ao Govêrno do Estado do Rio de Janeiro, concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Rio de Janeiro, 4 de dezembro de 1958; 137º da Independência e 70º da Repúbl
 JUSCELINO KUBITSCHEK
 
 Mário Meneghetti
-
-###DEC-045022-0-000-04-12-1958@@@RET01+++
 
 DECRETO Nº 45.022, DE 4 DE DEZEMBRO DE 1958.
 

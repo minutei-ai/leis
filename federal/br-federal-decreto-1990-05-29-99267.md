@@ -1,7 +1,3 @@
-1
-
-###DEC-099267-0-000-29-05-1990@@@
-
 DECRETO N° 99.267, DE 29 DE MAIO DE 1990
 
 Altera a redação do art. 166 do Decreto n° 99.244, de 10 de maio de 1990.

@@ -1,5 +1,3 @@
-###DEC-064255-0-000-21-03-1969@@@
-
 DECRETO Nº 64.255, DE 21 DE MARÇO DE 1969.
 
 Declara caduco o Decreto nº 18.697, de 23 de maio de 1945.

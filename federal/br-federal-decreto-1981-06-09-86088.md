@@ -1,5 +1,3 @@
-###DEC-086088-0-000-09-06-1981@@@
-
 Decreto Nº 86.088, de 09 de junho de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001524-0-000-20-06-1995@@@
-
 DECRETO Nº 1.524, DE 20 DE JUNHO DE 1995
 
 Aprova o Estatuto da Companhia de Pesquisa de Recursos Minerais - (CPRM.

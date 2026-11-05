@@ -1,5 +1,3 @@
-###DEC-076407-0-000-09-10-1975@@@
-
 DECRETO Nº 76.407, DE 9 DE OUTUBRO DE 1975.
 
 Institui normas para importação, arrendamento mercantil, locação ou aquisição no mercado interno, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas, de máquinas, equipamentos e veículos , inclusive suas partes, peças e acessórios, de origem externa; e dá outras providências.

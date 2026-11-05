@@ -1,5 +1,3 @@
-###DEL-006918-0-000-02-10-1944@@@
-
 DECRETO-LEI N. 6.918 – DE 2 DE OUTUBRO DE 1944
 
 Concede pensão especial a Virgílio Luz, pai de João Luz, assassinado em serviço

@@ -1,5 +1,3 @@
-###MPV-001701-0-015-27-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.701-15, DE 27 DE OUTUBRO DE 1998
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

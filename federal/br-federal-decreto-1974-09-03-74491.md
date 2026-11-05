@@ -1,5 +1,3 @@
-###DEC-074491-0-000-03-09-1974@@@
-
 DECRETO Nº 74.491, DE 3 DE SETEMBRO DE 1974.
 
 Autoriza Teijin do Brasil - Industrial, Comercial e Agropecuária Limitada, a adquirir imóvel rural.

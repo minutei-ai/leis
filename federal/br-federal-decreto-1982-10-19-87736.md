@@ -1,5 +1,3 @@
-###DEC-087736-0-000-19-10-1982@@@
-
 Decreto nº 87.736, de 19 de outubro de 1982
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais denominados lotes ns. 3-1 e 4, e partes dos lotes ns. 1, 2 e 3, todos do "Seringal Curralinho", situados no Município de Jaru, Estado de Rondônia, compreendidos na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pela Decreto nº 75.295, de 27 de janeiro de 1975, e prorrogado pelo Decreto nº 85.075, de 27 de agosto de 1980.

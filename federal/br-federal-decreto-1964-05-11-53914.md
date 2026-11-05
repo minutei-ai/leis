@@ -1,5 +1,3 @@
-###DEC-053914-0-000-11-05-1964@@@
-
 DECRETO Nº 53.914, DE 11 DE MAIO DE 1964.
 
 Define as atribuições do Ministro de Estado Extraordinário para o Planejamento e Coordenação Econômica, extingue órgãos da Presidência da República e dá outras providências;
@@ -80,7 +78,21 @@ Art. 9º O acêrvo dos órgãos extintos, pelo artigo 6º dêste Decreto, compre
 
 Art. 10. O Ministério da Fazenda colocará à disposição do Ministro de Estado Extraordinário para o Planejamento e Coordenação Econômica a seguinte dotação orçamentária do Orçamento Geral da União para o corrente exercício (Lei nº 4.295, de 16 de dezembro de 1963):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:431.55pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.01.02 - Presidência da República.</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(Encargos Gerais)</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Despesas Ordinárias</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Consignação 1.6.00 - Encargos diversos</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sub-Consignação:</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.6.23 - Diversos</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>...........................................................................................................................................................</span></p></td></tr><tr><td style="width:431.55pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>...........................................................................................................................................................</span></p></td></tr></tbody></table>
+4.01.02 - Presidência da República.
+
+(Encargos Gerais)
+
+Despesas Ordinárias
+
+Consignação 1.6.00 - Encargos diversos
+
+Sub-Consignação:
+
+1.6.23 - Diversos
+
+...........................................................................................................................................................
+
+...........................................................................................................................................................
 
 14 - Manutenção e funcionamento dos Ministérios Extraordinários, criados pela Lei Delegada nº 1, de 25 de setembro de 1962. - Cr$200.000.000,00.
 

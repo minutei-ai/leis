@@ -1,5 +1,3 @@
-###DEC-056662-0-000-06-08-1965@@@
-
 DECRETO Nº 56.662, de 6 de agôsto de 1965.
 
 Autoriza o cidadão brasileiro Affonso Zampirolli a pesquisar mármore, no Município de Cachoeiro de Itapemirim, Estado do Espirito Santo.

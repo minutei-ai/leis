@@ -1,5 +1,3 @@
-###DEC-076257-0-000-12-09-1975@@@
-
 DECRETO Nº 76.257 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Mineração Topázio Limitada o direito de lavrar água potável de mesa no Município de Glicério, Estado de São Paulo.

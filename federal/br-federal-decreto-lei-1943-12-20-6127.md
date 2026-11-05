@@ -1,5 +1,3 @@
-###DEL-006127-0-000-20-12-1943@@@
-
 DECRETO‑LEI N. 6.127 – DE 20 DE DEZEMBRO DE 1943
 
 Modifica dispositivo do Regimento de Custas do Distrito Federal

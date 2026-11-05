@@ -1,5 +1,3 @@
-###DEC-050716-0-000-31-05-1961@@@
-
 Decreto nº 50.716, de 31 de maio de 1961.
 
 Autoriza a Companhia Industrial de Papel Pirahy, no Estado do Rio de Janeiro, a ampliar suas instalações termoelétricas.

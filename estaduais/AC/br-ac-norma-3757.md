@@ -1,6 +1,10 @@
 > **LEI Nº 3.622, DE 05 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Obriga os indivíduos que apresentem possibilidade de contaminação a realizarem o teste para o Covid-19.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Obriga os indivíduos que apresentem possibilidade de contaminação a realizarem o teste para o Covid-19.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

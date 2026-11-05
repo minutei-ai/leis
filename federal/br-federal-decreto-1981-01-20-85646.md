@@ -1,5 +1,3 @@
-###DEC-085646-0-000-20-01-1981@@@
-
 DECRETO Nº 85.646, DE 20 DE JANEIRO De 1981
 
 Autoriza a alienação de lotes residenciais de propriedade da União, localizados em Brasília.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5003bbbc-d4a7-4221-8c89-680c1aa1d794/texto#nowhere)
 
-###DEL-000876-0-000-16-09-1969@@@
-
 DECRETO-LEI Nº 876, DE 16 DE SETEMBRO DE 1969
 
 Transfere cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério da Fazenda - Parte Especial, para o Quadro de Pessoal - Parte Permanente, do DASP.

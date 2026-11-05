@@ -1,5 +1,3 @@
-###DEL-006037-0-000-25-11-1943@@@
-
 DECRETO‑LEI N. 6.037 – DE 25 DE NOVEMBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 4.229, de 2 de abril de 1942

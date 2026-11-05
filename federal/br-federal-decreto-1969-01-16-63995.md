@@ -1,5 +1,3 @@
-###DEC-063995-0-000-16-01-1969@@@
-
 DECRETO Nº 63.995, DE 16 DE JANEIRO DE 1969.
 
 Dispõe sôbre a aplicação do disposto no art. 5º do Decreto nº 63.946, de 30 de dezembro de 1968, nas viagens de militares do Ministério da Aeronáutica, indicados para comissão de caráter transitório no exterior.

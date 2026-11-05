@@ -1,5 +1,3 @@
-###DEC-085038-0-000-13-08-1980@@@
-
 Decreto nº 85.038, de 13 de agosto de 1980.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais e Letras, do Centro de Ensino Superior de Erexim, Rio Grande do Sul.

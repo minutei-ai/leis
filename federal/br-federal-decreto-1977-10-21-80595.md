@@ -1,5 +1,3 @@
-###DEC-080595-0-000-21-10-1977@@@
-
 DECRETO Nº 80.595, DE 21 DE OUTUBRO DE 1977.
 
 Altera a redação do artigo 68 do Regulamento do Regime de Previdência Social aprovado pelo Decreto número 72.771, de 6 de setembro de 1973.

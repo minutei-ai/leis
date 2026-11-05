@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b0adbc20-17dc-43b8-93de-7e6d2e0cfcfa/texto#nowhere)
 
-###DEL-000902-0-000-30-09-1969@@@
-
 DECRETO-LEI Nº 902, DE 30 DE SETEMBRO DE 1969
 
 Dispõe sôbre a forma de tributação dos rendimentos da exploração agrícola ou pastoril e dá outras providências.

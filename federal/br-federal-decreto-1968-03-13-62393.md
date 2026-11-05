@@ -1,5 +1,3 @@
-###DEC-062393-0-000-13-03-1968@@@
-
 DECRETO Nº 62.393, DE 13 DE MARÇO DE 1968.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras da Fundação Técnico-Educacional Souza Marques - GB.

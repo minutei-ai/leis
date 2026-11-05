@@ -1,5 +1,3 @@
-###DEC-070015-0-000-21-01-1972@@@
-
 DECRETO Nº 70.015, de 21 de janeiro de 1972.
 
 Declara de utilidade pública o Oratorio da Divina Providência, com sede em Recife, Estado de Pernambuco.

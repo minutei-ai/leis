@@ -1,5 +1,3 @@
-###DEC-059323-0-000-29-09-1966@@@
-
 DECRETO Nº 59.323, DE 29 DE SETEMBRO DE 1966.
 
 Institui um Grupo de Trabalho para estudos sôbre o aproveitamento integrado do Vale do Parnaíba.

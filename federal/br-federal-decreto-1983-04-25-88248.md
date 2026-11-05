@@ -1,5 +1,3 @@
-###DEC-088248-0-000-25-04-1983@@@
-
 Decreto nº 88.248, de 25 de abril de 1983
 
 Dispõe sobre o montante do Capital Social da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

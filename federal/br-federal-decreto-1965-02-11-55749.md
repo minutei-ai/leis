@@ -1,5 +1,3 @@
-###DEC-055749-0-000-11-02-1965@@@
-
 Decreto nº 55.749, de 11 de FEVEREIRO de 1965.
 
 Institui Comissão Especial para o fim que especifica.

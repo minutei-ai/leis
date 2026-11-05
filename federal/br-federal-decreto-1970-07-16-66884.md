@@ -1,5 +1,3 @@
-###DEC-066884-0-000-16-07-1970@@@
-
 decreto nº 66.884, de 16 de julho de 1970.
 
 Decreta Intervenção Federal no Município de Garça,  Estado de São Paulo,  e dá outras providências.

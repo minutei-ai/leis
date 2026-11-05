@@ -1,5 +1,3 @@
-###DEC-061065-0-000-26-07-1967@@@
-
 DECRETO Nº 61.065, DE 26 DE JULHO DE 1967.
 
 Consolida o regime de concessões e autorizações para serviços de energia elétrica, no Estado do Rio Grande do Sul.

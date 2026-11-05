@@ -1,5 +1,3 @@
-###DEC-081209-0-000-12-01-1978@@@
-
 Decreto n.º 81.209, de 12 de janeiro de 1978.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Município de Castro, Estado do Paraná.

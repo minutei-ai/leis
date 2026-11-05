@@ -1,5 +1,3 @@
-###DEC-051589-0-000-13-11-1962@@@
-
 DECRETO Nº 51.589, DE 13 DE NOVEMBRO DE 1962.
 
 Torna sem efeito a inclusão de função gratificada no Quadro de Pessoal - Parte Permanente - do Ministério da Aeronáutica.

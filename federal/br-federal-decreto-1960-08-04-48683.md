@@ -1,5 +1,3 @@
-###DEC-048683-0-000-04-08-1960@@@
-
 DECRETO N. 48.683 – DE 4 DE AGÔSTO DE 1960
 
 Autoriza Sílvio Sbaraini a comprar pedras preciosas.

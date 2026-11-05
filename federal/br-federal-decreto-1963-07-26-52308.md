@@ -1,5 +1,3 @@
-###DEC-052308-0-000-26-07-1963@@@
-
 DECRETO Nº 52.308, DE 26 DE JULHO DE 1963.
 
 Prorroga prazo a que se refere o Decreto nº 51.705, de 14 de fevereiro de 1963.

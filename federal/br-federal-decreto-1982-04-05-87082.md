@@ -1,5 +1,3 @@
-###DEC-087082-0-000-05-04-1982@@@
-
 Decreto nº 87.082, de 05 de abril de 1982
 
 Autoriza o aumento de potência da RÁDIO GAURAMA LTDA. na cidade de Gaurama, Estado do Rio Grande do Sul.

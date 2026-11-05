@@ -1,5 +1,3 @@
-###DEL-003591-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.591 – DE 4 de SETEMBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 175:000$0, para atender no pagamento de prêmios

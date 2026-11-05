@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208414)<br>
-
 # DECRETO N° 67.887, DE 17 DE AGOSTO DE 2023
 
 ### _Dispõe sobre a outorga do Colar IBRAHIM DE ALMEIDA NOBRE - TRIBUNO DA REVOLUÇÃO PAULISTA e dá providências correlatas._

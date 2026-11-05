@@ -1,4 +1,5 @@
-DECRETO "N" N° 656, DE 16 DE OUTUBRO DE 2023.<br>
+DECRETO "N" N° 656, DE 16 DE OUTUBRO DE 2023.
+
 (Revogado pelo Decreto "N" Nº 668, de 23 de outubro de 2023).
 
 ~~Dispõe sobre aprovação do Loteamento Reserva Andrade Reis, neste Município e dá outras providências.~~
@@ -145,11 +146,14 @@ DECRETO "N" N° 656, DE 16 DE OUTUBRO DE 2023.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 16 de outubro de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana~~

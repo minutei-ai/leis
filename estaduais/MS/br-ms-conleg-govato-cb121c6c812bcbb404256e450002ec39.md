@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:26:47.000Z"
 sha256_fonte: "1e9865a6c7c0a43f5272abff7c8e7100471b9af2fa89a3dda673fef9ee48cc6d"
 sha256_markdown: "f3a9faae5a7750db640a498ea54c9a7e00a3ce40254ebbfa8a00755bd41f833e"
 ---
-
 # LEI Nº 980, DE 19 DE SETEMBRO DE 1989.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,22 +20,30 @@ Declara de Utilidade Pública a União das Associações de Pais e Mestres dos M
 
 Publicada no Diário Oficial nº 2.647, de 20 de setembro de 1989.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber<br>
-que a Assembléia Legislativa decreta e eu sanciono a seguinte<br>
-Lei:<br>
-<br>
-Art. 1º - Fica declarada de Utilidade Pública a União das<br>
-Associações de Pais e Mestres dos Municípios Jurisdicionados à<br>
-Agência Regional de Educação de Dourados, sediada em Dourados,<br>
-neste Estado.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 19 de setembro de 1.989.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
-Governador<br>
-<br>
-ROBERTO ORRO<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber
+
+que a Assembléia Legislativa decreta e eu sanciono a seguinte
+
+Lei:
+
+Art. 1º - Fica declarada de Utilidade Pública a União das
+
+Associações de Pais e Mestres dos Municípios Jurisdicionados à
+
+Agência Regional de Educação de Dourados, sediada em Dourados,
+
+neste Estado.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 19 de setembro de 1.989.
+
+MARCELO MIRANDA SOARES
+
+Governador
+
+ROBERTO ORRO
+
 Secretário de Estado de Justiça

@@ -1,5 +1,3 @@
-###DEC-066879-0-000-16-07-1970@@@
-
 DECRETO Nº 66.879, DE 16 DE JULHO DE 1970.
 
 Altera a redação do artigo 6° do Decreto n° 65.327, de 10 de outubro de 1969.

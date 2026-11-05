@@ -1,24 +1,22 @@
-###DEC-022302-0-000-17-12-1946@@@
+**DECRETO Nº 22.302, DE 17 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.302, DE 17 DE DEZEMBRO DE 1946.</strong>
+***Outorga concessão à Rádio Araripe Limitada, para estabelecer, na cidade de Crato, Estado do Ceará, uma estação radiodifusora.***
 
-<em><strong>Outorga concessão à Rádio Araripe Limitada, para estabelecer, na cidade de Crato, Estado do Ceará, uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Araripe, Limitada, e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Araripe, Limitada, e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão a Rádio Araripe, Limitada, para estabelecer na cidade de Crato, Estado do Ceará sem direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Publicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias a contar da data da publicação dêste decreto no <em>Diário Oficial</em> como pena de ser logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias a contar da data da publicação dêste decreto no *Diário Oficial* como pena de ser logo considerada nula a concessão.
 
 Rio de Janeiro, 17 de dezembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 22.302, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 22.302, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo orgão fiscalizador, impor à concessionária multa de Cr$ 100,00 (cem cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros) conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento de Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial.</em>
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento de Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial.*
 
 VII
 
@@ -86,7 +84,7 @@ VIII
 
 A concessão será considerada caduca para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo tempo, fôr verificada inobservância das dispsições contidas nas alíneas ‘’<em>a’’, ‘’b’’, ‘’c’’, ‘’d’’, ‘’e’’</em> ( in-fine), <em>‘’j,’’ k’’ e ‘’l’’</em> da cláusula III;
+a) se, em todo tempo, fôr verificada inobservância das dispsições contidas nas alíneas ‘’*a’’, ‘’b’’, ‘’c’’, ‘’d’’, ‘’e’’* ( in-fine), *‘’j,’’ k’’ e ‘’l’’* da cláusula III;
 
 b) se não forem pagas dentro dos prazos estabelecidos a cota e contribuições a que se refere a alínea e da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 17 de dezembro de 1946.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

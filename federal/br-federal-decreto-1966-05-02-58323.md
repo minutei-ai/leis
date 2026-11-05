@@ -1,5 +1,3 @@
-###DEC-058323-0-000-02-05-1966@@@
-
 DECRETO Nº 58.323, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Flávio Nepomuceno Araújo a pesquisar minério de ouro no município de Almas, Estado de Goiás.

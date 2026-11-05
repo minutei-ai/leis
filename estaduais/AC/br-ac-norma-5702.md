@@ -1,6 +1,10 @@
 > **LEI Nº 4.150, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Projeto Bombeiro Militar Mirim nos diversos batalhões do Corpo de Bombeiros Militar do Estado do Acre - CBMAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Projeto Bombeiro Militar Mirim nos diversos batalhões do Corpo de Bombeiros Militar do Estado do Acre - CBMAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

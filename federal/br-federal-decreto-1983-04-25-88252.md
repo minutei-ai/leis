@@ -1,5 +1,3 @@
-###DEC-088252-0-000-25-04-1983@@@
-
 DECRETO Nº 88.252, DE 25 DE ABRIL DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CLOBO DE SÃO PAULO LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito nacional, da cidade de São Paulo, Estado de São Paulo.

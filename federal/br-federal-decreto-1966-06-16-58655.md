@@ -1,5 +1,3 @@
-###DEC-058655-0-000-16-06-1966@@@
-
 DECRETO Nº 58.655, DE 16 DE JUNHO DE 1966.
 
 Outorga concessão a Rádio São Francisco Ltda., para instalar uma emissora de radiodifusão sonora, na cidade de Anápolis - Estado de Goiás.

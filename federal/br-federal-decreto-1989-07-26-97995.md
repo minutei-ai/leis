@@ -1,7 +1,3 @@
-1
-
-###DEC-097995-0-000-26-07-1989@@@
-
 DECRETO N° 97.995, DE 26 DE JULHO DE 1989
 
 Inclui os Agentes de Higiene e Segurança do Trabalho no Sistema Federal de Inspeção do Trabalho.

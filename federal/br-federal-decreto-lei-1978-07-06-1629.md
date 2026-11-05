@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f69e9478-9ddf-4d4e-98f1-33b648fc9e50/texto#nowhere)
 
-###DEL-001629-0-000-06-07-1978@@@
-
 # Decreto-lei nº 1.629, de 06 de julho de 1978
 
 Modifica a redação da alínea “f” do artigo 60 da Lei nº 5.025, de 10 de junho de 1966.

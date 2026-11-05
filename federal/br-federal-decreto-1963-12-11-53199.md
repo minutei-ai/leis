@@ -1,5 +1,3 @@
-###DEC-053199-0-000-11-12-1963@@@
-
 Decreto nº 53.199, de 11 de dezembro de 1963.
 
 Autoriza a Emprêsa Sul Brasileira de Eletricidade S.A. a construir linha de transmissão, no município de Guaramirim, Estado de Santa Catarina.

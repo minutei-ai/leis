@@ -1,5 +1,3 @@
-###DEC-084664-0-000-28-04-1980@@@
-
 Decreto nº 84.664, de 28 de abril de 1980.
 
 Concede à Companhia Brasileira do Cobre - CBC autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-065015-0-000-18-08-1969@@@
-
 DECRETO Nº 65.015 - DE 18 DE AGôSTO DE 1969.
 
 Declara de utilidade pública o Ginásio e Escola Normal de Nossa Senhora Auxiliadora, com sede em Campos, Estado do Rio de Janeiro.

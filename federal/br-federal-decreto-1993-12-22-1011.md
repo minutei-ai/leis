@@ -1,7 +1,3 @@
-1
-
-###DEC-001011-0-000-22-12-1993@@@
-
 DECRET0 Nº 1.011, DE 22 DE DEZEMBR0 DE 1993
 
 Altera dispositivos do Regulamento Disciplinar para a Marinha, baixado pelo Decreto nº 88.545, de 26 de julho de l983.

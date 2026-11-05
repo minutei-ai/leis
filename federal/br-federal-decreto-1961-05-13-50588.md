@@ -1,5 +1,3 @@
-###DEC-050588-0-000-13-05-1961@@@
-
 DECRETO Nº 50.588, DE 13 DE MAIO DE 1961.
 
 Institui a Comissão Executiva da Universidade Nacional do Trabalho e dá outras providências.

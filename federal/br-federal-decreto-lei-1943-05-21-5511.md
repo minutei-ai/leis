@@ -1,5 +1,3 @@
-###DEL-005511-0-000-21-05-1943@@@
-
 DECRETO-LEI N. 5.511 – DE 21 DE MAIO DE 1943
 
 Altera e retifica disposições sobre a administração dos Estados e dos municípios

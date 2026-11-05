@@ -1,5 +1,3 @@
-###DEC-097497-0-000-09-02-1989@@@
-
 DECRETO N° 97.497, DE 9 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo Comercial n° 16, no Setor da Indústria Petroquímica, entre o Brasil, a Argentina, o Chile, o México, o Uruguai e a Venezuela.

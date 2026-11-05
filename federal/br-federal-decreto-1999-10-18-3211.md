@@ -1,5 +1,3 @@
-###DEC-003211-0-000-18-10-1999@@@
-
 DECRETO Nº 3.211, DE 18 DE OUTUBRO DE 1999.
 
 Altera os arts. 4º e 13 do Decreto nº 193, de 21 de agosto de 1991, que regulamenta o Fundo Nacional de Desenvolvimento (FND), e dá outras providências.

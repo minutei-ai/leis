@@ -1,5 +1,3 @@
-###DEC-070449-0-000-25-04-1972@@@
-
 DECRETO Nº 70.449, DE 25 DE ABRIL DE 1972.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal de Minas Gerais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057354-0-000-26-11-1965@@@
-
 DECRETO Nº 57.354, DE 26 DE NOVEMBRO DE 1965.
 
 Transfere da Prefeitura Municipal de Várzea da Palma para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

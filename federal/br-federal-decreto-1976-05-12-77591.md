@@ -1,5 +1,3 @@
-###DEC-077591-0-000-12-05-1976@@@
-
 Decreto nº 77.591- de 12 de maio de 1976
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra necessárias à construção da subestação Rua Larga, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

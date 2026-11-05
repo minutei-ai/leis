@@ -1,5 +1,3 @@
-###DEC-066215-0-000-17-02-1970@@@
-
 Decreto nº 66.215 - de 17 de fevereiro de 1970
 
 Dá nova denominação ao Departamento de Ensino do Ministério do Exército e aprova seu regulamento.

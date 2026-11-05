@@ -1,5 +1,3 @@
-###DEC-046604-0-000-14-08-1959@@@
-
 DECRETO Nº 46.604, DE 14 AGÔSTO DE 1959.
 
 Retifica o art. 1ºdo Decreto número 45.789, de 14 de abril de 1959.

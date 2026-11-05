@@ -1,5 +1,3 @@
-###DEC-083125-0-000-05-02-1979@@@
-
 decreto nº 83.125, de 5 de fevereiro de 1979.
 
 Autoriza a cessão, sob o regime de arrendamento, do imóvel que menciona, situado no Município de Salvador, Estado da Bahia.

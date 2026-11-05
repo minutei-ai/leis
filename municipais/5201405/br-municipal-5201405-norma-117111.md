@@ -24,8 +24,10 @@ Art. 2.º Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 23 dias do mês de outubro do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-EULER MORAIS<br>
+EULER MORAIS
+
 SECRETÁRIO DE GOVERNO E INTEGRAÇÃO INSTITUCIONAL

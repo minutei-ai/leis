@@ -1,5 +1,3 @@
-###MPV-002079-0-076-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.079-76, DE 27 DE DEZEMBRO de 2000.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências

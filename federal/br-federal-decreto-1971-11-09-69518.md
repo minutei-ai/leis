@@ -1,5 +1,3 @@
-###DEC-069518-0-000-09-11-1971@@@
-
 DECRETO Nº 69.518 - de 9 de Novembro de 1971
 
 Aproveita, no Ministério da Marinha, servidores em disponibilidade e dá outras providências.

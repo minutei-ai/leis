@@ -1,5 +1,3 @@
-###DEC-082237-0-000-06-09-1978@@@
-
 Decreto nº 82.237, de 06 de setembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Angra dos Reis, Estado do Rio de Janeiro.

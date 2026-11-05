@@ -1,5 +1,3 @@
-###DEC-075630-0-000-18-04-1975@@@
-
 DECRETO Nº 75.630, DE 18 DE ABRIL DE 1975.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

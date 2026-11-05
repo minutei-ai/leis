@@ -1,5 +1,3 @@
-###DEC-004284-0-000-26-06-2002@@@
-
 DECRETO Nº 4.284, DE 26 DE JUNHO DE 2002
 
 Institui o Programa Brasileiro de Ecologia Molecular para o Uso Sustentável da Biodiversidade da Amazônia – PROBEM, e dá outras providências.

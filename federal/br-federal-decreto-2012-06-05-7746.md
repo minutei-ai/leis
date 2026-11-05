@@ -1,5 +1,3 @@
-###DEC-007746-0-000-05-06-2012-PUB-01@@@
-
 DECRETO Nº 7.746, DE 5 DE JUNHO DE 2012
 
 Regulamenta o art. 3o da Lei no 8.666, de 21 de junho de 1993, para estabelecer critérios, práticas e diretrizes para a promoção do desenvolvimento nacional sustentável nas contratações realizadas pela administração pública federal, e institui a Comissão Interministerial de Sustentabilidade na Administração Pública - CISAP.

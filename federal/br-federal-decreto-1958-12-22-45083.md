@@ -1,5 +1,3 @@
-###DEC-045083-0-000-22-12-1958@@@
-
 DECRETO Nº 45.083, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza estrangeira adquirir fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

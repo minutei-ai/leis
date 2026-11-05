@@ -1,5 +1,3 @@
-###DEC-073325-0-000-18-12-1973@@@
-
 DECRETO Nº 73.325 - DE 18 DE DEZEMBRO DE 1973
 
 Concede à CERÂMINA - Indústria Cerâmica e Mineração Limitada o direito de lavra quartzito, no Município de Campo Largo, Estado do Paraná.

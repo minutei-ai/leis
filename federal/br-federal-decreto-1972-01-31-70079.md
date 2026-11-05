@@ -1,5 +1,3 @@
-###DEC-070079-0-000-31-01-1972@@@
-
 DECRETO Nº 70.079, DE 31 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento do Curso de Ciências Administrativas da Faculdade de Ciências Contábeis de Santa Cruz do Sul - RS.

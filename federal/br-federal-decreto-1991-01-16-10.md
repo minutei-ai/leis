@@ -1,7 +1,3 @@
-1
-
-###DEC-000010-0-000-16-01-1991@@@
-
 DECRETO N° 10, DE 16 DE JANEIRO DE 1991.
 
 Aprova a Estrutura Regimental do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial, e dá outras providências.

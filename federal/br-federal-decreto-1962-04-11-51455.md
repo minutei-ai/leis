@@ -1,5 +1,3 @@
-###DEC-051455-0-000-11-04-1962@@@
-
 decreto nº 51.455, de 11 de abril de 1962.
 
 Abre ao Ministério da Saúde, o crédito especial de Cr$10.000.000,00 (dez milhões de cruzeiros), destinado á construção de uma maternidade no Bairro de São Raimundo, cidade de Manaus, Estado do Amazonas.

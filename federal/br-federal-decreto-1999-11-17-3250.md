@@ -1,5 +1,3 @@
-###DEC-003250-0-000-17-11-1999@@@
-
 DECRETO Nº 3.250, DE 17 DE NOVEMBO DE 1999.
 
 Promulga o Protocolo Relativo a uma Emenda à Convenção sobre Aviação Civil Internacional, concluído em Montreal, em 30 de setembro de 1977.
@@ -66,4 +64,20 @@ Em testemunho do que, o Presidente e o Secretário do mencionado vigésimo-segun
 
 Feito em Montreal em trinta de setembro do ano de mil novecentos e setenta e sete, em um documento único redigido nos idiomas inglês, francês, russo e espanhol, cada um dos quais terá a mesma autencidade. O presente Protocolo ficará depositado nos arquivos da Organização de Aviação Civil Internacional, e o Secretário-Geral desta Organização transmitirá cópias certificadas do mesmo a todos os Estados Partes na Convenção sobre Aviação Civil Internacional feita em Chicago em 7 de dezembro de 1944.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>K.O.Ratray</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Y. Lambert</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Presidente do 22º período de sessões da Assembléia</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Secretário-Geral</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+K.O.Ratray
+
+</td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Y. Lambert
+
+</td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Presidente do 22º período de sessões da Assembléia
+
+</td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Secretário-Geral
+
+</td></tr></tbody></table>

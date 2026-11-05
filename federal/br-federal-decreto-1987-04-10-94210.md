@@ -1,5 +1,3 @@
-###DEC-094210-0-000-10-04-1987@@@
-
 DECRETO Nº 94.210, DE 10 DE ABRIL DE 1987
 
 Autoriza o funcionamento do curso de Medicina Veterinária da Faculdade de Medicina Veterinária de Pinhal.

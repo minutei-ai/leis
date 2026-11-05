@@ -1,5 +1,3 @@
-###DEC-084326-0-000-20-12-1979@@@
-
 Decreto nº 84.326, de 20 de dezembro de 1979.
 
 Retifica o Decreto nº 77.630, de 18 de maio de 1976, que promulgou o Acordo Marítimo Brasil-França.
@@ -158,4 +156,14 @@ Em fé do que, os abaixo assinados, devidamente credenciados por seus Governos, 
 
 Feito na cidade de Paris aos vinte e quatro dias do mês de outubro de 1975.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FRANCESA:</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Antonio F. Azeredo da Silveira</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Jean Sauvagnargues</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+FRANCESA:
+
+a) Antonio F. Azeredo da Silveira
+
+a) Jean Sauvagnargues

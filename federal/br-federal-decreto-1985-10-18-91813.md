@@ -1,5 +1,3 @@
-###DEC-091813-0-000-18-10-1985@@@
-
 Decreto nº 91.813, de 18 de outubro de 1985
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Cabo Frio, Niterói, Mangaratiba e Angra dos Reis, Estado do Rio de Janeiro; Recife, Estado de Pernambuco; Fortaleza, Estado do Ceará; Santos, Estado de São Paulo; e Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-097602-0-000-31-03-1989@@@
-
 DECRETO N° 97.602, DE 31 DE MARÇO DE 1989
 
 Dispõe sobre a criação de grande unidade de arma do Exército e dá outras providências.

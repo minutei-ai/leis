@@ -1,5 +1,3 @@
-###DEL-005136-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.136 – DE 24 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 29.884.000,00 para subscrição de ações do Banco de Crédito da Borracha S. A.

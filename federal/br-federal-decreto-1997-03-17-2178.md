@@ -1,5 +1,3 @@
-###DEC-002178-0-000-17-03-1997@@@
-
 DECRETO Nº 2.178, DE 17 DE MARÇO DE 1997
 
 Altera o Decreto nº 89.496, de 29 de março de 1984, que regulamenta a Lei nº 6.662, de 25 de junho de 1979, que dispõe sobre a Política Nacional de Irrigação.

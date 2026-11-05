@@ -1,5 +1,3 @@
-###DEC-077303-0-000-17-03-1976@@@
-
 DECRETO Nº 77.303, DE 17 DE MARÇO DE 1976.
 
 Autoriza o funcionamento do curso de Letras do Centro Educacional "La Salle" de Ensino Superior, com sede na cidade de Canoas, Estado do Rio Grande do Sul.

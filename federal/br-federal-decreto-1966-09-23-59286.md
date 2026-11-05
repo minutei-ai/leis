@@ -1,5 +1,3 @@
-###DEC-059286-0-000-23-09-1966@@@
-
 decreto nº 59.286, de 23 de setembro de 1966.
 
 Autoriza o Administrador do Imóvel em Condomínio, Fazenda dos Três Irmãos, a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

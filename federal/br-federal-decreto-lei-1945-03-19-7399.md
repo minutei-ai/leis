@@ -1,5 +1,3 @@
-###DEL-007399-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.399 – DE 19 DE MARÇO DE 1945
 
 Prorroga, por dois anos, a locação de imóvel ocupado por estabelecimento de ensino

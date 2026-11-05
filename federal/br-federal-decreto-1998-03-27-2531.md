@@ -1,5 +1,3 @@
-###DEC-002531-0-000-27-03-1998@@@
-
 # DECRETO Nº 2.531, DE 27 DE MARÇO DE 1998
 
 Dispõe sobre cargos privativos de Of’icial-General do Exército em Tempo de Paz, e dá outras providências.

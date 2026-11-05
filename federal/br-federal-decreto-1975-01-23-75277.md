@@ -1,5 +1,3 @@
-###DEC-075277-0-000-23-01-1975@@@
-
 Decreto nº 75.277, de 23 de janeiro de 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

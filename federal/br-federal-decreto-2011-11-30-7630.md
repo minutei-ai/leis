@@ -1,5 +1,3 @@
-###DEC-007630-0-000-30-11-2011-PUB-01@@@
-
 DECRETO Nº 7.630, DE 30 DE NOVEMBRO DE 2011
 
 Altera o Decreto nº 7.529, de 21 de julho de 2011, para prever a Autoridade Brasileira de Controle de Dopagem na Estrutura Regimental do Ministério do Esporte.

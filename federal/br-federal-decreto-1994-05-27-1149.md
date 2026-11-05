@@ -1,7 +1,3 @@
-1
-
-###DEC-001149-0-000-27-05-1994@@@
-
 DECRET0 N° 1.149, DE 27 DE MAI0 DE 1994
 
 Modifica o Decreto n° 1.066, de 27 de fevereiro de 1994 que dispõe sobre a metodologia de cálculo da Unidade Real de Valor (URV).

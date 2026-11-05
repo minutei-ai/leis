@@ -1,7 +1,3 @@
-1
-
-###DEC-000808-0-000-24-04-1993@@@
-
 DECRETO N° 808, DE 24 DE ABRIL DE 1993
 
 Fixa o limites mínimos de resultado operacional e primário pelas empresas estatais para 1993, e dá outras providências.

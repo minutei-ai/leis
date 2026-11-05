@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6f661088-4bea-499d-8a96-b67e9259f6b0/texto#nowhere)
 
-###DEL-000832-0-000-08-09-1969@@@
-
 DECRETO-LEI Nº 832, DE 8 DE SETEMBRO DE 1969
 
 Regula a Política Nacional de Viação Ferroviária, fixa atribuições para o Departamento Nacional de Estradas de Ferro (DNEF) e dá outras providências.

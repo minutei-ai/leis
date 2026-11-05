@@ -1,5 +1,3 @@
-###DEC-059314-0-000-28-09-1966@@@
-
 DECRETO Nº 59.314, DE 28 DE SETEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Espírito Santo de Seguros relativa ao aumento do capital social.

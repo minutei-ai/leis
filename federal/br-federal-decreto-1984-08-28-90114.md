@@ -1,5 +1,3 @@
-###DEC-090114-0-000-28-08-1984@@@
-
 Decreto nº 90.114, de 28 de agosto de 1984.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais, constituídos de partes da Usina Morretes, situados no Município de Morretes, no Estado do Paraná, e compreendidas nas áreas prioritárias, para fins de reforma agrária, fixadas pelo Decreto nº 90.113, de 28 de agosto de 1984.

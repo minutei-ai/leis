@@ -1,5 +1,3 @@
-###DEC-086761-0-000-21-12-1981@@@
-
 Decreto nº 86.761, de 21 de dezembro de 1981
 
 Dispõe sobre o Sistema Expositor, como instrumento de promoção comercial e industrial e dá outras providências.

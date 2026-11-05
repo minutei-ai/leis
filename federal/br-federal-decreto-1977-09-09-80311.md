@@ -1,5 +1,3 @@
-###DEC-080311-0-000-09-09-1977@@@
-
 Decreto nº 80.311, de 9 de setembro de 1977.
 
 Concede à Companhia Aços Especiais Itabira (ACESITA) o direito de lavrar argila no Município de Bom Jesus do Galho. Estado de Minas Gerais.

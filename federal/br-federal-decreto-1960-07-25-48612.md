@@ -1,5 +1,3 @@
-###DEC-048612-0-000-25-07-1960@@@
-
 DECRETO Nº 48.612, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro João Pedro as Silva a pesquisar pedras coradas no município de Carlos Chagas, Estado de Minas Gerais.

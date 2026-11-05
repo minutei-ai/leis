@@ -1,5 +1,3 @@
-###DEC-058418-0-000-17-05-1966@@@
-
 Decreto nº 58.418, de 17 de maio de 1966.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

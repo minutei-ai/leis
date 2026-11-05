@@ -1,5 +1,3 @@
-###DEL-008451-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.451 – DE 26 DE DEZEMBRO DE 1945
 
 Dispôe sôbre a aposentadoria de Antônio Martins Viana Estigarribia

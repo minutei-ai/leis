@@ -1,5 +1,3 @@
-###DEL-008564-0-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.564 – DE 7 DE JANEIRO DE 1946
 
 Dispõe sôbre as atribuições do Consultor Geral da República, dos consultores jurídicos dos Ministérios e do Departamento Administrativo do Serviço Público, e dá outras providências.

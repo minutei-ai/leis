@@ -45,7 +45,3 @@ O 2º-Secretário - João Pedro Gustin
 O 3º-Secretário - Fernando Rainho
 
 O 4º-Secretário - José Maria Chaves
-
-\================================================================
-
-Data da última atualização: 22/12/2005.

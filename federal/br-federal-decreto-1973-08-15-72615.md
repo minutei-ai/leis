@@ -1,5 +1,3 @@
-###DEC-072615-0-000-15-08-1973@@@
-
 DECRETO Nº 72.615, DE 15 DE AGOSTO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Cachoeira do Sul, mantida pela Associação Cachoeirense Pró Ensino Superior, com sede na cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-058719-0-000-24-06-1966@@@
-
 decreto nº 58.719, de 24 de junho de 1966.
 
 Dá nova redação ao § 2º do art. 3º do Decreto nº 56.887, de 20 de setembro de 1965.

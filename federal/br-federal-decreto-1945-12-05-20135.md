@@ -1,12 +1,10 @@
-###DEC-020135-0-000-05-12-1945@@@
+**DECRETO Nº 20.135, DE 5 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.135, DE 5 DE DEZEMBRO DE 1945.</strong>
+***Declara de utilidade pública, para desapropriação, os imóveis que menciona, situados em Aracaju, Estado de Sergipe.***
 
-<em><strong>Declara de utilidade pública, para desapropriação, os imóveis que menciona, situados em Aracaju, Estado de Sergipe.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra “a”, da Constituição, e de acôrdo com o art. 6° combinado com a letra “m” do art. 5°, do Decreto-lei n° 3.365, de 21 de junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra “a”, da Constituição, e de acôrdo com o art. 6° combinado com a letra “m” do art. 5°, do Decreto-lei n° 3.365, de 21 de junho de 1941,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Ficam declarados de utilidade publica, para desapropriação, os imóveis adjacentes à Escola Industrial de Aracaju, no próprio quarteirão em que ela se encontra e também o imóvel situado no quarteirão próximo, do lado fronteiro da Rua Dr. Simões Dias, todos necessários a ampliação das instalações da mesma escola, os quais, a seguir, são enumerados:
 
@@ -36,6 +34,6 @@ a) casa nº 878 e terreno baldio, com 95,00 metros pela Rua Dr. Simões Dias, de
 
 b) Rio de Janeiro, 5 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha

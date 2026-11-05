@@ -1,7 +1,3 @@
-1
-
-###DEC-098947-0-000-14-02-1990@@@
-
 DECRETO Nº 98.947, DE 14 DE FEVEREIRO DE 1990
 
 Dispõe sobre o aumento do capital social da Companhia Vale do Rio Doce CVRD.

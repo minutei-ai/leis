@@ -1,5 +1,3 @@
-###DEC-054315-0-000-28-09-1964@@@
-
 DECRETO Nº 54.315, DE 28 DE SETEMBRO DE 1964.
 
 Remova a declaração de utilidade pública a que se refere o Decreto nº 42.529, de 29 de outubro de 1957, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas área de terreno necessária à construção do açude público “Serrote”, no Município de Jacobina, Estado da Bahia.

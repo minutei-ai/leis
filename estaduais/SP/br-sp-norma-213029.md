@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213029)<br>
-
 # DECRETO N° 70.925, DE 02 DE OUTUBRO DE 2026
 
 ### _Altera o Decreto n° 70.273, de 23 de dezembro de 2025, que dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2026._

@@ -1,5 +1,3 @@
-###DEC-087079-0-000-02-04-1982@@@
-
 DEcRETO Nº 87.079, DE 02 DE ABRIL DE 1982.
 
 Aprova as Diretrizes para o Programa de Mobilização Energética.

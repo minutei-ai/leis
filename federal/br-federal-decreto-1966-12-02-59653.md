@@ -1,5 +1,3 @@
-###DEC-059653-0-000-02-12-1966@@@
-
 DECRETO Nº 59.653, DE 2 DE DEZEMBRO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.696, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contas as Sêcas, da área de terreno necessária à construção do açude público “Garanhuns” no município de Garanhuns, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEL-007526-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.526 – DE 7 DE MAIO DE 1945.
 
 Lei Orgânica dos Serviços Sociais do Brasil

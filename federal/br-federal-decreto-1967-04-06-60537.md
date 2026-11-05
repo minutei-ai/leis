@@ -1,5 +1,3 @@
-###DEC-060537-0-000-06-04-1967@@@
-
 DECRETO Nº 60.537, DE 6 DE ABRIL DE 1967.
 
 Constitui Grupo de Trabalho, junto ao Ministério das Minas e Energia, com as atribuições que especifica.

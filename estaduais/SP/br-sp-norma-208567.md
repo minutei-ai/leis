@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208567)<br>
-
 # DECRETO N° 67.986, DE 27 DE SETEMBRO DE 2023
 
 ### _Altera os Decretos n° 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei n° 17.372, de 26 de maio de 2021, e n° 65.781, de 9 de junho de 2021, que regulamenta o Comitê Gestor do Programa Bolsa do Povo._

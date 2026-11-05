@@ -1,7 +1,3 @@
-1
-
-###DEC-000008-0-000-15-01-1991@@@
-
 DECRETO N° 8, DE 15 DE JANEIRO DE 1991.
 
 Promulga a Convenção sobre Assistência no Caso de Acidente Nuclear ou Emergência Radiológica.

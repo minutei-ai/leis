@@ -1,5 +1,3 @@
-###DEC-072760-0-000-06-09-1973@@@
-
 Decreto nº 72.760, de 6 de setembro de 1973.
 
 Concede à Empresa de Mineração Joseph Nigri Ltda. o direito de lavrar caulim no Município de São Paulo, Estado de São Paulo.

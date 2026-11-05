@@ -1,5 +1,3 @@
-###DEL-000677-0-000-09-07-1969@@@
-
 DECRETO-LEI Nº 677, DE 9 DE JULHO DE 1969
 
 Aprova a reforma do ex-soldado Fidelcino Martins de Souza, cujo registro foi negado pelo Tribunal de Contas da União.

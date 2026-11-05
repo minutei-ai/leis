@@ -1,5 +1,3 @@
-###DEC-096352-0-000-15-07-1988@@@
-
 DECRETO N° 96.352, DE 15 DE JULHO DE 1988
 
 Concede à COMPANHIA SIDERÚRGICA PAULISTA - COSIPA (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

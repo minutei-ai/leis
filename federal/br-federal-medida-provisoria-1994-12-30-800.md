@@ -1,7 +1,3 @@
-1
-
-###MPV-000800-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 800, DE 30 DE DEZEMBRO DE 1994
 
 Dá nova redação à alínea a do inciso XII do art. 16 da Lei nº 8.490, de 19 de novembro de 1992.

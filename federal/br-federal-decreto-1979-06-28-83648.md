@@ -1,5 +1,3 @@
-###DEC-083648-0-000-28-06-1979@@@
-
 Decreto nº 83.648, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de graduação de Professores da Parte de Formação Especial do Ensino de 2º Grau da Universidade Estadual de Londrina, Paraná.

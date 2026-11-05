@@ -1,5 +1,3 @@
-###DEC-000793-0-000-05-04-1993@@@
-
 DECRETO Nº 793, DE 5 DE ABRIL DE 1993
 
 Altera os Decretos nºs 74.170, de l0 de junho de 1974 e 79.094, de 5 de janeiro de 1977, que regulamentam, respectivamente, as Leis nºs 5.991, de 17 de janeiro de 1973, e 6.360, de 23 de setembro de 1976, e dá outras providências.

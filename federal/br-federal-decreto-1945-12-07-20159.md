@@ -1,14 +1,12 @@
-###DEC-020159-0-000-07-12-1945@@@
+**DECRETO Nº 20.159, DE 7 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.159, DE 7 DE DEZEMBRO DE 1945.</strong>
+***Altera a lotação do Ministério da Educação e Saúde.***
 
-<em><strong>Altera a lotação do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Educação e Saúde a fim de serem transferidos para a Escola Nacional de Engenharia 4 cargos de zelador sendo 2 para a lotação permanente e 2 para a lotação suplementar, cargos êstes constantes das seguintes repartições:
+**Art**.1º Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Educação e Saúde a fim de serem transferidos para a Escola Nacional de Engenharia 4 cargos de zelador sendo 2 para a lotação permanente e 2 para a lotação suplementar, cargos êstes constantes das seguintes repartições:
 
 1 da lotação permanente do Serviço de Administração da Sede do Departamento de Administração;
 
@@ -18,20 +16,78 @@
 
 1 da lotação suplementar do Museu Nacional de Belas Artes.
 
-<strong>Art</strong>. 2º O item VIII do art. 1º do Decreto nº 19.547, de 3-9-45, passa a ter a seguinte redação:
+**Art**. 2º O item VIII do art. 1º do Decreto nº 19.547, de 3-9-45, passa a ter a seguinte redação:
 
 VIII - ficam transferidos 7 cargos de almoxarife e 5 de médico da lotação suplementar para a lotação permanente das seguintes repartições:
 
 Departamento da Administração:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Almoxarife</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Médico</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Divisão do Pessoal ........................................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>2</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Divisão do Material ........................................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Instituto Nacional do Livro .............................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Departamento Nacional de Saúde:</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Serviço Federal de Águas e Esgotos ............................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>2</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Serviço Nacional de Doenças Mentais ..........................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>2</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Serviço Nacional da Peste ............................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Serviço Nacional da Lepra ............................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Departamento Nacional da Criança:</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Instituto Nacional de Puericultura ..................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Instituto Nacional de Estudos Pedagógicos:</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>Serviço de Biometria Médica .........................................................................................................................................</span></span></p></td><td style="width:35.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>-</span></span></p></td><td style="width:24.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>1</span></span></p></td></tr></tbody></table>
+Almoxarife
 
-<strong>Art</strong>. 3º Êste decreto entrará e vigor na data de sua publicação.
+Médico
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+Divisão do Pessoal ........................................................................................................................................................
+
+-
+
+2
+
+Divisão do Material ........................................................................................................................................................
+
+1
+
+-
+
+Instituto Nacional do Livro .............................................................................................................................................
+
+1
+
+-
+
+Departamento Nacional de Saúde:
+
+Serviço Federal de Águas e Esgotos ............................................................................................................................
+
+2
+
+-
+
+Serviço Nacional de Doenças Mentais ..........................................................................................................................
+
+2
+
+Serviço Nacional da Peste ............................................................................................................................................
+
+1
+
+Serviço Nacional da Lepra ............................................................................................................................................
+
+-
+
+1
+
+Departamento Nacional da Criança:
+
+Instituto Nacional de Puericultura ..................................................................................................................................
+
+-
+
+1
+
+Instituto Nacional de Estudos Pedagógicos:
+
+Serviço de Biometria Médica .........................................................................................................................................
+
+-
+
+1
+
+**Art**. 3º Êste decreto entrará e vigor na data de sua publicação.
+
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro 7 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha

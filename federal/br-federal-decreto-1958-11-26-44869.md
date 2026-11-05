@@ -1,5 +1,3 @@
-###DEC-044869-0-000-26-11-1958@@@
-
 DECRETO 44.869, DE 26 DE NOVEMBRO DE 1958.
 
 Concede permissão para que funcione aos domingos e nos feriados civis e religiosos, a Seção de Torção de Fio de Nylon da Firma Indústria de Meias Titan Ltda.

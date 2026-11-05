@@ -1,5 +1,3 @@
-###DEC-051925-B-000-26-04-1963@@@
-
 DECRETO Nº 51.925-B, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Jayme Minitti a pesquisar magnesita no Município de Sento Sé, Estado da Bahia.

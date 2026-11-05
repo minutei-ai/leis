@@ -1,5 +1,3 @@
-###DEC-051948-0-000-26-04-1963@@@
-
 DECRETO Nº 51.948, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Wilson Gabriel Giannetti a pesquisar minério de manganês, no município de Iporanga, Estado de São Paulo.

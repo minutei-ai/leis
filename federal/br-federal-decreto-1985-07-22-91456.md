@@ -1,5 +1,3 @@
-###DEC-091456-0-000-22-07-1985@@@
-
 Decreto nº 91.456, de 22 de julho de 1985
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a aumentar o capital social de sua subsidiária INTERNOR TRADE, INC., com sede em Nova Iorque - EUA.

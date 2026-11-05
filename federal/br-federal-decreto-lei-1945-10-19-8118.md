@@ -1,5 +1,3 @@
-###DEL-008118-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.118 – DE 19 DE OUTUBRO DE 1945
 
 Transfere ao Estado do Rio de Janeiro uma área de terreno situada no Município de Itaguaí, no mesmo Estado, e dá outras providências.

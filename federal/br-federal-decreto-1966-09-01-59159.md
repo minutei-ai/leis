@@ -1,5 +1,3 @@
-###DEC-059159-0-000-01-09-1966@@@
-
 Decreto Nº 59.159, DE 1º DE SETEMBRO DE 1966.
 
 Concede à Phoenix Assurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

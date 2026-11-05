@@ -1,5 +1,3 @@
-###DEC-085904-0-000-14-04-1981@@@
-
 DECRETO Nº 85.904, de 14 de abril de 1981.
 
 Promulga o Acordo de Cooperação Científica e Técnica entre o Governo da República Federativa do Brasil e o Governo da República Gabonesa.
@@ -84,4 +82,20 @@ Em caso de denúncia, a situação de que gozem os diversos beneficiários subsi
 
 Feito em Brasília, aos quatorze dias do mês de outubro de 1975, em dois exemplares, nas línguas portuguesa e francesa, os dois textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA GABONESA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANTONIO F. AZEREDO DA SILVEIRA</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PAUL OKUMBA D'OKWATSEGUE</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA&nbsp; REPÚBLICA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA GABONESA:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+ANTONIO F. AZEREDO DA SILVEIRA
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PAUL OKUMBA D'OKWATSEGUE
+
+</td></tr></tbody></table>

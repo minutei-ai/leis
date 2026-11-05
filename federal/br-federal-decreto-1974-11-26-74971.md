@@ -1,5 +1,3 @@
-###DEC-074971-0-000-26-11-1974@@@
-
 DECRETO nº 74.971, de 26 de Novembro de1974.
 
 Outorga concessão à Companhia Hidroelétrica do São Francisco - CHESF, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049121-B-000-17-10-1960@@@
-
 decreto nº 49.121-B, de 17 de outubro de 1960.
 
 Aprova Regimento do Serviço Nacional de Aprendizagem Industrial (SENAI).

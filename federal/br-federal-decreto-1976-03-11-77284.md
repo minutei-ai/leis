@@ -1,5 +1,3 @@
-###DEC-077284-0-000-11-03-1976@@@
-
 DECRETO Nº 77.284, DE 11 DE MARÇO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade de Vitória, Estado do Espírito Santo.

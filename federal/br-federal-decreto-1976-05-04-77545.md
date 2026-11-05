@@ -1,5 +1,3 @@
-###DEC-077545-0-000-04-05-1976@@@
-
 Decreto nº 77.545, de 4 de maio de 1976
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras, de História e de Geografia das Faculdades Integradas Augusto Motta, com sede na cidade do Rio de Janeiro, no Estado do Rio de Janeiro.

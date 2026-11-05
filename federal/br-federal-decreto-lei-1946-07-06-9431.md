@@ -1,5 +1,3 @@
-###DEL-009431-0-000-06-07-1946@@@
-
 DECRETO-LEI N. 9.431 – DE 6 DE JULHO DE 1946
 
 Abre ao Ministério da Fazenda o credito suplementar de Cr$ 62.400,00, à verba que especifica, e dá outras providências.

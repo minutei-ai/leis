@@ -1,5 +1,3 @@
-###DEC-054881-0-000-04-11-1964@@@
-
 DECRETO Nº 54.881, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza a Química Industrial Barra do Piraí S.A. a lavrar calcário, no município de Arcos, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-007786-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.786 – DE 26 DE JULHO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 13.000,00, para pagamento de contribuição do Brasil à Repartição Internacional para Proteção das Obras Literárias e Artísticas.

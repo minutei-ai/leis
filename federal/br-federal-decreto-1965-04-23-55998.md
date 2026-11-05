@@ -1,5 +1,3 @@
-###DEC-055998-0-000-23-04-1965@@@
-
 DECRETO nº  55.998, DE 23 DE ABRIL DE 1965.
 
 Concede à Engenharia de Minas, Indústria, Comércio e Mineração “Haralyi” Ltda, autorização para funcionar como emprêsa de mineração.

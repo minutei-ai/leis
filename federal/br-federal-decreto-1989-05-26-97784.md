@@ -1,7 +1,3 @@
-1
-
-###DEC-097784-0-000-26-05-1989@@@
-
 DECRETO N° 97.784, DE 26 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso Su­perior de Tecnologia em Processamento de Dados da Faculdade de Ciências Leonardo da Vinci/SP.

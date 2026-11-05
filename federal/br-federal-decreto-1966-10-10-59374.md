@@ -1,5 +1,3 @@
-###DEC-059374-0-000-10-10-1966@@@
-
 Decreto nº 59.374, de 10 de outubro de 1966.
 
 Concede à North British & Mercantile Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

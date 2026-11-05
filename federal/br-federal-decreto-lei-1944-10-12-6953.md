@@ -1,5 +1,3 @@
-###DEL-006953-0-000-12-10-1944@@@
-
 DECRETO-LEI N. 6.953 – DE 12 DE OUTUBRO DE 1944
 
 Autoriza o Govêrno do Estado de Minas Gerais a desapropriar as ações do Banco Hipotecário e Agrícola do Estado de Minas Gerais S. A. e dá outras providências.

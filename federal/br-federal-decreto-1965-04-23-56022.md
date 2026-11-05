@@ -1,5 +1,3 @@
-###DEC-056022-0-000-23-04-1965@@@
-
 DECRETO Nº 56.022, DE 23 DE ABRIL DE 1965
 
 Outorga à Petróleo Brasileiro S.A. (Petrobrás) concessão para derivar águas do rio dos Sinos.

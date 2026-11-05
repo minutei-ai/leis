@@ -1,5 +1,3 @@
-###DEC-047114-0-000-27-10-1959@@@
-
 decreto nº 47.114, de 27 de outubro de 1959.
 
 Concede à Siderúrgica Oeste de Minas S.A. - Somisa - autorização para a funcionar como emprêsa de mineração.

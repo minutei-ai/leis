@@ -1,5 +1,3 @@
-###DEC-073561-0-000-24-01-1974@@@
-
 Decreto nº 73.561, de 24 de janeiro de 1974.
 
 Concede permissão, em caráter permanente, ao Cotonifício Leopoldino S.A., com sede na cidade de Laopoldina, Estado de Minas Gerais, para funcionar aos domingos e nos feriados civis e religiosos.

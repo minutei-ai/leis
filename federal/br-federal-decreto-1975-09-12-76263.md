@@ -1,5 +1,3 @@
-###DEC-076263-0-000-12-09-1975@@@
-
 DECRETO Nº 76.263 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar argila no Município de Urussanga, Estado de Santa Catarina.

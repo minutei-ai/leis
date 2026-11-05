@@ -66,8 +66,10 @@ Art. 7º - Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia, Estado de Goiás, 13 de dezembro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

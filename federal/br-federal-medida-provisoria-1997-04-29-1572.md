@@ -1,5 +1,3 @@
-###MPV-001572-0-000-29-04-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.572, DE 29 DE ABRIL DE 1997
 
 Dispõe sobre o reajuste do salário mínimo.

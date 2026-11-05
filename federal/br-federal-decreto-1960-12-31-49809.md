@@ -1,5 +1,3 @@
-###DEC-049809-0-000-31-12-1960@@@
-
 DECRETO Nº 49.809, DE 31 DE dezembro DE 1960.
 
 Declara de utilidade pública a Sociedade Propagadora das Belas Artes, com sede no Distrito Federal.

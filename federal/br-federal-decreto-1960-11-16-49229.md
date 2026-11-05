@@ -1,5 +1,3 @@
-###DEC-049229-0-000-16-11-1960@@@
-
 DECRETO Nº 49.229, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Renato Fraccaroli a lavrar dolomita no município de Itapeva, Estado de São Paulo.

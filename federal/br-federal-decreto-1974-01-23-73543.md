@@ -1,5 +1,3 @@
-###DEC-073543-0-000-23-01-1974@@@
-
 DECRETO Nº 73.543, DE 23 DE JANEIRO DE 1974.
 
 Dispõe sobre indenizações de despesas realizadas pelo Ministério da Aeronáutica e dá outras providências.

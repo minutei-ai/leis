@@ -1,5 +1,3 @@
-###DEC-087866-0-000-24-11-1982@@@ 
-
 DECReto Nº 87.866, de 24 de novembro de 1982.
 
 Altera a localização da sede e a subordinação do 33º Batalhão de Infantaria Motorizado no Ministério do Exército e dá outras providências.

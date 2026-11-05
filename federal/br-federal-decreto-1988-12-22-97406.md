@@ -1,5 +1,3 @@
-###DEC-097406-0-000-22-12-1988@@@
-
 DECRETO N° 97.406, DE 22 DE DEZEMBRO DE 1988
 
 Cria a Zona de Processamento de Exportação - ZPE de Parnaíba, no Estado do Piauí.

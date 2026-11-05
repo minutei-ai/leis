@@ -1,5 +1,3 @@
-###DEC-081941-0-000-11-07-1978@@@
-
 Decreto nº 81.941, de 11 de julho de 1978
 
 Concede à Empresa de Desenvolvimento de Recursos Minerais - CODEMIN S.A. o direito de lavar minério de níquel no Município de Niquelândia, Estado de Goiás.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209452)<br>
-
 # DECRETO N° 68.512, DE 14 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação e melhoria da pista no trecho entre os km 406+0,00m e 454+800m da Rodovia Cândido Portinari, SP-334, no Município de Pedregulho, e dá providências correlatas._

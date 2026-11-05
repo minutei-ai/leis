@@ -1,5 +1,3 @@
-###MPV-000587-0-000-31-08-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 578, DE 31 DE AGOSTO DE 2012
 
 Permite a depreciação acelerada dos veículos automóveis para transportes de mercadorias e dos vagões, locomotivas, locotratores e tênderes que menciona, previstos na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI.

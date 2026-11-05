@@ -1,5 +1,3 @@
-###DEC-065021-0-000-19-08-1969@@@
-
 decreto nº 65.021 - de 19 de agôsto de 1969.
 
 Aprova o Regulamento para o Conselho Superior de Economia e Finanças e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091084-0-000-12-03-1985@@@
-
 Decreto nº 91.084 de 12 de março de 1985
 
 Dispõe sobre o montante do Capital Social da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB

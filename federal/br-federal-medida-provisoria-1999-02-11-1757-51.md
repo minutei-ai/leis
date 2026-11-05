@@ -1,5 +1,3 @@
-###MPV-001757-0-051-11-02-1999@@@
-
 MEDIDA PROVÍSÓRIA Nº 1.757-51, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

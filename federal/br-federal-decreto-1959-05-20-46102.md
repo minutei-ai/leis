@@ -1,5 +1,3 @@
-###DEC-046102-0-000-20-05-1959@@@
-
 DECRETO Nº 46.102, de 20 de maio de 1959.
 
 Assegura preços mínimos à produção de juta e malva da Bacia Amazônica, da safra de 1959.

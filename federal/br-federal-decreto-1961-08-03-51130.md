@@ -1,5 +1,3 @@
-###DEC-051130-0-000-03-08-1961@@@
-
 Decreto nº 51.130, de 3 de agôsto de 1961.
 
 Instituí a Divisão Turística do Território Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007463-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.463 – DE 12 DE ABRIL DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 9. 200.000,00 para instalação e equipamento de serviços que compõem o Departamento Federal de Segurança Pública.

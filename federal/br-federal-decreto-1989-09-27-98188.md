@@ -1,7 +1,3 @@
-1
-
-###DEC-098188-0-000-27-09-1989@@@
-
 DECRETO Nº 98.188, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA RAMADA DO CROATÁ ou RAMADA”, também conhecido como “PINHEIRO e CÓRREGO DO ALEIXO”, situado nos Municípios de Itapipoca e Amontada, Estado do Ceará, e dá outras providências.

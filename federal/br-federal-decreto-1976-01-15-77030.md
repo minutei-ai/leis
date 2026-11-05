@@ -1,5 +1,3 @@
-###DEC-077030-0-000-15-01-1976@@@
-
 DECRETO Nº 77.030, DE 15 DE JANEIRO DE 1976
 
 Extingue a Estrada de Ferro Tocantins, do Ministério dos Transportes e dá outras providências.

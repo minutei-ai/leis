@@ -1,5 +1,3 @@
-###DEL-000338-0-000-19-12-1967@@@
-
 DECRETO-LEI Nº 338, DE 19 DE DEZEMBRO DE 1967
 
 Dá nova redação ao artigo 12 e seu parágrafo 1º, do Decreto-lei nº 157, de 10.2.1967.

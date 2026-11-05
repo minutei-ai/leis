@@ -4,7 +4,7 @@ DECRETO Nº 10.213, DE 7 DE FEVEREIRO DE 2023
 
 ~~Aprova o Regulamento da Agência Goiana de Infraestrutura e Transportes – GOINFRA.~~
 
-<table style="width: 80%; margin-left: auto; margin-right: auto;"><tbody><tr><td colspan="2" style="width: 100.013%;"><vide><s>VIDE</s></vide></td></tr><tr><td style="width: 29.4538%;"><vide><s><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107889">Decreto nº 10.333, de 23-10-2023</a></s></vide></td><td style="width: 70.5597%;"><vide><s>Atribui à Agência Goiana de Infraestrutura e Transportes – GOINFRA a responsabilidade pela execução de todas as obras públicas do Poder Executivo do Estado de Goiás.</s></vide></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><vide><s>VIDE</s></vide></td></tr><tr><td><vide><s><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107889">Decreto nº 10.333, de 23-10-2023</a></s></vide></td><td><vide><s>Atribui à Agência Goiana de Infraestrutura e Transportes – GOINFRA a responsabilidade pela execução de todas as obras públicas do Poder Executivo do Estado de Goiás.</s></vide></td></tr></tbody></table>
 
 ~~O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais, conforme o art. 57 da [Lei nº  20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, e tendo em vista o que consta do Processo nº 202200005001539,~~
 

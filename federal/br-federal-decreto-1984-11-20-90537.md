@@ -1,5 +1,3 @@
-###DEC-090537-0-000-20-11-1984@@@
-
 Decreto nº 90.537, de 20 de novembro de 1984
 
 Autoriza o funcionamento de habilitação do curso de Educação Artística do Conservatório Musical de Santos.

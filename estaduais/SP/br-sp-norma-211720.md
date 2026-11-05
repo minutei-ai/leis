@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211720)<br>
-
 # DECRETO N° 70.024, DE 28 DE OUTUBRO DE 2025
 
 ### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
@@ -12,7 +10,8 @@ Decreta:
 
 I - ao Capítulo IV do Título II do Livro II, a Seção VIII-A, composta pelo artigo 361-A :
 
-"SEÇÃO XV-J<br>
+"SEÇÃO XV-J
+
 DAS OPERAÇÕES COM LEVEDURAS
 
 Artigo 361-A - O lançamento do imposto incidente na primeira saída de levedura inativa seca, levedura autolisada, levedura hidrolisada, parede celular de levedura e extrato de levedura, classificados no código 2102.20.00 da Nomenclatura Comum do Mercosul - NCM, extraídos do processo de fermentação da cana-de-açúcar, fica diferido, nos termos e condições de disciplina estabelecida pela Secretaria da Fazenda e Planejamento, para o momento em que ocorrer:

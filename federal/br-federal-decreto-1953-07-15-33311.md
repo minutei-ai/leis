@@ -1,16 +1,14 @@
-###DEC-033311-0-000-15-07-1953@@@
+**DECRETO Nº 33.311, DE 15 DEJULHO DE 1953.**
 
-<strong>DECRETO Nº 33.311, DE 15 DEJULHO DE 1953.</strong>
+***Autoriza a Campanhia Luz e***  ***Fôrça Santa Cruz a construir linhas de transmissão no Estado de São Paulo e da outras providencias.***
 
-<em><strong>Autoriza a Campanhia Luz e</strong></em>  <em><strong>Fôrça Santa Cruz a construir linhas de transmissão no Estado de São Paulo e da outras providencias.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940.
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940.
 
 CONSIDERANDO que pela Resolução de número 890, as medidas foram julgadas convenientes pelo Conselho Nacional de Águas e Energia Elétrica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica autorizada a Companhia Luz e Fôrça Santa Cruz a:
+**Art**. 1º Fica autorizada a Companhia Luz e Fôrça Santa Cruz a:
 
 I - Construir uma linha de trasmissão trifásica, em circuito singelo, para potência de 1.200 kVA, tensão nonimal de 33 kV entre condutores, frequência de 60 ciclos por segundo, extensão aproximada de 24 Km., entre a usina de paranapanema, no municipio de Piraju, e a localidade de São Berto, no municipio de Manduri, Estado de São Paulo;
 
@@ -26,16 +24,16 @@ VI - operar a rêde de distribuição já existente no distrito de Arandu, munic
 
 Parágrafo único. As linhas de transmissão de 33kV a que se referem os incisos I, II e III dêste artigo destinam-se ao fornecimento de energia elétrica nos municípios de Cerqueira Cezar e Avaré, no Estado de São Paulo.
 
-<strong>Art</strong>. 2º A emprêsa concessionária fica obrigada, sob pena de multa a ser imposta pelo Ministro da Agricultura, a apresentar à Divisão de Águas, dentro de cento e vinte (120) dias, os estudos, projetos e orçamentos das obras.
+**Art**. 2º A emprêsa concessionária fica obrigada, sob pena de multa a ser imposta pelo Ministro da Agricultura, a apresentar à Divisão de Águas, dentro de cento e vinte (120) dias, os estudos, projetos e orçamentos das obras.
 
 Parágrafo único. O prazo a que se refere êste artigo poderá ser prorrogada pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 15 de julho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

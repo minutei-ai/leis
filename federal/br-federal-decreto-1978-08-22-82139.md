@@ -1,5 +1,3 @@
-###DEC-082139-0-000-22-08-1978@@@
-
 Decreto nº 82.139, de 22 de agosto de 1978
 
 Altera o Regulamento da Ordem do Mérito Militar, aprovado pelo Decreto nº 77.913, de 24 de junho de 1976 e dá outras providências.

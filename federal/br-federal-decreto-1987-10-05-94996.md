@@ -1,5 +1,3 @@
-###DEC-094996-0-000-05-10-1987@@@
-
 DECRETO Nº 94.996, DE 5 DE OUTUBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São Bernardino", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Nova Iguaçu, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.691, de 19 de maio de 1986, e dá outras providências.

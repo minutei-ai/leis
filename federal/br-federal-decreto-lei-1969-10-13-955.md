@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/94058d84-1e02-4849-907e-04dcb937857f/texto#nowhere)
 
-###DEL-000955-0-000-13-10-1969@@@
-
 Decreto-lei nº 955, de 13 de Outubro de 1969
 
 Altera o Plano Nacional de Viação - Setor Rodoviário, aprovado pela Lei nº 5.356, de 17 de novembro de 1967, incluindo a rodovia que menciona.

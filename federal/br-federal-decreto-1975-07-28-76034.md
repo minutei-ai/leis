@@ -1,5 +1,3 @@
-###DEC-076034-0-000-28-07-1975@@@
-
 DECRETO Nº 76.034 - DE 28 DE JULHO DE 1975.
 
 Concede reconhecimento ao Curso de Ciências Econômicas das Faculdades Integradas Estácio de Sá, mantidas pela Sociedade de Ensino Superior Estácio de Sá, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

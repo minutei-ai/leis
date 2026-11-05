@@ -1,5 +1,3 @@
-###DEC-055591-0-000-19-01-1965@@@
-
 DECRETO Nº 55.591, DE 19 DE JANEIRO DE 1965.
 
 Dispõe sôbre a utilização do prédio sito à Praia do Flamengo nº 132, no Estado da Guanabara.

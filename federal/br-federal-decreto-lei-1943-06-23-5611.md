@@ -1,5 +1,3 @@
-###DEL-005611-0-000-23-06-1943@@@
-
 DECRETO–LEI N. 5.611 – DE 23 DE JUNHO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 27.340.000,00, para ligações ferroviárias

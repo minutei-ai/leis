@@ -1,7 +1,3 @@
-1
-
-###DEC-099617-0-000-17-10-1990@@@
-
 # DECRETO Nº 99.617, DE 17 DE OUTUBRO DE 1990
 
 Dispõe sobre o ingresso no The LongTerm Credit Bank of Japan Ltd., instituição financeira japonesa, no capital do Banco Omega S.A., instituição financeira nacional, sediada no Rio de Janeiro/RJ,

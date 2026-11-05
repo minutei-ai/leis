@@ -1,5 +1,3 @@
-###DEC-056543-0-000-07-07-1965@@@
-
 DECRETO Nº 56.543, DE 7 DE JULHO DE 1965.
 
 Cria a Comissão de Estudos da Política do Cacau.

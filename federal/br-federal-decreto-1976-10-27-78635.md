@@ -1,5 +1,3 @@
-###DEC-078635-0-000-27-10-1976@@@
-
 DECRETO Nº 78.635, de 27 de outubro de 1976.
 
 Concede reconhecimento ao curso de Matemática, da Faculdade de Filosofia Santa Dorotéia, com sede na cidade de Nova Friburgo, Estado do Rio de Janeiro.

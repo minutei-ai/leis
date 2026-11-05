@@ -1,5 +1,3 @@
-###DEC-070546-0-000-16-05-1972@@@
-
 DECRETO Nº 70.546, DE 16 DE MAIO DE 1972.
 
 Redistribui cargo, com a respectiva ocupante, para a Universidade Federal do Rio Grande do Norte, e dá outras providências.

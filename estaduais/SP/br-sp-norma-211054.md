@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211054)<br>
-
 # DECRETO N° 69.616, DE 11 DE JUNHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo determinado, do Município de Osasco, parte do imóvel que especifica._

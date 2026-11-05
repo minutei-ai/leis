@@ -1,5 +1,3 @@
-###DEC-073024-0-000-30-10-1973@@@
-
 decreto nº 73.024, de 30 de outubro de 1973.
 
 Declara perempta a concessão outorgada à Rádio Clube Hertz S. A., para executar serviço de radiodifusão sonora em ondas médias de âmbito regional, na cidade de Franca, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051158-0-000-07-08-1961@@@
-
 DECRETO Nº 51.158, DE 7 DE AGÔSTO DE 1961.
 
 Autoriza o Gôverno do Estado do Maranhão a pesquisar calcário no município de Codó, Estado do Maranhão.

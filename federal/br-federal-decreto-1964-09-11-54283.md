@@ -1,5 +1,3 @@
-###DEC-054283-0-000-11-09-1964@@@
-
 DECRETO Nº 54.283, DE 11 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal do Hospital Júlia Kubitschek e dá outras providencias.

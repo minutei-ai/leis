@@ -1,5 +1,3 @@
-###DEL-001503-0-000-23-12-1976@@@
-
 # DECRETO-LEI Nº 1.503, De 23 DE DEZEMBRO De 1976
 
 Dispõe sobre incentivos fiscais para empreendimentos florestais.

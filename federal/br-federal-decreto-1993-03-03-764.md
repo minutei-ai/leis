@@ -1,7 +1,3 @@
-1
-
-###DEC-000764-0-000-03-03-1993@@@
-
 DECRETO N° 764, DE 3 DE MARÇO DE 1993
 
 Dá nova redação aos arts. 4° e 8° do Decreto n° 193, de 21 de agosto de 1991.

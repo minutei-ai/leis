@@ -1,5 +1,3 @@
-###DEL-000215-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 215, DE 27 DE FEVEREIRO DE 1967
 
 Altera o Código da Justiça Militar (Decreto-lei nº 925, de 2 de dezembro de 1938).

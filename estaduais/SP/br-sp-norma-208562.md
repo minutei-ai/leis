@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208562)<br>
-
 # DECRETO N° 67.979, DE 25 DE SETEMBRO DE 2023
 
 ### _Regulamenta dispositivos da Lei federal n° 13.874, de 20 de setembro de 2019 (Declaração de Direitos de Liberdade Econômica), da Lei n°17.530, de 11 de abril de 2022 (Código de Defesa do Empreendedor) e da Lei n° 17.761, de 25 de setembro de 2023, que institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo, para dispor sobre os critérios e os procedimentos para a classificação de risco de atividades econômicas, regras para aprovação tácita e procedimento aplicável à constituição de ambiente regulatório experimental no âmbito do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições preliminares
 
 **Artigo 1° -** Este decreto estabelece os critérios a serem observados pela Administração Pública direta e autárquica para a classificação do nível de risco de atividades econômicas, disciplina a aplicação do regime de aprovação tácita de atos públicos de liberação e estabelece procedimentos para a constituição de ambiente regulatório experimental no Estado de São Paulo.
@@ -29,10 +28,12 @@ Disposições preliminares
 
 **Parágrafo único -** os procedimentos previstos neste decreto serão aplicados sem prejuízo à regular prática de atos ou procedimentos decorrentes de poder de polícia pelos órgãos ou entidades da Administração Pública.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Níveis de Risco da Atividade Econômica
 
-#### Seção I<br>
+#### Seção I
+
 Classificação de riscos
 
 **Artigo 3° -** Os órgãos e entidades de que trata o artigo 1° deste decreto editarão, no prazo de 90 (noventa) dias, contados da publicação deste decreto, ato normativo de classificação de riscos das atividades econômicas em seus respectivos âmbitos, considerando três categorias:
@@ -63,14 +64,16 @@ III - alto risco, ou nível de risco III, para os casos definidos como risco ele
 
 **§ 4° -** Cabe aos órgãos e entidades dar ciência ao Comitê Estadual para Simplificação de Registro e Legalização de Empresas e Negócios no Estado de São Paulo - Comitê Facilita SP, instituído pelo [Decreto n° 67.980, de 25 de setembro de 2023](https://www.al.sp.gov.br/norma/208563), sobre a emissão do ato normativo de que trata o "caput" deste artigo.
 
-#### Seção II<br>
+#### Seção II
+
 Das Regras Supletivas
 
 **Artigo 4° -** Enquanto o órgão ou entidade estadual não editar o ato normativo de que trata o artigo 3° deste decreto, a atividade econômica sujeita a ato público de liberação será classificada com base em Resolução do Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - CGSIM, instituído pela Lei federal n° 11.598, de 3 de dezembro de 2007.
 
 **Parágrafo único -** Na ausência de classificação da atividade nos termos do "caput" deste artigo, a atividade econômica será classificada como médio risco, ou nível de risco II.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Aprovação Tácita
 
 **Artigo 5° -** Os órgãos da Administração Pública Direta e autárquica editarão normas estabelecendo prazo, não superior a 60 (sessenta) dias, para decisão sobre os requerimentos de emissão de atos públicos de liberação apresentados em seus respectivos âmbitos.
@@ -125,10 +128,12 @@ d) que envolvam atividades ou produtos potencialmente nocivos à saúde ou incol
 
 **Parágrafo único -** A renúncia a que alude o "caput" deste artigo não exime o órgão ou a entidade de cumprir as condições e os prazos estabelecidos para a decisão acerca dos requerimentos apresentados em seus respectivos âmbitos.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Ambiente Regulatório Experimental
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais
 
 **Artigo 8° -** Para os fins do disposto neste Capítulo, considera-se:
@@ -145,7 +150,8 @@ III - modelo de negócio inovador: atividade que, cumulativamente ou não, utili
 
 **§ 2° -** A autorização temporária de que trata o "caput" deste artigo não afasta a incidência das demais normas aplicáveis ao modelo de negócio ou à tecnologia testada no ambiente regulatório experimental, especialmente aquelas relacionadas à legislação trabalhista, tributária e ambiental.
 
-#### Seção II<br>
+#### Seção II
+
 Dos Procedimentos de Acesso
 
 **Artigo 10 -** O acesso dos participantes a ambiente regulatório experimental dar-se-á por meio de chamamento público.
@@ -168,7 +174,8 @@ Dos Procedimentos de Acesso
 
 3\. atestado o cumprimento dos requisitos, a comissão tornará pública a manifestação de interesse e encaminhará o processo administrativo ao Secretário de Desenvolvimento Econômico para decisão sobre a instauração de chamamento público.
 
-#### Seção III<br>
+#### Seção III
+
 Elegibilidade
 
 **Artigo 11 -** São requisitos de elegibilidade para participação em chamamento público de constituição de ambiente regulatório experimental:
@@ -199,7 +206,8 @@ d) crime contra a economia popular, a ordem econômica, as relações de consumo
 
 **§ 2° -** O proponente deve estar apto a participar de licitações e a contratar com a Administração Pública do Estado de São Paulo.
 
-#### Seção IV<br>
+#### Seção IV
+
 Das Propostas de Chamamento Público e de Manifestação de Interesse Público
 
 **Artigo 12 -** A proposta de constituição de ambiente regulatório experimental conterá, no mínimo, os seguintes requisitos:
@@ -284,21 +292,24 @@ IV - proposta de condições, limites e salvaguardas a serem impostas para mitig
 
 **Parágrafo único -** Na hipótese de submissão da proposta ao Chefe do Poder Executivo, deverá ser obtida prévia anuência do órgão ou entidade estadual com atribuição para regulamentar ou fiscalizar a atividade objeto da autorização.
 
-#### Seção V<br>
+#### Seção V
+
 Da autorização temporária
 
 **Artigo 17 -** As autorizações temporárias serão concedidas pelo prazo de até 1 (um) ano, prorrogável por igual período.
 
 **Parágrafo único -** A autorização temporária será concedida em caráter gratuito e não exclusivo, não obstando o recebimento, processamento e concessão de autorizações similares a outros requerentes.
 
-#### Seção VI<br>
+#### Seção VI
+
 Do Acompanhamento
 
 **Artigo 18 -** O Secretário de Desenvolvimento Econômico designará, em ato específico, Comissão de Acompanhamento para cada autorização concedida, para monitoramento e avaliação da eficácia do ambiente regulatório experimental na consecução dos resultados esperados em termos de ganhos de eficiência, redução de custos ou ampliação de acesso;
 
 **Parágrafo único -** A Comissão de Acompanhamento poderá convidar representantes de outros órgãos ou entidades para acompanhamento dos trabalhos e contribuições para a discussão das ações em exame.
 
-#### Seção VII<br>
+#### Seção VII
+
 Do Encerramento
 
 **Artigo 19 -** A participação no ambiente regulatório experimental se encerrará:
@@ -323,7 +334,8 @@ III - demonstração de que os resultados alcançados, ainda que parciais, têm 
 
 IV - ocorrência de falhas operacionais ou indícios de irregularidades.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Medidas de Apoio aos Municípios e de Interação com a Sociedade Civil
 
 **Artigo 21 -** O Estado de São Paulo poderá apoiar os Municípios paulistas na realização de estudos sobre desburocratização, aumento da competitividade, melhoria do ambiente de negócios e regulamentação da Lei federal n° 13.874, de 20 de setembro de 2019.
@@ -346,7 +358,8 @@ VI - acompanhar as medidas previstas neste decreto.
 
 **Parágrafo único -** A designação para participação nos Fóruns de que trata o "caput" deste artigo não será remunerada, mas considerada serviço relevante.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Disposições Finais
 
 **Artigo 23 -** O disposto no Capítulo III aplica-se aos requerimentos apresentados após a data de entrada em vigor deste decreto.

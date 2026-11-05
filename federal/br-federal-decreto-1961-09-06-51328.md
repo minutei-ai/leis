@@ -1,5 +1,3 @@
-###DEC-051328-0-000-06-09-1961@@@
-
 Decreto nº 51.328, de 6 de setembro de 1961.
 
 Prorroga feriado bancário estabelecido pelo Decreto nº 51.315, de 30 de agôsto de 1961.

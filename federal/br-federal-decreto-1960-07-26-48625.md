@@ -1,5 +1,3 @@
-###DEC-048625-0-000-26-07-1960@@@
-
 DECRETO Nº 48.625, DE 26 DE JULHO DE 1960.
 
 Outorga à Prefeitura Municipal de Espera Feliz concessão para o aproveitamento progressivo de energia hidráulica da cachoeira da Fumaça existente no uso rio Preto, distrito de Caiana, Município de Espera Feliz, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-007578-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.578, DE 11 OUTUBRO DE 2011.
 
 Regulamenta as medidas tributárias referentes à realização, no Brasil, da Copa das Confederações FIFA 2013 e da Copa do Mundo FIFA 2014 de que trata a Lei no 12.350, de 20 de dezembro de 2010.

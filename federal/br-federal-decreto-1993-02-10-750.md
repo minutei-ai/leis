@@ -1,7 +1,3 @@
-1
-
-###DEC-000750-0-000-10-02-1993@@@
-
 DECRETO N° 750, DE 10 DE FEVEREIRO DE 1993
 
 Dispõe sobre o corte, a exploração e a supressão de vegetação primária ou nos es­tágios avançado e médio de regeneração da Mata Atlântica, e dá outras providências.

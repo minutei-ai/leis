@@ -1,5 +1,3 @@
-###DEC-091292-0-000-31-05-1985@@@
-
 Decreto nº 91.292, de 31 de maio de 1985.
 
 Delega competência ao Ministro da Justiça e ao Procurador-Geral da República, para a prática dos atos que indica.

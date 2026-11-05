@@ -1,5 +1,3 @@
-###DEC-091495-0-000-29-07-1985@@@
-
 Decreto nº 91.495, de 29 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO CLUBE DE CURVELO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curvelo, Estado de Minas Gerais.

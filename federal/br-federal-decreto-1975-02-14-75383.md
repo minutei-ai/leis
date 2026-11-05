@@ -1,5 +1,3 @@
-###DEC-075383-0-000-14-02-1975@@@
-
 Decreto nº 75.383, de 14 de fevereiro de 1975.
 
 Altera o Regulamento para o Estado Maior da Armada, aprovado pelo Decreto nº 66.052, de 12 de janeiro de 1970 e modificado pelo Decreto nº 73.916, de 5 de abril de 1974.

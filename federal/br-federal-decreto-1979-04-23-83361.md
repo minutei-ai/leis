@@ -1,5 +1,3 @@
-###DEC-083361-0-000-23-04-1979@@@
-
 Decreto nº 83.361, de 23 de abril de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Laranjal Paulista da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

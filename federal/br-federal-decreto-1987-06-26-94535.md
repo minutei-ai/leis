@@ -1,5 +1,3 @@
-###DEC-094535-0-000-26-06-1987@@@
-
 DECRETO N° 94.535, DE 26 DE JUNHO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Rio Vermelho ou Estância Alcina", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Rondonópolis, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 2 de maio de 1986, e dá outras providências.

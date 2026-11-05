@@ -1,5 +1,3 @@
-###DEC-052399-0-000-23-08-1963@@@
-
 DECRETO Nº 52.399, DE 23 DE AGÔSTO DE 1963.
 
 Autoriza a Companhia Rhodosa de Raion S.A. a instalar grupo termoelétrico, para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-075822-0-000-04-06-1975@@@
-
 DECRETO Nº 75.822, DE 4 DE JUNHO DE 1975.
 
 Autoriza o funcionamento dos cursos de Letras e de Geografia e História da Escola Superior de Ciências e Pedagogia, da Fundação Educacional do Sul de Santa Catarina, com Sede na cidade de Florianópolis, Estado de Santa Catarina.

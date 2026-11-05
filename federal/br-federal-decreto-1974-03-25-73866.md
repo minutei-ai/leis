@@ -1,5 +1,3 @@
-###DEC-073866-0-000-25-03-1974@@@
-
 DECRETO Nº 73.866, DE 25 DE MARÇO DE 1974.
 
 Autoriza o funcionamento do curso de Física da Faculdade de Filosofia, Ciências e Letras "Oswaldo Cruz" mantida pelo Instituto Educacional "Oswaldo Quirino", com sede na cidade de São Paulo, Estado de São Paulo.

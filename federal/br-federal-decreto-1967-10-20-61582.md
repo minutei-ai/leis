@@ -1,5 +1,3 @@
-###DEC-061582-0-000-20-10-1967@@@
-
 DECRETO Nº 61.582, DE 20 DE OUTUBRO DE 1967.
 
 Dispõe sôbre a estrutura, atribuição e funcionamento da Consultoria Jurídica do Ministério da Educação e Cultura.

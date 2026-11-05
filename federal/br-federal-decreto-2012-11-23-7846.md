@@ -1,5 +1,3 @@
-###DEC-007846-0-000-23-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.846, DE 23 DE NOVEMBRO DE 2012
 
 Dispõe sobre o remanejamento, em caráter temporário, de dois cargos em comissão do Grupo-Direção e Assessoramento Superiores \- DAS para a Comissão Especial criada pelo Decreto de 15 de março de 2012 com o objetivo de coordenar e organizar os preparativos da visita ao Brasil de Sua Santidade o Papa Bento XVI, por ocasião da Jornada Mundial da Juventude.

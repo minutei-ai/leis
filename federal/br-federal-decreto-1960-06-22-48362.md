@@ -1,5 +1,3 @@
-###DEC-048362-0-000-22-06-1960@@@
-
 DECRETO Nº 48.362, DE 22 DE JUNHO DE 1960.
 
 Concede à “Empabra” Emprêsa de Mineração Pau Branco Ltda. autorização para funcionar como emprêsa de mineração.

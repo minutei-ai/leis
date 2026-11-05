@@ -1,5 +1,3 @@
-###MPV-002095-0-072-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.095-72, DE 22 DE FEVEREIRO DE 2001
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

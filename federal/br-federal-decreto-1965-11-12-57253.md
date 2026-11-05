@@ -1,5 +1,3 @@
-###DEC-057253-0-000-12-11-1965@@@
-
 DECRETO Nº 57.253, de 12 de novembro de 1965.
 
 Concede à sociedade Diogo & Cia Ltda. autorização para continuar a funcionar como emprêsa de navegação de contagem.

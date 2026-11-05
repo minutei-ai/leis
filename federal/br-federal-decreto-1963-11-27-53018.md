@@ -1,5 +1,3 @@
-###DEC-053018-0-000-27-11-1963@@@
-
 DECRETO Nº 53.018, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Alonso Paiva a pesquisar minério de manganês, no município de Pratinha, Estado de Minas Gerais.

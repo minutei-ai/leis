@@ -1,5 +1,3 @@
-###DEC-093869-0-000-23-12-1986@@@
-
 DECRETO Nº 93.869, DE 23 DE DEZEMBRO DE 1986
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, vinculada ao Ministério do Exército.

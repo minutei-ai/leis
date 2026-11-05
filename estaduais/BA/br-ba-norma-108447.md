@@ -1,10 +1,15 @@
 LEI COMPLEMENTAR Nº 011 DE 18 DE JANEIRO DE 1996. \[Download\]
 
-Ver também:<br>
-Lei nº [14.168](https://www.legislabahia.ba.gov.br/documentos/lei-no-14168-de-26-de-setembro-de-2019) de 26 de setembro de 2019 - Altera o Quadro Geral do Ministério Público do Estado da Bahia, previsto na Lei Complementar nº 11, de 18 de janeiro de 1996, e a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.<br>
-Lei nº [13.970](https://www.legislabahia.ba.gov.br/documentos/lei-no-13970-de-14-de-junho-de-2018) de 14 de junho de 2018 - Altera a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.<br>
-Lei nº [12.607](https://www.legislabahia.ba.gov.br/documentos/lei-no-12607-de-26-de-dezembro-de-2012), de 26 de dezembro de 2012 - Altera a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia, e dá outras providências.<br>
-Lei nº [10.424](https://www.legislabahia.ba.gov.br/documentos/lei-no-10424-de-14-de-novembro-de-2006), de 14 de novembro de 2006 - Dispõe sobre os cargos em comissão do Ministério Público do Estado da Bahia e dá outras providências.<br>
+Ver também:
+
+Lei nº [14.168](https://www.legislabahia.ba.gov.br/documentos/lei-no-14168-de-26-de-setembro-de-2019) de 26 de setembro de 2019 - Altera o Quadro Geral do Ministério Público do Estado da Bahia, previsto na Lei Complementar nº 11, de 18 de janeiro de 1996, e a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.
+
+Lei nº [13.970](https://www.legislabahia.ba.gov.br/documentos/lei-no-13970-de-14-de-junho-de-2018) de 14 de junho de 2018 - Altera a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.
+
+Lei nº [12.607](https://www.legislabahia.ba.gov.br/documentos/lei-no-12607-de-26-de-dezembro-de-2012), de 26 de dezembro de 2012 - Altera a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia, e dá outras providências.
+
+Lei nº [10.424](https://www.legislabahia.ba.gov.br/documentos/lei-no-10424-de-14-de-novembro-de-2006), de 14 de novembro de 2006 - Dispõe sobre os cargos em comissão do Ministério Público do Estado da Bahia e dá outras providências.
+
 Art. 1º da Lei nº [9.585](https://www.legislabahia.ba.gov.br/documentos/lei-no-9585-de-12-de-julho-de-2005) de 12 de julho de 2005: "Os vencimentos e gratificações dos cargos integrantes das carreiras de Assistente Técnico-Administrativo, Motorista e Analista Técnico e cargos em comissão do Ministério Público do Estado da Bahia, na forma da Lei Estadual nº [8.966](https://www.legislabahia.ba.gov.br/documentos/lei-no-8966-de-22-de-dezembro-de-2003), de 22 de dezembro de 2003, passam a ser, observadas as datas de vigência, os constantes dos anexos I a III desta Lei."
 
 Institui a Lei Orgânica do Ministério Público do Estado da Bahia e dá outras providências.
@@ -13,13 +18,16 @@ Institui a Lei Orgânica do Ministério Público do Estado da Bahia e dá outras
 
 DECRETA
 
-LIVRO I -<br>
+LIVRO I -
+
 DA AUTONOMIA, DA ORGANIZAÇÃO E DAS ATRIBUIÇÕES DO MINISTÉRIO PÚBLICO
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS E DA AUTONOMIA DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
@@ -28,7 +36,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 2º** - São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA AUTONOMIA DO MINISTÉRIO PÚBLICO
 
 **Art. 2º** - Ao Ministério Público, organizado em carreira, é assegurada autonomia funcional, administrativa e financeira, cabendo-lhe, especialmente:
@@ -67,10 +76,12 @@ DA AUTONOMIA DO MINISTÉRIO PÚBLICO
 
 **§ 4º** - A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Ministério Público, quanto à legalidade, legitimidade, economicidade, aplicação de dotações e recursos próprios e renúncia de receitas, será exercida pelo Poder Legislativo, mediante controle externo e pelo sistema de controle interno estabelecido nesta Lei Complementar.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA ORGANIZAÇÃO DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA ESTRUTURA DO MINISTÉRIO PÚBLICO
 
 **Art. 4º** - O Ministério Público compreende:
@@ -115,37 +126,48 @@ DA ESTRUTURA DO MINISTÉRIO PÚBLICO
 
 **I** \-        a Ouvidoria do Ministério Público;
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: I -" a Procuradoria-Geral de Justiça ;"<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: I -" a Procuradoria-Geral de Justiça ;"
+
 Redação original: I -" os Centros de Apoio Operacional;"
 
 **II** \-      os Centros de Apoio Operacional;
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: II - "os Centros de Apoio Operacional;"<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: II - "os Centros de Apoio Operacional;"
+
 Redação original: II - "a Comissão de Concurso;"
 
 **III -**     os órgãos de Planejamento Estratégico;
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: III - "a Comissão de Concurso;"<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: III - "a Comissão de Concurso;"
+
 Redação original: III - "o Centro de Estudos e Aperfeiçoamento Funcional;"
 
 **IV** \-     os órgãos descentralizados de suporte administrativo e finalístico às Procuradorias e às Promotorias de Justiça;
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: IV - " o Centro de Estudos e Aperfeiçoamento Funcional;"<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: IV - " o Centro de Estudos e Aperfeiçoamento Funcional;"
+
 Redação original: IV - "os Órgãos de Apoio Técnico, Administrativo e de assessoramento;"
 
 **V -**       a Comissão de Concurso;
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54de 12 de maio de 2023.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: V - " os Órgãos de Apoio Técnico, Administrativo e de Assessoramento;<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54de 12 de maio de 2023.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 22, de 16 de dezembro de 2005: V - " os Órgãos de Apoio Técnico, Administrativo e de Assessoramento;
+
 Redação original: V - "os Estagiários."
 
 **VI** \-     o Centro de Estudos e Aperfeiçoamento Funcional;
 
-Redação anterior de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
+Redação anterior de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
 Redação original: VI - "os Estagiários."
 
 **VII** \- a Central de Apoio Técnico;
@@ -176,16 +198,21 @@ XIII - os Estagiários.” (NR)
 
 Inciso XIII acrescido pelo art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
 
-CAPÍTULO II -<br>
-DOS ÓRGÃOS DA ADMINISTRAÇÃO SUPERIOR<br>
- SEÇÃO I -<br>
-DA PROCURADORIA-GERAL DE JUSTIÇA<br>
-Subseção I -<br>
+CAPÍTULO II -
+
+DOS ÓRGÃOS DA ADMINISTRAÇÃO SUPERIOR
+
+ SEÇÃO I -
+
+DA PROCURADORIA-GERAL DE JUSTIÇA
+
+Subseção I -
+
 Das Disposições Gerais
 
 **Art. 5º** - A Procuradoria-Geral de Justiça, órgão de direção superior do Ministério Público, será chefiada pelo Procurador-Geral de Justiça, nomeado pelo Governador do Estado dentre os integrantes da carreira, com o mínimo de 10 (dez) anos de serviço na instituição, indicados em lista tríplice, elaborada na forma desta Lei Complementar, para mandato de 2 (dois) anos, permitida uma recondução, observado o mesmo procedimento.
 
-**<REVOGADO>****§ 1º** - A eleição para formação da lista tríplice será na primeira quinzena do mês de maio dos anos ímpares.
+**<REVOGADO>§ 1º** - A eleição para formação da lista tríplice será na primeira quinzena do mês de maio dos anos ímpares.
 
 Revogado pelo art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
 
@@ -193,7 +220,8 @@ Revogado pelo art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
 
 **§ 3º** - Será defeso o voto postal e o voto por procuração.
 
-Subseção II -<br>
+Subseção II -
+
 Da Escolha, Nomeação e Posse do Procurador-Geral de Justiça
 
 **Art. 6º** - O Órgão Especial do Colégio de Procuradores de Justiça baixará normas regulamentadoras do processo eleitoral 50 (cinqüenta) dias antes da data prevista para a votação.
@@ -220,7 +248,8 @@ Da Escolha, Nomeação e Posse do Procurador-Geral de Justiça
 
 **§ 8º** - O(A) Procurador(a)-Geral de Justiça tomará posse e entrará em exercício em sessão pública e solene do Órgão Especial do Colégio de Procuradores de Justiça, em até 90 (noventa) dias após a realização da eleição.
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
 Redação original: § 8º - "O Procurador-Geral de Justiça tomará posse e entrará em exercício em sessão pública e solene do Órgão Especial do Colégio de Procuradores de Justiça, na primeira quinzena do mês subseqüente ao da eleição."
 
 **§ 9º** - O Procurador-Geral de Justiça fará declaração pública de bens no ato da posse e no término do mandato.
@@ -239,7 +268,7 @@ Redação original: § 8º - "O Procurador-Geral de Justiça tomará posse e ent
 
 Inciso V acrescido ao art. 7º pelo art. 12 da Lei Complementar nº 17, de 21 de agosto de 2002.
 
-**<Revogado>** **Art. 8º** - O Procurador-Geral de Justiça será substituído, em seus afastamentos e impedimentos eventuais, pelo Procurador-Geral de Justiça Adjunto.
+**<Revogado>Art. 8º** - O Procurador-Geral de Justiça será substituído, em seus afastamentos e impedimentos eventuais, pelo Procurador-Geral de Justiça Adjunto.
 
 **Parágrafo único -** Decorridos 120 (cento e vinte) dias de afastamento, será declarada a vacância do cargo de Procurador-Geral de Justiça, pelo Colégio de Procuradores de Justiça.
 
@@ -247,19 +276,22 @@ Art. 8º revogado pelo art. 15 da Lei Complementar nº 17, de 21 de agosto de 20
 
 **Art. 9º** - Ocorrendo a vacância do cargo de Procurador-Geral de Justiça, será realizada, em até 60 (sessenta) dias, nova eleição para o preenchimento do cargo, na forma do artigo 5º desta Lei Complementar.”
 
-Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
+
 Redação original: Art. 9º  \- "Ocorrendo a vacância do cargo de Procurador-Geral de Justiça, nos primeiros 18 (dezoito) meses do mandato, será realizada, em 30 (trinta) dias, nova eleição para o preenchimento do cargo, na forma do artigo 5º."
 
 **Art. 10** - Ocorrendo a vacância, o cargo de Procurador-Geral de Justiça será exercido, interinamente, pelo Procurador-Geral de Justiça Adjunto, e, na falta deste, sucessivamente, pelo Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos e pelo Corregedor-Geral do Ministério Público.
 
-Redação do art. 10 de acordo com o art. 11 da Lei Complementar nº 24, de 04 de janeiro de 2006.<br>
+Redação do art. 10 de acordo com o art. 11 da Lei Complementar nº 24, de 04 de janeiro de 2006.
+
 Redação original: "Art. 10 - Ocorrendo a vacância nos últimos 6 (seis) meses de mandato, o cargo de Procurador-Geral de Justiça será exercido, interinamente, pelo Procurador-Geral de Justiça Adjunto, e, na falta deste, pelo Corregedor-Geral do Ministério Público."
 
-**<REVOGADO>****Parágrafo único -** Em qualquer dos casos, o sucessor deverá completar o período do mandato de seu antecessor.
+**<REVOGADO>Parágrafo único -** Em qualquer dos casos, o sucessor deverá completar o período do mandato de seu antecessor.
 
 Revogado pelo  art. 1º da Lei Complementar nº 54 de 12 de maio de 2023.
 
-Subseção III -<br>
+Subseção III -
+
 Da Destituição do Procurador-Geral de Justiça
 
 **Art. 11** - O Procurador-Geral de Justiça poderá ser destituído do cargo, por deliberação da maioria absoluta da Assembléia Legislativa, em caso de abuso de poder, conduta incompatível com suas atribuições, grave omissão nos deveres do cargo, assegurada ampla defesa,ou condenação por infração apenada com reclusão , em decisão judicial transitada em julgado, e obedecido o seguinte procedimento:
@@ -302,7 +334,8 @@ Da Destituição do Procurador-Geral de Justiça
 
 **Parágrafo único -** O período de afastamento contará como exercício do mandato.
 
-Subseção IV -<br>
+Subseção IV -
+
 Das Atribuições Administrativas do Procurador-Geral de Justiça
 
 **Art. 15** - Ao Procurador-Geral de Justiça compete:
@@ -397,7 +430,8 @@ Das Atribuições Administrativas do Procurador-Geral de Justiça
 
 **XXXVII -** convocar Procuradores de Justiça ou Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira para prestarem, temporariamente, serviços à Procuradoria-Geral de Justiça ou ocupar cargos de confiança;
 
-Redação de acordo com a Lei Complementar 56 de 085 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 085 de março de 2024.
+
 Redação original: XXXVII - "convocar Procuradores de Justiça ou Promotores de Justiça da mais elevada entrância, para prestar, temporariamente, serviços à Procuradoria-Geral de Justiça ou ocupar cargos de confiança;"
 
 **XXXVIII -** autorizar o membro do Ministério Público a ausentar-se do País;
@@ -436,19 +470,22 @@ Inciso XLIX acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho d
 
 **Parágrafo único -** As funções indicadas nos incisos III, VI, VII, VIII, XXX e XXXII não poderão ser delegadas.
 
-**_Redação do Parágrafo único do art. 15 de acordo com o art. 7º da Lei Complementar nº 21, de 12 de janeiro de 2004.<br>
+**_Redação do Parágrafo único do art. 15 de acordo com o art. 7º da Lei Complementar nº 21, de 12 de janeiro de 2004.
+
 Redação original: "As funções indicadas nos incisos V, VI, VIII, X, XV, XXI, XXIII, XXXVI, XXXVIII, XXXIX, XL, XLI e XLV deste artigo poderão ser delegadas."_**
 
 **Art. 16** - O Procurador-Geral de Justiça apresentará o plano geral de atuação do Ministério Público destinado a viabilizar a consecução de metas prioritárias, nas diversas áreas de suas atribuições.
 
 **Parágrafo único -** O plano geral de atuação será elaborado com a participação dos Centros de Apoio Operacional, das Procuradorias e Promotorias de Justiça e aprovado pelo Órgão Especial do Colégio de Procuradores de Justiça.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO COLÉGIO DE PROCURADORES DE JUSTIÇA E SEU ÓRGÃO ESPECIAL
 
 **Art. 17** - O Colégio de Procuradores de Justiça e seu Órgão Especial reunir-se-ão na forma desta Lei e do respectivo regimento interno.
 
-Subseção I -<br>
+Subseção I -
+
 Do Colégio de Procuradores de Justiça
 
 **Art. 18** - O Colégio de Procuradores de Justiça, órgão de administração superior do Ministério Público, é presidido pelo Procurador-Geral de Justiça e integrado por todos os Procuradores de Justiça, competindo-lhe:
@@ -493,26 +530,30 @@ Inciso XIV acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho de
 
 **§ 5º** - Funcionará, como Secretário do Colégio de Procuradores de Justiça, o Secretário-Geral do Ministério Público.
 
-Subseção II -<br>
+Subseção II -
+
 Do Órgão Especial
 
 **Art. 19** - O Órgão Especial do Colégio de Procuradores de Justiça é composto pelo Procurador-Geral de Justiça, que o presidirá, pelo Corregedor-Geral do Ministério Público e por mais 24 (vinte e quatro) Procuradores de Justiça, metade constituída pelos mais antigos, a outra metade eleita, inadmitida a recusa imotivada do encargo, para mandato de 2 (dois) anos, permitida uma recondução.
 
-Redação do caput do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.<br>
+Redação do caput do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.
+
 Redação original: "Art. 19 - O Órgão Especial do Colégio de Procuradores de Justiça, presidido pelo Procurador-Geral de Justiça, é composto pelos 15 (quinze) Procuradores de Justiça eleitos pelo Colégio de Procuradores de Justiça, presente maioria absoluta de seus integrantes, para mandato de 2 (dois) anos, permitida uma recondução, observado o mesmo procedimento."
 
 **§ 1º** - O Procurador-Geral de Justiça e o Corregedor-Geral do Ministério Público são membros natos do Órgão Especial do Colégio de Procuradores de Justiça, e, serão substituídos na forma desta Lei.
 
 **§ 2º -** A eleição de que trata este artigo será realizada pelo Colégio de Procuradores de Justiça, em escrutínio secreto e voto plurinominal, na segunda quinzena do mês de dezembro dos anos ímpares, considerando-se eleitos os 12 (doze) Procuradores de Justiça mais votados.
 
-Redação do § 2º do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.<br>
+Redação do § 2º do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.
+
 Redação original: "§ 2º - A eleição de que trata este artigo será realizada em escrutínio secreto e voto plurinominal, na segunda quinzena do mês de dezembro dos anos ímpares, considerando-se eleitos os 15 (quinze) Procuradores de Justiça mais votados."
 
 **§ 3º** - No caso de empate na votação para a eleição dos membros do Órgão Especial, será considerado eleito o mais antigo no cargo.
 
 **§ 4º** - Aplica-se o disposto no artigo 7º, incisos I, II e III, à eleição para o Órgão Especial do Colégio de Procuradores de Justiça.
 
-Redação do § 4º do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.<br>
+Redação do § 4º do art. 19 de acordo com o art. 1º da Lei Complementar nº 22, de 16 de dezembro de 2005.
+
 Redação original: "§ 4º - Aplica-se o disposto no artigo 7º e incisos à eleição para o Órgão Especial do Colégio de Procuradores de Justiça."
 
 **§ 5º** - Os Procuradores de Justiça eleitos para integrar o Órgão Especial serão substituídos, no caso de vacância, impedimento ou suspeição, pelos suplentes, assim considerados os Procuradores de Justiça que se seguirem na ordem de votação.
@@ -533,7 +574,8 @@ Redação original: "§ 4º - Aplica-se o disposto no artigo 7º e incisos à el
 
 **I -**        aprovar o Planejamento Estratégico e o plano geral de atuação do Ministério Público;
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "I - aprovar o plano geral de atuação do Ministério Público;"
 
 **II -**      propor ao Procurador-Geral de Justiça o encaminhamento de projeto de lei para a criação de cargos e serviços auxiliares, modificações na Lei Orgânica e providências relacionadas ao desempenho das funções institucionais;
@@ -564,7 +606,8 @@ Redação original: "I - aprovar o plano geral de atuação do Ministério Públ
 
 **VII -**   aprovar a criação de núcleos específicos em áreas prioritárias;
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "VII - dar posse e exercício aos Procuradores de Justiça e posse coletiva e exercício aos Promotores de Justiça Substitutos, aprovados em concurso;"
 
 **VIII -** aprovar, por maioria absoluta, proposta de fixação das atribuições das Procuradorias e Promotorias de Justiça;
@@ -587,14 +630,16 @@ Redação original: "VII - dar posse e exercício aos Procuradores de Justiça e
 
 **§ 3º** - Decretada a perda do mandato será convocado suplente para preenchimento da vaga.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
 
 **Art. 22** - O Conselho Superior do Ministério Público é órgão da administração superior do Ministério Público, incumbindo-lhe velar pela observância de seus princípios institucionais.
 
 **§ 1º** - O Conselho Superior do Ministério Público será composto pelo Procurador-Geral de Justiça, que o Presidirá, pelo Corregedor-Geral do Ministério Público, e por 09 (nove) Procuradores de Justiça eleitos por todos os integrantes na carreira, para mandato de 02 (dois) anos, vedada a recondução, observado o procedimento desta Lei.
 
-**_Redação do § 1º do art. 22 de acordo com o art. 8º da Lei Complementar nº 21 de 12 de janeiro de 2004.<br>
+**_Redação do § 1º do art. 22 de acordo com o art. 8º da Lei Complementar nº 21 de 12 de janeiro de 2004.
+
 Redação original: "O Conselho Superior do Ministério Público será composto pelo Procurador-Geral de Justiça, que o presidirá, pelo Corregedor-Geral do Ministério Público, e por 7 (sete) Procuradores de Justiça eleitos por todos integrantes na carreira, para mandato de 1 (um) ano, permitida uma recondução, observado o procedimento desta Lei."_**
 
 **§ 2º -** A eleição dos membros do Conselho Superior do Ministério Público será realizada em escrutínio, secreto e plurinominal, na primeira quinzena do mês de dezembro, obedecidos os seguintes preceitos:
@@ -605,7 +650,8 @@ Redação original: "O Conselho Superior do Ministério Público será composto 
 
 **III -**     apuração pública, logo após o encerramento da votação, por comissão de 03 (três) componentes designados pelo Procurador-Geral de Justiça, todos da mais elevada entrância ou com mais de 10 (dez) anos na carreira, sob sua presidência, com a proclamação imediata dos eleitos;
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: III - "apuração pública, logo após o encerramento da votação, por comissão de 3 (três) componentes, todos da entrância mais elevada, designados pelo Procurador-Geral de Justiça e sob sua presidência, com a proclamação imediata dos eleitos;"
 
 **IV -**     em caso de empate, será considerado eleito o mais antigo no cargo; persistindo o empate, o mais antigo na carreira e, em caso de igualdade, o mais idoso;
@@ -698,15 +744,18 @@ Inciso XXVI acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho d
 
 **§ 5º** - Não será admitida a inscrição à lista sêxtupla para composição do quinto de Tribunais do Estado da Bahia, a que se referem o art. 94, _caput_, da Constituição Federal, e art. 122, inciso II, da Constituição Estadual, dos membros do Ministério Público que, nos 12 (doze) meses anteriores à data da elaboração, tenham exercido, ainda que transitoriamente, os cargos de Procurador-Geral de Justiça, de Corregedor-Geral do Ministério Público ou de Ouvidor do Ministério Público.
 
-Redação do § 5º do art. 26 de acordo com o art. 2º da Lei Complementar nº 22, de 16 de dezembro de 2005.<br>
+Redação do § 5º do art. 26 de acordo com o art. 2º da Lei Complementar nº 22, de 16 de dezembro de 2005.
+
 Redação original: "§ 5º - Não será admitida a inscrição às listas a que se refere o inciso I deste artigo, dos membros do Ministério Público que, nos 12 (doze) meses anteriores à data da elaboração, tenham exercido, ainda que transitoriamente, o cargo de Procurador-Geral de Justiça."
 
 **§ 6º** - Os membros eleitos do Conselho Superior do Ministério Público, ao requererem inscrição às listas a que se refere o inciso I deste artigo, ficarão impedidos de votar na respectiva sessão deliberativa.
 
-Redação do § 6º do art. 26 de acordo com o art. 2º da Lei Complementar nº 22, de 16 de dezembro de 2005.<br>
+Redação do § 6º do art. 26 de acordo com o art. 2º da Lei Complementar nº 22, de 16 de dezembro de 2005.
+
 Redação original: "§ 6º - O Corregedor-Geral do Ministério Público e os membros eleitos do Conselho Superior do Ministério Público ao requererem inscrição às listas a que se refere o inciso I deste artigo, deverão desincompatibilizar-se, mediante renúncia, dos respectivos cargos."
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DA CORREGEDORIA-GERAL DO MINISTÉRIO PÚBLICO
 
 **Art. 27** - A Corregedoria-Geral do Ministério Público é órgão orientador e fiscalizador das atividades funcionais e da conduta dos membros do Ministério Público.
@@ -721,7 +770,8 @@ DA CORREGEDORIA-GERAL DO MINISTÉRIO PÚBLICO
 
 **Art. 29** - Compete ao Corregedor-Geral do Ministério Público:
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: Art. 29 - "Compete ao Corregedor-Geral do Ministério Público:"
 
 **I -**        realizar inspeções nas Procuradorias de Justiça, remetendo relatório reservado ao Órgão Especial do Colégio de Procuradores de Justiça;
@@ -800,8 +850,10 @@ V-B - acrescido pela Lei Complementar 56 de 08 de março de 2024.
 
 **Art. 30** - O Corregedor-Geral do Ministério Público será assessorado pelo Subcorregedor Geral do Ministério Público, escolhido dentre os Procuradores de Justiça, que o substituirá nos afastamentos e impedimentos, e por Procuradores ou Promotores de Justiça, da mais elevada entrância ou com mais de 10 (dez) anos na carreira, em número de 05 (cinco), por ele indicados e designados pelo Procurador-Geral de Justiça.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 21, de 12 de janeiro de 2004."Art. 30 - O Corregedor-Geral do Ministério Público será assessorado pelo Sub-Corregedor Geral do Ministério Público, escolhido dentre os Procuradores de Justiça, que o substituirá nos afastamentos e impedimentos, e por Procuradores ou Promotores de Justiça da mais elevada entrância, em número de 05 (cinco), por ele indicados e designados pelo Procurador-Geral de Justiça."<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 21, de 12 de janeiro de 2004."Art. 30 - O Corregedor-Geral do Ministério Público será assessorado pelo Sub-Corregedor Geral do Ministério Público, escolhido dentre os Procuradores de Justiça, que o substituirá nos afastamentos e impedimentos, e por Procuradores ou Promotores de Justiça da mais elevada entrância, em número de 05 (cinco), por ele indicados e designados pelo Procurador-Geral de Justiça."
+
 Redação original: "Art. 30 - O Corregedor-Geral do Ministério Público será assessorado pelo Subcorregedor-Geral do Ministério Público e por Promotores de Justiça da mais elevada entrância, em número de 5 (cinco), por ele indicados e designados pelo Procurador-Geral de Justiça, denominados de Promotores de Justiça Corregedores."
 
 **§ 1º** - Caberá ao Órgão Especial do Colégio de Procuradores de Justiça, por proposta do Corregedor-Geral do Ministério Público, fixar o número de Promotores de Justiça Corregedores, caso seja superior a 5 (cinco).
@@ -812,7 +864,8 @@ Redação original: "Art. 30 - O Corregedor-Geral do Ministério Público será 
 
 **§ 4º** - A Corregedoria-Geral do Ministério Público terá sua própria Secretaria, chefiada por Promotor de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, indicado pelo Corregedor-Geral do Ministério Público, dentre os Promotores de Justiça Corregedores.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: § 4º \- "A Corregedoria-Geral do Ministério Público terá sua própria Secretaria, chefiada por Promotor de Justiça da mais elevada entrância, indicado pelo Corregedor-Geral do Ministério Público, dentre os Promotores de Justiça Corregedores."
 
 **§ 5º** - A organização dos serviços da Corregedoria-Geral do Ministério Público será estabelecida em regimento interno elaborado pelo Corregedor-Geral do Ministério Público, aprovado pelo Conselho Superior do Ministério Público.
@@ -847,10 +900,12 @@ Art. 31 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 200
 
 **Parágrafo único -** Qualquer membro do Ministério Público poderá representar à Comissão Eleitoral acerca das causas de inelegibilidade previstas neste artigo, cabendo da decisão recurso ao Colégio de Procuradores de Justiça, no prazo de 5 (cinco) dias.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS ÓRGÃOS DE ADMINISTRAÇÃO DO MINISTÉRIO PÚBLICO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS PROCURADORIAS DE JUSTIÇA
 
 **Art. 36** - As Procuradorias de Justiça são órgãos de administração do Ministério Público, com cargos de Procurador de Justiça e serviços auxiliares necessários ao desempenho das funções que lhe forem cometidas por esta Lei Complementar.
@@ -879,7 +934,8 @@ DAS PROCURADORIAS DE JUSTIÇA
 
 **III -**     solicitar ao Procurador-Geral de Justiça, em caso de licença de Procurador de Justiça ou afastamento de suas funções junto à Procuradoria de Justiça, por período superior a 30 (trinta) dias, que convoque Promotor de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira para substituí-lo;
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: III \- "solicitar ao Procurador-Geral de Justiça, em caso de licença de Procurador de Justiça ou afastamento de suas funções junto à Procuradoria de Justiça, por período superior a 30 (trinta) dias, que convoque Promotor de Justiça da mais elevada entrância para substituí-lo;"
 
 **IV -**     encaminhar à Procuradoria-Geral de Justiça sugestões para a elaboração do plano geral de atuação do Ministério Público;
@@ -890,7 +946,8 @@ Redação original: III \- "solicitar ao Procurador-Geral de Justiça, em caso d
 
 **VII -**   solicitar ao Procurador-Geral de Justiça, ouvido o Conselho Superior do Ministério Público, a indicação de Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, para, em caráter transitório, auxiliar o trabalho das Procuradorias de Justiça;
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: VII \- "solicitar ao Procurador-Geral de Justiça, ouvido o Conselho Superior do Ministério Público, a indicação de Promotores de Justiça da mais elevada entrância, para, em caráter transitório, auxiliar o trabalho das Procuradorias de Justiça."
 
 **VIII** - propor ao Órgão Especial do Colégio de Procuradores de Justiça a constituição de grupos de atuação especial, para consecução dos objetivos e diretrizes definidos nos planos gerais de atuação e nos respectivos programas de atuação no Planejamento Estratégico do Ministério Público, ou sempre que se demonstrar conveniente a atuação conjunta e coordenada de diversos órgãos de execução em áreas específicas."
@@ -909,7 +966,8 @@ Inciso VIII acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho d
 
 **Art. 41** - As Procuradorias de Justiça editarão regimento destinado a regular o funcionamento dos seus serviços administrativos, o acompanhamento dos processos de sua competência e coordenação das atividades desenvolvidas no desempenho de suas atribuições.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS PROMOTORIAS DE JUSTIÇA
 
 **Art. 42** - As Promotorias de Justiça são órgãos de administração do Ministério Público com pelo menos 1 (um) cargo de Promotor de Justiça e serviços auxiliares necessários ao desempenho das funções que lhes forem cometidas na forma desta Lei.
@@ -918,7 +976,8 @@ DAS PROMOTORIAS DE JUSTIÇA
 
 **Art. 43** - As Promotorias de Justiça serão organizadas por ato do Procurador-Geral de Justiça, mediante proposta aprovada pelo Órgão Especial do Colégio de Procuradores de Justiça, observadas as seguintes disposições:
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "Art. 43 - As Promotorias de Justiça serão organizadas por ato do Procurador-Geral de Justiça, mediante proposta aprovada pelo Colégio de Procuradores de Justiça, observadas as seguintes disposições:"
 
 **I -**        as Promotorias de Justiça poderão ser especializadas, criminais, cíveis, cumulativas ou gerais;
@@ -939,7 +998,8 @@ Redação original: "Art. 43 - As Promotorias de Justiça serão organizadas por
 
 **d)**   propor ao Órgão Especial do Colégio de Procuradores de Justiça a constituição de grupos de atuação especial, para consecução dos objetivos e diretrizes definidos nos planos gerais de atuação e nos respectivos programas de atuação no Planejamento Estratégico do Ministério Público, ou sempre que se demonstrar conveniente a atuação conjunta e coordenada de diversos órgãos de execução em áreas específicas;
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "d) propor a constituição de grupos de atuação especial, de caráter transitório, para consecução dos objetivos e diretrizes definidos nos planos gerais de atuação e nos respectivos programas de atuação;"
 
 **e)**    solicitar ao Procurador-Geral de Justiça a designação de estagiários do Ministério Público para a Promotoria de Justiça, definindo as respectivas funções;
@@ -956,7 +1016,8 @@ Redação original: "d) propor a constituição de grupos de atuação especial,
 
 **I -**        Promotorias de Justiça especializadas, aquelas cujos cargos que as integram têm suas funções definidas pela espécie de infração penal ou pela natureza do interesse jurídico protegido, ou pela competência de determinado órgão jurisdicional, fixada exclusivamente em razão da matéria;
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "I - Promotorias especializadas, aquelas cujos cargos que as integram têm suas funções definidas pela espécie de infração penal, pela natureza da relação jurídica de direito civil ou pela competência de determinado órgão jurisdicional, fixada exclusivamente em razão da matéria;"
 
 **II -**      Promotorias criminais, aquelas cujos cargos que as integram têm suas funções definidas para a esfera penal, exclusivamente, sem distinção entre espécies de infração penal ou de ‘órgão jurisdicional com competência fixada exclusivamente em razão da matéria;
@@ -971,7 +1032,8 @@ Redação original: "I - Promotorias especializadas, aquelas cujos cargos que as
 
 **§ 6º** - A Promotoria de Justiça será obrigatoriamente especializada se os cargos que a integram contiverem na sua denominação indicativo de espécie de infração penal, de interesse jurídico protegido ou de órgão jurisdicional com competência definida exclusivamente em razão da matéria.
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "§ 6º - A Promotoria de Justiça será obrigatoriamente especializada se os cargos que a integram contiverem na sua denominação indicativo de espécie de infração penal, de relação jurídica de direito civil ou de órgão jurisdicional com competência definida exclusivamente em razão da matéria."
 
 **§ 7º** - As Promotorias de Justiça especializadas poderão ter âmbito regional, hipótese em que o ato de sua organização:
@@ -992,17 +1054,20 @@ Redação original: "§ 6º - A Promotoria de Justiça será obrigatoriamente es
 
 **Art. 44** - Os serviços auxiliares das Promotorias de Justiça destinar-se-ão a dar suporte administrativo necessário ao seu funcionamento e ao desempenho das funções dos Promotores de Justiça e serão instituídos e organizados por ato do Procurador-Geral de Justiça.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS ÓRGÃOS AUXILIARES
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DOS CENTROS DE APOIO OPERACIONAL
 
 **Art. 45** - Os Centros de Apoio Operacional, órgãos auxiliares da atividade funcional do Ministério Público, integram o Gabinete do Procurador-Geral de Justiça.
 
 **§ 1º** - Poderão ser designados Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira para prestar serviços junto aos Centros de Apoio Operacional.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: § 1º - " Poderão ser designados Promotores de Justiça da mais elevada entrância para prestar serviços junto aos Centros de Apoio Operacional. "
 
 **§ 2º** - Os Centros de Apoio Operacional serão instituídos e organizados por ato do Procurador-Geral de Justiça.
@@ -1035,15 +1100,18 @@ Redação original: § 1º - " Poderão ser designados Promotores de Justiça da
 
 **Art. 47** - A direção de Centro de Apoio Operacional será exercida por Coordenador, escolhido dentre os Procuradores ou Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: Art. 47 - "  A direção de Centro de Apoio Operacional será exercida por Coordenador, escolhido dentre os Procuradores ou Promotores de Justiça da mais elevada entrância. "
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA COMISSÃO DE CONCURSO
 
 **Art. 48** - A comissão de Concurso é órgão auxiliar de natureza transitória, incumbido de realizar a seleção de candidatos ao ingresso na carreira do Ministério Público, presidida pelo Procurador-Geral de Justiça e composta de, no mínimo, 04 (quatro) membros do Ministério Público, ativos ou inativos, indicados pelo Conselho Superior do Ministério Público e 01 (um) representante indicado pela Ordem dos Advogados do Brasil, Seção da Bahia.
 
-Redação do art. 48 de acordo com o art. 9º da Lei Complementar nº 21 de 12 de janeiro de 2004.<br>
+Redação do art. 48 de acordo com o art. 9º da Lei Complementar nº 21 de 12 de janeiro de 2004.
+
 Redação original: "A Comissão de Concurso é órgão auxiliar de natureza transitória, incumbido de realizar a seleção de candidatos ao ingresso na carreira do Ministério Público, presidida pelo Procurador-Geral de Justiça e composta de 4 (quatro) membros do Ministério Público, eleitos pelo Conselho Superior do Ministério Público, entre Procuradores e Promotores de Justiça da mais elevada entrância, em atividade ou não, e de 1 (um) representante da Ordem dos Advogados do Brasil, Seção da Bahia."
 
 **§ 1º** - O Conselho Superior do Ministério Público, após eleger os membros da Comissão de Concurso, escolherá, pela ordem, 3 (três) suplentes.
@@ -1070,7 +1138,8 @@ Redação original: "A Comissão de Concurso é órgão auxiliar de natureza tra
 
 **V -**      não estar respondendo a processo disciplinar administrativo ou cumprindo penalidade imposta.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CENTRO DE ESTUDOS E APERFEIÇOAMENTO FUNCIONAL
 
 **Art. 49** - O Centro de Estudos e Aperfeiçoamento Funcional é órgão auxiliar do Ministério Público e visa ao aprimoramento profissional e cultural dos membros da instituição, de seus auxiliares e funcionários, bem como a melhor execução de seus serviços e racionalização de seus recursos materiais.
@@ -1099,7 +1168,8 @@ DO CENTRO DE ESTUDOS E APERFEIÇOAMENTO FUNCIONAL
 
 **§ 2º** - A Diretoria é composta por 01 (um) Diretor, dentre os Procuradores ou Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, de livre escolha do Procurador-Geral de Justiça.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: § 2º - "  A Diretoria é composta por 1 (um) Diretor, dentre os Procuradores ou Promotores de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça."
 
 **§ 3º** - O Conselho é o órgão de direção do Centro de Estudos e Aperfeiçoamento Funcional, integrado:
@@ -1120,7 +1190,8 @@ Redação original: § 2º - "  A Diretoria é composta por 1 (um) Diretor, den
 
 **§ 7º** - O Centro de Estudos e Aperfeiçoamento Funcional poderá, ainda, ser integrado por Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira e estagiários do Ministério Público designados pelo Procurador-Geral de Justiça, ouvido o Conselho.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original: § 7º- " O Centro de Estudos e Aperfeiçoamento Funcional poderá, ainda, ser integrado por Promotores de Justiça da mais elevada entrância e estagiários do Ministério Público designados pelo Procurador-Geral de Justiça, ouvido o Conselho."
 
 **§ 8º** - Compete ao Conselho:
@@ -1159,12 +1230,14 @@ Art. 50A pelo art 1º da Lei complementar 54 de 12 de maio de 2023.
 
 § 3º pelo art 1º da Lei complementar 54 de 12 de maio de 2023.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DOS ÓRGÕAS DE APOIO TÉCNICO E ADMINISTRATIVO
 
 **Art. 51** - Lei de iniciativa do Procurador-Geral de Justiça disciplinará os órgãos e serviços auxiliares de apoio técnico e administrativo, organizados em quadro próprio de carreira, com cargos que atendam às suas peculiaridades e às necessidades da administração e das atividades funcionais.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DOS ÓRGÃOS DE ASSESSORAMENTO
 
 **Art. 52** - São órgãos de assessoramento do Procurador-Geral de Justiça:
@@ -1185,29 +1258,52 @@ DOS ÓRGÃOS DE ASSESSORAMENTO
 
 **Parágrafo único** -  Ato do Procurador-Geral de Justiça definirá as atribuições dos cargos desses incisos.
 
-Redação do art. 52 de acordo com o art. 12 da Lei Complementar nº 24, de 04 de janeiro de 2006.<br>
-Redação anterior de acordo com o art. 3º da Lei Complementar nº 22, de 16 de dezembro de 2005: "São órgãos de assessoramento do Procurador-Geral de Justiça:<br>
-I - o Procurador-Geral de Justiça Adjunto;<br>
-II - o Procurador-Geral de Justiça Adjunto Para Assuntos Institucionais;<br>
-III - o Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos;<br>
-IV -  o Gabinete do Procurador-Geral de Justiça;<br>
-V - a Assessoria Especial;<br>
-VI - a Secretaria-Geral;<br>
-VII - a Superintendência de Gestão Administrativa;<br>
-VIII - a Assistência Militar."<br>
-Redação de acordo com o art. 4º da Lei Complementar nº 21, de 12 de janeiro de 2004: "Art. 52 - São órgãos de assessoramento do Procurador Geral de Justiça:<br>
-I - o Procurador-Geral de Justiça Adjunto;<br>
-II - o Procurador-Geral de Justiça Adjunto Para Assuntos Institucionais;<br>
-III - o Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos;<br>
-IV - o Gabinete do Procurador-Geral de Justiça;<br>
-V - a Assessoria Especial;<br>
-VI - a Secretaria-Geral;<br>
-VII - a Superintendência."<br>
-Redação original: "Art. 52 - São órgãos de assessoramento do Procurador-Geral de Justiça:<br>
-I - o Procurador-Geral de Justiça Adjunto;<br>
-II - o Gabinete do Procurador-Geral de Justiça;<br>
-III - a Assessoria Especial;<br>
-IV - a Secretaria-Geral;<br>
+Redação do art. 52 de acordo com o art. 12 da Lei Complementar nº 24, de 04 de janeiro de 2006.
+
+Redação anterior de acordo com o art. 3º da Lei Complementar nº 22, de 16 de dezembro de 2005: "São órgãos de assessoramento do Procurador-Geral de Justiça:
+
+I - o Procurador-Geral de Justiça Adjunto;
+
+II - o Procurador-Geral de Justiça Adjunto Para Assuntos Institucionais;
+
+III - o Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos;
+
+IV -  o Gabinete do Procurador-Geral de Justiça;
+
+V - a Assessoria Especial;
+
+VI - a Secretaria-Geral;
+
+VII - a Superintendência de Gestão Administrativa;
+
+VIII - a Assistência Militar."
+
+Redação de acordo com o art. 4º da Lei Complementar nº 21, de 12 de janeiro de 2004: "Art. 52 - São órgãos de assessoramento do Procurador Geral de Justiça:
+
+I - o Procurador-Geral de Justiça Adjunto;
+
+II - o Procurador-Geral de Justiça Adjunto Para Assuntos Institucionais;
+
+III - o Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos;
+
+IV - o Gabinete do Procurador-Geral de Justiça;
+
+V - a Assessoria Especial;
+
+VI - a Secretaria-Geral;
+
+VII - a Superintendência."
+
+Redação original: "Art. 52 - São órgãos de assessoramento do Procurador-Geral de Justiça:
+
+I - o Procurador-Geral de Justiça Adjunto;
+
+II - o Gabinete do Procurador-Geral de Justiça;
+
+III - a Assessoria Especial;
+
+IV - a Secretaria-Geral;
+
 V - a Diretoria-Geral."
 
 **Art. 53** - O Procurador-Geral de Justiça Adjunto será escolhido livremente, dentre os Procuradores de Justiça, pelo Procurador-Geral de Justiça, cabendo-lhe:
@@ -1224,35 +1320,52 @@ V - a Diretoria-Geral."
 
 **Parágrafo único -** Na hipótese de vacância, impedimento, afastamento ou ausência do Procurador-Geral de Justiça Adjunto, o Procurador-Geral de Justiça será substituído pelo Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos.
 
-Redação do Parágrafo único do art. 53 de acordo com o art. 13 da Lei Complementar nº 24, de 04 de janeiro de 2006.<br>
+Redação do Parágrafo único do art. 53 de acordo com o art. 13 da Lei Complementar nº 24, de 04 de janeiro de 2006.
+
 Redação original: "Parágrafo único - Na hipótese de vacância, impedimento, afastamento ou ausência do Procurador-Geral de Justiça Adjunto, o Procurador-Geral de Justiça será substituído pelo Corregedor- Geral do Ministério Público."
 
 **Art. 54** - O Gabinete do Procurador-Geral de Justiça terá como Chefe de Gabinete Procurador ou Promotor de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe o exercício das atribuições que lhe forem delegadas.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024<br>
-Redação anterior do art. 54 de acordo com o art. 5º da Lei Complementar nº 21, de 12 de janeiro de 2004. " - Art. 54 - "O Gabinete do Procurador-Geral de Justiça terá como Chefe de Gabinete Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe o exercício das atribuições que lhe forem delegadas."<br>
-Art. 54 e seus parágrafos, com as redações abaixo, revogados pelo art. 13 da Lei Complementar nº 21, de 12 de janeiro de 2004:<br>
-"Art. 54 - A Chefia de Gabinete compreende:<br>
-I - a Assessoria Jurídico-Legislativa;<br>
-II - a Área de Serviços Estatísticos;<br>
-III - a Área de Documentação e Divulgação;<br>
-IV - a Área de Apoio à Segunda Instância;<br>
-V - a Área de Expediente e Secretarias;<br>
-VI - a Assessoria de Comunicação;<br>
-VII - o Centro de Informática.<br>
-§ 1º - O Gabinete do Procurador-Geral de Justiça terá como Chefe de Gabinete, Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe o exercício das atribuições que lhe forem delegadas.<br>
-§ 2º - A Assessoria Jurídico-Legislativa será exercida por Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe, dentre outras atribuições, substituir e auxiliar o Chefe de Gabinete .(Revogado pelo art. 15 da Lei Complementar nº 17, de 21 de agosto de 2002.)<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024
+
+Redação anterior do art. 54 de acordo com o art. 5º da Lei Complementar nº 21, de 12 de janeiro de 2004. " - Art. 54 - "O Gabinete do Procurador-Geral de Justiça terá como Chefe de Gabinete Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe o exercício das atribuições que lhe forem delegadas."
+
+Art. 54 e seus parágrafos, com as redações abaixo, revogados pelo art. 13 da Lei Complementar nº 21, de 12 de janeiro de 2004:
+
+"Art. 54 - A Chefia de Gabinete compreende:
+
+I - a Assessoria Jurídico-Legislativa;
+
+II - a Área de Serviços Estatísticos;
+
+III - a Área de Documentação e Divulgação;
+
+IV - a Área de Apoio à Segunda Instância;
+
+V - a Área de Expediente e Secretarias;
+
+VI - a Assessoria de Comunicação;
+
+VII - o Centro de Informática.
+
+§ 1º - O Gabinete do Procurador-Geral de Justiça terá como Chefe de Gabinete, Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe o exercício das atribuições que lhe forem delegadas.
+
+§ 2º - A Assessoria Jurídico-Legislativa será exercida por Procurador ou Promotor de Justiça da mais elevada entrância, de livre escolha do Procurador-Geral de Justiça, incumbindo-lhe, dentre outras atribuições, substituir e auxiliar o Chefe de Gabinete .(Revogado pelo art. 15 da Lei Complementar nº 17, de 21 de agosto de 2002.)
+
 § 3º - À Assessoria Jurídico-Legislativa competirá, ainda, atividade de Centro de Apoio Operacional às Procuradorias de Justiça, aplicando-se, no que couber, o disposto no artigo 46 desta Lei Complementar. (Revogado pelo art. 15 da Lei Complementar nº 17, de 21 de agosto de 2002.)
 
 **Art. 55** - A Assessoria Especial do Procurador-Geral de Justiça será constituída de Procuradores e Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, em número definido no Anexo II desta Lei Complementar, todos de livre escolha do Procurador-Geral de Justiça, compreendendo as Assessorias Jurídico-Administrativa e Judiciária.
 
-Redação de acordo com a Lei Complementar nº 56 de 08 de março de 2024<br>
+Redação de acordo com a Lei Complementar nº 56 de 08 de março de 2024
+
 Redação original:"Art. 55 - A Assessoria Especial do Procurador-Geral de Justiça, coordenada por Procurador de Justiça, será constituída de Procuradores e Promotores de Justiça da mais elevada entrância, em número de 05 (cinco), todos de livre escolha do Procurador-Geral de Justiça, compreendendo as Assessorias Jurídico-Administrativa e Judiciária."
 
 **Art. 56** -  Funcionarão junto à Secretaria Geral do Ministério Público o Secretário-Geral e o Secretário-Geral Adjunto, escolhidos livremente pelo Procurador-Geral de Justiça, entre os Procuradores ou Promotores de Justiça da mais elevada entrância ou com mais de 10 (dez) anos na carreira, cabendo-lhes as atribuições que lhes forem conferidas nesta Lei e por ato normativo, além da organização dos expedientes administrativos encaminhados à chefia da Instituição.
 
-Redação de acordo com a Lei Complementar nº 56 de 08 de março de 2024<br>
-Redação anterior de acordo com a Lei Complementar nº 37, de 10 de julho de 2013."Art. 56 -Funcionarão junto à Secretaria Geral do Ministério Público o Secretário-Geral e o Secretário-Geral Adjunto, escolhidos livremente pelo Procurador-Geral de Justiça, entre os Procuradores ou Promotores de Justiça da mais elevada entrância, cabendo-lhes as atribuições que lhes forem conferidas nesta Lei e por ato normativo, além da organização dos expedientes administrativos encaminhados à chefia da Instituição."<br>
+Redação de acordo com a Lei Complementar nº 56 de 08 de março de 2024
+
+Redação anterior de acordo com a Lei Complementar nº 37, de 10 de julho de 2013."Art. 56 -Funcionarão junto à Secretaria Geral do Ministério Público o Secretário-Geral e o Secretário-Geral Adjunto, escolhidos livremente pelo Procurador-Geral de Justiça, entre os Procuradores ou Promotores de Justiça da mais elevada entrância, cabendo-lhes as atribuições que lhes forem conferidas nesta Lei e por ato normativo, além da organização dos expedientes administrativos encaminhados à chefia da Instituição."
+
 Redação original:"Art. 56 - A Secretaria-Geral do Ministério Público terá como Secretário-Geral, Procurador ou Promotor de Justiça da mais elevada entrância, escolhido livremente pelo Procurador-Geral de Justiça, cabendo-lhe as atribuições que lhe forem conferidas nesta lei e por ato normativo, a organização dos expedientes administrativos encaminhados à chefia da instituição."
 
 **<Revogado> Art. 57** - A Diretoria-Geral do Ministério Público terá como Diretor-Geral, Procurador ou Promotor de Justiça da mais elevada entrância, no efetivo exercício de suas funções, de livre nomeação e destituição do Procurador-Geral de Justiça.
@@ -1399,15 +1512,18 @@ Art. 59 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 200
 
 **t )** coordenar e executar tarefas específicas que lhe forem conferidas pelo Procurador-Geral de Justiça.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DOS ESTAGIÁRIOS
 
-Subseção I -<br>
+Subseção I -
+
 Disposição Geral
 
 **Art. 60 -** Os estagiários do Ministério Público, auxiliares das Promotorias de Justiça, após credenciamento pelo Conselho Superior do Ministério Público, serão designados pelo Procurador-Geral de Justiça para exercício de suas funções por período não superior a 3 (três) anos.
 
-Subseção II -<br>
+Subseção II -
+
 Da Seleção, Da Investidura e Do Exercício Do Curso de Graduação em Direito em que Esteja Matriculado.
 
 **Art. 61** - A designação de estagiários, com o número fixado pelo Conselho Superior do Ministério Público, será precedida de convocação por edital pelo prazo de 15 (quinze) dias e de prova de seleção, observados, para investidura na função, os seguintes requisitos:
@@ -1456,7 +1572,8 @@ Da Seleção, Da Investidura e Do Exercício Do Curso de Graduação em Direito 
 
 **Parágrafo único -** É de 20 (vinte) horas semanais a jornada de trabalho de estagiário, devendo corresponder ao expediente do foro e compatibilizar-se com a duração do turno de funcionamento.
 
-Subseção III -<br>
+Subseção III -
+
 Dos Direitos, Deveres e Vedações
 
 **Art. 64** - O estagiário terá direito:
@@ -1501,7 +1618,8 @@ Dos Direitos, Deveres e Vedações
 
 **§ 3º** - Caso a suspensão não venha a ser ratificada, nenhum prejuízo funcional sofrerá o estagiário.
 
-Subseção IV -<br>
+Subseção IV -
+
 Das Transferências
 
 **<Revogado> Art. 67** - Em razão de conveniência do serviço, será possível a transferência do local de exercício do estagiário, a pedido ou de ofício, ouvido o Conselho Superior do Ministério Público.
@@ -1510,7 +1628,8 @@ Das Transferências
 
 Art. 67 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 2004.
 
-Subseção V -<br>
+Subseção V -
+
 Da Avaliação do Estagiário
 
 **Art. 68** - O estagiário, no exercício de suas funções, sujeitar-se-á à fiscalização e orientação da Corregedoria-Geral do Ministério Público, bem como à inspeção permanente e orientação dos órgãos perante os quais presta serviços.
@@ -1519,7 +1638,8 @@ Da Avaliação do Estagiário
 
 **§ 2º** - O Centro de Estudos do Ministério Público promoverá cursos e convênios visando a fornecer aos estagiários conhecimentos ligados ao exercício das funções do Ministério Público.
 
-Subseção VI -<br>
+Subseção VI -
+
 Da Dispensa e do Certificado de Estágio
 
 **Art. 69** - O estagiário poderá ser dispensado por ato do Procurador-Geral de Justiça, mediante representação motivada do Promotor de Justiça.
@@ -1530,13 +1650,16 @@ Da Dispensa e do Certificado de Estágio
 
 **§ 3º** - ...VETADO...
 
-TITULO III -<br>
+TITULO III -
+
 DAS ATRIBUIÇÕES DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS PLANOS E PROGRAMAS DE ATUAÇÃO INSTITUCIONAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO PLANO GERAL DE ATUAÇÃO
 
 **Art. 70** - A atuação do Ministério Público deve levar em conta os objetivos e as diretrizes institucionais estabelecidos anualmente no plano geral de atuação, destinados a viabilizar a consecução de metas prioritárias nas diversas áreas de suas atribuições legais.
@@ -1553,7 +1676,8 @@ DO PLANO GERAL DE ATUAÇÃO
 
 **§ 3º -** O procedimento de elaboração do plano geral de atuação, dos programas de atuação e dos projetos especiais será disciplinado em ato do Procurador-Geral de Justiça.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DOS PROGRAMAS DE ATUAÇÃO E PROJETOS ESPECIAIS
 
 **Art. 71** - Os programas de atuação das Promotorias de Justiça, que serão por elas elaborados, especificarão as providências judiciais e extrajudiciais necessárias à sua concretização, a forma de participação dos órgãos do Ministério Público neles envolvidos e os meios e recursos para sua execução.
@@ -1562,10 +1686,12 @@ DOS PROGRAMAS DE ATUAÇÃO E PROJETOS ESPECIAIS
 
 **§ 2º** - Os projetos especiais, observado o disposto no parágrafo 3º do artigo 70, serão estabelecidos por ato do Procurador-Geral de Justiça em vista de alterações legislativas ou de circunstâncias emergenciais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS FUNÇÕES INSTITUCIONAIS DOS ÓRGÃOS DE EXECUÇÃO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS FUNÇÕES GERAIS
 
 **Art. 72** - São funções institucionais do Ministério Público, nos termos da legislação aplicável:
@@ -1692,7 +1818,8 @@ DAS FUNÇÕES GERAIS
 
 **IV -**     promover audiências públicas e emitir relatórios anuais ou especiais, e recomendações dirigidas aos poderes, aos órgãos e entidades mencionadas no artigo 74, requisitando ao destinatário sua divulgação adequada e ,quando for o caso, as providências cabíveis.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO INQUÉRITO CIVIL
 
 **Art. 76** - O inquérito civil, procedimento investigatório de natureza inquisitorial, será disciplinado por ato do Órgão Especial do Colégio de Procuradores de Justiça, por iniciativa do Procurador-Geral de Justiça, obedecendo o disposto nesta Seção.
@@ -1719,7 +1846,8 @@ DO INQUÉRITO CIVIL
 
 **Art. 79** - Da instauração do inquérito civil, caberá recurso do interessado ao Conselho Superior do Ministério Público, que poderá conferir-lhe efeito suspensivo.
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "Art. 79 - Da instauração do inquérito civil, caberá recurso do interessado ao Conselho Superior do Ministério Público, com efeito suspensivo."
 
 **Parágrafo único -** O prazo de interposição dos recursos será de 5 (cinco) dias a contar da ciência do ato impugnado.
@@ -1746,7 +1874,8 @@ Redação original: "Art. 79 - Da instauração do inquérito civil, caberá rec
 
 **§ 2º** - Além das providências previstas no parágrafo anterior, poderá o órgão de execução do Ministério Público emitir relatórios, anuais ou especiais, encaminhando-os às entidades mencionadas nos incisos do artigo 74, desta Lei Complementar, delas requisitando sua divulgação adequada e imediata.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS ATRIBUIÇÕES CONCORRENTES E DOS CONFLITOS DE ATRIBUIÇÃO
 
 **Art. 85** - No mesmo processo ou procedimento não oficiará simultaneamente mais de 1 (um) órgão do Ministério Público.
@@ -1755,10 +1884,12 @@ DAS ATRIBUIÇÕES CONCORRENTES E DOS CONFLITOS DE ATRIBUIÇÃO
 
 **§ 2º** - Os conflitos de atribuição deverão ser suscitados, fundamentadamente, nos próprios autos em que ocorrerem e serão decididos pelo Procurador-Geral de Justiça.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS FUNÇÕES DOS ÓRGÃOS DE EXECUÇÃO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 PROCURADOR-GERAL DE JUSTIÇA
 
 **Art. 86** - Além de outras previstas em normas constitucionais e legais, compete ao Procurador-Geral de Justiça:
@@ -1809,7 +1940,8 @@ PROCURADOR-GERAL DE JUSTIÇA
 
 **Parágrafo único -** O ato que determinar o arquivamento a que se refere o inciso X deste artigo, poderá ser revisto pelo Colégio de Procuradores de Justiça ou por seu Órgão Especial, por iniciativa da maioria e deliberação de 2/3 ( dois terços) dos seus integrantes.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO COLÉGIO DE PROCURADORES DE JUSTIÇA
 
 **Art. 87** - Compete ao Colégio de Procuradores de Justiça rever, pelo voto da maioria absoluta dos integrantes de seu Órgão Especial, mediante requerimento de legítimo interessado, desde que protocolado no Ministério Público no prazo de 5 (cinco) dias, contados da publicação no Diário Oficial, sob pena de preclusão, decisão de arquivamento de inquérito policial ou peças de informação determinada pelo Procurador-Geral de Justiça, nos casos de sua atribuição originária.
@@ -1818,14 +1950,16 @@ DO COLÉGIO DE PROCURADORES DE JUSTIÇA
 
 **§ 2º** - Na hipótese de não confirmação do arquivamento, os autos serão encaminhados ao substituto legal do Procurador-Geral de Justiça.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
 
 **Art. 88** - Ao Conselho Superior do Ministério Público cabe rever o arquivamento de inquérito civil ou de peças de informação, na forma da lei e de seu regimento interno.
 
 **Parágrafo único -** Na hipótese de não confirmação do arquivamento proposto pelo Procurador-Geral de Justiça, os autos serão remetidos ao seu substituto legal.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DOS PROCURADORES DE JUSTIÇA
 
 **Art. 89** - Compete aos Procuradores de Justiça:
@@ -1876,7 +2010,8 @@ DOS PROCURADORES DE JUSTIÇA
 
 **§ 2º** - Verificando a necessidade de medidas judiciais ou extrajudiciais de atribuição do Ministério Público, os Procuradores de Justiça deverão providenciar para que sejam encaminhadas as peças necessárias ao órgão de execução competente.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DOS PROMOTORES DE JUSTIÇA
 
 **Art. 92** - Cabe aos Promotores de Justiça exercer as atribuições de Ministério Público junto aos órgãos jurisdicionais de primeira instância, competindo-lhes ainda:
@@ -1945,13 +2080,16 @@ DOS PROMOTORES DE JUSTIÇA
 
 **Parágrafo único -** O Procurador-Geral de Justiça poderá designar outro Promotor de Justiça para funcionar em feito determinado de atribuição do titular, com a concordância deste.
 
-LIVRO II -<br>
+LIVRO II -
+
 DO ESTATUTO DO MINISTÉRIO PÚBLICO
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA CARREIRA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO CONCURSO DE INGRESSO
 
 **Art. 93** - O ingresso na carreira do Ministério Público dar-se-á mediante aprovação em concurso público de provas e títulos.
@@ -1984,7 +2122,8 @@ DO CONCURSO DE INGRESSO
 
 **Art. 96** - O Procurador-Geral de Justiça, após a nomeação, designará data para que os candidatos aprovados, obedecida a ordem de c1assificação, escolham as Promotorias de Justiça para as quais serão designados, dentre aquelas oferecidas, ouvido o Conselho Superior do Ministério Público.
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "Art. 96 - O Procurador-Geral de Justiça, após a nomeação, assinará prazo aos candidatos aprovados a fim de que, obedecida a ordem de classificação, façam a escolha do cargo inicial, dentre os que se acharem vagos."
 
 **§ 1º** - Perderá o direito de escolha o candidato que não o exercer no prazo fixado, cabendo ao Procurador-Geral de Justiça indicar o cargo para o qual deva ser nomeado.
@@ -2007,7 +2146,8 @@ Redação original: "Art. 96 - O Procurador-Geral de Justiça, após a nomeaçã
 
 **VIII** \- em caso de persistência de empate, recorrer-se-á ao sorteio.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA NOMEAÇÃO, DA POSSE E DO EXERCÍCIO
 
 **Art. 97** - O Procurador-Geral de Justiça nomeará, observando a ordem de classificação no concurso, tantos candidatos aprovados quantas forem as vagas existentes.
@@ -2026,7 +2166,8 @@ DA NOMEAÇÃO, DA POSSE E DO EXERCÍCIO
 
 **§ 3º** - Não requerida a nomeação no prazo estabelecido no parágrafo anterior, o candidato decairá do direito.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO ESTÁGIO DE ORIENTAÇÃO E PREPARAÇÃO
 
 **Art. 102** - Após entrar em exercício, o Promotor de Justiça Substituto ficará à disposição do Centro de Estudos e Aperfeiçoamento Funcional pelo período mínimo de 30 (trinta) dias, para estágio de orientação e preparação.
@@ -2041,7 +2182,8 @@ DO ESTÁGIO DE ORIENTAÇÃO E PREPARAÇÃO
 
 **§ 3º** - Rejeitada a impugnação, o membro do Ministério Público permanecerá em estágio probatório, na forma desta Lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO VITALICIAMENTO
 
 **Art. 104** - Os 2 (dois) primeiros anos de efetivo exercício na carreira são considerados de estágio probatório, durante os quais, o membro do Ministério Público terá seu trabalho e sua conduta avaliados para fins de vitaliciamento, observados os seguintes requisitos:
@@ -2104,13 +2246,16 @@ DO VITALICIAMENTO
 
 **§ 2º** - Transitada em julgado a decisão desfavorável ao vitaliciamento, o Promotor de Justiça será exonerado por ato do Procurador-Geral de Justiça.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA VACÂNCIA E DAS FORMAS DE PROVIMENTO DERIVADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA DISPOSIÇÃO GERAL E  DAS DISPOSIÇÕES PRELIMINARES
 
-Subseção I -<br>
+Subseção I -
+
 Da Disposição Geral
 
 **Art. 108** - São formas de provimento derivado dos cargos do Ministério Público:
@@ -2125,7 +2270,8 @@ Da Disposição Geral
 
 **e)**    aproveitamento.
 
-Subseção II -<br>
+Subseção II -
+
 Das Disposições Preliminares
 
 **Art. 109** - Na existência de vaga a ser provida, o Conselho Superior do Ministério Público, por meio de seu Presidente, fará publicar, no órgão oficial, edital de inscrição dos candidatos.
@@ -2226,7 +2372,8 @@ Revogado pela Lei Complementar nº 37, de 10 de julho de 2013.
 
 **§ 2º** - Finda a designação prevista no parágrafo anterior, será restituído ao membro do Ministério Público o período de trânsito remanescente.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA PROMOÇÃO
 
 **Art. 121** - A promoção será sempre voluntária e far-se-á, alternadamente, por antigüidade e merecimento, de uma para outra entrância e da entrância mais elevada para o cargo de Procurador de Justiça.
@@ -2269,7 +2416,8 @@ DA PROMOÇÃO
 
 **§ 3º** - O desempate entre Promotores de Justiça em cargo de investidura inicial com o mesmo tempo de serviço far-se-á segundo a classificação obtida no concurso de ingresso.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA REMOÇÃO
 
 **Art. 123** - A remoção far-se-á sempre para cargo de igual entrância e poderá ser voluntária, compulsória ou por permuta.
@@ -2278,20 +2426,26 @@ DA REMOÇÃO
 
 **§ 1º** - O membro do Ministério Público removido voluntariamente somente poderá se habilitar a nova remoção após o decurso de 01 (um) ano, contado da data do efetivo exercício nas novas atribuições.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
-Redação original : " § 1º - O membro do Ministério Público removido voluntariamente somente poderá se habilitar a nova remoção após o decurso de 1 (um) ano, contado da data do efetivo exercício nas novas atribuições."<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
+Redação original : " § 1º - O membro do Ministério Público removido voluntariamente somente poderá se habilitar a nova remoção após o decurso de 1 (um) ano, contado da data do efetivo exercício nas novas atribuições."
+
 § 1º acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
 
 **§ 2º** -  Fica facultada a remoção interna para outra Promotoria de Justiça da mesma comarca sempre que um cargo vagar ou novo for criado, não se aplicando a restrição constante do parágrafo anterior, desde que o benefício seja utilizado apenas 01 (uma) vez na mesma comarca.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
-Redação original : " § 2º - Fica facultada a remoção interna para outra Promotoria de Justiça da mesma comarca sempre que um cargo vagar ou novo for criado, não se aplicando a restrição constante do parágrafo anterior,desde que o benefício seja utilizado apenas uma vez na mesma comarca.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
+Redação original : " § 2º - Fica facultada a remoção interna para outra Promotoria de Justiça da mesma comarca sempre que um cargo vagar ou novo for criado, não se aplicando a restrição constante do parágrafo anterior,desde que o benefício seja utilizado apenas uma vez na mesma comarca.
+
 § 2º acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
 
 **§ 3º** - Publicado o ato de remoção interna, o membro do Ministério Público removido internamente entrará automaticamente em exercício, no mesmo dia, ficando-lhe vedada a renúncia.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
-Redação original : " § 3º - A apreciação, pelo Conselho Superior do Ministério Público, da remoção interna precederá os pedidos de promoção ou remoção, obedecidos os mesmos critérios de provimento para a vaga remanescente."<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
+Redação original : " § 3º - A apreciação, pelo Conselho Superior do Ministério Público, da remoção interna precederá os pedidos de promoção ou remoção, obedecidos os mesmos critérios de provimento para a vaga remanescente."
+
 § 3º acrescido pelo art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
 
 **§ 4º-** A apreciação, pelo Conselho Superior do Ministério Público, da remoção interna precederá os pedidos de promoção ou remoção, obedecidos os mesmos critérios de provimento para a vaga remanescente.
@@ -2318,7 +2472,8 @@ Redação original : " § 3º - A apreciação, pelo Conselho Superior do Minist
 
 **§ 4º** - A remoção por permuta não confere direito a ajuda de custo.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DA REINTEGRAÇÃO
 
 **Art. 127** - A reintegração, que decorrerá de sentença transitada em julgado, ou de decisão definitiva em processo administrativo, é o retorno do membro do Ministério Público ao cargo, com ressarcimento de vantagens e vencimentos deixados de perceber em razão do afastamento, estes atualizados monetariamente, inclusive a contagem do tempo de serviço.
@@ -2327,7 +2482,8 @@ DA REINTEGRAÇÃO
 
 **§ 2º** - O membro do Ministério Público reintegrado será submetido a inspeção médica e, se considerado incapaz, será aposentado compulsoriamente, com as vantagens a que teria direito se efetivada a reintegração.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DA REVERSÃO
 
 **Art. 128** - Reversão é o retorno à atividade do membro do Ministério Público aposentado por invalidez, quando, por junta médica oficial, forem declarados insubsistentes os motivos da aposentadoria.
@@ -2340,7 +2496,8 @@ DA REVERSÃO
 
 **Art. 129** - O pedido de reversão, devidamente instruído, será dirigido ao Procurador-Geral de Justiça, que encaminhará ao Conselho Superior do Ministério Público, para deliberação.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DO APROVEITAMENTO
 
 **Art. 130** - O aproveitamento é o retorno do membro do Ministério Público em disponibilidade ao exercício funcional.
@@ -2349,7 +2506,8 @@ DO APROVEITAMENTO
 
 **§ 2º** - Ao retornar à atividade será o membro do Ministério Público submetido a inspeção médica e, se julgado incapaz, será aposentado compulsoriamente.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA OPÇÃO
 
 **Art. 131** - A elevação de entrância da comarca não acarreta a promoção do respectivo Promotor de Justiça, ficando-lhe apenas assegurado o direito de perceber a diferença de vencimentos.
@@ -2362,8 +2520,10 @@ DA OPÇÃO
 
 **Art. 132** - Deferida a opção, o Procurador-Geral de Justiça expedirá novo ato de promoção e tornará sem efeito o anterior, contando-se da publicação da promoção revogada a antigüidade na entrância, seguindo-se novo concurso para provimento do cargo que então se vagar.
 
-CAPÍTULO III -<br>
-DA PERDA DO CARGO E DA CASSAÇÃO DA APOSENTADORIA<br>
+CAPÍTULO III -
+
+DA PERDA DO CARGO E DA CASSAÇÃO DA APOSENTADORIA
+
 OU DA DISPONIBILIDADE
 
 **Art. 133** - O membro vitalício do Ministério Público somente perderá o cargo ou terá cassada a aposentadoria ou disponibilidade por sentença judicial transitada em julgado, proferida em ação civil própria nos seguintes casos:
@@ -2384,14 +2544,16 @@ OU DA DISPONIBILIDADE
 
 **Parágrafo único -** Instaurado o processo administrativo disciplinar, o membro do Ministério Público não vitalício ficará automaticamente suspenso do exercício funcional, até definitivo julgamento, sem prejuízo dos vencimentos.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA EXONERAÇÃO E DA APOSENTADORIA
 
 **Art. 136** - A exoneração será concedida ao membro do Ministério Público desde que não esteja sujeito a processo administrativo ou judicial e observe, no pedido, o disposto nos incisos e parágrafos 1º, 2º e 3º do artigo 112 desta Lei Complementar.
 
 **Art. 137** - O membro do Ministério Público será aposentado, com proventos integrais, compulsoriamente, por invalidez ou aos 70 (setenta) anos de idade, e, facultativamente, aos 30 (trinta) anos de serviço, após 5 (cinco) anos de efetivo exercício na carreira.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA DISPONIBILIDADE
 
 **<Revogado> Art. 138** - Em caso de extinção do órgão de execução da comarca ou mudança da sede da Promotoria de Justiça, será facultado ao Promotor de Justiça remover-se para outra Promotoria de igual entrância ou categoria, ou obter a disponibilidade com vencimentos integrais e a contagem do tempo de serviço como se estivesse em exercício.
@@ -2410,7 +2572,8 @@ Art. 138 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 20
 
 **Art. 140** - O membro do Ministério Público em disponibilidade remunerada continuará sujeito às vedações constitucionais e será classificado em quadro especial, provendo-se a vaga que ocorrer.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DAS SUBSTITUIÇÕES
 
 **Art. 141** - Os membros do Ministério Público são substituídos:
@@ -2455,10 +2618,12 @@ DAS SUBSTITUIÇÕES
 
 **§ 2º** - Aplica-se aos casos de substituição por convocação o disposto no artigo 114 desta Lei Complementar.
 
-TITULO II -<br>
+TITULO II -
+
 DOS DEVERES, VEDAÇÕES, IMPEDIMENTOS, INFRAÇÕES DISCIPLINARES, VENCIMENTOS, VANTAGENS, DIREITOS, GARANTIAS E PRERROGATIVAS ESPECÍFICOS DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS DEVERES, VEDAÇÕES E IMPEDIMENTOS DOS MEMBROS DO MINISTÉRIO PÚBLICO
 
 **Art. 145** - São deveres funcionais dos membros do Ministério Público, além de outros previstos na Constituição e na lei:
@@ -2505,8 +2670,10 @@ DOS DEVERES, VEDAÇÕES E IMPEDIMENTOS DOS MEMBROS DO MINISTÉRIO PÚBLICO
 
 **XXI -** remeter ao Corregedor-Geral do Ministério Público, conforme instruções por ele emitidas, relatório das atividades funcionais da sua Promotoria de Justiça;
 
-Redação do inciso XXI do art. 145 de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008<br>
-Redação anterior de acordo com a Lei Complementar nº 22, de 16 de dezembro de 2005: "XXI - remeter, semestralmente e sempre que solicitado, à Corregedoria-Geral do Ministério Público, conforme instruções emitidas por este Órgão, relatório das atividades funcionais da Promotoria de Justiça, salvo os membros que estiverem em gozo de férias nesse período, os quais deverão remetê-lo após 10 (dez) dias contados do retorno;"<br>
+Redação do inciso XXI do art. 145 de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008
+
+Redação anterior de acordo com a Lei Complementar nº 22, de 16 de dezembro de 2005: "XXI - remeter, semestralmente e sempre que solicitado, à Corregedoria-Geral do Ministério Público, conforme instruções emitidas por este Órgão, relatório das atividades funcionais da Promotoria de Justiça, salvo os membros que estiverem em gozo de férias nesse período, os quais deverão remetê-lo após 10 (dez) dias contados do retorno;"
+
 Redação original: "XXI - remeter, semestralmente, ao Corregedor-Geral do Ministério Público, conforme instruções por ele emitidas, até o dia 20 (vinte) de fevereiro e 20 (vinte) de agosto de cada ano, relatório das atividades funcionais da Promotoria de Justiça, com mapa demonstrativo do movimento forense; ou sempre que solicitado, salvo os membros que estiverem em gozo de férias nesse período, os quais deverão remetê-lo após 10 (dez) dias, contados do retorno;"
 
 **XXII -**     apresentar, no início do gozo de férias individuais, declaração de regularidade de serviço e informação do local onde possa ser encontrado;
@@ -2547,7 +2714,8 @@ Redação original: "XXI - remeter, semestralmente, ao Corregedor-Geral do Minis
 
 **Parágrafo único -** O membro do Ministério Público, dando-se por suspeito ou impedido, deverá comunicar motivadamente o fato ao Procurador-Geral de Justiça, observando o disposto no artigo 142 desta Lei Complementar.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS INFRAÇÕES DISCIPLINARES
 
 **Art. 148** - Constituem infrações disciplinares:
@@ -2566,10 +2734,12 @@ DAS INFRAÇÕES DISCIPLINARES
 
 **VII** \-   fazer declaração falsa a respeito das matérias referidas nos artigos 112, incisos I e II, e 167 , § 1º, alínea "a".
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS VENCIMENTOS, VANTAGENS E DIREITOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DOS VENCIMENTOS
 
 **Art. 149** - Os vencimentos dos membros do Ministério Público serão fixados por proposta do Procurador-Geral de Justiça, em nível condizente com a relevância da função e de forma a compensar todas as vedações e incompatibilidades específicas que lhes são impostas, na forma da lei.
@@ -2584,12 +2754,14 @@ DOS VENCIMENTOS
 
 **Art. 153** - O membro do Ministério Público convocado ou designado para auxiliar ou para substituição, em entrância superior, terá direito à diferença de vencimentos entre o seu cargo e o que ocupar.
 
-Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.<br>
+Redação de acordo com a Lei Complementar 56 de 08 de março de 2024.
+
 Redação original : "Art. 153 - O membro do Ministério Público convocado ou designado para auxiliar ou para substituição, em entrância superior, terá direito à diferença de vencimentos entre o seu cargo e o que ocupar, vedada a percepção de diárias.
 
 **Art. 154** - No âmbito do Ministério Público, fica estabelecido, como limite máximo de remuneração, os valores percebidos em espécie, a qualquer título, pelo Procurador-Geral de Justiça, ressalvadas as vantagens de caráter individual e as relativas à natureza e ao local do trabalho.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DEMAIS VANTAGENS
 
 **Art. 155** - Além dos vencimentos, poderão ser outorgadas, aos membros do Ministério Público, nos termos da lei, as seguintes vantagens:
@@ -2634,14 +2806,16 @@ Revogado pelo art. 7º da Lei Complementar nº 16, de 12 de setembro de 2001.
 
 **§ 4º** - Aos membros do Ministério Público investidos nos cargos de Coordenadores de Promotorias de Justiça Regionais é devida uma gratificação mensal pelo seu exercício no valor de 5% (cinco por cento) dos vencimentos.
 
-Redação de acordo com o art.1 da Lei complementar 54 de 12 de maio de 2023.<br>
+Redação de acordo com o art.1 da Lei complementar 54 de 12 de maio de 2023.
+
 Redação original: § 4º - Constitui parcela dos vencimentos, para todos os efeitos, a verba de representação de Ministério Público.
 
 **§ 5º** - Aplicam-se aos membros do Ministério Público os direitos sociais previstos no art. 7º, incisos VIII, XII, XVII, XVIII e XIX da Constituição Federal.
 
 **§ 6º** - É vedada a concessão de adicionais ou vantagens pecuniárias não previstas em lei, bem como em bases e limites superiores aos nela fixados.
 
-Subseção I -<br>
+Subseção I -
+
 Da Ajuda de Custo
 
 **Art. 156** - Em caso de remoção de ofício ou promoção que importe em alteração do domicílio legal, será paga, ao membro do Ministério Público, uma ajuda de custo correspondente a um 1/3 (um terço) dos vencimentos do cargo que deva assumir, para indenização das despesas de mudança, transporte e instalação na nova sede de exercício, independentemente de comprovação.
@@ -2652,7 +2826,8 @@ Da Ajuda de Custo
 
 **§ 3º** - À família do membro do Ministério Público na nova sede será assegurada ajuda de custo, na forma do disposto neste artigo e seus parágrafos, desde que, no prazo de 1 (um) ano, mude-se para localidade de origem, devendo o fato ser comprovado, no prazo de 30 (trinta) dias da data da mudança, sob pena de restituição do valor pago, com a devida correção monetária, se couber.
 
-Subseção II -<br>
+Subseção II -
+
 Das Diárias
 
 **Art. 157** - O membro do Ministério Público que se deslocar temporariamente da sede da Procuradoria ou Promotoria de Justiça em razão de serviço terá direito a diárias para indenização de despesas, cujos critérios para concessão serão definidos por ato do Procurador-Geral de Justiça, observado como parâmetro as diárias estipuladas pelos Poderes constituídos do Estado.
@@ -2661,7 +2836,8 @@ Das Diárias
 
 **§ 2º** - Na hipótese do membro do Ministério Público retornar à sede em prazo menor do que o previsto para o seu afastamento, restituirá as diárias recebidas em excesso, no prazo de 5 (cinco) dias úteis.
 
-Subseção III -<br>
+Subseção III -
+
 Do Auxílio-Funeral
 
 **Art. 158** - Ao cônjuge sobrevivente ou ao companheiro e, em sua falta, aos herdeiros do membro do Ministério Público falecido, ainda que aposentado ou em disponibilidade, será paga importância não superior a 1/3 (um terço) dos vencimentos ou proventos que percebia para atender às despesas de funeral e luto.
@@ -2670,7 +2846,8 @@ Do Auxílio-Funeral
 
 **§ 2º** - A despesa correrá pela dotação própria do cargo e o pagamento será efetuado pela repartição pagadora, mediante a apresentação da certidão de óbito e, no caso do parágrafo anterior, dos comprovantes de despesa.
 
-Subseção IV -<br>
+Subseção IV -
+
 Do Salário-Família
 
 **<Revogado> Art. 159** - O salário-família será pago aos membros do Ministério Público ativos e inativos que possuírem dependentes, no percentual de 1% (um por cento) dos vencimentos do seu cargo.
@@ -2697,7 +2874,8 @@ Art. 161 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 20
 
 Art. 162 revogado pelo art. 13 da Lei Complementar nº 21 de 12 de janeiro de 2004.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DOS DIREITOS
 
 **Art. 163** - Além dos vencimentos e vantagens, tratados nos artigos anteriores desta Seção, asseguram-se aos membros do Ministério Público os seguintes direitos:
@@ -2740,7 +2918,8 @@ DOS DIREITOS
 
 **Parágrafo único -** O membro do Ministério Público de férias ou licenciado não poderá exercer qualquer de suas funções.
 
-Subseção I -<br>
+Subseção I -
+
 Das Férias
 
 **Art. 165** - Os membros do Ministério Público terão direito a 60 (sessenta) dias de férias anuais, coletivas ou individuais.
@@ -2777,7 +2956,8 @@ Parágrafo único do art. 168 revogado pelo art. 15 da Lei Complementar nº 17, 
 
 **Art. 171** - Não gozarão férias coletivas, mas terão direito, anualmente, a 60 (sessenta) dias de férias individuais os Promotores de Justiça Substitutos.
 
-Subseção II -<br>
+Subseção II -
+
 Das Licenças
 
 **Art. 172** - Conceder-se-á licença:
@@ -2890,7 +3070,8 @@ Das Licenças
 
 **III -**     perderá sua posição na classificação da lista de antigüidade.
 
-Subseção III -<br>
+Subseção III -
+
 Dos Afastamentos
 
 **Art. 186** - O membro do Ministério Público poderá afastar-se do cargo para:
@@ -2925,7 +3106,8 @@ Dos Afastamentos
 
 **Parágrafo único -** Ressalvado o disposto nos incisos I e II, ao membro do Ministério Público afastado é vedado o exercício de função pública ou particular.
 
-Subseção IV -<br>
+Subseção IV -
+
 Do Tempo de Serviço
 
 **Art. 188** - A apuração do tempo de serviço para aposentadoria será feita em dias, convertidos em anos, estes considerados como de 365 (trezentos e sessenta e cinco) dias.
@@ -2952,7 +3134,8 @@ Do Tempo de Serviço
 
 **Art. 192** - É assegurado ao membro do Ministério Público afastar-se da atividade, a partir do protocolo do pedido de aposentadoria, salvo na hipótese prevista no artigo 227 ou quando estiver em tramitação pedido de instauração de processo disciplinar administrativo.
 
-Subseção VI -<br>
+Subseção VI -
+
 Dos Proventos da Aposentadoria e da Pensão por Morte
 
 **Art. 193** - O membro do Ministério Público será aposentado, compulsoriamente, por invalidez ou aos 70 (setenta) anos de idade, e facultativamente aos 30 (trinta) anos de serviço, após 5 (cinco) anos de exercício efetivo na carreira.
@@ -2973,7 +3156,8 @@ Dos Proventos da Aposentadoria e da Pensão por Morte
 
 **Art. 197** - Para os fins deste Capítulo , equipara-se a companheira à esposa , nos termos da lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS GARANTIAS E PRERROGATIVAS
 
 **Art. 198** - Os membros do Ministério Público sujeitam-se a regime jurídico especial, são independentes no exercício de suas funções, e têm as seguintes garantias:
@@ -3062,10 +3246,12 @@ DAS GARANTIAS E PRERROGATIVAS
 
 **Art. 202** - As garantias e prerrogativas previstas neste Capítulo, não excluem outras estabelecidas em leis.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DO REGIME DISCIPLINAR
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 203** - A atividade funcional dos membros do Ministério Público está sujeita a:
@@ -3114,7 +3300,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **Art. 210** - Sempre que, em correição ou visita de inspeção, verificar a violação dos deveres impostos aos membros do Ministério Público, o órgão de correição tomará notas reservadas do que coligir no exame dos autos, livros e papéis e das informações que obtiver, determinando a instauração do procedimento disciplinar adequado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS PENALIDADES
 
 **Art. 211** - Os membros do Ministério Público são passíveis das seguintes sanções disciplinares:
@@ -3201,10 +3388,12 @@ DAS PENALIDADES
 
 **§ 3º** - Interrompe-se o prazo da prescrição pela expedição da portaria instauradora do processo administrativo e pela decisão deste.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PROCESSO DISCIPLINAR
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 229** - A apuração das infrações disciplinares será feita mediante:
@@ -3237,7 +3426,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **Art. 235** - Aplicam-se subsidiariamente ao processo disciplinar, as normas do Estatuto dos Funcionários Públicos Civis do Estado, do Estatuto dos Funcionários Públicos Civis da União e do Código de Processo Penal.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA SINDICÂNCIA
 
 **Art. 236** - A sindicância, ressalvada a hipótese do § 1º, do artigo 230, desta Lei Complementar, será processada na Corregedoria-Geral do Ministério Público e terá como sindicante o Corregedor-Geral do Ministério Público.
@@ -3262,7 +3452,8 @@ DA SINDICÂNCIA
 
 **Parágrafo único -** Se na sindicância ficarem apurados fatos que recomendem a disponibilidade ou a remoção compulsória, ambas por interesse público, o Corregedor-Geral do Ministério Público representará para esse fim ao Conselho Superior do Ministério Público.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO PROCESSO ADMINISTRATIVO SUMÁRIO
 
 **Art. 241** - O processo administrativo sumário, para apuração das faltas disciplinares indicadas no artigo 211, incisos I, II, III, e IV desta Lei Complementar, será instaurado e conduzido pelo Corregedor-Geral do Ministério Público quando o infrator for Promotor de Justiça.
@@ -3309,7 +3500,8 @@ DO PROCESSO ADMINISTRATIVO SUMÁRIO
 
 **Art. 249** - O indiciado será intimado pessoalmente da decisão, salvo se for revel ou furtar-se à intimação, casos em que será feita por publicação no Diário Oficial.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DO PROCESSO ADMINISTRATIVO ORDINÁRIO
 
 **Art. 250** - O processo administrativo ordinário para apuração de infrações punidas com as penas de cassação da disponibilidade ou da aposentadoria e demissão será presidido pelo Corregedor-Geral do Ministério Público.
@@ -3364,7 +3556,8 @@ DO PROCESSO ADMINISTRATIVO ORDINÁRIO
 
 **Art. 262** - Os atos e termos, para os quais não foram fixados prazos, serão realizados dentro daqueles que o Corregedor-Geral do Ministério Público determinar.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DO RECURSO
 
 **Art. 263** - Das decisões condenatórias proferidas pelo Procurador-Geral de Justiça e pelo Corregedor-Geral do Ministério Público caberá recurso, com efeito suspensivo, ao Órgão Especial do Colégio de Procuradores de Justiça, que não poderá agravar a pena imposta.
@@ -3385,7 +3578,8 @@ DO RECURSO
 
 **§ 6º** - O julgamento realizar-se-á de acordo com as normas regimentais, intimando-se o recorrente da decisão, na forma do artigo 249 desta Lei Complementar.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DA REVISÃO DO PROCESSO ADMINISTRATIVO E DA REABILITAÇÃO
 
 **Art. 264** - Admitir-se-á, a qualquer tempo, a revisão de processo disciplinar de que tenha resultado imposição de pena, sempre que forem alegados fatos ou circunstâncias ainda não apreciados ou vícios insanáveis do procedimento, que possam justificar, respectivamente, nova decisão ou anulação.
@@ -3406,7 +3600,8 @@ DA REVISÃO DO PROCESSO ADMINISTRATIVO E DA REABILITAÇÃO
 
 **Art. 265** - O membro do Ministério Público que houver sido punido disciplinarmente com advertência ou censura poderá obter do Conselho Superior do Ministério Público o cancelamento das respectivas notas nos assentos funcionais, decorridos 2 (dois) anos do trânsito em julgado da decisão condenatória, salvo se reincidente.
 
-LIVRO III -<br>
+LIVRO III -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 266** - Os cargos do Ministério Público terão as seguintes denominações:
@@ -3461,7 +3656,8 @@ Inciso VIII  do art. 267 revogado pelo art. 15 da Lei Complementar nº 17, de 2
 
 **IX** \-     Promotor de Justiça da Cidadania: garantia de efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nas Constituições Federal e Estadual, especialmente na defesa dos interesses difusos ou coletivos nas áreas de direitos humanos, saúde e meio ambiente do trabalho, educação, idosos e portadores de necessidades especiais;
 
-Redação do inciso IX do art. 267 de acordo com o art. 10 da Lei Complementar nº 17, de 21 de agosto de 2002.<br>
+Redação do inciso IX do art. 267 de acordo com o art. 10 da Lei Complementar nº 17, de 21 de agosto de 2002.
+
 Redação original: "Promotor de Justiça da Cidadania: garantia de efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nas Constituições Federal e Estadual, da probidade e legalidade administrativas e da proteção do patrimônio público e social;"
 
 **X -**       Promotor de Justiça de Habitação e Urbanismo: defesa de interesses difusos ou coletivos nas relações jurídicas relativas a desmembramento, loteamento e uso do solo para fins urbanos;
@@ -3526,7 +3722,8 @@ Inciso XXIII acrescido ao art. 267 pelo art. 11 da Lei Complementar nº 17, de 2
 
 **§ 1º** - Salvo nas hipóteses de Promotoria de Justiça especializada de âmbito regional, os cargos com designação de determinada localidade terão as atribuições judiciais e extrajudiciais do Ministério Público em correspondência com a competência do órgão jurisdicional nela localizado.
 
-Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 31, de 06 de junho de 2008.
+
 Redação original: "§ 1º - Os cargos com designação de determinada localidade, sejam especializados, criminais, cíveis ou cumulativos ou gerais, terão as atribuições judiciais e extrajudiciais de Ministério Público em correspondência com a competência do órgão jurisdicional nela localizado."
 
 **§ 2º** - Em face do disposto neste artigo, aos cargos de Promotor de Justiça Cível da capital são atribuídas as funções judiciais e extrajudiciais de Ministério Público na defesa de interesses difusos e coletivos decorrentes da especial condição de pessoa portadora de deficiência, na tutela de interesses de incapazes e nas situações jurídicas de natureza civil, em qualquer caso, desde que não compreendidas na área de atuação de cargos especializados ou de determinada localidade, bem como na proteção das fundações na comarca da capital.
@@ -3637,104 +3834,119 @@ Ivan Nogueira Brandão
 
 Secretário da Justiça e Direitos Humanos
 
-Ver também:<br>
-Lei nº 14.168 de 26 de setembro de 2019 - Altera o Quadro Geral do Ministério Público do Estado da Bahia, previsto na Lei Complementar nº 11, de 18 de janeiro de 1996, e a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.<br>
+Ver também:
+
+Lei nº 14.168 de 26 de setembro de 2019 - Altera o Quadro Geral do Ministério Público do Estado da Bahia, previsto na Lei Complementar nº 11, de 18 de janeiro de 1996, e a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia.
+
 Art. 9º da Lei Complementar nº 31, de 06 de junho de 2008 - O anexo I da Lei Complementar nº 11, de 18 de janeiro de 1996, passa a ser o constante desta Lei.
 
-**ANEXO I<br>
+**ANEXO I
+
 QUADRO GERAL DO MINISTÉRIO PÚBLICO**
 
 **2ª INSTÂNCIA**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:436.45pt;border-collapse:collapse;border:none" width="582"><tbody><tr><td style="width:147.75pt;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="197"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">DENOMINAÇÃODOCARGO</span></b></p></td><td style="width:108.7pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS ATUAIS</span></p></td><td style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS CRIADOS</span></p></td><td style="width:63.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="84"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">TOTAL</span></p></td></tr><tr><td style="width:147.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="197"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">PROCURADORES DE JUSTIÇA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td style="width:108.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="145"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">25</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">16</span></p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="84"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">41</span></p></td></tr></tbody></table>
+**DENOMINAÇÃODOCARGO**
+
+CARGOS ATUAIS
+
+CARGOS CRIADOS
+
+TOTAL
+
+PROCURADORES DE JUSTIÇA
+
+25
+
+16
+
+41
 
 **1ª INSTÂNCIA**
 
 **ENTRÂNCIA ESPECIAL - CAPITAL**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:439.9pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td style="width:158.65pt;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="212"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">DENOMINAÇÃO DOCARGO</span></b></p></td><td style="width:108.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS ATUAIS</span></p></td><td style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS CRIADOS</span></p></td><td style="width:56.25pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="75"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">TOTAL</span></p></td></tr><tr><td style="width:158.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="212"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">PROMOTOR&nbsp; DE JUSTIÇA</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">47</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">36</span></p></td><td style="width:56.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="75"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">83</span></p></td></tr><tr><td style="width:158.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="212"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">PROMOTOR&nbsp; DE JUSTIÇA ASSISTENTE</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">37</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:56.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="75"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">37</span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DOCARGO**
 
-**3ª** **ENTRÂNCIA**
+CARGOS ATUAIS
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.25pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">DENOMINAÇÃO DOCARGO</span></b></p></td><td style="width:108.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS ATUAIS</span></p></td><td style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS CRIADOS</span></p></td><td style="width:48.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">TOTAL</span></p></td></tr><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">PROMOTOR&nbsp; DE JUSTIÇA</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">113</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">113</span></p></td></tr></tbody></table>
+CARGOS CRIADOS
+
+TOTAL
+
+PROMOTOR  DE JUSTIÇA
+
+47
+
+36
+
+83
+
+PROMOTOR  DE JUSTIÇA ASSISTENTE
+
+37
+
+37
+
+**3ªENTRÂNCIA**
+
+**DENOMINAÇÃO DOCARGO**
+
+CARGOS ATUAIS
+
+CARGOS CRIADOS
+
+TOTAL
+
+PROMOTOR  DE JUSTIÇA
+
+113
+
+113
 
 2ª ENTRÂNCIA
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.25pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">DENOMINAÇÃO DOCARGO</span></b></p></td><td style="width:108.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS ATUAIS</span></p></td><td style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS CRIADOS&nbsp;</span></p></td><td style="width:48.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">TOTAL</span></p></td></tr><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">PROMOTOR&nbsp; DE JUSTIÇA&nbsp;&nbsp;</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">89</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02</span></p></td><td style="width:48.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">91</span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DOCARGO**
+
+CARGOS ATUAIS
+
+CARGOS CRIADOS
+
+TOTAL
+
+PROMOTOR  DE JUSTIÇA
+
+89
+
+02
+
+91
 
 1ª ENTRÂNCIA
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:461.25pt;border-collapse:collapse;border:none" width="615"><tbody><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">DENOMINAÇÃO DOCARGO</span></b></p></td><td style="width:108.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS ATUAIS</span></p></td><td style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">CARGOS EXTINTOS</span></p></td><td style="width:63.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="84"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">TOTAL</span></p></td></tr><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">PROMOTOR&nbsp; DE JUSTIÇA</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">164</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">-</span></p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="84"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">164</span></p></td></tr><tr><td style="width:173.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="231"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">PROMOTOR&nbsp; DE JUSTIÇA SUBSTITUTO</span></p></td><td style="width:108.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="144"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">70</span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="156"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">20</span></p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="84"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">50</span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DOCARGO**
+
+CARGOS ATUAIS
+
+CARGOS EXTINTOS
+
+TOTAL
+
+PROMOTOR  DE JUSTIÇA
+
+164
+
+-
+
+164
+
+PROMOTOR  DE JUSTIÇA SUBSTITUTO
+
+70
+
+20
+
+50
 
 **CARGOS**
 
@@ -3788,159 +4000,4 @@ Comarcas de Barra do Choça,  Belmonte,  Buerarema,  Caculé,  Camamu, Carav
 
 Abaré, Acajutiba, Amélia Rodrigues, América Dourada, Anagé, Andaraí, Angical, Antas, Aporá, Araci, Aurelino Leal, Boa Vista do Tupim, Brotas de Macaúbas, Baianópolis, Baixa Grande, Barra da Estiva, Barra do Mendes, Belo Campo, Boa Nova, Boquira, Botuporã, Brejões, Caldeirão Grande, Canarana, Cansanção, Capim Grosso, Cândido Sales, Capela do Alto Alegre, Central, Chorrochó, Cocos, Conceição de Feira, Conceição do Jacuípe, Conde, Coração de Maria, Coribe, Correntina, Cotegipe, Cristópolis, Cravolândia, Curaçá, Dias D’Avila, Encruzilhada, Formosa do Rio Preto, Gavião, Gentio do Ouro, Glória, Governador Mangabeira, Guaratinga, Iaçu, Ibicuí, Ibiquera, Ibirapitanga, Ibirapuã, Ibirataia, Ibitiara, Ibititá, Ichu, Igaporã, Iramaia, Iraquara, Itabela, Itacaré, Itaetê, Itagi, Itagiba, Itagimirim, Itamari, Itapebi, Itapitanga, Itaquara, Itarantim, Itiruçu, Itiúba, Ituaçu, Jacaraci, Jaguaripe, Jaguarari, Jiquiriçá, Jitaúna, João Dourado, Laje, Jussara, Lapão, Lençóis, Lomanto Júnior, Licínio de Almeida, Macururé, Mairi, Malhada, Marcionílio Souza, Maracás, Maraú, Milagres, Monte Santo, Morporá, Mortugaba, Mucugê, Mucuri, Nilo Peçanha, Nordestina, Nova Canaã, Nova Fátima, Nova Soure, Nova Viçosa, Oliveiras dos Brejinhos,  Olindina, Palma de Monte Alto, Palmeiras, Paratinga, Pau Brasil, Pé de Serra, Piatã, Pilão Arcado,  Pindai, Pindobaçú, Piritiba, Planalto, Prado, Potiraguá, Presidente Dultra, Presidente Jânio Quadros, Queimadas, Quixabeira, Retirolândia, Riachão das Neves, Riacho de Santana, Rio do Antônio, Rio de Contas, Rodelas, Santa Rita de Cássia, Santa Bárbara, Santa Inês, Santa Luzia, Santa Teresinha, Santaluz, Santana, Sapeaçu, Saúde, Sátiro Dias, São Desidério, São Domingos, São Filipe, São Gabriel, São José do Jacuípe, Serra Dourada, Serra Preta, Serrolândia, Souto Soares, Tanhaçu, Tanque Novo, Taperoá, Teodoro Sampaio, Teofilândia, Terra Nova, Tremedal, Uauá, Uibaí, Una, Urandi, Utinga,  Várzea do Poço, Wanderley, Wenceslau Guimarães ....................................................................................................................................01
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:432.35pt;border-collapse:collapse;border:none" width="576"><tbody><tr style="height:56.95pt"><td colspan="2" style="width:432.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="576"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.05pt;margin-bottom:
-  3.0pt;margin-left:22.35pt;text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">ANEXO II(Alterado pelo art. 2º da Lei complementar 54 de 12 de maio de 2023.)</span></b></p><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.3pt;margin-bottom:
-  3.0pt;margin-left:22.3pt;text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA</span></b></p><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.3pt;margin-bottom:
-  3.0pt;margin-left:22.35pt;text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">QUADRO DOS ORGÃOS DE ADMINISTRAÇÃO SUPERIOR E AUXILIARES CARGOS E CHEFIAS, CORREIÇÃO, ASSESSORAMENTO E CONFIANÇA</span></b></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:94.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">DENOMINAÇÃO DO CARGO</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:60.85pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-34.7pt"><span style="color:black">QUANTITATIV O</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Procurador-Geral de Justiça</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Procurador-Geral de Justiça Adjunto</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Corregedor-Geral</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Subcorregedor-Geral</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Ouvidor</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Conselheiro Superior do Ministério Público</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">09</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Chefe de Gabinete Procuradoria Geral de Justiça</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Secretário-Geral</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Secretário-Geral Adjunto</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Assessor Especial da Procuradoria Geral de Justiça</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">15</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador das Procuradorias de Justiça</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">02</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Centro de Apoio Operacional</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">10</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Controle Interno</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Assessor em Unidade de Apoio à Atividade Finalística</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">02</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador do Centro de Estudos e Aperfeiçoamento Funcional</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Procurador/Promotor de Justiça Corregedor</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">09</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Corregedor Administrativo</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Gestão Estratégica</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Inteligência</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Grupos de Atuação Especial</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">04</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador da Central de Apoio Técnico</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Gestão da Informação</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">01</span></p></td></tr><tr style="height:56.95pt"><td style="width:315.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="421"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Coordenador de Promotoria de Justiça Regional</span></p></td><td style="width:116.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:56.95pt" valign="top" width="155"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:38.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">29</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO II(Alterado pelo art. 2º da Lei complementar 54 de 12 de maio de 2023.)MINISTÉRIO PÚBLICO DO ESTADO DA BAHIAQUADRO DOS ORGÃOS DE ADMINISTRAÇÃO SUPERIOR E AUXILIARES CARGOS E CHEFIAS, CORREIÇÃO, ASSESSORAMENTO E CONFIANÇA** </td></tr><tr><td valign="top"> DENOMINAÇÃO DO CARGO </td><td valign="top"> QUANTITATIV O </td></tr><tr><td valign="top"> Procurador-Geral de Justiça </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador-Geral de Justiça Adjunto </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador-Geral de Justiça Adjunto Para Assuntos Jurídicos </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor-Geral </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcorregedor-Geral </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Ouvidor </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Conselheiro Superior do Ministério Público </td><td valign="top"> 09 </td></tr><tr><td valign="top"> Chefe de Gabinete Procuradoria Geral de Justiça </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Secretário-Geral </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Secretário-Geral Adjunto </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Especial da Procuradoria Geral de Justiça </td><td valign="top"> 15 </td></tr><tr><td valign="top"> Coordenador das Procuradorias de Justiça </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Coordenador de Centro de Apoio Operacional </td><td valign="top"> 10 </td></tr><tr><td valign="top"> Coordenador de Controle Interno </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor em Unidade de Apoio à Atividade Finalística </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Coordenador do Centro de Estudos e Aperfeiçoamento Funcional </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador/Promotor de Justiça Corregedor </td><td valign="top"> 09 </td></tr><tr><td valign="top"> Corregedor Administrativo </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Gestão Estratégica </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Inteligência </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Grupos de Atuação Especial </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Coordenador da Central de Apoio Técnico </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Gestão da Informação </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Promotoria de Justiça Regional </td><td valign="top"> 29 </td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-086481-0-000-16-10-1981@@@
-
 DECRETO Nº 86.481, DE 16 DE OUTUBRO DE 1981
 
 Autoriza a transferência, para o patrimônio das Telecomunicações Brasileiras S. A. - TELEBRÁS, de ações e créditos da União na Telecomunicações do Paraná S. A. - TELESPAR.

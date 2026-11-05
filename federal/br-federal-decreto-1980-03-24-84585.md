@@ -1,5 +1,3 @@
-###DEC-084585-0-000-24-03-1980@@@
-
 Decreto nº 84.585, de 24 de março de 1980.
 
 Estabelece procedimentos administrativos para a execução do Programa Nacional de Desburocratização.

@@ -1,5 +1,3 @@
-###DEC-061391-0-000-20-09-1967@@@
-
 decreto nº 61.391, de 20 de setembro de 1967.
 
 Cria o Grupo de Trabalho para formular um programa de estímulos e financiamento de centrais de abastecimento, mercados regionais, redes de supermercados e outros sistemas de auto-serviços.

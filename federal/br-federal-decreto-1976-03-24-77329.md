@@ -1,5 +1,3 @@
-###DEC-077329-0-000-24-03-1976@@@
-
 DECRETO Nº 77.329, DE 24 DE MARÇO DE 1976.
 
 Concede à Mineração Espírito Santo Ltda., o direito de lavrar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

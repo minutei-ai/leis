@@ -1,5 +1,3 @@
-###MPV-000371-0-000-10-05-2007@@@
-
 MEDIDA PROVISÓRIA Nº 371, DE 10 DE MAIO DE 2007.
 
 Acresce parágrafo ao art. 6o da Lei no 569, de 21 de dezembro de 1948, que estabelece medidas de defesa sanitária animal.
@@ -19,5 +17,3 @@ LUIS INÁCIO LULA DA SILVA
 Reinhold Stephanes
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 11.5.2007.

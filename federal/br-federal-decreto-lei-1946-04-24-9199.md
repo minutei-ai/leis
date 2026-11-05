@@ -1,5 +1,3 @@
-###DEL-009199-0-000-24-04-1946@@@
-
 DECRETO-LEI N. 9.199 – DE 24 DE ABRIL DE 1946
 
 Cria cargo no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

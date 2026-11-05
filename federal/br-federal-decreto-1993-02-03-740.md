@@ -1,7 +1,3 @@
-1
-
-###DEC-000740-0-000-03-02-1993@@@
-
 DECRETO N° 740, de 3 DE FEVEREIRO DE 1993
 
 Revoga dispositivos do Decreto n ° 86.715, de 10 de dezembro de 1981, que re­gulamenta a Lei n° 6.815, de 19 de agosto de 1980.

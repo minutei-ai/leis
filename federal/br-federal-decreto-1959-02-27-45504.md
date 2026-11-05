@@ -1,5 +1,3 @@
-###DEC-045504-0-000-27-02-1959@@@
-
 DECRETO Nº 45.504, DE 27 DE FEVEREIRO DE 1959.
 
 Concede permissão à S.A. Indústrias Reunidas F. Matarazzo, com fábrica de Cal, no local denominado Vau Novo, Município de Santana de Parnaíba, Estado de São Paulo, para funcionar com suas Seções de Fornos aos domingos e nos feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEL-007813-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.813 – DE 1 DE AGÔSTO DE 1945
 
 Da nova redação ao art. 6º do Decreto-lei nº 3.448, de 23 de julho de 1941.

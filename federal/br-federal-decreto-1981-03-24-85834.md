@@ -1,7 +1,3 @@
-1
-
-###DEC-085834-0-000-24-03-1981@@@
-
 Decreto nº 85.834, de 24 de março de 1981.
 
 Revoga o Decreto nº 16.524, de 5 de setembro de 1944, que concedeu à empresa BETHLEHEM BRAZILIAM CORPORATION autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###MPV-000174-0-000-18-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 174, DE 18 DE MARÇO 2004.
 
 Altera o termo inicial dos prazos previstos nos arts. 29, 30 e 32 da Lei nº 10.826, de 22 de dezembro de 2003.

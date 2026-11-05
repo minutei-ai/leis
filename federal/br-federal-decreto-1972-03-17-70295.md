@@ -1,5 +1,3 @@
-###DEC-070295-0-000-17-03-1972@@@
-
 DECRETO Nº 70.295, DE 17 DE MARÇO DE 1972.
 
 Aprova alterações introduzidas nos Estatutos da Centrais Elétricas Brasileiras S.A.- ELETROBR\\ÁS.

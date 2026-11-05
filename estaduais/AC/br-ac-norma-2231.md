@@ -1,6 +1,10 @@
 > **LEI Nº 3.130, DE 01 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a alienar gratuitamente ao Município de Rio Branco, com encargo, o imóvel público estadual que indica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a alienar gratuitamente ao Município de Rio Branco, com encargo, o imóvel público estadual que indica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

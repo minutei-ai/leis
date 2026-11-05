@@ -1,5 +1,3 @@
-###DEC-048200-0-000-12-05-1960@@@
-
 decreto nº 48.200, de 12 de maio de 1960.
 
 Autoriza o cidadão brasileiro Giuseppe Niero a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

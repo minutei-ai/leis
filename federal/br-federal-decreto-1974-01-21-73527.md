@@ -1,5 +1,3 @@
-###DEC-073527-0-000-21-01-1974@@@
-
 Decreto nº 73.527, de 21 de janeiro de 1974.
 
 Transfere, com os respectivos cargos, funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

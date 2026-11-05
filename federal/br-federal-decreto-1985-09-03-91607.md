@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/39155240-115a-4b0d-a123-a0d2adb6502f/texto#nowhere)
 
-###DEC-091607-0-000-03-09-1985@@@
-
 # DECreto Nº 91.607, de 03 de setembro de 1985
 
 Institui Comissões de Especialistas para consultoria e assessoramento em matéria de avaliação e qualificação da educação superior.

@@ -1,5 +1,3 @@
-###DEC-091797-0-000-17-10-1985@@@
-
 Decreto nº 91.797, de 17 de outubro de 1985.
 
 Dispõe sobre aumento de capital da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

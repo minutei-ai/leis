@@ -1,5 +1,3 @@
-###DEC-055225-0-000-15-12-1964@@@
-
 Decreto Nº 55.225, DE 15 DE DEZEMBRO DE 1964.
 
 Outorga concessão à Televisão Guajará S.A., para estabelecer uma estação de televisão.

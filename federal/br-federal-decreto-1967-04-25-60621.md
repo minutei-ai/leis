@@ -1,5 +1,3 @@
-###DEC-060621-0-000-25-04-1967@@@
-
 DECRETO Nº 60.621, DE 25 DE ABRIL DE 1967.
 
 Dispõe sôbre a sede provisória do Departamento Nacional de Obras Contra as Sêcas e dá outras providências.

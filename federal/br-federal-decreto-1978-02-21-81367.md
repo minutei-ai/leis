@@ -1,5 +1,3 @@
-###DEC-081367-0-000-21-02-1978@@@
-
 Decreto nº 81.367, de 21 de fevereiro de 1978
 
 Concede à Companhia Cearense de Cimento Portland o direito de lavrar calcário e marga calcárea no Município de Parnaíba, Estado do Piauí.

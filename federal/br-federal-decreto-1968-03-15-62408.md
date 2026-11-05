@@ -1,5 +1,3 @@
-###DEC-062408-0-000-15-03-1968@@@
-
 DECRETO Nº 62.408, DE 15 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação Assistencial Nossa Senhora do Perpétuo Socorro do Jardim Paulistano”, com sede em São Paulo, Estado de São Paulo.

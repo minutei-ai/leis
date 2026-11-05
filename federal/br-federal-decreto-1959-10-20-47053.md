@@ -1,5 +1,3 @@
-###DEC-047053-0-000-20-10-1959@@@
-
 DECRETO Nº 47.053, DE 20 DE OUTUBRO DE 1959.
 
 Regulamenta a concessão da gratificação prevista no Art. 145, itens V e VI, da Lei nº 1.711, de 28 de outubro de 1952, aos servidores civis lotados no Arsenal de Marinha do Rio de Janeiro, do Ministério da Marinha, e dá outras providência.

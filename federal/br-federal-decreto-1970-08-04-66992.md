@@ -1,5 +1,3 @@
-###DEC-066992-0-000-04-08-1970@@@
-
 DECRETO Nº 66.992, DE 4 DE AGÔSTO DE 1970.
 
 Revoga o Decreto nº 63.107, de 15 de agôsto de 1968.

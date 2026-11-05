@@ -1,5 +1,3 @@
-###DEL-009533-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.533 – DE 31 DE JULHO DE 1946
 
 Dispõe sôbre a Consolidação das Resoluções do Conselho Federal de Engenharia e Arquitetura referentes ao exercício da Engenharia, Arquitetura e Agricultura

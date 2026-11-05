@@ -1,5 +1,3 @@
-###DEC-051051-0-000-26-07-1961@@@
-
 decreto nº 51.051, de 26 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Mato Grosso as águas do rio Ponte de Pedra, Ponte de Pedra e Dr. Corrêa, respectivamente nos seus trechos superior, médio e inferior.

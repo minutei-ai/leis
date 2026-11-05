@@ -1,5 +1,3 @@
-###DEC-071902-0-000-14-03-1973@@@
-
 DECRETO Nº 71.902, DE 14 DE MARÇO DE 1973
 
 Concede reconhecimento à Escola de Educação Física de Assis, na cidade de Assis - São Paulo.

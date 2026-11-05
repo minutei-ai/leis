@@ -1,5 +1,3 @@
-###DEC-071837-0-000-14-02-1973@@@
-
 Decreto nº 71.837, de 14 de fevereiro de 1973.
 
 Dispõe sobre o exercício de servidores federais nos estabelecimentos de ensino agrícola cedidos pelo Ministério da Educação e Cultura a governos locais.

@@ -1,5 +1,3 @@
-###DEC-054115-0-000-12-08-1964@@@
-
 DECRETO nº 54.115, DE 12 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas e Rodagem, área de terreno situada no município de Muriaé - Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001095-0-000-23-03-1994@@@ 
-
 DECRETO Nº 1.095, DE 23 DE MARÇO DE 1994
 
 Fixa os limites individuais máximos para dedução aplicáveis às pessoas físicas e jurídicas e o valor absoluto do limite global de deduções relativas aos patrocínios e doações beneficiadas pelos incentivos previstos na Lei nº 8.313, de 23 de dezembro de 1991.

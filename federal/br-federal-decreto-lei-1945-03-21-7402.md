@@ -1,5 +1,3 @@
-###DEL-007402-0-000-21-03-1945@@@
-
 DECRETO-LEI N. 7.402 – DE 21 DE MARÇO DE 1945
 
 Altera as carreiras de Bibliotecário e Bibliotecário-auxiliar do Quadro Permanente do Ministério da Educação e Saúde

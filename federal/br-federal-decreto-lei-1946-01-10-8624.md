@@ -1,5 +1,3 @@
-###DEL-008624-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.624 – DE 10 DE JANEIRO DE 1946
 
 Dispôe sobre a remessa de elementos informativos, pelas sociedades de seguros privados e capitalização, ao Serviço Atuarial, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097827-0-000-12-06-1989@@@
-
 DECRETO N° 97.827, DE 12 DE JUNHO DE 1989
 
 Outorga concessão à “RÁDIO EDUCADORA DE CAMPINAS LTDA”., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campinas, Estado de São Paulo.

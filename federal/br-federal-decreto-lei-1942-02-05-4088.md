@@ -1,5 +1,3 @@
-###DEL-004088-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.088 – DE 5 DE FEVEREIRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 487:618$2 para pagamento à Caixa de Aposentadoria e Pensões do Serviço Federal de Águas e Esgotos

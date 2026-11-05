@@ -1,5 +1,3 @@
-###DEC-071639-0-000-29-12-1972@@@
-
 DECRETO Nº 71.639 - DE 29 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra situadas nos Municípios de Vitória e Serra, no Estado do Espírito Santo.
@@ -12,7 +10,31 @@ Art. 1º Ficam declaradas de utilidade pública, para fins de desapropriação, 
 
 Art. 2º As áreas a que se refere este Decreto são envolvidas por poligonal, para a qual foi adotada a projeção UTM (Universal Transverse Mercator) e cujos vértices têm as seguintes coordenadas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice</span></p></td><td style="width:248.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abcissas</span></p></td><td style="width:67.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ordenadas</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0 1 2 3 4 5 6 0</span></p></td><td style="width:248.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.762,945 7.761,845 7.759,230 7.759,390 7.761,685 7.762,280 7.762,915 7.762,945</span></p></td><td style="width:67.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">367,220 367,455 368,235 368,615 368,195 368,590 367,695 367,220</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+Vértice
+
+</td><td style="width:248.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Abcissas
+
+</td><td style="width:67.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+Ordenadas
+
+</td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+0 1 2 3 4 5 6 0
+
+</td><td style="width:248.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+7.762,945 7.761,845 7.759,230 7.759,390 7.761,685 7.762,280 7.762,915 7.762,945
+
+</td><td style="width:67.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+367,220 367,455 368,235 368,615 368,195 368,590 367,695 367,220
+
+</td></tr></tbody></table>
 
 Art. 3º Fica autorizada a Companhia Vale do Rio Doce a promover a desapropriação das referidas áreas, na forma da legislação vigente.
 

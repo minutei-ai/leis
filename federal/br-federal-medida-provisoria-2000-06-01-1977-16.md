@@ -1,5 +1,3 @@
-###MPV-001977-0-016-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-16, DE 1 DE junho DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

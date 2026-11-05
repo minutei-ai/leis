@@ -1,5 +1,3 @@
-###DEC-094339-0-000-19-05-1987@@@
-
 DECRETO Nº 94.339, DE 19 DE MAIO DE 1987.
 
 Dá nova redação a dispositivo do Decreto nº 89.253, de 28 de dezembro de 1983, alterado pelo Decreto nº 91.370, de 26 de junho de 1985, e dá outras providências.

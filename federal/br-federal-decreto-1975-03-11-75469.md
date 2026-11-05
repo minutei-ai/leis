@@ -1,5 +1,3 @@
-###DEC-075469-0-000-11-03-1975@@@
-
 DECRETO Nº 75.469, DE 11 DE MARÇO DE 1975.
 
 Autoriza o registro, em nome da União Federal ao imóveis que menciona, situado no Estado da Guanabara.

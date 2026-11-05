@@ -1,5 +1,3 @@
-###DEC-083003-0-000-10-01-1979@@@
-
 Decreto nº 83.003, de 10 de janeiro de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade do Rio de Janeiro.

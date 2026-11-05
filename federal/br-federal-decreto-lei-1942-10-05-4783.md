@@ -1,5 +1,3 @@
-###DEL-004783-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.783 – DE 5 DE OUTUBRO DE 1942
 
 Dispõe sobre a organização do Conselho de Segurança Nacional

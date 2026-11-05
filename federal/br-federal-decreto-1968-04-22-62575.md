@@ -1,5 +1,3 @@
-###DEC-062575-0-000-22-04-1968@@@
-
 DECRETO Nº 62.575, DE 22 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Fundação Universidade de Passo Fundo”, com sede em Passo Fundo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-055709-0-000-02-02-1965@@@
-
 decreto nº 55.709, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro Manoel Jorge Curi a pesquisar esmeralda no município de Vitória de Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-053421-0-000-20-01-1964@@@
-
 DECRETO Nº 53.421, DE 20 DE JANEIRO DE 1964
 
 Autoriza Industrial Extrativa Araruama S.A. a pesquisar conchas calárias no município de Magé, Estado do Rio de Janeiro.

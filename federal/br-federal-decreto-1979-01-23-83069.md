@@ -1,5 +1,3 @@
-###DEC-083069-0-000-23-01-1979@@@
-
 Decreto nº 83.069, de 23 de janeiro de 1979
 
 Prorroga o prazo estabelecido no artigo 3º do Decreto nº 82.961, de 29 de dezembro de 1978.

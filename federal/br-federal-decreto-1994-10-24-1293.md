@@ -1,7 +1,3 @@
-1
-
-###DEC-001293-0-000-24-10-1994@@@
-
 DECRETO Nº 1.293, DE 24 DE OUTUBRO DE 1994
 
 Dispõe sobre a  transferência para a Sucessora União dos processos judiciais de interesse do extinto INAMPS, e dá outras providências.

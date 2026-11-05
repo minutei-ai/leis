@@ -1,5 +1,3 @@
-###DEC-046894-0-000-24-09-1959@@@
-
 DECRETO Nº 46.894, DE 24 DE SETEMBRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Igarassu, Estado de Pernambuco.

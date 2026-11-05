@@ -1,7 +1,3 @@
-1
-
-###DEC-000353-0-000-02-12-1991@@@
-
 DECRETO N° 353, DE 2 DE DEZEMBRO DE 1991
 
 Promulga o Acordo para o Funcionamento do Escritório de Área, entre o Governo da República Federativa do Brasil e a Repartição Sanitária Pan-Americana.

@@ -1,5 +1,3 @@
-###DEC-047007-0-000-13-10-1959@@@
-
 DECRETO Nº 47.007, de 13 de outubro de 1959.
 
 Autoriza o cidadão brasileiro João de Souza Ferraz a pesquisar água mineral no município de Socorro, Estado de São Paulo.

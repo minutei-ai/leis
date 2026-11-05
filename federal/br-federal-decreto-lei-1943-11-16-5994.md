@@ -1,5 +1,3 @@
-###DEL-005994-0-000-16-11-1943@@@
-
 DECRETO‑LEI N. 5.994 – DE 16 DE NOVEMBRO DE 1943
 
 Amplia, enquanto durar o estado de beligerância, o disposto no decreto‑lei n. 5.369, de 1 de abril de 1943

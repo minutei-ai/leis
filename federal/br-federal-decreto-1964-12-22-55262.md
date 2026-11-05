@@ -1,5 +1,3 @@
-###DEC-055262-0-000-22-12-1964@@@
-
 DECRETO Nº 55.262, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Lisbôa Guerra a pesquisar minério de ferro no município de Antônio Dias, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081511-0-000-03-04-1978@@@
-
 decreto nº 81.511, de 03 de abril de 1978.
 
 Altera o Regulamento de Movimentação do Pessoal Militar do Exército (R-50), aprovado pelo Decreto nº 75.910, de 26 de junho de 1975, e alterado pelo Decreto nº 80.142, de 11 de agosto de 1977, e dá outras providências.

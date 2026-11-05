@@ -1,5 +1,3 @@
-###DEC-065031-0-000-21-08-1969@@@
-
 DECRETO Nº 65.031 - DE 21 DE AGôSTO DE 1969.
 
 Fixa prazo de autorização para a sociedade The Westem Telegraph Company Limited continuar a funcionar na República Federativa do Brasil.

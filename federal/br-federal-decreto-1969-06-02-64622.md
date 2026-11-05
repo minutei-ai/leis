@@ -1,5 +1,3 @@
-###DEC-064622-0-000-02-06-1969@@@
-
 decreto nº 64.622, de 2 de junho de 1969.
 
 Declara caduco o Decreto n.º 17.308 de 6 de dezembro de 1944.

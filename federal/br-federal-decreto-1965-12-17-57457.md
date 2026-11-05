@@ -1,5 +1,3 @@
-###DEC-057457-0-000-17-12-1965@@@
-
 DECRETO Nº 57.457, DE 17 DE DEZEMBRO DE 1965.
 
 Prorroga o prazo fixado no Decreto nº 56.958, de 1º de outubro de 1965.

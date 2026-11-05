@@ -1,5 +1,3 @@
-###DEC-066334-0-000-18-03-1970@@@
-
 decreto nº 66.334 - de 18 de março de 1970
 
 Retifica o artigo 1º do Decreto nº 58.453, de 17 de maio de 1966.

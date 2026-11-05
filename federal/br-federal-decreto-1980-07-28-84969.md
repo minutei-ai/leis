@@ -1,5 +1,3 @@
-###DEC-084969-0-000-28-07-1980@@@
-
 Decreto nº 84.969, de 28 de julho de 1980.
 
 Amplia a área prioritária, para fins de reforma agrária, assim declarada pelos Decretos ns.69.411, de 22 de outubro de 1971, e 78.422, de 15 de setembro de 1976, e prorroga o prazo de intervenção governamental.

@@ -1,5 +1,3 @@
-###DEC-099557-0-000-02-10-1990@@@
-
 DECRETO N° 99.557, DE 2 DE OUTUBRO DE 1990
 
 Prorroga o prazo da Comissão de Reavaliação de Incentivos Fiscais.

@@ -1,5 +1,3 @@
-###DEC-049227-0-000-16-11-1960@@@
-
 DECRETO Nº 49.227, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a tomar ações da Sociedade Termoelétrica de Capivari - SOTELCA, à conta do Fundo Federal de Eletrificação.

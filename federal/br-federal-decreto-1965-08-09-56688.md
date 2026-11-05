@@ -1,5 +1,3 @@
-###DEC-056688-0-000-09-08-1965@@@
-
 DECRETO Nº 56.688, DE 9 DE AGÔSTO DE 1965.
 
 Renova o Decreto nº 49.435, de 6 de dezembro de 1960.

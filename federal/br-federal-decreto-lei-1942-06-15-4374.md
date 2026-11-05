@@ -1,5 +1,3 @@
-###DEL-004374-0-000-15-06-1942@@@
-
 DECRETO-LEI N. 4.374 – DE 15 DE Junho DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 60:000$0 para pagamento das vantagens (Pessoal) que indica, sem aumento de despeza.

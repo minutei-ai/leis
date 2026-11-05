@@ -1,5 +1,3 @@
-###DEC-096813-0-000-28-09-1988@@@
-
 DECRETO N° 96.813, DE 28 DE SETEMBRO DE 1988
 
 Dispõe sobre a administrado de bens da União, situados na área do atual Território Federal de Fernando de Noronha.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001217-0-000-13-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.217, DE 13 DE DEZEMBRO DE 1995.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS, e dá outras providências.

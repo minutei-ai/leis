@@ -17,7 +17,3 @@ Art. 3º – Esta lei complementar entra em vigor na data de sua publicação.
 Belo Horizonte, aos 4 de agosto de 2021; 233º da Inconfidência Mineira e 200º da Independência do Brasil.
 
 ROMEU ZEMA NETO
-
-\==============================
-
-Data da última atualização: 20/9/2021.

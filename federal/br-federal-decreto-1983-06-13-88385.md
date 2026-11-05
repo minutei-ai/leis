@@ -1,5 +1,3 @@
-###DEC-088385-0-000-13-06-1983@@@
-
 # Decreto nº 88.385, de 13 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de terrenos, com benfeitorias, situados na cidade de Belém, Estado do Pará, destinados à ampliação do edifício-sede do Tribunal Regional do Trabalho da Oitava Região.

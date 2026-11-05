@@ -1,5 +1,3 @@
-###DEC-097385-0-000-22-12-1988@@@
-
 DECRETO Nº 97.385, DE 22 DE DEZEMBRO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

@@ -1,5 +1,3 @@
-###DEC-090191-0-000-12-09-1984@@@
-
 DECRETO Nº 90.191, DE 12 DE SETEMBRO DE 1984
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 88.531, de 18 de julho de 1983, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de ramal de linha de transmissão.

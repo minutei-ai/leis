@@ -1,5 +1,3 @@
-###DEC-081229-0-000-18-01-1978@@@
-
 Decreto nº 81.229, de 18 de janeiro de 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia da União a operação externa que menciona.

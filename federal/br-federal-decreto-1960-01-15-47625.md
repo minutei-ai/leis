@@ -1,5 +1,3 @@
-###DEC-047625-0-000-15-01-1960@@@
-
 DECRETO Nº 47.625, de 15 de janeiro de 1960.
 
 Aprova o Regulamento do Plano de Valorização Econômica da Região da Fronteira Sudoestes do País.

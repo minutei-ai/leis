@@ -1,5 +1,3 @@
-###DEC-062157-0-000-19-01-1968@@@
-
 DECRETO Nº 62.157, DE 19 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto nº 27.777, de 8 de fevereiro de 1950.

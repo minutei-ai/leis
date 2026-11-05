@@ -1,5 +1,3 @@
-###DEC-085018-0-000-08-08-1980@@@
-
 DECRETO Nº 85.018, DE 08 DE AGOSTO DE 1980
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972 e dá outras providências.

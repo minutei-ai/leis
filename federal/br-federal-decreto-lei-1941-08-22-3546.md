@@ -1,5 +1,3 @@
-###DEL-003546-0-000-22-08-1941@@@
-
 DECRETO-LEI N. 3.546 – DE 22 DE AGOSTO E 1941
 
 Dispõe sobre a formatura geral da Juventude Brasileira para a comemoração da Independência no ano de 1941

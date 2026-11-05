@@ -1,5 +1,3 @@
-###DEC-057871-0-000-25-02-1966@@@
-
 Decreto nº 57.871, de 25 de fevereiro de 1966.
 
 Autoriza o cidadão brasileiro Henrique Silva Leão a pesquisar minério de manganês no município de Anápolis, Estado de Goiás.

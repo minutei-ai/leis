@@ -44,8 +44,10 @@ Goiânia, 17 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
-<br>
-ANTÔNIO GOMIDE<br>
+DANIEL VILELA
+
+Governador do Estado
+
+ANTÔNIO GOMIDE
+
 Deputado Estadual

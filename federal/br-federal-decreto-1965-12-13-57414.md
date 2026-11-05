@@ -1,5 +1,3 @@
-###DEC-057414-0-000-13-12-1965@@@
-
 decreto Nº 57.414, de 13 de dezembro de 1965.
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$47.130.000 (quarenta e sete milhões, cento e trinta mil cruzeiros), destinado à liquidação de débitos existentes com o comércio em geral, com a Diocese de Fortaleza, Marinha de Guerra, Lóide Brasileiro Patrimônio Nacional etc.

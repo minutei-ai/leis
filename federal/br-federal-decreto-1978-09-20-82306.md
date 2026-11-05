@@ -1,5 +1,3 @@
-###DEC-082306-0-000-20-09-1978@@@
-
 Decreto nº 82.306, de 2 de setembro de 1978.
 
 Concede autorização ao NATURAL ENVIRONMENT RESEARCH COUNCIL para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-006416-0-000-28-03-2008@@@
-
 DECRETO Nº 6.416, DE 28 DE MARÇO DE 2008.
 
 Altera o Decreto no 6.144, de 3 de julho de 2007, que regulamenta a forma de habilitação e co-habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, instituído pelos arts. 1o a 5o da Lei no 11.488, de 15 de junho de 2007.
@@ -51,5 +49,3 @@ Brasília, 28 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 31.3.2008

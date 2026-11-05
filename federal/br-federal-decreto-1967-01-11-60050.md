@@ -1,5 +1,3 @@
-###DEC-060050-0-000-11-01-1967@@@
-
 DECRETO Nº 60.050, DE 11 DE JANEIRO DE 1967.
 
 Introduz alterações no Decreto número 59.875, de 26 de dezembro de 1966.

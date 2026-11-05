@@ -2,7 +2,8 @@ LEI Nº 24.193, DE 3 DE ABRIL DE 2026
 
 Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.
 
-A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:<br>
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
  
 
 Art. 1º Fica concedida, nos termos do parágrafo único do art. 42 da [Lei estadual nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), de 14 de junho de 2012, e na forma dos anexos desta Lei, a revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás, no índice de 4,26% (quatro inteiros e vinte e seis centésimos por cento), com base no Índice Nacional de Preços ao Consumidor Amplo – IPCA do ano de 2025, sobre os valores de tabelas, proventos e pensões vigentes.
@@ -15,16 +16,18 @@ Goiânia, 3 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
-<br>
+DANIEL VILELA
+
+Governador do Estado
+
 TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
 
 ANEXO I
 
 (ALTERA O ANEXO I DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO I<br>
+“ANEXO I
+
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -50,10 +53,12 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 “(NR)
 
-ANEXO II<br>
+ANEXO II
+
 (ALTERA O ANEXO II DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO II<br>
+“ANEXO II
+
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -79,10 +84,12 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 “ (NR)
 
-ANEXO III<br>
+ANEXO III
+
 (ALTERA O ANEXO III DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO III<br>
+“ANEXO III
+
 TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -108,10 +115,12 @@ TABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO
 
 “ (NR)
 
-ANEXO IV<br>
+ANEXO IV
+
 (ALTERA O ANEXO IV DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO IV<br>
+“ANEXO IV
+
 TABELA DE VENCIMENTOS DOS CARGOS EM EXTINÇÃO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -138,10 +147,12 @@ TABELA DE VENCIMENTOS DOS CARGOS EM EXTINÇÃO
 
 “ (NR)
 
-ANEXO V<br>
+ANEXO V
+
 (ALTERA O ANEXO V DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO V<br>
+“ANEXO V
+
 TABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -167,10 +178,12 @@ TABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO
 
 “ (NR)
 
-ANEXO VI<br>
+ANEXO VI
+
 (ALTERA O ANEXO VI DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO VI<br>
+“ANEXO VI
+
 TABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO
 
 | Cargo | Classe | Nível | Vencimento |
@@ -196,10 +209,12 @@ TABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO
 
 “ (NR)
 
-ANEXO VII<br>
+ANEXO VII
+
 (ALTERA O ANEXO XI DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO XI<br>
+“ANEXO XI
+
 QUANTITATIVO DE FUNÇÕES POR ENCARGO DE CONFIANÇA
 
 | Descrição | Função | Quantidade prevista | Valor (R$) |
@@ -217,10 +232,12 @@ QUANTITATIVO DE FUNÇÕES POR ENCARGO DE CONFIANÇA
 
 “ (NR)
 
-ANEXO VIII<br>
+ANEXO VIII
+
 (ALTERA O ANEXO XII DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO XII<br>
+“ANEXO XII
+
 QUANTITATIVO DE CARGOS EM COMISSÃO
 
 | Descrição | Cargo | Quantidade prevista | Vencimento |

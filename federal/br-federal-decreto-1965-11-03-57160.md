@@ -1,5 +1,3 @@
-###DEC-057160-0-000-03-11-1965@@@
-
 DECRETO Nº 57.160, DE 3 DE NOVEMBRO DE 1965.
 
 Transfere a sede da 6ª Companhia de Comunicações, de São Leopoldo, Rio Grande do Sul, para Rio Negro, Paraná.

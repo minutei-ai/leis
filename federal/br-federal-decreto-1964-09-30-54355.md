@@ -1,5 +1,3 @@
-###DEC-054355-0-000-30-09-1964@@@
-
 DECRETO Nº 54.355, DE 30 DE SETEMBRO DE 1964.
 
 Concede reconhecimento à Faculdade Estadual de Filosofia, Ciências e Letras de Paranaguá - Estado do Paraná.

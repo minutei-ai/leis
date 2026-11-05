@@ -1,5 +1,3 @@
-###MPV-001807-0-000-28-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.807, DE 28 DE JANEIRO DE 1999.
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público-PIS/PASEP e sobre o lucro líquido, do Imposto sobre a Renda, e dá outras providências.

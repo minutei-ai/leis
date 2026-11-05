@@ -1,7 +1,3 @@
-1
-
-###MPV-001337-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.337, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre os quadros de cargos do Grupo-Direção e Assessoramento Superiores - DAS da Advocacia-Geral da União, do Ministério da Fazenda, e dá outras providências.

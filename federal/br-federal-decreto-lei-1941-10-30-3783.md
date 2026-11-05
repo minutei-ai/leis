@@ -1,5 +1,3 @@
-###DEL-003783-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.783 – DE 30 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 71:653$2 à verba que especifica.

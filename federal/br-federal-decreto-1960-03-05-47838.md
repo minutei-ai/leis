@@ -1,5 +1,3 @@
-###DEC-047838-0-000-05-03-1960@@@
-
 DECRETO Nº 47.838, DE 5 DE MARÇO DE 1960
 
 Transfere funções da Tabela Numérica Especial de Extranumerário-mensalista da Base Aérea do Recife para a do Quartel-General da 2ª Zona Aérea.

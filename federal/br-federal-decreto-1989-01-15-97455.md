@@ -1,5 +1,3 @@
-###DEC-097455-0-000-15-01-1989@@@
-
 DECRETO N° 97.455, DE 15 DE JANEIRO DE 1989
 
 Dispõe sobre a extinção e dissolução de entidades da Administração Federal, sobre a alienação de participação acionária da União nas empresas que menciona, e dá outras providências.

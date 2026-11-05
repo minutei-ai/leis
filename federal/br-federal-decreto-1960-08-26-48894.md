@@ -1,5 +1,3 @@
-###DEC-048894-0-000-26-08-1960@@@
-
 DECRETO Nº 48.894, DE 26 DE AGÔSTO DE 1960.
 
 Concede à Sociedade Transportes Marítimos Araújo S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

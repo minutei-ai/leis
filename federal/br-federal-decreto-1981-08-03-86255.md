@@ -1,5 +1,3 @@
-###DEC-086255-0-000-03-08-1981@@@
-
 DECRETO Nº 86.255, DE 03 DE AGOSTO DE 1981
 
 Dispõe sobre a designação de militares servindo na Secretaria-Geral do Conselho de Segurança Nacional para exercer funções no Grupo Executivo das Terras do Araguaia-Tocantins - GETAT.

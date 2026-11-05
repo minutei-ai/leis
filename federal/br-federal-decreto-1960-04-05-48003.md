@@ -1,5 +1,3 @@
-###DEC-048003-0-000-05-04-1960@@@
-
 DECRETO Nº 48.003, DE 05 DE ABRIL DE 1960.
 
 Inclui funções gratificadas no Ministério da Educação e Cultura, e dá outras providências.

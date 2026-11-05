@@ -1,6 +1,10 @@
 > **LEI Nº 3.258, DE 14 DE JUNHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.087, de 23 de dezembro de 2015, que “Institui o Programa Habitacional do Servidor Público do Estado do Acre – PHSPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.087, de 23 de dezembro de 2015, que “Institui o Programa Habitacional do Servidor Público do Estado do Acre – PHSPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

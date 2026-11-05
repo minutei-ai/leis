@@ -1,5 +1,3 @@
-###DEC-081567-0-000-17-04-1978@@@
-
 DECRETO Nº 81.567, DE 17 DE ABRIL DE 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Tupinambá de Sobral Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Sobral, Estado do Ceará.

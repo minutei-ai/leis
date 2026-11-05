@@ -1,5 +1,3 @@
-###DEC-005341-0-000-13-01-2005@@@
-
 DECRETO Nº 5.341 DE 13 DE JANEIRO DE 2005
 
 Fixa o número de vagas para promoção obrigatória, referentes ao ano-base 2004, para os diversos postos dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica.

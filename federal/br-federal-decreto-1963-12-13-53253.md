@@ -1,5 +1,3 @@
-###DEC-053253-0-000-13-12-1963@@@
-
 Decreto nº 53.253, de 13 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Wilson Felix Soares a pesquisar minérios de ferro e manganês, no município de Corumbá, Estado de Mato Grosso.

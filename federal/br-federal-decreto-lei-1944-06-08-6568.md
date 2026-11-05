@@ -1,5 +1,3 @@
-###DEL-006568-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.568 – DE 8 DE JUNHO DE 1944
 
 Cria uma coletoria federal no município de Águas da Prata, no Estado de São Paulo, e dá outras providências

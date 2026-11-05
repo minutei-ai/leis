@@ -1,5 +1,3 @@
-###DEC-075874-0-000-17-06-1975@@@
-
 DECRETO Nº 75.874, DE 17 DE JUNHO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terreno situadas no Município de Itajubá - MG, necessárias à expansão do "Campus" da Escola Federal de Engenharia de Itajubá.

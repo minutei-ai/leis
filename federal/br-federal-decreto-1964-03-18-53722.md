@@ -1,5 +1,3 @@
-###DEC-053722-0-000-18-03-1964@@@
-
 Decreto nº 53.722, de 18 de março de 1964.
 
 Concede à Companhia de Seguros Luzo-Brasileira, autorização para funcionar e aprova os seus Estatutos.

@@ -1,5 +1,3 @@
-###DEC-052343-0-000-09-08-1963@@@
-
 DECRETO Nº 52.343, DE 9 DE Agôsto DE 1963.
 
 Cria Grupo de Trabalho no Ministério da Agricultura com a incumbência de indicar medidas tendentes a disciplinar a aplicação da taxa resultante da  Instrução  nº 239, de 22-04-63, da SUMOC.

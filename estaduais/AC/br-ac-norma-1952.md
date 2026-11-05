@@ -2,7 +2,11 @@ Revogada pela Lei nº [4.820 , de 23 de Julho de 2026.](https://legis.ac.gov.br/
 
 > **LEI Nº 3.335, DE 13 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Convalida a Resolução nº 126, de 2011, com alterações advindas pelas Resoluções 214 e 214-A, de 12 de dezembro de 2013, que unifica as tabelas de vencimentos básicos e os demais componentes da estrutura remuneratória aplicável aos Cargos de provimento efetivo integrantes do Quadro de Pessoal da Assembleia Legislativa e de seus órgãos supervisionados.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Convalida a Resolução nº 126, de 2011, com alterações advindas pelas Resoluções 214 e 214-A, de 12 de dezembro de 2013, que unifica as tabelas de vencimentos básicos e os demais componentes da estrutura remuneratória aplicável aos Cargos de provimento efetivo integrantes do Quadro de Pessoal da Assembleia Legislativa e de seus órgãos supervisionados.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

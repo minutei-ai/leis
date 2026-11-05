@@ -1,5 +1,3 @@
-###DEC-073142-0-000-12-11-1973@@@
-
 DECRETO Nº 73.142 - DE 12 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento do curso de Engenharia de Operação da Escola Técnica Federal do Paraná com sede na cidade de Curitiba, Estado do Paraná.

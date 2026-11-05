@@ -1,5 +1,3 @@
-###DEC-078634-0-000-27-10-1976@@@
-
 DECRETO Nº 78.634, de 27 de outubro de 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração Luzwell, com sede na cidade de São Paulo, Estado de São Paulo.

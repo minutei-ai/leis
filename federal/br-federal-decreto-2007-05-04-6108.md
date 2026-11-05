@@ -1,5 +1,3 @@
-###DEC-006108-0-000-04-05-2007@@@
-
 DECRETO Nº 6.108, DE 4 DE MAIO DE 2007.
 
 Concede licenciamento compulsório, por interesse público, de patentes referentes ao Efavirenz, para fins de uso público não-comercial.

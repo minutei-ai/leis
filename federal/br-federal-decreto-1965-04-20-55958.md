@@ -1,5 +1,3 @@
-###DEC-055958-0-000-20-04-1965@@@
-
 DECRETO Nº 55.958, DE 20 DE ABRIL DE 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona situado no Estado da Guanabara.

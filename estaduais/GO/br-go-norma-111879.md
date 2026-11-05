@@ -16,7 +16,8 @@ Goiânia, 19 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO
@@ -25,6 +26,6 @@ ANEXO
 
 “ANEXO I
 
-<table align="left" class="Table" style="width:100.0%; border-collapse:collapse; border:none; margin-left:6px; margin-right:6px; margin-bottom:10px" width="100%"><tbody><tr><td rowspan="2" style=" width:28%;  height:18px;   ">ÓRGÃO OU ENTIDADE</td><td rowspan="2" style=" width:20%;  height:18px;   ">ESTRUTURA</td><td colspan="3" style=" width:50%;  height:18px;   ">CARGOS EM COMISSÃO</td></tr><tr><td style=" width:19%;  height:18px;   ">DENOMINAÇÃO</td><td style=" width:17%;  height:18px;   ">QUANTIDADE</td><td style=" width:13%;  height:18px;   ">SÍMBOLO</td></tr><tr><td colspan="5" style=" width:100%;    ">I – Administração do Poder Executivo</td></tr><tr><td colspan="5" style=" width:100%;    ">......................................................................</td></tr><tr><td colspan="5" style=" width:100%;    ">q.2.) Polícia Militar – PM</td></tr><tr><td colspan="5" style=" width:100%;    ">........................................................................................................................................</td></tr><tr><td style=" width:28%;    ">1.3. Comando de Inteligência</td><td style=" width:20%;    ">Complementar</td><td style=" width:19%;    ">Comandante</td><td style=" width:17%;    ">1</td><td style=" width:13%;    ">DAI-1</td></tr><tr><td colspan="5" style=" width:100%;    ">......................................................................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">ÓRGÃO OU ENTIDADE</td><td rowspan="2">ESTRUTURA</td><td colspan="3">CARGOS EM COMISSÃO</td></tr><tr><td>DENOMINAÇÃO</td><td>QUANTIDADE</td><td>SÍMBOLO</td></tr><tr><td colspan="5">I – Administração do Poder Executivo</td></tr><tr><td colspan="5">......................................................................</td></tr><tr><td colspan="5">q.2.) Polícia Militar – PM</td></tr><tr><td colspan="5">........................................................................................................................................</td></tr><tr><td>1.3. Comando de Inteligência</td><td>Complementar</td><td>Comandante</td><td>1</td><td>DAI-1</td></tr><tr><td colspan="5">......................................................................</td></tr></tbody></table>
 
 ” (NR)

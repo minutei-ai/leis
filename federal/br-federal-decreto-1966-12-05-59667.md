@@ -1,5 +1,3 @@
-###DEC-059667-0-000-05-12-1966@@@
-
 decreto nº 59.667, de 5 de dezembro de 1966.
 
 Cria a Comissão Nacional de Alfabetização e de Educação Assistemática.

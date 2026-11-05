@@ -1,5 +1,3 @@
-###DEC-082214-0-000-04-09-1978@@@
-
 Decreto nº 82.214, de 04 de setembro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, da área de terra que menciona no Município e Comarca de Manaus, no Estado do Amazonas, destinada à instalação de emissoras em ondas médias e ondas tropicais, pela Empresa Brasileira de Radiodifusão S.A. - RADIOBRÁS.

@@ -1,5 +1,3 @@
-###DEC-047243-0-000-16-11-1959@@@
-
 DECRETO Nº 47.243, DE 16 DE NOVEMBRO DE 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Companhia Sol de Seguros.

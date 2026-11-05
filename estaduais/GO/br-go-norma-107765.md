@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 25 dias do mês de Agosto de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -37,6 +35,7 @@ QUADRO 2
 | 10 302 1043 2.148 | ATENÇÃO À SAÚDE DE MÉDIA E ALTA COMPLEXIDADE | 4 - INVESTIMENTOS | 15000100 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 22.604.272,00 | R$ 550.000,00 | R$ 550.000,00 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 550.000,00 |

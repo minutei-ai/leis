@@ -1,5 +1,3 @@
-###DEC-058748-0-000-28-06-1966@@@
-
 DECRETO Nº 58.748, DE 28 DE JUNHO DE 1966.
 
 Concede à Sociedade Navunidos Navegação S/A, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

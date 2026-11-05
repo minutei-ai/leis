@@ -30,23 +30,18 @@ GRUPO OCUPACIONAL TÉCNICO ADMINISTRATIVO
 
 Vigência a partir de 1º de maio de 2025
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:211.3pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:13.3pt"><td style="width:140.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.3pt" valign="top" width="187"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">Cargo</span></p></td><td style="width:70.9pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.3pt" valign="top" width="95"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">Percentual</span></p></td></tr><tr style="height:14.0pt"><td style="width:140.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt" valign="top" width="187"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Técnico Administrativo</span></p></td><td style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.0pt" valign="top" width="95"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">60%</span></p></td></tr><tr style="height:14.0pt"><td style="width:140.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt" valign="top" width="187"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Auxiliar Administrativo</span></p></td><td style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.0pt" valign="top" width="95"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">60%</span></p></td></tr><tr style="height:14.0pt"><td style="width:140.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt" valign="top" width="187"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Analista Técnico</span></p></td><td style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.0pt" valign="top" width="95"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">30%</span></p></td></tr></tbody></table>
+Cargo
+
+Percentual
+
+Técnico Administrativo
+
+60%
+
+Auxiliar Administrativo
+
+60%
+
+Analista Técnico
+
+30%

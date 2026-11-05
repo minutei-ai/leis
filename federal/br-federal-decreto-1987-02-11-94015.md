@@ -1,5 +1,3 @@
-###DEC-094015-0-000-11-02-1987@@@
-
 DECRETO Nº 94.015, DE 11 DE FEVEREIRO DE 1987.
 
 Declara de ocupação dos indígenas, área de terras que menciona no Estado do Amazonas, e dá outras providências.

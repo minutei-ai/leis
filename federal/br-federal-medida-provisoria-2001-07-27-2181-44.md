@@ -1,5 +1,3 @@
-###MPV-002181-0-044-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.181-44, DE 27 DE JUlHO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

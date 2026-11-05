@@ -1,5 +1,3 @@
-###DEC-076484-0-000-20-10-1975@@@
-
 Decreto Nº 76.484, de 20 de outubro de 1975.
 
 Concede reconhecimento à Escola de Educação Física e Desportos de Taubaté, com sede na cidade de Taubaté, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-054781-0-000-03-11-1964@@@
-
 DECRETO Nº 54.781, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a cidadã brasileira Argentina de Souza Oliveira a pesquisar minério de ferro no município de Belo Vale, Estado de Minas Gerais.

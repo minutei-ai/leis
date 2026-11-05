@@ -1,5 +1,3 @@
-###DEC-090130-0-000-30-08-1984@@@
-
 Decreto nº 90.130, de 30 de agosto de 1984
 
 Autoriza o funcionamento dos cursos de Pedagogia e de Letras da Autarquia Educacional do Salgueiro - Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-061846-0-000-06-12-1967@@@
-
 Decreto nº 61.846, de 6 de dezembro de 1967.
 
 Exclui do Decreto número 32.286, de 20 de fevereiro de 1953, a cessão da área “B” do terreno ocupado pelo 18º Regimento de Infantaria.

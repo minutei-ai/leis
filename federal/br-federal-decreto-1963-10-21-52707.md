@@ -1,5 +1,3 @@
-###DEC-052707-0-000-21-10-1963@@@
-
 Decreto Nº 52.707, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza a “Centrais Elétricas de Minas Gerais S.A.” - CEMIG - a construir o sistema de distribuição no município de Cláudio, Estado de Minas Gerais.

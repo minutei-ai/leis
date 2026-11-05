@@ -1,5 +1,3 @@
-###DEC-050939-0-000-13-07-1961@@@
-
 DECRETO Nº 50.939, DE 13 DE JULHO DE 1961.
 
 Autoriza o Ministério da Fazenda a ceder gratuitamente ao Instituto Oceanográfico, da Universidade de São Paulo, o terreno que menciona.

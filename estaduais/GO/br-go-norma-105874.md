@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 3 dias do mês de Junho de 2022.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 QUADRO 1

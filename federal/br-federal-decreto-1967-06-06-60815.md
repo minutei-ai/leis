@@ -1,5 +1,3 @@
-###DEC-060815-0-000-06-06-1967@@@
-
 DECRETO Nº 60.815, DE 6 DE JUNHO DE 1967.
 
 Transfere ao patrimônio e à responsabilidade do Instituto Brasileiro de Reforma Agrária o acervo a que se refere o item III do art. 1º do Decreto-lei nº 224, de 28 de fevereiro de 1967.

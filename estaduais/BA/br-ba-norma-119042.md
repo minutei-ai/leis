@@ -4,14 +4,16 @@ Dispõe sobre o padrão físico de instalações normas de segurança e funciona
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Para efeito desta Lei, considera-se Produtos Perigosos, todos e quaisquer produtos que, em contato com o meio ambiente externo, leve risco à saúde da pessoa humana e da fauna ou que traga prejuízo à flora, aos mananciais, ao solo e à atmosfera, segundo relação constante do Decreto Federal nº 96.044/88, de 18.03.88.
 
 Art. 2º - As empresas que fabricam produtos perigosos deverão exigir, das empresas transportadoras desses produtos, o atendimento das exigências estabelecidas nesta Lei.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA BASE DE OPERAÇÃO
 
 Art. 3º - A inscrição estadual de pessoa jurídica, com razão social para credenciar-se como Transportador de Cargas Perigosas, deverá atender às exigências estabelecidas a seguir:
@@ -28,7 +30,8 @@ d) possuir, de forma individual ou coletiva, central de comunicação, em VHF, c
 
 § 2º - As empresas transportadoras de cargas perigosas, não possui dados de base de operação no Estado da Bahia e que realizem transporte emissor ou receptor de produtos perigosos, estão sujeitas às exigências contidas nesta Lei.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DA GARANTIA DE QUALIDADE DOS EQUIPAMENTOS
 
 Art. 4º - Os veículos e equipamentos (com tanque e containers), destinados ao transporte de cargas perigosas, deverão ser fabricados de acordo com as normas brasileiras ou na inexistência destas, com normas internacionalmente aceitas.
@@ -39,7 +42,8 @@ Art. 6º - .....VETADO.....
 
 Art. 7º - .....VETADO.....
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DAS NORMAS DE SEGURANÇA
 
 Art. 8º - Durante as operações de carga, transporte, descarga, transbordo, limpeza e descontaminação, os veículos e equipamentos utilizados no transporte de produtos perigosos deverão portar rótulos de risco e painéis de segurança específicos, de acordo com as NBR-7500 e NBR-8286.
@@ -66,7 +70,8 @@ Art. 13 - O transportador obriga-se a estabelecer jornada de trabalho para os co
 
 Art. 14 - Exceto em atividade, os veículos transportadores deverão estar sempre com seus tanques limpos e livres de quaisquer impurezas.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DA HABILITAÇÃO E TREINAMENTO DO CONDUTOR
 
 Art. 15 - O condutor de veículo utilizado no transporte de cargas perigosas, além das qualificações e habilitações previstas na legislação de trânsito, deverá ter certificado do Curso de Treinamento do SENAI ou equivalente, autorizado pelo Centro de Recursos Ambientais - CRA.

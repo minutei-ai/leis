@@ -1,5 +1,3 @@
-###DEL-003300-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.300 – DE 22 DE MAIO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 872:230$0, para liquidação de despesas de 1939.

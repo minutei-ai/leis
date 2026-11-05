@@ -1,5 +1,3 @@
-###DEL-008791-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.791 – DE 22 DE JANEIRO DE 1946
 
 Revoga disposição do Decreto-lei número 78, de 1937

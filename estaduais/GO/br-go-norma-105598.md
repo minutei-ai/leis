@@ -12,52 +12,64 @@ Parágrafo único. Para os efeitos deste Decreto, a transferência de crédito:
 
 I – é limitada ao valor informado como “Saldo credor a transportar para o período seguinte” na apuração do ICMS devido por operações próprias da Escrituração Fiscal Digital – EFD; e
 
-II – somente será permitida ao contribuinte que acumular crédito decorrente do disposto no caput deste artigo durante o período mínimo de três meses consecutivos.<br>
+II – somente será permitida ao contribuinte que acumular crédito decorrente do disposto no caput deste artigo durante o período mínimo de três meses consecutivos.
+
 \- [Redação dada pelo Decreto nº 10.874, de 12-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113545).
 
 ~~II – somente será permitida ao contribuinte que acumular crédito decorrente do disposto no _caput_ deste artigo durante o período mínimo de 12 (doze) meses consecutivos.~~
 
-Art. 2º Atendidas as condições estipuladas no art. 1º deste Decreto, o crédito acumulado pode ser transferido a contribuinte estabelecido no Estado de Goiás:<br>
+Art. 2º Atendidas as condições estipuladas no art. 1º deste Decreto, o crédito acumulado pode ser transferido a contribuinte estabelecido no Estado de Goiás:
+
 \- [Redação dada pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
 ~~Art. 2º Atendidas as condições estipuladas no art. 1º deste Decreto, o crédito poderá ser transferido a contribuinte estabelecido no Estado de Goiás do qual tenha adquirido máquinas, equipamentos, veículos ou materiais de construção desde que destinados à integração ao ativo imobilizado e a obras civis de estabelecimento localizado em Goiás e pertencente à empresa remetente do crédito.~~
 
-I – do qual tenha adquirido máquinas, equipamentos, veículos ou materiais de construção destinados ao ativo imobilizado ou a obras civis de estabelecimento localizado neste Estado e pertencente à empresa remetente do crédito; ou<br>
+I – do qual tenha adquirido máquinas, equipamentos, veículos ou materiais de construção destinados ao ativo imobilizado ou a obras civis de estabelecimento localizado neste Estado e pertencente à empresa remetente do crédito; ou
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610). 
 
-II – integrante do mesmo grupo econômico, considerado o conjunto de empresas que atuam sob direção ou controle comum, desde que o crédito transferido seja posteriormente utilizado conforme o disposto no inciso I deste artigo.<br>
+II – integrante do mesmo grupo econômico, considerado o conjunto de empresas que atuam sob direção ou controle comum, desde que o crédito transferido seja posteriormente utilizado conforme o disposto no inciso I deste artigo.
+
 \- [Redação dada pelo Decreto nº 10.986, de 16-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117411/decreto-10986).
 
-~~II – integrante do mesmo grupo econômico, nos termos do art. 2º da [Lei nº 17.442](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89433), de 21 de outubro de 2011, desde que o crédito transferido seja posteriormente utilizado conforme o disposto no inciso I deste artigo.~~<br>
+~~II – integrante do mesmo grupo econômico, nos termos do art. 2º da [Lei nº 17.442](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89433), de 21 de outubro de 2011, desde que o crédito transferido seja posteriormente utilizado conforme o disposto no inciso I deste artigo.~~
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
-§ 1º O disposto neste Decreto somente se aplica às máquinas, aos equipamentos, aos veículos ou aos materiais de construção de que trata o inciso I do _caput_ deste artigo adquiridos após o:<br>
+§ 1º O disposto neste Decreto somente se aplica às máquinas, aos equipamentos, aos veículos ou aos materiais de construção de que trata o inciso I do _caput_ deste artigo adquiridos após o:
+
 \- [Redação dada pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
 ~~§ 1º O disposto neste Decreto somente se aplica às máquinas, aos equipamentos, aos veículos ou aos materiais de construção de que trata o _caput_ deste artigo adquiridos após o:~~
 
-I – período de três meses consecutivos de acúmulo de crédito de que trata o inciso II do parágrafo único do art. 1º deste Decreto; e<br>
+I – período de três meses consecutivos de acúmulo de crédito de que trata o inciso II do parágrafo único do art. 1º deste Decreto; e
+
 \- [Redação dada pelo Decreto nº 10.874, de 12-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113545).
 
 ~~I – período de 12 (doze) meses consecutivos de acúmulo de crédito de que trata o inciso II do parágrafo único do art. 1º deste Decreto; e~~
 
 II – início da vigência deste Decreto.
 
-§ 2º O valor do crédito a ser transferido nos termos do inciso I do _caput_ deste artigo fica limitado ainda a 70% (setenta por cento) do valor das máquinas, dos equipamentos, dos veículos ou dos materiais de construção de que trata este artigo.<br>
+§ 2º O valor do crédito a ser transferido nos termos do inciso I do _caput_ deste artigo fica limitado ainda a 70% (setenta por cento) do valor das máquinas, dos equipamentos, dos veículos ou dos materiais de construção de que trata este artigo.
+
 \- [Redação dada pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
 ~~§ 2º O valor do crédito a ser transferido fica limitado ainda a 70% (setenta por cento) do valor das máquinas, dos equipamentos, dos veículos ou dos materiais de construção de que trata este artigo.~~
 
-§ 3º A empresa do grupo econômico destinatária do crédito de que trata o inciso II do _caput_ deste artigo:<br>
+§ 3º A empresa do grupo econômico destinatária do crédito de que trata o inciso II do _caput_ deste artigo:
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
-I – deve registrar o valor do crédito recebido em transferência no Registro 1200 da Escrituração Fiscal Digital – EFD;<br>
+I – deve registrar o valor do crédito recebido em transferência no Registro 1200 da Escrituração Fiscal Digital – EFD;
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
-II – fica dispensada de observar as condições estabelecidas no parágrafo único do art. 1º deste Decreto quando da transferência de que trata o inciso I do _caput_ deste artigo; e<br>
+II – fica dispensada de observar as condições estabelecidas no parágrafo único do art. 1º deste Decreto quando da transferência de que trata o inciso I do _caput_ deste artigo; e
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
-III – pode utilizar o crédito recebido para aquisições realizadas a partir do período de apuração em que tenha sido registrado.<br>
+III – pode utilizar o crédito recebido para aquisições realizadas a partir do período de apuração em que tenha sido registrado.
+
 \- [Acrescido pelo Decreto nº 10.610, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110172/decreto-10610).
 
 Art. 3º O contribuinte deve informar na EFD, por ocasião da transferência de crédito, nos termos previstos em ato do Secretário de Estado da Economia, o valor dos investimentos e as respectivas notas fiscais relacionadas à aquisição das máquinas, dos equipamentos, dos veículos ou dos materiais de construção de que trata o art. 2º deste Decreto, sem prejuízo do acompanhamento, do controle e da fiscalização pela administração tributária.

@@ -1,5 +1,3 @@
-###DEL-005683-0-000-20-07-1943@@@
-
 DECRETO-LEI N. 5.683 – DE 20 DE JULHO 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 60.000,00 para despesas com a Segunda Conferência Nacional de Proteção da In­fância

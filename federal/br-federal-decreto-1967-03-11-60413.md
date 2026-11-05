@@ -1,5 +1,3 @@
-###DEC-060413-0-000-11-03-1967@@@
-
 decreto nº 60.413, de 11 de março de 1967.
 
 Autoriza o Govêrno Municipal de Santos Dumont, Estado de Minas Gerais, a declarar de utilidade pública, para efeito de constituição de servidão, postes de transmissão de energia elétrica.

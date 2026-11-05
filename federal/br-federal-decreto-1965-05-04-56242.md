@@ -1,5 +1,3 @@
-###DEC-056242-0-000-04-05-1965@@@
-
 Decreto nº 56.242, de 4 de maio de 1965.
 
 Autoriza o Rio Light S.A. - Serviços de Eletricidade a construir linha de transmissão.

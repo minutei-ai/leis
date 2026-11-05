@@ -1,5 +1,3 @@
-###DEC-002459-0-000-19-01-1998@@@
-
 DECRETO Nº 2.459 DE 19 DE JANEIRO DE 1998
 
 Dispõe Sobre a execução do Quinto Protocolo Adicional de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, de 14 de abril de 1997.
@@ -66,13 +64,109 @@ Preferência outorgadas pelo Chile
 
 Registrar uma preferência tarifária de 100% para os itens NALADI/SH 4002.19.19, 5902.10.10 e 5902.10.90 com suas correspondentes posições, subposições e glosas segundo o seguinte detalhe:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">NALADI/SH</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DESCRIÇÃO</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PREFER. PORC.</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4002</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">BORRACHA SINTÉTICA E BORRACHA ARTIFICIAL DERIVADAS DOS ÓLEOS, EM FORMAS PRIMÁRIAS OU EM CHAPAS, FOLHAS OU TIRAS; MISTURAS DOS PRODUTOS DA POSIÇÃO 4001 COM PRODUTOS DA PRESENTE POSIÇÃO, EM FORMAS PRIMÁRIAS OU EM CHAPAS, FOLHAS OU TIRAS.</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4002.1</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Borracha de estinero-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR)</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4002.19</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Outros</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4002.19.19</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Outros</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">100</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5902</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">TELAS PARA PNEUMÁTICOS FABRICADAS COM FIOS DE ALTA TENACIDADE NÁILON OU DE OUTRAS POLIAMIDAS, DE POLIÉSTERES OU DE RAIOM DE VISCOSE.</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5902.10</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- De náilon ou de outras polimaidas</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5902.10.10</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Impregnadas com borracha</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">100</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5902.10.90</span></p></td><td style="width:308.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Outras</span></p></td><td style="width:44.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">100</span></p></td></tr></tbody></table>
+NALADI/SH
+
+DESCRIÇÃO
+
+PREFER. PORC.
+
+4002
+
+BORRACHA SINTÉTICA E BORRACHA ARTIFICIAL DERIVADAS DOS ÓLEOS, EM FORMAS PRIMÁRIAS OU EM CHAPAS, FOLHAS OU TIRAS; MISTURAS DOS PRODUTOS DA POSIÇÃO 4001 COM PRODUTOS DA PRESENTE POSIÇÃO, EM FORMAS PRIMÁRIAS OU EM CHAPAS, FOLHAS OU TIRAS.
+
+4002.1
+
+- Borracha de estinero-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR)
+
+4002.19
+
+Outros
+
+4002.19.19
+
+Outros
+
+100
+
+5902
+
+TELAS PARA PNEUMÁTICOS FABRICADAS COM FIOS DE ALTA TENACIDADE NÁILON OU DE OUTRAS POLIAMIDAS, DE POLIÉSTERES OU DE RAIOM DE VISCOSE.
+
+5902.10
+
+- De náilon ou de outras polimaidas
+
+5902.10.10
+
+Impregnadas com borracha
+
+100
+
+5902.10.90
+
+Outras
+
+100
 
 \- Incrementar para 100% a preferência tarifária outorgada no item 5906.99.00, eliminando a observação “Tecidos de náilon 66 para armar pneumáticos” e o cronograma respectivo. Eliminar, também, o registro completo da preferência com margem inicial de 40%, observação “Outros”, e o respectivo cronograma de desgravação.
 
 \- Registrar uma preferência para o item 8504.23.00 com uma margem inicial de 50% e o correspondente cronograma de desgravação, de conformidade com o disposto no Artigo 2, letra b), do Acordo, segundo o seguinte detalhe:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">NALADI/SH</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DESCRIÇÃO</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PREFER. PERC.</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">OBSERVAÇÃO</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8504</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">TRANSFORMADORES ELÉTRICOS, CONVERSORES ELÉTRICOS ESTÁTICOS (POR EXEMPLO: RETIFICADORES) E BOBINAS DE REATÂNCIA (DE AUTO-INDUÇÃO).</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8504.2</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Transformadores de dielétrico líquido:</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8504.23.00</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-- De potência superior a 10.000 KVA</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/10/96 até 31/12/96</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">56</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/97 até 31/12/97</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">63</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/0198 até 31/12/98</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">69</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/99 até 31/12/99</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">75</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/00 até 31/12/00</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">81</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/01 até 31/12/01</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">88</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/02 até 31/12/02</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">94</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor de 1/01/03 até 31/12/03</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:187.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">100</span></p></td><td style="width:103.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Em vigor a partir de 1/01/04</span></p></td></tr></tbody></table>
+NALADI/SH
+
+DESCRIÇÃO
+
+PREFER. PERC.
+
+OBSERVAÇÃO
+
+8504
+
+TRANSFORMADORES ELÉTRICOS, CONVERSORES ELÉTRICOS ESTÁTICOS (POR EXEMPLO: RETIFICADORES) E BOBINAS DE REATÂNCIA (DE AUTO-INDUÇÃO).
+
+8504.2
+
+- Transformadores de dielétrico líquido:
+
+8504.23.00
+
+-- De potência superior a 10.000 KVA
+
+50
+
+- Em vigor de 1/10/96 até 31/12/96
+
+56
+
+- Em vigor de 1/01/97 até 31/12/97
+
+63
+
+- Em vigor de 1/0198 até 31/12/98
+
+69
+
+- Em vigor de 1/01/99 até 31/12/99
+
+75
+
+- Em vigor de 1/01/00 até 31/12/00
+
+81
+
+- Em vigor de 1/01/01 até 31/12/01
+
+88
+
+- Em vigor de 1/01/02 até 31/12/02
+
+94
+
+- Em vigor de 1/01/03 até 31/12/03
+
+100
+
+- Em vigor a partir de 1/01/04
 
 b) No Anexo 2
 
@@ -106,7 +200,33 @@ Preferências outorgadas pelo MERCOSUL
 
 \- Registrar uma preferência outorgada pelo Brasil nos seguintes termos e condições:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">NALADI/SH</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DESCRIÇÃO</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PREFER. PERC.</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">OBSERVAÇÃO</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2103</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PREPARAÇÕES PARA MOLHOS E MOLHOS PREPARADOS; CONDIMENTOS E TEMPEROS COMPOSTOS, FARINHA DE MOSTARDA E MOSTARDA PREPARADA</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2103.90</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Outros</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2103.90.90</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Outros</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">34</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PREFERÊNCIA OUTORGADA PELO BRASIL</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PREFERÊNCIA EM VIGOR ATÉ 31/12/2007</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:223.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">VER REGIME APLICÁVEL DE 1/1/2008 NO ANEXO 6</span></p></td></tr></tbody></table>
+NALADI/SH
+
+DESCRIÇÃO
+
+PREFER. PERC.
+
+OBSERVAÇÃO
+
+2103
+
+PREPARAÇÕES PARA MOLHOS E MOLHOS PREPARADOS; CONDIMENTOS E TEMPEROS COMPOSTOS, FARINHA DE MOSTARDA E MOSTARDA PREPARADA
+
+2103.90
+
+Outros
+
+2103.90.90
+
+Outros
+
+34
+
+PREFERÊNCIA OUTORGADA PELO BRASIL
+
+PREFERÊNCIA EM VIGOR ATÉ 31/12/2007
+
+VER REGIME APLICÁVEL DE 1/1/2008 NO ANEXO 6
 
 \- Eliminar o registro da preferência outorgada pela Argentina no item 2104.10.00 para o produto “Preparações para caldos e sopas; caldos e sopas preparadas, de carne vacum e de frango”, com sua correspondente preferência tarifária (10%) e observações.
 
@@ -166,7 +286,59 @@ República Argentina
 
 \- Eliminar o registro das seguintes medidas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">DESCRIÇÃO DO PRODUTO AFETADO PELA MEDIDA</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">TIPO DE MEDIDA</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">NORMA LEGAL</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">SEMENTES DE QUER-QUS, NIGRA, PNELLOS, LAURIFOLIAS E MALANDICA</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PROIBIÇÃO DE IMPORTAR</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RES. SAG N</span><span style="font-family:Arial; font-size:10pt">º 121/81</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">TODO TIPO DE GADO</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PROÍBE A IMPORTAÇÃO</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RES. 94/77</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">MOEDAS DE OURO E OUTROS VALORES MOBILIÁRIOS</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">AUTORIZAÇÃO PARA IMPORTAR</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RES. 631/91</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">PRODUTOS VETERINÁRIOS</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">INSCRIÇÃO E AUTORIZAÇÃO PRÉVIA PARA IMPORTAR</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">DECRETO N</span><span style="font-family:Arial; font-size:10pt">º 583/67</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">RES. SENASA 69/93</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">BOVINOS</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">AUTORIZAÇÃO PARA IMPORTAR</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RES. SENASA 168/82 591/83</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">FRUTAS FRESCAS, SECAS/ DESIDRATADAS</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">INSPEÇÃO A IMPORTAÇÃO</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">DECRETO-LEI N</span><span style="font-family:Arial; font-size:10pt">º</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">9.244/63</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">FERTILIZANTES</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">REGISTRO E CONTROLE DE QUALIDADE</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">DECRETO-LEI N</span><span style="font-family:Arial; font-size:10pt">º 9244/63 (IASCAV)</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">SEMENTES DE ALFAFA</span></p></td><td style="width:126.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RESTRIÇÃO PARA IMPORTAR</span></p></td><td style="width:98.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:9pt">RESOLUÇÃO 42/88</span></p></td></tr></tbody></table>
+DESCRIÇÃO DO PRODUTO AFETADO PELA MEDIDA
+
+TIPO DE MEDIDA
+
+NORMA LEGAL
+
+SEMENTES DE QUER-QUS, NIGRA, PNELLOS, LAURIFOLIAS E MALANDICA
+
+PROIBIÇÃO DE IMPORTAR
+
+RES. SAG Nº 121/81
+
+TODO TIPO DE GADO
+
+PROÍBE A IMPORTAÇÃO
+
+RES. 94/77
+
+MOEDAS DE OURO E OUTROS VALORES MOBILIÁRIOS
+
+AUTORIZAÇÃO PARA IMPORTAR
+
+RES. 631/91
+
+PRODUTOS VETERINÁRIOS
+
+INSCRIÇÃO E AUTORIZAÇÃO PRÉVIA PARA IMPORTAR
+
+DECRETO Nº 583/67  RES. SENASA 69/93
+
+BOVINOS
+
+AUTORIZAÇÃO PARA IMPORTAR
+
+RES. SENASA 168/82 591/83
+
+FRUTAS FRESCAS, SECAS/ DESIDRATADAS
+
+INSPEÇÃO A IMPORTAÇÃO
+
+DECRETO-LEI Nº  9.244/63
+
+FERTILIZANTES
+
+REGISTRO E CONTROLE DE QUALIDADE
+
+DECRETO-LEI Nº 9244/63 (IASCAV)
+
+SEMENTES DE ALFAFA
+
+RESTRIÇÃO PARA IMPORTAR
+
+RESOLUÇÃO 42/88
 
 República Federativa do Brasil
 
@@ -236,4 +408,12 @@ A Secretaria-Geral da Associação será depositaria do presente Protocolo”, d
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo, na cidade de Montevidéu, aos quatorze dias do mês de abril de mil novecentos e noventa e sete, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Argentina: Jesús Sabra</span></p></td><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil: José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai: Efraín Darío Centurión</span></p></td><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai: Adolfo Castells</span></p></td></tr><tr><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Chile: Augusto Bermúdez Arancibia</span></p></td><td style="width:211.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pelo Governo da República da Argentina: Jesús Sabra
+
+Pelo Governo da República Federativa do Brasil: José Artur Denot Medeiros
+
+Pelo Governo da República do Paraguai: Efraín Darío Centurión
+
+Pelo Governo da República Oriental do Uruguai: Adolfo Castells
+
+Pelo Governo da República do Chile: Augusto Bermúdez Arancibia

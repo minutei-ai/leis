@@ -16,8 +16,10 @@ Art. 5º Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 10 de Março de 2020.
 
-VETER MARTINS<br>
+VETER MARTINS
+
 Prefeito Municipal em Exercício
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

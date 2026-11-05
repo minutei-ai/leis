@@ -1,5 +1,3 @@
-###DEC-071611-0-000-22-12-1972@@@
-
 DECRETO Nº 71.611 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento ao Curso de Ciências e Curso de Estudos Sociais, ministrados pela Faculdade Salesiana de Filosofia, Ciências e Letras de Lorena, mantida pela Inspetoria Salesiana do Sul do Brasil.

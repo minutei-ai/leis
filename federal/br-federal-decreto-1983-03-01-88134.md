@@ -1,5 +1,3 @@
-###DEC-088134-0-000-01-03-1983@@@
-
 DeCreto nº 88.134 de 01 de março de 1983
 
 Cria o Sétimo Comando Aéreo Regional e dá outras providências.

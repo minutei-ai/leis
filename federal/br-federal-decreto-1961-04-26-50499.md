@@ -1,5 +1,3 @@
-###DEC-050499-0-000-26-04-1961@@@
-
 DECRETO Nº 50.499, DE 26 DE ABRIL DE 1961.
 
 Torna sem efeito o Decreto nº 49.879, de 11 de janeiro de 1961, que alterou a lotação numérica de repartições atendidas pelo Quadro Permanente do Ministério.

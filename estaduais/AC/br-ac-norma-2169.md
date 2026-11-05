@@ -1,6 +1,10 @@
 > **LEI Nº 3.412, DE 14 DE NOVEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Acresce dispositivos à Lei 1.351, de 29 de dezembro de 2000 e revoga a Lei nº 3.147, de 26 de julho de 2016.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Acresce dispositivos à Lei 1.351, de 29 de dezembro de 2000 e revoga a Lei nº 3.147, de 26 de julho de 2016.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

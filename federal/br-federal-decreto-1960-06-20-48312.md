@@ -1,5 +1,3 @@
-###DEC-048312-0-000-20-06-1960@@@
-
 DECRETO Nº 48.312, DE 20 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Júlio Bettoi Cardoso a pesquisar argila, no município de Mogi das Cruzes, Estado de São Paulo.

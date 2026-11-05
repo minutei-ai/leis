@@ -1,5 +1,3 @@
-###DEC-077819-0-000-15-06-1976@@@
-
 DECRETO Nº 77.819, DE 15 DE JUNHO DE 1976.
 
 Concede reconhecimento aos cursos de Matemática, de Física e de Química do Instituto de Tecnologia de Governador Valadares, com sede na Cidade de Governador Valadares - Estado de Minas Gerais.

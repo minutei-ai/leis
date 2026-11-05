@@ -1,5 +1,3 @@
-###DEC-084846-0-000-24-06-1980@@@
-
 Decreto nº 84.846, de 24 de junho de 1980.
 
 Outorga ao Departamento de Águas e Energia Elétrica do Estado de Minas Gerais - DAE concessão para o aproveitamento da energia hidráulica de um trecho do Ribeirão das Lages, no Município de Coromandel, Estado de Minas Gerais.

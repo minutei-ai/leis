@@ -1,5 +1,3 @@
-###DEC-055676-0-000-01-02-1965@@@
-
 DECRETO Nº 55.676, DE 1º DE FEVEREIRO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da “Ultramar - Companhia Brasileira de Seguros”, relativa ao aumento do capital social.

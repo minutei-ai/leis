@@ -1,5 +1,3 @@
-###DEC-064244-0-000-21-03-1969@@@
-
 DECRETO Nº 64.244, DE 21 DE MARçO DE 1969.
 
 Concede a Alberto Bartholomei o direito de lavrar água mineral, no município de Pinhal, Estado de São Paulo.

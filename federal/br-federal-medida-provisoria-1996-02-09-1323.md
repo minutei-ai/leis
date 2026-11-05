@@ -1,7 +1,3 @@
-1
-
-###MPV-001323-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.323, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre os fundos que especifica e dá outras providências.

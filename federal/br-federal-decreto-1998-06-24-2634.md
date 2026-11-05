@@ -1,5 +1,3 @@
-###DEC-002634-0-000-24-06-1998@@@
-
 DECRETO Nº 2.634, DE 24 DE JUNHO DE 1998
 
 Altera os Anexos l, ll, Ill, IV e V e os art. 5º e 14 do Decreto nº 2.451, de 5 de janeiro de 1998, e dá outras providências.

@@ -38,28 +38,36 @@ VII – estabelecer o Conselho Estadual do Artesanato de Goiás, que terá a fun
 
 VIII – estabelecer o Selo do Artesanato de Goiás e da Comissão de Curadoria.
 
-IX – estimular a valorização da identidade goiana e a promoção de seus produtos artesanais, em âmbito nacional;<br>
+IX – estimular a valorização da identidade goiana e a promoção de seus produtos artesanais, em âmbito nacional;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-X – estimular a identificação e o cadastramento dos artesãos a fim de conferir maior visibilidade aos seus produtos;<br>
+X – estimular a identificação e o cadastramento dos artesãos a fim de conferir maior visibilidade aos seus produtos;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XI – estimular a expansão e a renovação da produção artesanal e orgânica do Estado de Goiás;<br>
+XI – estimular a expansão e a renovação da produção artesanal e orgânica do Estado de Goiás;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XII – estimular a integração da atividade artesanal e orgânica com outros setores e programas de desenvolvimento sustentável, em especial, com o turismo;<br>
+XII – estimular a integração da atividade artesanal e orgânica com outros setores e programas de desenvolvimento sustentável, em especial, com o turismo;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XIII – incentivar a qualificação da produção artesanal e orgânica, a restauração das técnicas tradicionais de produção e o aperfeiçoamento dos métodos e processos de produção;<br>
+XIII – incentivar a qualificação da produção artesanal e orgânica, a restauração das técnicas tradicionais de produção e o aperfeiçoamento dos métodos e processos de produção;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XIV – (VETADO);<br>
+XIV – (VETADO);
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XV – estimular a comercialização da produção local por meio da organização de eventos, rodadas de negociação e pontos de comercialização e exposição dos produtos;<br>
+XV – estimular a comercialização da produção local por meio da organização de eventos, rodadas de negociação e pontos de comercialização e exposição dos produtos;
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
-XVI – estimular a obtenção de certificação da produção artesanal e orgânica.<br>
+XVI – estimular a obtenção de certificação da produção artesanal e orgânica.
+
 \- [Acrescido pela Lei nº 21.779, de 16-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106696/lei-21779).
 
 Art. 2º O Estado de Goiás, por meio da Secretaria de Estado da Retomada, poderá estabelecer parcerias com órgãos e entidades públicos e privados, para alcançar os objetivos e as finalidades do Sistema.
@@ -253,8 +261,6 @@ Art. 18. Fica revogada a Lei estadual nº [20.554](https://legisla.casacivil.go.
 Art. 19. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de março de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

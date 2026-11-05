@@ -1,5 +1,3 @@
-###DEC-091580-0-000-29-08-1985@@@
-
 Decreto nº 91.580, de 29 de agosto de 1985
 
 Concede à Casa da Moeda do Brasil - CMB autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-076983-0-000-05-01-1976@@@
-
 Decreto nº 76.983, de 5 de janeiro de 1976
 
 Concede a CIVA - Companhia Vale do Amazonas o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

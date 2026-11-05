@@ -1,5 +1,3 @@
-###DEL-006178-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.178 – DE 6 DE JANEIRO DE 1944
 
 Extingue a Artilharia Divisionária da 7ª Divisão de Infantaria com sede na 7ª Região Militar

@@ -1,5 +1,3 @@
-###DEC-082855-0-000-18-12-1978@@@
-
 Decreto nº 82.855, de 18 de dezembro de 1978.
 
 Autoriza a cessão, sob o registro de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.
@@ -21,8 +19,6 @@ Brasília, 18 de dezembro de 1978; 157º da independência e 90º da República.
 ERNESTO GEISEL
 
 Mário Henrique Simonsen
-
-###DEC-082855-0-000-18-12-1978@@@REP01+++
 
 (\*) Decreto nº 82.855, de 18 de dezembro de 1978.
 

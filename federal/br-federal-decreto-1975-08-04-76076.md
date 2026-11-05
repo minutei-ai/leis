@@ -1,5 +1,3 @@
-###DEC-076076-0-000-04-08-1975@@@
-
 DECRETO Nº 76.076 - de 4 de agosto de 1975
 
 Cria Depósitos de Subsistência no Ministério do Exército, e dá outras providências.

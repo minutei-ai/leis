@@ -1,5 +1,3 @@
-###DEC-097635-0-000-10-04-1989@@@
-
 DECRETO N° 97.635, DE 10 DE ABRIL DE 1989
 
 Regula o artigo 27 do Código Florestal e dispõe sobre a prevenção e combate a incêndio florestal, e dá outras providências.

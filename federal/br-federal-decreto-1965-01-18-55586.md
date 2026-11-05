@@ -1,5 +1,3 @@
-###DEC-055586-0-000-18-01-1965@@@
-
 DECRETO N° 55.586, DE 18 DE JANEIRO DE 1965.
 
 Altera o art. 1° do Decreto n° 54.975, de 11 de novembro de 1964.

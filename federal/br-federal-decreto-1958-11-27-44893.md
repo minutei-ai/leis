@@ -1,5 +1,3 @@
-###DEC-044893-0-000-27-11-1958@@@
-
 decreto nº 44.893, de 27 de novembro de 1958.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-Mensalista de repartição do Ministério da Agricultura, na forma que menciona.

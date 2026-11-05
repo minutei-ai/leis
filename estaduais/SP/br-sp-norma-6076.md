@@ -1,19 +1,29 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=6076)
-
 # LEI Nº 9.899, DE 23 DE DEZEMBRO DE 1997
 
 ### _Declara de utilidade pública a "Associação Beneficente Oncológica de Sorocaba - ABOS", em Sorocaba._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** É declarada de utilidade pública a Associação Beneficente Oncológica de Sorocaba - ABOS, com sede em Sorocaba.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 23 de dezembro de 1997.<br>
-MÁRIO COVAS<br>
-Belisário dos Santos Júnior<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Walter Feldman<br>
-Secretário - Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** É declarada de utilidade pública a Associação Beneficente Oncológica de Sorocaba - ABOS, com sede em Sorocaba.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 23 de dezembro de 1997.
+
+MÁRIO COVAS
+
+Belisário dos Santos Júnior
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Walter Feldman
+
+Secretário - Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 23 de dezembro de 1997.

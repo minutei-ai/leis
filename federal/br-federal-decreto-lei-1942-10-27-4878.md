@@ -1,5 +1,3 @@
-###DEL-004878-0-000-27-10-1942@@@
-
 DECRETO-LEI N. 4.878 – DE 27 DE OUTUBRO DE 1942
 
 Dispõe a respeito da incidência do imposto de consumo sobre açucar, reduz as taxas do mesmo imposto sobre aguardente e álcool, e dá outras providências

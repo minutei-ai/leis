@@ -1,5 +1,3 @@
-###DEC-068718-0-000-07-06-1971@@@
-
 DECRETO Nº 68.718 - DE 7 DE JUNHO DE 1971.
 
 Altera o Decreto número 66.204, de 13 de fevereiro de 1970, que regulamentou o Fundo Especial para calamidades Públicas - FUNCAP.

@@ -1,5 +1,3 @@
-###DEC-046392-0-000-08-07-1959@@@
-
 DECRETO Nº 46.392, DE 8 DE JULHO DE 1959.
 
 Regulamenta a restituição do Impôsto Único sôbre Energia Elétrica, prevista no § 2º do art. 4º da Lei número 2.308, de 31 de agôsto de 1954.

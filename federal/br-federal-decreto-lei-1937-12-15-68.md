@@ -1,5 +1,3 @@
-###DEL-000068-0-000-15-12-1937@@@
-
 DECRETO-LEI N. 68 – DE 15 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de 16.072:529$900 de verbas que especifica

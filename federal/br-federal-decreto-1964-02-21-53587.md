@@ -1,5 +1,3 @@
-###DEC-053587-0-000-21-02-1964@@@
-
 DECRETO Nº 53.587, DE 21 DE FEVEREIRO DE 1964.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a empréstimos a serem contratados pela Companhia Siderúrgica Nacional.

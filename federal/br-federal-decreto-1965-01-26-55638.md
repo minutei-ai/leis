@@ -1,5 +1,3 @@
-###DEC-055638-0-000-26-01-1965@@@
-
 DECRETO Nº 55.638, DE 26 DE JANEIRO DE 1965.
 
 Concede permissão à Cia. Agrícola e Industrial Cícero Prado, com sede na Fazenda “Coruputuna”, em Pindamonhagaba, Estado de São Paulo, para funcionar com suas seções de fabricação de papel e de celulose aos domingos e nos feriados civis e religiosos.

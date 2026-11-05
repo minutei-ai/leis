@@ -1,5 +1,3 @@
-###DEC-079732-0-000-26-05-1977@@@
-
 DECRETO Nº 79.732, DE 26 DE MAIO DE 1977.
 
 Concede reconhecimento ao curso de letras, da Faculdade de Filosofia, Ciências e Letras das Faculdades Integradas Santo Antônio, com sede na Cidade de São Paulo, Estado de São Paulo.

@@ -1,3394 +1,6777 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=71961)
-
 # LEI Nº 12.621, DE 04 DE JUNHO DE 2007
 
 ## (Projeto de lei nº 15/2007, do Deputado Romeu Tuma - PMDB e outros)
 
 ### _Revoga as leis e resoluções que especifica, relativas ao período compreendido entre os anos de 1835 e 1890._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Ficam revogadas as seguintes leis e resoluções provinciais:<br>
-**I -** Lei Provincial nº 1, de 9 de março de 1835;<br>
-**II -** Lei Provincial nº 2, de 9 de março de 1835;<br>
-**III -** Lei Provincial nº 3, de 9 de março de 1835;<br>
-**IV -** Lei Provincial nº 4, de 12 de março de 1835;<br>
-**V -** Lei Provincial nº 5, de 12 de março de 1835;<br>
-**VI -** Lei Provincial nº 6, de 12 de março de 1835;<br>
-**VII -** Lei Provincial nº 7, de 23 de março de 1835;<br>
-**VIII -** Lei Provincial nº 8, de 23 de março de 1835;<br>
-**IX -** Lei Provincial nº 9, de 24 de março de 1835;<br>
-**X -** Lei Provincial nº 10, de 24 de março de 1835;<br>
-**XI -** Lei Provincial nº 11, de 24 de março de 1835;<br>
-**XII -** Lei Provincial nº 12, de 4 de abril de 1835;<br>
-**XIII -** Lei Provincial nº 13, de 4 de abril de 1835;<br>
-**XIV -** Lei Provincial nº 14, de 4 de abril de 1835;<br>
-**XV -** Lei Provincial nº 15, de 11 de abril de 1835;<br>
-**XVI -** Lei Provincial nº 16, de 11 de abril de 1835;<br>
-**XVII -** Lei Provincial nº 17, de 11 de abril de 1835;<br>
-**XVIII -** Lei Provincial nº 18, de 11 de abril de 1835;<br>
-**XIX -** Lei Provincial nº 19, de 11 de abril de 1835;<br>
-**XX -** Lei Provincial nº 1, de 30 de janeiro de 1836;<br>
-**XXI -** Lei Provincial nº 2, de 9 de fevereiro de 1836;<br>
-**XXII -** Lei Provincial nº 3, de 9 de fevereiro de 1836;<br>
-**XXIII -** Lei Provincial nº 4, de 12 de fevereiro de 1836;<br>
-**XXIV -** Lei Provincial nº 5, de 19 de fevereiro de 1836;<br>
-**XXV -** Lei Provincial nº 6, de 19 de fevereiro de 1836;<br>
-**XXVI -** Lei Provincial nº 7, de 19 de fevereiro de 1836;<br>
-**XXVII -** Lei Provincial nº 8, de 19 de fevereiro de 1836;<br>
-**XXVIII -** Lei Provincial nº 9, de 19 de fevereiro de 1836;<br>
-**XXIX -** Lei Provincial nº 10, de 23 de fevereiro de 1836;<br>
-**XXX -** Lei Provincial nº 11, de 23 de fevereiro de 1836;<br>
-**XXXI -** Lei Provincial nº 12, de 23 de fevereiro de 1836;<br>
-**XXXII** \- Lei Provincial nº 13, de 23 de fevereiro de 1836;<br>
-**XXXIII -** Lei Provincial nº 14, de 23 de fevereiro de 1836;<br>
-**XXXIV -** Lei Provincial nº 15, de 27 de fevereiro de 1836;<br>
-**XXXV -** Lei Provincial nº 16, de 27 de fevereiro de 1836;<br>
-**XXXVI -** Lei Provincial nº 17, de 27 de fevereiro de 1836;<br>
-**XXXVII -** Lei Provincial nº 19, de 27 de fevereiro de 1836;<br>
-**XXXVIII -** Lei Provincial nº 20, de 27 de fevereiro de 1836;<br>
-**XXXIX -** Lei Provincial nº 21, de 29 de fevereiro de 1836;<br>
-**XL -** Lei Provincial nº 22, de 5 de março de 1836;<br>
-**XLI -** Lei Provincial nº 23, de 5 de março de 1836;<br>
-**XLII -** Lei Provincial nº 24, de 5 de março de 1836;<br>
-**XLIII -** Lei Provincial nº 25, de 5 de março de 1836;<br>
-**XLIV -** Lei Provincial nº 26, de 7 de março de 1836;<br>
-**XLV -** Lei Provincial nº 27, de 7 de março de 1836;<br>
-**XLVI -** Lei Provincial nº 28, de 7 de março de 1836;<br>
-**XLVII -** Lei Provincial nº 29, de 7 de março de 1836;<br>
-**XLVIII -** Lei Provincial nº 30, de 7 de março de 1836;<br>
-**XLIX -** Lei Provincial nº 31, de 10 de março de 1836;<br>
-**L -** Lei Provincial nº 32, de 18 de março de 1836;<br>
-**LI -** Lei Provincial nº 33, de 18 de março de 1836;<br>
-**LII -** Lei Provincial nº 34, de 18 de março de 1836;<br>
-**LIII -** Lei Provincial nº 35, de 18 de março de 1836;<br>
-**LIV -** Lei Provincial nº 36, de 18 de março de 1836;<br>
-**LV -** Lei Provincial nº 37, de 18 de março de 1836;<br>
-**LVI -** Lei Provincial nº 38, de 18 de março de 1836;<br>
-**LVII -** Lei Provincial nº 40, de 18 de março de 1836;<br>
-**LVIII -** Lei Provincial nº 41, de 21 de março de 1836;<br>
-**LIX -** Lei Provincial nº 42, de 21 de março de 1836;<br>
-**LX -** Lei Provincial nº 43, de 21 de março de 1836;<br>
-**LXI -** Lei Provincial nº 1, de 18 de janeiro de 1837;<br>
-**LXII -** Lei Provincial nº 2, de 22 de janeiro de 1837;<br>
-**LXIII -** Lei Provincial nº 3, de 30 de janeiro de 1837;<br>
-**LXIV -** Lei Provincial nº 5, de 7 de fevereiro de 1837;<br>
-**LXV -** Lei Provincial nº 6, de 7 de fevereiro de 1837;<br>
-**LXVI -** Lei Provincial nº 7, de 8 de fevereiro de 1837;<br>
-**LXVII -** Lei Provincial nº 8, de 8 de fevereiro de 1837;<br>
-**LXVIII -** Lei Provincial nº 9, de 9 de fevereiro de 1837;<br>
-**LXIX -** Lei Provincial nº 10, de 1º de março de 1837;<br>
-**LXX -** Lei Provincial nº 11, de 2 de março de 1837;<br>
-**LXXI -** Lei Provincial nº 12, de 3 de março de 1837;<br>
-**LXXII -** Lei Provincial nº 13, de 6 de março de 1837;<br>
-**LXXIII -** Lei Provincial nº 14, de 10 de março de 1837;<br>
-**LXXIV -** Lei Provincial nº 15, de 11 de março de 1837;<br>
-**LXXV -** Lei Provincial nº 16, de 13 de março de 1837;<br>
-**LXXVI -** Lei Provincial nº 17, de 13 de março de 1837;<br>
-**LXXVII -** Lei Provincial nº 18, de 14 de março de 1837;<br>
-**LXXVIII -** Lei Provincial nº 19, de 14 de março de 1837;<br>
-**LXXIX -** Lei Provincial nº 20, de 15 de março de 1837;<br>
-**LXXX -** Lei Provincial nº 21, de 15 de março de 1837;<br>
-**LXXXI -** Lei Provincial nº 22, de 16 de março de 1837;<br>
-**LXXXII -** Lei Provincial nº 23, de 16 de março de 1837;<br>
-**LXXXIII -** Lei Provincial nº 24, de 17 de março de 1837;<br>
-**LXXXIV -** Lei Provincial nº 25, de 17 de março de 1837;<br>
-**LXXXV -** Lei Provincial nº 26, de 18 de março de 1837;<br>
-**LXXXVI -** Lei Provincial nº 27, de 18 de março de 1837;<br>
-**LXXXVII -** Lei Provincial nº 28, de 18 de março de 1837;<br>
-**LXXXVIII -** Lei Provincial nº 1, de 29 de janeiro de 1838;<br>
-**LXXXIX -** Lei Provincial nº 2, de 29 de janeiro de 1838;<br>
-**XC -** Lei Provincial nº 3, de 29 de janeiro de 1838;<br>
-**XCI -** Lei Provincial nº 4, de 29 de janeiro de 1838;<br>
-**XCII -** Lei Provincial nº 5, de 3 de fevereiro de 1838;<br>
-**XCIII -** Lei Provincial nº 6, de 3 de fevereiro de 1838;<br>
-**XCIV -** Lei Provincial nº 7, de 9 de fevereiro de 1838;<br>
-**XCV -** Lei Provincial nº 8, de 20 de fevereiro de 1838;<br>
-**XCVI -** Lei Provincial nº 9, de 20 de fevereiro de 1838;<br>
-**XCVII -** Lei Provincial nº 10, de 21 de fevereiro de 1838;<br>
-**XCVIII -** Lei Provincial nº 11, de 26 de fevereiro de 1838;<br>
-**XCIX -** Lei Provincial nº 12, de 26 de fevereiro de 1838;<br>
-**C -** Lei Provincial nº 13, de 26 de fevereiro de 1838;<br>
-**CI -** Lei Provincial nº 14, de 27 de fevereiro de 1838;<br>
-**CII -** Lei Provincial nº 15, de 27 de fevereiro de 1838;<br>
-**CIII -** Lei Provincial nº 16, de 27 de fevereiro de 1838;<br>
-**CIV -** Lei Provincial nº 17, de 28 de fevereiro de 1838;<br>
-**CV -** Lei Provincial nº 18, de 28 de fevereiro de 1838;<br>
-**CVI -** Lei Provincial nº 19, de 1º de março de 1838;<br>
-**CVII -** Lei Provincial nº 20, de 1º de março de 1838;<br>
-**CVIII -** Lei Provincial nº 21, de 5 de março de 1838;<br>
-**CIX -** Lei Provincial nº 22, de 30 de março de 1838;<br>
-**CX -** Lei Provincial nº 23, de 30 de março de 1838;<br>
-**CXI -** Lei Provincial nº 24, de 30 de março de 1838;<br>
-**CXII -** Lei Provincial nº 25, de 30 de março de 1838;<br>
-**CXIII -** Lei Provincial nº 26, de 30 de março de 1838;<br>
-**CXIV -** Lei Provincial nº 27, de 31 de março de 1838;<br>
-**CXV -** Lei Provincial nº 28, de 31 de março de 1838;<br>
-**CXVI -** Lei Provincial nº 29, de 31 de março de 1838;<br>
-**CXVII -** Lei Provincial nº 30, de 31 de março de 1838;<br>
-**CXVIII -** Lei Provincial nº 1, de 28 de janeiro de 1839;<br>
-**CXIX -** Lei Provincial nº 2, de 30 de janeiro de 1839;<br>
-**CXX -** Lei Provincial nº 3, de 16 de fevereiro de 1839;<br>
-**CXXI -** Lei Provincial nº 4, de 24 de fevereiro de 1839;<br>
-**CXXII -** Lei Provincial nº 5, de 24 de fevereiro de 1839;<br>
-**CXXIII -** Lei Provincial nº 6, de 4 de março de 1839;<br>
-**CXXIV -** Lei Provincial nº 7, de 14 de março de 1839;<br>
-**CXXV -** Lei Provincial nº 8, de 21 de março de 1839;<br>
-**CXXVI -** Lei Provincial nº 9, de 21 de março de 1839;<br>
-**CXXVII -** Lei Provincial nº 10, de 23 de março de 1839;<br>
-**CXXVIII -** Lei Provincial nº 11, de 23 de março de 1839;<br>
-**CXXIX -** Lei Provincial nº 12, de 3 de abril de 1839;<br>
-**CXXX -** Lei Provincial nº 1, de 8 de fevereiro de 1840;<br>
-**CXXXI -** Lei Provincial nº 2, de 21 de fevereiro de 1840;<br>
-**CXXXII -** Lei Provincial nº 3, de 21 de fevereiro de 1840;<br>
-**CXXXIII -** Lei Provincial nº 4, de 21 de fevereiro de 1840;<br>
-**CXXXIV -** Lei Provincial nº 5, de 26 de fevereiro de 1840;<br>
-**CXXXV -** Lei Provincial nº 6, de 27 de fevereiro de 1840;<br>
-**CXXXVI -** Lei Provincial nº 7, de 28 de fevereiro de 1840;<br>
-**CXXXVII -** Lei Provincial nº 8, de 6 de março de 1840;<br>
-**CXXXVIII -** Lei Provincial nº 9, de 9 de março de 1840;<br>
-**CXXXIX -** Lei Provincial nº 10, de 10 de março de 1840;<br>
-**CXL -** Lei Provincial nº 11, de 11 de março de 1840;<br>
-**CXLI -** Lei Provincial nº 12, de 12 de março de 1840;<br>
-**CXLII** \- Lei Provincial nº 13, de 16 de março de 1840;<br>
-**CXLIII -** Lei Provincial nº 14, de 17 de março de 1840;<br>
-**CXLIV -** Lei Provincial nº 15, de 18 de março de 1840;<br>
-**CXLV -** Lei Provincial nº 16, de 23 de março de 1840;<br>
-**CXLVI -** Lei Provincial nº 17, de 26 de março de 1840;<br>
-**CXLVII -** Lei Provincial nº 1, de 20 de janeiro de 1841;<br>
-**CXLVIII -** Lei Provincial nº 2, de 21 de janeiro de 1841;<br>
-**CXLIX -** Lei Provincial nº 3, de 22 de janeiro de 1841;<br>
-**CL -** Lei Provincial nº 4, de 23 de janeiro de 1841;<br>
-**CLI -** Lei Provincial nº 5, de 26 de janeiro de 1841;<br>
-**CLII -** Lei Provincial nº 6, de 27 de janeiro de 1841;<br>
-**CLIII -** Lei Provincial nº 7, de 3 de fevereiro de 1841;<br>
-**CLIV -** Lei Provincial nº 8, de 4 de fevereiro de 1841;<br>
-**CLV -** Lei Provincial nº 9, de 12 de fevereiro de 1841;<br>
-**CLVI -** Lei Provincial nº 10, de 20 de fevereiro de 1841;<br>
-**CLVII -** Lei Provincial nº 11, de 20 de fevereiro de 1841;<br>
-**CLVIII -** Lei Provincial nº 12, de 20 de fevereiro de 1841;<br>
-**CLIX -** Lei Provincial nº 13, de 25 de fevereiro de 1841;<br>
-**CLX -** Lei Provincial nº 14, de 25 de fevereiro de 1841;<br>
-**CLXI -** Lei Provincial nº 15, de 25 de fevereiro de 1841<br>
-**CLXII -** Lei Provincial nº 16, de 1º de março de 1841;<br>
-**CLXIII -** Lei Provincial nº 17, de 1º de março de 1841;<br>
-**CLXIV -** Lei Provincial nº 18, de 04 de março de 1841;<br>
-**CLXV -** Lei Provincial nº 19, de 10 de março de 1841;<br>
-**CLXVI -** Lei Provincial nº 20, de 12 de março de 1841;<br>
-**CLXVII -** Lei Provincial nº 21, de 12 de março de 1841;<br>
-**CLXVIII -** Lei Provincial nº 22, de 12 de março de 1841;<br>
-**CLXIX -** Lei Provincial nº 23, de 12 de março de 1841;<br>
-**CLXX -** Lei Provincial nº 24, de 20 de março de 1841;<br>
-**CLXXI -** Lei Provincial nº 25, de 23 de março de 1841;<br>
-**CLXXII -** Lei Provincial nº 26, de 15 de março de 1841;<br>
-**CLXXIII -** Lei Provincial nº 1, de 15 de janeiro de 1842;<br>
-**CLXXIV -** Lei Provincial nº 2, de 22 de janeiro de 1842;<br>
-**CLXXV -** Lei Provincial nº 4, de 5 de fevereiro de 1842;<br>
-**CLXXVI -** Lei Provincial nº 5, de 5 de fevereiro de 1842;<br>
-**CLXXVII -** Lei Provincial nº 6, de 9 de fevereiro de 1842;<br>
-**CLXXVIII -** Lei Provincial nº 7, de 9 de fevereiro de 1842;<br>
-**CLXXIX -** Lei Provincial nº 8, de 9 de fevereiro de 1842;<br>
-**CLXXX -** Lei Provincial nº 9, de 18 de fevereiro de 1842;<br>
-**CLXXXI -** Lei Provincial nº 11, de 22 de fevereiro de 1842;<br>
-**CLXXXII -** Lei Provincial nº 12, de 28 de fevereiro de 1842;<br>
-**CLXXXIII -** Lei Provincial nº 13, de 4 de março de 1842;<br>
-**CLXXXIV -** Lei Provincial nº 14, de 4 de março de 1842;<br>
-**CLXXXV -** Lei Provincial nº 15, de 4 de março de 1842;<br>
-**CLXXXVI -** Lei Provincial nº 16, de 4 de março de 1842;<br>
-**CLXXXVII -** Lei Provincial nº 17, de 4 de março de 1842;<br>
-**CLXXXVIII -** Lei Provincial nº 18, de 4 de março de 1842;<br>
-**CLXXXIX -** Lei Provincial nº 20, de 8 de março de 1842;<br>
-**CXC -** Lei Provincial nº 21, de 8 de março de 1842;<br>
-**CXCI -** Lei Provincial nº 22, de 8 de março de 1842;<br>
-**CXCII -** Lei Provincial nº 23, de 8 de março de 1842;<br>
-**CXCIII -** Lei Provincial nº 24, de 8 de março de 1842;<br>
-**CXCIV -** Lei Provincial nº 25, de 8 de março de 1842;<br>
-**CXCV -** Lei Provincial nº 26, de 10 de março de 1842;<br>
-**CXCVI -** Lei Provincial nº 28, de 10 de março de 1842;<br>
-**CXCVII -** Lei Provincial nº 29, de 10 de março de 1842;<br>
-**CXCVIII -** Lei Provincial nº 1, de 23 de janeiro de 1843;<br>
-**CXCIX -** Lei Provincial nº 2, de 23 de janeiro de 1843;<br>
-**CC -** Lei Provincial nº 3, de 24 de janeiro de 1843;<br>
-**CCI -** Lei Provincial nº 4, de 3 de fevereiro de 1843;<br>
-**CCII -** Lei Provincial nº 5, de 15 de fevereiro de 1843;<br>
-**CCIII -** Lei Provincial nº 6, de 21 de fevereiro de 1843;<br>
-**CCIV -** Lei Provincial nº 7, de 4 de março de 1843;<br>
-**CCV -** Lei Provincial nº 8, de 4 de março de 1843;<br>
-**CCVI -** Lei Provincial nº 9, de 4 de março de 1843;<br>
-**CCVII -** Lei Provincial nº 10, de 4 de março de 1843;<br>
-**CCVIII -** Lei Provincial nº 11, de 4 de março de 1843;<br>
-**CCIX -** Lei Provincial nº 12, de 6 de março de 1843;<br>
-**CCX -** Lei Provincial nº 1, de 23 de janeiro de 1844;<br>
-**CCXI -** Lei Provincial nº 2, de 23 de janeiro de 1844;<br>
-**CCXII -** Lei Provincial nº 3, de 23 de janeiro de 1844;<br>
-**CCXIII -** Lei Provincial nº 4, de 23 de janeiro de 1844;<br>
-**CCXIV -** Lei Provincial nº 5, de 26 de janeiro de 1844;<br>
-**CCXV -** Lei Provincial nº 6, de 29 de janeiro de 1844;<br>
-**CCXVI -** Lei Provincial nº 7, de 4 de fevereiro de 1844;<br>
-**CCXVII -** Lei Provincial nº 8, de 6 de fevereiro de 1844;<br>
-**CCXVIII -** Lei Provincial nº 9, de 6 de fevereiro de 1844;<br>
-**CCXIX -** Lei Provincial nº 10, de 12 de fevereiro de 1844;<br>
-**CCXX -** Lei Provincial nº 11, de 13 de fevereiro de 1844;<br>
-**CCXXI -** Lei Provincial nº 12, de 13 de fevereiro de 1844;<br>
-**CCXXII -** Lei Provincial nº 13, de 13 de fevereiro de 1844;<br>
-**CCXXIII -** Lei Provincial nº 14, de 13 de fevereiro de 1844;<br>
-**CCXXIV -** Lei Provincial nº 15, de 16 de fevereiro de 1844;<br>
-**CCXXV -** Lei Provincial nº 16, de 22 de fevereiro de 1844;<br>
-**CCXXVI -** Lei Provincial nº 17, de 22 de fevereiro de 1844;<br>
-**CCXXVII -** Lei Provincial nº 18, de 22 de fevereiro de 1844;<br>
-**CCXXVIII -** Lei Provincial nº 19, de 27 de fevereiro de 1844;<br>
-**CCXXIX -** Lei Provincial nº 20, de 28 de fevereiro de 1844;<br>
-**CCXXX -** Lei Provincial nº 21, de 28 de fevereiro de 1844;<br>
-**CCXXXI -** Lei Provincial nº 22, de 28 de fevereiro de 1844;<br>
-**CCXXXII -** Lei Provincial nº 23, de 28 de fevereiro de 1844;<br>
-**CCXXXIII -** Lei Provincial nº 24, de 8 de março de 1844;<br>
-**CCXXXIV -** Lei Provincial nº 25, de 8 de março de 1844;<br>
-**CCXXXV -** Lei Provincial nº 26, de 8 de março de 1844;<br>
-**CCXXXVI -** Lei Provincial nº 27, de 08 de março de 1844;<br>
-**CCXXXVII -** Lei Provincial nº 28, de 8 de março de 1844;<br>
-**CCXXXVIII -** Lei Provincial nº 29, de 9 de março de 1844;<br>
-**CCXXXIX -** Lei Provincial nº 30, de 9 de março de 1844;<br>
-**CCXL -** Lei Provincial nº 31, de 9 de março de 1844;<br>
-**CCXLI -** Lei Provincial nº 32, de 9 de março de 1844;<br>
-**CCXLII -** Lei Provincial nº 33, de 9 de março de 1844;<br>
-**CCXLIII -** Lei Provincial nº 34, de 15 de março de 1844;<br>
-**CCXLIV -** Lei Provincial nº 35, de 15 de março de 1844;<br>
-**CCXLV -** Lei Provincial nº 37, de 15 de março de 1844;<br>
-**CCXLVI -** Lei Provincial nº 39, de 21 de março de 1844;<br>
-**CCXLVII -** Lei Provincial nº 40, de 23 de março de 1844;<br>
-**CCXLVIII -** Lei Provincial nº 41, de 26 de março de 1844;<br>
-**CCXLIX -** Lei Provincial nº 42, de 26 de março de 1844;<br>
-**CCL -** Lei Provincial nº 43, de 30 de março de 1844;<br>
-**CCLI -** Lei Provincial nº 1, de 6 de fevereiro de 1845;<br>
-**CCLII -** Lei Provincial nº 2, de 14 de fevereiro de 1845;<br>
-**CCLIII -** Lei Provincial nº 3, de 17 de fevereiro de 1845;<br>
-**CCLIV -** Lei Provincial nº 4, de 19 de fevereiro de 1845;<br>
-**CCLV -** Lei Provincial nº 6, de 19 de fevereiro de 1845;<br>
-**CCLVI -** Lei Provincial nº 7, de 19 de fevereiro de 1845;<br>
-**CCLVII -** Lei Provincial nº 8, de 19 de fevereiro de 1845;<br>
-**CCLVIII -** Lei Provincial nº 9, de 19 de fevereiro de 1845;<br>
-**CCLIX -** Lei Provincial nº 10, de 19 de fevereiro de 1845;<br>
-**CCLX -** Lei Provincial nº 11, de 24 de fevereiro de 1845;<br>
-**CCLXI -** Lei Provincial nº 12, de 7 de março de 1845;<br>
-**CCLXII -** Lei Provincial nº 13, de 7 de março de 1845;<br>
-**CCLXIII -** Lei Provincial nº 14, de 7 de março de 1845;<br>
-**CCLXIV -** Lei Provincial nº 15, de 4 de março de 1845;<br>
-**CCLXV -** Lei Provincial nº 16, de 6 de março de 1845;<br>
-**CCLXVI -** Lei Provincial nº 2, de 9 de fevereiro de 1846;<br>
-**CCLXVII -** Lei Provincial nº 3, de 10 de fevereiro de 1846;<br>
-**CCLXVIII -** Lei Provincial nº 4, de 19 de fevereiro de 1846;<br>
-**CCLXIX -** Lei Provincial nº 5, de 19 de fevereiro de 1846;<br>
-**CCLXX -** Lei Provincial nº 6, de 19 de fevereiro de 1846;<br>
-**CCLXXI -** Lei Provincial nº 7, de 19 de fevereiro de 1846;<br>
-**CCLXXII -** Lei Provincial nº 8, de 19 de fevereiro de 1846;<br>
-**CCLXXIII -** Lei Provincial nº 10, de 19 de fevereiro de 1846;<br>
-**CCLXXIV -** Lei Provincial nº 11, de 19 de fevereiro de 1846;<br>
-**CCLXXV -** Lei Provincial nº 12, de 2 de março de 1846;<br>
-**CCLXXVI -** Lei Provincial nº 13, de 5 de março de 1846;<br>
-**CCLXXVII -** Lei Provincial nº 14, de 6 de março de 1846;<br>
-**CCLXXVIII -** Lei Provincial nº 15, de 6 de março de 1846;<br>
-**CCLXXIX -** Lei Provincial nº 17, de 6 de março de 1846;<br>
-**CCLXXX -** Lei Provincial nº 18, de 6 de março de 1846;<br>
-**CCLXXXI -** Lei Provincial nº 19, de 6 de março de 1846;<br>
-**CCLXXXII -** Lei Provincial nº 20, de 6 de março de 1846;<br>
-**CCLXXXIII -** Lei Provincial nº 21, de 6 de março de 1846;<br>
-**CCLXXXIV -** Lei Provincial nº 22, de 7 de março de 1846;<br>
-**CCLXXXV -** Lei Provincial nº 23, de 12 de março de 1846;<br>
-**CCLXXXVI -** Lei Provincial nº 24, de 12 de março de 1846;<br>
-**CCLXXXVII -** Lei Provincial nº 25, de 12 de março de 1846;<br>
-**CCLXXXVIII -** Lei Provincial nº 26, de 12 de março de 1846;<br>
-**CCLXXXIX -** Lei Provincial nº 28, de 12 de março de 1846;<br>
-**CCXC -** Lei Provincial nº 30, de 12 de março de 1846;<br>
-**CCXCI -** Lei Provincial nº 31, de 12 de março de 1846;<br>
-**CCXCII -** Lei Provincial nº 32, de 13 de março de 1846;<br>
-**CCXCIII -** Lei Provincial nº 33, de 13 de março de 1846;<br>
-**CCXCIV -** Lei Provincial nº 34, de 16 de março de 1846;<br>
-**CCXCV -** Lei Provincial nº 35, de 16 de março de 1846;<br>
-**CCXCVI -** Lei Provincial nº 36, de 16 de março de 1846;<br>
-**CCXCVII -** Lei Provincial nº 37, de 16 de março de 1846;<br>
-**CCXCVIII -** Lei Provincial nº 38, de 16 de março de 1846;<br>
-**CCXCIX -** Lei Provincial nº 1, de 8 de fevereiro de 1847;<br>
-**CCC -** Lei Provincial nº 2, de 11 de fevereiro de 1847;<br>
-**CCCI -** Lei Provincial nº 3, de 13 de fevereiro de 1847;<br>
-**CCCII -** Lei Provincial nº 5, de 16 de fevereiro de 1847;<br>
-**CCCIII -** Lei Provincial nº 6, de 16 de fevereiro de 1847;<br>
-**CCCIV -** Lei Provincial nº 7, de 16 de fevereiro de 1847;<br>
-**CCCV -** Lei Provincial nº 8, de 16 de fevereiro de 1847;<br>
-**CCCVI -** Lei Provincial nº 9, de 18 de fevereiro de 1847;<br>
-**CCCVII -** Lei Provincial nº 10, de 18 de fevereiro de 1847;<br>
-**CCCVIII -** Lei Provincial nº 11, de 18 de fevereiro de 1847;<br>
-**CCCIX -** Lei Provincial nº 12, de 19 de fevereiro de 1847;<br>
-**CCCX -** Lei Provincial nº 13, de 27 de fevereiro de 1847;<br>
-**CCCXI -** Lei Provincial nº 14, de 27 de fevereiro de 1847;<br>
-**CCCXII -** Lei Provincial nº 15, de 27 de fevereiro de 1847;<br>
-**CCCXIII -** Lei Provincial nº 16, de 3 de março de 1847;<br>
-**CCCXIV -** Lei Provincial nº 17, de 4 de março de 1847;<br>
-**CCCXV -** Lei Provincial nº 18, de 16 de março de 1847;<br>
-**CCCXVI -** Lei Provincial nº 19, de 16 de março de 1847;<br>
-**CCCXVII -** Lei Provincial nº 20, de 16 de março de 1847;<br>
-**CCCXVIII -** Lei Provincial nº 21, de 16 de março de 1847;<br>
-**CCCXIX -** Lei Provincial nº 22, de 16 de março de 1847;<br>
-**CCCXX -** Lei Provincial nº 23, de 16 de março de 1847;<br>
-**CCCXXI -** Lei Provincial nº 25, de 16 de março de 1847;<br>
-**CCCXXII -** Lei Provincial nº 27, de 16 de março de 1847;<br>
-**CCCXXIII -** Lei Provincial nº 28, de 16 de março de 1847;<br>
-**CCCXXIV -** Lei Provincial nº 29, de 16 de março de 1847;<br>
-**CCCXXV -** Lei Provincial nº 30, de 16 de março de 1847;<br>
-**CCCXXVI -** Lei Provincial nº 1, de 19 de julho de 1848;<br>
-**CCCXXVII -** Lei Provincial nº 2, de 19 de julho de 1848;<br>
-**CCCXXVIII -** Lei Provincial nº 3, de 25 de agosto de 1848;<br>
-**CCCXXIX -** Lei Provincial nº 4, de 6 de setembro de 1848;<br>
-**CCCXXX -** Lei Provincial nº 5, de 6 de setembro de 1848;<br>
-**CCCXXXI -** Lei Provincial nº 6, de 6 de setembro de 1848;<br>
-**CCCXXXII -** Lei Provincial nº 7, de 6 de setembro de 1848;<br>
-**CCCXXXIII -** Lei Provincial nº 8, de 18 de setembro de 1848;<br>
-**CCCXXXIV -** Lei Provincial nº 9, de 18 de setembro de 1848;<br>
-**CCCXXXV -** Lei Provincial nº 12, de 18 de setembro de 1848;<br>
-**CCCXXXVI -** Lei Provincial nº 13, de 23 de setembro de 1848;<br>
-**CCCXXXVII -** Lei Provincial nº 1, de 5 de março de 1849;<br>
-**CCCXXXVIII -** Lei Provincial nº 2, de 5 de março de 1849;<br>
-**CCCXXXIX -** Lei Provincial nº 3, de 5 de março de 1849;<br>
-**CCCXL -** Lei Provincial nº 4, de 14 de março de 1849;<br>
-**CCCXLI -** Lei Provincial nº 5, de 14 de março de 1849;<br>
-**CCCXLII -** Lei Provincial nº 6, de 14 de março de 1849;<br>
-**CCCXLIII -** Lei Provincial nº 7, de 14 de março de 1849;<br>
-**CCCXLIV -** Lei Provincial nº 8, de 21 de março de 1849;<br>
-**CCCXLV -** Lei Provincial nº 9, de 21 de março de 1849;<br>
-**CCCXLVI -** Lei Provincial nº 10, de 21 de março de 1849;<br>
-**CCCXLVII -** Lei Provincial nº 11, de 21 de março de 1849;<br>
-**CCCXLVIII -** Lei Provincial nº 12, de 21 de março de 1849;<br>
-**CCCXLIX -** Lei Provincial nº 13, de 21 de março de 1849;<br>
-**CCCL -** Lei Provincial nº 16, de 31 de março de 1849;<br>
-**CCCLI -** Lei Provincial nº 17, de 3 de abril de 1849;<br>
-**CCCLII -** Lei Provincial nº 18, de 7 de abril de 1849;<br>
-**CCCLIII -** Lei Provincial nº 19, de 7 de abril de 1849;<br>
-**CCCLIV -** Resolução Provincial nº 20, de 20 de abril de 1849;<br>
-**CCCLV -** Lei Provincial nº 21, de 20 de abril de 1849;<br>
-**CCCLVI -** Lei Provincial nº 22, de 20 de abril de 1849;<br>
-**CCCLVII -** Lei Provincial nº 23, de 22 de abril de 1849;<br>
-**CCCLVIII -** Lei Provincial nº 24, de 23 de abril de 1849;<br>
-**CCCLIX -** Lei Provincial nº 25, de 23 de abril de 1849;<br>
-**CCCLX -** Lei Provincial nº 26, de 23 de abril de 1849;<br>
-**CCCLXI -** Lei Provincial nº 27, de 23 de abril de 1849;<br>
-**CCCLXII -** Lei Provincial nº 28, de 15 de maio de 1849;<br>
-**CCCLXIII -** Lei Provincial nº 1, de 3 de maio de 1850;<br>
-**CCCLXIV -** Lei Provincial nº 2, de 3 de maio de 1850;<br>
-**CCCLXV -** Lei Provincial nº 3, de 3 de maio de 1850;<br>
-**CCCLXVI -** Lei Provincial nº 4, de 3 de maio de 1850;<br>
-**CCCLXVII -** Lei Provincial nº 5, de 23 de maio de 1850;<br>
-**CCCLXVIII -** Lei Provincial nº 6, de 23 de maio de 1850;<br>
-**CCCLXIX -** Lei Provincial nº 8, de 23 de maio de 1850;<br>
-**CCCLXX -** Lei Provincial nº 9, de 23 de maio de 1850;<br>
-**CCCLXXI -** Lei Provincial nº 10, de 10 de junho de 1850;<br>
-**CCCLXXII -** Lei Provincial nº 11, de 10 de junho de 1850;<br>
-**CCCLXXIII -** Lei Provincial nº 13, de 10 de junho de 1850;<br>
-**CCCLXXIV -** Resolução Provincial nº 14, de 10 de junho de 1850;<br>
-**CCCLXXV -** Lei Provincial nº 15, de 10 de junho de 1850;<br>
-**CCCLXXVI -** Lei Provincial nº 16, de 10 de junho de 1850;<br>
-**CCCLXXVII -** Lei Provincial nº 17, de 10 de junho de 1850;<br>
-**CCCLXXVIII -** Lei Provincial nº 18, de 10 de junho de 1850;<br>
-**CCCLXXIX -** Lei Provincial nº 19, de 10 de junho de 1850;<br>
-**CCCLXXX -** Lei Provincial nº 20, de 10 de junho de 1850;<br>
-**CCCLXXXI -** Lei Provincial nº 21, de 22 de junho de 1850;<br>
-**CCCLXXXII -** Lei Provincial nº 22, de 22 de junho de 1850;<br>
-**CCCLXXXIII -** Lei Provincial nº 23, de 22 de junho de 1850;<br>
-**CCCLXXXIV -** Lei Provincial nº 24, de 2 de julho de 1850;<br>
-**CCCLXXXV -** Lei Provincial nº 25, de 3 de julho de 1850;<br>
-**CCCLXXXVI -** Lei Provincial nº 26, de 3 de julho de 1850;<br>
-**CCCLXXXVII -** Lei Provincial nº 1, de 15 de março de 1851;<br>
-**CCCLXXXVIII -** Lei Provincial nº 3, de 18 de março de 1851;<br>
-**CCCLXXXIX -** Lei Provincial nº 5, de 22 de março de 1851;<br>
-**CCCXC -** Lei Provincial nº 6, de 7 de abril de 1851;<br>
-**CCCXCI -** Lei Provincial nº 7, de 7 de abril de 1851;<br>
-**CCCXCII -** Lei Provincial nº 9, de 6 de maio de 1851;<br>
-**CCCXCIII -** Lei Provincial nº 10, de 7 de maio de 1851;<br>
-**CCCXCIV -** Lei Provincial nº 11, de 7 de maio de 1851;<br>
-**CCCXCV -** Lei Provincial nº 1, de 28 de maio de 1852;<br>
-**CCCXCVI -** Lei Provincial nº 2, de 2 de junho de 1852;<br>
-**CCCXCVII -** Lei Provincial nº 3, de 2 de junho de 1852;<br>
-**CCCXCVIII -** Lei Provincial nº 4, de 8 de junho de 1852;<br>
-**CCCXCIX -** Lei Provincial nº 5, de 5 de julho de 1852;<br>
-**CD -** Lei Provincial nº 6, de 7 de julho de 1852;<br>
-**CDI -** Lei Provincial nº 8, de 8 de julho de 1852;<br>
-**CDII -** Lei Provincial nº 9, de 8 de julho de 1852;<br>
-**CDIII -** Lei Provincial nº 10, de 16 de julho de 1852;<br>
-**CDIV -** Lei Provincial nº 11, de 17 de julho de 1852;<br>
-**CDV -** Lei Provincial nº 12, de 17 de julho de 1852;<br>
-**CDVI -** Lei Provincial nº 13, de 17 de julho de 1852;<br>
-**CDVII -** Lei Provincial nº 14, de 19 de julho de 1852;<br>
-**CDVIII -** Lei Provincial nº 1, de 10 de março de 1853;<br>
-**CDIX -** Lei Provincial nº 2, de 10 de março de 1853;<br>
-**CDX -** Lei Provincial nº 3, de 10 de março de 1853;<br>
-**CDXI -** Lei Provincial nº 4, de 10 de março de 1853;<br>
-**CDXII -** Lei Provincial nº 5, de 19 de março de 1853;<br>
-**CDXIII -** Lei Provincial nº 6, de 8 de abril de 1853;<br>
-**CDXIV -** Lei Provincial nº 7, de 8 de abril de 1853;<br>
-**CDXV -** Lei Provincial nº 8, de 8 de abril de 1853;<br>
-**CDXVI -** Lei Provincial nº 9, de 15 de abril de 1853;<br>
-**CDXVII -** Lei Provincial nº 10, de 15 de abril de 1853;<br>
-**CDXVIII -** Lei Provincial nº 11, de 16 de abril de 1853;<br>
-**CDXIX -** Lei Provincial nº 12, de 16 de abril de 1853;<br>
-**CDXX -** Lei Provincial nº 15, de 21 de abril de 1853;<br>
-**CDXXI -** Lei Provincial nº 16, de 21 de abril de 1853;<br>
-**CDXXII -** Lei Provincial nº 17, de 23 de abril de 1853;<br>
-**CDXXIII -** Lei Provincial nº 18, de 2 de maio de 1853;<br>
-**CDXXIV -** Lei Provincial nº 1, de 4 de março de 1854;<br>
-**CDXXV -** Lei Provincial nº 2, de 4 de março de 1854;<br>
-**CDXXVI -** Lei Provincial nº 3, de 9 de março de 1854;<br>
-**CDXXVII -** Lei Provincial nº 5, de 15 de março de 1854;<br>
-**CDXXVIII -** Lei Provincial nº 6, de 20 de março de 1854;<br>
-**CDXXIX -** Lei Provincial nº 7, de 30 de março de 1854;<br>
-**CDXXX -** Lei Provincial nº 8, de 4 de abril de 1854;<br>
-**CDXXXI -** Lei Provincial nº 10, de 6 de abril de 1854;<br>
-**CDXXXII -** Lei Provincial nº 11, de 6 de abril de 1854;<br>
-**CDXXXIII -** Lei Provincial nº 12, de 12 de abril de 1854;<br>
-**CDXXXIV -** Lei Provincial nº 13, de 12 de abril de 1854;<br>
-**CDXXXV -** Lei Provincial nº 14, de 17 de abril de 1854;<br>
-**CDXXXVI -** Lei Provincial nº 15, de 26 de abril de 1854;<br>
-**CDXXXVII -** Lei Provincial nº 16, de 27 de abril de 1854;<br>
-**CDXXXVIII -** Lei Provincial nº 17, de 27 de abril de 1854;<br>
-**CDXXXIX -** Lei Provincial nº 18, de 27 de abril de 1854;<br>
-**CDXL -** Lei Provincial nº 19, de 27 de abril de 1854;<br>
-**CDXLI -** Lei Provincial nº 20, de 29 de abril de 1854;<br>
-**CDXLII -** Lei Provincial nº 21, de 29 de abril de 1854;<br>
-**CDXLIII -** Lei Provincial nº 23, de 1º de maio de 1854;<br>
-**CDXLIV -** Lei Provincial nº 24, de 3 de maio de 1854;<br>
-**CDXLV -** Lei Provincial nº 26, de 3 de maio de 1854;<br>
-**CDXLVI -** Lei Provincial nº 27, de 6 de maio de 1854;<br>
-**CDXLVII -** Lei Provincial nº 28, de 6 de maio de 1854;<br>
-**CDXLVIII -** Lei Provincial nº 30, de 10 de maio de 1854;<br>
-**CDXLIX -** Lei Provincial nº 31, de 12 de maio de 1854;<br>
-**CDL -** Lei Provincial nº 1, de 5 de março de 1855;<br>
-**CDLI -** Lei Provincial nº 2, de 12 de março de 1855;<br>
-**CDLII -** Lei Provincial nº 3, de 12 de março de 1855;<br>
-**CDLIII -** Lei Provincial nº 4, de 12 de março de 1855;<br>
-**CDLIV -** Lei Provincial nº 5, de 13 de março de 1855;<br>
-**CDLV -** Lei Provincial nº 6, de 17 de março de 1855;<br>
-**CDLVI -** Resolução Provincial nº 8, de 24 de março de 1855;<br>
-**CDLVII -** Lei Provincial nº 9, de 24 de março de 1855;<br>
-**CDLVIII -** Resolução Provincial nº 10, de 24 de março de 1855;<br>
-**CDLIX -** Lei Provincial nº 11, de 24 de março de 1855;<br>
-**CDLX -** Lei Provincial nº 12, de 31 de março de 1855;<br>
-**CDLXI -** Lei Provincial nº 13, de 31 de março de 1855;<br>
-**CDLXII -** Lei Provincial nº 14, de 9 de abril de 1855;<br>
-**CDLXIII -** Lei Provincial nº 15, de 9 de abril de 1855;<br>
-**CDLXIV -** Lei Provincial nº 16, de 11 de abril de 1855;<br>
-**CDLXV -** Lei Provincial nº 17, de 14 de abril de 1855;<br>
-**CDLXVI -** Lei Provincial nº 18, de 14 de abril de 1855;<br>
-**CDLXVII -** Lei Provincial nº 20, de 14 de abril de 1855;<br>
-**CDLXVIII -** Lei Provincial nº 21, de 14 de abril de 1855;<br>
-**CDLXIX -** Lei Provincial nº 22, de 17 de abril de 1855;<br>
-**CDLXX -** Lei Provincial nº 23, de 18 de abril de 1855;<br>
-**CDLXXI -** Lei Provincial nº 24, de 18 de abril de 1855;<br>
-**CDLXXII -** Lei Provincial nº 25, de 18 de abril de 1855;<br>
-**CDLXXIII -** Lei Provincial nº 26, de 18 de abril de 1855;<br>
-**CDLXXIV -** Lei Provincial nº 27, de 18 de abril de 1855;<br>
-**CDLXXV -** Lei Provincial nº 28, de 19 de abril de 1855;<br>
-**CDLXXVI -** Lei Provincial nº 29, de 24 de abril de 1855;<br>
-**CDLXXVII -** Resolução Provincial nº 30, de 24 de abril de 1855;<br>
-**CDLXXVIII -** Lei Provincial nº 31, de 25 de abril de 1855;<br>
-**CDLXXIX -** Lei Provincial nº 1, de 5 de março de 1856;<br>
-**CDLXXX -** Lei Provincial nº 2, de 8 de março de 1856;<br>
-**CDLXXXI -** Lei Provincial nº 3, de 12 de março de 1856;<br>
-**CDLXXXII -** Lei Provincial nº 4, de 24 de março de 1856;<br>
-**CDLXXXIII -** Lei Provincial nº 5, de 24 de março de 1856;<br>
-**CDLXXXIV -** Lei Provincial nº 6, de 26 de março de 1856;<br>
-**CDLXXXV -** Lei Provincial nº 7, de 2 de abril de 1856;<br>
-**CDLXXXVI -** Lei Provincial nº 8, de 2 de abril de 1856;<br>
-**CDLXXXVII -** Lei Provincial nº 9, de 2 de abril de 1856;<br>
-**CDLXXXVIII -** Lei Provincial nº 10, de 2 de abril de 1856;<br>
-**CDLXXXIX -** Lei Provincial nº 11, de 2 de abril de 1856;<br>
-**CDXC -** Lei Provincial nº 12, de 2 de abril de 1856;<br>
-**CDXCI -** Lei Provincial nº 13, de 2 de abril de 1856;<br>
-**CDXCII -** Lei Provincial nº 14, de 5 de abril de 1856;<br>
-**CDXCIII -** Lei Provincial nº 15, de 5 de abril de 1856;<br>
-**CDXCIV -** Lei Provincial nº 16, de 5 de abril de 1856;<br>
-**CDXCV -** Lei Provincial nº 17, de 11 de abril de 1856;<br>
-**CDXCVI -** Lei Provincial nº 18, de 11 de abril de 1856;<br>
-**CDXCVII -** Lei Provincial nº 19, de 14 de abril de 1856;<br>
-**CDXCVIII -** Lei Provincial nº 20, de 24 de abril de 1856;<br>
-**CDXCIX -** Lei Provincial nº 21, de 24 de abril de 1856;<br>
-**D -** Resolução Provincial nº 22, de 24 de abril de 1856;<br>
-**DI -** Resolução Provincial nº 23, de 24 de abril de 1856;<br>
-**DII -** Lei Provincial nº 24, de 24 de abril de 1856;<br>
-**DIII -** Lei Provincial nº 25, de 25 de abril de 1856;<br>
-**DIV -** Lei Provincial nº 26, de 25 de abril de 1856;<br>
-**DV -** Lei Provincial nº 27, de 25 de abril de 1856;<br>
-**DVI -** Lei Provincial nº 28, de 28 de abril de 1856;<br>
-**DVII -** Lei Provincial nº 29, de 28 de abril de 1856;<br>
-**DVIII -** Lei Provincial nº 30, de 6 de maio de 1856;<br>
-**DIX -** Lei Provincial nº 31, de 7 de maio de 1856;<br>
-**DX -** Lei Provincial nº 1, de 20 de fevereiro de 1857;<br>
-**DXI -** Lei Provincial nº 2, de 20 de fevereiro de 1857;<br>
-**DXII -** Lei Provincial nº 3, de 5 de março de 1857;<br>
-**DXIII -** Lei Provincial nº 5, de 14 de março de 1857;<br>
-**DXIV -** Lei Provincial nº 6, de 19 de março de 1857;<br>
-**DXV -** Lei Provincial nº 7, de 19 de março de 1857;<br>
-**DXVI -** Lei Provincial nº 8, de 24 de março de 1857;<br>
-**DXVII -** Lei Provincial nº 9, de 24 de março de 1857;<br>
-**DXVIII -** Lei Provincial nº 10, de 24 de março de 1857;<br>
-**DXIX -** Lei Provincial nº 11, de 24 de março de 1857;<br>
-**DXX -** Resolução Provincial nº 12, de 27 de março de 1857;<br>
-**DXXI -** Lei Provincial nº 13, de 27 de março de 1857;<br>
-**DXXII -** Lei Provincial nº 14, de 30 de março de 1857;<br>
-**DXXIII -** Lei Provincial nº 15, de 2 de abril de 1857;<br>
-**DXXIV -** Lei Provincial nº 16, de 2 de abril de 1857;<br>
-**DXXV -** Lei Provincial nº 17, de 2 de abril de 1857;<br>
-**DXXVI -** Lei Provincial nº 18, de 2 de abril de 1857;<br>
-**DXXVII -** Lei Provincial nº 20, de 2 de abril de 1857;<br>
-**DXXVIII -** Lei Provincial nº 21, de 4 de abril de 1857;<br>
-**DXXIX -** Lei Provincial nº 22, de 4 de abril de 1857;<br>
-**DXXX -** Lei Provincial nº 23, de 7 de abril de 1857;<br>
-**DXXXI -** Lei Provincial nº 24, de 7 de abril de 1857;<br>
-**DXXXII -** Lei Provincial nº 25, de 8 de abril de 1857;<br>
-**DXXXIII -** Lei Provincial nº 26, de 8 de abril de 1857;<br>
-**DXXXIV -** Lei Provincial nº 27, de 8 de abril de 1857;<br>
-**DXXXV -** Lei Provincial nº 28, de 8 de abril de 1857;<br>
-**DXXXVI -** Lei Provincial nº 29, de 8 de abril de 1857;<br>
-**DXXXVII -** Lei Provincial nº 30, de 20 de abril de 1857;<br>
-**DXXXVIII -** Lei Provincial nº 31, de 20 de abril de 1857;<br>
-**DXXXIX -** Resolução Provincial nº 32, de 20 de abril de 1857;<br>
-**DXL -** Lei Provincial nº 34, de 20 de abril de 1857;<br>
-**DXLI -** Resolução Provincial nº 35, de 20 de abril de 1857;<br>
-**DXLII -** Lei Provincial nº 36, de 20 de abril de 1857;<br>
-**DXLIII -** Lei Provincial nº 37, de 22 de abril de 1857;<br>
-**DXLIV -** Lei Provincial nº 38, de 25 de abril de 1857;<br>
-**DXLV -** Lei Provincial nº 39, de 25 de abril de 1857;<br>
-**DXLVI -** Lei Provincial nº 40, de 25 de abril de 1857;<br>
-**DXLVII -** Lei Provincial nº 41, de 25 de abril de 1857;<br>
-**DXLVIII -** Resolução Provincial nº 42, de 25 de abril de 1857;<br>
-**DXLIX -** Lei Provincial nº 43, de 30 de abril de 1857;<br>
-**DL -** Lei Provincial nº 44, de 30 de abril de 1857;<br>
-**DLI -** Lei Provincial nº 45, de 30 de abril de 1857;<br>
-**DLII -** Lei Provincial nº 46, de 30 de abril de 1857;<br>
-**DLIII -** Lei Provincial nº 47, de 7 de maio de 1857;<br>
-**DLIV -** Lei Provincial nº 48, de 7 de maio de 1857;<br>
-**DLV -** Lei Provincial nº 1, de 13 de fevereiro de 1858;<br>
-**DLVI -** Lei Provincial nº 2, de 18 de fevereiro de 1858;<br>
-**DLVII -** Lei Provincial nº 3, de 24 de fevereiro de 1858;<br>
-**DLVIII -** Lei Provincial nº 4, de 2 de março de 1858;<br>
-**DLIX -** Lei Provincial nº 5, de 6 de março de 1858;<br>
-**DLX -** Lei Provincial nº 6, de 10 de março de 1858;<br>
-**DLXI -** Lei Provincial nº 7, de 10 de março de 1858;<br>
-**DLXII -** Lei Provincial nº 8, de 11 de março de 1858;<br>
-**DLXIII -** Lei Provincial nº 9, de 11 de março de 1858;<br>
-**DLXIV -** Lei Provincial nº 10, de 11 de março de 1858;<br>
-**DLXV -** Lei Provincial nº 11, de 15 de março de 1858;<br>
-**DLXVI -** Lei Provincial nº 12, de 15 de março de 1858;<br>
-**DLXVII -** Lei Provincial nº 13, de 19 de março de 1858;<br>
-**DLXVIII -** Lei Provincial nº 14, de 22 de março de 1858;<br>
-**DLXIX -** Lei Provincial nº 15, de 26 de março de 1858;<br>
-**DLXX -** Lei Provincial nº 16, de 30 de março de 1858;<br>
-**DLXXI -** Lei Provincial nº 17, de 30 de março de 1858;<br>
-**DLXXII -** Lei Provincial nº 18, de 30 de março de 1858;<br>
-**DLXXIII -** Lei Provincial nº 19, de 30 de março de 1858;<br>
-**DLXXIV** \- Lei Provincial nº 20, de 30 de março de 1858;<br>
-**DLXXV -** Lei Provincial nº 21, de 5 de abril de 1858;<br>
-**DLXXVI -** Lei Provincial nº 22, de 9 de abril de 1858;<br>
-**DLXXVII -** Lei Provincial nº 23, de 16 de abril de 1858;<br>
-**DLXXVIII -** Lei Provincial nº 24, de 16 de abril de 1858;<br>
-**DLXXIX -** Lei Provincial nº 25, de 19 de abril de 1858;<br>
-**DLXXX -** Lei Provincial nº 26, de 20 de abril de 1858;<br>
-**DLXXXI -** Lei Provincial nº 27, de 20 de abril de 1858;<br>
-**DLXXXII -** Lei Provincial nº 28, de 20 de abril de 1858;<br>
-**DLXXXIII -** Lei Provincial nº 29, de 20 de abril de 1858;<br>
-**DLXXXIV -** Lei Provincial nº 30, de 20 de abril de 1858;<br>
-**DLXXXV -** Lei Provincial nº 31, de 22 de abril de 1858;<br>
-**DLXXXVI -** Lei Provincial nº 32, de 24 de abril de 1858;<br>
-**DLXXXVII -** Lei Provincial nº 33, de 24 de abril de 1858;<br>
-**DLXXXVIII -** Lei Provincial nº 34, de 26 de abril de 1858;<br>
-**DLXXXIX -** Lei Provincial nº 35, de 28 de abril de 1858;<br>
-**DXC -** Lei Provincial nº 36, de 28 de abril de 1858;<br>
-**DXCI -** Lei Provincial nº 37, de 29 de abril de 1858;<br>
-**DXCII -** Lei Provincial nº 38, de 4 de maio de 1858;<br>
-**DXCIII -** Lei Provincial nº 39, de 4 de maio de 1858;<br>
-**DXCIV -** Lei Provincial nº 40, de 4 de maio de 1858;<br>
-**DXCV -** Lei Provincial nº 1, de 14 de fevereiro de 1859;<br>
-**DXCVI -** Lei Provincial nº 2, de 14 de fevereiro de 1859;<br>
-**DXCVII -** Lei Provincial nº 3, de 2 de março de 1859;<br>
-**DXCVIII -** Lei Provincial nº 4, de 7 de março de 1859;<br>
-**DXCIX -** Lei Provincial nº 5, de 7 de março de 1859;<br>
-**DC -** Lei Provincial nº 6, de 9 de março de 1859;<br>
-**DCI -** Lei Provincial nº 7, de 16 de março de 1859;<br>
-**DCII -** Lei Provincial nº 8, de 16 de março de 1859;<br>
-**DCIII -** Lei Provincial nº 9, de 21 de março de 1859;<br>
-**DCIV -** Lei Provincial nº 10, de 22 de março de 1859;<br>
-**DCV -** Lei Provincial nº 11, de 24 de março de 1859;<br>
-**DCVI -** Lei Provincial nº 12, de 24 de março de 1859;<br>
-**DCVII -** Lei Provincial nº 13, de 24 de março de 1859;<br>
-**DCVIII -** Lei Provincial nº 14, de 29 de março de 1859;<br>
-**DCIX -** Lei Provincial nº 15, de 4 de abril de 1859;<br>
-**DCX -** Lei Provincial nº 16, de 4 de abril de 1859;<br>
-**DCXI -** Lei Provincial nº 17, de 6 de abril de 1859;<br>
-**DCXII -** Lei Provincial nº 18, de 9 de abril de 1859;<br>
-**DCXIII -** Resolução Provincial nº 19, de 18 de abril de 1859;<br>
-**DCXIV -** Lei Provincial nº 20, de 20 de abril de 1859;<br>
-**DCXV -** Lei Provincial nº 21, de 25 de abril de 1859;<br>
-**DCXVI -** Lei Provincial nº 22, de 25 de abril de 1859;<br>
-**DCXVII -** Lei Provincial nº 23, de 25 de abril de 1859;<br>
-**DCXVIII -** Lei Provincial nº 24, de 25 de abril de 1859;<br>
-**DCXIX -** Lei Provincial nº 25, de 25 de abril de 1859;<br>
-**DCXX -** Lei Provincial nº 26, de 6 de maio de 1859;<br>
-**DCXXI -** Lei Provincial nº 27, de 11 de maio de 1859;<br>
-**DCXXII -** Lei Provincial nº 1, de 16 de fevereiro de 1860;<br>
-**DCXXIII -** Lei Provincial nº 2, de 21 de março de 1860;<br>
-**DCXXIV -** Lei Provincial nº 3, de 24 de março de 1860;<br>
-**DCXXV -** Lei Provincial nº 1, de 20 de março de 1861;<br>
-**DCXXVI -** Lei Provincial nº 3, de 27 de março de 1861;<br>
-**DCXXVII -** Lei Provincial nº 4, de 6 de abril de 1861;<br>
-**DCXXVIII -** Lei Provincial nº 5, de 11 de abril de 1861;<br>
-**DCXXIX -** Lei Provincial nº 6, de 11 de abril de 1861;<br>
-**DCXXX -** Lei Provincial nº 7, de 12 de abril de 1861;<br>
-**DCXXXI -** Lei Provincial nº 8, de 22 de abril de 1861;<br>
-**DCXXXII -** Lei Provincial nº 9, de 30 de abril de 1861;<br>
-**DCXXXIII -** Lei Provincial nº 10, de 2 de maio de 1861;<br>
-**DCXXXIV -** Lei Provincial nº 11, de 2 de maio de 1861;<br>
-**DCXXXV -** Lei Provincial nº 12, de 2 de maio de 1861;<br>
-**DCXXXVI -** Lei Provincial nº 13, de 20 de julho de 1861;<br>
-**DCXXXVII -** Lei Provincial nº 14, de 26 de julho de 1861;<br>
-**DCXXXVIII -** Resolução Provincial nº 15, de 1º de agosto de 1861;<br>
-**DCXXXIX -** Lei Provincial nº 16, de 3 de agosto de 1861;<br>
-**DCXL -** Lei Provincial nº 1, de 29 de março de 1862;<br>
-**DCXLI -** Lei Provincial nº 2, de 29 de março de 1862;<br>
-**DCXLII -** Lei Provincial nº 3, de 5 de abril de 1862;<br>
-**DCXLIII -** Lei Provincial nº 4, de 5 de abril de 1862;<br>
-**DCXLIV -** Lei Provincial nº 5, de 15 de abril de 1862;<br>
-**DCXLV -** Lei Provincial nº 6, de 5 de maio de 1862;<br>
-**DCXLVI -** Lei Provincial nº 7, de 13 de maio de 1862;<br>
-**DCXLVII -** Lei Provincial nº 8, de 19 de maio de 1862;<br>
-**DCXLVIII -** Lei Provincial nº 9, de 20 de maio de 1862;<br>
-**DCXLIX -** Lei Provincial nº 10, de 21 de maio de 1862;<br>
-**DCL -** Lei Provincial nº 1, de 7 de fevereiro de 1863;<br>
-**DCLI -** Lei Provincial nº 2, de 24 de fevereiro de 1863;<br>
-**DCLII -** Lei Provincial nº 3, de 24 de fevereiro de 1863;<br>
-**DCLIII -** Lei Provincial nº 4, de 25 de fevereiro de 1863;<br>
-**DCLIV -** Lei Provincial nº 5, de 6 de março de 1863;<br>
-**DCLV -** Lei Provincial nº 6, de 20 de março de 1863;<br>
-**DCLVI -** Lei Provincial nº 7, de 20 de março de 1863;<br>
-**DCLVII -** Lei Provincial nº 8, de 8 de abril de 1863;<br>
-**DCLVIII -** Lei Provincial nº 9, de 9 de abril de 1863;<br>
-**DCLIX -** Lei Provincial nº 11, de 14 de abril de 1863;<br>
-**DCLX -** Lei Provincial nº 12, de 18 de abril de 1863;<br>
-**DCLXI -** Lei Provincial nº 13, de 18 de abril de 1863;<br>
-**DCLXII -** Lei Provincial nº 14, de 18 de abril de 1863;<br>
-**DCLXIII -** Lei Provincial nº 15, de 18 de abril de 1863;<br>
-**DCLXIV -** Lei Provincial nº 16, de 21 de abril de 1863;<br>
-**DCLXV -** Lei Provincial nº 17, de 22 de abril de 1863;<br>
-**DCLXVI -** Lei Provincial nº 18, de 22 de abril de 1863;<br>
-**DCLXVII -** Lei Provincial nº 19, de 23 de abril de 1863;<br>
-**DCLXVIII -** Lei Provincial nº 20, de 23 de abril de 1863;<br>
-**DCLXIX -** Lei Provincial nº 21, de 4 de maio de 1863;<br>
-**DCLXX -** Lei Provincial nº 1, de 22 de fevereiro de 1864;<br>
-**DCLXXI -** Lei Provincial nº 2, de 22 de fevereiro de 1864;<br>
-**DCLXXII -** Lei Provincial nº 3, de 27 de fevereiro de 1864;<br>
-**DCLXXIII -** Lei Provincial nº 4, de 27 de fevereiro de 1864;<br>
-**DCLXXIV -** Lei Provincial nº 5, de 31 de março de 1864;<br>
-**DCLXXV -** Lei Provincial nº 6, de 5 de abril de 1864;<br>
-**DCLXXVI -** Lei Provincial nº 7, de 7 de abril de 1864;<br>
-**DCLXXVII -** Lei Provincial nº 8, de 7 de abril de 1864;<br>
-**DCLXXVIII -** Lei Provincial nº 9, de 7 de abril de 1864;<br>
-**DCLXXIX -** Lei Provincial nº 10, de 12 de abril de 1864;<br>
-**DCLXXX -** Lei Provincial nº 11, de 12 de abril de 1864;<br>
-**DCLXXXI -** Lei Provincial nº 12, de 12 de abril de 1864;<br>
-**DCLXXXII -** Resolução Provincial nº 13, de 12 de abril de 1864;<br>
-**DCLXXXIII -** Resolução Provincial nº 14, de 12 de abril de 1864;<br>
-**DCLXXXIV -** Lei Provincial nº 15, de 12 de abril de 1864;<br>
-**DCLXXXV -** Lei Provincial nº 16, de 20 de abril de 1864;<br>
-**DCLXXXVI -** Lei Provincial nº 17, de 20 de abril de 1864;<br>
-**DCLXXXVII -** Lei Provincial nº 18, de 20 de abril de 1864;<br>
-**DCLXXXVIII -** Resolução Provincial nº 19, de 20 de abril de 1864;<br>
-**DCLXXXIX -** Lei Provincial nº 20, de 16 de abril de 1864;<br>
-**DCXC -** Lei Provincial nº 21, de 16 de abril de 1864;<br>
-**DCXCI -** Resolução Provincial nº 22, de 26 de abril de 1864;<br>
-**DCXCII -** Lei Provincial nº 23, de 19 de abril de 1864;<br>
-**DCXCIII -** Lei Provincial nº 24, de 19 de abril de 1864;<br>
-**DCXCIV -** Lei Provincial nº 25, de 22 de abril de 1864;<br>
-**DCXCV -** Lei Provincial nº 26, de 22 de abril de 1864;<br>
-**DCXCVI -** Lei Provincial nº 27, de 22 de abril de 1864;<br>
-**DCXCVII -** Resolução Provincial nº 28, de 22 de abril de 1864;<br>
-**DCXCVIII -** Resolução Provincial nº 29, de 22 de abril de 1864;<br>
-**DCXCIX -** Lei Provincial nº 30, de 26 de abril de 1864;<br>
-**DCC -** Lei Provincial nº 31, de 27 de abril de 1864;<br>
-**DCCI -** Lei Provincial nº 1, de 4 de março de 1865;<br>
-**DCCII -** Lei Provincial nº 2, de 10 de março de 1865;<br>
-**DCCIII -** Resolução Provincial nº 3, de 10 de março de 1865;<br>
-**DCCIV -** Resolução Provincial nº 4, de 14 de março de 1865;<br>
-**DCCV -** Resolução Provincial nº 5, de 14 de março de 1865;<br>
-**DCCVI -** Resolução Provincial nº 6, de 14 de março de 1865;<br>
-**DCCVII -** Resolução Provincial nº 7, de 14 de março de 1865;<br>
-**DCCVIII -** Resolução Provincial nº 8, de 14 de março de 1865;<br>
-**DCCIX -** Resolução Provincial nº 9, de 14 de março de 1865;<br>
-**DCCX -** Resolução Provincial nº 10, de 14 de março de 1865;<br>
-**DCCXI -** Lei Provincial nº 11, de 14 de março de 1865;<br>
-**DCCXII -** Lei Provincial nº 12, de 14 de março de 1865;<br>
-**DCCXIII -** Lei Provincial nº 13, de 14 de março de 1865;<br>
-**DCCXIV -** Lei Provincial nº 14, de 14 de março de 1865;<br>
-**DCCXV -** Lei Provincial nº 15, de 18 de março de 1865;<br>
-**DCCXVI -** Lei Provincial nº 16, de 18 de março de 1865;<br>
-**DCCXVII -** Resolução Provincial nº 17, de 18 de março de 1865;<br>
-**DCCXVIII -** Lei Provincial nº 18, de 28 de março de 1865;<br>
-**DCCXIX -** Lei Provincial nº 19, de 28 de março de 1865;<br>
-**DCCXX -** Lei Provincial nº 20, de 28 de março de 1865;<br>
-**DCCXXI -** Lei Provincial nº 21, de 28 de março de 1865;<br>
-**DCCXXII -** Lei Provincial nº 22, de 28 de março de 1865;<br>
-**DCCXXIII -** Lei Provincial nº 23, de 28 de março de 1865;<br>
-**DCCXXIV -** Lei Provincial nº 24, de 28 de março de 1865;<br>
-**DCCXXV -** Lei Provincial nº 25, de 28 de março de 1865;<br>
-**DCCXXVI -** Lei Provincial nº 27, de 28 de março de 1865;<br>
-**DCCXXVII -** Lei Provincial nº 28, de 28 de março de 1865;<br>
-**DCCXXVIII -** Lei Provincial nº 29, de 28 de março de 1865;<br>
-**DCCXXIX -** Lei Provincial nº 30, de 28 de março de 1865;<br>
-**DCCXXX -** Resolução Provincial nº 31, de 28 de março de 1865;<br>
-**DCCXXXI -** Resolução Provincial nº 32, de 29 de março de 1865;<br>
-**DCCXXXII -** Lei Provincial nº 33, de 31 de março de 1865;<br>
-**DCCXXXIII -** Resolução Provincial nº 34, de 31 de março de 1865;<br>
-**DCCXXXIV -** Lei Provincial nº 35, de 31 de março de 1865;<br>
-**DCCXXXV -** Lei Provincial nº 36, de 1º de abril de 1865;<br>
-**DCCXXXVI -** Resolução Provincial nº 37, de 1º de abril de 1865;<br>
-**DCCXXXVII -** Resolução Provincial nº 38, de 1º de abril de 1865;<br>
-**DCCXXXVIII -** Lei Provincial nº 39, de 1º de abril de 1865;<br>
-**DCCXXXIX -** Lei Provincial nº 40, de 1º de abril de 1865;<br>
-**DCCXL -** Resolução Provincial nº 41, de 4 de abril de 1865;<br>
-**DCCXLI -** Resolução Provincial nº 42, de 4 de abril de 1865;<br>
-**DCCXLII -** Resolução Provincial nº 43, de 5 de abril de 1865;<br>
-**DCCXLIII -** Resolução Provincial nº 45, de 5 de abril de 1865;<br>
-**DCCXLIV -** Lei Provincial nº 46, de 10 de abril de 1865;<br>
-**DCCXLV -** Resolução Provincial nº 47, de 10 de abril de 1865;<br>
-**DCCXLVI -** Lei Provincial nº 48, de 12 de abril de 1865;<br>
-**DCCXLVII -** Resolução Provincial nº 50, de 12 de abril de 1865;<br>
-**DCCXLVIII -** Lei Provincial nº 51, de 12 de abril de 1865;<br>
-**DCCXLIX -** Lei Provincial nº 52, de 12 de abril de 1865;<br>
-**DCCL -** Lei Provincial nº 53, de 12 de abril de 1865;<br>
-**DCCLI -** Resolução Provincial nº 54, de 18 de abril de 1865;<br>
-**DCCLII -** Lei Provincial nº 55, de 18 de abril de 1865;<br>
-**DCCLIII -** Lei Provincial nº 56, de 18 de abril de 1865;<br>
-**DCCLIV -** Lei Provincial nº 57, de 20 de abril de 1865;<br>
-**DCCLV -** Lei Provincial nº 58, de 20 de abril de 1865;<br>
-**DCCLVI -** Lei Provincial nº 59, de 20 de abril de 1865;<br>
-**DCCLVII -** Lei Provincial nº 60, de 20 de abril de 1865;<br>
-**DCCLVIII -** Resolução Provincial nº 61, de 20 de abril de 1865;<br>
-**DCCLIX -** Lei Provincial nº 62, de 20 de abril de 1865;<br>
-**DCCLX -** Resolução Provincial nº 63, de 20 de abril de 1865;<br>
-**DCCLXI -** Resolução Provincial nº 64, de 20 de abril de 1865;<br>
-**DCCLXII -** Lei Provincial nº 67, de 20 de abril de 1865;<br>
-**DCCLXIII -** Lei Provincial nº 68, de 20 de abril de 1865;<br>
-**DCCLXIV -** Lei Provincial nº 69, de 20 de abril de 1865;<br>
-**DCCLXV -** Lei Provincial nº 70, de 22 de abril de 1865;<br>
-**DCCLXVI -** Resolução Provincial nº 71, de 22 de abril de 1865;<br>
-**DCCLXVII -** Lei Provincial nº 72, de 22 de abril de 1865;<br>
-**DCCLXVIII -** Lei Provincial nº 73, de 22 de abril de 1865;<br>
-**DCCLXIX -** Resolução Provincial nº 74, de 22 de abril de 1865;<br>
-**DCCLXX -** Lei Provincial nº 75, de 22 de abril de 1865;<br>
-**DCCLXXI -** Lei Provincial nº 76, de 22 de abril de 1865;<br>
-**DCCLXXII -** Lei Provincial nº 77, de 24 de abril de 1865;<br>
-**DCCLXXIII -** Lei Provincial nº 78, de 25 de abril de 1865;<br>
-**DCCLXXIV -** Lei Provincial nº 79, de 25 de abril de 1865;<br>
-**DCCLXXV -** Lei Provincial nº 80, de 25 de abril de 1865;<br>
-**DCCLXXVI -** Lei Provincial nº 81, de 25 de abril de 1865;<br>
-**DCCLXXVII -** Lei Provincial nº 82, de 25 de abril de 1865;<br>
-**DCCLXXVIII -** Lei Provincial nº 83, de 25 de abril de 1865;<br>
-**DCCLXXIX -** Resolução Provincial nº 84, de 25 de abril de 1865;<br>
-**DCCLXXX -** Resolução Provincial nº 85, de 25 de abril de 1865;<br>
-**DCCLXXXI -** Resolução Provincial nº 86, de 25 de abril de 1865;<br>
-**DCCLXXXII -** Resolução Provincial nº 87, de 25 de abril de 1865;<br>
-**DCCLXXXIII -** Resolução Provincial nº 88, de 25 de abril de 1865;<br>
-**DCCLXXXIV -** Resolução Provincial nº 89, de 25 de abril de 1865;<br>
-**DCCLXXXV -** Lei Provincial nº 90, de 25 de abril de 1865;<br>
-**DCCLXXXVI -** Lei Provincial nº 91, de 26 de abril de 1865;<br>
-**DCCLXXXVII -** Lei Provincial nº 92, de 26 de abril de 1865;<br>
-**DCCLXXXVIII -** Lei Provincial nº 93, de 26 de abril de 1865;<br>
-**DCCLXXXIX -** Lei Provincial nº 94, de 26 de abril de 1865;<br>
-**DCCXC -** Resolução Provincial nº 95, de 26 de abril de 1865;<br>
-**DCCXCI -** Resolução Provincial nº 96, de 26 de abril de 1865;<br>
-**DCCXCII -** Resolução Provincial nº 97, de 26 de abril de 1865;<br>
-**DCCXCIII -** Resolução Provincial nº 98, de 26 de abril de 1865;<br>
-**DCCXCIV -** Lei Provincial nº 99, de 26 de abril de 1865;<br>
-**DCCXCV -** Resolução Provincial nº 100, de 28 de abril de 1865;<br>
-**DCCXCVI -** Resolução Provincial nº 101, de 28 de abril de 1865;<br>
-**DCCXCVII -** Resolução Provincial nº 102, de 28 de abril de 1865;<br>
-**DCCXCVIII -** Resolução Provincial nº 103, de 4 de maio de 1865;<br>
-**DCCXCIX -** Resolução Provincial nº 104, de 4 de maio de 1865;<br>
-**DCCC -** Resolução Provincial nº 105, de 4 de maio de 1865;<br>
-**DCCCI -** Resolução Provincial nº 106, de 4 de maio de 1865;<br>
-**DCCCII -** Resolução Provincial nº 107, de 4 de maio de 1865;<br>
-**DCCCIII -** Resolução Provincial nº 108, de 4 de maio de 1865;<br>
-**DCCCIV -** Resolução Provincial nº 109, de 4 de maio de 1865;<br>
-**DCCCV -** Resolução Provincial nº 110, de 4 de maio de 1865;<br>
-**DCCCVI -** Lei Provincial nº 2, de 20 de fevereiro de 1866;<br>
-**DCCCVII -** Lei Provincial nº 3, de 20 de fevereiro de 1866;<br>
-**DCCCVIII -** Lei Provincial nº 4, de 20 de fevereiro de 1866;<br>
-**DCCCIX -** Lei Provincial nº 5, de 20 de fevereiro de 1866;<br>
-**DCCCX -** Lei Provincial nº 6, de 28 de fevereiro de 1866;<br>
-**DCCCXI -** Lei Provincial nº 7, de 28 de fevereiro de 1866;<br>
-**DCCCXII -** Lei Provincial nº 8, de 3 de março de 1866;<br>
-**DCCCXIII -** Lei Provincial nº 9, de 3 de março de 1866;<br>
-**DCCCXIV -** Lei Provincial nº 10, de 9 de março de 1866;<br>
-**DCCCXV -** Lei Provincial nº 11, de 9 de março de 1866;<br>
-**DCCCXVI -** Resolução Provincial nº 12, de 10 de março de 1866;<br>
-**DCCCXVII -** Lei Provincial nº 13, de 10 de março de 1866;<br>
-**DCCCXVIII -** Resolução Provincial nº 14, de 10 de março de 1866;<br>
-**DCCCXIX -** Lei Provincial nº 15, de 10 de março de 1866;<br>
-**DCCCXX -** Lei Provincial nº 16, de 10 de março de 1866;<br>
-**DCCCXXI -** Lei Provincial nº 17, de 10 de março de 1866;<br>
-**DCCCXXII -** Resolução Provincial nº 18, de 16 de março de 1866;<br>
-**DCCCXXIII -** Resolução Provincial nº 19, de 20 de março de 1866;<br>
-**DCCCXXIV -** Lei Provincial nº 20, de 26 de março de 1866;<br>
-**DCCCXXV -** Lei Provincial nº 22, de 26 de março de 1866;<br>
-**DCCCXXVI -** Lei Provincial nº 24, de 26 de março de 1866;<br>
-**DCCCXXVII -** Resolução Provincial nº 25, de 28 de março de 1866;<br>
-**DCCCXXVIII -** Lei Provincial nº 26, de 3 de abril de 1866;<br>
-**DCCCXXIX -** Lei Provincial nº 27, de 3 de abril de 1866;<br>
-**DCCCXXX -** Lei Provincial nº 28, de 3 de abril de 1866;<br>
-**DCCCXXXI -** Lei Provincial nº 29, de 3 de abril de 1866;<br>
-**DCCCXXXII -** Lei Provincial nº 30, de 3 de abril de 1866;<br>
-**DCCCXXXIII -** Resolução Provincial nº 31, de 5 de abril de 1866;<br>
-**DCCCXXXIV -** Lei Provincial nº 32, de 6 de abril de 1866;<br>
-**DCCCXXXV -** Lei Provincial nº 33, de 6 de abril de 1866;<br>
-**DCCCXXXVI -** Lei Provincial nº 34, de 6 de abril de 1866;<br>
-**DCCCXXXVII -** Lei Provincial nº 35, de 6 de abril de 1866;<br>
-**DCCCXXXVIII -** Lei Provincial nº 36, de 10 de abril de 1866;<br>
-**DCCCXXXIX -** Resolução Provincial nº 37, de 10 de abril de 1866;<br>
-**DCCCXL -** Resolução Provincial nº 38, de 10 de abril de 1866;<br>
-**DCCCXLI -** Resolução Provincial nº 39, de 10 de abril de 1866;<br>
-**DCCCXLII -** Resolução Provincial nº 40, de 10 de abril de 1866;<br>
-**DCCCXLIII -** Resolução Provincial nº 41, de 10 de abril de 1866;<br>
-**DCCCXLIV -** Resolução Provincial nº 42, de 10 de abril de 1866;<br>
-**DCCCXLV -** Lei Provincial nº 43, de 11 de abril de 1866;<br>
-**DCCCXLVI -** Resolução Provincial nº 44, de 12 de abril de 1866;<br>
-**DCCCXLVII -** Resolução Provincial nº 45, de 13 de abril de 1866;<br>
-**DCCCXLVIII -** Lei Provincial nº 46, de 17 de abril de 1866;<br>
-**DCCCXLIX -** Lei Provincial nº 47, de 17 de abril de 1866;<br>
-**DCCCL -** Resolução Provincial nº 48, de 18 de abril de 1866;<br>
-**DCCCLI -** Resolução Provincial nº 49, de 18 de abril de 1866;<br>
-**DCCCLII -** Resolução Provincial nº 50, de 18 de abril de 1866;<br>
-**DCCCLIII -** Lei Provincial nº 52, de 18 de abril de 1866;<br>
-**DCCCLIV -** Lei Provincial nº 54, de 20 de abril de 1866;<br>
-**DCCCLV -** Lei Provincial nº 55, de 20 de abril de 1866;<br>
-**DCCCLVI -** Resolução Provincial nº 56, de 23 de abril de 1866;<br>
-**DCCCLVII -** Resolução Provincial nº 57, de 23 de abril de 1866;<br>
-**DCCCLVIII -** Resolução Provincial nº 58, de 23 de abril de 1866;<br>
-**DCCCLIX -** Resolução Provincial nº 59, de 23 de abril de 1866;<br>
-**DCCCLX -** Lei Provincial nº 60, de 23 de abril de 1866;<br>
-**DCCCLXI -** Lei Provincial nº 61, de 20 de abril de 1866;<br>
-**DCCCLXII -** Resolução Provincial nº 62, de 24 de abril de 1866;<br>
-**DCCCLXIII -** Resolução Provincial nº 63, de 24 de abril de 1866;<br>
-**DCCCLXIV -** Resolução Provincial nº 64, de 24 de abril de 1866;<br>
-**DCCCLXV -** Resolução Provincial nº 65, de 26 de abril de 1866;<br>
-**DCCCLXVI -** Resolução Provincial nº 66, de 26 de abril de 1866;<br>
-**DCCCLXVII -** Resolução Provincial nº 67, de 26 de abril de 1866;<br>
-**DCCCLXVIII -** Resolução Provincial nº 68, de 27 de abril de 1866;<br>
-**DCCCLXIX -** Resolução Provincial nº 69, de 27 de abril de 1866;<br>
-**DCCCLXX -** Resolução Provincial nº 70, de 27 de abril de 1866;<br>
-**DCCCLXXI -** Resolução Provincial nº 71, de 2 de maio de 1866;<br>
-**DCCCLXXII -** Resolução Provincial nº 73, de 21 de maio de 1866;<br>
-**DCCCLXXIII -** Resolução Provincial nº 74, de 28 de maio de 1866;<br>
-**DCCCLXXIV -** Resolução Provincial nº 75, de 28 de maio de 1866;<br>
-**DCCCLXXV -** Resolução Provincial nº 1, de 8 de junho de 1867;<br>
-**DCCCLXXVI -** Resolução Provincial nº 2, de 8 de junho de 1867;<br>
-**DCCCLXXVII -** Resolução Provincial nº 3, de 15 de junho de 1867;<br>
-**DCCCLXXVIII -** Resolução Provincial nº 4, de 15 de junho de 1867;<br>
-**DCCCLXXIX -** Resolução Provincial nº 5, de 15 de junho de 1867;<br>
-**DCCCLXXX -** Resolução Provincial nº 6, de 15 de junho de 1867;<br>
-**DCCCLXXXI -** Resolução Provincial nº 7, de 15 de junho de 1867;<br>
-**DCCCLXXXII -** Resolução Provincial nº 8, de 5 de julho de 1867;<br>
-**DCCCLXXXIII -** Resolução Provincial nº 9, de 5 de julho de 1867;<br>
-**DCCCLXXXIV -** Lei Provincial nº 10, de 5 de julho de 1867;<br>
-**DCCCLXXXV -** Lei Provincial nº 11, de 8 de julho de 1867;<br>
-**DCCCLXXXVI -** Lei Provincial nº 12, de 8 de julho de 1867;<br>
-**DCCCLXXXVII -** Resolução Provincial nº 13, de 8 de julho de 1867;<br>
-**DCCCLXXXVIII -** Resolução Provincial nº 14, de 8 de julho de 1867;<br>
-**DCCCLXXXIX -** Resolução Provincial nº 15, de 8 de julho de 1867;<br>
-**DCCCXC -** Lei Provincial nº 16, de 10 de julho de 1867;<br>
-**DCCCXCI -** Lei Provincial nº 17, de 11 de julho de 1867;<br>
-**DCCCXCII -** Lei Provincial nº 18, de 13 de julho de 1867;<br>
-**DCCCXCIII -** Lei Provincial nº 19, de 13 de junho de 1867;<br>
-**DCCCXCIV -** Resolução Provincial nº 20, de 13 de julho de 1867;<br>
-**DCCCXCV -** Lei Provincial nº 21, de 13 de julho de 1867;<br>
-**DCCCXCVI -** Lei Provincial nº 22, de 19 de julho de 1867;<br>
-**DCCCXCVII -** Lei Provincial nº 23, de 19 de julho de 1867;<br>
-**DCCCXCVIII -** Lei Provincial nº 24, de 19 de julho de 1867;<br>
-**DCCCXCIX -** Resolução Provincial nº 25, de 19 de julho de 1867;<br>
-**CM -** Lei Provincial nº 26, de 19 de julho de 1867;<br>
-**CMI -** Resolução Provincial nº 27, de 19 de julho de 1867;<br>
-**CMII -** Resolução Provincial nº 29, de 19 de julho de 1867;<br>
-**CMIII -** Resolução Provincial nº 30, de 19 de julho de 1867;<br>
-**CMIV -** Lei Provincial nº 31, de 19 de julho de 1867;<br>
-**CMV -** Resolução Provincial nº 32, de 19 de julho de 1867;<br>
-**CMVI -** Lei Provincial nº 33, de 19 de julho de 1867;<br>
-**CMVII -** Lei Provincial nº 35, de 19 de julho de 1867;<br>
-**CMVIII -** Resolução Provincial nº 36, de 19 de julho de 1867;<br>
-**CMIX -** Resolução Provincial nº 37, de 19 de julho de 1867;<br>
-**CMX -** Resolução Provincial nº 38, de 19 de julho de 1867;<br>
-**CMXI -** Resolução Provincial nº 39, de 19 de julho de 1867;<br>
-**CMXII -** Resolução Provincial nº 40, de 19 de julho de 1867;<br>
-**CMXIII -** Resolução Provincial nº 41, de 26 de julho de 1867;<br>
-**CMXIV -** Lei Provincial nº 42, de 1º de agosto de 1867;<br>
-**CMXV -** Resolução Provincial nº 43, de 1º de agosto de 1867;<br>
-**CMXVI -** Resolução Provincial nº 44, de 1º de agosto de 1867;<br>
-**CMXVII -** Lei Provincial nº 1, de 21 de fevereiro de 1868;<br>
-**CMXVIII -** Resolução Provincial nº 2, de 21 de fevereiro de 1868;<br>
-**CMXIX -** Resolução Provincial nº 3, de 21 de fevereiro de 1868;<br>
-**CMXX -** Resolução Provincial nº 4, de 21 de fevereiro de 1868;<br>
-**CMXXI -** Resolução Provincial nº 5, de 21 de fevereiro de 1868;<br>
-**CMXXII -** Resolução Provincial nº 6, de 21 de fevereiro de 1868;<br>
-**CMXXIII -** Resolução Provincial nº 7, de 21 de fevereiro de 1868;<br>
-**CMXXIV -** Resolução Provincial nº 8, de 21 de fevereiro de 1868;<br>
-**CMXXV -** Resolução Provincial nº 9, de 21 de fevereiro de 1868;<br>
-**CMXXVI -** Resolução Provincial nº 10, de 21 de fevereiro de 1868;<br>
-**CMXXVII -** Lei Provincial nº 11, de 22 de fevereiro de 1868;<br>
-**CMXXVIII -** Resolução Provincial nº 12, de 24 de fevereiro de 1868;<br>
-**CMXXIX -** Resolução Provincial nº 13, de 24 de fevereiro de 1868;<br>
-**CMXXX -** Resolução Provincial nº 14, de 24 de fevereiro de 1868;<br>
-**CMXXXI -** Resolução Provincial nº 15, de 24 de fevereiro de 1868;<br>
-**CMXXXII -** Resolução Provincial nº 16, de 28 de fevereiro de 1868;<br>
-**CMXXXIII -** Lei Provincial nº 17, de 28 de fevereiro de 1868;<br>
-**CMXXXIV -** Resolução Provincial nº 18, de 28 de fevereiro de 1868;<br>
-**CMXXXV -** Lei Provincial nº 19, de 14 de março de 1868;<br>
-**CMXXXVI -** Lei Provincial nº 20, de 14 de março de 1868;<br>
-**CMXXXVII -** Lei Provincial nº 21, de 14 de março de 1868;<br>
-**CMXXXVIII -** Resolução Provincial nº 22, de 14 de março de 1868;<br>
-**CMXXXIX -** Resolução Provincial nº 23, de 17 de março de 1868;<br>
-**CMXL -** Resolução Provincial nº 24, de 17 de março de 1868;<br>
-**CMXLI -** Lei Provincial nº 25, de 21 de março de 1868;<br>
-**CMXLII -** Lei Provincial nº 26, de 21 de março de 1868;<br>
-**CMXLIII -** Resolução Provincial nº 27, de 21 de março de 1868;<br>
-**CMXLIV -** Lei Provincial nº 28, de 24 de março de 1868;<br>
-**CMXLV -** Resolução Provincial nº 29, de 24 de março de 1868;<br>
-**CMXLVI -** Lei Provincial nº 30, de 31 de março de 1868;<br>
-**CMXLVII -** Resolução Provincial nº 31, de 31 de março de 1868;<br>
-**CMXLVIII -** Resolução Provincial nº 32, de 1º de abril de 1868;<br>
-**CMXLIX -** Resolução Provincial nº 33, de 1º de abril de 1868;<br>
-**CML -** Resolução Provincial nº 34, de 2 de abril de 1868;<br>
-**CMLI -** Resolução Provincial nº 35, de 2 de abril de 1868;<br>
-**CMLII -** Resolução Provincial nº 36, de 2 de abril de 1868;<br>
-**CMLIII -** Resolução Provincial nº 37, de 2 de abril de 1868;<br>
-**CMLIV -** Lei Provincial nº 38, de 2 de abril de 1868;<br>
-**CMLV -** Lei Provincial nº 39, de 2 de abril de 1868;<br>
-**CMLVI -** Resolução Provincial nº 40, de 8 de abril de 1868;<br>
-**CMLVII -** Lei Provincial nº 41, de 8 de abril de 1868;<br>
-**CMLVIII -** Lei Provincial nº 42, de 8 de abril de 1868;<br>
-**CMLIX -** Resolução Provincial nº 43, de 14 de abril de 1868;<br>
-**CMLX -** Lei Provincial nº 44, de 14 de abril de 1868;<br>
-**CMLXI -** Resolução Provincial nº 45, de 14 de abril de 1868;<br>
-**CMLXII -** Resolução Provincial nº 46, de 14 de abril de 1868;<br>
-**CMLXIII -** Lei Provincial nº 47, de 15 de abril de 1868;<br>
-**CMLXIV -** Lei Provincial nº 48, de 15 de abril de 1868;<br>
-**CMLXV -** Resolução Provincial nº 49, de 15 de abril de 1868;<br>
-**CMLXVI -** Lei Provincial nº 50, de 15 de abril de 1868;<br>
-**CMLXVII -** Lei Provincial nº 52, de 15 de abril de 1868;<br>
-**CMLXVIII -** Lei Provincial nº 53, de 15 de abril de 1868;<br>
-**CMLXIX -** Lei Provincial nº 54, de 15 de abril de 1868;<br>
-**CMLXX -** Lei Provincial nº 55, de 15 de abril de 1868;<br>
-**CMLXXI -** Lei Provincial nº 56, de 17 de abril de 1868;<br>
-**CMLXXII -** Lei Provincial nº 57, de 18 de abril de 1868;<br>
-**CMLXXIII -** Lei Provincial nº 58, de 15 de abril de 1868;<br>
-**CMLXXIV -** Lei Provincial nº 59, de 15 de abril de 1868;<br>
-**CMLXXV -** Resolução Provincial nº 60, de 23 de abril de 1868;<br>
-**CMLXXVI -** Resolução Provincial nº 61, de 23 de abril de 1868;<br>
-**CMLXXVII -** Resolução Provincial nº 62, de 23 de abril de 1868;<br>
-**CMLXXVIII -** Resolução Provincial nº 63, de 23 de abril de 1868;<br>
-**CMLXXIX -** Lei Provincial nº 64, de 9 de maio de 1868;<br>
-**CMLXXX -** Lei Provincial nº 65, de 9 de maio de 1868;<br>
-**CMLXXXI -** Resolução Provincial nº 66, de 9 de maio de 1868;<br>
-**CMLXXXII -** Resolução Provincial nº 67, de 9 de maio de 1868;<br>
-**CMLXXXIII -** Lei Provincial nº 68, de 9 de maio de 1868;<br>
-**CMLXXXIV -** Resolução Provincial nº 69, de 9 de maio de 1868;<br>
-**CMLXXXV -** Resolução Provincial nº 70, de 29 de maio de 1868;<br>
-**CMLXXXVI -** Resolução Provincial nº 1, de 8 de junho de 1869;<br>
-**CMLXXXVII -** Lei Provincial nº 2, de 15 de junho de 1869;<br>
-**CMLXXXVIII -** Resolução Provincial nº 3, de 8 de junho de 1869;<br>
-**CMLXXXIX -** Lei Provincial nº 5, de 8 de junho de 1869;<br>
-**CMXC -** Lei Provincial nº 6, de 8 de junho de 1869;<br>
-**CMXCI -** Resolução Provincial nº 7, de 15 de junho de 1869;<br>
-**CMXCII -** Resolução Provincial nº 8, de 15 de junho de 1869;<br>
-**CMXCIII -** Resolução Provincial nº 9, de 15 de junho de 1869;<br>
-**CMXCIV -** Lei Provincial nº 10, de 15 de junho de 1869;<br>
-**CMXCV -** Resolução Provincial nº 11, de 15 de junho de 1869;<br>
-**CMXCVI -** Resolução Provincial nº 14, de 15 de junho de 1869;<br>
-**CMXCVII -** Resolução Provincial nº 15, de 15 de junho de 1869;<br>
-**CMXCVIII -** Resolução Provincial nº 16, de 15 de junho de 1869;<br>
-**CMXCIX -** Lei Provincial nº 17, de 19 de junho de 1869;<br>
-**M -** Resolução Provincial nº 18, de 25 de junho de 1869;<br>
-**MI -** Lei Provincial nº 19, de 25 de junho de 1869;<br>
-**MII -** Lei Provincial nº 20, de 25 de junho de 1869;<br>
-**MIII -** Lei Provincial nº 21, de 25 de junho de 1869;<br>
-**MIV -** Lei Provincial nº 22, de 30 de junho de 1869;<br>
-**MV -** Lei Provincial nº 23, de 25 de junho de 1869;<br>
-**MVI -** Lei Provincial nº 24, de 15 de junho de 1869;<br>
-**MVII -** Resolução Provincial nº 25, de 30 de junho de 1869;<br>
-**MVIII -** Lei Provincial nº 25-A, de 30 de junho de 1869;<br>
-**MIX -** Lei Provincial nº 26, de 05 de julho de 1869;<br>
-**MX -** Lei Provincial nº 27, de 5 de julho de 1869;<br>
-**MXI -** Lei Provincial nº 28, de 5 de julho de 1869;<br>
-**MXII -** Lei Provincial nº 29, de 7 de julho de 1869;<br>
-**MXIII -** Lei Provincial nº 30, de 25 de junho de 1869;<br>
-**MXIV -** Lei Provincial nº 31, de 7 de julho de 1869;<br>
-**MXV -** Lei Provincial nº 32, de 7 de julho de 1869;<br>
-**MXVI -** Resolução Provincial nº 33, de 7 de julho de 1869;<br>
-**MXVII -** Resolução Provincial nº 34, de 7 de julho de 1869;<br>
-**MXVIII -** Lei Provincial nº 35, de 7 de julho de 1869;<br>
-**MXIX -** Lei Provincial nº 37, de 9 de julho de 1869;<br>
-**MXX -** Lei Provincial nº 38, de 9 de julho de 1869;<br>
-**MXXI -** Resolução Provincial nº 39, de 9 de julho de 1869;<br>
-**MXXII -** Lei Provincial nº 40, de 12 de julho de 1869;<br>
-**MXXIII -** Lei Provincial nº 41, de 12 de julho de 1869;<br>
-**MXXIV -** Lei Provincial nº 42, de 12 de julho de 1869;<br>
-**MXXV -** Lei Provincial nº 43, de 12 de julho de 1869;<br>
-**MXXVI -** Lei Provincial nº 44, de 12 de julho de 1869;<br>
-**MXXVII -** Resolução Provincial nº 45, de 12 de julho de 1869;<br>
-**MXXVIII -** Lei Provincial nº 46, de 12 de julho de 1869;<br>
-**MXXIX -** Lei Provincial nº 47, de 14 de julho de 1869;<br>
-**MXXX -** Lei Provincial nº 48, de 14 de julho de 1869;<br>
-**MXXXI -** Lei Provincial nº 50, de 14 de julho de 1869;<br>
-**MXXXII -** Resolução Provincial nº 51, de 14 de julho de 1869;<br>
-**MXXXIII -** Lei Provincial nº 52, de 14 de julho de 1869;<br>
-**MXXXIV -** Resolução Provincial nº 53, de 19 de julho de 1869;<br>
-**MXXXV -** Resolução Provincial nº 54, de 19 de julho de 1869;<br>
-**MXXXVI -** Resolução Provincial nº 56, de 22 de julho de 1869;<br>
-**MXXXVII -** Resolução Provincial nº 57, de 22 de julho de 1869;<br>
-**MXXXVIII -** Resolução Provincial nº 58, de 22 de julho de 1869;<br>
-**MXXXIX -** Resolução Provincial nº 59, de 22 de julho de 1869;<br>
-**MXL -** Resolução Provincial nº 60, de 31 de julho de 1869;<br>
-**MXLI -** Resolução Provincial nº 61, de 31 de julho de 1869;<br>
-**MXLII -** Resolução Provincial nº 62, de 3 de agosto de 1869;<br>
-**MXLIII -** Resolução Provincial nº 63, de 3 de agosto de 1869;<br>
-**MXLIV -** Resolução Provincial nº 64, de 3 de agosto de 1869;<br>
-**MXLV -** Resolução Provincial nº 65, de 3 de agosto de 1869;<br>
-**MXLVI -** Resolução Provincial nº 66, de 7 de agosto de 1869;<br>
-**MXLVII -** Resolução Provincial nº 67, de 3 de agosto de 1869;<br>
-**MXLVIII -** Lei Provincial nº 1, de 19 de fevereiro de 1870;<br>
-**MXLIX -** Lei Provincial nº 2, de 19 de fevereiro de 1870;<br>
-**ML -** Lei Provincial nº 4, de 21 de fevereiro de 1870;<br>
-**MLI -** Lei Provincial nº 5, de 21 de fevereiro de 1870;<br>
-**MLII -** Lei Provincial nº 6, de 5 de março de 1870;<br>
-**MLIII -** Lei Provincial nº 7, de 5 de março de 1870;<br>
-**MLIV -** Lei Provincial nº 8, de 10 de março de 1870;<br>
-**MLV -** Lei Provincial nº 9, de 10 de março de 1870;<br>
-**MLVI -** Lei Provincial nº 10, de 10 de março de 1870;<br>
-**MLVII -** Lei Provincial nº 11, de 14 de março de 1870;<br>
-**MLVIII -** Lei Provincial nº 12, de 15 de março de 1870;<br>
-**MLIX -** Resolução Provincial nº 13, de 15 de março de 1870;<br>
-**MLX -** Resolução Provincial nº 14, de 16 de março de 1870;<br>
-**MLXI -** Lei Provincial nº 15, de 16 de março de 1870;<br>
-**MLXII -** Resolução Provincial nº 16, de 16 de março de 1870;<br>
-**MLXIII -** Resolução Provincial nº 17, de 16 de março de 1870;<br>
-**MLXIV -** Resolução Provincial nº 18, de 16 de março de 1870;<br>
-**MLXV -** Lei Provincial nº 19, de 10 de março de 1870;<br>
-**MLXVI -** Lei Provincial nº 20, de 17 de março de 1870;<br>
-**MLXVII -** Lei Provincial nº 21, de 21 de março de 1870;<br>
-**MLXVIII -** Lei Provincial nº 22, de 22 de março de 1870;<br>
-**MLXIX -** Lei Provincial nº 23, de 22 de março de 1870;<br>
-**MLXX -** Lei Provincial nº 24, de 22 de março de 1870;<br>
-**MLXXI -** Lei Provincial nº 25, de 22 de março de 1870;<br>
-**MLXXII -** Lei Provincial nº 26, de 22 de março de 1870;<br>
-**MLXXIII -** Lei Provincial nº 27, de 23 de março de 1870;<br>
-**MLXXIV -** Lei Provincial nº 28, de 23 de março de 1870;<br>
-**MLXXV -** Lei Provincial nº 29, de 23 de março de 1870;<br>
-**MLXXVI -** Lei Provincial nº 30, de 23 de março de 1870;<br>
-**MLXXVII -** Lei Provincial nº 31, de 23 de março de 1870;<br>
-**MLXXVIII -** Lei Provincial nº 32, de 23 de março de 1870;<br>
-**MLXXIX -** Lei Provincial nº 33, de 23 de março de 1870;<br>
-**MLXXX -** Lei Provincial nº 34, de 24 de março de 1870;<br>
-**MLXXXI -** Lei Provincial nº 35, de 28 de março de 1870;<br>
-**MLXXXII -** Lei Provincial nº 36, de 28 de março de 1870;<br>
-**MLXXXIII -** Resolução Provincial nº 37, de 28 de março de 1870;<br>
-**MLXXXIV -** Lei Provincial nº 38, de 28 de março de 1870;<br>
-**MLXXXV -** Lei Provincial nº 39, de 28 de março de 1870;<br>
-**MLXXXVI -** Lei Provincial nº 40, de 28 de março de 1870;<br>
-**MLXXXVII -** Lei Provincial nº 41, de 28 de março de 1870;<br>
-**MLXXXVIII -** Resolução Provincial nº 42, de 28 de março de 1870;<br>
-**MLXXXIX -** Resolução Provincial nº 43, de 28 de março de 1870;<br>
-**MXC -** Lei Provincial nº 44, de 29 de março de 1870;<br>
-**MXCI -** Lei Provincial nº 45, de 29 de março de 1870;<br>
-**MXCII -** Resolução Provincial nº 46, de 29 de março de 1870;<br>
-**MXCIII -** Lei Provincial nº 48, de 2 de abril de 1870;<br>
-**MXCIV -** Lei Provincial nº 50, de 2 de abril de 1870;<br>
-**MXCV -** Lei Provincial nº 51, de 2 de abril de 1870;<br>
-**MXCVI -** Resolução Provincial nº 52, de 2 de abril de 1870;<br>
-**MXCVII -** Lei Provincial nº 53, de 5 de abril de 1870;<br>
-**MXCVIII -** Lei Provincial nº 54, de 5 de abril de 1870;<br>
-**MXCIX -** Lei Provincial nº 55, de 5 de abril de 1870;<br>
-**MC -** Lei Provincial nº 56, de 5 de abril de 1870;<br>
-**MCI -** Resolução Provincial nº 57, de 5 de abril de 1870;<br>
-**MCII -** Resolução Provincial nº 58, de 5 de abril de 1870;<br>
-**MCIII -** Resolução Provincial nº 59, de 5 de abril de 1870;<br>
-**MCIV -** Resolução Provincial nº 60, de 5 de abril de 1870;<br>
-**MCV -** Resolução Provincial nº 61, de 5 de abril de 1870;<br>
-**MCVI -** Resolução Provincial nº 62, de 5 de abril de 1870;<br>
-**MCVII -** Lei Provincial nº 63, de 7 de abril de 1870;<br>
-**MCVIII -** Lei Provincial nº 64, de 10 de abril de 1870;<br>
-**MCIX -** Lei Provincial nº 65, de 10 de abril de 1870;<br>
-**MCX -** Lei Provincial nº 66, de 10 de abril de 1870;<br>
-**MCXI -** Lei Provincial nº 67, de 10 de abril de 1870;<br>
-**MCXII -** Resolução Provincial nº 68, de 10 de abril de 1870;<br>
-**MCXIII -** Resolução Provincial nº 69, de 10 de abril de 1870;<br>
-**MCXIV -** Resolução Provincial nº 70, de 10 de abril de 1870;<br>
-**MCXV -** Lei Provincial nº 71, de 10 de abril de 1870;<br>
-**MCXVI -** Resolução Provincial nº 72, de 12 de abril de 1870;<br>
-**MCXVII -** Resolução Provincial nº 73, de 12 de abril de 1870;<br>
-**MCXVIII -** Resolução Provincial nº 74, de 12 de abril de 1870;<br>
-**MCXIX -** Resolução Provincial nº 75, de 12 de abril de 1870;<br>
-**MCXX -** Resolução Provincial nº 76, de 12 de abril de 1870;<br>
-**MCXXI -** Resolução Provincial nº 77, de 12 de abril de 1870;<br>
-**MCXXII -** Lei Provincial nº 78, de 12 de abril de 1870;<br>
-**MCXXIII -** Lei Provincial nº 79, de 12 de abril de 1870;<br>
-**MCXXIV -** Lei Provincial nº 80, de 12 de abril de 1870;<br>
-**MCXXV -** Lei Provincial nº 81, de 12 de abril de 1870;<br>
-**MCXXVI -** Resolução Provincial nº 82, de 12 de abril de 1870;<br>
-**MCXXVII -** Resolução Provincial nº 83, de 12 de abril de 1870;<br>
-**MCXXVIII -** Resolução Provincial nº 84, de 12 de abril de 1870;<br>
-**MCXXIX -** Lei Provincial nº 85, de 18 de abril de 1870;<br>
-**MCXXX -** Lei Provincial nº 86, de 18 de abril de 1870;<br>
-**MCXXXI -** Lei Provincial nº 87, de 18 de abril de 1870;<br>
-**MCXXXII -** Lei Provincial nº 88, de 18 de abril de 1870;<br>
-**MCXXXIII -** Lei Provincial nº 89, de 18 de abril de 1870;<br>
-**MCXXXIV -** Lei Provincial nº 90, de 18 de abril de 1870;<br>
-**MCXXXV -** Lei Provincial nº 91, de 18 de abril de 1870;<br>
-**MCXXXVI -** Lei Provincial nº 92, de 19 de abril de 1870;<br>
-**MCXXXVII -** Lei Provincial nº 93, de 21 de abril de 1870;<br>
-**MCXXXVIII -** Resolução Provincial nº 94, de 29 de abril de 1870;<br>
-**MCXXXIX -** Resolução Provincial nº 95, de 29 de abril de 1870;<br>
-**MCXL -** Resolução Provincial nº 96, de 29 de abril de 1870;<br>
-**MCXLI -** Resolução Provincial nº 97, de 29 de abril de 1870;<br>
-**MCXLII -** Resolução Provincial nº 98, de 30 de abril de 1870;<br>
-**MCXLIII -** Resolução Provincial nº 99, de 30 de abril de 1870;<br>
-**MCXLIV -** Resolução Provincial nº 100, de 30 de abril de 1870;<br>
-**MCXLV -** Resolução Provincial nº 101, de 30 de abril de 1870;<br>
-**MCXLVI -** Lei Provincial nº 102, de 30 de abril de 1870;<br>
-**MCXLVII -** Resolução Provincial nº 103, de 3 de maio de 1870;<br>
-**MCXLVIII -** Resolução Provincial nº 104, de 3 de maio de 1870;<br>
-**MCXLIX -** Resolução Provincial nº 105, de 3 de maio de 1870;<br>
-**MCL -** Resolução Provincial nº 106, de 4 de maio de 1870;<br>
-**MCLI -** Resolução Provincial nº 107, de 9 de maio de 1870;<br>
-**MCLII -** Resolução Provincial nº 108, de 10 de maio de 1870;<br>
-**MCLIII -** Resolução Provincial nº 2, de 22 de fevereiro de 1871;<br>
-**MCLIV -** Resolução Provincial nº 3, de 22 de fevereiro de 1871;<br>
-**MCLV -** Resolução Provincial nº 4, de 22 de fevereiro de 1871;<br>
-**MCLVI -** Lei Provincial nº 5, de 24 de fevereiro de 1871;<br>
-**MCLVII -** Resolução Provincial nº 6, de 24 de fevereiro de 1871;<br>
-**MCLVIII -** Lei Provincial nº 7, de 6 de março de 1871;<br>
-**MCLIX -** Lei Provincial nº 8, de 6 de março de 1871;<br>
-**MCLX -** Lei Provincial nº 9, de 6 de março de 1871;<br>
-**MCLXI -** Resolução Provincial nº 10, de 7 de março de 1871;<br>
-**MCLXII -** Lei Provincial nº 11, de 9 de março de 1871;<br>
-**MCLXIII -** Lei Provincial nº 12, de 9 de março de 1871;<br>
-**MCLXIV -** Lei Provincial nº 13, de 9 de março de 1871;<br>
-**MCLXV -** Lei Provincial nº 14, de 9 de março de 1871;<br>
-**MCLXVI -** Lei Provincial nº 15, de 9 de março de 1871;<br>
-**MCLXVII -** Lei Provincial nº 16, de 9 de março de 1871;<br>
-**MCLXVIII -** Resolução Provincial nº 17, de 9 de março de 1871;<br>
-**MCLXIX -** Resolução Provincial nº 18, de 9 de março de 1871;<br>
-**MCLXX -** Resolução Provincial nº 19, de 9 de março de 1871;<br>
-**MCLXXI -** Resolução Provincial nº 20, de 9 de março de 1871;<br>
-**MCLXXII -** Resolução Provincial nº 21, de 10 de março de 1871;<br>
-**MCLXXIII -** Resolução Provincial nº 22, de 10 de março de 1871;<br>
-**MCLXXIV -** Lei Provincial nº 23, de 16 de março de 1871;<br>
-**MCLXXV -** Resolução Provincial nº 24, de 17 de março de 1871;<br>
-**MCLXXVI -** Lei Provincial nº 25, de 17 de março de 1871;<br>
-**MCLXXVII -** Lei Provincial nº 26, de 22 de março de 1871;<br>
-**MCLXXVIII -** Lei Provincial nº 27, de 24 de março de 1871;<br>
-**MCLXXIX -** Lei Provincial nº 28, de 24 de março de 1871;<br>
-**MCLXXX -** Lei Provincial nº 29, de 24 de março de 1871;<br>
-**MCLXXXI -** Lei Provincial nº 30, de 24 de março de 1871;<br>
-**MCLXXXII -** Lei Provincial nº 31, de 24 de março de 1871;<br>
-**MCLXXXIII -** Lei Provincial nº 32, de 24 de março de 1871;<br>
-**MCLXXXIV -** Lei Provincial nº 33, de 29 de março de 1871;<br>
-**MCLXXXV -** Lei Provincial nº 34, de 29 de março de 1871;<br>
-**MCLXXXVI -** Resolução Provincial nº 35, de 30 de março de 1871;<br>
-**MCLXXXVII -** Resolução Provincial nº 36, de 30 de março de 1871;<br>
-**MCLXXXVIII -** Lei Provincial nº 37, de 30 de março de 1871;<br>
-**MCLXXXIX -** Lei Provincial nº 38, de 30 de março de 1871;<br>
-**MCXC -** Lei Provincial nº 39, de 30 de março de 1871;<br>
-**MCXCI -** Lei Provincial nº 40, de 30 de março de 1871;<br>
-**MCXCII -** Lei Provincial nº 41, de 30 de março de 1871;<br>
-**MCXCIII -** Lei Provincial nº 42, de 30 de março de 1871;<br>
-**MCXCIV -** Lei Provincial nº 43, de 1º de abril de 1871;<br>
-**MCXCV -** Lei Provincial nº 44, de 1º de abril de 1871;<br>
-**MCXCVI -** Lei Provincial nº 45, de 1º de abril de 1871;<br>
-**MCXCVII -** Lei Provincial nº 46, de 1º de abril de 1871;<br>
-**MCXCVIII -** Lei Provincial nº 47, de 2 de abril de 1871;<br>
-**MCXCIX -** Lei Provincial nº 49, de 2 de abril de 1871;<br>
-**MCC -** Lei Provincial nº 50, de 7 de abril de 1871;<br>
-**MCCI -** Lei Provincial nº 51, de 7 de abril de 1871;<br>
-**MCCII -** Resolução Provincial nº 52, de 10 de abril de 1871;<br>
-**MCCIII -** Lei Provincial nº 53, de 10 de abril de 1871;<br>
-**MCCIV -** Lei Provincial nº 54, de 10 de abril de 1871;<br>
-**MCCV -** Resolução Provincial nº 55, de 10 de abril de 1871;<br>
-**MCCVI -** Resolução Provincial nº 56, de 10 de abril de 1871;<br>
-**MCCVII -** Resolução Provincial nº 57, de 10 de abril de 1871;<br>
-**MCCVIII -** Resolução Provincial nº 58, de 10 de abril de 1871;<br>
-**MCCIX -** Resolução Provincial nº 59, de 10 de abril de 1871;<br>
-**MCCX -** Resolução Provincial nº 60, de 10 de abril de 1871;<br>
-**MCCXI -** Resolução Provincial nº 61, de 10 de abril de 1871;<br>
-**MCCXII -** Resolução Provincial nº 62, de 11 de abril de 1871;<br>
-**MCCXIII -** Resolução Provincial nº 63, de 11 de abril de 1871;<br>
-**MCCXIV -** Resolução Provincial nº 64, de 11 de abril de 1871;<br>
-**MCCXV -** Lei Provincial nº 65, de 12 de abril de 1871;<br>
-**MCCXVI -** Lei Provincial nº 66, de 12 de abril de 1871;<br>
-**MCCXVII -** Lei Provincial nº 67, de 12 de abril de 1871;<br>
-**MCCXVIII -** Lei Provincial nº 68, de 12 de abril de 1871;<br>
-**MCCXIX -** Lei Provincial nº 69, de 12 de abril de 1871;<br>
-**MCCXX -** Lei Provincial nº 70, de 13 de abril de 1871;<br>
-**MCCXXI -** Resolução Provincial nº 71, de 14 de abril de 1871;<br>
-**MCCXXII -** Resolução Provincial nº 72, de 14 de abril de 1871;<br>
-**MCCXXIII -** Resolução Provincial nº 73, de 14 de abril de 1871;<br>
-**MCCXXIV -** Resolução Provincial nº 74, de 14 de abril de 1871;<br>
-**MCCXXV -** Resolução Provincial nº 75, de 14 de abril de 1871;<br>
-**MCCXXVI -** Resolução Provincial nº 76, de 14 de abril de 1871;<br>
-**MCCXXVII -** Resolução Provincial nº 77, de 14 de abril de 1871;<br>
-**MCCXXVIII -** Resolução Provincial nº 78, de 14 de abril de 1871;<br>
-**MCCXXIX -** Resolução Provincial nº 79, de 14 de abril de 1871;<br>
-**MCCXXX -** Resolução Provincial nº 80, de 14 de abril de 1871;<br>
-**MCCXXXI -** Resolução Provincial nº 81, de 14 de abril de 1871;<br>
-**MCCXXXII -** Resolução Provincial nº 82, de 14 de abril de 1871;<br>
-**MCCXXXIII -** Resolução Provincial nº 83, de 14 de abril de 1871;<br>
-**MCCXXXIV -** Resolução Provincial nº 84, de 14 de abril de 1871;<br>
-**MCCXXXV -** Resolução Provincial nº 85, de 15 de abril de 1871;<br>
-**MCCXXXVI -** Resolução Provincial nº 86, de 15 de abril de 1871;<br>
-**MCCXXXVII -** Resolução Provincial nº 87, de 2 de maio de 1871;<br>
-**MCCXXXVIII -** Resolução Provincial nº 88, de 2 de maio de 1871;<br>
-**MCCXXXIX -** Resolução Provincial nº 89, de 2 de maio de 1871;<br>
-**MCCXL -** Lei Provincial nº 1, de 28 de fevereiro de 1872;<br>
-**MCCXLI -** Lei Provincial nº 2, de 28 de fevereiro de 1872;<br>
-**MCCXLII -** Resolução Provincial nº 3, de 7 de março de 1872;<br>
-**MCCXLIII -** Resolução Provincial nº 4, de 7 de março de 1872;<br>
-**MCCXLIV -** Lei Provincial nº 5, de 8 de março de 1872;<br>
-**MCCXLV -** Resolução Provincial nº 6, de 9 de março de 1872;<br>
-**MCCXLVI -** Lei Provincial nº 7, de 11 de março de 1872;<br>
-**MCCXLVII -** Resolução Provincial nº 8, de 11 de março de 1872;<br>
-**MCCXLVIII -** Resolução Provincial nº 9, de 11 de março de 1872;<br>
-**MCCXLIX -** Lei Provincial nº 10, de 13 de março de 1872;<br>
-**MCCL -** Lei Provincial nº 11, de 13 de março de 1872;<br>
-**MCCLI -** Resolução Provincial nº 12, de 13 de março de 1872;<br>
-**MCCLII -** Resolução Provincial nº 13, de 15 de março de 1872;<br>
-**MCCLIII -** Resolução Provincial nº 14, de 15 de março de 1872;<br>
-**MCCLIV -** Lei Provincial nº 15, de 15 de março de 1872;<br>
-**MCCLV -** Resolução Provincial nº 16, de 15 de março de 1872;<br>
-**MCCLVI -** Resolução Provincial nº 17, de 15 de março de 1872;<br>
-**MCCLVII -** Lei Provincial nº 18, de 21 de março de 1872;<br>
-**MCCLVIII -** Lei Provincial nº 19, de 26 de março de 1872;<br>
-**MCCLIX -** Resolução Provincial nº 20, de 27 de março de 1872;<br>
-**MCCLX -** Lei Provincial nº 21, de 27 de março de 1872;<br>
-**MCCLXI -** Lei Provincial nº 22, de 27 de março de 1872;<br>
-**MCCLXII -** Resolução Provincial nº 23, de 27 de março de 1872;<br>
-**MCCLXIII -** Resolução Provincial nº 24, de 27 de março de 1872;<br>
-**MCCLXIV -** Resolução Provincial nº 25, de 27 de março de 1872;<br>
-**MCCLXV -** Lei Provincial nº 26, de 27 de março de 1872;<br>
-**MCCLXVI -** Resolução Provincial nº 27, de 30 de março de 1872;<br>
-**MCCLXVII -** Lei Provincial nº 28, de 4 de abril de 1872;<br>
-**MCCLXVIII -** Resolução Provincial nº 29, de 4 de abril de 1872;<br>
-**MCCLXIX -** Resolução Provincial nº 30, de 4 de abril de 1872;<br>
-**MCCLXX -** Resolução Provincial nº 31, de 4 de abril de 1872;<br>
-**MCCLXXI -** Lei Provincial nº 32, de 4 de abril de 1872;<br>
-**MCCLXXII -** Resolução Provincial nº 33, de 4 de abril de 1872;<br>
-**MCCLXXIII -** Lei Provincial nº 34, de 5 de abril de 1872;<br>
-**MCCLXXIV -** Lei Provincial nº 35, de 6 de abril de 1872;<br>
-**MCCLXXV -** Lei Provincial nº 36, de 6 de abril de 1872;<br>
-**MCCLXXVI -** Lei Provincial nº 37, de 6 de abril de 1872;<br>
-**MCCLXXVII -** Lei Provincial nº 38, de 6 de abril de 1872;<br>
-**MCCLXXVIII -** Lei Provincial nº 39, de 6 de abril de 1872;<br>
-**MCCLXXIX -** Lei Provincial nº 40, de 6 de abril de 1872;<br>
-**MCCLXXX -** Lei Provincial nº 41, de 6 de abril de 1872;<br>
-**MCCLXXXI -** Resolução Provincial nº 42, de 6 de abril de 1872;<br>
-**MCCLXXXII -** Resolução Provincial nº 43, de 6 de abril de 1872;<br>
-**MCCLXXXIII -** Lei Provincial nº 44, de 6 de abril de 1872;<br>
-**MCCLXXXIV -** Lei Provincial nº 45, de 6 de abril de 1872;<br>
-**MCCLXXXV -** Lei Provincial nº 46, de 6 de abril de 1872;<br>
-**MCCLXXXVI -** Lei Provincial nº 47, de 6 de abril de 1872;<br>
-**MCCLXXXVII -** Lei Provincial nº 48, de 6 de abril de 1872;<br>
-**MCCLXXXVIII -** Resolução Provincial nº 49, de 9 de abril de 1872;<br>
-**MCCLXXXIX -** Lei Provincial nº 50, de 9 de abril de 1872;<br>
-**MCCXC -** Lei Provincial nº 51, de 10 de abril de 1872;<br>
-**MCCXCI -** Lei Provincial nº 52, de 10 de abril de 1872;<br>
-**MCCXCII -** Lei Provincial nº 53, de 10 de abril de 1872;<br>
-**MCCXCIII -** Resolução Provincial nº 53-A, de 6 de abril de 1872;<br>
-**MCCXCIV -** Lei Provincial nº 54, de 13 de abril de 1872;<br>
-**MCCXCV -** Resolução Provincial nº 55, de 13 de abril de 1872;<br>
-**MCCXCVI -** Resolução Provincial nº 56, de 13 de abril de 1872;<br>
-**MCCXCVII -** Resolução Provincial nº 57, de 13 de abril de 1872;<br>
-**MCCXCVIII -** Lei Provincial nº 58, de 13 de abril de 1872;<br>
-**MCCXCIX -** Resolução Provincial nº 59, de 13 de abril de 1872;<br>
-**MCCC -** Resolução Provincial nº 60, de 13 de abril de 1872;<br>
-**MCCCI -** Resolução Provincial nº 61, de 13 de abril de 1872;<br>
-**MCCCII -** Lei Provincial nº 62, de 13 de abril de 1872;<br>
-**MCCCIII -** Resolução Provincial nº 63, de 13 de abril de 1872;<br>
-**MCCCIV -** Resolução Provincial nº 64, de 14 de abril de 1872;<br>
-**MCCCV -** Lei Provincial nº 65, de 14 de abril de 1872;<br>
-**MCCCVI -** Lei Provincial nº 66, de 18 de abril de 1872;<br>
-**MCCCVII -** Lei Provincial nº 67, de 18 de abril de 1872;<br>
-**MCCCVIII -** Resolução Provincial nº 68, de 19 de abril de 1872;<br>
-**MCCCIX -** Lei Provincial nº 69, de 19 de abril de 1872;<br>
-**MCCCX -** Resolução Provincial nº 70, de 19 de abril de 1872;<br>
-**MCCCXI -** Lei Provincial nº 71, de 20 de abril de 1872;<br>
-**MCCCXII -** Lei Provincial nº 72, de 20 de abril de 1872;<br>
-**MCCCXIII -** Lei Provincial nº 73, de 26 de abril de 1872;<br>
-**MCCCXIV -** Resolução Provincial nº 74, de 6 de maio de 1872;<br>
-**MCCCXV -** Resolução Provincial nº 1, de 8 de março de 1873;<br>
-**MCCCXVI -** Lei Provincial nº 2, de 8 de março de 1873;<br>
-**MCCCXVII -** Lei Provincial nº 3, de 8 de março de 1873;<br>
-**MCCCXVIII -** Lei Provincial nº 4, de 8 de março de 1873;<br>
-**MCCCXIX -** Lei Provincial nº 5, de 8 de março de 1873;<br>
-**MCCCXX -** Resolução Provincial nº 6, de 8 de março de 1873;<br>
-**MCCCXXI -** Resolução Provincial nº 7, de 8 de março de 1873;<br>
-**MCCCXXII -** Resolução Provincial nº 8, de 8 de março de 1873;<br>
-**MCCCXXIII -** Lei Provincial nº 9, de 12 de março de 1873;<br>
-**MCCCXXIV -** Resolução Provincial nº 10, de 12 de março de 1873;<br>
-**MCCCXXV -** Resolução Provincial nº 11, de 12 de março de 1873;<br>
-**MCCCXXVI -** Resolução Provincial nº 12, de 12 de março de 1873;<br>
-**MCCCXXVII** \- Resolução Provincial nº 13, de 12 de março de 1873;<br>
-**MCCCXXVIII -** Lei Provincial nº 14, de 13 de março de 1873;<br>
-**MCCCXXIX -** Lei Provincial nº 15, de 16 de março de 1873;<br>
-**MCCCXXX -** Lei Provincial nº 16, de 16 de março de 1873;<br>
-**MCCCXXXI -** Lei Provincial nº 17, de 16 de março de 1873;<br>
-**MCCCXXXII -** Lei Provincial nº 18, de 16 de março de 1873;<br>
-**MCCCXXXIII -** Lei Provincial nº 19, de 16 de março de 1873;<br>
-**MCCCXXXIV -** Lei Provincial nº 20, de 16 de março de 1873;<br>
-**MCCCXXXV -** Lei Provincial nº 21, de 16 de março de 1873;<br>
-**MCCCXXXVI -** Lei Provincial nº 22, de 16 de março de 1873;<br>
-**MCCCXXXVII -** Lei Provincial nº 23, de 16 de março de 1873;<br>
-**MCCCXXXVIII -** Lei Provincial nº 24, de 16 de março de 1873;<br>
-**MCCCXXXIX -** Resolução Provincial nº 25, de 16 de março de 1873;<br>
-**MCCCXL -** Resolução Provincial nº 26, de 17 de março de 1873;<br>
-**MCCCXLI -** Resolução Provincial nº 27, de 17 de março de 1873;<br>
-**MCCCXLII -** Resolução Provincial nº 28, de 17 de março de 1873;<br>
-**MCCCXLIII -** Resolução Provincial nº 29, de 17 de março de 1873;<br>
-**MCCCXLIV -** Resolução Provincial nº 30, de 16 de março de 1873;<br>
-**MCCCXLV -** Resolução Provincial nº 31, de 16 de março de 1873;<br>
-**MCCCXLVI -** Resolução Provincial nº 33, de 19 de março de 1873;<br>
-**MCCCXLVII -** Resolução Provincial nº 34, de 19 de março de 1873;<br>
-**MCCCXLVIII -** Resolução Provincial nº 35, de 19 de março de 1873;<br>
-**MCCCXLIX -** Lei Provincial nº 36, de 24 de março de 1873;<br>
-**MCCCL -** Resolução Provincial nº 37, de 24 de março de 1873;<br>
-**MCCCLI -** Resolução Provincial nº 38, de 24 de março de 1873;<br>
-**MCCCLII -** Lei Provincial nº 39, de 3 de abril de 1873;<br>
-**MCCCLIII -** Lei Provincial nº 40, de 3 de abril de 1873;<br>
-**MCCCLIV -** Lei Provincial nº 41, de 3 de abril de 1873;<br>
-**MCCCLV -** Lei Provincial nº 42, de 3 de abril de 1873;<br>
-**MCCCLVI -** Resolução Provincial nº 43, de 3 de abril de 1873;<br>
-**MCCCLVII -** Resolução Provincial nº 44, de 3 de abril de 1873;<br>
-**MCCCLVIII -** Resolução Provincial nº 45, de 3 de abril de 1873;<br>
-**MCCCLIX -** Resolução Provincial nº 46, de 3 de abril de 1873;<br>
-**MCCCLX -** Resolução Provincial nº 47, de 3 de abril de 1873;<br>
-**MCCCLXI -** Lei Provincial nº 48, de 14 de abril de 1873;<br>
-**MCCCLXII -** Lei Provincial nº 49, de 14 de abril de 1873;<br>
-**MCCCLXIII -** Lei Provincial nº 50, de 14 de abril de 1873;<br>
-**MCCCLXIV -** Lei Provincial nº 51, de 14 de abril de 1873;<br>
-**MCCCLXV -** Lei Provincial nº 52, de 14 de abril de 1873;<br>
-**MCCCLXVI -** Lei Provincial nº 53, de 14 de abril de 1873;<br>
-**MCCCLXVII -** Resolução Provincial nº 54, de 14 de abril de 1873;<br>
-**MCCCLXVIII -** Resolução Provincial nº 55, de 14 de abril de 1873;<br>
-**MCCCLXIX -** Resolução Provincial nº 56, de 14 de abril de 1873;<br>
-**MCCCLXX -** Resolução Provincial nº 57, de 14 de abril de 1873;<br>
-**MCCCLXXI -** Lei Provincial nº 58, de 15 de abril de 1873;<br>
-**MCCCLXXII -** Lei Provincial nº 59, de 15 de abril de 1873;<br>
-**MCCCLXXIII -** Lei Provincial nº 60, de 15 de abril de 1873;<br>
-**MCCCLXXIV -** Lei Provincial nº 61, de 15 de abril de 1873;<br>
-**MCCCLXXV -** Lei Provincial nº 62, de 15 de abril de 1873;<br>
-**MCCCLXXVI -** Lei Provincial nº 63, de 15 de abril de 1873;<br>
-**MCCCLXXVII -** Lei Provincial nº 64, de 15 de abril de 1873;<br>
-**MCCCLXXVIII -** Resolução Provincial nº 65, de 19 de abril de 1873;<br>
-**MCCCLXXIX -** Resolução Provincial nº 66, de 19 de abril de 1873;<br>
-**MCCCLXXX -** Resolução Provincial nº 67, de 19 de abril de 1873;<br>
-**MCCCLXXXI -** Resolução Provincial nº 68, de 20 de abril de 1873;<br>
-**MCCCLXXXII -** Lei Provincial nº 69, de 20 de abril de 1873;<br>
-**MCCCLXXXIII -** Lei Provincial nº 70, de 20 de abril de 1873;<br>
-**MCCCLXXXIV -** Lei Provincial nº 72, de 20 de abril de 1873;<br>
-**MCCCLXXXV -** Lei Provincial nº 73, de 20 de abril de 1873;<br>
-**MCCCLXXXVI -** Lei Provincial nº 74, de 20 de abril de 1873;<br>
-**MCCCLXXXVII -** Resolução Provincial nº 75, de 20 de abril de 1873;<br>
-**MCCCLXXXVIII -** Lei Provincial nº 76, de 20 de abril de 1873;<br>
-**MCCCLXXXIX -** Resolução Provincial nº 77, de 20 de abril de 1873;<br>
-**MCCCXC -** Lei Provincial nº 78, de 21 de abril de 1873;<br>
-**MCCCXCI -** Lei Provincial nº 79, de 22 de abril de 1873;<br>
-**MCCCXCII -** Lei Provincial nº 80, de 23 de abril de 1873;<br>
-**MCCCXCIII -** Lei Provincial nº 81, de 24 de abril de 1873;<br>
-**MCCCXCIV -** Lei Provincial nº 82, de 25 de abril de 1873;<br>
-**MCCCXCV -** Lei Provincial nº 83, de 25 de abril de 1873;<br>
-**MCCCXCVI -** Resolução Provincial nº 84, de 25 de abril de 1873;<br>
-**MCCCXCVII -** Lei Provincial nº 85, de 25 de abril de 1873;<br>
-**MCCCXCVIII -** Lei Provincial nº 86, de 25 de abril de 1873;<br>
-**MCCCXCIX -** Lei Provincial nº 87, de 25 de abril de 1873;<br>
-**MCD -** Resolução Provincial nº 88, de 26 de abril de 1873;<br>
-**MCDI -** Lei Provincial nº 89, de 30 de abril de 1873;<br>
-**MCDII -** Lei Provincial nº 90, de 30 de abril de 1873;<br>
-**MCDIII -** Lei Provincial nº 91, de 25 de abril de 1873;<br>
-**MCDIV -** Resolução Provincial nº 92, de 14 de maio de 1873;<br>
-**MCDV -** Resolução Provincial nº 93, de 14 de maio de 1873;<br>
-**MCDVI -** Resolução Provincial nº 94, de 14 de maio de 1873;<br>
-**MCDVII -** Resolução Provincial nº 95, de 14 de maio de 1873;<br>
-**MCDVIII -** Resolução Provincial nº 96, de 14 de maio de 1873;<br>
-**MCDIX -** Resolução Provincial nº 97, de 14 de maio de 1873;<br>
-**MCDX -** Resolução Provincial nº 98, de 18 de maio de 1873;<br>
-**MCDXI -** Resolução Provincial nº 99, de 18 de maio de 1873;<br>
-**MCDXII -** Resolução Provincial nº 100, de 7 de julho de 1873;<br>
-**MCDXIII -** Lei Provincial nº 1, de 6 de março de 1874;<br>
-**MCDXIV -** Lei Provincial nº 2, de 9 de março de 1874;<br>
-**MCDXV -** Lei Provincial nº 3, de 13 de março de 1874;<br>
-**MCDXVI -** Lei Provincial nº 4, de 13 de março de 1874;<br>
-**MCDXVII -** Resolução Provincial nº 6, de 13 de março de 1874;<br>
-**MCDXVIII -** Lei Provincial nº 7, de 20 de março de 1874;<br>
-**MCDXIX -** Resolução Provincial nº 8, de 20 de março de 1874;<br>
-**MCDXX -** Lei Provincial nº 9, de 22 de março de 1874;<br>
-**MCDXXI -** Lei Provincial nº 10, de 24 de março de 1874;<br>
-**MCDXXII -** Lei Provincial nº 11, de 26 de março de 1874;<br>
-**MCDXXIII -** Lei Provincial nº 12, de 30 de março de 1874;<br>
-**MCDXXIV -** Lei Provincial nº 13, de 30 de março de 1874;<br>
-**MCDXXV -** Lei Provincial nº 14, de 30 de março de 1874;<br>
-**MCDXXVI -** Lei Provincial nº 15, de 30 de março de 1874;<br>
-**MCDXXVII -** Lei Provincial nº 16, de 30 de março de 1874;<br>
-**MCDXXVIII -** Lei Provincial nº 17, de 30 de março de 1874;<br>
-**MCDXXIX -** Lei Provincial nº 18, de 30 de março de 1874;<br>
-**MCDXXX -** Resolução Provincial nº 19, de 30 de março de 1874;<br>
-**MCDXXXI -** Resolução Provincial nº 20, de 30 de março de 1874;<br>
-**MCDXXXII -** Resolução Provincial nº 21, de 30 de março de 1874;<br>
-**MCDXXXIII -** Resolução Provincial nº 22, de 30 de março de 1874;<br>
-**MCDXXXIV -** Lei Provincial nº 23, de 30 de março de 1874;<br>
-**MCDXXXV -** Lei Provincial nº 25, de 30 de março de 1874;<br>
-**MCDXXXVI -** Resolução Provincial nº 26, de 1º de abril de 1874;<br>
-**MCDXXXVII -** Resolução Provincial nº 27, de 1º de abril de 1874;<br>
-**MCDXXXVIII -** Resolução Provincial nº 28, de 1º de abril de 1874;<br>
-**MCDXXXIX -** Lei Provincial nº 29, de 10 de abril de 1874;<br>
-**MCDXL -** Lei Provincial nº 30, de 10 de abril de 1874;<br>
-**MCDXLI -** Resolução Provincial nº 31, de 11 de abril de 1874;<br>
-**MCDXLII -** Resolução Provincial nº 32, de 11 de abril de 1874;<br>
-**MCDXLIII -** Resolução Provincial nº 33, de 11 de abril de 1874;<br>
-**MCDXLIV -** Lei Provincial nº 34, de 11 de abril de 1874;<br>
-**MCDXLV -** Resolução Provincial nº 35, de 11 de abril de 1874;<br>
-**MCDXLVI -** Resolução Provincial nº 36, de 11 de abril de 1874;<br>
-**MCDXLVII -** Lei Provincial nº 37, de 11 de abril de 1874;<br>
-**MCDXLVIII -** Lei Provincial nº 38, de 16 de abril de 1874;<br>
-**MCDXLIX -** Lei Provincial nº 39, de 16 de abril de 1874;<br>
-**MCDL -** Lei Provincial nº 40, de 16 de abril de 1874;<br>
-**MCDLI -** Lei Provincial nº 41, de 16 de abril de 1874;<br>
-**MCDLII -** Lei Provincial nº 42, de 16 de abril de 1874;<br>
-**MCDLIII -** Lei Provincial nº 43, de 16 de abril de 1874;<br>
-**MCDLIV -** Lei Provincial nº 44, de 16 de abril de 1874;<br>
-**MCDLV -** Lei Provincial nº 45, de 16 de abril de 1874;<br>
-**MCDLVI -** Lei Provincial nº 46, de 17 de abril de 1874;<br>
-**MCDLVII -** Lei Provincial nº 47, de 17 de abril de 1874;<br>
-**MCDLVIII -** Lei Provincial nº 48, de 17 de abril de 1874;<br>
-**MCDLIX -** Lei Provincial nº 49, de 17 de abril de 1874;<br>
-**MCDLX -** Lei Provincial nº 50, de 17 de abril de 1874;<br>
-**MCDLXI -** Lei Provincial nº 51, de 17 de abril de 1874;<br>
-**MCDLXII -** Lei Provincial nº 52, de 24 de abril de 1874;<br>
-**MCDLXIII -** Resolução Provincial nº 53, de 28 de abril de 1874;<br>
-**MCDLXIV -** Resolução Provincial nº 54, de 28 de abril de 1874;<br>
-**MCDLXV -** Resolução Provincial nº 55, de 28 de abril de 1874;<br>
-**MCDLXVI -** Resolução Provincial nº 56, de 28 de abril de 1874;<br>
-**MCDLXVII -** Resolução Provincial nº 57, de 28 de abril de 1874;<br>
-**MCDLXVIII -** Resolução Provincial nº 58, de 28 de abril de 1874;<br>
-**MCDLXIX -** Resolução Provincial nº 59, de 28 de abril de 1874;<br>
-**MCDLXX -** Resolução Provincial nº 60, de 28 de abril de 1874;<br>
-**MCDLXXI -** Resolução Provincial nº 61, de 28 de abril de 1874;<br>
-**MCDLXXII -** Resolução Provincial nº 62, de 28 de abril de 1874;<br>
-**MCDLXXIII -** Resolução Provincial nº 63, de 28 de abril de 1874;<br>
-**MCDLXXIV -** Resolução Provincial nº 64, de 28 de abril de 1874;<br>
-**MCDLXXV -** Resolução Provincial nº 65, de 23 de maio de 1874;<br>
-**MCDLXXVI -** Resolução Provincial nº 66, de 23 de maio de 1874;<br>
-**MCDLXXVII -** Resolução Provincial nº 67, de 23 de maio de 1874;<br>
-**MCDLXXVIII -** Resolução Provincial nº 68, de 23 de maio de 1874;<br>
-**MCDLXXIX -** Lei Provincial nº 1, de 24 de fevereiro de 1875;<br>
-**MCDLXXX -** Lei Provincial nº 2, de 24 de fevereiro de 1875;<br>
-**MCDLXXXI -** Lei Provincial nº 3, de 4 de março de 1875;<br>
-**MCDLXXXII -** Lei Provincial nº 4, de 7 de março de 1875;<br>
-**MCDLXXXIII -** Lei Provincial nº 5, de 8 de março de 1875;<br>
-**MCDLXXXIV -** Resolução Provincial nº 6, de 12 de março de 1875;<br>
-**MCDLXXXV -** Lei Provincial nº 7, de 15 de março de 1875;<br>
-**MCDLXXXVI -** Lei Provincial nº 9, de 20 de março de 1875;<br>
-**MCDLXXXVII -** Lei Provincial nº 10, de 22 de março de 1875;<br>
-**MCDLXXXVIII -** Resolução Provincial nº 11, de 22 de março de 1875;<br>
-**MCDLXXXIX -** Resolução Provincial nº 12, de 23 de março de 1875;<br>
-**MCDXC -** Lei Provincial nº 13, de 1º de abril de 1875;<br>
-**MCDXCI -** Lei Provincial nº 14, de 2 de abril de 1875;<br>
-**MCDXCII -** Lei Provincial nº 15, de 2 de abril de 1875;<br>
-**MCDXCIII -** Lei Provincial nº 16, de 2 de abril de 1875;<br>
-**MCDXCIV -** Lei Provincial nº 17, de 2 de abril de 1875;<br>
-**MCDXCV -** Lei Provincial nº 18, de 6 de abril de 1875;<br>
-**MCDXCVI -** Lei Provincial nº 19, de 6 de abril de 1875;<br>
-**MCDXCVII -** Lei Provincial nº 20, de 8 de abril de 1875;<br>
-**MCDXCVIII -** Resolução Provincial nº 21, de 10 de abril de 1875;<br>
-**MCDXCIX -** Resolução Provincial nº 22, de 9 de abril de 1875;<br>
-**MD -** Resolução Provincial nº 23, de 12 de abril de 1875;<br>
-**MDI -** Resolução Provincial nº 24, de 13 de abril de 1875;<br>
-**MDII -** Lei Provincial nº 25, de 13 de abril de 1875;<br>
-**MDIII -** Resolução Provincial nº 26, de 13 de abril de 1875;<br>
-**MDIV -** Lei Provincial nº 27, de 14 de abril de 1875;<br>
-**MDV -** Resolução Provincial nº 28, de 16 de abril de 1875;<br>
-**MDVI -** Lei Provincial nº 29, de 17 de abril de 1875;<br>
-**MDVII -** Lei Provincial nº 30, de 20 de abril de 1875;<br>
-**MDVIII -** Lei Provincial nº 31, de 20 de abril de 1875;<br>
-**MDIX -** Lei Provincial nº 32, de 20 de abril de 1875;<br>
-**MDX -** Resolução Provincial nº 33, de 20 de abril de 1875;<br>
-**MDXI -** Lei Provincial nº 34, de 20 de abril de 1875;<br>
-**MDXII -** Lei Provincial nº 35, de 20 de abril de 1875;<br>
-**MDXIII -** Resolução Provincial nº 36, de 20 de abril de 1875;<br>
-**MDXIV -** Lei Provincial nº 37, de 20 de abril de 1875;<br>
-**MDXV -** Lei Provincial nº 38, de 20 de abril de 1875;<br>
-**MDXVI -** Resolução Provincial nº 39, de 20 de abril de 1875;<br>
-**MDXVII -** Resolução Provincial nº 40, de 20 de abril de 1875;<br>
-**MDXVIII -** Resolução Provincial nº 41, de 20 de abril de 1875;<br>
-**MDXIX -** Resolução Provincial nº 42, de 20 de abril de 1875;<br>
-**MDXX -** Resolução Provincial nº 43, de 20 de abril de 1875;<br>
-**MDXXI -** Resolução Provincial nº 44, de 20 de abril de 1875;<br>
-**MDXXII -** Lei Provincial nº 45, de 20 de abril de 1875;<br>
-**MDXXIII -** Lei Provincial nº 46, de 21 de abril de 1875;<br>
-**MDXXIV -** Lei Provincial nº 47, de 21 de abril de 1875;<br>
-**MDXXV -** Resolução Provincial nº 48, de 21 de abril de 1875;<br>
-**MDXXVI -** Resolução Provincial nº 49, de 21 de abril de 1875;<br>
-**MDXXVII -** Lei Provincial nº 50, de 23 de abril de 1875;<br>
-**MDXXVIII -** Lei Provincial nº 51, de 23 de abril de 1875;<br>
-**MDXXIX -** Lei Provincial nº 52, de 21 de abril de 1875;<br>
-**MDXXX -** Lei Provincial nº 53, de 23 de abril de 1875;<br>
-**MDXXXI -** Lei Provincial nº 54, de 23 de abril de 1875;<br>
-**MDXXXII -** Resolução Provincial nº 55, de 23 de abril de 1875;<br>
-**MDXXXIII -** Resolução Provincial nº 56, de 23 de abril de 1875;<br>
-**MDXXXIV -** Resolução Provincial nº 57, de 23 de abril de 1875;<br>
-**MDXXXV -** Resolução Provincial nº 58, de 25 de abril de 1875;<br>
-**MDXXXVI -** Resolução Provincial nº 59 de 31 de maio de 1875;<br>
-**MDXXXVII -** Resolução Provincial nº 60, de 31 de maio de 1875;<br>
-**MDXXXVIII -** Resolução Provincial nº 61, de 31 de maio de 1875;<br>
-**MDXXXIX -** Resolução Provincial nº 62, de 31 de maio de 1875;<br>
-**MDXL -** Resolução Provincial nº 63, de 31 de maio de 1875;<br>
-**MDXLI -** Resolução Provincial nº 64, de 31 de maio de 1875;<br>
-**MDXLII -** Resolução Provincial nº 65, de 31 de maio de 1875;<br>
-**MDXLIII -** Resolução Provincial nº 66, de 31 de maio de 1875;<br>
-**MDXLIV -** Resolução Provincial nº 67, de 31 de maio de 1875;<br>
-**MDXLV -** Resolução Provincial nº 68, de 31 de maio de 1875;<br>
-**MDXLVI -** Resolução Provincial nº 69, de 31 de maio de 1875;<br>
-**MDXLVII -** Resolução Provincial nº 70, de 31 de maio de 1875;<br>
-**MDXLVIII -** Resolução Provincial nº 71, de 31 de maio de 1875;<br>
-**MDXLIX -** Resolução Provincial nº 72, de 31 de maio de 1875;<br>
-**MDL -** Lei Provincial nº 1, de 2 de julho de 1875;<br>
-**MDLI -** Lei Provincial nº 2, de 2 de julho de 1875;<br>
-**MDLII -** Lei Provincial nº 3, de 5 de julho de 1875;<br>
-**MDLIII -** Lei Provincial nº 4, de 5 de julho de 1875;<br>
-**MDLIV -** Lei Provincial nº 5, de 6 de julho de 1875;<br>
-**MDLV -** Resolução Provincial nº 6, de 5 de julho de 1875;<br>
-**MDLVI -** Lei Provincial nº 6-A, de 6 de julho de 1875;<br>
-**MDLVII -** Lei Provincial nº 7, de 6 de julho de 1875;<br>
-**MDLVIII -** Lei Provincial nº 8, de 6 de julho de 1875;<br>
-**MDLIX -** Lei Provincial nº 9, de 6 de julho de 1875;<br>
-**MDLX -** Lei Provincial nº 10, de 7 de julho de 1875;<br>
-**MDLXI -** Lei Provincial nº 11, de 7 de julho de 1875;<br>
-**MDLXII -** Resolução Provincial nº 12, de 7 de julho de 1875;<br>
-**MDLXIII -** Resolução Provincial nº 13, de 7 de julho de 1875;<br>
-**MDLXIV -** Lei Provincial nº 14, de 7 de julho de 1875;<br>
-**MDLXV -** Lei Provincial nº 15, de 7 de julho de 1875;<br>
-**MDLXVI -** Lei Provincial nº 16, de 9 de julho de 1875;<br>
-**MDLXVII -** Lei Provincial nº 1, de 21 de fevereiro de 1876;<br>
-**MDLXVIII -** Resolução Provincial nº 2, de 21 de fevereiro de 1876;<br>
-**MDLXIX -** Lei Provincial nº 3, de 21 de fevereiro de 1876;<br>
-**MDLXX -** Resolução Provincial nº 4, de 21 de fevereiro de 1876;<br>
-**MDLXXI -** Resolução Provincial nº 5, de 21 de fevereiro de 1876;<br>
-**MDLXXII -** Lei Provincial nº 6, de 24 de fevereiro de 1876;<br>
-**MDLXXIII -** Resolução Provincial nº 7, de 25 de fevereiro de 1876;<br>
-**MDLXXIV -** Resolução Provincial nº 8, de 25 de fevereiro de 1876;<br>
-**MDLXXV -** Lei Provincial nº 9, de 4 de março de 1876;<br>
-**MDLXXVI -** Lei Provincial nº 10, de 5 de março de 1876;<br>
-**MDLXXVII -** Resolução Provincial nº 11, de 5 de março de 1876;<br>
-**MDLXXVIII -** Lei Provincial nº 12, de 9 de março de 1876;<br>
-**MDLXXIX -** Lei Provincial nº 13, de 9 de março de 1876;<br>
-**MDLXXX -** Lei Provincial nº 14, de 9 de março de 1876;<br>
-**MDLXXXI -** Lei Provincial nº 15, de 10 de março de 1876;<br>
-**MDLXXXII -** Lei Provincial nº 16, de 16 de março de 1876;<br>
-**MDLXXXIII -** Lei Provincial nº 17, de 16 de março de 1876;<br>
-**MDLXXXIV -** Lei Provincial nº 18, de 16 de março de 1876;<br>
-**MDLXXXV -** Resolução Provincial nº 19, de 16 de março de 1876;<br>
-**MDLXXXVI -** Resolução Provincial nº 20, de 16 de março de 1876;<br>
-**MDLXXXVII -** Resolução Provincial nº 21, de 16 de março de 1876;<br>
-**MDLXXXVIII -** Resolução Provincial nº 22, de 16 de março de 1876;<br>
-**MDLXXXIX -** Resolução Provincial nº 23, de 17 de março de 1876;<br>
-**MDXC -** Resolução Provincial nº 24, de 17 de março de 1876;<br>
-**MDXCI -** Resolução Provincial nº 25, de 17 de março de 1876;<br>
-**MDXCII -** Resolução Provincial nº 26, de 17 de março de 1876;<br>
-**MDXCIII -** Resolução Provincial nº 27, de 17 de março de 1876;<br>
-**MDXCIV -** Resolução Provincial nº 28, de 17 de março de 1876;<br>
-**MDXCV -** Resolução Provincial nº 29, de 17 de março de 1876;<br>
-**MDXCVI -** Resolução Provincial nº 30, de 17 de março de 1876;<br>
-**MDXCVII -** Resolução Provincial nº 31, de 17 de março de 1876;<br>
-**MDXCVIII -** Resolução Provincial nº 32, de 17 de março de 1876;<br>
-**MDXCIX -** Lei Provincial nº 33, de 24 de março de 1876;<br>
-**MDC -** Lei Provincial nº 34, de 29 de março de 1876;<br>
-**MDCI -** Lei Provincial nº 35, de 29 de março de 1876;<br>
-**MDCII -** Resolução Provincial nº 36, de 29 de março de 1876;<br>
-**MDCIII -** Lei Provincial nº 37, de 29 de março de 1876;<br>
-**MDCIV -** Lei Provincial nº 38, de 29 de março de 1876;<br>
-**MDCV -** Resolução Provincial nº 39, de 29 de março de 1876;<br>
-**MDCVI -** Lei Provincial nº 40, de 29 de março de 1876;<br>
-**MDCVII -** Lei Provincial nº 41, de 29 de março de 1876;<br>
-**MDCVIII -** Lei Provincial nº 42, de 29 de março de 1876;<br>
-**MDCIX -** Resolução Provincial nº 43, de 29 de março de 1876;<br>
-**MDCX -** Resolução Provincial nº 44, de 29 de março de 1876;<br>
-**MDCXI -** Resolução Provincial nº 45, de 29 de março de 1876;<br>
-**MDCXII -** Lei Provincial nº 46, de 29 de março de 1876;<br>
-**MDCXIII -** Resolução Provincial nº 47, de 29 de março de 1876;<br>
-**MDCXIV -** Lei Provincial nº 48, de 29 de março de 1876;<br>
-**MDCXV -** Lei Provincial nº 49, de 30 de março de 1876;<br>
-**MDCXVI -** Lei Provincial nº 50, de 30 de março de 1876;<br>
-**MDCXVII -** Lei Provincial nº 51, de 30 de março de 1876;<br>
-**MDCXVIII -** Lei Provincial nº 52, de 30 de março de 1876;<br>
-**MDCXIX -** Lei Provincial nº 53, de 30 de março de 1876;<br>
-**MDCXX -** Lei Provincial nº 54, de 30 de março de 1876;<br>
-**MDCXXI -** Lei Provincial nº 55, de 30 de março de 1876;<br>
-**MDCXXII -** Lei Provincial nº 56, de 30 de março de 1876;<br>
-**MDCXXIII -** Resolução Provincial nº 57, de 30 de março de 1876;<br>
-**MDCXXIV -** Lei Provincial nº 58, de 1º de abril de 1876;<br>
-**MDCXXV -** Lei Provincial nº 59, de 2 de abril de 1876;<br>
-**MDCXXVI -** Lei Provincial nº 60, de 2 de abril de 1876;<br>
-**MDCXXVII -** Resolução Provincial nº 61, de 2 de abril de 1876;<br>
-**MDCXXVIII -** Lei Provincial nº 62, de 2 de abril de 1876;<br>
-**MDCXXIX -** Resolução Provincial nº 63, de 2 de abril de 1876;<br>
-**MDCXXX -** Resolução Provincial nº 64, de 2 de abril de 1876;<br>
-**MDCXXXI -** Resolução Provincial nº 65, de 2 de abril de 1876;<br>
-**MDCXXXII -** Lei Provincial nº 66, de 2 de abril de 1876;<br>
-**MDCXXXIII -** Resolução Provincial nº 67, de 2 de abril de 1876;<br>
-**MDCXXXIV -** Lei Provincial nº 68, de 3 de abril de 1876;<br>
-**MDCXXXV -** Lei Provincial nº 69, de 2 de abril de 1876;<br>
-**MDCXXXVI -** Resolução Provincial nº 70, de 2 de abril de 1876;<br>
-**MDCXXXVII -** Resolução Provincial nº 71, de 2 de abril de 1876;<br>
-**MDCXXXVIII -** Lei Provincial nº 72, de 3 de abril de 1876;<br>
-**MDCXXXIX -** Lei Provincial nº 73, de 3 de abril de 1876;<br>
-**MDCXL -** Lei Provincial nº 74, de 3 de abril de 1876;<br>
-**MDCXLI -** Resolução Provincial nº 76, de 3 de abril de 1876;<br>
-**MDCXLII -** Lei Provincial nº 77, de 3 de abril de 1876;<br>
-**MDCXLIII -** Resolução Provincial nº 78, de 3 de abril de 1876;<br>
-**MDCXLIV -** Resolução Provincial nº 79, de 3 de abril de 1876;<br>
-**MDCXLV -** Lei Provincial nº 80, de 3 de abril de 1876;<br>
-**MDCXLVI -** Lei Provincial nº 81, de 3 de abril de 1876;<br>
-**MDCXLVII -** Lei Provincial nº 82, de 3 de abril de 1876;<br>
-**MDCXLVIII -** Lei Provincial nº 83, de 3 de abril de 1876;<br>
-**MDCXLIX -** Resolução Provincial nº 84, de 3 de abril de 1876;<br>
-**MDCL -** Lei Provincial nº 85, de 4 de abril de 1876;<br>
-**MDCLI -** Lei Provincial nº 86, de 4 de abril de 1876;<br>
-**MDCLII -** Lei Provincial nº 87, de 4 de abril de 1876;<br>
-**MDCLIII -** Lei Provincial nº 88, de 4 de abril de 1876;<br>
-**MDCLIV -** Lei Provincial nº 89, de 13 de abril de 1876;<br>
-**MDCLV -** Lei Provincial nº 90, de 12 de maio de 1876;<br>
-**MDCLVI -** Lei Provincial nº 91, de 15 de maio de 1876;<br>
-**MDCLVII -** Lei Provincial nº 92, de 15 de maio de 1876;<br>
-**MDCLVIII -** Resolução Provincial nº 93, de 15 de maio de 1876;<br>
-**MDCLIX -** Resolução Provincial nº 94, de 15 de maio de 1876;<br>
-**MDCLX -** Resolução Provincial nº 95, de 16 de maio de 1876;<br>
-**MDCLXI -** Resolução Provincial nº 96, de 16 de maio de 1876;<br>
-**MDCLXII -** Resolução Provincial nº 97, de 16 de maio de 1876;<br>
-**MDCLXIII -** Lei Provincial nº 1, de 16 de março de 1877;<br>
-**MDCLXIV -** Lei Provincial nº 2, de 16 de março de 1877;<br>
-**MDCLXV -** Lei Provincial nº 3, de 20 de março de 1877;<br>
-**MDCLXVI -** Lei Provincial nº 4, de 20 de março de 1877;<br>
-**MDCLXVII -** Lei Provincial nº 5, de 20 de março de 1877;<br>
-**MDCLXVIII -** Lei Provincial nº 6, de 20 de março de 1877;<br>
-**MDCLXIX -** Lei Provincial nº 7, de 20 de março de 1877;<br>
-**MDCLXX -** Lei Provincial nº 8, de 20 de março de 1877;<br>
-**MDCLXXI -** Lei Provincial nº 9, de 20 de março de 1877;<br>
-**MDCLXXII -** Lei Provincial nº 10, de 20 de março de 1877;<br>
-**MDCLXXIII -** Lei Provincial nº 11, de 20 de março de 1877;<br>
-**MDCLXXIV -** Lei Provincial nº 12, de 24 de março de 1877;<br>
-**MDCLXXV -** Lei Provincial nº 13, de 24 de março de 1877;<br>
-**MDCLXXVI -** Lei Provincial nº 14, de 26 de março de 1877;<br>
-**MDCLXXVII -** Lei Provincial nº 15, de 26 de março de 1877;<br>
-**MDCLXXVIII -** Lei Provincial nº 16, de 9 de abril de 1877;<br>
-**MDCLXXIX -** Lei Provincial nº 17, de 9 de abril de 1877;<br>
-**MDCLXXX -** Lei Provincial nº 18, de 9 de abril de 1877;<br>
-**MDCLXXXI -** Lei Provincial nº 19, de 12 de abril de 1877;<br>
-**MDCLXXXII -** Lei Provincial nº 20, de 13 de abril de 1877;<br>
-**MDCLXXXIII -** Lei Provincial nº 21, de 13 de abril de 1877;<br>
-**MDCLXXXIV -** Lei Provincial nº 22, de 5 de maio de 1877;<br>
-**MDCLXXXV -** Lei Provincial nº 24, de 7 de maio de 1877;<br>
-**MDCLXXXVI -** Lei Provincial nº 25, de 7 de maio de 1877;<br>
-**MDCLXXXVII -** Lei Provincial nº 26, de 7 de maio de 1877;<br>
-**MDCLXXXVIII -** Lei Provincial nº 27, de 7 de maio de 1877;<br>
-**MDCLXXXIX -** Lei Provincial nº 28, de 7 de maio de 1877;<br>
-**MDCXC -** Lei Provincial nº 29, de 7 de maio de 1877;<br>
-**MDCXCI -** Lei Provincial nº 30, de 7 de maio de 1877;<br>
-**MDCXCII -** Lei Provincial nº 31, de 7 de maio de 1877;<br>
-**MDCXCIII -** Lei Provincial nº 32, de 8 de maio de 1877;<br>
-**MDCXCIV -** Lei Provincial nº 33, de 8 de maio de 1877;<br>
-**MDCXCV -** Lei Provincial nº 34, de 8 de maio de 1877;<br>
-**MDCXCVI -** Lei Provincial nº 35, de 8 de maio de 1877;<br>
-**MDCXCVII -** Lei Provincial nº 36, de 8 de maio de 1877;<br>
-**MDCXCVIII -** Lei Provincial nº 37, de 8 de maio de 1877;<br>
-**MDCXCIX -** Lei Provincial nº 38, de 8 de maio de 1877;<br>
-**MDCC -** Lei Provincial nº 39, de 8 de maio de 1877;<br>
-**MDCCI -** Lei Provincial nº 41, de 9 de maio de 1877;<br>
-**MDCCII -** Lei Provincial nº 42, de 11 de maio de 1877;<br>
-**MDCCIII -** Lei Provincial nº 44, de 11 de maio de 1877;<br>
-**MDCCIV -** Lei Provincial nº 45, de 24 de maio de 1877;<br>
-**MDCCV -** Lei Provincial nº 46, de 11 de maio de 1877;<br>
-**MDCCVI -** Lei Provincial nº 48, de 11 de maio de 1877;<br>
-**MDCCVII -** Lei Provincial nº 49, de 11 de maio de 1877;<br>
-**MDCCVIII -** Lei Provincial nº 50, de 11 de maio de 1877;<br>
-**MDCCIX -** Lei Provincial nº 51, de 11 de maio de 1877;<br>
-**MDCCX -** Lei Provincial nº 52, de 11 de maio de 1877;<br>
-**MDCCXI -** Lei Provincial nº 53, de 11 de maio de 1877;<br>
-**MDCCXII -** Lei Provincial nº 54, de 11 de maio de 1877;<br>
-**MDCCXIII -** Lei Provincial nº 55, de 11 de maio de 1877;<br>
-**MDCCXIV -** Lei Provincial nº 56, de 11 de maio de 1877;<br>
-**MDCCXV -** Lei Provincial nº 57, de 11 de maio de 1877;<br>
-**MDCCXVI -** Lei Provincial nº 58, de 12 de maio de 1877;<br>
-**MDCCXVII -** Lei Provincial nº 59, de 12 de maio de 1877;<br>
-**MDCCXVIII -** Lei Provincial nº 60, de 12 de maio de 1877;<br>
-**MDCCXIX -** Lei Provincial nº 61, de 12 de maio de 1877;<br>
-**MDCCXX -** Lei Provincial nº 62, de 12 de maio de 1877;<br>
-**MDCCXXI -** Lei Provincial nº 63, de 12 de maio de 1877;<br>
-**MDCCXXII -** Lei Provincial nº 64, de 12 de maio de 1877;<br>
-**MDCCXXIII -** Lei Provincial nº 65, de 4 de junho de 1877;<br>
-**MDCCXXIV -** Resolução Provincial nº 1, de 16 de março de 1877;<br>
-**MDCCXXV -** Resolução Provincial nº 2, de 16 de março de 1877;<br>
-**MDCCXXVI -** Resolução Provincial nº 3, de 24 de março de 1877;<br>
-**MDCCXXVII -** Resolução Provincial nº 4, de 7 de maio de 1877;<br>
-**MDCCXXVIII -** Resolução Provincial nº 5, de 7 de maio de 1877;<br>
-**MDCCXXIX -** Resolução Provincial nº 6, de 17 de maio de 1877;<br>
-**MDCCXXX -** Resolução Provincial nº 7, de 17 de maio de 1877;<br>
-**MDCCXXXI -** Resolução Provincial nº 8, de 17 de maio de 1877;<br>
-**MDCCXXXII -** Resolução Provincial nº 9, de 17 de maio de 1877;<br>
-**MDCCXXXIII -** Resolução Provincial nº 10, de 18 de maio de 1877;<br>
-**MDCCXXXIV -** Resolução Provincial nº 11, de 18 de maio de 1877;<br>
-**MDCCXXXV -** Resolução Provincial nº 12, de 18 de maio de 1877;<br>
-**MDCCXXXVI -** Resolução Provincial nº 13, de 30 de maio de 1877;<br>
-**MDCCXXXVII -** Resolução Provincial nº 14, de 30 de maio de 1877;<br>
-**MDCCXXXVIII -** Resolução Provincial nº 15, de 30 de maio de 1877;<br>
-**MDCCXXXIX -** Resolução Provincial nº 16, de 30 de maio de 1877;<br>
-**MDCCXL -** Resolução Provincial nº 17, de 30 de maio de 1877;<br>
-**MDCCXLI -** Resolução Provincial nº 18, de 30 de maio de 1877;<br>
-**MDCCXLII -** Resolução Provincial nº 19, de 30 de maio de 1877;<br>
-**MDCCXLIII -** Resolução Provincial nº 19-A, de 30 de maio de 1877;<br>
-**MDCCXLIV -** Resolução Provincial nº 20, de 1º de junho de 1877;<br>
-**MDCCXLV -** Resolução Provincial nº 21, de 1º de junho de 1877;<br>
-**MDCCXLVI -** Resolução Provincial nº 21-A, de 1º de junho de 1877;<br>
-**MDCCXLVII -** Resolução Provincial nº 22, de 2 de junho de 1877;<br>
-**MDCCXLVIII -** Resolução Provincial nº 23, de 2 de junho de 1877;<br>
-**MDCCXLIX -** Resolução Provincial nº 24, de 2 de junho de 1877;<br>
-**MDCCL -** Resolução Provincial nº 25, de 2 de junho de 1877;<br>
-**MDCCLI -** Resolução Provincial nº 27, de 2 de junho de 1877;<br>
-**MDCCLII -** Resolução Provincial nº 28, de 2 de junho de 1877;<br>
-**MDCCLIII -** Resolução Provincial nº 29, de 2 de junho de 1877;<br>
-**MDCCLIV -** Resolução Provincial nº 29-A, de 2 de junho de 1877;<br>
-**MDCCLV -** Resolução Provincial nº 30, de 3 de junho de 1877;<br>
-**MDCCLVI -** Resolução Provincial nº 31, de 3 de junho de 1877;<br>
-**MDCCLVII -** Resolução Provincial nº 32, de 3 de junho de 1877;<br>
-**MDCCLVIII -** Resolução Provincial nº 33, de 3 de junho de 1877;<br>
-**MDCCLIX -** Resolução Provincial nº 33-A, de 3 de junho de 1877;<br>
-**MDCCLX -** Resolução Provincial nº 34, de 4 de junho de 1877;<br>
-**MDCCLXI -** Resolução Provincial nº 35, de 4 de junho de 1877;<br>
-**MDCCLXII -** Resolução Provincial nº 36, de 4 de junho de 1877;<br>
-**MDCCLXIII -** Lei Provincial nº 1, de 25 de fevereiro de 1878;<br>
-**MDCCLXIV -** Lei Provincial nº 2, de 8 de março de 1878;<br>
-**MDCCLXV -** Lei Provincial nº 3, de 8 de março de 1878;<br>
-**MDCCLXVI -** Lei Provincial nº 4, de 8 de março de 1878;<br>
-**MDCCLXVII -** Lei Provincial nº 5, de 13 de março de 1878;<br>
-**MDCCLXVIII -** Lei Provincial nº 6, de 13 de março de 1878;<br>
-**MDCCLXIX -** Lei Provincial nº 7, de 18 de março de 1878;<br>
-**MDCCLXX -** Lei Provincial nº 8, de 23 de março de 1878;<br>
-**MDCCLXXI -** Lei Provincial nº 9, de 23 de março de 1878;<br>
-**MDCCLXXII -** Lei Provincial nº 10, de 30 de março de 1878;<br>
-**MDCCLXXIII -** Lei Provincial nº 11, de 1º de abril de 1878;<br>
-**MDCCLXXIV -** Lei Provincial nº 12, de 1º de abril de 1878;<br>
-**MDCCLXXV -** Lei Provincial nº 13, de 6 de abril de 1878;<br>
-**MDCCLXXVI -** Lei Provincial nº 14, de 6 de abril de 1878;<br>
-**MDCCLXXVII -** Lei Provincial nº 15, de 6 de abril de 1878;<br>
-**MDCCLXXVIII -** Lei Provincial nº 16, de 6 de abril de 1878;<br>
-**MDCCLXXIX -** Lei Provincial nº 17, de 12 de março de 1878;<br>
-**MDCCLXXX -** Lei Provincial nº 18, de 19 de maio de 1878;<br>
-**MDCCLXXXI -** Resolução Provincial nº 1, de 20 de fevereiro de 1878;<br>
-**MDCCLXXXII -** Resolução Provincial nº 2, de 27 de fevereiro de 1878;<br>
-**MDCCLXXXIII -** Resolução Provincial nº 3, de 13 de março de 1878;<br>
-**MDCCLXXXIV -** Resolução Provincial nº 4, de 20 de março de 1878;<br>
-**MDCCLXXXV -** Resolução Provincial nº 5, de 1º de abril de 1878;<br>
-**MDCCLXXXVI -** Resolução Provincial nº 6, de 1º de abril de 1878;<br>
-**MDCCLXXXVII -** Resolução Provincial nº 7, de 3 de abril de 1878;<br>
-**MDCCLXXXVIII -** Resolução Provincial nº 8, de 3 de abril de 1878;<br>
-**MDCCLXXXIX -** Resolução Provincial nº 9, de 5 de abril de 1878;<br>
-**MDCCXC -** Resolução Provincial nº 10, de 5 de fevereiro de 1878;<br>
-**MDCCXCI -** Resolução Provincial nº 11, de 5 de abril de 1878;<br>
-**MDCCXCII -** Resolução Provincial nº 12, de 5 de abril de 1878;<br>
-**MDCCXCIII -** Resolução Provincial nº 13, de 13 de maio de 1878;<br>
-**MDCCXCIV -** Resolução Provincial nº 14, de 13 de maio de 1878;<br>
-**MDCCXCV -** Resolução Provincial nº 15, de 13 de maio de 1878;<br>
-**MDCCXCVI -** Resolução Provincial nº 16, de 13 de maio de 1878;<br>
-**MDCCXCVII -** Resolução Provincial nº 17, de 14 de maio de 1878;<br>
-**MDCCXCVIII -** Resolução Provincial nº 18, de 14 de maio de 1878;<br>
-**MDCCXCIX -** Resolução Provincial nº 19, de 14 de maio de 1878;<br>
-**MDCCC -** Resolução Provincial nº 20, de 14 de maio de 1878;<br>
-**MDCCCI -** Resolução Provincial nº 21, de 14 de maio de 1878;<br>
-**MDCCCII -** Resolução Provincial nº 22, de 14 de maio de 1878;<br>
-**MDCCCIII -** Resolução Provincial nº 23, de 14 de maio de 1878;<br>
-**MDCCCIV -** Resolução Provincial nº 24, de 15 de maio de 1878;<br>
-**MDCCCV -** Resolução Provincial nº 25, de 6 de junho de 1878;<br>
-**MDCCCVI -** Lei Provincial nº 1, de 14 de março de 1879;<br>
-**MDCCCVII -** Lei Provincial nº 2, de 21 de março de 1879;<br>
-**MDCCCVIII -** Lei Provincial nº 3, de 21 de março de 1879;<br>
-**MDCCCIX -** Lei Provincial nº 4, de 21 de março de 1879;<br>
-**MDCCCX -** Lei Provincial nº 5, de 21 de março de 1879;<br>
-**MDCCCXI -** Lei Provincial nº 6, de 21 de março de 1879;<br>
-**MDCCCXII -** Lei Provincial nº 7, de 21 de março de 1879;<br>
-**MDCCCXIII -** Lei Provincial nº 8, de 21 de março de 1879;<br>
-**MDCCCXIV -** Lei Provincial nº 9, de 21 de março de 1879;<br>
-**MDCCCXV -** Lei Provincial nº 10, de 21 de março de 1879;<br>
-**MDCCCXVI -** Lei Provincial nº 12, de 22 de março de 1879;<br>
-**MDCCCXVII -** Lei Provincial nº 13, de 26 de março de 1879;<br>
-**MDCCCXVIII -** Lei Provincial nº 14, de 14 de março de 1879;<br>
-**MDCCCXIX -** Lei Provincial nº 15, de 26 de março de 1879;<br>
-**MDCCCXX -** Lei Provincial nº 16, de 31 de março de 1879;<br>
-**MDCCCXXI -** Lei Provincial nº 17, de 31 de março de 1879;<br>
-**MDCCCXXII -** Lei Provincial nº 18, de 31 de março de 1879;<br>
-**MDCCCXXIII -** Lei Provincial nº 19, de 31 de março de 1879;<br>
-**MDCCCXXIV -** Lei Provincial nº 20, de 31 de março de 1879;<br>
-**MDCCCXXV -** Lei Provincial nº 21, de 31 de março de 1879;<br>
-**MDCCCXXVI -** Lei Provincial nº 22, de 31 de março de 1879;<br>
-**MDCCCXXVII -** Lei Provincial nº 23, de 31 de março de 1879;<br>
-**MDCCCXXVIII -** Lei Provincial nº 24, de 31 de março de 1879;<br>
-**MDCCCXXIX -** Lei Provincial nº 25, de 2 de abril de 1879;<br>
-**MDCCCXXX -** Lei Provincial nº 26, de 2 de abril de 1879;<br>
-**MDCCCXXXI -** Lei Provincial nº 27, de 2 de abril de 1879;<br>
-**MDCCCXXXII -** Lei Provincial nº 28, de 2 de abril de 1879;<br>
-**MDCCCXXXIII -** Lei Provincial nº 29, de 5 de abril de 1879;<br>
-**MDCCCXXXIV -** Lei Provincial nº 30, de 5 de abril de 1879;<br>
-**MDCCCXXXV -** Lei Provincial nº 31, de 7 de abril de 1879;<br>
-**MDCCCXXXVI -** Lei Provincial nº 32, de 7 de abril de 1879;<br>
-**MDCCCXXXVII -** Lei Provincial nº 33, de 7 de abril de 1879;<br>
-**MDCCCXXXVIII -** Lei Provincial nº 35, de 7 de abril de 1879;<br>
-**MDCCCXXXIX -** Lei Provincial nº 36, de 7 de abril de 1879;<br>
-**MDCCCXL -** Lei Provincial nº 37, de 7 de abril de 1879;<br>
-**MDCCCXLI -** Lei Provincial nº 38, de 8 de abril de 1879;<br>
-**MDCCCXLII -** Lei Provincial nº 39, de 8 de abril de 1879;<br>
-**MDCCCXLIII -** Lei Provincial nº 40, de 8 de abril de 1879;<br>
-**MDCCCXLIV -** Lei Provincial nº 41, de 8 de abril de 1879;<br>
-**MDCCCXLV -** Lei Provincial nº 42, de 11 de abril de 1879;<br>
-**MDCCCXLVI -** Lei Provincial nº 43, de 11 de abril de 1879;<br>
-**MDCCCXLVII -** Lei Provincial nº 44, de 13 de abril de 1879;<br>
-**MDCCCXLVIII -** Lei Provincial nº 45, de 13 de abril de 1879;<br>
-**MDCCCXLIX -** Lei Provincial nº 46, de 15 de abril de 1879;<br>
-**MDCCCL -** Lei Provincial nº 47, de 15 de abril de 1879;<br>
-**MDCCCLI -** Lei Provincial nº 48, de 15 de abril de 1879;<br>
-**MDCCCLII -** Lei Provincial nº 50, de 15 de abril de 1879;<br>
-**MDCCCLIII -** Lei Provincial nº 51, de 15 de abril de 1879;<br>
-**MDCCCLIV -** Lei Provincial nº 52, de 24 de abril de 1879;<br>
-**MDCCCLV -** Lei Provincial nº 53, de 4 de maio de 1879;<br>
-**MDCCCLVI -** Lei Provincial nº 54, de 4 de maio de 1879;<br>
-**MDCCCLVII -** Lei Provincial nº 55, de 4 de maio de 1879;<br>
-**MDCCCLVIII -** Lei Provincial nº 56, de 4 de maio de 1879;<br>
-**MDCCCLIX -** Lei Provincial nº 57, de 4 de maio de 1879;<br>
-**MDCCCLX -** Lei Provincial nº 58, de 4 de maio de 1879;<br>
-**MDCCCLXI -** Lei Provincial nº 59, de 4 de maio de 1879;<br>
-**MDCCCLXII -** Lei Provincial nº 60, de 4 de maio de 1879;<br>
-**MDCCCLXIII -** Resolução Provincial nº 61, de 4 de maio de 1879;<br>
-**MDCCCLXIV -** Lei Provincial nº 62, de 4 de maio de 1879;<br>
-**MDCCCLXV -** Resolução Provincial nº 1, de 21 de março de 1879;<br>
-**MDCCCLXVI -** Resolução Provincial nº 2, de 22 de março de 1879;<br>
-**MDCCCLXVII -** Resolução Provincial nº 3, de 26 de março de 1879;<br>
-**MDCCCLXVIII -** Resolução Provincial nº 4, de 31 de março de 1879;<br>
-**MDCCCLXIX -** Resolução Provincial nº 5, de 2 de abril de 1879;<br>
-**MDCCCLXX -** Resolução Provincial nº 6, de 7 de abril de 1879;<br>
-**MDCCCLXXI -** Resolução Provincial nº 7, de 8 de abril de 1879;<br>
-**MDCCCLXXII -** Resolução Provincial nº 8, de 28 de abril de 1879;<br>
-**MDCCCLXXIII -** Resolução Provincial nº 9, de 13 de abril de 1879;<br>
-**MDCCCLXXIV -** Resolução Provincial nº 10, de 4 de maio de 1879;<br>
-**MDCCCLXXV -** Resolução Provincial nº 11, de 4 de maio de 1879;<br>
-**MDCCCLXXVI -** Resolução Provincial nº 13, de 31 de maio de 1879;<br>
-**MDCCCLXXVII -** Resolução Provincial nº 14, de 31 de maio de 1879;<br>
-**MDCCCLXXVIII -** Resolução Provincial nº 15, de 31 de maio de 1879;<br>
-**MDCCCLXXIX -** Resolução Provincial nº 16, de 31 de maio de 1879;<br>
-**MDCCCLXXX -** Lei Provincial nº 1, de 25 de fevereiro de 1880;<br>
-**MDCCCLXXXI -** Lei Provincial nº 2, de 25 de fevereiro de 1880;<br>
-**MDCCCLXXXII -** Lei Provincial nº 3, de 25 de fevereiro de 1880;<br>
-**MDCCCLXXXIII -** Lei Provincial nº 4, de 25 de fevereiro de 1880;<br>
-**MDCCCLXXXIV -** Lei Provincial nº 5, de 9 de março de 1880;<br>
-**MDCCCLXXXV -** Lei Provincial nº 6, de 10 de março de 1880;<br>
-**MDCCCLXXXVI -** Lei Provincial nº 7, de 10 de março de 1880;<br>
-**MDCCCLXXXVII -** Lei Provincial nº 8, de 13 de março de 1880;<br>
-**MDCCCLXXXVIII -** Lei Provincial nº 9, de 16 de março de 1880;<br>
-**MDCCCLXXXIX -** Lei Provincial nº 10, de 16 de março de 1880;<br>
-**MDCCCXC -** Lei Provincial nº 11, de 16 de março de 1880;<br>
-**MDCCCXCI -** Lei Provincial nº 12, de 16 de março de 1880;<br>
-**MDCCCXCII -** Lei Provincial nº 13, de 16 de março de 1880;<br>
-**MDCCCXCIII -** Lei Provincial nº 14, de 16 de março de 1880;<br>
-**MDCCCXCIV -** Lei Provincial nº 16, de 16 de março de 1880;<br>
-**MDCCCXCV -** Lei Provincial nº 17, de 18 de março de 1880;<br>
-**MDCCCXCVI -** Lei Provincial nº 18, de 18 de março de 1880;<br>
-**MDCCCXCVII -** Lei Provincial nº 19, de 18 de março de 1880;<br>
-**MDCCCXCVIII -** Lei Provincial nº 20, de 20 de março de 1880;<br>
-**MDCCCXCIX -** Lei Provincial nº 21, de 20 de março de 1880;<br>
-**MCM -** Lei Provincial nº 22, de 20 de março de 1880;<br>
-**MCMI -** Lei Provincial nº 23, de 20 de março de 1880;<br>
-**MCMII -** Lei Provincial nº 24, de 20 de março de 1880;<br>
-**MCMIII -** Lei Provincial nº 25, de 20 de março de 1880;<br>
-**MCMIV -** Lei Provincial nº 26, de 20 de março de 1880;<br>
-**MCMV -** Lei Provincial nº 27, de 20 de março de 1880;<br>
-**MCMVI -** Lei Provincial nº 28, de 20 de março de 1880;<br>
-**MCMVII -** Lei Provincial nº 29, de 20 de março de 1880;<br>
-**MCMVIII -** Lei Provincial nº 30, de 20 de março de 1880;<br>
-**MCMIX -** Lei Provincial nº 31, de 20 de março de 1880;<br>
-**MCMX -** Lei Provincial nº 32, de 20 de março de 1880;<br>
-**MCMXI -** Lei Provincial nº 32-A, de 20 de março de 1880;<br>
-**MCMXII -** Lei Provincial nº 33, de 22 de março de 1880;<br>
-**MCMXIII -** Lei Provincial nº 34, de 24 de março de 1880;<br>
-**MCMXIV -** Lei Provincial nº 35, de 24 de março de 1880;<br>
-**MCMXV -** Lei Provincial nº 36, de 24 de março de 1880;<br>
-**MCMXVI -** Lei Provincial nº 37, de 27 de março de 1880;<br>
-**MCMXVII -** Lei Provincial nº 38, de 27 de março de 1880;<br>
-**MCMXVIII -** Lei Provincial nº 39, de 27 de março de 1880;<br>
-**MCMXIX -** Lei Provincial nº 40, de 27 de março de 1880;<br>
-**MCMXX -** Lei Provincial nº 41, de 27 de março de 1880;<br>
-**MCMXXI -** Lei Provincial nº 42, de 29 de março de 1880;<br>
-**MCMXXII -** Lei Provincial nº 43, de 29 de março de 1880;<br>
-**MCMXXIII -** Lei Provincial nº 44, de 30 de março de 1880;<br>
-**MCMXXIV -** Lei Provincial nº 45, de 6 de abril de 1880;<br>
-**MCMXXV -** Lei Provincial nº 46, de 6 de abril de 1880;<br>
-**MCMXXVI -** Lei Provincial nº 47, de 6 de abril de 1880;<br>
-**MCMXXVII -** Lei Provincial nº 48, de 6 de abril de 1880;<br>
-**MCMXXVIII -** Lei Provincial nº 49, de 6 de abril de 1880;<br>
-**MCMXXIX -** Lei Provincial nº 50, de 7 de abril de 1880;<br>
-**MCMXXX -** Lei Provincial nº 51, de 7 de abril de 1880;<br>
-**MCMXXXI -** Lei Provincial nº 52, de 8 de abril de 1880;<br>
-**MCMXXXII -** Lei Provincial nº 53, de 8 de abril de 1880;<br>
-**MCMXXXIII -** Lei Provincial nº 54, de 8 de abril de 1880;<br>
-**MCMXXXIV -** Lei Provincial nº 55, de 9 de abril de 1880;<br>
-**MCMXXXV -** Lei Provincial nº 56, de 10 de abril de 1880;<br>
-**MCMXXXVI -** Lei Provincial nº 57, de 10 de abril de 1880;<br>
-**MCMXXXVII -** Lei Provincial nº 58, de 10 de abril de 1880;<br>
-**MCMXXXVIII -** Lei Provincial nº 59, de 10 de abril de 1880;<br>
-**MCMXXXIX -** Lei Provincial nº 60, de 10 de abril de 1880;<br>
-**MCMXL -** Lei Provincial nº 61, de 13 de abril de 1880;<br>
-**MCMXLI -** Lei Provincial nº 62, de 13 de abril de 1880;<br>
-**MCMXLII -** Lei Provincial nº 63, de 13 de abril de 1880;<br>
-**MCMXLIII -** Lei Provincial nº 64, de 14 de abril de 1880;<br>
-**MCMXLIV -** Lei Provincial nº 65, de 14 de abril de 1880;<br>
-**MCMXLV -** Lei Provincial nº 66, de 14 de abril de 1880;<br>
-**MCMXLVI -** Lei Provincial nº 68, de 14 de abril de 1880;<br>
-**MCMXLVII** \- Lei Provincial nº 69, de 14 de abril de 1880;<br>
-**MCMXLVIII -** Lei Provincial nº 70, de 14 de abril de 1880;<br>
-**MCMXLIX -** Lei Provincial nº 71, de 15 de abril de 1880;<br>
-**MCML -** Lei Provincial nº 72, de 15 de abril de 1880;<br>
-**MCMLI -** Lei Provincial nº 73, de 20 de abril de 1880;<br>
-**MCMLII -** Lei Provincial nº 74, de 20 de abril de 1880;<br>
-**MCMLIII -** Lei Provincial nº 75, de 21 de abril de 1880;<br>
-**MCMLIV -** Lei Provincial nº 76, de 21 de abril de 1880;<br>
-**MCMLV -** Lei Provincial nº 77, de 21 de abril de 1880;<br>
-**MCMLVI -** Lei Provincial nº 79, de 21 de abril de 1880;<br>
-**MCMLVII -** Lei Provincial nº 80, de 21 de abril de 1880;<br>
-**MCMLVIII -** Lei Provincial nº 81, de 21 de abril de 1880;<br>
-**MCMLIX -** Lei Provincial nº 82, de 21 de abril de 1880;<br>
-**MCMLX -** Lei Provincial nº 84, de 21 de abril de 1880;<br>
-**MCMLXI -** Lei Provincial nº 85, de 21 de abril de 1880;<br>
-**MCMLXII -** Lei Provincial nº 86, de 21 de abril de 1880;<br>
-**MCMLXIII -** Lei Provincial nº 87, de 21 de abril de 1880;<br>
-**MCMLXIV -** Lei Provincial nº 88, de 21 de abril de 1880;<br>
-**MCMLXV -** Lei Provincial nº 89, de 21 de abril de 1880;<br>
-**MCMLXVI -** Lei Provincial nº 90, de 21 de abril de 1880;<br>
-**MCMLXVII -** Lei Provincial nº 91, de 21 de abril de 1880;<br>
-**MCMLXVIII -** Lei Provincial nº 92, de 21 de abril de 1880;<br>
-**MCMLXIX -** Lei Provincial nº 93, de 21 de abril de 1880;<br>
-**MCMLXX -** Lei Provincial nº 94, de 21 de abril de 1880;<br>
-**MCMLXXI -** Lei Provincial nº 95, de 21 de abril de 1880;<br>
-**MCMLXXII -** Lei Provincial nº 96, de 21 de abril de 1880;<br>
-**MCMLXXIII -** Lei Provincial nº 97, de 22 de abril de 1880;<br>
-**MCMLXXIV -** Lei Provincial nº 98, de 24 de abril de 1880;<br>
-**MCMLXXV -** Lei Provincial nº 99, de 24 de abril de 1880;<br>
-**MCMLXXVI -** Lei Provincial nº 100, de 24 de abril de 1880;<br>
-**MCMLXXVII -** Lei Provincial nº 101, de 24 de abril de 1880;<br>
-**MCMLXXVIII -** Lei Provincial nº 102, de 24 de abril de 1880;<br>
-**MCMLXXIX -** Lei Provincial nº 103, de 24 de abril de 1880;<br>
-**MCMLXXX -** Lei Provincial nº 104, de 24 de abril de 1880;<br>
-**MCMLXXXI -** Lei Provincial nº 105, de 24 de abril de 1880;<br>
-**MCMLXXXII -** Lei Provincial nº 106, de 24 de abril de 1880;<br>
-**MCMLXXXIII -** Lei Provincial nº 107, de 25 de abril de 1880;<br>
-**MCMLXXXIV -** Lei Provincial nº 109, de 25 de abril de 1880;<br>
-**MCMLXXXV -** Lei Provincial nº 110, de 25 de abril de 1880;<br>
-**MCMLXXXVI -** Lei Provincial nº 111, de 25 de abril de 1880;<br>
-**MCMLXXXVII -** Lei Provincial nº 112, de 25 de abril de 1880;<br>
-**MCMLXXXVIII -** Lei Provincial nº 113, de 25 de abril de 1880;<br>
-**MCMLXXXIX -** Lei Provincial nº 114, de 25 de abril de 1880;<br>
-**MCMXC -** Lei Provincial nº 115, de 25 de abril de 1880;<br>
-**MCMXCI -** Lei Provincial nº 117, de 25 de abril de 1880;<br>
-**MCMXCII -** Lei Provincial nº 118, de 25 de abril de 1880;<br>
-**MCMXCIII -** Lei Provincial nº 119, de 25 de abril de 1880;<br>
-**MCMXCIV -** Lei Provincial nº 120, de 25 de abril de 1880;<br>
-**MCMXCV -** Lei Provincial nº 121, de 25 de abril de 1880;<br>
-**MCMXCVI -** Lei Provincial nº 122, de 25 de abril de 1880;<br>
-**MCMXCVII -** Lei Provincial nº 123, de 25 de abril de 1880;<br>
-**MCMXCVIII -** Lei Provincial nº 124, de 25 de abril de 1880;<br>
-**MCMXCIX -** Lei Provincial nº 125, de 25 de abril de 1880;<br>
-**MM -** Lei Provincial nº 126, de 25 de abril de 1880;<br>
-**MMI -** Lei Provincial nº 127, de 25 de abril de 1880;<br>
-**MMII -** Lei Provincial nº 128, de 25 de abril de 1880;<br>
-**MMIII -** Lei Provincial nº 129, de 25 de abril de 1880;<br>
-**MMIV -** Lei Provincial nº 130, de 25 de abril de 1880;<br>
-**MMV -** Lei Provincial nº 132, de 25 de abril de 1880;<br>
-**MMVI -** Lei Provincial nº 133, de 26 de abril de 1880;<br>
-**MMVII -** Lei Provincial nº 134, de 26 de abril de 1880;<br>
-**MMVIII -** Lei Provincial nº 135, de 26 de abril de 1880;<br>
-**MMIX -** Lei Provincial nº 136, de 26 de abril de 1880;<br>
-**MMX -** Lei Provincial nº 137, de 26 de abril de 1880;<br>
-**MMXI -** Lei Provincial nº 138, de 26 de abril de 1880;<br>
-**MMXII -** Lei Provincial nº 139, de 26 de abril de 1880;<br>
-**MMXIII -** Lei Provincial nº 140, de 26 de abril de 1880;<br>
-**MMXIV -** Lei Provincial nº 141, de 26 de abril de 1880;<br>
-**MMXV -** Lei Provincial nº 142, de 26 de abril de 1880;<br>
-**MMXVI -** Lei Provincial nº 143, de 26 de abril de 1880;<br>
-**MMXVII -** Lei Provincial nº 144, de 26 de abril de 1880;<br>
-**MMXVIII -** Lei Provincial nº 145, de 26 de abril de 1880;<br>
-**MMXIX -** Lei Provincial nº 146, de 26 de abril de 1880;<br>
-**MMXX -** Lei Provincial nº 147, de 26 de abril de 1880;<br>
-**MMXXI -** Lei Provincial nº 148, de 26 de abril de 1880;<br>
-**MMXXII -** Lei Provincial nº 149, de 26 de abril de 1880;<br>
-**MMXXIII -** Lei Provincial nº 150, de 26 de abril de 1880;<br>
-**MMXXIV -** Lei Provincial nº 152, de 27 de abril de 1880;<br>
-**MMXXV -** Lei Provincial nº 153, de 27 de abril de 1880;<br>
-**MMXXVI -** Lei Provincial nº 154, de 27 de abril de 1880;<br>
-**MMXXVII -** Lei Provincial nº 155, de 27 de abril de 1880;<br>
-**MMXXVIII -** Lei Provincial nº 156, de 29 de abril de 1880;<br>
-**MMXXIX -** Lei Provincial nº 157, de 30 de abril de 1880;<br>
-**MMXXX -** Lei Provincial nº 158, de 30 de abril de 1880;<br>
-**MMXXXI -** Lei Provincial nº 159, de 30 de abril de 1880;<br>
-**MMXXXII -** Lei Provincial nº 160, de 30 de abril de 1880;<br>
-**MMXXXIII -** Lei Provincial nº 161, de 2 de maio de 1880;<br>
-**MMXXXIV -** Lei Provincial nº 162, de 2 de junho de 1880;<br>
-**MMXXXV -** Resolução Provincial nº 1, de 2 de março de 1880;<br>
-**MMXXXVI -** Resolução Provincial nº 2, de 2 de março de 1880;<br>
-**MMXXXVII -** Resolução Provincial nº 3, de 12 de março de 1880;<br>
-**MMXXXVIII -** Resolução Provincial nº 4, de 18 de março de 1880;<br>
-**MMXXXIX -** Resolução Provincial nº 5, de 18 de março de 1880;<br>
-**MMXL -** Resolução Provincial nº 6, de 24 de março de 1880;<br>
-**MMXLI -** Resolução Provincial nº 7, de 28 de março de 1880;<br>
-**MMXLII -** Resolução Provincial nº 8, de 29 de março de 1880;<br>
-**MMXLIII -** Resolução Provincial nº 9, de 6 de abril de 1880;<br>
-**MMXLIV -** Resolução Provincial nº 10, de 6 de abril de 1880;<br>
-**MMXLV -** Resolução Provincial nº 11, de 24 de abril de 1880;<br>
-**MMXLVI -** Resolução Provincial nº 12, de 25 de abril de 1880;<br>
-**MMXLVII -** Resolução Provincial nº 13, de 25 de abril de 1880;<br>
-**MMXLVIII -** Resolução Provincial nº 14, de 25 de abril de 1880;<br>
-**MMXLIX -** Resolução Provincial nº 15, de 21 de maio de 1880;<br>
-**MML -** Resolução Provincial nº 16, de 1º de junho de 1880;<br>
-**MMLI -** Resolução Provincial nº 17, de 10 de junho de 1880;<br>
-**MMLII -** Resolução Provincial nº 18, de 10 de junho de 1880;<br>
-**MMLIII -** Resolução Provincial nº 19, de 10 de junho de 1880;<br>
-**MMLIV -** Resolução Provincial nº 20, de 10 de junho de 1880;<br>
-**MMLV -** Resolução Provincial nº 21, de 10 de junho de 1880;<br>
-**MMLVI -** Lei Provincial nº 1, de 23 de janeiro de 1881;<br>
-**MMLVII -** Lei Provincial nº 2, de 23 de janeiro de 1881;<br>
-**MMLVIII -** Lei Provincial nº 3, de 23 de janeiro de 1881;<br>
-**MMLIX -** Lei Provincial nº 4, de 23 de janeiro de 1881;<br>
-**MMLX -** Lei Provincial nº 5, de 26 de janeiro de 1881;<br>
-**MMLXI -** Lei Provincial nº 6, de 13 de fevereiro de 1881;<br>
-**MMLXII -** Lei Provincial nº 7, de 13 de fevereiro de 1881;<br>
-**MMLXIII -** Lei Provincial nº 8, de 13 de fevereiro de 1881;<br>
-**MMLXIV -** Lei Provincial nº 9, de 13 de fevereiro de 1881;<br>
-**MMLXV -** Lei Provincial nº 10, de 13 de fevereiro de 1881;<br>
-**MMLXVI -** Lei Provincial nº 11, de 13 de fevereiro de 1881;<br>
-**MMLXVII -** Lei Provincial nº 12, de 13 de fevereiro de 1881;<br>
-**MMLXVIII -** Lei Provincial nº 13, de 13 de fevereiro de 1881;<br>
-**MMLXIX -** Lei Provincial nº 14, de 13 de fevereiro de 1881;<br>
-**MMLXX -** Lei Provincial nº 15, de 14 de fevereiro de 1881;<br>
-**MMLXXI -** Lei Provincial nº 16, de 15 de fevereiro de 1881;<br>
-**MMLXXII -** Lei Provincial nº 17, de 15 de fevereiro de 1881;<br>
-**MMLXXIII -** Lei Provincial nº 18, de 15 de fevereiro de 1881;<br>
-**MMLXXIV -** Lei Provincial nº 19, de 15 de fevereiro de 1881;<br>
-**MMLXXV -** Lei Provincial nº 20, de 15 de fevereiro de 1881;<br>
-**MMLXXVI -** Lei Provincial nº 21, de 15 de fevereiro de 1881;<br>
-**MMLXXVII -** Lei Provincial nº 22, de 16 de fevereiro de 1881;<br>
-**MMLXXVIII -** Lei Provincial nº 23, de 16 de fevereiro de 1881;<br>
-**MMLXXIX -** Lei Provincial nº 25, de 16 de fevereiro de 1881;<br>
-**MMLXXX -** Lei Provincial nº 26, de 16 de fevereiro de 1881;<br>
-**MMLXXXI -** Lei Provincial nº 27, de 16 de fevereiro de 1881;<br>
-**MMLXXXII -** Lei Provincial nº 28, de 16 de fevereiro de 1881;<br>
-**MMLXXXIII -** Lei Provincial nº 29, de 16 de fevereiro de 1881;<br>
-**MMLXXXIV -** Lei Provincial nº 29-A, de 18 de fevereiro de 1881;<br>
-**MMLXXXV -** Lei Provincial nº 30, de 21 de fevereiro de 1881;<br>
-**MMLXXXVI -** Lei Provincial nº 31, de 21 de fevereiro de 1881;<br>
-**MMLXXXVII -** Lei Provincial nº 32, de 21 de fevereiro de 1881;<br>
-**MMLXXXVIII -** Lei Provincial nº 33, de 21 de fevereiro de 1881;<br>
-**MMLXXXIX -** Lei Provincial nº 34, de 21 de fevereiro de 1881;<br>
-**MMXC -** Lei Provincial nº 35, de 21 de fevereiro de 1881;<br>
-**MMXCI -** Lei Provincial nº 37, de 21 de fevereiro de 1881;<br>
-**MMXCII -** Lei Provincial nº 38, de 21 de fevereiro de 1881;<br>
-**MMXCIII -** Lei Provincial nº 39, de 21 de fevereiro de 1881;<br>
-**MMXCIV -** Lei Provincial nº 40, de 21 de fevereiro de 1881;<br>
-**MMXCV -** Lei Provincial nº 41, de 22 de fevereiro de 1881;<br>
-**MMXCVI -** Lei Provincial nº 42, de 22 de fevereiro de 1881;<br>
-**MMXCVII -** Lei Provincial nº 43, de 22 de fevereiro de 1881;<br>
-**MMXCVIII -** Lei Provincial nº 44, de 22 de fevereiro de 1881;<br>
-**MMXCIX -** Lei Provincial nº 45, de 22 de fevereiro de 1881;<br>
-**MMC -** Lei Provincial nº 46, de 22 de fevereiro de 1881;<br>
-**MMCI -** Lei Provincial nº 47, de 22 de fevereiro de 1881;<br>
-**MMCII -** Lei Provincial nº 48, de 22 de fevereiro de 1881;<br>
-**MMCIII -** Lei Provincial nº 49, de 22 de fevereiro de 1881;<br>
-**MMCIV -** Lei Provincial nº 50, de 22 de fevereiro de 1881;<br>
-**MMCV -** Lei Provincial nº 51, de 22 de fevereiro de 1881;<br>
-**MMCVI -** Lei Provincial nº 52, de 25 de fevereiro de 1881;<br>
-**MMCVII -** Lei Provincial nº 53, de 26 de fevereiro de 1881;<br>
-**MMCVIII -** Lei Provincial nº 54, de 26 de fevereiro de 1881;<br>
-**MMCIX -** Lei Provincial nº 55, de 26 de fevereiro de 1881;<br>
-**MMCX -** Lei Provincial nº 56, de 28 de fevereiro de 1881;<br>
-**MMCXI -** Lei Provincial nº 57, de 28 de fevereiro de 1881;<br>
-**MMCXII -** Lei Provincial nº 58, de 28 de fevereiro de 1881;<br>
-**MMCXIII -** Lei Provincial nº 59, de 2 de março de 1881;<br>
-**MMCXIV -** Lei Provincial nº 60, de 23 de maio de 1881;<br>
-**MMCXV -** Lei Provincial nº 61, de 24 de maio de 1881;<br>
-**MMCXVI -** Lei Provincial nº 62, de 28 de maio de 1881;<br>
-**MMCXVII -** Lei Provincial nº 63, de 28 de maio de 1881;<br>
-**MMCXVIII -** Lei Provincial nº 64, de 7 de junho de 1881;<br>
-**MMCXIX -** Lei Provincial nº 65, de 8 de junho de 1881;<br>
-**MMCXX -** Lei Provincial nº 66, de 8 de junho de 1881;<br>
-**MMCXXI -** Lei Provincial nº 68, de 17 de junho de 1881;<br>
-**MMCXXII -** Lei Provincial nº 69, de 17 de junho de 1881;<br>
-**MMCXXIII -** Lei Provincial nº 70, de 17 de junho de 1881;<br>
-**MMCXXIV -** Lei Provincial nº 71, de 17 de junho de 1881;<br>
-**MMCXXV -** Lei Provincial nº 72, de 17 de junho de 1881;<br>
-**MMCXXVI -** Lei Provincial nº 73, de 17 de junho de 1881;<br>
-**MMCXXVII -** Lei Provincial nº 74, de 17 de junho de 1881;<br>
-**MMCXXVIII -** Lei Provincial nº 75, de 17 de junho de 1881;<br>
-**MMCXXIX -** Lei Provincial nº 76, de 17 de junho de 1881;<br>
-**MMCXXX -** Lei Provincial nº 77, de 17 de junho de 1881;<br>
-**MMCXXXI -** Lei Provincial nº 78, de 17 de junho de 1881;<br>
-**MMCXXXII -** Lei Provincial nº 79, de 17 de junho de 1881;<br>
-**MMCXXXIII -** Lei Provincial nº 80, de 17 de junho de 1881;<br>
-**MMCXXXIV -** Lei Provincial nº 81, de 17 de junho de 1881;<br>
-**MMCXXXV -** Lei Provincial nº 82, de 17 de junho de 1881;<br>
-**MMCXXXVI -** Lei Provincial nº 83, de 17 de junho de 1881;<br>
-**MMCXXXVII -** Lei Provincial nº 85, de 25 de junho de 1881;<br>
-**MMCXXXVIII -** Lei Provincial nº 86, de 25 de junho de 1881;<br>
-**MMCXXXIX -** Lei Provincial nº 86-A, de 25 de junho de 1881;<br>
-**MMCXL -** Lei Provincial nº 87, de 27 de junho de 1881;<br>
-**MMCXLI -** Lei Provincial nº 88, de 27 de junho de 1881;<br>
-**MMCXLII -** Lei Provincial nº 89, de 27 de junho de 1881;<br>
-**MMCXLIII -** Lei Provincial nº 90, de 27 de junho de 1881;<br>
-**MMCXLIV -** Lei Provincial nº 91, de 27 de junho de 1881;<br>
-**MMCXLV -** Lei Provincial nº 92, de 27 de junho de 1881;<br>
-**MMCXLVI -** Lei Provincial nº 93, de 27 de junho de 1881;<br>
-**MMCXLVII -** Lei Provincial nº 94, de 27 de junho de 1881;<br>
-**MMCXLVIII -** Lei Provincial nº 95, de 27 de junho de 1881;<br>
-**MMCXLIX -** Lei Provincial nº 96, de 28 de junho de 1881;<br>
-**MMCL -** Lei Provincial nº 97, de 28 de junho de 1881;<br>
-**MMCLI -** Lei Provincial nº 98, de 28 de junho de 1881;<br>
-**MMCLII -** Lei Provincial nº 99, de 30 de junho de 1881;<br>
-**MMCLIII -** Lei Provincial nº 100, de 30 de junho de 1881;<br>
-**MMCLIV -** Lei Provincial nº 101, de 30 de junho de 1881;<br>
-**MMCLV -** Lei Provincial nº 102, de 30 de junho de 1881;<br>
-**MMCLVI -** Lei Provincial nº 103, de 30 de junho de 1881;<br>
-**MMCLVII -** Lei Provincial nº 104, de 30 de junho de 1881;<br>
-**MMCLVIII -** Lei Provincial nº 105, de 30 de junho de 1881;<br>
-**MMCLIX -** Lei Provincial nº 106, de 30 de junho de 1881;<br>
-**MMCLX -** Lei Provincial nº 107, de 30 de junho de 1881;<br>
-**MMCLXI -** Lei Provincial nº 108, de 30 de junho de 1881;<br>
-**MMCLXII -** Lei Provincial nº 109, de 30 de junho de 1881;<br>
-**MMCLXIII -** Lei Provincial nº 110, de 30 de junho de 1881;<br>
-**MMCLXIV -** Lei Provincial nº 111, de 30 de junho de 1881;<br>
-**MMCLXV -** Lei Provincial nº 112, de 7 de julho de 1881;<br>
-**MMCLXVI -** Lei Provincial nº 113, de 7 de julho de 1881;<br>
-**MMCLXVII -** Lei Provincial nº 114, de 9 de julho de 1881;<br>
-**MMCLXVIII -** Lei Provincial nº 115, de 9 de julho de 1881;<br>
-**MMCLXIX -** Lei Provincial nº 116, de 9 de julho de 1881;<br>
-**MMCLXX -** Lei Provincial nº 118, de 9 de julho de 1881;<br>
-**MMCLXXI -** Lei Provincial nº 119, de 9 de julho de 1881;<br>
-**MMCLXXII -** Lei Provincial nº 120, de 9 de julho de 1881;<br>
-**MMCLXXIII -** Lei Provincial nº 122, de 9 de julho de 1881;<br>
-**MMCLXXIV -** Lei Provincial nº 125, de 17 de julho de 1881;<br>
-**MMCLXXV -** Lei Provincial nº 126, de 17 de julho de 1881;<br>
-**MMCLXXVI -** Lei Provincial nº 128, de 17 de julho de 1881;<br>
-**MMCLXXVII -** Lei Provincial nº 129, de 17 de julho de 1881;<br>
-**MMCLXXVIII -** Lei Provincial nº 130, de 17 de junho de 1881;<br>
-**MMCLXXIX -** Lei Provincial nº 131, de 17 de julho de 1881;<br>
-**MMCLXXX -** Lei Provincial nº 132, de 17 de julho de 1881;<br>
-**MMCLXXXI -** Lei Provincial nº 133, de 17 de julho de 1881;<br>
-**MMCLXXXII -** Lei Provincial nº 134, de 17 de julho de 1881;<br>
-**MMCLXXXIII -** Lei Provincial nº 135, de 17 de julho de 1881;<br>
-**MMCLXXXIV -** Lei Provincial nº 136, de 17 de julho de 1881;<br>
-**MMCLXXXV -** Lei Provincial nº 137, de 17 de julho de 1881;<br>
-**MMCLXXXVI -** Lei Provincial nº 138, de 17 de julho de 1881;<br>
-**MMCLXXXVII -** Lei Provincial nº 139, de 17 de julho de 1881;<br>
-**MMCLXXXVIII -** Lei Provincial nº 140, de 17 de julho de 1881;<br>
-**MMCLXXXIX -** Lei Provincial nº 141, de 17 de julho de 1881;<br>
-**MMCXC -** Lei Provincial nº 142, de 17 de julho de 1881;<br>
-**MMCXCI -** Lei Provincial nº 143, de 18 de julho de 1881;<br>
-**MMCXCII -** Lei Provincial nº 144, de 18 de julho de 1881;<br>
-**MMCXCIII -** Lei Provincial nº 145, de 25 de julho de 1881;<br>
-**MMCXCIV -** Lei Provincial nº 146, de 10 de agosto de 1881;<br>
-**MMCXCV -** Resolução Provincial nº 1, de 18 de fevereiro de 1881;<br>
-**MMCXCVI -** Resolução Provincial nº 2, de 22 de fevereiro de 1881;<br>
-**MMCXCVII -** Resolução Provincial nº 3, de 26 de fevereiro de 1881;<br>
-**MMCXCVIII -** Resolução Provincial nº 4, de 27 de fevereiro de 1881;<br>
-**MMCXCIX -** Resolução Provincial nº 5, de 10 de março de 1881;<br>
-**MMCC -** Resolução Provincial nº 6, de 15 de março de 1881;<br>
-**MMCCI -** Resolução Provincial nº 7, de 15 de março de 1881;<br>
-**MMCCII -** Resolução Provincial nº 8, de 24 de maio de 1881;<br>
-**MMCCIII -** Resolução Provincial nº 9, de 3 de junho de 1881;<br>
-**MMCCIV -** Resolução Provincial nº 10, de 8 de junho de 1881;<br>
-**MMCCV -** Resolução Provincial nº 12, de 15 de junho de 1881;<br>
-**MMCCVI -** Resolução Provincial nº 13, de 15 de junho de 1881;<br>
-**MMCCVII -** Resolução Provincial nº 14, de 15 de junho de 1881;<br>
-**MMCCVIII -** Resolução Provincial nº 15, de 15 de junho de 1881;<br>
-**MMCCIX -** Resolução Provincial nº 16, de 4 de julho de 1881;<br>
-**MMCCX -** Resolução Provincial nº 17, de 9 de julho de 1881;<br>
-**MMCCXI -** Resolução Provincial nº 18, de 9 de julho de 1881;<br>
-**MMCCXII -** Resolução Provincial nº 19, de 9 de julho de 1881;<br>
-**MMCCXIII -** Resolução Provincial nº 20, de 9 de julho de 1881;<br>
-**MMCCXIV -** Resolução Provincial nº 21, de 16 de julho de 1881;<br>
-**MMCCXV -** Resolução Provincial nº 23, de 16 de julho de 1881;<br>
-**MMCCXVI -** Resolução Provincial nº 24, de 18 de julho de 1881;<br>
-**MMCCXVII -** Resolução Provincial nº 25, de 18 de julho de 1881;<br>
-**MMCCXVIII -** Resolução Provincial nº 26, de 18 de julho de 1881;<br>
-**MMCCXIX -** Resolução Provincial nº 27, de 18 de julho de 1881;<br>
-**MMCCXX -** Resolução Provincial nº 29, de 18 de julho de 1881;<br>
-**MMCCXXI -** Resolução Provincial nº 30, de 18 de julho de 1881;<br>
-**MMCCXXII -** Resolução Provincial nº 31, de 18 de julho de 1881;<br>
-**MMCCXXIII -** Resolução Provincial nº 32, de 18 de julho de 1881;<br>
-**MMCCXXIV -** Resolução Provincial nº 33, de 9 de julho de 1881;<br>
-**MMCCXXV -** Resolução Provincial nº 34, de 18 de julho de 1881;<br>
-**MMCCXXVI -** Resolução Provincial nº 35, de 24 de julho de 1881;<br>
-**MMCCXXVII -** Resolução Provincial nº 36, de 24 de julho de 1881;<br>
-**MMCCXXVIII -** Resolução Provincial nº 37, de 29 de julho de 1881;<br>
-**MMCCXXIX -** Resolução Provincial nº 38, de 11 de setembro de 1881;<br>
-**MMCCXXX -** Resolução Provincial nº 39, de 11 de setembro de 1881;<br>
-**MMCCXXXI -** Lei Provincial nº 1, de 15 de fevereiro de 1882;<br>
-**MMCCXXXII -** Lei Provincial nº 2, de 15 de fevereiro de 1882;<br>
-**MMCCXXXIII -** Lei Provincial nº 3, de 15 de fevereiro de 1882;<br>
-**MMCCXXXIV -** Lei Provincial nº 4, de 15 de fevereiro de 1882;<br>
-**MMCCXXXV -** Lei Provincial nº 5, de 20 de fevereiro de 1882;<br>
-**MMCCXXXVI -** Lei Provincial nº 6, de 20 de fevereiro de 1882;<br>
-**MMCCXXXVII -** Lei Provincial nº 7, de 24 de fevereiro de 1882;<br>
-**MMCCXXXVIII -** Lei Provincial nº 8, de 24 de fevereiro de 1882;<br>
-**MMCCXXXIX -** Lei Provincial nº 9, de 24 de fevereiro de 1882;<br>
-**MMCCXL -** Lei Provincial nº 10, de 24 de fevereiro de 1882;<br>
-**MMCCXLI -** Lei Provincial nº 11, de 24 de fevereiro de 1882;<br>
-**MMCCXLII -** Lei Provincial nº 12, de 6 de março de 1882;<br>
-**MMCCXLIII -** Lei Provincial nº 13, de 8 de março de 1882;<br>
-**MMCCXLIV -** Lei Provincial nº 14, de 8 de março de 1882;<br>
-**MMCCXLV -** Lei Provincial nº 15, de 8 de março de 1882;<br>
-**MMCCXLVI -** Lei Provincial nº 16, de 8 de março de 1882;<br>
-**MMCCXLVII -** Lei Provincial nº 17, de 13 de março de 1882;<br>
-**MMCCXLVIII -** Lei Provincial nº 18, de 17 de março de 1882;<br>
-**MMCCXLIX -** Lei Provincial nº 19, de 17 de março de 1882;<br>
-**MMCCL -** Lei Provincial nº 20, de 17 de março de 1882;<br>
-**MMCCLI -** Lei Provincial nº 21, de 17 de março de 1882;<br>
-**MMCCLII -** Lei Provincial nº 22, de 17 de março de 1882;<br>
-**MMCCLIII -** Lei Provincial nº 23, de 20 de março de 1882;<br>
-**MMCCLIV -** Lei Provincial nº 24, de 23 de março de 1882;<br>
-**MMCCLV -** Lei Provincial nº 25, de 23 de março de 1882;<br>
-**MMCCLVI -** Lei Provincial nº 26, de 23 de março de 1882;<br>
-**MMCCLVII -** Lei Provincial nº 27, de 23 de março de 1882;<br>
-**MMCCLVIII -** Lei Provincial nº 28, de 23 de março de 1882;<br>
-**MMCCLIX -** Lei Provincial nº 29, de 23 de março de 1882;<br>
-**MMCCLX -** Lei Provincial nº 30, de 23 de março de 1882;<br>
-**MMCCLXI -** Lei Provincial nº 31, de 23 de março de 1882;<br>
-**MMCCLXII -** Lei Provincial nº 32, de 24 de março de 1882;<br>
-**MMCCLXIII -** Lei Provincial nº 33, de 29 de março de 1882;<br>
-**MMCCLXIV -** Lei Provincial nº 34, de 30 de março de 1882;<br>
-**MMCCLXV -** Lei Provincial nº 35, de 30 de março de 1882;<br>
-**MMCCLXVI -** Lei Provincial nº 36, de 30 de março de 1882;<br>
-**MMCCLXVII -** Lei Provincial nº 37, de 30 de março de 1882;<br>
-**MMCCLXVIII -** Lei Provincial nº 38, de 30 de março de 1882;<br>
-**MMCCLXIX -** Lei Provincial nº 39, de 31 de março de 1882;<br>
-**MMCCLXX -** Lei Provincial nº 40, de 31 de março de 1882;<br>
-**MMCCLXXI -** Lei Provincial nº 41, de 31 de março de 1882;<br>
-**MMCCLXXII -** Lei Provincial nº 42, de 31 de março de 1882;<br>
-**MMCCLXXIII -** Lei Provincial nº 43, de 2 de abril de 1882;<br>
-**MMCCLXXIV -** Lei Provincial nº 44, de 3 de abril de 1882;<br>
-**MMCCLXXV -** Lei Provincial nº 45, de 12 de abril de 1882;<br>
-**MMCCLXXVI -** Lei Provincial nº 45-A, de 15 de abril de 1882;<br>
-**MMCCLXXVII -** Lei Provincial nº 46, de 17 de abril de 1882;<br>
-**MMCCLXXVIII -** Lei Provincial nº 47, de 18 de abril de 1882;<br>
-**MMCCLXXIX -** Lei Provincial nº 48, de 18 de abril de 1882;<br>
-**MMCCLXXX -** Lei Provincial nº 49, de 18 de abril de 1882;<br>
-**MMCCLXXXI -** Lei Provincial nº 50, de 18 de abril de 1882;<br>
-**MMCCLXXXII -** Lei Provincial nº 50-A, de 18 de abril de 1882;<br>
-**MMCCLXXXIII -** Lei Provincial nº 51, de 30 de abril de 1882;<br>
-**MMCCLXXXIV -** Lei Provincial nº 52, de 4 de maio de 1882;<br>
-**MMCCLXXXV -** Lei Provincial nº 53, de 30 de dezembro de 1882;<br>
-**MMCCLXXXVI -** Resolução Provincial nº 1, de 2 de março de 1882;<br>
-**MMCCLXXXVII -** Resolução Provincial nº 2, de 12 de março de 1882;<br>
-**MMCCLXXXVIII -** Resolução Provincial nº 3, de 15 de março de 1882;<br>
-**MMCCLXXXIX -** Resolução Provincial nº 4, de 15 de março de 1882;<br>
-**MMCCXC -** Resolução Provincial nº 5, de 24 de março de 1882;<br>
-**MMCCXCI -** Resolução Provincial nº 6, de 24 de março de 1882;<br>
-**MMCCXCII -** Resolução Provincial nº 7, de 24 de março de 1882;<br>
-**MMCCXCIII -** Resolução Provincial nº 8, de 24 de março de 1882;<br>
-**MMCCXCIV -** Resolução Provincial nº 9, de 24 de março de 1882;<br>
-**MMCCXCV -** Resolução Provincial nº 10, de 24 de março de 1882;<br>
-**MMCCXCVI -** Resolução Provincial nº 11, de 24 de março de 1882;<br>
-**MMCCXCVII -** Resolução Provincial nº 12, de 24 de março de 1882;<br>
-**MMCCXCVIII -** Resolução Provincial nº 13, de 30 de março de 1882;<br>
-**MMCCXCIX -** Resolução Provincial nº 14, de 30 de março de 1882;<br>
-**MMCCC -** Resolução Provincial nº 15, de 30 de março de 1882;<br>
-**MMCCCI -** Resolução Provincial nº 16, de 30 de março de 1882;<br>
-**MMCCCII -** Resolução Provincial nº 17, de 30 de março de 1882;<br>
-**MMCCCIII -** Resolução Provincial nº 18, de 31 de março de 1882;<br>
-**MMCCCIV -** Resolução Provincial nº 19, de 31 de março de 1882;<br>
-**MMCCCV -** Resolução Provincial nº 20, de 22 de maio de 1882;<br>
-**MMCCCVI -** Resolução Provincial nº 21, de 4 de maio de 1882;<br>
-**MMCCCVII -** Resolução Provincial nº 22, de 22 de maio de 1882;<br>
-**MMCCCVIII -** Resolução Provincial nº 23, de 22 de maio de 1882;<br>
-**MMCCCIX -** Resolução Provincial nº 24, de 22 de maio de 1882;<br>
-**MMCCCX -** Resolução Provincial nº 25, de 22 de maio de 1882;<br>
-**MMCCCXI -** Resolução Provincial nº 26, de 26 de maio de 1882;<br>
-**MMCCCXII -** Resolução Provincial nº 27, de 26 de maio de 1882;<br>
-**MMCCCXIII -** Resolução Provincial nº 28, de 26 de maio de 1882;<br>
-**MMCCCXIV -** Resolução Provincial nº 29, de 26 de maio de 1882;<br>
-**MMCCCXV -** Resolução Provincial nº 30, de 1º de junho de 1882;<br>
-**MMCCCXVI -** Lei Provincial nº 1, de 28 de janeiro de 1883;<br>
-**MMCCCXVII -** Lei Provincial nº 2, de 3 de fevereiro de 1883;<br>
-**MMCCCXVIII -** Lei Provincial nº 3, de 22 de fevereiro de 1883;<br>
-**MMCCCXIX -** Lei Provincial nº 4, de 22 de fevereiro de 1883;<br>
-**MMCCCXX -** Lei Provincial nº 5, de 24 de fevereiro de 1883;<br>
-**MMCCCXXI -** Lei Provincial nº 6, de 24 de fevereiro de 1883;<br>
-**MMCCCXXII -** Lei Provincial nº 7, de 24 de fevereiro de 1883;<br>
-**MMCCCXXIII -** Lei Provincial nº 8, de 1º de março de 1883;<br>
-**MMCCCXXIV -** Lei Provincial nº 9, de 7 de março de 1883;<br>
-**MMCCCXXV -** Lei Provincial nº 10, de 9 de março de 1883;<br>
-**MMCCCXXVI -** Lei Provincial nº 11, de 9 de março de 1883;<br>
-**MMCCCXXVII -** Lei Provincial nº 12, de 10 de março de 1883;<br>
-**MMCCCXXVIII -** Lei Provincial nº 13, de 10 de março de 1883;<br>
-**MMCCCXXIX -** Lei Provincial nº 14, de 10 de março de 1883;<br>
-**MMCCCXXX -** Lei Provincial nº 15, de 10 de março de 1883;<br>
-**MMCCCXXXI -** Lei Provincial nº 16, de 10 de março de 1883;<br>
-**MMCCCXXXII -** Lei Provincial nº 17, de 10 de março de 1883;<br>
-**MMCCCXXXIII -** Lei Provincial nº 18, de 10 de março de 1883;<br>
-**MMCCCXXXIV -** Lei Provincial nº 19, de 15 de março de 1883;<br>
-**MMCCCXXXV -** Lei Provincial nº 20, de 17 de março de 1883;<br>
-**MMCCCXXXVI -** Lei Provincial nº 21, de 10 de março de 1883;<br>
-**MMCCCXXXVII -** Lei Provincial nº 22, de 17 de março de 1883;<br>
-**MMCCCXXXVIII -** Lei Provincial nº 23, de 20 de março de 1883;<br>
-**MMCCCXXXIX -** Lei Provincial nº 24, de 27 de março de 1883;<br>
-**MMCCCXL -** Lei Provincial nº 25, de 27 de março de 1883;<br>
-**MMCCCXLI -** Lei Provincial nº 26, de 29 de março de 1883;<br>
-**MMCCCXLII -** Lei Provincial nº 27, de 29 de março de 1883;<br>
-**MMCCCXLIII -** Lei Provincial nº 28, de 29 de março de 1883;<br>
-**MMCCCXLIV -** Lei Provincial nº 29, de 29 de março de 1883;<br>
-**MMCCCXLV -** Lei Provincial nº 30, de 29 de março de 1883;<br>
-**MMCCCXLVI -** Lei Provincial nº 31, de 30 de março de 1883;<br>
-**MMCCCXLVII -** Lei Provincial nº 32, de 30 de março de 1883;<br>
-**MMCCCXLVIII -** Lei Provincial nº 33, de 30 de março de 1883;<br>
-**MMCCCXLIX -** Lei Provincial nº 34, de 31 de março de 1883;<br>
-**MMCCCL -** Lei Provincial nº 35, de 2 de abril de 1883;<br>
-**MMCCCLI -** Lei Provincial nº 36, de 2 de abril de 1883;<br>
-**MMCCCLII -** Lei Provincial nº 37, de 2 de abril de 1883;<br>
-**MMCCCLIII -** Lei Provincial nº 38, de 2 de abril de 1883;<br>
-**MMCCCLIV -** Lei Provincial nº 39, de 2 de abril de 1883;<br>
-**MMCCCLV -** Lei Provincial nº 40, de 2 de abril de 1883;<br>
-**MMCCCLVI -** Lei Provincial nº 41, de 2 de abril de 1883;<br>
-**MMCCCLVII -** Lei Provincial nº 42, de 2 de abril de 1883;<br>
-**MMCCCLVIII -** Lei Provincial nº 43, de 2 de abril de 1883;<br>
-**MMCCCLIX -** Lei Provincial nº 44, de 2 de abril de 1883;<br>
-**MMCCCLX -** Lei Provincial nº 45, de 2 de abril de 1883;<br>
-**MMCCCLXI -** Lei Provincial nº 46, de 2 de abril de 1883;<br>
-**MMCCCLXIV -** Lei Provincial nº 49, de 2 de abril de 1883;<br>
-**MMCCCLXV -** Lei Provincial nº 50, de 2 de abril de 1883;<br>
-**MMCCCLXVI -** Lei Provincial nº 51, de 2 de abril de 1883;<br>
-**MMCCCLXVII -** Lei Provincial nº 52, de 2 de abril de 1883;<br>
-**MMCCCLXVIII -** Lei Provincial nº 53, de 2 de abril de 1883;<br>
-**MMCCCLXIX -** Lei Provincial nº 54, de 2 de abril de 1883;<br>
-**MMCCCLXX -** Lei Provincial nº 55, de 2 de abril de 1883;<br>
-**MMCCCLXXI -** Lei Provincial nº 56, de 2 de abril de 1883;<br>
-**MMCCCLXXII -** Lei Provincial nº 57, de 2 de abril de 1883;<br>
-**MMCCCLXXIII -** Lei Provincial nº 58, de 2 de abril de 1883;<br>
-**MMCCCLXXIV -** Lei Provincial nº 59, de 2 de abril de 1883;<br>
-**MMCCCLXXV -** Lei Provincial nº 60, de 2 de abril de 1883;<br>
-**MMCCCLXXVI -** Lei Provincial nº 61, de 2 de abril de 1883;<br>
-**MMCCCLXXVII -** Lei Provincial nº 62, de 2 de abril de 1883;<br>
-**MMCCCLXXVIII -** Lei Provincial nº 63, de 2 de abril de 1883;<br>
-**MMCCCLXXIX -** Lei Provincial nº 64, de 2 de abril de 1883;<br>
-**MMCCCLXXX -** Lei Provincial nº 65, de 2 de abril de 1883;<br>
-**MMCCCLXXXI -** Lei Provincial nº 66, de 2 de abril de 1883;<br>
-**MMCCCLXXXII -** Lei Provincial nº 67, de 2 de abril de 1883;<br>
-**MMCCCLXXXIII -** Lei Provincial nº 68, de 2 de abril de 1883;<br>
-**MMCCCLXXXIV -** Lei Provincial nº 69, de 2 de abril de 1883;<br>
-**MMCCCLXXXV -** Lei Provincial nº 70, de 2 de abril de 1883;<br>
-**MMCCCLXXXVI -** Lei Provincial nº 71, de 2 de abril de 1883;<br>
-**MMCCCLXXXVII -** Lei Provincial nº 72, de 2 de abril de 1883;<br>
-**MMCCCLXXXVIII -** Lei Provincial nº 73, de 2 de abril de 1883;<br>
-**MMCCCLXXXIX -** Lei Provincial nº 74, de 2 de abril de 1883;<br>
-**MMCCCXC -** Lei Provincial nº 75, de 2 de abril de 1883;<br>
-**MMCCCXCI -** Lei Provincial nº 76, de 2 de abril de 1883;<br>
-**MMCCCXCII -** Lei Provincial nº 77, de 2 de abril de 1883;<br>
-**MMCCCXCIII -** Lei Provincial nº 78, de 2 de abril de 1883;<br>
-**MMCCCXCIV -** Lei Provincial nº 79, de 2 de abril de 1883;<br>
-**MMCCCXCV -** Lei Provincial nº 80, de 2 de abril de 1883;<br>
-**MMCCCXCVI -** Lei Provincial nº 81, de 2 de abril de 1883;<br>
-**MMCCCXCVII -** Lei Provincial nº 82, de 2 de abril de 1883;<br>
-**MMCCCXCVIII -** Lei Provincial nº 83, de 2 de abril de 1883;<br>
-**MMCCCXCIX -** Lei Provincial nº 84, de 2 de abril de 1883;<br>
-**MMCD -** Lei Provincial nº 85, de 2 de abril de 1883;<br>
-**MMCDI -** Lei Provincial nº 86, de 2 de abril de 1883;<br>
-**MMCDII -** Lei Provincial nº 87, de 2 de abril de 1883;<br>
-**MMCDIII -** Lei Provincial nº 88, de 2 de abril de 1883;<br>
-**MMCDIV -** Lei Provincial nº 89, de 4 de abril de 1883;<br>
-**MMCDV -** Lei Provincial nº 90, de 4 de abril de 1883;<br>
-**MMCDVI -** Lei Provincial nº 91, de 28 de abril de 1883;<br>
-**MMCDVII -** Lei Provincial nº 92, de 17 de maio de 1883;<br>
-**MMCDVIII -** Resolução Provincial nº 1, de 27 de fevereiro de 1883;<br>
-**MMCDIX -** Resolução Provincial nº 2, de 10 de março de 1883;<br>
-**MMCDX -** Resolução Provincial nº 3, de 10 de março de 1883;<br>
-**MMCDXI -** Resolução Provincial nº 4, de 10 de março de 1883;<br>
-**MMCDXII -** Resolução Provincial nº 5, de 10 de março de 1883;<br>
-**MMCDXIII -** Resolução Provincial nº 6, de 10 de março de 1883;<br>
-**MMCDXIV -** Resolução Provincial nº 7, de 10 de março de 1883;<br>
-**MMCDXV -** Resolução Provincial nº 8, de 10 de março de 1883;<br>
-**MMCDXVI -** Resolução Provincial nº 9, de 10 de março de 1883;<br>
-**MMCDXVII -** Resolução Provincial nº 10, de 10 de março de 1883;<br>
-**MMCDXVIII -** Resolução Provincial nº 11, de 10 de março de 1883;<br>
-**MMCDXIX -** Resolução Provincial nº 12, de 27 de março de 1883;<br>
-**MMCDXX -** Resolução Provincial nº 13, de 27 de março de 1883;<br>
-**MMCDXXI -** Resolução Provincial nº 14, de 27 de março de 1883;<br>
-**MMCDXXII -** Resolução Provincial nº 15, de 27 de março de 1883;<br>
-**MMCDXXIII -** Resolução Provincial nº 16, de 27 de março de 1883;<br>
-**MMCDXXIV -** Resolução Provincial nº 17, de 27 de março de 1883;<br>
-**MMCDXXV -** Resolução Provincial nº 18, de 27 de março de 1883;<br>
-**MMCDXXVI -** Resolução Provincial nº 19, de 7 de abril de 1883;<br>
-**MMCDXXVII -** Resolução Provincial nº 20, de 7 de abril de 1883;<br>
-**MMCDXXVIII -** Resolução Provincial nº 20-A, de 11 de maio de 1883;<br>
-**MMCDXXIX -** Resolução Provincial nº 21, de 14 de maio de 1883;<br>
-**MMCDXXX -** Resolução Provincial nº 22, de 14 de maio de 1883;<br>
-**MMCDXXXI -** Resolução Provincial nº 23, de 14 de maio de 1883;<br>
-**MMCDXXXII -** Resolução Provincial nº 24, de 14 de maio de 1883;<br>
-**MMCDXXXIII -** Resolução Provincial nº 25, de 17 de maio de 1883;<br>
-**MMCDXXXIV -** Resolução Provincial nº 26, de 17 de maio de 1883;<br>
-**MMCDXXXV -** Resolução Provincial nº 27, de 17 de maio de 1883;<br>
-**MMCDXXXVI -** Resolução Provincial nº 28, de 17 de maio de 1883;<br>
-**MMCDXXXVII -** Resolução Provincial nº 29, de 28 de maio de 1883;<br>
-**MMCDXXXVIII -** Resolução Provincial nº 30, de 28 de maio de 1883;<br>
-**MMCDXXXIX -** Resolução Provincial nº 31, de 28 de maio de 1883;<br>
-**MMCDXL -** Resolução Provincial nº 32, de 28 de maio de 1883;<br>
-**MMCDXLI -** Resolução Provincial nº 33, de 28 de maio de 1883;<br>
-**MMCDXLII -** Resolução Provincial nº 34, de 29 de maio de 1883;<br>
-**MMCDXLIII -** Resolução Provincial nº 35, de 29 de maio de 1883;<br>
-**MMCDXLIV -** Resolução Provincial nº 36, de 29 de maio de 1883;<br>
-**MMCDXLV -** Resolução Provincial nº 37, de 6 de agosto de 1883;<br>
-**MMCDXLVI -** Resolução Provincial nº 38, de 6 de agosto de 1883;<br>
-**MMCDXLVII -** Resolução Provincial nº 39, de 6 de agosto de 1883;<br>
-**MMCDXLVIII -** Resolução Provincial nº 40, de 6 de agosto de 1883;<br>
-**MMCDXLIX -** Resolução Provincial nº 41, de 6 de agosto de 1883;<br>
-**MMCDL -** Resolução Provincial nº 42, de 6 de agosto de 1883;<br>
-**MMCDLI -** Resolução Provincial nº 43, de 6 de agosto de 1883;<br>
-**MMCDLII -** Resolução Provincial nº 44, de 6 de agosto de 1883;<br>
-**MMCDLIII -** Resolução Provincial nº 45, de 6 de agosto de 1883;<br>
-**MMCDLIV -** Resolução Provincial nº 46, de 6 de agosto de 1883;<br>
-**MMCDLV -** Resolução Provincial nº 47, de 6 de agosto de 1883;<br>
-**MMCDLVI -** Resolução Provincial nº 48, de 6 de agosto de 1883;<br>
-**MMCDLVII -** Resolução Provincial nº 49, de 6 de agosto de 1883;<br>
-**MMCDLVIII -** Resolução Provincial nº 50, de 6 de agosto de 1883;<br>
-**MMCDLIX -** Resolução Provincial nº 51, de 6 de agosto de 1883;<br>
-**MMCDLX -** Resolução Provincial nº 52, de 6 de agosto de 1883;<br>
-**MMCDLXI -** Lei Provincial nº 1, de 24 de janeiro de 1884;<br>
-**MMCDLXII -** Lei Provincial nº 2, de 31 de janeiro de 1884;<br>
-**MMCDLXIII -** Lei Provincial nº 3, de 5 de fevereiro de 1884;<br>
-**MMCDLXIV -** Lei Provincial nº 4, de 6 de fevereiro de 1884;<br>
-**MMCDLXV -** Lei Provincial nº 5, de 7 de fevereiro de 1884;<br>
-**MMCDLXVI -** Lei Provincial nº 6, de 11 de fevereiro de 1884;<br>
-**MMCDLXVII -** Lei Provincial nº 7, de 13 de fevereiro de 1884;<br>
-**MMCDLXVIII -** Lei Provincial nº 8, de 15 de fevereiro de 1884;<br>
-**MMCDLXIX -** Lei Provincial nº 9, de 1º de março de 1884;<br>
-**MMCDLXX -** Lei Provincial nº 10, de 1º de março de 1884;<br>
-**MMCDLXXI -** Lei Provincial nº 11, de 1º de março de 1884;<br>
-**MMCDLXXII -** Lei Provincial nº 11-A, de 1º de março de 1884;<br>
-**MMCDLXXIII -** Lei Provincial nº 12, de 6 de março de 1884;<br>
-**MMCDLXXIV -** Lei Provincial nº 13, de 10 de março de 1884;<br>
-**MMCDLXXV -** Lei Provincial nº 14, de 15 de março de 1884;<br>
-**MMCDLXXVI -** Lei Provincial nº 15, de 22 de março de 1884;<br>
-**MMCDLXXVII -** Lei Provincial nº 16, de 24 de março de 1884;<br>
-**MMCDLXXVIII -** Lei Provincial nº 17, de 24 de março de 1884;<br>
-**MMCDLXXIX -** Lei Provincial nº 18, de 26 de março de 1884;<br>
-**MMCDLXXX -** Lei Provincial nº 19, de 26 de março de 1884;<br>
-**MMCDLXXXI -** Lei Provincial nº 20, de 26 de março de 1884;<br>
-**MMCDLXXXII -** Lei Provincial nº 21, de 26 de março de 1884;<br>
-**MMCDLXXXIII -** Lei Provincial nº 22, de 26 de março de 1884;<br>
-**MMCDLXXXIV -** Lei Provincial nº 23, de 27 de março de 1884;<br>
-**MMCDLXXXV -** Lei Provincial nº 24, de 27 de março de 1884;<br>
-**MMCDLXXXVI -** Lei Provincial nº 25, de 28 de março de 1884;<br>
-**MMCDLXXXVII -** Lei Provincial nº 26, de 28 de março de 1884;<br>
-**MMCDLXXXVIII -** Lei Provincial nº 27, de 29 de março de 1884;<br>
-**MMCDLXXXIX -** Lei Provincial nº 28, de 29 de março de 1884;<br>
-**MMCDXC -** Lei Provincial nº 29, de 29 de março de 1884;<br>
-**MMCDXCI -** Lei Provincial nº 30, de 31 de março de 1884;<br>
-**MMCDXCII -** Lei Provincial nº 31, de 31 de março de 1884;<br>
-**MMCDXCIII -** Lei Provincial nº 32, de 31 de março de 1884;<br>
-**MMCDXCIV -** Lei Provincial nº 34, de 31 de março de 1884;<br>
-**MMCDXCV -** Lei Provincial nº 35, de 31 de março de 1884;<br>
-**MMCDXCVI -** Lei Provincial nº 36, de 31 de março de 1884;<br>
-**MMCDXCVII -** Lei Provincial nº 37, de 31 de março de 1884;<br>
-**MMCDXCVIII -** Lei Provincial nº 38, de 31 de março de 1884;<br>
-**MMCDXCIX -** Lei Provincial nº 39, de 31 de março de 1884;<br>
-**MMD - L**ei Provincial nº 40, de 31 de março de 1884;<br>
-**MMDI -** Lei Provincial nº 41, de 31 de março de 1884;<br>
-**MMDII -** Lei Provincial nº 42, de 1º de abril de 1884;<br>
-**MMDIII -** Lei Provincial nº 43, de 1º de abril de 1884;<br>
-**MMDIV -** Lei Provincial nº 44, de 1º de abril de 1884;<br>
-**MMDV -** Lei Provincial nº 45, de 1º de abril de 1884;<br>
-**MMDVI -** Lei Provincial nº 46, de 1º de abril de 1884;<br>
-**MMDVII -** Lei Provincial nº 47, de 1º de abril de 1884;<br>
-**MMDVIII -** Lei Provincial nº 48, de 1º de abril de 1884;<br>
-**MMDIX -** Lei Provincial nº 49, de 1º de abril de 1884;<br>
-**MMDX -** Lei Provincial nº 50, de 1º de abril de 1884;<br>
-**MMDXI -** Lei Provincial nº 51, de 1º de abril de 1884;<br>
-**MMDXII** \- Lei Provincial nº 52, de 1º de abril de 1884;<br>
-**MMDXIII -** Lei Provincial nº 53, de 1º de abril de 1884;<br>
-**MMDXIV -** Lei Provincial nº 54, de 1º de abril de 1884;<br>
-**MMDXV -** Lei Provincial nº 55, de 2 de abril de 1884;<br>
-**MMDXVI -** Lei Provincial nº 56, de 2 de abril de 1884;<br>
-**MMDXVII -** Lei Provincial nº 57, de 2 de abril de 1884;<br>
-**MMDXVIII -** Lei Provincial nº 58, de 2 de abril de 1884;<br>
-**MMDXIX -** Lei Provincial nº 59, de 25 de abril de 1884;<br>
-**MMDXX -** Lei Provincial nº 60, de 28 de abril de 1884;<br>
-**MMDXXI -** Lei Provincial nº 61, de 25 de junho de 1884;<br>
-**MMDXXII -** Resolução Provincial nº 1, de 24 de janeiro de 1884;<br>
-**MMDXXIII -** Resolução Provincial nº 2, de 1º de março de 1884;<br>
-**MMDXXIV -** Resolução Provincial nº 3, de 1º de março de 1884;<br>
-**MMDXXV -** Resolução Provincial nº 4, de 1º de março de 1884;<br>
-**MMDXXVI -** Resolução Provincial nº 5, de 1º de março de 1884;<br>
-**MMDXXVII -** Resolução Provincial nº 6, de 6 de março de 1884;<br>
-**MMDXXVIII -** Resolução Provincial nº 7, de 14 de março de 1884;<br>
-**MMDXXIX -** Resolução Provincial nº 8, de 14 de março de 1884;<br>
-**MMDXXX -** Resolução Provincial nº 9, de 23 de março de 1884;<br>
-**MMDXXXI -** Resolução Provincial nº 10, de 23 de março de 1884;<br>
-**MMDXXXII -** Resolução Provincial nº 11, de 23 de março de 1884;<br>
-**MMDXXXIII -** Resolução Provincial nº 12, de 23 de março de 1884;<br>
-**MMDXXXIV -** Resolução Provincial nº 13, de 23 de março de 1884;<br>
-**MMDXXXV -** Resolução Provincial nº 14, de 31 de março de 1884;<br>
-**MMDXXXVI -** Resolução Provincial nº 15, de 31 de março de 1884;<br>
-**MMDXXXVII -** Resolução Provincial nº 16, de 31 de março de 1884;<br>
-**MMDXXXVIII -** Resolução Provincial nº 17, de 31 de março de 1884;<br>
-**MMDXXXIX -** Resolução Provincial nº 18, de 31 de março de 1884;<br>
-**MMDXL -** Resolução Provincial nº 19, de 31 de março de 1884;<br>
-**MMDXLI -** Resolução Provincial nº 20, de 31 de março de 1884;<br>
-**MMDXLII -** Resolução Provincial nº 21, de 1º de abril de 1884;<br>
-**MMDXLIII -** Resolução Provincial nº 22, de 28 de abril de 1884;<br>
-**MMDXLIV -** Resolução Provincial nº 23, de 30 de abril de 1884;<br>
-**MMDXLV -** Resolução Provincial nº 24, de 30 de abril de 1884;<br>
-**MMDXLVI -** Resolução Provincial nº 25, de 30 de abril de 1884;<br>
-**MMDXLVII -** Resolução Provincial nº 26, de 30 de abril de 1884;<br>
-**MMDXLVIII -** Resolução Provincial nº 27, de 18 de junho de 1884;<br>
-**MMDXLIX -** Resolução Provincial nº 28, de 18 de junho de 1884;<br>
-**MMDL -** Resolução Provincial nº 29, de 18 de junho de 1884;<br>
-**MMDLI -** Resolução Provincial nº 30, de 18 de junho de 1884;<br>
-**MMDLII -** Resolução Provincial nº 31, de 18 de junho de 1884;<br>
-**MMDLIII -** Resolução Provincial nº 32, de 18 de junho de 1884;<br>
-**MMDLIV -** Resolução Provincial nº 33, de 18 de junho de 1884;<br>
-**MMDLV -** Resolução Provincial nº 34, de 18 de junho de 1884;<br>
-**MMDLVI -** Resolução Provincial nº 35, de 18 de junho de 1884;<br>
-**MMDLVII -** Resolução Provincial nº 36, de 18 de junho de 1884;<br>
-**MMDLVIII -** Resolução Provincial nº 37, de 18 de junho de 1884;<br>
-**MMDLIX -** Resolução Provincial nº 38, de 18 de junho de 1884;<br>
-**MMDLX -** Resolução Provincial nº 39, de 18 de junho de 1884;<br>
-**MMDLXI -** Resolução Provincial nº 40, de 18 de junho de 1884;<br>
-**MMDLXII -** Resolução Provincial nº 41, de 18 de junho de 1884;<br>
-**MMDLXIII -** Resolução Provincial nº 42, de 18 de junho de 1884;<br>
-**MMDLXIV -** Resolução Provincial nº 43, de 18 de junho de 1884;<br>
-**MMDLXV -** Resolução Provincial nº 44, de 18 de junho de 1884;<br>
-**MMDLXVI -** Resolução Provincial nº 45, de 18 de junho de 1884;<br>
-**MMDLXVII -** Resolução Provincial nº 46, de 18 de junho de 1884;<br>
-**MMDLXVIII -** Resolução Provincial nº 47, de 18 de junho de 1884;<br>
-**MMDLXIX -** Resolução Provincial nº 48, de 18 de junho de 1884;<br>
-**MMDLXX -** Resolução Provincial nº 49, de 18 de junho de 1884;<br>
-**MMDLXXI -** Resolução Provincial nº 50, de 18 de junho de 1884;<br>
-**MMDLXXII -** Resolução Provincial nº 51, de 18 de junho de 1884;<br>
-**MMDLXXIII -** Resolução Provincial nº 52, de 18 de junho de 1884;<br>
-**MMDLXXIV -** Lei Provincial nº 1, de 3 de fevereiro de 1885;<br>
-**MMDLXXV -** Lei Provincial nº 2, de 6 de fevereiro de 1885;<br>
-**MMDLXXVI -** Lei Provincial nº 3, de 6 de fevereiro de 1885;<br>
-**MMDLXXVII -** Lei Provincial nº 4, de 6 de fevereiro de 1885;<br>
-**MMDLXXVIII -** Lei Provincial nº 5, de 6 de fevereiro de 1885;<br>
-**MMDLXXIX -** Lei Provincial nº 6, de 7 de fevereiro de 1885;<br>
-**MMDLXXX -** Lei Provincial nº 7, de 7 de fevereiro de 1885;<br>
-**MMDLXXXI -** Lei Provincial nº 8, de 7 de fevereiro de 1885;<br>
-**MMDLXXXII -** Lei Provincial nº 9, de 7 de fevereiro de 1885;<br>
-**MMDLXXXIII -** Lei Provincial nº 10, de 7 de fevereiro de 1885;<br>
-**MMDLXXXIV -** Lei Provincial nº 11, de 7 de fevereiro de 1885;<br>
-**MMDLXXXV -** Lei Provincial nº 12, de 4 de fevereiro de 1885;<br>
-**MMDLXXXVI -** Lei Provincial nº 13, de 9 de fevereiro de 1885;<br>
-**MMDLXXXVII -** Lei Provincial nº 14, de 11 de fevereiro de 1855;<br>
-**MMDLXXXVIII -** Lei Provincial nº 15, de 19 de fevereiro de 1885;<br>
-**MMDLXXXIX -** Lei Provincial nº 16, de 19 de fevereiro de 1885;<br>
-**MMDXC -** Lei Provincial nº 17, de 4 de março de 1885;<br>
-**MMDXCI -** Lei Provincial nº 18, de 4 de março de 1885;<br>
-**MMDXCII -** Lei Provincial nº 19, de 5 de março de 1885;<br>
-**MMDXCIII -** Lei Provincial nº 20, de 10 de março de 1885;<br>
-**MMDXCIV -** Lei Provincial nº 21, de 10 de março de 1885;<br>
-**MMDXCV -** Lei Provincial nº 22, de 10 de março de 1885;<br>
-**MMDXCVI -** Lei Provincial nº 23, de 10 de março de 1885;<br>
-**MMDXCVII -** Lei Provincial nº 24, de 10 de março de 1885;<br>
-**MMDXCVIII -** Lei Provincial nº 25, de 10 de março de 1885;<br>
-**MMDXCIX -** Lei Provincial nº 26, de 10 de março de 1885;<br>
-**MMDC -** Lei Provincial nº 27, de 10 de março de 1885;<br>
-**MMDCI -** Lei Provincial nº 28, de 10 de março de 1885;<br>
-**MMDCII -** Lei Provincial nº 29, de 10 de março de 1885;<br>
-**MMDCIII -** Lei Provincial nº 30, de 10 de março de 1885;<br>
-**MMDCIV -** Lei Provincial nº 31, de 10 de março de 1885;<br>
-**MMDCV -** Lei Provincial nº 32, de 10 de março de 1885;<br>
-**MMDCVI -** Lei Provincial nº 33, de 10 de março de 1885;<br>
-**MMDCVII -** Lei Provincial nº 34, de 10 de março de 1885;<br>
-**MMDCVIII -** Lei Provincial nº 35, de 10 de março de 1885;<br>
-**MMDCIX -** Lei Provincial nº 36, de 10 de março de 1885;<br>
-**MMDCX -** Lei Provincial nº 37, de 10 de março de 1885;<br>
-**MMDCXI -** Lei Provincial nº 38, de 11 de março de 1885;<br>
-**MMDCXII -** Lei Provincial nº 39, de 11 de março de 1885;<br>
-**MMDCXIII -** Lei Provincial nº 40, de 11 de março de 1885;<br>
-**MMDCXIV -** Lei Provincial nº 41, de 11 de março de 1885;<br>
-**MMDCXV -** Lei Provincial nº 42, de 11 de março de 1885;<br>
-**MMDCXVI -** Lei Provincial nº 43, de 11 de março de 1885;<br>
-**MMDCXVII -** Lei Provincial nº 44, de 11 de março de 1885;<br>
-**MMDCXVIII -** Lei Provincial nº 45, de 11 de março de 1885;<br>
-**MMDCXIX -** Lei Provincial nº 46, de 16 de março de 1885;<br>
-**MMDCXX -** Lei Provincial nº 47, de 20 de março de 1885;<br>
-**MMDCXXI -** Lei Provincial nº 48, de 20 de março de 1885;<br>
-**MMDCXXII -** Lei Provincial nº 49, de 20 de março de 1885;<br>
-**MMDCXXIII -** Lei Provincial nº 50, de 20 de março de 1885;<br>
-**MMDCXXIV -** Lei Provincial nº 51, de 20 de março de 1885;<br>
-**MMDCXXV -** Lei Provincial nº 52, de 20 de março de 1885;<br>
-**MMDCXXVI -** Lei Provincial nº 53, de 21 de março de 1885;<br>
-**MMDCXXVII -** Lei Provincial nº 54, de 21 de março de 1885;<br>
-**MMDCXXVIII -** Lei Provincial nº 55, de 21 de março de 1885;<br>
-**MMDCXXIX -** Lei Provincial nº 56, de 21 de março de 1885;<br>
-**MMDCXXX -** Lei Provincial nº 57, de 21 de março de 1885;<br>
-**MMDCXXXI -** Lei Provincial nº 58, de 21 de março de 1885;<br>
-**MMDCXXXII -** Lei Provincial nº 59, de 21 de março de 1885;<br>
-**MMDCXXXIII -** Lei Provincial nº 60, de 21 de março de 1885;<br>
-**MMDCXXXIV -** Lei Provincial nº 61, de 21 de março de 1885;<br>
-**MMDCXXXV -** Lei Provincial nº 62, de 21 de março de 1885;<br>
-**MMDCXXXVI -** Lei Provincial nº 63, de 23 de março de 1885;<br>
-**MMDCXXXVII -** Lei Provincial nº 64, de 23 de março de 1885;<br>
-**MMDCXXXVIII -** Lei Provincial nº 65, de 23 de março de 1885;<br>
-**MMDCXXXIX -** Lei Provincial nº 66, de 26 de março de 1885;<br>
-**MMDCXL -** Lei Provincial nº 67, de 26 de março de 1885;<br>
-**MMDCXLI -** Lei Provincial nº 68, de 27 de março de 1885;<br>
-**MMDCXLII -** Lei Provincial nº 69, de 27 de março de 1885;<br>
-**MMDCXLIII -** Lei Provincial nº 70, de 27 de março de 1885;<br>
-**MMDCXLIV -** Lei Provincial nº 71, de 27 de março de 1885;<br>
-**MMDCXLV -** Lei Provincial nº 72, de 6 de abril de 1885;<br>
-**MMDCXLVI -** Lei Provincial nº 73, de 6 de abril de 1885;<br>
-**MMDCXLVII -** Lei Provincial nº 74, de 6 de abril de 1885;<br>
-**MMDCXLVIII -** Lei Provincial nº 75, de 6 de abril de 1885;<br>
-**MMDCXLIX -** Lei Provincial nº 76, de 6 de abril de 1885;<br>
-**MMDCL -** Lei Provincial nº 77, de 6 de abril de 1885;<br>
-**MMDCLI -** Lei Provincial nº 78, de 6 de abril de 1885;<br>
-**MMDCLII -** Lei Provincial nº 79, de 6 de abril de 1885;<br>
-**MMDCLIII -** Lei Provincial nº 80, de 9 de abril de 1885;<br>
-**MMDCLIV -** Lei Provincial nº 81, de 9 de abril de 1885;<br>
-**MMDCLV -** Lei Provincial nº 82, de 9 de abril de 1885;<br>
-**MMDCLVI -** Lei Provincial nº 83, de 9 de abril de 1885;<br>
-**MMDCLVII -** Lei Provincial nº 84, de 9 de abril de 1885;<br>
-**MMDCLVIII -** Lei Provincial nº 85, de 9 de abril de 1885;<br>
-**MMDCLIX -** Lei Provincial nº 86, de 9 de abril de 1885;<br>
-**MMDCLX -** Lei Provincial nº 87, de 9 de abril de 1885;<br>
-**MMDCLXI -** Lei Provincial nº 88, de 9 de abril de 1885;<br>
-**MMDCLXII -** Lei Provincial nº 89, de 9 de abril de 1885;<br>
-**MMDCLXIII -** Lei Provincial nº 90, de 9 de abril de 1885;<br>
-**MMDCLXIV -** Lei Provincial nº 91, de 9 de abril de 1885;<br>
-**MMDCLXV -** Lei Provincial nº 92, de 9 de abril de 1885;<br>
-**MMDCLXVI -** Lei Provincial nº 93, de 9 de abril de 1885;<br>
-**MMDCLXVII -** Lei Provincial nº 94, de 20 de abril de 1885;<br>
-**MMDCLXVIII -** Lei Provincial nº 95, de 20 de abril de 1885;<br>
-**MMDCLXIX -** Lei Provincial nº 96, de 20 de abril de 1885;<br>
-**MMDCLXX -** Lei Provincial nº 97, de 21 de abril de 1885;<br>
-**MMDCLXXI -** Lei Provincial nº 98, de 21 de abril de 1885;<br>
-**MMDCLXXII -** Lei Provincial nº 99, de 21 de abril de 1885;<br>
-**MMDCLXXIII -** Lei Provincial nº 100, de 21 de abril de 1885;<br>
-**MMDCLXXIV -** Lei Provincial nº 101, de 21 de abril de 1885;<br>
-**MMDCLXXV -** Lei Provincial nº 102, de 21 de abril de 1885;<br>
-**MMDCLXXVI -** Lei Provincial nº 103, de 21 de abril de 1885;<br>
-**MMDCLXXVII -** Lei Provincial nº 104, de 21 de abril de 1885;<br>
-**MMDCLXXVIII -** Lei Provincial nº 105, de 21 de abril de 1885;<br>
-**MMDCLXXIX -** Lei Provincial nº 106, de 21 de abril de 1885;<br>
-**MMDCLXXX -** Lei Provincial nº 107, de 21 de abril de 1885;<br>
-**MMDCLXXXI -** Lei Provincial nº 108, de 21 de abril de 1885;<br>
-**MMDCLXXXII -** Lei Provincial nº 109, de 21 de abril de 1885;<br>
-**MMDCLXXXIII -** Lei Provincial nº 110, de 21 de abril de 1885;<br>
-**MMDCLXXXIV -** Lei Provincial nº 111, de 21 de abril de 1885;<br>
-**MMDCLXXXV -** Lei Provincial nº 112, de 21 de abril de 1885;<br>
-**MMDCLXXXVI -** Lei Provincial nº 113, de 21 de abril de 1885;<br>
-**MMDCLXXXVII -** Lei Provincial nº 114, de 21 de abril de 1885;<br>
-**MMDCLXXXVIII -** Lei Provincial nº 115, de 21 de abril de 1885;<br>
-**MMDCLXXXIX -** Lei Provincial nº 116, de 22 de abril de 1885;<br>
-**MMDCXC -** Lei Provincial nº 117, de 22 de abril de 1885;<br>
-**MMDCXCI -** Lei Provincial nº 118, de 22 de abril de 1885;<br>
-**MMDCXCII -** Lei Provincial nº 119, de 22 de abril de 1885;<br>
-**MMDCXCIII -** Lei Provincial nº 120, de 22 de abril de 1885;<br>
-**MMDCXCIV -** Lei Provincial nº 121, de 22 de abril de 1885;<br>
-**MMDCXCV -** Lei Provincial nº 122, de 22 de abril de 1885;<br>
-**MMDCXCVI -** Lei Provincial nº 123, de 22 de abril de 1885;<br>
-**MMDCXCVII -** Lei Provincial nº 124, de 30 de abril de 1885;<br>
-**MMDCXCVIII -** Lei Provincial nº 125, de 30 de abril de 1885;<br>
-**MMDCXCIX -** Lei Provincial nº 126, de 30 de abril de 1885;<br>
-**MMDCC -** Lei Provincial nº 127, de 30 de abril de 1885;<br>
-**MMDCCI -** Lei Provincial nº 128, de 1º de maio de 1885;<br>
-**MMDCCII -** Lei Provincial nº 129, de 1º de maio de 1885;<br>
-**MMDCCIII -** Lei Provincial nº 130, de 1º de maio de 1885;<br>
-**MMDCCIV -** Lei Provincial nº 131, de 1º de maio de 1885;<br>
-**MMDCCV -** Resolução Provincial nº 1, de 31 de janeiro de 1885;<br>
-**MMDCCVI -** Resolução Provincial nº 2, de 3 de fevereiro de 1885;<br>
-**MMDCCVII -** Resolução Provincial nº 3, de 12 de fevereiro de 1885;<br>
-**MMDCCVIII -** Resolução Provincial nº 4, de 12 de abril de 1885;<br>
-**MMDCCIX -** Resolução Provincial nº 5, de 12 de fevereiro de 1885;<br>
-**MMDCCX -** Resolução Provincial nº 6, de 27 de fevereiro de 1885;<br>
-**MMDCCXI -** Resolução Provincial nº 7, de 3 de março de 1885;<br>
-**MMDCCXII -** Resolução Provincial nº 8, de 3 de março de 1885;<br>
-**MMDCCXIII -** Resolução Provincial nº 9, de 5 de março de 1885;<br>
-**MMDCCXIV -** Resolução Provincial nº 10, de 5 de março de 1885;<br>
-**MMDCCXV -** Resolução Provincial nº 11, de 21 de março de 1885;<br>
-**MMDCCXVI -** Resolução Provincial nº 12, de 21 de março de 1885;<br>
-**MMDCCXVII -** Resolução Provincial nº 13, de 21 de março de 1885;<br>
-**MMDCCXVIII -** Resolução Provincial nº 14, de 21 de março de 1885;<br>
-**MMDCCXIX -** Resolução Provincial nº 15, de 21 de março de 1885;<br>
-**MMDCCXX -** Resolução Provincial nº 16, de 24 de março de 1885;<br>
-**MMDCCXXI -** Resolução Provincial nº 17, de 9 de abril de 1885;<br>
-**MMDCCXXII -** Resolução Provincial nº 18, de 21 de abril de 1885;<br>
-**MMDCCXXIII -** Resolução Provincial nº 19, de 21 de abril de 1885;<br>
-**MMDCCXXIV -** Resolução Provincial nº 20, de 21 de abril de 1885;<br>
-**MMDCCXXV -** Resolução Provincial nº 21, de 21 de abril de 1885;<br>
-**MMDCCXXVI -** Resolução Provincial nº 22, de 21 de abril de 1885;<br>
-**MMDCCXXVII -** Resolução Provincial nº 23, de 21 de abril de 1885;<br>
-**MMDCCXXVIII -** Resolução Provincial nº 24, de 21 de abril de 1885;<br>
-**MMDCCXXIX -** Resolução Provincial nº 25, de 21 de abril de 1885;<br>
-**MMDCCXXX -** Resolução Provincial nº 26, de 21 de abril de 1885;<br>
-**MMDCCXXXI -** Resolução Provincial nº 27, de 21 de abril de 1885;<br>
-**MMDCCXXXII -** Resolução Provincial nº 28, de 12 de junho de 1885;<br>
-**MMDCCXXXIII -** Resolução Provincial nº 29, de 15 de junho de 1885;<br>
-**MMDCCXXXIV -** Resolução Provincial nº 30, de 15 de junho de 1885;<br>
-**MMDCCXXXV -** Resolução Provincial nº 31, de 15 de junho de 1885;<br>
-**MMDCCXXXVI -** Resolução Provincial nº 32, de 15 de junho de 1885;<br>
-**MMDCCXXXVII -** Resolução Provincial nº 33, de 15 de junho de 1885;<br>
-**MMDCCXXXVIII -** Resolução Provincial nº 34, de 15 de junho de 1885;<br>
-**MMDCCXXXIX -** Resolução Provincial nº 35, de 15 de junho de 1885;<br>
-**MMDCCXL -** Resolução Provincial nº 36, de 15 de junho de 1885;<br>
-**MMDCCXLI -** Resolução Provincial nº 37, de 15 de junho de 1885;<br>
-**MMDCCXLII -** Resolução Provincial nº 38, de 15 de junho de 1885;<br>
-**MMDCCXLIII -** Resolução Provincial nº 39, de 15 de junho de 1885;<br>
-**MMDCCXLIV -** Resolução Provincial nº 40, de 15 de junho de 1885;<br>
-**MMDCCXLV -** Resolução Provincial nº 41, de 15 de junho de 1885;<br>
-**MMDCCXLVI -** Resolução Provincial nº 42, de 15 de junho de 1885;<br>
-**MMDCCXLVII -** Resolução Provincial nº 43, de 15 de junho de 1885;<br>
-**MMDCCXLVIII -** Resolução Provincial nº 44, de 15 de junho de 1885;<br>
-**MMDCCXLIX -** Resolução Provincial nº 45, de 15 de junho de 1885;<br>
-**MMDCCL -** Resolução Provincial nº 46, de 15 de junho de 1885;<br>
-**MMDCCLI -** Resolução Provincial nº 47, de 15 de junho de 1885;<br>
-**MMDCCLII -** Resolução Provincial nº 48, de 15 de junho de 1885;<br>
-**MMDCCLIII -** Resolução Provincial nº 49, de 15 de junho de 1885;<br>
-**MMDCCLIV -** Resolução Provincial nº 50, de 15 de junho de 1885;<br>
-**MMDCCLV -** Resolução Provincial nº 51, de 15 de junho de 1885;<br>
-**MMDCCLVI -** Resolução Provincial nº 52, de 15 de junho de 1885;<br>
-**MMDCCLVII -** Resolução Provincial nº 53, de 15 de junho de 1885;<br>
-**MMDCCLVIII -** Resolução Provincial nº 54, de 15 de junho de 1885;<br>
-**MMDCCLIX -** Resolução Provincial nº 55, de 15 de junho de 1885;<br>
-**MMDCCLX -** Resolução Provincial nº 1, de 9 de março de 1886;<br>
-**MMDCCLXI -** Resolução Provincial nº 2, de 9 de março de 1886;<br>
-**MMDCCLXII -** Resolução Provincial nº 3, de 9 de março de 1886;<br>
-**MMDCCLXIII -** Resolução Provincial nº 4, de 9 de março de 1886;<br>
-**MMDCCLXIV -** Resolução Provincial nº 5, de 9 de março de 1886;<br>
-**MMDCCLXV -** Resolução Provincial nº 6, de 9 de março de 1886;<br>
-**MMDCCLXVI -** Lei Provincial nº 7, de 9 de março de 1886;<br>
-**MMDCCLXVII -** Lei Provincial nº 8, de 15 de março de 1886;<br>
-**MMDCCLXVIII -** Lei Provincial nº 9, de 27 de março de 1886;<br>
-**MMDCCLXIX -** Resolução Provincial nº 10, de 27 de março de 1886;<br>
-**MMDCCLXX -** Lei Provincial nº 11, de 27 de março de 1886;<br>
-**MMDCCLXXI -** Resolução Provincial nº 12, de 27 de março de 1886;<br>
-**MMDCCLXXII -** Resolução Provincial nº 13, de 27 de março de 1886;<br>
-**MMDCCLXXIII -** Resolução Provincial nº 14, de 27 de março de 1886;<br>
-**MMDCCLXXIV -** Lei Provincial nº 15, de 3 de abril de 1886;<br>
-**MMDCCLXXV -** Lei Provincial nº 16, de 3 de abril de 1886;<br>
-**MMDCCLXXVI -** Lei Provincial nº 17, de 7 de abril de 1886;<br>
-**MMDCCLXXVII -** Lei Provincial nº 18, de 7 de abril de 1886;<br>
-**MMDCCLXXVIII -** Resolução Provincial nº 19, de 7 de abril de 1886;<br>
-**MMDCCLXXIX -** Lei Provincial nº 20, de 7 de abril de 1886;<br>
-**MMDCCLXXX -** Lei Provincial nº 21, de 7 de abril de 1886;<br>
-**MMDCCLXXXI -** Lei Provincial nº 22, de 7 de abril de 1886;<br>
-**MMDCCLXXXII -** Resolução Provincial nº 23, de 7 de abril de 1886;<br>
-**MMDCCLXXXIII -** Resolução Provincial nº 24, de 7 de abril de 1886;<br>
-**MMDCCLXXXIV -** Resolução Provincial nº 25, de 7 de abril de 1886;<br>
-**MMDCCLXXXV -** Resolução Provincial nº 26, de 7 de abril de 1886;<br>
-**MMDCCLXXXVI -** Resolução Provincial nº 27, de 7 de abril de 1886;<br>
-**MMDCCLXXXVII -** Resolução Provincial nº 28, de 7 de abril de 1886;<br>
-**MMDCCLXXXVIII -** Resolução Provincial nº 29, de 7 de abril de 1886;<br>
-**MMDCCLXXXIX -** Lei Provincial nº 30, de 13 de abril de 1886;<br>
-**MMDCCXC -** Lei Provincial nº 31, de 13 de abril de 1886;<br>
-**MMDCCXCI -** Lei Provincial nº 32, de 13 de abril de 1886;<br>
-**MMDCCXCII -** Lei Provincial nº 33, de 13 de abril de 1886;<br>
-**MMDCCXCIII -** Lei Provincial nº 34, de 13 de abril de 1886;<br>
-**MMDCCXCIV -** Resolução Provincial nº 35, de 13 de abril de 1886;<br>
-**MMDCCXCV -** Resolução Provincial nº 36, de 13 de abril de 1886;<br>
-**MMDCCXCVI -** Resolução Provincial nº 37, de 13 de abril de 1886;<br>
-**MMDCCXCVII -** Lei Provincial nº 38, de 13 de abril de 1886;<br>
-**MMDCCXCVIII -** Resolução Provincial nº 39, de 13 de abril de 1886;<br>
-**MMDCCXCIX -** Lei Provincial nº 40, de 13 de abril de 1886;<br>
-**MMDCCC -** Lei Provincial nº 41, de 15 de abril de 1886;<br>
-**MMDCCCI -** Lei Provincial nº 42, de 15 de abril de 1886;<br>
-**MMDCCCII -** Lei Provincial nº 43, de 15 de abril de 1886;<br>
-**MMDCCCIII -** Lei Provincial nº 44, de 15 de abril de 1886;<br>
-**MMDCCCIV -** Lei Provincial nº 45, de 15 de abril de 1886;<br>
-**MMDCCCV -** Lei Provincial nº 46, de 15 de abril de 1886;<br>
-**MMDCCCVI -** Lei Provincial nº 47, de 15 de abril de 1886;<br>
-**MMDCCCVII -** Lei Provincial nº 48, de 15 de abril de 1886;<br>
-**MMDCCCVIII -** Resolução Provincial nº 49, de 15 de abril de 1886;<br>
-**MMDCCCIX -** Resolução Provincial nº 50, de 15 de abril de 1886;<br>
-**MMDCCCX -** Resolução Provincial nº 51, de 15 de abril de 1886;<br>
-**MMDCCCXI -** Resolução Provincial nº 52, de 15 de abril de 1886;<br>
-**MMDCCCXII -** Lei Provincial nº 53, de 16 de abril de 1886;<br>
-**MMDCCCXIII -** Lei Provincial nº 54, de 16 de abril de 1886;<br>
-**MMDCCCXIV -** Lei Provincial nº 55, de 17 de abril de 1886;<br>
-**MMDCCCXV -** Lei Provincial nº 56, de 17 de abril de 1886;<br>
-**MMDCCCXVI -** Lei Provincial nº 57, de 17 de abril de 1886;<br>
-**MMDCCCXVII -** Resolução Provincial nº 58, de 17 de abril de 1886;<br>
-**MMDCCCXVIII -** Resolução Provincial nº 59, de 17 de abril de 1886;<br>
-**MMDCCCXIX -** Lei Provincial nº 60, de 19 de abril de 1886;<br>
-**MMDCCCXX -** Resolução Provincial nº 61, de 19 de abril de 1886;<br>
-**MMDCCCXXI -** Resolução Provincial nº 62, de 21 de abril de 1886;<br>
-**MMDCCCXXII -** Resolução Provincial nº 63, de 21 de abril de 1886;<br>
-**MMDCCCXXIII -** Resolução Provincial nº 64, de 21 de abril de 1886;<br>
-**MMDCCCXXIV -** Resolução Provincial nº 65, de 21 de abril de 1886;<br>
-**MMDCCCXXV -** Resolução Provincial nº 66, de 21 de abril de 1886;<br>
-**MMDCCCXXVI -** Resolução Provincial nº 67, de 28 de abril de 1886;<br>
-**MMDCCCXXVII -** Lei Provincial nº 68, de 30 de abril de 1886;<br>
-**MMDCCCXXVIII -** Lei Provincial nº 69, de 30 de abril de 1886;<br>
-**MMDCCCXXIX -** Lei Provincial nº 70, de 3 de maio de 1886;<br>
-**MMDCCCXXX -** Lei Provincial nº 71, de 3 de maio de 1886;<br>
-**MMDCCCXXXI -** Lei Provincial nº 72, de 3 de maio de 1886;<br>
-**MMDCCCXXXII -** Lei Provincial nº 73, de 3 de maio de 1886;<br>
-**MMDCCCXXXIII -** Lei Provincial nº 74, de 3 de maio de 1886;<br>
-**MMDCCCXXXIV -** Lei Provincial nº 75, de 3 de maio de 1886;<br>
-**MMDCCCXXXV -** Lei Provincial nº 76, de 3 de maio de 1886;<br>
-**MMDCCCXXXVI -** Lei Provincial nº 77, de 3 de maio de 1886;<br>
-**MMDCCCXXXVII -** Lei Provincial nº 78, de 3 de maio de 1886;<br>
-**MMDCCCXXXVIII -** Lei Provincial nº 79, de 3 de maio de 1886;<br>
-**MMDCCCXXXIX -** Lei Provincial nº 80, de 3 de maio de 1886;<br>
-**MMDCCCXL -** Resolução Provincial nº 81, de 3 de maio de 1886;<br>
-**MMDCCCXLI -** Resolução Provincial nº 82, de 3 de maio de 1886;<br>
-**MMDCCCXLII -** Lei Provincial nº 83, de 4 de maio de 1886;<br>
-**MMDCCCXLIII -** Lei Provincial nº 84, de 4 de maio de 1886;<br>
-**MMDCCCXLIV -** Lei Provincial nº 85, de 4 de maio de 1886;<br>
-**MMDCCCXLV -** Lei Provincial nº 86, de 5 de maio de 1886;<br>
-**MMDCCCXLVI -** Lei Provincial nº 87, de 5 de maio de 1886;<br>
-**MMDCCCXLVII -** Lei Provincial nº 88, de 5 de maio de 1886;<br>
-**MMDCCCXLVIII -** Lei Provincial nº 89, de 6 de maio de 1886;<br>
-**MMDCCCXLIX -** Lei Provincial nº 90, de 6 de maio de 1886;<br>
-**MMDCCCL -** Lei Provincial nº 91, de 6 de maio de 1886;<br>
-**MMDCCCLI -** Lei Provincial nº 92, de 6 de maio de 1886;<br>
-**MMDCCCLII -** Resolução Provincial nº 93, de 6 de maio de 1886;<br>
-**MMDCCCLIII -** Resolução Provincial nº 94, de 6 de maio de 1886;<br>
-**MMDCCCLIV -** Resolução Provincial nº 95, de 6 de maio de 1886;<br>
-**MMDCCCLV -** Resolução Provincial nº 96, de 6 de maio de 1886;<br>
-**MMDCCCLVI -** Resolução Provincial nº 97, de 6 de maio de 1886;<br>
-**MMDCCCLVII -** Resolução Provincial nº 98, de 6 de maio de 1886;<br>
-**MMDCCCLVIII -** Lei Provincial nº 99, de 8 de maio de 1886;<br>
-**MMDCCCLIX -** Lei Provincial nº 100, de 8 de maio de 1886;<br>
-**MMDCCCLX -** Lei Provincial nº 101, de 8 de maio de 1886;<br>
-**MMDCCCLXI -** Lei Provincial nº 102, de 8 de maio de 1886;<br>
-**MMDCCCLXII -** Lei Provincial nº 103, de 8 de maio de 1886;<br>
-**MMDCCCLXIII -** Lei Provincial nº 104, de 8 de maio de 1886;<br>
-**MMDCCCLXIV -** Lei Provincial nº 105, de 8 de maio de 1886;<br>
-**MMDCCCLXV -** Lei Provincial nº 106, de 8 de maio de 1886;<br>
-**MMDCCCLXVI -** Lei Provincial nº 107, de 8 de maio de 1886;<br>
-**MMDCCCLXVII -** Resolução Provincial nº 108, de 10 de maio de 1886;<br>
-**MMDCCCLXVIII -** Resolução Provincial nº 109, de 10 de maio de 1886;<br>
-**MMDCCCLXIX -** Lei Provincial nº 110, de 10 de maio de 1886;<br>
-**MMDCCCLXX -** Resolução Provincial nº 111, de 11 de maio de 1886;<br>
-**MMDCCCLXXI -** Resolução Provincial nº 112, de 11 de maio de 1886;<br>
-**MMDCCCLXXII -** Resolução Provincial nº 113, de 11 de maio de 1886;<br>
-**MMDCCCLXXIII -** Resolução Provincial nº 114, de 11 de maio de 1886;<br>
-**MMDCCCLXXIV -** Lei Provincial nº 115, de 12 de maio de 1886;<br>
-**MMDCCCLXXV -** Resolução Provincial nº 116, de 12 de maio de 1886;<br>
-**MMDCCCLXXVI -** Resolução Provincial nº 117, de 12 de maio de 1886;<br>
-**MMDCCCLXXVII -** Resolução Provincial nº 118, de 12 de maio de 1886;<br>
-**MMDCCCLXXVIII -** Resolução Provincial nº 119, de 12 de maio de 1886;<br>
-**MMDCCCLXXIX -** Resolução Provincial nº 120, de 14 de maio de 1886;<br>
-**MMDCCCLXXX -** Resolução Provincial nº 121, de 14 de maio de 1886;<br>
-**MMDCCCLXXXI -** Resolução Provincial nº 122, de 14 de maio de 1886;<br>
-**MMDCCCLXXXII -** Resolução Provincial nº 123, de 25 de maio de 1886;<br>
-**MMDCCCLXXXIII -** Lei Provincial nº 124, de 28 de maio de 1886;<br>
-**MMDCCCLXXXIV -** Resolução Provincial nº 125, de 7 de junho de 1886;<br>
-**MMDCCCLXXXV -** Resolução Provincial nº 126, de 7 de junho de 1886;<br>
-**MMDCCCLXXXVI -** Resolução Provincial nº 127, de 7 de junho de 1886;<br>
-**MMDCCCLXXXVII -** Resolução Provincial nº 128, de 7 de junho de 1886;<br>
-**MMDCCCLXXXVIII -** Resolução Provincial nº 129, de 7 de junho de 1886;<br>
-**MMDCCCLXXXIX -** Resolução Provincial nº 130, de 7 de junho de 1886;<br>
-**MMDCCCXC -** Resolução Provincial nº 131, de 7 de junho de 1886;<br>
-**MMDCCCXCI -** Resolução Provincial nº 132, de 7 de junho de 1886;<br>
-**MMDCCCXCII -** Resolução Provincial nº 133, de 7 de junho de 1886;<br>
-**MMDCCCXCIII -** Resolução Provincial nº 134, de 7 de junho de 1886;<br>
-**MMDCCCXCIV -** Resolução Provincial nº 135, de 8 de junho de 1886;<br>
-**MMDCCCXCV -** Resolução Provincial nº 136, de 8 de junho de 1886;<br>
-**MMDCCCXCVI -** Resolução Provincial nº 137, de 8 de junho de 1886;<br>
-**MMDCCCXCVII -** Resolução Provincial nº 138, de 8 de junho de 1886;<br>
-**MMDCCCXCVIII -** Resolução Provincial nº 139, de 8 de junho de 1886;<br>
-**MMDCCCXCIX -** Resolução Provincial nº 140, de 8 de junho de 1886;<br>
-**MMCM -** Resolução Provincial nº 141, de 8 de junho de 1886;<br>
-**MMCMI -** Lei Provincial nº 1, de 5 de fevereiro de 1887;<br>
-**MMCMII -** Lei Provincial nº 2, de 5 de fevereiro de 1887;<br>
-**MMCMIII -** Resolução Provincial nº 3, de 5 de fevereiro de 1887;<br>
-**MMCMIV -** Lei Provincial nº 4, de 8 de fevereiro de 1887;<br>
-**MMCMV -** Resolução Provincial nº 5, de 8 de fevereiro de 1887;<br>
-**MMCMVI -** Resolução Provincial nº 6, de 11 de fevereiro de 1887;<br>
-**MMCMVII -** Lei Provincial nº 7, de 15 de fevereiro de 1887;<br>
-**MMCMVIII -** Resolução Provincial nº 8, de 15 de fevereiro de 1887;<br>
-**MMCMIX -** Resolução Provincial nº 9, de 15 de fevereiro de 1887;<br>
-**MMCMX -** Resolução Provincial nº 10, de 15 de fevereiro de 1887;<br>
-**MMCMXI -** Lei Provincial nº 11, de 17 de fevereiro de 1887;<br>
-**MMCMXII -** Lei Provincial nº 12, de 25 de fevereiro de 1887;<br>
-**MMCMXIII -** Lei Provincial nº 13, de 25 de fevereiro de 1887;<br>
-**MMCMXIV -** Lei Provincial nº 14, de 1º de março de 1887;<br>
-**MMCMXV -** Lei Provincial nº 15, de 5 de março de 1887;<br>
-**MMCMXVI -** Resolução Provincial nº 16, de 5 de março de 1887;<br>
-**MMCMXVII -** Resolução Provincial nº 17, de 5 de março de 1887;<br>
-**MMCMXVIII -** Lei Provincial nº 18, de 5 de março de 1887;<br>
-**MMCMXIX -** Lei Provincial nº 19, de 5 de março de 1887;<br>
-**MMCMXX -** Resolução Provincial nº 20, de 8 de março de 1887;<br>
-**MMCMXXI -** Lei Provincial nº 21, de 10 de março de 1887;<br>
-**MMCMXXII -** Lei Provincial nº 22, de 12 de março de 1887;<br>
-**MMCMXXIII -** Lei Provincial nº 23, de 14 de março de 1887;<br>
-**MMCMXXIV -** Resolução Provincial nº 24, de 16 de março de 1887;<br>
-**MMCMXXV -** Lei Provincial nº 25, de 19 de março de 1887;<br>
-**MMCMXXVI -** Resolução Provincial nº 26, de 19 de março de 1887;<br>
-**MMCMXXVII -** Resolução Provincial nº 27, de 22 de março de 1887;<br>
-**MMCMXXVIII -** Lei Provincial nº 28, de 24 de março de 1887;<br>
-**MMCMXXIX -** Lei Provincial nº 29, de 24 de março de 1887;<br>
-**MMCMXXX -** Resolução Provincial nº 30, de 26 de março de 1887;<br>
-**MMCMXXXI -** Resolução Provincial nº 31, de 26 de março de 1887;<br>
-**MMCMXXXII -** Resolução Provincial nº 32, de 26 de março de 1887;<br>
-**MMCMXXXIII -** Resolução Provincial nº 33, de 26 de março de 1887;<br>
-**MMCMXXXIV -** Resolução Provincial nº 34, de 26 de março de 1887;<br>
-**MMCMXXXV -** Resolução Provincial nº 35, de 26 de março de 1887;<br>
-**MMCMXXXVI -** Resolução Provincial nº 36, de 26 de março de 1887;<br>
-**MMCMXXXVII -** Lei Provincial nº 37, de 26 de março de 1887;<br>
-**MMCMXXXVIII -** Lei Provincial nº 38, de 26 de março de 1887;<br>
-**MMCMXXXIX -** Lei Provincial nº 39, de 26 de março de 1887;<br>
-**MMCMXL -** Lei Provincial nº 40, de 26 de março de 1887;<br>
-**MMCMXLI -** Lei Provincial nº 41, de 26 de março de 1887;<br>
-**MMCMXLII -** Lei Provincial nº 42, de 26 de março de 1887;<br>
-**MMCMXLIII -** Lei Provincial nº 43, de 26 de março de 1887;<br>
-**MMCMXLIV -** Lei Provincial nº 44, de 27 de março de 1887;<br>
-**MMCMXLV -** Lei Provincial nº 45, de 27 de março de 1887;<br>
-**MMCMXLVI -** Resolução Provincial nº 46, de 29 de março de 1887;<br>
-**MMCMXLVII -** Resolução Provincial nº 47, de 29 de março de 1887;<br>
-**MMCMXLVIII -** Lei Provincial nº 48, de 29 de março de 1887;<br>
-**MMCMXLIX -** Lei Provincial nº 49, de 31 de março de 1887;<br>
-**MMCML -** Lei Provincial nº 50, de 31 de março de 1887;<br>
-**MMCMLI -** Lei Provincial nº 51, de 31 de março de 1887;<br>
-**MMCMLII -** Lei Provincial nº 52, de 31 de março de 1887;<br>
-**MMCMLIII -** Resolução Provincial nº 53, de 31 de março de 1887;<br>
-**MMCMLIV -** Resolução Provincial nº 54, de 31 de março de 1887;<br>
-**MMCMLV -** Resolução Provincial nº 55, de 31 de março de 1887;<br>
-**MMCMLVI -** Resolução Provincial nº 56, de 31 de março de 1887;<br>
-**MMCMLVII -** Resolução Provincial nº 57, de 31 de março de 1887;<br>
-**MMCMLVIII -** Lei Provincial nº 58, de 2 de abril de 1887;<br>
-**MMCMLIX -** Resolução Provincial nº 59, de 2 de abril de 1887;<br>
-**MMCMLX -** Resolução Provincial nº 60, de 2 de abril de 1887;<br>
-**MMCMLXI -** Resolução Provincial nº 61, de 2 de abril de 1887;<br>
-**MMCMLXII -** Resolução Provincial nº 62, de 2 de abril de 1887;<br>
-**MMCMLXIII -** Resolução Provincial nº 63, de 2 de abril de 1887;<br>
-**MMCMLXIV -** Resolução Provincial nº 64, de 2 de abril de 1887;<br>
-**MMCMLXV -** Lei Provincial nº 65, de 2 de abril de 1887;<br>
-**MMCMLXVI -** Lei Provincial nº 66, de 2 de abril de 1887;<br>
-**MMCMLXVII -** [Lei n° 67, de 2 de abril de 1887](http://www.al.sp.gov.br/norma?id=137908);<br>
-**MMCMLXVIII -** Lei Provincial nº 68, de 2 de abril de 1887;<br>
-**MMCMLXIX -** Lei Provincial nº 69, de 2 de abril de 1887;<br>
-**MMCMLXX -** Lei Provincial nº 70, de 2 de abril de 1887;<br>
-**MMCMLXXI -** Lei Provincial nº 71, de 2 de abril de 1887;<br>
-**MMCMLXXII -** [Lei n° 72, de 2 de abril de 1887](http://www.al.sp.gov.br/norma?id=137909);<br>
-**MMCMLXXIII -** Resolução Provincial nº 73, de 2 de abril de 1887;<br>
-**MMCMLXXIV -** Resolução Provincial nº 74, de 2 de abril de 1887;<br>
-**MMCMLXXV -** Resolução Provincial nº 75, de 2 de abril de 1887;<br>
-**MMCMLXXVI -** Resolução Provincial nº 76, de 2 de abril de 1887;<br>
-**MMCMLXXVII -** Resolução Provincial nº 77, de 2 de abril de 1887;<br>
-**MMCMLXXVIII -** Resolução Provincial nº 78, de 2 de abril de 1887;<br>
-**MMCMLXXIX -** Resolução Provincial nº 79, de 2 de abril de 1887;<br>
-**MMCMLXXX -** Resolução Provincial nº 80, 2 de abril de 1887;<br>
-**MMCMLXXXI -** Lei Provincial nº 81, de 6 de abril de 1887;<br>
-**MMCMLXXXII -** Lei Provincial nº 82, de 6 de abril de 1887;<br>
-**MMCMLXXXIII -** Lei Provincial nº 83, de 6 de abril de 1887;<br>
-**MMCMLXXXIV -** Lei Provincial nº 84, de 6 de abril de 1887;<br>
-**MMCMLXXXV -** Lei Provincial nº 85, de 6 de abril de 1887;<br>
-**MMCMLXXXVI -** Lei Provincial nº 86, de 6 de abril de 1887;<br>
-**MMCMLXXXVII -** Lei Provincial nº 87, de 6 de abril de 1887;<br>
-**MMCMLXXXVIII -** Lei Provincial nº 88, de 6 de abril de 1887;<br>
-**MMCMLXXXIX -** Lei Provincial nº 89, de 6 de abril de 1887;<br>
-**MMCMXC -** Resolução Provincial nº 90, de 6 de abril de 1887;<br>
-**MMCMXCI -** Lei Provincial nº 91, de 6 de abril de 1887;<br>
-**MMCMXCII -** Lei Provincial nº 92, de 6 de abril de 1887;<br>
-**MMCMXCIII -** Lei Provincial nº 93, de 6 de abril de 1887;<br>
-**MMCMXCIV -** Resolução Provincial nº 94, de 6 de abril de 1887;<br>
-**MMCMXCV -** Lei Provincial nº 95, de 11 de abril de 1887;<br>
-**MMCMXCVI -** Lei Provincial nº 96, de 11 de abril de 1887;<br>
-**MMCMXCVII -** Resolução Provincial nº 97, de 12 de abril de 1887;<br>
-**MMCMXCVIII -** Resolução Provincial nº 98, de 12 de abril de 1887;<br>
-**MMCMXCIX -** Resolução Provincial nº 99, de 12 de abril de 1887;<br>
-**MMM -** Resolução Provincial nº 100, de 12 de abril de 1887;<br>
-**MMMI -** Resolução Provincial nº 101, de 12 de abril de 1887;<br>
-**MMMII -** Resolução Provincial nº 102, de 12 de abril de 1887;<br>
-**MMMIII -** Resolução Provincial nº 103, de 12 de abril de 1887;<br>
-**MMMIV -** Resolução Provincial nº 104, de 12 de abril de 1887;<br>
-**MMMV -** Resolução Provincial nº 105, de 12 de abril de 1887;<br>
-**MMMVI -** Resolução Provincial nº 106, de 13 de abril de 1887;<br>
-**MMMVII -** Resolução Provincial nº 107, de 13 de abril de 1887;<br>
-**MMMVIII -** Resolução Provincial nº 108, de 13 de abril de 1887;<br>
-**MMMIX -** Resolução Provincial nº 109, de 13 de abril de 1887;<br>
-**MMMX -** Lei Provincial nº 110, de 22 de abril de 1887;<br>
-**MMMXI -** Resolução Provincial nº 111, de 29 de abril de 1887;<br>
-**MMMXII -** Resolução Provincial nº 112, de 30 de abril de 1887;<br>
-**MMMXIII -** Resolução Provincial nº 113, de 30 de abril de 1887;<br>
-**MMMXIV -** Resolução Provincial nº 114, de 30 de abril de 1887;<br>
-**MMMXV -** Resolução Provincial nº 115, de 30 de abril de 1887;<br>
-**MMMXVI -** Resolução Provincial nº 116, de 30 de abril de 1887;<br>
-**MMMXVII -** Resolução Provincial nº 117, de 30 de abril de 1887;<br>
-**MMMXVIII -** Resolução Provincial nº 118, de 30 de abril de 1887;<br>
-**MMMXIX -** Resolução Provincial nº 119, de 30 de abril de 1887;<br>
-**MMMXX -** Resolução Provincial nº 120, de 30 de abril de 1887;<br>
-**MMMXXI -** Resolução Provincial nº 121, de 30 de abril de 1887;<br>
-**MMMXXII -** Resolução Provincial nº 122, de 3 de maio de 1887;<br>
-**MMMXXIII -** Resolução Provincial nº 123, de 3 de maio de 1887;<br>
-**MMMXXIV -** Resolução Provincial nº 124, de 3 de maio de 1887;<br>
-**MMMXXV -** Resolução Provincial nº 125, de 3 de maio de 1887;<br>
-**MMMXXVI -** Lei Provincial nº 1, de 3 de fevereiro de 1888;<br>
-**MMMXXVII -** Lei Provincial nº 2, de 9 de fevereiro de 1888;<br>
-**MMMXXVIII -** Lei Provincial nº 3, de 9 de fevereiro de 1888;<br>
-**MMMXXIX -** Lei Provincial nº 4, de 9 de fevereiro de 1888;<br>
-**MMMXXX -** Resolução Provincial nº 5, de 15 de fevereiro de 1888;<br>
-**MMMXXXI -** Resolução Provincial nº 6, de 15 de fevereiro de 1888;<br>
-**MMMXXXII -** Resolução Provincial nº 7, de 15 de fevereiro de 1888;<br>
-**MMMXXXIII -** Resolução Provincial nº 8, de 15 de fevereiro de 1888;<br>
-**MMMXXXIV -** Resolução Provincial nº 9, de 15 de fevereiro de 1888;<br>
-**MMMXXXV -** Resolução Provincial nº 10, de 15 de fevereiro de 1888;<br>
-**MMMXXXVI -** Resolução Provincial nº 11, de 15 de fevereiro de 1888;<br>
-**MMMXXXVII -** Lei Provincial nº 12, de 17 de fevereiro de 1888;<br>
-**MMMXXXVIII -** Lei Provincial nº 13, de 18 de fevereiro de 1888;<br>
-**MMMXXXIX -** Lei Provincial nº 14, de 18 de fevereiro de 1888;<br>
-**MMMXL -** Lei Provincial nº 15, de 18 de fevereiro de 1888;<br>
-**MMMXLI -** Lei Provincial nº 16, de 21 de fevereiro de 1888;<br>
-**MMMXLII -** Lei Provincial nº 17, de 28 de fevereiro de 1888;<br>
-**MMMXLIII -** Lei Provincial nº 18, de 2 de março de 1888;<br>
-**MMMXLIV -** Lei Provincial nº 19, de 2 de março de 1888;<br>
-**MMMXLV -** Resolução Provincial nº 20, de 2 de março de 1888;<br>
-**MMMXLVI -** Lei Provincial nº 21, de 3 de março de 1888;<br>
-**MMMXLVII -** Lei Provincial nº 22, de 3 de março de 1888;<br>
-**MMMXLVIII -** Lei Provincial nº 23, de 3 de março de 1888;<br>
-**MMMXLIX -** Lei Provincial nº 24, de 6 de março de 1888;<br>
-**MMML -** Resolução Provincial nº 25, de 7 de março de 1888;<br>
-**MMMLI -** Resolução Provincial nº 26, de 7 de março de 1888;<br>
-**MMMLII -** Lei Provincial nº 27, de 10 de março de 1888;<br>
-**MMMLIII -** Lei Provincial nº 28, de 13 de março de 1888;<br>
-**MMMLIV -** Lei Provincial nº 29, de 16 de março de 1888;<br>
-**MMMLV -** Lei Provincial nº 30, de 17 de março de 1888;<br>
-**MMMLVI -** Lei Provincial nº 31, de 17 de março de 1888;<br>
-**MMMLVII -** Lei Provincial nº 32, de 17 de março de 1888;<br>
-**MMMLVIII -** Lei Provincial nº 33, de 17 de março de 1888;<br>
-**MMMLIX -** Lei Provincial nº 34, de 17 de março de 1888;<br>
-**MMMLX -** Lei Provincial nº 35, de 17 de março de 1888;<br>
-**MMMLXI -** Lei Provincial nº 36, de 19 de março de 1888;<br>
-**MMMLXII -** Lei Provincial nº 37, de 19 de março de 1888;<br>
-**MMMLXIII -** Lei Provincial nº 38, de 19 de março de 1888;<br>
-**MMMLXIV -** Lei Provincial nº 39, de 21 de março de 1888;<br>
-**MMMLXV -** Lei Provincial nº 40, de 21 de março de 1888;<br>
-**MMMLXVI -** Lei Provincial nº 41, de 21 de março de 1888;<br>
-**MMMLXVII -** Lei Provincial nº 42, de 21 de março de 1888;<br>
-**MMMLXVIII -** Lei Provincial nº 43, de 21 de março de 1888;<br>
-**MMMLXIX -** Lei Provincial nº 44, de 21 de março de 1888;<br>
-**MMMLXX -** Lei Provincial nº 45, de 21 de março de 1888;<br>
-**MMMLXXI -** Lei Provincial nº 46, de 21 de março de 1888;<br>
-**MMMLXXII -** Lei Provincial nº 47, de 21 de março de 1888;<br>
-**MMMLXXIII -** Lei Provincial nº 48, de 21 de março de 1888;<br>
-**MMMLXXIV -** Lei Provincial nº 49, de 21 de março de 1888;<br>
-**MMMLXXV -** Lei Provincial nº 50, de 21 de março de 1888;<br>
-**MMMLXXVI -** Lei Provincial nº 51, de 21 de março de 1888;<br>
-**MMMLXXVII -** Lei Provincial nº 52, de 21 de março de 1888;<br>
-**MMMLXXVIII -** Lei Provincial nº 53, de 21 de março de 1888;<br>
-**MMMLXXIX -** Lei Provincial nº 54, de 21 de março de 1888;<br>
-**MMMLXXX -** Lei Provincial nº 55, de 22 de março de 1888;<br>
-**MMMLXXXI -** Lei Provincial nº 56, de 22 de março de 1888;<br>
-**MMMLXXXII -** Lei Provincial nº 57, de 22 de março de 1888;<br>
-**MMMLXXXIII -** Lei Provincial nº 58, de 24 de março de 1888;<br>
-**MMMLXXXIV -** Lei Provincial nº 59, de 24 de março de 1888;<br>
-**MMMLXXXV -** Lei Provincial nº 60, de 24 de março de 1888;<br>
-**MMMLXXXVI -** Lei Provincial nº 61, de 24 de março de 1888;<br>
-**MMMLXXXVII -** Lei Provincial nº 62, de 24 de março de 1888;<br>
-**MMMLXXXVIII -** Lei Provincial nº 63, de 24 de março de 1888;<br>
-**MMMLXXXIX -** Lei Provincial nº 64, de 24 de março de 1888;<br>
-**MMMXC -** Lei Provincial nº 65, de 24 de março de 1888;<br>
-**MMMXCI -** Lei Provincial nº 66, de 24 de março de 1888;<br>
-**MMMXCII -** Lei Provincial nº 67, de 24 de março de 1888;<br>
-**MMMXCIII -** Lei Provincial nº 68, de 24 de março de 1888;<br>
-**MMMXCIV -** Lei Provincial nº 69, de 24 de março de 1888;<br>
-**MMMXCV -** Lei Provincial nº 70, de 24 de março de 1888;<br>
-**MMMXCVI -** Lei Provincial nº 71, de 24 de março de 1888;<br>
-**MMMXCVII -** Lei Provincial nº 72, de 24 de março de 1888;<br>
-**MMMXCVIII -** Lei Provincial nº 73, de 24 de março de 1888;<br>
-**MMMXCIX -** Lei Provincial nº 74, de 26 de março de 1888;<br>
-**MMMC -** Resolução Provincial nº 75, de 27 de março de 1888;<br>
-**MMMCI -** Resolução Provincial nº 76, de 27 de março de 1888;<br>
-**MMMCII -** Resolução Provincial nº 77, de 27 de março de 1888;<br>
-**MMMCIII -** Resolução Provincial nº 78, de 14 de março de 1888;<br>
-**MMMCIV -** Resolução Provincial nº 79, de 27 de março de 1888;<br>
-**MMMCV -** Resolução Provincial nº 80, de 27 de março de 1888;<br>
-**MMMCVI -** Lei Provincial nº 81, de 27 de março de 1888;<br>
-**MMMCVII -** Lei Provincial nº 82, de 28 de março de 1888;<br>
-**MMMCVIII -** Resolução Provincial nº 83, de 2 de abril de 1888;<br>
-**MMMCIX -** Resolução Provincial nº 84, de 2 de abril de 1888;<br>
-**MMMCX -** Resolução Provincial nº 85, de 2 de abril de 1888;<br>
-**MMMCXI -** Resolução Provincial nº 86, de 2 de abril de 1888;<br>
-**MMMCXII -** Resolução Provincial nº 87, de 2 de abril de 1888;<br>
-**MMMCXIII -** Resolução Provincial nº 88, de 2 de abril de 1888;<br>
-**MMMCXIV -** Resolução Provincial nº 89, de 2 de abril de 1888;<br>
-**MMMCXV -** Resolução Provincial nº 90, de 2 de abril de 1888;<br>
-**MMMCXVI -** Resolução Provincial nº 91, de 2 de abril de 1888;<br>
-**MMMCXVII -** Resolução Provincial nº 92, de 2 de abril de 1888;<br>
-**MMMCXVIII -** Resolução Provincial nº 93, de 2 de abril de 1888;<br>
-**MMMCXIX -** Resolução Provincial nº 94, de 2 de abril de 1888;<br>
-**MMMCXX -** Resolução Provincial nº 95, de 2 de abril de 1888;<br>
-**MMMCXXI -** Resolução Provincial nº 96, de 2 de abril de 1888;<br>
-**MMMCXXII -** Resolução Provincial nº 97, de 14 de abril de 1888;<br>
-**MMMCXXIII -** Resolução Provincial nº 98, de 14 de abril de 1888;<br>
-**MMMCXXIV -** Resolução Provincial nº 99, de 14 de março de 1888;<br>
-**MMMCXXV -** Resolução Provincial nº 100, de 14 de abril de 1888;<br>
-**MMMCXXVI -** Resolução Provincial nº 101, de 14 de março de 1888;<br>
-**MMMCXXVII -** Resolução Provincial nº 102, de 14 de março de 1888;<br>
-**MMMCXXVIII -** Resolução Provincial nº 103, de 14 de março de 1888;<br>
-**MMMCXXIX -** Resolução Provincial nº 104, de 14 de abril de 1888;<br>
-**MMMCXXX -** Resolução Provincial nº 105, de 4 de junho de 1888;<br>
-**MMMCXXXI -** Resolução Provincial nº 106, de 14 de abril de 1888;<br>
-**MMMCXXXII -** Resolução Provincial nº 107, de 28 de abril de 1888;<br>
-**MMMCXXXIII -** Resolução Provincial nº 108, de 22 de maio de 1888;<br>
-**MMMCXXXIV -** Resolução Provincial nº 109, de 22 de maio de 1888;<br>
-**MMMCXXXV -** Resolução Provincial nº 110, de 22 de maio de 1888;<br>
-**MMMCXXXVI -** Resolução Provincial nº 111, de 22 de maio de 1888;<br>
-**MMMCXXXVII -** Resolução Provincial nº 112, de 22 de maio de 1888;<br>
-**MMMCXXXVIII -** Resolução Provincial nº 113, de 22 de maio de 1888;<br>
-**MMMCXXXIX -** Resolução Provincial nº 114, de 22 de maio de 1888;<br>
-**MMMCXL -** Resolução Provincial nº 115, de 14 de abril de 1888;<br>
-**MMMCXLI -** Resolução Provincial nº 116, de 21 de junho de 1888;<br>
-**MMMCXLII -** Lei Provincial nº 117, de 26 de junho de 1888;<br>
-**MMMCXLIII -** Resolução Provincial nº 118, de 17 de julho de 1888;<br>
-**MMMCXLIV -** Resolução Provincial nº 119, de 28 de julho de 1888;<br>
-**MMMCXLV -** Resolução Provincial nº 120, de 28 de julho de 1888;<br>
-**MMMCXLVI -** Resolução Provincial nº 121, de 28 de julho de 1888;<br>
-**MMMCXLVII -** Resolução Provincial nº 122, de 28 de julho de 1888;<br>
-**MMMCXLVIII -** Resolução Provincial nº 123, de 6 de agosto de 1888;<br>
-**MMMCXLIX -** Resolução Provincial nº 124, de 6 de agosto de 1888;<br>
-**MMMCL -** Resolução Provincial nº 125, de 14 de agosto de 1888;<br>
-**MMMCLI -** Resolução Provincial nº 126, de 17 de agosto de 1888;<br>
-**MMMCLII -** Lei Provincial nº 1, de 29 de janeiro de 1889;<br>
-**MMMCLIII -** Lei Provincial nº 2, de 29 de janeiro de 1889;<br>
-**MMMCLIV -** Lei Provincial nº 3, de 30 de janeiro de 1889;<br>
-**MMMCLV -** Lei Provincial nº 4, de 6 de fevereiro de 1889;<br>
-**MMMCLVI -** Lei Provincial nº 5, de 6 de fevereiro de 1889;<br>
-**MMMCLVII -** Lei Provincial nº 6, de 6 de fevereiro de 1889;<br>
-**MMMCLVIII -** Lei Provincial nº 7, de 6 de fevereiro de 1889;<br>
-**MMMCLIX -** Lei Provincial nº 8, de 9 de fevereiro de 1889;<br>
-**MMMCLX -** Lei Provincial nº 9, de 9 de fevereiro de 1889;<br>
-**MMMCLXI -** Lei Provincial nº 10, de 12 de fevereiro de 1889;<br>
-**MMMCLXII -** Lei Provincial nº 11, de 12 de fevereiro de 1889;<br>
-**MMMCLXIII -** Lei Provincial nº 12, de 16 de fevereiro de 1889;<br>
-**MMMCLXIV -** Lei Provincial nº 13, de 16 de fevereiro de 1889;<br>
-**MMMCLXV -** Lei Provincial nº 14, de 16 de fevereiro de 1889;<br>
-**MMMCLXVI -** Lei Provincial nº 15, de 18 de fevereiro de 1889;<br>
-**MMMCLXVII -** Lei Provincial nº 16, de 18 de fevereiro de 1889;<br>
-**MMMCLXVIII -** Lei Provincial nº 17, de 18 de fevereiro de 1889;<br>
-**MMMCLXIX -** Lei Provincial nº 18, de 18 de fevereiro de 1889;<br>
-**MMMCLXX -** Lei Provincial nº 19, de 20 de fevereiro de 1889;<br>
-**MMMCLXXI -** Lei Provincial nº 20, de 21 de fevereiro de 1889;<br>
-**MMMCLXXII -** Lei Provincial nº 21, de 28 de fevereiro de 1889;<br>
-**MMMCLXXIII -** Lei Provincial nº 22, de 28 de fevereiro de 1889;<br>
-**MMMCLXXIV -** Lei Provincial nº 23, de 28 de fevereiro de 1889;<br>
-**MMMCLXXV -** Lei Provincial nº 24, de 28 de fevereiro de 1889;<br>
-**MMMCLXXVI -** Resolução Provincial nº 25, de 28 de fevereiro de 1889;<br>
-**MMMCLXXVII -** Lei Provincial nº 26, de 28 de fevereiro de 1889;<br>
-**MMMCLXXVIII -** Resolução Provincial nº 27, de 28 de fevereiro de 1889;<br>
-**MMMCLXXIX -** Resolução Provincial nº 28, de 28 de fevereiro de 1889;<br>
-**MMMCLXXX -** Resolução Provincial nº 29, de 28 de fevereiro de 1889;<br>
-**MMMCLXXXI -** Lei Provincial nº 30, de 28 de fevereiro de 1889;<br>
-**MMMCLXXXII -** Lei Provincial nº 31, de 28 de fevereiro de 1889;<br>
-**MMMCLXXXIII -** Lei Provincial nº 32, de 28 de fevereiro de 1889;<br>
-**MMMCLXXXIV -** Lei Provincial nº 33, de 2 de março de 1889;<br>
-**MMMCLXXXV -** Lei Provincial nº 34, de 2 de março de 1889;<br>
-**MMMCLXXXVI -** Lei Provincial nº 35, de 4 de março de 1889;<br>
-**MMMCLXXXVII -** Lei Provincial nº 36, de 7 de março de 1889;<br>
-**MMMCLXXXVIII -** Lei Provincial nº 37, de 7 de março de 1889;<br>
-**MMMCLXXXIX -** Lei Provincial nº 38, de 12 de março de 1889;<br>
-**MMMCXC -** Lei Provincial nº 39, de 12 de março de 1889;<br>
-**MMMCXCI -** Lei Provincial nº 40, de 12 de março de 1889;<br>
-**MMMCXCII -** Lei Provincial nº 41, de 13 de março de 1889;<br>
-**MMMCXCIII -** Lei Provincial nº 42, de 14 de março de 1889;<br>
-**MMMCXCIV -** Lei Provincial nº 43, de 14 de março de 1889;<br>
-**MMMCXCV -** Lei Provincial nº 44, de 20 de março de 1889;<br>
-**MMMCXCVI -** Lei Provincial nº 45, de 20 de março de 1889;<br>
-**MMMCXCVII -** Lei Provincial nº 46, de 20 de março de 1889;<br>
-**MMMCXCVIII -** Lei Provincial nº 47, de 22 de março de 1889;<br>
-**MMMCXCIX -** Lei Provincial nº 48, de 22 de março de 1889;<br>
-**MMMCC -** Lei Provincial nº 49, de 22 de março de 1889;<br>
-**MMMCCI -** Lei Provincial nº 50, de 22 de março de 1889;<br>
-**MMMCCII -** Lei Provincial nº 51, de 22 de março de 1889;<br>
-**MMMCCIII -** Lei Provincial nº 52, de 22 de março de 1889;<br>
-**MMMCCIV -** Lei Provincial nº 53, de 22 de março de 1889;<br>
-**MMMCCV -** Lei Provincial nº 54, de 22 de março de 1889;<br>
-**MMMCCVI -** Lei Provincial nº 55, de 22 de março de 1889;<br>
-**MMMCCVII -** Lei Provincial nº 56, de 22 de março de 1889;<br>
-**MMMCCVIII -** Lei Provincial nº 57, de 22 de março de 1889;<br>
-**MMMCCIX -** Lei Provincial nº 58, de 22 de março de 1889;<br>
-**MMMCCX -** Lei Provincial nº 59, de 22 de março de 1889;<br>
-**MMMCCXI -** Lei Provincial nº 60, de 22 de março de 1889;<br>
-**MMMCCXII -** Lei Provincial nº 61, de 22 de março de 1889;<br>
-**MMMCCXIII -** Lei Provincial nº 62, de 23 de março de 1889;<br>
-**MMMCCXIV -** Lei Provincial nº 63, de 27 de março de 1889;<br>
-**MMMCCXV -** Lei Provincial nº 64, de 27 de março de 1889;<br>
-**MMMCCXVI -** Lei Provincial nº 65, de 27 de março de 1889;<br>
-**MMMCCXVII -** Lei Provincial nº 66, de 27 de março de 1889;<br>
-**MMMCCXVIII -** Lei Provincial nº 67, de 27 de março de 1889;<br>
-**MMMCCXIX -** Lei Provincial nº 68, de 27 de março de 1889;<br>
-**MMMCCXX -** Lei Provincial nº 69, de 27 de março de 1889;<br>
-**MMMCCXXI -** Lei Provincial nº 70, de 27 de março de 1889;<br>
-**MMMCCXXII -** Lei Provincial nº 71, de 27 de março de 1889;<br>
-**MMMCCXXIII -** Lei Provincial nº 72, de 30 de março de 1889;<br>
-**MMMCCXXIV -** Lei Provincial nº 73, de 30 de março de 1889;<br>
-**MMMCCXXV -** Lei Provincial nº 74, de 30 de março de 1889;<br>
-**MMMCCXXVI -** Lei Provincial nº 75, de 30 de março de 1889;<br>
-**MMMCCXXVII -** Lei Provincial nº 76, de 30 de março de 1889;<br>
-**MMMCCXXVIII -** Lei Provincial nº 77, de 30 de março de 1889;<br>
-**MMMCCXXIX -** Lei Provincial nº 78, de 30 de março de 1889;<br>
-**MMMCCXXX -** Lei Provincial nº 79, de 30 de março de 1889;<br>
-**MMMCCXXXI -** Lei Provincial nº 80, de 30 de março de 1889;<br>
-**MMMCCXXXII -** Lei Provincial nº 81, de 30 de março de 1889;<br>
-**MMMCCXXXIII -** Resolução Provincial nº 82, de 1º de abril de 1889;<br>
-**MMMCCXXXIV -** Lei Provincial nº 83, de 1º de abril de 1889;<br>
-**MMMCCXXXV -** Lei Provincial nº 84, de 1º de abril de 1889;<br>
-**MMMCCXXXVI -** Lei Provincial nº 85, de 1º de abril de 1889;<br>
-**MMMCCXXXVII -** Lei Provincial nº 86, de 1º de abril de 1889;<br>
-**MMMCCXXXVIII -** Lei Provincial nº 87, de 1º de abril de 1889;<br>
-**MMMCCXXXIX -** Lei Provincial nº 88, de 1º de abril de 1889;<br>
-**MMMCCXL -** Lei Provincial nº 89, de 1º de abril de 1889;<br>
-**MMMCCXLI -** Lei Provincial nº 90, de 1º de abril de 1889;<br>
-**MMMCCXLII -** Lei Provincial nº 91, de 3 de abril de 1889;<br>
-**MMMCCXLIII -** Lei Provincial nº 92, de 3 de abril de 1889;<br>
-**MMMCCXLIV -** Lei Provincial nº 93, de 4 de abril de 1889;<br>
-**MMMCCXLV -** Lei Provincial nº 94, de 4 de abril de 1889;<br>
-**MMMCCXLVI -** Lei Provincial nº 95, de 4 de abril de 1889;<br>
-**MMMCCXLVII -** Lei Provincial nº 96, de 4 de abril de 1889;<br>
-**MMMCCXLVIII -** Lei Provincial nº 97, de 4 de abril de 1889;<br>
-**MMMCCXLIX -** Lei Provincial nº 98, de 4 de abril de 1889;<br>
-**MMMCCL -** Lei Provincial nº 99, de 4 de abril de 1889;<br>
-**MMMCCLI -** Lei Provincial nº 100, de 4 de abril de 1889;<br>
-**MMMCCLII -** Lei Provincial nº 101, de 8 de abril de 1889;<br>
-**MMMCCLIII -** Lei Provincial nº 102, de 9 de abril de 1889;<br>
-**MMMCCLIV -** Lei Provincial nº 103, de 9 de abril de 1889;<br>
-**MMMCCLV -** Lei Provincial nº 104, de 9 de abril de 1889;<br>
-**MMMCCLVI -** Lei Provincial nº 105, de 9 de abril de 1889;<br>
-**MMMCCLVII -** Lei Provincial nº 106, de 9 de abril de 1889;<br>
-**MMMCCLVIII -** Lei Provincial nº 107, de 9 de abril de 1889;<br>
-**MMMCCLIX -** Lei Provincial nº 108, de 10 de abril de 1889;<br>
-**MMMCCLX -** Lei Provincial nº 109, de 15 de abril de 1889;<br>
-**MMMCCLXI -** Lei Provincial nº 110, de 17 de abril de 1889;<br>
-**MMMCCLXII -** Resolução Provincial nº 111, de 23 de abril de 1889;<br>
-**MMMCCLXIII -** Resolução Provincial nº 112, de 23 de abril de 1889;<br>
-**MMMCCLXIV -** Resolução Provincial nº 113, de 23 de abril de 1889;<br>
-**MMMCCLXV -** Resolução Provincial nº 114, de 23 de abril de 1889;<br>
-**MMMCCLXVI -** Resolução Provincial nº 115, de 23 de abril de 1889;<br>
-**MMMCCLXVII -** Resolução Provincial nº 116, de 23 de abril de 1889;<br>
-**MMMCCLXVIII -** Resolução Provincial nº 117, de 23 de abril de 1889;<br>
-**MMMCCLXIX -** Resolução Provincial nº 118, de 23 de abril de 1889;<br>
-**MMMCCLXX -** Lei Provincial nº 119, de 25 de abril de 1889;<br>
-**MMMCCLXXI -** Lei Provincial nº 120, de 25 de abril de 1889;<br>
-**MMMCCLXXII -** Lei Provincial nº 121, de 6 de maio de 1889;<br>
-**MMMCCLXXIII -** Lei Provincial nº 122, de 6 de maio de 1889;<br>
-**MMMCCLXXIV -** Resolução Provincial nº 123, de 9 de maio de 1889;<br>
-**MMMCCLXXV -** Lei Provincial nº 124, de 10 de maio de 1889;<br>
-**MMMCCLXXVI -** Lei Provincial nº 125, de 15 de maio de 1889;<br>
-**MMMCCLXXVII -** Lei Provincial nº 126, de 15 de maio de 1889;<br>
-**MMMCCLXXVIII -** Lei Provincial nº 127, de 15 de maio de 1889;<br>
-**MMMCCLXXIX -** Lei Provincial nº 128, de 15 de maio de 1889;<br>
-**MMMCCLXXX -** Lei Provincial nº 129, de 16 de maio de 1889;<br>
-**MMMCCLXXXI -** Lei Provincial nº 130, de 15 de maio de 1889;<br>
-**MMMCCLXXXII -** Lei Provincial nº 131, de 15 de maio de 1889;<br>
-**MMMCCLXXXIII -** Lei Provincial nº 132, de 15 de maio de 1889;<br>
-**MMMCCLXXXIV -** Lei Provincial nº 133, de 15 de maio de 1889;<br>
-**MMMCCLXXXV -** Lei Provincial nº 134, de 15 de maio de 1889;<br>
-**MMMCCLXXXVI -** Lei Provincial nº 135, de 15 de maio de 1889;<br>
-**MMMCCLXXXVII -** Lei Provincial nº 136, de 15 de maio de 1889;<br>
-**MMMCCLXXXVIII -** Lei Provincial nº 137, de 15 de maio de 1889;<br>
-**MMMCCLXXXIX -** Lei Provincial nº 138, de 15 de maio de 1889;<br>
-**MMMCCXC -** Resolução Provincial nº 139, de 17 de maio de 1889;<br>
-**MMMCCXCI -** Resolução Provincial nº 140, de 20 de maio de 1889;<br>
-**MMMCCXCII -** Resolução Provincial nº 141, de 18 de maio de 1889;<br>
-**MMMCCXCIII -** Resolução Provincial nº 142, de 18 de maio de 1889;<br>
-**MMMCCXCIV -** Resolução Provincial nº 143, de 18 de maio de 1889;<br>
-**MMMCCXCV -** Resolução Provincial nº 144, de 17 de maio de 1889;<br>
-**MMMCCXCVI -** Resolução Provincial nº 145, de 18 de maio de 1889;<br>
-**MMMCCXCVII -** Resolução Provincial nº 146, de 18 de maio de 1889;<br>
-**MMMCCXCVIII -** Resolução Provincial nº 147, de 18 de maio de 1889;<br>
-**MMMCCXCIX -** Resolução Provincial nº 148, de 18 de maio de 1889;<br>
-**MMMCCC -** Resolução Provincial nº 149, de 18 de maio de 1889;<br>
-**MMMCCCI -** Resolução Provincial nº 150, de 18 de maio de 1889;<br>
-**MMMCCCII -** Resolução Provincial nº 151, de 18 de maio de 1889;<br>
-**MMMCCCIII -** Resolução Provincial nº 152, de 18 de maio de 1889;<br>
-**MMMCCCIV -** Resolução Provincial nº 153, de 18 de maio de 1889;<br>
-**MMMCCCV -** Resolução Provincial nº 154, de 18 de maio de 1889;<br>
-**MMMCCCVI -** Resolução Provincial nº 155, de 18 de maio de 1889;<br>
-**MMMCCCVII -** Resolução Provincial nº 156, de 18 de maio de 1889;<br>
-**MMMCCCVIII -** Resolução Provincial nº 157, de 18 de maio de 1889;<br>
-**MMMCCCIX -** Resolução Provincial nº 158, de 18 de maio de 1889;<br>
-**MMMCCCX -** Resolução Provincial nº 159, de 18 de maio de 1889;<br>
-**MMMCCCXI -** Resolução Provincial nº 160, de 18 de maio de 1889;<br>
-**MMMCCCXII -** Resolução Provincial nº 161, de 18 de maio de 1889;<br>
-**MMMCCCXIII -** Resolução Provincial nº 162, de 18 de maio de 1889;<br>
-**MMMCCCXIV -** Resolução Provincial nº 163, de 18 de maio de 1889;<br>
-**MMMCCCXV -** Resolução Provincial nº 164, de 21 de maio de 1889;<br>
-**MMMCCCXVI -** Resolução Provincial nº 165, de 21 de maio de 1889;<br>
-**MMMCCCXVII -** Resolução Provincial nº 166, de 21 de maio de 1889;<br>
-**MMMCCCXVIII -** Resolução Provincial nº 167, de 21 de maio de 1889;<br>
-**MMMCCCXIX -** Resolução Provincial nº 168, de 21 de maio de 1889;<br>
-**MMMCCCXX -** Resolução Provincial nº 169, de 21 de maio de 1889;<br>
-**MMMCCCXXI -** Resolução Provincial nº 170, de 21 de maio de 1889;<br>
-**MMMCCCXXII -** Resolução Provincial nº 171, de 21 de maio de 1889;<br>
-**MMMCCCXXIII -** Resolução Provincial nº 172, de 21 de maio de 1889;<br>
-**MMMCCCXXIV -** Resolução Provincial nº 173, de 21 de maio de 1889;<br>
-**MMMCCCXXV -** Resolução Provincial nº 174, de 21 de maio de 1889;<br>
-**MMMCCCXXVI -** Resolução Provincial nº 175, de 21 de maio de 1889;<br>
-**MMMCCCXXVII -** Resolução Provincial nº 176, de 18 de maio de 1889;<br>
-**MMMCCCXXVIII -** Resolução Provincial nº 177, de 22 de maio de 1889;<br>
-**MMMCCCXXIX -** Resolução Provincial nº 178, de 22 de maio de 1889;<br>
-**MMMCCCXXX -** Resolução Provincial nº 179, de 22 de maio de 1889;<br>
-**MMMCCCXXXI -** Resolução Provincial nº 180, de 22 de maio de 1889;<br>
-**MMMCCCXXXII -** Resolução Provincial nº 181, de 22 de maio de 1889;<br>
-**MMMCCCXXXIII -** Resolução Provincial nº 182, de 22 de maio de 1889;<br>
-**MMMCCCXXXIV -** Resolução Provincial nº 183, de 22 de maio de 1889;<br>
-**MMMCCCXXXV -** Resolução Provincial nº 184, de 22 de maio de 1889;<br>
-**MMMCCCXXXVI -** Resolução Provincial nº 185, de 28 de maio de 1889;<br>
-**MMMCCCXXXVII -** Resolução Provincial nº 186, de 31 de maio de 1889;<br>
-**MMMCCCXXXVIII -** Resolução Provincial nº 187, de 31 de maio de 1889;<br>
-**MMMCCCXXXIX -** Lei Provincial nº 188, de 1º de junho de 1889;<br>
-**MMMCCCXL -** Resolução Provincial nº 189, de 3 de junho de 1889;<br>
-**MMMCCCXLI -** Resolução Provincial nº 190, de 31 de maio de 1889;<br>
-**MMMCCCXLII -** Resolução Provincial nº 191, de 3 de junho de 1889;<br>
-**MMMCCCXLIII -** Resolução Provincial nº 192, de 5 de junho de 1889;<br>
-**MMMCCCXLIV -** Resolução Provincial nº 193, de 5 de junho de 1889;<br>
-**MMMCCCXLV -** Lei Provincial nº 194, de 5 de junho de 1889;<br>
-**MMMCCCXLVI -** Lei Provincial nº 195, de 5 de junho de 1889;<br>
-**MMMCCCXLVII -** Resolução Provincial nº 196, de 6 de junho de 1889;<br>
-**MMMCCCXLVIII -** Resolução Provincial nº 197, de 6 de junho de 1889;<br>
-**MMMCCCXLIX -** Resolução Provincial nº 198, de 3 de agosto de 1889.<br>
-**Artigo 2º -** Ficam revogadas as seguintes resoluções:<br>
-**I -** Resolução nº 2, de 25 de novembro de 1889;<br>
-**II -** Resolução nº 3, de 3 de dezembro de 1889;<br>
-**III -** Resolução nº 5, de 26 de dezembro de 1889;<br>
-**IV -** Resolução nº 10, de 11 de janeiro de 1890;<br>
-**V -** Resolução nº 20, de 17 de fevereiro de 1890;<br>
-**VI -** Resolução nº 22, de 3 de março de 1890;<br>
-**VII -** Resolução nº 23, de 3 de março de 1890;<br>
-**VIII -** Resolução nº 25, de 6 de março de 1890;<br>
-**IX -** Resolução nº 26, de 10 de março de 1890;<br>
-**X -** Resolução nº 28, de 12 de março de 1890;<br>
-**XI -** Resolução nº 30, de 17 de março de 1890;<br>
-**XII -** Resolução nº 31, de 17 de março de 1890;<br>
-**XIII -** Resolução nº 35, de 28 de março de 1890;<br>
-**XIV -** Resolução nº 36, de 28 de março de 1890;<br>
-**XV -** Resolução nº 38, de 29 de março de 1890;<br>
-**XVI -** Resolução nº 44, de 12 de abril de 1890;<br>
-**XVII -** Resolução nº 45, de 14 de abril de 1890;<br>
-**XVIII -** Resolução nº 53, de 15 de maio de 1890;<br>
-**XIX -** Resolução nº 62, de 18 de junho de 1890;<br>
-**XX -** Resolução nº 63, de 23 de junho de 1890;<br>
-**XXI -** Resolução nº 67, de 12 de julho de 1890;<br>
-**XXII -** Resolução nº 68, de 22 de julho de 1890;<br>
-**XXIII -** Resolução nº 70, de 23 de julho de 1890;<br>
-**XXIV -** Resolução nº 75, de 14 de agosto de 1890;<br>
-**XXV -** Resolução nº 76, de 25 de agosto de 1890;<br>
-**XXVI -** Resolução nº 77, de 26 de agosto de 1890;<br>
-**XXVII -** Resolução nº 78, de 28 de março de 1890.<br>
-**Artigo 3º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 4 de junho de 2007.<br>
-JOSÉ SERRA<br>
-Luiz Antônio Guimarães Marrey<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Ficam revogadas as seguintes leis e resoluções provinciais:
+
+**I -** Lei Provincial nº 1, de 9 de março de 1835;
+
+**II -** Lei Provincial nº 2, de 9 de março de 1835;
+
+**III -** Lei Provincial nº 3, de 9 de março de 1835;
+
+**IV -** Lei Provincial nº 4, de 12 de março de 1835;
+
+**V -** Lei Provincial nº 5, de 12 de março de 1835;
+
+**VI -** Lei Provincial nº 6, de 12 de março de 1835;
+
+**VII -** Lei Provincial nº 7, de 23 de março de 1835;
+
+**VIII -** Lei Provincial nº 8, de 23 de março de 1835;
+
+**IX -** Lei Provincial nº 9, de 24 de março de 1835;
+
+**X -** Lei Provincial nº 10, de 24 de março de 1835;
+
+**XI -** Lei Provincial nº 11, de 24 de março de 1835;
+
+**XII -** Lei Provincial nº 12, de 4 de abril de 1835;
+
+**XIII -** Lei Provincial nº 13, de 4 de abril de 1835;
+
+**XIV -** Lei Provincial nº 14, de 4 de abril de 1835;
+
+**XV -** Lei Provincial nº 15, de 11 de abril de 1835;
+
+**XVI -** Lei Provincial nº 16, de 11 de abril de 1835;
+
+**XVII -** Lei Provincial nº 17, de 11 de abril de 1835;
+
+**XVIII -** Lei Provincial nº 18, de 11 de abril de 1835;
+
+**XIX -** Lei Provincial nº 19, de 11 de abril de 1835;
+
+**XX -** Lei Provincial nº 1, de 30 de janeiro de 1836;
+
+**XXI -** Lei Provincial nº 2, de 9 de fevereiro de 1836;
+
+**XXII -** Lei Provincial nº 3, de 9 de fevereiro de 1836;
+
+**XXIII -** Lei Provincial nº 4, de 12 de fevereiro de 1836;
+
+**XXIV -** Lei Provincial nº 5, de 19 de fevereiro de 1836;
+
+**XXV -** Lei Provincial nº 6, de 19 de fevereiro de 1836;
+
+**XXVI -** Lei Provincial nº 7, de 19 de fevereiro de 1836;
+
+**XXVII -** Lei Provincial nº 8, de 19 de fevereiro de 1836;
+
+**XXVIII -** Lei Provincial nº 9, de 19 de fevereiro de 1836;
+
+**XXIX -** Lei Provincial nº 10, de 23 de fevereiro de 1836;
+
+**XXX -** Lei Provincial nº 11, de 23 de fevereiro de 1836;
+
+**XXXI -** Lei Provincial nº 12, de 23 de fevereiro de 1836;
+
+**XXXII** \- Lei Provincial nº 13, de 23 de fevereiro de 1836;
+
+**XXXIII -** Lei Provincial nº 14, de 23 de fevereiro de 1836;
+
+**XXXIV -** Lei Provincial nº 15, de 27 de fevereiro de 1836;
+
+**XXXV -** Lei Provincial nº 16, de 27 de fevereiro de 1836;
+
+**XXXVI -** Lei Provincial nº 17, de 27 de fevereiro de 1836;
+
+**XXXVII -** Lei Provincial nº 19, de 27 de fevereiro de 1836;
+
+**XXXVIII -** Lei Provincial nº 20, de 27 de fevereiro de 1836;
+
+**XXXIX -** Lei Provincial nº 21, de 29 de fevereiro de 1836;
+
+**XL -** Lei Provincial nº 22, de 5 de março de 1836;
+
+**XLI -** Lei Provincial nº 23, de 5 de março de 1836;
+
+**XLII -** Lei Provincial nº 24, de 5 de março de 1836;
+
+**XLIII -** Lei Provincial nº 25, de 5 de março de 1836;
+
+**XLIV -** Lei Provincial nº 26, de 7 de março de 1836;
+
+**XLV -** Lei Provincial nº 27, de 7 de março de 1836;
+
+**XLVI -** Lei Provincial nº 28, de 7 de março de 1836;
+
+**XLVII -** Lei Provincial nº 29, de 7 de março de 1836;
+
+**XLVIII -** Lei Provincial nº 30, de 7 de março de 1836;
+
+**XLIX -** Lei Provincial nº 31, de 10 de março de 1836;
+
+**L -** Lei Provincial nº 32, de 18 de março de 1836;
+
+**LI -** Lei Provincial nº 33, de 18 de março de 1836;
+
+**LII -** Lei Provincial nº 34, de 18 de março de 1836;
+
+**LIII -** Lei Provincial nº 35, de 18 de março de 1836;
+
+**LIV -** Lei Provincial nº 36, de 18 de março de 1836;
+
+**LV -** Lei Provincial nº 37, de 18 de março de 1836;
+
+**LVI -** Lei Provincial nº 38, de 18 de março de 1836;
+
+**LVII -** Lei Provincial nº 40, de 18 de março de 1836;
+
+**LVIII -** Lei Provincial nº 41, de 21 de março de 1836;
+
+**LIX -** Lei Provincial nº 42, de 21 de março de 1836;
+
+**LX -** Lei Provincial nº 43, de 21 de março de 1836;
+
+**LXI -** Lei Provincial nº 1, de 18 de janeiro de 1837;
+
+**LXII -** Lei Provincial nº 2, de 22 de janeiro de 1837;
+
+**LXIII -** Lei Provincial nº 3, de 30 de janeiro de 1837;
+
+**LXIV -** Lei Provincial nº 5, de 7 de fevereiro de 1837;
+
+**LXV -** Lei Provincial nº 6, de 7 de fevereiro de 1837;
+
+**LXVI -** Lei Provincial nº 7, de 8 de fevereiro de 1837;
+
+**LXVII -** Lei Provincial nº 8, de 8 de fevereiro de 1837;
+
+**LXVIII -** Lei Provincial nº 9, de 9 de fevereiro de 1837;
+
+**LXIX -** Lei Provincial nº 10, de 1º de março de 1837;
+
+**LXX -** Lei Provincial nº 11, de 2 de março de 1837;
+
+**LXXI -** Lei Provincial nº 12, de 3 de março de 1837;
+
+**LXXII -** Lei Provincial nº 13, de 6 de março de 1837;
+
+**LXXIII -** Lei Provincial nº 14, de 10 de março de 1837;
+
+**LXXIV -** Lei Provincial nº 15, de 11 de março de 1837;
+
+**LXXV -** Lei Provincial nº 16, de 13 de março de 1837;
+
+**LXXVI -** Lei Provincial nº 17, de 13 de março de 1837;
+
+**LXXVII -** Lei Provincial nº 18, de 14 de março de 1837;
+
+**LXXVIII -** Lei Provincial nº 19, de 14 de março de 1837;
+
+**LXXIX -** Lei Provincial nº 20, de 15 de março de 1837;
+
+**LXXX -** Lei Provincial nº 21, de 15 de março de 1837;
+
+**LXXXI -** Lei Provincial nº 22, de 16 de março de 1837;
+
+**LXXXII -** Lei Provincial nº 23, de 16 de março de 1837;
+
+**LXXXIII -** Lei Provincial nº 24, de 17 de março de 1837;
+
+**LXXXIV -** Lei Provincial nº 25, de 17 de março de 1837;
+
+**LXXXV -** Lei Provincial nº 26, de 18 de março de 1837;
+
+**LXXXVI -** Lei Provincial nº 27, de 18 de março de 1837;
+
+**LXXXVII -** Lei Provincial nº 28, de 18 de março de 1837;
+
+**LXXXVIII -** Lei Provincial nº 1, de 29 de janeiro de 1838;
+
+**LXXXIX -** Lei Provincial nº 2, de 29 de janeiro de 1838;
+
+**XC -** Lei Provincial nº 3, de 29 de janeiro de 1838;
+
+**XCI -** Lei Provincial nº 4, de 29 de janeiro de 1838;
+
+**XCII -** Lei Provincial nº 5, de 3 de fevereiro de 1838;
+
+**XCIII -** Lei Provincial nº 6, de 3 de fevereiro de 1838;
+
+**XCIV -** Lei Provincial nº 7, de 9 de fevereiro de 1838;
+
+**XCV -** Lei Provincial nº 8, de 20 de fevereiro de 1838;
+
+**XCVI -** Lei Provincial nº 9, de 20 de fevereiro de 1838;
+
+**XCVII -** Lei Provincial nº 10, de 21 de fevereiro de 1838;
+
+**XCVIII -** Lei Provincial nº 11, de 26 de fevereiro de 1838;
+
+**XCIX -** Lei Provincial nº 12, de 26 de fevereiro de 1838;
+
+**C -** Lei Provincial nº 13, de 26 de fevereiro de 1838;
+
+**CI -** Lei Provincial nº 14, de 27 de fevereiro de 1838;
+
+**CII -** Lei Provincial nº 15, de 27 de fevereiro de 1838;
+
+**CIII -** Lei Provincial nº 16, de 27 de fevereiro de 1838;
+
+**CIV -** Lei Provincial nº 17, de 28 de fevereiro de 1838;
+
+**CV -** Lei Provincial nº 18, de 28 de fevereiro de 1838;
+
+**CVI -** Lei Provincial nº 19, de 1º de março de 1838;
+
+**CVII -** Lei Provincial nº 20, de 1º de março de 1838;
+
+**CVIII -** Lei Provincial nº 21, de 5 de março de 1838;
+
+**CIX -** Lei Provincial nº 22, de 30 de março de 1838;
+
+**CX -** Lei Provincial nº 23, de 30 de março de 1838;
+
+**CXI -** Lei Provincial nº 24, de 30 de março de 1838;
+
+**CXII -** Lei Provincial nº 25, de 30 de março de 1838;
+
+**CXIII -** Lei Provincial nº 26, de 30 de março de 1838;
+
+**CXIV -** Lei Provincial nº 27, de 31 de março de 1838;
+
+**CXV -** Lei Provincial nº 28, de 31 de março de 1838;
+
+**CXVI -** Lei Provincial nº 29, de 31 de março de 1838;
+
+**CXVII -** Lei Provincial nº 30, de 31 de março de 1838;
+
+**CXVIII -** Lei Provincial nº 1, de 28 de janeiro de 1839;
+
+**CXIX -** Lei Provincial nº 2, de 30 de janeiro de 1839;
+
+**CXX -** Lei Provincial nº 3, de 16 de fevereiro de 1839;
+
+**CXXI -** Lei Provincial nº 4, de 24 de fevereiro de 1839;
+
+**CXXII -** Lei Provincial nº 5, de 24 de fevereiro de 1839;
+
+**CXXIII -** Lei Provincial nº 6, de 4 de março de 1839;
+
+**CXXIV -** Lei Provincial nº 7, de 14 de março de 1839;
+
+**CXXV -** Lei Provincial nº 8, de 21 de março de 1839;
+
+**CXXVI -** Lei Provincial nº 9, de 21 de março de 1839;
+
+**CXXVII -** Lei Provincial nº 10, de 23 de março de 1839;
+
+**CXXVIII -** Lei Provincial nº 11, de 23 de março de 1839;
+
+**CXXIX -** Lei Provincial nº 12, de 3 de abril de 1839;
+
+**CXXX -** Lei Provincial nº 1, de 8 de fevereiro de 1840;
+
+**CXXXI -** Lei Provincial nº 2, de 21 de fevereiro de 1840;
+
+**CXXXII -** Lei Provincial nº 3, de 21 de fevereiro de 1840;
+
+**CXXXIII -** Lei Provincial nº 4, de 21 de fevereiro de 1840;
+
+**CXXXIV -** Lei Provincial nº 5, de 26 de fevereiro de 1840;
+
+**CXXXV -** Lei Provincial nº 6, de 27 de fevereiro de 1840;
+
+**CXXXVI -** Lei Provincial nº 7, de 28 de fevereiro de 1840;
+
+**CXXXVII -** Lei Provincial nº 8, de 6 de março de 1840;
+
+**CXXXVIII -** Lei Provincial nº 9, de 9 de março de 1840;
+
+**CXXXIX -** Lei Provincial nº 10, de 10 de março de 1840;
+
+**CXL -** Lei Provincial nº 11, de 11 de março de 1840;
+
+**CXLI -** Lei Provincial nº 12, de 12 de março de 1840;
+
+**CXLII** \- Lei Provincial nº 13, de 16 de março de 1840;
+
+**CXLIII -** Lei Provincial nº 14, de 17 de março de 1840;
+
+**CXLIV -** Lei Provincial nº 15, de 18 de março de 1840;
+
+**CXLV -** Lei Provincial nº 16, de 23 de março de 1840;
+
+**CXLVI -** Lei Provincial nº 17, de 26 de março de 1840;
+
+**CXLVII -** Lei Provincial nº 1, de 20 de janeiro de 1841;
+
+**CXLVIII -** Lei Provincial nº 2, de 21 de janeiro de 1841;
+
+**CXLIX -** Lei Provincial nº 3, de 22 de janeiro de 1841;
+
+**CL -** Lei Provincial nº 4, de 23 de janeiro de 1841;
+
+**CLI -** Lei Provincial nº 5, de 26 de janeiro de 1841;
+
+**CLII -** Lei Provincial nº 6, de 27 de janeiro de 1841;
+
+**CLIII -** Lei Provincial nº 7, de 3 de fevereiro de 1841;
+
+**CLIV -** Lei Provincial nº 8, de 4 de fevereiro de 1841;
+
+**CLV -** Lei Provincial nº 9, de 12 de fevereiro de 1841;
+
+**CLVI -** Lei Provincial nº 10, de 20 de fevereiro de 1841;
+
+**CLVII -** Lei Provincial nº 11, de 20 de fevereiro de 1841;
+
+**CLVIII -** Lei Provincial nº 12, de 20 de fevereiro de 1841;
+
+**CLIX -** Lei Provincial nº 13, de 25 de fevereiro de 1841;
+
+**CLX -** Lei Provincial nº 14, de 25 de fevereiro de 1841;
+
+**CLXI -** Lei Provincial nº 15, de 25 de fevereiro de 1841
+
+**CLXII -** Lei Provincial nº 16, de 1º de março de 1841;
+
+**CLXIII -** Lei Provincial nº 17, de 1º de março de 1841;
+
+**CLXIV -** Lei Provincial nº 18, de 04 de março de 1841;
+
+**CLXV -** Lei Provincial nº 19, de 10 de março de 1841;
+
+**CLXVI -** Lei Provincial nº 20, de 12 de março de 1841;
+
+**CLXVII -** Lei Provincial nº 21, de 12 de março de 1841;
+
+**CLXVIII -** Lei Provincial nº 22, de 12 de março de 1841;
+
+**CLXIX -** Lei Provincial nº 23, de 12 de março de 1841;
+
+**CLXX -** Lei Provincial nº 24, de 20 de março de 1841;
+
+**CLXXI -** Lei Provincial nº 25, de 23 de março de 1841;
+
+**CLXXII -** Lei Provincial nº 26, de 15 de março de 1841;
+
+**CLXXIII -** Lei Provincial nº 1, de 15 de janeiro de 1842;
+
+**CLXXIV -** Lei Provincial nº 2, de 22 de janeiro de 1842;
+
+**CLXXV -** Lei Provincial nº 4, de 5 de fevereiro de 1842;
+
+**CLXXVI -** Lei Provincial nº 5, de 5 de fevereiro de 1842;
+
+**CLXXVII -** Lei Provincial nº 6, de 9 de fevereiro de 1842;
+
+**CLXXVIII -** Lei Provincial nº 7, de 9 de fevereiro de 1842;
+
+**CLXXIX -** Lei Provincial nº 8, de 9 de fevereiro de 1842;
+
+**CLXXX -** Lei Provincial nº 9, de 18 de fevereiro de 1842;
+
+**CLXXXI -** Lei Provincial nº 11, de 22 de fevereiro de 1842;
+
+**CLXXXII -** Lei Provincial nº 12, de 28 de fevereiro de 1842;
+
+**CLXXXIII -** Lei Provincial nº 13, de 4 de março de 1842;
+
+**CLXXXIV -** Lei Provincial nº 14, de 4 de março de 1842;
+
+**CLXXXV -** Lei Provincial nº 15, de 4 de março de 1842;
+
+**CLXXXVI -** Lei Provincial nº 16, de 4 de março de 1842;
+
+**CLXXXVII -** Lei Provincial nº 17, de 4 de março de 1842;
+
+**CLXXXVIII -** Lei Provincial nº 18, de 4 de março de 1842;
+
+**CLXXXIX -** Lei Provincial nº 20, de 8 de março de 1842;
+
+**CXC -** Lei Provincial nº 21, de 8 de março de 1842;
+
+**CXCI -** Lei Provincial nº 22, de 8 de março de 1842;
+
+**CXCII -** Lei Provincial nº 23, de 8 de março de 1842;
+
+**CXCIII -** Lei Provincial nº 24, de 8 de março de 1842;
+
+**CXCIV -** Lei Provincial nº 25, de 8 de março de 1842;
+
+**CXCV -** Lei Provincial nº 26, de 10 de março de 1842;
+
+**CXCVI -** Lei Provincial nº 28, de 10 de março de 1842;
+
+**CXCVII -** Lei Provincial nº 29, de 10 de março de 1842;
+
+**CXCVIII -** Lei Provincial nº 1, de 23 de janeiro de 1843;
+
+**CXCIX -** Lei Provincial nº 2, de 23 de janeiro de 1843;
+
+**CC -** Lei Provincial nº 3, de 24 de janeiro de 1843;
+
+**CCI -** Lei Provincial nº 4, de 3 de fevereiro de 1843;
+
+**CCII -** Lei Provincial nº 5, de 15 de fevereiro de 1843;
+
+**CCIII -** Lei Provincial nº 6, de 21 de fevereiro de 1843;
+
+**CCIV -** Lei Provincial nº 7, de 4 de março de 1843;
+
+**CCV -** Lei Provincial nº 8, de 4 de março de 1843;
+
+**CCVI -** Lei Provincial nº 9, de 4 de março de 1843;
+
+**CCVII -** Lei Provincial nº 10, de 4 de março de 1843;
+
+**CCVIII -** Lei Provincial nº 11, de 4 de março de 1843;
+
+**CCIX -** Lei Provincial nº 12, de 6 de março de 1843;
+
+**CCX -** Lei Provincial nº 1, de 23 de janeiro de 1844;
+
+**CCXI -** Lei Provincial nº 2, de 23 de janeiro de 1844;
+
+**CCXII -** Lei Provincial nº 3, de 23 de janeiro de 1844;
+
+**CCXIII -** Lei Provincial nº 4, de 23 de janeiro de 1844;
+
+**CCXIV -** Lei Provincial nº 5, de 26 de janeiro de 1844;
+
+**CCXV -** Lei Provincial nº 6, de 29 de janeiro de 1844;
+
+**CCXVI -** Lei Provincial nº 7, de 4 de fevereiro de 1844;
+
+**CCXVII -** Lei Provincial nº 8, de 6 de fevereiro de 1844;
+
+**CCXVIII -** Lei Provincial nº 9, de 6 de fevereiro de 1844;
+
+**CCXIX -** Lei Provincial nº 10, de 12 de fevereiro de 1844;
+
+**CCXX -** Lei Provincial nº 11, de 13 de fevereiro de 1844;
+
+**CCXXI -** Lei Provincial nº 12, de 13 de fevereiro de 1844;
+
+**CCXXII -** Lei Provincial nº 13, de 13 de fevereiro de 1844;
+
+**CCXXIII -** Lei Provincial nº 14, de 13 de fevereiro de 1844;
+
+**CCXXIV -** Lei Provincial nº 15, de 16 de fevereiro de 1844;
+
+**CCXXV -** Lei Provincial nº 16, de 22 de fevereiro de 1844;
+
+**CCXXVI -** Lei Provincial nº 17, de 22 de fevereiro de 1844;
+
+**CCXXVII -** Lei Provincial nº 18, de 22 de fevereiro de 1844;
+
+**CCXXVIII -** Lei Provincial nº 19, de 27 de fevereiro de 1844;
+
+**CCXXIX -** Lei Provincial nº 20, de 28 de fevereiro de 1844;
+
+**CCXXX -** Lei Provincial nº 21, de 28 de fevereiro de 1844;
+
+**CCXXXI -** Lei Provincial nº 22, de 28 de fevereiro de 1844;
+
+**CCXXXII -** Lei Provincial nº 23, de 28 de fevereiro de 1844;
+
+**CCXXXIII -** Lei Provincial nº 24, de 8 de março de 1844;
+
+**CCXXXIV -** Lei Provincial nº 25, de 8 de março de 1844;
+
+**CCXXXV -** Lei Provincial nº 26, de 8 de março de 1844;
+
+**CCXXXVI -** Lei Provincial nº 27, de 08 de março de 1844;
+
+**CCXXXVII -** Lei Provincial nº 28, de 8 de março de 1844;
+
+**CCXXXVIII -** Lei Provincial nº 29, de 9 de março de 1844;
+
+**CCXXXIX -** Lei Provincial nº 30, de 9 de março de 1844;
+
+**CCXL -** Lei Provincial nº 31, de 9 de março de 1844;
+
+**CCXLI -** Lei Provincial nº 32, de 9 de março de 1844;
+
+**CCXLII -** Lei Provincial nº 33, de 9 de março de 1844;
+
+**CCXLIII -** Lei Provincial nº 34, de 15 de março de 1844;
+
+**CCXLIV -** Lei Provincial nº 35, de 15 de março de 1844;
+
+**CCXLV -** Lei Provincial nº 37, de 15 de março de 1844;
+
+**CCXLVI -** Lei Provincial nº 39, de 21 de março de 1844;
+
+**CCXLVII -** Lei Provincial nº 40, de 23 de março de 1844;
+
+**CCXLVIII -** Lei Provincial nº 41, de 26 de março de 1844;
+
+**CCXLIX -** Lei Provincial nº 42, de 26 de março de 1844;
+
+**CCL -** Lei Provincial nº 43, de 30 de março de 1844;
+
+**CCLI -** Lei Provincial nº 1, de 6 de fevereiro de 1845;
+
+**CCLII -** Lei Provincial nº 2, de 14 de fevereiro de 1845;
+
+**CCLIII -** Lei Provincial nº 3, de 17 de fevereiro de 1845;
+
+**CCLIV -** Lei Provincial nº 4, de 19 de fevereiro de 1845;
+
+**CCLV -** Lei Provincial nº 6, de 19 de fevereiro de 1845;
+
+**CCLVI -** Lei Provincial nº 7, de 19 de fevereiro de 1845;
+
+**CCLVII -** Lei Provincial nº 8, de 19 de fevereiro de 1845;
+
+**CCLVIII -** Lei Provincial nº 9, de 19 de fevereiro de 1845;
+
+**CCLIX -** Lei Provincial nº 10, de 19 de fevereiro de 1845;
+
+**CCLX -** Lei Provincial nº 11, de 24 de fevereiro de 1845;
+
+**CCLXI -** Lei Provincial nº 12, de 7 de março de 1845;
+
+**CCLXII -** Lei Provincial nº 13, de 7 de março de 1845;
+
+**CCLXIII -** Lei Provincial nº 14, de 7 de março de 1845;
+
+**CCLXIV -** Lei Provincial nº 15, de 4 de março de 1845;
+
+**CCLXV -** Lei Provincial nº 16, de 6 de março de 1845;
+
+**CCLXVI -** Lei Provincial nº 2, de 9 de fevereiro de 1846;
+
+**CCLXVII -** Lei Provincial nº 3, de 10 de fevereiro de 1846;
+
+**CCLXVIII -** Lei Provincial nº 4, de 19 de fevereiro de 1846;
+
+**CCLXIX -** Lei Provincial nº 5, de 19 de fevereiro de 1846;
+
+**CCLXX -** Lei Provincial nº 6, de 19 de fevereiro de 1846;
+
+**CCLXXI -** Lei Provincial nº 7, de 19 de fevereiro de 1846;
+
+**CCLXXII -** Lei Provincial nº 8, de 19 de fevereiro de 1846;
+
+**CCLXXIII -** Lei Provincial nº 10, de 19 de fevereiro de 1846;
+
+**CCLXXIV -** Lei Provincial nº 11, de 19 de fevereiro de 1846;
+
+**CCLXXV -** Lei Provincial nº 12, de 2 de março de 1846;
+
+**CCLXXVI -** Lei Provincial nº 13, de 5 de março de 1846;
+
+**CCLXXVII -** Lei Provincial nº 14, de 6 de março de 1846;
+
+**CCLXXVIII -** Lei Provincial nº 15, de 6 de março de 1846;
+
+**CCLXXIX -** Lei Provincial nº 17, de 6 de março de 1846;
+
+**CCLXXX -** Lei Provincial nº 18, de 6 de março de 1846;
+
+**CCLXXXI -** Lei Provincial nº 19, de 6 de março de 1846;
+
+**CCLXXXII -** Lei Provincial nº 20, de 6 de março de 1846;
+
+**CCLXXXIII -** Lei Provincial nº 21, de 6 de março de 1846;
+
+**CCLXXXIV -** Lei Provincial nº 22, de 7 de março de 1846;
+
+**CCLXXXV -** Lei Provincial nº 23, de 12 de março de 1846;
+
+**CCLXXXVI -** Lei Provincial nº 24, de 12 de março de 1846;
+
+**CCLXXXVII -** Lei Provincial nº 25, de 12 de março de 1846;
+
+**CCLXXXVIII -** Lei Provincial nº 26, de 12 de março de 1846;
+
+**CCLXXXIX -** Lei Provincial nº 28, de 12 de março de 1846;
+
+**CCXC -** Lei Provincial nº 30, de 12 de março de 1846;
+
+**CCXCI -** Lei Provincial nº 31, de 12 de março de 1846;
+
+**CCXCII -** Lei Provincial nº 32, de 13 de março de 1846;
+
+**CCXCIII -** Lei Provincial nº 33, de 13 de março de 1846;
+
+**CCXCIV -** Lei Provincial nº 34, de 16 de março de 1846;
+
+**CCXCV -** Lei Provincial nº 35, de 16 de março de 1846;
+
+**CCXCVI -** Lei Provincial nº 36, de 16 de março de 1846;
+
+**CCXCVII -** Lei Provincial nº 37, de 16 de março de 1846;
+
+**CCXCVIII -** Lei Provincial nº 38, de 16 de março de 1846;
+
+**CCXCIX -** Lei Provincial nº 1, de 8 de fevereiro de 1847;
+
+**CCC -** Lei Provincial nº 2, de 11 de fevereiro de 1847;
+
+**CCCI -** Lei Provincial nº 3, de 13 de fevereiro de 1847;
+
+**CCCII -** Lei Provincial nº 5, de 16 de fevereiro de 1847;
+
+**CCCIII -** Lei Provincial nº 6, de 16 de fevereiro de 1847;
+
+**CCCIV -** Lei Provincial nº 7, de 16 de fevereiro de 1847;
+
+**CCCV -** Lei Provincial nº 8, de 16 de fevereiro de 1847;
+
+**CCCVI -** Lei Provincial nº 9, de 18 de fevereiro de 1847;
+
+**CCCVII -** Lei Provincial nº 10, de 18 de fevereiro de 1847;
+
+**CCCVIII -** Lei Provincial nº 11, de 18 de fevereiro de 1847;
+
+**CCCIX -** Lei Provincial nº 12, de 19 de fevereiro de 1847;
+
+**CCCX -** Lei Provincial nº 13, de 27 de fevereiro de 1847;
+
+**CCCXI -** Lei Provincial nº 14, de 27 de fevereiro de 1847;
+
+**CCCXII -** Lei Provincial nº 15, de 27 de fevereiro de 1847;
+
+**CCCXIII -** Lei Provincial nº 16, de 3 de março de 1847;
+
+**CCCXIV -** Lei Provincial nº 17, de 4 de março de 1847;
+
+**CCCXV -** Lei Provincial nº 18, de 16 de março de 1847;
+
+**CCCXVI -** Lei Provincial nº 19, de 16 de março de 1847;
+
+**CCCXVII -** Lei Provincial nº 20, de 16 de março de 1847;
+
+**CCCXVIII -** Lei Provincial nº 21, de 16 de março de 1847;
+
+**CCCXIX -** Lei Provincial nº 22, de 16 de março de 1847;
+
+**CCCXX -** Lei Provincial nº 23, de 16 de março de 1847;
+
+**CCCXXI -** Lei Provincial nº 25, de 16 de março de 1847;
+
+**CCCXXII -** Lei Provincial nº 27, de 16 de março de 1847;
+
+**CCCXXIII -** Lei Provincial nº 28, de 16 de março de 1847;
+
+**CCCXXIV -** Lei Provincial nº 29, de 16 de março de 1847;
+
+**CCCXXV -** Lei Provincial nº 30, de 16 de março de 1847;
+
+**CCCXXVI -** Lei Provincial nº 1, de 19 de julho de 1848;
+
+**CCCXXVII -** Lei Provincial nº 2, de 19 de julho de 1848;
+
+**CCCXXVIII -** Lei Provincial nº 3, de 25 de agosto de 1848;
+
+**CCCXXIX -** Lei Provincial nº 4, de 6 de setembro de 1848;
+
+**CCCXXX -** Lei Provincial nº 5, de 6 de setembro de 1848;
+
+**CCCXXXI -** Lei Provincial nº 6, de 6 de setembro de 1848;
+
+**CCCXXXII -** Lei Provincial nº 7, de 6 de setembro de 1848;
+
+**CCCXXXIII -** Lei Provincial nº 8, de 18 de setembro de 1848;
+
+**CCCXXXIV -** Lei Provincial nº 9, de 18 de setembro de 1848;
+
+**CCCXXXV -** Lei Provincial nº 12, de 18 de setembro de 1848;
+
+**CCCXXXVI -** Lei Provincial nº 13, de 23 de setembro de 1848;
+
+**CCCXXXVII -** Lei Provincial nº 1, de 5 de março de 1849;
+
+**CCCXXXVIII -** Lei Provincial nº 2, de 5 de março de 1849;
+
+**CCCXXXIX -** Lei Provincial nº 3, de 5 de março de 1849;
+
+**CCCXL -** Lei Provincial nº 4, de 14 de março de 1849;
+
+**CCCXLI -** Lei Provincial nº 5, de 14 de março de 1849;
+
+**CCCXLII -** Lei Provincial nº 6, de 14 de março de 1849;
+
+**CCCXLIII -** Lei Provincial nº 7, de 14 de março de 1849;
+
+**CCCXLIV -** Lei Provincial nº 8, de 21 de março de 1849;
+
+**CCCXLV -** Lei Provincial nº 9, de 21 de março de 1849;
+
+**CCCXLVI -** Lei Provincial nº 10, de 21 de março de 1849;
+
+**CCCXLVII -** Lei Provincial nº 11, de 21 de março de 1849;
+
+**CCCXLVIII -** Lei Provincial nº 12, de 21 de março de 1849;
+
+**CCCXLIX -** Lei Provincial nº 13, de 21 de março de 1849;
+
+**CCCL -** Lei Provincial nº 16, de 31 de março de 1849;
+
+**CCCLI -** Lei Provincial nº 17, de 3 de abril de 1849;
+
+**CCCLII -** Lei Provincial nº 18, de 7 de abril de 1849;
+
+**CCCLIII -** Lei Provincial nº 19, de 7 de abril de 1849;
+
+**CCCLIV -** Resolução Provincial nº 20, de 20 de abril de 1849;
+
+**CCCLV -** Lei Provincial nº 21, de 20 de abril de 1849;
+
+**CCCLVI -** Lei Provincial nº 22, de 20 de abril de 1849;
+
+**CCCLVII -** Lei Provincial nº 23, de 22 de abril de 1849;
+
+**CCCLVIII -** Lei Provincial nº 24, de 23 de abril de 1849;
+
+**CCCLIX -** Lei Provincial nº 25, de 23 de abril de 1849;
+
+**CCCLX -** Lei Provincial nº 26, de 23 de abril de 1849;
+
+**CCCLXI -** Lei Provincial nº 27, de 23 de abril de 1849;
+
+**CCCLXII -** Lei Provincial nº 28, de 15 de maio de 1849;
+
+**CCCLXIII -** Lei Provincial nº 1, de 3 de maio de 1850;
+
+**CCCLXIV -** Lei Provincial nº 2, de 3 de maio de 1850;
+
+**CCCLXV -** Lei Provincial nº 3, de 3 de maio de 1850;
+
+**CCCLXVI -** Lei Provincial nº 4, de 3 de maio de 1850;
+
+**CCCLXVII -** Lei Provincial nº 5, de 23 de maio de 1850;
+
+**CCCLXVIII -** Lei Provincial nº 6, de 23 de maio de 1850;
+
+**CCCLXIX -** Lei Provincial nº 8, de 23 de maio de 1850;
+
+**CCCLXX -** Lei Provincial nº 9, de 23 de maio de 1850;
+
+**CCCLXXI -** Lei Provincial nº 10, de 10 de junho de 1850;
+
+**CCCLXXII -** Lei Provincial nº 11, de 10 de junho de 1850;
+
+**CCCLXXIII -** Lei Provincial nº 13, de 10 de junho de 1850;
+
+**CCCLXXIV -** Resolução Provincial nº 14, de 10 de junho de 1850;
+
+**CCCLXXV -** Lei Provincial nº 15, de 10 de junho de 1850;
+
+**CCCLXXVI -** Lei Provincial nº 16, de 10 de junho de 1850;
+
+**CCCLXXVII -** Lei Provincial nº 17, de 10 de junho de 1850;
+
+**CCCLXXVIII -** Lei Provincial nº 18, de 10 de junho de 1850;
+
+**CCCLXXIX -** Lei Provincial nº 19, de 10 de junho de 1850;
+
+**CCCLXXX -** Lei Provincial nº 20, de 10 de junho de 1850;
+
+**CCCLXXXI -** Lei Provincial nº 21, de 22 de junho de 1850;
+
+**CCCLXXXII -** Lei Provincial nº 22, de 22 de junho de 1850;
+
+**CCCLXXXIII -** Lei Provincial nº 23, de 22 de junho de 1850;
+
+**CCCLXXXIV -** Lei Provincial nº 24, de 2 de julho de 1850;
+
+**CCCLXXXV -** Lei Provincial nº 25, de 3 de julho de 1850;
+
+**CCCLXXXVI -** Lei Provincial nº 26, de 3 de julho de 1850;
+
+**CCCLXXXVII -** Lei Provincial nº 1, de 15 de março de 1851;
+
+**CCCLXXXVIII -** Lei Provincial nº 3, de 18 de março de 1851;
+
+**CCCLXXXIX -** Lei Provincial nº 5, de 22 de março de 1851;
+
+**CCCXC -** Lei Provincial nº 6, de 7 de abril de 1851;
+
+**CCCXCI -** Lei Provincial nº 7, de 7 de abril de 1851;
+
+**CCCXCII -** Lei Provincial nº 9, de 6 de maio de 1851;
+
+**CCCXCIII -** Lei Provincial nº 10, de 7 de maio de 1851;
+
+**CCCXCIV -** Lei Provincial nº 11, de 7 de maio de 1851;
+
+**CCCXCV -** Lei Provincial nº 1, de 28 de maio de 1852;
+
+**CCCXCVI -** Lei Provincial nº 2, de 2 de junho de 1852;
+
+**CCCXCVII -** Lei Provincial nº 3, de 2 de junho de 1852;
+
+**CCCXCVIII -** Lei Provincial nº 4, de 8 de junho de 1852;
+
+**CCCXCIX -** Lei Provincial nº 5, de 5 de julho de 1852;
+
+**CD -** Lei Provincial nº 6, de 7 de julho de 1852;
+
+**CDI -** Lei Provincial nº 8, de 8 de julho de 1852;
+
+**CDII -** Lei Provincial nº 9, de 8 de julho de 1852;
+
+**CDIII -** Lei Provincial nº 10, de 16 de julho de 1852;
+
+**CDIV -** Lei Provincial nº 11, de 17 de julho de 1852;
+
+**CDV -** Lei Provincial nº 12, de 17 de julho de 1852;
+
+**CDVI -** Lei Provincial nº 13, de 17 de julho de 1852;
+
+**CDVII -** Lei Provincial nº 14, de 19 de julho de 1852;
+
+**CDVIII -** Lei Provincial nº 1, de 10 de março de 1853;
+
+**CDIX -** Lei Provincial nº 2, de 10 de março de 1853;
+
+**CDX -** Lei Provincial nº 3, de 10 de março de 1853;
+
+**CDXI -** Lei Provincial nº 4, de 10 de março de 1853;
+
+**CDXII -** Lei Provincial nº 5, de 19 de março de 1853;
+
+**CDXIII -** Lei Provincial nº 6, de 8 de abril de 1853;
+
+**CDXIV -** Lei Provincial nº 7, de 8 de abril de 1853;
+
+**CDXV -** Lei Provincial nº 8, de 8 de abril de 1853;
+
+**CDXVI -** Lei Provincial nº 9, de 15 de abril de 1853;
+
+**CDXVII -** Lei Provincial nº 10, de 15 de abril de 1853;
+
+**CDXVIII -** Lei Provincial nº 11, de 16 de abril de 1853;
+
+**CDXIX -** Lei Provincial nº 12, de 16 de abril de 1853;
+
+**CDXX -** Lei Provincial nº 15, de 21 de abril de 1853;
+
+**CDXXI -** Lei Provincial nº 16, de 21 de abril de 1853;
+
+**CDXXII -** Lei Provincial nº 17, de 23 de abril de 1853;
+
+**CDXXIII -** Lei Provincial nº 18, de 2 de maio de 1853;
+
+**CDXXIV -** Lei Provincial nº 1, de 4 de março de 1854;
+
+**CDXXV -** Lei Provincial nº 2, de 4 de março de 1854;
+
+**CDXXVI -** Lei Provincial nº 3, de 9 de março de 1854;
+
+**CDXXVII -** Lei Provincial nº 5, de 15 de março de 1854;
+
+**CDXXVIII -** Lei Provincial nº 6, de 20 de março de 1854;
+
+**CDXXIX -** Lei Provincial nº 7, de 30 de março de 1854;
+
+**CDXXX -** Lei Provincial nº 8, de 4 de abril de 1854;
+
+**CDXXXI -** Lei Provincial nº 10, de 6 de abril de 1854;
+
+**CDXXXII -** Lei Provincial nº 11, de 6 de abril de 1854;
+
+**CDXXXIII -** Lei Provincial nº 12, de 12 de abril de 1854;
+
+**CDXXXIV -** Lei Provincial nº 13, de 12 de abril de 1854;
+
+**CDXXXV -** Lei Provincial nº 14, de 17 de abril de 1854;
+
+**CDXXXVI -** Lei Provincial nº 15, de 26 de abril de 1854;
+
+**CDXXXVII -** Lei Provincial nº 16, de 27 de abril de 1854;
+
+**CDXXXVIII -** Lei Provincial nº 17, de 27 de abril de 1854;
+
+**CDXXXIX -** Lei Provincial nº 18, de 27 de abril de 1854;
+
+**CDXL -** Lei Provincial nº 19, de 27 de abril de 1854;
+
+**CDXLI -** Lei Provincial nº 20, de 29 de abril de 1854;
+
+**CDXLII -** Lei Provincial nº 21, de 29 de abril de 1854;
+
+**CDXLIII -** Lei Provincial nº 23, de 1º de maio de 1854;
+
+**CDXLIV -** Lei Provincial nº 24, de 3 de maio de 1854;
+
+**CDXLV -** Lei Provincial nº 26, de 3 de maio de 1854;
+
+**CDXLVI -** Lei Provincial nº 27, de 6 de maio de 1854;
+
+**CDXLVII -** Lei Provincial nº 28, de 6 de maio de 1854;
+
+**CDXLVIII -** Lei Provincial nº 30, de 10 de maio de 1854;
+
+**CDXLIX -** Lei Provincial nº 31, de 12 de maio de 1854;
+
+**CDL -** Lei Provincial nº 1, de 5 de março de 1855;
+
+**CDLI -** Lei Provincial nº 2, de 12 de março de 1855;
+
+**CDLII -** Lei Provincial nº 3, de 12 de março de 1855;
+
+**CDLIII -** Lei Provincial nº 4, de 12 de março de 1855;
+
+**CDLIV -** Lei Provincial nº 5, de 13 de março de 1855;
+
+**CDLV -** Lei Provincial nº 6, de 17 de março de 1855;
+
+**CDLVI -** Resolução Provincial nº 8, de 24 de março de 1855;
+
+**CDLVII -** Lei Provincial nº 9, de 24 de março de 1855;
+
+**CDLVIII -** Resolução Provincial nº 10, de 24 de março de 1855;
+
+**CDLIX -** Lei Provincial nº 11, de 24 de março de 1855;
+
+**CDLX -** Lei Provincial nº 12, de 31 de março de 1855;
+
+**CDLXI -** Lei Provincial nº 13, de 31 de março de 1855;
+
+**CDLXII -** Lei Provincial nº 14, de 9 de abril de 1855;
+
+**CDLXIII -** Lei Provincial nº 15, de 9 de abril de 1855;
+
+**CDLXIV -** Lei Provincial nº 16, de 11 de abril de 1855;
+
+**CDLXV -** Lei Provincial nº 17, de 14 de abril de 1855;
+
+**CDLXVI -** Lei Provincial nº 18, de 14 de abril de 1855;
+
+**CDLXVII -** Lei Provincial nº 20, de 14 de abril de 1855;
+
+**CDLXVIII -** Lei Provincial nº 21, de 14 de abril de 1855;
+
+**CDLXIX -** Lei Provincial nº 22, de 17 de abril de 1855;
+
+**CDLXX -** Lei Provincial nº 23, de 18 de abril de 1855;
+
+**CDLXXI -** Lei Provincial nº 24, de 18 de abril de 1855;
+
+**CDLXXII -** Lei Provincial nº 25, de 18 de abril de 1855;
+
+**CDLXXIII -** Lei Provincial nº 26, de 18 de abril de 1855;
+
+**CDLXXIV -** Lei Provincial nº 27, de 18 de abril de 1855;
+
+**CDLXXV -** Lei Provincial nº 28, de 19 de abril de 1855;
+
+**CDLXXVI -** Lei Provincial nº 29, de 24 de abril de 1855;
+
+**CDLXXVII -** Resolução Provincial nº 30, de 24 de abril de 1855;
+
+**CDLXXVIII -** Lei Provincial nº 31, de 25 de abril de 1855;
+
+**CDLXXIX -** Lei Provincial nº 1, de 5 de março de 1856;
+
+**CDLXXX -** Lei Provincial nº 2, de 8 de março de 1856;
+
+**CDLXXXI -** Lei Provincial nº 3, de 12 de março de 1856;
+
+**CDLXXXII -** Lei Provincial nº 4, de 24 de março de 1856;
+
+**CDLXXXIII -** Lei Provincial nº 5, de 24 de março de 1856;
+
+**CDLXXXIV -** Lei Provincial nº 6, de 26 de março de 1856;
+
+**CDLXXXV -** Lei Provincial nº 7, de 2 de abril de 1856;
+
+**CDLXXXVI -** Lei Provincial nº 8, de 2 de abril de 1856;
+
+**CDLXXXVII -** Lei Provincial nº 9, de 2 de abril de 1856;
+
+**CDLXXXVIII -** Lei Provincial nº 10, de 2 de abril de 1856;
+
+**CDLXXXIX -** Lei Provincial nº 11, de 2 de abril de 1856;
+
+**CDXC -** Lei Provincial nº 12, de 2 de abril de 1856;
+
+**CDXCI -** Lei Provincial nº 13, de 2 de abril de 1856;
+
+**CDXCII -** Lei Provincial nº 14, de 5 de abril de 1856;
+
+**CDXCIII -** Lei Provincial nº 15, de 5 de abril de 1856;
+
+**CDXCIV -** Lei Provincial nº 16, de 5 de abril de 1856;
+
+**CDXCV -** Lei Provincial nº 17, de 11 de abril de 1856;
+
+**CDXCVI -** Lei Provincial nº 18, de 11 de abril de 1856;
+
+**CDXCVII -** Lei Provincial nº 19, de 14 de abril de 1856;
+
+**CDXCVIII -** Lei Provincial nº 20, de 24 de abril de 1856;
+
+**CDXCIX -** Lei Provincial nº 21, de 24 de abril de 1856;
+
+**D -** Resolução Provincial nº 22, de 24 de abril de 1856;
+
+**DI -** Resolução Provincial nº 23, de 24 de abril de 1856;
+
+**DII -** Lei Provincial nº 24, de 24 de abril de 1856;
+
+**DIII -** Lei Provincial nº 25, de 25 de abril de 1856;
+
+**DIV -** Lei Provincial nº 26, de 25 de abril de 1856;
+
+**DV -** Lei Provincial nº 27, de 25 de abril de 1856;
+
+**DVI -** Lei Provincial nº 28, de 28 de abril de 1856;
+
+**DVII -** Lei Provincial nº 29, de 28 de abril de 1856;
+
+**DVIII -** Lei Provincial nº 30, de 6 de maio de 1856;
+
+**DIX -** Lei Provincial nº 31, de 7 de maio de 1856;
+
+**DX -** Lei Provincial nº 1, de 20 de fevereiro de 1857;
+
+**DXI -** Lei Provincial nº 2, de 20 de fevereiro de 1857;
+
+**DXII -** Lei Provincial nº 3, de 5 de março de 1857;
+
+**DXIII -** Lei Provincial nº 5, de 14 de março de 1857;
+
+**DXIV -** Lei Provincial nº 6, de 19 de março de 1857;
+
+**DXV -** Lei Provincial nº 7, de 19 de março de 1857;
+
+**DXVI -** Lei Provincial nº 8, de 24 de março de 1857;
+
+**DXVII -** Lei Provincial nº 9, de 24 de março de 1857;
+
+**DXVIII -** Lei Provincial nº 10, de 24 de março de 1857;
+
+**DXIX -** Lei Provincial nº 11, de 24 de março de 1857;
+
+**DXX -** Resolução Provincial nº 12, de 27 de março de 1857;
+
+**DXXI -** Lei Provincial nº 13, de 27 de março de 1857;
+
+**DXXII -** Lei Provincial nº 14, de 30 de março de 1857;
+
+**DXXIII -** Lei Provincial nº 15, de 2 de abril de 1857;
+
+**DXXIV -** Lei Provincial nº 16, de 2 de abril de 1857;
+
+**DXXV -** Lei Provincial nº 17, de 2 de abril de 1857;
+
+**DXXVI -** Lei Provincial nº 18, de 2 de abril de 1857;
+
+**DXXVII -** Lei Provincial nº 20, de 2 de abril de 1857;
+
+**DXXVIII -** Lei Provincial nº 21, de 4 de abril de 1857;
+
+**DXXIX -** Lei Provincial nº 22, de 4 de abril de 1857;
+
+**DXXX -** Lei Provincial nº 23, de 7 de abril de 1857;
+
+**DXXXI -** Lei Provincial nº 24, de 7 de abril de 1857;
+
+**DXXXII -** Lei Provincial nº 25, de 8 de abril de 1857;
+
+**DXXXIII -** Lei Provincial nº 26, de 8 de abril de 1857;
+
+**DXXXIV -** Lei Provincial nº 27, de 8 de abril de 1857;
+
+**DXXXV -** Lei Provincial nº 28, de 8 de abril de 1857;
+
+**DXXXVI -** Lei Provincial nº 29, de 8 de abril de 1857;
+
+**DXXXVII -** Lei Provincial nº 30, de 20 de abril de 1857;
+
+**DXXXVIII -** Lei Provincial nº 31, de 20 de abril de 1857;
+
+**DXXXIX -** Resolução Provincial nº 32, de 20 de abril de 1857;
+
+**DXL -** Lei Provincial nº 34, de 20 de abril de 1857;
+
+**DXLI -** Resolução Provincial nº 35, de 20 de abril de 1857;
+
+**DXLII -** Lei Provincial nº 36, de 20 de abril de 1857;
+
+**DXLIII -** Lei Provincial nº 37, de 22 de abril de 1857;
+
+**DXLIV -** Lei Provincial nº 38, de 25 de abril de 1857;
+
+**DXLV -** Lei Provincial nº 39, de 25 de abril de 1857;
+
+**DXLVI -** Lei Provincial nº 40, de 25 de abril de 1857;
+
+**DXLVII -** Lei Provincial nº 41, de 25 de abril de 1857;
+
+**DXLVIII -** Resolução Provincial nº 42, de 25 de abril de 1857;
+
+**DXLIX -** Lei Provincial nº 43, de 30 de abril de 1857;
+
+**DL -** Lei Provincial nº 44, de 30 de abril de 1857;
+
+**DLI -** Lei Provincial nº 45, de 30 de abril de 1857;
+
+**DLII -** Lei Provincial nº 46, de 30 de abril de 1857;
+
+**DLIII -** Lei Provincial nº 47, de 7 de maio de 1857;
+
+**DLIV -** Lei Provincial nº 48, de 7 de maio de 1857;
+
+**DLV -** Lei Provincial nº 1, de 13 de fevereiro de 1858;
+
+**DLVI -** Lei Provincial nº 2, de 18 de fevereiro de 1858;
+
+**DLVII -** Lei Provincial nº 3, de 24 de fevereiro de 1858;
+
+**DLVIII -** Lei Provincial nº 4, de 2 de março de 1858;
+
+**DLIX -** Lei Provincial nº 5, de 6 de março de 1858;
+
+**DLX -** Lei Provincial nº 6, de 10 de março de 1858;
+
+**DLXI -** Lei Provincial nº 7, de 10 de março de 1858;
+
+**DLXII -** Lei Provincial nº 8, de 11 de março de 1858;
+
+**DLXIII -** Lei Provincial nº 9, de 11 de março de 1858;
+
+**DLXIV -** Lei Provincial nº 10, de 11 de março de 1858;
+
+**DLXV -** Lei Provincial nº 11, de 15 de março de 1858;
+
+**DLXVI -** Lei Provincial nº 12, de 15 de março de 1858;
+
+**DLXVII -** Lei Provincial nº 13, de 19 de março de 1858;
+
+**DLXVIII -** Lei Provincial nº 14, de 22 de março de 1858;
+
+**DLXIX -** Lei Provincial nº 15, de 26 de março de 1858;
+
+**DLXX -** Lei Provincial nº 16, de 30 de março de 1858;
+
+**DLXXI -** Lei Provincial nº 17, de 30 de março de 1858;
+
+**DLXXII -** Lei Provincial nº 18, de 30 de março de 1858;
+
+**DLXXIII -** Lei Provincial nº 19, de 30 de março de 1858;
+
+**DLXXIV** \- Lei Provincial nº 20, de 30 de março de 1858;
+
+**DLXXV -** Lei Provincial nº 21, de 5 de abril de 1858;
+
+**DLXXVI -** Lei Provincial nº 22, de 9 de abril de 1858;
+
+**DLXXVII -** Lei Provincial nº 23, de 16 de abril de 1858;
+
+**DLXXVIII -** Lei Provincial nº 24, de 16 de abril de 1858;
+
+**DLXXIX -** Lei Provincial nº 25, de 19 de abril de 1858;
+
+**DLXXX -** Lei Provincial nº 26, de 20 de abril de 1858;
+
+**DLXXXI -** Lei Provincial nº 27, de 20 de abril de 1858;
+
+**DLXXXII -** Lei Provincial nº 28, de 20 de abril de 1858;
+
+**DLXXXIII -** Lei Provincial nº 29, de 20 de abril de 1858;
+
+**DLXXXIV -** Lei Provincial nº 30, de 20 de abril de 1858;
+
+**DLXXXV -** Lei Provincial nº 31, de 22 de abril de 1858;
+
+**DLXXXVI -** Lei Provincial nº 32, de 24 de abril de 1858;
+
+**DLXXXVII -** Lei Provincial nº 33, de 24 de abril de 1858;
+
+**DLXXXVIII -** Lei Provincial nº 34, de 26 de abril de 1858;
+
+**DLXXXIX -** Lei Provincial nº 35, de 28 de abril de 1858;
+
+**DXC -** Lei Provincial nº 36, de 28 de abril de 1858;
+
+**DXCI -** Lei Provincial nº 37, de 29 de abril de 1858;
+
+**DXCII -** Lei Provincial nº 38, de 4 de maio de 1858;
+
+**DXCIII -** Lei Provincial nº 39, de 4 de maio de 1858;
+
+**DXCIV -** Lei Provincial nº 40, de 4 de maio de 1858;
+
+**DXCV -** Lei Provincial nº 1, de 14 de fevereiro de 1859;
+
+**DXCVI -** Lei Provincial nº 2, de 14 de fevereiro de 1859;
+
+**DXCVII -** Lei Provincial nº 3, de 2 de março de 1859;
+
+**DXCVIII -** Lei Provincial nº 4, de 7 de março de 1859;
+
+**DXCIX -** Lei Provincial nº 5, de 7 de março de 1859;
+
+**DC -** Lei Provincial nº 6, de 9 de março de 1859;
+
+**DCI -** Lei Provincial nº 7, de 16 de março de 1859;
+
+**DCII -** Lei Provincial nº 8, de 16 de março de 1859;
+
+**DCIII -** Lei Provincial nº 9, de 21 de março de 1859;
+
+**DCIV -** Lei Provincial nº 10, de 22 de março de 1859;
+
+**DCV -** Lei Provincial nº 11, de 24 de março de 1859;
+
+**DCVI -** Lei Provincial nº 12, de 24 de março de 1859;
+
+**DCVII -** Lei Provincial nº 13, de 24 de março de 1859;
+
+**DCVIII -** Lei Provincial nº 14, de 29 de março de 1859;
+
+**DCIX -** Lei Provincial nº 15, de 4 de abril de 1859;
+
+**DCX -** Lei Provincial nº 16, de 4 de abril de 1859;
+
+**DCXI -** Lei Provincial nº 17, de 6 de abril de 1859;
+
+**DCXII -** Lei Provincial nº 18, de 9 de abril de 1859;
+
+**DCXIII -** Resolução Provincial nº 19, de 18 de abril de 1859;
+
+**DCXIV -** Lei Provincial nº 20, de 20 de abril de 1859;
+
+**DCXV -** Lei Provincial nº 21, de 25 de abril de 1859;
+
+**DCXVI -** Lei Provincial nº 22, de 25 de abril de 1859;
+
+**DCXVII -** Lei Provincial nº 23, de 25 de abril de 1859;
+
+**DCXVIII -** Lei Provincial nº 24, de 25 de abril de 1859;
+
+**DCXIX -** Lei Provincial nº 25, de 25 de abril de 1859;
+
+**DCXX -** Lei Provincial nº 26, de 6 de maio de 1859;
+
+**DCXXI -** Lei Provincial nº 27, de 11 de maio de 1859;
+
+**DCXXII -** Lei Provincial nº 1, de 16 de fevereiro de 1860;
+
+**DCXXIII -** Lei Provincial nº 2, de 21 de março de 1860;
+
+**DCXXIV -** Lei Provincial nº 3, de 24 de março de 1860;
+
+**DCXXV -** Lei Provincial nº 1, de 20 de março de 1861;
+
+**DCXXVI -** Lei Provincial nº 3, de 27 de março de 1861;
+
+**DCXXVII -** Lei Provincial nº 4, de 6 de abril de 1861;
+
+**DCXXVIII -** Lei Provincial nº 5, de 11 de abril de 1861;
+
+**DCXXIX -** Lei Provincial nº 6, de 11 de abril de 1861;
+
+**DCXXX -** Lei Provincial nº 7, de 12 de abril de 1861;
+
+**DCXXXI -** Lei Provincial nº 8, de 22 de abril de 1861;
+
+**DCXXXII -** Lei Provincial nº 9, de 30 de abril de 1861;
+
+**DCXXXIII -** Lei Provincial nº 10, de 2 de maio de 1861;
+
+**DCXXXIV -** Lei Provincial nº 11, de 2 de maio de 1861;
+
+**DCXXXV -** Lei Provincial nº 12, de 2 de maio de 1861;
+
+**DCXXXVI -** Lei Provincial nº 13, de 20 de julho de 1861;
+
+**DCXXXVII -** Lei Provincial nº 14, de 26 de julho de 1861;
+
+**DCXXXVIII -** Resolução Provincial nº 15, de 1º de agosto de 1861;
+
+**DCXXXIX -** Lei Provincial nº 16, de 3 de agosto de 1861;
+
+**DCXL -** Lei Provincial nº 1, de 29 de março de 1862;
+
+**DCXLI -** Lei Provincial nº 2, de 29 de março de 1862;
+
+**DCXLII -** Lei Provincial nº 3, de 5 de abril de 1862;
+
+**DCXLIII -** Lei Provincial nº 4, de 5 de abril de 1862;
+
+**DCXLIV -** Lei Provincial nº 5, de 15 de abril de 1862;
+
+**DCXLV -** Lei Provincial nº 6, de 5 de maio de 1862;
+
+**DCXLVI -** Lei Provincial nº 7, de 13 de maio de 1862;
+
+**DCXLVII -** Lei Provincial nº 8, de 19 de maio de 1862;
+
+**DCXLVIII -** Lei Provincial nº 9, de 20 de maio de 1862;
+
+**DCXLIX -** Lei Provincial nº 10, de 21 de maio de 1862;
+
+**DCL -** Lei Provincial nº 1, de 7 de fevereiro de 1863;
+
+**DCLI -** Lei Provincial nº 2, de 24 de fevereiro de 1863;
+
+**DCLII -** Lei Provincial nº 3, de 24 de fevereiro de 1863;
+
+**DCLIII -** Lei Provincial nº 4, de 25 de fevereiro de 1863;
+
+**DCLIV -** Lei Provincial nº 5, de 6 de março de 1863;
+
+**DCLV -** Lei Provincial nº 6, de 20 de março de 1863;
+
+**DCLVI -** Lei Provincial nº 7, de 20 de março de 1863;
+
+**DCLVII -** Lei Provincial nº 8, de 8 de abril de 1863;
+
+**DCLVIII -** Lei Provincial nº 9, de 9 de abril de 1863;
+
+**DCLIX -** Lei Provincial nº 11, de 14 de abril de 1863;
+
+**DCLX -** Lei Provincial nº 12, de 18 de abril de 1863;
+
+**DCLXI -** Lei Provincial nº 13, de 18 de abril de 1863;
+
+**DCLXII -** Lei Provincial nº 14, de 18 de abril de 1863;
+
+**DCLXIII -** Lei Provincial nº 15, de 18 de abril de 1863;
+
+**DCLXIV -** Lei Provincial nº 16, de 21 de abril de 1863;
+
+**DCLXV -** Lei Provincial nº 17, de 22 de abril de 1863;
+
+**DCLXVI -** Lei Provincial nº 18, de 22 de abril de 1863;
+
+**DCLXVII -** Lei Provincial nº 19, de 23 de abril de 1863;
+
+**DCLXVIII -** Lei Provincial nº 20, de 23 de abril de 1863;
+
+**DCLXIX -** Lei Provincial nº 21, de 4 de maio de 1863;
+
+**DCLXX -** Lei Provincial nº 1, de 22 de fevereiro de 1864;
+
+**DCLXXI -** Lei Provincial nº 2, de 22 de fevereiro de 1864;
+
+**DCLXXII -** Lei Provincial nº 3, de 27 de fevereiro de 1864;
+
+**DCLXXIII -** Lei Provincial nº 4, de 27 de fevereiro de 1864;
+
+**DCLXXIV -** Lei Provincial nº 5, de 31 de março de 1864;
+
+**DCLXXV -** Lei Provincial nº 6, de 5 de abril de 1864;
+
+**DCLXXVI -** Lei Provincial nº 7, de 7 de abril de 1864;
+
+**DCLXXVII -** Lei Provincial nº 8, de 7 de abril de 1864;
+
+**DCLXXVIII -** Lei Provincial nº 9, de 7 de abril de 1864;
+
+**DCLXXIX -** Lei Provincial nº 10, de 12 de abril de 1864;
+
+**DCLXXX -** Lei Provincial nº 11, de 12 de abril de 1864;
+
+**DCLXXXI -** Lei Provincial nº 12, de 12 de abril de 1864;
+
+**DCLXXXII -** Resolução Provincial nº 13, de 12 de abril de 1864;
+
+**DCLXXXIII -** Resolução Provincial nº 14, de 12 de abril de 1864;
+
+**DCLXXXIV -** Lei Provincial nº 15, de 12 de abril de 1864;
+
+**DCLXXXV -** Lei Provincial nº 16, de 20 de abril de 1864;
+
+**DCLXXXVI -** Lei Provincial nº 17, de 20 de abril de 1864;
+
+**DCLXXXVII -** Lei Provincial nº 18, de 20 de abril de 1864;
+
+**DCLXXXVIII -** Resolução Provincial nº 19, de 20 de abril de 1864;
+
+**DCLXXXIX -** Lei Provincial nº 20, de 16 de abril de 1864;
+
+**DCXC -** Lei Provincial nº 21, de 16 de abril de 1864;
+
+**DCXCI -** Resolução Provincial nº 22, de 26 de abril de 1864;
+
+**DCXCII -** Lei Provincial nº 23, de 19 de abril de 1864;
+
+**DCXCIII -** Lei Provincial nº 24, de 19 de abril de 1864;
+
+**DCXCIV -** Lei Provincial nº 25, de 22 de abril de 1864;
+
+**DCXCV -** Lei Provincial nº 26, de 22 de abril de 1864;
+
+**DCXCVI -** Lei Provincial nº 27, de 22 de abril de 1864;
+
+**DCXCVII -** Resolução Provincial nº 28, de 22 de abril de 1864;
+
+**DCXCVIII -** Resolução Provincial nº 29, de 22 de abril de 1864;
+
+**DCXCIX -** Lei Provincial nº 30, de 26 de abril de 1864;
+
+**DCC -** Lei Provincial nº 31, de 27 de abril de 1864;
+
+**DCCI -** Lei Provincial nº 1, de 4 de março de 1865;
+
+**DCCII -** Lei Provincial nº 2, de 10 de março de 1865;
+
+**DCCIII -** Resolução Provincial nº 3, de 10 de março de 1865;
+
+**DCCIV -** Resolução Provincial nº 4, de 14 de março de 1865;
+
+**DCCV -** Resolução Provincial nº 5, de 14 de março de 1865;
+
+**DCCVI -** Resolução Provincial nº 6, de 14 de março de 1865;
+
+**DCCVII -** Resolução Provincial nº 7, de 14 de março de 1865;
+
+**DCCVIII -** Resolução Provincial nº 8, de 14 de março de 1865;
+
+**DCCIX -** Resolução Provincial nº 9, de 14 de março de 1865;
+
+**DCCX -** Resolução Provincial nº 10, de 14 de março de 1865;
+
+**DCCXI -** Lei Provincial nº 11, de 14 de março de 1865;
+
+**DCCXII -** Lei Provincial nº 12, de 14 de março de 1865;
+
+**DCCXIII -** Lei Provincial nº 13, de 14 de março de 1865;
+
+**DCCXIV -** Lei Provincial nº 14, de 14 de março de 1865;
+
+**DCCXV -** Lei Provincial nº 15, de 18 de março de 1865;
+
+**DCCXVI -** Lei Provincial nº 16, de 18 de março de 1865;
+
+**DCCXVII -** Resolução Provincial nº 17, de 18 de março de 1865;
+
+**DCCXVIII -** Lei Provincial nº 18, de 28 de março de 1865;
+
+**DCCXIX -** Lei Provincial nº 19, de 28 de março de 1865;
+
+**DCCXX -** Lei Provincial nº 20, de 28 de março de 1865;
+
+**DCCXXI -** Lei Provincial nº 21, de 28 de março de 1865;
+
+**DCCXXII -** Lei Provincial nº 22, de 28 de março de 1865;
+
+**DCCXXIII -** Lei Provincial nº 23, de 28 de março de 1865;
+
+**DCCXXIV -** Lei Provincial nº 24, de 28 de março de 1865;
+
+**DCCXXV -** Lei Provincial nº 25, de 28 de março de 1865;
+
+**DCCXXVI -** Lei Provincial nº 27, de 28 de março de 1865;
+
+**DCCXXVII -** Lei Provincial nº 28, de 28 de março de 1865;
+
+**DCCXXVIII -** Lei Provincial nº 29, de 28 de março de 1865;
+
+**DCCXXIX -** Lei Provincial nº 30, de 28 de março de 1865;
+
+**DCCXXX -** Resolução Provincial nº 31, de 28 de março de 1865;
+
+**DCCXXXI -** Resolução Provincial nº 32, de 29 de março de 1865;
+
+**DCCXXXII -** Lei Provincial nº 33, de 31 de março de 1865;
+
+**DCCXXXIII -** Resolução Provincial nº 34, de 31 de março de 1865;
+
+**DCCXXXIV -** Lei Provincial nº 35, de 31 de março de 1865;
+
+**DCCXXXV -** Lei Provincial nº 36, de 1º de abril de 1865;
+
+**DCCXXXVI -** Resolução Provincial nº 37, de 1º de abril de 1865;
+
+**DCCXXXVII -** Resolução Provincial nº 38, de 1º de abril de 1865;
+
+**DCCXXXVIII -** Lei Provincial nº 39, de 1º de abril de 1865;
+
+**DCCXXXIX -** Lei Provincial nº 40, de 1º de abril de 1865;
+
+**DCCXL -** Resolução Provincial nº 41, de 4 de abril de 1865;
+
+**DCCXLI -** Resolução Provincial nº 42, de 4 de abril de 1865;
+
+**DCCXLII -** Resolução Provincial nº 43, de 5 de abril de 1865;
+
+**DCCXLIII -** Resolução Provincial nº 45, de 5 de abril de 1865;
+
+**DCCXLIV -** Lei Provincial nº 46, de 10 de abril de 1865;
+
+**DCCXLV -** Resolução Provincial nº 47, de 10 de abril de 1865;
+
+**DCCXLVI -** Lei Provincial nº 48, de 12 de abril de 1865;
+
+**DCCXLVII -** Resolução Provincial nº 50, de 12 de abril de 1865;
+
+**DCCXLVIII -** Lei Provincial nº 51, de 12 de abril de 1865;
+
+**DCCXLIX -** Lei Provincial nº 52, de 12 de abril de 1865;
+
+**DCCL -** Lei Provincial nº 53, de 12 de abril de 1865;
+
+**DCCLI -** Resolução Provincial nº 54, de 18 de abril de 1865;
+
+**DCCLII -** Lei Provincial nº 55, de 18 de abril de 1865;
+
+**DCCLIII -** Lei Provincial nº 56, de 18 de abril de 1865;
+
+**DCCLIV -** Lei Provincial nº 57, de 20 de abril de 1865;
+
+**DCCLV -** Lei Provincial nº 58, de 20 de abril de 1865;
+
+**DCCLVI -** Lei Provincial nº 59, de 20 de abril de 1865;
+
+**DCCLVII -** Lei Provincial nº 60, de 20 de abril de 1865;
+
+**DCCLVIII -** Resolução Provincial nº 61, de 20 de abril de 1865;
+
+**DCCLIX -** Lei Provincial nº 62, de 20 de abril de 1865;
+
+**DCCLX -** Resolução Provincial nº 63, de 20 de abril de 1865;
+
+**DCCLXI -** Resolução Provincial nº 64, de 20 de abril de 1865;
+
+**DCCLXII -** Lei Provincial nº 67, de 20 de abril de 1865;
+
+**DCCLXIII -** Lei Provincial nº 68, de 20 de abril de 1865;
+
+**DCCLXIV -** Lei Provincial nº 69, de 20 de abril de 1865;
+
+**DCCLXV -** Lei Provincial nº 70, de 22 de abril de 1865;
+
+**DCCLXVI -** Resolução Provincial nº 71, de 22 de abril de 1865;
+
+**DCCLXVII -** Lei Provincial nº 72, de 22 de abril de 1865;
+
+**DCCLXVIII -** Lei Provincial nº 73, de 22 de abril de 1865;
+
+**DCCLXIX -** Resolução Provincial nº 74, de 22 de abril de 1865;
+
+**DCCLXX -** Lei Provincial nº 75, de 22 de abril de 1865;
+
+**DCCLXXI -** Lei Provincial nº 76, de 22 de abril de 1865;
+
+**DCCLXXII -** Lei Provincial nº 77, de 24 de abril de 1865;
+
+**DCCLXXIII -** Lei Provincial nº 78, de 25 de abril de 1865;
+
+**DCCLXXIV -** Lei Provincial nº 79, de 25 de abril de 1865;
+
+**DCCLXXV -** Lei Provincial nº 80, de 25 de abril de 1865;
+
+**DCCLXXVI -** Lei Provincial nº 81, de 25 de abril de 1865;
+
+**DCCLXXVII -** Lei Provincial nº 82, de 25 de abril de 1865;
+
+**DCCLXXVIII -** Lei Provincial nº 83, de 25 de abril de 1865;
+
+**DCCLXXIX -** Resolução Provincial nº 84, de 25 de abril de 1865;
+
+**DCCLXXX -** Resolução Provincial nº 85, de 25 de abril de 1865;
+
+**DCCLXXXI -** Resolução Provincial nº 86, de 25 de abril de 1865;
+
+**DCCLXXXII -** Resolução Provincial nº 87, de 25 de abril de 1865;
+
+**DCCLXXXIII -** Resolução Provincial nº 88, de 25 de abril de 1865;
+
+**DCCLXXXIV -** Resolução Provincial nº 89, de 25 de abril de 1865;
+
+**DCCLXXXV -** Lei Provincial nº 90, de 25 de abril de 1865;
+
+**DCCLXXXVI -** Lei Provincial nº 91, de 26 de abril de 1865;
+
+**DCCLXXXVII -** Lei Provincial nº 92, de 26 de abril de 1865;
+
+**DCCLXXXVIII -** Lei Provincial nº 93, de 26 de abril de 1865;
+
+**DCCLXXXIX -** Lei Provincial nº 94, de 26 de abril de 1865;
+
+**DCCXC -** Resolução Provincial nº 95, de 26 de abril de 1865;
+
+**DCCXCI -** Resolução Provincial nº 96, de 26 de abril de 1865;
+
+**DCCXCII -** Resolução Provincial nº 97, de 26 de abril de 1865;
+
+**DCCXCIII -** Resolução Provincial nº 98, de 26 de abril de 1865;
+
+**DCCXCIV -** Lei Provincial nº 99, de 26 de abril de 1865;
+
+**DCCXCV -** Resolução Provincial nº 100, de 28 de abril de 1865;
+
+**DCCXCVI -** Resolução Provincial nº 101, de 28 de abril de 1865;
+
+**DCCXCVII -** Resolução Provincial nº 102, de 28 de abril de 1865;
+
+**DCCXCVIII -** Resolução Provincial nº 103, de 4 de maio de 1865;
+
+**DCCXCIX -** Resolução Provincial nº 104, de 4 de maio de 1865;
+
+**DCCC -** Resolução Provincial nº 105, de 4 de maio de 1865;
+
+**DCCCI -** Resolução Provincial nº 106, de 4 de maio de 1865;
+
+**DCCCII -** Resolução Provincial nº 107, de 4 de maio de 1865;
+
+**DCCCIII -** Resolução Provincial nº 108, de 4 de maio de 1865;
+
+**DCCCIV -** Resolução Provincial nº 109, de 4 de maio de 1865;
+
+**DCCCV -** Resolução Provincial nº 110, de 4 de maio de 1865;
+
+**DCCCVI -** Lei Provincial nº 2, de 20 de fevereiro de 1866;
+
+**DCCCVII -** Lei Provincial nº 3, de 20 de fevereiro de 1866;
+
+**DCCCVIII -** Lei Provincial nº 4, de 20 de fevereiro de 1866;
+
+**DCCCIX -** Lei Provincial nº 5, de 20 de fevereiro de 1866;
+
+**DCCCX -** Lei Provincial nº 6, de 28 de fevereiro de 1866;
+
+**DCCCXI -** Lei Provincial nº 7, de 28 de fevereiro de 1866;
+
+**DCCCXII -** Lei Provincial nº 8, de 3 de março de 1866;
+
+**DCCCXIII -** Lei Provincial nº 9, de 3 de março de 1866;
+
+**DCCCXIV -** Lei Provincial nº 10, de 9 de março de 1866;
+
+**DCCCXV -** Lei Provincial nº 11, de 9 de março de 1866;
+
+**DCCCXVI -** Resolução Provincial nº 12, de 10 de março de 1866;
+
+**DCCCXVII -** Lei Provincial nº 13, de 10 de março de 1866;
+
+**DCCCXVIII -** Resolução Provincial nº 14, de 10 de março de 1866;
+
+**DCCCXIX -** Lei Provincial nº 15, de 10 de março de 1866;
+
+**DCCCXX -** Lei Provincial nº 16, de 10 de março de 1866;
+
+**DCCCXXI -** Lei Provincial nº 17, de 10 de março de 1866;
+
+**DCCCXXII -** Resolução Provincial nº 18, de 16 de março de 1866;
+
+**DCCCXXIII -** Resolução Provincial nº 19, de 20 de março de 1866;
+
+**DCCCXXIV -** Lei Provincial nº 20, de 26 de março de 1866;
+
+**DCCCXXV -** Lei Provincial nº 22, de 26 de março de 1866;
+
+**DCCCXXVI -** Lei Provincial nº 24, de 26 de março de 1866;
+
+**DCCCXXVII -** Resolução Provincial nº 25, de 28 de março de 1866;
+
+**DCCCXXVIII -** Lei Provincial nº 26, de 3 de abril de 1866;
+
+**DCCCXXIX -** Lei Provincial nº 27, de 3 de abril de 1866;
+
+**DCCCXXX -** Lei Provincial nº 28, de 3 de abril de 1866;
+
+**DCCCXXXI -** Lei Provincial nº 29, de 3 de abril de 1866;
+
+**DCCCXXXII -** Lei Provincial nº 30, de 3 de abril de 1866;
+
+**DCCCXXXIII -** Resolução Provincial nº 31, de 5 de abril de 1866;
+
+**DCCCXXXIV -** Lei Provincial nº 32, de 6 de abril de 1866;
+
+**DCCCXXXV -** Lei Provincial nº 33, de 6 de abril de 1866;
+
+**DCCCXXXVI -** Lei Provincial nº 34, de 6 de abril de 1866;
+
+**DCCCXXXVII -** Lei Provincial nº 35, de 6 de abril de 1866;
+
+**DCCCXXXVIII -** Lei Provincial nº 36, de 10 de abril de 1866;
+
+**DCCCXXXIX -** Resolução Provincial nº 37, de 10 de abril de 1866;
+
+**DCCCXL -** Resolução Provincial nº 38, de 10 de abril de 1866;
+
+**DCCCXLI -** Resolução Provincial nº 39, de 10 de abril de 1866;
+
+**DCCCXLII -** Resolução Provincial nº 40, de 10 de abril de 1866;
+
+**DCCCXLIII -** Resolução Provincial nº 41, de 10 de abril de 1866;
+
+**DCCCXLIV -** Resolução Provincial nº 42, de 10 de abril de 1866;
+
+**DCCCXLV -** Lei Provincial nº 43, de 11 de abril de 1866;
+
+**DCCCXLVI -** Resolução Provincial nº 44, de 12 de abril de 1866;
+
+**DCCCXLVII -** Resolução Provincial nº 45, de 13 de abril de 1866;
+
+**DCCCXLVIII -** Lei Provincial nº 46, de 17 de abril de 1866;
+
+**DCCCXLIX -** Lei Provincial nº 47, de 17 de abril de 1866;
+
+**DCCCL -** Resolução Provincial nº 48, de 18 de abril de 1866;
+
+**DCCCLI -** Resolução Provincial nº 49, de 18 de abril de 1866;
+
+**DCCCLII -** Resolução Provincial nº 50, de 18 de abril de 1866;
+
+**DCCCLIII -** Lei Provincial nº 52, de 18 de abril de 1866;
+
+**DCCCLIV -** Lei Provincial nº 54, de 20 de abril de 1866;
+
+**DCCCLV -** Lei Provincial nº 55, de 20 de abril de 1866;
+
+**DCCCLVI -** Resolução Provincial nº 56, de 23 de abril de 1866;
+
+**DCCCLVII -** Resolução Provincial nº 57, de 23 de abril de 1866;
+
+**DCCCLVIII -** Resolução Provincial nº 58, de 23 de abril de 1866;
+
+**DCCCLIX -** Resolução Provincial nº 59, de 23 de abril de 1866;
+
+**DCCCLX -** Lei Provincial nº 60, de 23 de abril de 1866;
+
+**DCCCLXI -** Lei Provincial nº 61, de 20 de abril de 1866;
+
+**DCCCLXII -** Resolução Provincial nº 62, de 24 de abril de 1866;
+
+**DCCCLXIII -** Resolução Provincial nº 63, de 24 de abril de 1866;
+
+**DCCCLXIV -** Resolução Provincial nº 64, de 24 de abril de 1866;
+
+**DCCCLXV -** Resolução Provincial nº 65, de 26 de abril de 1866;
+
+**DCCCLXVI -** Resolução Provincial nº 66, de 26 de abril de 1866;
+
+**DCCCLXVII -** Resolução Provincial nº 67, de 26 de abril de 1866;
+
+**DCCCLXVIII -** Resolução Provincial nº 68, de 27 de abril de 1866;
+
+**DCCCLXIX -** Resolução Provincial nº 69, de 27 de abril de 1866;
+
+**DCCCLXX -** Resolução Provincial nº 70, de 27 de abril de 1866;
+
+**DCCCLXXI -** Resolução Provincial nº 71, de 2 de maio de 1866;
+
+**DCCCLXXII -** Resolução Provincial nº 73, de 21 de maio de 1866;
+
+**DCCCLXXIII -** Resolução Provincial nº 74, de 28 de maio de 1866;
+
+**DCCCLXXIV -** Resolução Provincial nº 75, de 28 de maio de 1866;
+
+**DCCCLXXV -** Resolução Provincial nº 1, de 8 de junho de 1867;
+
+**DCCCLXXVI -** Resolução Provincial nº 2, de 8 de junho de 1867;
+
+**DCCCLXXVII -** Resolução Provincial nº 3, de 15 de junho de 1867;
+
+**DCCCLXXVIII -** Resolução Provincial nº 4, de 15 de junho de 1867;
+
+**DCCCLXXIX -** Resolução Provincial nº 5, de 15 de junho de 1867;
+
+**DCCCLXXX -** Resolução Provincial nº 6, de 15 de junho de 1867;
+
+**DCCCLXXXI -** Resolução Provincial nº 7, de 15 de junho de 1867;
+
+**DCCCLXXXII -** Resolução Provincial nº 8, de 5 de julho de 1867;
+
+**DCCCLXXXIII -** Resolução Provincial nº 9, de 5 de julho de 1867;
+
+**DCCCLXXXIV -** Lei Provincial nº 10, de 5 de julho de 1867;
+
+**DCCCLXXXV -** Lei Provincial nº 11, de 8 de julho de 1867;
+
+**DCCCLXXXVI -** Lei Provincial nº 12, de 8 de julho de 1867;
+
+**DCCCLXXXVII -** Resolução Provincial nº 13, de 8 de julho de 1867;
+
+**DCCCLXXXVIII -** Resolução Provincial nº 14, de 8 de julho de 1867;
+
+**DCCCLXXXIX -** Resolução Provincial nº 15, de 8 de julho de 1867;
+
+**DCCCXC -** Lei Provincial nº 16, de 10 de julho de 1867;
+
+**DCCCXCI -** Lei Provincial nº 17, de 11 de julho de 1867;
+
+**DCCCXCII -** Lei Provincial nº 18, de 13 de julho de 1867;
+
+**DCCCXCIII -** Lei Provincial nº 19, de 13 de junho de 1867;
+
+**DCCCXCIV -** Resolução Provincial nº 20, de 13 de julho de 1867;
+
+**DCCCXCV -** Lei Provincial nº 21, de 13 de julho de 1867;
+
+**DCCCXCVI -** Lei Provincial nº 22, de 19 de julho de 1867;
+
+**DCCCXCVII -** Lei Provincial nº 23, de 19 de julho de 1867;
+
+**DCCCXCVIII -** Lei Provincial nº 24, de 19 de julho de 1867;
+
+**DCCCXCIX -** Resolução Provincial nº 25, de 19 de julho de 1867;
+
+**CM -** Lei Provincial nº 26, de 19 de julho de 1867;
+
+**CMI -** Resolução Provincial nº 27, de 19 de julho de 1867;
+
+**CMII -** Resolução Provincial nº 29, de 19 de julho de 1867;
+
+**CMIII -** Resolução Provincial nº 30, de 19 de julho de 1867;
+
+**CMIV -** Lei Provincial nº 31, de 19 de julho de 1867;
+
+**CMV -** Resolução Provincial nº 32, de 19 de julho de 1867;
+
+**CMVI -** Lei Provincial nº 33, de 19 de julho de 1867;
+
+**CMVII -** Lei Provincial nº 35, de 19 de julho de 1867;
+
+**CMVIII -** Resolução Provincial nº 36, de 19 de julho de 1867;
+
+**CMIX -** Resolução Provincial nº 37, de 19 de julho de 1867;
+
+**CMX -** Resolução Provincial nº 38, de 19 de julho de 1867;
+
+**CMXI -** Resolução Provincial nº 39, de 19 de julho de 1867;
+
+**CMXII -** Resolução Provincial nº 40, de 19 de julho de 1867;
+
+**CMXIII -** Resolução Provincial nº 41, de 26 de julho de 1867;
+
+**CMXIV -** Lei Provincial nº 42, de 1º de agosto de 1867;
+
+**CMXV -** Resolução Provincial nº 43, de 1º de agosto de 1867;
+
+**CMXVI -** Resolução Provincial nº 44, de 1º de agosto de 1867;
+
+**CMXVII -** Lei Provincial nº 1, de 21 de fevereiro de 1868;
+
+**CMXVIII -** Resolução Provincial nº 2, de 21 de fevereiro de 1868;
+
+**CMXIX -** Resolução Provincial nº 3, de 21 de fevereiro de 1868;
+
+**CMXX -** Resolução Provincial nº 4, de 21 de fevereiro de 1868;
+
+**CMXXI -** Resolução Provincial nº 5, de 21 de fevereiro de 1868;
+
+**CMXXII -** Resolução Provincial nº 6, de 21 de fevereiro de 1868;
+
+**CMXXIII -** Resolução Provincial nº 7, de 21 de fevereiro de 1868;
+
+**CMXXIV -** Resolução Provincial nº 8, de 21 de fevereiro de 1868;
+
+**CMXXV -** Resolução Provincial nº 9, de 21 de fevereiro de 1868;
+
+**CMXXVI -** Resolução Provincial nº 10, de 21 de fevereiro de 1868;
+
+**CMXXVII -** Lei Provincial nº 11, de 22 de fevereiro de 1868;
+
+**CMXXVIII -** Resolução Provincial nº 12, de 24 de fevereiro de 1868;
+
+**CMXXIX -** Resolução Provincial nº 13, de 24 de fevereiro de 1868;
+
+**CMXXX -** Resolução Provincial nº 14, de 24 de fevereiro de 1868;
+
+**CMXXXI -** Resolução Provincial nº 15, de 24 de fevereiro de 1868;
+
+**CMXXXII -** Resolução Provincial nº 16, de 28 de fevereiro de 1868;
+
+**CMXXXIII -** Lei Provincial nº 17, de 28 de fevereiro de 1868;
+
+**CMXXXIV -** Resolução Provincial nº 18, de 28 de fevereiro de 1868;
+
+**CMXXXV -** Lei Provincial nº 19, de 14 de março de 1868;
+
+**CMXXXVI -** Lei Provincial nº 20, de 14 de março de 1868;
+
+**CMXXXVII -** Lei Provincial nº 21, de 14 de março de 1868;
+
+**CMXXXVIII -** Resolução Provincial nº 22, de 14 de março de 1868;
+
+**CMXXXIX -** Resolução Provincial nº 23, de 17 de março de 1868;
+
+**CMXL -** Resolução Provincial nº 24, de 17 de março de 1868;
+
+**CMXLI -** Lei Provincial nº 25, de 21 de março de 1868;
+
+**CMXLII -** Lei Provincial nº 26, de 21 de março de 1868;
+
+**CMXLIII -** Resolução Provincial nº 27, de 21 de março de 1868;
+
+**CMXLIV -** Lei Provincial nº 28, de 24 de março de 1868;
+
+**CMXLV -** Resolução Provincial nº 29, de 24 de março de 1868;
+
+**CMXLVI -** Lei Provincial nº 30, de 31 de março de 1868;
+
+**CMXLVII -** Resolução Provincial nº 31, de 31 de março de 1868;
+
+**CMXLVIII -** Resolução Provincial nº 32, de 1º de abril de 1868;
+
+**CMXLIX -** Resolução Provincial nº 33, de 1º de abril de 1868;
+
+**CML -** Resolução Provincial nº 34, de 2 de abril de 1868;
+
+**CMLI -** Resolução Provincial nº 35, de 2 de abril de 1868;
+
+**CMLII -** Resolução Provincial nº 36, de 2 de abril de 1868;
+
+**CMLIII -** Resolução Provincial nº 37, de 2 de abril de 1868;
+
+**CMLIV -** Lei Provincial nº 38, de 2 de abril de 1868;
+
+**CMLV -** Lei Provincial nº 39, de 2 de abril de 1868;
+
+**CMLVI -** Resolução Provincial nº 40, de 8 de abril de 1868;
+
+**CMLVII -** Lei Provincial nº 41, de 8 de abril de 1868;
+
+**CMLVIII -** Lei Provincial nº 42, de 8 de abril de 1868;
+
+**CMLIX -** Resolução Provincial nº 43, de 14 de abril de 1868;
+
+**CMLX -** Lei Provincial nº 44, de 14 de abril de 1868;
+
+**CMLXI -** Resolução Provincial nº 45, de 14 de abril de 1868;
+
+**CMLXII -** Resolução Provincial nº 46, de 14 de abril de 1868;
+
+**CMLXIII -** Lei Provincial nº 47, de 15 de abril de 1868;
+
+**CMLXIV -** Lei Provincial nº 48, de 15 de abril de 1868;
+
+**CMLXV -** Resolução Provincial nº 49, de 15 de abril de 1868;
+
+**CMLXVI -** Lei Provincial nº 50, de 15 de abril de 1868;
+
+**CMLXVII -** Lei Provincial nº 52, de 15 de abril de 1868;
+
+**CMLXVIII -** Lei Provincial nº 53, de 15 de abril de 1868;
+
+**CMLXIX -** Lei Provincial nº 54, de 15 de abril de 1868;
+
+**CMLXX -** Lei Provincial nº 55, de 15 de abril de 1868;
+
+**CMLXXI -** Lei Provincial nº 56, de 17 de abril de 1868;
+
+**CMLXXII -** Lei Provincial nº 57, de 18 de abril de 1868;
+
+**CMLXXIII -** Lei Provincial nº 58, de 15 de abril de 1868;
+
+**CMLXXIV -** Lei Provincial nº 59, de 15 de abril de 1868;
+
+**CMLXXV -** Resolução Provincial nº 60, de 23 de abril de 1868;
+
+**CMLXXVI -** Resolução Provincial nº 61, de 23 de abril de 1868;
+
+**CMLXXVII -** Resolução Provincial nº 62, de 23 de abril de 1868;
+
+**CMLXXVIII -** Resolução Provincial nº 63, de 23 de abril de 1868;
+
+**CMLXXIX -** Lei Provincial nº 64, de 9 de maio de 1868;
+
+**CMLXXX -** Lei Provincial nº 65, de 9 de maio de 1868;
+
+**CMLXXXI -** Resolução Provincial nº 66, de 9 de maio de 1868;
+
+**CMLXXXII -** Resolução Provincial nº 67, de 9 de maio de 1868;
+
+**CMLXXXIII -** Lei Provincial nº 68, de 9 de maio de 1868;
+
+**CMLXXXIV -** Resolução Provincial nº 69, de 9 de maio de 1868;
+
+**CMLXXXV -** Resolução Provincial nº 70, de 29 de maio de 1868;
+
+**CMLXXXVI -** Resolução Provincial nº 1, de 8 de junho de 1869;
+
+**CMLXXXVII -** Lei Provincial nº 2, de 15 de junho de 1869;
+
+**CMLXXXVIII -** Resolução Provincial nº 3, de 8 de junho de 1869;
+
+**CMLXXXIX -** Lei Provincial nº 5, de 8 de junho de 1869;
+
+**CMXC -** Lei Provincial nº 6, de 8 de junho de 1869;
+
+**CMXCI -** Resolução Provincial nº 7, de 15 de junho de 1869;
+
+**CMXCII -** Resolução Provincial nº 8, de 15 de junho de 1869;
+
+**CMXCIII -** Resolução Provincial nº 9, de 15 de junho de 1869;
+
+**CMXCIV -** Lei Provincial nº 10, de 15 de junho de 1869;
+
+**CMXCV -** Resolução Provincial nº 11, de 15 de junho de 1869;
+
+**CMXCVI -** Resolução Provincial nº 14, de 15 de junho de 1869;
+
+**CMXCVII -** Resolução Provincial nº 15, de 15 de junho de 1869;
+
+**CMXCVIII -** Resolução Provincial nº 16, de 15 de junho de 1869;
+
+**CMXCIX -** Lei Provincial nº 17, de 19 de junho de 1869;
+
+**M -** Resolução Provincial nº 18, de 25 de junho de 1869;
+
+**MI -** Lei Provincial nº 19, de 25 de junho de 1869;
+
+**MII -** Lei Provincial nº 20, de 25 de junho de 1869;
+
+**MIII -** Lei Provincial nº 21, de 25 de junho de 1869;
+
+**MIV -** Lei Provincial nº 22, de 30 de junho de 1869;
+
+**MV -** Lei Provincial nº 23, de 25 de junho de 1869;
+
+**MVI -** Lei Provincial nº 24, de 15 de junho de 1869;
+
+**MVII -** Resolução Provincial nº 25, de 30 de junho de 1869;
+
+**MVIII -** Lei Provincial nº 25-A, de 30 de junho de 1869;
+
+**MIX -** Lei Provincial nº 26, de 05 de julho de 1869;
+
+**MX -** Lei Provincial nº 27, de 5 de julho de 1869;
+
+**MXI -** Lei Provincial nº 28, de 5 de julho de 1869;
+
+**MXII -** Lei Provincial nº 29, de 7 de julho de 1869;
+
+**MXIII -** Lei Provincial nº 30, de 25 de junho de 1869;
+
+**MXIV -** Lei Provincial nº 31, de 7 de julho de 1869;
+
+**MXV -** Lei Provincial nº 32, de 7 de julho de 1869;
+
+**MXVI -** Resolução Provincial nº 33, de 7 de julho de 1869;
+
+**MXVII -** Resolução Provincial nº 34, de 7 de julho de 1869;
+
+**MXVIII -** Lei Provincial nº 35, de 7 de julho de 1869;
+
+**MXIX -** Lei Provincial nº 37, de 9 de julho de 1869;
+
+**MXX -** Lei Provincial nº 38, de 9 de julho de 1869;
+
+**MXXI -** Resolução Provincial nº 39, de 9 de julho de 1869;
+
+**MXXII -** Lei Provincial nº 40, de 12 de julho de 1869;
+
+**MXXIII -** Lei Provincial nº 41, de 12 de julho de 1869;
+
+**MXXIV -** Lei Provincial nº 42, de 12 de julho de 1869;
+
+**MXXV -** Lei Provincial nº 43, de 12 de julho de 1869;
+
+**MXXVI -** Lei Provincial nº 44, de 12 de julho de 1869;
+
+**MXXVII -** Resolução Provincial nº 45, de 12 de julho de 1869;
+
+**MXXVIII -** Lei Provincial nº 46, de 12 de julho de 1869;
+
+**MXXIX -** Lei Provincial nº 47, de 14 de julho de 1869;
+
+**MXXX -** Lei Provincial nº 48, de 14 de julho de 1869;
+
+**MXXXI -** Lei Provincial nº 50, de 14 de julho de 1869;
+
+**MXXXII -** Resolução Provincial nº 51, de 14 de julho de 1869;
+
+**MXXXIII -** Lei Provincial nº 52, de 14 de julho de 1869;
+
+**MXXXIV -** Resolução Provincial nº 53, de 19 de julho de 1869;
+
+**MXXXV -** Resolução Provincial nº 54, de 19 de julho de 1869;
+
+**MXXXVI -** Resolução Provincial nº 56, de 22 de julho de 1869;
+
+**MXXXVII -** Resolução Provincial nº 57, de 22 de julho de 1869;
+
+**MXXXVIII -** Resolução Provincial nº 58, de 22 de julho de 1869;
+
+**MXXXIX -** Resolução Provincial nº 59, de 22 de julho de 1869;
+
+**MXL -** Resolução Provincial nº 60, de 31 de julho de 1869;
+
+**MXLI -** Resolução Provincial nº 61, de 31 de julho de 1869;
+
+**MXLII -** Resolução Provincial nº 62, de 3 de agosto de 1869;
+
+**MXLIII -** Resolução Provincial nº 63, de 3 de agosto de 1869;
+
+**MXLIV -** Resolução Provincial nº 64, de 3 de agosto de 1869;
+
+**MXLV -** Resolução Provincial nº 65, de 3 de agosto de 1869;
+
+**MXLVI -** Resolução Provincial nº 66, de 7 de agosto de 1869;
+
+**MXLVII -** Resolução Provincial nº 67, de 3 de agosto de 1869;
+
+**MXLVIII -** Lei Provincial nº 1, de 19 de fevereiro de 1870;
+
+**MXLIX -** Lei Provincial nº 2, de 19 de fevereiro de 1870;
+
+**ML -** Lei Provincial nº 4, de 21 de fevereiro de 1870;
+
+**MLI -** Lei Provincial nº 5, de 21 de fevereiro de 1870;
+
+**MLII -** Lei Provincial nº 6, de 5 de março de 1870;
+
+**MLIII -** Lei Provincial nº 7, de 5 de março de 1870;
+
+**MLIV -** Lei Provincial nº 8, de 10 de março de 1870;
+
+**MLV -** Lei Provincial nº 9, de 10 de março de 1870;
+
+**MLVI -** Lei Provincial nº 10, de 10 de março de 1870;
+
+**MLVII -** Lei Provincial nº 11, de 14 de março de 1870;
+
+**MLVIII -** Lei Provincial nº 12, de 15 de março de 1870;
+
+**MLIX -** Resolução Provincial nº 13, de 15 de março de 1870;
+
+**MLX -** Resolução Provincial nº 14, de 16 de março de 1870;
+
+**MLXI -** Lei Provincial nº 15, de 16 de março de 1870;
+
+**MLXII -** Resolução Provincial nº 16, de 16 de março de 1870;
+
+**MLXIII -** Resolução Provincial nº 17, de 16 de março de 1870;
+
+**MLXIV -** Resolução Provincial nº 18, de 16 de março de 1870;
+
+**MLXV -** Lei Provincial nº 19, de 10 de março de 1870;
+
+**MLXVI -** Lei Provincial nº 20, de 17 de março de 1870;
+
+**MLXVII -** Lei Provincial nº 21, de 21 de março de 1870;
+
+**MLXVIII -** Lei Provincial nº 22, de 22 de março de 1870;
+
+**MLXIX -** Lei Provincial nº 23, de 22 de março de 1870;
+
+**MLXX -** Lei Provincial nº 24, de 22 de março de 1870;
+
+**MLXXI -** Lei Provincial nº 25, de 22 de março de 1870;
+
+**MLXXII -** Lei Provincial nº 26, de 22 de março de 1870;
+
+**MLXXIII -** Lei Provincial nº 27, de 23 de março de 1870;
+
+**MLXXIV -** Lei Provincial nº 28, de 23 de março de 1870;
+
+**MLXXV -** Lei Provincial nº 29, de 23 de março de 1870;
+
+**MLXXVI -** Lei Provincial nº 30, de 23 de março de 1870;
+
+**MLXXVII -** Lei Provincial nº 31, de 23 de março de 1870;
+
+**MLXXVIII -** Lei Provincial nº 32, de 23 de março de 1870;
+
+**MLXXIX -** Lei Provincial nº 33, de 23 de março de 1870;
+
+**MLXXX -** Lei Provincial nº 34, de 24 de março de 1870;
+
+**MLXXXI -** Lei Provincial nº 35, de 28 de março de 1870;
+
+**MLXXXII -** Lei Provincial nº 36, de 28 de março de 1870;
+
+**MLXXXIII -** Resolução Provincial nº 37, de 28 de março de 1870;
+
+**MLXXXIV -** Lei Provincial nº 38, de 28 de março de 1870;
+
+**MLXXXV -** Lei Provincial nº 39, de 28 de março de 1870;
+
+**MLXXXVI -** Lei Provincial nº 40, de 28 de março de 1870;
+
+**MLXXXVII -** Lei Provincial nº 41, de 28 de março de 1870;
+
+**MLXXXVIII -** Resolução Provincial nº 42, de 28 de março de 1870;
+
+**MLXXXIX -** Resolução Provincial nº 43, de 28 de março de 1870;
+
+**MXC -** Lei Provincial nº 44, de 29 de março de 1870;
+
+**MXCI -** Lei Provincial nº 45, de 29 de março de 1870;
+
+**MXCII -** Resolução Provincial nº 46, de 29 de março de 1870;
+
+**MXCIII -** Lei Provincial nº 48, de 2 de abril de 1870;
+
+**MXCIV -** Lei Provincial nº 50, de 2 de abril de 1870;
+
+**MXCV -** Lei Provincial nº 51, de 2 de abril de 1870;
+
+**MXCVI -** Resolução Provincial nº 52, de 2 de abril de 1870;
+
+**MXCVII -** Lei Provincial nº 53, de 5 de abril de 1870;
+
+**MXCVIII -** Lei Provincial nº 54, de 5 de abril de 1870;
+
+**MXCIX -** Lei Provincial nº 55, de 5 de abril de 1870;
+
+**MC -** Lei Provincial nº 56, de 5 de abril de 1870;
+
+**MCI -** Resolução Provincial nº 57, de 5 de abril de 1870;
+
+**MCII -** Resolução Provincial nº 58, de 5 de abril de 1870;
+
+**MCIII -** Resolução Provincial nº 59, de 5 de abril de 1870;
+
+**MCIV -** Resolução Provincial nº 60, de 5 de abril de 1870;
+
+**MCV -** Resolução Provincial nº 61, de 5 de abril de 1870;
+
+**MCVI -** Resolução Provincial nº 62, de 5 de abril de 1870;
+
+**MCVII -** Lei Provincial nº 63, de 7 de abril de 1870;
+
+**MCVIII -** Lei Provincial nº 64, de 10 de abril de 1870;
+
+**MCIX -** Lei Provincial nº 65, de 10 de abril de 1870;
+
+**MCX -** Lei Provincial nº 66, de 10 de abril de 1870;
+
+**MCXI -** Lei Provincial nº 67, de 10 de abril de 1870;
+
+**MCXII -** Resolução Provincial nº 68, de 10 de abril de 1870;
+
+**MCXIII -** Resolução Provincial nº 69, de 10 de abril de 1870;
+
+**MCXIV -** Resolução Provincial nº 70, de 10 de abril de 1870;
+
+**MCXV -** Lei Provincial nº 71, de 10 de abril de 1870;
+
+**MCXVI -** Resolução Provincial nº 72, de 12 de abril de 1870;
+
+**MCXVII -** Resolução Provincial nº 73, de 12 de abril de 1870;
+
+**MCXVIII -** Resolução Provincial nº 74, de 12 de abril de 1870;
+
+**MCXIX -** Resolução Provincial nº 75, de 12 de abril de 1870;
+
+**MCXX -** Resolução Provincial nº 76, de 12 de abril de 1870;
+
+**MCXXI -** Resolução Provincial nº 77, de 12 de abril de 1870;
+
+**MCXXII -** Lei Provincial nº 78, de 12 de abril de 1870;
+
+**MCXXIII -** Lei Provincial nº 79, de 12 de abril de 1870;
+
+**MCXXIV -** Lei Provincial nº 80, de 12 de abril de 1870;
+
+**MCXXV -** Lei Provincial nº 81, de 12 de abril de 1870;
+
+**MCXXVI -** Resolução Provincial nº 82, de 12 de abril de 1870;
+
+**MCXXVII -** Resolução Provincial nº 83, de 12 de abril de 1870;
+
+**MCXXVIII -** Resolução Provincial nº 84, de 12 de abril de 1870;
+
+**MCXXIX -** Lei Provincial nº 85, de 18 de abril de 1870;
+
+**MCXXX -** Lei Provincial nº 86, de 18 de abril de 1870;
+
+**MCXXXI -** Lei Provincial nº 87, de 18 de abril de 1870;
+
+**MCXXXII -** Lei Provincial nº 88, de 18 de abril de 1870;
+
+**MCXXXIII -** Lei Provincial nº 89, de 18 de abril de 1870;
+
+**MCXXXIV -** Lei Provincial nº 90, de 18 de abril de 1870;
+
+**MCXXXV -** Lei Provincial nº 91, de 18 de abril de 1870;
+
+**MCXXXVI -** Lei Provincial nº 92, de 19 de abril de 1870;
+
+**MCXXXVII -** Lei Provincial nº 93, de 21 de abril de 1870;
+
+**MCXXXVIII -** Resolução Provincial nº 94, de 29 de abril de 1870;
+
+**MCXXXIX -** Resolução Provincial nº 95, de 29 de abril de 1870;
+
+**MCXL -** Resolução Provincial nº 96, de 29 de abril de 1870;
+
+**MCXLI -** Resolução Provincial nº 97, de 29 de abril de 1870;
+
+**MCXLII -** Resolução Provincial nº 98, de 30 de abril de 1870;
+
+**MCXLIII -** Resolução Provincial nº 99, de 30 de abril de 1870;
+
+**MCXLIV -** Resolução Provincial nº 100, de 30 de abril de 1870;
+
+**MCXLV -** Resolução Provincial nº 101, de 30 de abril de 1870;
+
+**MCXLVI -** Lei Provincial nº 102, de 30 de abril de 1870;
+
+**MCXLVII -** Resolução Provincial nº 103, de 3 de maio de 1870;
+
+**MCXLVIII -** Resolução Provincial nº 104, de 3 de maio de 1870;
+
+**MCXLIX -** Resolução Provincial nº 105, de 3 de maio de 1870;
+
+**MCL -** Resolução Provincial nº 106, de 4 de maio de 1870;
+
+**MCLI -** Resolução Provincial nº 107, de 9 de maio de 1870;
+
+**MCLII -** Resolução Provincial nº 108, de 10 de maio de 1870;
+
+**MCLIII -** Resolução Provincial nº 2, de 22 de fevereiro de 1871;
+
+**MCLIV -** Resolução Provincial nº 3, de 22 de fevereiro de 1871;
+
+**MCLV -** Resolução Provincial nº 4, de 22 de fevereiro de 1871;
+
+**MCLVI -** Lei Provincial nº 5, de 24 de fevereiro de 1871;
+
+**MCLVII -** Resolução Provincial nº 6, de 24 de fevereiro de 1871;
+
+**MCLVIII -** Lei Provincial nº 7, de 6 de março de 1871;
+
+**MCLIX -** Lei Provincial nº 8, de 6 de março de 1871;
+
+**MCLX -** Lei Provincial nº 9, de 6 de março de 1871;
+
+**MCLXI -** Resolução Provincial nº 10, de 7 de março de 1871;
+
+**MCLXII -** Lei Provincial nº 11, de 9 de março de 1871;
+
+**MCLXIII -** Lei Provincial nº 12, de 9 de março de 1871;
+
+**MCLXIV -** Lei Provincial nº 13, de 9 de março de 1871;
+
+**MCLXV -** Lei Provincial nº 14, de 9 de março de 1871;
+
+**MCLXVI -** Lei Provincial nº 15, de 9 de março de 1871;
+
+**MCLXVII -** Lei Provincial nº 16, de 9 de março de 1871;
+
+**MCLXVIII -** Resolução Provincial nº 17, de 9 de março de 1871;
+
+**MCLXIX -** Resolução Provincial nº 18, de 9 de março de 1871;
+
+**MCLXX -** Resolução Provincial nº 19, de 9 de março de 1871;
+
+**MCLXXI -** Resolução Provincial nº 20, de 9 de março de 1871;
+
+**MCLXXII -** Resolução Provincial nº 21, de 10 de março de 1871;
+
+**MCLXXIII -** Resolução Provincial nº 22, de 10 de março de 1871;
+
+**MCLXXIV -** Lei Provincial nº 23, de 16 de março de 1871;
+
+**MCLXXV -** Resolução Provincial nº 24, de 17 de março de 1871;
+
+**MCLXXVI -** Lei Provincial nº 25, de 17 de março de 1871;
+
+**MCLXXVII -** Lei Provincial nº 26, de 22 de março de 1871;
+
+**MCLXXVIII -** Lei Provincial nº 27, de 24 de março de 1871;
+
+**MCLXXIX -** Lei Provincial nº 28, de 24 de março de 1871;
+
+**MCLXXX -** Lei Provincial nº 29, de 24 de março de 1871;
+
+**MCLXXXI -** Lei Provincial nº 30, de 24 de março de 1871;
+
+**MCLXXXII -** Lei Provincial nº 31, de 24 de março de 1871;
+
+**MCLXXXIII -** Lei Provincial nº 32, de 24 de março de 1871;
+
+**MCLXXXIV -** Lei Provincial nº 33, de 29 de março de 1871;
+
+**MCLXXXV -** Lei Provincial nº 34, de 29 de março de 1871;
+
+**MCLXXXVI -** Resolução Provincial nº 35, de 30 de março de 1871;
+
+**MCLXXXVII -** Resolução Provincial nº 36, de 30 de março de 1871;
+
+**MCLXXXVIII -** Lei Provincial nº 37, de 30 de março de 1871;
+
+**MCLXXXIX -** Lei Provincial nº 38, de 30 de março de 1871;
+
+**MCXC -** Lei Provincial nº 39, de 30 de março de 1871;
+
+**MCXCI -** Lei Provincial nº 40, de 30 de março de 1871;
+
+**MCXCII -** Lei Provincial nº 41, de 30 de março de 1871;
+
+**MCXCIII -** Lei Provincial nº 42, de 30 de março de 1871;
+
+**MCXCIV -** Lei Provincial nº 43, de 1º de abril de 1871;
+
+**MCXCV -** Lei Provincial nº 44, de 1º de abril de 1871;
+
+**MCXCVI -** Lei Provincial nº 45, de 1º de abril de 1871;
+
+**MCXCVII -** Lei Provincial nº 46, de 1º de abril de 1871;
+
+**MCXCVIII -** Lei Provincial nº 47, de 2 de abril de 1871;
+
+**MCXCIX -** Lei Provincial nº 49, de 2 de abril de 1871;
+
+**MCC -** Lei Provincial nº 50, de 7 de abril de 1871;
+
+**MCCI -** Lei Provincial nº 51, de 7 de abril de 1871;
+
+**MCCII -** Resolução Provincial nº 52, de 10 de abril de 1871;
+
+**MCCIII -** Lei Provincial nº 53, de 10 de abril de 1871;
+
+**MCCIV -** Lei Provincial nº 54, de 10 de abril de 1871;
+
+**MCCV -** Resolução Provincial nº 55, de 10 de abril de 1871;
+
+**MCCVI -** Resolução Provincial nº 56, de 10 de abril de 1871;
+
+**MCCVII -** Resolução Provincial nº 57, de 10 de abril de 1871;
+
+**MCCVIII -** Resolução Provincial nº 58, de 10 de abril de 1871;
+
+**MCCIX -** Resolução Provincial nº 59, de 10 de abril de 1871;
+
+**MCCX -** Resolução Provincial nº 60, de 10 de abril de 1871;
+
+**MCCXI -** Resolução Provincial nº 61, de 10 de abril de 1871;
+
+**MCCXII -** Resolução Provincial nº 62, de 11 de abril de 1871;
+
+**MCCXIII -** Resolução Provincial nº 63, de 11 de abril de 1871;
+
+**MCCXIV -** Resolução Provincial nº 64, de 11 de abril de 1871;
+
+**MCCXV -** Lei Provincial nº 65, de 12 de abril de 1871;
+
+**MCCXVI -** Lei Provincial nº 66, de 12 de abril de 1871;
+
+**MCCXVII -** Lei Provincial nº 67, de 12 de abril de 1871;
+
+**MCCXVIII -** Lei Provincial nº 68, de 12 de abril de 1871;
+
+**MCCXIX -** Lei Provincial nº 69, de 12 de abril de 1871;
+
+**MCCXX -** Lei Provincial nº 70, de 13 de abril de 1871;
+
+**MCCXXI -** Resolução Provincial nº 71, de 14 de abril de 1871;
+
+**MCCXXII -** Resolução Provincial nº 72, de 14 de abril de 1871;
+
+**MCCXXIII -** Resolução Provincial nº 73, de 14 de abril de 1871;
+
+**MCCXXIV -** Resolução Provincial nº 74, de 14 de abril de 1871;
+
+**MCCXXV -** Resolução Provincial nº 75, de 14 de abril de 1871;
+
+**MCCXXVI -** Resolução Provincial nº 76, de 14 de abril de 1871;
+
+**MCCXXVII -** Resolução Provincial nº 77, de 14 de abril de 1871;
+
+**MCCXXVIII -** Resolução Provincial nº 78, de 14 de abril de 1871;
+
+**MCCXXIX -** Resolução Provincial nº 79, de 14 de abril de 1871;
+
+**MCCXXX -** Resolução Provincial nº 80, de 14 de abril de 1871;
+
+**MCCXXXI -** Resolução Provincial nº 81, de 14 de abril de 1871;
+
+**MCCXXXII -** Resolução Provincial nº 82, de 14 de abril de 1871;
+
+**MCCXXXIII -** Resolução Provincial nº 83, de 14 de abril de 1871;
+
+**MCCXXXIV -** Resolução Provincial nº 84, de 14 de abril de 1871;
+
+**MCCXXXV -** Resolução Provincial nº 85, de 15 de abril de 1871;
+
+**MCCXXXVI -** Resolução Provincial nº 86, de 15 de abril de 1871;
+
+**MCCXXXVII -** Resolução Provincial nº 87, de 2 de maio de 1871;
+
+**MCCXXXVIII -** Resolução Provincial nº 88, de 2 de maio de 1871;
+
+**MCCXXXIX -** Resolução Provincial nº 89, de 2 de maio de 1871;
+
+**MCCXL -** Lei Provincial nº 1, de 28 de fevereiro de 1872;
+
+**MCCXLI -** Lei Provincial nº 2, de 28 de fevereiro de 1872;
+
+**MCCXLII -** Resolução Provincial nº 3, de 7 de março de 1872;
+
+**MCCXLIII -** Resolução Provincial nº 4, de 7 de março de 1872;
+
+**MCCXLIV -** Lei Provincial nº 5, de 8 de março de 1872;
+
+**MCCXLV -** Resolução Provincial nº 6, de 9 de março de 1872;
+
+**MCCXLVI -** Lei Provincial nº 7, de 11 de março de 1872;
+
+**MCCXLVII -** Resolução Provincial nº 8, de 11 de março de 1872;
+
+**MCCXLVIII -** Resolução Provincial nº 9, de 11 de março de 1872;
+
+**MCCXLIX -** Lei Provincial nº 10, de 13 de março de 1872;
+
+**MCCL -** Lei Provincial nº 11, de 13 de março de 1872;
+
+**MCCLI -** Resolução Provincial nº 12, de 13 de março de 1872;
+
+**MCCLII -** Resolução Provincial nº 13, de 15 de março de 1872;
+
+**MCCLIII -** Resolução Provincial nº 14, de 15 de março de 1872;
+
+**MCCLIV -** Lei Provincial nº 15, de 15 de março de 1872;
+
+**MCCLV -** Resolução Provincial nº 16, de 15 de março de 1872;
+
+**MCCLVI -** Resolução Provincial nº 17, de 15 de março de 1872;
+
+**MCCLVII -** Lei Provincial nº 18, de 21 de março de 1872;
+
+**MCCLVIII -** Lei Provincial nº 19, de 26 de março de 1872;
+
+**MCCLIX -** Resolução Provincial nº 20, de 27 de março de 1872;
+
+**MCCLX -** Lei Provincial nº 21, de 27 de março de 1872;
+
+**MCCLXI -** Lei Provincial nº 22, de 27 de março de 1872;
+
+**MCCLXII -** Resolução Provincial nº 23, de 27 de março de 1872;
+
+**MCCLXIII -** Resolução Provincial nº 24, de 27 de março de 1872;
+
+**MCCLXIV -** Resolução Provincial nº 25, de 27 de março de 1872;
+
+**MCCLXV -** Lei Provincial nº 26, de 27 de março de 1872;
+
+**MCCLXVI -** Resolução Provincial nº 27, de 30 de março de 1872;
+
+**MCCLXVII -** Lei Provincial nº 28, de 4 de abril de 1872;
+
+**MCCLXVIII -** Resolução Provincial nº 29, de 4 de abril de 1872;
+
+**MCCLXIX -** Resolução Provincial nº 30, de 4 de abril de 1872;
+
+**MCCLXX -** Resolução Provincial nº 31, de 4 de abril de 1872;
+
+**MCCLXXI -** Lei Provincial nº 32, de 4 de abril de 1872;
+
+**MCCLXXII -** Resolução Provincial nº 33, de 4 de abril de 1872;
+
+**MCCLXXIII -** Lei Provincial nº 34, de 5 de abril de 1872;
+
+**MCCLXXIV -** Lei Provincial nº 35, de 6 de abril de 1872;
+
+**MCCLXXV -** Lei Provincial nº 36, de 6 de abril de 1872;
+
+**MCCLXXVI -** Lei Provincial nº 37, de 6 de abril de 1872;
+
+**MCCLXXVII -** Lei Provincial nº 38, de 6 de abril de 1872;
+
+**MCCLXXVIII -** Lei Provincial nº 39, de 6 de abril de 1872;
+
+**MCCLXXIX -** Lei Provincial nº 40, de 6 de abril de 1872;
+
+**MCCLXXX -** Lei Provincial nº 41, de 6 de abril de 1872;
+
+**MCCLXXXI -** Resolução Provincial nº 42, de 6 de abril de 1872;
+
+**MCCLXXXII -** Resolução Provincial nº 43, de 6 de abril de 1872;
+
+**MCCLXXXIII -** Lei Provincial nº 44, de 6 de abril de 1872;
+
+**MCCLXXXIV -** Lei Provincial nº 45, de 6 de abril de 1872;
+
+**MCCLXXXV -** Lei Provincial nº 46, de 6 de abril de 1872;
+
+**MCCLXXXVI -** Lei Provincial nº 47, de 6 de abril de 1872;
+
+**MCCLXXXVII -** Lei Provincial nº 48, de 6 de abril de 1872;
+
+**MCCLXXXVIII -** Resolução Provincial nº 49, de 9 de abril de 1872;
+
+**MCCLXXXIX -** Lei Provincial nº 50, de 9 de abril de 1872;
+
+**MCCXC -** Lei Provincial nº 51, de 10 de abril de 1872;
+
+**MCCXCI -** Lei Provincial nº 52, de 10 de abril de 1872;
+
+**MCCXCII -** Lei Provincial nº 53, de 10 de abril de 1872;
+
+**MCCXCIII -** Resolução Provincial nº 53-A, de 6 de abril de 1872;
+
+**MCCXCIV -** Lei Provincial nº 54, de 13 de abril de 1872;
+
+**MCCXCV -** Resolução Provincial nº 55, de 13 de abril de 1872;
+
+**MCCXCVI -** Resolução Provincial nº 56, de 13 de abril de 1872;
+
+**MCCXCVII -** Resolução Provincial nº 57, de 13 de abril de 1872;
+
+**MCCXCVIII -** Lei Provincial nº 58, de 13 de abril de 1872;
+
+**MCCXCIX -** Resolução Provincial nº 59, de 13 de abril de 1872;
+
+**MCCC -** Resolução Provincial nº 60, de 13 de abril de 1872;
+
+**MCCCI -** Resolução Provincial nº 61, de 13 de abril de 1872;
+
+**MCCCII -** Lei Provincial nº 62, de 13 de abril de 1872;
+
+**MCCCIII -** Resolução Provincial nº 63, de 13 de abril de 1872;
+
+**MCCCIV -** Resolução Provincial nº 64, de 14 de abril de 1872;
+
+**MCCCV -** Lei Provincial nº 65, de 14 de abril de 1872;
+
+**MCCCVI -** Lei Provincial nº 66, de 18 de abril de 1872;
+
+**MCCCVII -** Lei Provincial nº 67, de 18 de abril de 1872;
+
+**MCCCVIII -** Resolução Provincial nº 68, de 19 de abril de 1872;
+
+**MCCCIX -** Lei Provincial nº 69, de 19 de abril de 1872;
+
+**MCCCX -** Resolução Provincial nº 70, de 19 de abril de 1872;
+
+**MCCCXI -** Lei Provincial nº 71, de 20 de abril de 1872;
+
+**MCCCXII -** Lei Provincial nº 72, de 20 de abril de 1872;
+
+**MCCCXIII -** Lei Provincial nº 73, de 26 de abril de 1872;
+
+**MCCCXIV -** Resolução Provincial nº 74, de 6 de maio de 1872;
+
+**MCCCXV -** Resolução Provincial nº 1, de 8 de março de 1873;
+
+**MCCCXVI -** Lei Provincial nº 2, de 8 de março de 1873;
+
+**MCCCXVII -** Lei Provincial nº 3, de 8 de março de 1873;
+
+**MCCCXVIII -** Lei Provincial nº 4, de 8 de março de 1873;
+
+**MCCCXIX -** Lei Provincial nº 5, de 8 de março de 1873;
+
+**MCCCXX -** Resolução Provincial nº 6, de 8 de março de 1873;
+
+**MCCCXXI -** Resolução Provincial nº 7, de 8 de março de 1873;
+
+**MCCCXXII -** Resolução Provincial nº 8, de 8 de março de 1873;
+
+**MCCCXXIII -** Lei Provincial nº 9, de 12 de março de 1873;
+
+**MCCCXXIV -** Resolução Provincial nº 10, de 12 de março de 1873;
+
+**MCCCXXV -** Resolução Provincial nº 11, de 12 de março de 1873;
+
+**MCCCXXVI -** Resolução Provincial nº 12, de 12 de março de 1873;
+
+**MCCCXXVII** \- Resolução Provincial nº 13, de 12 de março de 1873;
+
+**MCCCXXVIII -** Lei Provincial nº 14, de 13 de março de 1873;
+
+**MCCCXXIX -** Lei Provincial nº 15, de 16 de março de 1873;
+
+**MCCCXXX -** Lei Provincial nº 16, de 16 de março de 1873;
+
+**MCCCXXXI -** Lei Provincial nº 17, de 16 de março de 1873;
+
+**MCCCXXXII -** Lei Provincial nº 18, de 16 de março de 1873;
+
+**MCCCXXXIII -** Lei Provincial nº 19, de 16 de março de 1873;
+
+**MCCCXXXIV -** Lei Provincial nº 20, de 16 de março de 1873;
+
+**MCCCXXXV -** Lei Provincial nº 21, de 16 de março de 1873;
+
+**MCCCXXXVI -** Lei Provincial nº 22, de 16 de março de 1873;
+
+**MCCCXXXVII -** Lei Provincial nº 23, de 16 de março de 1873;
+
+**MCCCXXXVIII -** Lei Provincial nº 24, de 16 de março de 1873;
+
+**MCCCXXXIX -** Resolução Provincial nº 25, de 16 de março de 1873;
+
+**MCCCXL -** Resolução Provincial nº 26, de 17 de março de 1873;
+
+**MCCCXLI -** Resolução Provincial nº 27, de 17 de março de 1873;
+
+**MCCCXLII -** Resolução Provincial nº 28, de 17 de março de 1873;
+
+**MCCCXLIII -** Resolução Provincial nº 29, de 17 de março de 1873;
+
+**MCCCXLIV -** Resolução Provincial nº 30, de 16 de março de 1873;
+
+**MCCCXLV -** Resolução Provincial nº 31, de 16 de março de 1873;
+
+**MCCCXLVI -** Resolução Provincial nº 33, de 19 de março de 1873;
+
+**MCCCXLVII -** Resolução Provincial nº 34, de 19 de março de 1873;
+
+**MCCCXLVIII -** Resolução Provincial nº 35, de 19 de março de 1873;
+
+**MCCCXLIX -** Lei Provincial nº 36, de 24 de março de 1873;
+
+**MCCCL -** Resolução Provincial nº 37, de 24 de março de 1873;
+
+**MCCCLI -** Resolução Provincial nº 38, de 24 de março de 1873;
+
+**MCCCLII -** Lei Provincial nº 39, de 3 de abril de 1873;
+
+**MCCCLIII -** Lei Provincial nº 40, de 3 de abril de 1873;
+
+**MCCCLIV -** Lei Provincial nº 41, de 3 de abril de 1873;
+
+**MCCCLV -** Lei Provincial nº 42, de 3 de abril de 1873;
+
+**MCCCLVI -** Resolução Provincial nº 43, de 3 de abril de 1873;
+
+**MCCCLVII -** Resolução Provincial nº 44, de 3 de abril de 1873;
+
+**MCCCLVIII -** Resolução Provincial nº 45, de 3 de abril de 1873;
+
+**MCCCLIX -** Resolução Provincial nº 46, de 3 de abril de 1873;
+
+**MCCCLX -** Resolução Provincial nº 47, de 3 de abril de 1873;
+
+**MCCCLXI -** Lei Provincial nº 48, de 14 de abril de 1873;
+
+**MCCCLXII -** Lei Provincial nº 49, de 14 de abril de 1873;
+
+**MCCCLXIII -** Lei Provincial nº 50, de 14 de abril de 1873;
+
+**MCCCLXIV -** Lei Provincial nº 51, de 14 de abril de 1873;
+
+**MCCCLXV -** Lei Provincial nº 52, de 14 de abril de 1873;
+
+**MCCCLXVI -** Lei Provincial nº 53, de 14 de abril de 1873;
+
+**MCCCLXVII -** Resolução Provincial nº 54, de 14 de abril de 1873;
+
+**MCCCLXVIII -** Resolução Provincial nº 55, de 14 de abril de 1873;
+
+**MCCCLXIX -** Resolução Provincial nº 56, de 14 de abril de 1873;
+
+**MCCCLXX -** Resolução Provincial nº 57, de 14 de abril de 1873;
+
+**MCCCLXXI -** Lei Provincial nº 58, de 15 de abril de 1873;
+
+**MCCCLXXII -** Lei Provincial nº 59, de 15 de abril de 1873;
+
+**MCCCLXXIII -** Lei Provincial nº 60, de 15 de abril de 1873;
+
+**MCCCLXXIV -** Lei Provincial nº 61, de 15 de abril de 1873;
+
+**MCCCLXXV -** Lei Provincial nº 62, de 15 de abril de 1873;
+
+**MCCCLXXVI -** Lei Provincial nº 63, de 15 de abril de 1873;
+
+**MCCCLXXVII -** Lei Provincial nº 64, de 15 de abril de 1873;
+
+**MCCCLXXVIII -** Resolução Provincial nº 65, de 19 de abril de 1873;
+
+**MCCCLXXIX -** Resolução Provincial nº 66, de 19 de abril de 1873;
+
+**MCCCLXXX -** Resolução Provincial nº 67, de 19 de abril de 1873;
+
+**MCCCLXXXI -** Resolução Provincial nº 68, de 20 de abril de 1873;
+
+**MCCCLXXXII -** Lei Provincial nº 69, de 20 de abril de 1873;
+
+**MCCCLXXXIII -** Lei Provincial nº 70, de 20 de abril de 1873;
+
+**MCCCLXXXIV -** Lei Provincial nº 72, de 20 de abril de 1873;
+
+**MCCCLXXXV -** Lei Provincial nº 73, de 20 de abril de 1873;
+
+**MCCCLXXXVI -** Lei Provincial nº 74, de 20 de abril de 1873;
+
+**MCCCLXXXVII -** Resolução Provincial nº 75, de 20 de abril de 1873;
+
+**MCCCLXXXVIII -** Lei Provincial nº 76, de 20 de abril de 1873;
+
+**MCCCLXXXIX -** Resolução Provincial nº 77, de 20 de abril de 1873;
+
+**MCCCXC -** Lei Provincial nº 78, de 21 de abril de 1873;
+
+**MCCCXCI -** Lei Provincial nº 79, de 22 de abril de 1873;
+
+**MCCCXCII -** Lei Provincial nº 80, de 23 de abril de 1873;
+
+**MCCCXCIII -** Lei Provincial nº 81, de 24 de abril de 1873;
+
+**MCCCXCIV -** Lei Provincial nº 82, de 25 de abril de 1873;
+
+**MCCCXCV -** Lei Provincial nº 83, de 25 de abril de 1873;
+
+**MCCCXCVI -** Resolução Provincial nº 84, de 25 de abril de 1873;
+
+**MCCCXCVII -** Lei Provincial nº 85, de 25 de abril de 1873;
+
+**MCCCXCVIII -** Lei Provincial nº 86, de 25 de abril de 1873;
+
+**MCCCXCIX -** Lei Provincial nº 87, de 25 de abril de 1873;
+
+**MCD -** Resolução Provincial nº 88, de 26 de abril de 1873;
+
+**MCDI -** Lei Provincial nº 89, de 30 de abril de 1873;
+
+**MCDII -** Lei Provincial nº 90, de 30 de abril de 1873;
+
+**MCDIII -** Lei Provincial nº 91, de 25 de abril de 1873;
+
+**MCDIV -** Resolução Provincial nº 92, de 14 de maio de 1873;
+
+**MCDV -** Resolução Provincial nº 93, de 14 de maio de 1873;
+
+**MCDVI -** Resolução Provincial nº 94, de 14 de maio de 1873;
+
+**MCDVII -** Resolução Provincial nº 95, de 14 de maio de 1873;
+
+**MCDVIII -** Resolução Provincial nº 96, de 14 de maio de 1873;
+
+**MCDIX -** Resolução Provincial nº 97, de 14 de maio de 1873;
+
+**MCDX -** Resolução Provincial nº 98, de 18 de maio de 1873;
+
+**MCDXI -** Resolução Provincial nº 99, de 18 de maio de 1873;
+
+**MCDXII -** Resolução Provincial nº 100, de 7 de julho de 1873;
+
+**MCDXIII -** Lei Provincial nº 1, de 6 de março de 1874;
+
+**MCDXIV -** Lei Provincial nº 2, de 9 de março de 1874;
+
+**MCDXV -** Lei Provincial nº 3, de 13 de março de 1874;
+
+**MCDXVI -** Lei Provincial nº 4, de 13 de março de 1874;
+
+**MCDXVII -** Resolução Provincial nº 6, de 13 de março de 1874;
+
+**MCDXVIII -** Lei Provincial nº 7, de 20 de março de 1874;
+
+**MCDXIX -** Resolução Provincial nº 8, de 20 de março de 1874;
+
+**MCDXX -** Lei Provincial nº 9, de 22 de março de 1874;
+
+**MCDXXI -** Lei Provincial nº 10, de 24 de março de 1874;
+
+**MCDXXII -** Lei Provincial nº 11, de 26 de março de 1874;
+
+**MCDXXIII -** Lei Provincial nº 12, de 30 de março de 1874;
+
+**MCDXXIV -** Lei Provincial nº 13, de 30 de março de 1874;
+
+**MCDXXV -** Lei Provincial nº 14, de 30 de março de 1874;
+
+**MCDXXVI -** Lei Provincial nº 15, de 30 de março de 1874;
+
+**MCDXXVII -** Lei Provincial nº 16, de 30 de março de 1874;
+
+**MCDXXVIII -** Lei Provincial nº 17, de 30 de março de 1874;
+
+**MCDXXIX -** Lei Provincial nº 18, de 30 de março de 1874;
+
+**MCDXXX -** Resolução Provincial nº 19, de 30 de março de 1874;
+
+**MCDXXXI -** Resolução Provincial nº 20, de 30 de março de 1874;
+
+**MCDXXXII -** Resolução Provincial nº 21, de 30 de março de 1874;
+
+**MCDXXXIII -** Resolução Provincial nº 22, de 30 de março de 1874;
+
+**MCDXXXIV -** Lei Provincial nº 23, de 30 de março de 1874;
+
+**MCDXXXV -** Lei Provincial nº 25, de 30 de março de 1874;
+
+**MCDXXXVI -** Resolução Provincial nº 26, de 1º de abril de 1874;
+
+**MCDXXXVII -** Resolução Provincial nº 27, de 1º de abril de 1874;
+
+**MCDXXXVIII -** Resolução Provincial nº 28, de 1º de abril de 1874;
+
+**MCDXXXIX -** Lei Provincial nº 29, de 10 de abril de 1874;
+
+**MCDXL -** Lei Provincial nº 30, de 10 de abril de 1874;
+
+**MCDXLI -** Resolução Provincial nº 31, de 11 de abril de 1874;
+
+**MCDXLII -** Resolução Provincial nº 32, de 11 de abril de 1874;
+
+**MCDXLIII -** Resolução Provincial nº 33, de 11 de abril de 1874;
+
+**MCDXLIV -** Lei Provincial nº 34, de 11 de abril de 1874;
+
+**MCDXLV -** Resolução Provincial nº 35, de 11 de abril de 1874;
+
+**MCDXLVI -** Resolução Provincial nº 36, de 11 de abril de 1874;
+
+**MCDXLVII -** Lei Provincial nº 37, de 11 de abril de 1874;
+
+**MCDXLVIII -** Lei Provincial nº 38, de 16 de abril de 1874;
+
+**MCDXLIX -** Lei Provincial nº 39, de 16 de abril de 1874;
+
+**MCDL -** Lei Provincial nº 40, de 16 de abril de 1874;
+
+**MCDLI -** Lei Provincial nº 41, de 16 de abril de 1874;
+
+**MCDLII -** Lei Provincial nº 42, de 16 de abril de 1874;
+
+**MCDLIII -** Lei Provincial nº 43, de 16 de abril de 1874;
+
+**MCDLIV -** Lei Provincial nº 44, de 16 de abril de 1874;
+
+**MCDLV -** Lei Provincial nº 45, de 16 de abril de 1874;
+
+**MCDLVI -** Lei Provincial nº 46, de 17 de abril de 1874;
+
+**MCDLVII -** Lei Provincial nº 47, de 17 de abril de 1874;
+
+**MCDLVIII -** Lei Provincial nº 48, de 17 de abril de 1874;
+
+**MCDLIX -** Lei Provincial nº 49, de 17 de abril de 1874;
+
+**MCDLX -** Lei Provincial nº 50, de 17 de abril de 1874;
+
+**MCDLXI -** Lei Provincial nº 51, de 17 de abril de 1874;
+
+**MCDLXII -** Lei Provincial nº 52, de 24 de abril de 1874;
+
+**MCDLXIII -** Resolução Provincial nº 53, de 28 de abril de 1874;
+
+**MCDLXIV -** Resolução Provincial nº 54, de 28 de abril de 1874;
+
+**MCDLXV -** Resolução Provincial nº 55, de 28 de abril de 1874;
+
+**MCDLXVI -** Resolução Provincial nº 56, de 28 de abril de 1874;
+
+**MCDLXVII -** Resolução Provincial nº 57, de 28 de abril de 1874;
+
+**MCDLXVIII -** Resolução Provincial nº 58, de 28 de abril de 1874;
+
+**MCDLXIX -** Resolução Provincial nº 59, de 28 de abril de 1874;
+
+**MCDLXX -** Resolução Provincial nº 60, de 28 de abril de 1874;
+
+**MCDLXXI -** Resolução Provincial nº 61, de 28 de abril de 1874;
+
+**MCDLXXII -** Resolução Provincial nº 62, de 28 de abril de 1874;
+
+**MCDLXXIII -** Resolução Provincial nº 63, de 28 de abril de 1874;
+
+**MCDLXXIV -** Resolução Provincial nº 64, de 28 de abril de 1874;
+
+**MCDLXXV -** Resolução Provincial nº 65, de 23 de maio de 1874;
+
+**MCDLXXVI -** Resolução Provincial nº 66, de 23 de maio de 1874;
+
+**MCDLXXVII -** Resolução Provincial nº 67, de 23 de maio de 1874;
+
+**MCDLXXVIII -** Resolução Provincial nº 68, de 23 de maio de 1874;
+
+**MCDLXXIX -** Lei Provincial nº 1, de 24 de fevereiro de 1875;
+
+**MCDLXXX -** Lei Provincial nº 2, de 24 de fevereiro de 1875;
+
+**MCDLXXXI -** Lei Provincial nº 3, de 4 de março de 1875;
+
+**MCDLXXXII -** Lei Provincial nº 4, de 7 de março de 1875;
+
+**MCDLXXXIII -** Lei Provincial nº 5, de 8 de março de 1875;
+
+**MCDLXXXIV -** Resolução Provincial nº 6, de 12 de março de 1875;
+
+**MCDLXXXV -** Lei Provincial nº 7, de 15 de março de 1875;
+
+**MCDLXXXVI -** Lei Provincial nº 9, de 20 de março de 1875;
+
+**MCDLXXXVII -** Lei Provincial nº 10, de 22 de março de 1875;
+
+**MCDLXXXVIII -** Resolução Provincial nº 11, de 22 de março de 1875;
+
+**MCDLXXXIX -** Resolução Provincial nº 12, de 23 de março de 1875;
+
+**MCDXC -** Lei Provincial nº 13, de 1º de abril de 1875;
+
+**MCDXCI -** Lei Provincial nº 14, de 2 de abril de 1875;
+
+**MCDXCII -** Lei Provincial nº 15, de 2 de abril de 1875;
+
+**MCDXCIII -** Lei Provincial nº 16, de 2 de abril de 1875;
+
+**MCDXCIV -** Lei Provincial nº 17, de 2 de abril de 1875;
+
+**MCDXCV -** Lei Provincial nº 18, de 6 de abril de 1875;
+
+**MCDXCVI -** Lei Provincial nº 19, de 6 de abril de 1875;
+
+**MCDXCVII -** Lei Provincial nº 20, de 8 de abril de 1875;
+
+**MCDXCVIII -** Resolução Provincial nº 21, de 10 de abril de 1875;
+
+**MCDXCIX -** Resolução Provincial nº 22, de 9 de abril de 1875;
+
+**MD -** Resolução Provincial nº 23, de 12 de abril de 1875;
+
+**MDI -** Resolução Provincial nº 24, de 13 de abril de 1875;
+
+**MDII -** Lei Provincial nº 25, de 13 de abril de 1875;
+
+**MDIII -** Resolução Provincial nº 26, de 13 de abril de 1875;
+
+**MDIV -** Lei Provincial nº 27, de 14 de abril de 1875;
+
+**MDV -** Resolução Provincial nº 28, de 16 de abril de 1875;
+
+**MDVI -** Lei Provincial nº 29, de 17 de abril de 1875;
+
+**MDVII -** Lei Provincial nº 30, de 20 de abril de 1875;
+
+**MDVIII -** Lei Provincial nº 31, de 20 de abril de 1875;
+
+**MDIX -** Lei Provincial nº 32, de 20 de abril de 1875;
+
+**MDX -** Resolução Provincial nº 33, de 20 de abril de 1875;
+
+**MDXI -** Lei Provincial nº 34, de 20 de abril de 1875;
+
+**MDXII -** Lei Provincial nº 35, de 20 de abril de 1875;
+
+**MDXIII -** Resolução Provincial nº 36, de 20 de abril de 1875;
+
+**MDXIV -** Lei Provincial nº 37, de 20 de abril de 1875;
+
+**MDXV -** Lei Provincial nº 38, de 20 de abril de 1875;
+
+**MDXVI -** Resolução Provincial nº 39, de 20 de abril de 1875;
+
+**MDXVII -** Resolução Provincial nº 40, de 20 de abril de 1875;
+
+**MDXVIII -** Resolução Provincial nº 41, de 20 de abril de 1875;
+
+**MDXIX -** Resolução Provincial nº 42, de 20 de abril de 1875;
+
+**MDXX -** Resolução Provincial nº 43, de 20 de abril de 1875;
+
+**MDXXI -** Resolução Provincial nº 44, de 20 de abril de 1875;
+
+**MDXXII -** Lei Provincial nº 45, de 20 de abril de 1875;
+
+**MDXXIII -** Lei Provincial nº 46, de 21 de abril de 1875;
+
+**MDXXIV -** Lei Provincial nº 47, de 21 de abril de 1875;
+
+**MDXXV -** Resolução Provincial nº 48, de 21 de abril de 1875;
+
+**MDXXVI -** Resolução Provincial nº 49, de 21 de abril de 1875;
+
+**MDXXVII -** Lei Provincial nº 50, de 23 de abril de 1875;
+
+**MDXXVIII -** Lei Provincial nº 51, de 23 de abril de 1875;
+
+**MDXXIX -** Lei Provincial nº 52, de 21 de abril de 1875;
+
+**MDXXX -** Lei Provincial nº 53, de 23 de abril de 1875;
+
+**MDXXXI -** Lei Provincial nº 54, de 23 de abril de 1875;
+
+**MDXXXII -** Resolução Provincial nº 55, de 23 de abril de 1875;
+
+**MDXXXIII -** Resolução Provincial nº 56, de 23 de abril de 1875;
+
+**MDXXXIV -** Resolução Provincial nº 57, de 23 de abril de 1875;
+
+**MDXXXV -** Resolução Provincial nº 58, de 25 de abril de 1875;
+
+**MDXXXVI -** Resolução Provincial nº 59 de 31 de maio de 1875;
+
+**MDXXXVII -** Resolução Provincial nº 60, de 31 de maio de 1875;
+
+**MDXXXVIII -** Resolução Provincial nº 61, de 31 de maio de 1875;
+
+**MDXXXIX -** Resolução Provincial nº 62, de 31 de maio de 1875;
+
+**MDXL -** Resolução Provincial nº 63, de 31 de maio de 1875;
+
+**MDXLI -** Resolução Provincial nº 64, de 31 de maio de 1875;
+
+**MDXLII -** Resolução Provincial nº 65, de 31 de maio de 1875;
+
+**MDXLIII -** Resolução Provincial nº 66, de 31 de maio de 1875;
+
+**MDXLIV -** Resolução Provincial nº 67, de 31 de maio de 1875;
+
+**MDXLV -** Resolução Provincial nº 68, de 31 de maio de 1875;
+
+**MDXLVI -** Resolução Provincial nº 69, de 31 de maio de 1875;
+
+**MDXLVII -** Resolução Provincial nº 70, de 31 de maio de 1875;
+
+**MDXLVIII -** Resolução Provincial nº 71, de 31 de maio de 1875;
+
+**MDXLIX -** Resolução Provincial nº 72, de 31 de maio de 1875;
+
+**MDL -** Lei Provincial nº 1, de 2 de julho de 1875;
+
+**MDLI -** Lei Provincial nº 2, de 2 de julho de 1875;
+
+**MDLII -** Lei Provincial nº 3, de 5 de julho de 1875;
+
+**MDLIII -** Lei Provincial nº 4, de 5 de julho de 1875;
+
+**MDLIV -** Lei Provincial nº 5, de 6 de julho de 1875;
+
+**MDLV -** Resolução Provincial nº 6, de 5 de julho de 1875;
+
+**MDLVI -** Lei Provincial nº 6-A, de 6 de julho de 1875;
+
+**MDLVII -** Lei Provincial nº 7, de 6 de julho de 1875;
+
+**MDLVIII -** Lei Provincial nº 8, de 6 de julho de 1875;
+
+**MDLIX -** Lei Provincial nº 9, de 6 de julho de 1875;
+
+**MDLX -** Lei Provincial nº 10, de 7 de julho de 1875;
+
+**MDLXI -** Lei Provincial nº 11, de 7 de julho de 1875;
+
+**MDLXII -** Resolução Provincial nº 12, de 7 de julho de 1875;
+
+**MDLXIII -** Resolução Provincial nº 13, de 7 de julho de 1875;
+
+**MDLXIV -** Lei Provincial nº 14, de 7 de julho de 1875;
+
+**MDLXV -** Lei Provincial nº 15, de 7 de julho de 1875;
+
+**MDLXVI -** Lei Provincial nº 16, de 9 de julho de 1875;
+
+**MDLXVII -** Lei Provincial nº 1, de 21 de fevereiro de 1876;
+
+**MDLXVIII -** Resolução Provincial nº 2, de 21 de fevereiro de 1876;
+
+**MDLXIX -** Lei Provincial nº 3, de 21 de fevereiro de 1876;
+
+**MDLXX -** Resolução Provincial nº 4, de 21 de fevereiro de 1876;
+
+**MDLXXI -** Resolução Provincial nº 5, de 21 de fevereiro de 1876;
+
+**MDLXXII -** Lei Provincial nº 6, de 24 de fevereiro de 1876;
+
+**MDLXXIII -** Resolução Provincial nº 7, de 25 de fevereiro de 1876;
+
+**MDLXXIV -** Resolução Provincial nº 8, de 25 de fevereiro de 1876;
+
+**MDLXXV -** Lei Provincial nº 9, de 4 de março de 1876;
+
+**MDLXXVI -** Lei Provincial nº 10, de 5 de março de 1876;
+
+**MDLXXVII -** Resolução Provincial nº 11, de 5 de março de 1876;
+
+**MDLXXVIII -** Lei Provincial nº 12, de 9 de março de 1876;
+
+**MDLXXIX -** Lei Provincial nº 13, de 9 de março de 1876;
+
+**MDLXXX -** Lei Provincial nº 14, de 9 de março de 1876;
+
+**MDLXXXI -** Lei Provincial nº 15, de 10 de março de 1876;
+
+**MDLXXXII -** Lei Provincial nº 16, de 16 de março de 1876;
+
+**MDLXXXIII -** Lei Provincial nº 17, de 16 de março de 1876;
+
+**MDLXXXIV -** Lei Provincial nº 18, de 16 de março de 1876;
+
+**MDLXXXV -** Resolução Provincial nº 19, de 16 de março de 1876;
+
+**MDLXXXVI -** Resolução Provincial nº 20, de 16 de março de 1876;
+
+**MDLXXXVII -** Resolução Provincial nº 21, de 16 de março de 1876;
+
+**MDLXXXVIII -** Resolução Provincial nº 22, de 16 de março de 1876;
+
+**MDLXXXIX -** Resolução Provincial nº 23, de 17 de março de 1876;
+
+**MDXC -** Resolução Provincial nº 24, de 17 de março de 1876;
+
+**MDXCI -** Resolução Provincial nº 25, de 17 de março de 1876;
+
+**MDXCII -** Resolução Provincial nº 26, de 17 de março de 1876;
+
+**MDXCIII -** Resolução Provincial nº 27, de 17 de março de 1876;
+
+**MDXCIV -** Resolução Provincial nº 28, de 17 de março de 1876;
+
+**MDXCV -** Resolução Provincial nº 29, de 17 de março de 1876;
+
+**MDXCVI -** Resolução Provincial nº 30, de 17 de março de 1876;
+
+**MDXCVII -** Resolução Provincial nº 31, de 17 de março de 1876;
+
+**MDXCVIII -** Resolução Provincial nº 32, de 17 de março de 1876;
+
+**MDXCIX -** Lei Provincial nº 33, de 24 de março de 1876;
+
+**MDC -** Lei Provincial nº 34, de 29 de março de 1876;
+
+**MDCI -** Lei Provincial nº 35, de 29 de março de 1876;
+
+**MDCII -** Resolução Provincial nº 36, de 29 de março de 1876;
+
+**MDCIII -** Lei Provincial nº 37, de 29 de março de 1876;
+
+**MDCIV -** Lei Provincial nº 38, de 29 de março de 1876;
+
+**MDCV -** Resolução Provincial nº 39, de 29 de março de 1876;
+
+**MDCVI -** Lei Provincial nº 40, de 29 de março de 1876;
+
+**MDCVII -** Lei Provincial nº 41, de 29 de março de 1876;
+
+**MDCVIII -** Lei Provincial nº 42, de 29 de março de 1876;
+
+**MDCIX -** Resolução Provincial nº 43, de 29 de março de 1876;
+
+**MDCX -** Resolução Provincial nº 44, de 29 de março de 1876;
+
+**MDCXI -** Resolução Provincial nº 45, de 29 de março de 1876;
+
+**MDCXII -** Lei Provincial nº 46, de 29 de março de 1876;
+
+**MDCXIII -** Resolução Provincial nº 47, de 29 de março de 1876;
+
+**MDCXIV -** Lei Provincial nº 48, de 29 de março de 1876;
+
+**MDCXV -** Lei Provincial nº 49, de 30 de março de 1876;
+
+**MDCXVI -** Lei Provincial nº 50, de 30 de março de 1876;
+
+**MDCXVII -** Lei Provincial nº 51, de 30 de março de 1876;
+
+**MDCXVIII -** Lei Provincial nº 52, de 30 de março de 1876;
+
+**MDCXIX -** Lei Provincial nº 53, de 30 de março de 1876;
+
+**MDCXX -** Lei Provincial nº 54, de 30 de março de 1876;
+
+**MDCXXI -** Lei Provincial nº 55, de 30 de março de 1876;
+
+**MDCXXII -** Lei Provincial nº 56, de 30 de março de 1876;
+
+**MDCXXIII -** Resolução Provincial nº 57, de 30 de março de 1876;
+
+**MDCXXIV -** Lei Provincial nº 58, de 1º de abril de 1876;
+
+**MDCXXV -** Lei Provincial nº 59, de 2 de abril de 1876;
+
+**MDCXXVI -** Lei Provincial nº 60, de 2 de abril de 1876;
+
+**MDCXXVII -** Resolução Provincial nº 61, de 2 de abril de 1876;
+
+**MDCXXVIII -** Lei Provincial nº 62, de 2 de abril de 1876;
+
+**MDCXXIX -** Resolução Provincial nº 63, de 2 de abril de 1876;
+
+**MDCXXX -** Resolução Provincial nº 64, de 2 de abril de 1876;
+
+**MDCXXXI -** Resolução Provincial nº 65, de 2 de abril de 1876;
+
+**MDCXXXII -** Lei Provincial nº 66, de 2 de abril de 1876;
+
+**MDCXXXIII -** Resolução Provincial nº 67, de 2 de abril de 1876;
+
+**MDCXXXIV -** Lei Provincial nº 68, de 3 de abril de 1876;
+
+**MDCXXXV -** Lei Provincial nº 69, de 2 de abril de 1876;
+
+**MDCXXXVI -** Resolução Provincial nº 70, de 2 de abril de 1876;
+
+**MDCXXXVII -** Resolução Provincial nº 71, de 2 de abril de 1876;
+
+**MDCXXXVIII -** Lei Provincial nº 72, de 3 de abril de 1876;
+
+**MDCXXXIX -** Lei Provincial nº 73, de 3 de abril de 1876;
+
+**MDCXL -** Lei Provincial nº 74, de 3 de abril de 1876;
+
+**MDCXLI -** Resolução Provincial nº 76, de 3 de abril de 1876;
+
+**MDCXLII -** Lei Provincial nº 77, de 3 de abril de 1876;
+
+**MDCXLIII -** Resolução Provincial nº 78, de 3 de abril de 1876;
+
+**MDCXLIV -** Resolução Provincial nº 79, de 3 de abril de 1876;
+
+**MDCXLV -** Lei Provincial nº 80, de 3 de abril de 1876;
+
+**MDCXLVI -** Lei Provincial nº 81, de 3 de abril de 1876;
+
+**MDCXLVII -** Lei Provincial nº 82, de 3 de abril de 1876;
+
+**MDCXLVIII -** Lei Provincial nº 83, de 3 de abril de 1876;
+
+**MDCXLIX -** Resolução Provincial nº 84, de 3 de abril de 1876;
+
+**MDCL -** Lei Provincial nº 85, de 4 de abril de 1876;
+
+**MDCLI -** Lei Provincial nº 86, de 4 de abril de 1876;
+
+**MDCLII -** Lei Provincial nº 87, de 4 de abril de 1876;
+
+**MDCLIII -** Lei Provincial nº 88, de 4 de abril de 1876;
+
+**MDCLIV -** Lei Provincial nº 89, de 13 de abril de 1876;
+
+**MDCLV -** Lei Provincial nº 90, de 12 de maio de 1876;
+
+**MDCLVI -** Lei Provincial nº 91, de 15 de maio de 1876;
+
+**MDCLVII -** Lei Provincial nº 92, de 15 de maio de 1876;
+
+**MDCLVIII -** Resolução Provincial nº 93, de 15 de maio de 1876;
+
+**MDCLIX -** Resolução Provincial nº 94, de 15 de maio de 1876;
+
+**MDCLX -** Resolução Provincial nº 95, de 16 de maio de 1876;
+
+**MDCLXI -** Resolução Provincial nº 96, de 16 de maio de 1876;
+
+**MDCLXII -** Resolução Provincial nº 97, de 16 de maio de 1876;
+
+**MDCLXIII -** Lei Provincial nº 1, de 16 de março de 1877;
+
+**MDCLXIV -** Lei Provincial nº 2, de 16 de março de 1877;
+
+**MDCLXV -** Lei Provincial nº 3, de 20 de março de 1877;
+
+**MDCLXVI -** Lei Provincial nº 4, de 20 de março de 1877;
+
+**MDCLXVII -** Lei Provincial nº 5, de 20 de março de 1877;
+
+**MDCLXVIII -** Lei Provincial nº 6, de 20 de março de 1877;
+
+**MDCLXIX -** Lei Provincial nº 7, de 20 de março de 1877;
+
+**MDCLXX -** Lei Provincial nº 8, de 20 de março de 1877;
+
+**MDCLXXI -** Lei Provincial nº 9, de 20 de março de 1877;
+
+**MDCLXXII -** Lei Provincial nº 10, de 20 de março de 1877;
+
+**MDCLXXIII -** Lei Provincial nº 11, de 20 de março de 1877;
+
+**MDCLXXIV -** Lei Provincial nº 12, de 24 de março de 1877;
+
+**MDCLXXV -** Lei Provincial nº 13, de 24 de março de 1877;
+
+**MDCLXXVI -** Lei Provincial nº 14, de 26 de março de 1877;
+
+**MDCLXXVII -** Lei Provincial nº 15, de 26 de março de 1877;
+
+**MDCLXXVIII -** Lei Provincial nº 16, de 9 de abril de 1877;
+
+**MDCLXXIX -** Lei Provincial nº 17, de 9 de abril de 1877;
+
+**MDCLXXX -** Lei Provincial nº 18, de 9 de abril de 1877;
+
+**MDCLXXXI -** Lei Provincial nº 19, de 12 de abril de 1877;
+
+**MDCLXXXII -** Lei Provincial nº 20, de 13 de abril de 1877;
+
+**MDCLXXXIII -** Lei Provincial nº 21, de 13 de abril de 1877;
+
+**MDCLXXXIV -** Lei Provincial nº 22, de 5 de maio de 1877;
+
+**MDCLXXXV -** Lei Provincial nº 24, de 7 de maio de 1877;
+
+**MDCLXXXVI -** Lei Provincial nº 25, de 7 de maio de 1877;
+
+**MDCLXXXVII -** Lei Provincial nº 26, de 7 de maio de 1877;
+
+**MDCLXXXVIII -** Lei Provincial nº 27, de 7 de maio de 1877;
+
+**MDCLXXXIX -** Lei Provincial nº 28, de 7 de maio de 1877;
+
+**MDCXC -** Lei Provincial nº 29, de 7 de maio de 1877;
+
+**MDCXCI -** Lei Provincial nº 30, de 7 de maio de 1877;
+
+**MDCXCII -** Lei Provincial nº 31, de 7 de maio de 1877;
+
+**MDCXCIII -** Lei Provincial nº 32, de 8 de maio de 1877;
+
+**MDCXCIV -** Lei Provincial nº 33, de 8 de maio de 1877;
+
+**MDCXCV -** Lei Provincial nº 34, de 8 de maio de 1877;
+
+**MDCXCVI -** Lei Provincial nº 35, de 8 de maio de 1877;
+
+**MDCXCVII -** Lei Provincial nº 36, de 8 de maio de 1877;
+
+**MDCXCVIII -** Lei Provincial nº 37, de 8 de maio de 1877;
+
+**MDCXCIX -** Lei Provincial nº 38, de 8 de maio de 1877;
+
+**MDCC -** Lei Provincial nº 39, de 8 de maio de 1877;
+
+**MDCCI -** Lei Provincial nº 41, de 9 de maio de 1877;
+
+**MDCCII -** Lei Provincial nº 42, de 11 de maio de 1877;
+
+**MDCCIII -** Lei Provincial nº 44, de 11 de maio de 1877;
+
+**MDCCIV -** Lei Provincial nº 45, de 24 de maio de 1877;
+
+**MDCCV -** Lei Provincial nº 46, de 11 de maio de 1877;
+
+**MDCCVI -** Lei Provincial nº 48, de 11 de maio de 1877;
+
+**MDCCVII -** Lei Provincial nº 49, de 11 de maio de 1877;
+
+**MDCCVIII -** Lei Provincial nº 50, de 11 de maio de 1877;
+
+**MDCCIX -** Lei Provincial nº 51, de 11 de maio de 1877;
+
+**MDCCX -** Lei Provincial nº 52, de 11 de maio de 1877;
+
+**MDCCXI -** Lei Provincial nº 53, de 11 de maio de 1877;
+
+**MDCCXII -** Lei Provincial nº 54, de 11 de maio de 1877;
+
+**MDCCXIII -** Lei Provincial nº 55, de 11 de maio de 1877;
+
+**MDCCXIV -** Lei Provincial nº 56, de 11 de maio de 1877;
+
+**MDCCXV -** Lei Provincial nº 57, de 11 de maio de 1877;
+
+**MDCCXVI -** Lei Provincial nº 58, de 12 de maio de 1877;
+
+**MDCCXVII -** Lei Provincial nº 59, de 12 de maio de 1877;
+
+**MDCCXVIII -** Lei Provincial nº 60, de 12 de maio de 1877;
+
+**MDCCXIX -** Lei Provincial nº 61, de 12 de maio de 1877;
+
+**MDCCXX -** Lei Provincial nº 62, de 12 de maio de 1877;
+
+**MDCCXXI -** Lei Provincial nº 63, de 12 de maio de 1877;
+
+**MDCCXXII -** Lei Provincial nº 64, de 12 de maio de 1877;
+
+**MDCCXXIII -** Lei Provincial nº 65, de 4 de junho de 1877;
+
+**MDCCXXIV -** Resolução Provincial nº 1, de 16 de março de 1877;
+
+**MDCCXXV -** Resolução Provincial nº 2, de 16 de março de 1877;
+
+**MDCCXXVI -** Resolução Provincial nº 3, de 24 de março de 1877;
+
+**MDCCXXVII -** Resolução Provincial nº 4, de 7 de maio de 1877;
+
+**MDCCXXVIII -** Resolução Provincial nº 5, de 7 de maio de 1877;
+
+**MDCCXXIX -** Resolução Provincial nº 6, de 17 de maio de 1877;
+
+**MDCCXXX -** Resolução Provincial nº 7, de 17 de maio de 1877;
+
+**MDCCXXXI -** Resolução Provincial nº 8, de 17 de maio de 1877;
+
+**MDCCXXXII -** Resolução Provincial nº 9, de 17 de maio de 1877;
+
+**MDCCXXXIII -** Resolução Provincial nº 10, de 18 de maio de 1877;
+
+**MDCCXXXIV -** Resolução Provincial nº 11, de 18 de maio de 1877;
+
+**MDCCXXXV -** Resolução Provincial nº 12, de 18 de maio de 1877;
+
+**MDCCXXXVI -** Resolução Provincial nº 13, de 30 de maio de 1877;
+
+**MDCCXXXVII -** Resolução Provincial nº 14, de 30 de maio de 1877;
+
+**MDCCXXXVIII -** Resolução Provincial nº 15, de 30 de maio de 1877;
+
+**MDCCXXXIX -** Resolução Provincial nº 16, de 30 de maio de 1877;
+
+**MDCCXL -** Resolução Provincial nº 17, de 30 de maio de 1877;
+
+**MDCCXLI -** Resolução Provincial nº 18, de 30 de maio de 1877;
+
+**MDCCXLII -** Resolução Provincial nº 19, de 30 de maio de 1877;
+
+**MDCCXLIII -** Resolução Provincial nº 19-A, de 30 de maio de 1877;
+
+**MDCCXLIV -** Resolução Provincial nº 20, de 1º de junho de 1877;
+
+**MDCCXLV -** Resolução Provincial nº 21, de 1º de junho de 1877;
+
+**MDCCXLVI -** Resolução Provincial nº 21-A, de 1º de junho de 1877;
+
+**MDCCXLVII -** Resolução Provincial nº 22, de 2 de junho de 1877;
+
+**MDCCXLVIII -** Resolução Provincial nº 23, de 2 de junho de 1877;
+
+**MDCCXLIX -** Resolução Provincial nº 24, de 2 de junho de 1877;
+
+**MDCCL -** Resolução Provincial nº 25, de 2 de junho de 1877;
+
+**MDCCLI -** Resolução Provincial nº 27, de 2 de junho de 1877;
+
+**MDCCLII -** Resolução Provincial nº 28, de 2 de junho de 1877;
+
+**MDCCLIII -** Resolução Provincial nº 29, de 2 de junho de 1877;
+
+**MDCCLIV -** Resolução Provincial nº 29-A, de 2 de junho de 1877;
+
+**MDCCLV -** Resolução Provincial nº 30, de 3 de junho de 1877;
+
+**MDCCLVI -** Resolução Provincial nº 31, de 3 de junho de 1877;
+
+**MDCCLVII -** Resolução Provincial nº 32, de 3 de junho de 1877;
+
+**MDCCLVIII -** Resolução Provincial nº 33, de 3 de junho de 1877;
+
+**MDCCLIX -** Resolução Provincial nº 33-A, de 3 de junho de 1877;
+
+**MDCCLX -** Resolução Provincial nº 34, de 4 de junho de 1877;
+
+**MDCCLXI -** Resolução Provincial nº 35, de 4 de junho de 1877;
+
+**MDCCLXII -** Resolução Provincial nº 36, de 4 de junho de 1877;
+
+**MDCCLXIII -** Lei Provincial nº 1, de 25 de fevereiro de 1878;
+
+**MDCCLXIV -** Lei Provincial nº 2, de 8 de março de 1878;
+
+**MDCCLXV -** Lei Provincial nº 3, de 8 de março de 1878;
+
+**MDCCLXVI -** Lei Provincial nº 4, de 8 de março de 1878;
+
+**MDCCLXVII -** Lei Provincial nº 5, de 13 de março de 1878;
+
+**MDCCLXVIII -** Lei Provincial nº 6, de 13 de março de 1878;
+
+**MDCCLXIX -** Lei Provincial nº 7, de 18 de março de 1878;
+
+**MDCCLXX -** Lei Provincial nº 8, de 23 de março de 1878;
+
+**MDCCLXXI -** Lei Provincial nº 9, de 23 de março de 1878;
+
+**MDCCLXXII -** Lei Provincial nº 10, de 30 de março de 1878;
+
+**MDCCLXXIII -** Lei Provincial nº 11, de 1º de abril de 1878;
+
+**MDCCLXXIV -** Lei Provincial nº 12, de 1º de abril de 1878;
+
+**MDCCLXXV -** Lei Provincial nº 13, de 6 de abril de 1878;
+
+**MDCCLXXVI -** Lei Provincial nº 14, de 6 de abril de 1878;
+
+**MDCCLXXVII -** Lei Provincial nº 15, de 6 de abril de 1878;
+
+**MDCCLXXVIII -** Lei Provincial nº 16, de 6 de abril de 1878;
+
+**MDCCLXXIX -** Lei Provincial nº 17, de 12 de março de 1878;
+
+**MDCCLXXX -** Lei Provincial nº 18, de 19 de maio de 1878;
+
+**MDCCLXXXI -** Resolução Provincial nº 1, de 20 de fevereiro de 1878;
+
+**MDCCLXXXII -** Resolução Provincial nº 2, de 27 de fevereiro de 1878;
+
+**MDCCLXXXIII -** Resolução Provincial nº 3, de 13 de março de 1878;
+
+**MDCCLXXXIV -** Resolução Provincial nº 4, de 20 de março de 1878;
+
+**MDCCLXXXV -** Resolução Provincial nº 5, de 1º de abril de 1878;
+
+**MDCCLXXXVI -** Resolução Provincial nº 6, de 1º de abril de 1878;
+
+**MDCCLXXXVII -** Resolução Provincial nº 7, de 3 de abril de 1878;
+
+**MDCCLXXXVIII -** Resolução Provincial nº 8, de 3 de abril de 1878;
+
+**MDCCLXXXIX -** Resolução Provincial nº 9, de 5 de abril de 1878;
+
+**MDCCXC -** Resolução Provincial nº 10, de 5 de fevereiro de 1878;
+
+**MDCCXCI -** Resolução Provincial nº 11, de 5 de abril de 1878;
+
+**MDCCXCII -** Resolução Provincial nº 12, de 5 de abril de 1878;
+
+**MDCCXCIII -** Resolução Provincial nº 13, de 13 de maio de 1878;
+
+**MDCCXCIV -** Resolução Provincial nº 14, de 13 de maio de 1878;
+
+**MDCCXCV -** Resolução Provincial nº 15, de 13 de maio de 1878;
+
+**MDCCXCVI -** Resolução Provincial nº 16, de 13 de maio de 1878;
+
+**MDCCXCVII -** Resolução Provincial nº 17, de 14 de maio de 1878;
+
+**MDCCXCVIII -** Resolução Provincial nº 18, de 14 de maio de 1878;
+
+**MDCCXCIX -** Resolução Provincial nº 19, de 14 de maio de 1878;
+
+**MDCCC -** Resolução Provincial nº 20, de 14 de maio de 1878;
+
+**MDCCCI -** Resolução Provincial nº 21, de 14 de maio de 1878;
+
+**MDCCCII -** Resolução Provincial nº 22, de 14 de maio de 1878;
+
+**MDCCCIII -** Resolução Provincial nº 23, de 14 de maio de 1878;
+
+**MDCCCIV -** Resolução Provincial nº 24, de 15 de maio de 1878;
+
+**MDCCCV -** Resolução Provincial nº 25, de 6 de junho de 1878;
+
+**MDCCCVI -** Lei Provincial nº 1, de 14 de março de 1879;
+
+**MDCCCVII -** Lei Provincial nº 2, de 21 de março de 1879;
+
+**MDCCCVIII -** Lei Provincial nº 3, de 21 de março de 1879;
+
+**MDCCCIX -** Lei Provincial nº 4, de 21 de março de 1879;
+
+**MDCCCX -** Lei Provincial nº 5, de 21 de março de 1879;
+
+**MDCCCXI -** Lei Provincial nº 6, de 21 de março de 1879;
+
+**MDCCCXII -** Lei Provincial nº 7, de 21 de março de 1879;
+
+**MDCCCXIII -** Lei Provincial nº 8, de 21 de março de 1879;
+
+**MDCCCXIV -** Lei Provincial nº 9, de 21 de março de 1879;
+
+**MDCCCXV -** Lei Provincial nº 10, de 21 de março de 1879;
+
+**MDCCCXVI -** Lei Provincial nº 12, de 22 de março de 1879;
+
+**MDCCCXVII -** Lei Provincial nº 13, de 26 de março de 1879;
+
+**MDCCCXVIII -** Lei Provincial nº 14, de 14 de março de 1879;
+
+**MDCCCXIX -** Lei Provincial nº 15, de 26 de março de 1879;
+
+**MDCCCXX -** Lei Provincial nº 16, de 31 de março de 1879;
+
+**MDCCCXXI -** Lei Provincial nº 17, de 31 de março de 1879;
+
+**MDCCCXXII -** Lei Provincial nº 18, de 31 de março de 1879;
+
+**MDCCCXXIII -** Lei Provincial nº 19, de 31 de março de 1879;
+
+**MDCCCXXIV -** Lei Provincial nº 20, de 31 de março de 1879;
+
+**MDCCCXXV -** Lei Provincial nº 21, de 31 de março de 1879;
+
+**MDCCCXXVI -** Lei Provincial nº 22, de 31 de março de 1879;
+
+**MDCCCXXVII -** Lei Provincial nº 23, de 31 de março de 1879;
+
+**MDCCCXXVIII -** Lei Provincial nº 24, de 31 de março de 1879;
+
+**MDCCCXXIX -** Lei Provincial nº 25, de 2 de abril de 1879;
+
+**MDCCCXXX -** Lei Provincial nº 26, de 2 de abril de 1879;
+
+**MDCCCXXXI -** Lei Provincial nº 27, de 2 de abril de 1879;
+
+**MDCCCXXXII -** Lei Provincial nº 28, de 2 de abril de 1879;
+
+**MDCCCXXXIII -** Lei Provincial nº 29, de 5 de abril de 1879;
+
+**MDCCCXXXIV -** Lei Provincial nº 30, de 5 de abril de 1879;
+
+**MDCCCXXXV -** Lei Provincial nº 31, de 7 de abril de 1879;
+
+**MDCCCXXXVI -** Lei Provincial nº 32, de 7 de abril de 1879;
+
+**MDCCCXXXVII -** Lei Provincial nº 33, de 7 de abril de 1879;
+
+**MDCCCXXXVIII -** Lei Provincial nº 35, de 7 de abril de 1879;
+
+**MDCCCXXXIX -** Lei Provincial nº 36, de 7 de abril de 1879;
+
+**MDCCCXL -** Lei Provincial nº 37, de 7 de abril de 1879;
+
+**MDCCCXLI -** Lei Provincial nº 38, de 8 de abril de 1879;
+
+**MDCCCXLII -** Lei Provincial nº 39, de 8 de abril de 1879;
+
+**MDCCCXLIII -** Lei Provincial nº 40, de 8 de abril de 1879;
+
+**MDCCCXLIV -** Lei Provincial nº 41, de 8 de abril de 1879;
+
+**MDCCCXLV -** Lei Provincial nº 42, de 11 de abril de 1879;
+
+**MDCCCXLVI -** Lei Provincial nº 43, de 11 de abril de 1879;
+
+**MDCCCXLVII -** Lei Provincial nº 44, de 13 de abril de 1879;
+
+**MDCCCXLVIII -** Lei Provincial nº 45, de 13 de abril de 1879;
+
+**MDCCCXLIX -** Lei Provincial nº 46, de 15 de abril de 1879;
+
+**MDCCCL -** Lei Provincial nº 47, de 15 de abril de 1879;
+
+**MDCCCLI -** Lei Provincial nº 48, de 15 de abril de 1879;
+
+**MDCCCLII -** Lei Provincial nº 50, de 15 de abril de 1879;
+
+**MDCCCLIII -** Lei Provincial nº 51, de 15 de abril de 1879;
+
+**MDCCCLIV -** Lei Provincial nº 52, de 24 de abril de 1879;
+
+**MDCCCLV -** Lei Provincial nº 53, de 4 de maio de 1879;
+
+**MDCCCLVI -** Lei Provincial nº 54, de 4 de maio de 1879;
+
+**MDCCCLVII -** Lei Provincial nº 55, de 4 de maio de 1879;
+
+**MDCCCLVIII -** Lei Provincial nº 56, de 4 de maio de 1879;
+
+**MDCCCLIX -** Lei Provincial nº 57, de 4 de maio de 1879;
+
+**MDCCCLX -** Lei Provincial nº 58, de 4 de maio de 1879;
+
+**MDCCCLXI -** Lei Provincial nº 59, de 4 de maio de 1879;
+
+**MDCCCLXII -** Lei Provincial nº 60, de 4 de maio de 1879;
+
+**MDCCCLXIII -** Resolução Provincial nº 61, de 4 de maio de 1879;
+
+**MDCCCLXIV -** Lei Provincial nº 62, de 4 de maio de 1879;
+
+**MDCCCLXV -** Resolução Provincial nº 1, de 21 de março de 1879;
+
+**MDCCCLXVI -** Resolução Provincial nº 2, de 22 de março de 1879;
+
+**MDCCCLXVII -** Resolução Provincial nº 3, de 26 de março de 1879;
+
+**MDCCCLXVIII -** Resolução Provincial nº 4, de 31 de março de 1879;
+
+**MDCCCLXIX -** Resolução Provincial nº 5, de 2 de abril de 1879;
+
+**MDCCCLXX -** Resolução Provincial nº 6, de 7 de abril de 1879;
+
+**MDCCCLXXI -** Resolução Provincial nº 7, de 8 de abril de 1879;
+
+**MDCCCLXXII -** Resolução Provincial nº 8, de 28 de abril de 1879;
+
+**MDCCCLXXIII -** Resolução Provincial nº 9, de 13 de abril de 1879;
+
+**MDCCCLXXIV -** Resolução Provincial nº 10, de 4 de maio de 1879;
+
+**MDCCCLXXV -** Resolução Provincial nº 11, de 4 de maio de 1879;
+
+**MDCCCLXXVI -** Resolução Provincial nº 13, de 31 de maio de 1879;
+
+**MDCCCLXXVII -** Resolução Provincial nº 14, de 31 de maio de 1879;
+
+**MDCCCLXXVIII -** Resolução Provincial nº 15, de 31 de maio de 1879;
+
+**MDCCCLXXIX -** Resolução Provincial nº 16, de 31 de maio de 1879;
+
+**MDCCCLXXX -** Lei Provincial nº 1, de 25 de fevereiro de 1880;
+
+**MDCCCLXXXI -** Lei Provincial nº 2, de 25 de fevereiro de 1880;
+
+**MDCCCLXXXII -** Lei Provincial nº 3, de 25 de fevereiro de 1880;
+
+**MDCCCLXXXIII -** Lei Provincial nº 4, de 25 de fevereiro de 1880;
+
+**MDCCCLXXXIV -** Lei Provincial nº 5, de 9 de março de 1880;
+
+**MDCCCLXXXV -** Lei Provincial nº 6, de 10 de março de 1880;
+
+**MDCCCLXXXVI -** Lei Provincial nº 7, de 10 de março de 1880;
+
+**MDCCCLXXXVII -** Lei Provincial nº 8, de 13 de março de 1880;
+
+**MDCCCLXXXVIII -** Lei Provincial nº 9, de 16 de março de 1880;
+
+**MDCCCLXXXIX -** Lei Provincial nº 10, de 16 de março de 1880;
+
+**MDCCCXC -** Lei Provincial nº 11, de 16 de março de 1880;
+
+**MDCCCXCI -** Lei Provincial nº 12, de 16 de março de 1880;
+
+**MDCCCXCII -** Lei Provincial nº 13, de 16 de março de 1880;
+
+**MDCCCXCIII -** Lei Provincial nº 14, de 16 de março de 1880;
+
+**MDCCCXCIV -** Lei Provincial nº 16, de 16 de março de 1880;
+
+**MDCCCXCV -** Lei Provincial nº 17, de 18 de março de 1880;
+
+**MDCCCXCVI -** Lei Provincial nº 18, de 18 de março de 1880;
+
+**MDCCCXCVII -** Lei Provincial nº 19, de 18 de março de 1880;
+
+**MDCCCXCVIII -** Lei Provincial nº 20, de 20 de março de 1880;
+
+**MDCCCXCIX -** Lei Provincial nº 21, de 20 de março de 1880;
+
+**MCM -** Lei Provincial nº 22, de 20 de março de 1880;
+
+**MCMI -** Lei Provincial nº 23, de 20 de março de 1880;
+
+**MCMII -** Lei Provincial nº 24, de 20 de março de 1880;
+
+**MCMIII -** Lei Provincial nº 25, de 20 de março de 1880;
+
+**MCMIV -** Lei Provincial nº 26, de 20 de março de 1880;
+
+**MCMV -** Lei Provincial nº 27, de 20 de março de 1880;
+
+**MCMVI -** Lei Provincial nº 28, de 20 de março de 1880;
+
+**MCMVII -** Lei Provincial nº 29, de 20 de março de 1880;
+
+**MCMVIII -** Lei Provincial nº 30, de 20 de março de 1880;
+
+**MCMIX -** Lei Provincial nº 31, de 20 de março de 1880;
+
+**MCMX -** Lei Provincial nº 32, de 20 de março de 1880;
+
+**MCMXI -** Lei Provincial nº 32-A, de 20 de março de 1880;
+
+**MCMXII -** Lei Provincial nº 33, de 22 de março de 1880;
+
+**MCMXIII -** Lei Provincial nº 34, de 24 de março de 1880;
+
+**MCMXIV -** Lei Provincial nº 35, de 24 de março de 1880;
+
+**MCMXV -** Lei Provincial nº 36, de 24 de março de 1880;
+
+**MCMXVI -** Lei Provincial nº 37, de 27 de março de 1880;
+
+**MCMXVII -** Lei Provincial nº 38, de 27 de março de 1880;
+
+**MCMXVIII -** Lei Provincial nº 39, de 27 de março de 1880;
+
+**MCMXIX -** Lei Provincial nº 40, de 27 de março de 1880;
+
+**MCMXX -** Lei Provincial nº 41, de 27 de março de 1880;
+
+**MCMXXI -** Lei Provincial nº 42, de 29 de março de 1880;
+
+**MCMXXII -** Lei Provincial nº 43, de 29 de março de 1880;
+
+**MCMXXIII -** Lei Provincial nº 44, de 30 de março de 1880;
+
+**MCMXXIV -** Lei Provincial nº 45, de 6 de abril de 1880;
+
+**MCMXXV -** Lei Provincial nº 46, de 6 de abril de 1880;
+
+**MCMXXVI -** Lei Provincial nº 47, de 6 de abril de 1880;
+
+**MCMXXVII -** Lei Provincial nº 48, de 6 de abril de 1880;
+
+**MCMXXVIII -** Lei Provincial nº 49, de 6 de abril de 1880;
+
+**MCMXXIX -** Lei Provincial nº 50, de 7 de abril de 1880;
+
+**MCMXXX -** Lei Provincial nº 51, de 7 de abril de 1880;
+
+**MCMXXXI -** Lei Provincial nº 52, de 8 de abril de 1880;
+
+**MCMXXXII -** Lei Provincial nº 53, de 8 de abril de 1880;
+
+**MCMXXXIII -** Lei Provincial nº 54, de 8 de abril de 1880;
+
+**MCMXXXIV -** Lei Provincial nº 55, de 9 de abril de 1880;
+
+**MCMXXXV -** Lei Provincial nº 56, de 10 de abril de 1880;
+
+**MCMXXXVI -** Lei Provincial nº 57, de 10 de abril de 1880;
+
+**MCMXXXVII -** Lei Provincial nº 58, de 10 de abril de 1880;
+
+**MCMXXXVIII -** Lei Provincial nº 59, de 10 de abril de 1880;
+
+**MCMXXXIX -** Lei Provincial nº 60, de 10 de abril de 1880;
+
+**MCMXL -** Lei Provincial nº 61, de 13 de abril de 1880;
+
+**MCMXLI -** Lei Provincial nº 62, de 13 de abril de 1880;
+
+**MCMXLII -** Lei Provincial nº 63, de 13 de abril de 1880;
+
+**MCMXLIII -** Lei Provincial nº 64, de 14 de abril de 1880;
+
+**MCMXLIV -** Lei Provincial nº 65, de 14 de abril de 1880;
+
+**MCMXLV -** Lei Provincial nº 66, de 14 de abril de 1880;
+
+**MCMXLVI -** Lei Provincial nº 68, de 14 de abril de 1880;
+
+**MCMXLVII** \- Lei Provincial nº 69, de 14 de abril de 1880;
+
+**MCMXLVIII -** Lei Provincial nº 70, de 14 de abril de 1880;
+
+**MCMXLIX -** Lei Provincial nº 71, de 15 de abril de 1880;
+
+**MCML -** Lei Provincial nº 72, de 15 de abril de 1880;
+
+**MCMLI -** Lei Provincial nº 73, de 20 de abril de 1880;
+
+**MCMLII -** Lei Provincial nº 74, de 20 de abril de 1880;
+
+**MCMLIII -** Lei Provincial nº 75, de 21 de abril de 1880;
+
+**MCMLIV -** Lei Provincial nº 76, de 21 de abril de 1880;
+
+**MCMLV -** Lei Provincial nº 77, de 21 de abril de 1880;
+
+**MCMLVI -** Lei Provincial nº 79, de 21 de abril de 1880;
+
+**MCMLVII -** Lei Provincial nº 80, de 21 de abril de 1880;
+
+**MCMLVIII -** Lei Provincial nº 81, de 21 de abril de 1880;
+
+**MCMLIX -** Lei Provincial nº 82, de 21 de abril de 1880;
+
+**MCMLX -** Lei Provincial nº 84, de 21 de abril de 1880;
+
+**MCMLXI -** Lei Provincial nº 85, de 21 de abril de 1880;
+
+**MCMLXII -** Lei Provincial nº 86, de 21 de abril de 1880;
+
+**MCMLXIII -** Lei Provincial nº 87, de 21 de abril de 1880;
+
+**MCMLXIV -** Lei Provincial nº 88, de 21 de abril de 1880;
+
+**MCMLXV -** Lei Provincial nº 89, de 21 de abril de 1880;
+
+**MCMLXVI -** Lei Provincial nº 90, de 21 de abril de 1880;
+
+**MCMLXVII -** Lei Provincial nº 91, de 21 de abril de 1880;
+
+**MCMLXVIII -** Lei Provincial nº 92, de 21 de abril de 1880;
+
+**MCMLXIX -** Lei Provincial nº 93, de 21 de abril de 1880;
+
+**MCMLXX -** Lei Provincial nº 94, de 21 de abril de 1880;
+
+**MCMLXXI -** Lei Provincial nº 95, de 21 de abril de 1880;
+
+**MCMLXXII -** Lei Provincial nº 96, de 21 de abril de 1880;
+
+**MCMLXXIII -** Lei Provincial nº 97, de 22 de abril de 1880;
+
+**MCMLXXIV -** Lei Provincial nº 98, de 24 de abril de 1880;
+
+**MCMLXXV -** Lei Provincial nº 99, de 24 de abril de 1880;
+
+**MCMLXXVI -** Lei Provincial nº 100, de 24 de abril de 1880;
+
+**MCMLXXVII -** Lei Provincial nº 101, de 24 de abril de 1880;
+
+**MCMLXXVIII -** Lei Provincial nº 102, de 24 de abril de 1880;
+
+**MCMLXXIX -** Lei Provincial nº 103, de 24 de abril de 1880;
+
+**MCMLXXX -** Lei Provincial nº 104, de 24 de abril de 1880;
+
+**MCMLXXXI -** Lei Provincial nº 105, de 24 de abril de 1880;
+
+**MCMLXXXII -** Lei Provincial nº 106, de 24 de abril de 1880;
+
+**MCMLXXXIII -** Lei Provincial nº 107, de 25 de abril de 1880;
+
+**MCMLXXXIV -** Lei Provincial nº 109, de 25 de abril de 1880;
+
+**MCMLXXXV -** Lei Provincial nº 110, de 25 de abril de 1880;
+
+**MCMLXXXVI -** Lei Provincial nº 111, de 25 de abril de 1880;
+
+**MCMLXXXVII -** Lei Provincial nº 112, de 25 de abril de 1880;
+
+**MCMLXXXVIII -** Lei Provincial nº 113, de 25 de abril de 1880;
+
+**MCMLXXXIX -** Lei Provincial nº 114, de 25 de abril de 1880;
+
+**MCMXC -** Lei Provincial nº 115, de 25 de abril de 1880;
+
+**MCMXCI -** Lei Provincial nº 117, de 25 de abril de 1880;
+
+**MCMXCII -** Lei Provincial nº 118, de 25 de abril de 1880;
+
+**MCMXCIII -** Lei Provincial nº 119, de 25 de abril de 1880;
+
+**MCMXCIV -** Lei Provincial nº 120, de 25 de abril de 1880;
+
+**MCMXCV -** Lei Provincial nº 121, de 25 de abril de 1880;
+
+**MCMXCVI -** Lei Provincial nº 122, de 25 de abril de 1880;
+
+**MCMXCVII -** Lei Provincial nº 123, de 25 de abril de 1880;
+
+**MCMXCVIII -** Lei Provincial nº 124, de 25 de abril de 1880;
+
+**MCMXCIX -** Lei Provincial nº 125, de 25 de abril de 1880;
+
+**MM -** Lei Provincial nº 126, de 25 de abril de 1880;
+
+**MMI -** Lei Provincial nº 127, de 25 de abril de 1880;
+
+**MMII -** Lei Provincial nº 128, de 25 de abril de 1880;
+
+**MMIII -** Lei Provincial nº 129, de 25 de abril de 1880;
+
+**MMIV -** Lei Provincial nº 130, de 25 de abril de 1880;
+
+**MMV -** Lei Provincial nº 132, de 25 de abril de 1880;
+
+**MMVI -** Lei Provincial nº 133, de 26 de abril de 1880;
+
+**MMVII -** Lei Provincial nº 134, de 26 de abril de 1880;
+
+**MMVIII -** Lei Provincial nº 135, de 26 de abril de 1880;
+
+**MMIX -** Lei Provincial nº 136, de 26 de abril de 1880;
+
+**MMX -** Lei Provincial nº 137, de 26 de abril de 1880;
+
+**MMXI -** Lei Provincial nº 138, de 26 de abril de 1880;
+
+**MMXII -** Lei Provincial nº 139, de 26 de abril de 1880;
+
+**MMXIII -** Lei Provincial nº 140, de 26 de abril de 1880;
+
+**MMXIV -** Lei Provincial nº 141, de 26 de abril de 1880;
+
+**MMXV -** Lei Provincial nº 142, de 26 de abril de 1880;
+
+**MMXVI -** Lei Provincial nº 143, de 26 de abril de 1880;
+
+**MMXVII -** Lei Provincial nº 144, de 26 de abril de 1880;
+
+**MMXVIII -** Lei Provincial nº 145, de 26 de abril de 1880;
+
+**MMXIX -** Lei Provincial nº 146, de 26 de abril de 1880;
+
+**MMXX -** Lei Provincial nº 147, de 26 de abril de 1880;
+
+**MMXXI -** Lei Provincial nº 148, de 26 de abril de 1880;
+
+**MMXXII -** Lei Provincial nº 149, de 26 de abril de 1880;
+
+**MMXXIII -** Lei Provincial nº 150, de 26 de abril de 1880;
+
+**MMXXIV -** Lei Provincial nº 152, de 27 de abril de 1880;
+
+**MMXXV -** Lei Provincial nº 153, de 27 de abril de 1880;
+
+**MMXXVI -** Lei Provincial nº 154, de 27 de abril de 1880;
+
+**MMXXVII -** Lei Provincial nº 155, de 27 de abril de 1880;
+
+**MMXXVIII -** Lei Provincial nº 156, de 29 de abril de 1880;
+
+**MMXXIX -** Lei Provincial nº 157, de 30 de abril de 1880;
+
+**MMXXX -** Lei Provincial nº 158, de 30 de abril de 1880;
+
+**MMXXXI -** Lei Provincial nº 159, de 30 de abril de 1880;
+
+**MMXXXII -** Lei Provincial nº 160, de 30 de abril de 1880;
+
+**MMXXXIII -** Lei Provincial nº 161, de 2 de maio de 1880;
+
+**MMXXXIV -** Lei Provincial nº 162, de 2 de junho de 1880;
+
+**MMXXXV -** Resolução Provincial nº 1, de 2 de março de 1880;
+
+**MMXXXVI -** Resolução Provincial nº 2, de 2 de março de 1880;
+
+**MMXXXVII -** Resolução Provincial nº 3, de 12 de março de 1880;
+
+**MMXXXVIII -** Resolução Provincial nº 4, de 18 de março de 1880;
+
+**MMXXXIX -** Resolução Provincial nº 5, de 18 de março de 1880;
+
+**MMXL -** Resolução Provincial nº 6, de 24 de março de 1880;
+
+**MMXLI -** Resolução Provincial nº 7, de 28 de março de 1880;
+
+**MMXLII -** Resolução Provincial nº 8, de 29 de março de 1880;
+
+**MMXLIII -** Resolução Provincial nº 9, de 6 de abril de 1880;
+
+**MMXLIV -** Resolução Provincial nº 10, de 6 de abril de 1880;
+
+**MMXLV -** Resolução Provincial nº 11, de 24 de abril de 1880;
+
+**MMXLVI -** Resolução Provincial nº 12, de 25 de abril de 1880;
+
+**MMXLVII -** Resolução Provincial nº 13, de 25 de abril de 1880;
+
+**MMXLVIII -** Resolução Provincial nº 14, de 25 de abril de 1880;
+
+**MMXLIX -** Resolução Provincial nº 15, de 21 de maio de 1880;
+
+**MML -** Resolução Provincial nº 16, de 1º de junho de 1880;
+
+**MMLI -** Resolução Provincial nº 17, de 10 de junho de 1880;
+
+**MMLII -** Resolução Provincial nº 18, de 10 de junho de 1880;
+
+**MMLIII -** Resolução Provincial nº 19, de 10 de junho de 1880;
+
+**MMLIV -** Resolução Provincial nº 20, de 10 de junho de 1880;
+
+**MMLV -** Resolução Provincial nº 21, de 10 de junho de 1880;
+
+**MMLVI -** Lei Provincial nº 1, de 23 de janeiro de 1881;
+
+**MMLVII -** Lei Provincial nº 2, de 23 de janeiro de 1881;
+
+**MMLVIII -** Lei Provincial nº 3, de 23 de janeiro de 1881;
+
+**MMLIX -** Lei Provincial nº 4, de 23 de janeiro de 1881;
+
+**MMLX -** Lei Provincial nº 5, de 26 de janeiro de 1881;
+
+**MMLXI -** Lei Provincial nº 6, de 13 de fevereiro de 1881;
+
+**MMLXII -** Lei Provincial nº 7, de 13 de fevereiro de 1881;
+
+**MMLXIII -** Lei Provincial nº 8, de 13 de fevereiro de 1881;
+
+**MMLXIV -** Lei Provincial nº 9, de 13 de fevereiro de 1881;
+
+**MMLXV -** Lei Provincial nº 10, de 13 de fevereiro de 1881;
+
+**MMLXVI -** Lei Provincial nº 11, de 13 de fevereiro de 1881;
+
+**MMLXVII -** Lei Provincial nº 12, de 13 de fevereiro de 1881;
+
+**MMLXVIII -** Lei Provincial nº 13, de 13 de fevereiro de 1881;
+
+**MMLXIX -** Lei Provincial nº 14, de 13 de fevereiro de 1881;
+
+**MMLXX -** Lei Provincial nº 15, de 14 de fevereiro de 1881;
+
+**MMLXXI -** Lei Provincial nº 16, de 15 de fevereiro de 1881;
+
+**MMLXXII -** Lei Provincial nº 17, de 15 de fevereiro de 1881;
+
+**MMLXXIII -** Lei Provincial nº 18, de 15 de fevereiro de 1881;
+
+**MMLXXIV -** Lei Provincial nº 19, de 15 de fevereiro de 1881;
+
+**MMLXXV -** Lei Provincial nº 20, de 15 de fevereiro de 1881;
+
+**MMLXXVI -** Lei Provincial nº 21, de 15 de fevereiro de 1881;
+
+**MMLXXVII -** Lei Provincial nº 22, de 16 de fevereiro de 1881;
+
+**MMLXXVIII -** Lei Provincial nº 23, de 16 de fevereiro de 1881;
+
+**MMLXXIX -** Lei Provincial nº 25, de 16 de fevereiro de 1881;
+
+**MMLXXX -** Lei Provincial nº 26, de 16 de fevereiro de 1881;
+
+**MMLXXXI -** Lei Provincial nº 27, de 16 de fevereiro de 1881;
+
+**MMLXXXII -** Lei Provincial nº 28, de 16 de fevereiro de 1881;
+
+**MMLXXXIII -** Lei Provincial nº 29, de 16 de fevereiro de 1881;
+
+**MMLXXXIV -** Lei Provincial nº 29-A, de 18 de fevereiro de 1881;
+
+**MMLXXXV -** Lei Provincial nº 30, de 21 de fevereiro de 1881;
+
+**MMLXXXVI -** Lei Provincial nº 31, de 21 de fevereiro de 1881;
+
+**MMLXXXVII -** Lei Provincial nº 32, de 21 de fevereiro de 1881;
+
+**MMLXXXVIII -** Lei Provincial nº 33, de 21 de fevereiro de 1881;
+
+**MMLXXXIX -** Lei Provincial nº 34, de 21 de fevereiro de 1881;
+
+**MMXC -** Lei Provincial nº 35, de 21 de fevereiro de 1881;
+
+**MMXCI -** Lei Provincial nº 37, de 21 de fevereiro de 1881;
+
+**MMXCII -** Lei Provincial nº 38, de 21 de fevereiro de 1881;
+
+**MMXCIII -** Lei Provincial nº 39, de 21 de fevereiro de 1881;
+
+**MMXCIV -** Lei Provincial nº 40, de 21 de fevereiro de 1881;
+
+**MMXCV -** Lei Provincial nº 41, de 22 de fevereiro de 1881;
+
+**MMXCVI -** Lei Provincial nº 42, de 22 de fevereiro de 1881;
+
+**MMXCVII -** Lei Provincial nº 43, de 22 de fevereiro de 1881;
+
+**MMXCVIII -** Lei Provincial nº 44, de 22 de fevereiro de 1881;
+
+**MMXCIX -** Lei Provincial nº 45, de 22 de fevereiro de 1881;
+
+**MMC -** Lei Provincial nº 46, de 22 de fevereiro de 1881;
+
+**MMCI -** Lei Provincial nº 47, de 22 de fevereiro de 1881;
+
+**MMCII -** Lei Provincial nº 48, de 22 de fevereiro de 1881;
+
+**MMCIII -** Lei Provincial nº 49, de 22 de fevereiro de 1881;
+
+**MMCIV -** Lei Provincial nº 50, de 22 de fevereiro de 1881;
+
+**MMCV -** Lei Provincial nº 51, de 22 de fevereiro de 1881;
+
+**MMCVI -** Lei Provincial nº 52, de 25 de fevereiro de 1881;
+
+**MMCVII -** Lei Provincial nº 53, de 26 de fevereiro de 1881;
+
+**MMCVIII -** Lei Provincial nº 54, de 26 de fevereiro de 1881;
+
+**MMCIX -** Lei Provincial nº 55, de 26 de fevereiro de 1881;
+
+**MMCX -** Lei Provincial nº 56, de 28 de fevereiro de 1881;
+
+**MMCXI -** Lei Provincial nº 57, de 28 de fevereiro de 1881;
+
+**MMCXII -** Lei Provincial nº 58, de 28 de fevereiro de 1881;
+
+**MMCXIII -** Lei Provincial nº 59, de 2 de março de 1881;
+
+**MMCXIV -** Lei Provincial nº 60, de 23 de maio de 1881;
+
+**MMCXV -** Lei Provincial nº 61, de 24 de maio de 1881;
+
+**MMCXVI -** Lei Provincial nº 62, de 28 de maio de 1881;
+
+**MMCXVII -** Lei Provincial nº 63, de 28 de maio de 1881;
+
+**MMCXVIII -** Lei Provincial nº 64, de 7 de junho de 1881;
+
+**MMCXIX -** Lei Provincial nº 65, de 8 de junho de 1881;
+
+**MMCXX -** Lei Provincial nº 66, de 8 de junho de 1881;
+
+**MMCXXI -** Lei Provincial nº 68, de 17 de junho de 1881;
+
+**MMCXXII -** Lei Provincial nº 69, de 17 de junho de 1881;
+
+**MMCXXIII -** Lei Provincial nº 70, de 17 de junho de 1881;
+
+**MMCXXIV -** Lei Provincial nº 71, de 17 de junho de 1881;
+
+**MMCXXV -** Lei Provincial nº 72, de 17 de junho de 1881;
+
+**MMCXXVI -** Lei Provincial nº 73, de 17 de junho de 1881;
+
+**MMCXXVII -** Lei Provincial nº 74, de 17 de junho de 1881;
+
+**MMCXXVIII -** Lei Provincial nº 75, de 17 de junho de 1881;
+
+**MMCXXIX -** Lei Provincial nº 76, de 17 de junho de 1881;
+
+**MMCXXX -** Lei Provincial nº 77, de 17 de junho de 1881;
+
+**MMCXXXI -** Lei Provincial nº 78, de 17 de junho de 1881;
+
+**MMCXXXII -** Lei Provincial nº 79, de 17 de junho de 1881;
+
+**MMCXXXIII -** Lei Provincial nº 80, de 17 de junho de 1881;
+
+**MMCXXXIV -** Lei Provincial nº 81, de 17 de junho de 1881;
+
+**MMCXXXV -** Lei Provincial nº 82, de 17 de junho de 1881;
+
+**MMCXXXVI -** Lei Provincial nº 83, de 17 de junho de 1881;
+
+**MMCXXXVII -** Lei Provincial nº 85, de 25 de junho de 1881;
+
+**MMCXXXVIII -** Lei Provincial nº 86, de 25 de junho de 1881;
+
+**MMCXXXIX -** Lei Provincial nº 86-A, de 25 de junho de 1881;
+
+**MMCXL -** Lei Provincial nº 87, de 27 de junho de 1881;
+
+**MMCXLI -** Lei Provincial nº 88, de 27 de junho de 1881;
+
+**MMCXLII -** Lei Provincial nº 89, de 27 de junho de 1881;
+
+**MMCXLIII -** Lei Provincial nº 90, de 27 de junho de 1881;
+
+**MMCXLIV -** Lei Provincial nº 91, de 27 de junho de 1881;
+
+**MMCXLV -** Lei Provincial nº 92, de 27 de junho de 1881;
+
+**MMCXLVI -** Lei Provincial nº 93, de 27 de junho de 1881;
+
+**MMCXLVII -** Lei Provincial nº 94, de 27 de junho de 1881;
+
+**MMCXLVIII -** Lei Provincial nº 95, de 27 de junho de 1881;
+
+**MMCXLIX -** Lei Provincial nº 96, de 28 de junho de 1881;
+
+**MMCL -** Lei Provincial nº 97, de 28 de junho de 1881;
+
+**MMCLI -** Lei Provincial nº 98, de 28 de junho de 1881;
+
+**MMCLII -** Lei Provincial nº 99, de 30 de junho de 1881;
+
+**MMCLIII -** Lei Provincial nº 100, de 30 de junho de 1881;
+
+**MMCLIV -** Lei Provincial nº 101, de 30 de junho de 1881;
+
+**MMCLV -** Lei Provincial nº 102, de 30 de junho de 1881;
+
+**MMCLVI -** Lei Provincial nº 103, de 30 de junho de 1881;
+
+**MMCLVII -** Lei Provincial nº 104, de 30 de junho de 1881;
+
+**MMCLVIII -** Lei Provincial nº 105, de 30 de junho de 1881;
+
+**MMCLIX -** Lei Provincial nº 106, de 30 de junho de 1881;
+
+**MMCLX -** Lei Provincial nº 107, de 30 de junho de 1881;
+
+**MMCLXI -** Lei Provincial nº 108, de 30 de junho de 1881;
+
+**MMCLXII -** Lei Provincial nº 109, de 30 de junho de 1881;
+
+**MMCLXIII -** Lei Provincial nº 110, de 30 de junho de 1881;
+
+**MMCLXIV -** Lei Provincial nº 111, de 30 de junho de 1881;
+
+**MMCLXV -** Lei Provincial nº 112, de 7 de julho de 1881;
+
+**MMCLXVI -** Lei Provincial nº 113, de 7 de julho de 1881;
+
+**MMCLXVII -** Lei Provincial nº 114, de 9 de julho de 1881;
+
+**MMCLXVIII -** Lei Provincial nº 115, de 9 de julho de 1881;
+
+**MMCLXIX -** Lei Provincial nº 116, de 9 de julho de 1881;
+
+**MMCLXX -** Lei Provincial nº 118, de 9 de julho de 1881;
+
+**MMCLXXI -** Lei Provincial nº 119, de 9 de julho de 1881;
+
+**MMCLXXII -** Lei Provincial nº 120, de 9 de julho de 1881;
+
+**MMCLXXIII -** Lei Provincial nº 122, de 9 de julho de 1881;
+
+**MMCLXXIV -** Lei Provincial nº 125, de 17 de julho de 1881;
+
+**MMCLXXV -** Lei Provincial nº 126, de 17 de julho de 1881;
+
+**MMCLXXVI -** Lei Provincial nº 128, de 17 de julho de 1881;
+
+**MMCLXXVII -** Lei Provincial nº 129, de 17 de julho de 1881;
+
+**MMCLXXVIII -** Lei Provincial nº 130, de 17 de junho de 1881;
+
+**MMCLXXIX -** Lei Provincial nº 131, de 17 de julho de 1881;
+
+**MMCLXXX -** Lei Provincial nº 132, de 17 de julho de 1881;
+
+**MMCLXXXI -** Lei Provincial nº 133, de 17 de julho de 1881;
+
+**MMCLXXXII -** Lei Provincial nº 134, de 17 de julho de 1881;
+
+**MMCLXXXIII -** Lei Provincial nº 135, de 17 de julho de 1881;
+
+**MMCLXXXIV -** Lei Provincial nº 136, de 17 de julho de 1881;
+
+**MMCLXXXV -** Lei Provincial nº 137, de 17 de julho de 1881;
+
+**MMCLXXXVI -** Lei Provincial nº 138, de 17 de julho de 1881;
+
+**MMCLXXXVII -** Lei Provincial nº 139, de 17 de julho de 1881;
+
+**MMCLXXXVIII -** Lei Provincial nº 140, de 17 de julho de 1881;
+
+**MMCLXXXIX -** Lei Provincial nº 141, de 17 de julho de 1881;
+
+**MMCXC -** Lei Provincial nº 142, de 17 de julho de 1881;
+
+**MMCXCI -** Lei Provincial nº 143, de 18 de julho de 1881;
+
+**MMCXCII -** Lei Provincial nº 144, de 18 de julho de 1881;
+
+**MMCXCIII -** Lei Provincial nº 145, de 25 de julho de 1881;
+
+**MMCXCIV -** Lei Provincial nº 146, de 10 de agosto de 1881;
+
+**MMCXCV -** Resolução Provincial nº 1, de 18 de fevereiro de 1881;
+
+**MMCXCVI -** Resolução Provincial nº 2, de 22 de fevereiro de 1881;
+
+**MMCXCVII -** Resolução Provincial nº 3, de 26 de fevereiro de 1881;
+
+**MMCXCVIII -** Resolução Provincial nº 4, de 27 de fevereiro de 1881;
+
+**MMCXCIX -** Resolução Provincial nº 5, de 10 de março de 1881;
+
+**MMCC -** Resolução Provincial nº 6, de 15 de março de 1881;
+
+**MMCCI -** Resolução Provincial nº 7, de 15 de março de 1881;
+
+**MMCCII -** Resolução Provincial nº 8, de 24 de maio de 1881;
+
+**MMCCIII -** Resolução Provincial nº 9, de 3 de junho de 1881;
+
+**MMCCIV -** Resolução Provincial nº 10, de 8 de junho de 1881;
+
+**MMCCV -** Resolução Provincial nº 12, de 15 de junho de 1881;
+
+**MMCCVI -** Resolução Provincial nº 13, de 15 de junho de 1881;
+
+**MMCCVII -** Resolução Provincial nº 14, de 15 de junho de 1881;
+
+**MMCCVIII -** Resolução Provincial nº 15, de 15 de junho de 1881;
+
+**MMCCIX -** Resolução Provincial nº 16, de 4 de julho de 1881;
+
+**MMCCX -** Resolução Provincial nº 17, de 9 de julho de 1881;
+
+**MMCCXI -** Resolução Provincial nº 18, de 9 de julho de 1881;
+
+**MMCCXII -** Resolução Provincial nº 19, de 9 de julho de 1881;
+
+**MMCCXIII -** Resolução Provincial nº 20, de 9 de julho de 1881;
+
+**MMCCXIV -** Resolução Provincial nº 21, de 16 de julho de 1881;
+
+**MMCCXV -** Resolução Provincial nº 23, de 16 de julho de 1881;
+
+**MMCCXVI -** Resolução Provincial nº 24, de 18 de julho de 1881;
+
+**MMCCXVII -** Resolução Provincial nº 25, de 18 de julho de 1881;
+
+**MMCCXVIII -** Resolução Provincial nº 26, de 18 de julho de 1881;
+
+**MMCCXIX -** Resolução Provincial nº 27, de 18 de julho de 1881;
+
+**MMCCXX -** Resolução Provincial nº 29, de 18 de julho de 1881;
+
+**MMCCXXI -** Resolução Provincial nº 30, de 18 de julho de 1881;
+
+**MMCCXXII -** Resolução Provincial nº 31, de 18 de julho de 1881;
+
+**MMCCXXIII -** Resolução Provincial nº 32, de 18 de julho de 1881;
+
+**MMCCXXIV -** Resolução Provincial nº 33, de 9 de julho de 1881;
+
+**MMCCXXV -** Resolução Provincial nº 34, de 18 de julho de 1881;
+
+**MMCCXXVI -** Resolução Provincial nº 35, de 24 de julho de 1881;
+
+**MMCCXXVII -** Resolução Provincial nº 36, de 24 de julho de 1881;
+
+**MMCCXXVIII -** Resolução Provincial nº 37, de 29 de julho de 1881;
+
+**MMCCXXIX -** Resolução Provincial nº 38, de 11 de setembro de 1881;
+
+**MMCCXXX -** Resolução Provincial nº 39, de 11 de setembro de 1881;
+
+**MMCCXXXI -** Lei Provincial nº 1, de 15 de fevereiro de 1882;
+
+**MMCCXXXII -** Lei Provincial nº 2, de 15 de fevereiro de 1882;
+
+**MMCCXXXIII -** Lei Provincial nº 3, de 15 de fevereiro de 1882;
+
+**MMCCXXXIV -** Lei Provincial nº 4, de 15 de fevereiro de 1882;
+
+**MMCCXXXV -** Lei Provincial nº 5, de 20 de fevereiro de 1882;
+
+**MMCCXXXVI -** Lei Provincial nº 6, de 20 de fevereiro de 1882;
+
+**MMCCXXXVII -** Lei Provincial nº 7, de 24 de fevereiro de 1882;
+
+**MMCCXXXVIII -** Lei Provincial nº 8, de 24 de fevereiro de 1882;
+
+**MMCCXXXIX -** Lei Provincial nº 9, de 24 de fevereiro de 1882;
+
+**MMCCXL -** Lei Provincial nº 10, de 24 de fevereiro de 1882;
+
+**MMCCXLI -** Lei Provincial nº 11, de 24 de fevereiro de 1882;
+
+**MMCCXLII -** Lei Provincial nº 12, de 6 de março de 1882;
+
+**MMCCXLIII -** Lei Provincial nº 13, de 8 de março de 1882;
+
+**MMCCXLIV -** Lei Provincial nº 14, de 8 de março de 1882;
+
+**MMCCXLV -** Lei Provincial nº 15, de 8 de março de 1882;
+
+**MMCCXLVI -** Lei Provincial nº 16, de 8 de março de 1882;
+
+**MMCCXLVII -** Lei Provincial nº 17, de 13 de março de 1882;
+
+**MMCCXLVIII -** Lei Provincial nº 18, de 17 de março de 1882;
+
+**MMCCXLIX -** Lei Provincial nº 19, de 17 de março de 1882;
+
+**MMCCL -** Lei Provincial nº 20, de 17 de março de 1882;
+
+**MMCCLI -** Lei Provincial nº 21, de 17 de março de 1882;
+
+**MMCCLII -** Lei Provincial nº 22, de 17 de março de 1882;
+
+**MMCCLIII -** Lei Provincial nº 23, de 20 de março de 1882;
+
+**MMCCLIV -** Lei Provincial nº 24, de 23 de março de 1882;
+
+**MMCCLV -** Lei Provincial nº 25, de 23 de março de 1882;
+
+**MMCCLVI -** Lei Provincial nº 26, de 23 de março de 1882;
+
+**MMCCLVII -** Lei Provincial nº 27, de 23 de março de 1882;
+
+**MMCCLVIII -** Lei Provincial nº 28, de 23 de março de 1882;
+
+**MMCCLIX -** Lei Provincial nº 29, de 23 de março de 1882;
+
+**MMCCLX -** Lei Provincial nº 30, de 23 de março de 1882;
+
+**MMCCLXI -** Lei Provincial nº 31, de 23 de março de 1882;
+
+**MMCCLXII -** Lei Provincial nº 32, de 24 de março de 1882;
+
+**MMCCLXIII -** Lei Provincial nº 33, de 29 de março de 1882;
+
+**MMCCLXIV -** Lei Provincial nº 34, de 30 de março de 1882;
+
+**MMCCLXV -** Lei Provincial nº 35, de 30 de março de 1882;
+
+**MMCCLXVI -** Lei Provincial nº 36, de 30 de março de 1882;
+
+**MMCCLXVII -** Lei Provincial nº 37, de 30 de março de 1882;
+
+**MMCCLXVIII -** Lei Provincial nº 38, de 30 de março de 1882;
+
+**MMCCLXIX -** Lei Provincial nº 39, de 31 de março de 1882;
+
+**MMCCLXX -** Lei Provincial nº 40, de 31 de março de 1882;
+
+**MMCCLXXI -** Lei Provincial nº 41, de 31 de março de 1882;
+
+**MMCCLXXII -** Lei Provincial nº 42, de 31 de março de 1882;
+
+**MMCCLXXIII -** Lei Provincial nº 43, de 2 de abril de 1882;
+
+**MMCCLXXIV -** Lei Provincial nº 44, de 3 de abril de 1882;
+
+**MMCCLXXV -** Lei Provincial nº 45, de 12 de abril de 1882;
+
+**MMCCLXXVI -** Lei Provincial nº 45-A, de 15 de abril de 1882;
+
+**MMCCLXXVII -** Lei Provincial nº 46, de 17 de abril de 1882;
+
+**MMCCLXXVIII -** Lei Provincial nº 47, de 18 de abril de 1882;
+
+**MMCCLXXIX -** Lei Provincial nº 48, de 18 de abril de 1882;
+
+**MMCCLXXX -** Lei Provincial nº 49, de 18 de abril de 1882;
+
+**MMCCLXXXI -** Lei Provincial nº 50, de 18 de abril de 1882;
+
+**MMCCLXXXII -** Lei Provincial nº 50-A, de 18 de abril de 1882;
+
+**MMCCLXXXIII -** Lei Provincial nº 51, de 30 de abril de 1882;
+
+**MMCCLXXXIV -** Lei Provincial nº 52, de 4 de maio de 1882;
+
+**MMCCLXXXV -** Lei Provincial nº 53, de 30 de dezembro de 1882;
+
+**MMCCLXXXVI -** Resolução Provincial nº 1, de 2 de março de 1882;
+
+**MMCCLXXXVII -** Resolução Provincial nº 2, de 12 de março de 1882;
+
+**MMCCLXXXVIII -** Resolução Provincial nº 3, de 15 de março de 1882;
+
+**MMCCLXXXIX -** Resolução Provincial nº 4, de 15 de março de 1882;
+
+**MMCCXC -** Resolução Provincial nº 5, de 24 de março de 1882;
+
+**MMCCXCI -** Resolução Provincial nº 6, de 24 de março de 1882;
+
+**MMCCXCII -** Resolução Provincial nº 7, de 24 de março de 1882;
+
+**MMCCXCIII -** Resolução Provincial nº 8, de 24 de março de 1882;
+
+**MMCCXCIV -** Resolução Provincial nº 9, de 24 de março de 1882;
+
+**MMCCXCV -** Resolução Provincial nº 10, de 24 de março de 1882;
+
+**MMCCXCVI -** Resolução Provincial nº 11, de 24 de março de 1882;
+
+**MMCCXCVII -** Resolução Provincial nº 12, de 24 de março de 1882;
+
+**MMCCXCVIII -** Resolução Provincial nº 13, de 30 de março de 1882;
+
+**MMCCXCIX -** Resolução Provincial nº 14, de 30 de março de 1882;
+
+**MMCCC -** Resolução Provincial nº 15, de 30 de março de 1882;
+
+**MMCCCI -** Resolução Provincial nº 16, de 30 de março de 1882;
+
+**MMCCCII -** Resolução Provincial nº 17, de 30 de março de 1882;
+
+**MMCCCIII -** Resolução Provincial nº 18, de 31 de março de 1882;
+
+**MMCCCIV -** Resolução Provincial nº 19, de 31 de março de 1882;
+
+**MMCCCV -** Resolução Provincial nº 20, de 22 de maio de 1882;
+
+**MMCCCVI -** Resolução Provincial nº 21, de 4 de maio de 1882;
+
+**MMCCCVII -** Resolução Provincial nº 22, de 22 de maio de 1882;
+
+**MMCCCVIII -** Resolução Provincial nº 23, de 22 de maio de 1882;
+
+**MMCCCIX -** Resolução Provincial nº 24, de 22 de maio de 1882;
+
+**MMCCCX -** Resolução Provincial nº 25, de 22 de maio de 1882;
+
+**MMCCCXI -** Resolução Provincial nº 26, de 26 de maio de 1882;
+
+**MMCCCXII -** Resolução Provincial nº 27, de 26 de maio de 1882;
+
+**MMCCCXIII -** Resolução Provincial nº 28, de 26 de maio de 1882;
+
+**MMCCCXIV -** Resolução Provincial nº 29, de 26 de maio de 1882;
+
+**MMCCCXV -** Resolução Provincial nº 30, de 1º de junho de 1882;
+
+**MMCCCXVI -** Lei Provincial nº 1, de 28 de janeiro de 1883;
+
+**MMCCCXVII -** Lei Provincial nº 2, de 3 de fevereiro de 1883;
+
+**MMCCCXVIII -** Lei Provincial nº 3, de 22 de fevereiro de 1883;
+
+**MMCCCXIX -** Lei Provincial nº 4, de 22 de fevereiro de 1883;
+
+**MMCCCXX -** Lei Provincial nº 5, de 24 de fevereiro de 1883;
+
+**MMCCCXXI -** Lei Provincial nº 6, de 24 de fevereiro de 1883;
+
+**MMCCCXXII -** Lei Provincial nº 7, de 24 de fevereiro de 1883;
+
+**MMCCCXXIII -** Lei Provincial nº 8, de 1º de março de 1883;
+
+**MMCCCXXIV -** Lei Provincial nº 9, de 7 de março de 1883;
+
+**MMCCCXXV -** Lei Provincial nº 10, de 9 de março de 1883;
+
+**MMCCCXXVI -** Lei Provincial nº 11, de 9 de março de 1883;
+
+**MMCCCXXVII -** Lei Provincial nº 12, de 10 de março de 1883;
+
+**MMCCCXXVIII -** Lei Provincial nº 13, de 10 de março de 1883;
+
+**MMCCCXXIX -** Lei Provincial nº 14, de 10 de março de 1883;
+
+**MMCCCXXX -** Lei Provincial nº 15, de 10 de março de 1883;
+
+**MMCCCXXXI -** Lei Provincial nº 16, de 10 de março de 1883;
+
+**MMCCCXXXII -** Lei Provincial nº 17, de 10 de março de 1883;
+
+**MMCCCXXXIII -** Lei Provincial nº 18, de 10 de março de 1883;
+
+**MMCCCXXXIV -** Lei Provincial nº 19, de 15 de março de 1883;
+
+**MMCCCXXXV -** Lei Provincial nº 20, de 17 de março de 1883;
+
+**MMCCCXXXVI -** Lei Provincial nº 21, de 10 de março de 1883;
+
+**MMCCCXXXVII -** Lei Provincial nº 22, de 17 de março de 1883;
+
+**MMCCCXXXVIII -** Lei Provincial nº 23, de 20 de março de 1883;
+
+**MMCCCXXXIX -** Lei Provincial nº 24, de 27 de março de 1883;
+
+**MMCCCXL -** Lei Provincial nº 25, de 27 de março de 1883;
+
+**MMCCCXLI -** Lei Provincial nº 26, de 29 de março de 1883;
+
+**MMCCCXLII -** Lei Provincial nº 27, de 29 de março de 1883;
+
+**MMCCCXLIII -** Lei Provincial nº 28, de 29 de março de 1883;
+
+**MMCCCXLIV -** Lei Provincial nº 29, de 29 de março de 1883;
+
+**MMCCCXLV -** Lei Provincial nº 30, de 29 de março de 1883;
+
+**MMCCCXLVI -** Lei Provincial nº 31, de 30 de março de 1883;
+
+**MMCCCXLVII -** Lei Provincial nº 32, de 30 de março de 1883;
+
+**MMCCCXLVIII -** Lei Provincial nº 33, de 30 de março de 1883;
+
+**MMCCCXLIX -** Lei Provincial nº 34, de 31 de março de 1883;
+
+**MMCCCL -** Lei Provincial nº 35, de 2 de abril de 1883;
+
+**MMCCCLI -** Lei Provincial nº 36, de 2 de abril de 1883;
+
+**MMCCCLII -** Lei Provincial nº 37, de 2 de abril de 1883;
+
+**MMCCCLIII -** Lei Provincial nº 38, de 2 de abril de 1883;
+
+**MMCCCLIV -** Lei Provincial nº 39, de 2 de abril de 1883;
+
+**MMCCCLV -** Lei Provincial nº 40, de 2 de abril de 1883;
+
+**MMCCCLVI -** Lei Provincial nº 41, de 2 de abril de 1883;
+
+**MMCCCLVII -** Lei Provincial nº 42, de 2 de abril de 1883;
+
+**MMCCCLVIII -** Lei Provincial nº 43, de 2 de abril de 1883;
+
+**MMCCCLIX -** Lei Provincial nº 44, de 2 de abril de 1883;
+
+**MMCCCLX -** Lei Provincial nº 45, de 2 de abril de 1883;
+
+**MMCCCLXI -** Lei Provincial nº 46, de 2 de abril de 1883;
+
+**MMCCCLXIV -** Lei Provincial nº 49, de 2 de abril de 1883;
+
+**MMCCCLXV -** Lei Provincial nº 50, de 2 de abril de 1883;
+
+**MMCCCLXVI -** Lei Provincial nº 51, de 2 de abril de 1883;
+
+**MMCCCLXVII -** Lei Provincial nº 52, de 2 de abril de 1883;
+
+**MMCCCLXVIII -** Lei Provincial nº 53, de 2 de abril de 1883;
+
+**MMCCCLXIX -** Lei Provincial nº 54, de 2 de abril de 1883;
+
+**MMCCCLXX -** Lei Provincial nº 55, de 2 de abril de 1883;
+
+**MMCCCLXXI -** Lei Provincial nº 56, de 2 de abril de 1883;
+
+**MMCCCLXXII -** Lei Provincial nº 57, de 2 de abril de 1883;
+
+**MMCCCLXXIII -** Lei Provincial nº 58, de 2 de abril de 1883;
+
+**MMCCCLXXIV -** Lei Provincial nº 59, de 2 de abril de 1883;
+
+**MMCCCLXXV -** Lei Provincial nº 60, de 2 de abril de 1883;
+
+**MMCCCLXXVI -** Lei Provincial nº 61, de 2 de abril de 1883;
+
+**MMCCCLXXVII -** Lei Provincial nº 62, de 2 de abril de 1883;
+
+**MMCCCLXXVIII -** Lei Provincial nº 63, de 2 de abril de 1883;
+
+**MMCCCLXXIX -** Lei Provincial nº 64, de 2 de abril de 1883;
+
+**MMCCCLXXX -** Lei Provincial nº 65, de 2 de abril de 1883;
+
+**MMCCCLXXXI -** Lei Provincial nº 66, de 2 de abril de 1883;
+
+**MMCCCLXXXII -** Lei Provincial nº 67, de 2 de abril de 1883;
+
+**MMCCCLXXXIII -** Lei Provincial nº 68, de 2 de abril de 1883;
+
+**MMCCCLXXXIV -** Lei Provincial nº 69, de 2 de abril de 1883;
+
+**MMCCCLXXXV -** Lei Provincial nº 70, de 2 de abril de 1883;
+
+**MMCCCLXXXVI -** Lei Provincial nº 71, de 2 de abril de 1883;
+
+**MMCCCLXXXVII -** Lei Provincial nº 72, de 2 de abril de 1883;
+
+**MMCCCLXXXVIII -** Lei Provincial nº 73, de 2 de abril de 1883;
+
+**MMCCCLXXXIX -** Lei Provincial nº 74, de 2 de abril de 1883;
+
+**MMCCCXC -** Lei Provincial nº 75, de 2 de abril de 1883;
+
+**MMCCCXCI -** Lei Provincial nº 76, de 2 de abril de 1883;
+
+**MMCCCXCII -** Lei Provincial nº 77, de 2 de abril de 1883;
+
+**MMCCCXCIII -** Lei Provincial nº 78, de 2 de abril de 1883;
+
+**MMCCCXCIV -** Lei Provincial nº 79, de 2 de abril de 1883;
+
+**MMCCCXCV -** Lei Provincial nº 80, de 2 de abril de 1883;
+
+**MMCCCXCVI -** Lei Provincial nº 81, de 2 de abril de 1883;
+
+**MMCCCXCVII -** Lei Provincial nº 82, de 2 de abril de 1883;
+
+**MMCCCXCVIII -** Lei Provincial nº 83, de 2 de abril de 1883;
+
+**MMCCCXCIX -** Lei Provincial nº 84, de 2 de abril de 1883;
+
+**MMCD -** Lei Provincial nº 85, de 2 de abril de 1883;
+
+**MMCDI -** Lei Provincial nº 86, de 2 de abril de 1883;
+
+**MMCDII -** Lei Provincial nº 87, de 2 de abril de 1883;
+
+**MMCDIII -** Lei Provincial nº 88, de 2 de abril de 1883;
+
+**MMCDIV -** Lei Provincial nº 89, de 4 de abril de 1883;
+
+**MMCDV -** Lei Provincial nº 90, de 4 de abril de 1883;
+
+**MMCDVI -** Lei Provincial nº 91, de 28 de abril de 1883;
+
+**MMCDVII -** Lei Provincial nº 92, de 17 de maio de 1883;
+
+**MMCDVIII -** Resolução Provincial nº 1, de 27 de fevereiro de 1883;
+
+**MMCDIX -** Resolução Provincial nº 2, de 10 de março de 1883;
+
+**MMCDX -** Resolução Provincial nº 3, de 10 de março de 1883;
+
+**MMCDXI -** Resolução Provincial nº 4, de 10 de março de 1883;
+
+**MMCDXII -** Resolução Provincial nº 5, de 10 de março de 1883;
+
+**MMCDXIII -** Resolução Provincial nº 6, de 10 de março de 1883;
+
+**MMCDXIV -** Resolução Provincial nº 7, de 10 de março de 1883;
+
+**MMCDXV -** Resolução Provincial nº 8, de 10 de março de 1883;
+
+**MMCDXVI -** Resolução Provincial nº 9, de 10 de março de 1883;
+
+**MMCDXVII -** Resolução Provincial nº 10, de 10 de março de 1883;
+
+**MMCDXVIII -** Resolução Provincial nº 11, de 10 de março de 1883;
+
+**MMCDXIX -** Resolução Provincial nº 12, de 27 de março de 1883;
+
+**MMCDXX -** Resolução Provincial nº 13, de 27 de março de 1883;
+
+**MMCDXXI -** Resolução Provincial nº 14, de 27 de março de 1883;
+
+**MMCDXXII -** Resolução Provincial nº 15, de 27 de março de 1883;
+
+**MMCDXXIII -** Resolução Provincial nº 16, de 27 de março de 1883;
+
+**MMCDXXIV -** Resolução Provincial nº 17, de 27 de março de 1883;
+
+**MMCDXXV -** Resolução Provincial nº 18, de 27 de março de 1883;
+
+**MMCDXXVI -** Resolução Provincial nº 19, de 7 de abril de 1883;
+
+**MMCDXXVII -** Resolução Provincial nº 20, de 7 de abril de 1883;
+
+**MMCDXXVIII -** Resolução Provincial nº 20-A, de 11 de maio de 1883;
+
+**MMCDXXIX -** Resolução Provincial nº 21, de 14 de maio de 1883;
+
+**MMCDXXX -** Resolução Provincial nº 22, de 14 de maio de 1883;
+
+**MMCDXXXI -** Resolução Provincial nº 23, de 14 de maio de 1883;
+
+**MMCDXXXII -** Resolução Provincial nº 24, de 14 de maio de 1883;
+
+**MMCDXXXIII -** Resolução Provincial nº 25, de 17 de maio de 1883;
+
+**MMCDXXXIV -** Resolução Provincial nº 26, de 17 de maio de 1883;
+
+**MMCDXXXV -** Resolução Provincial nº 27, de 17 de maio de 1883;
+
+**MMCDXXXVI -** Resolução Provincial nº 28, de 17 de maio de 1883;
+
+**MMCDXXXVII -** Resolução Provincial nº 29, de 28 de maio de 1883;
+
+**MMCDXXXVIII -** Resolução Provincial nº 30, de 28 de maio de 1883;
+
+**MMCDXXXIX -** Resolução Provincial nº 31, de 28 de maio de 1883;
+
+**MMCDXL -** Resolução Provincial nº 32, de 28 de maio de 1883;
+
+**MMCDXLI -** Resolução Provincial nº 33, de 28 de maio de 1883;
+
+**MMCDXLII -** Resolução Provincial nº 34, de 29 de maio de 1883;
+
+**MMCDXLIII -** Resolução Provincial nº 35, de 29 de maio de 1883;
+
+**MMCDXLIV -** Resolução Provincial nº 36, de 29 de maio de 1883;
+
+**MMCDXLV -** Resolução Provincial nº 37, de 6 de agosto de 1883;
+
+**MMCDXLVI -** Resolução Provincial nº 38, de 6 de agosto de 1883;
+
+**MMCDXLVII -** Resolução Provincial nº 39, de 6 de agosto de 1883;
+
+**MMCDXLVIII -** Resolução Provincial nº 40, de 6 de agosto de 1883;
+
+**MMCDXLIX -** Resolução Provincial nº 41, de 6 de agosto de 1883;
+
+**MMCDL -** Resolução Provincial nº 42, de 6 de agosto de 1883;
+
+**MMCDLI -** Resolução Provincial nº 43, de 6 de agosto de 1883;
+
+**MMCDLII -** Resolução Provincial nº 44, de 6 de agosto de 1883;
+
+**MMCDLIII -** Resolução Provincial nº 45, de 6 de agosto de 1883;
+
+**MMCDLIV -** Resolução Provincial nº 46, de 6 de agosto de 1883;
+
+**MMCDLV -** Resolução Provincial nº 47, de 6 de agosto de 1883;
+
+**MMCDLVI -** Resolução Provincial nº 48, de 6 de agosto de 1883;
+
+**MMCDLVII -** Resolução Provincial nº 49, de 6 de agosto de 1883;
+
+**MMCDLVIII -** Resolução Provincial nº 50, de 6 de agosto de 1883;
+
+**MMCDLIX -** Resolução Provincial nº 51, de 6 de agosto de 1883;
+
+**MMCDLX -** Resolução Provincial nº 52, de 6 de agosto de 1883;
+
+**MMCDLXI -** Lei Provincial nº 1, de 24 de janeiro de 1884;
+
+**MMCDLXII -** Lei Provincial nº 2, de 31 de janeiro de 1884;
+
+**MMCDLXIII -** Lei Provincial nº 3, de 5 de fevereiro de 1884;
+
+**MMCDLXIV -** Lei Provincial nº 4, de 6 de fevereiro de 1884;
+
+**MMCDLXV -** Lei Provincial nº 5, de 7 de fevereiro de 1884;
+
+**MMCDLXVI -** Lei Provincial nº 6, de 11 de fevereiro de 1884;
+
+**MMCDLXVII -** Lei Provincial nº 7, de 13 de fevereiro de 1884;
+
+**MMCDLXVIII -** Lei Provincial nº 8, de 15 de fevereiro de 1884;
+
+**MMCDLXIX -** Lei Provincial nº 9, de 1º de março de 1884;
+
+**MMCDLXX -** Lei Provincial nº 10, de 1º de março de 1884;
+
+**MMCDLXXI -** Lei Provincial nº 11, de 1º de março de 1884;
+
+**MMCDLXXII -** Lei Provincial nº 11-A, de 1º de março de 1884;
+
+**MMCDLXXIII -** Lei Provincial nº 12, de 6 de março de 1884;
+
+**MMCDLXXIV -** Lei Provincial nº 13, de 10 de março de 1884;
+
+**MMCDLXXV -** Lei Provincial nº 14, de 15 de março de 1884;
+
+**MMCDLXXVI -** Lei Provincial nº 15, de 22 de março de 1884;
+
+**MMCDLXXVII -** Lei Provincial nº 16, de 24 de março de 1884;
+
+**MMCDLXXVIII -** Lei Provincial nº 17, de 24 de março de 1884;
+
+**MMCDLXXIX -** Lei Provincial nº 18, de 26 de março de 1884;
+
+**MMCDLXXX -** Lei Provincial nº 19, de 26 de março de 1884;
+
+**MMCDLXXXI -** Lei Provincial nº 20, de 26 de março de 1884;
+
+**MMCDLXXXII -** Lei Provincial nº 21, de 26 de março de 1884;
+
+**MMCDLXXXIII -** Lei Provincial nº 22, de 26 de março de 1884;
+
+**MMCDLXXXIV -** Lei Provincial nº 23, de 27 de março de 1884;
+
+**MMCDLXXXV -** Lei Provincial nº 24, de 27 de março de 1884;
+
+**MMCDLXXXVI -** Lei Provincial nº 25, de 28 de março de 1884;
+
+**MMCDLXXXVII -** Lei Provincial nº 26, de 28 de março de 1884;
+
+**MMCDLXXXVIII -** Lei Provincial nº 27, de 29 de março de 1884;
+
+**MMCDLXXXIX -** Lei Provincial nº 28, de 29 de março de 1884;
+
+**MMCDXC -** Lei Provincial nº 29, de 29 de março de 1884;
+
+**MMCDXCI -** Lei Provincial nº 30, de 31 de março de 1884;
+
+**MMCDXCII -** Lei Provincial nº 31, de 31 de março de 1884;
+
+**MMCDXCIII -** Lei Provincial nº 32, de 31 de março de 1884;
+
+**MMCDXCIV -** Lei Provincial nº 34, de 31 de março de 1884;
+
+**MMCDXCV -** Lei Provincial nº 35, de 31 de março de 1884;
+
+**MMCDXCVI -** Lei Provincial nº 36, de 31 de março de 1884;
+
+**MMCDXCVII -** Lei Provincial nº 37, de 31 de março de 1884;
+
+**MMCDXCVIII -** Lei Provincial nº 38, de 31 de março de 1884;
+
+**MMCDXCIX -** Lei Provincial nº 39, de 31 de março de 1884;
+
+**MMD - L**ei Provincial nº 40, de 31 de março de 1884;
+
+**MMDI -** Lei Provincial nº 41, de 31 de março de 1884;
+
+**MMDII -** Lei Provincial nº 42, de 1º de abril de 1884;
+
+**MMDIII -** Lei Provincial nº 43, de 1º de abril de 1884;
+
+**MMDIV -** Lei Provincial nº 44, de 1º de abril de 1884;
+
+**MMDV -** Lei Provincial nº 45, de 1º de abril de 1884;
+
+**MMDVI -** Lei Provincial nº 46, de 1º de abril de 1884;
+
+**MMDVII -** Lei Provincial nº 47, de 1º de abril de 1884;
+
+**MMDVIII -** Lei Provincial nº 48, de 1º de abril de 1884;
+
+**MMDIX -** Lei Provincial nº 49, de 1º de abril de 1884;
+
+**MMDX -** Lei Provincial nº 50, de 1º de abril de 1884;
+
+**MMDXI -** Lei Provincial nº 51, de 1º de abril de 1884;
+
+**MMDXII** \- Lei Provincial nº 52, de 1º de abril de 1884;
+
+**MMDXIII -** Lei Provincial nº 53, de 1º de abril de 1884;
+
+**MMDXIV -** Lei Provincial nº 54, de 1º de abril de 1884;
+
+**MMDXV -** Lei Provincial nº 55, de 2 de abril de 1884;
+
+**MMDXVI -** Lei Provincial nº 56, de 2 de abril de 1884;
+
+**MMDXVII -** Lei Provincial nº 57, de 2 de abril de 1884;
+
+**MMDXVIII -** Lei Provincial nº 58, de 2 de abril de 1884;
+
+**MMDXIX -** Lei Provincial nº 59, de 25 de abril de 1884;
+
+**MMDXX -** Lei Provincial nº 60, de 28 de abril de 1884;
+
+**MMDXXI -** Lei Provincial nº 61, de 25 de junho de 1884;
+
+**MMDXXII -** Resolução Provincial nº 1, de 24 de janeiro de 1884;
+
+**MMDXXIII -** Resolução Provincial nº 2, de 1º de março de 1884;
+
+**MMDXXIV -** Resolução Provincial nº 3, de 1º de março de 1884;
+
+**MMDXXV -** Resolução Provincial nº 4, de 1º de março de 1884;
+
+**MMDXXVI -** Resolução Provincial nº 5, de 1º de março de 1884;
+
+**MMDXXVII -** Resolução Provincial nº 6, de 6 de março de 1884;
+
+**MMDXXVIII -** Resolução Provincial nº 7, de 14 de março de 1884;
+
+**MMDXXIX -** Resolução Provincial nº 8, de 14 de março de 1884;
+
+**MMDXXX -** Resolução Provincial nº 9, de 23 de março de 1884;
+
+**MMDXXXI -** Resolução Provincial nº 10, de 23 de março de 1884;
+
+**MMDXXXII -** Resolução Provincial nº 11, de 23 de março de 1884;
+
+**MMDXXXIII -** Resolução Provincial nº 12, de 23 de março de 1884;
+
+**MMDXXXIV -** Resolução Provincial nº 13, de 23 de março de 1884;
+
+**MMDXXXV -** Resolução Provincial nº 14, de 31 de março de 1884;
+
+**MMDXXXVI -** Resolução Provincial nº 15, de 31 de março de 1884;
+
+**MMDXXXVII -** Resolução Provincial nº 16, de 31 de março de 1884;
+
+**MMDXXXVIII -** Resolução Provincial nº 17, de 31 de março de 1884;
+
+**MMDXXXIX -** Resolução Provincial nº 18, de 31 de março de 1884;
+
+**MMDXL -** Resolução Provincial nº 19, de 31 de março de 1884;
+
+**MMDXLI -** Resolução Provincial nº 20, de 31 de março de 1884;
+
+**MMDXLII -** Resolução Provincial nº 21, de 1º de abril de 1884;
+
+**MMDXLIII -** Resolução Provincial nº 22, de 28 de abril de 1884;
+
+**MMDXLIV -** Resolução Provincial nº 23, de 30 de abril de 1884;
+
+**MMDXLV -** Resolução Provincial nº 24, de 30 de abril de 1884;
+
+**MMDXLVI -** Resolução Provincial nº 25, de 30 de abril de 1884;
+
+**MMDXLVII -** Resolução Provincial nº 26, de 30 de abril de 1884;
+
+**MMDXLVIII -** Resolução Provincial nº 27, de 18 de junho de 1884;
+
+**MMDXLIX -** Resolução Provincial nº 28, de 18 de junho de 1884;
+
+**MMDL -** Resolução Provincial nº 29, de 18 de junho de 1884;
+
+**MMDLI -** Resolução Provincial nº 30, de 18 de junho de 1884;
+
+**MMDLII -** Resolução Provincial nº 31, de 18 de junho de 1884;
+
+**MMDLIII -** Resolução Provincial nº 32, de 18 de junho de 1884;
+
+**MMDLIV -** Resolução Provincial nº 33, de 18 de junho de 1884;
+
+**MMDLV -** Resolução Provincial nº 34, de 18 de junho de 1884;
+
+**MMDLVI -** Resolução Provincial nº 35, de 18 de junho de 1884;
+
+**MMDLVII -** Resolução Provincial nº 36, de 18 de junho de 1884;
+
+**MMDLVIII -** Resolução Provincial nº 37, de 18 de junho de 1884;
+
+**MMDLIX -** Resolução Provincial nº 38, de 18 de junho de 1884;
+
+**MMDLX -** Resolução Provincial nº 39, de 18 de junho de 1884;
+
+**MMDLXI -** Resolução Provincial nº 40, de 18 de junho de 1884;
+
+**MMDLXII -** Resolução Provincial nº 41, de 18 de junho de 1884;
+
+**MMDLXIII -** Resolução Provincial nº 42, de 18 de junho de 1884;
+
+**MMDLXIV -** Resolução Provincial nº 43, de 18 de junho de 1884;
+
+**MMDLXV -** Resolução Provincial nº 44, de 18 de junho de 1884;
+
+**MMDLXVI -** Resolução Provincial nº 45, de 18 de junho de 1884;
+
+**MMDLXVII -** Resolução Provincial nº 46, de 18 de junho de 1884;
+
+**MMDLXVIII -** Resolução Provincial nº 47, de 18 de junho de 1884;
+
+**MMDLXIX -** Resolução Provincial nº 48, de 18 de junho de 1884;
+
+**MMDLXX -** Resolução Provincial nº 49, de 18 de junho de 1884;
+
+**MMDLXXI -** Resolução Provincial nº 50, de 18 de junho de 1884;
+
+**MMDLXXII -** Resolução Provincial nº 51, de 18 de junho de 1884;
+
+**MMDLXXIII -** Resolução Provincial nº 52, de 18 de junho de 1884;
+
+**MMDLXXIV -** Lei Provincial nº 1, de 3 de fevereiro de 1885;
+
+**MMDLXXV -** Lei Provincial nº 2, de 6 de fevereiro de 1885;
+
+**MMDLXXVI -** Lei Provincial nº 3, de 6 de fevereiro de 1885;
+
+**MMDLXXVII -** Lei Provincial nº 4, de 6 de fevereiro de 1885;
+
+**MMDLXXVIII -** Lei Provincial nº 5, de 6 de fevereiro de 1885;
+
+**MMDLXXIX -** Lei Provincial nº 6, de 7 de fevereiro de 1885;
+
+**MMDLXXX -** Lei Provincial nº 7, de 7 de fevereiro de 1885;
+
+**MMDLXXXI -** Lei Provincial nº 8, de 7 de fevereiro de 1885;
+
+**MMDLXXXII -** Lei Provincial nº 9, de 7 de fevereiro de 1885;
+
+**MMDLXXXIII -** Lei Provincial nº 10, de 7 de fevereiro de 1885;
+
+**MMDLXXXIV -** Lei Provincial nº 11, de 7 de fevereiro de 1885;
+
+**MMDLXXXV -** Lei Provincial nº 12, de 4 de fevereiro de 1885;
+
+**MMDLXXXVI -** Lei Provincial nº 13, de 9 de fevereiro de 1885;
+
+**MMDLXXXVII -** Lei Provincial nº 14, de 11 de fevereiro de 1855;
+
+**MMDLXXXVIII -** Lei Provincial nº 15, de 19 de fevereiro de 1885;
+
+**MMDLXXXIX -** Lei Provincial nº 16, de 19 de fevereiro de 1885;
+
+**MMDXC -** Lei Provincial nº 17, de 4 de março de 1885;
+
+**MMDXCI -** Lei Provincial nº 18, de 4 de março de 1885;
+
+**MMDXCII -** Lei Provincial nº 19, de 5 de março de 1885;
+
+**MMDXCIII -** Lei Provincial nº 20, de 10 de março de 1885;
+
+**MMDXCIV -** Lei Provincial nº 21, de 10 de março de 1885;
+
+**MMDXCV -** Lei Provincial nº 22, de 10 de março de 1885;
+
+**MMDXCVI -** Lei Provincial nº 23, de 10 de março de 1885;
+
+**MMDXCVII -** Lei Provincial nº 24, de 10 de março de 1885;
+
+**MMDXCVIII -** Lei Provincial nº 25, de 10 de março de 1885;
+
+**MMDXCIX -** Lei Provincial nº 26, de 10 de março de 1885;
+
+**MMDC -** Lei Provincial nº 27, de 10 de março de 1885;
+
+**MMDCI -** Lei Provincial nº 28, de 10 de março de 1885;
+
+**MMDCII -** Lei Provincial nº 29, de 10 de março de 1885;
+
+**MMDCIII -** Lei Provincial nº 30, de 10 de março de 1885;
+
+**MMDCIV -** Lei Provincial nº 31, de 10 de março de 1885;
+
+**MMDCV -** Lei Provincial nº 32, de 10 de março de 1885;
+
+**MMDCVI -** Lei Provincial nº 33, de 10 de março de 1885;
+
+**MMDCVII -** Lei Provincial nº 34, de 10 de março de 1885;
+
+**MMDCVIII -** Lei Provincial nº 35, de 10 de março de 1885;
+
+**MMDCIX -** Lei Provincial nº 36, de 10 de março de 1885;
+
+**MMDCX -** Lei Provincial nº 37, de 10 de março de 1885;
+
+**MMDCXI -** Lei Provincial nº 38, de 11 de março de 1885;
+
+**MMDCXII -** Lei Provincial nº 39, de 11 de março de 1885;
+
+**MMDCXIII -** Lei Provincial nº 40, de 11 de março de 1885;
+
+**MMDCXIV -** Lei Provincial nº 41, de 11 de março de 1885;
+
+**MMDCXV -** Lei Provincial nº 42, de 11 de março de 1885;
+
+**MMDCXVI -** Lei Provincial nº 43, de 11 de março de 1885;
+
+**MMDCXVII -** Lei Provincial nº 44, de 11 de março de 1885;
+
+**MMDCXVIII -** Lei Provincial nº 45, de 11 de março de 1885;
+
+**MMDCXIX -** Lei Provincial nº 46, de 16 de março de 1885;
+
+**MMDCXX -** Lei Provincial nº 47, de 20 de março de 1885;
+
+**MMDCXXI -** Lei Provincial nº 48, de 20 de março de 1885;
+
+**MMDCXXII -** Lei Provincial nº 49, de 20 de março de 1885;
+
+**MMDCXXIII -** Lei Provincial nº 50, de 20 de março de 1885;
+
+**MMDCXXIV -** Lei Provincial nº 51, de 20 de março de 1885;
+
+**MMDCXXV -** Lei Provincial nº 52, de 20 de março de 1885;
+
+**MMDCXXVI -** Lei Provincial nº 53, de 21 de março de 1885;
+
+**MMDCXXVII -** Lei Provincial nº 54, de 21 de março de 1885;
+
+**MMDCXXVIII -** Lei Provincial nº 55, de 21 de março de 1885;
+
+**MMDCXXIX -** Lei Provincial nº 56, de 21 de março de 1885;
+
+**MMDCXXX -** Lei Provincial nº 57, de 21 de março de 1885;
+
+**MMDCXXXI -** Lei Provincial nº 58, de 21 de março de 1885;
+
+**MMDCXXXII -** Lei Provincial nº 59, de 21 de março de 1885;
+
+**MMDCXXXIII -** Lei Provincial nº 60, de 21 de março de 1885;
+
+**MMDCXXXIV -** Lei Provincial nº 61, de 21 de março de 1885;
+
+**MMDCXXXV -** Lei Provincial nº 62, de 21 de março de 1885;
+
+**MMDCXXXVI -** Lei Provincial nº 63, de 23 de março de 1885;
+
+**MMDCXXXVII -** Lei Provincial nº 64, de 23 de março de 1885;
+
+**MMDCXXXVIII -** Lei Provincial nº 65, de 23 de março de 1885;
+
+**MMDCXXXIX -** Lei Provincial nº 66, de 26 de março de 1885;
+
+**MMDCXL -** Lei Provincial nº 67, de 26 de março de 1885;
+
+**MMDCXLI -** Lei Provincial nº 68, de 27 de março de 1885;
+
+**MMDCXLII -** Lei Provincial nº 69, de 27 de março de 1885;
+
+**MMDCXLIII -** Lei Provincial nº 70, de 27 de março de 1885;
+
+**MMDCXLIV -** Lei Provincial nº 71, de 27 de março de 1885;
+
+**MMDCXLV -** Lei Provincial nº 72, de 6 de abril de 1885;
+
+**MMDCXLVI -** Lei Provincial nº 73, de 6 de abril de 1885;
+
+**MMDCXLVII -** Lei Provincial nº 74, de 6 de abril de 1885;
+
+**MMDCXLVIII -** Lei Provincial nº 75, de 6 de abril de 1885;
+
+**MMDCXLIX -** Lei Provincial nº 76, de 6 de abril de 1885;
+
+**MMDCL -** Lei Provincial nº 77, de 6 de abril de 1885;
+
+**MMDCLI -** Lei Provincial nº 78, de 6 de abril de 1885;
+
+**MMDCLII -** Lei Provincial nº 79, de 6 de abril de 1885;
+
+**MMDCLIII -** Lei Provincial nº 80, de 9 de abril de 1885;
+
+**MMDCLIV -** Lei Provincial nº 81, de 9 de abril de 1885;
+
+**MMDCLV -** Lei Provincial nº 82, de 9 de abril de 1885;
+
+**MMDCLVI -** Lei Provincial nº 83, de 9 de abril de 1885;
+
+**MMDCLVII -** Lei Provincial nº 84, de 9 de abril de 1885;
+
+**MMDCLVIII -** Lei Provincial nº 85, de 9 de abril de 1885;
+
+**MMDCLIX -** Lei Provincial nº 86, de 9 de abril de 1885;
+
+**MMDCLX -** Lei Provincial nº 87, de 9 de abril de 1885;
+
+**MMDCLXI -** Lei Provincial nº 88, de 9 de abril de 1885;
+
+**MMDCLXII -** Lei Provincial nº 89, de 9 de abril de 1885;
+
+**MMDCLXIII -** Lei Provincial nº 90, de 9 de abril de 1885;
+
+**MMDCLXIV -** Lei Provincial nº 91, de 9 de abril de 1885;
+
+**MMDCLXV -** Lei Provincial nº 92, de 9 de abril de 1885;
+
+**MMDCLXVI -** Lei Provincial nº 93, de 9 de abril de 1885;
+
+**MMDCLXVII -** Lei Provincial nº 94, de 20 de abril de 1885;
+
+**MMDCLXVIII -** Lei Provincial nº 95, de 20 de abril de 1885;
+
+**MMDCLXIX -** Lei Provincial nº 96, de 20 de abril de 1885;
+
+**MMDCLXX -** Lei Provincial nº 97, de 21 de abril de 1885;
+
+**MMDCLXXI -** Lei Provincial nº 98, de 21 de abril de 1885;
+
+**MMDCLXXII -** Lei Provincial nº 99, de 21 de abril de 1885;
+
+**MMDCLXXIII -** Lei Provincial nº 100, de 21 de abril de 1885;
+
+**MMDCLXXIV -** Lei Provincial nº 101, de 21 de abril de 1885;
+
+**MMDCLXXV -** Lei Provincial nº 102, de 21 de abril de 1885;
+
+**MMDCLXXVI -** Lei Provincial nº 103, de 21 de abril de 1885;
+
+**MMDCLXXVII -** Lei Provincial nº 104, de 21 de abril de 1885;
+
+**MMDCLXXVIII -** Lei Provincial nº 105, de 21 de abril de 1885;
+
+**MMDCLXXIX -** Lei Provincial nº 106, de 21 de abril de 1885;
+
+**MMDCLXXX -** Lei Provincial nº 107, de 21 de abril de 1885;
+
+**MMDCLXXXI -** Lei Provincial nº 108, de 21 de abril de 1885;
+
+**MMDCLXXXII -** Lei Provincial nº 109, de 21 de abril de 1885;
+
+**MMDCLXXXIII -** Lei Provincial nº 110, de 21 de abril de 1885;
+
+**MMDCLXXXIV -** Lei Provincial nº 111, de 21 de abril de 1885;
+
+**MMDCLXXXV -** Lei Provincial nº 112, de 21 de abril de 1885;
+
+**MMDCLXXXVI -** Lei Provincial nº 113, de 21 de abril de 1885;
+
+**MMDCLXXXVII -** Lei Provincial nº 114, de 21 de abril de 1885;
+
+**MMDCLXXXVIII -** Lei Provincial nº 115, de 21 de abril de 1885;
+
+**MMDCLXXXIX -** Lei Provincial nº 116, de 22 de abril de 1885;
+
+**MMDCXC -** Lei Provincial nº 117, de 22 de abril de 1885;
+
+**MMDCXCI -** Lei Provincial nº 118, de 22 de abril de 1885;
+
+**MMDCXCII -** Lei Provincial nº 119, de 22 de abril de 1885;
+
+**MMDCXCIII -** Lei Provincial nº 120, de 22 de abril de 1885;
+
+**MMDCXCIV -** Lei Provincial nº 121, de 22 de abril de 1885;
+
+**MMDCXCV -** Lei Provincial nº 122, de 22 de abril de 1885;
+
+**MMDCXCVI -** Lei Provincial nº 123, de 22 de abril de 1885;
+
+**MMDCXCVII -** Lei Provincial nº 124, de 30 de abril de 1885;
+
+**MMDCXCVIII -** Lei Provincial nº 125, de 30 de abril de 1885;
+
+**MMDCXCIX -** Lei Provincial nº 126, de 30 de abril de 1885;
+
+**MMDCC -** Lei Provincial nº 127, de 30 de abril de 1885;
+
+**MMDCCI -** Lei Provincial nº 128, de 1º de maio de 1885;
+
+**MMDCCII -** Lei Provincial nº 129, de 1º de maio de 1885;
+
+**MMDCCIII -** Lei Provincial nº 130, de 1º de maio de 1885;
+
+**MMDCCIV -** Lei Provincial nº 131, de 1º de maio de 1885;
+
+**MMDCCV -** Resolução Provincial nº 1, de 31 de janeiro de 1885;
+
+**MMDCCVI -** Resolução Provincial nº 2, de 3 de fevereiro de 1885;
+
+**MMDCCVII -** Resolução Provincial nº 3, de 12 de fevereiro de 1885;
+
+**MMDCCVIII -** Resolução Provincial nº 4, de 12 de abril de 1885;
+
+**MMDCCIX -** Resolução Provincial nº 5, de 12 de fevereiro de 1885;
+
+**MMDCCX -** Resolução Provincial nº 6, de 27 de fevereiro de 1885;
+
+**MMDCCXI -** Resolução Provincial nº 7, de 3 de março de 1885;
+
+**MMDCCXII -** Resolução Provincial nº 8, de 3 de março de 1885;
+
+**MMDCCXIII -** Resolução Provincial nº 9, de 5 de março de 1885;
+
+**MMDCCXIV -** Resolução Provincial nº 10, de 5 de março de 1885;
+
+**MMDCCXV -** Resolução Provincial nº 11, de 21 de março de 1885;
+
+**MMDCCXVI -** Resolução Provincial nº 12, de 21 de março de 1885;
+
+**MMDCCXVII -** Resolução Provincial nº 13, de 21 de março de 1885;
+
+**MMDCCXVIII -** Resolução Provincial nº 14, de 21 de março de 1885;
+
+**MMDCCXIX -** Resolução Provincial nº 15, de 21 de março de 1885;
+
+**MMDCCXX -** Resolução Provincial nº 16, de 24 de março de 1885;
+
+**MMDCCXXI -** Resolução Provincial nº 17, de 9 de abril de 1885;
+
+**MMDCCXXII -** Resolução Provincial nº 18, de 21 de abril de 1885;
+
+**MMDCCXXIII -** Resolução Provincial nº 19, de 21 de abril de 1885;
+
+**MMDCCXXIV -** Resolução Provincial nº 20, de 21 de abril de 1885;
+
+**MMDCCXXV -** Resolução Provincial nº 21, de 21 de abril de 1885;
+
+**MMDCCXXVI -** Resolução Provincial nº 22, de 21 de abril de 1885;
+
+**MMDCCXXVII -** Resolução Provincial nº 23, de 21 de abril de 1885;
+
+**MMDCCXXVIII -** Resolução Provincial nº 24, de 21 de abril de 1885;
+
+**MMDCCXXIX -** Resolução Provincial nº 25, de 21 de abril de 1885;
+
+**MMDCCXXX -** Resolução Provincial nº 26, de 21 de abril de 1885;
+
+**MMDCCXXXI -** Resolução Provincial nº 27, de 21 de abril de 1885;
+
+**MMDCCXXXII -** Resolução Provincial nº 28, de 12 de junho de 1885;
+
+**MMDCCXXXIII -** Resolução Provincial nº 29, de 15 de junho de 1885;
+
+**MMDCCXXXIV -** Resolução Provincial nº 30, de 15 de junho de 1885;
+
+**MMDCCXXXV -** Resolução Provincial nº 31, de 15 de junho de 1885;
+
+**MMDCCXXXVI -** Resolução Provincial nº 32, de 15 de junho de 1885;
+
+**MMDCCXXXVII -** Resolução Provincial nº 33, de 15 de junho de 1885;
+
+**MMDCCXXXVIII -** Resolução Provincial nº 34, de 15 de junho de 1885;
+
+**MMDCCXXXIX -** Resolução Provincial nº 35, de 15 de junho de 1885;
+
+**MMDCCXL -** Resolução Provincial nº 36, de 15 de junho de 1885;
+
+**MMDCCXLI -** Resolução Provincial nº 37, de 15 de junho de 1885;
+
+**MMDCCXLII -** Resolução Provincial nº 38, de 15 de junho de 1885;
+
+**MMDCCXLIII -** Resolução Provincial nº 39, de 15 de junho de 1885;
+
+**MMDCCXLIV -** Resolução Provincial nº 40, de 15 de junho de 1885;
+
+**MMDCCXLV -** Resolução Provincial nº 41, de 15 de junho de 1885;
+
+**MMDCCXLVI -** Resolução Provincial nº 42, de 15 de junho de 1885;
+
+**MMDCCXLVII -** Resolução Provincial nº 43, de 15 de junho de 1885;
+
+**MMDCCXLVIII -** Resolução Provincial nº 44, de 15 de junho de 1885;
+
+**MMDCCXLIX -** Resolução Provincial nº 45, de 15 de junho de 1885;
+
+**MMDCCL -** Resolução Provincial nº 46, de 15 de junho de 1885;
+
+**MMDCCLI -** Resolução Provincial nº 47, de 15 de junho de 1885;
+
+**MMDCCLII -** Resolução Provincial nº 48, de 15 de junho de 1885;
+
+**MMDCCLIII -** Resolução Provincial nº 49, de 15 de junho de 1885;
+
+**MMDCCLIV -** Resolução Provincial nº 50, de 15 de junho de 1885;
+
+**MMDCCLV -** Resolução Provincial nº 51, de 15 de junho de 1885;
+
+**MMDCCLVI -** Resolução Provincial nº 52, de 15 de junho de 1885;
+
+**MMDCCLVII -** Resolução Provincial nº 53, de 15 de junho de 1885;
+
+**MMDCCLVIII -** Resolução Provincial nº 54, de 15 de junho de 1885;
+
+**MMDCCLIX -** Resolução Provincial nº 55, de 15 de junho de 1885;
+
+**MMDCCLX -** Resolução Provincial nº 1, de 9 de março de 1886;
+
+**MMDCCLXI -** Resolução Provincial nº 2, de 9 de março de 1886;
+
+**MMDCCLXII -** Resolução Provincial nº 3, de 9 de março de 1886;
+
+**MMDCCLXIII -** Resolução Provincial nº 4, de 9 de março de 1886;
+
+**MMDCCLXIV -** Resolução Provincial nº 5, de 9 de março de 1886;
+
+**MMDCCLXV -** Resolução Provincial nº 6, de 9 de março de 1886;
+
+**MMDCCLXVI -** Lei Provincial nº 7, de 9 de março de 1886;
+
+**MMDCCLXVII -** Lei Provincial nº 8, de 15 de março de 1886;
+
+**MMDCCLXVIII -** Lei Provincial nº 9, de 27 de março de 1886;
+
+**MMDCCLXIX -** Resolução Provincial nº 10, de 27 de março de 1886;
+
+**MMDCCLXX -** Lei Provincial nº 11, de 27 de março de 1886;
+
+**MMDCCLXXI -** Resolução Provincial nº 12, de 27 de março de 1886;
+
+**MMDCCLXXII -** Resolução Provincial nº 13, de 27 de março de 1886;
+
+**MMDCCLXXIII -** Resolução Provincial nº 14, de 27 de março de 1886;
+
+**MMDCCLXXIV -** Lei Provincial nº 15, de 3 de abril de 1886;
+
+**MMDCCLXXV -** Lei Provincial nº 16, de 3 de abril de 1886;
+
+**MMDCCLXXVI -** Lei Provincial nº 17, de 7 de abril de 1886;
+
+**MMDCCLXXVII -** Lei Provincial nº 18, de 7 de abril de 1886;
+
+**MMDCCLXXVIII -** Resolução Provincial nº 19, de 7 de abril de 1886;
+
+**MMDCCLXXIX -** Lei Provincial nº 20, de 7 de abril de 1886;
+
+**MMDCCLXXX -** Lei Provincial nº 21, de 7 de abril de 1886;
+
+**MMDCCLXXXI -** Lei Provincial nº 22, de 7 de abril de 1886;
+
+**MMDCCLXXXII -** Resolução Provincial nº 23, de 7 de abril de 1886;
+
+**MMDCCLXXXIII -** Resolução Provincial nº 24, de 7 de abril de 1886;
+
+**MMDCCLXXXIV -** Resolução Provincial nº 25, de 7 de abril de 1886;
+
+**MMDCCLXXXV -** Resolução Provincial nº 26, de 7 de abril de 1886;
+
+**MMDCCLXXXVI -** Resolução Provincial nº 27, de 7 de abril de 1886;
+
+**MMDCCLXXXVII -** Resolução Provincial nº 28, de 7 de abril de 1886;
+
+**MMDCCLXXXVIII -** Resolução Provincial nº 29, de 7 de abril de 1886;
+
+**MMDCCLXXXIX -** Lei Provincial nº 30, de 13 de abril de 1886;
+
+**MMDCCXC -** Lei Provincial nº 31, de 13 de abril de 1886;
+
+**MMDCCXCI -** Lei Provincial nº 32, de 13 de abril de 1886;
+
+**MMDCCXCII -** Lei Provincial nº 33, de 13 de abril de 1886;
+
+**MMDCCXCIII -** Lei Provincial nº 34, de 13 de abril de 1886;
+
+**MMDCCXCIV -** Resolução Provincial nº 35, de 13 de abril de 1886;
+
+**MMDCCXCV -** Resolução Provincial nº 36, de 13 de abril de 1886;
+
+**MMDCCXCVI -** Resolução Provincial nº 37, de 13 de abril de 1886;
+
+**MMDCCXCVII -** Lei Provincial nº 38, de 13 de abril de 1886;
+
+**MMDCCXCVIII -** Resolução Provincial nº 39, de 13 de abril de 1886;
+
+**MMDCCXCIX -** Lei Provincial nº 40, de 13 de abril de 1886;
+
+**MMDCCC -** Lei Provincial nº 41, de 15 de abril de 1886;
+
+**MMDCCCI -** Lei Provincial nº 42, de 15 de abril de 1886;
+
+**MMDCCCII -** Lei Provincial nº 43, de 15 de abril de 1886;
+
+**MMDCCCIII -** Lei Provincial nº 44, de 15 de abril de 1886;
+
+**MMDCCCIV -** Lei Provincial nº 45, de 15 de abril de 1886;
+
+**MMDCCCV -** Lei Provincial nº 46, de 15 de abril de 1886;
+
+**MMDCCCVI -** Lei Provincial nº 47, de 15 de abril de 1886;
+
+**MMDCCCVII -** Lei Provincial nº 48, de 15 de abril de 1886;
+
+**MMDCCCVIII -** Resolução Provincial nº 49, de 15 de abril de 1886;
+
+**MMDCCCIX -** Resolução Provincial nº 50, de 15 de abril de 1886;
+
+**MMDCCCX -** Resolução Provincial nº 51, de 15 de abril de 1886;
+
+**MMDCCCXI -** Resolução Provincial nº 52, de 15 de abril de 1886;
+
+**MMDCCCXII -** Lei Provincial nº 53, de 16 de abril de 1886;
+
+**MMDCCCXIII -** Lei Provincial nº 54, de 16 de abril de 1886;
+
+**MMDCCCXIV -** Lei Provincial nº 55, de 17 de abril de 1886;
+
+**MMDCCCXV -** Lei Provincial nº 56, de 17 de abril de 1886;
+
+**MMDCCCXVI -** Lei Provincial nº 57, de 17 de abril de 1886;
+
+**MMDCCCXVII -** Resolução Provincial nº 58, de 17 de abril de 1886;
+
+**MMDCCCXVIII -** Resolução Provincial nº 59, de 17 de abril de 1886;
+
+**MMDCCCXIX -** Lei Provincial nº 60, de 19 de abril de 1886;
+
+**MMDCCCXX -** Resolução Provincial nº 61, de 19 de abril de 1886;
+
+**MMDCCCXXI -** Resolução Provincial nº 62, de 21 de abril de 1886;
+
+**MMDCCCXXII -** Resolução Provincial nº 63, de 21 de abril de 1886;
+
+**MMDCCCXXIII -** Resolução Provincial nº 64, de 21 de abril de 1886;
+
+**MMDCCCXXIV -** Resolução Provincial nº 65, de 21 de abril de 1886;
+
+**MMDCCCXXV -** Resolução Provincial nº 66, de 21 de abril de 1886;
+
+**MMDCCCXXVI -** Resolução Provincial nº 67, de 28 de abril de 1886;
+
+**MMDCCCXXVII -** Lei Provincial nº 68, de 30 de abril de 1886;
+
+**MMDCCCXXVIII -** Lei Provincial nº 69, de 30 de abril de 1886;
+
+**MMDCCCXXIX -** Lei Provincial nº 70, de 3 de maio de 1886;
+
+**MMDCCCXXX -** Lei Provincial nº 71, de 3 de maio de 1886;
+
+**MMDCCCXXXI -** Lei Provincial nº 72, de 3 de maio de 1886;
+
+**MMDCCCXXXII -** Lei Provincial nº 73, de 3 de maio de 1886;
+
+**MMDCCCXXXIII -** Lei Provincial nº 74, de 3 de maio de 1886;
+
+**MMDCCCXXXIV -** Lei Provincial nº 75, de 3 de maio de 1886;
+
+**MMDCCCXXXV -** Lei Provincial nº 76, de 3 de maio de 1886;
+
+**MMDCCCXXXVI -** Lei Provincial nº 77, de 3 de maio de 1886;
+
+**MMDCCCXXXVII -** Lei Provincial nº 78, de 3 de maio de 1886;
+
+**MMDCCCXXXVIII -** Lei Provincial nº 79, de 3 de maio de 1886;
+
+**MMDCCCXXXIX -** Lei Provincial nº 80, de 3 de maio de 1886;
+
+**MMDCCCXL -** Resolução Provincial nº 81, de 3 de maio de 1886;
+
+**MMDCCCXLI -** Resolução Provincial nº 82, de 3 de maio de 1886;
+
+**MMDCCCXLII -** Lei Provincial nº 83, de 4 de maio de 1886;
+
+**MMDCCCXLIII -** Lei Provincial nº 84, de 4 de maio de 1886;
+
+**MMDCCCXLIV -** Lei Provincial nº 85, de 4 de maio de 1886;
+
+**MMDCCCXLV -** Lei Provincial nº 86, de 5 de maio de 1886;
+
+**MMDCCCXLVI -** Lei Provincial nº 87, de 5 de maio de 1886;
+
+**MMDCCCXLVII -** Lei Provincial nº 88, de 5 de maio de 1886;
+
+**MMDCCCXLVIII -** Lei Provincial nº 89, de 6 de maio de 1886;
+
+**MMDCCCXLIX -** Lei Provincial nº 90, de 6 de maio de 1886;
+
+**MMDCCCL -** Lei Provincial nº 91, de 6 de maio de 1886;
+
+**MMDCCCLI -** Lei Provincial nº 92, de 6 de maio de 1886;
+
+**MMDCCCLII -** Resolução Provincial nº 93, de 6 de maio de 1886;
+
+**MMDCCCLIII -** Resolução Provincial nº 94, de 6 de maio de 1886;
+
+**MMDCCCLIV -** Resolução Provincial nº 95, de 6 de maio de 1886;
+
+**MMDCCCLV -** Resolução Provincial nº 96, de 6 de maio de 1886;
+
+**MMDCCCLVI -** Resolução Provincial nº 97, de 6 de maio de 1886;
+
+**MMDCCCLVII -** Resolução Provincial nº 98, de 6 de maio de 1886;
+
+**MMDCCCLVIII -** Lei Provincial nº 99, de 8 de maio de 1886;
+
+**MMDCCCLIX -** Lei Provincial nº 100, de 8 de maio de 1886;
+
+**MMDCCCLX -** Lei Provincial nº 101, de 8 de maio de 1886;
+
+**MMDCCCLXI -** Lei Provincial nº 102, de 8 de maio de 1886;
+
+**MMDCCCLXII -** Lei Provincial nº 103, de 8 de maio de 1886;
+
+**MMDCCCLXIII -** Lei Provincial nº 104, de 8 de maio de 1886;
+
+**MMDCCCLXIV -** Lei Provincial nº 105, de 8 de maio de 1886;
+
+**MMDCCCLXV -** Lei Provincial nº 106, de 8 de maio de 1886;
+
+**MMDCCCLXVI -** Lei Provincial nº 107, de 8 de maio de 1886;
+
+**MMDCCCLXVII -** Resolução Provincial nº 108, de 10 de maio de 1886;
+
+**MMDCCCLXVIII -** Resolução Provincial nº 109, de 10 de maio de 1886;
+
+**MMDCCCLXIX -** Lei Provincial nº 110, de 10 de maio de 1886;
+
+**MMDCCCLXX -** Resolução Provincial nº 111, de 11 de maio de 1886;
+
+**MMDCCCLXXI -** Resolução Provincial nº 112, de 11 de maio de 1886;
+
+**MMDCCCLXXII -** Resolução Provincial nº 113, de 11 de maio de 1886;
+
+**MMDCCCLXXIII -** Resolução Provincial nº 114, de 11 de maio de 1886;
+
+**MMDCCCLXXIV -** Lei Provincial nº 115, de 12 de maio de 1886;
+
+**MMDCCCLXXV -** Resolução Provincial nº 116, de 12 de maio de 1886;
+
+**MMDCCCLXXVI -** Resolução Provincial nº 117, de 12 de maio de 1886;
+
+**MMDCCCLXXVII -** Resolução Provincial nº 118, de 12 de maio de 1886;
+
+**MMDCCCLXXVIII -** Resolução Provincial nº 119, de 12 de maio de 1886;
+
+**MMDCCCLXXIX -** Resolução Provincial nº 120, de 14 de maio de 1886;
+
+**MMDCCCLXXX -** Resolução Provincial nº 121, de 14 de maio de 1886;
+
+**MMDCCCLXXXI -** Resolução Provincial nº 122, de 14 de maio de 1886;
+
+**MMDCCCLXXXII -** Resolução Provincial nº 123, de 25 de maio de 1886;
+
+**MMDCCCLXXXIII -** Lei Provincial nº 124, de 28 de maio de 1886;
+
+**MMDCCCLXXXIV -** Resolução Provincial nº 125, de 7 de junho de 1886;
+
+**MMDCCCLXXXV -** Resolução Provincial nº 126, de 7 de junho de 1886;
+
+**MMDCCCLXXXVI -** Resolução Provincial nº 127, de 7 de junho de 1886;
+
+**MMDCCCLXXXVII -** Resolução Provincial nº 128, de 7 de junho de 1886;
+
+**MMDCCCLXXXVIII -** Resolução Provincial nº 129, de 7 de junho de 1886;
+
+**MMDCCCLXXXIX -** Resolução Provincial nº 130, de 7 de junho de 1886;
+
+**MMDCCCXC -** Resolução Provincial nº 131, de 7 de junho de 1886;
+
+**MMDCCCXCI -** Resolução Provincial nº 132, de 7 de junho de 1886;
+
+**MMDCCCXCII -** Resolução Provincial nº 133, de 7 de junho de 1886;
+
+**MMDCCCXCIII -** Resolução Provincial nº 134, de 7 de junho de 1886;
+
+**MMDCCCXCIV -** Resolução Provincial nº 135, de 8 de junho de 1886;
+
+**MMDCCCXCV -** Resolução Provincial nº 136, de 8 de junho de 1886;
+
+**MMDCCCXCVI -** Resolução Provincial nº 137, de 8 de junho de 1886;
+
+**MMDCCCXCVII -** Resolução Provincial nº 138, de 8 de junho de 1886;
+
+**MMDCCCXCVIII -** Resolução Provincial nº 139, de 8 de junho de 1886;
+
+**MMDCCCXCIX -** Resolução Provincial nº 140, de 8 de junho de 1886;
+
+**MMCM -** Resolução Provincial nº 141, de 8 de junho de 1886;
+
+**MMCMI -** Lei Provincial nº 1, de 5 de fevereiro de 1887;
+
+**MMCMII -** Lei Provincial nº 2, de 5 de fevereiro de 1887;
+
+**MMCMIII -** Resolução Provincial nº 3, de 5 de fevereiro de 1887;
+
+**MMCMIV -** Lei Provincial nº 4, de 8 de fevereiro de 1887;
+
+**MMCMV -** Resolução Provincial nº 5, de 8 de fevereiro de 1887;
+
+**MMCMVI -** Resolução Provincial nº 6, de 11 de fevereiro de 1887;
+
+**MMCMVII -** Lei Provincial nº 7, de 15 de fevereiro de 1887;
+
+**MMCMVIII -** Resolução Provincial nº 8, de 15 de fevereiro de 1887;
+
+**MMCMIX -** Resolução Provincial nº 9, de 15 de fevereiro de 1887;
+
+**MMCMX -** Resolução Provincial nº 10, de 15 de fevereiro de 1887;
+
+**MMCMXI -** Lei Provincial nº 11, de 17 de fevereiro de 1887;
+
+**MMCMXII -** Lei Provincial nº 12, de 25 de fevereiro de 1887;
+
+**MMCMXIII -** Lei Provincial nº 13, de 25 de fevereiro de 1887;
+
+**MMCMXIV -** Lei Provincial nº 14, de 1º de março de 1887;
+
+**MMCMXV -** Lei Provincial nº 15, de 5 de março de 1887;
+
+**MMCMXVI -** Resolução Provincial nº 16, de 5 de março de 1887;
+
+**MMCMXVII -** Resolução Provincial nº 17, de 5 de março de 1887;
+
+**MMCMXVIII -** Lei Provincial nº 18, de 5 de março de 1887;
+
+**MMCMXIX -** Lei Provincial nº 19, de 5 de março de 1887;
+
+**MMCMXX -** Resolução Provincial nº 20, de 8 de março de 1887;
+
+**MMCMXXI -** Lei Provincial nº 21, de 10 de março de 1887;
+
+**MMCMXXII -** Lei Provincial nº 22, de 12 de março de 1887;
+
+**MMCMXXIII -** Lei Provincial nº 23, de 14 de março de 1887;
+
+**MMCMXXIV -** Resolução Provincial nº 24, de 16 de março de 1887;
+
+**MMCMXXV -** Lei Provincial nº 25, de 19 de março de 1887;
+
+**MMCMXXVI -** Resolução Provincial nº 26, de 19 de março de 1887;
+
+**MMCMXXVII -** Resolução Provincial nº 27, de 22 de março de 1887;
+
+**MMCMXXVIII -** Lei Provincial nº 28, de 24 de março de 1887;
+
+**MMCMXXIX -** Lei Provincial nº 29, de 24 de março de 1887;
+
+**MMCMXXX -** Resolução Provincial nº 30, de 26 de março de 1887;
+
+**MMCMXXXI -** Resolução Provincial nº 31, de 26 de março de 1887;
+
+**MMCMXXXII -** Resolução Provincial nº 32, de 26 de março de 1887;
+
+**MMCMXXXIII -** Resolução Provincial nº 33, de 26 de março de 1887;
+
+**MMCMXXXIV -** Resolução Provincial nº 34, de 26 de março de 1887;
+
+**MMCMXXXV -** Resolução Provincial nº 35, de 26 de março de 1887;
+
+**MMCMXXXVI -** Resolução Provincial nº 36, de 26 de março de 1887;
+
+**MMCMXXXVII -** Lei Provincial nº 37, de 26 de março de 1887;
+
+**MMCMXXXVIII -** Lei Provincial nº 38, de 26 de março de 1887;
+
+**MMCMXXXIX -** Lei Provincial nº 39, de 26 de março de 1887;
+
+**MMCMXL -** Lei Provincial nº 40, de 26 de março de 1887;
+
+**MMCMXLI -** Lei Provincial nº 41, de 26 de março de 1887;
+
+**MMCMXLII -** Lei Provincial nº 42, de 26 de março de 1887;
+
+**MMCMXLIII -** Lei Provincial nº 43, de 26 de março de 1887;
+
+**MMCMXLIV -** Lei Provincial nº 44, de 27 de março de 1887;
+
+**MMCMXLV -** Lei Provincial nº 45, de 27 de março de 1887;
+
+**MMCMXLVI -** Resolução Provincial nº 46, de 29 de março de 1887;
+
+**MMCMXLVII -** Resolução Provincial nº 47, de 29 de março de 1887;
+
+**MMCMXLVIII -** Lei Provincial nº 48, de 29 de março de 1887;
+
+**MMCMXLIX -** Lei Provincial nº 49, de 31 de março de 1887;
+
+**MMCML -** Lei Provincial nº 50, de 31 de março de 1887;
+
+**MMCMLI -** Lei Provincial nº 51, de 31 de março de 1887;
+
+**MMCMLII -** Lei Provincial nº 52, de 31 de março de 1887;
+
+**MMCMLIII -** Resolução Provincial nº 53, de 31 de março de 1887;
+
+**MMCMLIV -** Resolução Provincial nº 54, de 31 de março de 1887;
+
+**MMCMLV -** Resolução Provincial nº 55, de 31 de março de 1887;
+
+**MMCMLVI -** Resolução Provincial nº 56, de 31 de março de 1887;
+
+**MMCMLVII -** Resolução Provincial nº 57, de 31 de março de 1887;
+
+**MMCMLVIII -** Lei Provincial nº 58, de 2 de abril de 1887;
+
+**MMCMLIX -** Resolução Provincial nº 59, de 2 de abril de 1887;
+
+**MMCMLX -** Resolução Provincial nº 60, de 2 de abril de 1887;
+
+**MMCMLXI -** Resolução Provincial nº 61, de 2 de abril de 1887;
+
+**MMCMLXII -** Resolução Provincial nº 62, de 2 de abril de 1887;
+
+**MMCMLXIII -** Resolução Provincial nº 63, de 2 de abril de 1887;
+
+**MMCMLXIV -** Resolução Provincial nº 64, de 2 de abril de 1887;
+
+**MMCMLXV -** Lei Provincial nº 65, de 2 de abril de 1887;
+
+**MMCMLXVI -** Lei Provincial nº 66, de 2 de abril de 1887;
+
+**MMCMLXVII -** [Lei n° 67, de 2 de abril de 1887](http://www.al.sp.gov.br/norma?id=137908);
+
+**MMCMLXVIII -** Lei Provincial nº 68, de 2 de abril de 1887;
+
+**MMCMLXIX -** Lei Provincial nº 69, de 2 de abril de 1887;
+
+**MMCMLXX -** Lei Provincial nº 70, de 2 de abril de 1887;
+
+**MMCMLXXI -** Lei Provincial nº 71, de 2 de abril de 1887;
+
+**MMCMLXXII -** [Lei n° 72, de 2 de abril de 1887](http://www.al.sp.gov.br/norma?id=137909);
+
+**MMCMLXXIII -** Resolução Provincial nº 73, de 2 de abril de 1887;
+
+**MMCMLXXIV -** Resolução Provincial nº 74, de 2 de abril de 1887;
+
+**MMCMLXXV -** Resolução Provincial nº 75, de 2 de abril de 1887;
+
+**MMCMLXXVI -** Resolução Provincial nº 76, de 2 de abril de 1887;
+
+**MMCMLXXVII -** Resolução Provincial nº 77, de 2 de abril de 1887;
+
+**MMCMLXXVIII -** Resolução Provincial nº 78, de 2 de abril de 1887;
+
+**MMCMLXXIX -** Resolução Provincial nº 79, de 2 de abril de 1887;
+
+**MMCMLXXX -** Resolução Provincial nº 80, 2 de abril de 1887;
+
+**MMCMLXXXI -** Lei Provincial nº 81, de 6 de abril de 1887;
+
+**MMCMLXXXII -** Lei Provincial nº 82, de 6 de abril de 1887;
+
+**MMCMLXXXIII -** Lei Provincial nº 83, de 6 de abril de 1887;
+
+**MMCMLXXXIV -** Lei Provincial nº 84, de 6 de abril de 1887;
+
+**MMCMLXXXV -** Lei Provincial nº 85, de 6 de abril de 1887;
+
+**MMCMLXXXVI -** Lei Provincial nº 86, de 6 de abril de 1887;
+
+**MMCMLXXXVII -** Lei Provincial nº 87, de 6 de abril de 1887;
+
+**MMCMLXXXVIII -** Lei Provincial nº 88, de 6 de abril de 1887;
+
+**MMCMLXXXIX -** Lei Provincial nº 89, de 6 de abril de 1887;
+
+**MMCMXC -** Resolução Provincial nº 90, de 6 de abril de 1887;
+
+**MMCMXCI -** Lei Provincial nº 91, de 6 de abril de 1887;
+
+**MMCMXCII -** Lei Provincial nº 92, de 6 de abril de 1887;
+
+**MMCMXCIII -** Lei Provincial nº 93, de 6 de abril de 1887;
+
+**MMCMXCIV -** Resolução Provincial nº 94, de 6 de abril de 1887;
+
+**MMCMXCV -** Lei Provincial nº 95, de 11 de abril de 1887;
+
+**MMCMXCVI -** Lei Provincial nº 96, de 11 de abril de 1887;
+
+**MMCMXCVII -** Resolução Provincial nº 97, de 12 de abril de 1887;
+
+**MMCMXCVIII -** Resolução Provincial nº 98, de 12 de abril de 1887;
+
+**MMCMXCIX -** Resolução Provincial nº 99, de 12 de abril de 1887;
+
+**MMM -** Resolução Provincial nº 100, de 12 de abril de 1887;
+
+**MMMI -** Resolução Provincial nº 101, de 12 de abril de 1887;
+
+**MMMII -** Resolução Provincial nº 102, de 12 de abril de 1887;
+
+**MMMIII -** Resolução Provincial nº 103, de 12 de abril de 1887;
+
+**MMMIV -** Resolução Provincial nº 104, de 12 de abril de 1887;
+
+**MMMV -** Resolução Provincial nº 105, de 12 de abril de 1887;
+
+**MMMVI -** Resolução Provincial nº 106, de 13 de abril de 1887;
+
+**MMMVII -** Resolução Provincial nº 107, de 13 de abril de 1887;
+
+**MMMVIII -** Resolução Provincial nº 108, de 13 de abril de 1887;
+
+**MMMIX -** Resolução Provincial nº 109, de 13 de abril de 1887;
+
+**MMMX -** Lei Provincial nº 110, de 22 de abril de 1887;
+
+**MMMXI -** Resolução Provincial nº 111, de 29 de abril de 1887;
+
+**MMMXII -** Resolução Provincial nº 112, de 30 de abril de 1887;
+
+**MMMXIII -** Resolução Provincial nº 113, de 30 de abril de 1887;
+
+**MMMXIV -** Resolução Provincial nº 114, de 30 de abril de 1887;
+
+**MMMXV -** Resolução Provincial nº 115, de 30 de abril de 1887;
+
+**MMMXVI -** Resolução Provincial nº 116, de 30 de abril de 1887;
+
+**MMMXVII -** Resolução Provincial nº 117, de 30 de abril de 1887;
+
+**MMMXVIII -** Resolução Provincial nº 118, de 30 de abril de 1887;
+
+**MMMXIX -** Resolução Provincial nº 119, de 30 de abril de 1887;
+
+**MMMXX -** Resolução Provincial nº 120, de 30 de abril de 1887;
+
+**MMMXXI -** Resolução Provincial nº 121, de 30 de abril de 1887;
+
+**MMMXXII -** Resolução Provincial nº 122, de 3 de maio de 1887;
+
+**MMMXXIII -** Resolução Provincial nº 123, de 3 de maio de 1887;
+
+**MMMXXIV -** Resolução Provincial nº 124, de 3 de maio de 1887;
+
+**MMMXXV -** Resolução Provincial nº 125, de 3 de maio de 1887;
+
+**MMMXXVI -** Lei Provincial nº 1, de 3 de fevereiro de 1888;
+
+**MMMXXVII -** Lei Provincial nº 2, de 9 de fevereiro de 1888;
+
+**MMMXXVIII -** Lei Provincial nº 3, de 9 de fevereiro de 1888;
+
+**MMMXXIX -** Lei Provincial nº 4, de 9 de fevereiro de 1888;
+
+**MMMXXX -** Resolução Provincial nº 5, de 15 de fevereiro de 1888;
+
+**MMMXXXI -** Resolução Provincial nº 6, de 15 de fevereiro de 1888;
+
+**MMMXXXII -** Resolução Provincial nº 7, de 15 de fevereiro de 1888;
+
+**MMMXXXIII -** Resolução Provincial nº 8, de 15 de fevereiro de 1888;
+
+**MMMXXXIV -** Resolução Provincial nº 9, de 15 de fevereiro de 1888;
+
+**MMMXXXV -** Resolução Provincial nº 10, de 15 de fevereiro de 1888;
+
+**MMMXXXVI -** Resolução Provincial nº 11, de 15 de fevereiro de 1888;
+
+**MMMXXXVII -** Lei Provincial nº 12, de 17 de fevereiro de 1888;
+
+**MMMXXXVIII -** Lei Provincial nº 13, de 18 de fevereiro de 1888;
+
+**MMMXXXIX -** Lei Provincial nº 14, de 18 de fevereiro de 1888;
+
+**MMMXL -** Lei Provincial nº 15, de 18 de fevereiro de 1888;
+
+**MMMXLI -** Lei Provincial nº 16, de 21 de fevereiro de 1888;
+
+**MMMXLII -** Lei Provincial nº 17, de 28 de fevereiro de 1888;
+
+**MMMXLIII -** Lei Provincial nº 18, de 2 de março de 1888;
+
+**MMMXLIV -** Lei Provincial nº 19, de 2 de março de 1888;
+
+**MMMXLV -** Resolução Provincial nº 20, de 2 de março de 1888;
+
+**MMMXLVI -** Lei Provincial nº 21, de 3 de março de 1888;
+
+**MMMXLVII -** Lei Provincial nº 22, de 3 de março de 1888;
+
+**MMMXLVIII -** Lei Provincial nº 23, de 3 de março de 1888;
+
+**MMMXLIX -** Lei Provincial nº 24, de 6 de março de 1888;
+
+**MMML -** Resolução Provincial nº 25, de 7 de março de 1888;
+
+**MMMLI -** Resolução Provincial nº 26, de 7 de março de 1888;
+
+**MMMLII -** Lei Provincial nº 27, de 10 de março de 1888;
+
+**MMMLIII -** Lei Provincial nº 28, de 13 de março de 1888;
+
+**MMMLIV -** Lei Provincial nº 29, de 16 de março de 1888;
+
+**MMMLV -** Lei Provincial nº 30, de 17 de março de 1888;
+
+**MMMLVI -** Lei Provincial nº 31, de 17 de março de 1888;
+
+**MMMLVII -** Lei Provincial nº 32, de 17 de março de 1888;
+
+**MMMLVIII -** Lei Provincial nº 33, de 17 de março de 1888;
+
+**MMMLIX -** Lei Provincial nº 34, de 17 de março de 1888;
+
+**MMMLX -** Lei Provincial nº 35, de 17 de março de 1888;
+
+**MMMLXI -** Lei Provincial nº 36, de 19 de março de 1888;
+
+**MMMLXII -** Lei Provincial nº 37, de 19 de março de 1888;
+
+**MMMLXIII -** Lei Provincial nº 38, de 19 de março de 1888;
+
+**MMMLXIV -** Lei Provincial nº 39, de 21 de março de 1888;
+
+**MMMLXV -** Lei Provincial nº 40, de 21 de março de 1888;
+
+**MMMLXVI -** Lei Provincial nº 41, de 21 de março de 1888;
+
+**MMMLXVII -** Lei Provincial nº 42, de 21 de março de 1888;
+
+**MMMLXVIII -** Lei Provincial nº 43, de 21 de março de 1888;
+
+**MMMLXIX -** Lei Provincial nº 44, de 21 de março de 1888;
+
+**MMMLXX -** Lei Provincial nº 45, de 21 de março de 1888;
+
+**MMMLXXI -** Lei Provincial nº 46, de 21 de março de 1888;
+
+**MMMLXXII -** Lei Provincial nº 47, de 21 de março de 1888;
+
+**MMMLXXIII -** Lei Provincial nº 48, de 21 de março de 1888;
+
+**MMMLXXIV -** Lei Provincial nº 49, de 21 de março de 1888;
+
+**MMMLXXV -** Lei Provincial nº 50, de 21 de março de 1888;
+
+**MMMLXXVI -** Lei Provincial nº 51, de 21 de março de 1888;
+
+**MMMLXXVII -** Lei Provincial nº 52, de 21 de março de 1888;
+
+**MMMLXXVIII -** Lei Provincial nº 53, de 21 de março de 1888;
+
+**MMMLXXIX -** Lei Provincial nº 54, de 21 de março de 1888;
+
+**MMMLXXX -** Lei Provincial nº 55, de 22 de março de 1888;
+
+**MMMLXXXI -** Lei Provincial nº 56, de 22 de março de 1888;
+
+**MMMLXXXII -** Lei Provincial nº 57, de 22 de março de 1888;
+
+**MMMLXXXIII -** Lei Provincial nº 58, de 24 de março de 1888;
+
+**MMMLXXXIV -** Lei Provincial nº 59, de 24 de março de 1888;
+
+**MMMLXXXV -** Lei Provincial nº 60, de 24 de março de 1888;
+
+**MMMLXXXVI -** Lei Provincial nº 61, de 24 de março de 1888;
+
+**MMMLXXXVII -** Lei Provincial nº 62, de 24 de março de 1888;
+
+**MMMLXXXVIII -** Lei Provincial nº 63, de 24 de março de 1888;
+
+**MMMLXXXIX -** Lei Provincial nº 64, de 24 de março de 1888;
+
+**MMMXC -** Lei Provincial nº 65, de 24 de março de 1888;
+
+**MMMXCI -** Lei Provincial nº 66, de 24 de março de 1888;
+
+**MMMXCII -** Lei Provincial nº 67, de 24 de março de 1888;
+
+**MMMXCIII -** Lei Provincial nº 68, de 24 de março de 1888;
+
+**MMMXCIV -** Lei Provincial nº 69, de 24 de março de 1888;
+
+**MMMXCV -** Lei Provincial nº 70, de 24 de março de 1888;
+
+**MMMXCVI -** Lei Provincial nº 71, de 24 de março de 1888;
+
+**MMMXCVII -** Lei Provincial nº 72, de 24 de março de 1888;
+
+**MMMXCVIII -** Lei Provincial nº 73, de 24 de março de 1888;
+
+**MMMXCIX -** Lei Provincial nº 74, de 26 de março de 1888;
+
+**MMMC -** Resolução Provincial nº 75, de 27 de março de 1888;
+
+**MMMCI -** Resolução Provincial nº 76, de 27 de março de 1888;
+
+**MMMCII -** Resolução Provincial nº 77, de 27 de março de 1888;
+
+**MMMCIII -** Resolução Provincial nº 78, de 14 de março de 1888;
+
+**MMMCIV -** Resolução Provincial nº 79, de 27 de março de 1888;
+
+**MMMCV -** Resolução Provincial nº 80, de 27 de março de 1888;
+
+**MMMCVI -** Lei Provincial nº 81, de 27 de março de 1888;
+
+**MMMCVII -** Lei Provincial nº 82, de 28 de março de 1888;
+
+**MMMCVIII -** Resolução Provincial nº 83, de 2 de abril de 1888;
+
+**MMMCIX -** Resolução Provincial nº 84, de 2 de abril de 1888;
+
+**MMMCX -** Resolução Provincial nº 85, de 2 de abril de 1888;
+
+**MMMCXI -** Resolução Provincial nº 86, de 2 de abril de 1888;
+
+**MMMCXII -** Resolução Provincial nº 87, de 2 de abril de 1888;
+
+**MMMCXIII -** Resolução Provincial nº 88, de 2 de abril de 1888;
+
+**MMMCXIV -** Resolução Provincial nº 89, de 2 de abril de 1888;
+
+**MMMCXV -** Resolução Provincial nº 90, de 2 de abril de 1888;
+
+**MMMCXVI -** Resolução Provincial nº 91, de 2 de abril de 1888;
+
+**MMMCXVII -** Resolução Provincial nº 92, de 2 de abril de 1888;
+
+**MMMCXVIII -** Resolução Provincial nº 93, de 2 de abril de 1888;
+
+**MMMCXIX -** Resolução Provincial nº 94, de 2 de abril de 1888;
+
+**MMMCXX -** Resolução Provincial nº 95, de 2 de abril de 1888;
+
+**MMMCXXI -** Resolução Provincial nº 96, de 2 de abril de 1888;
+
+**MMMCXXII -** Resolução Provincial nº 97, de 14 de abril de 1888;
+
+**MMMCXXIII -** Resolução Provincial nº 98, de 14 de abril de 1888;
+
+**MMMCXXIV -** Resolução Provincial nº 99, de 14 de março de 1888;
+
+**MMMCXXV -** Resolução Provincial nº 100, de 14 de abril de 1888;
+
+**MMMCXXVI -** Resolução Provincial nº 101, de 14 de março de 1888;
+
+**MMMCXXVII -** Resolução Provincial nº 102, de 14 de março de 1888;
+
+**MMMCXXVIII -** Resolução Provincial nº 103, de 14 de março de 1888;
+
+**MMMCXXIX -** Resolução Provincial nº 104, de 14 de abril de 1888;
+
+**MMMCXXX -** Resolução Provincial nº 105, de 4 de junho de 1888;
+
+**MMMCXXXI -** Resolução Provincial nº 106, de 14 de abril de 1888;
+
+**MMMCXXXII -** Resolução Provincial nº 107, de 28 de abril de 1888;
+
+**MMMCXXXIII -** Resolução Provincial nº 108, de 22 de maio de 1888;
+
+**MMMCXXXIV -** Resolução Provincial nº 109, de 22 de maio de 1888;
+
+**MMMCXXXV -** Resolução Provincial nº 110, de 22 de maio de 1888;
+
+**MMMCXXXVI -** Resolução Provincial nº 111, de 22 de maio de 1888;
+
+**MMMCXXXVII -** Resolução Provincial nº 112, de 22 de maio de 1888;
+
+**MMMCXXXVIII -** Resolução Provincial nº 113, de 22 de maio de 1888;
+
+**MMMCXXXIX -** Resolução Provincial nº 114, de 22 de maio de 1888;
+
+**MMMCXL -** Resolução Provincial nº 115, de 14 de abril de 1888;
+
+**MMMCXLI -** Resolução Provincial nº 116, de 21 de junho de 1888;
+
+**MMMCXLII -** Lei Provincial nº 117, de 26 de junho de 1888;
+
+**MMMCXLIII -** Resolução Provincial nº 118, de 17 de julho de 1888;
+
+**MMMCXLIV -** Resolução Provincial nº 119, de 28 de julho de 1888;
+
+**MMMCXLV -** Resolução Provincial nº 120, de 28 de julho de 1888;
+
+**MMMCXLVI -** Resolução Provincial nº 121, de 28 de julho de 1888;
+
+**MMMCXLVII -** Resolução Provincial nº 122, de 28 de julho de 1888;
+
+**MMMCXLVIII -** Resolução Provincial nº 123, de 6 de agosto de 1888;
+
+**MMMCXLIX -** Resolução Provincial nº 124, de 6 de agosto de 1888;
+
+**MMMCL -** Resolução Provincial nº 125, de 14 de agosto de 1888;
+
+**MMMCLI -** Resolução Provincial nº 126, de 17 de agosto de 1888;
+
+**MMMCLII -** Lei Provincial nº 1, de 29 de janeiro de 1889;
+
+**MMMCLIII -** Lei Provincial nº 2, de 29 de janeiro de 1889;
+
+**MMMCLIV -** Lei Provincial nº 3, de 30 de janeiro de 1889;
+
+**MMMCLV -** Lei Provincial nº 4, de 6 de fevereiro de 1889;
+
+**MMMCLVI -** Lei Provincial nº 5, de 6 de fevereiro de 1889;
+
+**MMMCLVII -** Lei Provincial nº 6, de 6 de fevereiro de 1889;
+
+**MMMCLVIII -** Lei Provincial nº 7, de 6 de fevereiro de 1889;
+
+**MMMCLIX -** Lei Provincial nº 8, de 9 de fevereiro de 1889;
+
+**MMMCLX -** Lei Provincial nº 9, de 9 de fevereiro de 1889;
+
+**MMMCLXI -** Lei Provincial nº 10, de 12 de fevereiro de 1889;
+
+**MMMCLXII -** Lei Provincial nº 11, de 12 de fevereiro de 1889;
+
+**MMMCLXIII -** Lei Provincial nº 12, de 16 de fevereiro de 1889;
+
+**MMMCLXIV -** Lei Provincial nº 13, de 16 de fevereiro de 1889;
+
+**MMMCLXV -** Lei Provincial nº 14, de 16 de fevereiro de 1889;
+
+**MMMCLXVI -** Lei Provincial nº 15, de 18 de fevereiro de 1889;
+
+**MMMCLXVII -** Lei Provincial nº 16, de 18 de fevereiro de 1889;
+
+**MMMCLXVIII -** Lei Provincial nº 17, de 18 de fevereiro de 1889;
+
+**MMMCLXIX -** Lei Provincial nº 18, de 18 de fevereiro de 1889;
+
+**MMMCLXX -** Lei Provincial nº 19, de 20 de fevereiro de 1889;
+
+**MMMCLXXI -** Lei Provincial nº 20, de 21 de fevereiro de 1889;
+
+**MMMCLXXII -** Lei Provincial nº 21, de 28 de fevereiro de 1889;
+
+**MMMCLXXIII -** Lei Provincial nº 22, de 28 de fevereiro de 1889;
+
+**MMMCLXXIV -** Lei Provincial nº 23, de 28 de fevereiro de 1889;
+
+**MMMCLXXV -** Lei Provincial nº 24, de 28 de fevereiro de 1889;
+
+**MMMCLXXVI -** Resolução Provincial nº 25, de 28 de fevereiro de 1889;
+
+**MMMCLXXVII -** Lei Provincial nº 26, de 28 de fevereiro de 1889;
+
+**MMMCLXXVIII -** Resolução Provincial nº 27, de 28 de fevereiro de 1889;
+
+**MMMCLXXIX -** Resolução Provincial nº 28, de 28 de fevereiro de 1889;
+
+**MMMCLXXX -** Resolução Provincial nº 29, de 28 de fevereiro de 1889;
+
+**MMMCLXXXI -** Lei Provincial nº 30, de 28 de fevereiro de 1889;
+
+**MMMCLXXXII -** Lei Provincial nº 31, de 28 de fevereiro de 1889;
+
+**MMMCLXXXIII -** Lei Provincial nº 32, de 28 de fevereiro de 1889;
+
+**MMMCLXXXIV -** Lei Provincial nº 33, de 2 de março de 1889;
+
+**MMMCLXXXV -** Lei Provincial nº 34, de 2 de março de 1889;
+
+**MMMCLXXXVI -** Lei Provincial nº 35, de 4 de março de 1889;
+
+**MMMCLXXXVII -** Lei Provincial nº 36, de 7 de março de 1889;
+
+**MMMCLXXXVIII -** Lei Provincial nº 37, de 7 de março de 1889;
+
+**MMMCLXXXIX -** Lei Provincial nº 38, de 12 de março de 1889;
+
+**MMMCXC -** Lei Provincial nº 39, de 12 de março de 1889;
+
+**MMMCXCI -** Lei Provincial nº 40, de 12 de março de 1889;
+
+**MMMCXCII -** Lei Provincial nº 41, de 13 de março de 1889;
+
+**MMMCXCIII -** Lei Provincial nº 42, de 14 de março de 1889;
+
+**MMMCXCIV -** Lei Provincial nº 43, de 14 de março de 1889;
+
+**MMMCXCV -** Lei Provincial nº 44, de 20 de março de 1889;
+
+**MMMCXCVI -** Lei Provincial nº 45, de 20 de março de 1889;
+
+**MMMCXCVII -** Lei Provincial nº 46, de 20 de março de 1889;
+
+**MMMCXCVIII -** Lei Provincial nº 47, de 22 de março de 1889;
+
+**MMMCXCIX -** Lei Provincial nº 48, de 22 de março de 1889;
+
+**MMMCC -** Lei Provincial nº 49, de 22 de março de 1889;
+
+**MMMCCI -** Lei Provincial nº 50, de 22 de março de 1889;
+
+**MMMCCII -** Lei Provincial nº 51, de 22 de março de 1889;
+
+**MMMCCIII -** Lei Provincial nº 52, de 22 de março de 1889;
+
+**MMMCCIV -** Lei Provincial nº 53, de 22 de março de 1889;
+
+**MMMCCV -** Lei Provincial nº 54, de 22 de março de 1889;
+
+**MMMCCVI -** Lei Provincial nº 55, de 22 de março de 1889;
+
+**MMMCCVII -** Lei Provincial nº 56, de 22 de março de 1889;
+
+**MMMCCVIII -** Lei Provincial nº 57, de 22 de março de 1889;
+
+**MMMCCIX -** Lei Provincial nº 58, de 22 de março de 1889;
+
+**MMMCCX -** Lei Provincial nº 59, de 22 de março de 1889;
+
+**MMMCCXI -** Lei Provincial nº 60, de 22 de março de 1889;
+
+**MMMCCXII -** Lei Provincial nº 61, de 22 de março de 1889;
+
+**MMMCCXIII -** Lei Provincial nº 62, de 23 de março de 1889;
+
+**MMMCCXIV -** Lei Provincial nº 63, de 27 de março de 1889;
+
+**MMMCCXV -** Lei Provincial nº 64, de 27 de março de 1889;
+
+**MMMCCXVI -** Lei Provincial nº 65, de 27 de março de 1889;
+
+**MMMCCXVII -** Lei Provincial nº 66, de 27 de março de 1889;
+
+**MMMCCXVIII -** Lei Provincial nº 67, de 27 de março de 1889;
+
+**MMMCCXIX -** Lei Provincial nº 68, de 27 de março de 1889;
+
+**MMMCCXX -** Lei Provincial nº 69, de 27 de março de 1889;
+
+**MMMCCXXI -** Lei Provincial nº 70, de 27 de março de 1889;
+
+**MMMCCXXII -** Lei Provincial nº 71, de 27 de março de 1889;
+
+**MMMCCXXIII -** Lei Provincial nº 72, de 30 de março de 1889;
+
+**MMMCCXXIV -** Lei Provincial nº 73, de 30 de março de 1889;
+
+**MMMCCXXV -** Lei Provincial nº 74, de 30 de março de 1889;
+
+**MMMCCXXVI -** Lei Provincial nº 75, de 30 de março de 1889;
+
+**MMMCCXXVII -** Lei Provincial nº 76, de 30 de março de 1889;
+
+**MMMCCXXVIII -** Lei Provincial nº 77, de 30 de março de 1889;
+
+**MMMCCXXIX -** Lei Provincial nº 78, de 30 de março de 1889;
+
+**MMMCCXXX -** Lei Provincial nº 79, de 30 de março de 1889;
+
+**MMMCCXXXI -** Lei Provincial nº 80, de 30 de março de 1889;
+
+**MMMCCXXXII -** Lei Provincial nº 81, de 30 de março de 1889;
+
+**MMMCCXXXIII -** Resolução Provincial nº 82, de 1º de abril de 1889;
+
+**MMMCCXXXIV -** Lei Provincial nº 83, de 1º de abril de 1889;
+
+**MMMCCXXXV -** Lei Provincial nº 84, de 1º de abril de 1889;
+
+**MMMCCXXXVI -** Lei Provincial nº 85, de 1º de abril de 1889;
+
+**MMMCCXXXVII -** Lei Provincial nº 86, de 1º de abril de 1889;
+
+**MMMCCXXXVIII -** Lei Provincial nº 87, de 1º de abril de 1889;
+
+**MMMCCXXXIX -** Lei Provincial nº 88, de 1º de abril de 1889;
+
+**MMMCCXL -** Lei Provincial nº 89, de 1º de abril de 1889;
+
+**MMMCCXLI -** Lei Provincial nº 90, de 1º de abril de 1889;
+
+**MMMCCXLII -** Lei Provincial nº 91, de 3 de abril de 1889;
+
+**MMMCCXLIII -** Lei Provincial nº 92, de 3 de abril de 1889;
+
+**MMMCCXLIV -** Lei Provincial nº 93, de 4 de abril de 1889;
+
+**MMMCCXLV -** Lei Provincial nº 94, de 4 de abril de 1889;
+
+**MMMCCXLVI -** Lei Provincial nº 95, de 4 de abril de 1889;
+
+**MMMCCXLVII -** Lei Provincial nº 96, de 4 de abril de 1889;
+
+**MMMCCXLVIII -** Lei Provincial nº 97, de 4 de abril de 1889;
+
+**MMMCCXLIX -** Lei Provincial nº 98, de 4 de abril de 1889;
+
+**MMMCCL -** Lei Provincial nº 99, de 4 de abril de 1889;
+
+**MMMCCLI -** Lei Provincial nº 100, de 4 de abril de 1889;
+
+**MMMCCLII -** Lei Provincial nº 101, de 8 de abril de 1889;
+
+**MMMCCLIII -** Lei Provincial nº 102, de 9 de abril de 1889;
+
+**MMMCCLIV -** Lei Provincial nº 103, de 9 de abril de 1889;
+
+**MMMCCLV -** Lei Provincial nº 104, de 9 de abril de 1889;
+
+**MMMCCLVI -** Lei Provincial nº 105, de 9 de abril de 1889;
+
+**MMMCCLVII -** Lei Provincial nº 106, de 9 de abril de 1889;
+
+**MMMCCLVIII -** Lei Provincial nº 107, de 9 de abril de 1889;
+
+**MMMCCLIX -** Lei Provincial nº 108, de 10 de abril de 1889;
+
+**MMMCCLX -** Lei Provincial nº 109, de 15 de abril de 1889;
+
+**MMMCCLXI -** Lei Provincial nº 110, de 17 de abril de 1889;
+
+**MMMCCLXII -** Resolução Provincial nº 111, de 23 de abril de 1889;
+
+**MMMCCLXIII -** Resolução Provincial nº 112, de 23 de abril de 1889;
+
+**MMMCCLXIV -** Resolução Provincial nº 113, de 23 de abril de 1889;
+
+**MMMCCLXV -** Resolução Provincial nº 114, de 23 de abril de 1889;
+
+**MMMCCLXVI -** Resolução Provincial nº 115, de 23 de abril de 1889;
+
+**MMMCCLXVII -** Resolução Provincial nº 116, de 23 de abril de 1889;
+
+**MMMCCLXVIII -** Resolução Provincial nº 117, de 23 de abril de 1889;
+
+**MMMCCLXIX -** Resolução Provincial nº 118, de 23 de abril de 1889;
+
+**MMMCCLXX -** Lei Provincial nº 119, de 25 de abril de 1889;
+
+**MMMCCLXXI -** Lei Provincial nº 120, de 25 de abril de 1889;
+
+**MMMCCLXXII -** Lei Provincial nº 121, de 6 de maio de 1889;
+
+**MMMCCLXXIII -** Lei Provincial nº 122, de 6 de maio de 1889;
+
+**MMMCCLXXIV -** Resolução Provincial nº 123, de 9 de maio de 1889;
+
+**MMMCCLXXV -** Lei Provincial nº 124, de 10 de maio de 1889;
+
+**MMMCCLXXVI -** Lei Provincial nº 125, de 15 de maio de 1889;
+
+**MMMCCLXXVII -** Lei Provincial nº 126, de 15 de maio de 1889;
+
+**MMMCCLXXVIII -** Lei Provincial nº 127, de 15 de maio de 1889;
+
+**MMMCCLXXIX -** Lei Provincial nº 128, de 15 de maio de 1889;
+
+**MMMCCLXXX -** Lei Provincial nº 129, de 16 de maio de 1889;
+
+**MMMCCLXXXI -** Lei Provincial nº 130, de 15 de maio de 1889;
+
+**MMMCCLXXXII -** Lei Provincial nº 131, de 15 de maio de 1889;
+
+**MMMCCLXXXIII -** Lei Provincial nº 132, de 15 de maio de 1889;
+
+**MMMCCLXXXIV -** Lei Provincial nº 133, de 15 de maio de 1889;
+
+**MMMCCLXXXV -** Lei Provincial nº 134, de 15 de maio de 1889;
+
+**MMMCCLXXXVI -** Lei Provincial nº 135, de 15 de maio de 1889;
+
+**MMMCCLXXXVII -** Lei Provincial nº 136, de 15 de maio de 1889;
+
+**MMMCCLXXXVIII -** Lei Provincial nº 137, de 15 de maio de 1889;
+
+**MMMCCLXXXIX -** Lei Provincial nº 138, de 15 de maio de 1889;
+
+**MMMCCXC -** Resolução Provincial nº 139, de 17 de maio de 1889;
+
+**MMMCCXCI -** Resolução Provincial nº 140, de 20 de maio de 1889;
+
+**MMMCCXCII -** Resolução Provincial nº 141, de 18 de maio de 1889;
+
+**MMMCCXCIII -** Resolução Provincial nº 142, de 18 de maio de 1889;
+
+**MMMCCXCIV -** Resolução Provincial nº 143, de 18 de maio de 1889;
+
+**MMMCCXCV -** Resolução Provincial nº 144, de 17 de maio de 1889;
+
+**MMMCCXCVI -** Resolução Provincial nº 145, de 18 de maio de 1889;
+
+**MMMCCXCVII -** Resolução Provincial nº 146, de 18 de maio de 1889;
+
+**MMMCCXCVIII -** Resolução Provincial nº 147, de 18 de maio de 1889;
+
+**MMMCCXCIX -** Resolução Provincial nº 148, de 18 de maio de 1889;
+
+**MMMCCC -** Resolução Provincial nº 149, de 18 de maio de 1889;
+
+**MMMCCCI -** Resolução Provincial nº 150, de 18 de maio de 1889;
+
+**MMMCCCII -** Resolução Provincial nº 151, de 18 de maio de 1889;
+
+**MMMCCCIII -** Resolução Provincial nº 152, de 18 de maio de 1889;
+
+**MMMCCCIV -** Resolução Provincial nº 153, de 18 de maio de 1889;
+
+**MMMCCCV -** Resolução Provincial nº 154, de 18 de maio de 1889;
+
+**MMMCCCVI -** Resolução Provincial nº 155, de 18 de maio de 1889;
+
+**MMMCCCVII -** Resolução Provincial nº 156, de 18 de maio de 1889;
+
+**MMMCCCVIII -** Resolução Provincial nº 157, de 18 de maio de 1889;
+
+**MMMCCCIX -** Resolução Provincial nº 158, de 18 de maio de 1889;
+
+**MMMCCCX -** Resolução Provincial nº 159, de 18 de maio de 1889;
+
+**MMMCCCXI -** Resolução Provincial nº 160, de 18 de maio de 1889;
+
+**MMMCCCXII -** Resolução Provincial nº 161, de 18 de maio de 1889;
+
+**MMMCCCXIII -** Resolução Provincial nº 162, de 18 de maio de 1889;
+
+**MMMCCCXIV -** Resolução Provincial nº 163, de 18 de maio de 1889;
+
+**MMMCCCXV -** Resolução Provincial nº 164, de 21 de maio de 1889;
+
+**MMMCCCXVI -** Resolução Provincial nº 165, de 21 de maio de 1889;
+
+**MMMCCCXVII -** Resolução Provincial nº 166, de 21 de maio de 1889;
+
+**MMMCCCXVIII -** Resolução Provincial nº 167, de 21 de maio de 1889;
+
+**MMMCCCXIX -** Resolução Provincial nº 168, de 21 de maio de 1889;
+
+**MMMCCCXX -** Resolução Provincial nº 169, de 21 de maio de 1889;
+
+**MMMCCCXXI -** Resolução Provincial nº 170, de 21 de maio de 1889;
+
+**MMMCCCXXII -** Resolução Provincial nº 171, de 21 de maio de 1889;
+
+**MMMCCCXXIII -** Resolução Provincial nº 172, de 21 de maio de 1889;
+
+**MMMCCCXXIV -** Resolução Provincial nº 173, de 21 de maio de 1889;
+
+**MMMCCCXXV -** Resolução Provincial nº 174, de 21 de maio de 1889;
+
+**MMMCCCXXVI -** Resolução Provincial nº 175, de 21 de maio de 1889;
+
+**MMMCCCXXVII -** Resolução Provincial nº 176, de 18 de maio de 1889;
+
+**MMMCCCXXVIII -** Resolução Provincial nº 177, de 22 de maio de 1889;
+
+**MMMCCCXXIX -** Resolução Provincial nº 178, de 22 de maio de 1889;
+
+**MMMCCCXXX -** Resolução Provincial nº 179, de 22 de maio de 1889;
+
+**MMMCCCXXXI -** Resolução Provincial nº 180, de 22 de maio de 1889;
+
+**MMMCCCXXXII -** Resolução Provincial nº 181, de 22 de maio de 1889;
+
+**MMMCCCXXXIII -** Resolução Provincial nº 182, de 22 de maio de 1889;
+
+**MMMCCCXXXIV -** Resolução Provincial nº 183, de 22 de maio de 1889;
+
+**MMMCCCXXXV -** Resolução Provincial nº 184, de 22 de maio de 1889;
+
+**MMMCCCXXXVI -** Resolução Provincial nº 185, de 28 de maio de 1889;
+
+**MMMCCCXXXVII -** Resolução Provincial nº 186, de 31 de maio de 1889;
+
+**MMMCCCXXXVIII -** Resolução Provincial nº 187, de 31 de maio de 1889;
+
+**MMMCCCXXXIX -** Lei Provincial nº 188, de 1º de junho de 1889;
+
+**MMMCCCXL -** Resolução Provincial nº 189, de 3 de junho de 1889;
+
+**MMMCCCXLI -** Resolução Provincial nº 190, de 31 de maio de 1889;
+
+**MMMCCCXLII -** Resolução Provincial nº 191, de 3 de junho de 1889;
+
+**MMMCCCXLIII -** Resolução Provincial nº 192, de 5 de junho de 1889;
+
+**MMMCCCXLIV -** Resolução Provincial nº 193, de 5 de junho de 1889;
+
+**MMMCCCXLV -** Lei Provincial nº 194, de 5 de junho de 1889;
+
+**MMMCCCXLVI -** Lei Provincial nº 195, de 5 de junho de 1889;
+
+**MMMCCCXLVII -** Resolução Provincial nº 196, de 6 de junho de 1889;
+
+**MMMCCCXLVIII -** Resolução Provincial nº 197, de 6 de junho de 1889;
+
+**MMMCCCXLIX -** Resolução Provincial nº 198, de 3 de agosto de 1889.
+
+**Artigo 2º -** Ficam revogadas as seguintes resoluções:
+
+**I -** Resolução nº 2, de 25 de novembro de 1889;
+
+**II -** Resolução nº 3, de 3 de dezembro de 1889;
+
+**III -** Resolução nº 5, de 26 de dezembro de 1889;
+
+**IV -** Resolução nº 10, de 11 de janeiro de 1890;
+
+**V -** Resolução nº 20, de 17 de fevereiro de 1890;
+
+**VI -** Resolução nº 22, de 3 de março de 1890;
+
+**VII -** Resolução nº 23, de 3 de março de 1890;
+
+**VIII -** Resolução nº 25, de 6 de março de 1890;
+
+**IX -** Resolução nº 26, de 10 de março de 1890;
+
+**X -** Resolução nº 28, de 12 de março de 1890;
+
+**XI -** Resolução nº 30, de 17 de março de 1890;
+
+**XII -** Resolução nº 31, de 17 de março de 1890;
+
+**XIII -** Resolução nº 35, de 28 de março de 1890;
+
+**XIV -** Resolução nº 36, de 28 de março de 1890;
+
+**XV -** Resolução nº 38, de 29 de março de 1890;
+
+**XVI -** Resolução nº 44, de 12 de abril de 1890;
+
+**XVII -** Resolução nº 45, de 14 de abril de 1890;
+
+**XVIII -** Resolução nº 53, de 15 de maio de 1890;
+
+**XIX -** Resolução nº 62, de 18 de junho de 1890;
+
+**XX -** Resolução nº 63, de 23 de junho de 1890;
+
+**XXI -** Resolução nº 67, de 12 de julho de 1890;
+
+**XXII -** Resolução nº 68, de 22 de julho de 1890;
+
+**XXIII -** Resolução nº 70, de 23 de julho de 1890;
+
+**XXIV -** Resolução nº 75, de 14 de agosto de 1890;
+
+**XXV -** Resolução nº 76, de 25 de agosto de 1890;
+
+**XXVI -** Resolução nº 77, de 26 de agosto de 1890;
+
+**XXVII -** Resolução nº 78, de 28 de março de 1890.
+
+**Artigo 3º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 4 de junho de 2007.
+
+JOSÉ SERRA
+
+Luiz Antônio Guimarães Marrey
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 4 de junho de 2007.

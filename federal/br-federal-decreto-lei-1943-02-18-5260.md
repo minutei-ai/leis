@@ -1,5 +1,3 @@
-###DEL-005260-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.260 – DE 18 DE FEVEREIRO DE 1943
 
 Suprime função gratificada

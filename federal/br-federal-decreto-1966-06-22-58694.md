@@ -1,5 +1,3 @@
-###DEC-058694-0-000-22-06-1966@@@
-
 DECRETO Nº 58.694, DE 22 DE JUNHO DE 1966.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de uma linha de transmissão entre a subestação da Usina Elétrica do Paranapanema S. A. - USELPA, nas proximidades da cidade de Botucatu, e a subestação da Companhia Paulista de Fôrça e Luz, na cidade de Piracicaba, Estado de São Paulo, e dá outras providências.
@@ -67,8 +65,6 @@ Brasília, 22 de junho de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-058694-0-000-22-06-1966@@@RET01+++
 
 DECRETO Nº 58.694, de 22 de junho de 1966.
 

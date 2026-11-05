@@ -1,5 +1,3 @@
-###DEC-068855-0-000-02-07-1971@@@
-
 DECRETO Nº 68.855, DE 2 DE JULHO DE 1971.
 
 Concede reconhecimento aos Cursos de Letras e História da Faculdade de Filosofia Dom José, Ceará.

@@ -1,5 +1,3 @@
-###MPV-001755-0-009-14-12-1998@@@
-
 medida provisória nº 1.755-9, de 14 de dezembro de 1998.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

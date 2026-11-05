@@ -1,5 +1,3 @@
-###DEC-073712-0-000-01-03-1974@@@
-
 DECRETO Nº 73.712, DE 1 DE MARÇO DE 1974.
 
 Autoriza o Ministro da Fazenda a contratar operação externa até o valor de US$-RDA 20.000.000,00.
