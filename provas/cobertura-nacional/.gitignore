@@ -1,7 +1,0 @@
-# Shards JSONL.gz do export streaming (~dezenas de MB). Regenerar com:
-#   python3 scripts/cobertura_nacional.py export-acervo
-# Manifesto e inventário agregados permanecem versionados em provas/.
-export-acervo/shards/
-export-acervo/checkpoint.json
-export-acervo/manifesto.json
-export-acervo/inventario-campos-acervo.json
