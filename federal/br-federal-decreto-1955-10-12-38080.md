@@ -1,6 +1,6 @@
 <!-- reproducao-incompleta:inicio -->
 
-> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (projeto-orcamento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (projeto-orcamento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](https://github.com/Licitei/leis/issues/83#issuecomment-6691992396). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 

@@ -15,7 +15,7 @@ reproducao_incompleta: true
 
 <!-- reproducao-incompleta:inicio -->
 
-> **Reprodução incompleta — nota editorial do acervo:** o Anexo I (relação descritiva do Sistema Rodoviário do Estado) e a carta geográfica referidos nos arts. 1º e 2º ainda não foram recuperados. O texto disponível abaixo não representa o ato integral com seus anexos. A busca pelo suplemento do Diário Oficial nº 221, de 19/11/1979, permanece no [backlog](../../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+> **Reprodução incompleta — nota editorial do acervo:** o Anexo I (relação descritiva do Sistema Rodoviário do Estado) e a carta geográfica referidos nos arts. 1º e 2º ainda não foram recuperados. O texto disponível abaixo não representa o ato integral com seus anexos. A busca pelo suplemento do Diário Oficial nº 221, de 19/11/1979, permanece no [backlog](https://github.com/Licitei/leis/issues/83#issuecomment-6691992396). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 

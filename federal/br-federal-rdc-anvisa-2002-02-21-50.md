@@ -54,7 +54,7 @@ considerando o art. 3º, alínea C, art. 6º, inciso VI e art. 10 previstos na P
 
 **Fac-símile normativo (figura da fonte BVS/ANVISA).** Diagrama oficial do Anexo da RDC 50/2002: relações funcionais entre unidades de um estabelecimento de saúde (urgência/emergência, centro cirúrgico, UTI, internação, diagnóstico, apoio, etc.). Fac-símile preservado; não omitido. Arquivo: `provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg` (SHA-256 `4c1ed67da5be104de46755bd041a1d193d816c24d9918cffa01b693729a584e1`; origem https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/IMG/rdc0050_21_02_2002_fig1.jpg). A imagem não foi substituída por resumo.
 
-![Diagrama de relações funcionais — RDC ANVISA 50/2002](provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg)
+![Diagrama de relações funcionais — RDC ANVISA 50/2002](../provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg)
 
 <!-- fac-simile:fim -->
 

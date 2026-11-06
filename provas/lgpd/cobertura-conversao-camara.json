@@ -1,7 +1,0 @@
-{
-  "equivalente": true,
-  "sha256_blocos": "efd8697c6b7425f6fa9aeee32d0112e31f11c05925a437f869f76f7308b4390e",
-  "sha256_corpo_markdown_sem_nota": "479814c5cc8a72f1cb37753ed03fcf89cb12f778dd71814b6f181c40d99beabd",
-  "n_blocos": 536,
-  "prova": "reconversão offline: lzma.open(snapshot) → convert_html → trim → blocks_to_markdown ≡ corpo"
-}

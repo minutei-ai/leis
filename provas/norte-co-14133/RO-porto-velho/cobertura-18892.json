@@ -1,9 +1,0 @@
-{
-  "norma_id": "br-municipal-1100205-decreto-2023-03-30-18892",
-  "metodo": "pdftotext do PDF SAPL; HTML SAPL como prova adicional",
-  "sha256_corpo_markdown": "7bc170aee5553c1c92f2a0ca61d300858793702e361d508cb02d40593528cb97",
-  "sha256_fonte_html": "dfb7440cf1104cd3be98abd9a1f84ed4b9abae7077e0189cab525db3d6faba7d",
-  "sha256_pdf": "b4cb1e038a0144d30ffd84abb69cfcc1c018cedc041b816f6bbe849642f324f8",
-  "capturado_em": "2026-11-04T20:46:41Z",
-  "fold_ok": true
-}
