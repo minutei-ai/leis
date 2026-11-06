@@ -5,8 +5,10 @@ from __future__ import annotations
 
 import re
 import subprocess
+import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -356,6 +358,32 @@ def _rg_files(
             return set()
         raise
     return {line.strip() for line in out.splitlines() if line.strip()} - set(lm.PRESERVED_LATER_EDITIONS)
+
+
+class LimpezaRunAccounting(unittest.TestCase):
+    def test_deferred_and_changed_hash_are_reported_in_both_modes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / 'federal').mkdir()
+            (root / 'federal' / 'ok.md').write_text('original\n', encoding='utf-8')
+            (root / 'federal' / 'alterado.md').write_text('alterado\n', encoding='utf-8')
+            protected = {
+                'federal/ok.md': lm.sha256_bytes(b'original\n'),
+                'federal/alterado.md': lm.sha256_bytes(b'original\n'),
+            }
+            with patch.multiple(lm, ROOT=root, META_DIR=root / 'meta',
+                                PROVAS_DIR=root / 'provas', ASSETS_DIR=root / 'assets',
+                                PRESERVED_LATER_EDITIONS=protected):
+                for workers in (1, 2):
+                    with self.subTest(workers=workers):
+                        result = lm.run(False, workers)
+                        self.assertEqual(result['files_scanned'], 2)
+                        self.assertEqual(result['files_changed'], 0)
+                        self.assertEqual(result['errors'], 1)
+                        self.assertEqual(result['skipped_by_reason'], {
+                            'edicao-posterior-conferida-limpeza-pendente-no-gerador': 1,
+                        })
+                self.assertEqual((root / 'federal' / 'ok.md').read_text(), 'original\n')
 
 
 class LimpezaCorpusGates(unittest.TestCase):

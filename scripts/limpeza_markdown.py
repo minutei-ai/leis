@@ -105,10 +105,9 @@ ALLOWLIST_PORTAL_CAMARA: set[str] = set()
 # Later, independently reviewed editions take precedence over this older cleanup
 # batch. Deferral is pinned to exact content, never to a filename alone.
 _LATER_EDITIONS = Path(__file__).resolve().parent.parent / 'metadados/limpeza-markdown/edicoes-posteriores-preservadas.json'
-PRESERVED_LATER_EDITIONS: dict[str, str] = (
-    json.loads(_LATER_EDITIONS.read_text(encoding='utf-8'))['documentos']
-    if _LATER_EDITIONS.is_file() else {}
-)
+PRESERVED_LATER_EDITIONS: dict[str, str] = json.loads(
+    _LATER_EDITIONS.read_text(encoding='utf-8')
+)['documentos']
 
 MIME_EXT = {
     'png': 'png',
@@ -796,7 +795,6 @@ def run(apply: bool, workers: int, limit: int | None = None, only: list[str] | N
             except Exception as exc:
                 result = FileResult(path=rel, error=str(exc))
                 new_text = None
-                errors += 1
             results.append(result)
             if result.marker:
                 markers.append({'path': rel, 'marcador_origem': result.marker})
@@ -839,6 +837,7 @@ def run(apply: bool, workers: int, limit: int | None = None, only: list[str] | N
         'portals': dict(portals),
         'html_converted': sum(1 for r in results if r.html_converted),
         'errors': errors,
+        'skipped_by_reason': dict(Counter(r.skipped_reason for r in results if r.skipped_reason)),
         'apply': apply,
         'allowlist_data_image': sorted(ALLOWLIST_DATA_IMAGE),
         'allowlist_portal_camara': sorted(ALLOWLIST_PORTAL_CAMARA),
