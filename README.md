@@ -2,7 +2,7 @@
 
 O texto da lei, em um formato aberto, legível e fácil de usar.
 
-Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
+Um acervo público da [Licitei](https://www.licitei.com.br), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
 **232.838 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
@@ -113,6 +113,6 @@ A cobertura nacional ainda é parcial: faltam a maioria dos municípios e parte 
 
 Ao pessoal da **Supersonic Labs**, pela inspiração de tornar a legislação brasileira acessível em Markdown.
 
-Este é um acervo independente, mantido pelo [Minutei](https://minutei.legal), a partir de fontes oficiais.
+Este é um acervo independente, mantido pela [Licitei](https://www.licitei.com.br), a partir de fontes oficiais.
 
 CTN e SUS: as edições do Planalto da [Lei 5.172/1966](federal/br-federal-lei-1966-10-25-5172.md) e da [Lei 8.080/1990](federal/br-federal-lei-1990-09-19-8080.md) têm [fontes e provas de cobertura integral](provas/nucleo-federal-ctn-sus/README.md), sem certificação de vigência.
